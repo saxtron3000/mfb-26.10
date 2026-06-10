@@ -249,7 +249,7 @@ Source:
 
 ---
 
-# Section 7: Bitcoin Education Landscape
+# Section 7: Bitcoin Learning Landscape
 
 ## Comparable Programs
 

@@ -35,12 +35,7 @@ Use “block” for required Diploma structure.
 
 Use “Custom modules” or “Custom units” only for educator-selectable content inside Block 4.
 
-Do not use:
-
-- Nice-to-Have
-- 3 shared core
-- fixed Module 1 / Module 2 / Module 3 / Module 4 naming for the required structure
-- `05_plan.md` as an active reference
+Do not use retired structure labels, old numbered-module labels for the required structure, or retired plan-file references.
 
 ---
 
@@ -74,14 +69,6 @@ Public materials should:
 
 # Final Consistency Checks
 
-Before publication, search active docs excluding `y_archive` for:
+Before publication, search active docs excluding `y_archive` for retired labels and retired plan references.
 
-- Nice-to-Have
-- 3 shared core
-- Module 1
-- Module 2
-- Module 3
-- Module 4
-- 05_plan
-
-The only acceptable references to Advanced module titles outside `y_archive` should be in `07_plan.md`.
+The only acceptable location for the full Advanced module title list outside `y_archive` is `07_plan.md`.
