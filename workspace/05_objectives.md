@@ -36,7 +36,7 @@ A realistic graduate of the 8-hour beginner Diploma can:
 | Knowledge | Understands beginner money, fiat, Bitcoin, wallet, custody, and safety concepts. |
 | Explanation | Can explain core ideas in plain language. |
 | Comparison | Can compare fiat money and Bitcoin at beginner level. |
-| Practical orientation | Can identify wallet types, custody trade-offs, and safe next steps. |
+| Practical orientation | Can identify wallet types, custody trade-offs, basic transaction pathways, and safe next steps. |
 | Reasoning | Can participate in guided discussion using simple evidence and trade-off thinking. |
 | Confidence | Can ask better questions, avoid obvious beginner mistakes, and continue learning. |
 
@@ -53,17 +53,22 @@ Core outcomes are required for every learner.
 Every learner should be able to:
 
 1. Explain what money is and why societies use it.
-2. Identify the functions and properties of money.
-3. Describe basic fiat-system problems, including inflation and purchasing power loss.
-4. Explain why Bitcoin was created at beginner level.
-5. Identify Bitcoin's core properties: decentralization, finite supply, peer-to-peer transfer, and verifiability.
-6. Describe users, nodes, miners, proof of work, the 21 million limit, and halving at beginner level.
-7. Explain wallets, keys, seed phrases, and custody at beginner level.
-8. Compare custodial and non-custodial approaches at beginner level.
-9. Identify basic safety practices and common beginner risks.
-10. Describe receiving, sending, and verification at beginner level.
-11. Distinguish beginner practical Bitcoin use from advanced technical theory.
-12. Participate in guided discussion using clear explanations and basic reasoning.
+2. Describe the beginner history and evolution of money, including barter and the limits that led societies toward other forms of money.
+3. Identify the functions and properties of money.
+4. Compare different forms of money using beginner monetary characteristics.
+5. Describe basic fiat-system problems, including inflation, purchasing power loss, and fractional reserve banking at beginner level.
+6. Explain why Bitcoin was created at beginner level.
+7. Identify Bitcoin's core properties: decentralization, finite supply, peer-to-peer transfer, and verifiability.
+8. Describe users, nodes, miners, proof of work, the 21 million limit, and halving at beginner level.
+9. Explain wallets, keys, seed phrases, and custody at beginner level.
+10. Compare custodial and non-custodial approaches at beginner level.
+11. Identify what hardware wallets are, why people use them, and how they differ from hot wallets at beginner level.
+12. Identify basic safety practices and common beginner risks.
+13. Describe receiving, sending, and verification at beginner level.
+14. Distinguish on-chain and Lightning payments at beginner level.
+15. Identify different beginner pathways for acquiring or exchanging bitcoin without treating any pathway as a recommendation or financial advice.
+16. Distinguish beginner practical Bitcoin use from advanced technical theory.
+17. Participate in guided discussion using clear explanations and basic reasoning.
 
 ## Custom Outcomes
 
@@ -77,8 +82,12 @@ Depending on local context, learners may:
 - compare local money tools and trade-offs;
 - explore circular economies;
 - complete app-specific wallet demonstrations;
+- practice guided testnet or low-stakes self-custody demonstrations when educator preparation and learner safety allow;
 - practice local payment scenarios;
+- practice Lightning or on-chain payment scenarios where local tools, connectivity, and safety conditions make them appropriate;
+- compare local on-ramp and off-ramp options without endorsing a specific provider;
 - identify resources used by local bitcoiners;
+- identify locally available low-cost hardware wallet options where relevant;
 - connect Bitcoin concepts to local economic conditions;
 - identify realistic next steps for their community.
 
@@ -92,16 +101,18 @@ Status: ongoing.
 
 They should be designed module by module. The candidate Advanced module titles are maintained in `07_plan.md` and should not become Core objectives.
 
+Advanced outcomes may include detailed Bretton Woods and geopolitical monetary history, exact node mechanics, exact mining mechanics, hash functions, Lightning node operations, channel management, non-KYC acquisition trade-offs, and deeper hardware wallet security models such as open-source design, Bitcoin-only firmware, and airgapped signing.
+
 ---
 
 # 4. Block-To-Objective Map
 
 | Block | Learner promise | Objective emphasis |
 |---|---|---|
-| Problem / Fiat | Learners understand the money problem Bitcoin responds to. | Define money, identify functions and properties, explain beginner fiat weaknesses. |
+| Problem / Fiat | Learners understand the money problem Bitcoin responds to. | Define money, explain barter and the evolution of money, compare monetary properties, and explain beginner fiat weaknesses including inflation and fractional reserve banking. |
 | Solution / Bitcoin | Learners understand why Bitcoin was created and what makes it different. | Explain Bitcoin's purpose, fixed supply, peer-to-peer transfer, decentralization, and verification. |
-| Action / Self-custody | Learners understand what responsibility looks like in practice. | Explain wallets, keys, seed phrases, custody trade-offs, receiving, sending, verification, and safety. |
-| Custom / Bitcoin as Money | Learners see how Bitcoin can function as money locally. | Educator-selected outcomes using local tools, workshops, demonstrations, and case examples. |
+| Action / Self-custody | Learners understand what responsibility looks like in practice. | Explain wallets, keys, seed phrases, custody trade-offs, hardware wallets, receiving, sending, verification, on-chain and Lightning distinctions, and safety. |
+| Custom / Bitcoin as Money | Learners see how Bitcoin can function as money locally. | Educator-selected outcomes using local tools, testnet or low-stakes practice, Lightning or on-chain demonstrations, local on/off-ramp examples, workshops, and case examples. |
 
 This map should guide assessment, Activity Bank design, Educator Guide pacing, and public communication.
 
@@ -114,7 +125,7 @@ This map should guide assessment, Activity Bank design, Educator Guide pacing, a
 | Monetary foundations | Explain what money is, why it exists, and what makes money useful. |
 | Beginner economic reasoning | Use scarcity, time preference, opportunity cost, incentives, and trade-offs in simple discussions. |
 | Bitcoin fundamentals | Explain Bitcoin's purpose, core properties, and role as monetary technology. |
-| Practical Bitcoin orientation | Identify beginner actions, safety practices, wallet concepts, and custody trade-offs. |
+| Practical Bitcoin orientation | Identify beginner actions, safety practices, wallet concepts, hardware wallet concepts, custody trade-offs, on-chain and Lightning distinctions, and basic acquiring or exchanging pathways. |
 | Guided critical discussion | Discuss simple Bitcoin claims using prompts, evidence, and clear reasoning. |
 | Social learning | Listen, ask clarifying questions, explain their thinking, and participate respectfully. |
 | Local relevance | Reflect on how Bitcoin may relate to local community conditions when included in delivery. |
