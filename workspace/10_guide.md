@@ -97,6 +97,15 @@ The guide should help educators:
 - Low-connectivity delivery
 - Mobile-only delivery
 
+## 7. Legacy Content Migration Guidance
+
+- Use the legacy table-of-contents migration notes in `07_plan.md` to decide whether old content belongs in Core, Custom, or Advanced material.
+- Do not treat old `OUT` markings as deletion when the same item is marked Custom or Advanced.
+- Keep Block 3 technical material practical: use it only to support safer self-custody, verification, and transaction responsibility.
+- Split topics carefully when needed: beginner concepts may stay in Core while deeper analysis moves to Advanced material.
+- Place daily-life Lightning wallet setup, local spending, and merchant scenarios in Custom / Bitcoin as Money unless the local delivery plan requires them earlier.
+- Use Custom modules for local money examples, local inequality or debt discussions, and real tools used by the community.
+
 ---
 
 # Custom Block Selection Checklist

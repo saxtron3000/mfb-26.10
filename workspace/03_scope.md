@@ -1,4 +1,4 @@
-# scope-7.md
+# 02_scope.md
 
 # Bitcoin Diploma Redesign Scope of Work & Milestones
 
@@ -15,15 +15,15 @@ It answers:
 - What is excluded from the redesign project?
 - What does completion look like?
 
-This document does not diagnose the current Diploma. See `review-7.md`.
+This document does not diagnose the current Diploma. See `01_review.md`.
 
-This document does not define design philosophy or decision-making principles. See `design-7.md`.
+This document does not define design philosophy or decision-making principles. See `04_design.md`.
 
-This document does not define learning objectives. See `objectives-7.md`.
+This document does not define learning objectives. See `05_objectives.md`.
 
-This document does not define assessment methodology. See `assessment-7.md`.
+This document does not define assessment methodology. See `11_assessment.md`.
 
-This document does not define certification requirements. See `certification-7.md`.
+This document does not define certification requirements. See `12_certification.md`.
 
 ---
 
@@ -45,7 +45,7 @@ The redesign is not intended to replace the identity, philosophy, or purpose of 
 
 # Project Assumptions
 
-The scope assumes the current working design direction described in `design-7.md`.
+The scope assumes the current working design direction described in `04_design.md`.
 
 The following assumptions affect project execution:
 

@@ -1,4 +1,4 @@
-# design-7.md
+# 04_design.md
 
 # Bitcoin Diploma Design Brief
 
@@ -19,13 +19,13 @@ It answers:
 
 This document does not define project workstreams, milestones, implementation tasks, publishing deliverables, or operational completion criteria.
 
-For workstreams and deliverables, see `scope-7.md`.
+For workstreams and deliverables, see `02_scope.md`.
 
-For learning outcomes and competencies, see `objectives-7.md`.
+For learning outcomes and competencies, see `05_objectives.md`.
 
-For assessment, see `assessment-7.md`.
+For assessment, see `11_assessment.md`.
 
-For certification, see `certification-7.md`.
+For certification, see `12_certification.md`.
 
 ---
 
@@ -63,7 +63,7 @@ The current working design direction is:
 
 These are working design assumptions, not final curriculum specifications.
 
-For implementation of these assumptions, see `scope-7.md`.
+For implementation of these assumptions, see `02_scope.md`.
 
 ---
 
@@ -196,7 +196,7 @@ Design questions:
 
 Technology should support learning. It should not become a hidden prerequisite.
 
-Implementation and contingency planning belong in `scope-7.md`.
+Implementation and contingency planning belong in `02_scope.md`.
 
 ---
 
@@ -248,7 +248,7 @@ The learner experience should be:
 
 The Diploma should create structured conversations, guided reflection, and applied reasoning.
 
-The detailed learner outcomes belong in `objectives-7.md`.
+The detailed learner outcomes belong in `05_objectives.md`.
 
 ---
 
@@ -269,7 +269,7 @@ Educators should be supported with:
 
 The Educator Guide should function as a facilitation engine, not as a duplicate of the Student Book.
 
-The work required to produce this support belongs in `scope-7.md`.
+The work required to produce this support belongs in `02_scope.md`.
 
 ---
 
@@ -285,7 +285,7 @@ The design principle is:
 - educator-facing materials support teaching and facilitation;
 - activity materials support participation, practice, and adaptation.
 
-Implementation, publishing, and maintenance of ecosystem components belong in `scope-7.md`.
+Implementation, publishing, and maintenance of ecosystem components belong in `02_scope.md`.
 
 ---
 
@@ -327,7 +327,7 @@ Practical learning may include:
 
 Practical learning does not only mean live wallet use.
 
-Detailed activity production belongs in `scope-7.md`.
+Detailed activity production belongs in `02_scope.md`.
 
 ---
 
@@ -387,17 +387,17 @@ Adaptation and localization may gradually weaken learning outcomes.
 
 # 15. Relationship To Other Documents
 
-Use `review-7.md` for current-state diagnosis.
+Use `01_review.md` for current-state diagnosis.
 
-Use `research-7.md` for evidence gathering.
+Use `02_research.md` for evidence gathering.
 
-Use `objectives-7.md` for learning outcomes and competencies.
+Use `05_objectives.md` for learning outcomes and competencies.
 
-Use `assessment-7.md` for how learning is evaluated.
+Use `11_assessment.md` for how learning is evaluated.
 
-Use `certification-7.md` for certification questions and future certification design.
+Use `12_certification.md` for certification questions and future certification design.
 
-Use `scope-7.md` for workstreams, milestones, deliverables, publishing, and completion criteria.
+Use `02_scope.md` for workstreams, milestones, deliverables, publishing, and completion criteria.
 
 
 ---

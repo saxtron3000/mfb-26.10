@@ -2,286 +2,218 @@
 
 ## Purpose
 
-This document defines the working plan for redesigning the Bitcoin Diploma.
+This is the source of truth for the current Bitcoin Diploma redesign structure.
 
-It focuses on:
+It defines:
 
-- how the redesigned Diploma should use limited in-class time;
-- what content and learning experiences should stay in the core Diploma;
-- what should leave the core Diploma;
-- how activities will be separated into a dedicated Activity Bank;
-- how the redesigned materials should support educators and learners.
+- the 4-block architecture;
+- what belongs in Core, Custom, and Advanced pathways;
+- how legacy content is being migrated;
+- how in-class time should be used;
+- which documents own detailed implementation work.
 
-This document should be read alongside:
-
-- `03_design-7.md` for design principles;
-- `04_objectives-7.md` for learning objectives and competencies;
-- `09_activities.md` for the future Activity Bank;
-- `10_guide.md` for the future Educator Guide.
+Detailed activities belong in `09_activities.md`. Detailed facilitation guidance belongs in `10_guide.md`. Detailed objectives belong in `05_objectives.md`.
 
 ---
 
-# 1. Planning Aim
+# 1. Design Decision Summary
 
-The redesigned Bitcoin Diploma should become shorter, clearer, more practical, and easier to teach while preserving the educational seriousness and identity of the original Diploma.
+The redesigned Diploma should be shorter, clearer, more practical, and easier to teach while preserving the open-source, community-led, Bitcoin-only identity of the original Diploma.
 
-The working design direction is:
+Current design commitments:
 
 - in-person first;
-- approximately 8-hour maximum completion pathway;
-- 4-block structure: Problem / Fiat, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money;
-- approximately 2 hours per block;
-- one core Diploma with Custom and Advanced pathways;
-- Core / Custom / Advanced content separation;
-- practical learning increased;
-- advanced technical content removed from the beginner pathway;
-- educator support strengthened;
-- activities separated into a dedicated Activity Bank.
+- approximately 8 hours total;
+- 4 blocks of approximately 2 hours each;
+- Core, Custom, and Advanced content separation;
+- practical learning in every block;
+- a separate Activity Bank;
+- an Educator Guide designed for facilitation, pacing, adaptation, and safety;
+- Advanced technical material outside the beginner pathway.
+
+The public explanation is simple:
+
+The Diploma is being reorganized, not replaced.
 
 ---
 
-# 2. Key Design Insight From Review
+# 2. Four-Block Architecture
 
-The review of the current Diploma and reduced syllabus exposes a central design tension:
+| Block | Role | Title | Core question |
+|---|---|---|---|
+| 1 | Problem | Fiat | What problem does fiat money create? |
+| 2 | Solution | Bitcoin | Why was Bitcoin created, and how does it respond? |
+| 3 | Action | Self-custody | How do I take responsibility for using and securing Bitcoin? |
+| 4 | Custom | Bitcoin as Money | How can Bitcoin function as money in this community? |
 
-The current Diploma is trying to do three jobs at once.
+## Block 1: Problem / Fiat
 
-1. Explain why Bitcoin exists.
-2. Teach people how to use Bitcoin.
-3. Teach people how Bitcoin works.
+Keep this block focused on money and the fiat problem.
 
-All three jobs matter, but combining them without clear boundaries has contributed to a course that is comprehensive but long, difficult to teach consistently, and vulnerable to learner drop-off.
+Core content:
 
-The reduced syllabus reveals a natural beginner structure:
+- what money is;
+- functions and properties of money;
+- barter limitations;
+- scarcity, time preference, and opportunity cost at beginner level;
+- short history from barter to modern money;
+- fiat systems;
+- inflation and purchasing power;
+- CBDCs as a beginner fiat-system example where appropriate.
 
-- Problem / Fiat: why fiat money creates the problem Bitcoin responds to.
-- Solution / Bitcoin: what Bitcoin is, why it works, and why it is different.
-- Action / Self-custody: how learners take responsibility for using and securing Bitcoin.
+Outcome:
 
-The redesign should preserve this natural structure through four blocks: Problem / Fiat, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money. The fourth block is selected by the educator and should help learners understand how Bitcoin can function as money in their local context.
+Learners can explain why fiat money is the problem Bitcoin responds to.
+
+## Block 2: Solution / Bitcoin
+
+Keep this block focused on why Bitcoin exists and what makes it different.
+
+Core content:
+
+- search for digital and decentralized money;
+- Bitcoin origin story;
+- decentralization;
+- users, nodes, and miners at beginner level;
+- proof of work at beginner level;
+- finite supply and halving;
+- peer-to-peer transfer;
+- verifiability;
+- Bitcoin as sound digital money.
+
+Outcome:
+
+Learners can explain Bitcoin's purpose and how it differs from fiat money.
+
+## Block 3: Action / Self-custody
+
+Keep this block practical and safety-oriented.
+
+Core content:
+
+- wallets as interfaces;
+- keys and seed phrases;
+- custodial and non-custodial use;
+- hot and cold wallet distinction;
+- receiving bitcoin;
+- sending bitcoin;
+- verification;
+- beginner safety practices;
+- acquiring and exchanging bitcoin as a concept, not financial advice;
+- only the transaction detail needed for responsible beginner use.
+
+Outcome:
+
+Learners can explain beginner self-custody concepts and identify basic safety practices.
+
+## Block 4: Custom / Bitcoin as Money
+
+This block is educator-selected.
+
+Educators choose Custom modules because they understand their students, tools, risks, opportunities, and local conditions better than a centralized curriculum can.
+
+Custom modules should usually be practical workshops or demonstrations.
+
+Possible Custom content:
+
+- local wallet tools;
+- Lightning payments where locally appropriate;
+- merchant payments;
+- everyday purchase scenarios;
+- buying and selling bitcoin in the community;
+- local resource maps;
+- circular economies;
+- local monetary problems;
+- CBDCs in the local context;
+- community-specific Bitcoin use cases.
+
+Outcome:
+
+Learners can identify beginner-appropriate ways Bitcoin can function as money in local daily life.
 
 ---
 
-# 3. Working Core Table Of Contents
+# 3. Legacy Content Migration
 
-The following table of contents is adapted from the archived Gabe core outline and updated to the active four-block structure.
+`Contents - ToC.csv` was reviewed as a legacy table-of-contents migration map.
 
-It should be treated as a working core structure, not a final curriculum specification. Activities listed here should be extracted from the student-facing core and developed in the separate Activity Bank.
+Reading rule:
 
-## 3.1 Layer 1 / Core
+- `BLOCK` means old content moves into Core blocks 1-3.
+- `CUSTOM` means old content becomes educator-selected Block 4 material.
+- `ADVANCED` means old content becomes Advanced pathway material.
+- `OUT` does not mean deletion when the same item is marked Custom or Advanced.
+- In the reviewed table, no section is marked as out-only.
 
-### Block 1: Problem / Fiat
+Migration summary:
 
-Core question:
+| Destination | Legacy content signal | Redesign decision |
+|---|---|---|
+| Core Block 1 | money, money history, fiat, early problem framing | Keep beginner monetary foundations and fiat problem material. |
+| Core Block 2 | decentralized currency search, Bitcoin origin, Bitcoin benefits | Keep beginner Bitcoin purpose and properties. |
+| Core Block 3 | wallet use, receiving, sending, verification, selected technical orientation | Keep practical use and safety material. |
+| Custom Block 4 | daily-life Bitcoin use, local tools, Lightning payments, local spending | Move into educator-selected workshops and demonstrations. |
+| Advanced | deeper psychology, detailed mining, mempool, detailed transactions, philosophy, future scenarios | Move into Advanced pathways or educator background. |
 
-What problem does fiat money create?
+Split decisions:
 
-- Welcome to My First Bitcoin
-  - Overview of the organization, origins, and mission
-  - Introduction to the Bitcoin Diploma and program roadmap
-  - Requirements to obtain a diploma
-- Discussion: Questions about money
-  - Why do we need money?
-  - What is money?
-  - Who controls the money?
-  - What gives money its value?
-  - What questions do you have about money?
-- What is money?
-  - Functions of money
-    - Medium of exchange
-    - Store of value
-    - Unit of account
-  - Characteristics of money
-    - Divisibility
-    - Acceptability
-    - Fungibility
-    - Durability
-    - Portability
-    - Scarcity
-- Activity Bank item: Are these good forms of money?
-- Reflection: Evolution of money
-- Activity Bank item: Barter
-- Reflection: Money has no intrinsic value
-- Psychology of money
-  - Scarcity
-  - Time preference
-  - Opportunity cost
-- Quick history of money
-  - One timeline covering key transitions, successes, and failures
-- How does the system currently work?
-  - Introduction to the fiat system
-- Fractional reserve banking
-  - Explanation of the concept
-  - Activity Bank item: quick activity
-- Inflation and money devaluation
-- Who controls the fiat system?
-  - Governments
-  - Wealthy individuals
-  - Commercial banks
-  - Central banks
-- Future of the fiat system
-  - CBDCs
+- Psychology of money stays in Core only at beginner level; deeper behavioral analysis moves to Advanced.
+- Nodes and miners stay in Core only as simple roles; technical mechanics move to Advanced.
+- Transaction concepts stay in Core only where needed for safe use and verification; detailed models move to Advanced.
+- CBDCs may appear briefly in Block 1 or locally in Block 4; policy and technical depth moves to Advanced.
+- Lightning distinctions may be introduced briefly, but wallet setup and payment practice normally belongs in Custom.
 
-Outcome:
+---
 
-Students can explain why societies use money and identify beginner-level weaknesses in fiat monetary systems.
+# 4. Core, Custom, And Advanced Boundaries
 
-### Block 2: Solution / Bitcoin
+## Core
 
-Core question:
+Core is required for every learner.
 
-Why was Bitcoin created, and how does it respond to fiat money problems?
+Core should include:
 
-- The search for a solution
-  - Introduction to the cypherpunks
-- Centralized vs decentralized systems
-- Quick history of digital currencies
-  - Ecash
-  - Digicash
-  - B-money
-  - Hashcash
-  - Bitgold
-  - E-gold
-  - Common objectives and points of failure
-- Welcome to Bitcoin
-  - The cryptography mailing list
-  - Bitcoin whitepaper
-  - Quick history and timeline
-    - Whitepaper
-    - Genesis block
-    - First transaction
-    - Pizza Day
-  - Today Bitcoin is:
-    - decentralized;
-    - digital;
-    - peer to peer;
-    - finite.
-- How does Bitcoin work?
-  - 3 core participants
-    - Users
-    - Nodes
-    - Miners
-  - Quick explanation of proof of work
-- 21 million limit
-  - "It's just math"
-  - Halving
-- Sound money
-- Bitcoin divisibility
-  - What are satoshis?
-- How does a transaction work?
-  - Overview of the process
-- Activity Bank item: Let's build a blockchain
-- Reflection: How does Bitcoin meet the characteristics of money?
-- How do accounts work in Bitcoin?
-  - Bitcoin is not attached to a name
-  - Bitcoin lives in addresses on the blockchain
-  - Analogy: addresses are like lockers, and you hold the keys
-  - What are keys?
-    - Keys before vs "keys" now
-    - Seed phrase
-  - Tree structure and unidirectional nature
-    - Seed
-    - Private keys
-    - Public keys
-    - Addresses
-- Quick introduction to Bitcoin wallets
-  - A wallet is an interface that lets learners:
-    - see a bitcoin balance by checking the ledger;
-    - send bitcoin by signing transactions;
-    - receive bitcoin by generating addresses.
+- money foundations;
+- fiat problems;
+- Bitcoin purpose and core properties;
+- beginner custody concepts;
+- receiving, sending, and verification orientation;
+- beginner safety practices;
+- guided discussion and reflection.
 
-Outcome:
+Core should not promise independent mastery of economics, technical systems, or high-stakes custody.
 
-Students can explain Bitcoin's purpose and how it differs from fiat money.
+## Custom
 
-### Block 3: Action / Self-custody
+Custom completes Block 4.
 
-Core question:
+Custom should:
 
-How do I take responsibility for using and securing Bitcoin?
+- be selected by the educator;
+- connect Bitcoin to local daily life;
+- use tools and resources local bitcoiners actually use;
+- focus on workshops, demonstrations, and local problem-solving;
+- include safety notes and realistic next steps.
 
-- Custodial vs non-custodial wallets
-  - Custodial
-    - The learner has an account or identifier within an app's database.
-    - The app allows the learner to view a bitcoin balance and send or receive bitcoin.
-    - Useful for daily spending.
-    - Not appropriate for savings if the learner does not hold their own keys.
-  - Non-custodial
-    - The learner holds their own keys.
-    - The learner has 12 or 24 words that give control over their bitcoin.
-    - The app or device allows the learner to view a balance and send or receive bitcoin.
-    - Useful for savings and, depending on the app, possibly daily spending.
-- Hot vs cold wallets
-  - Hot wallets
-    - The seed phrase is generated and kept on a device that can connect to the internet.
-    - These apps allow learners to create a seed phrase, view a balance, and send or receive bitcoin.
-    - They are not automatically insecure, but they have a larger attack surface than cold wallets.
-  - Cold wallets
-    - The seed phrase is generated and transactions are signed while remaining offline.
-    - Hardware wallets are a stronger option for securing bitcoin.
-- Practical route options
-  - Activity Bank item: hot wallet setup and send/receive using testnet or signet
-  - Activity Bank item: cold wallet setup and send/receive using testnet or signet
-- Receiving bitcoin
-- Sending bitcoin
-- Verification
-- Basic Lightning
-- Everyday use
+Template Custom units should include:
 
-Outcome:
+- local problem or opportunity;
+- learner profile;
+- tools or resources;
+- workshop or demonstration;
+- safety warnings;
+- educator preparation;
+- learner task;
+- evidence of learning;
+- local adaptation notes.
 
-Students can explain beginner self-custody concepts and complete guided actions related to receiving, storing, and sending bitcoin where practical activities are included.
+## Advanced
 
-### Block 4: Custom / Bitcoin as Money
+Advanced outcomes are ongoing and should be designed module by module.
 
-Core question:
+Advanced content should not overload the beginner pathway. It may become optional extensions, separate workshops, educator background, or follow-on courses.
 
-How can Bitcoin function as money in this community?
-
-- This block is chosen by the educator.
-- Educators are community leaders and are best positioned to understand:
-  - student situations;
-  - local needs;
-  - local risks;
-  - available tools;
-  - community requirements;
-  - realistic opportunities for Bitcoin use.
-- The curriculum should provide a bank of Custom modules from which educators can choose.
-- Most of this block should focus on practical workshops and demonstrations.
-- Possible Custom module topics:
-  - daily spending;
-  - local wallet tools;
-  - Lightning payments;
-  - receiving bitcoin;
-  - sending bitcoin;
-  - merchant payments;
-  - buying and selling bitcoin in the community;
-  - KYC vs no-KYC;
-  - centralized vs peer-to-peer pathways;
-  - circular economies;
-  - local Bitcoin projects;
-  - Bitcoin Beach-style case studies;
-  - CBDCs and local monetary futures;
-  - sovereignty and personal responsibility;
-  - practical solutions Bitcoin may present to the community.
-- Possible local wallet and tool demonstrations:
-  - Blink
-  - Manna
-  - Aqua
-  - Bull Bitcoin
-  - Blitz
-
-Outcome:
-
-Students become familiar with practical Bitcoin tools and resources used by local bitcoiners and can identify beginner-appropriate ways Bitcoin can function as money in their daily life and community.
-
-## 3.2 Layer 2 / Advanced
-
-Layer 2 / Advanced content is identified as a future section, but the detailed structure still needs to be defined.
-
-Advanced content should not overload the beginner core pathway. It should be separated into optional extensions, advanced appendices, separate workshops, or educator background notes.
-
-Candidate advanced module titles:
+Candidate Advanced module titles:
 
 - History of Money
 - Monetary Economics
@@ -306,500 +238,131 @@ Candidate advanced module titles:
 - Cryptography
 - Computer Science Fundamentals
 
----
-
-# 4. Custom Bitcoin As Money Module Bank
-
-The Custom / Bitcoin as Money block should be built from a bank of educator-selectable modules.
-
-Educators should decide which Custom / Bitcoin as Money modules complete the Diploma in their context because they understand their students, communities, constraints, risks, and opportunities better than a centralized curriculum team can.
-
-## 4.1 Purpose Of The Custom Bitcoin As Money Module Bank
-
-The Custom Bitcoin As Money Module Bank should:
-
-- help educators complete Block 4: Custom / Bitcoin as Money;
-- support local relevance;
-- introduce ways students can use Bitcoin as money in daily life;
-- show practical solutions Bitcoin may present to the community;
-- help educators identify opportunities where Bitcoin can empower their community;
-- provide practical workshops and demonstrations;
-- preserve the shared core while allowing local adaptation.
-
-## 4.2 Educator Responsibility
-
-For the Custom block, the educator should identify:
-
-- what local money problem or Bitcoin-as-money opportunity the Custom module addresses;
-- why the topic matters for their students;
-- which tools and resources local bitcoiners actually use;
-- what learners need in order to use or understand those tools safely;
-- what risks or limitations learners should recognize;
-- what practical demonstration or workshop will best support learning;
-- what realistic next step learners can take after the session.
-
-The educator should present what is required to achieve the local learning goal, including tools, preparation, safety considerations, and local context.
-
-## 4.3 Template Custom Bitcoin As Money Units
-
-The redesign should provide template units that help educators build content for their students.
-
-Each template unit should include:
-
-- unit title;
-- local problem or opportunity;
-- learner profile;
-- required prior knowledge;
-- tools or resources used locally;
-- practical workshop or demonstration;
-- safety warnings;
-- educator preparation;
-- learner task;
-- discussion prompts;
-- local adaptation notes;
-- evidence of learning;
-- optional extension.
-
-## 4.4 Custom Bitcoin As Money Module Examples
-
-Possible Custom / Bitcoin as Money modules include:
-
-- using a local Lightning wallet;
-- receiving a payment;
-- sending a payment;
-- buying bitcoin locally;
-- selling bitcoin locally;
-- accepting bitcoin as a merchant;
-- comparing custodial and non-custodial tools used locally;
-- joining or building a circular economy;
-- using Bitcoin during currency instability;
-- understanding CBDCs in the local context;
-- mapping local Bitcoin resources;
-- evaluating a Bitcoin community project;
-- planning safe next steps for personal Bitcoin use.
-
-Most Custom / Bitcoin as Money modules should be practical workshops or demonstrations rather than lecture-heavy lessons.
+The full Advanced module title list should appear only in this file.
 
 ---
 
-# 5. Maximizing In-Class Time
+# 5. In-Class Time Rules
 
-In-class time should be used for the learning experiences that benefit most from live facilitation, peer discussion, guided practice, and educator support.
+Class time should be used for learning that benefits from live facilitation.
 
-The redesigned Diploma should avoid using valuable class time for material learners can reasonably read, watch, or review independently.
-
-## 5.1 Use Class Time For High-Value Learning
-
-In-class time should prioritize:
+Prioritize:
 
 - discussion;
 - questions;
 - misconception correction;
 - guided practice;
 - scenario analysis;
-- group activities;
 - peer explanation;
 - reflection;
 - local application;
 - educator-led synthesis.
 
-Class time should be treated as a space for thinking, not only receiving information.
-
-## 5.2 Move Low-Interaction Content Out Of Class
-
-The following should be minimized during live sessions:
+Minimize:
 
 - long readings;
 - extended lectures;
-- duplicated explanations;
 - dense technical background;
 - long definitions without application;
-- advanced optional content;
-- content that does not directly support the session objective.
+- advanced optional content.
 
-Where possible, these should become:
+Each block should follow a simple rhythm:
 
-- pre-reading;
-- optional extension material;
-- educator notes;
-- glossary entries;
-- advanced appendices;
-- self-study material.
-
-## 5.3 Design Every Session Around Active Learning
-
-Each block should include a clear rhythm:
-
-1. Short presentation of the core idea.
-2. Guided discussion or concept check.
-3. Practice through scenario, activity, or comparison.
-4. Production task where learners explain, decide, apply, or reflect.
-5. Review point connecting the block to the wider Diploma.
-
-This aligns practical learning with PPP:
-
-- Presentation: learners encounter the idea.
-- Practice: learners work with the idea.
-- Production: learners use the idea independently or socially.
-
-## 5.4 Keep Educator Talk Focused
-
-Educator explanation should be short, purposeful, and connected to learner action.
-
-Educator talk should:
-
-- introduce concepts clearly;
-- frame activities;
-- correct misconceptions;
-- connect ideas across blocks;
-- support learner reasoning;
-- close loops after discussion.
-
-Educator talk should not become the main learning mode for the entire session.
-
-## 5.5 Build In Reusable Classroom Patterns
-
-To reduce educator workload and increase consistency, the Diploma should use repeatable classroom patterns such as:
-
-- think-pair-share;
-- claim / evidence / reasoning;
-- scenario analysis;
-- compare and contrast;
-- misconception check;
-- exit ticket;
-- local relevance reflection;
-- explain it to a beginner;
-- trade-off mapping.
-
-These patterns should be explained in the Educator Guide and supplied through the Activity Bank.
+1. Present the core idea briefly.
+2. Check understanding.
+3. Practice through a scenario, activity, comparison, or demonstration.
+4. Ask learners to explain, decide, apply, or reflect.
+5. Review the connection to the wider Diploma.
 
 ---
 
-# 6. What Stays In The Core Diploma
+# 6. What Stays And What Moves
 
-The core Diploma should contain the content and experiences required for every learner to meet the main learning objectives.
+| Stays in Core | Moves elsewhere |
+|---|---|
+| Money, fiat, inflation, purchasing power | Detailed monetary theory and long policy history |
+| Bitcoin origin, purpose, properties, finite supply | Deep protocol and cryptography detail |
+| Users, nodes, miners, proof of work at beginner level | Detailed mining mechanics, mempool, transaction lifecycle |
+| Wallets, keys, seed phrases, custody trade-offs | Advanced custody models and operational security |
+| Receiving, sending, verification, beginner safety | Advanced troubleshooting and technical analysis |
+| Guided discussion and practical orientation | Full activity instructions, facilitation scripts, and optional extensions |
 
-The core should stay focused, coherent, and beginner-appropriate.
+Activities leave the main student-facing text and move to `09_activities.md`.
 
-## 6.1 Core Concepts
-
-The following should stay in the core Diploma:
-
-- money;
-- value;
-- scarcity;
-- time preference;
-- opportunity cost;
-- trade;
-- functions of money;
-- properties of money;
-- barter limitations;
-- monetary systems;
-- fiat systems;
-- inflation;
-- purchasing power;
-- economic reasoning;
-- cypherpunk origins;
-- decentralization;
-- Bitcoin history;
-- Bitcoin fundamentals;
-- Bitcoin's fixed supply;
-- halving;
-- nodes;
-- miners;
-- proof of work;
-- sound money;
-- Bitcoin as monetary technology;
-- wallets;
-- keys;
-- seed phrases;
-- beginner custody concepts;
-- receiving bitcoin;
-- sending bitcoin;
-- verification;
-- on-chain and Lightning distinctions at a beginner level;
-- risks, criticisms, and limitations;
-- practical safety considerations;
-- personal and local relevance.
-
-## 6.2 Core Learning Experiences
-
-The following should stay in the core Diploma:
-
-- structured discussion;
-- guided reflection;
-- concept checks;
-- practical orientation;
-- real-world scenarios;
-- local application;
-- beginner-level trade-off analysis;
-- peer explanation;
-- review and synthesis.
-
-## 6.3 Core Design Features
-
-The following should stay:
-
-- open-source access;
-- community-driven delivery;
-- grassroots adaptability;
-- Bitcoin-only educational focus;
-- learner autonomy;
-- educator empowerment;
-- conceptual progression;
-- coherent narrative from money to Bitcoin to practical responsibility.
+Educator preparation, timing, adaptation, misconception support, and debrief guidance move to `10_guide.md`.
 
 ---
 
-# 7. What Leaves The Core Diploma
+# 7. Material Ownership
 
-Some material should leave the core Diploma so that beginner learners can complete the course with clarity and confidence.
-
-Leaving the core does not always mean removal from the ecosystem. Some material should move to optional, advanced, educator-facing, or activity-bank materials.
-
-## 7.1 Move To Optional Or Advanced Material
-
-The following should generally leave the beginner core pathway:
-
-- advanced technical explanations;
-- UTXO model;
-- deep protocol details;
-- excessive mining technical depth;
-- complex cryptography;
-- hash functions;
-- digital signatures;
-- detailed mining mechanics;
-- mempool;
-- transaction lifecycle;
-- difficulty adjustment;
-- advanced node operation;
-- advanced custody models;
-- detailed monetary theory not required for beginner competence;
-- detailed Federal Reserve history;
-- Bretton Woods;
-- Nixon Shock;
-- Basel III;
-- fiscal policy;
-- monetary policy;
-- advanced Lightning routing;
-- channel mechanics;
-- capacity discussions;
-- throughput comparisons;
-- extended historical material not required for the block objective;
-- content that is interesting but not essential.
-
-These may become:
-
-- optional learner extensions;
-- advanced appendices;
-- separate workshops;
-- educator background notes;
-- self-study recommendations.
-
-## 7.2 Move To The Educator Guide
-
-The following should move out of learner-facing core material and into the Educator Guide:
-
-- facilitation instructions;
-- timing guidance;
-- setup notes;
-- classroom management guidance;
-- misconception notes;
-- adaptation advice;
-- suggested prompts;
-- debrief guidance;
-- educator preparation notes.
-
-## 7.3 Move To The Activity Bank
-
-Activities should be removed from the main student-facing Diploma document and organized in a separate Activity Bank.
-
-This includes:
-
-- group activities;
-- discussion prompts;
-- simulations;
-- role plays;
-- scenario exercises;
-- reflection tasks;
-- practical demonstrations;
-- review games;
-- exit tickets;
-- extension activities;
-- optional local adaptation activities.
-
-The student-facing Diploma should refer to activities where needed, but the full activity instructions should live separately.
+| Material | Owner document |
+|---|---|
+| Student-facing draft scaffold | `06_draft.md` |
+| Learning objectives and competencies | `05_objectives.md` |
+| Activity categories and activity template | `09_activities.md` |
+| Educator facilitation and Custom selection guidance | `10_guide.md` |
+| Assessment evidence and direction | `11_assessment.md` |
+| Certification boundaries | `12_certification.md` |
+| Publication rules | `13_spec.md` |
+| Public brief | `../public/mfb-bd-prague.md` |
+| Short keynote handoff | `../public/mfb-bd-prague-keynote.md` |
 
 ---
 
-# 8. Separate Activity Bank
+# 8. October 2026 Output
 
-A separate Activity Bank will be created as part of the redesigned learning ecosystem.
+The October 2026 redesign should produce:
 
-The Activity Bank should make the Diploma easier to teach, adapt, and maintain.
+- a 4-block beginner Diploma;
+- an approximately 8-hour delivery path;
+- clear learning objectives;
+- Student Book draft;
+- Educator Guide;
+- Activity Bank;
+- Custom module templates;
+- assessment framework;
+- publication-ready source files;
+- public communication materials.
 
-## 8.1 Purpose Of The Activity Bank
-
-The Activity Bank should:
-
-- maximize in-class participation;
-- give educators flexible teaching options;
-- support different class sizes and contexts;
-- separate facilitation detail from learner content;
-- allow activities to be updated without rewriting the full Diploma;
-- support localization through adaptable examples;
-- preserve shared learning outcomes while allowing local variation.
-
-## 8.2 Activity Bank Structure
-
-Each activity should include:
-
-- activity title;
-- block alignment;
-- objective alignment;
-- competency alignment;
-- estimated time;
-- materials needed;
-- delivery mode;
-- class size suitability;
-- educator instructions;
-- learner instructions;
-- debrief questions;
-- adaptation options;
-- low-tech or offline alternative;
-- advanced extension, if applicable.
-
-## 8.3 Activity Categories
-
-The Activity Bank should include activity types such as:
-
-- warm-ups;
-- concept checks;
-- discussion activities;
-- scenario analysis;
-- practical exercises;
-- custody decision exercises;
-- claim evaluation;
-- trade-off mapping;
-- local context reflection;
-- review activities;
-- formative assessment activities;
-- extension activities.
-
-## 8.4 Relationship To The Student Book
-
-The Student Book should remain focused on:
-
-- core explanations;
-- essential concepts;
-- learner reflection;
-- key diagrams or examples;
-- block summaries;
-- next-step prompts.
-
-It should not carry full facilitation instructions or a large number of embedded classroom activities.
-
-## 8.5 Relationship To The Educator Guide
-
-The Educator Guide should explain:
-
-- when to use activities;
-- how to choose activities;
-- how to adapt activities;
-- how to debrief activities;
-- how activities support objectives;
-- how activities connect across blocks.
-
-The Activity Bank provides the activities themselves.
-
-The Educator Guide helps educators use them well.
+The Diploma should remain the entry point into a wider learning ecosystem, not the container for every valuable Bitcoin topic.
 
 ---
 
-# 9. October Redesign Output
+# 9. Follow-On Pathways
 
-The October 2026 redesign should produce a complete beginner Diploma that can serve as the entry point into the wider My First Bitcoin learning pathway.
+Future follow-on pathways may include:
 
-The finished Diploma should be:
-
-- 4-block structure: Problem / Fiat, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money;
-- approximately 2 hours per block;
-- approximately 8 hours total;
-- organized around clear learning objectives;
-- supported by strong educator activities;
-- structured with consistent timing;
-- practical in every block;
-- supported by a final assessment;
-- connected to Custom and Advanced pathways.
-
-The Diploma should not try to contain every valuable Bitcoin topic. The redesign should preserve the Diploma as the entry point while moving deeper technical, economic, and Lightning material into follow-on courses.
+1. Bitcoin Fundamentals: the redesigned Diploma.
+2. Bitcoin Self-Custody: deeper wallet, backup, verification, and safety practice.
+3. Lightning Network: deeper payment, routing, liquidity, and trade-off study.
+4. Bitcoin Technical Foundations: deeper protocol and system mechanics.
+5. Bitcoin Economics: deeper monetary history, policy, incentives, and economic reasoning.
 
 ---
 
-# 10. Follow-On Course Pathways
+# 10. Open Decisions
 
-The current Diploma contains enough valuable material for several courses rather than one beginner program.
+The redesign still needs decisions on:
 
-The redesigned learning ecosystem should eventually distinguish between:
-
-1. Bitcoin Fundamentals
-
-This is the redesigned Bitcoin Diploma.
-
-Purpose: entry-level understanding of fiat problems, Bitcoin as the solution, self-custody as action, and Bitcoin as money in local life.
-
-2. Bitcoin Self-Custody
-
-Purpose: deeper practical training on wallets, keys, seed phrases, hardware wallets, backups, inheritance, verification, and operational security.
-
-3. Lightning Network
-
-Purpose: deeper study of Lightning, routing, channel mechanics, liquidity, capacity, everyday payments, and Lightning trade-offs.
-
-4. Bitcoin Technical Foundations
-
-Purpose: deeper technical study of UTXOs, cryptography, hash functions, digital signatures, mempool, transaction lifecycle, mining mechanics, nodes, and difficulty adjustment.
-
-5. Bitcoin Economics
-
-Purpose: deeper study of monetary history, monetary policy, fiscal policy, central banking, Bretton Woods, Nixon Shock, Basel III, time preference, incentives, and Austrian economic concepts.
-
-These pathways should reduce overload in the core Diploma while creating a more coherent long-term education system.
+- final Custom module options;
+- minimum required practical tasks;
+- final assessment format;
+- low-connectivity delivery assumptions;
+- pilot and educator review process;
+- exact publication formats;
+- Advanced module objectives and sequencing.
 
 ---
 
-# 11. Planning Questions To Resolve
+# 11. Working Principle
 
-The following questions need to be resolved as the redesign continues:
-
-- What exactly counts as Core, Custom, and Advanced?
-- What Custom / Bitcoin as Money modules should be included in the Custom Module Bank?
-- What criteria should educators use when choosing Custom / Bitcoin as Money modules?
-- What template unit format best helps educators build locally relevant content?
-- Which activities are required, recommended, or optional?
-- Which activities work in low-connectivity classrooms?
-- Which activities are safe for beginner practical learning?
-- What minimum practical competence should every learner demonstrate?
-- How much pre-reading can reasonably be expected?
-- What should be included in the Student Book versus the Educator Guide?
-- What assessment evidence should be built into the activity design?
-- What content must remain standardized across all communities?
-- What can be localized without weakening the Diploma?
-- How should the final assessment work in an 8-hour in-person format?
-- Which topics should become named follow-on courses rather than optional appendices?
-
----
-
-# 12. Working Planning Principle
-
-The redesigned Diploma should use class time for what class time does best:
+Use class time for what class time does best:
 
 - conversation;
 - reasoning;
 - practice;
 - feedback;
 - reflection;
-- local application;
-- shared learning.
+- local application.
 
 Content should support those experiences, not crowd them out.

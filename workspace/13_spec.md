@@ -16,7 +16,8 @@ The redesign package should produce:
 - Custom / Bitcoin as Money templates
 - Assessment framework
 - Public stakeholder brief
-- Prague keynote proposal
+- Prague keynote handoff
+- Legacy table-of-contents migration notes inside `07_plan.md`
 - Website-ready source files
 - Translation-ready Markdown source files
 
@@ -41,15 +42,18 @@ Do not use retired structure labels, old numbered-module labels for the required
 
 # Source Of Truth Rules
 
-- `07_plan.md` owns block structure and candidate Advanced module titles.
+- `07_plan.md` owns block structure, legacy table-of-contents migration notes, and candidate Advanced module titles.
 - `05_objectives.md` owns objectives and outcome levels.
 - `09_activities.md` owns activity templates.
 - `10_guide.md` owns educator guidance.
 - `11_assessment.md` owns assessment direction.
 - `12_certification.md` owns certification boundaries.
-- `public/prague.md` owns the 10-minute keynote proposal.
+- `../public/mfb-bd-prague.md` owns the full public stakeholder brief.
+- `../public/mfb-bd-prague-keynote.md` owns the short 10-minute keynote handoff.
 
 The full Advanced module title list must appear only in `07_plan.md`.
+
+Legacy migration details should be used for internal planning and should not be copied wholesale into public materials.
 
 ---
 
@@ -63,7 +67,8 @@ Public materials should:
 - explain the 4-block model visually;
 - describe the Custom block as educator-selected and locally grounded;
 - avoid overpromising assessment or certification;
-- avoid listing all Advanced module titles.
+- avoid listing all Advanced module titles;
+- explain that legacy content is being reorganized across Core, Custom, and Advanced pathways rather than simply discarded.
 
 ---
 

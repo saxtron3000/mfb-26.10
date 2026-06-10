@@ -29,7 +29,10 @@ Learners understand the money problem Bitcoin responds to.
 - Plain-language explanation of money
 - Functions and properties of money
 - Scarcity, value, exchange, and purchasing power
+- Beginner psychology of money: scarcity, time preference, and opportunity cost
+- Brief path from barter to modern money and digital money
 - Fiat money and inflation
+- CBDCs as a beginner fiat-system example where appropriate
 - Reflection on why people look for alternatives
 
 ## Activity References
@@ -49,18 +52,21 @@ Learners understand why Bitcoin was created and how it differs from fiat money.
 
 ## Draft Content Needs
 
-- Search for digital money
+- Search for digital and decentralized money
+- Early digital-money attempts and why centralized designs failed
 - Bitcoin origin story at beginner level
 - Decentralization
 - Users, nodes, and miners
 - Proof of work at a beginner level
 - 21 million supply and halving
 - Peer-to-peer transfer and verification
+- Beginner-level benefits of Bitcoin and the trade-offs learners should still consider
 
 ## Activity References
 
 - Build a blockchain
 - Bitcoin properties comparison
+- Benefits and trade-offs map
 - Claim / evidence / reasoning discussion
 
 ---
@@ -77,9 +83,11 @@ Learners understand what responsibility looks like when using and securing Bitco
 - Keys and seed phrases
 - Custodial and non-custodial use
 - Hot and cold wallet distinction
+- Acquiring and exchanging bitcoin as a concept, not financial advice
 - Receiving bitcoin
 - Sending bitcoin
 - Verification and safety
+- Light transaction orientation only where it helps learners understand responsibility
 
 ## Activity References
 
@@ -87,6 +95,8 @@ Learners understand what responsibility looks like when using and securing Bitco
 - Receive-screen walkthrough
 - Seed phrase responsibility scenario
 - Guided send/receive demonstration where appropriate
+- Verification checklist
+- Acquiring/exchanging pathway risk map
 
 ---
 
@@ -107,7 +117,11 @@ Bitcoin becomes real when learners can connect it to their own community, tools,
 ## Activity References
 
 - Local wallet demonstration
+- Local types-of-money comparison
+- Lightning wallet setup and payment demonstration where locally appropriate
 - Merchant payment scenario
+- Everyday purchase scenario such as coffee, groceries, or local equivalent
+- Local debt or inequality case discussion where appropriate
 - Circular economy mapping
 - Local Bitcoin resource map
 - Community problem / Bitcoin-as-money opportunity analysis
