@@ -1,17 +1,15 @@
-# MFB BD Prague: Bitcoin Diploma Redesign Brief And Keynote Plan
+# MFB BD Keynote: Bitcoin Diploma 2026
 
 ## Purpose
 
-This document merges the public stakeholder brief and the Prague keynote proposal into one working source for communicating the Bitcoin Diploma redesign ahead of the October 2026 release.
+This is the single public keynote document for presenting the Bitcoin Diploma redesign ahead of the October 2026 release.
 
-It is designed for two uses:
+It combines the public stakeholder brief and the 10-minute keynote handoff into one source for:
 
-- a public explanation of what is changing and why;
-- a practical source for building a 10-minute keynote presentation.
-
-This file is the full public stakeholder brief and keynote source material.
-
-Use `mfb-bd-prague-keynote.md` for the shorter slide-building handoff.
+- explaining what is changing and why;
+- reassuring educators, learners, communities, contributors, and supporters about what stays the same;
+- building a short public keynote or slide deck;
+- preparing answers for likely stakeholder questions.
 
 ---
 
@@ -21,7 +19,7 @@ The Bitcoin Diploma is becoming shorter, clearer, more practical, and more local
 
 ---
 
-# 1. Executive Summary
+# Executive Summary
 
 The Bitcoin Diploma is being redesigned to become easier to teach, easier to complete, and more useful in local communities.
 
@@ -46,11 +44,11 @@ The redesign changes the learning experience, not the mission.
 
 ---
 
-# 2. Why The Redesign Is Needed
+# Why The Redesign Is Needed
 
 The Bitcoin Diploma has strong foundations, but the learner path needs clearer structure.
 
-The current redesign responds to several needs:
+The redesign responds to several needs:
 
 - more accessible beginner learning;
 - clearer sequencing;
@@ -69,7 +67,7 @@ From long and dense to short, coherent, practical, and teachable.
 
 ---
 
-# 3. What The Diploma Must Preserve
+# What The Diploma Must Preserve
 
 The redesigned Diploma must preserve the identity and purpose of the original program.
 
@@ -97,7 +95,7 @@ What stays the same:
 
 ---
 
-# 4. Design Direction
+# Design Direction
 
 The current working design direction is:
 
@@ -114,13 +112,11 @@ The current working design direction is:
 
 The redesign should teach learners how to think, not what to think. Learners should leave with better questions, clearer reasoning, and more confidence.
 
-A review of the old table of contents confirms an important public message: legacy content is being reorganized, not simply discarded. Foundational money and fiat material moves into Problem / Fiat; Bitcoin origins and benefits move into Solution / Bitcoin; practical wallet and verification material moves into Action / Self-custody; daily-life payments, local tools, and local money examples move into Custom / Bitcoin as Money; deeper technical, philosophical, and future-facing content moves into Advanced pathways.
+Legacy content is being reorganized, not simply discarded. Foundational money and fiat material moves into Problem / Fiat; Bitcoin origins and benefits move into Solution / Bitcoin; practical wallet and verification material moves into Action / Self-custody; daily-life payments, local tools, and local money examples move into Custom / Bitcoin as Money; deeper technical, philosophical, and future-facing content moves into Advanced pathways.
 
 ---
 
-# 5. The 4-Block Learning Architecture
-
-The following structure is the working architecture for the redesigned Diploma.
+# The 4-Block Learning Architecture
 
 | Block | Learning Role | Title |
 |---|---|---|
@@ -193,7 +189,7 @@ Learners can identify beginner-appropriate ways Bitcoin can function as money in
 
 ---
 
-# 6. What Changes For Learners
+# What Changes For Learners
 
 Learners should experience a clearer, shorter, more practical Diploma.
 
@@ -218,7 +214,7 @@ Expected improvements:
 
 ---
 
-# 7. What Changes For Educators
+# What Changes For Educators
 
 Educators should receive clearer teaching support before, during, and after delivery.
 
@@ -241,11 +237,9 @@ The redesign should give educators a bank of modules and activity templates so t
 
 ---
 
-# 8. The New Learning Ecosystem
+# The New Learning Ecosystem
 
 The redesigned Diploma should be understood as a learning ecosystem rather than a single document.
-
-Core components:
 
 | Component | Purpose |
 |---|---|
@@ -265,7 +259,7 @@ Possible supporting components:
 
 ---
 
-# 9. Assessment And Certification Direction
+# Assessment And Certification Direction
 
 Assessment should connect learning objectives to evidence of learning.
 
@@ -307,7 +301,7 @@ The redesign can prepare foundations for certification through objectives, compe
 
 ---
 
-# 10. Localization And Adaptation
+# Localization And Adaptation
 
 The redesigned Diploma should support local relevance without weakening shared standards.
 
@@ -341,7 +335,7 @@ Local relevance should increase without weakening learning standards.
 
 ---
 
-# 11. Risks And Safeguards
+# Risks And Safeguards
 
 | Risk | Safeguard |
 |---|---|
@@ -354,7 +348,7 @@ Local relevance should increase without weakening learning standards.
 
 ---
 
-# 12. Release Path To October 2026
+# Release Path To October 2026
 
 Suggested release path:
 
@@ -373,7 +367,7 @@ Suggested release path:
 
 ---
 
-# 13. Stakeholder Messages
+# Stakeholder Messages
 
 For educators:
 
@@ -397,19 +391,38 @@ The Diploma remains open, serious, and community driven.
 
 ---
 
-# 14. Key Public Talking Points
+# Key Public Talking Points
 
+- The Diploma is being reorganized, not replaced.
 - The Diploma is becoming shorter, but not shallower.
 - The redesign protects the mission while improving delivery.
 - Learners will do more than listen; they will discuss, reason, practice, and reflect.
 - Educators will receive better support.
 - Advanced pathways will remain available without overloading beginners.
+- The fourth block gives educators local choice.
+- Practical workshops and demonstrations are becoming more central.
 - The Diploma will remain open source and community driven.
 - October 2026 is the public release target.
 
 ---
 
-# 15. Prague Keynote: 10-Minute Structure
+# 10-Minute Keynote Slide Arc
+
+| Slide | Time | Message | Visual |
+|---|---:|---|---|
+| 1. Bitcoin Diploma 2026 | 0:30 | The Diploma is evolving, not being replaced. | Title plus 4-block strip |
+| 2. Why Redesign? | 1:15 | The issue is not lack of value; it is overload, pacing, and teachability. | Before / after contrast |
+| 3. What Stays | 1:00 | The mission, open-source model, community leadership, and Bitcoin-only focus remain. | Four preservation anchors |
+| 4. What Changes | 1:15 | The pathway becomes 8 hours, 4 blocks, practical, and easier to teach. | Change stack |
+| 5. The 4-Block Model | 2:00 | Problem / Fiat, Solution / Bitcoin, Action / Self-custody, Custom / Bitcoin as Money. | Horizontal block diagram |
+| 6. Educators Complete The Local Story | 1:30 | The fourth block is selected by educators because they know their communities best. | Educator choosing from module bank |
+| 7. A Learning Ecosystem | 1:30 | The redesigned Diploma includes Student Book, Educator Guide, Activity Bank, Custom templates, and Advanced pathways. | Ecosystem diagram |
+| 8. What This Makes Possible | 1:15 | More learners can complete the Diploma and more educators can teach it well. | Learner pathway |
+| 9. October 2026 Call To Action | 1:15 | The release needs educators, communities, contributors, and supporters. | Four calls to action |
+
+---
+
+# Slide Notes
 
 ## Slide 1: Bitcoin Diploma 2026
 
@@ -503,7 +516,29 @@ Suggested visual: Four calls to action.
 
 ---
 
-# 16. Keynote Before / After Table
+# Speaker Guidance
+
+Keep the tone public and reassuring.
+
+Say:
+
+- The Diploma is being reorganized, not replaced.
+- It is becoming shorter, but not shallower.
+- Legacy content is moving into the right places: Core, Custom, or Advanced.
+- The fourth block gives educators local choice.
+- Practical workshops and demonstrations are becoming more central.
+
+Avoid:
+
+- listing all Advanced module titles;
+- sounding like the old Diploma failed;
+- promising final certification details;
+- overexplaining technical Bitcoin topics;
+- using internal planning terms when a plain contrast works better.
+
+---
+
+# Before / After
 
 | Before | After |
 |---|---|
@@ -515,7 +550,7 @@ Suggested visual: Four calls to action.
 
 ---
 
-# 17. Keynote Call To Action
+# Call To Action
 
 For educators:
 
@@ -535,11 +570,11 @@ Help make publication, translation, educator readiness, and the October 2026 rel
 
 ---
 
-# 18. Backup Notes For Questions
+# Backup Notes For Questions
 
 Keep these topics available for questions, but do not make them central to the 10-minute talk:
 
-- assessment details;
+- assessment direction;
 - certification boundaries;
 - Advanced pathway details;
 - detailed scope and milestones;
@@ -552,7 +587,7 @@ Do not include the full Advanced module title list in the keynote.
 
 ---
 
-# 19. Appendix Materials To Prepare
+# Appendix Materials To Prepare
 
 Possible appendix materials:
 
