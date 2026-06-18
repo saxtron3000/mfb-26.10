@@ -33,8 +33,8 @@ Use these documents to understand:
 | 11 | `11_guide.md` | See the Educator Guide outline and facilitation responsibilities. |
 | 12 | `12_assessment.md` | Review assessment direction and evidence of learning. |
 | 13 | `13_certification.md` | Review certification boundaries and future questions. |
-| 14 | `14_spec.md` | Review publication rules and final consistency checks. |
-| 15 | `15_lexicon.md` | Review terminology and language consistency. |
+| 14 | `14_lexicon.md` | Review terminology and language consistency. |
+| 15 | `15_spec.md` | Review publication rules and final consistency checks. |
 
 ---
 
@@ -54,7 +54,8 @@ Use these documents to understand:
 | Educator Guide structure | `11_guide.md` |
 | Assessment direction | `12_assessment.md` |
 | Certification boundaries | `13_certification.md` |
-| Publication specification | `14_spec.md` |
+| Beginner terminology and definitions | `14_lexicon.md` |
+| Publication specification | `15_spec.md` |
 | Public Prague brief | `../public/mfb-bd-prague.md` |
 | Short keynote handoff | `../public/mfb-bd-prague-keynote.md` |
 
@@ -82,6 +83,7 @@ Working assumptions:
 - Educator Guide as a facilitation tool;
 - assessment framework in scope;
 - certification design out of scope for the current redesign.
+- `06_plan.md` is the active plan source of truth; duplicated or older plan files should be reconciled or archived before publication.
 
 ---
 
@@ -104,3 +106,6 @@ Public materials should be clear, short, and non-technical. They should explain 
 - Keep the full Advanced module title list only in `06_plan.md`.
 - Keep detailed activity instructions in `10_activities.md`, not in the Student Book or plan.
 - Keep detailed facilitation guidance in `11_guide.md`, not in the Student Book or plan.
+- Treat the split-modules document as internal drafting source material, not as a separate source of truth.
+- Fact-check or date current-data examples before publication.
+- Do not turn named tools, services, exchanges, wallets, maps, or local resources into global recommendations unless publication rules explicitly allow them.

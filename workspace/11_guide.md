@@ -19,6 +19,7 @@ The guide should help educators:
 - correct misconceptions;
 - adapt examples locally;
 - select Custom / Bitcoin as Money modules;
+- handle named tools, local resources, and current-data examples carefully;
 - protect learner safety and autonomy.
 
 ---
@@ -79,12 +80,18 @@ Educators may also combine models, such as two half-days or one weekend morning 
 - Misconception checks
 - Exit tickets
 - Local relevance reflections
+- Safety checklists
+- Tool demonstration with fallback plan
+- Review point and learner explanation prompt
 
 ## 4. Block Guidance
 
 ### Problem / Fiat
 
 - Core ideas
+- Opening money questions
+- Fiat-system roles at beginner level
+- Fractional reserve banking and bank run demonstrations where appropriate
 - Likely misconceptions
 - Suggested activities
 - Review point
@@ -92,6 +99,8 @@ Educators may also combine models, such as two half-days or one weekend morning 
 ### Solution / Bitcoin
 
 - Core ideas
+- Cypherpunk and early digital-money context without overloading the timeline
+- Satoshis as a low-complexity concept that unlocks payments, fees, supply, and custody discussions
 - Likely misconceptions
 - Suggested activities
 - Review point
@@ -100,6 +109,10 @@ Educators may also combine models, such as two half-days or one weekend morning 
 
 - Core ideas
 - Safety boundaries
+- Wallet recovery and seed phrase testing boundaries
+- Common scam and address-verification scenarios
+- How to explain acquiring and exchanging pathways without advice or endorsement
+- When to use block explorers as beginner verification tools
 - Suggested activities
 - Review point
 
@@ -109,6 +122,8 @@ Educators may also combine models, such as two half-days or one weekend morning 
 - How to identify local opportunities
 - How to assess tool readiness
 - How to run practical demonstrations safely
+- How to frame Lightning, merchant payments, local on/off-ramps, KYC/no-KYC trade-offs, BTCMap or equivalent resource maps, and circular economies
+- How to avoid global recommendations for named services or providers
 - How to document local adaptations
 
 ## 5. Assessment Support
@@ -124,17 +139,23 @@ Educators may also combine models, such as two half-days or one weekend morning 
 - What must remain standardized
 - What can be localized
 - How to adapt examples
+- How to replace named tools and services with local equivalents
+- How to fact-check or date current-data examples
+- How to frame legal, tax, and privacy context without giving legal, tax, or financial advice
 - Low-connectivity delivery
 - Mobile-only delivery
 
 ## 7. Legacy Content Migration Guidance
 
 - Use the legacy table-of-contents migration notes in `06_plan.md` to decide whether old content belongs in Core, Custom, or Advanced material.
+- Use the split-modules review in `06_plan.md` as internal drafting and facilitation source material, not as a separate architecture.
 - Do not treat old `OUT` markings as deletion when the same item is marked Custom or Advanced.
 - Keep Block 3 technical material practical: use it only to support safer self-custody, verification, and transaction responsibility.
 - Split topics carefully when needed: beginner concepts may stay in Core while deeper analysis moves to Advanced material.
+- Treat sats, wallet recovery, seed phrase testing, address verification, scam awareness, and beginner acquisition-pathway risk as clarified Core concepts.
 - Place daily-life Lightning wallet setup, local spending, and merchant scenarios in Custom / Bitcoin as Money unless the local delivery plan requires them earlier.
-- Use Custom modules for local money examples, local inequality or debt discussions, and real tools used by the community.
+- Use Custom modules for local money examples, local inequality or debt discussions, local resource maps, circular economies, and real tools used by the community.
+- Do not turn named exchanges, wallets, peer-to-peer platforms, maps, or local services into global recommendations.
 
 ---
 
@@ -146,6 +167,8 @@ Educators should choose Custom / Bitcoin as Money modules based on:
 - local Bitcoin tools;
 - local risks;
 - local opportunities;
+- local on-ramp and off-ramp realities;
+- KYC, privacy, safety, legal, and tax context where relevant;
 - available devices and connectivity;
 - realistic next steps;
 - educator confidence and competence.

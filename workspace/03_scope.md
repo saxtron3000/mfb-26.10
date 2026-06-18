@@ -54,6 +54,8 @@ The following assumptions affect project execution:
 - In-person first.
 - Single Diploma with Custom and Advanced pathways.
 - Core / Custom / Advanced categorization.
+- `06_plan.md` is the active plan source of truth.
+- The split-modules document is internal drafting source material and must be merged through the Core / Custom / Advanced boundaries in `06_plan.md`.
 - Assessment framework is in scope.
 - Certification design is out of scope.
 - Localization preparation is in scope.
@@ -76,6 +78,7 @@ Reduce duration, duplication, and cognitive load while improving clarity and ret
 - Core content map
 - Custom content map
 - Advanced content map
+- Split-modules migration map
 - Revised sequencing
 - Content reduction recommendations
 
@@ -92,6 +95,7 @@ Create measurable learning expectations.
 - Knowledge objectives
 - Competency objectives
 - Outcome objectives
+- Clarified objectives for sats, wallet recovery, seed phrase testing, scam awareness, Lightning distinctions, and acquisition-pathway risks
 
 ---
 
@@ -127,6 +131,7 @@ Increase active participation and practical competence.
 - Practical skills map
 - PPP implementation framework
 - Real-world scenarios
+- Wallet recovery, seed phrase testing, address verification, scam-awareness, and acquisition-pathway risk scenarios
 - Guided application activities
 - Practical exercises
 
@@ -143,6 +148,8 @@ Improve participation and engagement.
 - Embedded Activity Bank version
 - Standalone Activity Bank version
 - Objective mapping
+- Activity categories migrated from legacy and split-modules source material
+- Safety notes and fact-check notes for activities using live tools, named services, or current data
 
 ---
 
@@ -159,6 +166,7 @@ Transform the Educator Guide into an essential implementation tool.
 - Discussion prompts
 - Activity procedures
 - Practical lesson procedures
+- Guidance for named tools, local resources, Lightning demonstrations, KYC/no-KYC discussions, and non-endorsement boundaries
 - Review procedures
 - Assessment guidance
 - Classroom management guidance
@@ -193,6 +201,7 @@ Reduce unnecessary cognitive load.
 - Duplicate content audit
 - Essential vs Custom classification
 - Beginner prerequisite analysis
+- Named-tool and current-data audit
 - Content reduction recommendations
 
 ---
@@ -289,6 +298,7 @@ Prepare the Diploma for future localization.
 - Standardized elements map
 - Localization opportunities register
 - Localization constraints register
+- Local tool, service, legal, tax, privacy, and safety guardrails
 - AI localization considerations
 
 ### Note
@@ -310,6 +320,7 @@ Prepare final publication-ready outputs.
 - Website publication
 - GitHub Markdown source files
 - Translation-ready source files
+- Fact-checked, source-of-truth-aligned publication package
 
 ---
 
@@ -401,9 +412,11 @@ The redesign is complete when:
 - Diploma can be delivered within approximately 8 hours.
 - Learning outcomes are clearly defined.
 - Competencies are mapped to blocks, activities, and evidence.
+- Split-modules source material is migrated into the correct Student Book, Activity Bank, Educator Guide, Custom, or Advanced location.
 - Practical learning is significantly increased.
 - Essential and optional content are clearly separated.
 - Advanced content is appropriately separated.
+- Named tools, local resources, and current-data examples are checked against publication rules.
 - Timing assumptions are documented.
 - Delivery assumptions are documented.
 - Assessment framework is completed.

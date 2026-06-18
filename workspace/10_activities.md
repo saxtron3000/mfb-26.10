@@ -74,10 +74,15 @@ Local examples, language notes, device assumptions, and accessibility considerat
 
 - Money properties comparison
 - Barter scenario
+- Double coincidence of wants scenario
 - Purchasing power reflection
 - Inflation story discussion
 - Barter-to-modern-money timeline
+- Fiat-system role map
+- Fractional reserve banking demonstration
+- Bank run scenario
 - Digital money and fiat-future scenario
+- CBDC control and trade-off discussion where appropriate
 - Scarcity, time preference, and opportunity cost reflection
 - Claim / evidence / reasoning on fiat problems
 
@@ -86,20 +91,32 @@ Local examples, language notes, device assumptions, and accessibility considerat
 - Bitcoin properties comparison
 - Build a blockchain
 - Centralized vs decentralized payment comparison
+- Digital-money predecessor timeline
+- Double-spend problem scenario
+- Bitcoin origin timeline
 - Nodes / miners / users role map
 - 21 million supply concept check
+- Sats and unit-bias concept check
 - Proof-of-work analogy discussion
+- Personal responsibility transition prompt
 - Bitcoin benefits and trade-offs map
 
 ## Block 3: Action / Self-custody
 
 - Wallet type identification
+- Address identification
 - Custodial vs non-custodial scenario
 - Seed phrase responsibility exercise
+- Wallet recovery scenario
+- Seed phrase testing checklist
 - Receive-screen walkthrough
 - Guided send/receive demonstration where appropriate
 - Do not trust, verify checklist
+- Block explorer observation where appropriate
+- Address verification and copy/paste risk scenario
+- Common scam pattern scenario
 - Acquiring/exchanging pathway risk map
+- On-chain vs Lightning beginner comparison
 - Simple transaction responsibility walkthrough
 - Safety checklist
 
@@ -109,10 +126,15 @@ Local examples, language notes, device assumptions, and accessibility considerat
 - Local types-of-money comparison
 - Lightning wallet setup demonstration where locally appropriate
 - Lightning send/receive demonstration where locally appropriate
+- Lightning invoice or Lightning address walkthrough where locally appropriate
 - Merchant payment scenario
 - Everyday purchase scenario such as coffee, groceries, or local equivalent
+- Local on-ramp / off-ramp comparison
+- KYC / no-KYC local trade-off discussion where appropriate
 - Circular economy map
 - Local Bitcoin resource map
+- BTCMap or equivalent local-resource discovery
+- Local Bitcoin community discovery
 - Local debt or inequality case discussion where appropriate
 - Community money problem workshop
 - Bitcoin-as-money opportunity analysis
@@ -135,3 +157,4 @@ Every final activity should include:
 - evidence of learning;
 - low-tech option;
 - safety notes.
+- fact-check or date-sensitive-content note where the activity uses current statistics, live tools, named services, or legal/tax context.

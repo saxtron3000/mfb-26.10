@@ -44,24 +44,33 @@ Assessment should be:
 Evidence may include:
 
 - learner explanation of money functions and properties;
+- learner explanation of barter limits and the double coincidence of wants;
+- fiat-system role map or explanation at beginner level;
 - fiat problem reflection;
-- concept check on inflation and purchasing power.
+- concept check on inflation, fractional reserve banking, and purchasing power.
 
 ## Solution / Bitcoin
 
 Evidence may include:
 
 - learner explanation of why Bitcoin was created;
+- beginner timeline or explanation connecting digital-money attempts, the double-spend problem, and Bitcoin's origin;
 - comparison of fiat and Bitcoin properties;
-- guided discussion of decentralization, supply, and verification.
+- explanation of satoshis and the 21 million limit at beginner level;
+- guided discussion of decentralization, supply, peer-to-peer transfer, and verification.
 
 ## Action / Self-custody
 
 Evidence may include:
 
 - wallet type identification;
-- explanation of keys and seed phrases;
+- explanation of addresses, keys, seed phrases, and wallet recovery;
 - custody trade-off scenario;
+- seed phrase testing and protection checklist;
+- address verification or irreversible transaction scenario;
+- common scam pattern identification;
+- on-chain and Lightning distinction check;
+- acquiring/exchanging pathway risk map;
 - safety checklist.
 
 ## Custom / Bitcoin as Money
@@ -69,6 +78,9 @@ Evidence may include:
 Evidence may include:
 
 - local tool demonstration reflection;
+- Lightning, merchant payment, or local payment scenario reflection where included;
+- local on-ramp/off-ramp trade-off explanation where included;
+- local resource map or community discovery task where included;
 - community use-case analysis;
 - practical workshop output;
 - realistic next-step plan.
@@ -100,8 +112,8 @@ Educators may collect this as:
 | Competency | Evidence |
 |---|---|
 | Monetary Foundations | Explains money functions, properties, and fiat weaknesses. |
-| Bitcoin Fundamentals | Explains Bitcoin's purpose and beginner properties. |
-| Practical Bitcoin Orientation | Identifies wallets, custody trade-offs, and safety practices. |
+| Bitcoin Fundamentals | Explains Bitcoin's purpose, beginner properties, satoshis, and verification. |
+| Practical Bitcoin Orientation | Identifies wallets, custody trade-offs, recovery basics, safety practices, on-chain and Lightning distinctions, and beginner acquisition-pathway risks. |
 | Guided Critical Discussion | Uses simple reasoning in discussion. |
 | Local Relevance | Connects Bitcoin as money to a local use case where included. |
 
@@ -120,5 +132,6 @@ The current redesign may prepare evidence models, but it does not define certifi
 - Final rubric language
 - Evidence requirements by delivery mode
 - Educator scoring guidance
+- Evidence checks for wallet recovery, seed phrase testing, scam awareness, and acquisition-pathway risks
 - Online and self-paced adaptations
 - Relationship between completion and future certification

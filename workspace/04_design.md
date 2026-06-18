@@ -59,6 +59,7 @@ The current working design direction is:
 - advanced technical content separated from the beginner pathway;
 - Educator Guide treated as a facilitation engine;
 - Activity Bank treated as part of the learning ecosystem;
+- split-modules source material merged through the Core / Custom / Advanced boundaries in `06_plan.md`;
 - localization considered through adaptable examples, activities, and facilitation, not through changing core outcomes.
 
 These are working design assumptions, not final curriculum specifications.
@@ -94,6 +95,7 @@ Learners should be encouraged to:
 - compare claims;
 - reason from first principles;
 - distinguish evidence from opinion;
+- distinguish global curriculum content from local tool or service examples;
 - continue learning independently.
 
 ## 4.2 Preserve Thematic Coherence
@@ -156,6 +158,21 @@ The redesign should reduce unnecessary cognitive load by:
 
 The aim is not to oversimplify. The aim is improved learning efficiency.
 
+## 4.7 Design For Safe Practical Orientation
+
+The Diploma should help beginners identify safe next steps without overstating practical mastery.
+
+Learners should encounter:
+
+- wallet recovery concepts;
+- seed phrase testing and protection;
+- address verification;
+- scam awareness;
+- on-chain and Lightning distinctions;
+- acquisition-pathway risks.
+
+These topics should be framed as guided orientation, not as permission to manage high-stakes custody or make financial decisions independently.
+
 ---
 
 # 5. Non-Negotiables
@@ -176,6 +193,8 @@ The redesigned Diploma must:
 - keep learning objectives standardized;
 - avoid unnecessary beginner technical overload;
 - distinguish Core, Custom, and Advanced content;
+- avoid global endorsement of named tools, services, wallets, exchanges, or local resources;
+- fact-check or date current-data examples before publication;
 - support real-world implementation, not ideal conditions.
 
 ---
@@ -231,6 +250,8 @@ The redesigned Diploma should distinguish between fixed, adaptable, and flexible
 - examples;
 - case studies;
 - activities;
+- named tools and services;
+- current local resources;
 - classroom structures;
 - timing adjustments;
 - facilitation style;
@@ -241,6 +262,7 @@ The redesigned Diploma should distinguish between fixed, adaptable, and flexible
 - block sequencing;
 - delivery mode adaptations;
 - localization choices;
+- legal, tax, privacy, and safety context;
 - depth of Custom and Advanced material.
 
 Adaptation should increase local relevance without weakening learning standards.
@@ -337,6 +359,9 @@ Practical learning may include:
 - decision-making exercises;
 - guided scenarios;
 - wallet/custody reasoning;
+- wallet recovery and seed phrase testing scenarios;
+- scam-awareness and address-verification scenarios;
+- local payment and acquisition-pathway comparisons;
 - real-world trade-off analysis;
 - group activities.
 
@@ -363,6 +388,14 @@ If the redesign increases educator workload, adoption may decrease.
 ## Infrastructure Risk
 
 Activities that depend on connectivity, devices, or software may fail in some contexts.
+
+## Endorsement Risk
+
+Named tools, services, wallets, exchanges, maps, or local resources may be mistaken for global recommendations if not framed carefully.
+
+## Current-Data Risk
+
+Statistics, fees, legal context, provider availability, and network conditions may change before publication or localization.
 
 ## Outcome Drift Risk
 
@@ -413,6 +446,8 @@ Use `12_assessment.md` for how learning is evaluated.
 Use `13_certification.md` for certification questions and future certification design.
 
 Use `03_scope.md` for workstreams, milestones, deliverables, publishing, and completion criteria.
+
+Use `06_plan.md` for active structure, content boundaries, legacy migration, split-modules migration, and Advanced module titles.
 
 
 ---
