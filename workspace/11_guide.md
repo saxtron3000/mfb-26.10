@@ -33,6 +33,10 @@ The guide should help educators:
 - How the 4-block structure works
 - How to avoid beginner overload
 
+### General Teaching Tips
+
+- Educators should feel allowed to say "not yet" when a student question would pull the class into a complex side topic. This does not shut down curiosity. It protects the structure, timing, and learning objectives of the activity. A useful response is: "That is an important question, but it belongs later. We will come back to it when the timing is right." This helps avoid rabbit-holing students before they have the foundation to understand the answer.
+
 ## 2. Pacing And Timing
 
 - 8-hour pathway overview
