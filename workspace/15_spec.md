@@ -18,7 +18,6 @@ The redesign package should produce:
 - Public stakeholder brief
 - Prague keynote handoff
 - Legacy table-of-contents migration notes inside `06_plan.md`
-- Split-modules migration notes inside `06_plan.md`
 - Website-ready source files
 - Translation-ready Markdown source files
 
@@ -44,7 +43,7 @@ Do not use retired structure labels, old numbered-module labels for the required
 # Source Of Truth Rules
 
 - `06_plan.md` owns block structure, legacy table-of-contents migration notes, and candidate Advanced module titles.
-- `06_plan.md` owns split-modules migration rules and Core / Custom / Advanced boundaries.
+- `06_plan.md` owns Core / Custom / Advanced boundaries.
 - `05_objectives.md` owns objectives and outcome levels.
 - `10_activities.md` owns activity templates.
 - `11_guide.md` owns educator guidance.
@@ -56,8 +55,6 @@ Do not use retired structure labels, old numbered-module labels for the required
 The full Advanced module title list must appear only in `06_plan.md`.
 
 Legacy migration details should be used for internal planning and should not be copied wholesale into public materials.
-
-The split-modules document is internal drafting source material. It should not be presented as a separate public structure or as a source of truth.
 
 Named tools, services, wallets, exchanges, maps, and local resources should be treated as local examples unless explicitly approved for global publication.
 

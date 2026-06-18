@@ -9,7 +9,6 @@ It defines:
 - the 4-block architecture;
 - what belongs in Core, Custom, and Advanced pathways;
 - how legacy content is being migrated;
-- how the split-modules review informs the redesign;
 - how in-class time should be used;
 - which documents own detailed implementation work.
 
@@ -154,8 +153,6 @@ Learners can identify beginner-appropriate ways Bitcoin can function as money in
 
 `../ref/01_bd_202604_contents.csv` was reviewed as a legacy table-of-contents migration map.
 
-The split-modules document in `../docs/` was reviewed as a learner-facing reconstruction of old Diploma content organized into four modules. It should be treated as internal drafting source material, not as the controlling architecture.
-
 Reading rule:
 
 - `BLOCK` means old content moves into Core blocks 1-3.
@@ -163,11 +160,7 @@ Reading rule:
 - `ADVANCED` means old content becomes Advanced pathway material.
 - `OUT` does not mean deletion when the same item is marked Custom or Advanced.
 - In the reviewed table, no section is marked as out-only.
-- The four reconstructed modules map broadly onto the four-block structure, but they do not override Core, Custom, and Advanced boundaries.
-- Learner-facing explanations from the split-modules document may be reused in the Student Book draft after trimming and fact-checking.
-- Activity placeholders from the split-modules document belong in `10_activities.md`.
-- Facilitation implications from the split-modules document belong in `11_guide.md`.
-- The fixed Module 4 sequence should become Custom module source material unless a local delivery plan selects it.
+- Daily-life Bitcoin use should become Custom module source material unless a local delivery plan selects it.
 
 Migration summary:
 
@@ -189,28 +182,7 @@ Split decisions:
 - Buying and selling bitcoin may appear in Core as a conceptual risk map, but provider-specific practice belongs in Custom.
 - Named services, wallets, exchanges, peer-to-peer platforms, and local recommendations should not become global Student Book recommendations.
 
-## Split-Modules Review
-
-The split-modules document is useful because it turns legacy content into draft learner prose, concrete examples, activity placeholders, and end-of-module takeaways.
-
-Migration decisions from the split-modules document:
-
-| Split-modules content | Destination |
-|---|---|
-| Learner-facing explanations | Student Book draft in `08_draft.md`, after trimming for the 8-hour pathway. |
-| Opening money questions and module review prompts | Student Book draft and assessment prompts. |
-| Activity placeholders | Activity Bank in `10_activities.md`. |
-| Fiat-system roles, fractional reserve banking, bank runs, Nixon Shock, and CBDCs | Core Block 1 at beginner level; deeper policy and history move to Advanced. |
-| Cypherpunks, DigiCash, Hashcash, Bit Gold, double-spend problem, and Bitcoin origin timeline | Core Block 2 as concise background and narrative bridge. |
-| Satoshis and unit-bias framing | Core Block 2, with reinforcement in custody and payments content. |
-| Wallet setup, recovery, seed phrase testing, address verification, and safety warnings | Core Block 3 and aligned activities. |
-| Block explorer and mempool references | Core only when used for beginner verification; deeper mechanics move to Advanced or educator demonstration notes. |
-| Lightning daily-use section | Custom Block 4 candidate material. |
-| Buying and selling section | Core Block 3 as concept and risk orientation; Custom Block 4 for local practice. |
-| KYC/no-KYC, exchanges, P2P, ATMs, gift cards, and earning bitcoin | Local Custom guidance or Advanced trade-off analysis; avoid provider endorsement. |
-| BTCMap, circular economies, local merchant payments, and local communities | Custom Block 4 candidate material. |
-| Named platforms and services | Local educator guidance only, unless publication rules later approve specific examples. |
-| Current statistics and legal/tax statements | Fact-check before publication or convert to evergreen wording. |
+## Publication Guardrails
 
 Fact-check rule:
 
@@ -296,7 +268,7 @@ Candidate Advanced module titles:
 - Bitcoin Education
 - Bitcoin for Families
 - Bitcoin for Organizations
-- Bitcoin for X: Communities & Populations
+- Bitcoin for ... (Communities & Populations)
 - Cryptography
 - Computer Science Fundamentals
 - Online privacy and safety
@@ -375,7 +347,6 @@ Educator preparation, timing, adaptation, misconception support, and debrief gui
 | Assessment evidence and direction | `12_assessment.md` |
 | Certification boundaries | `13_certification.md` |
 | Publication rules | `15_spec.md` |
-| Public brief | `../public/mfb-bd-prague.md` |
 | Short keynote handoff | `../public/mfb-bd-prague-keynote.md` |
 
 ---

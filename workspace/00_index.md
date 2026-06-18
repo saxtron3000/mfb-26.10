@@ -106,6 +106,5 @@ Public materials should be clear, short, and non-technical. They should explain 
 - Keep the full Advanced module title list only in `06_plan.md`.
 - Keep detailed activity instructions in `10_activities.md`, not in the Student Book or plan.
 - Keep detailed facilitation guidance in `11_guide.md`, not in the Student Book or plan.
-- Treat the split-modules document as internal drafting source material, not as a separate source of truth.
 - Fact-check or date current-data examples before publication.
 - Do not turn named tools, services, exchanges, wallets, maps, or local resources into global recommendations unless publication rules explicitly allow them.

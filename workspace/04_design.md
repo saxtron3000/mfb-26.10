@@ -59,7 +59,6 @@ The current working design direction is:
 - advanced technical content separated from the beginner pathway;
 - Educator Guide treated as a facilitation engine;
 - Activity Bank treated as part of the learning ecosystem;
-- split-modules source material merged through the Core / Custom / Advanced boundaries in `06_plan.md`;
 - localization considered through adaptable examples, activities, and facilitation, not through changing core outcomes.
 
 These are working design assumptions, not final curriculum specifications.
@@ -447,7 +446,7 @@ Use `13_certification.md` for certification questions and future certification d
 
 Use `03_scope.md` for workstreams, milestones, deliverables, publishing, and completion criteria.
 
-Use `06_plan.md` for active structure, content boundaries, legacy migration, split-modules migration, and Advanced module titles.
+Use `06_plan.md` for active structure, content boundaries, legacy migration, and Advanced module titles.
 
 
 ---

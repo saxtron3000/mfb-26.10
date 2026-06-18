@@ -55,7 +55,6 @@ The following assumptions affect project execution:
 - Single Diploma with Custom and Advanced pathways.
 - Core / Custom / Advanced categorization.
 - `06_plan.md` is the active plan source of truth.
-- The split-modules document is internal drafting source material and must be merged through the Core / Custom / Advanced boundaries in `06_plan.md`.
 - Assessment framework is in scope.
 - Certification design is out of scope.
 - Localization preparation is in scope.
@@ -78,7 +77,6 @@ Reduce duration, duplication, and cognitive load while improving clarity and ret
 - Core content map
 - Custom content map
 - Advanced content map
-- Split-modules migration map
 - Revised sequencing
 - Content reduction recommendations
 
@@ -148,7 +146,7 @@ Improve participation and engagement.
 - Embedded Activity Bank version
 - Standalone Activity Bank version
 - Objective mapping
-- Activity categories migrated from legacy and split-modules source material
+- Activity categories aligned to Core, Custom, and Advanced boundaries
 - Safety notes and fact-check notes for activities using live tools, named services, or current data
 
 ---
@@ -412,7 +410,6 @@ The redesign is complete when:
 - Diploma can be delivered within approximately 8 hours.
 - Learning outcomes are clearly defined.
 - Competencies are mapped to blocks, activities, and evidence.
-- Split-modules source material is migrated into the correct Student Book, Activity Bank, Educator Guide, Custom, or Advanced location.
 - Practical learning is significantly increased.
 - Essential and optional content are clearly separated.
 - Advanced content is appropriately separated.

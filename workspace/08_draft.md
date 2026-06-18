@@ -14,7 +14,6 @@ This document provides the draft content scaffold for the redesigned Bitcoin Dip
 - Move facilitation notes to `11_guide.md`.
 - Keep Advanced topics out of the Core beginner pathway.
 - Use local examples only when they can be adapted or replaced.
-- Treat the split-modules document as drafting source material, not as controlling structure.
 - Verify current-data examples or rewrite them as evergreen explanations before publication.
 
 ---

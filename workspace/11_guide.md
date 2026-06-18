@@ -148,7 +148,6 @@ Educators may also combine models, such as two half-days or one weekend morning 
 ## 7. Legacy Content Migration Guidance
 
 - Use the legacy table-of-contents migration notes in `06_plan.md` to decide whether old content belongs in Core, Custom, or Advanced material.
-- Use the split-modules review in `06_plan.md` as internal drafting and facilitation source material, not as a separate architecture.
 - Do not treat old `OUT` markings as deletion when the same item is marked Custom or Advanced.
 - Keep Block 3 technical material practical: use it only to support safer self-custody, verification, and transaction responsibility.
 - Split topics carefully when needed: beginner concepts may stay in Core while deeper analysis moves to Advanced material.
