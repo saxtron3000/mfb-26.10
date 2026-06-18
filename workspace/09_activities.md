@@ -64,7 +64,7 @@ Local examples, language notes, device assumptions, and accessibility considerat
 
 ---
 
-# Activity Categories By Block
+# Activity Categories By Block (Work in )
 
 ## Block 1: Problem / Fiat
 
@@ -115,7 +115,7 @@ Local examples, language notes, device assumptions, and accessibility considerat
 
 ---
 
-# Required Activity Metadata
+## Required Activity Metadata
 
 Every final activity should include:
 

@@ -22,7 +22,7 @@
 - Scarcity, value, and exchange
 - Fiat money
 - Inflation and purchasing power
-- Why people look for alternatives
+- Why people look for alternatives (Precious Metals, Real Estate, Stocks)
 
 ## 4. Block 2: Solution / Bitcoin
 
