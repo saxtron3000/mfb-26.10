@@ -347,6 +347,7 @@ The redesign still needs decisions on:
 - final Custom module options;
 - minimum required practical tasks;
 - final assessment format;
+- future certification verification options, including possible on-chain timestamping;
 - low-connectivity delivery assumptions;
 - pilot and educator review process;
 - exact publication formats;

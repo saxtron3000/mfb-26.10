@@ -2,7 +2,7 @@
 
 ## 1. Welcome To The Bitcoin Diploma
 
-- Who My First Bitcoin is
+- About Us
 - Our mission: independent, open-source Bitcoin education
 - What we stand for: accessibility, critical thinking, community, and self-sovereignty
 - Why this Diploma exists
@@ -11,7 +11,7 @@
 ## 2. How This Diploma Works
 
 - What learners will be able to explain by the end
-- Learning style: discussion, reflection, practice, and guided activities
+- Learning style: in-person preferred, discussion, reflection, practice, and guided activities
 - Participation expectations
 - Required prior knowledge: none
 - Required materials and technology expectations
@@ -55,53 +55,10 @@
 - Circular economies
 - Merchant or community use cases
 
-## 7. Activity Bank
+## 7. Back Of Diploma: Next Steps
 
-- Activity categories by block
-- Discussion activities
-- Practical workshops
-- Demonstrations
-- Evidence of learning
-- Adaptation notes
-
-## 8. Educator Guide
-
-- Teaching the Diploma
-- Pacing and timing
-- Facilitation patterns
-- Block guidance
-- Assessment support
-- Adaptation guidance
-- Legacy content migration guidance
-
-## 9. Assessment Framework
-
-- Assessment philosophy
-- Formative assessment by block
-- Summative assessment direction
-- Competency evidence map
-- Certification boundary
-
-## 10. Certification Framework
-
-- Public-safe certification distinctions
-- Certification questions
-- Out-of-scope items for the current redesign
-- Future decisions
-
-## 11. Advanced Pathways
-
-- Advanced technical content
-- Deeper philosophical content
-- Future-facing content
-- Follow-on learning options
-
-## 12. Publication And Public Communication
-
-- Student Book
-- Educator Guide
-- Activity Bank
-- Custom templates
-- Advanced pathway references
-- Public stakeholder brief
-- Prague keynote handoff
+- A short “What now?” next-steps list
+- A safety reminder
+- Connect with My First Bitcoin
+- Donate / support QR
+- Certificate verification
