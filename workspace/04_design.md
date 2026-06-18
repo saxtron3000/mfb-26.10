@@ -67,9 +67,24 @@ For implementation of these assumptions, see `03_scope.md`.
 
 ---
 
-# 3. Design Principles
+# 3. Design Tensions
 
-## 3.1 Teach How To Think, Not What To Think
+The redesign responds to four current learner-experience tensions:
+
+| Dimension | Current problem | Redesign response |
+|---|---|---|
+| Time | Time required is too high. | Shorten the pathway, clarify pacing, and reduce unnecessary content density. |
+| Value | Perceived learner value is too low or too hard to reach. | Make value easier to experience through practical learning, clearer outcomes, and stronger local relevance. |
+| Energy | The learning experience does not ask for enough active learner energy. | Increase discussion, practice, reflection, learner explanation, and production. |
+| Autonomy | Unsupported beginner autonomy is too high. | Provide clearer sequencing, safer beginner boundaries, educator support, and guided pathways. |
+
+The design goal is to reduce unnecessary burden while increasing meaningful participation and visible learner value.
+
+---
+
+# 4. Design Principles
+
+## 4.1 Teach How To Think, Not What To Think
 
 The Diploma should develop independent reasoning rather than passive agreement.
 
@@ -81,7 +96,7 @@ Learners should be encouraged to:
 - distinguish evidence from opinion;
 - continue learning independently.
 
-## 3.2 Preserve Thematic Coherence
+## 4.2 Preserve Thematic Coherence
 
 The redesigned Diploma should not become a collection of disconnected blocks.
 
@@ -96,7 +111,7 @@ Thematic consistency should be intentionally preserved across:
 
 The learner should experience a coherent narrative rather than a disconnected sequence of lessons.
 
-## 3.3 Preserve Conceptual Progression
+## 4.3 Preserve Conceptual Progression
 
 The Diploma should continue moving from foundational concepts toward more advanced concepts.
 
@@ -106,7 +121,7 @@ Design decisions should avoid:
 - assuming hidden prerequisite knowledge;
 - disrupting conceptual progression.
 
-## 3.4 Design For Conversations
+## 4.4 Design For Conversations
 
 The Diploma should not simply transfer information.
 
@@ -120,7 +135,7 @@ It should intentionally create:
 
 Learning experiences should generate structured discussion rather than merely deliver content.
 
-## 3.5 Design For Independent Reasoning
+## 4.5 Design For Independent Reasoning
 
 The goal is not agreement.
 
@@ -128,7 +143,7 @@ The goal is independent thought.
 
 Learners should leave with stronger reasoning capabilities rather than memorized conclusions.
 
-## 3.6 Manage Cognitive Load
+## 4.6 Manage Cognitive Load
 
 The redesign should reduce unnecessary cognitive load by:
 
@@ -143,7 +158,7 @@ The aim is not to oversimplify. The aim is improved learning efficiency.
 
 ---
 
-# 4. Non-Negotiables
+# 5. Non-Negotiables
 
 The redesigned Diploma must:
 
@@ -165,7 +180,7 @@ The redesigned Diploma must:
 
 ---
 
-# 5. Audience Assumptions
+# 6. Audience Assumptions
 
 The redesign should explicitly define:
 
@@ -182,7 +197,7 @@ Pending: detailed audience assumptions require human confirmation.
 
 ---
 
-# 6. Technology Assumptions
+# 7. Technology Assumptions
 
 The Diploma should be designed for varied technology contexts.
 
@@ -200,7 +215,7 @@ Implementation and contingency planning belong in `03_scope.md`.
 
 ---
 
-# 7. Adaptation Boundaries
+# 8. Adaptation Boundaries
 
 The redesigned Diploma should distinguish between fixed, adaptable, and flexible-with-guardrails elements.
 
@@ -232,7 +247,7 @@ Adaptation should increase local relevance without weakening learning standards.
 
 ---
 
-# 8. Learner Experience Goals
+# 9. Learner Experience Goals
 
 The learner experience should be:
 
@@ -252,7 +267,7 @@ The detailed learner outcomes belong in `05_objectives.md`.
 
 ---
 
-# 9. Educator Experience Goals
+# 10. Educator Experience Goals
 
 The educator experience should be intentionally designed.
 
@@ -273,7 +288,7 @@ The work required to produce this support belongs in `03_scope.md`.
 
 ---
 
-# 10. Ecosystem Design Principle
+# 11. Ecosystem Design Principle
 
 The redesigned Diploma should be understood as a learning ecosystem rather than a single document.
 
@@ -289,7 +304,7 @@ Implementation, publishing, and maintenance of ecosystem components belong in `0
 
 ---
 
-# 11. Coherence and Spiral Review
+# 12. Coherence and Spiral Review
 
 The redesign should preserve conceptual progression.
 
@@ -306,7 +321,7 @@ Modularity should not break the learner journey.
 
 ---
 
-# 12. Practical Learning Design
+# 13. Practical Learning Design
 
 Practical learning should be intentional and structured.
 
@@ -331,7 +346,7 @@ Detailed activity production belongs in `03_scope.md`.
 
 ---
 
-# 13. Design Risks
+# 14. Design Risks
 
 ## Fragmentation Risk
 
@@ -355,7 +370,7 @@ Adaptation and localization may gradually weaken learning outcomes.
 
 ---
 
-# 14. Open Design Questions
+# 15. Open Design Questions
 
 ## Learner Journey
 
@@ -385,7 +400,7 @@ Adaptation and localization may gradually weaken learning outcomes.
 
 ---
 
-# 15. Relationship To Other Documents
+# 16. Relationship To Other Documents
 
 Use `01_review.md` for current-state diagnosis.
 
@@ -402,7 +417,7 @@ Use `03_scope.md` for workstreams, milestones, deliverables, publishing, and com
 
 ---
 
-# 16. Public Design Message
+# 17. Public Design Message
 
 The public design message should be simple:
 

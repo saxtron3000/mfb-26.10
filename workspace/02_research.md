@@ -540,7 +540,7 @@ Use `03_scope.md` to understand project workstreams and deliverables.
 
 ### Source
 
-Repository: https://github.com/saxtron3000/hackfest
+Repository: https://github.com/StevenBlack/hackfest
 
 This repository contains notes and assets from the Hackfest 2023 presentation “Bitcoin: Cool et pas à peu près,” a 45-minute French-language session designed to explain Bitcoin while highlighting technical facets.
 
