@@ -43,6 +43,8 @@ Design a shorter, clearer, more practical, more modular, and more teachable Bitc
 
 The redesign should improve the learning experience without replacing the identity, philosophy, or purpose of the Diploma.
 
+Internal purpose research clarifies that the Diploma should remain a structured, foundational, globally accessible introduction to Bitcoin. It should use money, economics, monetary history, fiat-system critique, practical Bitcoin concepts, and sovereignty as connected material that helps learners reason independently about their financial future.
+
 ---
 
 # 2. Working Design Direction
@@ -87,6 +89,8 @@ The design goal is to reduce unnecessary burden while increasing meaningful part
 ## 4.1 Teach How To Think, Not What To Think
 
 The Diploma should develop independent reasoning rather than passive agreement.
+
+This principle is grounded in existing source material and internal stakeholder feedback. The Diploma should provide facts, trade-offs, and reasoning tools without requiring learners to adopt a predetermined conclusion.
 
 Learners should be encouraged to:
 
