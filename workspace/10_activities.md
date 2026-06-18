@@ -6,6 +6,10 @@ This document defines the Activity Bank for the redesigned Bitcoin Diploma.
 
 Activities are removed from the main student-facing text so educators can choose, adapt, and facilitate them more easily.
 
+The Activity Bank is designed for two uses. Activities can complement the Bitcoin Diploma by giving educators modular exercises connected to the diploma blocks, objectives, and competencies. They can also stand alone as short learning experiences for social gatherings, community events, conferences, meetups, workshops, or other public learning spaces.
+
+A standalone activity should provide enough context, instructions, debrief questions, and safety notes for participants to learn a clear idea even if they have not completed the full diploma.
+
 ---
 
 # Activity Bank Principles
