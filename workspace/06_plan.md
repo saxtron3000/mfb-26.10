@@ -215,7 +215,7 @@ Advanced content should not overload the beginner pathway. It may become optiona
 
 Candidate Advanced module titles:
 
-- History of Money
+- History of Money (localisation)
 - Monetary Economics
 - History of Bitcoin
 - Philosophy of Bitcoin
@@ -237,49 +237,9 @@ Candidate Advanced module titles:
 - Bitcoin for Organizations
 - Cryptography
 - Computer Science Fundamentals
+- Online privacy and safety
 
 The full Advanced module title list should appear only in this file.
-
-## Hackfest Prerequisite-Graph Insight
-
-Steven Black's Hackfest 2023 repository (`https://github.com/StevenBlack/hackfest`) offers a useful method for untangling advanced Bitcoin learning.
-
-The author starts from the problem that Bitcoin is difficult to explain linearly because many topics are related but not naturally sequential. To make the hidden structure visible, he:
-
-1. selects 21 Bitcoin facets;
-2. marks prerequisite relationships in a matrix;
-3. converts the matrix into a graph network;
-4. views the graph through layered layouts and cliques;
-5. scores each topic by prerequisite value, complexity, and `prerequisite value - complexity`.
-
-In that model:
-
-- prerequisite value means how many other topics a concept helps unlock;
-- complexity means how many prerequisite concepts a topic itself requires;
-- the best early topics are high-unlock and low-complexity;
-- tightly connected clusters suggest natural module groupings.
-
-The highest `prerequisite value - complexity` topics in the Hackfest analysis are:
-
-| Topic | Design meaning |
-|---|---|
-| satoshi | Low-complexity concept that unlocks transaction, fee, reward, issuance, and custody topics. |
-| hashing | Low-complexity bridge into proof of work, blocks, mining difficulty, and mining. |
-| block | Useful protocol anchor, but should be kept beginner-level in Core. |
-| proof of work | High-unlock technical concept that needs careful simplification in Core. |
-| receive address | Practical bridge into transaction and UTXO concepts. |
-| blockchain | Useful only when tied to blocks, time, hashing, and proof of work. |
-
-The highest-complexity topics are mining, issuance, coinbase transaction, transaction, and block reward. These should not drive beginner sequencing. They are better treated as Advanced module destinations or educator background, with carefully chosen Core previews.
-
-Design implications for the Diploma:
-
-- Use prerequisite mapping as a planning method for Advanced modules.
-- In Core, teach only the low-complexity pieces that unlock beginner understanding.
-- Keep mining, issuance, mempool, UTXO, transaction lifecycle, and coinbase detail out of Core unless they directly support beginner safety or explanation.
-- Group Advanced technical modules by clusters: protocol/mining, transactions/self-custody, and issuance/halving/rewards.
-- Add explicit "before this module, learners should understand..." notes to Advanced and Custom units.
-- Treat Core concepts as unlock keys, not as full technical mastery.
 
 ---
 
@@ -306,13 +266,6 @@ Minimize:
 - dense technical background;
 - long definitions without application;
 - advanced optional content.
-
-In-class design should rebalance four pressures:
-
-- reduce total time burden;
-- increase visible learner value;
-- increase active learner energy;
-- reduce unsupported beginner autonomy.
 
 Each block should follow a simple rhythm:
 
