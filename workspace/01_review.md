@@ -21,11 +21,11 @@ For design principles, see `04_design.md`.
 
 For learning outcomes, see `05_objectives.md`.
 
-For assessment, see `11_assessment.md`.
+For assessment, see `12_assessment.md`.
 
-For certification, see `12_certification.md`.
+For certification, see `13_certification.md`.
 
-For project workstreams and deliverables, see `02_scope.md`.
+For project workstreams and deliverables, see `03_scope.md`.
 
 ---
 
@@ -215,7 +215,7 @@ There is not yet a strong visible relationship between:
 - competencies;
 - learner outcomes.
 
-Assessment evidence is addressed separately in `11_assessment.md`.
+Assessment evidence is addressed separately in `12_assessment.md`.
 
 ## 3.7 Lack of Measurable Outcomes
 
@@ -225,7 +225,7 @@ The current Diploma makes it difficult to determine:
 - learner progress;
 - outcome achievement.
 
-A measurable outcomes framework belongs in `05_objectives.md` and `11_assessment.md`.
+A measurable outcomes framework belongs in `05_objectives.md` and `12_assessment.md`.
 
 ## 3.8 Limited Structured Review
 
@@ -248,7 +248,7 @@ Educators need more support for:
 - classroom management;
 - adaptation.
 
-The work required to redesign the Educator Guide belongs in `02_scope.md`.
+The work required to redesign the Educator Guide belongs in `03_scope.md`.
 
 ## 3.10 Technical Overload
 
@@ -265,7 +265,7 @@ It is not always clear whether the Diploma assumes:
 - self-paced learning;
 - hybrid delivery.
 
-Delivery model definition belongs in `02_scope.md`.
+Delivery model definition belongs in `03_scope.md`.
 
 ## 3.12 Localization Challenges
 
@@ -276,7 +276,7 @@ The Diploma is globally oriented, but some content is not yet easy to adapt to d
 - education systems;
 - technological contexts.
 
-Localization preparation belongs in `02_scope.md`.
+Localization preparation belongs in `03_scope.md`.
 
 ## 3.13 Practical Skill Structure
 
@@ -286,7 +286,7 @@ Practical content exists, but it is not consistently structured as:
 - supported practice;
 - independent application.
 
-The practical learning redesign belongs in `02_scope.md`.
+The practical learning redesign belongs in `03_scope.md`.
 
 ---
 
@@ -355,4 +355,4 @@ This document intentionally does not include:
 - certification requirements;
 - publishing plans.
 
-Those belong in `04_design.md`, `05_objectives.md`, `11_assessment.md`, `12_certification.md`, and `02_scope.md`.
+Those belong in `04_design.md`, `05_objectives.md`, `12_assessment.md`, `13_certification.md`, and `03_scope.md`.

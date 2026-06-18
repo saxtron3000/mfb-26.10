@@ -17,7 +17,7 @@ The redesign package should produce:
 - Assessment framework
 - Public stakeholder brief
 - Prague keynote handoff
-- Legacy table-of-contents migration notes inside `07_plan.md`
+- Legacy table-of-contents migration notes inside `06_plan.md`
 - Website-ready source files
 - Translation-ready Markdown source files
 
@@ -42,16 +42,16 @@ Do not use retired structure labels, old numbered-module labels for the required
 
 # Source Of Truth Rules
 
-- `07_plan.md` owns block structure, legacy table-of-contents migration notes, and candidate Advanced module titles.
+- `06_plan.md` owns block structure, legacy table-of-contents migration notes, and candidate Advanced module titles.
 - `05_objectives.md` owns objectives and outcome levels.
-- `09_activities.md` owns activity templates.
-- `10_guide.md` owns educator guidance.
-- `11_assessment.md` owns assessment direction.
-- `12_certification.md` owns certification boundaries.
+- `10_activities.md` owns activity templates.
+- `11_guide.md` owns educator guidance.
+- `12_assessment.md` owns assessment direction.
+- `13_certification.md` owns certification boundaries.
 - `../public/mfb-bd-prague.md` owns the full public stakeholder brief.
 - `../public/mfb-bd-prague-keynote.md` owns the short 10-minute keynote handoff.
 
-The full Advanced module title list must appear only in `07_plan.md`.
+The full Advanced module title list must appear only in `06_plan.md`.
 
 Legacy migration details should be used for internal planning and should not be copied wholesale into public materials.
 
@@ -76,4 +76,4 @@ Public materials should:
 
 Before publication, search active docs excluding `y_archive` for retired labels and retired plan references.
 
-The only acceptable location for the full Advanced module title list outside `y_archive` is `07_plan.md`.
+The only acceptable location for the full Advanced module title list outside `y_archive` is `06_plan.md`.

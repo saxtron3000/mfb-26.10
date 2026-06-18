@@ -11,7 +11,7 @@ It is designed for two uses:
 
 This file is the full public stakeholder brief and keynote source material.
 
-Use `public/mfb-bd-prague-keynote.md` for the shorter slide-building handoff.
+Use `mfb-bd-prague-keynote.md` for the shorter slide-building handoff.
 
 ---
 

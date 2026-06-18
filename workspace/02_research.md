@@ -528,11 +528,11 @@ Use `04_design.md` to understand design principles and assumptions.
 
 Use `05_objectives.md` to understand learning outcomes.
 
-Use `11_assessment.md` to understand evaluation of learning.
+Use `12_assessment.md` to understand evaluation of learning.
 
-Use `12_certification.md` to understand certification questions.
+Use `13_certification.md` to understand certification questions.
 
-Use `02_scope.md` to understand project workstreams and deliverables.
+Use `03_scope.md` to understand project workstreams and deliverables.
 
 ---
 
@@ -544,13 +544,13 @@ Repository: https://github.com/saxtron3000/hackfest
 
 This repository contains notes and assets from the Hackfest 2023 presentation “Bitcoin: Cool et pas à peu près,” a 45-minute French-language session designed to explain Bitcoin while highlighting technical facets.
 
-Reviewed files:
+Reviewed files from the Hackfest repository:
 
-- `readme.md`
-- `btc-epistemology.pdf`
+- README
+- Hackfest btc-epistemology PDF
 - `btc-epistemology.xlsx`
-- `btc-blockchain-pace.pdf`
-- `btc-halving.pdf`
+- Hackfest btc-blockchain-pace PDF
+- Hackfest btc-halving PDF
 - `btc-epistemology.nb`
 - `btc-blockchain-pace.nb`
 - `btc-halving.nb`
@@ -559,10 +559,10 @@ Reviewed files:
 ### Relevant Findings
 
 - Bitcoin has high learner “activation energy.” The presentation frames Bitcoin learning as requiring an initial cognitive push before later concepts become easier to connect.
-- Bitcoin is difficult to teach linearly because key concepts are interdependent. `readme.md`, `btc-epistemology.xlsx`, and the `assets/base-concepts-*` diagrams show prerequisite relationships, graph layouts, layered layouts, and concept clusters.
+- Bitcoin is difficult to teach linearly because key concepts are interdependent. The Hackfest README, btc-epistemology spreadsheet, and base-concepts diagrams show prerequisite relationships, graph layouts, layered layouts, and concept clusters.
 - A concept map can make hidden dependencies visible. The epistemology material treats Bitcoin topics as a network rather than a simple list.
-- Concepts can be prioritized by comparing prerequisite value against complexity. In `btc-epistemology.xlsx`, high-unlocking concepts include `satoshi`, `hashing`, `proof of work`, `blockchain`, `receive address`, `tx fee`, and `block time`.
-- Satoshis are a useful early technical concept. The README and `assets/eight-decimals.png` show how satoshis address unit bias and make Bitcoin amounts more concrete.
+- Concepts can be prioritized by comparing prerequisite value against complexity. In the btc-epistemology spreadsheet, high-unlocking concepts include `satoshi`, `hashing`, `proof of work`, `blockchain`, `receive address`, `tx fee`, and `block time`.
+- Satoshis are a useful early technical concept. The README and Hackfest eight-decimals diagram show how satoshis address unit bias and make Bitcoin amounts more concrete.
 - The technical sequence `hashing -> blocks/blockchain -> proof of work -> mining` is clean and teachable when supported by demonstration rather than abstract lecture.
 - Block time, mining difficulty, difficulty adjustment, halving, and issuance can be presented as Bitcoin’s “heartbeat,” using pacing and reward schedules to connect technical mechanisms to monetary issuance.
 - Live tools can support observation-based learning. The README references Anders Brownworth’s blockchain demo and `mempool.space` as ways to show hashing, blocks, proof of work, mining, and live network activity.
@@ -645,4 +645,3 @@ Assessment design:
 - The repo is best used as a curriculum design reference, not as direct Diploma content.
 - The concept-scoring approach is useful, but it should be validated against actual learner needs, educator constraints, and the 8-hour Diploma scope.
 - Do not copy the presentation wholesale; extract sequencing, demonstration, and curriculum-design insights.
-

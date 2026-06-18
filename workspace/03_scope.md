@@ -1,4 +1,4 @@
-# 02_scope.md
+# 03_scope.md
 
 # Bitcoin Diploma Redesign Scope of Work & Milestones
 
@@ -21,9 +21,9 @@ This document does not define design philosophy or decision-making principles. S
 
 This document does not define learning objectives. See `05_objectives.md`.
 
-This document does not define assessment methodology. See `11_assessment.md`.
+This document does not define assessment methodology. See `12_assessment.md`.
 
-This document does not define certification requirements. See `12_certification.md`.
+This document does not define certification requirements. See `13_certification.md`.
 
 ---
 
@@ -205,8 +205,8 @@ Separate advanced learning from beginner learning.
 
 ### Deliverables
 
-- Advanced module title inventory guided by `07_plan.md`
-- Advanced pathway recommendations guided by the candidate module titles in `07_plan.md`
+- Advanced module title inventory guided by `06_plan.md`
+- Advanced pathway recommendations guided by the candidate module titles in `06_plan.md`
 - Technical content recommendations
 
 ---
@@ -336,7 +336,7 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 - The Custom / Bitcoin as Money block is explained as educator-selected and locally grounded.
 - The Activity Bank and Educator Guide are presented as core ecosystem components.
 - Assessment and certification are described accurately without overpromising.
-- Advanced module titles are not duplicated outside `07_plan.md`.
+- Advanced module titles are not duplicated outside `06_plan.md`.
 
 ---
 

@@ -8,10 +8,10 @@ This document provides the draft content scaffold for the redesigned Bitcoin Dip
 
 # Drafting Rules
 
-- Use the 4-block structure from `07_plan.md`.
+- Use the 4-block structure from `06_plan.md`.
 - Keep learner-facing explanations short, clear, and beginner-appropriate.
-- Move full activity instructions to `09_activities.md`.
-- Move facilitation notes to `10_guide.md`.
+- Move full activity instructions to `10_activities.md`.
+- Move facilitation notes to `11_guide.md`.
 - Keep Advanced topics out of the Core beginner pathway.
 - Use local examples only when they can be adapted or replaced.
 

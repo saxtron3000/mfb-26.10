@@ -22,15 +22,19 @@ Use these documents to understand:
 |---|---|---|
 | 1 | `01_review.md` | Understand the current Diploma and the problems the redesign responds to. |
 | 2 | `02_research.md` | Track evidence needs, research questions, and claims that still require validation. |
-| 3 | `04_design.md` | Understand design principles, non-negotiables, assumptions, and risks. |
-| 4 | `07_plan.md` | Read the current source of truth for the redesign structure and content boundaries. |
+| 3 | `03_scope.md` | Review workstreams, milestones, deliverables, and completion criteria. |
+| 4 | `04_design.md` | Understand design principles, non-negotiables, assumptions, and risks. |
 | 5 | `05_objectives.md` | Review learner outcomes, objective levels, and competency boundaries. |
-| 6 | `09_activities.md` | See the Activity Bank structure and activity categories. |
-| 7 | `10_guide.md` | See the Educator Guide outline and facilitation responsibilities. |
-| 8 | `11_assessment.md` | Review assessment direction and evidence of learning. |
-| 9 | `12_certification.md` | Review certification boundaries and future questions. |
-| 10 | `02_scope.md` | Review workstreams, milestones, deliverables, and completion criteria. |
-| 11 | `13_spec.md` | Review publication rules and final consistency checks. |
+| 6 | `06_plan.md` | Read the current source of truth for the redesign structure and content boundaries. |
+| 7 | `07_contents.md` | Review the planned content table of contents. |
+| 8 | `08_draft.md` | Review the draft student-book scaffold. |
+| 9 | `09_assets.md` | Review visual and asset needs. |
+| 10 | `10_activities.md` | See the Activity Bank structure and activity categories. |
+| 11 | `11_guide.md` | See the Educator Guide outline and facilitation responsibilities. |
+| 12 | `12_assessment.md` | Review assessment direction and evidence of learning. |
+| 13 | `13_certification.md` | Review certification boundaries and future questions. |
+| 14 | `14_spec.md` | Review publication rules and final consistency checks. |
+| 15 | `15_lexicon.md` | Review terminology and language consistency. |
 
 ---
 
@@ -40,17 +44,17 @@ Use these documents to understand:
 |---|---|
 | Current-state diagnosis | `01_review.md` |
 | Evidence and research validation | `02_research.md` |
-| Project scope and milestones | `02_scope.md` |
+| Project scope and milestones | `03_scope.md` |
 | Design principles and constraints | `04_design.md` |
 | Objectives and competencies | `05_objectives.md` |
-| Draft student-book scaffold | `06_draft.md` |
-| 4-block structure, content boundaries, legacy migration, Advanced module titles | `07_plan.md` |
-| Visual and asset needs | `08_assets.md` |
-| Activity Bank structure | `09_activities.md` |
-| Educator Guide structure | `10_guide.md` |
-| Assessment direction | `11_assessment.md` |
-| Certification boundaries | `12_certification.md` |
-| Publication specification | `13_spec.md` |
+| Draft student-book scaffold | `08_draft.md` |
+| 4-block structure, content boundaries, legacy migration, Advanced module titles | `06_plan.md` |
+| Visual and asset needs | `09_assets.md` |
+| Activity Bank structure | `10_activities.md` |
+| Educator Guide structure | `11_guide.md` |
+| Assessment direction | `12_assessment.md` |
+| Certification boundaries | `13_certification.md` |
+| Publication specification | `14_spec.md` |
 | Public Prague brief | `../public/mfb-bd-prague.md` |
 | Short keynote handoff | `../public/mfb-bd-prague-keynote.md` |
 
@@ -97,6 +101,6 @@ Public materials should be clear, short, and non-technical. They should explain 
 - Do not use `y_archive/` as current evidence or source material.
 - Use “block” for the required Diploma structure.
 - Use “Custom modules” or “Custom units” only for educator-selected Block 4 content.
-- Keep the full Advanced module title list only in `07_plan.md`.
-- Keep detailed activity instructions in `09_activities.md`, not in the Student Book or plan.
-- Keep detailed facilitation guidance in `10_guide.md`, not in the Student Book or plan.
+- Keep the full Advanced module title list only in `06_plan.md`.
+- Keep detailed activity instructions in `10_activities.md`, not in the Student Book or plan.
+- Keep detailed facilitation guidance in `11_guide.md`, not in the Student Book or plan.

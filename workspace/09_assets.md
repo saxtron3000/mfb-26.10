@@ -8,10 +8,10 @@ This document tracks visual and publication assets needed for the redesigned Dip
 
 # Existing Public Assets
 
-- `public/Co-Designing_Future_Education_Assembly.png`
-- `public/MFB_BD_Bitcoin_Diploma_Evolution.pdf`
-- `public/mfb-bd-prague.md`
-- `public/mfb-bd-prague-keynote.md`
+- `../public/Co-Designing_Future_Education_Assembly.png`
+- `../public/MFB_BD_Bitcoin_Diploma_Evolution.pdf`
+- `../public/mfb-bd-prague.md`
+- `../public/mfb-bd-prague-keynote.md`
 
 ---
 

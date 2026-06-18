@@ -68,6 +68,6 @@ These may become future projects.
 
 Use `05_objectives.md` for learning objectives.
 
-Use `11_assessment.md` for evidence of learning and evaluation.
+Use `12_assessment.md` for evidence of learning and evaluation.
 
-Use `02_scope.md` for project scope and out-of-scope boundaries.
+Use `03_scope.md` for project scope and out-of-scope boundaries.

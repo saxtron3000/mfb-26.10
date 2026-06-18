@@ -18,6 +18,7 @@ Detailed activities belong in `09_activities.md`. Detailed facilitation guidance
 
 # 1. Design Decision Summary
 
+
 The redesigned Diploma should be shorter, clearer, more practical, and easier to teach while preserving the open-source, community-led, Bitcoin-only identity of the original Diploma.
 
 Current design commitments:

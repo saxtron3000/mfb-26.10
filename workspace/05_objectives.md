@@ -99,7 +99,7 @@ Advanced outcomes do not belong in the Core 8-hour Diploma.
 
 Status: ongoing.
 
-They should be designed module by module. The candidate Advanced module titles are maintained in `07_plan.md` and should not become Core objectives.
+They should be designed module by module. The candidate Advanced module titles are maintained in `06_plan.md` and should not become Core objectives.
 
 Advanced outcomes may include detailed Bretton Woods and geopolitical monetary history, exact node mechanics, exact mining mechanics, hash functions, Lightning node operations, channel management, non-KYC acquisition trade-offs, and deeper hardware wallet security models such as open-source design, Bitcoin-only firmware, and airgapped signing.
 
@@ -190,10 +190,10 @@ Before objectives are final, resolve:
 
 Use:
 
-- `07_plan.md` for structure, content boundaries, and Advanced module titles;
+- `06_plan.md` for structure, content boundaries, and Advanced module titles;
 - `04_design.md` for design principles and constraints;
 - `02_research.md` for evidence validation;
-- `09_activities.md` for activity design;
-- `10_guide.md` for educator facilitation;
-- `11_assessment.md` for evidence of learning;
-- `12_certification.md` for certification questions.
+- `10_activities.md` for activity design;
+- `11_guide.md` for educator facilitation;
+- `12_assessment.md` for evidence of learning;
+- `13_certification.md` for certification questions.

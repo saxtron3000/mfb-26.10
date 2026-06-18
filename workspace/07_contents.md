@@ -1,19 +1,22 @@
 # Bitcoin Diploma Redesign: Planned Table Of Contents
 
-## 1. Project Overview
+## 1. Welcome To The Bitcoin Diploma
 
-- Purpose of the redesign
-- Public thesis
-- October 2026 release target
-- What is changing
-- What must stay the same
+- Who My First Bitcoin is
+- Our mission: independent, open-source Bitcoin education
+- What we stand for: accessibility, critical thinking, community, and self-sovereignty
+- Why this Diploma exists
+- How learners can use this course as a starting point
 
-## 2. Core Diploma Pathway
+## 2. How This Diploma Works
 
-- Format: in-person first
-- Length: approximately 8 hours
-- Structure: 4 blocks of approximately 2 hours each
-- Learning model: Core, Custom, and Advanced separation
+- What learners will be able to explain by the end
+- Learning style: discussion, reflection, practice, and guided activities
+- Participation expectations
+- Required prior knowledge: none
+- Required materials and technology expectations
+- Safety, responsibility, and no financial advice
+- How the 4-block learning path is organized
 
 ## 3. Block 1: Problem / Fiat
 
@@ -102,4 +105,3 @@
 - Advanced pathway references
 - Public stakeholder brief
 - Prague keynote handoff
-

@@ -19,13 +19,13 @@ It answers:
 
 This document does not define project workstreams, milestones, implementation tasks, publishing deliverables, or operational completion criteria.
 
-For workstreams and deliverables, see `02_scope.md`.
+For workstreams and deliverables, see `03_scope.md`.
 
 For learning outcomes and competencies, see `05_objectives.md`.
 
-For assessment, see `11_assessment.md`.
+For assessment, see `12_assessment.md`.
 
-For certification, see `12_certification.md`.
+For certification, see `13_certification.md`.
 
 ---
 
@@ -63,7 +63,7 @@ The current working design direction is:
 
 These are working design assumptions, not final curriculum specifications.
 
-For implementation of these assumptions, see `02_scope.md`.
+For implementation of these assumptions, see `03_scope.md`.
 
 ---
 
@@ -196,7 +196,7 @@ Design questions:
 
 Technology should support learning. It should not become a hidden prerequisite.
 
-Implementation and contingency planning belong in `02_scope.md`.
+Implementation and contingency planning belong in `03_scope.md`.
 
 ---
 
@@ -269,7 +269,7 @@ Educators should be supported with:
 
 The Educator Guide should function as a facilitation engine, not as a duplicate of the Student Book.
 
-The work required to produce this support belongs in `02_scope.md`.
+The work required to produce this support belongs in `03_scope.md`.
 
 ---
 
@@ -285,7 +285,7 @@ The design principle is:
 - educator-facing materials support teaching and facilitation;
 - activity materials support participation, practice, and adaptation.
 
-Implementation, publishing, and maintenance of ecosystem components belong in `02_scope.md`.
+Implementation, publishing, and maintenance of ecosystem components belong in `03_scope.md`.
 
 ---
 
@@ -327,7 +327,7 @@ Practical learning may include:
 
 Practical learning does not only mean live wallet use.
 
-Detailed activity production belongs in `02_scope.md`.
+Detailed activity production belongs in `03_scope.md`.
 
 ---
 
@@ -393,11 +393,11 @@ Use `02_research.md` for evidence gathering.
 
 Use `05_objectives.md` for learning outcomes and competencies.
 
-Use `11_assessment.md` for how learning is evaluated.
+Use `12_assessment.md` for how learning is evaluated.
 
-Use `12_certification.md` for certification questions and future certification design.
+Use `13_certification.md` for certification questions and future certification design.
 
-Use `02_scope.md` for workstreams, milestones, deliverables, publishing, and completion criteria.
+Use `03_scope.md` for workstreams, milestones, deliverables, publishing, and completion criteria.
 
 
 ---
