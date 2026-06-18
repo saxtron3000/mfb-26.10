@@ -42,8 +42,34 @@ The guide should help educators:
 - 8-hour pathway overview
 - Approximately 2 hours per block
 - Suggested timing per block
+- Flexible delivery models: one-day, four-day, or eight-day
 - What to cut when time is short
 - What to move to Advanced pathways
+
+### Managing The 8-Hour Pathway
+
+The Core Diploma is designed as approximately 8 hours of teaching time. Educators may deliver those hours in different time chunks depending on learner availability, venue constraints, travel time, energy level, device access, and local teaching context.
+
+The four-block sequence should remain the same:
+
+1. Problem / Fiat
+2. Solution / Bitcoin
+3. Action / Self-custody
+4. Custom / Bitcoin as Money
+
+Educators should choose the schedule that gives learners enough time to discuss, practice, ask questions, and review without overloading them.
+
+| Delivery model | Example timing | Best use | Educator guidance |
+|---|---|---|---|
+| One-day intensive | 9:00-5:00 with breaks, or 9:00-6:00 if preserving a full 8 teaching hours plus lunch | Conferences, weekend intensives, visiting educators, or learners who can only attend once | Keep explanations short, protect review time, choose only the strongest activities, and avoid adding advanced topics. |
+| Four-day course | Four 2-hour sessions | Community classes, schools, libraries, meetups, or evening programs | Teach one block per session. Begin each session with a short recap and end with an exit ticket or reflection. |
+| Eight-day course | Eight 1-hour sessions | Learners who benefit from slower pacing, translation, discussion, or repeated practice | Split each block across two sessions: one for the core idea and discussion, one for practice, review, and local application. |
+
+If a one-day course must fit strictly inside 9:00-5:00, educators should treat it as an intensive version of the Diploma. Breaks and lunch reduce available teaching time, so the educator may need to shorten activities, assign a small amount of pre-reading, or move optional discussion into follow-up resources.
+
+If the priority is a full 8 hours of live teaching plus a proper meal break, the day should be scheduled longer than 9:00-5:00 or split across multiple days.
+
+Educators may also combine models, such as two half-days or one weekend morning plus several evening sessions. The important decision is not the exact calendar format, but whether the chosen time chunks protect the learning rhythm of each block: introduce, discuss, practice, apply, and review.
 
 ## 3. Facilitation Patterns
 
