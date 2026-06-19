@@ -14,6 +14,8 @@ This is a minimal working framework for an 8-hour beginner Diploma.
 
 The assessment system should be simple enough for community educators to use and flexible enough for local delivery contexts.
 
+Assessment evidence should remain recognizable across language, offline/in-person PDF, online cohort, self-paced, web, or future app delivery modes.
+
 ---
 
 # 2. Assessment Philosophy
@@ -33,6 +35,9 @@ Assessment should be:
 - usable by educators;
 - lightweight enough for an 8-hour pathway;
 - based on observable evidence;
+- written with precise, measurable verbs;
+- understandable after translation;
+- adaptable by delivery mode without changing Core outcomes;
 - separated from certification governance.
 
 ---
@@ -104,6 +109,7 @@ Educators may collect this as:
 - a written reflection;
 - a small group explanation;
 - a practical demonstration plus debrief.
+- an equivalent online, self-paced, or web-supported evidence artifact.
 
 ---
 
@@ -132,6 +138,8 @@ The current redesign may prepare evidence models, but it does not define certifi
 - Final rubric language
 - Evidence requirements by delivery mode
 - Educator scoring guidance
+- Translation-ready rubric wording
+- Local expert review for practical demonstrations where needed
 - Evidence checks for wallet recovery, seed phrase testing, scam awareness, and acquisition-pathway risks
 - Online and self-paced adaptations
 - Relationship between completion and future certification

@@ -20,8 +20,12 @@ Activities should:
 - support active learning;
 - align to objectives;
 - be easy for educators to facilitate;
+- support Presentation, Practice, Production where practical skills are involved;
 - include low-tech alternatives;
+- work from offline or low-connectivity assumptions when possible;
 - be adaptable across communities;
+- include language or translation notes where terminology may not transfer cleanly;
+- identify when local expert guidance is needed;
 - avoid unsafe financial or custody assumptions.
 
 ---
@@ -41,6 +45,10 @@ List the objective this activity supports.
 ### Time
 
 Estimated minutes.
+
+### Delivery Mode
+
+In-person, offline print/PDF, online cohort, self-paced, web-supported, or adaptable.
 
 ### Materials
 
@@ -66,9 +74,13 @@ What the educator can observe or collect.
 
 Local examples, language notes, device assumptions, and accessibility considerations.
 
+### Local Expert Notes
+
+Local legal, tax, privacy, safety, tool, or community knowledge required before facilitation.
+
 ---
 
-# Activity Categories By Block (Work in )
+# Activity Categories By Block (Work in Progress)
 
 ## Block 1: Problem / Fiat
 
@@ -151,10 +163,12 @@ Every final activity should include:
 - time;
 - materials;
 - delivery mode;
+- language or translation notes;
 - educator instructions;
 - learner instructions;
 - debrief;
 - evidence of learning;
 - low-tech option;
-- safety notes.
+- safety notes;
+- local expert notes where relevant;
 - fact-check or date-sensitive-content note where the activity uses current statistics, live tools, named services, or legal/tax context.

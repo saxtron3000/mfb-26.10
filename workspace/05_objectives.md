@@ -9,7 +9,8 @@ It answers:
 - what every learner should be able to explain after the Core Diploma;
 - what learners may practice in a local Custom block;
 - what belongs outside the 8-hour beginner pathway;
-- how objectives connect to the 4-block structure.
+- how objectives connect to the 4-block structure;
+- how objectives remain stable across language and delivery-mode adaptations.
 
 This document does not define activities, assessment methods, certification requirements, or project milestones.
 
@@ -22,6 +23,10 @@ These objectives are a working framework.
 Planning rule:
 
 If an objective cannot be taught, practiced, and assessed inside the 8-hour scope, it is not a Core objective.
+
+Precision rule:
+
+Every Core objective should use a measurable verb, beginner-appropriate concept, and clear support condition. Objectives should be simple enough to translate without losing the expected evidence of learning.
 
 Advanced objectives are ongoing and should be designed module by module after the Core Diploma is stable.
 
@@ -39,6 +44,7 @@ A realistic graduate of the 8-hour beginner Diploma can:
 | Practical orientation | Can identify wallet types, custody trade-offs, basic transaction pathways, wallet recovery basics, acquisition pathway risks, and safe next steps. |
 | Reasoning | Can participate in guided discussion using simple evidence and trade-off thinking. |
 | Confidence | Can ask better questions, avoid obvious beginner mistakes, and continue learning. |
+| Language transfer | Can meet the same beginner outcomes whether the course is taught in the source language or through a localized translation. |
 
 The Diploma should not claim that every graduate can independently manage high-stakes custody, perform advanced technical troubleshooting, or master economic, technical, or philosophical analysis.
 
@@ -74,7 +80,9 @@ Every learner should be able to:
 
 Custom outcomes are selected by educators for Block 4: Custom / Bitcoin as Money.
 
-Custom outcomes should connect Bitcoin to local daily life through practical workshops, demonstrations, local tools, and community-specific examples.
+Custom outcomes should connect Bitcoin to local daily life through practical workshops, demonstrations, local tools, local expert guidance, and community-specific examples.
+
+Spending may be a useful Custom outcome, but Block 4 is broader than spending. It may also include earning, saving, receiving, merchant discovery, circular economy mapping, resource discovery, local risk comparison, and community problem-solving.
 
 Depending on local context, learners may:
 
@@ -114,7 +122,7 @@ Advanced outcomes may include detailed Bretton Woods and geopolitical monetary h
 | Problem / Fiat | Learners understand the money problem Bitcoin responds to. | Define money, explain barter and the evolution of money, compare monetary properties, and explain beginner fiat weaknesses including inflation and fractional reserve banking. |
 | Solution / Bitcoin | Learners understand why Bitcoin was created and what makes it different. | Explain Bitcoin's purpose, fixed supply, satoshis, peer-to-peer transfer, decentralization, and verification. |
 | Action / Self-custody | Learners understand what responsibility looks like in practice. | Explain wallets, addresses, keys, seed phrases, custody trade-offs, hardware wallets, recovery, seed phrase testing, receiving, sending, verification, on-chain and Lightning distinctions, acquisition pathways, and safety. |
-| Custom / Bitcoin as Money | Learners see how Bitcoin can function as money locally. | Educator-selected outcomes using local tools, testnet or low-stakes practice, Lightning or on-chain demonstrations, local on/off-ramp examples, local resource maps, circular economy examples, workshops, and case examples. |
+| Custom / Bitcoin as Money | Learners see how Bitcoin can function as money locally. | Educator-selected outcomes using local tools, testnet or low-stakes practice, Lightning or on-chain demonstrations, local spending or receiving scenarios, local on/off-ramp examples, local resource maps, circular economy examples, workshops, and case examples. |
 
 This map should guide assessment, Activity Bank design, Educator Guide pacing, and public communication.
 
@@ -162,7 +170,9 @@ Each block should define:
 - Advanced or out-of-scope boundaries;
 - practical orientation;
 - discussion competence;
-- review point.
+- review point;
+- translation or localization notes where terminology may not transfer cleanly;
+- delivery-mode notes where evidence of learning changes.
 
 Use this wording pattern:
 
@@ -183,7 +193,10 @@ Before objectives are final, resolve:
 - evidence of learning for each Core objective;
 - required safety practices and recovery concepts for Core;
 - Custom block guardrails;
+- local expert-led practice guardrails;
+- spending-as-practice boundaries for Block 4;
 - named-tool and local-resource boundaries;
+- multilingual glossary and translation-readiness checks;
 - technology assumptions;
 - online or self-paced objective variants, if those delivery modes remain in scope;
 - assessment format for the 8-hour in-person pathway.

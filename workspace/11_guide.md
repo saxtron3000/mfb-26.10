@@ -18,8 +18,11 @@ The guide should help educators:
 - manage discussion;
 - correct misconceptions;
 - adapt examples locally;
+- support multilingual or translated delivery;
 - select Custom / Bitcoin as Money modules;
+- work from offline or low-connectivity assumptions when needed;
 - handle named tools, local resources, and current-data examples carefully;
+- use QR codes and external links sparingly in print/PDF delivery;
 - protect learner safety and autonomy.
 
 ---
@@ -31,8 +34,10 @@ The guide should help educators:
 - Purpose of the Diploma
 - What stays fixed
 - What educators can adapt
+- Shared Core theory versus localized practice
 - How the 4-block structure works
 - How to avoid beginner overload
+- How to teach from translation-ready materials
 
 ### General Teaching Tips
 
@@ -44,6 +49,7 @@ The guide should help educators:
 - Approximately 2 hours per block
 - Suggested timing per block
 - Flexible delivery models: one-day, four-day, or eight-day
+- Offline print/PDF first delivery
 - What to cut when time is short
 - What to move to Advanced pathways
 
@@ -59,6 +65,8 @@ The four-block sequence should remain the same:
 4. Custom / Bitcoin as Money
 
 Educators should choose the schedule that gives learners enough time to discuss, practice, ask questions, and review without overloading them.
+
+The course should feel lean and intentional. When time is tight, protect learner explanation, practice, safety, and review before adding technical depth or extra examples.
 
 | Delivery model | Example timing | Best use | Educator guidance |
 |---|---|---|---|
@@ -121,7 +129,9 @@ Educators may also combine models, such as two half-days or one weekend morning 
 - How to choose a Custom module
 - How to identify local opportunities
 - How to assess tool readiness
+- When local expert support is required
 - How to run practical demonstrations safely
+- How to frame spending as one possible local practice rather than the whole purpose of Block 4
 - How to frame Lightning, merchant payments, local on/off-ramps, KYC/no-KYC trade-offs, BTCMap or equivalent resource maps, and circular economies
 - How to avoid global recommendations for named services or providers
 - How to document local adaptations
@@ -138,12 +148,19 @@ Educators may also combine models, such as two half-days or one weekend morning 
 
 - What must remain standardized
 - What can be localized
+- What requires translation versus local explanation
 - How to adapt examples
 - How to replace named tools and services with local equivalents
 - How to fact-check or date current-data examples
 - How to frame legal, tax, and privacy context without giving legal, tax, or financial advice
 - Low-connectivity delivery
 - Mobile-only delivery
+- Online PDF adaptation
+- Online cohort adaptation
+- Self-paced adaptation
+- Website branch adaptation
+- Future app and cross-modal branch notes
+- QR-code restraint for print and PDF delivery
 
 ## 7. Legacy Content Migration Guidance
 
@@ -166,6 +183,7 @@ Educators should choose Custom / Bitcoin as Money modules based on:
 - local Bitcoin tools;
 - local risks;
 - local opportunities;
+- available local expert support;
 - local on-ramp and off-ramp realities;
 - KYC, privacy, safety, legal, and tax context where relevant;
 - available devices and connectivity;

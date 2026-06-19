@@ -14,7 +14,7 @@ It defines:
 
 Detailed activities belong in `10_activities.md`. Detailed facilitation guidance belongs in `11_guide.md`. Detailed objectives belong in `05_objectives.md`.
 
-`06_plan.md` is the active plan source of truth. Any duplicated or older plan file, including `13_plan.md`, should be reconciled or archived before publication.
+`06_plan.md` is the active plan source of truth. The older duplicated plan file has been archived at `../y_archive/y_13_plan_superseded.md`.
 
 ---
 
@@ -25,13 +25,18 @@ The redesigned Diploma should be shorter, clearer, more practical, and easier to
 Current design commitments:
 
 - in-person first;
+- offline-capable print or PDF first;
 - approximately 8 hours total;
 - 4 blocks of approximately 2 hours each;
 - Core, Custom, and Advanced content separation;
+- shared Core theory and outcomes with localized, educator-led practice;
+- English-first drafting with simplicity, tone, style, terminology, and translation-readiness review before translation or publication;
 - practical learning in every block;
 - a separate Activity Bank;
 - an Educator Guide designed for facilitation, pacing, adaptation, and safety;
-- Advanced technical material outside the beginner pathway.
+- Advanced technical material outside the beginner pathway;
+- sparse QR code use in printed learner materials;
+- future delivery branches documented without changing Core outcomes: online PDF, online cohort, self-paced, web, app, and cross-modal continuation.
 
 The public explanation is simple:
 
@@ -132,6 +137,7 @@ Possible Custom content:
 - Lightning invoices and Lightning addresses where locally appropriate;
 - merchant payments;
 - everyday purchase scenarios;
+- local spending and receiving scenarios;
 - buying and selling bitcoin in the community;
 - KYC and no-KYC trade-offs where locally appropriate;
 - exchanges, peer-to-peer exchange, earning bitcoin, and Bitcoin ATMs as local pathway examples;
@@ -146,6 +152,8 @@ Possible Custom content:
 Outcome:
 
 Learners can identify beginner-appropriate ways Bitcoin can function as money in local daily life.
+
+Spending is an important possible Block 4 practice, but Block 4 should remain Custom / Bitcoin as Money because local use may also include earning, saving, receiving, resource discovery, circular economy mapping, merchant discovery, and community problem-solving.
 
 ---
 
@@ -192,6 +200,18 @@ Tone and claims rule:
 
 Preserve the Diploma's conviction, clarity, and Bitcoin-only identity, but avoid turning interpretive claims into unsupported facts. Where a claim is likely to invite disagreement or depend on context, prefer guided comparison, claim/evidence/reasoning prompts, or local discussion.
 
+Print QR rule:
+
+Printed PDFs should use QR codes sparingly. QR codes should point only to stable, high-value destinations such as the source repository, canonical update page, educator resources, support or donation page, or certificate verification if available.
+
+Multilingual source rule:
+
+Draft source material in English first. Before translation or publication, review the English source for beginner readability, simple sentence structure, consistent tone and style, terminology and glossary alignment, ambiguity, idioms, and culturally narrow references. After translation, review each language version for preserved meaning, simple language, appropriate tone, terminology consistency, and local appropriateness.
+
+Delivery-branch rule:
+
+Offline/in-person PDF is the first implementation mode. Online PDF, online cohort, self-paced, web, app, and cross-modal versions should branch from the same Core outcomes rather than become separate curricula.
+
 ---
 
 # 4. Core, Custom, And Advanced Boundaries
@@ -215,6 +235,8 @@ Core should include:
 
 Core should not promise independent mastery of economics, technical systems, or high-stakes custody.
 
+Core should function as the shared theory layer across languages and delivery modes.
+
 ## Custom
 
 Custom completes Block 4.
@@ -224,6 +246,7 @@ Custom should:
 - be selected by the educator;
 - connect Bitcoin to local daily life;
 - use tools and resources local bitcoiners actually use;
+- be guided by educators or local experts who understand local risks and learner readiness;
 - focus on workshops, demonstrations, and local problem-solving;
 - include safety notes and realistic next steps.
 
@@ -233,6 +256,8 @@ Template Custom units should include:
 - learner profile;
 - tools or resources;
 - local legal, tax, and safety context where relevant;
+- language or terminology notes where relevant;
+- delivery-mode notes where relevant;
 - workshop or demonstration;
 - safety warnings;
 - educator preparation;
@@ -303,6 +328,10 @@ Minimize:
 - long definitions without application;
 - advanced optional content.
 
+Internal performance rule:
+
+Treat the beginner pathway like a lean, high-performance learning experience. Every required component should improve learner clarity, completion likelihood, practice, educator usability, safety, translation readiness, or maintainability.
+
 Each block should close with a short review point. The review should include key takeaways, a learner explanation prompt, a link to the next block, and an evidence-of-learning opportunity that can connect to `12_assessment.md`.
 
 Each block should follow a simple rhythm:
@@ -347,7 +376,7 @@ Educator preparation, timing, adaptation, misconception support, and debrief gui
 | Assessment evidence and direction | `12_assessment.md` |
 | Certification boundaries | `13_certification.md` |
 | Publication rules | `15_spec.md` |
-| Short keynote handoff | `../public/mfb-bd-prague-keynote.md` |
+| Public keynote and stakeholder brief | `../public/MFB-BD-Keynote.md` |
 
 ---
 
@@ -393,7 +422,11 @@ The redesign still needs decisions on:
 - whether sats should be introduced primarily in Block 2 or Block 3;
 - which safety practices are required Core versus optional Custom;
 - which named tools or services may appear in published materials, and where;
-- how to reconcile or archive duplicated planning files such as `13_plan.md`;
+- final QR code destination list for print materials;
+- delivery-mode branch requirements for online PDF, online cohort, self-paced, web, app, and cross-modal continuation;
+- multilingual glossary readiness;
+- ownership and approval criteria for English-source simplicity and translation-readiness review;
+- ownership and approval criteria for post-translation language review;
 - final assessment format;
 - future certification verification options, including possible on-chain timestamping;
 - low-connectivity delivery assumptions;

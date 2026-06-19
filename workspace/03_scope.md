@@ -52,8 +52,14 @@ The following assumptions affect project execution:
 - Target duration: maximum 8 hours.
 - Working architecture: 4 blocks of approximately 2 hours: Problem / Fiat, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money.
 - In-person first.
+- Offline-capable print or PDF first.
 - Single Diploma with Custom and Advanced pathways.
 - Core / Custom / Advanced categorization.
+- Shared Core theory and outcomes with localized, educator-led practice.
+- English-first drafting with multilingual and translation-ready source files.
+- English-source simplicity, tone, style, and translation-readiness review before translation or publication.
+- Sparse QR code use in print materials.
+- Future delivery branches should be documented without becoming current implementation requirements: online PDF, online cohort, self-paced, web, app, and cross-modal continuation.
 - `06_plan.md` is the active plan source of truth.
 - Assessment framework is in scope.
 - Certification design is out of scope.
@@ -93,6 +99,8 @@ Create measurable learning expectations.
 - Knowledge objectives
 - Competency objectives
 - Outcome objectives
+- Measurable objective language using beginner-appropriate verbs
+- Outcome checks for translation readiness and delivery-mode adaptation
 - Clarified objectives for sats, wallet recovery, seed phrase testing, scam awareness, Lightning distinctions, and acquisition-pathway risks
 
 ---
@@ -261,9 +269,16 @@ Clarify implementation expectations.
 
 ### Deliverables
 
+- Offline/in-person PDF delivery specification
 - In-person delivery specification
+- Print/PDF usability guidance
 - Online adaptation guidance
+- Online PDF branch guidance
+- Online cohort branch guidance
 - Self-paced adaptation guidance
+- Website branch guidance
+- Future app and cross-modal continuation notes
+- Delivery-mode branch map showing what stays fixed and what can adapt
 - Delivery assumptions documentation
 
 ---
@@ -292,6 +307,11 @@ Prepare the Diploma for future localization.
 ### Deliverables
 
 - Localization guidelines
+- Multilingual source-writing guidelines
+- English-language simplicity and style review checklist
+- Pre-translation editorial approval gate
+- Post-translation meaning, tone, terminology, and simplicity review guidance
+- Terminology and glossary readiness checks
 - Adaptable elements map
 - Standardized elements map
 - Localization opportunities register
@@ -314,10 +334,13 @@ Prepare final publication-ready outputs.
 ### Deliverables
 
 - Student Book PDF
+- Offline print/PDF package
+- Online PDF package
 - Educator Guide PDF
 - Website publication
 - GitHub Markdown source files
 - Translation-ready source files
+- QR-code placement and destination rules
 - Fact-checked, source-of-truth-aligned publication package
 
 ---
@@ -408,6 +431,7 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 The redesign is complete when:
 
 - Diploma can be delivered within approximately 8 hours.
+- Diploma can be delivered from an offline-capable print or PDF package.
 - Learning outcomes are clearly defined.
 - Competencies are mapped to blocks, activities, and evidence.
 - Practical learning is significantly increased.
@@ -423,9 +447,13 @@ The redesign is complete when:
 - Review systems are integrated.
 - Student Book is published.
 - Educator Guide is published.
+- Print/PDF QR code use is sparse and publication-safe.
 - Website version is published.
 - GitHub source files are published.
 - Translation-ready source files are published.
+- English source files pass simplicity, tone, style, terminology, and translation-readiness review before translation or publication.
+- Translated versions require language-specific review before publication.
+- Future delivery branches are documented without changing Core outcomes.
 - Localization preparation is completed.
 - Public stakeholder brief is completed.
 - Prague keynote proposal is completed.
@@ -443,6 +471,10 @@ The following items are intentionally excluded from the current redesign project
 - Full localization implementation
 - AI-powered localization systems
 - Maintenance of multiple localized curriculum variants
+- Online cohort platform implementation
+- Self-paced learning platform implementation
+- App implementation
+- Cross-modal learner-continuation infrastructure
 
 These may become future projects.
 
@@ -455,3 +487,6 @@ These may become future projects.
 - Certification Design
 - AI Localization
 - Advanced Pathway Design
+- Delivery-Mode Branch Roadmap
+- Print QR Code Policy
+- Multilingual Glossary Readiness

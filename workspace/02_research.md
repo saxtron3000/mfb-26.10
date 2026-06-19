@@ -75,6 +75,7 @@ Instead:
 - Risks
 - Opportunities
 - Design implications
+- Multilingual and delivery-mode implications
 - Recommended actions
 
 ---
@@ -283,7 +284,7 @@ Source:
 
 ---
 
-# Section 6: Online vs In-Person
+# Section 6: Online vs In-Person And Delivery Branches
 
 What learning outcomes improve in-person?
 
@@ -294,6 +295,22 @@ Source:
 ---
 
 What learning outcomes improve online?
+
+Answer:
+
+Source:
+
+---
+
+What must change between offline print/PDF, online PDF, online cohort, self-paced, web, app, and hybrid or cross-modal delivery while preserving the same Core outcomes?
+
+Answer:
+
+Source:
+
+---
+
+Which delivery modes require different evidence of learning, educator support, or learner pacing?
 
 Answer:
 
@@ -415,6 +432,18 @@ Evidence:
 
 # Section 13: Multilingual Research
 
+Which source-writing practices improve translation quality?
+
+Evidence:
+
+---
+
+Which editorial checks best preserve simple language, tone, style, and meaning when an English-first curriculum is translated?
+
+Evidence:
+
+---
+
 Which Bitcoin concepts are difficult to translate?
 
 Evidence:
@@ -428,6 +457,12 @@ Evidence:
 ---
 
 Common translation failures:
+
+Evidence:
+
+---
+
+Which concepts require local expert explanation rather than direct translation?
 
 Evidence:
 
@@ -505,6 +540,26 @@ Recommendation:
 
 ---
 
+# Section 17: Publication, Print, And QR Restraint
+
+How many QR codes can a printed learner resource use before the page becomes cluttered or the resource becomes fragile?
+
+Evidence:
+
+---
+
+Which destinations are stable enough to justify QR codes in print?
+
+Evidence:
+
+---
+
+What should remain fully available offline in the print or PDF version?
+
+Evidence:
+
+---
+
 # Final Recommendations
 
 The research package should support, test, or challenge the following redesign decisions. Until external sources are filled in, these should be treated as research priorities and internal review implications rather than completed evidence claims.
@@ -514,6 +569,9 @@ The research package should support, test, or challenge the following redesign d
 1. Reduce the beginner pathway to an approximately 8-hour 4-block structure.
 2. Separate beginner, Custom, and Advanced material to reduce cognitive overload.
 3. Increase active learning through a dedicated Activity Bank and educator facilitation support.
+4. Design source files for multilingual transfer from the beginning.
+5. Preserve an offline-capable in-person PDF path while documenting future delivery branches.
+6. Keep print QR codes sparse and tied to stable, high-value destinations.
 
 ---
 
@@ -522,6 +580,8 @@ The research package should support, test, or challenge the following redesign d
 1. Adult learning evidence for shorter, active, in-person learning experiences.
 2. Curriculum design evidence for modular learning, spiral review, and competency alignment.
 3. Educator support evidence showing why facilitator guides, timing support, and activity banks improve consistency.
+4. Evidence or expert review for multilingual source-writing practices.
+5. Evidence for online, self-paced, web, app, and cross-modal adaptations before making claims about those modes.
 
 ---
 
@@ -530,6 +590,8 @@ The research package should support, test, or challenge the following redesign d
 1. Completion and dropout patterns in comparable community education programs.
 2. Low-connectivity and mobile-first learning constraints.
 3. Cross-cultural adaptation risks for money, custody, and local Bitcoin examples.
+4. Print usability and QR-code restraint.
+5. Local expert-led practice models and safety boundaries.
 
 ---
 
@@ -538,6 +600,9 @@ The research package should support, test, or challenge the following redesign d
 1. Use the 4-block model as the working architecture.
 2. Keep Advanced material outside the Core beginner pathway.
 3. Build the Educator Guide and Activity Bank as required parts of the learning ecosystem.
+4. Write in plain, consistent, translation-ready language.
+5. Treat spending as one possible Block 4 practice, not the full global definition of Block 4.
+6. Use QR codes sparingly in printed learner materials.
 
 ---
 
@@ -546,6 +611,8 @@ The research package should support, test, or challenge the following redesign d
 1. Certification design and verification governance.
 2. Final Advanced module objectives.
 3. Public claims that depend on external research until sources are added.
+4. App implementation and cross-modal continuation design.
+5. Final online cohort and self-paced evidence requirements.
 
 ---
 

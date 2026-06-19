@@ -10,11 +10,17 @@ This document provides the draft content scaffold for the redesigned Bitcoin Dip
 
 - Use the 4-block structure from `06_plan.md`.
 - Keep learner-facing explanations short, clear, and beginner-appropriate.
+- Draft in English first using plain, consistent, translation-ready language.
+- During editing, review sentence length, tone, terminology, idioms, ambiguity, and cultural assumptions.
+- Do not approve the English source for translation or publication until it passes a simplicity and translation-readiness review.
+- Design the learner-facing path to work in offline print or PDF form.
 - Move full activity instructions to `10_activities.md`.
 - Move facilitation notes to `11_guide.md`.
 - Keep Advanced topics out of the Core beginner pathway.
 - Use local examples only when they can be adapted or replaced.
 - Verify current-data examples or rewrite them as evergreen explanations before publication.
+- Use QR codes and external links only as optional support, not as the main path for essential learning.
+- Treat spending as one possible Custom / Bitcoin as Money practice, not as the full global definition of Block 4.
 
 ---
 
@@ -137,7 +143,7 @@ Possible learner-facing framing:
 
 Bitcoin becomes real when learners can connect it to their own community, tools, risks, and opportunities.
 
-Custom content may draw from daily-life Bitcoin use, Lightning payment demonstrations, local merchant scenarios, local on-ramp and off-ramp pathways, local resource maps, circular economies, and community discovery. Named tools and services should appear only where they can be localized, replaced, and framed without endorsement.
+Custom content may draw from daily-life Bitcoin use, local spending or receiving scenarios, Lightning payment demonstrations, local merchant scenarios, local on-ramp and off-ramp pathways, local resource maps, circular economies, and community discovery. Named tools and services should appear only where they can be localized, replaced, and framed without endorsement.
 
 ## Activity References
 

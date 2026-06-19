@@ -10,8 +10,7 @@ This document tracks visual and publication assets needed for the redesigned Dip
 
 - `../public/Co-Designing_Future_Education_Assembly.png`
 - `../public/MFB_BD_Bitcoin_Diploma_Evolution.pdf`
-- `../public/mfb-bd-prague.md`
-- `../public/mfb-bd-prague-keynote.md`
+- `../public/MFB-BD-Keynote.md`
 
 ---
 
@@ -51,6 +50,21 @@ Must include:
 - Custom Module Bank;
 - Advanced pathways.
 
+## Delivery-Mode Branch Diagram
+
+Purpose: show the first delivery mode and future branches without implying separate curricula.
+
+Must show:
+
+- offline/in-person print or PDF first;
+- online PDF;
+- online cohort;
+- self-paced;
+- web;
+- future app;
+- eventual cross-modal continuation;
+- shared Core outcomes across all branches.
+
 ## Educator Choice Diagram
 
 Purpose: explain Block 4.
@@ -60,6 +74,19 @@ Must show:
 - shared blocks;
 - educator-selected Custom / Bitcoin as Money block;
 - local tools, needs, risks, and opportunities.
+
+## QR Code Placement Plan
+
+Purpose: prevent print clutter and stale destinations.
+
+Must identify only stable, high-value QR destinations, such as:
+
+- source or update page;
+- educator resources;
+- support or donation page;
+- certificate verification, if available.
+
+Avoid using many QR codes inside the main learner path.
 
 ## Pathway Diagram
 
@@ -81,7 +108,10 @@ The 10-minute keynote needs:
 - title slide visual;
 - 4-block diagram;
 - before / after table;
+- delivery-mode branch diagram;
 - Activity Bank and Educator Guide ecosystem diagram;
 - public call-to-action slide.
 
 Do not include the full Advanced module title list in Prague slides.
+
+Visuals should remain legible after translation. Avoid embedding long English phrases directly into diagrams when labels can be managed in source files.

@@ -15,6 +15,7 @@
 - Participation expectations
 - Required prior knowledge: none
 - Required materials and technology expectations
+- How the print/PDF path works offline
 - Safety, responsibility, and no financial advice
 - What belongs in Core, Custom, and Advanced learning
 - How the 4-block learning path is organized
@@ -74,6 +75,7 @@
 - Local Bitcoin tools and resources
 - Lightning payments where locally appropriate
 - Daily-life Bitcoin use
+- Local spending and receiving scenarios
 - Local on-ramp and off-ramp pathways
 - KYC and no-KYC trade-offs where locally appropriate
 - Circular economies
@@ -86,5 +88,6 @@
 - A short “What now?” next-steps list
 - A safety reminder
 - Connect with My First Bitcoin
-- Donate / support QR
+- Source or update page, if included
+- Optional donate / support QR
 - Certificate verification

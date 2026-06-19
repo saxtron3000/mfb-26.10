@@ -46,7 +46,7 @@ Future certification design must answer:
 - What is the difference between participation, completion, assessment, and certification?
 - What must be standardized across communities?
 - What can be adapted locally?
-- What evidence works across in-person, online, self-paced, and hybrid delivery?
+- What evidence works across in-person, offline/PDF, online PDF, online cohort, self-paced, web, app, and hybrid or cross-modal delivery?
 - Could completion or certification records be timestamped with an on-chain Bitcoin transaction?
 - If on-chain timestamping is used, what data must stay private and what proof can be public?
 - Who controls the verification process if blockchain timestamping is used?

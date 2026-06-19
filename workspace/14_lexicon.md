@@ -2,6 +2,8 @@
 
 This lexicon collects words from the Bitcoin Diploma that a beginner may need explained. Definitions are written in plain English.
 
+Use this file as a translation-readiness anchor for the English source. Terms used in Core materials should stay consistent with this lexicon before translation. Future localized versions should maintain reviewed language-specific terminology and identify terms that require local explanation rather than direct translation.
+
 ## 51% Attack
 
 When one person or group controls more than half of the mining power in a blockchain network. This could let them interfere with some transactions.
