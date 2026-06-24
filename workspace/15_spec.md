@@ -20,6 +20,7 @@ The redesign package should produce:
 - Public stakeholder brief
 - Public Keynote handoff
 - Legacy table-of-contents migration notes inside `06_plan.md`
+- Advanced module holding file `16_advanced.md`
 - Website-ready source files
 - Translation-ready Markdown source files
 - Future delivery-branch notes for online cohort, self-paced, app, and cross-modal continuation
@@ -47,8 +48,9 @@ Do not use retired structure labels, old numbered-module labels for the required
 
 # Source Of Truth Rules
 
-- `06_plan.md` owns block structure, legacy table-of-contents migration notes, and candidate Advanced module titles.
+- `06_plan.md` owns block structure and legacy table-of-contents migration notes.
 - `06_plan.md` owns Core / Custom / Advanced boundaries.
+- `16_advanced.md` owns candidate Advanced module titles, follow-on pathway ideas, and redacted legacy content for future Advanced use.
 - `05_objectives.md` owns objectives and outcome levels.
 - `10_activities.md` owns activity templates.
 - `11_guide.md` owns educator guidance.
@@ -56,7 +58,7 @@ Do not use retired structure labels, old numbered-module labels for the required
 - `13_certification.md` owns certification boundaries.
 - `../public/MFB-BD-Keynote.md` owns the combined public stakeholder brief, keynote source material, and 10-minute keynote handoff.
 
-The full Advanced module title list must appear only in `06_plan.md`.
+The full Advanced module title list must appear only in `16_advanced.md`.
 
 Legacy migration details should be used for internal planning and should not be copied wholesale into public materials.
 
@@ -153,9 +155,9 @@ Public materials should:
 
 Before publication, search active docs excluding `y_archive` for retired labels and retired plan references.
 
-The only acceptable location for the full Advanced module title list outside `y_archive` is `06_plan.md`.
+The only acceptable location for the full Advanced module title list outside `y_archive` is `16_advanced.md`.
 
-Confirm `06_plan.md` is the only active plan source of truth and that duplicated planning files remain outside the active workspace.
+Confirm `06_plan.md` remains the active beginner redesign plan source of truth, `16_advanced.md` remains the Advanced module holding file, and duplicated planning files remain outside the active workspace.
 
 Confirm all references point to `14_lexicon.md` for terminology and `15_spec.md` for publication rules.
 

@@ -35,6 +35,7 @@ Use these documents to understand:
 | 13 | `13_certification.md` | Review certification boundaries and future questions. |
 | 14 | `14_lexicon.md` | Review terminology and language consistency. |
 | 15 | `15_spec.md` | Review publication rules and final consistency checks. |
+| 16 | `16_advanced.md` | Review Advanced module ideas, follow-on pathway notes, and parked legacy content. |
 
 ---
 
@@ -48,7 +49,8 @@ Use these documents to understand:
 | Design principles and constraints | `04_design.md` |
 | Objectives and competencies | `05_objectives.md` |
 | Draft student-book scaffold | `08_draft.md` |
-| 4-block structure, content boundaries, legacy migration, Advanced module titles | `06_plan.md` |
+| 4-block structure, content boundaries, and legacy migration | `06_plan.md` |
+| Advanced module titles, follow-on pathway ideas, and parked legacy content | `16_advanced.md` |
 | Visual and asset needs | `09_assets.md` |
 | Activity Bank structure | `10_activities.md` |
 | Educator Guide structure | `11_guide.md` |
@@ -88,6 +90,7 @@ Working assumptions:
 - future delivery branches documented without changing Core outcomes: online PDF, online cohort, self-paced, web, app, and cross-modal continuation;
 - assessment framework in scope;
 - certification design out of scope for the current redesign;
+- Advanced module design deferred until after the beginner Diploma is published;
 - `06_plan.md` is the active plan source of truth; the duplicated older plan file has been archived at `../y_archive/y_13_plan_superseded.md`.
 
 ---
@@ -108,7 +111,7 @@ Public materials should be clear, short, and non-technical. They should explain 
 - Use "block" for the required Diploma structure.
 - Use "Custom modules" or "Custom units" only for educator-selected Block 4 content.
 - Do not rename Block 4 globally as "Spending"; spending is one possible Custom / Bitcoin as Money practice.
-- Keep the full Advanced module title list only in `06_plan.md`.
+- Keep the full Advanced module title list only in `16_advanced.md`.
 - Keep detailed activity instructions in `10_activities.md`, not in the Student Book or plan.
 - Keep detailed facilitation guidance in `11_guide.md`, not in the Student Book or plan.
 - Draft in English first, then review simplicity, tone, style, terminology, and translation readiness before translation or publication.

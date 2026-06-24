@@ -220,8 +220,8 @@ Separate advanced learning from beginner learning.
 
 ### Deliverables
 
-- Advanced module title inventory guided by `06_plan.md`
-- Advanced pathway recommendations guided by the candidate module titles in `06_plan.md`
+- Advanced module title inventory guided by `16_advanced.md`
+- Advanced pathway recommendations guided by the candidate module titles in `16_advanced.md`
 - Technical content recommendations
 
 ---
@@ -368,7 +368,7 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 - The Custom / Bitcoin as Money block is explained as educator-selected and locally grounded.
 - The Activity Bank and Educator Guide are presented as core ecosystem components.
 - Assessment and certification are described accurately without overpromising.
-- Advanced module titles are not duplicated outside `06_plan.md`.
+- Advanced module titles are not duplicated outside `16_advanced.md`.
 
 ---
 

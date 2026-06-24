@@ -16,10 +16,6 @@ How widely people are willing to accept something as payment.
 
 A string of letters and numbers used to receive bitcoin. It works a little like an account number, but it is created by a wallet.
 
-## AIG
-
-A large insurance company that was rescued during the 2008 financial crisis because its collapse could have harmed the wider financial system.
-
 ## Anonymous
 
 When a person's real identity is not known.
@@ -566,7 +562,7 @@ The smallest unit of bitcoin. One bitcoin equals 100,000,000 satoshis.
 
 ## Satoshi Nakamoto
 
-The name used by the person or group who created Bitcoin.
+The name used by the person who created Bitcoin.
 
 ## Satoshis per Byte
 

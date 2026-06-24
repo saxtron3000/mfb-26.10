@@ -658,7 +658,9 @@ Use `13_certification.md` for certification questions and future certification d
 
 Use `03_scope.md` for workstreams, milestones, deliverables, publishing, and completion criteria.
 
-Use `06_plan.md` for active structure, content boundaries, legacy migration, and Advanced module titles.
+Use `06_plan.md` for active structure, content boundaries, and legacy migration.
+
+Use `16_advanced.md` for Advanced module titles, follow-on pathway ideas, and parked legacy content.
 
 Use `15_spec.md` for publication, QR code, source-of-truth, and delivery-output rules.
 

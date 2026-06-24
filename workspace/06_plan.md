@@ -7,12 +7,12 @@ This is the source of truth for the current Bitcoin Diploma redesign structure.
 It defines:
 
 - the 4-block architecture;
-- what belongs in Core, Custom, and Advanced pathways;
+- what belongs in Core, Custom, and Advanced pathways at a boundary level;
 - how legacy content is being migrated;
 - how in-class time should be used;
 - which documents own detailed implementation work.
 
-Detailed activities belong in `10_activities.md`. Detailed facilitation guidance belongs in `11_guide.md`. Detailed objectives belong in `05_objectives.md`.
+Detailed activities belong in `10_activities.md`. Detailed facilitation guidance belongs in `11_guide.md`. Detailed objectives belong in `05_objectives.md`. Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use belong in `16_advanced.md`.
 
 `06_plan.md` is the active plan source of truth. The older duplicated plan file has been archived at `../y_archive/y_13_plan_superseded.md`.
 
@@ -267,40 +267,11 @@ Template Custom units should include:
 
 ## Advanced
 
-Advanced outcomes are ongoing and should be designed module by module.
+Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use are collected in `16_advanced.md`.
 
-Advanced content should not overload the beginner pathway. It may become optional extensions, separate workshops, educator background, or follow-on courses.
+Advanced outcomes are ongoing and should be designed module by module after the redesigned beginner Diploma is published.
 
-Candidate Advanced module titles:
-
-- History of Money (localisation)
-- Monetary Economics
-- History of Bitcoin
-- Philosophy of Bitcoin
-- Transactions & Settlement
-- Mining & Consensus
-- Privacy & Security
-- Payments & Exchange
-- Bitcoin for Business
-- Infrastructure & Maintenance
-- Communities & Circular Economies
-- Money & Society
-- Money & Human Rights
-- Energy & Mining
-- Open Source Software
-- Nostr & Decentralized Communication
-- Communication Networks
-- Bitcoin Education
-- Bitcoin for Families
-- Bitcoin for Organizations
-- Bitcoin for ... (Communities & Populations)
-- Cryptography
-- Computer Science Fundamentals
-- Online privacy and safety
-
-Note: `Bitcoin for X` is a flexible Advanced category for population- or community-specific modules, such as Bitcoin for women, Bitcoin for Muslims, or other locally relevant communities. These modules should be developed with community input and should avoid treating any group as monolithic.
-
-The full Advanced module title list should appear only in this file.
+Advanced content should not overload the beginner pathway. It may later become optional extensions, separate workshops, educator background, or follow-on courses.
 
 ---
 
@@ -376,6 +347,7 @@ Educator preparation, timing, adaptation, misconception support, and debrief gui
 | Assessment evidence and direction | `12_assessment.md` |
 | Certification boundaries | `13_certification.md` |
 | Publication rules | `15_spec.md` |
+| Advanced module ideas and redacted content collection | `16_advanced.md` |
 | Public keynote and stakeholder brief | `../public/MFB-BD-Keynote.md` |
 
 ---
@@ -401,13 +373,7 @@ The Diploma should remain the entry point into a wider learning ecosystem, not t
 
 # 9. Follow-On Pathways
 
-Future follow-on pathways may include:
-
-1. Bitcoin Fundamentals: the redesigned Diploma.
-2. Bitcoin Self-Custody: deeper wallet, backup, verification, and safety practice.
-3. Lightning Network: deeper payment, routing, liquidity, and trade-off study.
-4. Bitcoin Technical Foundations: deeper protocol and system mechanics.
-5. Bitcoin Economics: deeper monetary history, policy, incentives, and economic reasoning.
+Follow-on pathway ideas are collected in `16_advanced.md`.
 
 ---
 
@@ -432,7 +398,7 @@ The redesign still needs decisions on:
 - low-connectivity delivery assumptions;
 - pilot and educator review process;
 - exact publication formats;
-- Advanced module objectives and sequencing.
+- Advanced module objectives and sequencing, tracked in `16_advanced.md`.
 
 ---
 
