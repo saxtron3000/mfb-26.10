@@ -1,4 +1,10 @@
-# Bitcoin Diploma Redesign Plan
+# Archived Duplicate: Bitcoin Diploma Redesign Plan
+
+This file is retained only as historical planning context.
+
+It is not an active workspace source of truth. Use `../workspace/06_plan.md` for the current redesign plan, block architecture, Core / Custom / Advanced boundaries, and Advanced module title list.
+
+---
 
 ## Purpose
 

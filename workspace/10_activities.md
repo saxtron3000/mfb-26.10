@@ -6,6 +6,10 @@ This document defines the Activity Bank for the redesigned Bitcoin Diploma.
 
 Activities are removed from the main student-facing text so educators can choose, adapt, and facilitate them more easily.
 
+The Activity Bank is designed for two uses. Activities can complement the Bitcoin Diploma by giving educators modular exercises connected to the diploma blocks, objectives, and competencies. They can also stand alone as short learning experiences for social gatherings, community events, conferences, meetups, workshops, or other public learning spaces.
+
+A standalone activity should provide enough context, instructions, debrief questions, and safety notes for participants to learn a clear idea even if they have not completed the full diploma.
+
 ---
 
 # Activity Bank Principles
@@ -16,8 +20,12 @@ Activities should:
 - support active learning;
 - align to objectives;
 - be easy for educators to facilitate;
+- support Presentation, Practice, Production where practical skills are involved;
 - include low-tech alternatives;
+- work from offline or low-connectivity assumptions when possible;
 - be adaptable across communities;
+- include language or translation notes where terminology may not transfer cleanly;
+- identify when local expert guidance is needed;
 - avoid unsafe financial or custody assumptions.
 
 ---
@@ -37,6 +45,10 @@ List the objective this activity supports.
 ### Time
 
 Estimated minutes.
+
+### Delivery Mode
+
+In-person, offline print/PDF, online cohort, self-paced, web-supported, or adaptable.
 
 ### Materials
 
@@ -62,18 +74,27 @@ What the educator can observe or collect.
 
 Local examples, language notes, device assumptions, and accessibility considerations.
 
+### Local Expert Notes
+
+Local legal, tax, privacy, safety, tool, or community knowledge required before facilitation.
+
 ---
 
-# Activity Categories By Block (Work in )
+# Activity Categories By Block (Work in Progress)
 
 ## Block 1: Problem / Fiat
 
 - Money properties comparison
 - Barter scenario
+- Double coincidence of wants scenario
 - Purchasing power reflection
 - Inflation story discussion
 - Barter-to-modern-money timeline
+- Fiat-system role map
+- Fractional reserve banking demonstration
+- Bank run scenario
 - Digital money and fiat-future scenario
+- CBDC control and trade-off discussion where appropriate
 - Scarcity, time preference, and opportunity cost reflection
 - Claim / evidence / reasoning on fiat problems
 
@@ -82,20 +103,32 @@ Local examples, language notes, device assumptions, and accessibility considerat
 - Bitcoin properties comparison
 - Build a blockchain
 - Centralized vs decentralized payment comparison
+- Digital-money predecessor timeline
+- Double-spend problem scenario
+- Bitcoin origin timeline
 - Nodes / miners / users role map
 - 21 million supply concept check
+- Sats and unit-bias concept check
 - Proof-of-work analogy discussion
+- Personal responsibility transition prompt
 - Bitcoin benefits and trade-offs map
 
 ## Block 3: Action / Self-custody
 
 - Wallet type identification
+- Address identification
 - Custodial vs non-custodial scenario
 - Seed phrase responsibility exercise
+- Wallet recovery scenario
+- Seed phrase testing checklist
 - Receive-screen walkthrough
 - Guided send/receive demonstration where appropriate
 - Do not trust, verify checklist
+- Block explorer observation where appropriate
+- Address verification and copy/paste risk scenario
+- Common scam pattern scenario
 - Acquiring/exchanging pathway risk map
+- On-chain vs Lightning beginner comparison
 - Simple transaction responsibility walkthrough
 - Safety checklist
 
@@ -105,10 +138,15 @@ Local examples, language notes, device assumptions, and accessibility considerat
 - Local types-of-money comparison
 - Lightning wallet setup demonstration where locally appropriate
 - Lightning send/receive demonstration where locally appropriate
+- Lightning invoice or Lightning address walkthrough where locally appropriate
 - Merchant payment scenario
 - Everyday purchase scenario such as coffee, groceries, or local equivalent
+- Local on-ramp / off-ramp comparison
+- KYC / no-KYC local trade-off discussion where appropriate
 - Circular economy map
 - Local Bitcoin resource map
+- BTCMap or equivalent local-resource discovery
+- Local Bitcoin community discovery
 - Local debt or inequality case discussion where appropriate
 - Community money problem workshop
 - Bitcoin-as-money opportunity analysis
@@ -125,9 +163,12 @@ Every final activity should include:
 - time;
 - materials;
 - delivery mode;
+- language or translation notes;
 - educator instructions;
 - learner instructions;
 - debrief;
 - evidence of learning;
 - low-tech option;
-- safety notes.
+- safety notes;
+- local expert notes where relevant;
+- fact-check or date-sensitive-content note where the activity uses current statistics, live tools, named services, or legal/tax context.

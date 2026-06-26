@@ -2,6 +2,8 @@
 
 This lexicon collects words from the Bitcoin Diploma that a beginner may need explained. Definitions are written in plain English.
 
+Use this file as a translation-readiness anchor for the English source. Terms used in Core materials should stay consistent with this lexicon before translation. Future localized versions should maintain reviewed language-specific terminology and identify terms that require local explanation rather than direct translation.
+
 ## 51% Attack
 
 When one person or group controls more than half of the mining power in a blockchain network. This could let them interfere with some transactions.
@@ -13,10 +15,6 @@ How widely people are willing to accept something as payment.
 ## Address
 
 A string of letters and numbers used to receive bitcoin. It works a little like an account number, but it is created by a wallet.
-
-## AIG
-
-A large insurance company that was rescued during the 2008 financial crisis because its collapse could have harmed the wider financial system.
 
 ## Anonymous
 
@@ -564,7 +562,7 @@ The smallest unit of bitcoin. One bitcoin equals 100,000,000 satoshis.
 
 ## Satoshi Nakamoto
 
-The name used by the person or group who created Bitcoin.
+The name used by the person who created Bitcoin.
 
 ## Satoshis per Byte
 

@@ -55,7 +55,9 @@ Its major weaknesses are:
 - educator support limitations;
 - technical overload for beginners in some sections;
 - unclear delivery assumptions;
-- localization challenges.
+- localization challenges;
+- multilingual source-readiness gaps;
+- publication and link-fragility risks.
 
 The core conclusion:
 
@@ -261,7 +263,9 @@ This may increase cognitive load without proportionate learner benefit.
 It is not always clear whether the Diploma assumes:
 
 - in-person delivery;
+- offline print or PDF delivery;
 - online delivery;
+- online cohort delivery;
 - self-paced learning;
 - hybrid delivery.
 
@@ -287,6 +291,28 @@ Practical content exists, but it is not consistently structured as:
 - independent application.
 
 The practical learning redesign belongs in `03_scope.md`.
+
+## 3.14 Multilingual Source Readiness
+
+The Diploma is intended for global use, but the active source files must be designed for translation rather than treated as an English-first PDF that may be translated later.
+
+Risks include:
+
+- inconsistent terminology;
+- culturally narrow examples;
+- idioms that do not translate cleanly;
+- unclear boundaries between translation and localization;
+- missing language notes for difficult Bitcoin, money, custody, and safety terms.
+
+Multilingual design belongs in `04_design.md`, `03_scope.md`, and `15_spec.md`.
+
+## 3.15 Publication And Link Fragility
+
+Print and PDF materials can become cluttered or fragile if they depend on too many QR codes, live links, named tools, or current-data examples.
+
+The redesigned publication system should keep printed materials durable and offline-usable while reserving QR codes for stable, high-value destinations.
+
+Publication rules belong in `15_spec.md`.
 
 ---
 
@@ -314,6 +340,8 @@ Its limitations lie in:
 - review systems;
 - beginner technical load;
 - delivery assumptions.
+- multilingual readiness;
+- publication and QR-code discipline.
 
 The redesign process should preserve the strengths while solving the structural and pedagogical weaknesses in the appropriate documents.
 
@@ -336,6 +364,8 @@ Public before / after framing:
 | Activities embedded inconsistently | Separate Activity Bank |
 | Educator support uneven | Educator Guide as facilitation engine |
 | Local adaptation unclear | Custom / Bitcoin as Money block |
+| English/PDF assumptions hidden | Translation-ready source files and clear delivery-mode branches |
+| Link-heavy print risk | Sparse QR codes tied to stable destinations |
 
 This framing should be used in public materials as an internal review finding, not as an external research claim.
 

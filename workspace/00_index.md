@@ -33,8 +33,9 @@ Use these documents to understand:
 | 11 | `11_guide.md` | See the Educator Guide outline and facilitation responsibilities. |
 | 12 | `12_assessment.md` | Review assessment direction and evidence of learning. |
 | 13 | `13_certification.md` | Review certification boundaries and future questions. |
-| 14 | `14_spec.md` | Review publication rules and final consistency checks. |
-| 15 | `15_lexicon.md` | Review terminology and language consistency. |
+| 14 | `14_lexicon.md` | Review terminology and language consistency. |
+| 15 | `15_spec.md` | Review publication rules and final consistency checks. |
+| 16 | `16_advanced.md` | Review Advanced module ideas, follow-on pathway notes, and parked legacy content. |
 
 ---
 
@@ -48,15 +49,16 @@ Use these documents to understand:
 | Design principles and constraints | `04_design.md` |
 | Objectives and competencies | `05_objectives.md` |
 | Draft student-book scaffold | `08_draft.md` |
-| 4-block structure, content boundaries, legacy migration, Advanced module titles | `06_plan.md` |
+| 4-block structure, content boundaries, and legacy migration | `06_plan.md` |
+| Advanced module titles, follow-on pathway ideas, and parked legacy content | `16_advanced.md` |
 | Visual and asset needs | `09_assets.md` |
 | Activity Bank structure | `10_activities.md` |
 | Educator Guide structure | `11_guide.md` |
 | Assessment direction | `12_assessment.md` |
 | Certification boundaries | `13_certification.md` |
-| Publication specification | `14_spec.md` |
-| Public Prague brief | `../public/mfb-bd-prague.md` |
-| Short keynote handoff | `../public/mfb-bd-prague-keynote.md` |
+| Beginner terminology and definitions | `14_lexicon.md` |
+| Publication specification | `15_spec.md` |
+| Public keynote and stakeholder brief | `../public/MFB-BD-Keynote.md` |
 
 ---
 
@@ -72,16 +74,24 @@ The redesign currently uses this 4-block structure:
 Working assumptions:
 
 - in-person first;
+- offline-capable print or PDF first;
 - approximately 8 hours total;
 - approximately 2 hours per block;
 - one beginner Diploma with Custom and Advanced pathways;
 - Core, Custom, and Advanced content separation;
+- shared Core theory with localized, educator-led practice;
+- English-first drafting with multilingual and translation-ready source files;
+- simplicity, tone, style, and translation-readiness review before translation or publication;
 - practical learning in every block;
 - educator-selected Custom block;
 - Activity Bank as a separate ecosystem component;
 - Educator Guide as a facilitation tool;
+- sparse QR code use in print materials;
+- future delivery branches documented without changing Core outcomes: online PDF, online cohort, self-paced, web, app, and cross-modal continuation;
 - assessment framework in scope;
-- certification design out of scope for the current redesign.
+- certification design out of scope for the current redesign;
+- Advanced module design deferred until after the beginner Diploma is published;
+- `06_plan.md` is the active plan source of truth; the duplicated older plan file has been archived at `../y_archive/y_13_plan_superseded.md`.
 
 ---
 
@@ -89,8 +99,7 @@ Working assumptions:
 
 | File | Purpose |
 |---|---|
-| `../public/mfb-bd-prague.md` | Full public stakeholder brief and keynote source material. |
-| `../public/mfb-bd-prague-keynote.md` | Short 10-minute keynote handoff for slide creation. |
+| `../public/MFB-BD-Keynote.md` | Combined public stakeholder brief, keynote source material, and 10-minute keynote handoff. |
 
 Public materials should be clear, short, and non-technical. They should explain that the Diploma is being reorganized, not replaced.
 
@@ -99,8 +108,13 @@ Public materials should be clear, short, and non-technical. They should explain 
 # Consistency Rules
 
 - Do not use `y_archive/` as current evidence or source material.
-- Use “block” for the required Diploma structure.
-- Use “Custom modules” or “Custom units” only for educator-selected Block 4 content.
-- Keep the full Advanced module title list only in `06_plan.md`.
+- Use "block" for the required Diploma structure.
+- Use "Custom modules" or "Custom units" only for educator-selected Block 4 content.
+- Do not rename Block 4 globally as "Spending"; spending is one possible Custom / Bitcoin as Money practice.
+- Keep the full Advanced module title list only in `16_advanced.md`.
 - Keep detailed activity instructions in `10_activities.md`, not in the Student Book or plan.
 - Keep detailed facilitation guidance in `11_guide.md`, not in the Student Book or plan.
+- Draft in English first, then review simplicity, tone, style, terminology, and translation readiness before translation or publication.
+- Keep print QR codes sparse and tied to stable, high-value destinations.
+- Fact-check or date current-data examples before publication.
+- Do not turn named tools, services, exchanges, wallets, maps, or local resources into global recommendations unless publication rules explicitly allow them.

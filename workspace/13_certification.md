@@ -46,11 +46,24 @@ Future certification design must answer:
 - What is the difference between participation, completion, assessment, and certification?
 - What must be standardized across communities?
 - What can be adapted locally?
-- What evidence works across in-person, online, self-paced, and hybrid delivery?
+- What evidence works across in-person, offline/PDF, online PDF, online cohort, self-paced, web, app, and hybrid or cross-modal delivery?
+- Could completion or certification records be timestamped with an on-chain Bitcoin transaction?
+- If on-chain timestamping is used, what data must stay private and what proof can be public?
+- Who controls the verification process if blockchain timestamping is used?
 
 ---
 
-# 4. Out Of Scope For Current Redesign
+# 4. Future Verification Ideas
+
+One possible future certification model is to anchor completion or certification records to the Bitcoin blockchain through a timestamped transaction.
+
+This could allow a certificate, certificate batch, or hash of a completion record to be verified later without placing learner personal information on-chain.
+
+This is only an idea at this stage. It should not be presented as a current Diploma feature until certification governance, privacy, technical implementation, cost, educator workflow, and verification standards are defined.
+
+---
+
+# 5. Out Of Scope For Current Redesign
 
 The current redesign project does not include:
 
@@ -58,13 +71,14 @@ The current redesign project does not include:
 - certification governance;
 - certification verification systems;
 - credential infrastructure;
-- decentralized verification mechanisms.
+- decentralized verification mechanisms;
+- on-chain certification or timestamping implementation.
 
 These may become future projects.
 
 ---
 
-# 5. Relationship To Other Documents
+# 6. Relationship To Other Documents
 
 Use `05_objectives.md` for learning objectives.
 

@@ -75,6 +75,7 @@ Instead:
 - Risks
 - Opportunities
 - Design implications
+- Multilingual and delivery-mode implications
 - Recommended actions
 
 ---
@@ -86,6 +87,58 @@ Researcher:
 Date:
 
 Time Spent:
+
+---
+
+# Internal Purpose Definitions
+
+These are internal stakeholder definitions of what the Bitcoin Diploma is for. Treat them as qualitative internal evidence for purpose, tone, and design direction, not as final public copy.
+
+## Colleague Responses
+
+> Arnold - bring structured and foundational concepts of bitcoin education to students from all corners of the world.
+
+> Quentin - to arm students with the knowledge they need to see past the broken fiat system and to give them the tools to regain sovereignty and agency
+
+> Gabe - Introduce people to Bitcoin, with a newfound knowledge about economics and monetary history. Once properly introduced, the Bitcoin Diploma exists to guide individuals through the values of Bitcoin from an objective point of view, not subjective. Goes back to "we don't teach you what to think, we teach you how to think and provide you the facts/information to make a decision for your financial future"
+
+> John - teach not just about money, but also about sovereignty.
+
+## Synthesis
+
+The internal definitions converge on five purpose themes:
+
+1. The Diploma should provide structured, foundational Bitcoin education.
+2. The Diploma should be globally accessible and useful across local contexts.
+3. The Diploma should teach monetary history, economics, fiat-system critique, and Bitcoin together rather than presenting Bitcoin as an isolated technology.
+4. The Diploma should support sovereignty, agency, and financial responsibility without becoming investment advice.
+5. The Diploma should teach learners how to think, not what to think, by presenting facts, trade-offs, and reasoning tools.
+
+## Where This Is Addressed
+
+This purpose language is already present in several source and planning documents:
+
+- `ref/03_bd_202604_spec.md` states the one-sentence purpose as a structured foundation in Bitcoin, money, financial systems, and digital sovereignty. It also names the principle "teach how to think, not what to think" and describes the main outcome as helping learners evaluate Bitcoin intelligently and participate in financial sovereignty.
+- `ref/02_bd_202604_educator_guide.md` directly frames the educator role around teaching how to think, sharpening questions, and helping students form their own conclusions.
+- `ref/README.md` describes the Diploma as a comprehensive and structured introduction to Bitcoin, focused on understanding, sovereignty, and long-term thinking rather than speculation or trading.
+- `public/MFB-BD-Keynote.md` repeats the redesign principle that learners should leave with better questions, clearer reasoning, and more confidence.
+- `workspace/04_design.md` already owns this as a design principle under "Teach How To Think, Not What To Think" and as part of thematic coherence around money, economics, technology, Bitcoin, sovereignty, and responsibility.
+- `workspace/07_contents.md` identifies the future student-facing location for this idea in "Our mission," "What we stand for," and "Why this Diploma exists."
+
+## Implementation Implications
+
+Use these internal definitions to validate and sharpen existing redesign language rather than adding a separate new mission.
+
+Implementation locations:
+
+1. `workspace/02_research.md`: preserve the internal definitions as stakeholder evidence.
+2. `workspace/04_design.md`: use the synthesis as a purpose anchor for design decisions.
+3. `workspace/07_contents.md`: later translate the synthesis into student-facing opening material about why the Diploma exists.
+4. `workspace/05_objectives.md` and `workspace/12_assessment.md`: keep sovereignty, agency, and independent reasoning visible in objectives and evidence of learning without turning them into ideological agreement.
+
+Recommended working definition:
+
+The Bitcoin Diploma exists to provide structured, foundational, globally accessible Bitcoin education that helps learners understand money, fiat systems, Bitcoin, sovereignty, and responsibility so they can reason independently about their financial future.
 
 ---
 
@@ -231,7 +284,7 @@ Source:
 
 ---
 
-# Section 6: Online vs In-Person
+# Section 6: Online vs In-Person And Delivery Branches
 
 What learning outcomes improve in-person?
 
@@ -242,6 +295,22 @@ Source:
 ---
 
 What learning outcomes improve online?
+
+Answer:
+
+Source:
+
+---
+
+What must change between offline print/PDF, online PDF, online cohort, self-paced, web, app, and hybrid or cross-modal delivery while preserving the same Core outcomes?
+
+Answer:
+
+Source:
+
+---
+
+Which delivery modes require different evidence of learning, educator support, or learner pacing?
 
 Answer:
 
@@ -363,6 +432,18 @@ Evidence:
 
 # Section 13: Multilingual Research
 
+Which source-writing practices improve translation quality?
+
+Evidence:
+
+---
+
+Which editorial checks best preserve simple language, tone, style, and meaning when an English-first curriculum is translated?
+
+Evidence:
+
+---
+
 Which Bitcoin concepts are difficult to translate?
 
 Evidence:
@@ -376,6 +457,12 @@ Evidence:
 ---
 
 Common translation failures:
+
+Evidence:
+
+---
+
+Which concepts require local expert explanation rather than direct translation?
 
 Evidence:
 
@@ -453,6 +540,26 @@ Recommendation:
 
 ---
 
+# Section 17: Publication, Print, And QR Restraint
+
+How many QR codes can a printed learner resource use before the page becomes cluttered or the resource becomes fragile?
+
+Evidence:
+
+---
+
+Which destinations are stable enough to justify QR codes in print?
+
+Evidence:
+
+---
+
+What should remain fully available offline in the print or PDF version?
+
+Evidence:
+
+---
+
 # Final Recommendations
 
 The research package should support, test, or challenge the following redesign decisions. Until external sources are filled in, these should be treated as research priorities and internal review implications rather than completed evidence claims.
@@ -462,6 +569,9 @@ The research package should support, test, or challenge the following redesign d
 1. Reduce the beginner pathway to an approximately 8-hour 4-block structure.
 2. Separate beginner, Custom, and Advanced material to reduce cognitive overload.
 3. Increase active learning through a dedicated Activity Bank and educator facilitation support.
+4. Design source files for multilingual transfer from the beginning.
+5. Preserve an offline-capable in-person PDF path while documenting future delivery branches.
+6. Keep print QR codes sparse and tied to stable, high-value destinations.
 
 ---
 
@@ -470,6 +580,8 @@ The research package should support, test, or challenge the following redesign d
 1. Adult learning evidence for shorter, active, in-person learning experiences.
 2. Curriculum design evidence for modular learning, spiral review, and competency alignment.
 3. Educator support evidence showing why facilitator guides, timing support, and activity banks improve consistency.
+4. Evidence or expert review for multilingual source-writing practices.
+5. Evidence for online, self-paced, web, app, and cross-modal adaptations before making claims about those modes.
 
 ---
 
@@ -478,6 +590,8 @@ The research package should support, test, or challenge the following redesign d
 1. Completion and dropout patterns in comparable community education programs.
 2. Low-connectivity and mobile-first learning constraints.
 3. Cross-cultural adaptation risks for money, custody, and local Bitcoin examples.
+4. Print usability and QR-code restraint.
+5. Local expert-led practice models and safety boundaries.
 
 ---
 
@@ -486,6 +600,9 @@ The research package should support, test, or challenge the following redesign d
 1. Use the 4-block model as the working architecture.
 2. Keep Advanced material outside the Core beginner pathway.
 3. Build the Educator Guide and Activity Bank as required parts of the learning ecosystem.
+4. Write in plain, consistent, translation-ready language.
+5. Treat spending as one possible Block 4 practice, not the full global definition of Block 4.
+6. Use QR codes sparingly in printed learner materials.
 
 ---
 
@@ -494,6 +611,8 @@ The research package should support, test, or challenge the following redesign d
 1. Certification design and verification governance.
 2. Final Advanced module objectives.
 3. Public claims that depend on external research until sources are added.
+4. App implementation and cross-modal continuation design.
+5. Final online cohort and self-paced evidence requirements.
 
 ---
 
@@ -514,6 +633,8 @@ Podcasts:
 Field Notes:
 
 Community Feedback:
+
+- Internal purpose definitions from Arnold, Quentin, Gabe, and John.
 
 Other:
 
@@ -540,7 +661,7 @@ Use `03_scope.md` to understand project workstreams and deliverables.
 
 ### Source
 
-Repository: https://github.com/saxtron3000/hackfest
+Repository: https://github.com/StevenBlack/hackfest
 
 This repository contains notes and assets from the Hackfest 2023 presentation “Bitcoin: Cool et pas à peu près,” a 45-minute French-language session designed to explain Bitcoin while highlighting technical facets.
 
