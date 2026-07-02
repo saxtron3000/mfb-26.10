@@ -367,6 +367,8 @@ CBDC designs differ. Some are intended mainly for financial institutions. Others
 
 A CBDC does not create a fixed monetary supply or remove central control. It changes the technology and distribution of fiat money. The central bank remains the issuer and can still apply monetary policy.
 
+Digital does not automatically mean decentralized, scarce, private, or open to independent verification. A CBDC may use digital technology, but it is still fiat money if its issuer, supply rules, access rules, and payment permissions remain centrally managed.
+
 When discussing a CBDC, ask:
 
 - Who issues the money?
@@ -374,6 +376,7 @@ When discussing a CBDC, ask:
 - What information is collected?
 - Can a payment be blocked, limited, or reversed?
 - Can the rules change?
+- Can ordinary users independently verify the rules?
 - What happens without electricity or internet access?
 - What legal protections exist?
 
@@ -453,7 +456,11 @@ Several projects contributed ideas that later appeared in Bitcoin.
 
 **Bit Gold** described a proposed system in which computational work could create scarce digital records. It was not launched as a complete decentralized money system, but it developed important ideas about digital scarcity and proof.
 
-Other proposals explored distributed records, reusable proof of work, and digital signatures. Each helped clarify the remaining problem.
+**B-money** and **reusable proof of work** explored ways for participants to create or transfer scarce digital value without relying only on one central database. They were incomplete, but they helped clarify what a working system would need.
+
+**BitTorrent** was not money. It showed that a peer-to-peer network could let many independent computers share information without one central server controlling the whole system.
+
+Together, these experiments showed useful pieces of the puzzle. They also clarified the remaining problem.
 
 The central problem was **double spending**. A paper note cannot normally be given to two people at the same time. Digital data can be copied perfectly. A dishonest user could try to send the same digital unit to two recipients.
 
@@ -503,6 +510,14 @@ Decentralization is not the same as equal influence. Mining equipment, technical
 
 Decentralization also creates costs. Coordination can be slower. Users must verify information and take more responsibility. There is no central support desk for the Bitcoin network. These trade-offs are part of the design, not accidental defects that can be removed without changing the system.
 
+### Digital scarcity and credible scarcity
+
+Digital information is normally easy to copy. Digital scarcity means that the system can distinguish a valid unit from an invalid copy and can prevent the same unit from being spent twice.
+
+Bitcoin creates digital scarcity by combining signatures, a public transaction history, proof of work, and independent rule verification. A bitcoin can be transferred, but the network rejects an attempt to spend the same bitcoin again.
+
+Scarcity is more credible when the rules are public, users can verify them independently, and no single issuer can quietly change the supply for everyone. This is why Bitcoin's supply limit must be studied together with decentralization and node verification.
+
 ### Finite supply
 
 Bitcoin's rules define a predictable issuance schedule and a maximum supply of 21 million bitcoin. New bitcoin enter circulation through the block subsidy paid to miners who produce valid blocks.
@@ -514,6 +529,8 @@ The subsidy began at 50 bitcoin per block. It falls by half in repeated steps un
 The 21 million limit is enforced by nodes. If a miner creates more bitcoin than the rules allow, validating nodes reject the block. A software developer can write different code, but cannot force other people to run it.
 
 Bitcoin's supply rule is credible because it is public, easy to verify with a node, and difficult for one party to change. It is not a physical law. It is a network rule that remains effective while participants continue to enforce it.
+
+Many digital assets can claim a limited supply. The beginner question is whether the limit is credible in practice, not only whether it is written in a document or displayed on a website.
 
 Finite supply does not guarantee a rising market price. Price depends on demand as well as supply. It also does not mean every bitcoin is available for sale; some may be held long term or become inaccessible because keys were lost.
 
@@ -558,6 +575,8 @@ Bitcoin works because different participants perform different roles.
 **Nodes** run Bitcoin software and independently verify the rules. A full node checks that transactions have valid signatures, that bitcoin have not already been spent, that blocks satisfy proof of work, and that new bitcoin follow the issuance schedule. Nodes share valid data with peers and reject invalid data.
 
 **Miners** gather pending transactions, build candidate blocks, and compete through proof of work. A successful miner broadcasts a block and may receive the allowed block subsidy and transaction fees. Miners help order transactions and make the ledger costly to rewrite.
+
+**Developers** review, write, and propose software changes. They do not own Bitcoin's rules. A software change matters only if participants choose to run software that follows those rules.
 
 These roles limit one another:
 
@@ -883,11 +902,15 @@ To check a transaction with a block explorer:
 
 A transaction with no confirmation has been broadcast but is not yet included in a block. Its status can still change. The first confirmation occurs when a miner includes it in a valid block. Each valid block added after that increases the work that would need to be redone to replace its history.
 
+More confirmations increase settlement confidence. They do not make a bad address good or turn a scam into a safe payment. They only show that the transaction is deeper in the accepted history.
+
 The suitable number of confirmations depends on risk. A small purchase may be treated differently from a large settlement. Your educator may explain local practice, but there is no universal number for every situation.
 
 Block explorers create privacy considerations. Searching your own address or TXID can reveal to the explorer's operator that your device is interested in that transaction. Avoid publishing addresses or transaction details without a reason.
 
 Bitcoin transactions are designed for final settlement. There is no central institution that can cancel a confirmed transaction because you made a mistake. A recipient can voluntarily return funds, but the network cannot force them to do so. Verification must happen before approval.
+
+For a classroom activity, an educator may use a printed explorer screenshot or a historical transaction, such as the Pizza Day transaction, to show what public ledger data can and cannot prove. The activity should also ask what privacy information becomes visible.
 
 ### Safety checklist: seed phrases, address checks, scams, and starting small
 
@@ -980,6 +1003,8 @@ An **on-chain payment** is recorded directly in Bitcoin's blockchain. It uses bl
 
 The **Lightning Network** is a payment network built on top of Bitcoin. Participants use payment channels and route payments between one another without recording every individual payment as a separate on-chain transaction. Lightning is designed for fast, frequent, or small payments.
 
+This is a layer distinction. Bitcoin's base layer prioritizes open verification and final settlement. Lightning uses Bitcoin as its foundation while making different trade-offs for speed and frequent payments. Faster layers do not replace the base rules; they depend on them.
+
 | Feature | On-chain Bitcoin | Lightning |
 | --- | --- | --- |
 | Payment request | Bitcoin address or on-chain payment request | Lightning invoice, offer, or supported Lightning address |
@@ -1062,6 +1087,9 @@ Possible module questions include:
 - Can a family send value between two places more easily?
 - Can a merchant accept payment without holding a large bitcoin balance?
 - Can a person compare a local exchange path with a bank transfer or cash exchange?
+- Can a family compare a remittance path with an existing local method?
+- Can a nonprofit or community group receive support while keeping custody, transparency, and records clear?
+- Can people with limited banking access identify a safer payment or savings path without increasing personal risk?
 - Can learners identify reliable Bitcoin support in the community?
 - Can local businesses trade with one another using the same money?
 - Can saving in sats address a local problem, and what new risk does it create?
@@ -1087,6 +1115,7 @@ A practical workshop may include:
 - comparing fees and final received amounts across two local pathways;
 - identifying scam signals in a message;
 - planning a merchant payment flow;
+- designing a safe community donation flow;
 - mapping local resources or payment relationships.
 
 Before any live demonstration, confirm:
@@ -1234,6 +1263,16 @@ A merchant needs to return value after an on-chain payment.
 - How can the merchant verify that the request really came from the customer?
 - Who pays the return transaction fee?
 - What record should both parties keep?
+
+**Scenario 5: A community donation**
+
+A local organization wants to receive support in bitcoin.
+
+- How will donors verify the real payment request?
+- Who controls the receiving wallet and backup?
+- Will donations be received on-chain, through Lightning, or both?
+- What information should be public for transparency, and what should remain private for donor safety?
+- What records are needed for local accounting, tax, or reporting rules?
 
 For a live practice, use a low-value item or a simulation. The learner should be able to explain the complete flow before approving payment.
 

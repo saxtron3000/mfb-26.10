@@ -68,7 +68,7 @@ Core content:
 - fiat systems, including central banks, commercial banks, governments, and citizens at beginner level;
 - fractional reserve banking and bank runs at beginner level;
 - inflation and purchasing power;
-- CBDCs as a beginner fiat-system example where appropriate.
+- CBDCs as a beginner fiat-system example where appropriate, emphasizing that digital fiat is not the same as decentralized or scarce money.
 
 Outcome:
 
@@ -81,11 +81,13 @@ Keep this block focused on why Bitcoin exists and what makes it different.
 Core content:
 
 - search for digital and decentralized money, including the Cypherpunk context;
-- earlier digital-money attempts such as DigiCash, Hashcash, and Bit Gold at beginner level;
+- earlier digital-money attempts and influences such as DigiCash, Hashcash, Bit Gold, B-money, BitTorrent, and reusable proof of work at beginner level;
 - the double-spend problem at beginner level;
+- digital scarcity and credible scarcity at beginner level;
 - Bitcoin origin story and timeline, including the whitepaper, Genesis Block, first transaction, and Pizza Day;
 - decentralization;
 - users, nodes, and miners at beginner level;
+- developer, miner, node, and user role boundaries at beginner level;
 - proof of work at beginner level;
 - finite supply and halving;
 - satoshis and unit bias;
@@ -111,7 +113,8 @@ Core content:
 - wallet recovery and seed phrase testing;
 - receiving bitcoin;
 - sending bitcoin;
-- verification, including basic block explorer orientation where it supports beginner understanding;
+- verification, confirmations, and basic block explorer orientation where they support beginner understanding;
+- public-ledger privacy trade-offs at beginner level;
 - irreversible transactions and address verification;
 - beginner safety practices, including common scams, copy/paste address risks, seed phrase protection, open-source wallet preference, and starting small;
 - acquiring and exchanging bitcoin as a concept, not financial advice;
@@ -136,6 +139,9 @@ Possible Custom content:
 - custodial Lightning wallet demonstrations where locally appropriate;
 - Lightning invoices and Lightning addresses where locally appropriate;
 - merchant payments;
+- family remittance or cross-border payment comparison;
+- nonprofit or community donation scenario;
+- underbanked or restricted-access scenario where locally appropriate;
 - everyday purchase scenarios;
 - local spending and receiving scenarios;
 - buying and selling bitcoin in the community;
@@ -190,11 +196,43 @@ Split decisions:
 - Buying and selling bitcoin may appear in Core as a conceptual risk map, but provider-specific practice belongs in Custom.
 - Named services, wallets, exchanges, peer-to-peer platforms, and local recommendations should not become global Student Book recommendations.
 
+## Bitcoin For Organizations Cannibalization
+
+`workspace/mergefromorganizations.md` reviews the retiring `../ref/bitcoin-for-organizations/en` pathway for beginner Diploma use. `workspace/advancedorganizations.md` and `16_advanced.md` preserve the larger Advanced source trail.
+
+Beginner merge decision:
+
+- Do not import Organizations chapters into the Student Book.
+- Use Organizations material only where it improves existing beginner outcomes.
+- Keep the Student Book lean; put misconception handling mostly in `11_guide.md` and scenario practice mostly in `10_activities.md` or Block 4 Custom templates.
+
+Organizations content may support:
+
+- Block 1: CBDCs as digital fiat and a trust/control comparison.
+- Block 2: digital scarcity, double spending, short technical lineage, credible scarcity, protocol/layers framing, and role boundaries among developers, miners, nodes, and users.
+- Block 3: confirmations, explorer orientation, public-ledger transparency, irreversible settlement, and privacy trade-offs.
+- Block 4: local merchant, remittance, nonprofit, underbanked-access, circular-economy, on-ramp, and off-ramp scenarios.
+- Educator Guide: misconception prompts and claim/evidence/trade-off facilitation.
+- Activity Bank: ledger exploration, local payment path comparison, community donation scenarios, and local resource mapping.
+
+Organizations content should not become beginner Core when it requires:
+
+- treasury strategy;
+- investment management;
+- legal, tax, accounting, AML, KYC, or compliance instruction;
+- institutional custody vendor selection;
+- organizational risk registers as required learner work;
+- government policy strategy;
+- sector-by-sector business analysis;
+- AI payments;
+- on-chain market indicators;
+- detailed cryptography, reorg math, or protocol governance.
+
 ## Publication Guardrails
 
 Fact-check rule:
 
-Current-data examples must be verified, dated, cited, or replaced with evergreen explanations before publication. This includes CBDC country counts, bitcoin mined-supply figures, large-transaction fee examples, Visa transaction comparisons, Lightning capacity or speed claims, fee amounts, provider names, and legal or tax statements.
+Current-data examples must be verified, dated, cited, or replaced with evergreen explanations before publication. This includes CBDC country counts, bitcoin mined-supply figures, large-transaction fee examples, Visa transaction comparisons, Lightning capacity or speed claims, fee amounts, provider names, legal or tax statements, energy-use claims, merchant maps, nonprofit examples, company examples, holder estimates, and organizational adoption claims.
 
 Tone and claims rule:
 
@@ -347,6 +385,8 @@ Educator preparation, timing, adaptation, misconception support, and debrief gui
 | Assessment evidence and direction | `12_assessment.md` |
 | Certification boundaries | `13_certification.md` |
 | Publication rules | `15_spec.md` |
+| Beginner-safe Organizations merge checklist | `mergefromorganizations.md` |
+| Organizations-to-Advanced source map | `advancedorganizations.md` and `16_advanced.md` |
 | Advanced module ideas and redacted content collection | `16_advanced.md` |
 | Public keynote and stakeholder brief | `../public/MFB-BD-Keynote.md` |
 

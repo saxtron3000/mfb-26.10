@@ -55,6 +55,7 @@ The new version improves the Diploma by:
 - organizing the course into four clear blocks;
 - separating required Core content from Custom local practice and Advanced future learning;
 - increasing practical learning, discussion, reflection, and learner explanation;
+- using selected Bitcoin for Organizations material only where it clarifies beginner concepts, educator misconception support, Activity Bank scenarios, or local Custom practice;
 - improving educator guidance, pacing, activities, and assessment support;
 - preparing English source files for translation and localization;
 - reducing fragile links, QR-code clutter, and named-service dependencies;
@@ -70,7 +71,7 @@ The redesign does not remove the mission of the Diploma. It makes the mission ea
 
 Learners begin with money itself.
 
-This block introduces why societies use money, what makes money useful, how money has changed over time, and what problems can emerge in fiat systems. Topics include barter, the functions and properties of money, scarcity, purchasing power, inflation, fractional reserve banking, and beginner-level fiat-system roles.
+This block introduces why societies use money, what makes money useful, how money has changed over time, and what problems can emerge in fiat systems. Topics include barter, the functions and properties of money, scarcity, purchasing power, inflation, fractional reserve banking, beginner-level fiat-system roles, and CBDCs as digital fiat where appropriate.
 
 Core question:
 
@@ -84,7 +85,7 @@ Learners can explain why fiat money is the problem Bitcoin responds to.
 
 Learners then study why Bitcoin was created and what makes it different.
 
-This block introduces the search for digital and decentralized money, the double-spend problem, Bitcoin's origin story, decentralization, peer-to-peer transfer, finite supply, satoshis, proof of work, users, nodes, miners, and verifiability at a beginner level.
+This block introduces the search for digital and decentralized money, the double-spend problem, digital scarcity, Bitcoin's origin story, decentralization, peer-to-peer transfer, credible finite supply, satoshis, proof of work, users, nodes, miners, developers, and verifiability at a beginner level.
 
 Core question:
 
@@ -98,7 +99,7 @@ Learners can explain Bitcoin's purpose and how it differs from fiat money.
 
 Learners then move from theory into responsibility.
 
-This block introduces wallets, addresses, keys, seed phrases, custodial and non-custodial use, hot and cold wallets, wallet recovery, seed phrase testing, receiving, sending, verification, irreversible transactions, on-chain and Lightning distinctions, and common beginner safety risks.
+This block introduces wallets, addresses, keys, seed phrases, custodial and non-custodial use, hot and cold wallets, wallet recovery, seed phrase testing, receiving, sending, confirmations, block explorer orientation, verification, public-ledger privacy, irreversible transactions, on-chain and Lightning distinctions, and common beginner safety risks.
 
 The goal is not to make every learner ready for high-stakes custody. The goal is to help beginners understand the responsibility involved and identify safe next steps.
 
@@ -116,7 +117,7 @@ The final block is educator-selected and locally grounded.
 
 Educators choose the Custom block because local educators understand their students, tools, risks, opportunities, and community conditions better than a centralized curriculum can.
 
-Possible Custom modules include Lightning demonstrations, merchant payments, local spending and receiving scenarios, local on-ramp and off-ramp comparisons, KYC and no-KYC trade-offs where appropriate, local resource maps, circular economies, community use cases, and practical workshops using tools that are relevant in the local context.
+Possible Custom modules include Lightning demonstrations, merchant payments, remittance comparisons, nonprofit or community donation scenarios, local spending and receiving scenarios, local on-ramp and off-ramp comparisons, KYC and no-KYC trade-offs where appropriate, local resource maps, circular economies, community use cases, and practical workshops using tools that are relevant in the local context.
 
 Spending is one possible practice, but Block 4 is broader than spending. Bitcoin as money may also include earning, saving, receiving, mapping resources, finding local communities, or solving local monetary problems.
 
@@ -245,6 +246,7 @@ It should not promise:
 - trading or investment outcomes;
 - independent high-stakes custody mastery;
 - advanced technical mastery;
+- organizational treasury, policy, compliance, accounting, tax, legal, investment, or institutional custody competence;
 - legal or tax guidance;
 - global endorsement of named tools or services;
 - completed certification infrastructure.

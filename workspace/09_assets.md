@@ -75,6 +75,41 @@ Must show:
 - educator-selected Custom / Bitcoin as Money block;
 - local tools, needs, risks, and opportunities.
 
+## Local Payment Path Comparison Worksheet
+
+Purpose: support Organizations-derived Custom scenarios without requiring live tools.
+
+Must compare:
+
+- existing local payment method;
+- on-chain Bitcoin path;
+- Lightning path where relevant;
+- fees, timing, custody, privacy, reversibility, failure points, and local support needs.
+
+## Misconception Discussion Cards
+
+Purpose: give educators reusable prompts drawn from Organizations misconception material.
+
+Must support:
+
+- learner claim;
+- evidence needed;
+- trade-off;
+- what not to overclaim;
+- Advanced source trail.
+
+## Ledger Observation Worksheet
+
+Purpose: support beginner verification and public-ledger privacy discussion.
+
+Must let learners identify:
+
+- TXID or printed example;
+- amount, fee, and confirmations;
+- visible public information;
+- what a block explorer can show;
+- what privacy risk explorer use can create.
+
 ## QR Code Placement Plan
 
 Purpose: prevent print clutter and stale destinations.

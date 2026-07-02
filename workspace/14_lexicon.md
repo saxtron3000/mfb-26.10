@@ -52,6 +52,10 @@ Trading goods or services directly without using money.
 
 A group of common products and services used to measure how prices change over time.
 
+## B-money
+
+An early proposal for decentralized digital money. It influenced later thinking about Bitcoin, but it did not become a working public money system.
+
 ## Basel III
 
 A set of international banking rules created after the 2008 financial crisis to make banks safer.
@@ -60,9 +64,17 @@ A set of international banking rules created after the 2008 financial crisis to 
 
 A digital money system that lets people send value directly to each other without a bank or payment company. The word can mean the network, the rules, or the currency.
 
+## Bit Gold
+
+An early proposal for scarce digital value created with computational work. It helped develop ideas that later appeared in Bitcoin.
+
 ## Bitcoin Network
 
 The worldwide group of computers and users that run Bitcoin and follow the same rules.
+
+## BitTorrent
+
+A peer-to-peer file-sharing protocol. It is not money, but it showed how many computers can share information without one central server controlling everything.
 
 ## Block
 
@@ -168,6 +180,10 @@ Government actions meant to slow spending in the economy, such as raising taxes 
 
 A fee paid to companies that handle card payments.
 
+## Credible Scarcity
+
+A supply limit that users can verify and that one person or institution cannot easily change for everyone.
+
 ## Cryptographic Signature
 
 A digital proof created with a private key. It shows that the owner approved a message or transaction.
@@ -223,6 +239,10 @@ Something digital that can hold or transfer value.
 ## Digital Currency
 
 Money that exists in digital form instead of as paper bills or metal coins.
+
+## Digital Scarcity
+
+The ability for a digital item or unit of money to be limited so it cannot be copied or spent endlessly.
 
 ## Difficulty
 
@@ -339,6 +359,10 @@ A math process that turns any input into a fixed-size output. Small input change
 ## Hash Rate
 
 The total computing power miners are using to secure Bitcoin.
+
+## Hashcash
+
+An early proof-of-work system that made a computer do work before sending a message. It influenced Bitcoin mining.
 
 ## HODL
 
@@ -484,6 +508,10 @@ Software whose code is public, so people can inspect, copy, improve, or verify i
 
 A valid block that is not part of the main blockchain because another competing block became part of the longer chain.
 
+## On-chain Payment
+
+A Bitcoin payment recorded directly in the blockchain.
+
 ## Paper Money
 
 Money printed on paper, such as banknotes.
@@ -555,6 +583,14 @@ The share of deposits a bank keeps available instead of lending out.
 ## Restrictive Banking
 
 Limits that make banking services hard or impossible for some people to access.
+
+## Remittance
+
+Money sent to a person in another place, often by a worker supporting family or community members.
+
+## Reusable Proof of Work
+
+An early idea for transferring proof-of-work value between people. It was an important experiment before Bitcoin, but it was not the same as Bitcoin.
 
 ## Satoshi
 
@@ -647,6 +683,10 @@ Able to work without needing to trust a middleman. In Bitcoin, users verify rule
 ## Two-Factor Authentication
 
 A login method that uses two proofs, such as a password plus a code from an app.
+
+## Underbanked
+
+People who have limited, unreliable, expensive, or unsuitable access to traditional banking services.
 
 ## Unbanked
 

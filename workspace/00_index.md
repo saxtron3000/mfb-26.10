@@ -58,6 +58,8 @@ Use these documents to understand:
 | Certification boundaries | `13_certification.md` |
 | Beginner terminology and definitions | `14_lexicon.md` |
 | Publication specification | `15_spec.md` |
+| Beginner-safe Organizations merge decisions | `mergefromorganizations.md` |
+| Organizations-to-Advanced source map | `advancedorganizations.md` |
 | Public keynote and stakeholder brief | `../public/MFB-BD-Keynote.md` |
 
 ---
@@ -91,6 +93,7 @@ Working assumptions:
 - assessment framework in scope;
 - certification design out of scope for the current redesign;
 - Advanced module design deferred until after the beginner Diploma is published;
+- Bitcoin for Organizations will not remain a standalone beginner path; beginner-safe material is merged only where it clarifies Core, Custom, educator, activity, or assessment work, while strategic and organizational depth is routed to Advanced;
 - `06_plan.md` is the active plan source of truth; the duplicated older plan file has been archived at `../y_archive/y_13_plan_superseded.md`.
 
 ---
@@ -112,6 +115,7 @@ Public materials should be clear, short, and non-technical. They should explain 
 - Use "Custom modules" or "Custom units" only for educator-selected Block 4 content.
 - Do not rename Block 4 globally as "Spending"; spending is one possible Custom / Bitcoin as Money practice.
 - Keep the full Advanced module title list only in `16_advanced.md`.
+- Use `mergefromorganizations.md` as the checklist for beginner-safe Organizations material; do not import Organizations chapters directly into the Student Book.
 - Keep detailed activity instructions in `10_activities.md`, not in the Student Book or plan.
 - Keep detailed facilitation guidance in `11_guide.md`, not in the Student Book or plan.
 - Draft in English first, then review simplicity, tone, style, terminology, and translation readiness before translation or publication.

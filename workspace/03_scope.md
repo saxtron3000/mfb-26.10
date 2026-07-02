@@ -66,6 +66,7 @@ The following assumptions affect project execution:
 - Localization preparation is in scope.
 - Localization implementation is out of scope.
 - Publishing is part of project completion.
+- Bitcoin for Organizations is being cannibalized, not preserved as a standalone beginner pathway. Use `mergefromorganizations.md` for beginner-safe additions and `advancedorganizations.md` / `16_advanced.md` for Advanced source trails.
 
 ---
 
@@ -207,6 +208,7 @@ Reduce unnecessary cognitive load.
 - Duplicate content audit
 - Essential vs Custom classification
 - Beginner prerequisite analysis
+- Bitcoin for Organizations cannibalization check: classify each useful item as Core, Custom, Activity Bank, Educator Guide, Advanced, or out of beginner scope
 - Named-tool and current-data audit
 - Content reduction recommendations
 
@@ -222,6 +224,7 @@ Separate advanced learning from beginner learning.
 
 - Advanced module title inventory guided by `16_advanced.md`
 - Advanced pathway recommendations guided by the candidate module titles in `16_advanced.md`
+- Organizations-to-Advanced source trail using `advancedorganizations.md` and the Organizations material already parked in `16_advanced.md`
 - Technical content recommendations
 
 ---
@@ -438,6 +441,8 @@ The redesign is complete when:
 - Essential and optional content are clearly separated.
 - Advanced content is appropriately separated.
 - Named tools, local resources, and current-data examples are checked against publication rules.
+- Beginner-safe Organizations material has been merged only where it improves the Core Diploma, Activity Bank, Educator Guide, assessment, lexicon, or publication guardrails.
+- Strategic, organizational, financial, policy, legal, tax, treasury, sector-specific, and highly technical Organizations material is parked for Advanced rather than required in the beginner Diploma.
 - Timing assumptions are documented.
 - Delivery assumptions are documented.
 - Assessment framework is completed.
@@ -468,6 +473,8 @@ The following items are intentionally excluded from the current redesign project
 - Certification design
 - Certification standards
 - Certification governance
+- A standalone Bitcoin for Organizations beginner pathway
+- Organizational treasury, accounting, legal, tax, investment, policy, compliance, or institutional custody instruction inside the beginner Diploma
 - Full localization implementation
 - AI-powered localization systems
 - Maintenance of multiple localized curriculum variants

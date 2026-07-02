@@ -21,6 +21,7 @@ Activities should:
 - align to objectives;
 - be easy for educators to facilitate;
 - support Presentation, Practice, Production where practical skills are involved;
+- support claim / evidence / trade-off reasoning where learners compare Bitcoin claims or misconceptions;
 - include low-tech alternatives;
 - work from offline or low-connectivity assumptions when possible;
 - be adaptable across communities;
@@ -105,7 +106,9 @@ Local legal, tax, privacy, safety, tool, or community knowledge required before 
 - Centralized vs decentralized payment comparison
 - Digital-money predecessor timeline
 - Double-spend problem scenario
+- Digital scarcity and credible scarcity discussion
 - Bitcoin origin timeline
+- Who controls Bitcoin? role map
 - Nodes / miners / users role map
 - 21 million supply concept check
 - Sats and unit-bias concept check
@@ -125,6 +128,7 @@ Local legal, tax, privacy, safety, tool, or community knowledge required before 
 - Guided send/receive demonstration where appropriate
 - Do not trust, verify checklist
 - Block explorer observation where appropriate
+- Explore the ledger with confirmation and privacy prompts
 - Address verification and copy/paste risk scenario
 - Common scam pattern scenario
 - Acquiring/exchanging pathway risk map
@@ -140,6 +144,10 @@ Local legal, tax, privacy, safety, tool, or community knowledge required before 
 - Lightning send/receive demonstration where locally appropriate
 - Lightning invoice or Lightning address walkthrough where locally appropriate
 - Merchant payment scenario
+- Local payment path comparison
+- Family remittance path comparison
+- Community donation scenario
+- Underbanked access scenario where locally appropriate
 - Everyday purchase scenario such as coffee, groceries, or local equivalent
 - Local on-ramp / off-ramp comparison
 - KYC / no-KYC local trade-off discussion where appropriate
@@ -172,3 +180,49 @@ Every final activity should include:
 - safety notes;
 - local expert notes where relevant;
 - fact-check or date-sensitive-content note where the activity uses current statistics, live tools, named services, or legal/tax context.
+
+---
+
+# Organizations-Derived Activity Seeds
+
+These seeds come from `mergefromorganizations.md`. They should be developed as Activity Bank items only if they remain beginner-safe and locally adaptable.
+
+## Claim, Evidence, Trade-Off
+
+Learners choose a common claim, such as "Bitcoin is too slow," "CBDCs will replace Bitcoin," "Bitcoin is not decentralized," or "there are thousands of other coins." They identify what evidence would be needed, name one real trade-off, and explain what remains uncertain.
+
+Keep the activity focused on reasoning. Do not turn it into a debate about price, politics, or investment advice.
+
+## Explore The Ledger
+
+Learners inspect a transaction using a live block explorer, a local node interface, or a printed screenshot. They identify amount, fee, confirmation status, and visible public information, then name one privacy risk created by searching or sharing transaction data.
+
+Pizza Day may be used as a historical example if the educator verifies the source and avoids turning the activity into a price speculation exercise.
+
+## Local Payment Path Comparison
+
+Learners compare an existing local payment method with an on-chain Bitcoin path and, where appropriate, a Lightning path.
+
+Comparison fields:
+
+- total amount received;
+- time;
+- fees and spreads;
+- custody;
+- privacy;
+- reversibility;
+- failure points;
+- local law or support needs.
+
+## Community Donation Scenario
+
+Learners design a safe donation flow for a local nonprofit, classroom project, community group, or simulated organization.
+
+The task should identify:
+
+- how donors verify the payment request;
+- who controls the wallet;
+- what transparency is useful;
+- what donor information should remain private;
+- what records may be required locally;
+- what failure or scam risks must be controlled.

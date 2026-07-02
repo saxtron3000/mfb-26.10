@@ -51,6 +51,7 @@ Evidence may include:
 - learner explanation of money functions and properties;
 - learner explanation of barter limits and the double coincidence of wants;
 - fiat-system role map or explanation at beginner level;
+- CBDC versus Bitcoin comparison at beginner level where CBDCs are taught;
 - fiat problem reflection;
 - concept check on inflation, fractional reserve banking, and purchasing power.
 
@@ -60,6 +61,8 @@ Evidence may include:
 
 - learner explanation of why Bitcoin was created;
 - beginner timeline or explanation connecting digital-money attempts, the double-spend problem, and Bitcoin's origin;
+- explanation of digital scarcity and credible scarcity at beginner level;
+- role map distinguishing users, nodes, miners, and developers at beginner level;
 - comparison of fiat and Bitcoin properties;
 - explanation of satoshis and the 21 million limit at beginner level;
 - guided discussion of decentralization, supply, peer-to-peer transfer, and verification.
@@ -73,6 +76,7 @@ Evidence may include:
 - custody trade-off scenario;
 - seed phrase testing and protection checklist;
 - address verification or irreversible transaction scenario;
+- block explorer or printed ledger-observation task identifying status, confirmations, public data, and privacy limits;
 - common scam pattern identification;
 - on-chain and Lightning distinction check;
 - acquiring/exchanging pathway risk map;
@@ -84,6 +88,7 @@ Evidence may include:
 
 - local tool demonstration reflection;
 - Lightning, merchant payment, or local payment scenario reflection where included;
+- local payment path, remittance path, or community donation scenario reflection where included;
 - local on-ramp/off-ramp trade-off explanation where included;
 - local resource map or community discovery task where included;
 - community use-case analysis;
@@ -111,6 +116,8 @@ Educators may collect this as:
 - a practical demonstration plus debrief.
 - an equivalent online, self-paced, or web-supported evidence artifact.
 
+Where appropriate, educators may add one guided claim / evidence / trade-off response. This should assess reasoning quality, not agreement with a slogan.
+
 ---
 
 # 6. Competency Evidence Map
@@ -119,8 +126,8 @@ Educators may collect this as:
 |---|---|
 | Monetary Foundations | Explains money functions, properties, and fiat weaknesses. |
 | Bitcoin Fundamentals | Explains Bitcoin's purpose, beginner properties, satoshis, and verification. |
-| Practical Bitcoin Orientation | Identifies wallets, custody trade-offs, recovery basics, safety practices, on-chain and Lightning distinctions, and beginner acquisition-pathway risks. |
-| Guided Critical Discussion | Uses simple reasoning in discussion. |
+| Practical Bitcoin Orientation | Identifies wallets, custody trade-offs, recovery basics, safety practices, confirmations, public-ledger privacy, on-chain and Lightning distinctions, and beginner acquisition-pathway risks. |
+| Guided Critical Discussion | Uses simple reasoning, evidence, and trade-off language in discussion. |
 | Local Relevance | Connects Bitcoin as money to a local use case where included. |
 
 ---

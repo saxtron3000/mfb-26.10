@@ -60,6 +60,7 @@ The current working design direction is:
 - practical learning increased substantially;
 - practical skills structured using PPP: Presentation, Practice, Production;
 - advanced technical content separated from the beginner pathway;
+- Organizations material used only where it clarifies beginner Core concepts, educator misconception handling, Activity Bank scenarios, or local Custom practice;
 - Educator Guide treated as a facilitation engine;
 - Activity Bank treated as part of the learning ecosystem;
 - localization considered through adaptable examples, activities, and facilitation, not through changing core outcomes;
@@ -287,6 +288,7 @@ Local expert practice includes:
 
 - tool demonstrations;
 - spending and merchant scenarios;
+- remittance, nonprofit, donation, underbanked-access, and community payment scenarios when locally relevant;
 - local payment rails;
 - local on-ramp and off-ramp realities;
 - legal, tax, privacy, and safety context;
@@ -591,6 +593,10 @@ Locally useful practice may become unsafe or misleading if it is not led by educ
 ## Narrow Spending Risk
 
 Reducing Block 4 to "spending" may understate broader local Bitcoin-as-money possibilities such as earning, saving, merchant discovery, circular economies, remittances, resource mapping, and community problem-solving.
+
+## Organizations Source Creep Risk
+
+The retiring Bitcoin for Organizations pathway contains strong material for misconceptions, payments, public-ledger analysis, policy, treasury, risk management, nonprofits, technology, and sector impacts. Most of that material assumes advanced organizational reasoning. It should not pull the beginner Diploma toward business strategy, compliance, investment, legal, tax, treasury, or institutional custody instruction.
 
 ---
 
