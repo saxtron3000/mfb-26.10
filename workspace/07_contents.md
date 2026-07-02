@@ -31,7 +31,7 @@
 - Fiat money
 - Fractional reserve banking at beginner level
 - Inflation and purchasing power
-- CBDCs as a beginner fiat-system example where appropriate
+- CBDCs as digital fiat, not decentralized digital money
 - Why people look for alternatives (Precious Metals, Real Estate, Stocks)
 - Review: what problem does fiat money create?
 
@@ -40,6 +40,7 @@
 - Why Bitcoin was created
 - The search for digital and decentralized money
 - Early digital-money attempts and the double-spend problem
+- Digital scarcity and credible scarcity
 - Bitcoin origin timeline
 - Decentralization
 - Finite supply
@@ -62,7 +63,7 @@
 - Wallet recovery and seed phrase testing
 - Receiving bitcoin
 - Sending bitcoin
-- Verification, block explorers, and irreversible transactions
+- Verification, confirmations, block explorers, public-ledger privacy, and irreversible transactions
 - Safety checklist: seed phrases, address checks, scams, and starting small
 - Acquiring and exchanging bitcoin as pathway awareness, not financial advice
 - On-chain and Lightning payments at beginner level
@@ -80,6 +81,7 @@
 - KYC and no-KYC trade-offs where locally appropriate
 - Circular economies
 - Merchant or community use cases
+- Remittance, nonprofit, donation, or underbanked-access scenarios where locally appropriate
 - Local resource maps and community discovery
 - Review: how can Bitcoin function as money in this community?
 

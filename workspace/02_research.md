@@ -142,6 +142,22 @@ The Bitcoin Diploma exists to provide structured, foundational, globally accessi
 
 ---
 
+# Internal Source Review: Bitcoin For Organizations
+
+`workspace/mergefromorganizations.md` and `workspace/advancedorganizations.md` reviewed the retiring `ref/bitcoin-for-organizations/en` pathway on 2026-06-26.
+
+Treat this as internal curriculum evidence, not as external research. The review supports the current redesign direction in three ways:
+
+1. It confirms that most Organizations content is too advanced for the 8-hour beginner Diploma.
+2. It identifies beginner-safe concepts that clarify existing Core objectives: CBDCs as digital fiat, digital scarcity, double spending, short technical lineage, credible scarcity, users/nodes/miners/developers, confirmations, block explorer verification, public-ledger privacy, on-chain versus Lightning layers, and local payment scenarios.
+3. It provides educator and Activity Bank material for misconception handling, claim/evidence/trade-off discussion, local payment path comparison, community donation scenarios, remittance scenarios, and circular-economy mapping.
+
+Research and publication caution:
+
+- Current-data claims from Organizations require verification before public use. This includes CBDC status, policy claims, legal restrictions, tax and accounting rules, energy claims, market metrics, Lightning usage, company examples, merchant maps, and named tools or services.
+- Strategic, operational, investment, treasury, legal, policy, and sector-specific Organizations material should become Advanced source material, not beginner Core content.
+- Beginner use should favor guided questions and scenario prompts over institutional recommendations or predictions.
+
 # Section 1: Adult Learning Research
 
 ## Key Questions

@@ -100,6 +100,7 @@ Educators may also combine models, such as two half-days or one weekend morning 
 - Opening money questions
 - Fiat-system roles at beginner level
 - Fractional reserve banking and bank run demonstrations where appropriate
+- CBDCs as digital fiat, with issuer, supply, permission, privacy, and verification questions
 - Likely misconceptions
 - Suggested activities
 - Review point
@@ -108,6 +109,8 @@ Educators may also combine models, such as two half-days or one weekend morning 
 
 - Core ideas
 - Cypherpunk and early digital-money context without overloading the timeline
+- Digital scarcity, double spending, and credible scarcity as the main beginner reasons the technical history matters
+- Developer, miner, node, and user role boundaries at beginner level
 - Satoshis as a low-complexity concept that unlocks payments, fees, supply, and custody discussions
 - Likely misconceptions
 - Suggested activities
@@ -120,7 +123,7 @@ Educators may also combine models, such as two half-days or one weekend morning 
 - Wallet recovery and seed phrase testing boundaries
 - Common scam and address-verification scenarios
 - How to explain acquiring and exchanging pathways without advice or endorsement
-- When to use block explorers as beginner verification tools
+- When to use block explorers as beginner verification tools, including confirmation status and public-ledger privacy limits
 - Suggested activities
 - Review point
 
@@ -132,9 +135,36 @@ Educators may also combine models, such as two half-days or one weekend morning 
 - When local expert support is required
 - How to run practical demonstrations safely
 - How to frame spending as one possible local practice rather than the whole purpose of Block 4
-- How to frame Lightning, merchant payments, local on/off-ramps, KYC/no-KYC trade-offs, BTCMap or equivalent resource maps, and circular economies
+- How to frame Lightning, merchant payments, remittance scenarios, nonprofit or community donation scenarios, local on/off-ramps, KYC/no-KYC trade-offs, BTCMap or equivalent resource maps, and circular economies
 - How to avoid global recommendations for named services or providers
 - How to document local adaptations
+
+## 4.1 Misconception Bank
+
+The retiring Bitcoin for Organizations pathway contains useful misconception material. Use it as educator preparation, not as long Student Book prose.
+
+Each misconception entry should include:
+
+- learner question;
+- beginner-safe answer;
+- one discussion prompt;
+- what not to overclaim;
+- source trail for Advanced learning.
+
+Recommended entries:
+
+- Bitcoin has no intrinsic value.
+- Bitcoin uses too much energy.
+- Bitcoin is too slow.
+- Nothing is being built on Bitcoin.
+- Governments will ban Bitcoin.
+- There are thousands of other coins.
+- Bitcoin is not decentralized.
+- Bitcoin is not widely used, so is it money?
+- CBDCs will replace Bitcoin.
+- A better technology will overtake Bitcoin.
+
+Educator rule: answer the learner's real question, name trade-offs honestly, and move detailed policy, cryptography, market, energy, governance, or organizational analysis to Advanced follow-up.
 
 ## 5. Assessment Support
 
@@ -165,6 +195,7 @@ Educators may also combine models, such as two half-days or one weekend morning 
 ## 7. Legacy Content Migration Guidance
 
 - Use the legacy table-of-contents migration notes in `06_plan.md` to decide whether old content belongs in Core, Custom, or Advanced material.
+- Use `mergefromorganizations.md` to decide whether Organizations material belongs in beginner Core, Custom, Activity Bank, Educator Guide, or Advanced material.
 - Use `16_advanced.md` to park deeper technical, economic, philosophical, or future-facing material that should be preserved for later Advanced modules.
 - Do not treat old `OUT` markings as deletion when the same item is marked Custom or Advanced.
 - Keep Block 3 technical material practical: use it only to support safer self-custody, verification, and transaction responsibility.

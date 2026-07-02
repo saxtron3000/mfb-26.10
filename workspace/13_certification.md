@@ -35,6 +35,8 @@ Public communication should distinguish four ideas:
 
 The redesign strengthens foundations for future certification, but does not create a certification governance system.
 
+Completion or future certification for the beginner Diploma must not imply professional competence in organizational treasury, institutional custody, legal, tax, accounting, compliance, investment, policy, or business implementation. Those areas belong to Advanced pathways or separate professional review.
+
 ---
 
 # 3. Certification Questions

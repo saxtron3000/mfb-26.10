@@ -63,6 +63,8 @@ The core conclusion:
 
 The Diploma does not primarily suffer from a lack of content. It suffers from weak learning architecture, unclear boundaries, inconsistent timing, and inconsistent educator support.
 
+The review of the retiring Bitcoin for Organizations pathway reinforces this conclusion. Its strongest beginner contribution is not additional chapters, but sharper examples for CBDCs, digital scarcity, double spending, verification, public-ledger privacy, misconception discussion, and local payment scenarios. Most strategic, organizational, financial, policy, legal, and sector-specific material should remain outside the beginner Diploma and be preserved for Advanced pathways.
+
 ---
 
 # 2. Strengths
@@ -258,6 +260,8 @@ Some technical content appears to exceed beginner prerequisites.
 
 This may increase cognitive load without proportionate learner benefit.
 
+Bitcoin for Organizations contains useful technical-history and misconception material, but it also demonstrates the overload risk. The beginner Diploma should use only short, explanatory fragments such as digital scarcity, the double-spend problem, and the role balance among users, nodes, miners, and developers. Protocol history, cryptography, governance, organizational risk, treasury, and sector analysis belong in Advanced or educator background.
+
 ## 3.11 Delivery Mode Ambiguity
 
 It is not always clear whether the Diploma assumes:
@@ -344,6 +348,8 @@ Its limitations lie in:
 - publication and QR-code discipline.
 
 The redesign process should preserve the strengths while solving the structural and pedagogical weaknesses in the appropriate documents.
+
+Organizations-derived material should be treated as a supporting source for this redesign, not as a replacement structure. Use it to strengthen beginner-safe explanation, educator misconception prompts, Activity Bank scenarios, and Custom block local examples.
 
 ---
 

@@ -142,12 +142,19 @@ Candidate Advanced module titles:
 - Bitcoin Education
 - Bitcoin for Families
 - Bitcoin for Organizations
+- Bitcoin Treasury and Organizational Custody
+- Bitcoin Risk Management and Scenario Planning
+- Bitcoin Policy and Governance
+- Bitcoin and AI Payments
+- On-Chain Analytics
 - Bitcoin for ... (Communities & Populations)
 - Cryptography
 - Computer Science Fundamentals
 - Online privacy and safety
 
 Note: `Bitcoin for X` is a flexible Advanced category for population- or community-specific modules, such as Bitcoin for women, Bitcoin for Muslims, or other locally relevant communities. These modules should be developed with community input and should avoid treating any group as monolithic.
+
+The Organizations-derived titles were added after reviewing the retiring `../ref/bitcoin-for-organizations/en` pathway. They may later be merged into broader modules if the Advanced pathway needs fewer titles, but they are strong enough to preserve as candidate modules for now.
 
 ---
 
@@ -963,6 +970,11 @@ This section sketches possible directions for the candidate modules. These are s
 | Bitcoin Education | How to teach Bitcoin, concept maps, prerequisite chains, demo-before-abstraction, activity design | `02_research.md`, `10_activities.md`, `11_guide.md` |
 | Bitcoin for Families | Family custody conversations, inheritance basics, safety culture, youth education, shared decision-making | Candidate title; custody and safety material |
 | Bitcoin for Organizations | Treasury policy, custody roles, governance, payments, donations, accounting, staff training | Candidate title; business and custody material |
+| Bitcoin Treasury and Organizational Custody | Treasury policy, balance-sheet exposure, custody roles, approval workflows, controls, accounting boundaries, institutional risk | `../ref/bitcoin-for-organizations/en/5-impact-on-internal-functions/2-what-is-a-bitcoin-treasury.md`; `../ref/bitcoin-for-organizations/en/4-impact-on-industry-verticals/2-bitcoin-and-investment-management.md` |
+| Bitcoin Risk Management and Scenario Planning | Risk registers, likelihood, magnitude, time horizon, mitigations, strategic scenarios, organizational decision-making | `../ref/bitcoin-for-organizations/en/1-bitcoin-and-risk-management/` |
+| Bitcoin Policy and Governance | CBDCs, government bans, self-custody restrictions, law versus protocol, organizational governance, public-sector implications | `../ref/bitcoin-for-organizations/en/4-impact-on-industry-verticals/6-government.md`; `../ref/bitcoin-for-organizations/en/2-dispelling-misconceptions/5-will-governments-ban-bitcoin.md`; `../ref/bitcoin-for-organizations/en/2-dispelling-misconceptions/9-will-a-cbdc-render-bitcoin-obsolete.md` |
+| Bitcoin and AI Payments | AI agents, machine payments, L402-style payment flows, Lightning-enabled APIs, automated service purchasing | `../ref/bitcoin-for-organizations/en/7-bitcoin-s-possible-future/4-the-convergence-of-bitcoin-and-ai.md`; `../ref/bitcoin-for-organizations/en/5-impact-on-internal-functions/1-bitcoin-s-impact-on-it-leaders.md` |
+| On-Chain Analytics | Open-ledger inspection, block explorer literacy, transaction graphs, public metrics, Pizza Day transaction analysis, privacy limits | `../ref/bitcoin-for-organizations/en/8-the-bitcoin-economy/` |
 | Bitcoin for ... | Community-specific modules co-designed with the relevant community | Candidate title; local Custom experience |
 | Cryptography | Public/private keys, digital signatures, hashing, SHA-256, one-way functions, address hashing | Legacy chapter 8.1 |
 | Computer Science Fundamentals | Functions, hashes, networks, databases, peer-to-peer systems, block structure, verification | Legacy chapters 8 and 9; Hackfest research |
@@ -994,6 +1006,12 @@ These activities may become Advanced modules, educator background, or optional w
 | CBDC comparison workshop | Money & Human Rights | Legacy chapters 3.3 and 10.1 |
 | Final reflection on changed perspective | Philosophy of Bitcoin | Legacy chapter 10.4 |
 | Concept-map completion | Bitcoin Education | `02_research.md` Hackfest notes |
+| Misconception clinic | Bitcoin Education | `../ref/bitcoin-for-organizations/en/2-dispelling-misconceptions/` |
+| Organizational risk register | Bitcoin Risk Management and Scenario Planning | `../ref/bitcoin-for-organizations/en/1-bitcoin-and-risk-management/` |
+| Settlement comparison: card, on-chain, Lightning | Transactions & Settlement; Payments & Exchange | `../ref/bitcoin-for-organizations/en/4-impact-on-industry-verticals/3-banking-and-payments.md` |
+| Treasury policy role-play | Bitcoin Treasury and Organizational Custody | `../ref/bitcoin-for-organizations/en/5-impact-on-internal-functions/2-what-is-a-bitcoin-treasury.md` |
+| Energy claim audit | Energy & Mining | `../ref/bitcoin-for-organizations/en/2-dispelling-misconceptions/2-bitcoin-is-bad-for-the-environment.md`; `../ref/bitcoin-for-organizations/en/4-impact-on-industry-verticals/1-bitcoin-and-energy.md` |
+| Open-ledger investigation | On-Chain Analytics | `../ref/bitcoin-for-organizations/en/8-the-bitcoin-economy/` |
 
 Every future activity should include:
 
@@ -1074,9 +1092,155 @@ Use these source files when future Advanced module work begins.
 - `../ref/chapters/11-back-matter/3-key-concepts.md`
 - `../ref/chapters/11-back-matter/4-glossary.md`
 
+## Retiring Organizations Reference Sources
+
+Bitcoin for Organizations is being cannibalized by the redesigned Diploma and Advanced pathway. The old Organizations path should not continue as a standalone course after the redesign, but its strongest material should be preserved here as Advanced source material.
+
+Primary source path:
+
+- `../ref/bitcoin-for-organizations/en`
+
+Reviewed Organizations module folders:
+
+- `../ref/bitcoin-for-organizations/en/1-bitcoin-and-risk-management/`: risk registers, scenario planning, likelihood, magnitude, timeframe, and mitigations.
+- `../ref/bitcoin-for-organizations/en/2-dispelling-misconceptions/`: intrinsic value, energy, speed, innovation, bans, competing coins, decentralization, use as money, CBDCs, and obsolescence objections.
+- `../ref/bitcoin-for-organizations/en/3-bitcoin-technical-history/`: TCP/IP, public-key cryptography, DigiCash, Hashcash, BitTorrent, reusable proof of work, and Bitcoin's technical synthesis.
+- `../ref/bitcoin-for-organizations/en/4-impact-on-industry-verticals/`: energy, investment management, banking and payments, technology, professional services, government, charities, and nonprofit use cases.
+- `../ref/bitcoin-for-organizations/en/5-impact-on-internal-functions/`: IT leadership, treasury, custody, organizational risk, and operational implementation.
+- `../ref/bitcoin-for-organizations/en/6-adopting-bitcoin/`: digital scarcity and adoption cycles.
+- `../ref/bitcoin-for-organizations/en/7-bitcoin-s-possible-future/`: future monetary functions, renewable grid arguments, underbanked access, and Bitcoin plus AI.
+- `../ref/bitcoin-for-organizations/en/8-the-bitcoin-economy/`: public ledger concepts, block explorer use, network metrics, and Pizza Day transaction analysis.
+
 ---
 
-# 12. Fact-Check And Publication Warnings
+# 12. Bitcoin For Organizations Cannibalization
+
+## Cannibalization Decision
+
+Bitcoin for Organizations should not remain a separate pathway after the redesign.
+
+Its content should be transformed into:
+
+- a small number of beginner-appropriate additions to the new Diploma, tracked in `mergefromorganizations.md`;
+- Advanced module source trails, module seeds, activity seeds, and research notes in this file;
+- educator background where the material is useful but not yet student-facing.
+
+Most Organizations content belongs in Advanced because it assumes strategic, operational, financial, policy, technical, or sector-specific reasoning.
+
+## Advanced Destination Map
+
+| Advanced module destination | Organizations content to merge | Source files | Transformation notes |
+|---|---|---|---|
+| Monetary Economics | value, intrinsic value, store of value, monetization sequence, Gresham's Law, monetary premium, inflation, credit, savings behavior, adoption curves | `2-dispelling-misconceptions/1-bitcoin-has-no-intrinsic-value.md`; `2-dispelling-misconceptions/8-bitcoin-is-not-widely-used-so-is-it-money.md`; `4-impact-on-industry-verticals/2-bitcoin-and-investment-management.md`; `6-adopting-bitcoin/2-the-bitcoin-adoption-cycle.md`; `7-bitcoin-s-possible-future/1-the-potential-future-for-bitcoin.md` | Use as deeper economic reasoning. Remove investment advice tone. Date and verify market claims. |
+| History of Bitcoin | Cypherpunks, TCP/IP context, public-key cryptography, DigiCash, Hashcash, BitTorrent, reusable proof of work, B-money, Bit Gold, Satoshi's synthesis | `3-bitcoin-technical-history/`; `6-adopting-bitcoin/1-the-discovery-of-digital-scarcity.md` | Use as a full technical-history module. Beginner Diploma only needs the short timeline. |
+| Philosophy of Bitcoin | value as social judgment, Bitcoin as protocol/discovery, decentralization, political control of money, technology versus law, rules-not-rulers framing | `2-dispelling-misconceptions/1-bitcoin-has-no-intrinsic-value.md`; `2-dispelling-misconceptions/10-will-bitcoin-be-overtaken-by-another-technology.md`; `4-impact-on-industry-verticals/6-government.md` | Keep as discussion and reasoning material. Review tone carefully before publication. |
+| Transactions & Settlement | settlement finality, block explorers, confirmations, transaction transparency, card-payment flow versus Lightning flow, high-value settlement, signing ceremony ideas | `4-impact-on-industry-verticals/3-banking-and-payments.md`; `7-bitcoin-s-possible-future/1-the-potential-future-for-bitcoin.md`; `8-the-bitcoin-economy/` | Strong fit. Include practical transaction analysis and settlement comparison activities. |
+| Mining & Consensus | proof of work, double-spend defense, confirmations, reorganizations, 51% attack analysis, mining centralization, miner incentives, difficulty adjustment | `6-adopting-bitcoin/1-the-discovery-of-digital-scarcity.md`; `3-bitcoin-technical-history/7-bitcoin.md`; `2-dispelling-misconceptions/2-bitcoin-is-bad-for-the-environment.md` | Use for deeper consensus. Probability tables and attack scenarios stay Advanced. |
+| Privacy & Security | public ledger privacy trade-offs, self-custody bans, key custody, KYC/no-KYC implications, organizational cybersecurity, cryptojacking, wallet privacy practices | `2-dispelling-misconceptions/5-will-governments-ban-bitcoin.md`; `4-impact-on-industry-verticals/4-the-impact-on-the-technology-industry.md`; `5-impact-on-internal-functions/1-bitcoin-s-impact-on-it-leaders.md`; `8-the-bitcoin-economy/` | Separate individual privacy, organizational security, and public ledger analysis. Avoid tactical illegal guidance. |
+| Payments & Exchange | Lightning, payment disintermediation, remittances, merchant payments, micropayments, on/off-ramp comparison, stablecoin comparison where relevant | `4-impact-on-industry-verticals/3-banking-and-payments.md`; `5-impact-on-internal-functions/1-bitcoin-s-impact-on-it-leaders.md`; `7-bitcoin-s-possible-future/1-the-potential-future-for-bitcoin.md`; `7-bitcoin-s-possible-future/3-banking-the-un-der-banked.md` | Strong fit. Use local examples and current-data checks. Keep stablecoins as comparison, not curriculum focus. |
+| Bitcoin for Business | treasury strategy, business risk analysis, merchant acceptance, operational implementation, professional services, IT leaders, business SWOT, customer education | `1-bitcoin-and-risk-management/`; `4-impact-on-industry-verticals/2-bitcoin-and-investment-management.md`; `4-impact-on-industry-verticals/4-the-impact-on-the-technology-industry.md`; `4-impact-on-industry-verticals/5-professional-services.md`; `5-impact-on-internal-functions/` | One of the largest destinations. Split into business strategy, treasury, payments, and operations lessons. |
+| Infrastructure & Maintenance | organizational implementation, IT risk, cloud cryptojacking, custody vendors, service management, support, operational continuity, data-center/mining overlap | `5-impact-on-internal-functions/1-bitcoin-s-impact-on-it-leaders.md`; `5-impact-on-internal-functions/2-what-is-a-bitcoin-treasury.md`; `7-bitcoin-s-possible-future/4-the-convergence-of-bitcoin-and-ai.md` | Useful for advanced operators. Keep vendor-specific material as examples only. |
+| Communities & Circular Economies | underbanked access, local payment loops, nonprofit service delivery, donations, community resources, grassroots adoption, Bitcoin Beach-style examples | `4-impact-on-industry-verticals/7-charities-and-not-for-profit-organisations.md`; `7-bitcoin-s-possible-future/3-banking-the-un-der-banked.md`; `5-impact-on-internal-functions/2-what-is-a-bitcoin-treasury.md` | Use to build community operations and nonprofit modules. Local adaptation required. |
+| Money & Society | financial exclusion, wealth inequality, debt-driven consumption, consumer behavior, institutional trust, state funding pressures, social change | `4-impact-on-industry-verticals/6-government.md`; `4-impact-on-industry-verticals/7-charities-and-not-for-profit-organisations.md`; `7-bitcoin-s-possible-future/1-the-potential-future-for-bitcoin.md`; `7-bitcoin-s-possible-future/3-banking-the-un-der-banked.md` | Good discussion material. Frame claims as scenarios or arguments, not settled facts. |
+| Money & Human Rights | CBDCs, permissionless access, underbanked populations, self-custody restrictions, privacy, censorship resistance, identity barriers, Global South monetary conditions | `2-dispelling-misconceptions/5-will-governments-ban-bitcoin.md`; `2-dispelling-misconceptions/9-will-a-cbdc-render-bitcoin-obsolete.md`; `4-impact-on-industry-verticals/6-government.md`; `7-bitcoin-s-possible-future/3-banking-the-un-der-banked.md` | Strong fit. Requires careful local legal review and nonpartisan tone. |
+| Energy & Mining | energy as security, stranded energy, demand response, methane/flared gas, renewable grid support, heat reuse, remote power projects | `2-dispelling-misconceptions/2-bitcoin-is-bad-for-the-environment.md`; `4-impact-on-industry-verticals/1-bitcoin-and-energy.md`; `7-bitcoin-s-possible-future/2-building-the-renewable-energy-grid.md` | Major destination. Verify all energy percentages, regional claims, and case studies. |
+| Open Source Software | Bitcoin Core, open-source development, BIPs/RFC analogy, open-source wallets, public review, protocol governance, contribution pathways | `3-bitcoin-technical-history/1-the-development-of-tcp-ip.md`; `4-impact-on-industry-verticals/4-the-impact-on-the-technology-industry.md`; `2-dispelling-misconceptions/7-bitcoin-is-not-truly-decentralised.md` | Strong support for OSS module. Avoid overloading with full TCP/IP detail unless teaching protocol history. |
+| Nostr & Decentralized Communication | Nostr, decentralized communications, censorship resistance, Lightning integration, marketing/community use, healthcare data examples | `4-impact-on-industry-verticals/5-professional-services.md`; `4-impact-on-industry-verticals/6-government.md`; `7-bitcoin-s-possible-future/4-the-convergence-of-bitcoin-and-ai.md` | Use as a Nostr/decentralized communication bridge. Keep healthcare examples optional and fact-checked. |
+| Communication Networks | TCP/IP, layered protocols, Bitcoin as value-transfer protocol, HTTPS analogy, network effects, peer-to-peer networks, BitTorrent | `3-bitcoin-technical-history/1-the-development-of-tcp-ip.md`; `3-bitcoin-technical-history/5-bittorrent.md`; `2-dispelling-misconceptions/3-bitcoin-is-too-slow-to-be-global-money.md`; `2-dispelling-misconceptions/4-there-s-no-innovation-happening-in-bitcoin.md` | Strong fit. This can bridge technical foundations and public explanation. |
+| Bitcoin Education | misconception handling, learner objections, public communication, beginner versus Advanced boundaries, scenario workshops | `2-dispelling-misconceptions/`; `1-bitcoin-and-risk-management/`; `8-the-bitcoin-economy/1-the-nature-of-bitcoin-s-ledger.md`; `8-the-bitcoin-economy/4-the-pizza-day-transaction.md` | Use for educator training and facilitation practice. |
+| Bitcoin for Organizations | overall strategic pathway, risk management, internal functions, industry verticals, treasury, policy, nonprofit, IT, business adoption | All files in `../ref/bitcoin-for-organizations/en` | Keep as a meta-pathway or capstone, but do not preserve the old course unchanged. Use it as a curated pathway through other Advanced modules. |
+| Bitcoin for ... (Communities & Populations) | underbanked people, nonprofits, charities, local communities, organizational types, Global South considerations | `7-bitcoin-s-possible-future/3-banking-the-un-der-banked.md`; `4-impact-on-industry-verticals/7-charities-and-not-for-profit-organisations.md`; `4-impact-on-industry-verticals/6-government.md` | Use cautiously with community input. Avoid treating populations as monolithic. |
+| Cryptography | public-key cryptography, hash functions, Merkle trees, elliptic curve signatures, digital signatures, encryption | `3-bitcoin-technical-history/2-public-key-cryptography-and-protocols.md`; `3-bitcoin-technical-history/7-bitcoin.md`; `6-adopting-bitcoin/1-the-discovery-of-digital-scarcity.md` | Strong source material. Keep mathematical depth optional. |
+| Computer Science Fundamentals | protocols, networks, hashes, distributed systems, Byzantine fault, proof of work, peer-to-peer systems, protocol layers | `3-bitcoin-technical-history/`; `6-adopting-bitcoin/1-the-discovery-of-digital-scarcity.md`; `6-adopting-bitcoin/2-the-bitcoin-adoption-cycle.md` | Strong source material. Could be sequenced before Cryptography. |
+| Online privacy and safety | KYC/no-KYC, phishing, cryptojacking, wallet privacy, public ledger privacy, data breaches, identity exposure | `4-impact-on-industry-verticals/4-the-impact-on-the-technology-industry.md`; `5-impact-on-internal-functions/1-bitcoin-s-impact-on-it-leaders.md`; `7-bitcoin-s-possible-future/3-banking-the-un-der-banked.md`; `8-the-bitcoin-economy/` | Useful as an individual and organizational safety module. |
+
+## Existing Titles With Little Direct Organizations Content
+
+| Existing Advanced module title | Decision |
+|---|---|
+| History of Money (localisation) | Use only lightly. Organizations adds CBDCs, Global South monetary conditions, debt, and fiat-system scenarios, but it is not primarily a history-of-money source. |
+| Bitcoin for Families | No direct fit. Some self-custody, underbanked, remittance, and local support examples may be adapted later, but not from an organizations angle. |
+
+## Organizations-Derived Module Candidates
+
+These titles have already been added to the candidate title inventory above, but they may later be merged into broader modules if the Advanced pathway needs a smaller public catalogue.
+
+| Candidate title | Why it may be needed | Source files |
+|---|---|---|
+| Bitcoin Treasury and Organizational Custody | The treasury and institutional custody material is large enough to become its own module instead of being hidden under Bitcoin for Business. | `5-impact-on-internal-functions/2-what-is-a-bitcoin-treasury.md`; `4-impact-on-industry-verticals/2-bitcoin-and-investment-management.md` |
+| Bitcoin Risk Management and Scenario Planning | The risk-register method is a reusable organizational workshop and could serve businesses, nonprofits, educators, and policy groups. | `1-bitcoin-and-risk-management/` |
+| Bitcoin Policy and Governance | Government, CBDCs, self-custody bans, law versus technology, and policy options may be too large for Money & Human Rights alone. | `4-impact-on-industry-verticals/6-government.md`; `2-dispelling-misconceptions/5-will-governments-ban-bitcoin.md`; `2-dispelling-misconceptions/9-will-a-cbdc-render-bitcoin-obsolete.md` |
+| Bitcoin and AI Payments | The AI and L402-style material is specialized and may not fit neatly under existing Lightning, business, or infrastructure modules. | `7-bitcoin-s-possible-future/4-the-convergence-of-bitcoin-and-ai.md`; `5-impact-on-internal-functions/1-bitcoin-s-impact-on-it-leaders.md` |
+| On-Chain Analytics | The open-ledger metrics material is distinct from beginner verification and deserves a research/data module if expanded. | `8-the-bitcoin-economy/` |
+
+## Source Coverage By Organizations Module
+
+| Organizations module | Advanced destination summary |
+|---|---|
+| 1. Bitcoin and Risk Management | Bitcoin for Organizations; Bitcoin for Business; Bitcoin Education; Bitcoin Risk Management and Scenario Planning |
+| 2. Dispelling Misconceptions | Bitcoin Education; Philosophy of Bitcoin; Monetary Economics; Energy & Mining; Payments & Exchange; Money & Human Rights; Communication Networks |
+| 3. Bitcoin Technical History | History of Bitcoin; Cryptography; Computer Science Fundamentals; Communication Networks; Open Source Software |
+| 4. Impact on Industry Verticals | Energy & Mining; Bitcoin for Business; Payments & Exchange; Money & Society; Money & Human Rights; Nostr & Decentralized Communication; Communities & Circular Economies |
+| 5. Impact on Internal Functions | Bitcoin for Business; Infrastructure & Maintenance; Privacy & Security; Bitcoin Treasury and Organizational Custody |
+| 6. Adopting Bitcoin | History of Bitcoin; Mining & Consensus; Monetary Economics; Computer Science Fundamentals |
+| 7. Bitcoin's Possible Future | Money & Society; Payments & Exchange; Energy & Mining; Money & Human Rights; Infrastructure & Maintenance; Bitcoin and AI Payments |
+| 8. The Bitcoin Economy | Transactions & Settlement; Privacy & Security; Mining & Consensus; On-Chain Analytics |
+
+## Priority For Advanced Migration
+
+| Priority | Destination | Rationale |
+|---|---|---|
+| 1 | Bitcoin Education / Misconceptions | Useful immediately for educators and public communication. |
+| 2 | History of Bitcoin / Computer Science Fundamentals / Cryptography | Strong source material that deepens Block 2 without burdening the beginner Diploma. |
+| 3 | Payments & Exchange / Transactions & Settlement | Direct follow-on from Block 3 and Block 4 practical learning. |
+| 4 | Bitcoin for Business / Treasury | Core of the old Organizations path; high value for organizational audiences. |
+| 5 | Energy & Mining | Large, coherent content set; needs significant fact-checking. |
+| 6 | Money & Human Rights / Money & Society / Policy | Valuable but tone-sensitive and locally sensitive. |
+| 7 | Open Ledger / On-Chain Analytics | Strong but specialized; should be separated from beginner verification. |
+| 8 | Bitcoin and AI Payments | Interesting, but speculative and dependency-heavy. |
+
+## Organizations Publication Guardrails
+
+Before any Organizations material is published in Advanced modules:
+
+- remove or soften financial, legal, tax, and investment advice language;
+- convert predictions into scenarios or discussion prompts;
+- verify current-data claims and date them;
+- check cited links and image rights;
+- distinguish Bitcoin from broader crypto without turning every section into an altcoin debate;
+- separate conceptual claims from local legal or regulatory facts;
+- add not-financial/legal/tax-advice boundaries where relevant;
+- review tone for global audiences and translation readiness.
+
+Current-data claims requiring verification include:
+
+- ETF approvals, flows, assets, and performance records;
+- Bitcoin price, market cap, holder estimates, hashrate, fees, and supply figures;
+- Lightning usage and capacity claims;
+- CBDC project counts and country status;
+- corporate and national Bitcoin holdings;
+- accounting, tax, AML, KYC, and regulatory rules;
+- energy-use percentages, renewable-energy claims, grid-cost examples, and methane claims;
+- named company, wallet, custodian, exchange, and service-provider examples.
+
+## Material To Keep As Background Only
+
+Do not automatically make the following student-facing:
+
+- provocative political language;
+- dated company examples used as proof of inevitability;
+- named provider recommendations;
+- specific tax or accounting instructions;
+- investment-performance comparisons;
+- claims about future government adoption;
+- highly technical AI-payment workflows;
+- controversial policy claims without structured evidence and counterarguments.
+
+These can inform educator preparation, scenario design, or research notes.
+
+---
+
+# 13. Fact-Check And Publication Warnings
 
 Advanced modules will likely use more current data, named tools, legal context, and technical claims than the beginner Diploma. Treat these as high-maintenance content.
 
@@ -1100,7 +1264,7 @@ Evergreen explanations are preferred when current data is not essential.
 
 ---
 
-# 13. Future Design Questions
+# 14. Future Design Questions
 
 Do not resolve these before the beginner Diploma is published unless the answer is required for publication.
 
@@ -1120,7 +1284,7 @@ Do not resolve these before the beginner Diploma is published unless the answer 
 
 ---
 
-# 14. Parking Lot For Future Additions
+# 15. Parking Lot For Future Additions
 
 Use this section for new Advanced material discovered during editing.
 
