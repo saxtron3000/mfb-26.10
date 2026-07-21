@@ -2,8 +2,6 @@
 
 Sources: `20260715_PABLO_draft_notes.pdf` (53 scanned, annotated pages), `20260715_CODEX_draft_notes.md`, and `20260715-master_draft_notes.md`.
 
-Legend on page 1: green `AB`; orange `BTC` with check; blue `ERROR`; purple is read as `ADD` by Codex and `ADV` by Claude. Confirm the purple label against the original. Checks and “Nice/Perfect/Love it” indicate approval rather than requested edits.
-
 ## Global actions
 
 - [ ] Create a consistent visual system for graphics, diagrams, tables, examples, activities, educator guidance, glossary terms, and advanced content.
