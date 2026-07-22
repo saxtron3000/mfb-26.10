@@ -1,741 +1,321 @@
 # Bitcoin Diploma Beginner Lexicon
 
-This lexicon collects words from the Bitcoin Diploma that a beginner may need explained. Definitions are written in plain English.
-
-Use this file as a translation-readiness anchor for the English source. Terms used in Core materials should stay consistent with this lexicon before translation. Future localized versions should maintain reviewed language-specific terminology and identify terms that require local explanation rather than direct translation.
-
-## 51% Attack
-
-When one person or group controls more than half of the mining power in a blockchain network. This could let them interfere with some transactions.
-
-## Acceptability
-
-How widely people are willing to accept something as payment.
-
-## Address
-
-A string of letters and numbers used to receive bitcoin. It works a little like an account number, but it is created by a wallet.
-
-## Anonymous
-
-When a person's real identity is not known.
-
-## Atomic Swap
-
-A direct trade between two different cryptocurrencies without using a centralized exchange.
-
-## Auction
-
-A sale where people compete by offering prices, and the item usually goes to the highest bidder.
-
-## Austrian Economics
-
-A school of economic thought that focuses on individual choice, markets, savings, and the effects of money creation.
-
-## Backup
-
-A copy kept in case the original is lost. In Bitcoin, this often means safely storing a recovery phrase.
-
-## Bailout
-
-Money or support given to a failing company or bank to stop it from collapsing.
-
-## Bank
-
-A financial institution that stores money, makes loans, and helps people and businesses make payments.
-
-## Barter
-
-Trading goods or services directly without using money.
-
-## Basket of Goods
-
-A group of common products and services used to measure how prices change over time.
-
-## B-money
-
-An early proposal for decentralized digital money. It influenced later thinking about Bitcoin, but it did not become a working public money system.
-
-## Basel III
-
-A set of international banking rules created after the 2008 financial crisis to make banks safer.
-
-## Bitcoin
-
-A digital money system that lets people send value directly to each other without a bank or payment company. The word can mean the network, the rules, or the currency.
-
-## Bit Gold
-
-An early proposal for scarce digital value created with computational work. It helped develop ideas that later appeared in Bitcoin.
-
-## Bitcoin Network
-
-The worldwide group of computers and users that run Bitcoin and follow the same rules.
-
-## BitTorrent
-
-A peer-to-peer file-sharing protocol. It is not money, but it showed how many computers can share information without one central server controlling everything.
-
-## Block
-
-A batch of Bitcoin transactions that has been added to the blockchain.
-
-## Block Explorer
-
-A website or tool that lets people look up Bitcoin blocks, transactions, addresses, and fees.
-
-## Block Reward
-
-New bitcoin paid to a miner for adding a valid block to the blockchain.
-
-## Blockchain
-
-Bitcoin's public record of transactions, organized as a chain of blocks.
-
-## Bretton Woods Agreement
-
-A 1944 agreement that made the U.S. dollar central to the world money system and linked the dollar to gold.
-
-## BTC
-
-The most common abbreviation used for bitcoin.
-
-## Byzantine Generals Problem
-
-A computer science problem about how many separate participants can agree on the truth when some may be unreliable or dishonest.
-
-## Capital Controls
-
-Rules that limit how people can move money into or out of a country.
-
-## CBDC
-
-Short for Central Bank Digital Currency. It is digital money issued and controlled by a central bank.
-
-## Central Authority
-
-One person, company, or institution that has control over a system.
-
-## Central Bank
-
-A government-linked institution that manages a country's money supply, interest rates, and banking system.
-
-## Central Bank Digital Currency
-
-A digital version of national money issued by a central bank. Unlike Bitcoin, it is centrally controlled.
-
-## Centralized
-
-Controlled from one main place or by one main authority.
-
-## Centralized Exchange
-
-A company that helps people buy, sell, or trade bitcoin and other assets. The company controls the accounts and matching of trades.
-
-## Centralization
-
-The concentration of power or control in one place.
-
-## Circular Economy
-
-A local economy where people earn, spend, and accept the same money within a community.
-
-## Closed Source
-
-Software whose code is private, so the public cannot easily inspect how it works.
-
-## Coinage
-
-Money made in the form of coins.
-
-## Cold Storage
-
-Keeping bitcoin keys offline to reduce the risk of online theft.
-
-## Commodity Money
-
-Money that has value as a real object, such as gold, silver, salt, or shells.
-
-## Confirmation
-
-When a Bitcoin transaction has been included in a block. More confirmations make the transaction harder to reverse.
-
-## Consensus
-
-Agreement. In Bitcoin, consensus means the network agrees on the same rules and transaction history.
-
-## Consensus Mechanism
-
-The method a network uses to agree on valid transactions and the correct state of the ledger.
-
-## Consumer Price Index
-
-A measure that tracks the prices of common goods and services over time.
-
-## Contractionary Fiscal Policy
-
-Government actions meant to slow spending in the economy, such as raising taxes or lowering government spending.
-
-## Credit Card Processing Fee
-
-A fee paid to companies that handle card payments.
-
-## Credible Scarcity
-
-A supply limit that users can verify and that one person or institution cannot easily change for everyone.
-
-## Cryptographic Signature
-
-A digital proof created with a private key. It shows that the owner approved a message or transaction.
-
-## Cryptography
-
-The use of math to protect information and prove ownership or authenticity.
-
-## Currency
-
-Money used in a country or system, such as dollars, euros, or bitcoin.
-
-## Custodial Wallet
-
-A wallet where another person or company controls the private keys for you.
-
-## Cypherpunk
-
-A person who believes privacy and freedom can be protected with strong cryptography and open technology.
-
-## Debasement
-
-Reducing the value of money, often by lowering the amount of precious metal in coins or creating more money.
-
-## Debt
-
-Money owed to someone else.
-
-## Decentralized
-
-Spread across many participants instead of controlled by one main authority.
-
-## Decentralized Finance
-
-Financial tools built to work without traditional banks or central companies.
-
-## Decentralization
-
-The spreading of control across many people, computers, or institutions.
-
-## Decree
-
-An official order from an authority.
-
-## Deflation
-
-A general fall in prices, or an increase in the purchasing power of money.
-
-## Digital Asset
-
-Something digital that can hold or transfer value.
-
-## Digital Currency
-
-Money that exists in digital form instead of as paper bills or metal coins.
-
-## Digital Scarcity
-
-The ability for a digital item or unit of money to be limited so it cannot be copied or spent endlessly.
-
-## Difficulty
-
-A measure of how hard it is for miners to find a valid Bitcoin block.
-
-## Difficulty Adjustment
-
-Bitcoin's automatic change to mining difficulty so blocks are found about every 10 minutes on average.
-
-## Distributed Ledger
-
-A record of transactions copied across many computers instead of stored in one central database.
-
-## Double Coincidence of Wants
-
-The barter problem where each person must want exactly what the other person offers at the same time.
-
-## Double Spend
-
-Trying to spend the same money twice.
-
-## Dust Transaction
-
-A transaction that sends such a tiny amount of bitcoin that it may cost more to spend than it is worth.
-
-## Economic Inequality
-
-Large differences in wealth, income, or opportunity between people or groups.
-
-## Exchange
-
-A marketplace where people can buy, sell, or trade currencies and assets.
-
-## Exchange Rate
-
-The price of one currency measured in another currency.
-
-## Executive Order 6102
-
-A 1933 U.S. order that restricted private ownership of gold.
-
-## Expansionary Fiscal Policy
-
-Government actions meant to increase spending in the economy, such as lowering taxes or increasing government spending.
-
-## Fiat Money
-
-Money that has value because a government declares it legal money, not because it is backed by gold or another commodity.
-
-## Fiat System
-
-The modern money system where national currencies are issued and managed by governments and central banks.
-
-## Fiscal Policy
-
-Government decisions about taxes and spending.
-
-## FOMO
-
-Fear of missing out. In markets, it means buying because others seem to be profiting and you do not want to be left behind.
-
-## Fork
-
-A change in software rules. In Bitcoin, a fork can happen when different participants follow different versions of the rules.
-
-## Fractional Reserve Banking
-
-A banking system where banks keep only part of customer deposits available and lend out the rest.
-
-## FUD
-
-Fear, uncertainty, and doubt. Negative information or rumors that can make people panic.
-
-## GDP
-
-Gross domestic product. The total value of goods and services produced in a country during a period of time.
-
-## Genesis Block
-
-The first block in the Bitcoin blockchain, mined by Satoshi Nakamoto in January 2009.
-
-## Global Debt Burden
-
-The large total amount of debt owed by governments, companies, and individuals around the world.
-
-## Gold Standard
-
-A money system where paper money can be exchanged for a fixed amount of gold.
-
-## Gross Domestic Product
-
-The total value of goods and services produced inside a country during a period of time.
-
-## Halving
-
-A Bitcoin event that cuts the block reward in half. It happens about every four years.
-
-## Hard Fork
-
-A rule change that is not compatible with older software. If not everyone agrees, it can split a blockchain into two chains.
-
-## Hardware Wallet
-
-A physical device that stores private keys offline.
-
-## Hash
-
-A short digital fingerprint created from data by a hash function.
-
-## Hash Function
-
-A math process that turns any input into a fixed-size output. Small input changes create very different outputs.
-
-## Hash Rate
-
-The total computing power miners are using to secure Bitcoin.
-
-## Hashcash
-
-An early proof-of-work system that made a computer do work before sending a message. It influenced Bitcoin mining.
-
-## HODL
-
-A Bitcoin slang word for holding bitcoin long term instead of selling quickly.
-
-## Hot Wallet
-
-A Bitcoin wallet connected to the internet. It is convenient, but usually less secure than cold storage.
-
-## Imports
-
-Goods or services brought into one country from another country.
-
-## Inflation
-
-A general rise in prices. It means each unit of money buys less than before.
-
-## Intermediary
-
-A middleman between two people or groups, such as a bank between a sender and receiver.
-
-## IOU
-
-A promise that one person or institution owes something to another.
-
-## Key
-
-A piece of secret or public information used in cryptography. In Bitcoin, keys help prove ownership and authorize spending.
-
-## KYC
-
-Short for Know Your Customer. It means a company collects identity information before allowing someone to use a financial service.
-
-## Layer 1
-
-The base network. For Bitcoin, this means the main Bitcoin blockchain.
-
-## Layer 2
-
-A system built on top of a base network to add speed, scale, or extra features. The Lightning Network is a Bitcoin layer 2.
-
-## Ledger
-
-A record of transactions.
-
-## Legal Tender
-
-Money that the law says must be accepted for debts and payments in a country.
-
-## Lehman Brothers
-
-An investment bank whose 2008 failure became a major moment in the global financial crisis.
-
-## Lightning Invoice
-
-A payment request used on the Lightning Network.
-
-## Lightning Network
-
-A Bitcoin payment network built on top of Bitcoin for fast, low-cost payments.
-
-## Liquidity
-
-How easily something can be bought, sold, or used without causing a big price change.
-
-## Malware
-
-Harmful software that can damage a device or steal information.
-
-## Medium of Exchange
-
-Something widely accepted as payment for goods and services.
-
-## Mempool
-
-The waiting area where Bitcoin transactions sit before miners add them to a block.
-
-## Merkle Tree
-
-A data structure that helps Bitcoin efficiently summarize and verify many transactions in a block.
-
-## Miner
-
-A participant who uses computing power to compete to add new blocks to the Bitcoin blockchain.
-
-## Mining
-
-The process of using computing power to secure Bitcoin, confirm transactions, and add blocks.
-
-## Mining Pool
-
-A group of miners who combine their computing power and share rewards.
-
-## Monetary Inflation
-
-An increase in the money supply. It can lead to higher prices if more money chases the same goods and services.
-
-## Monetary Policy
-
-Central bank decisions that influence money supply, interest rates, and credit.
-
-## Money
-
-Something people generally accept as payment, use to measure prices, and use to save value.
-
-## Money Supply
-
-The total amount of money available in an economy.
-
-## Multisig Wallet
-
-A wallet that requires more than one approval before bitcoin can be spent.
-
-## Nakamoto Consensus
-
-Bitcoin's way of helping many strangers agree on the same transaction history without needing a central authority.
-
-## Nixon Shock
-
-The 1971 decision by the United States to stop exchanging U.S. dollars for gold, ending the dollar's direct link to gold.
-
-## Node
-
-A computer that checks Bitcoin rules and keeps its own copy of the Bitcoin ledger.
-
-## Node Network
-
-The connected group of Bitcoin nodes that share and verify transactions and blocks.
-
-## Nonce
-
-A number miners change while searching for a valid block hash.
-
-## Non-Custodial Wallet
-
-A wallet where the user controls the private keys.
-
-## Open Source
-
-Software whose code is public, so people can inspect, copy, improve, or verify it.
-
-## Orphan Block
-
-A valid block that is not part of the main blockchain because another competing block became part of the longer chain.
-
-## On-chain Payment
-
-A Bitcoin payment recorded directly in the blockchain.
-
-## Paper Money
-
-Money printed on paper, such as banknotes.
-
-## Paper Wallet
-
-A printed copy of Bitcoin keys. It is a form of offline storage, but it can be risky if made or stored badly.
-
-## Peer-to-Peer
-
-Directly from one person or computer to another, without a middleman.
-
-## Peg
-
-A fixed link between the value of one currency or asset and another.
-
-## Permissionless
-
-Open for anyone to use without needing approval from a central authority.
-
-## Physical Money
-
-Money you can hold, such as coins or paper bills.
-
-## Portability
-
-How easy something is to carry or send.
-
-## Private Key
-
-A secret number that lets someone spend bitcoin. Anyone with the private key can control the bitcoin linked to it.
-
-## Proof of Work
-
-The mining process Bitcoin uses to make adding blocks costly and to protect the network from cheating.
-
-## Protocol
-
-A set of rules that computers follow to communicate or operate together.
-
-## Pseudonymous
-
-Using an identity that is not your real name. Bitcoin addresses are pseudonymous because they are visible, but do not directly show a person's name.
-
-## Public Address
-
-A Bitcoin address that can be shared so someone can receive bitcoin.
-
-## Public Key
-
-Information created from a private key that helps prove ownership without revealing the private key.
-
-## Purchasing Power
-
-How much a unit of money can buy.
-
-## Recovery Phrase
-
-A list of words used to restore access to a Bitcoin wallet. It must be kept private and safe.
-
-## Reserve Currency
-
-A currency widely held and used by governments, central banks, and international markets.
-
-## Reserve Ratio
-
-The share of deposits a bank keeps available instead of lending out.
-
-## Restrictive Banking
-
-Limits that make banking services hard or impossible for some people to access.
-
-## Remittance
-
-Money sent to a person in another place, often by a worker supporting family or community members.
-
-## Reusable Proof of Work
-
-An early idea for transferring proof-of-work value between people. It was an important experiment before Bitcoin, but it was not the same as Bitcoin.
-
-## Satoshi
-
-The smallest unit of bitcoin. One bitcoin equals 100,000,000 satoshis.
-
-## Satoshi Nakamoto
-
-The name used by the person who created Bitcoin.
-
-## Satoshis per Byte
-
-A way to measure a Bitcoin transaction fee based on the size of the transaction data.
-
-## Scalability
-
-The ability of a system to handle more users or transactions.
-
-## Scarcity
-
-Limited supply. Something scarce cannot be created endlessly.
-
-## Seed Phrase
-
-Another name for a recovery phrase.
-
-## SegWit
-
-A Bitcoin upgrade that changed how some transaction data is stored, helping reduce fees and increase capacity.
-
-## Self-Custody
-
-Holding and protecting your own Bitcoin keys instead of relying on a company to do it for you.
-
-## Sidechain
-
-A separate blockchain connected to a main blockchain, used to move assets or data between systems.
-
-## Smart Contract
-
-Code that runs an agreement automatically when its conditions are met.
-
-## Soft Fork
-
-A Bitcoin rule change that remains compatible with older software.
-
-## Sound Money
-
-Money that is hard to create more of, holds value well, and is not easily changed by political decision.
-
-## Stablecoin
-
-A digital token designed to keep a stable price, often by being linked to a fiat currency like the U.S. dollar.
-
-## Store of Value
-
-Something that can hold value over time and be used later.
-
-## Supply and Demand
-
-The idea that prices are shaped by how much of something exists and how many people want it.
-
-## Time Preference
-
-How much someone prefers having something now instead of later.
-
-## Time Value of Money
-
-The idea that money available now can be more useful than the same amount of money later.
-
-## Trading Pair
-
-Two currencies or assets that can be traded against each other, such as BTC/USD.
-
-## Transaction
-
-A transfer of bitcoin from one address to another.
-
-## Transaction Fee
-
-The fee paid to encourage miners to include a transaction in a block.
-
-## Transaction ID
-
-A unique code that identifies a Bitcoin transaction on the blockchain.
-
-## Trustless
-
-Able to work without needing to trust a middleman. In Bitcoin, users verify rules with software.
-
-## Two-Factor Authentication
-
-A login method that uses two proofs, such as a password plus a code from an app.
-
-## Underbanked
-
-People who have limited, unreliable, expensive, or unsuitable access to traditional banking services.
-
-## Unbanked
-
-People who do not have access to traditional banking services.
-
-## Unit of Account
-
-A standard way to measure and compare prices.
-
-## Unspent Transaction Output
-
-A piece of bitcoin received in a past transaction that has not yet been spent.
-
-## UTXO
-
-Short for Unspent Transaction Output.
-
-## UTXO Set
-
-The full collection of spendable bitcoin outputs at a given time.
-
-## Valid Block
-
-A block that follows Bitcoin's rules and can be accepted by nodes.
-
-## Volatility
-
-How much and how quickly a price moves up or down.
-
-## Wallet
-
-Software or hardware that manages Bitcoin keys and helps users send and receive bitcoin.
-
-## Wallet Backup
-
-A saved copy of the information needed to recover a wallet, usually the recovery phrase.
-
-## Whale
-
-A person or organization that owns enough of an asset to influence the market with large trades.
-
-## White Hat Hacker
-
-An ethical hacker who finds and reports security problems so they can be fixed.
-
-## Whitepaper
-
-A document that explains a project's idea, design, and purpose. Bitcoin began with Satoshi Nakamoto's whitepaper.
-
-## XBT
-
-One abbreviation used for bitcoin.
+This feedback-reviewed lexicon lists Bitcoin and Bitcoin-adjacent terms that a beginner may need explained. Line references are to `workspace/08_draft.md` (the Bitcoin Diploma). **First** is the earliest relevant appearance; **Later** lists subsequent relevant appearances. `Not present` means the term was requested in feedback but is not yet stated explicitly in the diploma.
+
+## Block 1: Problem / Fiat
+
+### Functions and properties of money
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **Medium of exchange** | Something people accept in payment for goods and services. | First: **234**<br>Later: 628, 1414 |
+| **Unit of account** | A shared unit used to state and compare prices, debts, income, and costs. | First: **236**<br>Later: 324, 629, 1414 |
+| **Store of value** | A way of carrying purchasing power from the present into the future. | First: **238**<br>Later: 627, 1414 |
+| **Durability** | The ability of money to remain usable over time. | First: **246**<br>Later: 254, 617 |
+| **Portability** | The ease of moving or transferring money from one person or place to another. | First: **247**<br>Later: 254, 392, 618 |
+| **Divisibility** | The ability to divide money into smaller units for different-sized payments. | First: **248**<br>Later: 268, 619 |
+| **Fungibility** | The property that equal units are normally interchangeable. | First: **249**<br>Later: 620 |
+| **Scarcity** | A limited supply: using or obtaining more is constrained rather than unlimited. | First: **250**<br>Later: 278, 290, 457, 513, 515, 517, 519, 621 |
+| **Acceptability** | The willingness of other people to receive something in exchange. | First: **251**<br>Later: 623 |
+| **Verifiability** | The ability to check that money is genuine or that a transaction follows the rules. | First: **252**<br>Later: 622 |
+| **Recognizability / “likeness”** | How easily people can identify a form of money and recognize authentic or equivalent units. | Not present |
+
+### Barter and the double coincidence of wants
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **Barter** | The direct exchange of one good or service for another without using money. | First: **85**<br>Later: 234, 258, 260, 264, 266, 292, 296, 409 |
+| **Double coincidence of wants** | The barter problem in which each person must want what the other offers at the same time. | First: **258**<br>Later: 264 |
+
+### Scarcity, value, and exchange
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **Subjective value** | The idea that value depends on a person’s needs, preferences, information, and circumstances. | Not present |
+| **Opportunity cost** | The best alternative given up when a choice is made. | First: **286**<br>Later: 397 |
+| **Time preference** | How strongly someone prefers value now rather than later. | First: **287**<br>Later: — |
+| **Trade-off** | A choice that gains one benefit while accepting a cost or giving up another benefit. | First: **29**<br>Later: 37, 66, 288, 310, 389, 511, 631, 635, 655, 657, 672, 698, 1006, 1305, 1307, 1431, 1451 |
+
+### Beginner monetary history from barter to modern fiat
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **Commodity money** | Money made from or represented by a good that has use or value beyond an issuer’s promise. | First: **298**<br>Later: 304, 314 |
+| **Standard coins** | Metal coins made to a recognized weight and value by an authority. | First: **300**<br>Later: — |
+| **Representative paper** | Paper that can be redeemed for a stated amount of an asset, historically often metal. | First: **302**<br>Later: — |
+| **Paper claim** | A paper record representing a claim on an issuer for a stated asset or amount. | First: **302**<br>Later: — |
+| **Debasement** | Reducing a coin’s valuable-metal content while keeping its stated value the same. | First: **300**<br>Later: — |
+| **Gold Standard** | A monetary system in which currency can be exchanged for a fixed amount of gold. | Not present |
+| **Bretton Woods** | The post-1944 international monetary arrangement that linked currencies to the U.S. dollar and the dollar to gold. | Not present |
+| **Nixon Shock** | The 1971 U.S. decision that ended international dollar-to-gold convertibility. | First: **306**<br>Later: — |
+| **Convertibility** | The ability to exchange one form of money for another asset at a stated rate. | First: **306**<br>Later: — |
+| **Fiat money** | Money issued under state authority whose value is not fixed to redemption in a scarce commodity. | First: **47**<br>Later: 65, 85, 87, 193, 292, 306, 308, 312, 314, 316, 329, 364, 368, 370, 401, 403, 410, 415, 637, 972 |
+| **“By decree”** | By an official order from an authority. | First: **314**<br>Later: — |
+| **Account claim** | A recorded promise that an institution owes the account holder money or another asset. | First: **308**<br>Later: 333, 335, 364, 445 |
+| **Bank deposit** | Money recorded as a claim on a commercial bank, rather than physical cash held separately for the customer. | First: **308**<br>Later: 333, 335, 364, 445 |
+| **Network effect** | A situation in which something becomes more useful as more people use it. | First: **316**<br>Later: — |
+
+### Fractional reserve banking at beginner level
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **Deposit money** | Commercial-bank account money. | First: **323**<br>Later: 335 |
+| **Bank money creation** | The creation of a matching bank deposit when a commercial bank approves a loan. | First: **335**<br>Later: — |
+| **Liability** | Something a person or institution owes; a bank deposit is a liability the bank owes its customer. | First: **333**<br>Later: 364 |
+| **Fractional reserve banking** | Banking in which only part of deposit obligations is kept immediately available as reserves. | First: **86**<br>Later: 331, 337, 411 |
+| **Liquidity** | Access to funds that can be used quickly. | First: **335**<br>Later: 341, 974, 1013, 1015, 1313 |
+| **Liquidity risk** | The danger that funds will not be available when needed. | First: **341**<br>Later: 974, 1013, 1015, 1313 |
+| **Solvency** | Having assets sufficient to cover obligations. | First: **342**<br>Later: — |
+| **Solvency risk** | The danger that an institution’s assets will not cover what it owes. | First: **342**<br>Later: — |
+| **Credit risk** | The risk that a borrower will not repay what is owed. | First: **335**<br>Later: — |
+| **Funding cost** | What a bank pays to obtain money. | First: **335**<br>Later: — |
+| **Qualified borrower** | A borrower who meets a lender’s standards for a loan. | First: **335**<br>Later: — |
+| **Bank capital rules** | Rules requiring banks to fund risks with capital that can absorb losses. | First: **335**<br>Later: — |
+| **Bank regulation** | Rules and supervision that govern banks. | First: **335**<br>Later: 354 |
+| **Bank profit** | Income remaining after a bank’s costs and losses. | Not present |
+| **Deposit insurance** | A system that protects eligible bank deposits up to stated limits if a bank fails. | First: **344**<br>Later: — |
+| **Gearing** | Using borrowed money or obligations to increase the size of assets or financial exposure. | Not present |
+| **Bank run** | A rush of many customers trying to withdraw funds because they fear a bank may fail. | First: **344**<br>Later: — |
+| **“Too big to fail”** | The view that an institution is so important that authorities may intervene to prevent its disorderly failure. | Not present |
+| **Restructuring** | Changing debts, ownership, or operations to help an institution continue or resolve failure. | Not present |
+
+### Inflation and purchasing power
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **Inflation** | A sustained increase in the general price level, so a unit of money buys less. | First: **86**<br>Later: 348, 350, 354, 356, 358, 412 |
+| **Price inflation** | A sustained increase in the general price level of goods and services. | First: **350**<br>Later: — |
+| **Purchasing power** | The amount of goods and services a unit of money can buy. | First: **45**<br>Later: 86, 238, 327, 348, 352, 356, 387, 397, 403, 415 |
+| **Monetary expansion** | An increase in the amount of money or credit in circulation. | Not present |
+| **Secondary effects** | Later indirect effects caused by an initial economic change. | Not present |
+| **Inflation basket** | A selected group of goods and services used to measure average price changes. | Not present |
+
+### CBDCs as a beginner fiat-system example
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **CBDC / central bank digital currency** | A digital form of fiat money issued as a liability of a central bank. | First: **362**<br>Later: 364, 366, 368, 370, 372, 383 |
+
+### Why people look for alternatives
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **Currency** | Money used by a country or within a monetary system. | First: **240**<br>Later: 304, 306, 308, 314, 316, 329, 352, 354, 364, 495, 623, 629, 1056, 1241, 1254, 1356, 1361 |
+| **Asset** | Something a person or institution owns that may provide use, income, or future value. | First: **224**<br>Later: 240, 290, 333, 342, 346, 356, 392, 395, 397, 399, 533, 551, 553, 613, 637, 1281 |
+| **Bond** | A debt security: the buyer lends money to a government or organization in return for promised repayment, usually with interest. | First: **397**<br>Later: — |
+
+## Block 2: Solution / Bitcoin
+
+### Why Bitcoin was created
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **Issuer** | The authority, institution, or system that creates and puts money or claims into circulation. | First: **47**<br>Later: 298, 302, 310, 368, 370, 399, 429, 431, 445, 519 |
+| **Intermediary** | A middle party, such as a bank, exchange, or payment service, between participants in a transaction. | First: **310**<br>Later: 403, 429, 443, 482, 563, 660, 785 |
+| **Bitcoin network** | The independent computers and participants that operate Bitcoin under the same rules. | First: **483**<br>Later: 502, 511, 696, 898 |
+| **Bitcoin protocol** | The shared technical rules that Bitcoin participants use to validate and relay activity. | First: **483**<br>Later: 502, 511, 696, 898 |
+| **Bitcoin service** | A separate business or tool that uses the Bitcoin network. | First: **898**<br>Later: — |
+
+### The search for digital and decentralized money
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **Cryptography** | Mathematical methods used to protect information and prove authenticity. | First: **185**<br>Later: 439, 441, 453 |
+| **Encryption** | Transforming information so only an authorized party can read it. | First: **441**<br>Later: — |
+| **Digital signature** | A mathematical proof created with a private key that authorizes a message or transaction. | First: **433**<br>Later: 441, 736, 744, 1518 |
+| **Cypherpunk** | A person who uses or advocates cryptography and open technology to protect privacy and freedom. | First: **439**<br>Later: 443 |
+
+### Early digital-money attempts and the double-spend problem
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **DigiCash** | An early private-digital-payment system that depended on a central company. | First: **453**<br>Later: — |
+| **Hashcash** | An early proof-of-work system designed to make unwanted email computationally costly. | First: **455**<br>Later: — |
+| **Bit Gold** | An early proposal for scarce digital records created through computational work. | First: **457**<br>Later: — |
+| **B-money** | An early proposal for decentralized digital money. | First: **459**<br>Later: — |
+| **Reusable proof of work** | An early proposal for transferring scarce digital value without relying on one central database. | First: **459**<br>Later: — |
+| **BitTorrent** | A file-sharing system that demonstrated decentralized information sharing. | First: **461**<br>Later: — |
+| **Peer-to-peer network** | A network in which independent computers communicate directly rather than through one central server. | First: **461**<br>Later: 469 |
+| **Double spending** | Trying to use the same digital unit in more than one payment. | First: **465**<br>Later: 667 |
+| **Double-spend problem** | The challenge of preventing a digital unit from being spent more than once. | First: **449**<br>Later: 465, 667 |
+| **Proof of work** | The process miners use to compete to propose blocks by performing costly computation. | First: **433**<br>Later: 455, 459, 470, 472, 517, 575, 577, 590, 592, 598, 607, 663 |
+| **Mining** | The process of competing through proof of work to propose a block. | First: **89**<br>Later: 185, 470, 504, 505, 509, 523, 527, 529, 569, 577, 584, 588, 592, 594, 596, 600, 605, 663, 668, 669, 883, 903, 1002 |
+| **Miner** | A participant that builds candidate blocks and performs proof-of-work computation. | First: **470**<br>Later: 504, 523, 527, 529, 577, 584, 588, 592, 594, 596, 600, 605, 663, 668, 669, 883, 903, 1002 |
+| **Node** | Software or a computer running Bitcoin software and checking the network’s rules. | First: **89**<br>Later: 433, 471, 503, 505, 519, 529, 531, 561, 569, 575, 584, 585, 588, 596, 617, 622, 661, 668, 707, 744, 862, 901 |
+| **Full node** | A node that independently checks Bitcoin’s rules. | First: **471**<br>Later: 503, 505, 519, 529, 531, 561, 575, 584, 585, 588, 596, 617, 622, 661, 668, 707, 744, 862, 901 |
+| **Validating node** | A node that independently checks Bitcoin’s rules. | First: **471**<br>Later: 503, 505, 519, 529, 531, 561, 575, 584, 585, 588, 596, 617, 622, 661, 668, 707, 744, 862, 901 |
+| **Economic node** | A node whose operator uses it for real payment activity and can therefore influence which rules have economic support. | Not present |
+| **Bitcoin block** | A batch of transactions accepted into Bitcoin’s chain. | First: **470**<br>Later: 471, 483, 491, 503, 504, 505, 523, 525, 527, 529, 575, 577, 584, 592, 594, 596, 605, 862, 883, 893, 903, 1002, 1011 |
+| **Candidate block** | A proposed block that has not yet been accepted into the chain. | First: **470**<br>Later: 471, 503, 504, 505, 523, 525, 527, 529, 575, 577, 584, 592, 594, 596, 605 |
+| **Valid chain** | A chain of blocks that follows Bitcoin’s rules. | First: **472**<br>Later: 603 |
+| **Accumulated work** | The total proof-of-work effort represented by a chain. | First: **472**<br>Later: 603 |
+
+### Bitcoin origin timeline
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **Satoshi Nakamoto** | The name used by Bitcoin’s creator or creators; the real-world identity is unknown. | First: **482**<br>Later: 483, 487 |
+| **Bitcoin whitepaper** | The original paper, *Bitcoin: A Peer-to-Peer Electronic Cash System*, which described Bitcoin’s design and purpose. | First: **482**<br>Later: — |
+| **Genesis Block** | The first block in Bitcoin’s blockchain, created when the network began. | First: **483**<br>Later: 491 |
+| **Bitcoin Pizza Day** | The annual remembrance of the 2010 purchase of two pizzas with 10,000 bitcoin. | First: **485**<br>Later: — |
+| **Hal Finney** | The recipient of the first recorded person-to-person Bitcoin transaction. | First: **484**<br>Later: — |
+| **Person-to-person transaction** | A payment made directly from one participant to another. | First: **484**<br>Later: — |
+
+### Decentralization
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **Decentralization** | The distribution of control and verification across many independent participants. | First: **88**<br>Later: 493, 499, 509, 511, 519, 672 |
+| **Open-source software** | Software whose source code can be publicly inspected, used, shared, and improved. | First: **487**<br>Later: 501, 1476, 1479, 1486, 1502, 1506 |
+| **Ledger** | A record of transactions; Bitcoin’s ledger is copied and checked across many nodes. | First: **427**<br>Later: 433, 495, 507, 509, 577, 617, 661, 686, 716, 913 |
+
+### Finite supply
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **Block subsidy** | New bitcoin created by the rules and paid to the miner of a valid block. | First: **523**<br>Later: 577 |
+| **Issuance schedule** | The rules that control how new bitcoin is issued over time. | First: **523**<br>Later: 575 |
+| **Maximum supply** | The greatest total amount of bitcoin the rules allow. | First: **523**<br>Later: 575 |
+| **Halving** | The event that cuts Bitcoin’s block subsidy in half after every 210,000 blocks. | First: **525**<br>Later: 670 |
+
+### Satoshis and unit bias
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **Sat / satoshi** | The smallest named unit of bitcoin; 100,000,000 sats equal one bitcoin. | First: **134**<br>Later: 539, 543, 544, 545, 546, 547, 549, 551, 555, 619, 629, 671, 876, 1095, 1211, 1241, 1356 |
+
+### Users, nodes, and miners
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **Bitcoin Core** | A widely used Bitcoin software implementation that can run a full node. | First: **575**<br>Later: — |
+| **Developer software proposal** | A suggested software change only affects Bitcoin when participants choose software that follows it. | First: **579**<br>Later: 586 |
+
+### Proof of work at a beginner level
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **Hash function** | A mathematical process that turns data into a fixed-size digital result. | First: **594**<br>Later: — |
+| **Target** | The threshold that a proof-of-work result must satisfy. | First: **594**<br>Later: 596, 605 |
+| **Difficulty** | A measure of how hard it is to find a proof-of-work result that satisfies the target. | First: **594**<br>Later: 596, 605 |
+| **Valid result** | A proof-of-work result that satisfies the target. | First: **605**<br>Later: — |
+| **Broadcast** | To send transaction or block data to peers across the network. | First: **559**<br>Later: 577, 596, 857, 903, 1014 |
+| **Blockchain** | Bitcoin’s public history, arranged in blocks. | First: **883**<br>Later: 1002 |
+| **Block space** | The limited data capacity available in each Bitcoin block. | First: **1002**<br>Later: — |
+
+### Bitcoin as sound digital money
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **Sound money** | A judgment for money whose supply is difficult to expand and whose properties support reliable use over time. | First: **611**<br>Later: 637 |
+| **Sat interchangeability** | Whether equal sats are treated as equivalent in use; it is an application of fungibility. | First: **620**<br>Later: — |
+| **Value** | The usefulness or importance of something to a person. | Not present |
+| **Price** | The amount exchanged for a good, service, or asset. | Not present |
+| **Bias** | A tendency that can influence judgment. | Not present |
+
+## Block 3: Action / Self-Custody
+
+### Wallets
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **Bitcoin wallet** | A tool that manages keys and helps receive, authorize, and track Bitcoin transactions; it does not literally contain bitcoin. | First: **684**<br>Later: 850 |
+| **Custody** | Control of Bitcoin keys. | First: **67**<br>Later: 90, 91, 169, 195, 393, 565, 573, 639, 645, 647, 678, 772, 774, 776, 778, 780, 785, 788, 790, 802, 953, 968, 974, 986, 1015, 1017, 1023, 1025, 1034, 1042, 1048, 1091, 1111, 1142, 1160, 1173, 1193, 1195, 1201, 1244, 1255, 1295, 1344, 1346, 1352, 1358, 1372, 1378, 1430, 1436, 1448, 1450, 1516 |
+| **Custodian** | A person or service that controls Bitcoin keys for someone else. | First: **67**<br>Later: 90, 91, 169, 195, 393, 565, 573, 639, 645, 647, 678, 772, 774, 776, 778, 780, 785, 788, 790, 802, 953, 968, 974, 986, 1015, 1017, 1023, 1025, 1034, 1042, 1048, 1091, 1111, 1142, 1160, 1173, 1193, 1195, 1201, 1244, 1255, 1295, 1344, 1346, 1352, 1358, 1372, 1378, 1430, 1436, 1448, 1450, 1516 |
+| **Self-custody** | Control of your own Bitcoin keys rather than leaving them with a service. | First: **67**<br>Later: 90, 91, 169, 195, 393, 565, 573, 639, 645, 647, 678, 772, 774, 776, 778, 780, 785, 788, 790, 802, 953, 968, 974, 986, 1015, 1017, 1023, 1025, 1034, 1042, 1048, 1091, 1111, 1142, 1160, 1173, 1193, 1195, 1201, 1244, 1255, 1295, 1344, 1346, 1352, 1358, 1372, 1378, 1430, 1436, 1448, 1450, 1516 |
+| **Wallet compatibility** | The ability of a wallet, backup, address, or network to work with another system. | First: **728**<br>Later: 754, 823, 1031, 1148 |
+| **Project continuity** | The likelihood that wallet software will remain maintained and usable. | Not present |
+| **Bitcoin privacy** | Control over information about a person and their Bitcoin activity. | First: **185**<br>Later: 439, 661, 698, 716, 860, 901, 909, 913, 968, 994, 1035, 1146, 1207, 1295, 1313, 1328, 1450 |
+| **Block-explorer privacy** | The privacy implications of using a public tool to inspect addresses or transactions. | First: **862**<br>Later: 889, 893, 895, 909, 1114 |
+
+### Addresses
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **Bitcoin address** | Receiving information for an on-chain Bitcoin payment. | First: **705**<br>Later: 716, 728, 852, 874, 1010, 1217 |
+| **Address type** | The format of a Bitcoin address. | First: **705**<br>Later: 716, 728, 852, 874, 1010, 1217 |
+| **Payment destination** | The receiving information to which funds are directed. | First: **705**<br>Later: 716, 728, 852, 874, 1010, 1217 |
+| **Network tag** | A label identifying the intended payment network. | Not present |
+
+### Keys
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **Private key** | Secret information that lets a wallet authorize spending; anyone who obtains it may control the funds. | First: **90**<br>Later: 169, 177, 690, 702, 736, 738, 744, 748, 921, 1461 |
+| **Public key** | Information derived from a private key that helps verify signatures without revealing the private key. | First: **738**<br>Later: — |
+
+### Seed phrases and recovery
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **Seed phrase / recovery phrase** | An ordered list of secret words that many wallets use to restore keys. | First: **90**<br>Later: 147, 154, 155, 169, 177, 645, 748, 750, 752, 754, 756, 770, 804, 810, 826, 854, 887, 915, 921, 923, 1031, 1112, 1395, 1461 |
+| **Single-signature** | A spending arrangement in which one key authorizes a transaction. | Not present |
+| **Multisignature** | A spending arrangement requiring more than one key or approval. | First: **806**<br>Later: — |
+| **Hot wallet** | A wallet using an online device. | First: **792**<br>Later: 794, 796, 800, 801, 804, 816, 925 |
+| **Cold wallet** | A wallet that keeps signing keys offline. | First: **792**<br>Later: 794, 796, 800, 801, 804, 816, 925 |
+| **Hardware wallet** | A dedicated device for holding signing keys. | First: **792**<br>Later: 794, 796, 800, 801, 804, 816, 925 |
+| **Custodial wallet** | A wallet arrangement in which a service controls the keys. | First: **91**<br>Later: 792, 794, 796, 800, 801, 804, 816, 925 |
+
+### Receiving and sending bitcoin
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **Confirmation** | Inclusion of a transaction in a valid block. | First: **858**<br>Later: 893, 900, 903, 905, 907, 1002, 1014, 1015, 1032, 1182 |
+| **First confirmation** | The initial inclusion of a transaction in a valid block. | First: **858**<br>Later: 893, 900, 903, 905, 907, 1002, 1014, 1015, 1032, 1182 |
+| **Block depth** | The number of blocks added after the block containing a transaction. | Not present |
+| **Transaction fee / miner fee** | A fee paid for an on-chain transaction to be included in a block. | First: **527**<br>Later: 577, 635, 694, 885, 1002, 1264 |
+| **Fee estimation** | A wallet’s attempt to choose an appropriate transaction fee. | First: **885**<br>Later: 1002, 1264 |
+| **Transaction ID / TXID** | A unique identifier used to find and discuss an on-chain Bitcoin transaction. | First: **881**<br>Later: 893, 897, 899, 909 |
+| **Block explorer** | A tool for viewing public Bitcoin data such as transactions, addresses, blocks, fees, and confirmations. | First: **862**<br>Later: 889, 893, 895, 909, 1114 |
+
+### On-chain and Lightning payments
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **On-chain payment** | A payment recorded directly in Bitcoin’s blockchain. | First: **714**<br>Later: 1002, 1010, 1046, 1260 |
+| **Base-layer settlement** | Final settlement directly on Bitcoin’s blockchain. | First: **1002**<br>Later: 1010, 1046, 1260 |
+| **Lightning Network** | A payment network built above Bitcoin. | First: **1004**<br>Later: — |
+| **Layer 2** | A system built on a base network to add capacity or features. | Not present |
+| **Payment channel** | A mechanism for updating payments off-chain. | First: **1004**<br>Later: 1011, 1013, 1015, 1184 |
+| **Lightning routing** | Passing a payment through connected Lightning channels. | First: **1011**<br>Later: 1013, 1015, 1184 |
+| **Lightning liquidity** | Channel capacity available to move a Lightning payment. | First: **1013**<br>Later: 1015, 1184, 1313 |
+| **Lightning invoice** | A usually specific Lightning payment request. | First: **1010**<br>Later: 1019, 1113, 1182, 1184 |
+| **Lightning offer** | A reusable Lightning payment request. | Not present |
+| **Lightning address** | A human-readable Lightning receiving identifier. | First: **1019**<br>Later: 1113, 1182, 1184 |
+
+## Block 4: Custom / Bitcoin As Money
+
+### Local on-ramp and off-ramp pathways
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **On-ramp** | A way to move value into bitcoin. | First: **1279**<br>Later: 1281 |
+| **Off-ramp** | A way to move value from bitcoin into local money, goods, or services. | First: **1281**<br>Later: — |
+
+### KYC and no-KYC trade-offs
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **KYC** | Identity checks required by a financial service. | First: **994**<br>Later: 1305, 1307, 1309, 1311, 1313, 1317 |
+| **No-KYC / non-KYC** | A path collecting less or no standard KYC information. | First: **1305**<br>Later: 1307, 1309, 1311, 1313, 1317 |
+
+### Circular economies
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **Bitcoin circular economy** | A community network in which people earn, spend, save, and exchange bitcoin locally. | First: **183**<br>Later: 1291, 1330, 1332, 1334, 1346, 1384 |
+
+### Merchant or community use cases
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **Community custody** | A person or group controls bitcoin for others. | First: **1378**<br>Later: — |
+| **Shared funds** | Funds controlled for more than one person under agreed rules. | First: **1378**<br>Later: — |
+
+### Optional Bitcoin layers and community custody systems
+
+| Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
+| --- | --- | --- |
+| **Liquid** | A Bitcoin sidechain. | Not present |
+| **Ecash** | Digital cash-like value issued by a mint. | Not present |
+| **Fedimint** | Software for federated community custody and ecash services. | Not present |
