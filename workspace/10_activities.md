@@ -10,6 +10,38 @@ The Activity Bank is designed for two uses. Activities can complement the Bitcoi
 
 A standalone activity should provide enough context, instructions, debrief questions, and safety notes for participants to learn a clear idea even if they have not completed the full diploma.
 
+## Current Activities in the Bitcoin Diploma (26.04)
+
+The legacy Diploma contains the following explicit activities, exercises, discussions, reflections, and embedded practical tasks. Modules 1–10 and the back matter were reviewed; the back matter summarizes activities from the modules rather than adding separate learner activities.
+
+| Module / section | Activity | Format | Brief description |
+| --- | --- | --- | --- |
+| 1.1 | Five Questions on Money | Individual reflection | Learners record their initial answers to why money is needed, what money is, who controls it, what gives it value, and what else they want to know. |
+| 1.1 | Why Do We Need Money? | Group discussion | Small groups compare their answers to the five money questions, select favorite responses, vote on a question to preserve, and revisit the results at the end of the course. |
+| 1.1 | What Is Money? | Demonstration and discussion | Learners decide whether they would exchange candy for a real dollar or a Monopoly bill, then discuss acceptability, value, money creation, and control. |
+| 1.3 | What Function of Money Is This? | Classification exercise | Learners classify short saving, purchasing, and price-comparison scenarios as store of value, medium of exchange, or unit of account. |
+| 1.4 | Properties of Money Scorecard | Comparison exercise | Learners score cows, hot sauce, diamonds, and paper money against durability, portability, fungibility, acceptability, scarcity, and divisibility, saving the Bitcoin column for later. |
+| 1.6 | Time Preference | Choice experiment and discussion | Learners choose a small candy immediately or a larger reward later, then reflect on delayed gratification, opportunity cost, and high versus low time preference. |
+| 2.0 | Iterative Barter Game | Participatory game | Learners experience direct and indirect barter through repeated trades, encounter the double coincidence of wants, and see how the most saleable good can emerge naturally as money. |
+| 3.2 | Fractional Reserve Banking | Classroom simulation | Learners take the roles of people and banks to observe how fractional-reserve lending expands the money supply and creates bank-run, default, and moral-hazard risks. |
+| 4.1 | Auction | Participatory game | Learners bid for a fixed set of goods while the available money increases, experiencing how monetary inflation affects prices and purchasing power while distinguishing it from price inflation. |
+| 4.2 | Consequences of the Fiat System | Discussion | Learners identify personal and social effects of the fiat system, connect them to their country and its history, and share relevant personal examples. |
+| 5.1 | Consensus in a Peer-to-Peer Network | Coordination exercise | Learners try to synchronize a group without a defined leader and use the difficulty of reaching agreement to understand decentralized consensus and the Byzantine Generals Problem. |
+| 5.2 | Is Bitcoin Sound Money? | Comparison and discussion | Learners return to the Module 1 properties table, complete the Bitcoin column, compare Bitcoin with cows, hot sauce, diamonds, and paper money, and discuss whether Bitcoin is sound money. |
+| 6.2 | Discussion and Evaluation of Bitcoin Wallets | Web-supported evaluation | Learners use a wallet-selection website and criteria such as custody, security, privacy, usability, compatibility, fees, reputation, and open-source code to choose a suitable wallet. |
+| 6.3 | Setting Up and Recovering a Wallet | Practical lab | Learners either create a mobile wallet and back up its recovery phrase or restore a prepared wallet from a recovery phrase, then locate the receive function and access the wallet's sats. |
+| 6.4 | Receiving and Sending an On-Chain Transaction | Practical walkthrough | Learners find and share a receiving address or QR code, enter and verify a recipient address and amount, broadcast a transaction, and wait for network confirmation. |
+| 6.4 | Transactions in Action | Cooperative role-play | Learners rotate through sender, recipient, miner, and node-operator roles to model transaction signing, address sharing, mining, block validation, and confirmation. |
+| 7.3 | Setting Up a Bitcoin Lightning Wallet | Practical walkthrough | Learners create a Lightning wallet, back up and confirm its recovery phrase, set an optional PIN or password, and prepare the wallet to send and receive sats. |
+| 7.4 | Lightning Network Map Exploration | Web exploration | Learners inspect the live Lightning node-and-channel map to visualize the network that routes payments between Lightning users. |
+| 7.4 | Lightning Relay Race | Hands-on relay | Learners send and receive real sats through a sequence of Lightning wallets, building confidence with invoices, units, speed, fees, and routing. |
+| 7.5 | BTCMap Merchant and Community Search | Map exploration | Learners search their region for Bitcoin-accepting merchants and circular economies, find nearby communities, and may add or update listings when ready. |
+| 8.1 | Generate a SHA-256 Hash | Web experiment | Learners enter words, sentences, or other data into a SHA-256 generator and compare outputs to observe fixed length, one-way behavior, and the effect of small input changes. |
+| 9.2 | Exploring the Mempool | Block-explorer activity | Learners use mempool.space to inspect unconfirmed transactions, fee rates, blocks, and related views of Lightning, mining, hash rate, pools, and block space. |
+| 10.1 | Check Your Country's CBDC Status | Web research | Learners use a CBDC tracker to check whether their country is researching, developing, piloting, or operating a central bank digital currency. |
+| 10.2 | Do You Have the Right to Control Your Own Money? | Guided reflection | Learners answer review questions connecting monetary rights, barter, monetary history, fixed supply, Bitcoin's creation, custody, Lightning, nodes, empowerment, and community contribution. |
+| 10.4 | Final Discussion: How Did Your Perspective Change? | Capstone reflection and discussion | Learners answer the opening money questions again, compare their new and original responses, discuss what changed, and identify a personal next step. |
+
 ---
 
 # Activity Bank Principles
