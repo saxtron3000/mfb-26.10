@@ -18,8 +18,9 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
 
 My First Bitcoin is a nonprofit education organization that began in El Salvador. We create free and open-source Bitcoin education for learners and educators around the world.
 
-The first Bitcoin Diploma cohort began in a public school in El Salvador in 2022. The curriculum was then published as an open-source resource. Educators in many communities have since translated, adapted, and taught it. Each local educator works with their own community while sharing a common educational foundation.
+The project began with informal gatherings in San Salvador in 2021. The 90-minute introduction moved from what money is to how Bitcoin works, then gave the learner practical experience sending and receiving sats with a Lightning wallet. Within two months, the project was teaching hundreds of learners each month.
 
+In 2022, the first Bitcoin Diploma cohort began in a public school in El Salvador. The curriculum was later published as an open-source resource, enabling educators around the world to translate, adapt, and teach it while sharing a common educational foundation.https://github.com/MyFirstBitcoin/Education-Network/tree/main/OS%20Everything/Bitcoin%20Education%20-%20Getting%20Started
 Our work is independent and community driven. It is also Bitcoin-only. This means that the Diploma focuses on Bitcoin, not on trading or promoting other digital assets. It does not ask you to accept a belief. It gives you concepts, questions, and practical safety knowledge so you can form your own conclusions.
 
 ### Our mission: independent, open-source Bitcoin education
