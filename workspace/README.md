@@ -1,67 +1,120 @@
 # Bitcoin Diploma 2026.10 Redesign
 
-This repository contains the active working materials for the Bitcoin Diploma 2026.10 redesign.
+This repository contains the active working materials for My First Bitcoin's Bitcoin Diploma 2026.10 redesign. In this project, **2026.10** means the planned October 2026 edition.
 
-The Bitcoin Diploma is My First Bitcoin's flagship beginner education program. The 2026.10 version is a redesign of the existing Diploma for the planned October 2026 release. It is being reorganized, not replaced: the goal is to preserve the open-source, community-led, Bitcoin-only identity of the Diploma while making it shorter, clearer, more practical, easier to teach, and easier to adapt across local communities.
+The redesign reorganizes rather than replaces the existing Diploma. It preserves the open-source, community-led, Bitcoin-only identity of the program while making the beginner pathway shorter, clearer, more practical, easier to teach, and easier to adapt across communities.
 
-## Working Direction
+## Current Status
 
-The redesigned Diploma is planned as an approximately 8-hour beginner course organized into four blocks:
+The project is in active planning and drafting. The files in `workspace/` are working documents, not a finished publication.
 
-1. Problem / Fiat
-2. Solution / Bitcoin
-3. Action / Self-custody
-4. Custom / Bitcoin as Money
+The current direction is:
 
-The first three blocks form the shared Core that every learner completes. The fourth block is selected by local educators so learners can connect Bitcoin to their own tools, risks, opportunities, and community context.
+- an approximately 8-hour beginner Diploma;
+- four blocks of approximately 2 hours each;
+- a shared Core followed by an educator-selected Custom block;
+- in-person, offline-capable print or PDF delivery first;
+- practical learning, discussion, reflection, review, and learner explanation in every block;
+- English-first source drafting followed by simplicity, tone, terminology, style, and translation-readiness review;
+- a separate Student Book, Activity Bank, Educator Guide, assessment framework, and publication specification;
+- Advanced module design after the beginner Diploma is stable and published;
+- future online PDF, online cohort, self-paced, web, app, and cross-modal branches that preserve the same Core outcomes.
 
-The first publication mode is in-person and offline-capable, using print or PDF materials. Future branches may include online PDF, online cohort, self-paced, web, app, and cross-modal versions, but they should preserve the same Core outcomes.
+Assessment design is in scope. Certification governance, credential infrastructure, and verification systems are not part of the current redesign.
+
+## Start Here
+
+Use [`00_index.md`](00_index.md) for the recommended reading order and complete source-of-truth map.
+
+For a faster orientation:
+
+1. Read [`15_spec.md`](15_spec.md) for a short, standalone overview of the planned Diploma.
+2. Read [`06_plan.md`](06_plan.md) for the active architecture and content boundaries.
+3. Read [`05_objectives.md`](05_objectives.md), [`07_contents.md`](07_contents.md), and [`08_draft.md`](08_draft.md) when working on learner-facing content.
+
+## Course Architecture
+
+| Block | Role | Working title | Core question |
+|---|---|---|---|
+| 1 | Problem | Fiat | What problem does fiat money create? |
+| 2 | Solution | Bitcoin | Why was Bitcoin created, and how does it respond? |
+| 3 | Action | Self-custody | How do I take responsibility for using and securing Bitcoin? |
+| 4 | Custom | Bitcoin as Money | How can Bitcoin function as money in this community? |
+
+Blocks 1–3 form the shared Core every learner completes. Local educators select and adapt Block 4 within the approved Custom boundaries so that practice reflects local tools, risks, opportunities, infrastructure, and community context.
 
 ## Repository Structure
 
 | Path | Purpose |
 |---|---|
-| `workspace/` | Active planning package for the redesign. This is the main working area. |
-| `workspace/00_index.md` | Recommended reading order and source-of-truth map. Start here. |
-| `workspace/06_plan.md` | Active plan source of truth for the 4-block structure, content boundaries, and migration decisions. |
-| `workspace/08_draft.md` | Draft student-book scaffold. |
-| `workspace/10_activities.md` | Activity Bank planning and activity categories. |
-| `workspace/11_guide.md` | Educator Guide outline and facilitation responsibilities. |
-| `workspace/12_assessment.md` | Assessment direction and evidence of learning. |
-| `workspace/16_advanced.md` | Advanced pathway ideas and parked material for later use. |
-| `ref/` | Reference material from the existing Bitcoin Diploma, Educator Guide, and Bitcoin for Organizations. |
-| `public/` | Public-facing overview, PDFs, keynote material, and stakeholder communication assets. |
+| `workspace/` | Active planning and drafting package; the main working area. |
+| `workspace/advanced/` | Source maps for merging beginner-safe Organizations material and preserving Advanced material. |
+| `ref/` | Legacy Bitcoin Diploma, Educator Guide, and Bitcoin for Organizations reference material. |
+| `public/` | Public-facing briefs, presentation sources, PDFs, images, and stakeholder communication assets. |
+| `feedback/` | Review notes and stakeholder feedback used as project inputs. |
 
-## Design Principles
+Reference and feedback material is input, not automatically approved curriculum. It must be reviewed against the active plan, objectives, design rules, and publication guardrails before being used.
+
+## Workspace Document Map
+
+| File | Owns or describes |
+|---|---|
+| [`00_index.md`](00_index.md) | Reading order, source-of-truth map, and consistency rules. |
+| [`01_review.md`](01_review.md) | Diagnosis of the existing Diploma and the problems the redesign addresses. |
+| [`02_research.md`](02_research.md) | Evidence needs, research questions, claim validation, and confidence tracking. |
+| [`03_scope.md`](03_scope.md) | Workstreams, milestones, deliverables, completion criteria, and out-of-scope work. |
+| [`04_design.md`](04_design.md) | Design principles, non-negotiables, assumptions, adaptation boundaries, and risks. |
+| [`05_objectives.md`](05_objectives.md) | Core, Custom, and Advanced learning outcomes and competency boundaries. |
+| [`06_plan.md`](06_plan.md) | **Active source of truth** for the four-block architecture, content boundaries, timing rules, and legacy migration. |
+| [`07_contents.md`](07_contents.md) | Planned Student Book table of contents. |
+| [`08_draft.md`](08_draft.md) | Current Student Book draft and learner-facing scaffold. |
+| [`09_assets.md`](09_assets.md) | Visual-text index, asset requirements, placement rules, and review handoff. |
+| [`10_activities.md`](10_activities.md) | Activity Bank structure, activity inventory, and activity design rules. |
+| [`11_guide.md`](11_guide.md) | Educator Guide structure, pacing, facilitation, adaptation, and learner-safety guidance. |
+| [`12_assessment.md`](12_assessment.md) | Assessment philosophy, evidence of learning, rubrics, and delivery-mode adaptation. |
+| [`13_certification.md`](13_certification.md) | Certification boundaries and questions parked for future design. |
+| [`14_lexicon.md`](14_lexicon.md) | Beginner-safe terminology and definitions for consistent drafting and translation. |
+| [`15_spec.md`](15_spec.md) | Standalone 2026.10 overview, publication rules, and collaborator-facing specification. |
+| [`16_advanced.md`](16_advanced.md) | Advanced module ideas, follow-on pathways, and legacy material parked outside the beginner Diploma. |
+| [`advanced/mergefromorganizations.md`](advanced/mergefromorganizations.md) | Checklist for beginner-safe material selected from Bitcoin for Organizations. |
+| [`advanced/advancedorganizations.md`](advanced/advancedorganizations.md) | Source trail for Organizations material routed to Advanced pathways. |
+
+The public stakeholder brief and keynote source is [`../public/MFB-BD-Keynote.md`](../public/MFB-BD-Keynote.md).
+
+## Content Ownership Rules
+
+- Use `06_plan.md` for architecture and boundary decisions; do not create a competing plan elsewhere.
+- Keep measurable outcomes and competencies in `05_objectives.md`.
+- Keep learner-facing prose in `08_draft.md` and align its order with `07_contents.md`.
+- Keep detailed activities in `10_activities.md`, not in the Student Book or plan.
+- Keep detailed facilitation guidance in `11_guide.md`, not in the Student Book or plan.
+- Keep assessment evidence in `12_assessment.md` and future certification questions in `13_certification.md`.
+- Keep the full Advanced module list and parked advanced content in `16_advanced.md`.
+- Use `advanced/mergefromorganizations.md` as the beginner-safe Organizations checklist; do not import Organizations chapters directly into the Student Book.
+- Use `advanced/advancedorganizations.md` and `16_advanced.md` for Organizations material that exceeds beginner scope.
+
+## Design and Publication Guardrails
 
 The redesign should:
 
-- keep the Diploma open source, community-led, and Bitcoin-only;
-- reduce unnecessary cognitive load for beginners;
+- preserve independent, impartial, open-source, community-led, and Bitcoin-only education;
+- manage beginner cognitive load and keep every component tied to a learning purpose;
 - separate Core, Custom, and Advanced material clearly;
-- use practical learning, discussion, reflection, and review in every block;
-- support educators with timing, facilitation, activity, and safety guidance;
-- prepare English source files for translation and localization;
-- avoid financial, legal, tax, or investment advice;
-- avoid global recommendations of named wallets, exchanges, tools, or services unless explicitly approved;
-- keep current-data examples dated, cited, or replaced with evergreen explanations before publication.
-
-## Source Of Truth
-
-Use `workspace/00_index.md` to understand the document set and reading order.
-
-For current curriculum structure and content boundaries, use `workspace/06_plan.md` as the source of truth. Detailed activities belong in `workspace/10_activities.md`, facilitation guidance belongs in `workspace/11_guide.md`, assessment belongs in `workspace/12_assessment.md`, and Advanced pathway material belongs in `workspace/16_advanced.md`.
-
-Do not treat reference material in `ref/` as automatically approved for the redesigned Diploma. It should be reviewed, classified, simplified, or moved into Core, Custom, Activity Bank, Educator Guide, Advanced, or out-of-scope categories according to the active plan.
+- standardize shared Core theory and outcomes while allowing educator-led local practice within guardrails;
+- support offline or low-connectivity delivery and use print QR codes sparingly;
+- prepare English source files for translation and localization before publication;
+- use beginner-safe, consistent terminology from `14_lexicon.md`;
+- avoid financial, legal, tax, accounting, compliance, or investment advice;
+- avoid turning named wallets, exchanges, tools, maps, services, or local resources into global recommendations;
+- date and cite current-data examples, or replace them with evergreen explanations before publication;
+- protect learner safety, autonomy, privacy, and realistic expectations.
 
 ## Learning Promise
 
-A realistic graduate of the 8-hour beginner Diploma should be able to explain what money is, identify the fiat problem Bitcoin responds to, describe Bitcoin's core properties in plain language, understand beginner custody and wallet concepts, identify basic safety practices, compare simple trade-offs, and choose safer next learning steps.
+A realistic graduate of the beginner Diploma should be able to explain what money is, identify the fiat problem Bitcoin responds to, describe Bitcoin's core properties in plain language, understand beginner wallet and custody concepts, identify basic safety practices, compare simple trade-offs, and choose safer next learning steps.
 
-The Diploma should not claim that every graduate can independently manage high-stakes custody, perform advanced technical troubleshooting, or master economic, technical, legal, tax, or investment analysis.
+The Diploma should not claim that every graduate can independently manage high-stakes custody, perform advanced technical troubleshooting, or master economic, technical, legal, tax, investment, policy, or organizational analysis.
 
 ## Public Message
-
-The public explanation is simple:
 
 The Diploma is becoming shorter, clearer, more practical, and more locally adaptable while preserving its mission.
