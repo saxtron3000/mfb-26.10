@@ -18,9 +18,10 @@ The current direction is:
 - English-first source drafting followed by simplicity, tone, terminology, style, and translation-readiness review;
 - a separate Student Book, Activity Bank, Educator Guide, assessment framework, and publication specification;
 - Advanced module design after the beginner Diploma is stable and published;
-- future online PDF, online cohort, self-paced, web, app, and cross-modal branches that preserve the same Core outcomes.
+- future online PDF, online cohort, self-paced, web, app, and cross-modal branches that preserve the same Core outcomes;
+- My First Bitcoin app assessment, progress tracking, and certification gating so every certificate reflects a shared minimum standard.
 
-Assessment design is in scope. Certification governance, credential infrastructure, and verification systems are not part of the current redesign.
+The My First Bitcoin app is the shared assessment system: learners complete micro-learning, knowledge checks, practical checklists, and required evidence there. A certificate may be issued only after the app records assessment-complete status. Detailed governance, credential infrastructure, and verification systems remain implementation work.
 
 ## Start Here
 
@@ -71,8 +72,8 @@ Reference and feedback material is input, not automatically approved curriculum.
 | [`09_assets.md`](09_assets.md) | Visual-text index, asset requirements, placement rules, and review handoff. |
 | [`10_activities.md`](10_activities.md) | Activity Bank structure, activity inventory, and activity design rules. |
 | [`11_guide.md`](11_guide.md) | Educator Guide structure, pacing, facilitation, adaptation, and learner-safety guidance. |
-| [`12_assessment.md`](12_assessment.md) | Assessment philosophy, evidence of learning, rubrics, and delivery-mode adaptation. |
-| [`13_certification.md`](13_certification.md) | Certification boundaries and questions parked for future design. |
+| [`12_assessment.md`](12_assessment.md) | Required app assessment, evidence of learning, passing requirements, and delivery-mode adaptation. |
+| [`13_certification.md`](13_certification.md) | Assessment-required certification rule and outstanding governance questions. |
 | [`14_lexicon.md`](14_lexicon.md) | Beginner-safe terminology and definitions for consistent drafting and translation. |
 | [`15_spec.md`](15_spec.md) | Standalone 2026.10 overview, publication rules, and collaborator-facing specification. |
 | [`16_advanced.md`](16_advanced.md) | Advanced module ideas, follow-on pathways, and legacy material parked outside the beginner Diploma. |
@@ -88,7 +89,7 @@ The public stakeholder brief and keynote source is [`../public/MFB-BD-Keynote.md
 - Keep learner-facing prose in `08_draft.md` and align its order with `07_contents.md`.
 - Keep detailed activities in `10_activities.md`, not in the Student Book or plan.
 - Keep detailed facilitation guidance in `11_guide.md`, not in the Student Book or plan.
-- Keep assessment evidence in `12_assessment.md` and future certification questions in `13_certification.md`.
+- Keep app assessment, evidence, and passing requirements in `12_assessment.md`; keep certification eligibility and governance questions in `13_certification.md`.
 - Keep the full Advanced module list and parked advanced content in `16_advanced.md`.
 - Use `advanced/mergefromorganizations.md` as the beginner-safe Organizations checklist; do not import Organizations chapters directly into the Student Book.
 - Use `advanced/advancedorganizations.md` and `16_advanced.md` for Organizations material that exceeds beginner scope.
