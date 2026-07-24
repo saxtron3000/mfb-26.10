@@ -529,7 +529,7 @@ Scarcity is more credible when the rules are public, users can verify them indep
 
 Bitcoin's rules define a predictable issuance schedule and a maximum supply of 21 million bitcoin. New bitcoin enter circulation through the block subsidy paid to miners who produce valid blocks.
 
-Approximately every 210,000 blocks, the subsidy is cut in half. This event is called a **halving**. Because blocks are produced about every ten minutes on average, a halving occurs roughly every four years. The exact calendar date is not fixed.
+Every 210,000 blocks, the subsidy is cut in half. This event is called a **halving**. Because blocks are produced about every ten minutes on average, a halving occurs roughly every four years. The exact calendar date is not fixed.
 
 The subsidy began at 50 bitcoin per block. It falls by half in repeated steps until it becomes too small to continue. Miners also receive transaction fees. Over time, fees are expected to become a more important part of miner revenue.
 
