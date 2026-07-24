@@ -1514,15 +1514,15 @@ A printed edition may place one official support QR code here. Before paying, co
 
 ### Certificate verification
 
-A certificate records completion under the requirements of the issuing course or educator. It does not prove investment skill, professional financial competence, or readiness to manage high-value self-custody.
+A certificate is issued only after the My First Bitcoin app records completion of the required assessment. It represents assessed beginner learning, not investment skill, professional financial competence, or readiness to manage high-value self-custody.
 
 If your Diploma certificate includes a verification code, link, QR code, digital signature, or timestamp, follow the instructions printed on that certificate. Verify that the destination belongs to My First Bitcoin or the clearly identified issuing organization.
 
-When checking a certificate, confirm:
+When checking a certificate through the official verification process, confirm:
 
 - the learner name or identifier;
 - the course and edition;
-- the issuing educator or organization;
+- the issuing organization and, where shown, the educator;
 - the completion date;
 - the verification status;
 - whether the record has been changed or revoked.

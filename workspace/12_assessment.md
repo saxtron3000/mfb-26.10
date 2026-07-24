@@ -2,27 +2,31 @@
 
 ## Purpose
 
-This document defines how learning will be evaluated in the redesigned Bitcoin Diploma.
+This document defines how learning is evaluated in the redesigned Bitcoin Diploma and the minimum assessment standard required before a Diploma certificate can be issued.
 
-Assessment connects objectives to evidence of learning. Certification remains separate and out of scope for the current redesign.
+The My First Bitcoin app is the shared assessment system for the Diploma. It gives every learner a self-paced path through micro-learning, self-evaluation, progress tracking, practical checklists, knowledge checks, and completion assessment. It gives educators a common record of learner progress and makes the minimum Diploma standard visible across cohorts, locations, languages, and delivery modes.
+
+Assessment is therefore not optional, and it is not only an educator judgment. A learner must complete the required app assessment before certification. See `13_certification.md` for the certification rule.
 
 ---
 
 # 1. Status
 
-This is a minimal working framework for an 8-hour beginner Diploma.
+This is the working assessment design brief for an approximately 8-hour beginner Diploma.
 
-The assessment system should be simple enough for community educators to use and flexible enough for local delivery contexts.
+The first teaching mode remains offline-capable and in-person friendly. The app is the canonical assessment and progress record. Where a class is delivered offline or with limited connectivity, educators may facilitate activities and capture local evidence, but learners must complete or synchronize the required app assessment before a certificate is issued. No delivery mode may bypass the minimum assessment standard.
 
-Assessment evidence should remain recognizable across language, offline/in-person PDF, online cohort, self-paced, web, or future app delivery modes.
+The app experience should support autonomous, self-paced learning without removing the educator's role. Educators facilitate, discuss, observe practice, help learners recover from incorrect answers, and use progress information to support learners. The app provides the common assessment framework and certification gate.
 
 ---
 
 # 2. Assessment Philosophy
 
-Assessment should show whether learners can explain, discuss, and apply beginner concepts safely.
+Assessment should show whether learners can explain, discuss, and apply beginner concepts safely. It should confirm understanding, not attendance, enthusiasm, or agreement with a slogan.
 
-The goal is not to certify advanced mastery. The goal is to confirm beginner understanding, practical orientation, and readiness for next steps.
+The goal is not to certify advanced mastery. The goal is to confirm a shared beginner standard of knowledge, practical orientation, safety awareness, and readiness for next steps.
+
+The system must make the meaning of a Diploma consistent: regardless of where it is taught or who teaches it, a certificate represents completion of the same minimum knowledge, skills, and competencies.
 
 ---
 
@@ -30,123 +34,136 @@ The goal is not to certify advanced mastery. The goal is to confirm beginner und
 
 Assessment should be:
 
-- aligned to the 4-block structure;
-- beginner-appropriate;
-- usable by educators;
-- lightweight enough for an 8-hour pathway;
-- based on observable evidence;
-- written with precise, measurable verbs;
-- understandable after translation;
-- adaptable by delivery mode without changing Core outcomes;
-- separated from certification governance.
+- aligned to the 4-block structure and the Core objectives;
+- beginner-appropriate and safety-oriented;
+- delivered and recorded through the My First Bitcoin app;
+- self-paced, with immediate feedback and resources for further learning;
+- based on observable evidence, not attendance alone;
+- written with precise, measurable verbs and understandable after translation;
+- consistent across educators and delivery modes while allowing local examples and practice;
+- accessible through low-connectivity workflows where practical, with later synchronization to the app;
+- private by default, collecting only the learner data needed for progress, assessment, and certification;
+- required before certification, with no educator, cohort, or location exception.
 
 ---
 
-# 4. Formative Assessment By Block
+# 4. App-Based Assessment Experience
+
+## 4.1 Learning Path And Progress Tracking
+
+The app should show each learner the required Diploma path, their progress through the four blocks, incomplete requirements, completed requirements, and next recommended step.
+
+Progress tracking is not itself proof of learning. A learner is only marked assessment-complete when the required knowledge checks and practical confirmations have been completed successfully.
+
+## 4.2 Micro-Learning And Self-Evaluation
+
+Each block should be broken into short, focused learning units that prepare learners for a check of understanding. Units may include short explanations, scenarios, reflection prompts, demonstrations, or local-resource links.
+
+Self-evaluation helps learners identify what they do and do not yet understand. It must be followed by assessed knowledge checks where the framework requires them. A learner's self-report alone must not satisfy an assessment requirement.
+
+## 4.3 Knowledge Checks And Feedback
+
+Required app knowledge checks should test the Core concepts and use a mixture of recall, explanation, comparison, scenario, and safety questions. The app should give clear feedback, point learners to the relevant micro-learning when they need more preparation, and allow a learner to retry after review.
+
+Questions may be translated and locally contextualized, but the competency being checked and the passing standard must remain the same.
+
+## 4.4 Practical Checklists And Guided Action
+
+The app should include guided checklists for beginner actions and preparation. Examples include:
+
+- setting up or exploring a suitable wallet in an educator-approved, locally appropriate context;
+- identifying the difference between an address, private key, and seed phrase;
+- completing a seed phrase protection and recovery-readiness check without entering or transmitting secret information;
+- checking an address before an irreversible transaction;
+- identifying common scam patterns and safe next steps;
+- researching the history and current characteristics of the learner's own fiat currency;
+- identifying a local Bitcoin-as-money use case or next learning resource.
+
+If a learner answers “not yet” or cannot complete an item, the app should provide an appropriate explanation, resource, or educator prompt, then keep the requirement open until it is completed. Checklists must never collect seed phrases, private keys, wallet credentials, or unnecessary personal financial information.
+
+## 4.5 Educator View
+
+Educators should be able to see learner and cohort progress, incomplete requirements, knowledge-check results, and areas where additional teaching or support is needed. This view supports intervention and consistent delivery; it does not allow an educator to waive a required assessment.
+
+---
+
+# 5. Required Assessment By Block
 
 ## Problem / Fiat
 
-Evidence may include:
+Required evidence includes:
 
-- learner explanation of money functions and properties;
-- learner explanation of barter limits and the double coincidence of wants;
-- fiat-system role map or explanation at beginner level;
-- CBDC versus Bitcoin comparison at beginner level where CBDCs are taught;
-- fiat problem reflection;
-- concept check on inflation, fractional reserve banking, and purchasing power.
+- app knowledge check on money functions, barter limits, fiat-system basics, inflation, and purchasing power;
+- learner explanation or scenario response identifying a beginner-level fiat problem;
+- completion of a local fiat-currency history or characteristics research prompt, with app-provided resources where needed.
 
 ## Solution / Bitcoin
 
-Evidence may include:
+Required evidence includes:
 
-- learner explanation of why Bitcoin was created;
-- beginner timeline or explanation connecting digital-money attempts, the double-spend problem, and Bitcoin's origin;
-- explanation of digital scarcity and credible scarcity at beginner level;
-- role map distinguishing users, nodes, miners, and developers at beginner level;
-- comparison of fiat and Bitcoin properties;
-- explanation of satoshis and the 21 million limit at beginner level;
-- guided discussion of decentralization, supply, peer-to-peer transfer, and verification.
+- app knowledge check on why Bitcoin was created, the double-spend problem, digital scarcity, satoshis, and the 21 million limit;
+- learner explanation or scenario response comparing a relevant Bitcoin property with fiat money;
+- beginner-level role distinction among users, nodes, miners, and developers.
 
 ## Action / Self-custody
 
-Evidence may include:
+Required evidence includes:
 
-- wallet type identification;
-- explanation of addresses, keys, seed phrases, and wallet recovery;
-- custody trade-off scenario;
-- seed phrase testing and protection checklist;
-- address verification or irreversible transaction scenario;
-- block explorer or printed ledger-observation task identifying status, confirmations, public data, and privacy limits;
-- common scam pattern identification;
-- on-chain and Lightning distinction check;
-- acquiring/exchanging pathway risk map;
-- safety checklist.
+- app knowledge check on wallets, addresses, keys, seed phrases, custody trade-offs, confirmations, public-ledger privacy, on-chain and Lightning distinctions, and beginner acquisition-pathway risks;
+- required safety checklist covering seed phrase protection, address verification, irreversible transactions, and scam awareness;
+- practical confirmation or guided scenario showing wallet and recovery orientation without asking the learner to expose credentials or handle funds unsafely.
 
 ## Custom / Bitcoin as Money
 
-Evidence may include:
+Required evidence includes:
 
-- local tool demonstration reflection;
-- Lightning, merchant payment, or local payment scenario reflection where included;
-- local payment path, remittance path, or community donation scenario reflection where included;
-- local on-ramp/off-ramp trade-off explanation where included;
-- local resource map or community discovery task where included;
-- community use-case analysis;
-- practical workshop output;
-- realistic next-step plan.
+- an app-recorded local scenario, reflection, or practical output connected to the approved Custom block;
+- learner explanation of a relevant local payment, remittance, saving, receiving, donation, merchant, or community-use pathway and its beginner trade-offs;
+- a realistic next-step plan or local resource selection.
 
 ---
 
-# 5. Summative Assessment Direction
+# 6. Completion And Passing Standard
 
-Recommended summative model:
+The app may mark a learner **assessment-complete** only when all of the following are true:
 
-A short final learner explanation or presentation that answers:
+1. All required micro-learning and block requirements are complete.
+2. All required knowledge checks have been passed at the approved standard.
+3. All required practical and safety checklists have been completed.
+4. The learner has supplied the required Core and Custom evidence in the app.
+5. Any required educator review or practical observation has been recorded in the app.
 
-1. What problem does fiat money create?
-2. Why was Bitcoin created?
-3. What does self-custody responsibility mean?
-4. How might Bitcoin function as money in this local context?
-
-Educators may collect this as:
-
-- a short presentation;
-- a written reflection;
-- a small group explanation;
-- a practical demonstration plus debrief.
-- an equivalent online, self-paced, or web-supported evidence artifact.
-
-Where appropriate, educators may add one guided claim / evidence / trade-off response. This should assess reasoning quality, not agreement with a slogan.
+Exact scoring thresholds, retry rules, accessibility accommodations, identity checks, and review workflows must be defined before implementation. These implementation details may change, but they must not create a path to certification without assessment.
 
 ---
 
-# 6. Competency Evidence Map
+# 7. Competency Evidence Map
 
-| Competency | Evidence |
+| Competency | Minimum app evidence |
 |---|---|
-| Monetary Foundations | Explains money functions, properties, and fiat weaknesses. |
-| Bitcoin Fundamentals | Explains Bitcoin's purpose, beginner properties, satoshis, and verification. |
-| Practical Bitcoin Orientation | Identifies wallets, custody trade-offs, recovery basics, safety practices, confirmations, public-ledger privacy, on-chain and Lightning distinctions, and beginner acquisition-pathway risks. |
-| Guided Critical Discussion | Uses simple reasoning, evidence, and trade-off language in discussion. |
-| Local Relevance | Connects Bitcoin as money to a local use case where included. |
+| Monetary Foundations | Knowledge check and learner explanation of money functions, fiat weaknesses, and a local fiat-currency inquiry. |
+| Bitcoin Fundamentals | Knowledge check and explanation of Bitcoin's purpose, beginner properties, satoshis, scarcity, and verification roles. |
+| Practical Bitcoin Orientation | Knowledge check plus safety and practical checklists covering wallets, custody, recovery, scams, transaction verification, privacy, Lightning, and acquisition risks. |
+| Guided Critical Discussion | Scenario or explanation response using simple reasoning, evidence, and trade-off language. |
+| Local Relevance | App-recorded Custom reflection, practical output, or next-step plan connected to a local use case. |
 
 ---
 
-# 7. Certification Boundary
+# 8. Certification Link
 
-Completion assessment is not the same as certification.
+Participation, course attendance, and educator endorsement are valuable but do not qualify a learner for a Diploma certificate on their own.
 
-The current redesign may prepare evidence models, but it does not define certification governance, standards, or verification systems.
+The certification system may issue a certificate only after the app records assessment-complete status. A certificate must attest to the minimum framework of assessed beginner knowledge, skills, and competencies—not merely that the learner was present in a cohort.
 
 ---
 
-# 8. Gaps To Resolve
+# 9. Implementation Questions To Resolve
 
-- Final rubric language
-- Evidence requirements by delivery mode
-- Educator scoring guidance
-- Translation-ready rubric wording
-- Local expert review for practical demonstrations where needed
-- Evidence checks for wallet recovery, seed phrase testing, scam awareness, and acquisition-pathway risks
-- Online and self-paced adaptations
-- Relationship between completion and future certification
+- Final passing thresholds and retake rules for each knowledge check
+- Rubric language for written, spoken, and practical evidence
+- Educator review and escalation workflow for practical observations
+- Accessibility, translation, and low-connectivity requirements
+- Privacy, data retention, consent, and account-recovery rules
+- How offline evidence is securely captured and synchronized
+- Certificate issuance, identity verification, revocation, and verification rules
+- App analytics that identify learning gaps without exposing unnecessary learner data

@@ -168,11 +168,11 @@ Educator rule: answer the learner's real question, name trade-offs honestly, and
 
 ## 5. Assessment Support
 
-- Formative checks
-- Discussion evidence
-- Practical evidence
-- Final reflection or demonstration
-- Difference between assessment and certification
+- Supporting learners through app micro-learning, knowledge checks, and practical checklists
+- Using cohort progress data to identify learners who need help
+- Recording required practical observations in the app
+- Explaining that attendance and educator endorsement do not replace assessment
+- Directing learners to review resources and retakes when a requirement is incomplete
 
 ## 6. Adaptation Guidance
 
@@ -189,7 +189,8 @@ Educator rule: answer the learner's real question, name trade-offs honestly, and
 - Online cohort adaptation
 - Self-paced adaptation
 - Website branch adaptation
-- Future app and cross-modal branch notes
+- App assessment, progress-tracking, and low-connectivity synchronization support
+- Cross-modal branch notes
 - QR-code restraint for print and PDF delivery
 
 ## 7. Legacy Content Migration Guidance

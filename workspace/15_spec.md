@@ -174,18 +174,11 @@ The Student Book should carry the learner path. The Educator Guide should help t
 
 # Assessment And Certification
 
-Assessment in the redesigned Diploma is lightweight and beginner-focused.
+Assessment in the redesigned Diploma is beginner-focused, required, and delivered through the My First Bitcoin app. The app combines micro-learning, self-evaluation, progress tracking, knowledge checks, practical safety checklists, and locally relevant evidence tasks.
 
-The purpose is to show whether learners can explain, discuss, and apply beginner concepts safely. Evidence may include short reflections, learner explanations, group presentations, practical demonstrations, safety checklists, or local-context outputs.
+Its purpose is to show whether learners can explain, discuss, and apply beginner concepts safely—not merely whether they attended a cohort. Educators use the shared progress information to support learners, while the app provides the common assessment framework across locations and delivery modes.
 
-A simple final assessment may ask learners to answer:
-
-1. What problem does fiat money create?
-2. Why was Bitcoin created?
-3. What does self-custody responsibility mean?
-4. How might Bitcoin function as money in this local context?
-
-Certification is separate from this redesign. The 2026.10 work may prepare better foundations for future certification, but it does not define certification governance, credential infrastructure, or on-chain verification systems.
+No learner may receive a Bitcoin Diploma certificate unless the app records successful completion of every required assessment. Local teaching and Custom practice may adapt, but Core assessment requirements and passing standards may not be waived. Certificate governance, identity verification, credential infrastructure, and any on-chain verification remain implementation decisions.
 
 ---
 
@@ -249,7 +242,7 @@ It should not promise:
 - organizational treasury, policy, compliance, accounting, tax, legal, investment, or institutional custody competence;
 - legal or tax guidance;
 - global endorsement of named tools or services;
-- completed certification infrastructure.
+- certification without app-recorded assessment completion.
 
 Advanced topics should be preserved for future pathways rather than forced into the 8-hour beginner course.
 

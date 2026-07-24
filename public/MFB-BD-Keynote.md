@@ -247,6 +247,7 @@ The redesigned Diploma should be understood as a learning ecosystem rather than 
 | Educator Guide | Facilitation, pacing, classroom decisions, discussion management, and adaptation support |
 | Activity Bank | Participation, practice, local adaptation, review, and practical learning |
 | Custom templates | Local workshops, demonstrations, and community-specific Bitcoin use cases |
+| My First Bitcoin app | Shared micro-learning, progress tracking, knowledge checks, practical checklists, and assessment record |
 | Advanced pathways | Deeper study without overloading the beginner pathway |
 
 Possible supporting components:
@@ -261,7 +262,7 @@ Possible supporting components:
 
 # Assessment And Certification Direction
 
-Assessment should connect learning objectives to evidence of learning.
+Assessment should connect learning objectives to evidence of learning. The My First Bitcoin app should provide the common assessment path across cohorts, including micro-learning, self-evaluation, progress tracking, knowledge checks, practical checklists, and required evidence tasks.
 
 Assessment should align with:
 
@@ -295,9 +296,9 @@ Possible summative evidence:
 
 Important distinction:
 
-Assessment is part of the redesign foundation. Certification design is a future decision.
+Participation and attendance are not certification. A learner may receive a Diploma certificate only after the app records successful completion of the required assessment. This protects a shared minimum standard of beginner knowledge, skills, and competencies across educators and communities.
 
-The redesign can prepare foundations for certification through objectives, competencies, assessment frameworks, and evidence models. Certification governance and verification are separate future decisions.
+Certificate governance, identity verification, and public verification remain implementation decisions; they must not create a path to certification without app-recorded assessment.
 
 ---
 
@@ -532,7 +533,7 @@ Avoid:
 
 - listing all Advanced module titles;
 - sounding like the old Diploma failed;
-- promising final certification details;
+- promising certificate-governance details that have not yet been decided;
 - overexplaining technical Bitcoin topics;
 - using internal planning terms when a plain contrast works better.
 
@@ -575,7 +576,7 @@ Help make publication, translation, educator readiness, and the October 2026 rel
 Keep these topics available for questions, but do not make them central to the 10-minute talk:
 
 - assessment direction;
-- certification boundaries;
+- assessment-required certification rule;
 - Advanced pathway details;
 - detailed scope and milestones;
 - research evidence still being gathered;
@@ -594,7 +595,7 @@ Possible appendix materials:
 - full learning objectives;
 - competency areas;
 - assessment framework;
-- certification questions;
+- certificate governance questions.
 - research evidence summary;
 - block-level objective templates;
 - glossary;

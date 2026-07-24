@@ -2,88 +2,96 @@
 
 ## Purpose
 
-This document preserves certification questions and future certification considerations for the Bitcoin Diploma.
+This document defines the non-negotiable relationship between assessment and certification for the Bitcoin Diploma.
 
-Certification design is outside the scope of the current redesign project.
-
----
-
-# 1. Status
-
-Certification design is not currently being finalized.
-
-The redesign may prepare foundations for future certification through:
-
-- learning objectives;
-- competency language;
-- assessment evidence;
-- completion records;
-- educator guidance.
+The My First Bitcoin app is the Diploma's shared assessment record. Certification depends on successful completion of the required app assessment. Nobody may receive a Bitcoin Diploma certificate without being assessed.
 
 ---
 
-# 2. Public-Safe Distinctions
+# 1. Certification Rule
 
-Public communication should distinguish four ideas:
+A certificate may be issued only when the My First Bitcoin app records that the learner is assessment-complete under the requirements in `12_assessment.md`.
+
+Attendance, course participation, educator endorsement, self-reported completion, or completion of printed/PDF materials alone are not sufficient for certification. They may support the learner's path, but they cannot replace app-recorded assessment.
+
+This rule applies to every cohort, educator, delivery format, language, and location. It creates a common minimum framework while preserving locally appropriate teaching, examples, and Custom practice.
+
+---
+
+# 2. What A Certificate Represents
+
+A Bitcoin Diploma certificate represents that the learner has completed and passed the shared beginner assessment framework for:
+
+- monetary foundations;
+- Bitcoin fundamentals;
+- practical Bitcoin orientation and safety;
+- guided critical reasoning; and
+- locally relevant Bitcoin-as-money application.
+
+It does not represent attendance alone, advanced mastery, professional competence, or endorsement of a particular financial decision.
+
+Certification for the beginner Diploma must not imply competence in organizational treasury, institutional custody, legal, tax, accounting, compliance, investment, policy, or business implementation. Those areas belong to Advanced pathways or separate professional review.
+
+---
+
+# 3. Public-Safe Distinctions
+
+Public communication must distinguish these terms:
 
 | Term | Meaning |
 |---|---|
 | Participation | A learner attended or joined the learning experience. |
-| Completion | A learner completed the required beginner Diploma pathway. |
-| Assessment | A learner produced evidence of beginner understanding or practical orientation. |
-| Certification | A future verification model that has not yet been designed. |
+| Progress | A learner completed some app learning units or activities. |
+| Assessment-complete | The app records completion and successful passing of all required knowledge checks, practical confirmations, and evidence requirements. |
+| Certification | A certificate issued after assessment-complete status is confirmed. |
 
-The redesign strengthens foundations for future certification, but does not create a certification governance system.
-
-Completion or future certification for the beginner Diploma must not imply professional competence in organizational treasury, institutional custody, legal, tax, accounting, compliance, investment, policy, or business implementation. Those areas belong to Advanced pathways or separate professional review.
+Only assessment-complete status may unlock certification.
 
 ---
 
-# 3. Certification Questions
+# 4. Standardization Across Educators
 
-Future certification design must answer:
+The app-based assessment is the mechanism for maintaining a minimum, shared standard across decentralized delivery.
 
-- What evidence proves competence?
-- Who verifies competence in decentralized teaching environments?
-- What is the difference between participation, completion, assessment, and certification?
-- What must be standardized across communities?
-- What can be adapted locally?
-- What evidence works across in-person, offline/PDF, online PDF, online cohort, self-paced, web, app, and hybrid or cross-modal delivery?
-- Could completion or certification records be timestamped with an on-chain Bitcoin transaction?
-- If on-chain timestamping is used, what data must stay private and what proof can be public?
-- Who controls the verification process if blockchain timestamping is used?
+Educators remain responsible for teaching, facilitation, local adaptation, learner support, and recording any required observation. The shared app framework is responsible for presenting the required assessment path, recording completion and results, and preventing certification before requirements are met.
+
+Local educators may adapt examples, language, resources, and approved Custom practice. They may not remove Core assessment requirements, lower the passing standard, or issue a certificate outside the app-based assessment process.
 
 ---
 
-# 4. Future Verification Ideas
+# 5. Certificate Issuance Workflow
 
-One possible future certification model is to anchor completion or certification records to the Bitcoin blockchain through a timestamped transaction.
+1. The learner completes the Diploma learning path and app-based micro-learning.
+2. The learner completes required knowledge checks, practical checklists, and evidence tasks.
+3. The app records successful completion; where required, the educator records observation or review in the app.
+4. The app confirms assessment-complete status.
+5. The certification process issues the certificate only after that confirmation.
 
-This could allow a certificate, certificate batch, or hash of a completion record to be verified later without placing learner personal information on-chain.
-
-This is only an idea at this stage. It should not be presented as a current Diploma feature until certification governance, privacy, technical implementation, cost, educator workflow, and verification standards are defined.
-
----
-
-# 5. Out Of Scope For Current Redesign
-
-The current redesign project does not include:
-
-- certification standards;
-- certification governance;
-- certification verification systems;
-- credential infrastructure;
-- decentralized verification mechanisms;
-- on-chain certification or timestamping implementation.
-
-These may become future projects.
+If a learner has not met a requirement, the app should show what remains, direct the learner to relevant learning resources or educator support, and withhold certification until the requirement is completed.
 
 ---
 
-# 6. Relationship To Other Documents
+# 6. Governance And Verification Still To Define
 
-Use `05_objectives.md` for learning objectives.
+The assessment prerequisite is a current design requirement. The following implementation and governance details still require definition:
 
-Use `12_assessment.md` for evidence of learning and evaluation.
+- certificate issuer and approval authority;
+- identity and learner-account verification appropriate to the context;
+- certificate format, data fields, privacy, consent, retention, and recovery rules;
+- appeals, corrections, accessibility accommodations, and exceptional-case workflow;
+- educator permissions and audit trail;
+- certificate revocation and replacement process;
+- public certificate-verification process;
+- whether certificate records or hashes should ever be timestamped on-chain.
 
-Use `03_scope.md` for project scope and out-of-scope boundaries.
+An on-chain timestamp, if adopted, must not expose learner personal information and must not replace the required app assessment.
+
+---
+
+# 7. Relationship To Other Documents
+
+Use `05_objectives.md` for learning objectives and competencies.
+
+Use `12_assessment.md` for required app assessment, evidence of learning, and passing requirements.
+
+Use `11_guide.md` for educator facilitation and learner-support guidance.

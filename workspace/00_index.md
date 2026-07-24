@@ -31,8 +31,8 @@ Use these documents to understand:
 | 9 | `09_assets.md` | Review visual and asset needs. |
 | 10 | `10_activities.md` | See the Activity Bank structure and activity categories. |
 | 11 | `11_guide.md` | See the Educator Guide outline and facilitation responsibilities. |
-| 12 | `12_assessment.md` | Review assessment direction and evidence of learning. |
-| 13 | `13_certification.md` | Review certification boundaries and future questions. |
+| 12 | `12_assessment.md` | Review required app assessment, evidence of learning, and passing requirements. |
+| 13 | `13_certification.md` | Review the assessment-required certification rule and implementation questions. |
 | 14 | `14_lexicon.md` | Review terminology and language consistency. |
 | 15 | `15_spec.md` | Review publication rules and final consistency checks. |
 | 16 | `16_advanced.md` | Review Advanced module ideas, follow-on pathway notes, and parked legacy content. |
@@ -54,8 +54,8 @@ Use these documents to understand:
 | Visual and asset needs | `09_assets.md` |
 | Activity Bank structure | `10_activities.md` |
 | Educator Guide structure | `11_guide.md` |
-| Assessment direction | `12_assessment.md` |
-| Certification boundaries | `13_certification.md` |
+| Required app assessment and evidence of learning | `12_assessment.md` |
+| Assessment-required certification rule | `13_certification.md` |
 | Beginner terminology and definitions | `14_lexicon.md` |
 | Publication specification | `15_spec.md` |
 | Beginner-safe Organizations merge decisions | `mergefromorganizations.md` |
@@ -90,8 +90,8 @@ Working assumptions:
 - Educator Guide as a facilitation tool;
 - sparse QR code use in print materials;
 - future delivery branches documented without changing Core outcomes: online PDF, online cohort, self-paced, web, app, and cross-modal continuation;
-- assessment framework in scope;
-- certification design out of scope for the current redesign;
+- My First Bitcoin app as the shared assessment, progress-tracking, and certification-gating system;
+- certification requires app-recorded assessment completion; governance and credential implementation details remain to be defined;
 - Advanced module design deferred until after the beginner Diploma is published;
 - Bitcoin for Organizations will not remain a standalone beginner path; beginner-safe material is merged only where it clarifies Core, Custom, educator, activity, or assessment work, while strategic and organizational depth is routed to Advanced;
 - `06_plan.md` is the active plan source of truth; the duplicated older plan file has been archived at `../y_archive/y_13_plan_superseded.md`.

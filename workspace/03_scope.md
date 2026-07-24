@@ -61,8 +61,8 @@ The following assumptions affect project execution:
 - Sparse QR code use in print materials.
 - Future delivery branches should be documented without becoming current implementation requirements: online PDF, online cohort, self-paced, web, app, and cross-modal continuation.
 - `06_plan.md` is the active plan source of truth.
-- Assessment framework is in scope.
-- Certification design is out of scope.
+- App-based assessment, progress tracking, and the assessment prerequisite for certification are in scope.
+- Detailed certification governance and credential infrastructure remain to be defined.
 - Localization preparation is in scope.
 - Localization implementation is out of scope.
 - Publishing is part of project completion.
@@ -229,23 +229,26 @@ Separate advanced learning from beginner learning.
 
 ---
 
-## 10. Assessment Foundation & Assessment Framework
+## 10. App-Based Assessment & Certification Prerequisite
 
 ### Purpose
 
-Create the foundation for evaluating learning.
+Create a shared, app-based system that evaluates learning, tracks progress, and prevents certificate issuance before successful assessment.
 
 ### Deliverables
 
 - Assessment philosophy
-- Assessment framework
+- App assessment design brief: micro-learning, self-evaluation, progress tracking, knowledge checks, and practical checklists
 - Competency evidence framework
 - Assessment mapping
 - Evidence models
+- App-recorded assessment-complete status for certification eligibility
+- Educator progress and support guidance
+- Low-connectivity evidence and synchronization requirements
 
 ### Note
 
-Certification design is outside the scope of this project.
+The project establishes that assessment is mandatory for certification. Certificate governance, identity verification, credential infrastructure, and on-chain verification decisions remain implementation questions.
 
 ---
 
@@ -280,7 +283,8 @@ Clarify implementation expectations.
 - Online cohort branch guidance
 - Self-paced adaptation guidance
 - Website branch guidance
-- Future app and cross-modal continuation notes
+- App assessment and progress-tracking requirements, including low-connectivity synchronization
+- Cross-modal continuation notes
 - Delivery-mode branch map showing what stays fixed and what can adapt
 - Delivery assumptions documentation
 
@@ -403,10 +407,10 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 - Educator Guide redesign completed
 - Delivery support systems completed
 
-## Milestone 6 — Assessment Foundation
+## Milestone 6 — App-Based Assessment Standard
 
-- Assessment framework completed
-- Competency evidence completed
+- App-based assessment framework completed
+- Competency evidence and mandatory certification prerequisite completed
 
 ## Milestone 7 — Publishing
 
@@ -445,7 +449,7 @@ The redesign is complete when:
 - Strategic, organizational, financial, policy, legal, tax, treasury, sector-specific, and highly technical Organizations material is parked for Advanced rather than required in the beginner Diploma.
 - Timing assumptions are documented.
 - Delivery assumptions are documented.
-- Assessment framework is completed.
+- App-based assessment framework and certification prerequisite are completed.
 - Measurable outcomes are defined.
 - Educator Guide is redesigned.
 - Activity Bank is operational.
@@ -470,9 +474,7 @@ The redesign is complete when:
 
 The following items are intentionally excluded from the current redesign project:
 
-- Certification design
-- Certification standards
-- Certification governance
+- Certificate governance, credential infrastructure, identity verification, and public verification implementation
 - A standalone Bitcoin for Organizations beginner pathway
 - Organizational treasury, accounting, legal, tax, investment, policy, compliance, or institutional custody instruction inside the beginner Diploma
 - Full localization implementation
@@ -491,7 +493,7 @@ These may become future projects.
 
 - Success Metrics
 - North Star Definition
-- Certification Design
+- Certificate Governance and Verification Design
 - AI Localization
 - Advanced Pathway Design
 - Delivery-Mode Branch Roadmap

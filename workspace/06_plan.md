@@ -382,8 +382,8 @@ Educator preparation, timing, adaptation, misconception support, and debrief gui
 | Learning objectives and competencies | `05_objectives.md` |
 | Activity categories and activity template | `10_activities.md` |
 | Educator facilitation and Custom selection guidance | `11_guide.md` |
-| Assessment evidence and direction | `12_assessment.md` |
-| Certification boundaries | `13_certification.md` |
+| Required app assessment, evidence, and passing requirements | `12_assessment.md` |
+| Assessment-required certification rule and governance questions | `13_certification.md` |
 | Publication rules | `15_spec.md` |
 | Beginner-safe Organizations merge checklist | `mergefromorganizations.md` |
 | Organizations-to-Advanced source map | `advancedorganizations.md` and `16_advanced.md` |
@@ -403,7 +403,7 @@ The October 2026 redesign should produce:
 - Educator Guide;
 - Activity Bank;
 - Custom module templates;
-- assessment framework;
+- app-based assessment and certification-prerequisite framework;
 - publication-ready source files;
 - public communication materials.
 
@@ -433,8 +433,8 @@ The redesign still needs decisions on:
 - multilingual glossary readiness;
 - ownership and approval criteria for English-source simplicity and translation-readiness review;
 - ownership and approval criteria for post-translation language review;
-- final assessment format;
-- future certification verification options, including possible on-chain timestamping;
+- app knowledge-check thresholds, retake rules, and practical-evidence rubric;
+- certificate governance and future verification options, including possible on-chain timestamping;
 - low-connectivity delivery assumptions;
 - pilot and educator review process;
 - exact publication formats;

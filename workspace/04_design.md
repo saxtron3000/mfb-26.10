@@ -660,7 +660,7 @@ Use `05_objectives.md` for learning outcomes and competencies.
 
 Use `12_assessment.md` for how learning is evaluated.
 
-Use `13_certification.md` for certification questions and future certification design.
+Use `13_certification.md` for the assessment-required certification rule and certification governance questions.
 
 Use `03_scope.md` for workstreams, milestones, deliverables, publishing, and completion criteria.
 
