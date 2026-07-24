@@ -31,7 +31,7 @@ Use these documents to understand:
 | 9 | `09_assets.md` | Review visual and asset needs. |
 | 10 | `10_activities.md` | See the Activity Bank structure and activity categories. |
 | 11 | `11_guide.md` | See the Educator Guide outline and facilitation responsibilities. |
-| 12 | `12_assessment.md` | Review the combined app-supported knowledge and educator-led competency assessment framework. |
+| 12 | `12_assessment.md` | Review the combined theoretical and practical competency assessment framework. |
 | 13 | `13_certification.md` | Review the two-part assessment prerequisite for certification and implementation questions. |
 | 14 | `14_lexicon.md` | Review terminology and language consistency. |
 | 15 | `15_spec.md` | Review publication rules and final consistency checks. |
@@ -90,8 +90,8 @@ Working assumptions:
 - Educator Guide as a facilitation tool;
 - sparse QR code use in print materials;
 - future delivery branches documented without changing Core outcomes: online PDF, online cohort, self-paced, web, app, and cross-modal continuation;
-- combined assessment: app-supported knowledge checks plus educator-led applied and practical competency evaluation;
-- Blocks 1 and 2 are knowledge-dominant but require explanation and synthesis; Blocks 3 and 4 are skills-dominant and require direct educator observation;
+- combined assessment: theoretical assessment led approximately 80% through the app and 20% through educator touchpoints, plus educator-led practical competency evaluation;
+- Blocks 1 and 2 are knowledge-dominant; Blocks 3 and 4 are skills-dominant and require direct educator observation;
 - certification requires both assessment components; the app may record the combined status but cannot assess practical performance;
 - Advanced module design deferred until after the beginner Diploma is published;
 - Bitcoin for Organizations will not remain a standalone beginner path; beginner-safe material is merged only where it clarifies Core, Custom, educator, activity, or assessment work, while strategic and organizational depth is routed to Advanced;

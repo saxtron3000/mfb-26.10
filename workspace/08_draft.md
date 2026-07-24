@@ -126,9 +126,9 @@ During discussion:
 - protect other people's private financial information;
 - do not pressure anyone to buy, sell, or reveal how much money they hold.
 
-Your assessment has two parts. The My First Bitcoin app supports knowledge checks and progress tracking. Your educator evaluates explanations, discussions, role-plays, simulations, and required practical skills. These are opportunities to show what you understand and can do, and to discover what you should review or practise again.
+Your assessment has two parts. The My First Bitcoin app supports most theoretical learning and quizzes. Your educator carries out short theoretical touchpoints through activities, games, discussions, and role-plays, and evaluates required practical skills. These are opportunities to show what you understand and can do, and to discover what you should review or practise again.
 
-To receive a certificate, you must complete both the knowledge-and-understanding assessment and the educator-observed practical competency assessment. Completing the app alone or attending every session is not enough.
+To receive a certificate, you must complete both the theoretical assessment and the educator-observed practical competency assessment. Completing the app alone or attending every session is not enough.
 
 ### Required prior knowledge: none
 
@@ -1530,7 +1530,7 @@ A printed edition may place one official support QR code here. Before paying, co
 
 ### Certificate verification
 
-A certificate is issued only after you pass both the required app-supported knowledge assessment and the educator-led applied and practical competency assessment. The app may display the combined result, but your educator—not the app—evaluates practical performance. The certificate represents assessed beginner competence under supported conditions, not investment skill, professional financial competence, or readiness to manage high-value self-custody.
+A certificate is issued only after you pass both the required theoretical assessment and the educator-led practical competency assessment. The app may display the combined result, but your educator—not the app—evaluates practical performance. The certificate represents assessed beginner competence under supported conditions, not investment skill, professional financial competence, or readiness to manage high-value self-custody.
 
 If your Diploma certificate includes a verification code, link, QR code, digital signature, or timestamp, follow the instructions printed on that certificate. Verify that the destination belongs to My First Bitcoin or the clearly identified issuing organization.
 

@@ -62,22 +62,22 @@ Core outcomes are required for every learner. The stable objective IDs should be
 
 | ID | Block | Every learner should be able to... | Primary evidence |
 |---|---|---|---|
-| `B1.1` | Problem / Fiat | Explain what money is and why societies use it. | Knowledge and applied explanation |
+| `B1.1` | Problem / Fiat | Explain what money is and why societies use it. | Theoretical explanation |
 | `B1.2` | Problem / Fiat | Describe the beginner history and evolution of money, including barter and the limits that led societies toward other forms of money. | Knowledge and synthesis |
 | `B1.3` | Problem / Fiat | Identify the functions and properties of money. | Knowledge and classification |
 | `B1.4` | Problem / Fiat | Compare different forms of money using beginner monetary characteristics. | Applied comparison |
 | `B1.5` | Problem / Fiat | Explain basic fiat-system problems, including inflation, purchasing power loss, fractional reserve banking, and CBDCs as digital fiat where relevant at beginner level. | Knowledge, explanation, and scenario reasoning |
-| `B2.1` | Solution / Bitcoin | Explain why Bitcoin was created at beginner level, including the digital-copy and double-spend problem. | Knowledge and applied explanation |
+| `B2.1` | Solution / Bitcoin | Explain why Bitcoin was created at beginner level, including the digital-copy and double-spend problem. | Theoretical explanation |
 | `B2.2` | Solution / Bitcoin | Explain Bitcoin's core properties: decentralization, credible finite supply, peer-to-peer transfer, and verifiability. | Knowledge and synthesis |
 | `B2.3` | Solution / Bitcoin | Describe the beginner roles of users, nodes, miners, and developers and the beginner relevance of proof of work, the 21 million limit, halving, and satoshis. | Knowledge, role-play, or concept illustration |
 | `B3.1` | Action / Self-custody | Explain wallets, addresses, keys, seed phrases, and custody at beginner level. | Knowledge and explanation |
 | `B3.2` | Action / Self-custody | Compare custodial and non-custodial approaches at beginner level. | Applied comparison |
 | `B3.3` | Action / Self-custody | Identify what hardware wallets are, why people use them, and how they differ from hot wallets at beginner level. | Knowledge and scenario response |
-| `B3.4` | Action / Self-custody | Identify common beginner risks and explain the safe response to seed phrase exposure, address mistakes, copy/paste attacks, impersonation, urgency scams, and too-good-to-be-true offers. | Knowledge and applied safety scenario |
+| `B3.4` | Action / Self-custody | Identify common beginner risks and explain the safe response to seed phrase exposure, address mistakes, copy/paste attacks, impersonation, urgency scams, and too-good-to-be-true offers. | Theoretical safety scenario |
 | `B3.5` | Action / Self-custody | Demonstrate safe setup or opening and navigation of an approved or prepared wallet environment, including locating and checking receive information. | Direct educator observation |
 | `B3.6` | Action / Self-custody | Complete or safely simulate a beginner receive or send flow and verify the relevant address, invoice, amount, confirmation, or transaction status. | Direct educator observation |
 | `B3.7` | Action / Self-custody | Demonstrate recovery readiness and protection of recovery information using prepared or simulated materials without exposing real secrets. | Direct educator observation |
-| `B3.8` | Action / Self-custody | Distinguish on-chain and Lightning payments and select an appropriate beginner pathway in a guided scenario. | Knowledge and applied scenario |
+| `B3.8` | Action / Self-custody | Distinguish on-chain and Lightning payments and select an appropriate beginner pathway in a guided scenario. | Theoretical scenario |
 | `B3.9` | Action / Self-custody | Compare beginner pathways for acquiring or exchanging bitcoin, including relevant risks, without treating any pathway as a recommendation or financial advice. | Applied comparison |
 | `B3.10` | Action / Self-custody | Distinguish beginner practical Bitcoin use from advanced technical or high-stakes activity and identify when to stop or seek help. | Applied safety judgment |
 | `ALL.1` | All blocks | Participate in guided discussion using clear explanations, relevant evidence, respectful listening, and basic reasoning. | Direct educator observation |
@@ -173,7 +173,7 @@ The Core Diploma may introduce:
 
 Create-level tasks belong in Custom or Advanced material unless a local module explicitly includes them.
 
-Recall supports competence but must not dominate assessment. As a working minimum, at least 50% of the scored knowledge-and-understanding evidence for Blocks 1 and 2 should require learners to explain, compare, interpret, apply, justify, illustrate, analyze, or synthesize. Practical objectives that use **demonstrate** require direct educator observation and cannot be satisfied by app quizzes.
+Theoretical assessment for Blocks 1 and 2 is normally divided approximately 80% through app quizzes and interactive learning and 20% through educator-led touchpoints such as activities, games, discussions, and role-plays. The educator touchpoint checks that learners can explain, discuss, compare, illustrate, or reason through selected objectives. Practical objectives that use **demonstrate** require direct educator observation and cannot be satisfied by app quizzes.
 
 ---
 

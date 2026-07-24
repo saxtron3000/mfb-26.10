@@ -176,10 +176,10 @@ The Student Book should carry the learner path. The Educator Guide should help t
 
 Assessment in the redesigned Diploma is beginner-focused, objective-aligned, and required. It has two complementary parts:
 
-1. App-supported knowledge and applied-understanding assessment through micro-learning, self-evaluation, progress tracking, knowledge checks, feedback, and retries.
-2. Educator-led evaluation of explanations, discussions, simulations, role-plays, and directly observed practical performance.
+1. Theoretical assessment through app-supported micro-learning, quizzes, interactive learning, feedback, and educator-led touchpoints.
+2. Educator-led practical competency assessment through direct observation of demonstrations, simulations, tests, and role-plays.
 
-Blocks 1 and 2 are knowledge-dominant, but at least half of their scored knowledge-and-understanding evidence should require explanation, comparison, application, analysis, or synthesis as a working minimum. Blocks 3 and 4 are skills-dominant and require direct educator observation of approved practical competencies.
+Blocks 1 and 2 are knowledge-dominant. Their theoretical assessment is normally divided approximately 80% through app quizzes and interactive learning and 20% through short educator-led activities, games, discussions, and role-plays. Blocks 3 and 4 are skills-dominant and require direct educator observation of approved practical competencies.
 
 The app cannot determine whether a learner can perform a practical skill. It may store or display educator results, but app completion alone is insufficient.
 
@@ -247,7 +247,7 @@ It should not promise:
 - organizational treasury, policy, compliance, accounting, tax, legal, investment, or institutional custody competence;
 - legal or tax guidance;
 - global endorsement of named tools or services;
-- certification without both the app-supported knowledge component and educator-led applied and practical component.
+- certification without both the theoretical component and educator-led practical competency component.
 
 Advanced topics should be preserved for future pathways rather than forced into the 8-hour beginner course.
 

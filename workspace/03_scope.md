@@ -61,7 +61,7 @@ The following assumptions affect project execution:
 - Sparse QR code use in print materials.
 - Future delivery branches should be documented without becoming current implementation requirements: online PDF, online cohort, self-paced, web, app, and cross-modal continuation.
 - `06_plan.md` is the active plan source of truth.
-- Combined assessment—app-supported knowledge assessment and educator-led applied and practical competency assessment—is in scope.
+- Combined assessment—app-supported and educator-led theoretical assessment plus educator-led practical competency assessment—is in scope.
 - Both assessment components are prerequisites for certification.
 - Detailed certification governance and credential infrastructure remain to be defined.
 - Localization preparation is in scope.
@@ -234,14 +234,14 @@ Separate advanced learning from beginner learning.
 
 ### Purpose
 
-Create an objective-aligned system that combines app-supported knowledge assessment with educator-led applied and practical competency assessment and prevents certificate issuance until both parts are passed.
+Create an objective-aligned system that combines app-supported and educator-led theoretical assessment with educator-led practical competency assessment and prevents certificate issuance until both parts are passed.
 
 ### Deliverables
 
 - Assessment philosophy
 - Objective-to-assessment blueprint
-- App knowledge-assessment design brief: micro-learning, self-evaluation, progress tracking, knowledge checks, feedback, and retries
-- Educator-led explanation, discussion, simulation, role-play, and practical assessment tasks
+- App theoretical-assessment design brief: micro-learning, quizzes, interactive learning, feedback, and retries
+- Educator-led theoretical touchpoints and practical assessment tasks
 - Competency evidence framework
 - Assessment mapping
 - Evidence models
@@ -289,7 +289,7 @@ Clarify implementation expectations.
 - Self-paced adaptation guidance
 - Website branch guidance
 - App knowledge-assessment and progress-tracking requirements, including low-connectivity synchronization
-- Recording and synchronization requirements for educator-assessed applied and practical results
+- Recording and synchronization requirements for educator-led theoretical-touchpoint and practical results
 - Cross-modal continuation notes
 - Delivery-mode branch map showing what stays fixed and what can adapt
 - Delivery assumptions documentation
@@ -415,8 +415,8 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 
 ## Milestone 6 — Combined Assessment Standard
 
-- App-supported knowledge-assessment framework completed
-- Educator-led applied and practical assessment framework completed
+- App-supported theoretical-assessment framework completed
+- Educator-led theoretical-touchpoint and practical assessment framework completed
 - Objective-level evidence, assessor rubrics, and mandatory two-part certification prerequisite completed
 
 ## Milestone 7 — Publishing

@@ -638,7 +638,7 @@ The research package should support, test, or challenge the following redesign d
 4. Write in plain, consistent, translation-ready language.
 5. Treat spending as one possible Block 4 practice, not the full global definition of Block 4.
 6. Use QR codes sparingly in printed learner materials.
-7. Use the working two-part assessment model: app-supported knowledge assessment plus educator-led applied and practical competency assessment.
+7. Use the working two-part assessment model: app-supported and educator-led theoretical assessment plus educator-led practical competency assessment.
 8. Require both assessment components before certification.
 
 ---

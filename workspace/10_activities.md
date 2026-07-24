@@ -98,7 +98,7 @@ Learning and practice, formative assessment, summative assessment, or a permitte
 
 ### Assessment Component
 
-Knowledge and applied understanding, educator-led practical competency, or both.
+Theoretical assessment, educator-led practical competency assessment, or both.
 
 ### Assessor
 
@@ -180,7 +180,7 @@ Learning and practice or formative assessment. These prompts may inform a formal
 
 ### Assessment Component
 
-Knowledge and applied understanding, with practical prompts used to prepare for educator-led practical competency assessment.
+Theoretical assessment, with practical prompts used to prepare for educator-led practical competency assessment.
 
 ### Assessor
 
@@ -242,9 +242,9 @@ Do not ask learners to reveal a seed phrase, private key, login credential, or p
 
 ## Blocks 1 And 2: Knowledge-Dominant
 
-The app provides essential-fact and knowledge checks. Activity Bank assessment tasks provide evidence of applied understanding through explanations, comparisons, concept illustrations, discussions, simulations, scenarios, and role-plays.
+The app provides approximately 80% of theoretical assessment through quizzes and interactive learning. Activity Bank assessment tasks provide the remaining approximately 20% through educator-led explanations, comparisons, concept illustrations, games, discussions, simulations, scenarios, and role-plays.
 
-Selected formal tasks must help ensure that at least 50% of the scored knowledge-and-understanding evidence requires application or synthesis rather than simple recall or recognition.
+Selected formal educator tasks should be short, objective-aligned touchpoints that confirm learners can explain, discuss, compare, illustrate, or reason through selected concepts. The 80/20 division applies within theoretical assessment; it does not prescribe one overall theory-practice percentage for every block.
 
 ## Blocks 3 And 4: Skills-Dominant
 

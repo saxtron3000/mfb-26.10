@@ -34,9 +34,9 @@ Current design commitments:
 - practical learning in every block;
 - a separate Activity Bank;
 - an Educator Guide designed for facilitation, pacing, adaptation, and safety;
-- a combined assessment model tied directly to the learning objectives;
-- app-supported knowledge checks for every learner;
-- educator-led applied and practical assessment, with direct observation in Blocks 3 and 4;
+- a combined theoretical and practical assessment model tied directly to the learning objectives;
+- app-supported theoretical quizzes and interactive learning for every learner;
+- educator-led theoretical touchpoints and practical assessment, with direct observation in Blocks 3 and 4;
 - Advanced technical material outside the beginner pathway;
 - sparse QR code use in printed learner materials;
 - future delivery branches documented without changing Core outcomes: online PDF, online cohort, self-paced, web, app, and cross-modal continuation.
@@ -436,7 +436,7 @@ The redesign still needs decisions on:
 - multilingual glossary readiness;
 - ownership and approval criteria for English-source simplicity and translation-readiness review;
 - ownership and approval criteria for post-translation language review;
-- app knowledge-check thresholds and higher-order scoring balance;
+- app theoretical-quiz thresholds and the working 80% app / 20% educator division for theoretical assessment;
 - educator practical tasks, rubrics, training, calibration, moderation, and reassessment rules;
 - certificate governance and future verification options, including possible on-chain timestamping;
 - low-connectivity delivery assumptions;

@@ -19,9 +19,9 @@ The current direction is:
 - a separate Student Book, Activity Bank, Educator Guide, assessment framework, and publication specification;
 - Advanced module design after the beginner Diploma is stable and published;
 - future online PDF, online cohort, self-paced, web, app, and cross-modal branches that preserve the same Core outcomes;
-- a combined assessment framework: app-supported knowledge checks plus educator-led applied and practical competency evaluation.
+- a combined assessment framework: app-supported and educator-led theoretical assessment plus educator-led practical competency evaluation.
 
-The app supports micro-learning, self-evaluation, knowledge checks, feedback, and progress tracking. Educators assess explanations, discussions, simulations, role-plays, and directly observed practical performance. A certificate may be issued only after both components meet the learning objectives and are recorded as assessment-complete. App completion alone is not sufficient, and the app does not assess practical skill. Detailed governance, credential infrastructure, and verification systems remain implementation work.
+The app supports approximately 80% of theoretical assessment through micro-learning, quizzes, interactive learning, feedback, and progress tracking. Educators provide the remaining theoretical touchpoints through activities, games, discussions, and role-plays, and they directly assess practical performance. A certificate may be issued only after both theoretical and practical components meet the learning objectives and are recorded as assessment-complete. App completion alone is not sufficient, and the app does not assess practical skill. Detailed governance, credential infrastructure, and verification systems remain implementation work.
 
 ## Start Here
 

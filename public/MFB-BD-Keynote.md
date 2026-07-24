@@ -265,8 +265,8 @@ Possible supporting components:
 
 Assessment should connect every learning objective to evidence that matches it. The model has two parts:
 
-1. App-supported knowledge and applied-understanding assessment.
-2. Educator-led assessment of explanations, synthesis, simulations, role-plays, and directly observed practical performance.
+1. Theoretical assessment led approximately 80% through app quizzes and interactive learning and 20% through short educator-led activities, games, discussions, and role-plays.
+2. Educator-led practical competency assessment through directly observed demonstrations, simulations, tests, and role-plays.
 
 Like a driving test, learners must show that they understand the relevant ideas and that they can perform the required skills. The app supports the theory side and may record combined status, but it cannot assess practical performance.
 
@@ -302,9 +302,9 @@ Possible summative evidence:
 
 Important distinction:
 
-Blocks 1 and 2 are knowledge-dominant, but the assessment should require substantial explanation, comparison, application, and synthesis—not only recall. Blocks 3 and 4 are skills-dominant and require direct educator observation.
+Blocks 1 and 2 are knowledge-dominant. Their theoretical assessment is normally divided approximately 80% through the app and 20% through short educator-led touchpoints. Blocks 3 and 4 are skills-dominant and require direct educator observation.
 
-Participation and attendance are not certification. A learner may receive a Diploma certificate only after both the knowledge-and-understanding component and the educator-led applied and practical component are passed and recorded. This protects a shared minimum standard across educators and communities.
+Participation and attendance are not certification. A learner may receive a Diploma certificate only after both the theoretical component and the educator-led practical competency component are passed and recorded. This protects a shared minimum standard across educators and communities.
 
 Certificate governance, identity verification, and public verification remain implementation decisions; they must not create a path to certification without both assessment components.
 

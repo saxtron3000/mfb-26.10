@@ -6,7 +6,7 @@ This document defines the non-negotiable relationship between assessment and cer
 
 Nobody may receive a Bitcoin Diploma certificate without successfully completing both:
 
-1. the required knowledge-and-applied-understanding assessment; and
+1. the required theoretical assessment, including both app and educator-led components; and
 2. the required educator-led practical competency assessment.
 
 The quality and reputation of the certificate depend on the quality and consistency of both forms of assessment.
@@ -19,8 +19,8 @@ A certificate may be issued only when the approved completion record confirms **
 
 Assessment-complete status requires:
 
-- successful app-supported knowledge checks;
-- successful educator evaluation of required explanations, discussions, scenarios, or role-plays;
+- successful app-supported theoretical quizzes and interactive learning;
+- successful educator-led theoretical touchpoints, such as activities, games, discussions, scenarios, or role-plays;
 - successful direct educator observation of required Block 3 practical and safety competencies; and
 - successful educator assessment of shared objectives `B4.1` and `B4.2` through an approved local task.
 
@@ -58,14 +58,14 @@ Public communication must distinguish these terms:
 |---|---|
 | Participation | A learner attended or joined the learning experience. |
 | App progress | A learner completed some app learning units, self-evaluations, or quizzes. |
-| Knowledge-and-understanding complete | The learner passed required app checks and educator-assessed applied-understanding tasks. |
+| Theoretical assessment complete | The learner passed required app theoretical assessment and educator-led theoretical touchpoints. |
 | Practical-competence complete | An educator or approved assessor directly observed and passed the required practical competencies. |
 | Assessment-complete | Both assessment components are complete and recorded. |
 | Certification | A certificate issued only after assessment-complete status is verified. |
 
 Neither app progress nor either assessment component by itself may unlock certification.
 
-Results are non-compensatory: a high knowledge score cannot offset an unmet practical or safety competency, and strong practical performance cannot replace required knowledge evidence.
+Results are non-compensatory: a high theoretical score cannot offset an unmet practical or safety competency, and strong practical performance cannot replace required theoretical evidence.
 
 ---
 
@@ -95,7 +95,7 @@ The minimum standard is created by the combination of:
 
 - shared learning objectives;
 - a common assessment blueprint;
-- required app knowledge checks;
+- required app theoretical quizzes and interactive learning;
 - approved Activity Bank assessment tasks;
 - common practical tasks or equivalent approved variants;
 - observable rubrics;
@@ -113,7 +113,7 @@ Standardization does not mean every learner must use the same wallet or local sc
 # 6. Certificate Issuance Workflow
 
 1. The learner completes the relevant teaching and supported practice.
-2. The learner completes required app micro-learning and knowledge checks.
+2. The learner completes required app micro-learning, quizzes, and interactive learning.
 3. The educator evaluates required explanations, discussions, scenarios, simulations, or role-plays.
 4. The educator directly observes the required Block 3 and selected Block 4 practical competencies.
 5. Any unmet competency is marked **Not yet**, followed by feedback, further practice, and reassessment.
@@ -121,7 +121,7 @@ Standardization does not mean every learner must use the same wallet or local sc
 7. The system confirms assessment-complete status only when both components meet the standard.
 8. The certificate is issued only after that confirmation.
 
-If a learner completes the app independently, they remain ineligible for certification until the educator-led applied and practical assessment is completed.
+If a learner completes the app independently, they remain ineligible for certification until the educator-led theoretical touchpoints and practical assessment are completed.
 
 ---
 
@@ -132,7 +132,7 @@ The certificate's credibility rests on what it reliably communicates to learners
 To protect that credibility:
 
 - every certificated learner must be assessed against the learning objectives;
-- app quizzes must include applied understanding and must not reward rapid guessing;
+- app quizzes and interactive learning must assess the required theoretical objectives and must not reward rapid guessing;
 - practical capability must be directly observed;
 - educators must use common criteria rather than personal impressions;
 - unsuccessful attempts must lead to feedback and reassessment, not automatic passing;

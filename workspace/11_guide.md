@@ -185,7 +185,7 @@ Educator rule: answer the learner's real question, name trade-offs honestly, and
 
 Educators should present assessment like a driving test:
 
-1. Learners must show the required knowledge and applied understanding.
+1. Learners must complete the required theoretical assessment through both app and educator-led components.
 2. Learners must demonstrate the required practical competencies.
 
 The app supports micro-learning, self-evaluation, quizzes, knowledge checks, feedback, and progress tracking. The educator assesses learner explanations, discussions, synthesis, simulations, role-plays, and practical performance.
@@ -223,7 +223,7 @@ Use:
 - simulations and role-plays; and
 - scenarios that require learners to connect more than one concept.
 
-As a working minimum, at least 50% of the scored knowledge-and-understanding evidence should require explanation, comparison, interpretation, application, justification, illustration, analysis, or synthesis. This is a scoring-weight target, not merely a question-count target.
+As a working allocation, approximately 80% of theoretical assessment should be completed through app quizzes and interactive learning, while approximately 20% should be a quick educator-led touchpoint through activities, games, discussions, explanations, scenarios, or role-plays. The educator touchpoint confirms that learners can explain, discuss, compare, illustrate, or reason through selected ideas; it does not need to duplicate every app question.
 
 Educators should not accept fluent repetition as proof that a learner understands. Follow up with prompts such as:
 
@@ -320,8 +320,8 @@ The educator should use app progress data to identify support needs, but app com
 
 The approved completion record must contain:
 
-- required app knowledge results;
-- required educator-assessed applied-understanding results;
+- required app theoretical-assessment results;
+- required educator-led theoretical-touchpoint results;
 - required educator-observed Block 3 practical results;
 - the selected and passed Block 4 competency; and
 - any required educator attestation or evidence reference.
@@ -343,8 +343,8 @@ Only the combined **assessment-complete** status may unlock a certificate. Educa
 - Online cohort adaptation
 - Self-paced adaptation
 - Website branch adaptation
-- App knowledge assessment and progress-tracking support
-- Recording and synchronizing educator-assessed applied and practical results
+- App theoretical assessment and progress-tracking support
+- Recording and synchronizing educator-led theoretical-touchpoint and practical results
 - Cross-modal branch notes
 - QR-code restraint for print and PDF delivery
 

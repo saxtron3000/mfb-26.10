@@ -234,7 +234,7 @@ Risks include:
 - app or checklist completion being treated as proof of practical ability; and
 - certificates communicating inconsistent levels of achievement.
 
-The redesign should connect every learning objective to appropriate evidence. App-supported knowledge assessment should be combined with educator-led explanation, synthesis, simulation, role-play, and direct observation of practical competence. The common framework, rubrics, educator preparation, and certification prerequisite belong in `10_activities.md`, `11_guide.md`, `12_assessment.md`, and `13_certification.md`.
+The redesign should connect every learning objective to appropriate evidence. App-supported theoretical assessment should be combined with educator-led theoretical touchpoints, simulations, role-plays, and direct observation of practical competence. The common framework, rubrics, educator preparation, and certification prerequisite belong in `10_activities.md`, `11_guide.md`, `12_assessment.md`, and `13_certification.md`.
 
 ## 3.7 Lack of Measurable Outcomes
 
@@ -384,7 +384,7 @@ Public before / after framing:
 | Beginner and advanced material mixed together | Core / Custom / Advanced separation |
 | Activities embedded inconsistently | Separate Activity Bank |
 | Educator support uneven | Educator Guide as facilitation engine |
-| Assessment and certificate meaning vary | Objective-aligned app knowledge checks plus educator-led applied and practical assessment |
+| Assessment and certificate meaning vary | Objective-aligned theoretical assessment plus educator-led practical assessment |
 | Local adaptation unclear | Custom / Bitcoin as Money block |
 | English/PDF assumptions hidden | Translation-ready source files and clear delivery-mode branches |
 | Link-heavy print risk | Sparse QR codes tied to stable destinations |

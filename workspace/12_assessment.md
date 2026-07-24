@@ -8,7 +8,7 @@ Assessment must measure the learning objectives in `05_objectives.md`. It must e
 
 The Diploma uses two complementary forms of assessment:
 
-1. **Knowledge and applied-understanding assessment**, supported by My First Bitcoin app micro-learning and quizzes and strengthened through educator-led discussions, explanations, scenarios, and role-plays from the Activity Bank.
+1. **Theoretical assessment**, divided between My First Bitcoin app quizzes and interactive learning (approximately 80%) and short educator-led touchpoints (approximately 20%) such as activities, games, discussions, explanations, scenarios, and role-plays from the Activity Bank.
 2. **Educator-led practical competency assessment**, using direct observation of tests, demonstrations, simulations, and role-plays.
 
 The app is an important assessment tool, but it is not the whole assessment system and cannot determine whether a learner can perform a practical skill. Certification requires successful completion of both parts. See `13_certification.md`.
@@ -74,9 +74,9 @@ A multiple-choice answer may provide evidence of recognition or recall. It canno
 
 # 4. Two-Part Assessment Model
 
-## 4.1 Knowledge And Applied Understanding
+## 4.1 Theoretical Assessment
 
-The My First Bitcoin app should support:
+The My First Bitcoin app should deliver approximately 80% of the theoretical assessment through:
 
 - short micro-learning units;
 - self-evaluation;
@@ -87,7 +87,7 @@ The My First Bitcoin app should support:
 - feedback, review resources, and retries; and
 - identification of concepts that need educator support.
 
-App-based checks should be supplemented by educator-led assessment activities from `10_activities.md`, including:
+Educators should deliver the remaining approximately 20% of the theoretical assessment through short, objective-aligned touchpoints from `10_activities.md`, including:
 
 - learner explanations;
 - guided discussions;
@@ -98,7 +98,7 @@ App-based checks should be supplemented by educator-led assessment activities fr
 - simulations; and
 - role-plays.
 
-Rote memory has a limited but useful role for essential terms, safety rules, and foundational facts. As a working minimum, at least 50% of the scored knowledge-and-understanding evidence for Blocks 1 and 2 should require explanation, comparison, application, analysis, or synthesis rather than simple recall or recognition. This target should be validated through pilots, but it must not be reduced to an assessment that learners can pass by rapidly guessing through quizzes.
+Rote memory has a limited but useful role for essential terms, safety rules, and foundational facts. App assessment may check recall, understanding, and appropriate scenario responses. Educator touchpoints ensure learners also explain, discuss, compare, illustrate, or reason through selected ideas in person. The working 80/20 division describes who conducts the theoretical assessment. The overall balance between theoretical and practical assessment is set by the objectives and the block assessment blueprint.
 
 The app may support some applied questions, but educator judgment is required where the objective calls for a spoken explanation, discussion, nuanced reasoning, or performance that automated scoring cannot evaluate reliably.
 
@@ -128,12 +128,12 @@ Practical assessment should use testnet, prepared wallets, simulations, or appro
 
 | Block | Primary assessment emphasis | Required evidence pattern |
 |---|---|---|
-| 1. Problem / Fiat | Knowledge and applied understanding | App knowledge checks plus educator-assessed explanation, comparison, discussion, or simulation. |
-| 2. Solution / Bitcoin | Knowledge and applied understanding | App knowledge checks plus educator-assessed explanation, synthesis, role-play, or scenario response. |
+| 1. Problem / Fiat | Theoretical assessment | Approximately 80% app quizzes and interactive learning plus 20% educator-led explanation, discussion, game, role-play, or simulation. |
+| 2. Solution / Bitcoin | Theoretical assessment | Approximately 80% app quizzes and interactive learning plus 20% educator-led explanation, discussion, game, role-play, or scenario response. |
 | 3. Action / Self-custody | Practical competence and safety | Supporting knowledge checks plus direct educator observation of required wallet, transaction, verification, recovery, and safety capabilities. |
-| 4. Custom / Bitcoin as Money | Applied local competence | Direct educator observation of an approved local practical task, simulation, role-play, or problem-solving performance, supported by relevant knowledge. |
+| 4. Custom / Bitcoin as Money | Practical local competency | Direct educator observation of an approved local practical task, simulation, role-play, or problem-solving performance, supported by relevant theoretical knowledge. |
 
-This balance describes emphasis, not an absolute division. Blocks 1 and 2 should include applied educator-led evidence, while Blocks 3 and 4 must still check the knowledge needed to act safely.
+This balance describes emphasis, not an absolute division. Blocks 1 and 2 include educator-led theoretical touchpoints, while Blocks 3 and 4 must still check the theoretical knowledge needed to act safely.
 
 ---
 
@@ -248,11 +248,10 @@ Educator judgment must be evidence-based. A learner should not pass because the 
 
 A learner is **assessment-complete** only when both component statuses are complete:
 
-## A. Knowledge-and-understanding complete
+## A. Theoretical assessment complete
 
-- required app micro-learning and knowledge checks are complete at the approved standard;
-- required educator-led explanations, discussions, scenarios, or role-plays for applied understanding meet the rubric; and
-- the Block 1 and 2 assessment includes the required balance of recall and higher-order evidence.
+- required app micro-learning, interactive learning, and knowledge checks are complete at the approved standard; and
+- required educator-led theoretical touchpoints—such as activities, games, discussions, explanations, scenarios, or role-plays—meet the rubric.
 
 ## B. Practical-competence complete
 
@@ -262,7 +261,7 @@ A learner is **assessment-complete** only when both component statuses are compl
 
 The app may display the combined status and store educator attestations. That administrative role does not mean the app assessed the learner's practical ability.
 
-App completion without educator-assessed applied and practical competence is not assessment-complete. Educator approval without the required knowledge assessment is also not assessment-complete.
+App completion without the required educator-led theoretical touchpoints and practical assessment is not assessment-complete. Educator approval without the required theoretical assessment is also not assessment-complete.
 
 Every required objective must meet its own standard. A strong result in one objective or component cannot compensate for an unmet practical or safety-critical competency.
 
@@ -298,7 +297,7 @@ All certificated delivery modes require both parts of the assessment.
 
 - Final assessment blueprint mapping every Core and selected Custom objective to evidence
 - Final app passing thresholds and retake rules
-- Validation of the 50% higher-order target for Blocks 1 and 2
+- Validation of the working 80% app / 20% educator division for theoretical assessment
 - Required practical tasks and rubrics for Blocks 3 and 4
 - Educator authorization, training, calibration, and moderation
 - Acceptable evidence and support levels for each competency
