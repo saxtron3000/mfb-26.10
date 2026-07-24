@@ -23,7 +23,12 @@ The guide should help educators:
 - work from offline or low-connectivity assumptions when needed;
 - handle named tools, local resources, and current-data examples carefully;
 - use QR codes and external links sparingly in print/PDF delivery;
-- protect learner safety and autonomy.
+- protect learner safety and autonomy;
+- assess each required learning objective using appropriate evidence;
+- evaluate explanations, discussions, simulations, role-plays, and practical performance;
+- use common rubrics consistently;
+- provide feedback and reassessment; and
+- understand that their direct evaluation is required for certification.
 
 ---
 
@@ -52,6 +57,7 @@ The guide should help educators:
 - Offline print/PDF first delivery
 - What to cut when time is short
 - What to move to Advanced pathways
+- How to reserve time for required assessment
 
 ### Managing The 8-Hour Pathway
 
@@ -66,7 +72,7 @@ The four-block sequence should remain the same:
 
 Educators should choose the schedule that gives learners enough time to discuss, practice, ask questions, and review without overloading them.
 
-The course should feel lean and intentional. When time is tight, protect learner explanation, practice, safety, and review before adding technical depth or extra examples.
+The course should feel lean and intentional. When time is tight, protect learner explanation, practice, safety, review, and required assessment before adding technical depth or extra examples. Required objectives and certification assessments must not be cut. If they do not fit in the teaching session, the educator must schedule an assessment follow-up rather than certify without evidence.
 
 | Delivery model | Example timing | Best use | Educator guidance |
 |---|---|---|---|
@@ -103,6 +109,8 @@ Educators may also combine models, such as two half-days or one weekend morning 
 - CBDCs as digital fiat, with issuer, supply, permission, privacy, and verification questions
 - Likely misconceptions
 - Suggested activities
+- App knowledge checks
+- Assessed learner explanations, comparisons, discussions, or simulations
 - Review point
 
 ### Solution / Bitcoin
@@ -114,6 +122,8 @@ Educators may also combine models, such as two half-days or one weekend morning 
 - Satoshis as a low-complexity concept that unlocks payments, fees, supply, and custody discussions
 - Likely misconceptions
 - Suggested activities
+- App knowledge checks
+- Assessed learner explanations, concept illustrations, role-plays, or scenarios
 - Review point
 
 ### Action / Self-custody
@@ -125,6 +135,8 @@ Educators may also combine models, such as two half-days or one weekend morning 
 - How to explain acquiring and exchanging pathways without advice or endorsement
 - When to use block explorers as beginner verification tools, including confirmation status and public-ledger privacy limits
 - Suggested activities
+- Supporting app knowledge checks
+- Required educator-observed wallet, transaction, recovery-readiness, verification, and safety assessment
 - Review point
 
 ### Custom / Bitcoin as Money
@@ -138,6 +150,7 @@ Educators may also combine models, such as two half-days or one weekend morning 
 - How to frame Lightning, merchant payments, remittance scenarios, nonprofit or community donation scenarios, local on/off-ramps, KYC/no-KYC trade-offs, BTCMap or equivalent resource maps, and circular economies
 - How to avoid global recommendations for named services or providers
 - How to document local adaptations
+- How to select and directly assess at least one approved local practical or applied competency
 
 ## 4.1 Misconception Bank
 
@@ -168,11 +181,152 @@ Educator rule: answer the learner's real question, name trade-offs honestly, and
 
 ## 5. Assessment Support
 
-- Supporting learners through app micro-learning, knowledge checks, and practical checklists
-- Using cohort progress data to identify learners who need help
-- Recording required practical observations in the app
-- Explaining that attendance and educator endorsement do not replace assessment
-- Directing learners to review resources and retakes when a requirement is incomplete
+### 5.1 The Two-Part Model
+
+Educators should present assessment like a driving test:
+
+1. Learners must show the required knowledge and applied understanding.
+2. Learners must demonstrate the required practical competencies.
+
+The app supports micro-learning, self-evaluation, quizzes, knowledge checks, feedback, and progress tracking. The educator assesses learner explanations, discussions, synthesis, simulations, role-plays, and practical performance.
+
+The app cannot determine whether a learner can safely operate a wallet, verify transaction details, protect recovery information, respond to a scam, or complete a locally relevant practical task. A checklist can guide preparation, but checking a box is not proof of competence.
+
+Both assessment components are required for certification.
+
+### 5.2 Start With The Learning Objective
+
+Before assessing, the educator should confirm:
+
+- the stable objective ID;
+- the measurable verb;
+- the required evidence;
+- the approved assessment task;
+- the observable criteria;
+- permitted support and prompting;
+- the passing standard; and
+- how the result will be recorded.
+
+The task must match the verb. **Explain** requires an explanation. **Compare** requires relevant similarities, differences, or trade-offs. **Apply** requires use in a scenario. **Demonstrate** requires direct observation of performance.
+
+### 5.3 Blocks 1 And 2: Knowledge And Synthesis
+
+Blocks 1 and 2 are knowledge-dominant, but they must not become memory tests.
+
+Use:
+
+- app quizzes for essential facts, terms, relationships, and misconception checks;
+- learner explanations in their own words;
+- comparisons and concept illustrations;
+- guided discussion;
+- claim / evidence / trade-off responses;
+- simulations and role-plays; and
+- scenarios that require learners to connect more than one concept.
+
+As a working minimum, at least 50% of the scored knowledge-and-understanding evidence should require explanation, comparison, interpretation, application, justification, illustration, analysis, or synthesis. This is a scoring-weight target, not merely a question-count target.
+
+Educators should not accept fluent repetition as proof that a learner understands. Follow up with prompts such as:
+
+- “Can you explain that in your own words?”
+- “Can you give an example?”
+- “How are these two ideas connected?”
+- “What would change in this scenario?”
+- “What is the relevant trade-off?”
+
+### 5.4 Blocks 3 And 4: Practical Competence
+
+Blocks 3 and 4 are skills-dominant. Required practical objectives must be assessed through direct observation by the educator or an approved assessor.
+
+Use approved Activity Bank tests, demonstrations, simulations, and role-plays to observe whether the learner can:
+
+- follow the relevant sequence;
+- safely set up or open and navigate an approved or prepared wallet environment;
+- locate and verify receive information;
+- complete or safely simulate a send or receive flow;
+- check the relevant address, invoice, amount, confirmation, or transaction status;
+- protect recovery information and other secrets;
+- respond safely to an error, scam, or irreversible-transaction risk;
+- explain what they are doing and why; and
+- recognize when to stop or seek help.
+
+Block 4 requires direct assessment of an approved local task mapped to shared objectives `B4.1` and `B4.2`. The task may vary by context, but it must preserve equivalent evidence of safe performance, verification, explanation, and trade-off awareness.
+
+Use prepared wallets, simulations, testnet, or appropriately low-stakes transactions where needed. Never ask a learner to expose a real seed phrase, private key, credential, or unnecessary financial information.
+
+### 5.5 Administering A Practical Assessment
+
+1. Explain the objective, task, conditions, and success criteria.
+2. Confirm that the learner has already received supported practice.
+3. Prepare the environment and identify safety stop conditions.
+4. Observe without taking over the task.
+5. Use only the level of prompting permitted by the rubric.
+6. Ask the learner to explain important checks and decisions.
+7. Mark each criterion using the approved rubric.
+8. Record **Meets standard** or **Not yet** and the required evidence reference.
+9. Give specific feedback.
+10. Provide further practice and reassessment after a **Not yet** result.
+
+A serious safety error must not be averaged away by stronger performance elsewhere. The learner must demonstrate the safety-critical competency on reassessment.
+
+### 5.6 Evidence And Rubrics
+
+Assessment decisions must be based on observable evidence, not confidence, attendance, effort, familiarity, or a general impression.
+
+Common rubric dimensions may include:
+
+- conceptual accuracy;
+- explanation in the learner's own words;
+- relevant synthesis or reasoning;
+- correct practical sequence;
+- verification behavior;
+- protection of sensitive information;
+- recognition of risks and stop conditions;
+- appropriate level of independence; and
+- ability to explain decisions during performance.
+
+Record only the minimum evidence needed. Do not photograph, copy, or store seed phrases, private keys, wallet credentials, balances, transaction histories, or unrelated personal information.
+
+### 5.7 Feedback, Reassessment, And Accessibility
+
+**Not yet** means that the learner needs more learning or practice; it is not a permanent failure.
+
+The educator should:
+
+- identify the unmet criterion;
+- direct the learner to relevant app micro-learning or an Activity Bank practice task;
+- provide focused feedback;
+- allow reasonable practice time; and
+- reassess the same objective with the same standard.
+
+Accessibility accommodations may change how a learner receives instructions, communicates an explanation, controls a device, or demonstrates a sequence. They must not remove the objective or lower the competency standard.
+
+### 5.8 Educator Calibration And Quality
+
+Educators need preparation as assessors. The final guide should include:
+
+- annotated examples of passing and **Not yet** evidence;
+- practice scoring common learner responses and performances;
+- guidance on permitted prompts;
+- equivalent task variants;
+- safety-critical error examples;
+- moderation or second-review procedures where required; and
+- a process for resolving uncertain judgments.
+
+Calibration protects learners from inconsistent grading and protects the reputation of the certificate across cohorts.
+
+### 5.9 Recording And Certification
+
+The educator should use app progress data to identify support needs, but app completion alone does not qualify a learner for certification.
+
+The approved completion record must contain:
+
+- required app knowledge results;
+- required educator-assessed applied-understanding results;
+- required educator-observed Block 3 practical results;
+- the selected and passed Block 4 competency; and
+- any required educator attestation or evidence reference.
+
+Only the combined **assessment-complete** status may unlock a certificate. Educator endorsement without structured evidence is insufficient, but educator assessment is mandatory.
 
 ## 6. Adaptation Guidance
 
@@ -189,7 +343,8 @@ Educator rule: answer the learner's real question, name trade-offs honestly, and
 - Online cohort adaptation
 - Self-paced adaptation
 - Website branch adaptation
-- App assessment, progress-tracking, and low-connectivity synchronization support
+- App knowledge assessment and progress-tracking support
+- Recording and synchronizing educator-assessed applied and practical results
 - Cross-modal branch notes
 - QR-code restraint for print and PDF delivery
 

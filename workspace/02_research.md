@@ -228,6 +228,22 @@ Source:
 
 ---
 
+How should knowledge recall, applied understanding, synthesis, and directly observed performance be balanced in a beginner competency assessment?
+
+Answer:
+
+Source:
+
+---
+
+What assessment rubrics, assessor-calibration methods, and moderation practices improve reliability across community educators?
+
+Answer:
+
+Source:
+
+---
+
 # Section 3: Duration & Attrition
 
 What evidence exists regarding shorter learning experiences?
@@ -598,6 +614,8 @@ The research package should support, test, or challenge the following redesign d
 3. Educator support evidence showing why facilitator guides, timing support, and activity banks improve consistency.
 4. Evidence or expert review for multilingual source-writing practices.
 5. Evidence for online, self-paced, web, app, and cross-modal adaptations before making claims about those modes.
+6. Evidence for balancing recall with applied and synthesis questions in beginner knowledge assessment.
+7. Evidence for performance-assessment validity, common rubrics, educator calibration, moderation, and reassessment.
 
 ---
 
@@ -608,6 +626,7 @@ The research package should support, test, or challenge the following redesign d
 3. Cross-cultural adaptation risks for money, custody, and local Bitcoin examples.
 4. Print usability and QR-code restraint.
 5. Local expert-led practice models and safety boundaries.
+6. Safe and reliable remote or low-connectivity practical assessment.
 
 ---
 
@@ -619,15 +638,17 @@ The research package should support, test, or challenge the following redesign d
 4. Write in plain, consistent, translation-ready language.
 5. Treat spending as one possible Block 4 practice, not the full global definition of Block 4.
 6. Use QR codes sparingly in printed learner materials.
+7. Use the working two-part assessment model: app-supported knowledge assessment plus educator-led applied and practical competency assessment.
+8. Require both assessment components before certification.
 
 ---
 
 ## Decisions That Should Wait
 
-1. Certification design and verification governance.
+1. Detailed certificate governance and verification implementation.
 2. Final Advanced module objectives.
 3. Public claims that depend on external research until sources are added.
-4. App implementation and cross-modal continuation design.
+4. App implementation and cross-modal continuation design beyond the agreed knowledge-assessment role.
 5. Final online cohort and self-paced evidence requirements.
 
 ---
@@ -667,7 +688,7 @@ Use `05_objectives.md` to understand learning outcomes.
 
 Use `12_assessment.md` to understand evaluation of learning.
 
-Use `13_certification.md` to understand certification questions.
+Use `13_certification.md` to understand the two-part assessment prerequisite and outstanding certification-governance questions.
 
 Use `03_scope.md` to understand project workstreams and deliverables.
 

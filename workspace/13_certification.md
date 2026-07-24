@@ -4,33 +4,49 @@
 
 This document defines the non-negotiable relationship between assessment and certification for the Bitcoin Diploma.
 
-The My First Bitcoin app is the Diploma's shared assessment record. Certification depends on successful completion of the required app assessment. Nobody may receive a Bitcoin Diploma certificate without being assessed.
+Nobody may receive a Bitcoin Diploma certificate without successfully completing both:
+
+1. the required knowledge-and-applied-understanding assessment; and
+2. the required educator-led practical competency assessment.
+
+The quality and reputation of the certificate depend on the quality and consistency of both forms of assessment.
 
 ---
 
 # 1. Certification Rule
 
-A certificate may be issued only when the My First Bitcoin app records that the learner is assessment-complete under the requirements in `12_assessment.md`.
+A certificate may be issued only when the approved completion record confirms **assessment-complete** status under `12_assessment.md`.
 
-Attendance, course participation, educator endorsement, self-reported completion, or completion of printed/PDF materials alone are not sufficient for certification. They may support the learner's path, but they cannot replace app-recorded assessment.
+Assessment-complete status requires:
 
-This rule applies to every cohort, educator, delivery format, language, and location. It creates a common minimum framework while preserving locally appropriate teaching, examples, and Custom practice.
+- successful app-supported knowledge checks;
+- successful educator evaluation of required explanations, discussions, scenarios, or role-plays;
+- successful direct educator observation of required Block 3 practical and safety competencies; and
+- successful educator assessment of shared objectives `B4.1` and `B4.2` through an approved local task.
+
+Attendance, participation, app completion alone, an educator's general impression, self-reported ability, or completion of printed/PDF materials alone are not sufficient.
+
+This rule applies to every cohort, educator, delivery format, language, and location. Equivalent accessibility accommodations are permitted, but neither assessment component nor the minimum competency standard may be waived.
 
 ---
 
 # 2. What A Certificate Represents
 
-A Bitcoin Diploma certificate represents that the learner has completed and passed the shared beginner assessment framework for:
+A Bitcoin Diploma certificate represents that the learner has demonstrated the approved beginner learning objectives through both knowledge-based and performance-based evidence.
+
+The certificate confirms a shared beginner standard in:
 
 - monetary foundations;
+- applied economic and Bitcoin understanding;
 - Bitcoin fundamentals;
-- practical Bitcoin orientation and safety;
+- practical wallet and transaction capability;
+- verification and safety behavior;
 - guided critical reasoning; and
 - locally relevant Bitcoin-as-money application.
 
 It does not represent attendance alone, advanced mastery, professional competence, or endorsement of a particular financial decision.
 
-Certification for the beginner Diploma must not imply competence in organizational treasury, institutional custody, legal, tax, accounting, compliance, investment, policy, or business implementation. Those areas belong to Advanced pathways or separate professional review.
+Certification for the beginner Diploma must not imply competence in high-stakes custody, organizational treasury, institutional custody, legal, tax, accounting, compliance, investment, policy, or business implementation. Those areas belong to Advanced pathways or separate professional review.
 
 ---
 
@@ -41,57 +57,118 @@ Public communication must distinguish these terms:
 | Term | Meaning |
 |---|---|
 | Participation | A learner attended or joined the learning experience. |
-| Progress | A learner completed some app learning units or activities. |
-| Assessment-complete | The app records completion and successful passing of all required knowledge checks, practical confirmations, and evidence requirements. |
-| Certification | A certificate issued after assessment-complete status is confirmed. |
+| App progress | A learner completed some app learning units, self-evaluations, or quizzes. |
+| Knowledge-and-understanding complete | The learner passed required app checks and educator-assessed applied-understanding tasks. |
+| Practical-competence complete | An educator or approved assessor directly observed and passed the required practical competencies. |
+| Assessment-complete | Both assessment components are complete and recorded. |
+| Certification | A certificate issued only after assessment-complete status is verified. |
 
-Only assessment-complete status may unlock certification.
+Neither app progress nor either assessment component by itself may unlock certification.
 
----
-
-# 4. Standardization Across Educators
-
-The app-based assessment is the mechanism for maintaining a minimum, shared standard across decentralized delivery.
-
-Educators remain responsible for teaching, facilitation, local adaptation, learner support, and recording any required observation. The shared app framework is responsible for presenting the required assessment path, recording completion and results, and preventing certification before requirements are met.
-
-Local educators may adapt examples, language, resources, and approved Custom practice. They may not remove Core assessment requirements, lower the passing standard, or issue a certificate outside the app-based assessment process.
+Results are non-compensatory: a high knowledge score cannot offset an unmet practical or safety competency, and strong practical performance cannot replace required knowledge evidence.
 
 ---
 
-# 5. Certificate Issuance Workflow
+# 4. Roles And Responsibilities
 
-1. The learner completes the Diploma learning path and app-based micro-learning.
-2. The learner completes required knowledge checks, practical checklists, and evidence tasks.
-3. The app records successful completion; where required, the educator records observation or review in the app.
-4. The app confirms assessment-complete status.
-5. The certification process issues the certificate only after that confirmation.
+## The App
 
-If a learner has not met a requirement, the app should show what remains, direct the learner to relevant learning resources or educator support, and withhold certification until the requirement is completed.
+The My First Bitcoin app supports micro-learning, self-evaluation, quizzes, knowledge checks, feedback, progress tracking, and the recording or display of assessment status.
+
+The app may store an educator's assessment result or attestation. It does not directly evaluate real-world practical capability.
+
+## The Educator Or Approved Assessor
+
+The educator evaluates evidence that requires human judgment. This includes learner explanations, discussions, synthesis, simulations, role-plays, and direct observation of practical performance.
+
+The educator must use approved objective-aligned tasks and rubrics, record evidence-based results, provide remediation where needed, and reassess fairly. An educator may not replace required evidence with attendance, effort, familiarity, or personal discretion.
+
+## The Certification Process
+
+The certification process verifies that both component statuses are complete before issuing a certificate. Whether the combined record is held in the app or another approved system is an implementation decision; the record must distinguish app results from educator-assessed evidence.
 
 ---
 
-# 6. Governance And Verification Still To Define
+# 5. Standardization Across Educators
 
-The assessment prerequisite is a current design requirement. The following implementation and governance details still require definition:
+The minimum standard is created by the combination of:
+
+- shared learning objectives;
+- a common assessment blueprint;
+- required app knowledge checks;
+- approved Activity Bank assessment tasks;
+- common practical tasks or equivalent approved variants;
+- observable rubrics;
+- educator training and calibration;
+- evidence records;
+- remediation and reassessment rules; and
+- moderation or audit where required.
+
+Educators may adapt examples, language, resources, tools, and approved Custom practice. They may not remove required objectives, substitute participation for evidence, lower the passing standard, or issue a certificate outside the approved assessment process.
+
+Standardization does not mean every learner must use the same wallet or local scenario. It means that different approved tasks must provide equivalent evidence of the same objective and competency.
+
+---
+
+# 6. Certificate Issuance Workflow
+
+1. The learner completes the relevant teaching and supported practice.
+2. The learner completes required app micro-learning and knowledge checks.
+3. The educator evaluates required explanations, discussions, scenarios, simulations, or role-plays.
+4. The educator directly observes the required Block 3 and selected Block 4 practical competencies.
+5. Any unmet competency is marked **Not yet**, followed by feedback, further practice, and reassessment.
+6. App results and educator assessment results are recorded separately in the approved completion record.
+7. The system confirms assessment-complete status only when both components meet the standard.
+8. The certificate is issued only after that confirmation.
+
+If a learner completes the app independently, they remain ineligible for certification until the educator-led applied and practical assessment is completed.
+
+---
+
+# 7. Protecting Certificate Reputation
+
+The certificate's credibility rests on what it reliably communicates to learners, educators, partners, and communities.
+
+To protect that credibility:
+
+- every certificated learner must be assessed against the learning objectives;
+- app quizzes must include applied understanding and must not reward rapid guessing;
+- practical capability must be directly observed;
+- educators must use common criteria rather than personal impressions;
+- unsuccessful attempts must lead to feedback and reassessment, not automatic passing;
+- results must be recorded accurately;
+- local adaptation must preserve equivalent evidence; and
+- public claims must match the beginner competencies actually assessed.
+
+A strong assessment system makes the certificate meaningful. Weak, inconsistent, or bypassed assessment damages the reputation of every certificate, including those earned through robust evaluation.
+
+---
+
+# 8. Governance And Verification Still To Define
+
+The two-part assessment prerequisite is a current design requirement. The following implementation and governance details still require definition:
 
 - certificate issuer and approval authority;
+- educator or assessor authorization and renewal;
+- assessor calibration, moderation, and audit process;
 - identity and learner-account verification appropriate to the context;
 - certificate format, data fields, privacy, consent, retention, and recovery rules;
 - appeals, corrections, accessibility accommodations, and exceptional-case workflow;
-- educator permissions and audit trail;
+- educator permissions and evidence-record audit trail;
 - certificate revocation and replacement process;
-- public certificate-verification process;
+- public certificate-verification process; and
 - whether certificate records or hashes should ever be timestamped on-chain.
 
-An on-chain timestamp, if adopted, must not expose learner personal information and must not replace the required app assessment.
+An on-chain timestamp, if adopted, must not expose learner personal information and must not replace either required assessment component.
 
 ---
 
-# 7. Relationship To Other Documents
+# 9. Relationship To Other Documents
 
-Use `05_objectives.md` for learning objectives and competencies.
+Use `05_objectives.md` for the learning objectives and competencies that assessment must measure.
 
-Use `12_assessment.md` for required app assessment, evidence of learning, and passing requirements.
+Use `10_activities.md` for educator-led discussions, simulations, role-plays, and practical assessment tasks.
 
-Use `11_guide.md` for educator facilitation and learner-support guidance.
+Use `11_guide.md` for assessor procedures, rubrics, evidence, feedback, and reassessment guidance.
+
+Use `12_assessment.md` for the complete two-part assessment model and completion standard.

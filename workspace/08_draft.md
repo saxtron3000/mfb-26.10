@@ -71,13 +71,13 @@ You can use the course to:
 - connect with a local learning community;
 - prepare for more advanced study.
 
-You do not need to buy bitcoin to complete this Diploma. You also do not need to install an application or use real funds unless a prepared educator offers an optional, low-risk practice session. Knowledge comes before action.
+You do not need to buy bitcoin to complete this Diploma. You also do not need to install a Bitcoin wallet or use meaningful personal funds. Required practical skills may be assessed with a prepared wallet, simulation, testnet, or an educator-approved low-stakes environment. Knowledge comes before action.
 
 ---
 
 ## 2. How This Diploma Works
 
-### What learners will be able to explain by the end
+### What learners will be able to explain and demonstrate by the end
 
 After completing the Core Diploma, you should be able to:
 
@@ -90,7 +90,7 @@ After completing the Core Diploma, you should be able to:
 - identify the roles of users, nodes, and miners;
 - explain wallets, addresses, private keys, seed phrases, and custody;
 - compare custodial and non-custodial use, and hot and cold wallets;
-- describe receiving, sending, recovery, and transaction verification;
+- safely demonstrate required beginner wallet, receiving or sending, recovery-readiness, and transaction-verification actions under supported conditions;
 - distinguish on-chain and Lightning payments;
 - recognize common scams and basic safety practices;
 - identify different ways people may acquire or exchange bitcoin without treating one path as a recommendation;
@@ -126,7 +126,9 @@ During discussion:
 - protect other people's private financial information;
 - do not pressure anyone to buy, sell, or reveal how much money they hold.
 
-Your educator may ask for short written responses, explanations, or practical checks as evidence of learning. These are opportunities to discover what you understand and what you should review.
+Your assessment has two parts. The My First Bitcoin app supports knowledge checks and progress tracking. Your educator evaluates explanations, discussions, role-plays, simulations, and required practical skills. These are opportunities to show what you understand and can do, and to discover what you should review or practise again.
+
+To receive a certificate, you must complete both the knowledge-and-understanding assessment and the educator-observed practical competency assessment. Completing the app alone or attending every session is not enough.
 
 ### Required prior knowledge: none
 
@@ -160,6 +162,8 @@ For any practice with a device:
 All Core definitions, comparisons, safety rules, and review questions are contained in this book. Internet links and QR codes are optional. They may provide updates, source files, or ways to connect, but they are not required to understand the course.
 
 When a demonstration needs internet access, your educator should provide an offline alternative. This may be a printed wallet screen, a transaction scenario, a card exercise, or a step-by-step discussion. A failed connection should not stop learning.
+
+An educator may use approved offline knowledge checks and practical assessment tasks when connectivity is limited. If assessment results must be synchronized later, that technical step should not change the learning objective or passing standard.
 
 Some information changes over time. Fees, laws, taxes, available services, wallet features, and local merchant lists are examples. This book explains the lasting concepts. Your educator should verify current local details before presenting them.
 
@@ -1514,7 +1518,7 @@ A printed edition may place one official support QR code here. Before paying, co
 
 ### Certificate verification
 
-A certificate is issued only after the My First Bitcoin app records completion of the required assessment. It represents assessed beginner learning, not investment skill, professional financial competence, or readiness to manage high-value self-custody.
+A certificate is issued only after you pass both the required app-supported knowledge assessment and the educator-led applied and practical competency assessment. The app may display the combined result, but your educator—not the app—evaluates practical performance. The certificate represents assessed beginner competence under supported conditions, not investment skill, professional financial competence, or readiness to manage high-value self-custody.
 
 If your Diploma certificate includes a verification code, link, QR code, digital signature, or timestamp, follow the instructions printed on that certificate. Verify that the destination belongs to My First Bitcoin or the clearly identified issuing organization.
 

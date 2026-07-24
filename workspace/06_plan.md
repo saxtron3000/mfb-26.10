@@ -34,6 +34,9 @@ Current design commitments:
 - practical learning in every block;
 - a separate Activity Bank;
 - an Educator Guide designed for facilitation, pacing, adaptation, and safety;
+- a combined assessment model tied directly to the learning objectives;
+- app-supported knowledge checks for every learner;
+- educator-led applied and practical assessment, with direct observation in Blocks 3 and 4;
 - Advanced technical material outside the beginner pathway;
 - sparse QR code use in printed learner materials;
 - future delivery branches documented without changing Core outcomes: online PDF, online cohort, self-paced, web, app, and cross-modal continuation.
@@ -122,7 +125,7 @@ Core content:
 
 Outcome:
 
-Learners can explain beginner self-custody concepts and identify basic safety practices.
+Learners can explain beginner self-custody concepts and demonstrate required wallet, transaction, verification, recovery-readiness, and safety actions under approved, supported conditions.
 
 ## Block 4: Custom / Bitcoin as Money
 
@@ -157,7 +160,7 @@ Possible Custom content:
 
 Outcome:
 
-Learners can identify beginner-appropriate ways Bitcoin can function as money in local daily life.
+Learners can demonstrate at least one approved, educator-assessed way Bitcoin can function as money in local daily life and explain the relevant trade-offs and safety considerations.
 
 Spending is an important possible Block 4 practice, but Block 4 should remain Custom / Bitcoin as Money because local use may also include earning, saving, receiving, resource discovery, circular economy mapping, merchant discovery, and community problem-solving.
 
@@ -382,8 +385,8 @@ Educator preparation, timing, adaptation, misconception support, and debrief gui
 | Learning objectives and competencies | `05_objectives.md` |
 | Activity categories and activity template | `10_activities.md` |
 | Educator facilitation and Custom selection guidance | `11_guide.md` |
-| Required app assessment, evidence, and passing requirements | `12_assessment.md` |
-| Assessment-required certification rule and governance questions | `13_certification.md` |
+| Combined assessment, objective-aligned evidence, and passing requirements | `12_assessment.md` |
+| Two-part assessment prerequisite for certification and governance questions | `13_certification.md` |
 | Publication rules | `15_spec.md` |
 | Beginner-safe Organizations merge checklist | `mergefromorganizations.md` |
 | Organizations-to-Advanced source map | `advancedorganizations.md` and `16_advanced.md` |
@@ -403,7 +406,7 @@ The October 2026 redesign should produce:
 - Educator Guide;
 - Activity Bank;
 - Custom module templates;
-- app-based assessment and certification-prerequisite framework;
+- combined app-supported and educator-led assessment and certification-prerequisite framework;
 - publication-ready source files;
 - public communication materials.
 
@@ -433,7 +436,8 @@ The redesign still needs decisions on:
 - multilingual glossary readiness;
 - ownership and approval criteria for English-source simplicity and translation-readiness review;
 - ownership and approval criteria for post-translation language review;
-- app knowledge-check thresholds, retake rules, and practical-evidence rubric;
+- app knowledge-check thresholds and higher-order scoring balance;
+- educator practical tasks, rubrics, training, calibration, moderation, and reassessment rules;
 - certificate governance and future verification options, including possible on-chain timestamping;
 - low-connectivity delivery assumptions;
 - pilot and educator review process;

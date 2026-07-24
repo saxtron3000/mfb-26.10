@@ -221,6 +221,21 @@ There is not yet a strong visible relationship between:
 
 Assessment evidence is addressed separately in `12_assessment.md`.
 
+## 3.6.1 Inconsistent Assessment And Certificate Meaning
+
+The current decentralized delivery model does not yet provide enough common evidence that learners across cohorts have achieved the same knowledge and practical competencies.
+
+Risks include:
+
+- attendance or participation being treated as completion;
+- recall being mistaken for understanding;
+- practical activities occurring without structured evaluation;
+- educators applying different standards;
+- app or checklist completion being treated as proof of practical ability; and
+- certificates communicating inconsistent levels of achievement.
+
+The redesign should connect every learning objective to appropriate evidence. App-supported knowledge assessment should be combined with educator-led explanation, synthesis, simulation, role-play, and direct observation of practical competence. The common framework, rubrics, educator preparation, and certification prerequisite belong in `10_activities.md`, `11_guide.md`, `12_assessment.md`, and `13_certification.md`.
+
 ## 3.7 Lack of Measurable Outcomes
 
 The current Diploma makes it difficult to determine:
@@ -369,6 +384,7 @@ Public before / after framing:
 | Beginner and advanced material mixed together | Core / Custom / Advanced separation |
 | Activities embedded inconsistently | Separate Activity Bank |
 | Educator support uneven | Educator Guide as facilitation engine |
+| Assessment and certificate meaning vary | Objective-aligned app knowledge checks plus educator-led applied and practical assessment |
 | Local adaptation unclear | Custom / Bitcoin as Money block |
 | English/PDF assumptions hidden | Translation-ready source files and clear delivery-mode branches |
 | Link-heavy print risk | Sparse QR codes tied to stable destinations |

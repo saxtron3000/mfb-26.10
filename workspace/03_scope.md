@@ -61,7 +61,8 @@ The following assumptions affect project execution:
 - Sparse QR code use in print materials.
 - Future delivery branches should be documented without becoming current implementation requirements: online PDF, online cohort, self-paced, web, app, and cross-modal continuation.
 - `06_plan.md` is the active plan source of truth.
-- App-based assessment, progress tracking, and the assessment prerequisite for certification are in scope.
+- Combined assessment—app-supported knowledge assessment and educator-led applied and practical competency assessment—is in scope.
+- Both assessment components are prerequisites for certification.
 - Detailed certification governance and credential infrastructure remain to be defined.
 - Localization preparation is in scope.
 - Localization implementation is out of scope.
@@ -229,26 +230,30 @@ Separate advanced learning from beginner learning.
 
 ---
 
-## 10. App-Based Assessment & Certification Prerequisite
+## 10. Combined Assessment & Certification Prerequisite
 
 ### Purpose
 
-Create a shared, app-based system that evaluates learning, tracks progress, and prevents certificate issuance before successful assessment.
+Create an objective-aligned system that combines app-supported knowledge assessment with educator-led applied and practical competency assessment and prevents certificate issuance until both parts are passed.
 
 ### Deliverables
 
 - Assessment philosophy
-- App assessment design brief: micro-learning, self-evaluation, progress tracking, knowledge checks, and practical checklists
+- Objective-to-assessment blueprint
+- App knowledge-assessment design brief: micro-learning, self-evaluation, progress tracking, knowledge checks, feedback, and retries
+- Educator-led explanation, discussion, simulation, role-play, and practical assessment tasks
 - Competency evidence framework
 - Assessment mapping
 - Evidence models
-- App-recorded assessment-complete status for certification eligibility
-- Educator progress and support guidance
-- Low-connectivity evidence and synchronization requirements
+- Common practical rubrics, observable criteria, and safety-critical rules
+- Educator assessor guidance, training, calibration, and moderation requirements
+- Remediation, feedback, and reassessment process
+- Combined assessment-complete status for certification eligibility
+- Low-connectivity evidence, educator-result recording, and synchronization requirements
 
 ### Note
 
-The project establishes that assessment is mandatory for certification. Certificate governance, identity verification, credential infrastructure, and on-chain verification decisions remain implementation questions.
+The project establishes that both assessment components are mandatory for certification. The app may store the combined result, but it cannot evaluate practical performance. Certificate governance, identity verification, credential infrastructure, and on-chain verification decisions remain implementation questions.
 
 ---
 
@@ -283,7 +288,8 @@ Clarify implementation expectations.
 - Online cohort branch guidance
 - Self-paced adaptation guidance
 - Website branch guidance
-- App assessment and progress-tracking requirements, including low-connectivity synchronization
+- App knowledge-assessment and progress-tracking requirements, including low-connectivity synchronization
+- Recording and synchronization requirements for educator-assessed applied and practical results
 - Cross-modal continuation notes
 - Delivery-mode branch map showing what stays fixed and what can adapt
 - Delivery assumptions documentation
@@ -407,10 +413,11 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 - Educator Guide redesign completed
 - Delivery support systems completed
 
-## Milestone 6 — App-Based Assessment Standard
+## Milestone 6 — Combined Assessment Standard
 
-- App-based assessment framework completed
-- Competency evidence and mandatory certification prerequisite completed
+- App-supported knowledge-assessment framework completed
+- Educator-led applied and practical assessment framework completed
+- Objective-level evidence, assessor rubrics, and mandatory two-part certification prerequisite completed
 
 ## Milestone 7 — Publishing
 
@@ -449,7 +456,7 @@ The redesign is complete when:
 - Strategic, organizational, financial, policy, legal, tax, treasury, sector-specific, and highly technical Organizations material is parked for Advanced rather than required in the beginner Diploma.
 - Timing assumptions are documented.
 - Delivery assumptions are documented.
-- App-based assessment framework and certification prerequisite are completed.
+- Combined assessment framework, educator-assessor guidance, and two-part certification prerequisite are completed.
 - Measurable outcomes are defined.
 - Educator Guide is redesigned.
 - Activity Bank is operational.

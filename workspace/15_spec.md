@@ -174,11 +174,16 @@ The Student Book should carry the learner path. The Educator Guide should help t
 
 # Assessment And Certification
 
-Assessment in the redesigned Diploma is beginner-focused, required, and delivered through the My First Bitcoin app. The app combines micro-learning, self-evaluation, progress tracking, knowledge checks, practical safety checklists, and locally relevant evidence tasks.
+Assessment in the redesigned Diploma is beginner-focused, objective-aligned, and required. It has two complementary parts:
 
-Its purpose is to show whether learners can explain, discuss, and apply beginner concepts safely—not merely whether they attended a cohort. Educators use the shared progress information to support learners, while the app provides the common assessment framework across locations and delivery modes.
+1. App-supported knowledge and applied-understanding assessment through micro-learning, self-evaluation, progress tracking, knowledge checks, feedback, and retries.
+2. Educator-led evaluation of explanations, discussions, simulations, role-plays, and directly observed practical performance.
 
-No learner may receive a Bitcoin Diploma certificate unless the app records successful completion of every required assessment. Local teaching and Custom practice may adapt, but Core assessment requirements and passing standards may not be waived. Certificate governance, identity verification, credential infrastructure, and any on-chain verification remain implementation decisions.
+Blocks 1 and 2 are knowledge-dominant, but at least half of their scored knowledge-and-understanding evidence should require explanation, comparison, application, analysis, or synthesis as a working minimum. Blocks 3 and 4 are skills-dominant and require direct educator observation of approved practical competencies.
+
+The app cannot determine whether a learner can perform a practical skill. It may store or display educator results, but app completion alone is insufficient.
+
+No learner may receive a Bitcoin Diploma certificate until both assessment components meet the approved learning objectives. Local teaching and Custom tasks may adapt, but required objectives, equivalent evidence, and passing standards may not be waived. Certificate governance, identity verification, credential infrastructure, and any on-chain verification remain implementation decisions.
 
 ---
 
@@ -242,7 +247,7 @@ It should not promise:
 - organizational treasury, policy, compliance, accounting, tax, legal, investment, or institutional custody competence;
 - legal or tax guidance;
 - global endorsement of named tools or services;
-- certification without app-recorded assessment completion.
+- certification without both the app-supported knowledge component and educator-led applied and practical component.
 
 Advanced topics should be preserved for future pathways rather than forced into the 8-hour beginner course.
 

@@ -63,6 +63,8 @@ The current working design direction is:
 - Organizations material used only where it clarifies beginner Core concepts, educator misconception handling, Activity Bank scenarios, or local Custom practice;
 - Educator Guide treated as a facilitation engine;
 - Activity Bank treated as part of the learning ecosystem;
+- assessment built from the learning objectives, using app-supported knowledge checks and educator-led applied and practical evaluation;
+- certification based on both knowledge-and-understanding evidence and directly observed practical competence;
 - localization considered through adaptable examples, activities, and facilitation, not through changing core outcomes;
 - in-person and offline-capable PDF delivery treated as the first mode, with future branches to online PDF, online cohort, self-paced, web, app, and cross-modal continuation documented without overloading the current scope;
 - print PDFs kept clean, with QR codes used sparingly for stable, high-value destinations;
@@ -201,6 +203,16 @@ Learners should encounter:
 - acquisition-pathway risks.
 
 These topics should be framed as guided orientation, not as permission to manage high-stakes custody or make financial decisions independently.
+
+## 4.7.1 Design For Valid Assessment
+
+Assessment should match the learning objective and the kind of competence being claimed.
+
+The app should support micro-learning, knowledge checks, feedback, and progress tracking. Educators should assess explanations, synthesis, discussions, simulations, role-plays, and practical performance using common tasks and rubrics.
+
+Blocks 1 and 2 should be knowledge-dominant without becoming recall-only. At least half of their scored knowledge-and-understanding evidence should require applied explanation or synthesis as a working design target. Blocks 3 and 4 should be skills-dominant and require direct educator observation.
+
+The app may record educator results, but it cannot determine whether a learner can perform a practical skill. Certification requires both parts.
 
 ## 4.8 Design For Multilingual Transfer
 
@@ -409,6 +421,9 @@ The redesigned Diploma should distinguish between fixed, adaptable, and flexible
 - Learning objectives
 - Core outcomes
 - Competency expectations
+- Objective-to-assessment blueprint
+- Two-part assessment requirement
+- Minimum evidence and rubric criteria for certification
 - Bitcoin-only educational focus
 - Four-block beginner architecture
 - Shared Core theory and safety boundaries
@@ -475,7 +490,12 @@ Educators should be supported with:
 - misconception awareness;
 - review structures;
 - classroom decision-making;
-- adaptation boundaries.
+- adaptation boundaries;
+- assessment literacy;
+- practical test administration;
+- rubric use and evidence recording;
+- feedback and reassessment; and
+- assessor calibration.
 
 The Educator Guide should function as a facilitation engine, not as a duplicate of the Student Book.
 
@@ -574,6 +594,10 @@ Statistics, fees, legal context, provider availability, and network conditions m
 
 Adaptation and localization may gradually weaken learning outcomes.
 
+## Assessment Validity And Assessor Variation Risk
+
+App quizzes may over-reward recall, while educator judgments may vary across cohorts. Objective-aligned tasks, higher-order knowledge evidence, direct observation, common rubrics, assessor calibration, reassessment rules, and moderation are required to protect certificate consistency.
+
 ## Translation Risk
 
 English-first phrasing, complex sentences, inconsistent tone, idioms, inconsistent terms, or culturally narrow examples may distort meaning or make multilingual publication harder than necessary. Treating translation as a final production step may preserve avoidable problems from the English source.
@@ -614,6 +638,7 @@ The retiring Bitcoin for Organizations pathway contains strong material for misc
 - What does an educator need before teaching?
 - What support is required during delivery?
 - What support is required after delivery?
+- What training and calibration are required before assessing learners?
 
 ## Ecosystem Questions
 
@@ -660,7 +685,7 @@ Use `05_objectives.md` for learning outcomes and competencies.
 
 Use `12_assessment.md` for how learning is evaluated.
 
-Use `13_certification.md` for the assessment-required certification rule and certification governance questions.
+Use `13_certification.md` for the two-part assessment prerequisite and certification governance questions.
 
 Use `03_scope.md` for workstreams, milestones, deliverables, publishing, and completion criteria.
 

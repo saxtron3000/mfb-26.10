@@ -247,7 +247,8 @@ The redesigned Diploma should be understood as a learning ecosystem rather than 
 | Educator Guide | Facilitation, pacing, classroom decisions, discussion management, and adaptation support |
 | Activity Bank | Participation, practice, local adaptation, review, and practical learning |
 | Custom templates | Local workshops, demonstrations, and community-specific Bitcoin use cases |
-| My First Bitcoin app | Shared micro-learning, progress tracking, knowledge checks, practical checklists, and assessment record |
+| My First Bitcoin app | Micro-learning, knowledge checks, feedback, progress tracking, and combined-status record |
+| Educator-led assessment | Explanation, synthesis, simulations, role-plays, and direct observation of practical competence |
 | Advanced pathways | Deeper study without overloading the beginner pathway |
 
 Possible supporting components:
@@ -262,7 +263,12 @@ Possible supporting components:
 
 # Assessment And Certification Direction
 
-Assessment should connect learning objectives to evidence of learning. The My First Bitcoin app should provide the common assessment path across cohorts, including micro-learning, self-evaluation, progress tracking, knowledge checks, practical checklists, and required evidence tasks.
+Assessment should connect every learning objective to evidence that matches it. The model has two parts:
+
+1. App-supported knowledge and applied-understanding assessment.
+2. Educator-led assessment of explanations, synthesis, simulations, role-plays, and directly observed practical performance.
+
+Like a driving test, learners must show that they understand the relevant ideas and that they can perform the required skills. The app supports the theory side and may record combined status, but it cannot assess practical performance.
 
 Assessment should align with:
 
@@ -296,9 +302,11 @@ Possible summative evidence:
 
 Important distinction:
 
-Participation and attendance are not certification. A learner may receive a Diploma certificate only after the app records successful completion of the required assessment. This protects a shared minimum standard of beginner knowledge, skills, and competencies across educators and communities.
+Blocks 1 and 2 are knowledge-dominant, but the assessment should require substantial explanation, comparison, application, and synthesis—not only recall. Blocks 3 and 4 are skills-dominant and require direct educator observation.
 
-Certificate governance, identity verification, and public verification remain implementation decisions; they must not create a path to certification without app-recorded assessment.
+Participation and attendance are not certification. A learner may receive a Diploma certificate only after both the knowledge-and-understanding component and the educator-led applied and practical component are passed and recorded. This protects a shared minimum standard across educators and communities.
+
+Certificate governance, identity verification, and public verification remain implementation decisions; they must not create a path to certification without both assessment components.
 
 ---
 
@@ -417,8 +425,8 @@ The Diploma remains open, serious, and community driven.
 | 4. What Changes | 1:15 | The pathway becomes 8 hours, 4 blocks, practical, and easier to teach. | Change stack |
 | 5. The 4-Block Model | 2:00 | Problem / Fiat, Solution / Bitcoin, Action / Self-custody, Custom / Bitcoin as Money. | Horizontal block diagram |
 | 6. Educators Complete The Local Story | 1:30 | The fourth block is selected by educators because they know their communities best. | Educator choosing from module bank |
-| 7. A Learning Ecosystem | 1:30 | The redesigned Diploma includes Student Book, Educator Guide, Activity Bank, Custom templates, and Advanced pathways. | Ecosystem diagram |
-| 8. What This Makes Possible | 1:15 | More learners can complete the Diploma and more educators can teach it well. | Learner pathway |
+| 7. A Learning And Assessment Ecosystem | 1:30 | The Student Book, Educator Guide, app, Activity Bank, and trained educators work together. | Ecosystem diagram |
+| 8. What This Makes Possible | 1:15 | More learners can complete the Diploma while robust assessment protects certificate reputation. | Learner-to-certificate pathway |
 | 9. October 2026 Call To Action | 1:15 | The release needs educators, communities, contributors, and supporters. | Four calls to action |
 
 ---
@@ -485,13 +493,13 @@ Speaker note: Explain that educators choose practical Custom / Bitcoin as Money 
 
 Suggested visual: Educator selects from a Custom module bank into Block 4.
 
-## Slide 7: A Learning Ecosystem
+## Slide 7: A Learning And Assessment Ecosystem
 
 Time: 90 seconds
 
-Key message: The redesigned Diploma is more than a student book.
+Key message: The redesigned Diploma is more than a student book or an app.
 
-Speaker note: Introduce Student Book, Educator Guide, Activity Bank, Custom templates, and Advanced pathways.
+Speaker note: Introduce the Student Book, Educator Guide, Activity Bank, app, Custom templates, and Advanced pathways. Explain the driving-test model: the app supports knowledge assessment, while educators assess applied explanations and practical performance.
 
 Suggested visual: Ecosystem diagram.
 
@@ -499,9 +507,9 @@ Suggested visual: Ecosystem diagram.
 
 Time: 75 seconds
 
-Key message: More learners can complete the Diploma and more educators can teach it well.
+Key message: More learners can complete the Diploma while shared assessment protects what the certificate means.
 
-Speaker note: Describe improved completion, local adaptation, practical learning, educator usability, and advanced pathways without beginner overload.
+Speaker note: Describe improved completion, local adaptation, practical learning, educator usability, and advanced pathways without beginner overload. Add that every certificate requires both knowledge and educator-observed practical evidence.
 
 Suggested visual: Learner pathway from Core Diploma to local use and future learning.
 
@@ -547,6 +555,7 @@ Avoid:
 | Beginner and advanced material mixed together | Core, Custom, and Advanced separation |
 | Activities embedded inconsistently | Dedicated Activity Bank |
 | Educator support uneven | Educator Guide as facilitation engine |
+| Assessment varies by cohort | Shared objectives, app knowledge checks, and educator-observed practical rubrics |
 | Local adaptation unclear | Educator-selected Custom / Bitcoin as Money block |
 
 ---
@@ -555,7 +564,7 @@ Avoid:
 
 For educators:
 
-Help test Custom / Bitcoin as Money modules.
+Help test Custom / Bitcoin as Money modules, practical assessment tasks, and common rubrics.
 
 For communities:
 
@@ -576,7 +585,7 @@ Help make publication, translation, educator readiness, and the October 2026 rel
 Keep these topics available for questions, but do not make them central to the 10-minute talk:
 
 - assessment direction;
-- assessment-required certification rule;
+- two-part assessment prerequisite for certification;
 - Advanced pathway details;
 - detailed scope and milestones;
 - research evidence still being gathered;
@@ -595,7 +604,7 @@ Possible appendix materials:
 - full learning objectives;
 - competency areas;
 - assessment framework;
-- certificate governance questions.
+- certificate governance questions;
 - research evidence summary;
 - block-level objective templates;
 - glossary;

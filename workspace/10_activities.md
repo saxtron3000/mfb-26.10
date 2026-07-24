@@ -10,6 +10,8 @@ The Activity Bank is designed for two uses. Activities can complement the Bitcoi
 
 A standalone activity should provide enough context, instructions, debrief questions, and safety notes for participants to learn a clear idea even if they have not completed the full diploma.
 
+The Activity Bank also contains educator-led assessment tasks. These give learners opportunities to explain, compare, synthesize, role-play, simulate, and demonstrate the objectives that cannot be assessed adequately through an app quiz. Formal certification tasks must use the approved objective, instructions, observable criteria, rubric, and safety conditions.
+
 ## Current Activities in the Bitcoin Diploma (26.04)
 
 The legacy Diploma contains the following explicit activities, exercises, discussions, reflections, and embedded practical tasks. Modules 1–10 and the back matter were reviewed; the back matter summarizes activities from the modules rather than adding separate learner activities.
@@ -51,6 +53,7 @@ Activities should:
 - maximize in-class time;
 - support active learning;
 - align to objectives;
+- identify stable objective IDs;
 - be easy for educators to facilitate;
 - support Presentation, Practice, Production where practical skills are involved;
 - support claim / evidence / trade-off reasoning where learners compare Bitcoin claims or misconceptions;
@@ -60,6 +63,16 @@ Activities should:
 - include language or translation notes where terminology may not transfer cleanly;
 - identify when local expert guidance is needed;
 - avoid unsafe financial or custody assumptions.
+
+Every activity must be identified as one or more of:
+
+- learning and practice;
+- formative assessment; or
+- summative assessment for certification.
+
+Educators may adapt ordinary learning and formative activities within the published guardrails. A summative assessment task may be adapted only through an approved equivalent version that preserves the objective, evidence, difficulty, rubric, and safety standard.
+
+Learners should receive supported practice before a task is used for summative assessment.
 
 ---
 
@@ -73,7 +86,23 @@ Problem / Fiat, Solution / Bitcoin, Action / Self-custody, or Custom / Bitcoin a
 
 ### Objective Alignment
 
-List the objective this activity supports.
+List the stable objective ID or IDs and the exact measurable objective.
+
+### Competency Alignment
+
+List the competency or competencies the activity develops or assesses.
+
+### Assessment Use
+
+Learning and practice, formative assessment, summative assessment, or a permitted combination.
+
+### Assessment Component
+
+Knowledge and applied understanding, educator-led practical competency, or both.
+
+### Assessor
+
+App, educator or approved assessor, or both. Practical competency must be evaluated by an educator or approved assessor.
 
 ### Time
 
@@ -95,6 +124,10 @@ Preparation steps.
 
 What learners do.
 
+### Observable Criteria
+
+What the learner must say, decide, illustrate, or demonstrate. For a practical task, list the required sequence, verification behaviors, explanations, safety behaviors, and stop conditions.
+
 ### Debrief
 
 Questions that connect the activity back to the block objective.
@@ -103,13 +136,55 @@ Questions that connect the activity back to the block objective.
 
 What the educator can observe or collect.
 
+### Rubric And Passing Standard
+
+Define **Meets standard** and **Not yet**, including any safety-critical error that prevents a pass.
+
+### Feedback And Reassessment
+
+State how the educator gives feedback, what practice or micro-learning follows a **Not yet** result, and how the learner can be reassessed.
+
+### Evidence Record
+
+State what result, evidence reference, or educator attestation must be recorded and where.
+
 ### Adaptation Notes
 
 Local examples, language notes, device assumptions, and accessibility considerations.
 
+For a summative task, explain which adaptations preserve equivalent evidence and which changes require approval.
+
 ### Local Expert Notes
 
 Local legal, tax, privacy, safety, tool, or community knowledge required before facilitation.
+
+---
+
+# Assessment Role By Block
+
+## Blocks 1 And 2: Knowledge-Dominant
+
+The app provides essential-fact and knowledge checks. Activity Bank assessment tasks provide evidence of applied understanding through explanations, comparisons, concept illustrations, discussions, simulations, scenarios, and role-plays.
+
+Selected formal tasks must help ensure that at least 50% of the scored knowledge-and-understanding evidence requires application or synthesis rather than simple recall or recognition.
+
+## Blocks 3 And 4: Skills-Dominant
+
+Activity Bank assessment tasks provide the direct educator-observed evidence required for practical competence.
+
+Formal tasks should include approved variations of:
+
+- wallet navigation;
+- receive-information location and verification;
+- simulated or appropriately low-stakes send or receive flows;
+- transaction-status or confirmation checks;
+- recovery-readiness and secret-protection scenarios;
+- scam, address-error, or irreversible-transaction responses; and
+- selected local Block 4 payment, receiving, remittance, merchant, donation, resource, or community-use performance.
+
+An app checklist may prepare a learner or support an educator's procedure. Marking a checklist complete is not proof of practical competence.
+
+Every Block 4 certification assessment task must map to shared objectives `B4.1` and `B4.2`, even when the local tool or scenario differs.
 
 ---
 
@@ -198,8 +273,11 @@ Local legal, tax, privacy, safety, tool, or community knowledge required before 
 Every final activity should include:
 
 - block;
-- objective;
+- stable objective ID and exact objective;
 - competency;
+- assessment use;
+- assessment component;
+- assessor;
 - time;
 - materials;
 - delivery mode;
@@ -208,6 +286,12 @@ Every final activity should include:
 - learner instructions;
 - debrief;
 - evidence of learning;
+- observable criteria;
+- rubric and passing standard;
+- safety-critical errors where relevant;
+- feedback and reassessment procedure;
+- result-recording requirement;
+- approved equivalence and accessibility notes for summative tasks;
 - low-tech option;
 - safety notes;
 - local expert notes where relevant;
