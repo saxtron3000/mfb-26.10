@@ -232,6 +232,8 @@ Money helps strangers cooperate across distance and time. It allows a worker to 
 
 Money is not the food, home, time, or skill that people value. It is a tool for measuring and exchanging claims on those things. Its usefulness depends on trust, rules, social acceptance, and its monetary properties.
 
+**Spot question:** Why did money come into existence? Explain the exchange or coordination problem it helps people solve.
+
 ### Functions and properties of money
 
 Money usually performs three main functions.
@@ -537,6 +539,8 @@ Bitcoin's supply rule is credible because it is public, easy to verify with a no
 
 Many digital assets can claim a limited supply. The beginner question is whether the limit is credible in practice, not only whether it is written in a document or displayed on a website.
 
+**Spot question:** Why does Bitcoin have a limited supply? Include the role of the public rules and the nodes that enforce them.
+
 Finite supply does not guarantee a rising market price. Price depends on demand as well as supply. It also does not mean every bitcoin is available for sale; some may be held long term or become inaccessible because keys were lost.
 
 ### Satoshis and unit bias
@@ -591,6 +595,8 @@ These roles limit one another:
 - developers can propose software, but participants choose whether to run it.
 
 Some people perform several roles. A miner can run a node and also be a user. A beginner does not need to perform every role to understand the balance among them.
+
+**Spot question:** Why does a node verify transactions? Name at least one rule that a node checks.
 
 ### Proof of work at a beginner level
 
@@ -835,6 +841,8 @@ A safe beginner recovery process follows these principles:
 
 Do not test a backup by exposing the seed to an educator or classmate. They can explain the procedure without seeing the words.
 
+**Spot question:** Using a prepared practice wallet, how would you recover access after the original device fails while keeping the recovery information private?
+
 Recovery planning should answer:
 
 - Where is the backup?
@@ -890,6 +898,8 @@ The **network fee** is paid to miners for including the transaction in a block. 
 Wallet fee estimates can be wrong or become outdated. A low fee may cause a transaction to wait. A high fee may waste funds. Some wallets support fee adjustment, but the methods vary and are not required knowledge for this Diploma.
 
 Never send because someone creates urgency. Stop if the recipient changes the address unexpectedly, asks you to “verify” the payment with your seed phrase, or refuses to allow a small test.
+
+**Spot question:** In a prepared wallet or simulation, what would you check before sending a transaction? How would you verify the address before approval?
 
 ### Verification, block explorers, and irreversible transactions
 
@@ -967,6 +977,8 @@ Use this checklist before you depend on any Bitcoin tool.
 - Do not borrow money to experiment.
 
 When uncertain, pause. A real opportunity will survive a careful check. A scam often depends on preventing one.
+
+**Spot question:** What clues would help you spot a scam, and what is the safe response if you see one?
 
 ### Acquiring and exchanging bitcoin as pathway awareness, not financial advice
 

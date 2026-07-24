@@ -160,6 +160,84 @@ Local legal, tax, privacy, safety, tool, or community knowledge required before 
 
 ---
 
+# Potential Discussion: Competency Questions Across The Diploma
+
+### Block Alignment
+
+Problem / Fiat, Solution / Bitcoin, and Action / Self-custody.
+
+### Objective Alignment
+
+`B1.1`, `B2.2`, `B2.3`, `B3.4`, `B3.6`, `B3.7`, and `ALL.1`.
+
+### Competency Alignment
+
+Monetary foundations, Bitcoin fundamentals, practical Bitcoin capability, guided critical discussion, and social learning.
+
+### Assessment Use
+
+Learning and practice or formative assessment. These prompts may inform a formal assessment task, but they are not a summative task by themselves.
+
+### Assessment Component
+
+Knowledge and applied understanding, with practical prompts used to prepare for educator-led practical competency assessment.
+
+### Assessor
+
+Educator.
+
+### Time
+
+10–20 minutes, or one question as a short transition or review.
+
+### Delivery Mode
+
+In-person, online cohort, offline print/PDF, or adaptable.
+
+### Materials
+
+The relevant Diploma section. For practical prompts, use a prepared wallet, printed wallet screens, or a simulation; never use a learner's real recovery information.
+
+### Educator Setup
+
+Select questions that match material learners have already studied and practised. Decide whether learners will answer individually, in pairs, or as a group. For a practical question, prepare a safe simulation and the observable criteria before beginning.
+
+### Learner Task
+
+Invite learners to answer a question in their own words, give a reason or example, and respond respectfully to a different explanation. Use these potential questions:
+
+| Feedback level | Potential discussion question |
+| --- | --- |
+| 1 | Why did money come into existence? |
+| 2 | Why does Bitcoin have a limited supply? |
+| 3 | How would you send a transaction? |
+| 3 | How would you recover a wallet? |
+| 4 | What would help you spot a scam? |
+| 4 | How would you verify an address before sending? |
+| 5 | Why does a node verify transactions? |
+
+### Observable Criteria
+
+Look for an explanation or action that matches the relevant objective. For example, a learner should connect money to exchange and coordination; connect Bitcoin's supply limit to public rules and node verification; identify relevant safety checks before sending; and explain that nodes reject transactions or blocks that break Bitcoin's rules. A learner responding to a recovery prompt must protect recovery information throughout.
+
+### Debrief
+
+Ask: What evidence or check supports your answer? What could go wrong? What would make you stop or seek help?
+
+### Evidence Of Learning
+
+The educator may record concise notes on the learner's explanation, safety judgment, or simulated action for formative feedback. For certification, collect evidence through the approved task and rubric for the objective.
+
+### Adaptation Notes
+
+Translate the questions for plain local language without changing the expected concept or action. Do not substitute date-recall questions such as “In what year did this happen?” for explanation, reasoning, or performance evidence unless a date is needed to explain the concept's context.
+
+### Safety Notes
+
+Do not ask learners to reveal a seed phrase, private key, login credential, or personal transaction history. A spoken answer to a send or recovery question does not replace direct educator observation when the objective requires demonstration.
+
+---
+
 # Assessment Role By Block
 
 ## Blocks 1 And 2: Knowledge-Dominant

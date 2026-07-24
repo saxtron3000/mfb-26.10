@@ -200,7 +200,27 @@ Assessment must not surprise learners. The learning objective, expected task, sa
 
 ---
 
-# 8. Educator Assessment Standard
+# 8. Feedback-Informed Discussion Prompts
+
+The following questions, drawn from stakeholder feedback, are useful starting points for educator-led discussion and formative assessment. They prioritize explanation, reasoning, safe judgment, and observable action over recall of isolated dates.
+
+Use a prompt only after learners have had an opportunity to learn and practise the relevant idea or skill. Listen for the learner's reasoning in their own words, ask a follow-up question where needed, and record formal evidence only through an approved objective-aligned task and rubric.
+
+| Feedback level | Potential question | What it can help assess |
+| --- | --- | --- |
+| 1 | Why did money come into existence? | `B1.1`: Whether the learner can explain the exchange and coordination problems money helps solve. |
+| 2 | Why does Bitcoin have a limited supply? | `B2.2` and `B2.3`: Whether the learner can connect the 21 million rule to public rules and node verification, rather than only repeat the number. |
+| 3 | How would you send a transaction? | `B3.6`: Whether the learner can safely describe or demonstrate the relevant receive information, address or invoice, amount, network, and confirmation or status checks. |
+| 3 | How would you recover a wallet? | `B3.7`: Whether the learner can describe or demonstrate safe recovery readiness with prepared materials while protecting recovery information. |
+| 4 | What would help you spot a scam? | `B3.4`: Whether the learner can identify relevant warning signs and state a safe response, including when to stop or seek help. |
+| 4 | How would you verify an address before sending? | `B3.6`: Whether the learner can identify the correct network and compare the destination on a trusted receiving screen before approval. |
+| 5 | Why does a node verify transactions? | `B2.2` and `B2.3`: Whether the learner can explain that independent verification enforces Bitcoin's rules, including valid signatures, no double spending, and the supply schedule. |
+
+For the two practical prompts, a spoken answer can prepare a learner but cannot replace direct educator observation of the required performance. Prompts that only ask learners to recall an event year or date should not be used as evidence of competence unless that date is necessary to explain the relevant concept or context.
+
+---
+
+# 9. Educator Assessment Standard
 
 Educators are assessors as well as facilitators. They need explicit guidance, practice, and tools to evaluate consistently.
 
@@ -224,7 +244,7 @@ Educator judgment must be evidence-based. A learner should not pass because the 
 
 ---
 
-# 9. Completion Standard
+# 10. Completion Standard
 
 A learner is **assessment-complete** only when both component statuses are complete:
 
@@ -248,7 +268,7 @@ Every required objective must meet its own standard. A strong result in one obje
 
 ---
 
-# 10. Competency Evidence Map
+# 11. Competency Evidence Map
 
 | Competency | Objective-aligned evidence | Primary evaluator |
 |---|---|---|
@@ -262,7 +282,7 @@ Every required objective must meet its own standard. A strong result in one obje
 
 ---
 
-# 11. Delivery And Accessibility
+# 12. Delivery And Accessibility
 
 All certificated delivery modes require both parts of the assessment.
 
@@ -274,7 +294,7 @@ All certificated delivery modes require both parts of the assessment.
 
 ---
 
-# 12. Implementation Questions To Resolve
+# 13. Implementation Questions To Resolve
 
 - Final assessment blueprint mapping every Core and selected Custom objective to evidence
 - Final app passing thresholds and retake rules
