@@ -1,0 +1,74 @@
+L1:
+
+- Bitcoin Diploma Lite:  
+- History of money \- Focus on evolution  
+  - Chapters 1 & 2  
+  - Inefficiencies of barter, why it can’t scale, double coincidence of wants  
+  - Emergence of money  
+  - Transition from one money to another: Commodity \- Metals \- Paper  
+  - Understanding why societies agree on better moneys, functions of money  
+  - Characteristics of a good money  
+- Understanding the problems with our current money  
+  - Chapters 2 & 3  
+  - Monetary debasement  
+  - Inflation as a loss of purchasing power  
+  - Centralized control of money  
+  - What fractional reserve banking is  
+  - Why trust is required in our monetary system and why that’s fragile  
+- What is Bitcoin?  
+  - Chapters 5, 6 & 7  
+  - Don’t trust, verify  
+  - What is a Bitcoin node? Why does it matter?  
+  - What is a miner? What is its job?  
+  - Why is Bitcoin different from all the other cryptos?  
+  - What is the lighting network?  
+- Bitcoin Ownership  
+  - Chapter 5  
+  - Exchanges vs P2P  
+    - How to buy and sell Bitcoin  
+  - Custodial vs non-custodial Bitcoin  
+    - What is the difference?   
+    - What is a hot wallet?  
+    - What is a hardware wallet?  
+- Using Bitcoin  
+  - Creating and recovering wallets  
+  - Sending and receiving bitcoin onchain and LN  
+    - Creating LN invoices  
+    - Sending and receiving onchain  
+    - Understanding fees, confirmations  
+    - Understanding UTXOs
+
+L2:
+
+- Full Bitcoin Diploma:  
+  - History of money  
+    - Chapters 2 & 3   
+    - The Bretton woods system. What is it and how did it come to be?  
+    - What exactly happened in 1971?  
+  - How nodes, miners and developers work together within Bitcoin  
+    - Chapter 7  
+    - How does a node work?   
+      - Mempool  
+      - Block validation  
+      - Consensus  
+      - Block propagation  
+    - How does a miner work?  
+      - Runy’s interactive activity   
+      - Proof of work  
+      - Building a block  
+      - Difficulty adjustment  
+      - Block headers  
+    - What is a hash and where does it come into play in Bitcoin?  
+    - Merkle trees  
+  - What is the lightning network?  
+    - Chapter 10  
+    - Payment channels HTLCs  
+    - liquidity, routing  
+    - Channel opening and closing  
+  - Self-custodying bitcoin  
+    - Using hardware wallets  
+    - Understanding the security spectrum:  
+      - Hot wallet  
+      - Hardware wallet  
+      - Airgapped hardware wallet  
+      - Multisig, passphrase, encrypted backups
