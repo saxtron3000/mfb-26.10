@@ -185,8 +185,8 @@ Educator rule: answer the learner's real question, name trade-offs honestly, and
 
 Educators should present assessment like a driving test:
 
-1. Learners must complete the required theoretical assessment through both app and educator-led components.
-2. Learners must demonstrate the required practical competencies.
+1. Learners must complete the 50% theoretical assessment through both app and educator-led components.
+2. Learners must demonstrate the required practical competencies that make up the other 50%.
 
 The app supports micro-learning, self-evaluation, quizzes, knowledge checks, feedback, and progress tracking. The educator assesses learner explanations, discussions, synthesis, simulations, role-plays, and practical performance.
 
@@ -223,7 +223,7 @@ Use:
 - simulations and role-plays; and
 - scenarios that require learners to connect more than one concept.
 
-As a working allocation, approximately 80% of theoretical assessment should be completed through app quizzes and interactive learning, while approximately 20% should be a quick educator-led touchpoint through activities, games, discussions, explanations, scenarios, or role-plays. The educator touchpoint confirms that learners can explain, discuss, compare, illustrate, or reason through selected ideas; it does not need to duplicate every app question.
+The complete Diploma assessment is allocated 50% to theoretical evidence and 50% to practical competency evidence. Within the theoretical half, approximately 80% should be completed through app quizzes and interactive learning, while approximately 20% should be a quick educator-led touchpoint through activities, games, discussions, explanations, scenarios, or role-plays. The educator touchpoint confirms that learners can explain, discuss, compare, illustrate, or reason through selected ideas; it does not need to duplicate every app question.
 
 Educators should not accept fluent repetition as proof that a learner understands. Follow up with prompts such as:
 
@@ -235,7 +235,7 @@ Educators should not accept fluent repetition as proof that a learner understand
 
 ### 5.4 Blocks 3 And 4: Practical Competence
 
-Blocks 3 and 4 are skills-dominant. Required practical objectives must be assessed through direct observation by the educator or an approved assessor.
+Blocks 3 and 4 are skills-dominant. Required practical objectives make up the practical 50% of assessment and must be assessed through direct observation by the educator or an approved assessor.
 
 Use approved Activity Bank tests, demonstrations, simulations, and role-plays to observe whether the learner can:
 

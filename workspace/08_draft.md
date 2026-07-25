@@ -126,7 +126,7 @@ During discussion:
 - protect other people's private financial information;
 - do not pressure anyone to buy, sell, or reveal how much money they hold.
 
-Your assessment has two parts. The My First Bitcoin app supports most theoretical learning and quizzes. Your educator carries out short theoretical touchpoints through activities, games, discussions, and role-plays, and evaluates required practical skills. These are opportunities to show what you understand and can do, and to discover what you should review or practise again.
+Your assessment has two equally important parts: theoretical understanding and practical competency. The My First Bitcoin app supports most of the theoretical half through learning and quizzes. Your educator carries out short theoretical touchpoints through activities, games, discussions, and role-plays, and evaluates the practical half through observed skills. These are opportunities to show what you understand and can do, and to discover what you should review or practise again.
 
 To receive a certificate, you must complete both the theoretical assessment and the educator-observed practical competency assessment. Completing the app alone or attending every session is not enough.
 

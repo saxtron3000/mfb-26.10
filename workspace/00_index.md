@@ -90,7 +90,7 @@ Working assumptions:
 - Educator Guide as a facilitation tool;
 - sparse QR code use in print materials;
 - future delivery branches documented without changing Core outcomes: online PDF, online cohort, self-paced, web, app, and cross-modal continuation;
-- combined assessment: theoretical assessment led approximately 80% through the app and 20% through educator touchpoints, plus educator-led practical competency evaluation;
+- combined assessment: 50% theoretical and 50% practical; the theoretical half is led approximately 80% through the app and 20% through educator touchpoints, while practical competency is educator-observed;
 - Blocks 1 and 2 are knowledge-dominant; Blocks 3 and 4 are skills-dominant and require direct educator observation;
 - certification requires both assessment components; the app may record the combined status but cannot assess practical performance;
 - Advanced module design deferred until after the beginner Diploma is published;

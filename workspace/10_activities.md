@@ -242,9 +242,9 @@ Do not ask learners to reveal a seed phrase, private key, login credential, or p
 
 ## Blocks 1 And 2: Knowledge-Dominant
 
-The app provides approximately 80% of theoretical assessment through quizzes and interactive learning. Activity Bank assessment tasks provide the remaining approximately 20% through educator-led explanations, comparisons, concept illustrations, games, discussions, simulations, scenarios, and role-plays.
+The complete Diploma assessment is allocated 50% to theoretical evidence and 50% to practical competency evidence. Within the theoretical half, the app provides approximately 80% through quizzes and interactive learning. Activity Bank assessment tasks provide the remaining approximately 20% through educator-led explanations, comparisons, concept illustrations, games, discussions, simulations, scenarios, and role-plays.
 
-Selected formal educator tasks should be short, objective-aligned touchpoints that confirm learners can explain, discuss, compare, illustrate, or reason through selected concepts. The 80/20 division applies within theoretical assessment; it does not prescribe one overall theory-practice percentage for every block.
+Selected formal educator tasks should be short, objective-aligned touchpoints that confirm learners can explain, discuss, compare, illustrate, or reason through selected concepts. The 80/20 division applies within the theoretical half; the other 50% of the complete Diploma assessment is educator-observed practical competency.
 
 ## Blocks 3 And 4: Skills-Dominant
 

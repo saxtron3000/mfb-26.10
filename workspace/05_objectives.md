@@ -173,7 +173,7 @@ The Core Diploma may introduce:
 
 Create-level tasks belong in Custom or Advanced material unless a local module explicitly includes them.
 
-Theoretical assessment for Blocks 1 and 2 is normally divided approximately 80% through app quizzes and interactive learning and 20% through educator-led touchpoints such as activities, games, discussions, and role-plays. The educator touchpoint checks that learners can explain, discuss, compare, illustrate, or reason through selected objectives. Practical objectives that use **demonstrate** require direct educator observation and cannot be satisfied by app quizzes.
+The complete Diploma assessment is allocated 50% to theoretical evidence and 50% to practical competency evidence. The theoretical half is normally divided approximately 80% through app quizzes and interactive learning and 20% through educator-led touchpoints such as activities, games, discussions, and role-plays. The educator touchpoint checks that learners can explain, discuss, compare, illustrate, or reason through selected objectives. Practical objectives that use **demonstrate** require direct educator observation and cannot be satisfied by app quizzes.
 
 ---
 

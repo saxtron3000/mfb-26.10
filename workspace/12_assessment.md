@@ -11,6 +11,8 @@ The Diploma uses two complementary forms of assessment:
 1. **Theoretical assessment**, divided between My First Bitcoin app quizzes and interactive learning (approximately 80%) and short educator-led touchpoints (approximately 20%) such as activities, games, discussions, explanations, scenarios, and role-plays from the Activity Bank.
 2. **Educator-led practical competency assessment**, using direct observation of tests, demonstrations, simulations, and role-plays.
 
+The working Diploma assessment allocation is 50% theoretical assessment and 50% practical competency assessment. Within the theoretical half, the app accounts for approximately 80% and educator-led touchpoints for approximately 20%. This is equivalent to approximately 40% of the total assessment through the app, 10% through educator-led theoretical touchpoints, and 50% through educator-observed practical assessment.
+
 The app is an important assessment tool, but it is not the whole assessment system and cannot determine whether a learner can perform a practical skill. Certification requires successful completion of both parts. See `13_certification.md`.
 
 ---
@@ -98,13 +100,13 @@ Educators should deliver the remaining approximately 20% of the theoretical asse
 - simulations; and
 - role-plays.
 
-Rote memory has a limited but useful role for essential terms, safety rules, and foundational facts. App assessment may check recall, understanding, and appropriate scenario responses. Educator touchpoints ensure learners also explain, discuss, compare, illustrate, or reason through selected ideas in person. The working 80/20 division describes who conducts the theoretical assessment. The overall balance between theoretical and practical assessment is set by the objectives and the block assessment blueprint.
+Rote memory has a limited but useful role for essential terms, safety rules, and foundational facts. App assessment may check recall, understanding, and appropriate scenario responses. Educator touchpoints ensure learners also explain, discuss, compare, illustrate, or reason through selected ideas in person. The working 80/20 division describes who conducts the theoretical half of assessment. The theoretical and practical components each carry 50% of the total assessment.
 
 The app may support some applied questions, but educator judgment is required where the objective calls for a spoken explanation, discussion, nuanced reasoning, or performance that automated scoring cannot evaluate reliably.
 
 ## 4.2 Educator-Led Practical Competency
 
-Practical competence must be evaluated by an educator or approved assessor through direct observation.
+Practical competency assessment carries 50% of the total assessment and must be evaluated by an educator or approved assessor through direct observation.
 
 Suitable methods include:
 
@@ -128,12 +130,12 @@ Practical assessment should use testnet, prepared wallets, simulations, or appro
 
 | Block | Primary assessment emphasis | Required evidence pattern |
 |---|---|---|
-| 1. Problem / Fiat | Theoretical assessment | Approximately 80% app quizzes and interactive learning plus 20% educator-led explanation, discussion, game, role-play, or simulation. |
-| 2. Solution / Bitcoin | Theoretical assessment | Approximately 80% app quizzes and interactive learning plus 20% educator-led explanation, discussion, game, role-play, or scenario response. |
-| 3. Action / Self-custody | Practical competence and safety | Supporting knowledge checks plus direct educator observation of required wallet, transaction, verification, recovery, and safety capabilities. |
+| 1. Problem / Fiat | Theoretical assessment | App quizzes and interactive learning, with educator-led explanation, discussion, game, role-play, or simulation touchpoints. |
+| 2. Solution / Bitcoin | Theoretical assessment | App quizzes and interactive learning, with educator-led explanation, discussion, game, role-play, or scenario-response touchpoints. |
+| 3. Action / Self-custody | Practical competence and safety | Supporting theoretical checks plus direct educator observation of required wallet, transaction, verification, recovery, and safety capabilities. |
 | 4. Custom / Bitcoin as Money | Practical local competency | Direct educator observation of an approved local practical task, simulation, role-play, or problem-solving performance, supported by relevant theoretical knowledge. |
 
-This balance describes emphasis, not an absolute division. Blocks 1 and 2 include educator-led theoretical touchpoints, while Blocks 3 and 4 must still check the theoretical knowledge needed to act safely.
+Blocks 1 and 2 are knowledge-dominant, while Blocks 3 and 4 are skills-dominant. This describes where the evidence is taught and collected; certification still uses the 50% theoretical and 50% practical allocation across the complete Diploma.
 
 ---
 
@@ -253,11 +255,15 @@ A learner is **assessment-complete** only when both component statuses are compl
 - required app micro-learning, interactive learning, and knowledge checks are complete at the approved standard; and
 - required educator-led theoretical touchpoints—such as activities, games, discussions, explanations, scenarios, or role-plays—meet the rubric.
 
+This component contributes 50% of the total assessment. Approximately 80% of this component is app-based and 20% is educator-led.
+
 ## B. Practical-competence complete
 
 - the required Block 3 practical and safety competencies have been directly observed and passed by an educator or approved assessor;
 - the required selected Block 4 practical or applied competency has been directly observed and passed; and
 - the educator assessment result and evidence reference have been recorded through the approved process.
+
+This component contributes 50% of the total assessment and is educator-observed.
 
 The app may display the combined status and store educator attestations. That administrative role does not mean the app assessed the learner's practical ability.
 
@@ -297,7 +303,7 @@ All certificated delivery modes require both parts of the assessment.
 
 - Final assessment blueprint mapping every Core and selected Custom objective to evidence
 - Final app passing thresholds and retake rules
-- Validation of the working 80% app / 20% educator division for theoretical assessment
+- Implementation of the 50/50 theoretical-practical allocation and the 80/20 app-educator division within theoretical assessment
 - Required practical tasks and rubrics for Blocks 3 and 4
 - Educator authorization, training, calibration, and moderation
 - Acceptable evidence and support levels for each competency

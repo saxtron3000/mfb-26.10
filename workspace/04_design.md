@@ -63,7 +63,7 @@ The current working design direction is:
 - Organizations material used only where it clarifies beginner Core concepts, educator misconception handling, Activity Bank scenarios, or local Custom practice;
 - Educator Guide treated as a facilitation engine;
 - Activity Bank treated as part of the learning ecosystem;
-- assessment built from the learning objectives, using app-supported and educator-led theoretical assessment plus educator-led practical evaluation;
+- assessment built from the learning objectives, using a 50% theoretical component and 50% educator-led practical component; the theoretical half is approximately 80% app-supported and 20% educator-led;
 - certification based on both theoretical evidence and directly observed practical competence;
 - localization considered through adaptable examples, activities, and facilitation, not through changing core outcomes;
 - in-person and offline-capable PDF delivery treated as the first mode, with future branches to online PDF, online cohort, self-paced, web, app, and cross-modal continuation documented without overloading the current scope;
@@ -210,7 +210,7 @@ Assessment should match the learning objective and the kind of competence being 
 
 The app should support micro-learning, knowledge checks, feedback, and progress tracking. Educators should assess explanations, synthesis, discussions, simulations, role-plays, and practical performance using common tasks and rubrics.
 
-Blocks 1 and 2 should be knowledge-dominant. Their theoretical assessment should normally be divided approximately 80% through app quizzes and interactive learning and 20% through short educator-led activities, games, discussions, explanations, scenarios, or role-plays. Blocks 3 and 4 should be skills-dominant and require direct educator observation.
+Blocks 1 and 2 should be knowledge-dominant. The complete Diploma assessment is allocated 50% to theoretical evidence and 50% to practical competency evidence. Within the theoretical half, assessment should normally be divided approximately 80% through app quizzes and interactive learning and 20% through short educator-led activities, games, discussions, explanations, scenarios, or role-plays. Blocks 3 and 4 should be skills-dominant and require direct educator observation.
 
 The app may record educator results, but it cannot determine whether a learner can perform a practical skill. Certification requires both parts.
 
@@ -596,7 +596,7 @@ Adaptation and localization may gradually weaken learning outcomes.
 
 ## Assessment Validity And Assessor Variation Risk
 
-App quizzes may over-reward recall, while educator judgments may vary across cohorts. The 80/20 theoretical assessment model, objective-aligned educator touchpoints, direct observation, common rubrics, assessor calibration, reassessment rules, and moderation are required to protect certificate consistency.
+App quizzes may over-reward recall, while educator judgments may vary across cohorts. The 50/50 theoretical-practical allocation, 80/20 theoretical assessment model, objective-aligned educator touchpoints, direct observation, common rubrics, assessor calibration, reassessment rules, and moderation are required to protect certificate consistency.
 
 ## Translation Risk
 

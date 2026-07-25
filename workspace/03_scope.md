@@ -61,7 +61,7 @@ The following assumptions affect project execution:
 - Sparse QR code use in print materials.
 - Future delivery branches should be documented without becoming current implementation requirements: online PDF, online cohort, self-paced, web, app, and cross-modal continuation.
 - `06_plan.md` is the active plan source of truth.
-- Combined assessment—app-supported and educator-led theoretical assessment plus educator-led practical competency assessment—is in scope.
+- Combined assessment—a 50% theoretical component and 50% educator-observed practical component—is in scope; the theoretical half is approximately 80% app-based and 20% educator-led.
 - Both assessment components are prerequisites for certification.
 - Detailed certification governance and credential infrastructure remain to be defined.
 - Localization preparation is in scope.
@@ -234,7 +234,7 @@ Separate advanced learning from beginner learning.
 
 ### Purpose
 
-Create an objective-aligned system that combines app-supported and educator-led theoretical assessment with educator-led practical competency assessment and prevents certificate issuance until both parts are passed.
+Create an objective-aligned system with a 50% theoretical component and 50% educator-observed practical competency component. The theoretical half is approximately 80% app-based and 20% educator-led. Prevent certificate issuance until both parts are passed.
 
 ### Deliverables
 
@@ -242,6 +242,7 @@ Create an objective-aligned system that combines app-supported and educator-led 
 - Objective-to-assessment blueprint
 - App theoretical-assessment design brief: micro-learning, quizzes, interactive learning, feedback, and retries
 - Educator-led theoretical touchpoints and practical assessment tasks
+- 50/50 theoretical-practical weighting and 80/20 app-educator theoretical weighting
 - Competency evidence framework
 - Assessment mapping
 - Evidence models

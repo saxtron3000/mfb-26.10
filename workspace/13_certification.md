@@ -6,8 +6,10 @@ This document defines the non-negotiable relationship between assessment and cer
 
 Nobody may receive a Bitcoin Diploma certificate without successfully completing both:
 
-1. the required theoretical assessment, including both app and educator-led components; and
-2. the required educator-led practical competency assessment.
+1. the 50% theoretical assessment component, including both app and educator-led components; and
+2. the 50% educator-led practical competency assessment component.
+
+Within the theoretical component, approximately 80% is assessed through the app and 20% through educator-led touchpoints.
 
 The quality and reputation of the certificate depend on the quality and consistency of both forms of assessment.
 
@@ -23,6 +25,8 @@ Assessment-complete status requires:
 - successful educator-led theoretical touchpoints, such as activities, games, discussions, scenarios, or role-plays;
 - successful direct educator observation of required Block 3 practical and safety competencies; and
 - successful educator assessment of shared objectives `B4.1` and `B4.2` through an approved local task.
+
+The theoretical and practical components each carry 50% of the total assessment. Both must meet the approved standard; a result in one component cannot compensate for an unmet requirement in the other.
 
 Attendance, participation, app completion alone, an educator's general impression, self-reported ability, or completion of printed/PDF materials alone are not sufficient.
 
@@ -58,8 +62,8 @@ Public communication must distinguish these terms:
 |---|---|
 | Participation | A learner attended or joined the learning experience. |
 | App progress | A learner completed some app learning units, self-evaluations, or quizzes. |
-| Theoretical assessment complete | The learner passed required app theoretical assessment and educator-led theoretical touchpoints. |
-| Practical-competence complete | An educator or approved assessor directly observed and passed the required practical competencies. |
+| Theoretical assessment complete | The learner passed the 50% theoretical component: approximately 80% app assessment and 20% educator-led touchpoints. |
+| Practical-competence complete | The learner passed the 50% educator-observed practical component. |
 | Assessment-complete | Both assessment components are complete and recorded. |
 | Certification | A certificate issued only after assessment-complete status is verified. |
 
@@ -134,6 +138,7 @@ To protect that credibility:
 - every certificated learner must be assessed against the learning objectives;
 - app quizzes and interactive learning must assess the required theoretical objectives and must not reward rapid guessing;
 - practical capability must be directly observed;
+- the 50/50 theoretical-practical allocation and the 80/20 theoretical app-educator division must be applied consistently;
 - educators must use common criteria rather than personal impressions;
 - unsuccessful attempts must lead to feedback and reassessment, not automatic passing;
 - results must be recorded accurately;

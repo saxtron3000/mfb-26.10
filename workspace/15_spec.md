@@ -179,7 +179,7 @@ Assessment in the redesigned Diploma is beginner-focused, objective-aligned, and
 1. Theoretical assessment through app-supported micro-learning, quizzes, interactive learning, feedback, and educator-led touchpoints.
 2. Educator-led practical competency assessment through direct observation of demonstrations, simulations, tests, and role-plays.
 
-Blocks 1 and 2 are knowledge-dominant. Their theoretical assessment is normally divided approximately 80% through app quizzes and interactive learning and 20% through short educator-led activities, games, discussions, and role-plays. Blocks 3 and 4 are skills-dominant and require direct educator observation of approved practical competencies.
+The complete Diploma assessment is allocated 50% to theoretical evidence and 50% to educator-observed practical competency. Blocks 1 and 2 are knowledge-dominant. Within the theoretical half, assessment is normally divided approximately 80% through app quizzes and interactive learning and 20% through short educator-led activities, games, discussions, and role-plays. Blocks 3 and 4 are skills-dominant and require direct educator observation of approved practical competencies.
 
 The app cannot determine whether a learner can perform a practical skill. It may store or display educator results, but app completion alone is insufficient.
 

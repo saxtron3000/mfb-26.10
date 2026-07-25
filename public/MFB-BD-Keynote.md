@@ -265,8 +265,8 @@ Possible supporting components:
 
 Assessment should connect every learning objective to evidence that matches it. The model has two parts:
 
-1. Theoretical assessment led approximately 80% through app quizzes and interactive learning and 20% through short educator-led activities, games, discussions, and role-plays.
-2. Educator-led practical competency assessment through directly observed demonstrations, simulations, tests, and role-plays.
+1. A 50% theoretical component, led approximately 80% through app quizzes and interactive learning and 20% through short educator-led activities, games, discussions, and role-plays.
+2. A 50% educator-led practical competency component through directly observed demonstrations, simulations, tests, and role-plays.
 
 Like a driving test, learners must show that they understand the relevant ideas and that they can perform the required skills. The app supports the theory side and may record combined status, but it cannot assess practical performance.
 
@@ -302,7 +302,7 @@ Possible summative evidence:
 
 Important distinction:
 
-Blocks 1 and 2 are knowledge-dominant. Their theoretical assessment is normally divided approximately 80% through the app and 20% through short educator-led touchpoints. Blocks 3 and 4 are skills-dominant and require direct educator observation.
+Blocks 1 and 2 are knowledge-dominant, while Blocks 3 and 4 are skills-dominant. The complete assessment is allocated 50% to theory and 50% to educator-observed practical competence. Within the theoretical half, approximately 80% is app-based and 20% is educator-led.
 
 Participation and attendance are not certification. A learner may receive a Diploma certificate only after both the theoretical component and the educator-led practical competency component are passed and recorded. This protects a shared minimum standard across educators and communities.
 
