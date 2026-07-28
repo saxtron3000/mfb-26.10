@@ -26,6 +26,7 @@ Draft references below use the current line numbers in `workspace/08_draft.md`. 
 - [ ] Define “fiat” before its first learner-facing use, or remove/defer early uses until the definition appears.
   - Source: COMMENT-005, COMMENT-006.
   - Draft: early uses, lines; 48, 66, 86; current definition, lines; 319–323.
+  - This include the title of Block 1 and must be made throughout the project's structure.
 
 - [ ] [Anchor warning] Add a visually distinct early breakout definition of “fiat” so learners encounter the term with context before later technical discussion.
   - Source: COMMENT-008, COMMENT-009.
@@ -82,17 +83,6 @@ Draft references below use the current line numbers in `workspace/08_draft.md`. 
 - [ ] Add a Resources Hub contribution call to action and a separate prompt to install or download the app where appropriate.
   - Source: COMMENT-028.
   - Draft: existing app references, lines; 129–131; nearest closing CTA area, lines; 1459–1499. No Resources Hub CTA is currently present.
-
-## Reply-only records
-
-These do not create separate tasks, but they should remain attached to their parent items:
-
-- COMMENT-002: “Good catch” → COMMENT-001.
-- COMMENT-004: “Solid point” → COMMENT-003.
-- COMMENT-011: “Yes it would - thanks, Gabe!” → COMMENT-010.
-- COMMENT-024: “Good catch” → COMMENT-023.
-
-The DOCX does not encode explicit reply or resolved-state metadata. These relationships are inferred from shared anchors and comment order.
 
 ## Recommended review order
 
