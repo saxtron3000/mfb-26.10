@@ -29,9 +29,9 @@ Use [`00_index.md`](00_index.md) for the recommended reading order and complete 
 
 For a faster orientation:
 
-1. Read [`16_spec.md`](16_spec.md) for a short, standalone overview of the planned Diploma.
+1. Read [`17_spec.md`](17_spec.md) for a short, standalone overview of the planned Diploma.
 2. Read [`06_plan.md`](06_plan.md) for the active architecture and content boundaries.
-3. Read [`05_objectives.md`](05_objectives.md), [`07_contents.md`](07_contents.md), and [`08_draft.md`](08_draft.md) when working on learner-facing content.
+3. Read [`05_objectives.md`](05_objectives.md), [`07_contents.md`](07_contents.md), and [`08_student.md`](08_student.md) when working on learner-facing content.
 
 ## Course Architecture
 
@@ -68,16 +68,17 @@ Reference and feedback material is input, not automatically approved curriculum.
 | [`05_objectives.md`](05_objectives.md) | Core, Custom, and Advanced learning outcomes and competency boundaries. |
 | [`06_plan.md`](06_plan.md) | **Active source of truth** for the four-block architecture, content boundaries, timing rules, and legacy migration. |
 | [`07_contents.md`](07_contents.md) | Planned Student Book table of contents. |
-| [`08_draft.md`](08_draft.md) | Current Student Book draft and learner-facing scaffold. |
+| [`08_student.md`](08_student.md) | Current Student Guide and learner-facing content. |
 | [`09_assets.md`](09_assets.md) | Visual-text index, asset requirements, placement rules, and review handoff. |
 | [`10_activities.md`](10_activities.md) | Activity Bank structure, activity inventory, and activity design rules. |
-| [`11_guide.md`](11_guide.md) | Educator Guide structure, pacing, facilitation, adaptation, and learner-safety guidance. |
-| [`12_assessment.md`](12_assessment.md) | Combined assessment model, objective-aligned evidence, passing requirements, and delivery-mode adaptation. |
-| [`13_microlearning.md`](13_microlearning.md) | App microlearning question-bank structure across the four Diploma blocks. |
-| [`14_certification.md`](14_certification.md) | Two-part assessment prerequisite for certification and outstanding governance questions. |
-| [`15_lexicon.md`](15_lexicon.md) | Beginner-safe terminology and definitions for consistent drafting and translation. |
-| [`16_spec.md`](16_spec.md) | Standalone 2026.10 overview, publication rules, and collaborator-facing specification. |
-| [`17_advanced.md`](17_advanced.md) | Advanced module ideas, follow-on pathways, and legacy material parked outside the beginner Diploma. |
+| [`11_resources.md`](11_resources.md) | External sources and their current Student Book claim locations. |
+| [`12_educator.md`](12_educator.md) | Educator Guide structure, pacing, facilitation, adaptation, and learner-safety guidance. |
+| [`13_assessment.md`](13_assessment.md) | Combined assessment model, objective-aligned evidence, passing requirements, and delivery-mode adaptation. |
+| [`14_microlearning.md`](14_microlearning.md) | App microlearning question-bank structure across the four Diploma blocks. |
+| [`15_certification.md`](15_certification.md) | Two-part assessment prerequisite for certification and outstanding governance questions. |
+| [`16_lexicon.md`](16_lexicon.md) | Beginner-safe terminology and definitions for consistent drafting and translation. |
+| [`17_spec.md`](17_spec.md) | Standalone 2026.10 overview, publication rules, and collaborator-facing specification. |
+| [`18_advanced.md`](18_advanced.md) | Advanced module ideas, follow-on pathways, and legacy material parked outside the beginner Diploma. |
 | [`advanced/mergefromorganizations.md`](advanced/mergefromorganizations.md) | Checklist for beginner-safe material selected from Bitcoin for Organizations. |
 | [`advanced/advancedorganizations.md`](advanced/advancedorganizations.md) | Source trail for Organizations material routed to Advanced pathways. |
 
@@ -87,13 +88,13 @@ The public stakeholder brief and keynote source is [`../public/MFB-BD-Keynote.md
 
 - Use `06_plan.md` for architecture and boundary decisions; do not create a competing plan elsewhere.
 - Keep measurable outcomes and competencies in `05_objectives.md`.
-- Keep learner-facing prose in `08_draft.md` and align its order with `07_contents.md`.
+- Keep learner-facing prose in `08_student.md` and align its order with `07_contents.md`.
 - Keep detailed activities in `10_activities.md`, not in the Student Book or plan.
-- Keep detailed facilitation guidance in `11_guide.md`, not in the Student Book or plan.
-- Keep the combined assessment model, objective-aligned evidence, and passing requirements in `12_assessment.md`; keep certification eligibility and governance questions in `14_certification.md`.
-- Keep the full Advanced module list and parked advanced content in `17_advanced.md`.
+- Keep detailed facilitation guidance in `12_educator.md`, not in the Student Book or plan.
+- Keep the combined assessment model, objective-aligned evidence, and passing requirements in `13_assessment.md`; keep certification eligibility and governance questions in `15_certification.md`.
+- Keep the full Advanced module list and parked advanced content in `18_advanced.md`.
 - Use `advanced/mergefromorganizations.md` as the beginner-safe Organizations checklist; do not import Organizations chapters directly into the Student Book.
-- Use `advanced/advancedorganizations.md` and `17_advanced.md` for Organizations material that exceeds beginner scope.
+- Use `advanced/advancedorganizations.md` and `18_advanced.md` for Organizations material that exceeds beginner scope.
 
 ## Design and Publication Guardrails
 
@@ -105,7 +106,7 @@ The redesign should:
 - standardize shared Core theory and outcomes while allowing educator-led local practice within guardrails;
 - support offline or low-connectivity delivery and use print QR codes sparingly;
 - prepare English source files for translation and localization before publication;
-- use beginner-safe, consistent terminology from `15_lexicon.md`;
+- use beginner-safe, consistent terminology from `16_lexicon.md`;
 - avoid financial, legal, tax, accounting, compliance, or investment advice;
 - avoid turning named wallets, exchanges, tools, maps, services, or local resources into global recommendations;
 - date and cite current-data examples, or replace them with evergreen explanations before publication;

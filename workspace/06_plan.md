@@ -12,7 +12,7 @@ It defines:
 - how in-class time should be used;
 - which documents own detailed implementation work.
 
-Detailed activities belong in `10_activities.md`. Detailed facilitation guidance belongs in `11_guide.md`. Detailed objectives belong in `05_objectives.md`. App question-bank structure belongs in `13_microlearning.md`. Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use belong in `17_advanced.md`.
+Detailed activities belong in `10_activities.md`. Detailed facilitation guidance belongs in `12_educator.md`. Detailed objectives belong in `05_objectives.md`. App question-bank structure belongs in `14_microlearning.md`. Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use belong in `18_advanced.md`.
 
 `06_plan.md` is the active plan source of truth. The older duplicated plan file has been archived at `../y_archive/y_13_plan_superseded.md`.
 
@@ -203,13 +203,13 @@ Split decisions:
 
 ## Bitcoin For Organizations Cannibalization
 
-`workspace/mergefromorganizations.md` reviews the retiring `../ref/bitcoin-for-organizations/en` pathway for beginner Diploma use. `workspace/advancedorganizations.md` and `17_advanced.md` preserve the larger Advanced source trail.
+`workspace/mergefromorganizations.md` reviews the retiring `../ref/bitcoin-for-organizations/en` pathway for beginner Diploma use. `workspace/advancedorganizations.md` and `18_advanced.md` preserve the larger Advanced source trail.
 
 Beginner merge decision:
 
 - Do not import Organizations chapters into the Student Book.
 - Use Organizations material only where it improves existing beginner outcomes.
-- Keep the Student Book lean; put misconception handling mostly in `11_guide.md` and scenario practice mostly in `10_activities.md` or Block 4 Custom templates.
+- Keep the Student Book lean; put misconception handling mostly in `12_educator.md` and scenario practice mostly in `10_activities.md` or Block 4 Custom templates.
 
 Organizations content may support:
 
@@ -310,7 +310,7 @@ Template Custom units should include:
 
 ## Advanced
 
-Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use are collected in `17_advanced.md`.
+Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use are collected in `18_advanced.md`.
 
 Advanced outcomes are ongoing and should be designed module by module after the redesigned beginner Diploma is published.
 
@@ -346,7 +346,7 @@ Internal performance rule:
 
 Treat the beginner pathway like a lean, high-performance learning experience. Every required component should improve learner clarity, completion likelihood, practice, educator usability, safety, translation readiness, or maintainability.
 
-Each block should close with a short review point. The review should include key takeaways, a learner explanation prompt, a link to the next block, and an evidence-of-learning opportunity that can connect to `12_assessment.md`.
+Each block should close with a short review point. The review should include key takeaways, a learner explanation prompt, a link to the next block, and an evidence-of-learning opportunity that can connect to `13_assessment.md`.
 
 Each block should follow a simple rhythm:
 
@@ -375,7 +375,7 @@ Each block should follow a simple rhythm:
 
 Activities leave the main student-facing text and move to `10_activities.md`.
 
-Educator preparation, timing, adaptation, misconception support, and debrief guidance move to `11_guide.md`.
+Educator preparation, timing, adaptation, misconception support, and debrief guidance move to `12_educator.md`.
 
 ---
 
@@ -383,17 +383,17 @@ Educator preparation, timing, adaptation, misconception support, and debrief gui
 
 | Material | Owner document |
 |---|---|
-| Student-facing draft scaffold | `08_draft.md` |
+| Student-facing draft scaffold | `08_student.md` |
 | Learning objectives and competencies | `05_objectives.md` |
 | Activity categories and activity template | `10_activities.md` |
-| Educator facilitation and Custom selection guidance | `11_guide.md` |
-| Combined assessment, objective-aligned evidence, and passing requirements | `12_assessment.md` |
-| App microlearning question-bank structure | `13_microlearning.md` |
-| Two-part assessment prerequisite for certification and governance questions | `14_certification.md` |
-| Publication rules | `16_spec.md` |
+| Educator facilitation and Custom selection guidance | `12_educator.md` |
+| Combined assessment, objective-aligned evidence, and passing requirements | `13_assessment.md` |
+| App microlearning question-bank structure | `14_microlearning.md` |
+| Two-part assessment prerequisite for certification and governance questions | `15_certification.md` |
+| Publication rules | `17_spec.md` |
 | Beginner-safe Organizations merge checklist | `mergefromorganizations.md` |
-| Organizations-to-Advanced source map | `advancedorganizations.md` and `17_advanced.md` |
-| Advanced module ideas and redacted content collection | `17_advanced.md` |
+| Organizations-to-Advanced source map | `advancedorganizations.md` and `18_advanced.md` |
+| Advanced module ideas and redacted content collection | `18_advanced.md` |
 | Public keynote and stakeholder brief | `../public/MFB-BD-Keynote.md` |
 
 ---
@@ -405,7 +405,7 @@ The October 2026 redesign should produce:
 - a 4-block beginner Diploma;
 - an approximately 8-hour delivery path;
 - clear learning objectives;
-- Student Book draft;
+- Student Guide;
 - Educator Guide;
 - Activity Bank;
 - Custom module templates;
@@ -419,7 +419,7 @@ The Diploma should remain the entry point into a wider learning ecosystem, not t
 
 # 9. Follow-On Pathways
 
-Follow-on pathway ideas are collected in `17_advanced.md`.
+Follow-on pathway ideas are collected in `18_advanced.md`.
 
 ---
 
@@ -445,7 +445,7 @@ The redesign still needs decisions on:
 - low-connectivity delivery assumptions;
 - pilot and educator review process;
 - exact publication formats;
-- Advanced module objectives and sequencing, tracked in `17_advanced.md`.
+- Advanced module objectives and sequencing, tracked in `18_advanced.md`.
 
 ---
 

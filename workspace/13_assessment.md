@@ -13,7 +13,7 @@ The Diploma uses two complementary forms of assessment:
 
 The working Diploma assessment allocation is 50% theoretical assessment and 50% practical competency assessment. Within the theoretical half, the app accounts for approximately 80% and educator-led touchpoints for approximately 20%. This is equivalent to approximately 40% of the total assessment through the app, 10% through educator-led theoretical touchpoints, and 50% through educator-observed practical assessment.
 
-The app is an important assessment tool, but it is not the whole assessment system and cannot determine whether a learner can perform a practical skill. Certification requires successful completion of both parts. See `14_certification.md`. The app question-bank structure is maintained in `13_microlearning.md`.
+The app is an important assessment tool, but it is not the whole assessment system and cannot determine whether a learner can perform a practical skill. Certification requires successful completion of both parts. See `15_certification.md`. The app question-bank structure is maintained in `14_microlearning.md`.
 
 ---
 

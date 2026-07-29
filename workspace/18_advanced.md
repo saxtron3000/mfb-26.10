@@ -55,7 +55,7 @@ Place it here with enough context to recover it later:
 - reason it was removed from Core;
 - notes for future use.
 
-The absence of a topic from `08_draft.md` does not mean the topic is unimportant. It may simply be too detailed, too local, too technical, too current-data-dependent, or too risky for an 8-hour beginner pathway.
+The absence of a topic from `08_student.md` does not mean the topic is unimportant. It may simply be too detailed, too local, too technical, too current-data-dependent, or too risky for an 8-hour beginner pathway.
 
 ---
 
@@ -65,19 +65,19 @@ The absence of a topic from `08_draft.md` does not mean the topic is unimportant
 |---|---|
 | Four-block beginner architecture | `06_plan.md` |
 | Core / Custom / Advanced boundary rules | `06_plan.md` |
-| Advanced title inventory | `17_advanced.md` |
-| Advanced follow-on pathway ideas | `17_advanced.md` |
-| Redacted legacy material for future Advanced use | `17_advanced.md` |
-| Student-facing beginner draft | `08_draft.md` |
+| Advanced title inventory | `18_advanced.md` |
+| Advanced follow-on pathway ideas | `18_advanced.md` |
+| Redacted legacy material for future Advanced use | `18_advanced.md` |
+| Student-facing beginner guide | `08_student.md` |
 | Beginner objectives | `05_objectives.md` |
-| Beginner assessment | `12_assessment.md` |
+| Beginner assessment | `13_assessment.md` |
 | Activity templates | `10_activities.md` |
-| Educator facilitation guidance | `11_guide.md` |
-| Publication rules | `16_spec.md` |
+| Educator facilitation guidance | `12_educator.md` |
+| Publication rules | `17_spec.md` |
 
 `06_plan.md` remains the source of truth for the active beginner redesign structure.
 
-`17_advanced.md` is the source of truth for Advanced module ideas, title inventory, source trails, and parked content.
+`18_advanced.md` is the source of truth for Advanced module ideas, title inventory, source trails, and parked content.
 
 ---
 
@@ -219,7 +219,7 @@ Split decisions:
 
 # 8. Redacted Content Collection
 
-This section preserves material that exists in the legacy Diploma or workspace but is intentionally reduced, compressed, or omitted from `08_draft.md`.
+This section preserves material that exists in the legacy Diploma or workspace but is intentionally reduced, compressed, or omitted from `08_student.md`.
 
 ## Money Psychology And Economic Behavior
 
@@ -343,7 +343,7 @@ Primary sources:
 - `../ref/chapters/3-what-is-fiat-money/3-central-bank-digital-currencies.md`
 - `../ref/chapters/10-what-future-can-bitcoin-build/1-what-are-central-bank-digital-currencies-cbdcs.md`
 - `../ref/00_bd_202604-en.md`, sections `3.3` and `10.1`
-- `08_draft.md`, section `CBDCs as a beginner fiat-system example where appropriate`
+- `08_student.md`, section `CBDCs as a beginner fiat-system example where appropriate`
 
 Content to preserve:
 
@@ -382,7 +382,7 @@ Primary sources:
 - `../ref/chapters/4-how-problems-lead-to-solutions/3-the-quest-for-a-decentralized-currency.md`
 - `../ref/chapters/2-the-history-of-money/2-digital-currency.md`
 - `../ref/00_bd_202604-en.md`, sections `2.2` and `4.3`
-- `08_draft.md`, Block 2 sections on Cypherpunk context and early digital-money attempts
+- `08_student.md`, Block 2 sections on Cypherpunk context and early digital-money attempts
 
 Content to preserve:
 
@@ -421,7 +421,7 @@ Primary sources:
 - `../ref/chapters/9-how-does-bitcoin-mining-work/1-bitcoin-nodes-and-miners.md`
 - `../ref/00_bd_202604-en.md`, sections `5.1`, `9.1`
 - `02_research.md`, Hackfest repository research
-- `08_draft.md`, Block 2 sections on users, nodes, miners, and proof of work
+- `08_student.md`, Block 2 sections on users, nodes, miners, and proof of work
 
 Content to preserve:
 
@@ -504,7 +504,7 @@ Primary sources:
 - `../ref/chapters/9-how-does-bitcoin-mining-work/3-how-transactions-work.md`
 - `../ref/chapters/6-how-to-use-bitcoin/4-receiving-and-sending-transactions.md`
 - `../ref/00_bd_202604-en.md`, sections `6.4`, `8.2`, `9.3`
-- `08_draft.md`, Block 3 transaction and verification sections
+- `08_student.md`, Block 3 transaction and verification sections
 
 Content to preserve:
 
@@ -591,7 +591,7 @@ Primary sources:
 
 - `../ref/chapters/9-how-does-bitcoin-mining-work/2-what-is-the-mempool.md`
 - `../ref/chapters/6-how-to-use-bitcoin/5-don-t-trust-verify.md`
-- `08_draft.md`, section `Verification, block explorers, and irreversible transactions`
+- `08_student.md`, section `Verification, block explorers, and irreversible transactions`
 - `02_research.md`, Hackfest repository research
 
 Content to preserve:
@@ -626,7 +626,7 @@ Primary sources:
 - `../ref/chapters/6-how-to-use-bitcoin/3-setting-up-a-mobile-wallet.md`
 - `../ref/chapters/6-how-to-use-bitcoin/4-receiving-and-sending-transactions.md`
 - `../ref/chapters/6-how-to-use-bitcoin/5-don-t-trust-verify.md`
-- `08_draft.md`, Block 3 self-custody sections
+- `08_student.md`, Block 3 self-custody sections
 
 Content to preserve:
 
@@ -675,7 +675,7 @@ Safety notes:
 Primary sources:
 
 - `../ref/chapters/6-how-to-use-bitcoin/1-acquiring-bitcoin.md`
-- `08_draft.md`, sections on acquiring/exchanging and local on-ramp/off-ramp pathways
+- `08_student.md`, sections on acquiring/exchanging and local on-ramp/off-ramp pathways
 
 Content to preserve:
 
@@ -718,7 +718,7 @@ Primary sources:
 - `../ref/chapters/7-using-bitcoin-in-daily-life/2-types-of-lightning-wallets.md`
 - `../ref/chapters/7-using-bitcoin-in-daily-life/3-setting-up-a-bitcoin-lightning-wallet.md`
 - `../ref/chapters/7-using-bitcoin-in-daily-life/4-sending-and-receiving-lightning-transactions.md`
-- `08_draft.md`, Block 3 Lightning distinction and Block 4 Lightning sections
+- `08_student.md`, Block 3 Lightning distinction and Block 4 Lightning sections
 
 Content to preserve:
 
@@ -763,7 +763,7 @@ Fact-check notes:
 Primary sources:
 
 - `../ref/chapters/7-using-bitcoin-in-daily-life/5-buying-coffee-and-groceries-with-bitcoin.md`
-- `08_draft.md`, Block 4 merchant and community use-case sections
+- `08_student.md`, Block 4 merchant and community use-case sections
 
 Content to preserve:
 
@@ -804,7 +804,7 @@ Primary sources:
 
 - `../ref/chapters/7-using-bitcoin-in-daily-life/5-buying-coffee-and-groceries-with-bitcoin.md`
 - `../ref/chapters/11-back-matter/1-real-world-case-studies.md`
-- `08_draft.md`, Block 4 circular economy, local resource map, and community discovery sections
+- `08_student.md`, Block 4 circular economy, local resource map, and community discovery sections
 - `public/MFB-BD-Keynote.md`, public redesign explanation
 
 Content to preserve:
@@ -888,7 +888,7 @@ Primary sources:
 - `../ref/chapters/6-how-to-use-bitcoin/2-introduction-to-wallets.md`
 - `../ref/chapters/6-how-to-use-bitcoin/5-don-t-trust-verify.md`
 - `../ref/chapters/7-using-bitcoin-in-daily-life/5-buying-coffee-and-groceries-with-bitcoin.md`
-- `08_draft.md`, references to open-source wallets and open-source education
+- `08_student.md`, references to open-source wallets and open-source education
 
 Content to preserve:
 
@@ -956,7 +956,7 @@ This section sketches possible directions for the candidate modules. These are s
 | Philosophy of Bitcoin | Self-sovereignty, autonomy, critical thinking, rule verification, rights, future scenarios | Legacy chapter 10 |
 | Transactions & Settlement | UTXOs, inputs, outputs, change, signatures, broadcast, mempool, confirmations, settlement finality | Legacy chapters 6.4, 8.2, 9.2, 9.3 |
 | Mining & Consensus | Nakamoto Consensus, proof of work, nodes, miners, block templates, valid hashes, difficulty, halvings | Legacy chapters 5.1 and 9 |
-| Privacy & Security | Threat models, UTXO privacy, block explorer privacy, KYC trade-offs, wallet security, scams, online safety | Legacy chapters 6, 8, 9; `08_draft.md` safety sections |
+| Privacy & Security | Threat models, UTXO privacy, block explorer privacy, KYC trade-offs, wallet security, scams, online safety | Legacy chapters 6, 8, 9; `08_student.md` safety sections |
 | Payments & Exchange | P2P exchange, centralized exchanges, escrow, on/off ramps, Lightning payments, gift cards, merchant payments | Legacy chapters 6.1 and 7 |
 | Bitcoin for Business | Merchant workflows, BTCPay Server, receipts, refunds, accounting, staff training, payment operations | Legacy chapter 7.5; Block 4 draft |
 | Infrastructure & Maintenance | Running nodes, wallet infrastructure, explorers, BTCPay, Lightning nodes, maintenance habits | Legacy chapters 7, 8, 9 |
@@ -967,7 +967,7 @@ This section sketches possible directions for the candidate modules. These are s
 | Open Source Software | Bitcoin Core, wallet code, BTCPay, contribution models, review, licenses, community development | Legacy chapters 5.1, 6.2, 7.5 |
 | Nostr & Decentralized Communication | Decentralized communication, relays, identity, censorship resistance, social publishing | Candidate title; Cypherpunk material |
 | Communication Networks | Internet, Tor, encryption, peer-to-peer networks, censorship resistance, network resilience | Legacy chapter 4.3 |
-| Bitcoin Education | How to teach Bitcoin, concept maps, prerequisite chains, demo-before-abstraction, activity design | `02_research.md`, `10_activities.md`, `11_guide.md` |
+| Bitcoin Education | How to teach Bitcoin, concept maps, prerequisite chains, demo-before-abstraction, activity design | `02_research.md`, `10_activities.md`, `12_educator.md` |
 | Bitcoin for Families | Family custody conversations, inheritance basics, safety culture, youth education, shared decision-making | Candidate title; custody and safety material |
 | Bitcoin for Organizations | Treasury policy, custody roles, governance, payments, donations, accounting, staff training | Candidate title; business and custody material |
 | Bitcoin Treasury and Organizational Custody | Treasury policy, balance-sheet exposure, custody roles, approval workflows, controls, accounting boundaries, institutional risk | `../ref/bitcoin-for-organizations/en/5-impact-on-internal-functions/2-what-is-a-bitcoin-treasury.md`; `../ref/bitcoin-for-organizations/en/4-impact-on-industry-verticals/2-bitcoin-and-investment-management.md` |
@@ -1002,7 +1002,7 @@ These activities may become Advanced modules, educator background, or optional w
 | Block-time and halving demonstration | Mining & Consensus | `02_research.md` Hackfest notes |
 | Lightning relay race | Lightning Network | Legacy chapter 7.4 |
 | Merchant payment workflow | Bitcoin for Business | Legacy chapter 7.5 |
-| Circular economy map | Communities & Circular Economies | Legacy chapter 7.5 and `08_draft.md` |
+| Circular economy map | Communities & Circular Economies | Legacy chapter 7.5 and `08_student.md` |
 | CBDC comparison workshop | Money & Human Rights | Legacy chapters 3.3 and 10.1 |
 | Final reflection on changed perspective | Philosophy of Bitcoin | Legacy chapter 10.4 |
 | Concept-map completion | Bitcoin Education | `02_research.md` Hackfest notes |
@@ -1040,10 +1040,10 @@ Use these source files when future Advanced module work begins.
 - `04_design.md`: simple-over-technical principle and Core / Custom / Advanced separation.
 - `05_objectives.md`: Advanced outcomes boundary.
 - `06_plan.md`: active beginner architecture and legacy migration rules.
-- `08_draft.md`: current beginner draft; useful for identifying what has been compressed or removed.
+- `08_student.md`: current beginner draft; useful for identifying what has been compressed or removed.
 - `10_activities.md`: activity template and activity categories.
-- `11_guide.md`: educator guidance on moving complex side topics to Advanced.
-- `16_spec.md`: publication rules, fact-check rules, QR rules, and public communication rules.
+- `12_educator.md`: educator guidance on moving complex side topics to Advanced.
+- `17_spec.md`: publication rules, fact-check rules, QR rules, and public communication rules.
 
 ## Legacy Reference Sources
 

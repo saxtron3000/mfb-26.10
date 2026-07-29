@@ -12,7 +12,7 @@ Sources reviewed:
 - `workspace/03_scope.md`
 - `workspace/05_objectives.md`
 - `workspace/07_contents.md`
-- `workspace/08_draft.md`
+- `workspace/08_student.md`
 
 Related Advanced merge map:
 
@@ -33,7 +33,7 @@ The key beginner question is:
 
 Does this information help a beginner explain money, fiat, Bitcoin, custody, verification, safety, or local Bitcoin use more clearly?
 
-If yes, it is listed here. If no, it belongs in `advancedorganizations.md` and later in `17_advanced.md`.
+If yes, it is listed here. If no, it belongs in `advancedorganizations.md` and later in `18_advanced.md`.
 
 ## Summary Decision
 
@@ -73,7 +73,7 @@ It supports these objectives from `05_objectives.md`:
 
 ## Recommended Beginner Merge Items
 
-| Priority | Useful Organizations content | Beginner value | Scope/objective fit | Where in `07_contents.md` | Where in `08_draft.md` | Action |
+| Priority | Useful Organizations content | Beginner value | Scope/objective fit | Where in `07_contents.md` | Where in `08_student.md` | Action |
 |---|---|---|---|---|---|---|
 | High | CBDCs as digital fiat, not Bitcoin | Helps beginners compare central-bank digital money with Bitcoin without assuming all digital money is the same | Objectives 5, 7, 17 | Block 1: `CBDCs as a beginner fiat-system example where appropriate` | Block 1: `CBDCs as a beginner fiat-system example where appropriate` | Keep and lightly strengthen. Emphasize issuer, supply, permission, privacy, rule changes, and verification. Do not include country counts. |
 | High | Digital scarcity and double-spend problem | Helps beginners understand why Bitcoin was created and why a decentralized digital money was difficult | Objectives 6, 7, 8 | Block 2: `Early digital-money attempts and the double-spend problem`; `Why Bitcoin was created` | Block 2: `Why Bitcoin was created`; `Early digital-money attempts and the double-spend problem` | Add or preserve plain-language digital-copy explanation. Avoid attack probability tables. |
@@ -109,7 +109,7 @@ Recommended Diploma use:
 Where:
 
 - `07_contents.md`: already listed under Block 1.
-- `08_draft.md`: already has `CBDCs as a beginner fiat-system example where appropriate`.
+- `08_student.md`: already has `CBDCs as a beginner fiat-system example where appropriate`.
 
 Suggested refinement:
 
@@ -153,7 +153,7 @@ Recommended Diploma use:
 Where:
 
 - `07_contents.md`: Block 2 already includes `The search for digital and decentralized money`, `Early digital-money attempts and the double-spend problem`, `Bitcoin origin timeline`, `Decentralization`, `Finite supply`, `Users, nodes, and miners`, and `Proof of work at a beginner level`.
-- `08_draft.md`: Block 2 already has matching sections. The Organizations path can refine these sections rather than create new ones.
+- `08_student.md`: Block 2 already has matching sections. The Organizations path can refine these sections rather than create new ones.
 
 Suggested refinements:
 
@@ -190,7 +190,7 @@ Recommended Diploma use:
 Where:
 
 - `07_contents.md`: Block 3 already includes `Verification, block explorers, and irreversible transactions`.
-- `08_draft.md`: Block 3 already has `Verification, block explorers, and irreversible transactions`.
+- `08_student.md`: Block 3 already has `Verification, block explorers, and irreversible transactions`.
 
 Suggested refinement:
 
@@ -231,7 +231,7 @@ Use as optional Custom scenario material:
 Where:
 
 - `07_contents.md`: Block 4 already includes local tools, Lightning, daily-life use, on/off-ramps, KYC/no-KYC, circular economies, merchant/community use cases, and resource maps.
-- `08_draft.md`: Block 4 already has sections that can absorb these examples.
+- `08_student.md`: Block 4 already has sections that can absorb these examples.
 
 Suggested refinement:
 
@@ -254,7 +254,7 @@ Keep out:
 
 Organizations provides strong material for educator preparation.
 
-Add a Misconception Bank to `workspace/11_guide.md` later, using Organizations as source material.
+Add a Misconception Bank to `workspace/12_educator.md` later, using Organizations as source material.
 
 Recommended entries:
 
@@ -381,7 +381,7 @@ Do not add the following to the required beginner Student Book:
 - detailed cryptography;
 - named companies, wallets, exchanges, custodians, or service providers as recommendations.
 
-All of this should go to `workspace/advancedorganizations.md` and later `workspace/17_advanced.md`.
+All of this should go to `workspace/advancedorganizations.md` and later `workspace/18_advanced.md`.
 
 ## Fact-Check Flags If Used In Beginner Materials
 
@@ -406,6 +406,6 @@ When the Diploma draft is edited, use this file as a checklist:
 2. Add only the high-priority beginner items if they are not already covered.
 3. Put misconception handling mostly in the Educator Guide.
 4. Put practical scenario material mostly in the Activity Bank and Custom block templates.
-5. Route everything advanced to `advancedorganizations.md` and `17_advanced.md`.
+5. Route everything advanced to `advancedorganizations.md` and `18_advanced.md`.
 
 The redesigned Diploma should gain clarity from Bitcoin for Organizations, not inherit its complexity.

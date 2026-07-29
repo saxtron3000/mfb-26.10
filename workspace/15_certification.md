@@ -17,7 +17,7 @@ The quality and reputation of the certificate depend on the quality and consiste
 
 # 1. Certification Rule
 
-A certificate may be issued only when the approved completion record confirms **assessment-complete** status under `12_assessment.md`.
+A certificate may be issued only when the approved completion record confirms **assessment-complete** status under `13_assessment.md`.
 
 Assessment-complete status requires:
 
@@ -174,6 +174,6 @@ Use `05_objectives.md` for the learning objectives and competencies that assessm
 
 Use `10_activities.md` for educator-led discussions, simulations, role-plays, and practical assessment tasks.
 
-Use `11_guide.md` for assessor procedures, rubrics, evidence, feedback, and reassessment guidance.
+Use `12_educator.md` for assessor procedures, rubrics, evidence, feedback, and reassessment guidance.
 
-Use `12_assessment.md` for the complete two-part assessment model and completion standard.
+Use `13_assessment.md` for the complete two-part assessment model and completion standard.

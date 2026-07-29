@@ -10,7 +10,7 @@ This is a Markdown-first curriculum redesign repository for My First Bitcoin's B
 - `feedback/` contains stakeholder review notes and research inputs.
 - `public/` contains public briefs, presentation sources, PDFs, and images.
 
-Keep learner-facing prose in `workspace/08_draft.md`, detailed activities in `workspace/10_activities.md`, facilitation guidance in `workspace/11_guide.md`, and assessment requirements in `workspace/12_assessment.md`. Do not treat reference or feedback files as approved curriculum without review.
+Keep learner-facing prose in `workspace/08_draft.md`, detailed activities in `workspace/10_activities.md`, facilitation guidance in `workspace/12_guide.md`, and assessment requirements in `workspace/13_assessment.md`. Do not treat reference or feedback files as approved curriculum without review.
 
 ## Build, Test, and Development Commands
 
@@ -30,7 +30,7 @@ Use Markdown with one `#` title, descriptive `##` sections, short paragraphs, an
 
 ## Testing Guidelines
 
-There is no test framework or coverage requirement. Validate edits manually for factual consistency, working relative links, consistent terminology with `workspace/15_lexicon.md`, alignment with `workspace/05_objectives.md`, and compliance with publication guardrails in `workspace/16_spec.md`. Current-data claims should be dated and cited.
+There is no test framework or coverage requirement. Validate edits manually for factual consistency, working relative links, consistent terminology with `workspace/16_lexicon.md`, alignment with `workspace/05_objectives.md`, and compliance with publication guardrails in `workspace/17_spec.md`. Current-data claims should be dated and cited.
 
 ## Commit & Pull Request Guidelines
 

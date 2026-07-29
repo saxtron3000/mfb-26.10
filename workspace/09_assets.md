@@ -6,7 +6,7 @@ This document is the index between the written Bitcoin Diploma and the visual ex
 
 It identifies:
 
-- which concepts in `08_draft.md` need a diagram, illustration, timeline, annotated interface, or other explanatory graphic;
+- which concepts in `08_student.md` need a diagram, illustration, timeline, annotated interface, or other explanatory graphic;
 - the exact section and position where each visual belongs;
 - what relationship, process, comparison, or mental model the visual must communicate;
 - the content and constraints a designer or design model needs to create it;
@@ -22,19 +22,19 @@ This file is not:
 - a rights-management or publication log;
 - an index of every table, checklist, worksheet, activity card, or page-layout treatment.
 
-Activity visuals belong in `10_activities.md`. Educator-only visuals belong in `11_guide.md`. Presentation visuals belong with the relevant presentation source. Ordinary tables and forms remain part of the Diploma manuscript unless they require a separate explanatory graphic listed here.
+Activity visuals belong in `10_activities.md`. Educator-only visuals belong in `12_educator.md`. Presentation visuals belong with the relevant presentation source. Ordinary tables and forms remain part of the Diploma manuscript unless they require a separate explanatory graphic listed here.
 
 ---
 
 # 1. Source And Placement Rules
 
-The current source of truth is `08_draft.md`.
+The current source of truth is `08_student.md`.
 
 Printed-note page references come from `../feedback/202602721_final_draft_notes.md`, which transcribes the 53 annotated pages in `../feedback/20260715_PABLO_draft_notes.pdf`. The `Page` and `Note` columns refer to those printed PDF page numbers and annotations, not to future Diploma pagination.
 
 Use exact Markdown section headings as the primary anchors. Do not use current page numbers as the main placement method because pagination will change during design and translation.
 
-Line references are a snapshot of the current `08_draft.md`; recalculate them whenever an edit shifts the manuscript.
+Line references are a snapshot of the current `08_student.md`; recalculate them whenever an edit shifts the manuscript.
 
 Each visual entry provides:
 
@@ -46,8 +46,8 @@ Each visual entry provides:
 | Type | `Table` for a structured comparison or template; `Diagram` for a relationship, process, map, or timeline; `Image` for an illustrative scene, source image, or interface mockup. |
 | Page | Matching printed page number or numbers; `—` means no matching page-specific note was found. |
 | Note | Short description of the matching Pablo note; `—` means no matching page-specific note was found. |
-| Placement | Exact heading in `08_draft.md` and the position within that section. |
-| Line | Current `08_draft.md` line: insert immediately after it, or immediately before it when `Placement` says before or replace. |
+| Placement | Exact heading in `08_student.md` and the position within that section. |
+| Line | Current `08_student.md` line: insert immediately after it, or immediately before it when `Placement` says before or replace. |
 | Text–visual link | The idea in the prose that the visual must help the learner understand. |
 | Design brief | What the visual must show and what it must not imply. |
 | Format | Recommended visual form and approximate layout role. |
@@ -152,7 +152,7 @@ These requirements apply to every entry in the index.
 
 | ID | Suggested by | Priority | Type | Page | Note | Placement | Line | Text–visual link | Design brief | Format |
 |---|---|---|---|---|---|---|---|---|---|---|
-| `BD-V-001` | Pablo | Supporting | Image | 1 | add the Creative Commons Attribution-ShareAlike 4.0 licence logo. | At the Creative Commons Attribution-ShareAlike 4.0 licence statement near the front of `08_draft.md`, immediately after the licence paragraph and before the horizontal rule. | 11 | Gives the open licence a recognisable visual marker while leaving the written licence terms primary. | Use the official Creative Commons BY-SA 4.0 mark or an approved official variant, at small but legible size. Keep the written licence statement, attribution requirement, and adaptation condition beside or immediately above it. Do not redraw, recolour, distort, or use the logo as a replacement for the licence text or link. | Official licence mark with short text lockup; small inline or corner placement. |
+| `BD-V-001` | Pablo | Supporting | Image | 1 | add the Creative Commons Attribution-ShareAlike 4.0 licence logo. | At the Creative Commons Attribution-ShareAlike 4.0 licence statement near the front of `08_student.md`, immediately after the licence paragraph and before the horizontal rule. | 11 | Gives the open licence a recognisable visual marker while leaving the written licence terms primary. | Use the official Creative Commons BY-SA 4.0 mark or an approved official variant, at small but legible size. Keep the written licence statement, attribution requirement, and adaptation condition beside or immediately above it. Do not redraw, recolour, distort, or use the logo as a replacement for the licence text or link. | Official licence mark with short text lockup; small inline or corner placement. |
 | `BD-V-002` | Pablo | Supporting | Diagram | 2 | teach a critical-thinking process with scans, tips, or checkpoints. | Under `### What we stand for: accessibility, critical thinking, community, and self-sovereignty`, after the paragraph on examining claims and trade-offs. | 37 | Makes “teach how to think, not what to think” into a repeatable learner action. | Show a six-step loop: identify the claim; separate fact from preference; inspect evidence and source; compare alternatives; name a trade-off or uncertainty; form a provisional conclusion or question. The loop must allow revision rather than ending in certainty. | Horizontal process strip or circular loop; half page. |
 | `BD-V-003` | AI | Essential | Diagram | 6 | clarify Core, Custom, and Advanced boundaries and local options. | Under `### What belongs in Core, Custom, and Advanced learning`, after the three definitions and before the closing paragraph. | 185 | Clarifies the boundaries among the shared beginner path, local educator choice, and follow-on depth. | Show Blocks 1–3 inside a `Core: all learners` container; Block 4 as `Custom: educator-selected local learning`; and Advanced as a separate onward path. Use arrows to show progression, not a hierarchy of importance. Do not imply that Advanced is required for Diploma completion. | Layered pathway diagram; full width. |
 | `BD-V-004` | AI | Essential | Diagram | 6–7 | clarify module boundaries and show block timing or structure as adaptable. | Under `### How the 4-block learning path is organized`, immediately before the existing four-row table. | 191 | Gives learners a mental map of the Diploma before they enter Block 1. | Show one connected sequence: `1 Problem / Broken Money → 2 Solution / Bitcoin → 3 Action / Self-Custody → 4 Custom / Bitcoin as Money`. Put a Core bracket under Blocks 1–3 and an educator-choice marker on Block 4. Include each block's core question in short editable text. The final block must not be reduced to spending. | Four-stage roadmap; full width. |
@@ -288,7 +288,7 @@ id: BD-V-001
 suggested_by: Pablo | AI
 priority: essential | supporting | conditional
 type: Table | Diagram | Image
-source_document: workspace/08_draft.md
+source_document: workspace/08_student.md
 source_heading: Exact heading from the placement field
 insert_position: Exact before/after instruction
 source_line: Current line from the Line column
@@ -329,4 +329,4 @@ Before insertion, every visual must pass these questions:
 
 `Essential` means the concept is sufficiently relational, procedural, or misconception-prone that a visual should be planned into the Diploma. `Supporting` means the visual is useful if space and testing justify it. `Conditional` means it should be generated only after the local context, technical method, or publication decision is confirmed.
 
-This index should be revised whenever `08_draft.md` changes materially. It should remain a map from text to visual meaning, not become the production tracker for the visual files themselves.
+This index should be revised whenever `08_student.md` changes materially. It should remain a map from text to visual meaning, not become the production tracker for the visual files themselves.

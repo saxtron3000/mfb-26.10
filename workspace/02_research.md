@@ -134,7 +134,7 @@ Implementation locations:
 1. `workspace/02_research.md`: preserve the internal definitions as stakeholder evidence.
 2. `workspace/04_design.md`: use the synthesis as a purpose anchor for design decisions.
 3. `workspace/07_contents.md`: later translate the synthesis into student-facing opening material about why the Diploma exists.
-4. `workspace/05_objectives.md` and `workspace/12_assessment.md`: keep sovereignty, agency, and independent reasoning visible in objectives and evidence of learning without turning them into ideological agreement.
+4. `workspace/05_objectives.md` and `workspace/13_assessment.md`: keep sovereignty, agency, and independent reasoning visible in objectives and evidence of learning without turning them into ideological agreement.
 
 Recommended working definition:
 
@@ -686,9 +686,9 @@ Use `04_design.md` to understand design principles and assumptions.
 
 Use `05_objectives.md` to understand learning outcomes.
 
-Use `12_assessment.md` to understand evaluation of learning.
+Use `13_assessment.md` to understand evaluation of learning.
 
-Use `14_certification.md` to understand the two-part assessment prerequisite and outstanding certification-governance questions.
+Use `15_certification.md` to understand the two-part assessment prerequisite and outstanding certification-governance questions.
 
 Use `03_scope.md` to understand project workstreams and deliverables.
 

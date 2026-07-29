@@ -4,7 +4,7 @@
 
 This document is the content home for short microlearning items used in the My First Bitcoin app. It provides a structured bank for questions, reflections, retrieval practice, scenarios, and feedback across the four-block Bitcoin Diploma.
 
-It is not the complete assessment framework. Required assessment rules, passing requirements, and educator-observed practical competencies remain in `12_assessment.md`. App items may support theoretical assessment, self-evaluation, review, and preparation for educator-led learning.
+It is not the complete assessment framework. Required assessment rules, passing requirements, and educator-observed practical competencies remain in `13_assessment.md`. App items may support theoretical assessment, self-evaluation, review, and preparation for educator-led learning.
 
 Use simple, translation-ready English. Keep the Diploma Bitcoin-only, educational, and free from financial, legal, tax, accounting, compliance, or investment advice. Do not turn a named wallet, exchange, tool, or local service into a global recommendation.
 
@@ -343,7 +343,7 @@ Question-bank opportunities:
 - sequence ordering: safe, educator-approved recovery-readiness steps;
 - multiple choice: identify an unsafe backup practice;
 - scenario: select the right response when a seed phrase may have been exposed;
-- educator flag: practical recovery evidence requires direct observation under `12_assessment.md`.
+- educator flag: practical recovery evidence requires direct observation under `13_assessment.md`.
 
 ## BD-ML-B03-T06: Receiving bitcoin
 
@@ -491,7 +491,7 @@ Question-bank opportunities:
 - local scenario review;
 - learner explanation prompt for educator follow-up;
 - confidence check and next-step resource selection;
-- educator flag: the required local practical competency is assessed under `12_assessment.md` and certification eligibility under `14_certification.md`.
+- educator flag: the required local practical competency is assessed under `13_assessment.md` and certification eligibility under `15_certification.md`.
 
 ---
 

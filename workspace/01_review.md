@@ -21,9 +21,9 @@ For design principles, see `04_design.md`.
 
 For learning outcomes, see `05_objectives.md`.
 
-For assessment, see `12_assessment.md`.
+For assessment, see `13_assessment.md`.
 
-For certification, see `14_certification.md`.
+For certification, see `15_certification.md`.
 
 For project workstreams and deliverables, see `03_scope.md`.
 
@@ -219,7 +219,7 @@ There is not yet a strong visible relationship between:
 - competencies;
 - learner outcomes.
 
-Assessment evidence is addressed separately in `12_assessment.md`.
+Assessment evidence is addressed separately in `13_assessment.md`.
 
 ## 3.6.1 Inconsistent Assessment And Certificate Meaning
 
@@ -234,7 +234,7 @@ Risks include:
 - app or checklist completion being treated as proof of practical ability; and
 - certificates communicating inconsistent levels of achievement.
 
-The redesign should connect every learning objective to appropriate evidence. The complete assessment should be balanced 50% theoretical and 50% practical. The theoretical half should combine app-supported quizzes and interactive learning with educator-led touchpoints; practical competence should be directly observed. The common framework, rubrics, educator preparation, and certification prerequisite belong in `10_activities.md`, `11_guide.md`, `12_assessment.md`, and `14_certification.md`.
+The redesign should connect every learning objective to appropriate evidence. The complete assessment should be balanced 50% theoretical and 50% practical. The theoretical half should combine app-supported quizzes and interactive learning with educator-led touchpoints; practical competence should be directly observed. The common framework, rubrics, educator preparation, and certification prerequisite belong in `10_activities.md`, `12_educator.md`, `13_assessment.md`, and `15_certification.md`.
 
 ## 3.7 Lack of Measurable Outcomes
 
@@ -244,7 +244,7 @@ The current Diploma makes it difficult to determine:
 - learner progress;
 - outcome achievement.
 
-A measurable outcomes framework belongs in `05_objectives.md` and `12_assessment.md`.
+A measurable outcomes framework belongs in `05_objectives.md` and `13_assessment.md`.
 
 ## 3.8 Limited Structured Review
 
@@ -323,7 +323,7 @@ Risks include:
 - unclear boundaries between translation and localization;
 - missing language notes for difficult Bitcoin, money, custody, and safety terms.
 
-Multilingual design belongs in `04_design.md`, `03_scope.md`, and `16_spec.md`.
+Multilingual design belongs in `04_design.md`, `03_scope.md`, and `17_spec.md`.
 
 ## 3.15 Publication And Link Fragility
 
@@ -331,7 +331,7 @@ Print and PDF materials can become cluttered or fragile if they depend on too ma
 
 The redesigned publication system should keep printed materials durable and offline-usable while reserving QR codes for stable, high-value destinations.
 
-Publication rules belong in `16_spec.md`.
+Publication rules belong in `17_spec.md`.
 
 ---
 
@@ -407,4 +407,4 @@ This document intentionally does not include:
 - certification requirements;
 - publishing plans.
 
-Those belong in `04_design.md`, `05_objectives.md`, `12_assessment.md`, `14_certification.md`, and `03_scope.md`.
+Those belong in `04_design.md`, `05_objectives.md`, `13_assessment.md`, `15_certification.md`, and `03_scope.md`.

@@ -125,7 +125,7 @@ Advanced outcomes do not belong in the Core 8-hour Diploma.
 
 Status: ongoing.
 
-They should be designed module by module after the redesigned beginner Diploma is published. The candidate Advanced module titles are maintained in `17_advanced.md` and should not become Core objectives.
+They should be designed module by module after the redesigned beginner Diploma is published. The candidate Advanced module titles are maintained in `18_advanced.md` and should not become Core objectives.
 
 Advanced outcomes may include detailed Bretton Woods and geopolitical monetary history, exact node mechanics, exact mining mechanics, hash functions, mempool mechanics, transaction lifecycle details, Lightning node operations, channel management, deep non-KYC acquisition trade-offs, deeper hardware wallet security models such as open-source design, Bitcoin-only firmware, and airgapped signing, and Organizations-derived topics such as treasury, institutional custody, organizational risk, policy, sector impacts, and on-chain analytics.
 
@@ -229,10 +229,10 @@ Before objectives are final, resolve:
 Use:
 
 - `06_plan.md` for structure and content boundaries;
-- `17_advanced.md` for Advanced module titles, follow-on pathway ideas, and parked legacy content;
+- `18_advanced.md` for Advanced module titles, follow-on pathway ideas, and parked legacy content;
 - `04_design.md` for design principles and constraints;
 - `02_research.md` for evidence validation;
 - `10_activities.md` for activity design;
-- `11_guide.md` for educator facilitation;
-- `12_assessment.md` for objective-aligned evidence and the two-part assessment model;
-- `14_certification.md` for the two-part assessment prerequisite and governance questions.
+- `12_educator.md` for educator facilitation;
+- `13_assessment.md` for objective-aligned evidence and the two-part assessment model;
+- `15_certification.md` for the two-part assessment prerequisite and governance questions.

@@ -1,6 +1,6 @@
 # Bitcoin Diploma Beginner Lexicon
 
-This feedback-reviewed lexicon lists Bitcoin and Bitcoin-adjacent terms that a beginner may need explained. Line references are to `workspace/08_draft.md` (the Bitcoin Diploma). **First** is the earliest relevant appearance; **Later** lists subsequent relevant appearances. `Not present` means the term was requested in feedback but is not yet stated explicitly in the diploma.
+This feedback-reviewed lexicon lists Bitcoin and Bitcoin-adjacent terms that a beginner may need explained. Line references are to `workspace/08_student.md` (the Bitcoin Diploma). **First** is the earliest relevant appearance; **Later** lists subsequent relevant appearances. `Not present` means the term was requested in feedback but is not yet stated explicitly in the diploma.
 
 ## Block 1: Problem / Broken Money
 
