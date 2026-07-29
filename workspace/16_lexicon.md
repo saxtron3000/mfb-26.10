@@ -297,7 +297,7 @@ This feedback-reviewed lexicon lists Bitcoin and Bitcoin-adjacent terms that a b
 | Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
 | --- | --- | --- |
 | **KYC** | Identity checks required by a financial service. | First: **994**<br>Later: 1305, 1307, 1309, 1311, 1313, 1317 |
-| **No-KYC / non-KYC** | A path collecting less or no standard KYC information. | First: **1305**<br>Later: 1307, 1309, 1311, 1313, 1317 |
+| **No-KYC** (preferred; also called **non-KYC**) | A path collecting less or no standard KYC information. Use **no-KYC** throughout this curriculum; **non-KYC** is an alternative term. | First: **1305**<br>Later: 1307, 1309, 1311, 1313, 1317 |
 
 ### Circular economies
 

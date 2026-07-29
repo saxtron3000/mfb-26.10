@@ -990,7 +990,7 @@ Before using any path, compare:
 | Safety | Is an in-person meeting public and appropriate? Is support legitimate? |
 | Law and tax | Is the path lawful where you live? What records are required? |
 
-**Know your customer**, or **KYC**, describes identity checks a regulated service may require. KYC can support legal compliance and account recovery, but it creates a record connecting identity to financial activity. Non-KYC paths may offer more privacy, but can involve greater counterparty risk, complexity, price differences, or legal uncertainty.
+**Know your customer**, or **KYC**, describes identity checks a regulated service may require. KYC can support legal compliance and account recovery, but it creates a record connecting identity to financial activity. No-KYC paths may offer more privacy, but can involve greater counterparty risk, complexity, price differences, or legal uncertainty.
 
 No path is automatically best in every location. Provider-specific instruction belongs in the local Custom block and must not be treated as a global recommendation.
 
@@ -1280,7 +1280,7 @@ For in-person exchange, use a public and appropriate location, avoid carrying un
 
 ### KYC and no-KYC trade-offs where locally appropriate
 
-KYC and non-KYC pathways make different trade-offs. Neither label removes the need for careful evaluation.
+KYC and no-KYC pathways make different trade-offs. Neither label removes the need for careful evaluation.
 
 A KYC service may request a legal name, identity document, address, photograph, source-of-funds information, or other records. This may allow the service to meet local rules, connect to banks, set higher limits, or support account recovery.
 

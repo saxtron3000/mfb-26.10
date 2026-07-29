@@ -15,7 +15,7 @@ Draft references below use the current line numbers in `workspace/08_draft.md`. 
 
 ## Editorial and curriculum actions
 
-- [~] Standardize usage of “open-source” and “open source” throughout the document. Confirm the intended house style and check all occurrences.
+- [x] Standardize usage of “open-source” and “open source” throughout the document. Confirm the intended house style and check all occurrences.
   - Source: COMMENT-001; COMMENT-002 is an acknowledgment reply.
   - Draft: lines; 9, 26, 1493, 1523.
 
@@ -33,7 +33,7 @@ Draft references below use the current line numbers in `workspace/08_draft.md`. 
   - Anchor warning: both comments have duplicate OOXML range starts and attach only to ` (` in the export.
   - Draft: early context, line; 48; later definition to relocate or repeat, lines; 319–323.
 
-- [~] Verify that the early Nixon Shock passage includes enough context for the term and does not introduce unsupported historical claims.
+- [x] Verify that the early Nixon Shock passage includes enough context for the term and does not introduce unsupported historical claims.
   - Source: COMMENT-007.
   - Draft: line; 313.
 
@@ -62,7 +62,7 @@ Draft references below use the current line numbers in `workspace/08_draft.md`. 
   - Source: COMMENT-021, COMMENT-022.
   - Draft: “Deeper Dive” reference in the architecture, line; 190; current wallet introduction, lines; 693–707. No heading named “Deeper Dive” is currently present.
 
-- [~] Verify the halving explanation: exactly 210,000 blocks, with “roughly every four years” presented as an approximation rather than a fixed calendar schedule.
+- [x] Verify the halving explanation: exactly 210,000 blocks, with “roughly every four years” presented as an approximation rather than a fixed calendar schedule.
   - Source: COMMENT-020.
   - Draft: explanation, line; 532; review prompt, line; 681.
 
