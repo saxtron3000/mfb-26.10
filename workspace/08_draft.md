@@ -308,9 +308,7 @@ Money did not develop in one identical sequence everywhere. Different societies 
 
 **Representative paper:** Carrying and protecting metal was difficult. Depositories and banks issued paper claims that could be redeemed for a stated amount of metal. The paper was easier to move, but users had to trust the issuer to keep enough metal and honor redemption.
 
-**Bank and government money:** Banks issued more claims and credit. Governments created central banks and national currency systems. Money became increasingly based on institutional records and promises rather than direct possession of a commodity.
-
-**The Nixon Shock:** In 1971, the United States ended the official link between the US dollar and gold for foreign governments and central banks. Dollars could no longer be exchanged for a fixed amount of gold. Because many currencies were connected to the dollar, this helped shape the monetary system used in much of the world today.
+**Bank and government money:** Banks issued more claims and credit. Governments created central banks and national currency systems. Money became increasingly based on institutional records and promises rather than direct possession of a commodity. In many countries, national currency later became no longer redeemable for a physical asset such as gold. This separation from commodity backing is a defining feature of today’s **fiat money** (see below).
 
 **Digital money:** Much of today's money moves as digital records through banks and payment services. A card or phone does not create a new kind of money by itself. It is usually an interface to a bank deposit or another claim denominated in the national currency.
 
@@ -365,6 +363,12 @@ Inflation does not affect everyone equally. A person who holds mainly cash may l
 The rate of inflation is an average. Your personal experience may differ because your spending is not identical to the measured basket. Food, housing, transport, education, and health costs may change at different rates.
 
 **Purchasing-power check:** Choose one ordinary item in your community. Record its price today. Ask what it cost several years ago, then check a reliable record if possible. Did income change at the same rate? What other factors may explain the change?
+
+### Why the US dollar is a world reserve currency
+
+A **reserve currency** is a currency that central banks and governments hold and use for international payments. Before the First World War, the British pound played this role most strongly. The war weakened European currencies and financial centres, while the United States supplied goods and accumulated gold. This increased international use of the dollar. After the Second World War, the United States had a large economy and much of its financial capacity intact. The 1944 Bretton Woods Agreement then organized a postwar system in which many currencies were linked to the dollar and the dollar was officially linked to gold, placing the dollar at the centre of international payments.
+
+In 1971, President Nixon ended the official exchange of dollars for gold by foreign governments and central banks, helping bring the Bretton Woods system to an end. The dollar nevertheless remained widely used because of its established role in trade and finance, the size of the U.S. economy, and the depth of U.S. financial markets. It remains the leading reserve currency today, although central banks also hold other currencies and its share can change over time.
 
 ### CBDCs as a beginner fiat-system example where appropriate
 
