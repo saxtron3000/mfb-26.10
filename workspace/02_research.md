@@ -1,5 +1,3 @@
-# 02_research.md
-
 # Bitcoin Diploma Redesign Research Framework
 
 ## Purpose
@@ -158,439 +156,211 @@ Research and publication caution:
 - Strategic, operational, investment, treasury, legal, policy, and sector-specific Organizations material should become Advanced source material, not beginner Core content.
 - Beginner use should favor guided questions and scenario prompts over institutional recommendations or predictions.
 
-# Section 1: Adult Learning Research
+# AI Research Prompt Bank
 
-## Key Questions
+## AI research tool directory
 
-What does adult learning research say about lecture-based learning?
+Use these tools to discover, map, read, compare, and synthesize research; they are not evidence by themselves. For every source used in a paper, open the original record or full text, confirm that it is peer reviewed where required, check the publication details and DOI, and save the exact citation.
 
-Answer:
+### Start with scholarly search and evidence synthesis
 
-Source:
+- [ ] [Consensus](https://consensus.app/)
+- [ ] [Elicit](https://elicit.com/)
+- [ ] [Scite](https://scite.ai/)
+- [ ] [Google Scholar](https://scholar.google.com/)
+- [ ] [Semantic Scholar](https://www.semanticscholar.org/)
+- [ ] [OpenAlex](https://openalex.org/)
+- [ ] [Perplexity](https://www.perplexity.ai/)
+- [ ] [SciSpace](https://scispace.com/)
+- [ ] [Keenious](https://www.keenious.com/)
+- [ ] [Undermind](https://www.undermind.ai/)
 
+### Find related papers, citation trails, and research gaps
+
+- [ ] [ResearchRabbit](https://www.researchrabbit.ai/)
+- [ ] [Connected Papers](https://www.connectedpapers.com/)
+- [ ] [Litmaps](https://www.litmaps.com/)
+- [ ] [Inciteful](https://inciteful.xyz/)
+- [ ] [The Lens](https://www.lens.org/)
+- [ ] [Dimensions](https://app.dimensions.ai/)
+- [ ] [Google Scholar cited-by search](https://scholar.google.com/)
+
+### Read, interrogate, and extract from papers
+
+- [ ] [NotebookLM](https://notebooklm.google.com/)
+- [ ] [Google Gemini](https://gemini.google.com/)
+- [ ] [ChatGPT](https://chatgpt.com/)
+- [ ] [Claude](https://claude.ai/)
+- [ ] [SciSpace Copilot](https://scispace.com/)
+- [ ] [Explainpaper](https://www.explainpaper.com/)
+- [ ] [Humata](https://www.humata.ai/)
+- [ ] [AskYourPDF](https://askyourpdf.com/)
+
+### Search authoritative and open research sources directly
+
+- [ ] [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+- [ ] [PubMed Central](https://pmc.ncbi.nlm.nih.gov/)
+- [ ] [ERIC](https://eric.ed.gov/)
+- [ ] [DOAJ](https://doaj.org/)
+- [ ] [CORE](https://core.ac.uk/)
+- [ ] [BASE](https://www.base-search.net/)
+- [ ] [OpenAIRE Explore](https://explore.openaire.eu/)
+- [ ] [Crossref Metadata Search](https://search.crossref.org/)
+- [ ] [Cochrane Library](https://www.cochranelibrary.com/)
+
+### Institutional tools, if access is available
+
+- [ ] [Scopus AI](https://www.scopus.com/)
+- [ ] [Web of Science Research Assistant](https://www.webofscience.com/)
+- [ ] [ProQuest](https://www.proquest.com/)
+- [ ] [JSTOR](https://www.jstor.org/)
+
+### Keep sources, notes, and citations organised
+
+- [ ] [Zotero](https://www.zotero.org/)
+- [ ] [ZoteroBib](https://zbib.org/)
+- [ ] [Paperpile](https://paperpile.com/)
+- [ ] [Mendeley Reference Manager](https://www.mendeley.com/reference-management/reference-manager)
+
+Suggested workflow: start with Consensus, Elicit, Google Scholar, Semantic Scholar, and ERIC; use ResearchRabbit or Connected Papers to follow citation trails; use Scite to check whether important findings are supported or disputed; then save verified sources in Zotero. Use ChatGPT, NotebookLM, Gemini, or Claude only with the papers you have selected and uploaded, and require citations back to those papers.
+
+Each block below is a complete prompt: copy one whole block into an academic research LLM. They are designed to build a reliable evidence base for the Diploma, not to generate a finished paper. Verify every cited source against its original record or full text before using it.
+
+## 1. Programme architecture, pacing, and participation
+
+```text
+You are conducting a rapid evidence review for My First Bitcoin's Bitcoin Diploma: a global, community-led, beginner, Bitcoin-only education programme. The proposed course is approximately eight hours and is delivered by community educators in varied languages, cultures, ages, and connectivity conditions. This is curriculum research, not financial, legal, tax, accounting, compliance, or investment advice. Do not recommend named commercial wallets, exchanges, or local services.
+
+Research question: What does the best available evidence say about designing the overall structure, duration, pacing, and participation pattern of a short beginner community-learning programme? Compare lecture, discussion, retrieval practice, demonstration, guided practice, peer learning, and reflection. Examine completion, retention, cognitive load, and learning outcomes without assuming that shorter is always better. Draw useful comparisons from adult education, financial literacy, digital skills, technology education, and civic/community education.
+
+Approach: Prioritise systematic reviews, meta-analyses, peer-reviewed studies, established academic books, and university, government, or intergovernmental education bodies. Prefer research published since 2015, while including older foundational work if still influential. Separate causal evidence, association, practitioner guidance, and your own inference. Do not invent citations, DOIs, quotations, findings, or links.
+
+Return exactly:
+1. A 200-word evidence summary.
+2. A table of 6–10 verifiable sources with full citation, year, source type, DOI or stable link, population/context, and the precise finding used.
+3. The strongest evidence limitations and disagreements.
+4. A proposed evidence-informed eight-hour structure, with the reason for each component.
+5. Five practical recommendations labelled Core, Custom, or Educator Guide.
+6. A confidence rating (high, medium, or low) for each recommendation.
+```
+
+## 2. Curriculum coherence and assessment
+
+```text
+You are conducting a rapid evidence review for My First Bitcoin's Bitcoin Diploma: a global, community-led, beginner, Bitcoin-only education programme. The proposed course is approximately eight hours and is delivered by community educators in varied languages, cultures, ages, and connectivity conditions. This is curriculum research, not financial, legal, tax, accounting, compliance, or investment advice. Do not recommend named commercial wallets, exchanges, or local services.
+
+Research question: What makes a short beginner curriculum coherent, teachable by educators with varied experience, and aligned across learning objectives, activities, and assessment? Evaluate competency-based education and constructive alignment. Identify an evidence-informed balance of recall, conceptual understanding, application, synthesis, and directly observed performance. Examine rubrics, assessor calibration, moderation, feedback, reassessment, and the reliability risks of educator-led practical assessment.
+
+Approach: Prioritise systematic reviews, meta-analyses, peer-reviewed studies, established academic books, and university, government, or intergovernmental education bodies. Prefer research published since 2015, while including older foundational work if still influential. Separate direct evidence from reasonable design inference. Do not invent citations, DOIs, quotations, findings, or links.
+
+Return exactly:
+1. A 200-word evidence summary.
+2. A table of 6–10 verifiable sources with full citation, year, source type, DOI or stable link, population/context, and the precise finding used.
+3. The strongest evidence limitations and disagreements.
+4. A recommended assessment model for an eight-hour beginner Diploma, including what should be assessed by quiz, observation, discussion, or practical task.
+5. Five practical recommendations labelled Core, Custom, Educator Guide, or Assessment.
+6. A confidence rating (high, medium, or low) for each recommendation.
+```
+
+## 3. Educator support and activity design
+
+```text
+You are conducting a rapid evidence review for My First Bitcoin's Bitcoin Diploma: a global, community-led, beginner, Bitcoin-only education programme. The proposed course is approximately eight hours and is delivered by community educators in varied languages, cultures, ages, and connectivity conditions. This is curriculum research, not financial, legal, tax, accounting, compliance, or investment advice. Do not recommend named commercial wallets, exchanges, or local services.
+
+Research question: What educator-guide features, preparation, and support systems improve teaching consistency and learner outcomes in distributed community programmes? What evidence supports active learning, experiential learning, demonstration before abstraction, guided practice, peer discussion, and Presentation–Practice–Production (PPP), including their limitations? Identify what an educator needs before, during, and after each activity: timing, materials, safety boundaries, misconceptions, questions, differentiation, offline alternatives, and assessment evidence.
+
+Approach: Prioritise systematic reviews, meta-analyses, peer-reviewed studies, established academic books, and university, government, or intergovernmental education bodies. Prefer research published since 2015, while including older foundational work if still influential. Separate direct evidence from reasonable design inference. Do not invent citations, DOIs, quotations, findings, or links.
+
+Return exactly:
+1. A 200-word evidence summary.
+2. A table of 6–10 verifiable sources with full citation, year, source type, DOI or stable link, population/context, and the precise finding used.
+3. The strongest evidence limitations and disagreements.
+4. A minimum viable educator-guide specification for this Diploma.
+5. Five practical recommendations labelled Core, Custom, or Educator Guide.
+6. A confidence rating (high, medium, or low) for each recommendation.
+```
+
+## 4. Global learners, localisation, translation, and inclusion
+
+```text
+You are conducting a rapid evidence review for My First Bitcoin's Bitcoin Diploma: a global, community-led, beginner, Bitcoin-only education programme. The proposed course is approximately eight hours and is delivered by community educators in varied languages, cultures, ages, and connectivity conditions. This is curriculum research, not financial, legal, tax, accounting, compliance, or investment advice. Do not recommend named commercial wallets, exchanges, or local services.
+
+Research question: For a global beginner curriculum, which elements should be standardised to protect accuracy and comparable outcomes, and which should be locally Customised for language, examples, delivery, discussion, and practice? Identify evidence-informed approaches for plain-language source writing, translation review, localisation rather than literal translation, accessible design, varied literacy and digital-confidence levels, teenagers, adults, and older adults. Address AI-assisted translation/customisation risks: factual error, bias, privacy, source opacity, translation drift, loss of pedagogical intent, and inconsistent assessment.
+
+Approach: Prioritise systematic reviews, meta-analyses, peer-reviewed studies, established academic books, accessibility standards, and university, government, or intergovernmental education bodies. Prefer research published since 2015, while including older foundational work if still influential. Separate direct evidence from reasonable design inference. Do not invent citations, DOIs, quotations, findings, or links.
+
+Return exactly:
+1. A 200-word evidence summary.
+2. A table of 6–10 verifiable sources with full citation, year, source type, DOI or stable link, population/context, and the precise finding used.
+3. The strongest evidence limitations and disagreements.
+4. A two-column list: elements that must remain Core and elements that may be Custom.
+5. Five practical recommendations labelled Core, Custom, Educator Guide, or Assessment.
+6. A confidence rating (high, medium, or low) for each recommendation.
+```
+
+## 5. Delivery modes, offline access, print, and QR codes
+
+```text
+You are conducting a rapid evidence review for My First Bitcoin's Bitcoin Diploma: a global, community-led, beginner, Bitcoin-only education programme. The proposed course is approximately eight hours and is delivered by community educators in varied languages, cultures, ages, and connectivity conditions. This is curriculum research, not financial, legal, tax, accounting, compliance, or investment advice. Do not recommend named commercial wallets, exchanges, or local services.
+
+Research question: Compare in-person, online cohort, self-paced, offline print/PDF, online PDF, web/app, hybrid, and cross-modal delivery for beginner adult education. Which learner supports, pacing mechanisms, interactions, accessibility measures, and evidence of learning must change by delivery mode while Core outcomes remain stable? Include low-connectivity and low-technology constraints. Also identify research, usability guidance, or accessibility standards that should govern QR-code use in printed learner resources: what must remain complete in print/PDF, when QR codes help, and how to avoid clutter, unstable destinations, or exclusion.
+
+Approach: Prioritise systematic reviews, meta-analyses, peer-reviewed studies, established academic books, usability and accessibility standards, and university, government, or intergovernmental education bodies. Prefer research published since 2015, while including older foundational work if still influential. Separate direct evidence from reasonable design inference. Do not invent citations, DOIs, quotations, findings, or links.
+
+Return exactly:
+1. A 200-word evidence summary.
+2. A table of 6–10 verifiable sources with full citation, year, source type, DOI or stable link, population/context, and the precise finding used.
+3. The strongest evidence limitations and disagreements.
+4. A compact comparison table for each delivery mode: keep stable, adapt, and avoid.
+5. Five practical recommendations labelled Core, Custom, Educator Guide, Publication, or Assessment.
+6. A confidence rating (high, medium, or low) for each recommendation.
+```
+
+## 6. Bitcoin education and comparable-programme landscape
+
+```text
+You are conducting a rapid evidence review for My First Bitcoin's Bitcoin Diploma: a global, community-led, beginner, Bitcoin-only education programme. The proposed course is approximately eight hours and is delivered by community educators in varied languages, cultures, ages, and connectivity conditions. This is curriculum research, not financial, legal, tax, accounting, compliance, or investment advice. Do not recommend named commercial wallets, exchanges, or local services.
+
+Research question: Map publicly documented beginner Bitcoin education programmes and the most relevant comparable programmes in financial literacy, digital skills, technology training, entrepreneurship, civic/community education, and open-source education. For each relevant example, identify target learner, duration, structure, activity types, assessment, educator support, delivery mode, and publicly documented outcomes or limitations. Extract transferable curriculum lessons, clearly distinguish documented evidence from marketing claims, and state where Bitcoin-specific research is absent. Do not rank programmes or make commercial recommendations.
+
+Approach: Prefer peer-reviewed research and independent evaluations. Use official programme documentation only to describe a programme's stated design, not to claim effectiveness unless independently supported. Include established academic books, university research centres, and government or intergovernmental education bodies where relevant. Prefer evidence published since 2015. Do not invent citations, DOIs, quotations, findings, or links.
+
+Return exactly:
+1. A 200-word landscape summary.
+2. A comparison table of 8–12 relevant programmes or evidence sources, with link, learner, duration, design, assessment, and strength of evidence.
+3. A separate table of 6–10 peer-reviewed or independent-evaluation sources with full citation, year, DOI or stable link, and precise finding.
+4. The strongest evidence limitations and gaps, especially Bitcoin-specific gaps.
+5. Five transferable recommendations labelled Core, Custom, Educator Guide, Publication, or Assessment.
+6. A confidence rating (high, medium, or low) for each recommendation.
+```
+
+## Research record template
+
+Capture results in this form so decisions remain traceable.
+
+```text
+Decision:
+Question/prompt used:
+Date:
+Model/tool used:
+
+Verified evidence supporting:
+Verified evidence challenging:
+Evidence limitations and gaps:
 Confidence:
-
----
-
-What role does active participation play in learning?
-
-Answer:
-
-Source:
-
-Confidence:
-
----
-
-What increases completion rates?
-
-Answer:
-
-Source:
-
-Confidence:
-
----
-
-What reduces dropout rates?
-
-Answer:
-
-Source:
-
-Confidence:
-
----
-
-# Section 2: Curriculum Design Research
-
-What makes a curriculum coherent?
-
-Answer:
-
-Source:
-
----
-
-What makes a curriculum teachable by different educators?
-
-Answer:
-
-Source:
-
----
-
-What does research say about competency-based education?
-
-Answer:
-
-Source:
-
----
-
-How should knowledge recall, applied understanding, synthesis, and directly observed performance be balanced in a beginner competency assessment?
-
-Answer:
-
-Source:
-
----
-
-What assessment rubrics, assessor-calibration methods, and moderation practices improve reliability across community educators?
-
-Answer:
-
-Source:
-
----
-
-# Section 3: Duration & Attrition
-
-What evidence exists regarding shorter learning experiences?
-
-Answer:
-
-Source:
-
----
-
-What duration appears most effective for adult community education?
-
-Answer:
-
-Source:
-
----
-
-What duration is used by comparable programs?
-
-Program:
-
-Duration:
-
-Source:
-
----
-
-# Section 4: Educator Support Systems
-
-What makes an educator guide effective?
-
-Answer:
-
-Source:
-
----
-
-What support structures improve teaching consistency?
-
-Answer:
-
-Source:
-
----
-
-# Section 5: Activity-Based Learning
-
-What evidence supports active learning?
-
-Answer:
-
-Source:
-
----
-
-What evidence supports experiential learning?
-
-Answer:
-
-Source:
-
----
-
-What evidence supports PPP (Presentation, Practice, Production)?
-
-Answer:
-
-Source:
-
----
-
-# Section 6: Online vs In-Person And Delivery Branches
-
-What learning outcomes improve in-person?
-
-Answer:
-
-Source:
-
----
-
-What learning outcomes improve online?
-
-Answer:
-
-Source:
-
----
-
-What must change between offline print/PDF, online PDF, online cohort, self-paced, web, app, and hybrid or cross-modal delivery while preserving the same Core outcomes?
-
-Answer:
-
-Source:
-
----
-
-Which delivery modes require different evidence of learning, educator support, or learner pacing?
-
-Answer:
-
-Source:
-
----
-
-# Section 7: Bitcoin Learning Landscape
-
-## Comparable Programs
-
-Program:
-
-Strengths:
-
-Weaknesses:
-
-Lessons:
-
----
-
-Program:
-
-Strengths:
-
-Weaknesses:
-
-Lessons:
-
----
-
-# Section 8: Adjacent Programs
-
-Research:
-
-- Financial literacy
-- Entrepreneurship
-- Technology training
-- Community education
-- Open-source education
-
-Lessons:
-
----
-
-# Section 9: Learner Research
-
-Why do learners enroll?
-
-Evidence:
-
----
-
-Why do learners quit?
-
-Evidence:
-
----
-
-What do learners struggle with?
-
-Evidence:
-
----
-
-# Section 10: Educator Research
-
-What do educators find difficult?
-
-Evidence:
-
----
-
-What support would educators use?
-
-Evidence:
-
----
-
-# Section 11: Localization & AI
-
-Which elements should remain standardized globally?
-
-Answer:
-
----
-
-Which elements should be adaptable?
-
-Answer:
-
----
-
-What risks exist with AI customization?
-
-Answer:
-
----
-
-# Section 12: Cross-Cultural Research
-
-Which concepts appear culturally universal?
-
-Evidence:
-
----
-
-Which concepts are culturally sensitive?
-
-Evidence:
-
----
-
-Which examples do not translate well globally?
-
-Evidence:
-
----
-
-# Section 13: Multilingual Research
-
-Which source-writing practices improve translation quality?
-
-Evidence:
-
----
-
-Which editorial checks best preserve simple language, tone, style, and meaning when an English-first curriculum is translated?
-
-Evidence:
-
----
-
-Which Bitcoin concepts are difficult to translate?
-
-Evidence:
-
----
-
-Which concepts require localization rather than translation?
-
-Evidence:
-
----
-
-Common translation failures:
-
-Evidence:
-
----
-
-Which concepts require local expert explanation rather than direct translation?
-
-Evidence:
-
----
-
-# Section 14: Multi-Generational Research
-
-What works best for teenagers?
-
-Evidence:
-
----
-
-What works best for adults?
-
-Evidence:
-
----
-
-What works best for older adults?
-
-Evidence:
-
----
-
-What technological assumptions create barriers?
-
-Evidence:
-
----
-
-# Section 15: Accessibility & Inclusion
-
-What literacy level should the Diploma target?
-
-Evidence:
-
----
-
-What barriers exist for low-connectivity learners?
-
-Evidence:
-
----
-
-What barriers exist for low-technology learners?
-
-Evidence:
-
----
-
-# Section 16: Decision Validation
-
-## Decision
-
-Evidence Supporting:
-
-Evidence Challenging:
-
-Confidence:
-
 Recommendation:
-
----
-
-## Decision
-
-Evidence Supporting:
-
-Evidence Challenging:
-
-Confidence:
-
-Recommendation:
+Core implications:
+Custom implications:
+Educator Guide implications:
+Assessment implications:
+Follow-up needed:
+```
 
 ---
 
 # Section 17: Publication, Print, And QR Restraint
 
-How many QR codes can a printed learner resource use before the page becomes cluttered or the resource becomes fragile?
-
-Evidence:
-
----
-
-Which destinations are stable enough to justify QR codes in print?
-
-Evidence:
-
----
-
-What should remain fully available offline in the print or PDF version?
-
-Evidence:
-
----
+Research on print, offline access, and QR-code restraint is included in prompt 5 above.
 
 # Final Recommendations
 
