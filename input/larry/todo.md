@@ -12,6 +12,7 @@ Draft references below use the current line numbers in `workspace/08_draft.md`. 
 - `[?] Decision`: requires the curriculum team to decide before editing.
 - `[~] Verify`: the draft or a reply suggests this may already be addressed; confirm before closing.
 - `[!] Anchor warning`: the comment’s OOXML anchor is malformed or non-lexical.
+- `[ ] Done` : complete
 
 ## Editorial and curriculum actions
 
@@ -19,16 +20,16 @@ Draft references below use the current line numbers in `workspace/08_draft.md`. 
   - Source: COMMENT-001; COMMENT-002 is an acknowledgment reply.
   - Draft: lines; 9, 26, 1493, 1523.
 
-- [~] Decide whether “digital assets” should be replaced with “tokens” in the Bitcoin-only explanation. Check that the final wording remains clear and translation-ready.
+- [x] Decide whether “digital assets” should be replaced with “tokens” in the Bitcoin-only explanation. Check that the final wording remains clear and translation-ready.
   - Source: COMMENT-003; COMMENT-004 is an acknowledgment reply.
   - Draft: line; 24.
 
-- [ ] Define “fiat” before its first learner-facing use, or remove/defer early uses until the definition appears.
+- [x] Define “fiat” before its first learner-facing use, or remove/defer early uses until the definition appears.
   - Source: COMMENT-005, COMMENT-006.
   - Draft: early uses, lines; 48, 66, 86; current definition, lines; 319–323.
   - This include the title of Block 1 and must be made throughout the project's structure.
 
-- [ ] [Anchor warning] Add a visually distinct early breakout definition of “fiat” so learners encounter the term with context before later technical discussion.
+- [x] [Anchor warning] Add a visually distinct early breakout definition of “fiat” so learners encounter the term with context before later technical discussion.
   - Source: COMMENT-008, COMMENT-009.
   - Anchor warning: both comments have duplicate OOXML range starts and attach only to ` (` in the export.
   - Draft: early context, line; 48; later definition to relocate or repeat, lines; 319–323.
@@ -37,15 +38,15 @@ Draft references below use the current line numbers in `workspace/08_draft.md`. 
   - Source: COMMENT-007.
   - Draft: line; 313.
 
-- [ ] Decide whether to add a short Cantillon effect section after the current monetary discussion. If added, define the concept simply and keep it distinct from investment advice.
+- [x] Decide whether to add a short Cantillon effect section after the current monetary discussion. If added, define the concept simply and keep it distinct from investment advice.
   - Source: COMMENT-012.
   - Draft: current monetary discussion and suggested insertion point, lines; 355–365, especially line; 363.
 
-- [?] Review the CBDC section’s placement and framing: move it later if appropriate, then decide how strongly to describe surveillance, programmable restrictions, confiscation, and limits by category, time, or geography. Validate wording with current, local, reliable sources.
+- [x] Review the CBDC section’s placement and framing: move it later if appropriate, then decide how strongly to describe surveillance, programmable restrictions, confiscation, and limits by category, time, or geography. Validate wording with current, local, reliable sources.
   - Source: COMMENT-013.
   - Draft: lines; 369–390, especially design trade-offs at lines; 373–377.
 
-- [?] Decide whether the questions and review prompts should be retained, shortened, or adapted for older adult learners and different learning contexts.
+- [x] Decide whether the questions and review prompts should be retained, shortened, or adapted for older adult learners and different learning contexts.
   - Source: COMMENT-014.
   - Draft: Block 1 review, lines; 408–426.
 
@@ -58,7 +59,7 @@ Draft references below use the current line numbers in `workspace/08_draft.md`. 
   - Note: the draft contains inserted sections in this area; verify the resulting flow rather than assuming the comments are fully resolved.
   - Draft: early double-spend sequence, lines; 456–481; decentralization and terminology, lines; 500–518 and 578–601.
 
-- [~] Verify the placement and scope of the “Deeper Dive” section and confirm that the basic wallet introduction appears early enough to support later terms such as keys, wallets, nodes, and miners.
+- [x] Verify the placement and scope of the “Deeper Dive” section and confirm that the basic wallet introduction appears early enough to support later terms such as keys, wallets, nodes, and miners.
   - Source: COMMENT-021, COMMENT-022.
   - Draft: “Deeper Dive” reference in the architecture, line; 190; current wallet introduction, lines; 693–707. No heading named “Deeper Dive” is currently present.
 
@@ -66,7 +67,7 @@ Draft references below use the current line numbers in `workspace/08_draft.md`. 
   - Source: COMMENT-020.
   - Draft: explanation, line; 532; review prompt, line; 681.
 
-- [ ] Standardize the terminology for KYC pathways. Choose either “no-KYC” / “non-KYC” according to the lexicon and apply it consistently in headings and body text.
+- [x] Standardize the terminology for KYC pathways. Choose either “no-KYC” / “non-KYC” according to the lexicon and apply it consistently in headings and body text.
   - Source: COMMENT-023; COMMENT-024 is an acknowledgment reply.
   - Draft: earlier terminology, line; 1011; heading and comparison, lines; 1322–1334.
 

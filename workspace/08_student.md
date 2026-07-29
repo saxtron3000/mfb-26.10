@@ -21,7 +21,8 @@ My First Bitcoin is a nonprofit education organization that began in El Salvador
 The project began with informal gatherings in San Salvador in 2021. The 90-minute introduction moved from what money is to how Bitcoin works, then gave the learner practical experience sending and receiving sats with a Lightning wallet. Within two months, the project was teaching hundreds of learners each month.
 
 In 2022, the first Bitcoin Diploma cohort began in a public school in El Salvador. The curriculum was later published as an open-source resource, enabling educators around the world to translate, adapt, and teach it while sharing a common educational foundation.https://github.com/MyFirstBitcoin/Education-Network/tree/main/OS%20Everything/Bitcoin%20Education%20-%20Getting%20Started
-Our work is independent and community driven. It is also Bitcoin-only. This means that the Diploma focuses on Bitcoin, not on trading or promoting other digital assets. It does not ask you to accept a belief. It gives you concepts, questions, and practical safety knowledge so you can form your own conclusions.
+
+Our work is independent, community-driven, and Bitcoin-only. We focus on financial literacy, careful thinking, and practical safety—not trading, speculation, or promoting other tokens. We do not ask you to accept a belief. Instead, we provide concepts, questions, and practical knowledge so you can form your own conclusions.
 
 ### Our mission: independent, open-source Bitcoin education
 
@@ -1403,9 +1404,22 @@ You now have a foundation. Protect it by moving slowly.
 5. **Study before increasing risk.** Learn more about self-custody, recovery, privacy, and inheritance before holding a meaningful amount.
 6. **Find a responsible community.** Look for educators who welcome questions, explain trade-offs, and never ask for secret information.
 7. **Continue with advanced learning.** Choose a topic because it supports a real goal, not because online attention makes it feel urgent.
-8. **Contribute.** Share feedback, improve a translation, support an educator, or help another learner understand a concept safely.
+8. **Contribute.** Help improve the Diploma, support the learning community, or take the next step toward becoming an educator.
 
 One safe next step is enough. You do not need to perform every possible Bitcoin action immediately.
+
+### Contribute to My First Bitcoin
+
+Choose a way to help and use the official form to get started:
+
+- **Proofread:** report unclear wording, errors, or translation improvements.
+- **Volunteer:** offer time or skills to support the Diploma, educators, or local learning communities.
+- **Share feedback:** tell My First Bitcoin what worked, what was missing, or what could be safer or clearer.
+- **Sign up for the Educator Training Program (ETP):** register your interest in learning to teach the Bitcoin Diploma.
+
+[Proofread, volunteer, share feedback, or sign up for ETP](https://forms.myfirstbitcoin.org/)
+
+Use the official form only. Do not include seed phrases, private keys, wallet balances, or other sensitive personal or security information in a submission.
 
 ### A safety reminder
 
