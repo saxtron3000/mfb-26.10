@@ -503,6 +503,12 @@ Decentralization is not the same as equal influence. Mining equipment, technical
 
 Decentralization also creates costs. Coordination can be slower. Users must verify information and take more responsibility. There is no central support desk for the Bitcoin network. These trade-offs are part of the design, not accidental defects that can be removed without changing the system.
 
+### Digital signatures
+
+Digital signatures are one of the key parts of Bitcoin's design described in the whitepaper. In Bitcoin, a wallet uses a private key to create a digital signature that authorizes a transaction. A wallet is usually an application that manages the keys and creates these signatures for the user. Only the holder of the required private key can authorize the spend; the network can verify the signature without learning the private key itself.
+
+This allows a person to control bitcoin without asking a bank or other central operator for permission. It also means that control of the private key is critical: anyone who obtains it can usually authorize a spend, while a lost key may make the bitcoin irretrievable.
+
 ### Peer-to-peer transfer
 
 **Peer-to-peer** means that participants interact through a network without requiring a central coordinator. A Bitcoin user can create and sign a transaction, then broadcast it to the network. The recipient does not need an account at the sender's bank because Bitcoin itself provides the common settlement system.
@@ -519,7 +525,7 @@ Peer-to-peer transfer can be useful when people are in different places or use d
 
 Bitcoin works because different participants perform different roles.
 
-**Users** receive, hold, and send bitcoin. A user may control their own keys or use a custodian. Users give the network economic meaning by choosing whether to accept bitcoin and which rules or services they trust.
+**Users** receive, hold, and send bitcoin. A user may control their own keys held in a wallet or use a custodian. Users give the network economic meaning by choosing whether to accept bitcoin and which rules or services they trust.
 
 **Nodes** run Bitcoin software and independently verify the rules. A full node checks that transactions have valid signatures, that bitcoin have not already been spent, that blocks satisfy proof of work, and that new bitcoin follow the issuance schedule. Nodes share valid data with peers and reject invalid data.
 
@@ -644,19 +650,17 @@ The Genesis Block and the 2008 financial crisis give Bitcoin important historica
 
 At the end of this timeline is the event that made Bitcoin possible: in October 2008, Satoshi Nakamoto announced the Bitcoin whitepaper. It proposed a practical solution to a problem that had challenged digital-money designers for decades—how to make online payments directly between people while preventing double spending without putting a central intermediary in control.
 
-### Personal responsibility as bridge to self-custody
+### Participant empowerment, risk, and responsibility
 
-Bitcoin allows a person to control funds without asking a bank for permission. That ability changes who is responsible for security.
+Bitcoin's public rules, peer-to-peer network, and digital signatures give participants meaningful roles. Users can choose to receive, hold, and send bitcoin; nodes can independently verify the rules; miners can propose blocks; and developers can propose software changes. No single role controls the network for everyone.
 
-In a bank account, the institution protects credentials, keeps records, reverses some errors, and may restore account access. It also controls the account and can apply its own rules.
+These properties can empower participants, but they also place more responsibility on them. Without a central authority to approve transactions, recover access, or reverse many errors, each person must understand the role and risks they accept.
 
-In Bitcoin self-custody, the user controls the keys. No company can freeze a correctly controlled on-chain balance. No company can restore a lost seed phrase either.
+For a person who chooses self-custody, control of the keys brings direct control of bitcoin. No company can freeze a correctly controlled on-chain balance. No company can restore a lost seed phrase either.
 
-Self-custody is therefore not just a technical feature. It is a shift in responsibility. The user must protect backups, verify addresses, understand wallet behavior, and create a recovery plan.
+Self-custody is therefore not just a technical feature. It requires protecting backups, verifying addresses, understanding wallet behavior, and creating a recovery plan. The next block explains how to hold and use bitcoin carefully, including how to manage these risks and responsibilities.
 
-Personal responsibility does not mean acting alone or refusing help. It means understanding which trust you accept and which risks you control. A cautious learner can use education, peer review, documented procedures, and small tests without giving anyone access to secret information.
-
-The next block explains how wallets and keys put this responsibility into practice.
+Personal responsibility does not mean acting alone or refusing help. A cautious learner can use education, peer review, documented procedures, and small tests without giving anyone access to secret information.
 
 ### Review: how does Bitcoin respond to fiat problems?
 
