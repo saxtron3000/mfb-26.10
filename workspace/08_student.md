@@ -12,7 +12,7 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
 
 ---
 
-## 1. Welcome To The Bitcoin Diploma
+## Welcome To The Bitcoin Diploma
 
 ### About Us
 
@@ -80,7 +80,7 @@ You do not need to buy bitcoin to complete this Diploma. You also do not need to
 
 ---
 
-## 2. How This Diploma Works
+## How This Diploma Works
 
 ### What learners will be able to explain and demonstrate by the end
 
@@ -215,7 +215,7 @@ Each block is designed for approximately two hours of learning, including discus
 
 ---
 
-## 3. Block 1: Problem / Broken Money
+## 1. Problem / Broken Money
 
 **Learner promise:** You will understand the money problems Bitcoin responds to.
 
@@ -428,7 +428,7 @@ The next block examines Bitcoin's attempt to create a different set of monetary 
 
 ---
 
-## 4. Block 2: Solution / Bitcoin
+## 2. Solution / Bitcoin
 
 **Learner promise:** You will understand why Bitcoin was created and what makes it different.
 
@@ -679,7 +679,7 @@ Pause and consider how Bitcoin changes the trust model: how do public rules, fin
 
 ---
 
-## 5. Block 3: Action / Self-Custody
+## 3. Action / Self-Custody
 
 **Learner promise:** You will understand what responsibility looks like when using and securing Bitcoin.
 
@@ -1036,7 +1036,7 @@ Pause and consider what direct control would require from you: could you protect
 
 ---
 
-## 6. Block 4: Custom / Bitcoin As Money
+## 4. Custom / Bitcoin As Money
 
 **Learner promise:** You will see how Bitcoin can function as money in your local context.
 
@@ -1401,7 +1401,7 @@ Pause and consider the local example you studied: what real need did it address,
 
 ---
 
-## 7. Back Of Diploma: Next Steps
+## Next Steps
 
 ### A short “What now?” next-steps list
 
