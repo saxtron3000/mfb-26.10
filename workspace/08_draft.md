@@ -318,7 +318,7 @@ This history shows repeated trade-offs. Convenience increased, but users often b
 
 ### Fiat money
 
-**Fiat money** is money issued under state authority that is not redeemable for a fixed amount of a scarce commodity. The word *fiat* means “let it be done” or “by decree.” National laws recognize the currency for payments, taxes, and the settlement of debts.
+**Fiat money** is currency issued under government authority, usually through a central bank, that is not redeemable for a fixed amount of a commodity such as gold. The word fiat is Latin for “let it be done,” often understood as “by decree.” A country’s laws typically designate its currency as legal tender and require it for the payment of taxes, although the exact rules for accepting payments and settling debts vary by jurisdiction.
 
 Fiat money works because people, businesses, banks, and governments accept it. Network effects reinforce this acceptance: people want the currency because other people use it and prices are stated in it.
 
