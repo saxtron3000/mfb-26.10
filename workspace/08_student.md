@@ -42,6 +42,10 @@ This approach matters because money affects every person. People should be able 
 
 **Self-sovereignty** means having meaningful control over your own choices and resources. With Bitcoin, greater control can reduce dependence on institutions. It also creates greater personal responsibility. Control without knowledge can be dangerous, so practical safety is a central part of this Diploma.
 
+### Learn with the My First Bitcoin app
+
+The My First Bitcoin app is your companion for this Diploma. It supports the learning, review, and quizzes that accompany each block, while this book, your educator, and group activities help you discuss ideas and practise safely. Download the app at [myfirstbitcoin.org](https://myfirstbitcoin.org/) before the course begins if you can, then follow your educator's instructions for using it during the Diploma.
+
 ### Why this Diploma exists
 
 Most people use money before they learn how money works. They may earn it, save it, borrow it, and spend it without studying who issues it, how its supply changes, or why its purchasing power changes.
@@ -130,6 +134,12 @@ During discussion:
 Your assessment has two equally important parts: theoretical understanding and practical competency. The My First Bitcoin app supports most of the theoretical half through learning and quizzes. Your educator carries out short theoretical touchpoints through activities, games, discussions, and role-plays, and evaluates the practical half through observed skills. These are opportunities to show what you understand and can do, and to discover what you should review or practise again.
 
 To receive a certificate, you must complete both the theoretical assessment and the educator-observed practical competency assessment. Completing the app alone or attending every session is not enough.
+
+### Use the My First Bitcoin app
+
+If you have not installed the My First Bitcoin app, download it through the [official My First Bitcoin website](https://myfirstbitcoin.org/). Use it to work through the learning and quizzes that support the theoretical assessment. Your educator can explain how the app fits your local course and what to do if you cannot access it.
+
+The app supports learning and assessment, but it does not replace educator-observed practical competency assessment.
 
 ### Required prior knowledge: none
 
@@ -1402,24 +1412,39 @@ You now have a foundation. Protect it by moving slowly.
 3. **Choose one practical skill to repeat.** This may be identifying custody, checking an address, reading a transaction, recognizing a scam, or comparing local pathways.
 4. **Create a personal safety plan.** Decide what you will verify before installing a wallet, moving funds, or asking for help.
 5. **Study before increasing risk.** Learn more about self-custody, recovery, privacy, and inheritance before holding a meaningful amount.
-6. **Find a responsible community.** Look for educators who welcome questions, explain trade-offs, and never ask for secret information.
+6. **Find a responsible community.** Look for educators who welcome questions, explain trade-offs, and never ask for secret information. You can also explore the My First Bitcoin Education Network.
 7. **Continue with advanced learning.** Choose a topic because it supports a real goal, not because online attention makes it feel urgent.
-8. **Contribute.** Help improve the Diploma, support the learning community, or take the next step toward becoming an educator.
+8. **Contribute.** Help improve the Diploma, add a useful resource to the Resources Hub, support the learning community, or take the next step toward becoming an educator.
 
 One safe next step is enough. You do not need to perform every possible Bitcoin action immediately.
 
-### Contribute to My First Bitcoin
+### Contribute to My First Bitcoin and the Resources Hub
 
 Choose a way to help and use the official form to get started:
 
 - **Proofread:** report unclear wording, errors, or translation improvements.
 - **Volunteer:** offer time or skills to support the Diploma, educators, or local learning communities.
 - **Share feedback:** tell My First Bitcoin what worked, what was missing, or what could be safer or clearer.
+- **Contribute to the Resources Hub:** share a useful Bitcoin education resource, local learning resource, or improvement that other learners and educators can review and use.
 - **Sign up for the Educator Training Program (ETP):** register your interest in learning to teach the Bitcoin Diploma.
 
-[Proofread, volunteer, share feedback, or sign up for ETP](https://forms.myfirstbitcoin.org/)
+[Proofread, volunteer, contribute to the Resources Hub, share feedback, or sign up for ETP](https://forms.myfirstbitcoin.org/)
 
 Use the official form only. Do not include seed phrases, private keys, wallet balances, or other sensitive personal or security information in a submission.
+
+### Continue with the Education Network
+
+The [My First Bitcoin Education Network](https://myfirstbitcoin.org/about/network) connects independent educators and local learning communities. Explore it to learn how communities share experience, adapt open-source materials responsibly, and support Bitcoin education in their own context.
+
+If you want to teach, start by building a strong foundation as a learner, then register interest in the **Educator Training Program (ETP)** through the [official form](https://forms.myfirstbitcoin.org/). The ETP is a training path for prospective independent educators; participation, timing, and local requirements may change, so check the current official information before applying.
+
+### Learn from community case studies
+
+Real-world stories can show how different communities have used the Diploma, but they are examples, not promises of the same result elsewhere. Read the current [community case studies](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/en/back-matter/) and consider the local need, evidence, trade-offs, and safety practices behind each one.
+
+New case studies can help other communities learn. If you have a story or evidence that could become a responsible case study, submit it through the [official form](https://forms.myfirstbitcoin.org/). Do not include sensitive learner, financial, or security information.
+
+The [My First Bitcoin Leaderboard](https://leaderboard.myfirstbitcoin.org/) is a separate public destination for current community activities, recognition, or possible perks. Any available perks, eligibility rules, and participation requirements are determined there and may change. They are optional and do not affect Diploma completion, assessment, certification, or access to the Education Network.
 
 ### A safety reminder
 

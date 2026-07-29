@@ -30,6 +30,10 @@ The guide should help educators:
 - provide feedback and reassessment; and
 - understand that their direct evaluation is required for certification.
 
+### The My First Bitcoin app as a teaching tool
+
+The My First Bitcoin app is an essential tool for teaching the Diploma. It provides the learning, review, quizzes, knowledge checks, feedback, and progress support that accompany the Core blocks and make up much of the theoretical assessment. Ask learners to download it from [myfirstbitcoin.org](https://myfirstbitcoin.org/) before the course where possible, and plan when each app activity fits the lesson. The app complements rather than replaces the educator: you remain responsible for discussion, local context, guided practice, and direct observation of practical competency.
+
 ---
 
 # Guide Structure
