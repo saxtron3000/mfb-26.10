@@ -296,7 +296,7 @@ Three ideas help explain everyday choices:
 
 Scarcity alone does not guarantee value. An item may be rare and still have no demand. A useful monetary asset combines limited supply with properties and demand that make people willing to hold or exchange it.
 
-### Beginner monetary history from barter to digital fiat
+### Beginner monetary history from barter to digital money
 
 Money did not develop in one identical sequence everywhere. Different societies used different goods, records, and institutions. However, a broad pattern helps explain modern money.
 
@@ -310,9 +310,9 @@ Money did not develop in one identical sequence everywhere. Different societies 
 
 **Bank and government money:** Banks issued more claims and credit. Governments created central banks and national currency systems. Money became increasingly based on institutional records and promises rather than direct possession of a commodity.
 
-**The Nixon Shock:** In 1971, the United States ended the official link between the US dollar and gold for foreign governments and central banks. Dollars could no longer be exchanged for a fixed amount of gold. Because many currencies were connected to the dollar, this helped move the world toward today's fiat-money system.
+**The Nixon Shock:** In 1971, the United States ended the official link between the US dollar and gold for foreign governments and central banks. Dollars could no longer be exchanged for a fixed amount of gold. Because many currencies were connected to the dollar, this helped shape the monetary system used in much of the world today.
 
-**Digital fiat:** Most fiat money now moves as digital records through banks and payment services. A card or phone does not create a new kind of money by itself. It is usually an interface to a bank deposit or another claim denominated in fiat currency.
+**Digital money:** Much of today's money moves as digital records through banks and payment services. A card or phone does not create a new kind of money by itself. It is usually an interface to a bank deposit or another claim denominated in the national currency.
 
 This history shows repeated trade-offs. Convenience increased, but users often became more dependent on issuers, banks, and payment intermediaries.
 
