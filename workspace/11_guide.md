@@ -352,7 +352,7 @@ Only the combined **assessment-complete** status may unlock a certificate. Educa
 
 - Use the legacy table-of-contents migration notes in `06_plan.md` to decide whether old content belongs in Core, Custom, or Advanced material.
 - Use `mergefromorganizations.md` to decide whether Organizations material belongs in beginner Core, Custom, Activity Bank, Educator Guide, or Advanced material.
-- Use `16_advanced.md` to park deeper technical, economic, philosophical, or future-facing material that should be preserved for later Advanced modules.
+- Use `17_advanced.md` to park deeper technical, economic, philosophical, or future-facing material that should be preserved for later Advanced modules.
 - Do not treat old `OUT` markings as deletion when the same item is marked Custom or Advanced.
 - Keep Block 3 technical material practical: use it only to support safer self-custody, verification, and transaction responsibility.
 - Split topics carefully when needed: beginner concepts may stay in Core while deeper analysis moves to Advanced material.

@@ -12,7 +12,7 @@ It defines:
 - how in-class time should be used;
 - which documents own detailed implementation work.
 
-Detailed activities belong in `10_activities.md`. Detailed facilitation guidance belongs in `11_guide.md`. Detailed objectives belong in `05_objectives.md`. Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use belong in `16_advanced.md`.
+Detailed activities belong in `10_activities.md`. Detailed facilitation guidance belongs in `11_guide.md`. Detailed objectives belong in `05_objectives.md`. App question-bank structure belongs in `13_microlearning.md`. Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use belong in `17_advanced.md`.
 
 `06_plan.md` is the active plan source of truth. The older duplicated plan file has been archived at `../y_archive/y_13_plan_superseded.md`.
 
@@ -203,7 +203,7 @@ Split decisions:
 
 ## Bitcoin For Organizations Cannibalization
 
-`workspace/mergefromorganizations.md` reviews the retiring `../ref/bitcoin-for-organizations/en` pathway for beginner Diploma use. `workspace/advancedorganizations.md` and `16_advanced.md` preserve the larger Advanced source trail.
+`workspace/mergefromorganizations.md` reviews the retiring `../ref/bitcoin-for-organizations/en` pathway for beginner Diploma use. `workspace/advancedorganizations.md` and `17_advanced.md` preserve the larger Advanced source trail.
 
 Beginner merge decision:
 
@@ -310,7 +310,7 @@ Template Custom units should include:
 
 ## Advanced
 
-Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use are collected in `16_advanced.md`.
+Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use are collected in `17_advanced.md`.
 
 Advanced outcomes are ongoing and should be designed module by module after the redesigned beginner Diploma is published.
 
@@ -388,11 +388,12 @@ Educator preparation, timing, adaptation, misconception support, and debrief gui
 | Activity categories and activity template | `10_activities.md` |
 | Educator facilitation and Custom selection guidance | `11_guide.md` |
 | Combined assessment, objective-aligned evidence, and passing requirements | `12_assessment.md` |
-| Two-part assessment prerequisite for certification and governance questions | `13_certification.md` |
-| Publication rules | `15_spec.md` |
+| App microlearning question-bank structure | `13_microlearning.md` |
+| Two-part assessment prerequisite for certification and governance questions | `14_certification.md` |
+| Publication rules | `16_spec.md` |
 | Beginner-safe Organizations merge checklist | `mergefromorganizations.md` |
-| Organizations-to-Advanced source map | `advancedorganizations.md` and `16_advanced.md` |
-| Advanced module ideas and redacted content collection | `16_advanced.md` |
+| Organizations-to-Advanced source map | `advancedorganizations.md` and `17_advanced.md` |
+| Advanced module ideas and redacted content collection | `17_advanced.md` |
 | Public keynote and stakeholder brief | `../public/MFB-BD-Keynote.md` |
 
 ---
@@ -418,7 +419,7 @@ The Diploma should remain the entry point into a wider learning ecosystem, not t
 
 # 9. Follow-On Pathways
 
-Follow-on pathway ideas are collected in `16_advanced.md`.
+Follow-on pathway ideas are collected in `17_advanced.md`.
 
 ---
 
@@ -444,7 +445,7 @@ The redesign still needs decisions on:
 - low-connectivity delivery assumptions;
 - pilot and educator review process;
 - exact publication formats;
-- Advanced module objectives and sequencing, tracked in `16_advanced.md`.
+- Advanced module objectives and sequencing, tracked in `17_advanced.md`.
 
 ---
 

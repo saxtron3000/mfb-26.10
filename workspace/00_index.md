@@ -32,10 +32,11 @@ Use these documents to understand:
 | 10 | `10_activities.md` | See the Activity Bank structure and activity categories. |
 | 11 | `11_guide.md` | See the Educator Guide outline and facilitation responsibilities. |
 | 12 | `12_assessment.md` | Review the combined theoretical and practical competency assessment framework. |
-| 13 | `13_certification.md` | Review the two-part assessment prerequisite for certification and implementation questions. |
-| 14 | `14_lexicon.md` | Review terminology and language consistency. |
-| 15 | `15_spec.md` | Review publication rules and final consistency checks. |
-| 16 | `16_advanced.md` | Review Advanced module ideas, follow-on pathway notes, and parked legacy content. |
+| 13 | `13_microlearning.md` | Review the app microlearning question-bank structure across the four blocks. |
+| 14 | `14_certification.md` | Review the two-part assessment prerequisite for certification and implementation questions. |
+| 15 | `15_lexicon.md` | Review terminology and language consistency. |
+| 16 | `16_spec.md` | Review publication rules and final consistency checks. |
+| 17 | `17_advanced.md` | Review Advanced module ideas, follow-on pathway notes, and parked legacy content. |
 
 ---
 
@@ -50,14 +51,15 @@ Use these documents to understand:
 | Objectives and competencies | `05_objectives.md` |
 | Draft student-book scaffold | `08_draft.md` |
 | 4-block structure, content boundaries, and legacy migration | `06_plan.md` |
-| Advanced module titles, follow-on pathway ideas, and parked legacy content | `16_advanced.md` |
+| Advanced module titles, follow-on pathway ideas, and parked legacy content | `17_advanced.md` |
 | Visual and asset needs | `09_assets.md` |
 | Activity Bank structure | `10_activities.md` |
 | Educator Guide structure | `11_guide.md` |
 | Objective-aligned combined assessment and evidence | `12_assessment.md` |
-| Two-part assessment prerequisite for certification | `13_certification.md` |
-| Beginner terminology and definitions | `14_lexicon.md` |
-| Publication specification | `15_spec.md` |
+| App microlearning question-bank structure | `13_microlearning.md` |
+| Two-part assessment prerequisite for certification | `14_certification.md` |
+| Beginner terminology and definitions | `15_lexicon.md` |
+| Publication specification | `16_spec.md` |
 | Beginner-safe Organizations merge decisions | `mergefromorganizations.md` |
 | Organizations-to-Advanced source map | `advancedorganizations.md` |
 | Public keynote and stakeholder brief | `../public/MFB-BD-Keynote.md` |
@@ -115,7 +117,7 @@ Public materials should be clear, short, and non-technical. They should explain 
 - Use "block" for the required Diploma structure.
 - Use "Custom modules" or "Custom units" only for educator-selected Block 4 content.
 - Do not rename Block 4 globally as "Spending"; spending is one possible Custom / Bitcoin as Money practice.
-- Keep the full Advanced module title list only in `16_advanced.md`.
+- Keep the full Advanced module title list only in `17_advanced.md`.
 - Use `mergefromorganizations.md` as the checklist for beginner-safe Organizations material; do not import Organizations chapters directly into the Student Book.
 - Keep detailed activity instructions in `10_activities.md`, not in the Student Book or plan.
 - Keep detailed facilitation guidance in `11_guide.md`, not in the Student Book or plan.

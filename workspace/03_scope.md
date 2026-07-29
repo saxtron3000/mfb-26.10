@@ -23,7 +23,7 @@ This document does not define learning objectives. See `05_objectives.md`.
 
 This document does not define assessment methodology. See `12_assessment.md`.
 
-This document does not define certification requirements. See `13_certification.md`.
+This document does not define certification requirements. See `14_certification.md`.
 
 ---
 
@@ -67,7 +67,7 @@ The following assumptions affect project execution:
 - Localization preparation is in scope.
 - Localization implementation is out of scope.
 - Publishing is part of project completion.
-- Bitcoin for Organizations is being cannibalized, not preserved as a standalone beginner pathway. Use `mergefromorganizations.md` for beginner-safe additions and `advancedorganizations.md` / `16_advanced.md` for Advanced source trails.
+- Bitcoin for Organizations is being cannibalized, not preserved as a standalone beginner pathway. Use `mergefromorganizations.md` for beginner-safe additions and `advancedorganizations.md` / `17_advanced.md` for Advanced source trails.
 
 ---
 
@@ -223,9 +223,9 @@ Separate advanced learning from beginner learning.
 
 ### Deliverables
 
-- Advanced module title inventory guided by `16_advanced.md`
-- Advanced pathway recommendations guided by the candidate module titles in `16_advanced.md`
-- Organizations-to-Advanced source trail using `advancedorganizations.md` and the Organizations material already parked in `16_advanced.md`
+- Advanced module title inventory guided by `17_advanced.md`
+- Advanced pathway recommendations guided by the candidate module titles in `17_advanced.md`
+- Organizations-to-Advanced source trail using `advancedorganizations.md` and the Organizations material already parked in `17_advanced.md`
 - Technical content recommendations
 
 ---
@@ -382,7 +382,7 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 - The Custom / Bitcoin as Money block is explained as educator-selected and locally grounded.
 - The Activity Bank and Educator Guide are presented as core ecosystem components.
 - Assessment and certification are described accurately without overpromising.
-- Advanced module titles are not duplicated outside `16_advanced.md`.
+- Advanced module titles are not duplicated outside `17_advanced.md`.
 
 ---
 

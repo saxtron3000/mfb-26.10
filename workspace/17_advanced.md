@@ -65,19 +65,19 @@ The absence of a topic from `08_draft.md` does not mean the topic is unimportant
 |---|---|
 | Four-block beginner architecture | `06_plan.md` |
 | Core / Custom / Advanced boundary rules | `06_plan.md` |
-| Advanced title inventory | `16_advanced.md` |
-| Advanced follow-on pathway ideas | `16_advanced.md` |
-| Redacted legacy material for future Advanced use | `16_advanced.md` |
+| Advanced title inventory | `17_advanced.md` |
+| Advanced follow-on pathway ideas | `17_advanced.md` |
+| Redacted legacy material for future Advanced use | `17_advanced.md` |
 | Student-facing beginner draft | `08_draft.md` |
 | Beginner objectives | `05_objectives.md` |
 | Beginner assessment | `12_assessment.md` |
 | Activity templates | `10_activities.md` |
 | Educator facilitation guidance | `11_guide.md` |
-| Publication rules | `15_spec.md` |
+| Publication rules | `16_spec.md` |
 
 `06_plan.md` remains the source of truth for the active beginner redesign structure.
 
-`16_advanced.md` is the source of truth for Advanced module ideas, title inventory, source trails, and parked content.
+`17_advanced.md` is the source of truth for Advanced module ideas, title inventory, source trails, and parked content.
 
 ---
 
@@ -1043,7 +1043,7 @@ Use these source files when future Advanced module work begins.
 - `08_draft.md`: current beginner draft; useful for identifying what has been compressed or removed.
 - `10_activities.md`: activity template and activity categories.
 - `11_guide.md`: educator guidance on moving complex side topics to Advanced.
-- `15_spec.md`: publication rules, fact-check rules, QR rules, and public communication rules.
+- `16_spec.md`: publication rules, fact-check rules, QR rules, and public communication rules.
 
 ## Legacy Reference Sources
 

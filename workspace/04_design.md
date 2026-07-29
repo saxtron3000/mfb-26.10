@@ -25,7 +25,7 @@ For learning outcomes and competencies, see `05_objectives.md`.
 
 For assessment, see `12_assessment.md`.
 
-For certification, see `13_certification.md`.
+For certification, see `14_certification.md`.
 
 ---
 
@@ -685,15 +685,15 @@ Use `05_objectives.md` for learning outcomes and competencies.
 
 Use `12_assessment.md` for how learning is evaluated.
 
-Use `13_certification.md` for the two-part assessment prerequisite and certification governance questions.
+Use `14_certification.md` for the two-part assessment prerequisite and certification governance questions.
 
 Use `03_scope.md` for workstreams, milestones, deliverables, publishing, and completion criteria.
 
 Use `06_plan.md` for active structure, content boundaries, and legacy migration.
 
-Use `16_advanced.md` for Advanced module titles, follow-on pathway ideas, and parked legacy content.
+Use `17_advanced.md` for Advanced module titles, follow-on pathway ideas, and parked legacy content.
 
-Use `15_spec.md` for publication, QR code, source-of-truth, and delivery-output rules.
+Use `16_spec.md` for publication, QR code, source-of-truth, and delivery-output rules.
 
 
 ---

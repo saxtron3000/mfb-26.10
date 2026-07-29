@@ -688,7 +688,7 @@ Use `05_objectives.md` to understand learning outcomes.
 
 Use `12_assessment.md` to understand evaluation of learning.
 
-Use `13_certification.md` to understand the two-part assessment prerequisite and outstanding certification-governance questions.
+Use `14_certification.md` to understand the two-part assessment prerequisite and outstanding certification-governance questions.
 
 Use `03_scope.md` to understand project workstreams and deliverables.
 

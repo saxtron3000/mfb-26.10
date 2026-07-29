@@ -33,7 +33,7 @@ The key beginner question is:
 
 Does this information help a beginner explain money, fiat, Bitcoin, custody, verification, safety, or local Bitcoin use more clearly?
 
-If yes, it is listed here. If no, it belongs in `advancedorganizations.md` and later in `16_advanced.md`.
+If yes, it is listed here. If no, it belongs in `advancedorganizations.md` and later in `17_advanced.md`.
 
 ## Summary Decision
 
@@ -381,7 +381,7 @@ Do not add the following to the required beginner Student Book:
 - detailed cryptography;
 - named companies, wallets, exchanges, custodians, or service providers as recommendations.
 
-All of this should go to `workspace/advancedorganizations.md` and later `workspace/16_advanced.md`.
+All of this should go to `workspace/advancedorganizations.md` and later `workspace/17_advanced.md`.
 
 ## Fact-Check Flags If Used In Beginner Materials
 
@@ -406,6 +406,6 @@ When the Diploma draft is edited, use this file as a checklist:
 2. Add only the high-priority beginner items if they are not already covered.
 3. Put misconception handling mostly in the Educator Guide.
 4. Put practical scenario material mostly in the Activity Bank and Custom block templates.
-5. Route everything advanced to `advancedorganizations.md` and `16_advanced.md`.
+5. Route everything advanced to `advancedorganizations.md` and `17_advanced.md`.
 
 The redesigned Diploma should gain clarity from Bitcoin for Organizations, not inherit its complexity.

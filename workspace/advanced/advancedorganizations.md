@@ -2,13 +2,13 @@
 
 ## Purpose
 
-This document shows how the retiring `ref/bitcoin-for-organizations/en` path can be cannibalized into the Advanced module holding file, `workspace/16_advanced.md`.
+This document shows how the retiring `ref/bitcoin-for-organizations/en` path can be cannibalized into the Advanced module holding file, `workspace/17_advanced.md`.
 
 Review date: 2026-06-26
 
 Source reviewed: every Markdown file in `ref/bitcoin-for-organizations/en`.
 
-Destination: the Advanced module titles already listed in `workspace/16_advanced.md`, with a small number of suggested new module titles where the Organizations path contains useful material that does not fit cleanly into the current list.
+Destination: the Advanced module titles already listed in `workspace/17_advanced.md`, with a small number of suggested new module titles where the Organizations path contains useful material that does not fit cleanly into the current list.
 
 ## Cannibalization Decision
 
@@ -17,18 +17,18 @@ Bitcoin for Organizations should not remain a standalone path after the Diploma 
 Its content should be transformed into:
 
 - a small number of beginner-appropriate additions to the new Diploma, tracked in `workspace/mergefromorganizations.md`;
-- a much larger set of Advanced module source trails, tracked here and later merged into `workspace/16_advanced.md`;
+- a much larger set of Advanced module source trails, tracked here and later merged into `workspace/17_advanced.md`;
 - educator background, activity seeds, and future research notes where the content is useful but not yet publication-ready.
 
 Most Organizations content is Advanced because it assumes strategic, operational, financial, policy, technical, or sector-specific reasoning.
 
 ## How To Use This File
 
-When updating `16_advanced.md`, use the table below to add source trails under the existing candidate Advanced module titles.
+When updating `17_advanced.md`, use the table below to add source trails under the existing candidate Advanced module titles.
 
 Each entry identifies:
 
-- the `16_advanced.md` module title or proposed new title;
+- the `17_advanced.md` module title or proposed new title;
 - Organizations content that should feed it;
 - source files;
 - how the material should be transformed;
@@ -36,7 +36,7 @@ Each entry identifies:
 
 This is not a finished Advanced curriculum.
 
-## Merge Map To Existing `16_advanced.md` Titles
+## Merge Map To Existing `17_advanced.md` Titles
 
 | Existing Advanced module title | Organizations content to merge | Source files | Transformation notes |
 |---|---|---|---|
@@ -72,7 +72,7 @@ This is not a finished Advanced curriculum.
 
 ## Suggested New Advanced Module Titles
 
-The existing title list in `16_advanced.md` is broad enough to absorb most material. If new titles are added later, these are the strongest candidates:
+The existing title list in `17_advanced.md` is broad enough to absorb most material. If new titles are added later, these are the strongest candidates:
 
 | Suggested new title | Why it may be needed | Source files |
 |---|---|---|
@@ -95,9 +95,9 @@ The existing title list in `16_advanced.md` is broad enough to absorb most mater
 | 7. Bitcoin's Possible Future | Money & Society; Payments & Exchange; Energy & Mining; Money & Human Rights; Infrastructure & Maintenance; proposed Bitcoin And AI Payments |
 | 8. The Bitcoin Economy | Transactions & Settlement; Privacy & Security; Mining & Consensus; proposed On-Chain Analytics |
 
-## Recommended Additions To `16_advanced.md`
+## Recommended Additions To `17_advanced.md`
 
-Add a new section to `16_advanced.md` after the current legacy migration notes or near the redacted content collection:
+Add a new section to `17_advanced.md` after the current legacy migration notes or near the redacted content collection:
 
 Suggested section title:
 
@@ -181,10 +181,10 @@ These can inform educator preparation, scenario design, or research notes.
 
 Use:
 
-- `workspace/16_advanced.md` as the official Advanced holding file;
+- `workspace/17_advanced.md` as the official Advanced holding file;
 - `workspace/mergefromorganizations.md` for beginner Diploma merge decisions;
 - `workspace/06_plan.md` for Core, Custom, and Advanced boundaries;
 - `workspace/10_activities.md` for future activity templates;
 - `workspace/11_guide.md` for educator-facing misconception guidance.
 
-This file should remain the detailed Organizations-to-Advanced source map until its strongest material has been migrated into `16_advanced.md`.
+This file should remain the detailed Organizations-to-Advanced source map until its strongest material has been migrated into `17_advanced.md`.
