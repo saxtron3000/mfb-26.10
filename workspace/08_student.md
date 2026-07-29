@@ -370,7 +370,23 @@ A **reserve currency** is a currency that central banks and governments hold and
 
 In 1971, President Nixon ended the official exchange of dollars for gold by foreign governments and central banks, helping bring the Bretton Woods system to an end. The dollar nevertheless remained widely used because of its established role in trade and finance, the size of the U.S. economy, and the depth of U.S. financial markets. It remains the leading reserve currency today, although central banks also hold other currencies and its share can change over time.
 
-### CBDCs as a beginner fiat-system example where appropriate
+### Why people look for alternatives (Precious Metals, Real Estate, Stocks)
+
+People often seek alternatives when they believe cash will lose purchasing power. Common choices include precious metals, real estate, and stocks. Each has benefits and risks.
+
+| Alternative | Why people may choose it | Important trade-offs |
+| --- | --- | --- |
+| Precious metals | Long history, physical possession, limited supply | Storage, verification, transport, security, and difficult small payments |
+| Real estate | Useful physical asset, possible rent, limited desirable locations | High entry cost, maintenance, taxes, legal dependence, and low portability |
+| Stocks | Ownership in productive businesses, possible income and growth | Business risk, market volatility, custody through institutions, and need for financial knowledge |
+
+These assets are not identical to money. A home may store value but is not practical for buying food. A share may be easy to sell in one country but unavailable to someone without a brokerage account. Gold may cross long periods of history but be difficult to verify or divide during a small exchange.
+
+People may also choose foreign currency, government bonds, private businesses, land, tools, education, or other assets. Every choice includes opportunity cost and risk. There is no asset that guarantees purchasing power in every period and situation.
+
+Bitcoin emerged as another proposed alternative: a scarce digital asset that can be held and transferred without a central issuer. To evaluate that claim, we must study why Bitcoin was created and how its rules work.
+
+### Central Bank Digital Currencies (CBDCs)
 
 A **central bank digital currency**, or **CBDC**, is a digital form of fiat money issued as a liability of a central bank. It is different from physical cash and from a normal commercial-bank deposit, although the user experience may look similar.
 
@@ -393,37 +409,9 @@ When discussing a CBDC, ask:
 
 Do not assume that every proposed CBDC has the same design. Use current, local, and reliable information.
 
-### Why people look for alternatives (Precious Metals, Real Estate, Stocks)
-
-People often seek alternatives when they believe cash will lose purchasing power. Common choices include precious metals, real estate, and stocks. Each has benefits and risks.
-
-| Alternative | Why people may choose it | Important trade-offs |
-| --- | --- | --- |
-| Precious metals | Long history, physical possession, limited supply | Storage, verification, transport, security, and difficult small payments |
-| Real estate | Useful physical asset, possible rent, limited desirable locations | High entry cost, maintenance, taxes, legal dependence, and low portability |
-| Stocks | Ownership in productive businesses, possible income and growth | Business risk, market volatility, custody through institutions, and need for financial knowledge |
-
-These assets are not identical to money. A home may store value but is not practical for buying food. A share may be easy to sell in one country but unavailable to someone without a brokerage account. Gold may cross long periods of history but be difficult to verify or divide during a small exchange.
-
-People may also choose foreign currency, government bonds, private businesses, land, tools, education, or other assets. Every choice includes opportunity cost and risk. There is no asset that guarantees purchasing power in every period and situation.
-
-Bitcoin emerged as another proposed alternative: a scarce digital asset that can be held and transferred without a central issuer. To evaluate that claim, we must study why Bitcoin was created and how its rules work.
-
 ### Review: how can money break?
 
-Fiat money is useful because it is widely accepted, familiar, and integrated into modern economies. Its main monetary rules, however, are managed by central institutions. Its supply can expand, access depends on intermediaries, and its purchasing power can decline.
-
-Complete these statements in your own words:
-
-1. Money exists because...
-2. The three functions of money are...
-3. Barter becomes difficult because...
-4. Fiat money depends on...
-5. Fractional reserve banking means...
-6. Inflation matters to a saver because...
-7. People look for monetary alternatives because...
-
-**Block 1 answer:** The central problem is that people must use a monetary system whose supply, access, and rules are controlled by institutions they must trust. This does not mean fiat money has no benefits. It means its users bear risks created by changing policy, institutional failure, restricted access, and loss of purchasing power.
+Pause and consider the money you use: what makes it useful in daily life, and which of its rules depend on institutions you must trust? Barter is difficult because matching needs is inefficient, while fiat money makes exchange easier but can involve changing supply, restricted access, and declining purchasing power. In short, people look for monetary alternatives when they want different trade-offs around supply, control, access, and trust.
 
 The next block examines Bitcoin's attempt to create a different set of monetary rules.
 
@@ -459,7 +447,7 @@ Bitcoin grew from decades of work by many people. Its design joined earlier idea
 
 ### Early digital-money attempts and the double-spend problem
 
-Several projects contributed ideas that later appeared in Bitcoin.
+Bitcoin was not the first attempt at digital money. It was built on four decades of experimentation, drawing on ideas from many earlier projects that helped shape its successful design.
 
 **DigiCash** used cryptography to support private digital payments. It depended on a central company and banking relationships. When the company failed, the system could not continue as an independent money network.
 
@@ -473,33 +461,27 @@ Several projects contributed ideas that later appeared in Bitcoin.
 
 Together, these experiments showed useful pieces of the puzzle. They also clarified the remaining problem.
 
-The central problem was **double spending**. A paper note cannot normally be given to two people at the same time. Digital data can be copied perfectly. A dishonest user could try to send the same digital unit to two recipients.
+The central problem was **double spending**. A paper note cannot be given to two people at the same time. However, digital data can be copied perfectly. A dishonest user could try to send the same digital unit to two recipients.
 
-Centralized systems prevent this by letting one trusted database decide which payment came first. Bitcoin uses a different method:
+Centralized systems prevent this by letting one trusted database decide which payment came first. On 31 October 2008, Satoshi Nakamoto's whitepaper, *Bitcoin: A Peer-to-Peer Electronic Cash System*, explained a different approach: a public system that could establish a shared payment history without a bank, company, or other central authority.
 
-1. Transactions are announced to a peer-to-peer network.
-2. Miners collect valid transactions into blocks and use proof of work to propose their order.
-3. Nodes independently check each block against the same rules.
-4. The valid chain with the most accumulated proof of work becomes the accepted history.
+The whitepaper brought together the features needed for that approach:
 
-This explanation is enough for the beginner path. The important result is that the network can reject a second attempt to spend the same bitcoin without asking one company to decide.
+1. **A peer-to-peer network:** transactions are announced directly to a network of participants.
+2. **Digital signatures:** only the holder of the relevant private key can authorize a spend.
+3. **Blocks and mining:** miners collect transactions into blocks and use proof of work to compete to add the next block.
+4. **Independent verification:** nodes check transactions and blocks against Bitcoin's rules.
+5. **A shared history with accumulated proof of work:** participants recognize the valid  of transactions with the most accumulated work as the shared record.
 
-### Bitcoin origin timeline
+This module explains these concepts in more detail. Together, they gave a practical answer to the double-spend problem: the network can reject a second attempt to spend the same bitcoin without relying on a central authority. Bitcoin offered the missing combination that decades of digital-money experiments had been seeking.
 
-Bitcoin appeared through a short series of public events.
+### Digital scarcity and credible scarcity
 
-| Date | Event | Why it matters |
-| --- | --- | --- |
-| 31 October 2008 | Satoshi Nakamoto published the whitepaper *Bitcoin: A Peer-to-Peer Electronic Cash System*. | The paper described direct online payments without a financial intermediary. |
-| 3 January 2009 | Satoshi created the Genesis Block, the first block in Bitcoin's chain. | The Bitcoin network began. The block included a newspaper headline about bank bailouts, placing the launch in the context of the financial crisis. |
-| 12 January 2009 | Satoshi sent bitcoin to Hal Finney in the first recorded person-to-person Bitcoin transaction. | The software moved value between two participants as designed. |
-| 22 May 2010 | A user paid 10,000 bitcoin for two pizzas. | The event showed bitcoin being exchanged for ordinary goods and is remembered as Bitcoin Pizza Day. |
+Digital information is normally easy to copy. Digital scarcity means that the system can distinguish a valid unit from an invalid copy and can prevent the same unit from being spent twice.
 
-**Satoshi Nakamoto** is the name used by Bitcoin's creator or creators. Satoshi communicated online, released the software as open source, and later stopped participating. Satoshi's real-world identity remains unknown.
+Bitcoin creates digital scarcity by combining signatures, a public transaction history, proof of work, and independent rule verification. A bitcoin can be transferred, but the network rejects an attempt to spend the same bitcoin again.
 
-No central company owns Bitcoin. The software and rules continued because other people chose to run, review, and develop them. This origin matters: the creator did not remain as a permanent leader who could issue more coins or approve transactions.
-
-The Genesis Block and the 2008 financial crisis give Bitcoin important historical context. However, evaluate Bitcoin by its design and operation, not only by a story about its creator.
+Scarcity is more credible when the rules are public, users can verify them independently, and no single issuer can quietly change the supply for everyone. This is why Bitcoin's supply limit must be studied together with decentralization and node verification.
 
 ### Decentralization
 
@@ -520,52 +502,6 @@ Bitcoin's decentralization comes from several features:
 Decentralization is not the same as equal influence. Mining equipment, technical knowledge, money, internet access, and software development are not distributed equally. Large service providers can become points of dependence for their own users. Bitcoin's claim is narrower: no single participant has the authority to unilaterally change the ledger or monetary rules for everyone.
 
 Decentralization also creates costs. Coordination can be slower. Users must verify information and take more responsibility. There is no central support desk for the Bitcoin network. These trade-offs are part of the design, not accidental defects that can be removed without changing the system.
-
-### Digital scarcity and credible scarcity
-
-Digital information is normally easy to copy. Digital scarcity means that the system can distinguish a valid unit from an invalid copy and can prevent the same unit from being spent twice.
-
-Bitcoin creates digital scarcity by combining signatures, a public transaction history, proof of work, and independent rule verification. A bitcoin can be transferred, but the network rejects an attempt to spend the same bitcoin again.
-
-Scarcity is more credible when the rules are public, users can verify them independently, and no single issuer can quietly change the supply for everyone. This is why Bitcoin's supply limit must be studied together with decentralization and node verification.
-
-### Finite supply
-
-Bitcoin's rules define a predictable issuance schedule and a maximum supply of 21 million bitcoin. New bitcoin enter circulation through the block subsidy paid to miners who produce valid blocks.
-
-Every 210,000 blocks, the subsidy is cut in half. This event is called a **halving**. Because blocks are produced about every ten minutes on average, a halving occurs roughly every four years. The exact calendar date is not fixed.
-
-The subsidy began at 50 bitcoin per block. It falls by half in repeated steps until it becomes too small to continue. Miners also receive transaction fees. Over time, fees are expected to become a more important part of miner revenue.
-
-The 21 million limit is enforced by nodes. If a miner creates more bitcoin than the rules allow, validating nodes reject the block. A software developer can write different code, but cannot force other people to run it.
-
-Bitcoin's supply rule is credible because it is public, easy to verify with a node, and difficult for one party to change. It is not a physical law. It is a network rule that remains effective while participants continue to enforce it.
-
-Many digital assets can claim a limited supply. The beginner question is whether the limit is credible in practice, not only whether it is written in a document or displayed on a website.
-
-**Spot question:** Why does Bitcoin have a limited supply? Include the role of the public rules and the nodes that enforce them.
-
-Finite supply does not guarantee a rising market price. Price depends on demand as well as supply. It also does not mean every bitcoin is available for sale; some may be held long term or become inaccessible because keys were lost.
-
-### Satoshis and unit bias
-
-One bitcoin can be divided into **100,000,000 satoshis**. A satoshi, often shortened to **sat**, is the smallest unit recorded on Bitcoin's base layer.
-
-| Unit | Amount |
-| --- | ---: |
-| 1 bitcoin | 100,000,000 sats |
-| 0.1 bitcoin | 10,000,000 sats |
-| 0.01 bitcoin | 1,000,000 sats |
-| 0.001 bitcoin | 100,000 sats |
-| 0.00000001 bitcoin | 1 sat |
-
-You do not need to buy or use a whole bitcoin. Bitcoin software can display an amount in bitcoin or sats. Many people use sats for everyday amounts because whole numbers are easier to read.
-
-**Unit bias** is the mistaken feeling that a lower price per whole unit makes an asset cheaper or more accessible. The number of units is a design choice. Owning 100,000 sats and owning 0.001 bitcoin describe the same amount.
-
-When comparing prices, focus on the share of the total supply, the amount of value involved, and the risks. Do not assume that an asset with many cheap-looking units offers better value than an asset divided into smaller units.
-
-**Check your understanding:** How many sats are in 0.01 bitcoin? Why does the price of one whole bitcoin not prevent a person from using a smaller amount?
 
 ### Peer-to-peer transfer
 
@@ -621,6 +557,44 @@ Mining does not solve useful equations for an outside purpose. Its purpose is to
 
 Proof of work involves a real energy cost. Supporters argue that this cost is what anchors Bitcoin's security and can create demand for flexible or otherwise unused energy. Critics question the amount and source of energy used. A responsible evaluation asks what energy is used, where it comes from, what security it provides, and what alternatives are being compared.
 
+### Finite supply
+
+Bitcoin's rules define a predictable issuance schedule and a maximum supply of 21 million bitcoin. New bitcoin enter circulation through the block subsidy paid to miners who produce valid blocks.
+
+Every 210,000 blocks, the subsidy is cut in half. This event is called a **halving**. Because blocks are produced about every ten minutes on average, a halving occurs roughly every four years. The exact calendar date is not fixed.
+
+The subsidy began at 50 bitcoin per block. It falls by half in repeated steps until it becomes too small to continue. Miners also receive transaction fees. Over time, fees are expected to become a more important part of miner revenue.
+
+The 21 million limit is enforced by nodes. If a miner creates more bitcoin than the rules allow, validating nodes reject the block. A software developer can write different code, but cannot force other people to run it.
+
+Bitcoin's supply rule is credible because it is public, easy to verify with a node, and difficult for one party to change. It is not a physical law. It is a network rule that remains effective while participants continue to enforce it.
+
+Many digital assets can claim a limited supply. The beginner question is whether the limit is credible in practice, not only whether it is written in a document or displayed on a website.
+
+**Spot question:** Why does Bitcoin have a limited supply? Include the role of the public rules and the nodes that enforce them.
+
+Finite supply does not guarantee a rising market price. Price depends on demand as well as supply. It also does not mean every bitcoin is available for sale; some may be held long term or become inaccessible because keys were lost.
+
+### Satoshis and unit bias
+
+One bitcoin can be divided into **100,000,000 satoshis**. A satoshi, often shortened to **sat**, is the smallest unit recorded on Bitcoin's base layer.
+
+| Unit | Amount |
+| --- | ---: |
+| 1 bitcoin | 100,000,000 sats |
+| 0.1 bitcoin | 10,000,000 sats |
+| 0.01 bitcoin | 1,000,000 sats |
+| 0.001 bitcoin | 100,000 sats |
+| 0.00000001 bitcoin | 1 sat |
+
+You do not need to buy or use a whole bitcoin. Bitcoin software can display an amount in bitcoin or sats. Many people use sats for everyday amounts because whole numbers are easier to read.
+
+**Unit bias** is the mistaken feeling that a lower price per whole unit makes an asset cheaper or more accessible. The number of units is a design choice. Owning 100,000 sats and owning 0.001 bitcoin describe the same amount.
+
+When comparing prices, focus on the share of the total supply, the amount of value involved, and the risks. Do not assume that an asset with many cheap-looking units offers better value than an asset divided into smaller units.
+
+**Check your understanding:** How many sats are in 0.01 bitcoin? Why does the price of one whole bitcoin not prevent a person from using a smaller amount?
+
 ### Bitcoin as sound digital money
 
 **Sound money** is money whose supply is difficult to expand and whose properties support reliable use across time. The term expresses a judgment based on criteria, so it should be examined rather than accepted as a label.
@@ -651,6 +625,25 @@ Bitcoin therefore presents both benefits and trade-offs.
 
 Whether you call Bitcoin sound money should follow from your criteria. Compare it with fiat money, precious metals, and other assets using the same standards.
 
+### Bitcoin origin timeline
+
+Bitcoin appeared through a short series of public events.
+
+| Date | Event | Why it matters |
+| --- | --- | --- |
+| 31 October 2008 | Satoshi Nakamoto published the whitepaper *Bitcoin: A Peer-to-Peer Electronic Cash System*. | The paper described direct online payments without a financial intermediary. |
+| 3 January 2009 | Satoshi created the Genesis Block, the first block in Bitcoin's chain. | The Bitcoin network began. The block included a newspaper headline about bank bailouts, placing the launch in the context of the financial crisis. |
+| 12 January 2009 | Satoshi sent bitcoin to Hal Finney in the first recorded person-to-person Bitcoin transaction. | The software moved value between two participants as designed. |
+| 22 May 2010 | A user paid 10,000 bitcoin for two pizzas. | The event showed bitcoin being exchanged for ordinary goods and is remembered as Bitcoin Pizza Day. |
+
+**Satoshi Nakamoto** is the name used by Bitcoin's creator or creators. Satoshi communicated online, released the software as open source, and later stopped participating. Satoshi's real-world identity remains unknown.
+
+No central company owns Bitcoin. The software and rules continued because other people chose to run, review, and develop them. This origin matters: the creator did not remain as a permanent leader who could issue more coins or approve transactions.
+
+The Genesis Block and the 2008 financial crisis give Bitcoin important historical context. However, evaluate Bitcoin by its design and operation, not only by a story about its creator.
+
+At the end of this timeline is the event that made Bitcoin possible: in October 2008, Satoshi Nakamoto announced the Bitcoin whitepaper. It proposed a practical solution to a problem that had challenged digital-money designers for decades—how to make online payments directly between people while preventing double spending without putting a central intermediary in control.
+
 ### Personal responsibility as bridge to self-custody
 
 Bitcoin allows a person to control funds without asking a bank for permission. That ability changes who is responsible for security.
@@ -667,26 +660,7 @@ The next block explains how wallets and keys put this responsibility into practi
 
 ### Review: how does Bitcoin respond to fiat problems?
 
-Use the table to connect the problem and response. A response is not the same as a perfect solution; every design has trade-offs.
-
-| Fiat-system issue | Bitcoin's response | New responsibility or trade-off |
-| --- | --- | --- |
-| Supply can change through policy | Predictable issuance and a 21 million maximum | Users must verify and choose to enforce the rules. |
-| Payments depend on intermediaries | Peer-to-peer transaction network | Errors are usually irreversible. |
-| A central ledger keeper controls records | Independent nodes share and verify a public ledger | Public records create privacy considerations. |
-| Access depends on an institution | Anyone can use the protocol and control keys | The user must secure keys and backups. |
-| A central party orders digital payments | Proof of work orders transactions without a central operator | Mining requires equipment and energy. |
-
-Explain these ideas in your own words:
-
-1. What problem does double spending create?
-2. How do nodes and miners have different roles?
-3. Why can a miner not create any amount of bitcoin it wants?
-4. What does a halving change?
-5. Why is owning sats not different from owning a fraction of a bitcoin?
-6. What is one benefit and one trade-off of decentralization?
-
-**Block 2 answer:** Bitcoin responds to fiat-system risks with public rules, finite issuance, peer-to-peer transfer, independent verification, and direct ownership. It replaces some institutional trust with verification and personal responsibility. It does not remove risk.
+Pause and consider how Bitcoin changes the trust model: how do public rules, finite issuance, peer-to-peer transfer, and independent verification respond to the concerns raised in the previous block? Ask yourself how nodes and miners have different roles, why double spending must be prevented, and which new responsibilities arise when a person controls their own keys. Bitcoin replaces some institutional trust with verification and personal responsibility; it does not remove risk or trade-offs.
 
 ---
 
@@ -1043,30 +1017,7 @@ Detailed Lightning setup and live payment practice belong in the Custom block wh
 
 ### Review: what does self-custody responsibility mean?
 
-Self-custody means controlling the keys that authorize spending. It gives direct ownership but removes the account provider who might reset a password, reverse an error, or absorb some losses.
-
-Complete this responsibility map:
-
-| Task | What must be protected or checked? | What can happen if it is not? |
-| --- | --- | --- |
-| Back up a wallet | Seed phrase, order, storage, compatibility | Permanent loss or theft |
-| Receive | Correct network, address, amount, confirmation | Missing or misdirected payment |
-| Send | Recipient, address or invoice, amount, fee | Irreversible loss or delay |
-| Choose custody | Who controls keys and recovery | Service failure or user failure |
-| Choose a tool | Source, code, reputation, privacy, recovery | Malware, data exposure, or lock-in |
-| Acquire bitcoin | Price, fees, counterparty, identity, law | Fraud, overpayment, frozen funds, or legal harm |
-
-Explain these ideas in your own words:
-
-1. Why does a wallet not literally contain bitcoin?
-2. What is safe to share when receiving, and what must remain secret?
-3. How does custodial use differ from self-custody?
-4. Why should a recovery process be tested before meaningful funds are added?
-5. What checks should happen before a send?
-6. Name three scam signals.
-7. When might Lightning be more suitable than an on-chain payment?
-
-**Block 3 answer:** Self-custody responsibility means protecting the keys and recovery plan, verifying every transaction, choosing tools carefully, understanding the payment path, and keeping mistakes small while learning. Direct control is valuable only when it is supported by safe practice.
+Pause and consider what direct control would require from you: could you protect a recovery plan, distinguish safe receiving information from secrets, and verify a recipient, amount, network, and fee before sending? Self-custody gives you control of the keys, but it removes the provider who might reset access or reverse an error; custodial services make a different set of trust and risk trade-offs. The practical recap is simple: protect keys and backups, choose tools carefully, recognise scam signals, and keep mistakes small while learning.
 
 ---
 
@@ -1429,30 +1380,7 @@ Good community discovery helps you find people who explain, verify, and respect 
 
 ### Review: how can Bitcoin function as money in this community?
 
-Review the local module you completed.
-
-1. What local problem or opportunity did you examine?
-2. Which function of money was involved: medium of exchange, store of value, or unit of account?
-3. Was the payment or tool on-chain, Lightning, or both?
-4. Who controlled the keys?
-5. What was the strongest benefit?
-6. What was the most serious risk?
-7. How did local law, infrastructure, language, or culture affect the result?
-8. What would need to improve before the method could be used more widely?
-9. What is one safe next step?
-
-Use this final test for any proposed use:
-
-| Test | Your answer |
-| --- | --- |
-| **Need:** What real need does it address? |  |
-| **Fit:** Why is Bitcoin suitable? |  |
-| **Method:** How does value move? |  |
-| **Custody:** Who controls the keys? |  |
-| **Cost:** What are all fees and trade-offs? |  |
-| **Safety:** How are errors, scams, and loss limited? |  |
-| **Local context:** What rules and conditions matter? |  |
-| **Evidence:** How will we know it worked? |  |
+Pause and consider the local example you studied: what real need did it address, which function of money was involved, and was value moved on-chain, through Lightning, or both? Ask who controlled the keys, what the strongest benefit and most serious risk were, and how local law, infrastructure, language, or culture affected the result. A responsible next step is one that fits the local context, makes costs and custody clear, limits errors and scams, and can be evaluated against evidence.
 
 **Block 4 answer:** Bitcoin can function as money when people voluntarily use it to earn, save, receive, send, spend, price, or settle value. A useful local application begins with a real need, makes custody and costs clear, respects local law and safety, and gives learners enough knowledge to choose freely.
 

@@ -303,6 +303,8 @@ Content to preserve:
 - fiat money pros and cons;
 - commodity-backed systems;
 - debt-driven money creation;
+- the Cantillon effect: when new money or credit enters an economy through particular recipients, those recipients may be able to spend it before prices and wages have fully adjusted; later recipients may face changed prices first;
+- how the distribution channel, timing, contracts, market conditions, and credit demand can affect who experiences those changes and when;
 - commercial-bank revenue models;
 - reserve requirements;
 - central banks as lender of last resort;
@@ -326,6 +328,10 @@ Possible Advanced modules:
 - Money & Society
 - Money & Human Rights
 - History of Money (localisation)
+
+### Cantillon Effect Teaching Note
+
+The Cantillon effect is a framework for examining the distributional effects of money and credit creation. It asks who receives new money or credit first, what they can buy or finance before prices adjust, and how later price, wage, and asset changes affect other people. It does not mean that every price increase has one cause or that the effects are identical in every case. Advanced learners should compare specific, sourced scenarios and distinguish the timing and distribution of new money or credit from broader causes of inflation and changes in relative prices.
 
 Reason moved out of Core:
 
@@ -951,7 +957,7 @@ This section sketches possible directions for the candidate modules. These are s
 | Candidate module | Possible focus | Parked source material |
 |---|---|---|
 | History of Money (localisation) | Local money histories, commodity money, coinage, paper receipts, gold standard, Bretton Woods, Nixon Shock, modern digital money | Legacy chapters 2 and 3; local educator input |
-| Monetary Economics | Scarcity, time preference, opportunity cost, inflation, purchasing power, banking, debt, policy tools | Legacy chapters 1.6, 3.2, 4.1, 4.2 |
+| Monetary Economics | Scarcity, time preference, opportunity cost, inflation, purchasing power, banking, debt, policy tools, and the Cantillon effect | Legacy chapters 1.6, 3.2, 4.1, 4.2 |
 | History of Bitcoin | Cypherpunks, digital cash attempts, Satoshi, whitepaper, Genesis Block, early transactions, Pizza Day | Legacy chapters 4.3, 5.0, 5.1 |
 | Philosophy of Bitcoin | Self-sovereignty, autonomy, critical thinking, rule verification, rights, future scenarios | Legacy chapter 10 |
 | Transactions & Settlement | UTXOs, inputs, outputs, change, signatures, broadcast, mempool, confirmations, settlement finality | Legacy chapters 6.4, 8.2, 9.2, 9.3 |

@@ -43,14 +43,14 @@
 - The search for digital and decentralized money
 - Early digital-money attempts and the double-spend problem
 - Digital scarcity and credible scarcity
-- Bitcoin origin timeline
 - Decentralization
-- Finite supply
-- Satoshis and unit bias
 - Peer-to-peer transfer
 - Users, nodes, and miners
 - Proof of work
+- Finite supply
+- Satoshis and unit bias
 - Bitcoin as sound digital money
+- Bitcoin origin timeline
 - Personal responsibility as bridge to self-custody
 - Review: how does Bitcoin respond to fiat problems?
 
