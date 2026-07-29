@@ -31,7 +31,7 @@
 - Scarcity, value, and exchange
 - Beginner monetary history from barter to modern money
 - Fiat money
-- Fractional reserve banking at beginner level
+- Fractional reserve banking
 - Inflation and purchasing power
 - CBDCs as digital fiat, not decentralized digital money
 - Why people look for alternatives (Precious Metals, Real Estate, Stocks)
@@ -49,7 +49,7 @@
 - Satoshis and unit bias
 - Peer-to-peer transfer
 - Users, nodes, and miners
-- Proof of work at a beginner level
+- Proof of work
 - Bitcoin as sound digital money
 - Personal responsibility as bridge to self-custody
 - Review: how does Bitcoin respond to fiat problems?
@@ -68,7 +68,7 @@
 - Verification, confirmations, block explorers, public-ledger privacy, and irreversible transactions
 - Safety checklist: seed phrases, address checks, scams, and starting small
 - Acquiring and exchanging bitcoin as pathway awareness, not financial advice
-- On-chain and Lightning payments at beginner level
+- On-chain and Lightning payments
 - Educator-observed practical competency check
 - Review: what does self-custody responsibility mean?
 

@@ -55,7 +55,7 @@ This feedback-reviewed lexicon lists Bitcoin and Bitcoin-adjacent terms that a b
 | **Bank deposit** | Money recorded as a claim on a commercial bank, rather than physical cash held separately for the customer. | First: **308**<br>Later: 333, 335, 364, 445 |
 | **Network effect** | A situation in which something becomes more useful as more people use it. | First: **316**<br>Later: — |
 
-### Fractional reserve banking at beginner level
+### Fractional reserve banking
 
 | Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
 | --- | --- | --- |
@@ -191,7 +191,7 @@ This feedback-reviewed lexicon lists Bitcoin and Bitcoin-adjacent terms that a b
 | **Bitcoin Core** | A widely used Bitcoin software implementation that can run a full node. | First: **575**<br>Later: — |
 | **Developer software proposal** | A suggested software change only affects Bitcoin when participants choose software that follows it. | First: **579**<br>Later: 586 |
 
-### Proof of work at a beginner level
+### Proof of work
 
 | Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
 | --- | --- | --- |

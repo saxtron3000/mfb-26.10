@@ -44,7 +44,7 @@ A realistic graduate of the 8-hour beginner Diploma can:
 |---|---|
 | Knowledge | Can identify and accurately explain beginner money, fiat, Bitcoin, wallet, custody, and safety concepts. |
 | Explanation | Can explain core ideas in plain language. |
-| Comparison | Can compare fiat money and Bitcoin at beginner level. |
+| Comparison | Can compare fiat money and Bitcoin in plain language. |
 | Practical capability | Can demonstrate required beginner wallet, receiving or sending, verification, recovery-readiness, and safety actions under approved, supported conditions. |
 | Reasoning | Can participate in guided discussion using simple evidence and trade-off thinking. |
 | Confidence | Can ask better questions, avoid obvious beginner mistakes, and continue learning. |
@@ -66,13 +66,13 @@ Core outcomes are required for every learner. The stable objective IDs should be
 | `B1.2` | Problem / Broken Money | Describe the beginner history and evolution of money, including barter and the limits that led societies toward other forms of money. | Knowledge and synthesis |
 | `B1.3` | Problem / Broken Money | Identify the functions and properties of money. | Knowledge and classification |
 | `B1.4` | Problem / Broken Money | Compare different forms of money using beginner monetary characteristics. | Applied comparison |
-| `B1.5` | Problem / Broken Money | Explain how inflation, purchasing-power loss, fractional-reserve banking, and CBDCs can create problems in modern money systems at beginner level. | Knowledge, explanation, and scenario reasoning |
-| `B2.1` | Solution / Bitcoin | Explain why Bitcoin was created at beginner level, including the digital-copy and double-spend problem. | Theoretical explanation |
+| `B1.5` | Problem / Broken Money | Explain how inflation, purchasing-power loss, fractional-reserve banking, and CBDCs can create problems in modern money systems at an introductory scope. | Knowledge, explanation, and scenario reasoning |
+| `B2.1` | Solution / Bitcoin | Give an introductory explanation of why Bitcoin was created, including the digital-copy and double-spend problem. | Theoretical explanation |
 | `B2.2` | Solution / Bitcoin | Explain Bitcoin's core properties: decentralization, credible finite supply, peer-to-peer transfer, and verifiability. | Knowledge and synthesis |
 | `B2.3` | Solution / Bitcoin | Describe the beginner roles of users, nodes, miners, and developers and the beginner relevance of proof of work, the 21 million limit, halving, and satoshis. | Knowledge, role-play, or concept illustration |
-| `B3.1` | Action / Self-custody | Explain wallets, addresses, keys, seed phrases, and custody at beginner level. | Knowledge and explanation |
-| `B3.2` | Action / Self-custody | Compare custodial and non-custodial approaches at beginner level. | Applied comparison |
-| `B3.3` | Action / Self-custody | Identify what hardware wallets are, why people use them, and how they differ from hot wallets at beginner level. | Knowledge and scenario response |
+| `B3.1` | Action / Self-custody | Explain wallets, addresses, keys, seed phrases, and custody through essential terms and examples. | Knowledge and explanation |
+| `B3.2` | Action / Self-custody | Compare custodial and non-custodial approaches in guided scenarios. | Applied comparison |
+| `B3.3` | Action / Self-custody | Identify what hardware wallets are, why people use them, and how they differ from hot wallets in a practical overview. | Knowledge and scenario response |
 | `B3.4` | Action / Self-custody | Identify common beginner risks and explain the safe response to seed phrase exposure, address mistakes, copy/paste attacks, impersonation, urgency scams, and too-good-to-be-true offers. | Theoretical safety scenario |
 | `B3.5` | Action / Self-custody | Demonstrate safe setup or opening and navigation of an approved or prepared wallet environment, including locating and checking receive information. | Direct educator observation |
 | `B3.6` | Action / Self-custody | Complete or safely simulate a beginner receive or send flow and verify the relevant address, invoice, amount, confirmation, or transaction status. | Direct educator observation |

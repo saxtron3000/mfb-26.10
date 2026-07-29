@@ -63,7 +63,7 @@ Treat this Diploma as the beginning of a longer learning process. By the end, yo
 You can use the course to:
 
 - understand common terms about money and Bitcoin;
-- compare modern money systems and Bitcoin at a beginner level;
+- compare modern money systems and Bitcoin in plain language;
 - discuss claims using evidence and trade-offs;
 - identify wallet and custody choices;
 - recognize common safety risks;
@@ -84,7 +84,7 @@ After completing the Core Diploma, you should be able to:
 - explain what money is and why people use it;
 - identify the functions and useful properties of money;
 - describe the path from barter to modern money;
-- explain inflation, purchasing power, and fractional reserve banking at a beginner level;
+- explain inflation, purchasing power, and fractional reserve banking through essential concepts;
 - explain why Bitcoin was created and how its rules differ from those of modern money systems;
 - describe decentralization, finite supply, peer-to-peer transfer, and verification;
 - identify the roles of users, nodes, and miners;
@@ -322,7 +322,7 @@ Fiat money works because people, businesses, banks, and governments accept it. N
 
 The fiat system has several main participants:
 
-| Participant | Beginner-level role |
+| Participant | Core role |
 | --- | --- |
 | Central bank | Issues base money, manages monetary policy, supports payment settlement, and may act as lender of last resort. |
 | Commercial bank | Holds customer deposits, provides payments, and creates deposit money when it issues loans. |
@@ -333,7 +333,7 @@ Fiat systems can provide convenient payments, flexible credit, and tools for res
 
 Fiat money requires layers of trust. Users trust banks to keep accurate records, payment services to process transfers, central banks to manage the currency, and governments to maintain lawful institutions. These systems can work for long periods, but their rules are not fixed.
 
-### Fractional reserve banking at beginner level
+### Fractional reserve banking
 
 When you deposit cash in a bank, the bank records a liability to you: it owes you the account balance. The bank does not normally keep every unit of every deposit as physical cash. It holds liquid reserves and uses its balance sheet to make loans and other investments.
 
@@ -602,7 +602,7 @@ Some people perform several roles. A miner can run a node and also be a user. A 
 
 **Spot question:** Why does a node verify transactions? Name at least one rule that a node checks.
 
-### Proof of work at a beginner level
+### Proof of work
 
 **Proof of work** is the process miners use to compete for the right to propose the next block.
 
@@ -627,7 +627,7 @@ Proof of work involves a real energy cost. Supporters argue that this cost is wh
 
 Bitcoin combines properties that did not previously exist together in one asset:
 
-| Property | Bitcoin at a beginner level |
+| Property | Plain-language explanation |
 | --- | --- |
 | Durability | The ledger is copied across many nodes. Access depends on preserving valid keys. |
 | Portability | A signed transaction can transfer value through a communications network. |
@@ -1016,7 +1016,7 @@ Before using any path, compare:
 
 No path is automatically best in every location. Provider-specific instruction belongs in the local Custom block and must not be treated as a global recommendation.
 
-### On-chain and Lightning payments at beginner level
+### On-chain and Lightning payments
 
 Bitcoin supports more than one payment path.
 

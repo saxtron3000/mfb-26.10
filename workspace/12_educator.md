@@ -104,7 +104,7 @@ Educators may also combine models, such as two half-days or one weekend morning 
 
 - Core ideas
 - Opening money questions
-- Fiat-system roles at beginner level
+- Key fiat-system roles
 - Fractional reserve banking and bank run demonstrations where appropriate
 - CBDCs as digital fiat, with issuer, supply, permission, privacy, and verification questions
 - Likely misconceptions
@@ -118,7 +118,7 @@ Educators may also combine models, such as two half-days or one weekend morning 
 - Core ideas
 - Cypherpunk and early digital-money context without overloading the timeline
 - Digital scarcity, double spending, and credible scarcity as the main beginner reasons the technical history matters
-- Developer, miner, node, and user role boundaries at beginner level
+- Clear developer, miner, node, and user role boundaries
 - Satoshis as a low-complexity concept that unlocks payments, fees, supply, and custody discussions
 - Likely misconceptions
 - Suggested activities

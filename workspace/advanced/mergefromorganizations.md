@@ -63,9 +63,9 @@ It supports these objectives from `05_objectives.md`:
 - Objective 5: describe fiat-system problems;
 - Objective 6: explain why Bitcoin was created;
 - Objective 7: identify decentralization, finite supply, peer-to-peer transfer, and verifiability;
-- Objective 8: describe users, nodes, miners, proof of work, 21 million limit, halving, and sats at beginner level;
+- Objective 8: describe users, nodes, miners, proof of work, 21 million limit, halving, and sats in an accessible overview;
 - Objective 12: identify safety practices and beginner risks;
-- Objective 13: describe receiving, sending, recovery, seed phrase testing, and verification at beginner level;
+- Objective 13: describe receiving, sending, recovery, seed phrase testing, and verification through essential terms and examples;
 - Objective 14: distinguish on-chain and Lightning payments;
 - Objective 15: identify beginner acquisition or exchange pathways without recommendation;
 - Objective 16: distinguish beginner practical Bitcoin use from advanced technical theory;
@@ -80,12 +80,12 @@ It supports these objectives from `05_objectives.md`:
 | High | Technical origin lineage: Cypherpunks, DigiCash, Hashcash, BitTorrent, B-money/Bit Gold, reusable proof of work | Shows Bitcoin as a synthesis of earlier attempts, not a random invention | Objectives 6, 8, 16 | Block 2: `The search for digital and decentralized money`; `Bitcoin origin timeline` | Block 2: `The search for digital and decentralized money`; `Early digital-money attempts...`; `Bitcoin origin timeline` | Use only a short timeline and one-sentence contributions. Route cryptography/protocol depth to Advanced. |
 | High | Verification through block explorers and public ledger inspection | Supports practical competence and "don't trust, verify" | Objectives 12, 13, 17 | Block 3: `Verification, block explorers, and irreversible transactions` | Block 3: `Verification, block explorers, and irreversible transactions` | Keep as a beginner demonstration or Activity Bank task. Include privacy warning. |
 | Medium | Confirmations and settlement confidence | Helps learners understand transaction status and irreversible settlement | Objectives 13, 14 | Block 3: `Verification, block explorers, and irreversible transactions` | Block 3: `Verification, block explorers, and irreversible transactions` | Add only beginner wording: more confirmations increase confidence. Keep six-confirmation math and reorg scenarios Advanced. |
-| Medium | Protocol/layers framing for scalability and innovation objections | Helps beginners distinguish base-layer settlement from Lightning without seeing slowness as failure | Objectives 7, 14, 16, 17 | Block 2: `Peer-to-peer transfer`; `Proof of work`; Block 3: `On-chain and Lightning payments at beginner level` | Block 2: `Bitcoin as sound digital money`; Block 3: `On-chain and Lightning payments at beginner level` | Use a short educator note or one paragraph. Detailed TCP/IP, Liquid, Fedimint, Cashu, and sidechains remain Advanced. |
+| Medium | Protocol/layers framing for scalability and innovation objections | Helps beginners distinguish base-layer settlement from Lightning without seeing slowness as failure | Objectives 7, 14, 16, 17 | Block 2: `Peer-to-peer transfer`; `Proof of work`; Block 3: `On-chain and Lightning payments` | Block 2: `Bitcoin as sound digital money`; Block 3: `On-chain and Lightning payments` | Use a short educator note or one paragraph. Detailed TCP/IP, Liquid, Fedimint, Cashu, and sidechains remain Advanced. |
 | Medium | Who controls Bitcoin: developers, miners, nodes, users | Strengthens beginner decentralization and rule-verification understanding | Objectives 7, 8, 16 | Block 2: `Decentralization`; `Users, nodes, and miners` | Block 2: `Decentralization`; `Users, nodes, and miners` | Keep at role level. Do not teach full soft fork/hard fork governance in Core. |
 | Medium | Credible scarcity versus "many coins" | Helps answer a common beginner confusion without turning the Diploma into a crypto survey | Objectives 7, 16, 17 | Block 2: `Finite supply`; possibly Educator Guide FAQ, not TOC | Block 2: `Finite supply`; optional educator note | Use as an educator-guided misconception prompt. Avoid naming many coins or making market predictions. |
 | Medium | Local merchant/payment/remittance/nonprofit scenarios | Gives Block 4 practical local relevance | Custom outcomes; Objectives 14, 15, 17 | Block 4: `Local spending and receiving scenarios`; `Merchant or community use cases`; `Circular economies`; `Local on-ramp and off-ramp pathways` | Block 4 scenario sections | Use as optional Custom scenario cards. Local educator must verify tools, fees, law, and safety. |
 | Low | Monetization sequence: store of value, medium of exchange, unit of account | Helps answer "if I cannot spend it everywhere, is it money?" | Objectives 1, 3, 4, 7, 17 | Block 2: `Bitcoin as sound digital money`; Block 4 review | Block 2: `Bitcoin as sound digital money`; Block 4 `Daily-life Bitcoin use` | Use sparingly. Keep Gresham's Law and adoption theory Advanced unless educator uses a simple prompt. |
-| Low | Energy as security | Helps with a predictable beginner misconception | Objectives 8, 17 | Block 2: `Proof of work at a beginner level` | Block 2: `Proof of work at a beginner level` | Keep one balanced paragraph. Detailed energy grid, methane, ESG, and mining economics go Advanced. |
+| Low | Energy as security | Helps with a predictable learner misconception | Objectives 8, 17 | Block 2: `Proof of work` | Block 2: `Proof of work` | Keep one balanced paragraph. Detailed energy grid, methane, ESG, and mining economics go Advanced. |
 
 ## Block-By-Block Recommendations
 
@@ -147,19 +147,19 @@ Recommended Diploma use:
   - reusable proof of work: another partial attempt;
   - Bitcoin: working system combining public ledger, signatures, proof of work, nodes, miners, and incentives.
 - Use the protocol/layers idea to support on-chain versus Lightning later.
-- Use "who controls Bitcoin?" to explain developers, miners, nodes, and users at beginner level.
+- Use "who controls Bitcoin?" to explain developers, miners, nodes, and users with a clear role map.
 - Use credible scarcity only as a short misconception prompt.
 
 Where:
 
-- `07_contents.md`: Block 2 already includes `The search for digital and decentralized money`, `Early digital-money attempts and the double-spend problem`, `Bitcoin origin timeline`, `Decentralization`, `Finite supply`, `Users, nodes, and miners`, and `Proof of work at a beginner level`.
+- `07_contents.md`: Block 2 already includes `The search for digital and decentralized money`, `Early digital-money attempts and the double-spend problem`, `Bitcoin origin timeline`, `Decentralization`, `Finite supply`, `Users, nodes, and miners`, and `Proof of work`.
 - `08_student.md`: Block 2 already has matching sections. The Organizations path can refine these sections rather than create new ones.
 
 Suggested refinements:
 
 - In `Early digital-money attempts and the double-spend problem`, add one-line roles for BitTorrent and reusable proof of work if the section needs slightly more lineage.
 - In `Finite supply`, add a simple warning that many coins can claim scarcity but credible scarcity depends on rules, decentralization, and time.
-- In `Proof of work at a beginner level`, keep the balanced energy/security paragraph and avoid energy-policy depth.
+- In `Proof of work`, keep the balanced energy/security paragraph and avoid energy-policy depth.
 
 Keep out:
 
@@ -185,7 +185,7 @@ Recommended Diploma use:
 - Keep block explorer use as verification orientation.
 - Add or preserve a simple activity where learners inspect a transaction, identify confirmation status, fee, amount, and visible public data.
 - Mention that public data creates privacy trade-offs.
-- Keep confirmations beginner-level.
+- Keep confirmations focused on the essential idea.
 
 Where:
 

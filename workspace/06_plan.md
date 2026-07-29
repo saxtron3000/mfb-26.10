@@ -68,10 +68,10 @@ Core content:
 - what money is;
 - functions and properties of money;
 - barter limitations, including the double coincidence of wants;
-- scarcity, time preference, and opportunity cost at beginner level;
+- scarcity, time preference, and opportunity cost through essential ideas;
 - short history from barter to modern money, including the Nixon Shock as a brief historical marker;
-- fiat systems, including central banks, commercial banks, governments, and citizens at beginner level;
-- fractional reserve banking and bank runs at beginner level;
+- fiat systems, including central banks, commercial banks, governments, and citizens with a simple role map;
+- fractional reserve banking and bank runs as an overview;
 - inflation and purchasing power;
 - CBDCs as a beginner fiat-system example where appropriate, emphasizing that digital fiat is not the same as decentralized or scarce money.
 
@@ -86,14 +86,14 @@ Keep this block focused on why Bitcoin exists and what makes it different.
 Core content:
 
 - search for digital and decentralized money, including the Cypherpunk context;
-- earlier digital-money attempts and influences such as DigiCash, Hashcash, Bit Gold, B-money, BitTorrent, and reusable proof of work at beginner level;
-- the double-spend problem at beginner level;
-- digital scarcity and credible scarcity at beginner level;
+- earlier digital-money attempts and influences such as DigiCash, Hashcash, Bit Gold, B-money, BitTorrent, and reusable proof of work in a brief historical survey;
+- the double-spend problem in plain language;
+- digital scarcity and credible scarcity through core examples;
 - Bitcoin origin story and timeline, including the whitepaper, Genesis Block, first transaction, and Pizza Day;
 - decentralization;
-- users, nodes, and miners at beginner level;
-- developer, miner, node, and user role boundaries at beginner level;
-- proof of work at beginner level;
+- users, nodes, and miners as network roles;
+- developer, miner, node, and user role boundaries with clear role distinctions;
+- proof of work with a simplified process;
 - finite supply and halving;
 - satoshis and unit bias;
 - peer-to-peer transfer;
@@ -119,7 +119,7 @@ Core content:
 - receiving bitcoin;
 - sending bitcoin;
 - verification, confirmations, and basic block explorer orientation where they support beginner understanding;
-- public-ledger privacy trade-offs at beginner level;
+- public-ledger privacy trade-offs as an introductory discussion;
 - irreversible transactions and address verification;
 - beginner safety practices, including common scams, copy/paste address risks, seed phrase protection, open-source wallet preference, and starting small;
 - acquiring and exchanging bitcoin as a concept, not financial advice;
@@ -193,7 +193,7 @@ Migration summary:
 
 Split decisions:
 
-- Psychology of money stays in Core only at beginner level; deeper behavioral analysis moves to Advanced.
+- Psychology of money stays in Core as a foundation; deeper behavioral analysis moves to Advanced.
 - Nodes and miners stay in Core only as simple roles; technical mechanics move to Advanced.
 - Transaction concepts stay in Core only where needed for safe use and verification; detailed models move to Advanced.
 - CBDCs may appear briefly in Block 1 or locally in Block 4; policy and technical depth moves to Advanced.
@@ -365,11 +365,11 @@ Each block should follow a simple rhythm:
 | Money, fiat, inflation, purchasing power | Detailed monetary theory and long policy history |
 | Double coincidence of wants, fiat-system roles, fractional reserve banking, bank runs, and brief CBDC orientation | Detailed banking policy, CBDC policy, and long monetary-policy history |
 | Bitcoin origin, purpose, properties, finite supply, sats, and beginner timeline | Deep protocol and cryptography detail |
-| Users, nodes, miners, proof of work at beginner level | Detailed mining mechanics, mempool, transaction lifecycle |
+| Overview of users, nodes, miners, and proof of work | Detailed mining mechanics, mempool, transaction lifecycle |
 | Wallets, addresses, keys, seed phrases, custody trade-offs, wallet recovery basics, and seed phrase testing | Advanced custody models and operational security |
 | Receiving, sending, verification, address checking, beginner safety, scam awareness, and start-small guidance | Advanced troubleshooting and technical analysis |
 | Beginner acquiring and exchanging pathways as risk orientation | Named provider recommendations, live exchange setup, deep KYC/no-KYC trade-off analysis, and tax/legal advice |
-| On-chain and Lightning distinctions at beginner level | Lightning channel mechanics, routing, liquidity, and node operations |
+| High-level distinctions between on-chain and Lightning | Lightning channel mechanics, routing, liquidity, and node operations |
 | Local daily-life Bitcoin use as Custom source material | Fixed global requirements for specific local tools, merchants, exchanges, or communities |
 | Guided discussion and practical orientation | Full activity instructions, facilitation scripts, and optional extensions |
 

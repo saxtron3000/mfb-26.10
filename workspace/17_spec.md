@@ -4,7 +4,7 @@
 
 This document is a short, standalone overview of the planned 2026.10 Bitcoin Diploma for internal staff, educators, partners, funders, and external collaborators. In this workspace, 2026.10 refers to the October 2026 version of the Diploma.
 
-The Bitcoin Diploma is My First Bitcoin's flagship beginner education program. It is designed to help people understand what money is, why Bitcoin was created, how Bitcoin works at a beginner level, and how to approach Bitcoin use with personal responsibility and safety.
+The Bitcoin Diploma is My First Bitcoin's flagship beginner education program. It is designed to help people understand what money is, why Bitcoin was created, how Bitcoin works in plain language, and how to approach Bitcoin use with personal responsibility and safety.
 
 The 2026.10 version is a redesign of the existing Diploma. It is being reorganized, not replaced. The redesign preserves the Diploma's open-source, community-led, Bitcoin-only identity while making the learning path shorter, clearer, more practical, easier to teach, and easier to adapt across communities.
 
@@ -38,7 +38,7 @@ The Diploma aims to help learners:
 - ask better questions about money;
 - understand the problems Bitcoin responds to;
 - explain Bitcoin's core properties in plain language;
-- compare fiat money and Bitcoin at a beginner level;
+- compare fiat money and Bitcoin through essential ideas;
 - understand basic custody, wallet, transaction, and safety concepts;
 - identify realistic next steps without being pushed into financial decisions;
 - connect Bitcoin education to their local context.
@@ -71,7 +71,7 @@ The redesign does not remove the mission of the Diploma. It makes the mission ea
 
 Learners begin with money itself.
 
-This block introduces why societies use money, what makes money useful, how money has changed over time, and what problems can emerge in modern money systems. Topics include barter, the functions and properties of money, scarcity, purchasing power, inflation, fractional reserve banking, beginner-level roles of banks and governments, and CBDCs where appropriate.
+This block introduces why societies use money, what makes money useful, how money has changed over time, and what problems can emerge in modern money systems. Topics include barter, the functions and properties of money, scarcity, purchasing power, inflation, fractional reserve banking, the main roles of banks and governments, and CBDCs where appropriate.
 
 Core question:
 
@@ -85,7 +85,7 @@ Learners can explain the money problems Bitcoin responds to.
 
 Learners then study why Bitcoin was created and what makes it different.
 
-This block introduces the search for digital and decentralized money, the double-spend problem, digital scarcity, Bitcoin's origin story, decentralization, peer-to-peer transfer, credible finite supply, satoshis, proof of work, users, nodes, miners, developers, and verifiability at a beginner level.
+This block introduces the search for digital and decentralized money, the double-spend problem, digital scarcity, Bitcoin's origin story, decentralization, peer-to-peer transfer, credible finite supply, satoshis, proof of work, users, nodes, miners, developers, and verifiability in an accessible overview.
 
 Core question:
 

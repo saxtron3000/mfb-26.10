@@ -190,7 +190,7 @@ Migration summary for Advanced:
 
 Split decisions:
 
-- Psychology of money stays in Core only at beginner level; deeper behavioral analysis moves to Advanced.
+- Psychology of money stays in Core as a foundation; deeper behavioral analysis moves to Advanced.
 - Nodes and miners stay in Core only as simple roles; technical mechanics move to Advanced.
 - Transaction concepts stay in Core only where needed for safe use and verification; detailed models move to Advanced.
 - CBDCs may appear briefly in Block 1 or locally in Block 4; policy and technical depth moves to Advanced.
@@ -207,11 +207,11 @@ Split decisions:
 | Money, fiat, inflation, purchasing power | Detailed monetary theory and long policy history |
 | Double coincidence of wants, fiat-system roles, fractional reserve banking, bank runs, and brief CBDC orientation | Detailed banking policy, CBDC policy, and long monetary-policy history |
 | Bitcoin origin, purpose, properties, finite supply, sats, and beginner timeline | Deep protocol and cryptography detail |
-| Users, nodes, miners, proof of work at beginner level | Detailed mining mechanics, mempool, transaction lifecycle |
+| Overview of users, nodes, miners, and proof of work | Detailed mining mechanics, mempool, transaction lifecycle |
 | Wallets, addresses, keys, seed phrases, custody trade-offs, wallet recovery basics, and seed phrase testing | Advanced custody models and operational security |
 | Receiving, sending, verification, address checking, beginner safety, scam awareness, and start-small guidance | Advanced troubleshooting and technical analysis |
 | Beginner acquiring and exchanging pathways as risk orientation | Named provider recommendations, live exchange setup, deep KYC/no-KYC trade-off analysis, and tax/legal advice |
-| On-chain and Lightning distinctions at beginner level | Lightning channel mechanics, routing, liquidity, and node operations |
+| High-level distinctions between on-chain and Lightning | Lightning channel mechanics, routing, liquidity, and node operations |
 | Local daily-life Bitcoin use as Custom source material | Fixed global requirements for specific local tools, merchants, exchanges, or communities |
 | Guided discussion and practical orientation | Full technical demonstration sequences and optional extensions |
 
@@ -251,7 +251,7 @@ Possible Advanced modules:
 
 Reason moved out of Core:
 
-Core should introduce scarcity, time preference, and opportunity cost only at beginner level. Deeper behavioral analysis requires more time and more careful facilitation.
+Core should introduce scarcity, time preference, and opportunity cost through essential ideas. Deeper behavioral analysis requires more time and more careful facilitation.
 
 ## Detailed History Of Money
 
@@ -329,7 +329,7 @@ Possible Advanced modules:
 
 Reason moved out of Core:
 
-Core should explain fiat-system problems at beginner level. Advanced modules can examine policy, institutions, debt dynamics, and social consequences with more precision and context.
+Core should give a plain-language account of fiat-system problems. Advanced modules can examine policy, institutions, debt dynamics, and social consequences with more precision and context.
 
 Fact-check notes:
 
@@ -488,7 +488,7 @@ Possible Advanced modules:
 
 Reason moved out of Core:
 
-Core needs keys and signatures only at a practical beginner level. Cryptographic properties, hash functions, and address-generation detail are Advanced technical foundations.
+Core needs a practical introduction to keys and signatures. Cryptographic properties, hash functions, and address-generation detail are Advanced technical foundations.
 
 Activity seeds:
 
@@ -579,7 +579,7 @@ Possible Advanced modules:
 
 Reason moved out of Core:
 
-Core needs proof of work at a beginner level. Detailed mining mechanics, issuance math, fee markets, and difficulty adjustment belong in Advanced.
+Core needs a foundational explanation of proof of work. Detailed mining mechanics, issuance math, fee markets, and difficulty adjustment belong in Advanced.
 
 Fact-check notes:
 
@@ -752,7 +752,7 @@ Possible Advanced modules:
 
 Reason moved out of Core:
 
-Core should distinguish on-chain and Lightning at beginner level. Detailed Lightning setup, channel management, routing, liquidity, and node operation belong in Custom or Advanced.
+Core should distinguish on-chain and Lightning at a high-level overview. Detailed Lightning setup, channel management, routing, liquidity, and node operation belong in Custom or Advanced.
 
 Fact-check notes:
 

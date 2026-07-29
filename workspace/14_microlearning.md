@@ -110,13 +110,13 @@ Themes: monetary history, changing forms of money, trust, and the Nixon Shock as
 Question-bank opportunities:
 
 - timeline ordering: barter, commodity money, banknotes, modern fiat money;
-- date question: identify the year of the Nixon Shock (1971) and explain its relevance at beginner level;
+- date question: identify the year of the Nixon Shock (1971) and explain its relevance in a short historical overview;
 - matching: historical monetary form to a characteristic;
 - reflection: how can the form of money change while its functions remain important?
 
 ## BD-ML-B01-T07: Fiat money and money-system roles
 
-Themes: fiat money, central banks, commercial banks, governments, and citizens; beginner-level system roles.
+Themes: fiat money, central banks, commercial banks, governments, and citizens; essential system roles.
 
 Question-bank opportunities:
 
@@ -127,7 +127,7 @@ Question-bank opportunities:
 
 ## BD-ML-B01-T08: Fractional reserve banking and bank runs
 
-Themes: deposits, lending, liquidity, confidence, and beginner-level bank-run dynamics.
+Themes: deposits, lending, liquidity, confidence, and introductory bank-run dynamics.
 
 Question-bank opportunities:
 
@@ -187,7 +187,7 @@ Themes: Cypherpunk context, digital-money experiments, and design challenges.
 
 Question-bank opportunities:
 
-- matching: early idea or project to a beginner-level contribution;
+- matching: early idea or project to its key contribution;
 - timeline ordering: DigiCash, Hashcash, Bit Gold, B-money, Bitcoin (use reviewed historical dates);
 - multiple choice: identify a recurring challenge for digital money;
 - source note: historical facts must be reviewed and cited before release.
@@ -230,13 +230,13 @@ Themes: beginner role boundaries and network participation.
 Question-bank opportunities:
 
 - matching: role to simplified responsibility;
-- multiple select: identify who can independently verify rules at beginner level;
+- multiple select: identify who can independently verify rules using a plain-language description;
 - misconception check: distinguish running a node, mining, developing software, and using bitcoin;
 - scenario: identify which role is relevant to a stated action.
 
 ## BD-ML-B02-T07: Proof of work
 
-Themes: work, block production, network security, and costly signals at beginner level.
+Themes: work, block production, network security, and costly signals in an accessible overview.
 
 Question-bank opportunities:
 
@@ -298,7 +298,7 @@ Themes: wallet interfaces, access, balances, transactions, and responsibility.
 
 Question-bank opportunities:
 
-- multiple choice: identify what a wallet does and does not store at beginner level;
+- multiple choice: identify what a wallet does and does not store in a practical introduction;
 - matching: wallet action to purpose;
 - reflection: why should a learner understand an interface before using it?
 
@@ -358,14 +358,14 @@ Question-bank opportunities:
 
 ## BD-ML-B03-T07: Sending bitcoin and confirmations
 
-Themes: address verification, amount, fees at beginner level, irreversible transactions, and confirmations.
+Themes: address verification, amount, introductory fee concepts, irreversible transactions, and confirmations.
 
 Question-bank opportunities:
 
 - safety checklist: choose required checks before sending;
 - number question: calculate a remaining balance from a stated amount and fee in a fictional example;
 - scenario: identify why an address should be checked carefully;
-- multiple choice: identify what a confirmation indicates at beginner level;
+- multiple choice: identify what a confirmation indicates in a simple scenario;
 - misconception check: a transaction may be difficult or impossible to reverse once sent.
 
 ## BD-ML-B03-T08: Block explorers, public ledger, and privacy
@@ -438,7 +438,7 @@ Question-bank opportunities:
 
 - matching: invoice, payment request, and receiving flow;
 - scenario: identify a basic check before paying an invoice;
-- compare: on-chain and Lightning at a beginner level;
+- compare: on-chain and Lightning at a high-level overview;
 - boundary note: use only approved, current local content and avoid provider endorsement.
 
 ## BD-ML-B04-T03: Everyday spending, receiving, earning, and saving scenarios
