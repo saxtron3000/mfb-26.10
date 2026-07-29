@@ -310,7 +310,7 @@ Money did not develop in one identical sequence everywhere. Different societies 
 
 **Bank and government money:** Banks issued more claims and credit. Governments created central banks and national currency systems. Money became increasingly based on institutional records and promises rather than direct possession of a commodity.
 
-**Modern fiat money:** In 1971, the United States ended the international convertibility of the US dollar into gold. This event is often called the **Nixon Shock**. Because the dollar was central to the international monetary system, the decision marked an important step toward today's global fiat system. Modern national currencies are not redeemable for a fixed amount of gold.
+**The Nixon Shock:** In 1971, the United States ended the official link between the US dollar and gold for foreign governments and central banks. Dollars could no longer be exchanged for a fixed amount of gold. Because many currencies were connected to the dollar, this helped move the world toward today's fiat-money system.
 
 **Digital fiat:** Most fiat money now moves as digital records through banks and payment services. A card or phone does not create a new kind of money by itself. It is usually an interface to a bank deposit or another claim denominated in fiat currency.
 
