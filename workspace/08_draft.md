@@ -296,7 +296,7 @@ Three ideas help explain everyday choices:
 
 Scarcity alone does not guarantee value. An item may be rare and still have no demand. A useful monetary asset combines limited supply with properties and demand that make people willing to hold or exchange it.
 
-### Beginner monetary history from barter to modern money
+### Beginner monetary history from barter to digital fiat
 
 Money did not develop in one identical sequence everywhere. Different societies used different goods, records, and institutions. However, a broad pattern helps explain modern money.
 
