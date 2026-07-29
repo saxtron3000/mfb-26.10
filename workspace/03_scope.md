@@ -50,7 +50,7 @@ The scope assumes the current working design direction described in `04_design.m
 The following assumptions affect project execution:
 
 - Target duration: maximum 8 hours.
-- Working architecture: 4 blocks of approximately 2 hours: Problem / Fiat, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money.
+- Working architecture: 4 blocks of approximately 2 hours: Problem / Broken Money, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money.
 - In-person first.
 - Offline-capable print or PDF first.
 - Single Diploma with Custom and Advanced pathways.

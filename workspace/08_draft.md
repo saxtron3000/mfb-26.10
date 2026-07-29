@@ -45,7 +45,7 @@ This approach matters because money affects every person. People should be able 
 
 Most people use money before they learn how money works. They may earn it, save it, borrow it, and spend it without studying who issues it, how its supply changes, or why its purchasing power changes.
 
-Bitcoin introduces a different system. It has no central issuer, it follows public rules, and it allows direct digital ownership. These ideas are difficult to understand without first examining money and the modern fiat system.
+Bitcoin introduces a different system. It has no central issuer, it follows public rules, and it allows direct digital ownership. These ideas are difficult to understand without first examining money and the problems that can arise in modern money systems.
 
 This Diploma therefore follows a simple path:
 
@@ -63,7 +63,7 @@ Treat this Diploma as the beginning of a longer learning process. By the end, yo
 You can use the course to:
 
 - understand common terms about money and Bitcoin;
-- compare fiat money and Bitcoin at a beginner level;
+- compare modern money systems and Bitcoin at a beginner level;
 - discuss claims using evidence and trade-offs;
 - identify wallet and custody choices;
 - recognize common safety risks;
@@ -83,9 +83,9 @@ After completing the Core Diploma, you should be able to:
 
 - explain what money is and why people use it;
 - identify the functions and useful properties of money;
-- describe the path from barter to modern fiat money;
+- describe the path from barter to modern money;
 - explain inflation, purchasing power, and fractional reserve banking at a beginner level;
-- explain why Bitcoin was created and how it differs from fiat money;
+- explain why Bitcoin was created and how its rules differ from those of modern money systems;
 - describe decentralization, finite supply, peer-to-peer transfer, and verification;
 - identify the roles of users, nodes, and miners;
 - explain wallets, addresses, private keys, seed phrases, and custody;
@@ -195,7 +195,7 @@ A topic is not unimportant because it is outside the Core path. It may simply re
 
 | Block | Role | Core question | Learner promise |
 | --- | --- | --- | --- |
-| 1. Problem / Fiat | Understand the problem | What problem does fiat money create? | You can explain the money problem Bitcoin responds to. |
+| 1. Problem / Broken Money | Understand the problem | How can money break? | You can explain the money problems Bitcoin responds to. |
 | 2. Solution / Bitcoin | Understand the response | Why was Bitcoin created, and how does it respond? | You can explain Bitcoin's purpose and core properties. |
 | 3. Action / Self-Custody | Understand the responsibility | How do I use and secure Bitcoin responsibly? | You can explain beginner custody and safety concepts. |
 | 4. Custom / Bitcoin As Money | Connect learning to local life | How can Bitcoin function as money here? | You can identify relevant local uses, tools, risks, and next steps. |
@@ -204,9 +204,9 @@ Each block is designed for approximately two hours of learning, including discus
 
 ---
 
-## 3. Block 1: Problem / Fiat
+## 3. Block 1: Problem / Broken Money
 
-**Learner promise:** You will understand the money problem Bitcoin responds to.
+**Learner promise:** You will understand the money problems Bitcoin responds to.
 
 ### Opening questions about money
 
@@ -296,7 +296,7 @@ Three ideas help explain everyday choices:
 
 Scarcity alone does not guarantee value. An item may be rare and still have no demand. A useful monetary asset combines limited supply with properties and demand that make people willing to hold or exchange it.
 
-### Beginner monetary history from barter to modern fiat
+### Beginner monetary history from barter to modern money
 
 Money did not develop in one identical sequence everywhere. Different societies used different goods, records, and institutions. However, a broad pattern helps explain modern money.
 
@@ -405,7 +405,7 @@ People may also choose foreign currency, government bonds, private businesses, l
 
 Bitcoin emerged as another proposed alternative: a scarce digital asset that can be held and transferred without a central issuer. To evaluate that claim, we must study why Bitcoin was created and how its rules work.
 
-### Review: what problem does fiat money create?
+### Review: how can money break?
 
 Fiat money is useful because it is widely accepted, familiar, and integrated into modern economies. Its main monetary rules, however, are managed by central institutions. Its supply can expand, access depends on intermediaries, and its purchasing power can decline.
 

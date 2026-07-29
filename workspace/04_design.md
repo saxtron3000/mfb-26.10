@@ -53,7 +53,7 @@ The current working design direction is:
 
 - in-person first;
 - approximately 8-hour maximum completion pathway;
-- working architecture of four blocks of approximately 2 hours each: Problem / Fiat, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money;
+- working architecture of four blocks of approximately 2 hours each: Problem / Broken Money, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money;
 - single Diploma with Custom and Advanced pathways;
 - Core / Custom / Advanced content separation;
 - English-first drafting followed by explicit simplicity, tone, style, and translation-readiness review;
@@ -93,7 +93,7 @@ The following rough design notes are clarified into stable design rules:
 | Consensus based theory with localized, expert-led practice | Keep the Core theory layer and outcomes shared globally. Let local educators or experts select and adapt practice responsibly. |
 | 4 units - total 8hrs? | Use four blocks, not old module labels, as the required structure. The working total is approximately 8 hours, with roughly 2 hours per block. |
 | We are building a racecar | Design for a lean, high-performance learning experience. Remove ornament, duplication, and content that slows completion without improving learning. |
-| Problem / solution / self-custody / spending | Keep the official block sequence as Problem / Fiat, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money. Spending is an important possible Block 4 practice, but Block 4 should not be narrowed globally to spending only. |
+| Problem / solution / self-custody / spending | Keep the official block sequence as Problem / Broken Money, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money. Spending is an important possible Block 4 practice, but Block 4 should not be narrowed globally to spending only. |
 
 ---
 

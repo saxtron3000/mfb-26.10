@@ -2,7 +2,7 @@
 
 This feedback-reviewed lexicon lists Bitcoin and Bitcoin-adjacent terms that a beginner may need explained. Line references are to `workspace/08_draft.md` (the Bitcoin Diploma). **First** is the earliest relevant appearance; **Later** lists subsequent relevant appearances. `Not present` means the term was requested in feedback but is not yet stated explicitly in the diploma.
 
-## Block 1: Problem / Fiat
+## Block 1: Problem / Broken Money
 
 ### Functions and properties of money
 
@@ -36,7 +36,7 @@ This feedback-reviewed lexicon lists Bitcoin and Bitcoin-adjacent terms that a b
 | **Time preference** | How strongly someone prefers value now rather than later. | First: **287**<br>Later: — |
 | **Trade-off** | A choice that gains one benefit while accepting a cost or giving up another benefit. | First: **29**<br>Later: 37, 66, 288, 310, 389, 511, 631, 635, 655, 657, 672, 698, 1006, 1305, 1307, 1431, 1451 |
 
-### Beginner monetary history from barter to modern fiat
+### Beginner monetary history from barter to modern money
 
 | Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
 | --- | --- | --- |
@@ -49,7 +49,7 @@ This feedback-reviewed lexicon lists Bitcoin and Bitcoin-adjacent terms that a b
 | **Bretton Woods** | The post-1944 international monetary arrangement that linked currencies to the U.S. dollar and the dollar to gold. | Not present |
 | **Nixon Shock** | The 1971 U.S. decision that ended international dollar-to-gold convertibility. | First: **306**<br>Later: — |
 | **Convertibility** | The ability to exchange one form of money for another asset at a stated rate. | First: **306**<br>Later: — |
-| **Fiat money** | Money issued under state authority whose value is not fixed to redemption in a scarce commodity. | First: **47**<br>Later: 65, 85, 87, 193, 292, 306, 308, 312, 314, 316, 329, 364, 368, 370, 401, 403, 410, 415, 637, 972 |
+| **Fiat money** | Money issued under state authority whose value is not fixed to redemption in a scarce commodity. | First: **313**<br>Later: 315, 319, 321, 323, 325, 334, 336, 369, 371, 375, 377, 410, 417, 422, 640, 648, 664, 668, 685, 889, 989, 1005, 1220, 1228, 1307, 1358 |
 | **“By decree”** | By an official order from an authority. | First: **314**<br>Later: — |
 | **Account claim** | A recorded promise that an institution owes the account holder money or another asset. | First: **308**<br>Later: 333, 335, 364, 445 |
 | **Bank deposit** | Money recorded as a claim on a commercial bank, rather than physical cash held separately for the customer. | First: **308**<br>Later: 333, 335, 364, 445 |

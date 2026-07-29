@@ -89,7 +89,7 @@ It supports these objectives from `05_objectives.md`:
 
 ## Block-By-Block Recommendations
 
-### Block 1: Problem / Fiat
+### Block 1: Problem / Broken Money
 
 Organizations source:
 

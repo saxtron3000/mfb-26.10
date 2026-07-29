@@ -65,7 +65,7 @@ The Core Diploma is designed as approximately 8 hours of teaching time. Educator
 
 The four-block sequence should remain the same:
 
-1. Problem / Fiat
+1. Problem / Broken Money
 2. Solution / Bitcoin
 3. Action / Self-custody
 4. Custom / Bitcoin as Money
@@ -100,7 +100,7 @@ Educators may also combine models, such as two half-days or one weekend morning 
 
 ## 4. Block Guidance
 
-### Problem / Fiat
+### Problem / Broken Money
 
 - Core ideas
 - Opening money questions

@@ -82,7 +82,7 @@ Learners should receive supported practice before a task is used for summative a
 
 ### Block Alignment
 
-Problem / Fiat, Solution / Bitcoin, Action / Self-custody, or Custom / Bitcoin as Money.
+Problem / Broken Money, Solution / Bitcoin, Action / Self-custody, or Custom / Bitcoin as Money.
 
 ### Objective Alignment
 
@@ -164,7 +164,7 @@ Local legal, tax, privacy, safety, tool, or community knowledge required before 
 
 ### Block Alignment
 
-Problem / Fiat, Solution / Bitcoin, and Action / Self-custody.
+Problem / Broken Money, Solution / Bitcoin, and Action / Self-custody.
 
 ### Objective Alignment
 
@@ -268,7 +268,7 @@ Every Block 4 certification assessment task must map to shared objectives `B4.1`
 
 # Activity Categories By Block (Work in Progress)
 
-## Block 1: Problem / Fiat
+## Block 1: Problem / Broken Money
 
 - Money properties comparison
 - Barter scenario

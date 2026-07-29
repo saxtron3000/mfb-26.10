@@ -22,20 +22,20 @@
 - What belongs in Core, Custom, and Advanced learning
 - How the 4-block learning path is organized
 
-## 3. Block 1: Problem / Fiat
+## 3. Block 1: Problem / Broken Money
 
 - Opening questions about money
 - Why money exists
 - Functions and properties of money
 - Barter and the double coincidence of wants
 - Scarcity, value, and exchange
-- Beginner monetary history from barter to modern fiat
+- Beginner monetary history from barter to modern money
 - Fiat money
 - Fractional reserve banking at beginner level
 - Inflation and purchasing power
 - CBDCs as digital fiat, not decentralized digital money
 - Why people look for alternatives (Precious Metals, Real Estate, Stocks)
-- Review: what problem does fiat money create?
+- Review: how can money break?
 
 ## 4. Block 2: Solution / Bitcoin
 

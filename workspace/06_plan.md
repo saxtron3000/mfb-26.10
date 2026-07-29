@@ -53,14 +53,14 @@ The Diploma is being reorganized, not replaced.
 
 | Block | Role | Title | Core question |
 |---|---|---|---|
-| 1 | Problem | Fiat | What problem does fiat money create? |
+| 1 | Problem | Broken Money | How can money break? |
 | 2 | Solution | Bitcoin | Why was Bitcoin created, and how does it respond? |
 | 3 | Action | Self-custody | How do I take responsibility for using and securing Bitcoin? |
 | 4 | Custom | Bitcoin as Money | How can Bitcoin function as money in this community? |
 
-## Block 1: Problem / Fiat
+## Block 1: Problem / Broken Money
 
-Keep this block focused on money and the fiat problem.
+Keep this block focused on money and the problems that can arise in modern money systems.
 
 Core content:
 
@@ -77,7 +77,7 @@ Core content:
 
 Outcome:
 
-Learners can explain why fiat money is the problem Bitcoin responds to.
+Learners can explain the money problems Bitcoin responds to.
 
 ## Block 2: Solution / Bitcoin
 

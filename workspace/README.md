@@ -37,7 +37,7 @@ For a faster orientation:
 
 | Block | Role | Working title | Core question |
 |---|---|---|---|
-| 1 | Problem | Fiat | What problem does fiat money create? |
+| 1 | Problem | Broken Money | How can money break? |
 | 2 | Solution | Bitcoin | Why was Bitcoin created, and how does it respond? |
 | 3 | Action | Self-custody | How do I take responsibility for using and securing Bitcoin? |
 | 4 | Custom | Bitcoin as Money | How can Bitcoin function as money in this community? |

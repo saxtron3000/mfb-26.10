@@ -27,7 +27,7 @@
 
 - Approximately 8-hour core pathway.
 - Four coherent blocks:
-  1. **Problem / Fiat** — understand the monetary problem.
+  1. **Problem / Broken Money** — understand the monetary problem.
   2. **Solution / Bitcoin** — understand Bitcoin’s design and purpose.
   3. **Action / Self-custody** — learn wallets, safety, and responsible use.
   4. **Custom / Bitcoin as Money** — connect learning to local tools, needs, and use cases.

@@ -130,7 +130,7 @@ Practical assessment should use testnet, prepared wallets, simulations, or appro
 
 | Block | Primary assessment emphasis | Required evidence pattern |
 |---|---|---|
-| 1. Problem / Fiat | Theoretical assessment | App quizzes and interactive learning, with educator-led explanation, discussion, game, role-play, or simulation touchpoints. |
+| 1. Problem / Broken Money | Theoretical assessment | App quizzes and interactive learning, with educator-led explanation, discussion, game, role-play, or simulation touchpoints. |
 | 2. Solution / Bitcoin | Theoretical assessment | App quizzes and interactive learning, with educator-led explanation, discussion, game, role-play, or scenario-response touchpoints. |
 | 3. Action / Self-custody | Practical competence and safety | Supporting theoretical checks plus direct educator observation of required wallet, transaction, verification, recovery, and safety capabilities. |
 | 4. Custom / Bitcoin as Money | Practical local competency | Direct educator observation of an approved local practical task, simulation, role-play, or problem-solving performance, supported by relevant theoretical knowledge. |
@@ -141,7 +141,7 @@ Blocks 1 and 2 are knowledge-dominant, while Blocks 3 and 4 are skills-dominant.
 
 # 6. Required Assessment By Block
 
-## Block 1: Problem / Fiat
+## Block 1: Problem / Broken Money
 
 Required evidence should include:
 

@@ -62,11 +62,11 @@ Core outcomes are required for every learner. The stable objective IDs should be
 
 | ID | Block | Every learner should be able to... | Primary evidence |
 |---|---|---|---|
-| `B1.1` | Problem / Fiat | Explain what money is and why societies use it. | Theoretical explanation |
-| `B1.2` | Problem / Fiat | Describe the beginner history and evolution of money, including barter and the limits that led societies toward other forms of money. | Knowledge and synthesis |
-| `B1.3` | Problem / Fiat | Identify the functions and properties of money. | Knowledge and classification |
-| `B1.4` | Problem / Fiat | Compare different forms of money using beginner monetary characteristics. | Applied comparison |
-| `B1.5` | Problem / Fiat | Explain basic fiat-system problems, including inflation, purchasing power loss, fractional reserve banking, and CBDCs as digital fiat where relevant at beginner level. | Knowledge, explanation, and scenario reasoning |
+| `B1.1` | Problem / Broken Money | Explain what money is and why societies use it. | Theoretical explanation |
+| `B1.2` | Problem / Broken Money | Describe the beginner history and evolution of money, including barter and the limits that led societies toward other forms of money. | Knowledge and synthesis |
+| `B1.3` | Problem / Broken Money | Identify the functions and properties of money. | Knowledge and classification |
+| `B1.4` | Problem / Broken Money | Compare different forms of money using beginner monetary characteristics. | Applied comparison |
+| `B1.5` | Problem / Broken Money | Explain how inflation, purchasing-power loss, fractional-reserve banking, and CBDCs can create problems in modern money systems at beginner level. | Knowledge, explanation, and scenario reasoning |
 | `B2.1` | Solution / Bitcoin | Explain why Bitcoin was created at beginner level, including the digital-copy and double-spend problem. | Theoretical explanation |
 | `B2.2` | Solution / Bitcoin | Explain Bitcoin's core properties: decentralization, credible finite supply, peer-to-peer transfer, and verifiability. | Knowledge and synthesis |
 | `B2.3` | Solution / Bitcoin | Describe the beginner roles of users, nodes, miners, and developers and the beginner relevance of proof of work, the 21 million limit, halving, and satoshis. | Knowledge, role-play, or concept illustration |
@@ -135,7 +135,7 @@ Advanced outcomes may include detailed Bretton Woods and geopolitical monetary h
 
 | Block | Learner promise | Objective emphasis |
 |---|---|---|
-| Problem / Fiat | Learners can explain and apply the money problem Bitcoin responds to. | Define money, explain barter and the evolution of money, compare monetary properties, and explain beginner fiat weaknesses including inflation and fractional reserve banking. |
+| Problem / Broken Money | Learners can explain and apply the money problems Bitcoin responds to. | Define money, explain barter and the evolution of money, compare monetary properties, and explain how inflation and fractional-reserve banking can create problems. |
 | Solution / Bitcoin | Learners can explain and illustrate why Bitcoin was created and what makes it different. | Explain Bitcoin's purpose, digital scarcity, double spending, credible finite supply, satoshis, peer-to-peer transfer, decentralization, and verification. |
 | Action / Self-custody | Learners can explain responsibility and demonstrate required beginner actions safely under supported conditions. | Explain relevant concepts and demonstrate wallet navigation, receiving or sending, verification, recovery readiness, risk response, and safe limits. |
 | Custom / Bitcoin as Money | Learners can demonstrate at least one approved locally relevant Bitcoin-as-money competency. | Educator-selected and directly assessed outcomes using local tools, simulations, testnet or low-stakes practice, payment or receiving scenarios, local resources, workshops, or case examples. |

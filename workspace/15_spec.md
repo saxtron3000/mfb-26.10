@@ -14,7 +14,7 @@ The 2026.10 version is a redesign of the existing Diploma. It is being reorganiz
 
 The 2026.10 Bitcoin Diploma is an approximately 8-hour beginner course organized into four blocks:
 
-1. Problem / Fiat
+1. Problem / Broken Money
 2. Solution / Bitcoin
 3. Action / Self-custody
 4. Custom / Bitcoin as Money
@@ -67,11 +67,11 @@ The redesign does not remove the mission of the Diploma. It makes the mission ea
 
 # Four-Block Learning Path
 
-## 1. Problem / Fiat
+## 1. Problem / Broken Money
 
 Learners begin with money itself.
 
-This block introduces why societies use money, what makes money useful, how money has changed over time, and what problems can emerge in fiat systems. Topics include barter, the functions and properties of money, scarcity, purchasing power, inflation, fractional reserve banking, beginner-level fiat-system roles, and CBDCs as digital fiat where appropriate.
+This block introduces why societies use money, what makes money useful, how money has changed over time, and what problems can emerge in modern money systems. Topics include barter, the functions and properties of money, scarcity, purchasing power, inflation, fractional reserve banking, beginner-level roles of banks and governments, and CBDCs where appropriate.
 
 Core question:
 
@@ -79,7 +79,7 @@ What problem does fiat money create?
 
 Learner outcome:
 
-Learners can explain why fiat money is the problem Bitcoin responds to.
+Learners can explain the money problems Bitcoin responds to.
 
 ## 2. Solution / Bitcoin
 

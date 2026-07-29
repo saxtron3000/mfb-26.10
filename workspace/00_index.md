@@ -68,7 +68,7 @@ Use these documents to understand:
 
 The redesign currently uses this 4-block structure:
 
-1. Problem / Fiat
+1. Problem / Broken Money
 2. Solution / Bitcoin
 3. Action / Self-custody
 4. Custom / Bitcoin as Money

@@ -112,7 +112,7 @@ The current working design direction is:
 
 The redesign should teach learners how to think, not what to think. Learners should leave with better questions, clearer reasoning, and more confidence.
 
-Legacy content is being reorganized, not simply discarded. Foundational money and fiat material moves into Problem / Fiat; Bitcoin origins and benefits move into Solution / Bitcoin; practical wallet and verification material moves into Action / Self-custody; daily-life payments, local tools, and local money examples move into Custom / Bitcoin as Money; deeper technical, philosophical, and future-facing content moves into Advanced pathways.
+Legacy content is being reorganized, not simply discarded. Foundational money and fiat material moves into Problem / Broken Money; Bitcoin origins and benefits move into Solution / Bitcoin; practical wallet and verification material moves into Action / Self-custody; daily-life payments, local tools, and local money examples move into Custom / Bitcoin as Money; deeper technical, philosophical, and future-facing content moves into Advanced pathways.
 
 ---
 
@@ -120,12 +120,12 @@ Legacy content is being reorganized, not simply discarded. Foundational money an
 
 | Block | Learning Role | Title |
 |---|---|---|
-| Block 1 | Problem | Fiat |
+| Block 1 | Problem | Broken Money |
 | Block 2 | Solution | Bitcoin |
 | Block 3 | Action | Self-custody |
 | Block 4 | Custom | Bitcoin as Money |
 
-## Block 1: Problem / Fiat
+## Block 1: Problem / Broken Money
 
 Focus:
 
@@ -423,7 +423,7 @@ The Diploma remains open, serious, and community driven.
 | 2. Why Redesign? | 1:15 | The issue is not lack of value; it is overload, pacing, and teachability. | Before / after contrast |
 | 3. What Stays | 1:00 | The mission, open-source model, community leadership, and Bitcoin-only focus remain. | Four preservation anchors |
 | 4. What Changes | 1:15 | The pathway becomes 8 hours, 4 blocks, practical, and easier to teach. | Change stack |
-| 5. The 4-Block Model | 2:00 | Problem / Fiat, Solution / Bitcoin, Action / Self-custody, Custom / Bitcoin as Money. | Horizontal block diagram |
+| 5. The 4-Block Model | 2:00 | Problem / Broken Money, Solution / Bitcoin, Action / Self-custody, Custom / Bitcoin as Money. | Horizontal block diagram |
 | 6. Educators Complete The Local Story | 1:30 | The fourth block is selected by educators because they know their communities best. | Educator choosing from module bank |
 | 7. A Learning And Assessment Ecosystem | 1:30 | The Student Book, Educator Guide, app, Activity Bank, and trained educators work together. | Ecosystem diagram |
 | 8. What This Makes Possible | 1:15 | More learners can complete the Diploma while robust assessment protects certificate reputation. | Learner-to-certificate pathway |
@@ -479,7 +479,7 @@ Time: 120 seconds
 
 Key message: The new structure tells a simpler learning story.
 
-Speaker note: Walk through the four blocks: Problem / Fiat, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money.
+Speaker note: Walk through the four blocks: Problem / Broken Money, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money.
 
 Suggested visual: Horizontal 4-block diagram.
 
