@@ -511,7 +511,65 @@ Use these types throughout the bank when they fit the learning purpose:
 | Reflection | Personal sense-making and discussion | No right answer; do not collect sensitive information. |
 | Confidence check | Targeted review and educator support | Never use as assessment evidence by itself. |
 
-# 7. Review And Release Checklist
+# 7. App Implementation Questions For Development
+
+Confirm these decisions with the app developer before converting the question-bank opportunities in this document into upload-ready item records.
+
+## Content and question types
+
+1. Which interaction types can the app support now: single-choice multiple choice, multiple-select, true/false, ordering, matching, fill-in-the-blank, numeric answer, short written answer, reflection, or multi-step scenario?
+2. Can an item include images, diagrams, audio, video, or links?
+3. Can prompts, answer options, and feedback include formatted text, such as bold terms, lists, tables, or the Bitcoin symbol?
+4. Can the app show a short teaching card before a question, or only questions?
+5. Can one microlearning item contain several screens, for example explanation, scenario, question, then feedback?
+
+## Answer handling and feedback
+
+6. Can the app store one correct answer, multiple correct answers, or a required answer order?
+7. Can each answer option have its own feedback, or is there only one general correct or incorrect message?
+8. Can the app accept several equivalent short-answer responses, or do written answers require educator review?
+9. Can reflections be unscored and optionally saved? Who can see them: the learner only, an educator, or administrators?
+10. Can an item be marked as discussion only or educator follow-up required rather than automatically scored?
+
+## Assessment and learner flow
+
+11. Can items be tagged as practice, required knowledge check, safety-critical check, reflection, or educator follow-up?
+12. Can we set a passing score by topic, block, or full course?
+13. Can learners retry questions? If yes, can we control the number of attempts, whether feedback appears immediately, whether questions are randomized, and whether the correct answer appears after an attempt?
+14. Can the app require a learner to complete one topic or block before opening the next?
+15. Can the app distinguish completion from passing?
+16. Can it flag repeated incorrect answers, especially on safety topics, for educator support?
+
+## Data, reporting, and educator role
+
+17. What learner data is recorded for each item: answer selected, score, attempts, time, completion date, and feedback viewed?
+18. Can educators see progress by learner, topic, block, and question?
+19. Can educators add an observation, mark a practical task as complete, or override an app result?
+20. Can results be exported? In which formats: CSV, spreadsheet, API, PDF, or dashboard?
+21. Can the system combine app results with educator-led assessment records while keeping them clearly separate?
+
+## Content import and maintenance
+
+22. What is the required import format: CSV, Excel, JSON, API, Markdown, or manual entry?
+23. Can the developer provide the exact required fields and a sample import file?
+24. Does each question need a unique ID? Can IDs remain stable when wording changes?
+25. How are answer options represented in the import format?
+26. Can we attach metadata such as objective ID, block, topic, difficulty, language, review date, source, and content owner?
+27. Can content be drafted, reviewed, approved, published, and retired through separate statuses?
+28. Can we update one item without breaking existing learner records?
+
+## Language, access, and safety
+
+29. Does the app support multiple languages for the same item while retaining one stable item ID?
+30. Can it support right-to-left languages and non-Latin scripts?
+31. Does it work offline or with weak connectivity? How does it sync progress later?
+32. What accessibility support exists: screen readers, keyboard navigation, captions, text resizing, contrast, and audio alternatives?
+33. Where is learner data stored, who can access it, and can learners delete their saved reflections or personal data?
+34. Can the platform prevent the collection of sensitive information in responses, such as seed phrases, private keys, holdings, or financial details?
+
+Request these four outputs first: a sample import file, a list of supported question types, the scoring and retry rules, and a description of educator reporting.
+
+# 8. Review And Release Checklist
 
 Before an item enters the app, confirm:
 
