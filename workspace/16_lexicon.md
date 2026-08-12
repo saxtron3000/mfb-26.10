@@ -45,9 +45,10 @@ This feedback-reviewed lexicon lists Bitcoin and Bitcoin-adjacent terms that a b
 | **Representative paper** | Paper that can be redeemed for a stated amount of an asset, historically often metal. | First: **302**<br>Later: — |
 | **Paper claim** | A paper record representing a claim on an issuer for a stated asset or amount. | First: **302**<br>Later: — |
 | **Debasement** | Reducing a coin’s valuable-metal content while keeping its stated value the same. | First: **300**<br>Later: — |
+| **Executive Order 6102** | A 1933 U.S. order that restricted private gold ownership in a particular historical and legal context. | First: Beginner monetary history<br>Later: — |
 | **Gold Standard** | A monetary system in which currency can be exchanged for a fixed amount of gold. | Not present |
 | **Bretton Woods** | The post-1944 international monetary arrangement that linked currencies to the U.S. dollar and the dollar to gold. | Not present |
-| **Nixon Shock** | The 1971 U.S. decision that ended international dollar-to-gold convertibility. | First: **306**<br>Later: — |
+| **Nixon Shock** | The 1971 U.S. decision that ended international dollar-to-gold convertibility. | First: Beginner monetary history<br>Later: reserve-currency context |
 | **Convertibility** | The ability to exchange one form of money for another asset at a stated rate. | First: **306**<br>Later: — |
 | **Fiat money** | Money issued under state authority whose value is not fixed to redemption in a scarce commodity. | First: **313**<br>Later: 315, 319, 321, 323, 325, 334, 336, 369, 371, 375, 377, 410, 417, 422, 640, 648, 664, 668, 685, 889, 989, 1005, 1220, 1228, 1307, 1358 |
 | **“By decree”** | By an official order from an authority. | First: **314**<br>Later: — |
@@ -176,7 +177,7 @@ This feedback-reviewed lexicon lists Bitcoin and Bitcoin-adjacent terms that a b
 | **Block subsidy** | New bitcoin created by the rules and paid to the miner of a valid block. | First: **523**<br>Later: 577 |
 | **Issuance schedule** | The rules that control how new bitcoin is issued over time. | First: **523**<br>Later: 575 |
 | **Maximum supply** | The greatest total amount of bitcoin the rules allow. | First: **523**<br>Later: 575 |
-| **Halving** | The event that cuts Bitcoin’s block subsidy in half after every 210,000 blocks. | First: **525**<br>Later: 670 |
+| **Halving** | The event that cuts Bitcoin’s block subsidy in half after every 210,000 blocks. | First: Finite supply<br>Later: — |
 
 ### Satoshis and unit bias
 

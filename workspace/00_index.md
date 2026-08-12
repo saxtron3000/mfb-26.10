@@ -81,8 +81,8 @@ Working assumptions:
 
 - in-person first;
 - offline-capable print or PDF first;
-- approximately 8 hours total;
-- approximately 2 hours per block;
+- an approximately 8-hour minimum planning baseline, with additional time where required to meet the objectives;
+- four blocks that may be delivered across four two-hour sessions, eight one-hour sessions, or another objective-preserving schedule;
 - one beginner Diploma with Custom and Advanced pathways;
 - Core, Custom, and Advanced content separation;
 - shared Core theory with localized, educator-led practice;

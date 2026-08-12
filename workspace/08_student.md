@@ -211,7 +211,7 @@ A topic is not unimportant because it is outside the Core path. It may simply re
 | 3. Action / Self-Custody | Understand the responsibility | How do I use and secure Bitcoin responsibly? | You can explain beginner custody and safety concepts. |
 | 4. Custom / Bitcoin As Money | Connect learning to local life | How can Bitcoin function as money here? | You can identify relevant local uses, tools, risks, and next steps. |
 
-Each block is designed for approximately two hours of learning, including discussion and practice. The exact timing may change with class size and local activities.
+The four blocks provide the required learning sequence, not a fixed class timetable. Four two-hour sessions are one possible format. Your educator may divide a block across more sessions when learners need more time for discussion, practice, review, or assessment.
 
 ---
 
@@ -579,6 +579,13 @@ Proof of work involves a real energy cost. Supporters argue that this cost is wh
 Bitcoin's rules define a predictable issuance schedule and a maximum supply of 21 million bitcoin. New bitcoin enter circulation through the block subsidy paid to miners who produce valid blocks.
 
 Every 210,000 blocks, the subsidy is cut in half. This event is called a **halving**. Because blocks are produced about every ten minutes on average, a halving occurs roughly every four years. The exact calendar date is not fixed.
+
+| Halving year | Block height | Subsidy after halving |
+| --- | ---: | ---: |
+| 2012 | 210,000 | 25 bitcoin |
+| 2016 | 420,000 | 12.5 bitcoin |
+| 2020 | 630,000 | 6.25 bitcoin |
+| 2024 | 840,000 | 3.125 bitcoin |
 
 The subsidy began at 50 bitcoin per block. It falls by half in repeated steps until it becomes too small to continue. Miners also receive transaction fees. Over time, fees are expected to become a more important part of miner revenue.
 

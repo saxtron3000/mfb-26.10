@@ -12,7 +12,7 @@ The 2026.10 version is a redesign of the existing Diploma. It is being reorganiz
 
 # Short Summary
 
-The 2026.10 Bitcoin Diploma is an approximately 8-hour beginner course organized into four blocks:
+The 2026.10 Bitcoin Diploma is a beginner course organized into four blocks, with an approximately 8-hour minimum planning baseline:
 
 1. Problem / Broken Money
 2. Solution / Bitcoin
@@ -51,7 +51,7 @@ The redesign responds to problems found in the existing Diploma: unclear duratio
 
 The new version improves the Diploma by:
 
-- shortening the beginner pathway to approximately 8 hours;
+- establishing an approximately 8-hour minimum planning baseline while allowing additional time needed to meet the objectives;
 - organizing the course into four clear blocks;
 - separating required Core content from Custom local practice and Advanced future learning;
 - increasing practical learning, discussion, reflection, and learner explanation;

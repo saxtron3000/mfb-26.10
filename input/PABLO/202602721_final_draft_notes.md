@@ -22,7 +22,7 @@ Sources: `20260715_PABLO_draft_notes.pdf` (53 scanned, annotated pages), `202607
 
 ### Page 1
 
-- [ ] Replace “create” in “We create free and open-source Bitcoin education” with a precise verb.
+- [ ] Replace “create” in “We create free and open-source Bitcoin education” with a better verb.
 - [ ] Change “a public school” to “one public school.”
 - [ ] Research/add MFB’s origin: who, when, and where.
 - [ ] Mention the Diploma’s progression from the El Salvador pilot to worldwide use.

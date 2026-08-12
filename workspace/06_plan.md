@@ -26,8 +26,8 @@ Current design commitments:
 
 - in-person first;
 - offline-capable print or PDF first;
-- approximately 8 hours total;
-- 4 blocks of approximately 2 hours each;
+- an approximately 8-hour minimum planning baseline, with additional time when needed to meet the objectives;
+- 4 blocks that may be delivered in four two-hour sessions, eight one-hour sessions, or another schedule that preserves the learning sequence and required evidence;
 - Core, Custom, and Advanced content separation;
 - shared Core theory and outcomes with localized, educator-led practice;
 - English-first drafting with simplicity, tone, style, terminology, and translation-readiness review before translation or publication;
@@ -69,7 +69,7 @@ Core content:
 - functions and properties of money;
 - barter limitations, including the double coincidence of wants;
 - scarcity, time preference, and opportunity cost through essential ideas;
-- short history from barter to modern money, including the Nixon Shock as a brief historical marker;
+- short history from barter to modern money, including the Nixon Shock as a brief historical marker and, where useful, Executive Order 6102 as a clearly labelled U.S.-specific example;
 - fiat systems, including central banks, commercial banks, governments, and citizens with a simple role map;
 - fractional reserve banking and bank runs as an overview;
 - inflation and purchasing power;
@@ -93,7 +93,7 @@ Core content:
 - decentralization;
 - users, nodes, and miners as network roles;
 - developer, miner, node, and user role boundaries with clear role distinctions;
-- proof of work with a simplified process;
+- proof of work with a simplified process; introduce hash functions only as the mechanism that makes proof of work costly to produce and quick to check, not as a calculation or cryptography lesson;
 - finite supply and halving;
 - satoshis and unit bias;
 - peer-to-peer transfer;
@@ -322,6 +322,8 @@ Advanced content should not overload the beginner pathway. It may later become o
 
 Class time should be used for learning that benefits from live facilitation.
 
+Begin time planning with the objectives, required practice, and assessment evidence. Do not shorten or waive these merely to fit a one- or two-hour session; schedule a follow-up when necessary. Educators may assign the relevant Student Book chapter as optional preparation before class, but must not make pre-reading, a device, or connectivity a condition for Core learning.
+
 Prioritize:
 
 - discussion;
@@ -347,6 +349,8 @@ Internal performance rule:
 Treat the beginner pathway like a lean, high-performance learning experience. Every required component should improve learner clarity, completion likelihood, practice, educator usability, safety, translation readiness, or maintainability.
 
 Each block should close with a short review point. The review should include key takeaways, a learner explanation prompt, a link to the next block, and an evidence-of-learning opportunity that can connect to `13_assessment.md`.
+
+Suggested delivery sequencing belongs in the Educator Guide. It can divide Block 1 into money foundations and modern fiat-system trade-offs, and Block 3 into custody foundations and transaction verification/safety, while preserving educator choice about activities and local pacing.
 
 Each block should follow a simple rhythm:
 

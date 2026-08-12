@@ -54,8 +54,8 @@ The My First Bitcoin app is an essential tool for teaching the Diploma. It provi
 
 ## 2. Pacing And Timing
 
-- 8-hour pathway overview
-- Approximately 2 hours per block
+- Minimum 8-hour planning baseline, with additional time where objectives require it
+- Four two-hour sessions as one delivery model, not a fixed limit
 - Suggested timing per block
 - Flexible delivery models: one-day, four-day, or eight-day
 - Offline print/PDF first delivery
@@ -65,7 +65,7 @@ The My First Bitcoin app is an essential tool for teaching the Diploma. It provi
 
 ### Managing The 8-Hour Pathway
 
-The Core Diploma is designed as approximately 8 hours of teaching time. Educators may deliver those hours in different time chunks depending on learner availability, venue constraints, travel time, energy level, device access, and local teaching context.
+The Core Diploma has an approximately 8-hour minimum planning baseline. Educators should add time when needed to meet the objectives, practice requirements, and assessment standard, and may deliver the learning in different time chunks depending on learner availability, venue constraints, travel time, energy level, device access, and local teaching context.
 
 The four-block sequence should remain the same:
 
@@ -75,6 +75,8 @@ The four-block sequence should remain the same:
 4. Custom / Bitcoin as Money
 
 Educators should choose the schedule that gives learners enough time to discuss, practice, ask questions, and review without overloading them.
+
+Plan from the learning objectives, required practice, and assessment evidence first. Do not cut or waive them merely to fit a fixed session length. If they do not fit, schedule another session or an assessment follow-up. Educators may invite learners to read the relevant Student Book chapter before class so live time can focus on discussion, questions, local context, and selected activities. Pre-reading must remain optional and must not create an access barrier.
 
 The course should feel lean and intentional. When time is tight, protect learner explanation, practice, safety, review, and required assessment before adding technical depth or extra examples. Required objectives and certification assessments must not be cut. If they do not fit in the teaching session, the educator must schedule an assessment follow-up rather than certify without evidence.
 
@@ -112,6 +114,11 @@ Use optional videos only when the venue, device access, connectivity, and learne
 
 ### Problem / Broken Money
 
+Suggested two-part sequence when more time is available:
+
+1. Money foundations: opening questions; functions and properties; barter; scarcity, value, and exchange; and the short history to modern money.
+2. Modern-money trade-offs: fiat money; fractional-reserve banking; inflation and purchasing power; CBDCs where appropriate; alternatives; and review.
+
 - Core ideas
 - Opening money questions
 - Key fiat-system roles
@@ -137,6 +144,11 @@ Use optional videos only when the venue, device access, connectivity, and learne
 - Review point
 
 ### Action / Self-custody
+
+Suggested two-part sequence when more time is available:
+
+1. Custody foundations: wallets, addresses, keys, seed phrases, custody choices, recovery readiness, receiving, and sending.
+2. Verification and safety: block explorers, confirmations, irreversible transactions, safety checks, acquisition pathways as awareness rather than advice, on-chain and Lightning distinctions, and review.
 
 - Core ideas
 - Safety boundaries

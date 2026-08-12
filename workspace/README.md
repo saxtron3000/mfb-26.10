@@ -10,8 +10,8 @@ The project is in active planning and drafting. The files in `workspace/` are wo
 
 The current direction is:
 
-- an approximately 8-hour beginner Diploma;
-- four blocks of approximately 2 hours each;
+- a beginner Diploma with an approximately 8-hour minimum planning baseline;
+- four blocks that may be delivered in four two-hour sessions or another objective-preserving schedule;
 - a shared Core followed by an educator-selected Custom block;
 - in-person, offline-capable print or PDF delivery first;
 - practical learning, discussion, reflection, review, and learner explanation in every block;

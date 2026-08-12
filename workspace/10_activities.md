@@ -75,6 +75,8 @@ Activities should:
 - identify when local expert guidance is needed;
 - avoid unsafe financial or custody assumptions.
 
+Each published Activity Bank item must also state its realistic facilitation time, whether it has been piloted, its online and offline suitability, any required materials or tool dependencies, and an equivalent low-tech fallback. Named websites, explorers, or trackers may be listed only as optional examples; they must not be a required dependency or a global recommendation.
+
 Every activity must be identified as one or more of:
 
 - learning and practice;
