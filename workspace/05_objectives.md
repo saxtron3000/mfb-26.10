@@ -42,10 +42,10 @@ A realistic graduate of the 8-hour beginner Diploma can:
 
 | Area | Realistic outcome |
 |---|---|
-| Knowledge | Can identify and accurately explain beginner money, fiat, Bitcoin, wallet, custody, and safety concepts. |
+| Knowledge | Can identify and accurately explain beginner money, fiat, sound-money, Bitcoin, non-Bitcoin crypto-asset, stablecoin, wallet, custody, and safety concepts. |
 | Explanation | Can explain core ideas in plain language. |
-| Comparison | Can compare fiat money and Bitcoin in plain language. |
-| Practical capability | Can demonstrate required beginner wallet, receiving or sending, verification, recovery-readiness, and safety actions under approved, supported conditions. |
+| Comparison | Can compare fiat money, Bitcoin, and common non-Bitcoin crypto-asset claims in plain language. |
+| Practical capability | Can demonstrate required beginner wallet, safe first-access, receiving or sending, verification, recovery-readiness, and safety actions under approved, supported conditions. |
 | Reasoning | Can participate in guided discussion using simple evidence and trade-off thinking. |
 | Confidence | Can ask better questions, avoid obvious beginner mistakes, and continue learning. |
 | Language transfer | Can meet the same beginner outcomes whether the course is taught in the source language or through a localized translation. |
@@ -67,9 +67,13 @@ Core outcomes are required for every learner. The stable objective IDs should be
 | `B1.3` | Problem / Broken Money | Identify the functions and properties of money. | Knowledge and classification |
 | `B1.4` | Problem / Broken Money | Compare different forms of money using beginner monetary characteristics. | Applied comparison |
 | `B1.5` | Problem / Broken Money | Explain how inflation, purchasing-power loss, fractional-reserve banking, and CBDCs can create problems in modern money systems at an introductory scope. | Knowledge, explanation, and scenario reasoning |
+| `B1.6` | Problem / Broken Money | Relate at least one observed, local, or realistic money experience to a monetary property or modern-money problem, without requiring personal financial disclosure. | Guided reflection and explanation |
 | `B2.1` | Solution / Bitcoin | Give an introductory explanation of why Bitcoin was created, including the digital-copy and double-spend problem. | Theoretical explanation |
 | `B2.2` | Solution / Bitcoin | Explain Bitcoin's core properties: decentralization, credible finite supply, peer-to-peer transfer, and verifiability. | Knowledge and synthesis |
 | `B2.3` | Solution / Bitcoin | Describe the beginner roles of users, nodes, miners, and developers and the beginner relevance of proof of work, the 21 million limit, halving, and satoshis. | Knowledge, role-play, or concept illustration |
+| `B2.4` | Solution / Bitcoin | Assess whether Bitcoin can be described as sound money by applying beginner monetary properties and explaining the limits of that judgment. | Guided comparison and explanation |
+| `B2.5` | Solution / Bitcoin | Compare Bitcoin with non-Bitcoin crypto-assets (often called “shitcoins”), including stablecoins, using issuer or control, supply or issuance, verification, custody, and counterparty considerations in a guided scenario. | Applied comparison and scenario reasoning |
+| `B2.6` | Solution / Bitcoin | Explain why the Diploma treats Bitcoin learning and responsible use as different from short-term trading, token promotion, or speculation, including the beginner risks of each. | Theoretical explanation and safety judgment |
 | `B3.1` | Action / Self-custody | Explain wallets, addresses, keys, seed phrases, and custody through essential terms and examples. | Knowledge and explanation |
 | `B3.2` | Action / Self-custody | Compare custodial and non-custodial approaches in guided scenarios. | Applied comparison |
 | `B3.3` | Action / Self-custody | Identify what hardware wallets are, why people use them, and how they differ from hot wallets in a practical overview. | Knowledge and scenario response |
@@ -80,7 +84,9 @@ Core outcomes are required for every learner. The stable objective IDs should be
 | `B3.8` | Action / Self-custody | Distinguish on-chain and Lightning payments and select an appropriate beginner pathway in a guided scenario. | Theoretical scenario |
 | `B3.9` | Action / Self-custody | Compare beginner pathways for acquiring or exchanging bitcoin, including relevant risks, without treating any pathway as a recommendation or financial advice. | Applied comparison |
 | `B3.10` | Action / Self-custody | Distinguish beginner practical Bitcoin use from advanced technical or high-stakes activity and identify when to stop or seek help. | Applied safety judgment |
+| `B3.11` | Action / Self-custody | Gain access to bitcoin in an approved low-stakes or simulated environment by completing a supported first-access pathway, receiving the bitcoin, and checking the relevant wallet and transaction information. | Direct educator observation |
 | `ALL.1` | All blocks | Participate in guided discussion using clear explanations, relevant evidence, respectful listening, and basic reasoning. | Direct educator observation |
+| `ALL.2` | All blocks | Articulate a personal reason to continue learning about Bitcoin, or a reason for remaining uncertain, using course concepts and an observed, local, or realistic money experience without making an investment claim. | Guided reflection and explanation |
 
 ## Custom Outcomes
 
@@ -135,9 +141,9 @@ Advanced outcomes may include detailed Bretton Woods and geopolitical monetary h
 
 | Block | Learner promise | Objective emphasis |
 |---|---|---|
-| Problem / Broken Money | Learners can explain and apply the money problems Bitcoin responds to. | Define money, explain barter and the evolution of money, compare monetary properties, and explain how inflation and fractional-reserve banking can create problems. |
-| Solution / Bitcoin | Learners can explain and illustrate why Bitcoin was created and what makes it different. | Explain Bitcoin's purpose, digital scarcity, double spending, credible finite supply, satoshis, peer-to-peer transfer, decentralization, and verification. |
-| Action / Self-custody | Learners can explain responsibility and demonstrate required beginner actions safely under supported conditions. | Explain relevant concepts and demonstrate wallet navigation, receiving or sending, verification, recovery readiness, risk response, and safe limits. |
+| Problem / Broken Money | Learners can explain and apply the money problems Bitcoin responds to. | Define money, explain barter and the evolution of money, compare monetary properties, explain how inflation and fractional-reserve banking can create problems, and connect a money problem to a lived, local, or realistic experience. |
+| Solution / Bitcoin | Learners can explain and illustrate why Bitcoin was created and what makes it different. | Explain Bitcoin's purpose, digital scarcity, double spending, credible finite supply, satoshis, peer-to-peer transfer, decentralization, verification, sound-money reasoning, and its distinction from stablecoins and other non-Bitcoin crypto-assets. |
+| Action / Self-custody | Learners can explain responsibility and demonstrate required beginner actions safely under supported conditions. | Explain relevant concepts and demonstrate wallet navigation, a supported first-access pathway, receiving or sending, verification, recovery readiness, risk response, and safe limits. |
 | Custom / Bitcoin as Money | Learners can demonstrate at least one approved locally relevant Bitcoin-as-money competency. | Educator-selected and directly assessed outcomes using local tools, simulations, testnet or low-stakes practice, payment or receiving scenarios, local resources, workshops, or case examples. |
 
 This map should guide assessment, Activity Bank design, Educator Guide pacing, and public communication.
@@ -150,11 +156,12 @@ This map should guide assessment, Activity Bank design, Educator Guide pacing, a
 |---|---|
 | Monetary foundations | Explain what money is, why it exists, and what makes money useful. |
 | Beginner economic reasoning | Use scarcity, time preference, opportunity cost, incentives, and trade-offs in simple discussions. |
-| Bitcoin fundamentals | Explain Bitcoin's purpose, core properties, and role as monetary technology. |
-| Practical Bitcoin capability | Safely demonstrate required beginner wallet, receiving or sending, verification, recovery-readiness, and risk-response actions under approved conditions. |
+| Bitcoin fundamentals | Explain Bitcoin's purpose, core properties, sound-money case, and role as monetary technology. |
+| Bitcoin comparison and scope | Compare Bitcoin, stablecoins, and other non-Bitcoin crypto-assets; distinguish responsible learning and use from trading, token promotion, and speculation. |
+| Practical Bitcoin capability | Safely demonstrate required beginner wallet, first-access, receiving or sending, verification, recovery-readiness, and risk-response actions under approved conditions. |
 | Guided critical discussion | Discuss simple Bitcoin claims using prompts, evidence, trade-offs, and clear reasoning. |
 | Social learning | Listen, ask clarifying questions, explain their thinking, and participate respectfully. |
-| Local relevance | Reflect on how Bitcoin may relate to local community conditions when included in delivery. |
+| Personal and local relevance | Connect a money experience to course concepts and articulate an evidence-based personal reason to continue learning about Bitcoin, including uncertainty where appropriate. |
 
 ---
 
@@ -210,6 +217,7 @@ Before objectives are final, resolve:
 
 - final Core, Custom, and Advanced boundaries;
 - final practical tasks and observable rubrics for `B3.5`, `B3.6`, `B3.7`, `B4.1`, and `B4.2`;
+- final content boundaries, evidence, and passing criteria for `B1.6`, `B2.4`–`B2.6`, `B3.11`, and `ALL.2`;
 - evidence and passing criteria for every objective ID;
 - required safety practices and recovery concepts for Core;
 - Custom block guardrails;
