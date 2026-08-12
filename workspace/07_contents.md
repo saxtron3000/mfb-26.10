@@ -30,6 +30,7 @@
 - Barter and the double coincidence of wants
 - Scarcity, value, and exchange
 - Beginner monetary history from barter to modern money
+- Coin debasement as a historical example
 - Fiat money
 - Fractional reserve banking
 - Inflation and purchasing power
@@ -45,6 +46,7 @@
 - Digital scarcity and credible scarcity
 - Decentralization
 - Peer-to-peer transfer
+- Don’t trust, verify: public-rule verification and personal responsibility
 - Users, nodes, and miners
 - Proof of work
 - Finite supply

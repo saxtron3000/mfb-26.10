@@ -174,7 +174,7 @@ These are pathway ideas, not final product names.
 
 # 6. Legacy Migration Notes For Advanced
 
-`../ref/01_bd_202604_contents.csv` was reviewed as a legacy table-of-contents migration map.
+`../ref/01_bd_202604_contents.csv` and `../input/Bitcoin Diploma - L1 & L2.md` were reviewed as legacy structure proposals and migration sources.
 
 Reading rule:
 
@@ -187,6 +187,7 @@ Migration summary for Advanced:
 | Destination | Legacy content signal | Redesign decision |
 |---|---|---|
 | Advanced | deeper psychology, detailed mining, mempool, detailed transactions, philosophy, future scenarios | Move into Advanced pathways or educator background. |
+| Advanced | L1 UTXOs; L2 detailed monetary history, protocol mechanics, Lightning operation, and high-security custody | Preserve as module seeds; do not return them to the beginner Core. |
 
 Split decisions:
 
@@ -197,6 +198,17 @@ Split decisions:
 - Lightning distinctions may be introduced briefly, but wallet setup and payment practice normally belongs in Custom.
 - Buying and selling bitcoin may appear in Core as a conceptual risk map, but provider-specific practice belongs in Custom or Advanced.
 - Named services, wallets, exchanges, peer-to-peer platforms, and local recommendations should not become global Student Book recommendations.
+
+### L2 Module Seeds
+
+The earlier L2 proposal supplies concise sequences for future module design. These are seeds only; they are not approved module outlines or Advanced outcomes.
+
+| Future module | Suggested sequence recovered from L2 | Boundary |
+|---|---|---|
+| History of Money (localisation) | Bretton Woods context; 1971 end of dollar-to-gold convertibility; local and global consequences | Keep only the brief historical marker in Core. |
+| Mining & Consensus | Transaction relay and validation; candidate-block construction; proof of work; hashes and block headers; difficulty adjustment; block propagation; consensus; optional Merkle trees | Core keeps participant roles and simplified proof of work. |
+| Lightning Network | Channel opening and closing; payment channels; HTLCs; routing; liquidity; routing failures; operational trade-offs | Core distinguishes on-chain from Lightning; Custom may support locally appropriate payment practice. |
+| Bitcoin Self-Custody | Hot, hardware, and air-gapped signing; passphrases; multisig; encrypted-backup trade-offs; recovery and inheritance planning | Core gives an introductory hardware-wallet and recovery-safety overview. |
 
 ---
 
@@ -567,9 +579,12 @@ Content to preserve:
 - difficulty target;
 - mining as repeated hashing;
 - proof of work as costly work that is easy to verify;
+- block-header fields as the compact data miners repeatedly hash;
 - difficulty adjustment every 2,016 blocks;
 - 10-minute average block interval;
 - competing blocks and discarded alternatives;
+- block propagation and how independently validating nodes relay valid blocks;
+- Merkle trees as an optional data-structure extension for connecting transactions to a block;
 - miner incentives;
 - transaction-fee market;
 - future fee-revenue importance;
@@ -657,7 +672,8 @@ Content to preserve:
 - hardware wallet security models;
 - Bitcoin-only firmware;
 - airgapped signing;
-- multisig and inheritance as future possible additions.
+- passphrases and the added recovery risk they create;
+- multisig, encrypted-backup trade-offs, and inheritance as future possible additions.
 
 Possible Advanced modules:
 
@@ -730,6 +746,8 @@ Content to preserve:
 
 - Lightning as a payment network built on top of Bitcoin;
 - payment channels;
+- channel opening and closing;
+- hash time-locked contracts (HTLCs) as the conditional-payment mechanism behind many Lightning payment paths;
 - shared-wallet or tab analogy;
 - off-chain payments;
 - settlement back to the blockchain;

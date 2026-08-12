@@ -69,7 +69,7 @@ Core content:
 - functions and properties of money;
 - barter limitations, including the double coincidence of wants;
 - scarcity, time preference, and opportunity cost through essential ideas;
-- short history from barter to modern money, including the Nixon Shock as a brief historical marker and, where useful, Executive Order 6102 as a clearly labelled U.S.-specific example;
+- short history from barter to modern money, including coin debasement as a historical example, the Nixon Shock as a brief historical marker and, where useful, Executive Order 6102 as a clearly labelled U.S.-specific example;
 - fiat systems, including central banks, commercial banks, governments, and citizens with a simple role map;
 - fractional reserve banking and bank runs as an overview;
 - inflation and purchasing power;
@@ -98,6 +98,7 @@ Core content:
 - satoshis and unit bias;
 - peer-to-peer transfer;
 - verifiability;
+- the "don't trust, verify" principle as a bridge from public-rule verification to personal safety practice;
 - Bitcoin as sound digital money;
 - personal responsibility as the bridge into self-custody.
 
