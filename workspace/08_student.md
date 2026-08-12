@@ -424,6 +424,16 @@ Do not assume that every proposed CBDC has the same design. Use current, local, 
 
 Pause and consider the money you use: what makes it useful in daily life, and which of its rules depend on institutions you must trust? Barter is difficult because matching needs is inefficient, while fiat money makes exchange easier but can involve changing supply, restricted access, and declining purchasing power. In short, people look for monetary alternatives when they want different trade-offs around supply, control, access, and trust.
 
+#### Key takeaways
+
+- Money helps people exchange, compare prices, record value, and move value across time.
+- The main functions of money are a medium of exchange, a unit of account, and a store of value.
+- Monetary properties such as durability, portability, divisibility, scarcity, acceptability, and verifiability help us compare different forms of money.
+- Barter is difficult at scale because both people must want what the other offers at the same time and in suitable amounts.
+- Money has developed in different ways across societies, often improving convenience while creating new trade-offs in trust, control, and access.
+- Fiat money can support convenient payments and flexible credit, but its supply and rules depend on institutions.
+- Inflation, fractional-reserve banking, and CBDC design can affect purchasing power, access, privacy, and the need to trust institutions.
+
 The next block examines Bitcoin's attempt to create a different set of monetary rules.
 
 ---
@@ -683,6 +693,16 @@ Personal responsibility does not mean acting alone or refusing help. A cautious 
 ### Review: how does Bitcoin respond to fiat problems?
 
 Pause and consider how Bitcoin changes the trust model: how do public rules, finite issuance, peer-to-peer transfer, and independent verification respond to the concerns raised in the previous block? Ask yourself how nodes and miners have different roles, why double spending must be prevented, and which new responsibilities arise when a person controls their own keys. Bitcoin replaces some institutional trust with verification and personal responsibility; it does not remove risk or trade-offs.
+
+#### Key takeaways
+
+- Bitcoin was created to make digital transfer possible without a central ledger keeper while preventing double spending.
+- Its public ledger, digital signatures, peer-to-peer network, proof of work, and independent verification work together to maintain a shared transaction history.
+- Bitcoin is decentralized in the sense that no single participant can unilaterally change balances or the rules for everyone.
+- Users choose whether to hold or accept bitcoin; nodes verify the rules; miners propose blocks; and developers can propose, but not impose, software changes.
+- Bitcoin has a public supply schedule with a maximum of 21 million bitcoin, and nodes reject blocks that break this rule.
+- One bitcoin divides into 100,000,000 sats, so people can use smaller units without needing a whole bitcoin.
+- Bitcoin can be evaluated as sound money using monetary properties, while still recognizing volatility, limited acceptance, irreversible errors, and personal responsibility.
 
 ---
 
@@ -1040,6 +1060,16 @@ Detailed Lightning setup and live payment practice belong in the Custom block wh
 ### Review: what does self-custody responsibility mean?
 
 Pause and consider what direct control would require from you: could you protect a recovery plan, distinguish safe receiving information from secrets, and verify a recipient, amount, network, and fee before sending? Self-custody gives you control of the keys, but it removes the provider who might reset access or reverse an error; custodial services make a different set of trust and risk trade-offs. The practical recap is simple: protect keys and backups, choose tools carefully, recognise scam signals, and keep mistakes small while learning.
+
+#### Key takeaways
+
+- A wallet manages the keys and information used to receive, check, and spend bitcoin; it does not store bitcoin inside a phone or device.
+- Addresses and payment requests can be shared to receive bitcoin, but private keys and seed phrases must remain secret.
+- A seed phrase is full recovery access for many wallets, so it must be recorded accurately, protected offline, and never entered into a website or shared with another person.
+- Custodial services control the keys and may provide account recovery, while self-custody gives the user direct control and direct responsibility for recovery.
+- Hot wallets are convenient for regular use; cold or hardware wallets can provide stronger key isolation but still depend on a safe backup.
+- Before receiving or sending, check the correct network, address or invoice, amount, fee, and transaction status; a valid send is usually irreversible.
+- Start with safe practice or small amounts, recognize scam signals, and pause when a request creates urgency, secrecy, or pressure.
 
 ---
 
@@ -1405,6 +1435,16 @@ Good community discovery helps you find people who explain, verify, and respect 
 Pause and consider the local example you studied: what real need did it address, which function of money was involved, and was value moved on-chain, through Lightning, or both? Ask who controlled the keys, what the strongest benefit and most serious risk were, and how local law, infrastructure, language, or culture affected the result. A responsible next step is one that fits the local context, makes costs and custody clear, limits errors and scams, and can be evaluated against evidence.
 
 **Block 4 answer:** Bitcoin can function as money when people voluntarily use it to earn, save, receive, send, spend, price, or settle value. A useful local application begins with a real need, makes custody and costs clear, respects local law and safety, and gives learners enough knowledge to choose freely.
+
+#### Key takeaways
+
+- Bitcoin as money is local: the useful pathway depends on community needs, infrastructure, laws, costs, tools, language, and safety conditions.
+- A Custom module should begin with a real problem or opportunity, then define the purpose, context, practice, safety limits, and evidence of learning.
+- Local workshops should use a safe sequence: observe the process, practise with support, then explain or complete a defined task without exposing secrets.
+- Before using a local tool or service, check its purpose, custody model, source, recovery process, privacy, costs, compatibility, support, and current local rules.
+- On-chain and Lightning payments make different trade-offs in settlement, speed, fees, custody, and failure points; confirm which payment method a recipient expects.
+- Local exchange pathways, KYC choices, merchant flows, and community use cases should be compared through their full costs, custody, privacy, safety, and legal trade-offs.
+- A strong circular economy or community use case is voluntary, solves a real problem, protects participants, and does not make learners dependent on one service, organizer, or promise.
 
 ---
 
