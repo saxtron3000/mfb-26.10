@@ -125,6 +125,16 @@ Depending on local context, selected objectives may require learners to:
 
 Each selected task should have an approved variant ID and map to `B4.1` and `B4.2` in the Activity Bank. Other Custom outcomes remain optional.
 
+### Selectable Custom task: Dual-rail payment practice
+
+Where local tools, connectivity, educator preparation, and learner safety conditions allow, educators may select a Dual-rail payment practice task. The learner must, in an approved low-stakes or simulated environment:
+
+- complete one on-chain receive or send flow and one Lightning receive or send flow;
+- verify the relevant address or invoice, amount, and transaction or payment status for each flow; and
+- explain at least one practical difference between the two flows, such as the payment information used, settlement expectations, fees, or failure points.
+
+This task is a selectable Block 4 variant that maps to `B4.1` and `B4.2`; it does not make transacting on both rails a Core requirement.
+
 ## Advanced Outcomes
 
 Advanced outcomes do not belong in the Core 8-hour Diploma.
