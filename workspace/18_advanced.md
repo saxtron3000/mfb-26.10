@@ -207,6 +207,7 @@ The earlier L2 proposal supplies concise sequences for future module design. The
 |---|---|---|
 | History of Money (localisation) | Bretton Woods context; 1971 end of dollar-to-gold convertibility; local and global consequences | Keep only the brief historical marker in Core. |
 | Mining & Consensus | Transaction relay and validation; candidate-block construction; proof of work; hashes and block headers; difficulty adjustment; block propagation; consensus; optional Merkle trees | Core keeps participant roles and simplified proof of work. |
+| Infrastructure & Maintenance | Connect a wallet or application to a Bitcoin node; compare connection and verification trade-offs; troubleshoot supported local connectivity | Core keeps only the beginner roles of nodes and the meaning of verification. |
 | Lightning Network | Channel opening and closing; payment channels; HTLCs; routing; liquidity; routing failures; operational trade-offs | Core distinguishes on-chain from Lightning; Custom may support locally appropriate payment practice. |
 | Bitcoin Self-Custody | Hot, hardware, and air-gapped signing; passphrases; multisig; encrypted-backup trade-offs; recovery and inheritance planning | Core gives an introductory hardware-wallet and recovery-safety overview. |
 
