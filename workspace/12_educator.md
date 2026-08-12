@@ -102,6 +102,12 @@ Educators may also combine models, such as two half-days or one weekend morning 
 - Tool demonstration with fallback plan
 - Review point and learner explanation prompt
 
+### Media And Tool Fallbacks
+
+Do not make a video, external website, named service, or learner device a required condition for Core learning or assessment. Before facilitating a media- or tool-dependent activity, prepare an equivalent low-tech path, such as a printed screenshot, diagram, physical simulation, spoken walkthrough, or educator demonstration. The fallback must preserve the same objective and safety boundary; it does not need to reproduce every feature of the digital tool.
+
+Use optional videos only when the venue, device access, connectivity, and learner time make them genuinely useful. Do not rely on assigned video homework as the sole preparation for an in-person activity.
+
 ## 4. Block Guidance
 
 ### Problem / Broken Money

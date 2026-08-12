@@ -46,6 +46,17 @@ The legacy Diploma contains the following explicit activities, exercises, discus
 
 ---
 
+## Internal educator feedback: activity pilot priorities
+
+The November 2024 teacher survey is directional internal evidence, not a representative activity evaluation. Eight educators responded, and the form forced some respondents to mark skipped activities even when they used all of them. See `02_research.md` for the evidence note and limitations.
+
+Use it to prioritize activity development and pilots as follows:
+
+- Pilot and refine safe, objective-aligned wallet setup or prepared-wallet exercises, money-property discussions, and beginner ledger-exploration activities; these received the strongest positive mentions.
+- Re-test consensus, barter, video, hashing, Lightning relay, and transaction role-play activities before recommending them broadly. Check whether the problem is the activity itself, educator confidence, materials, timing, or learner context.
+- Do not make video, an external website, or a named explorer a required dependency. Every such activity must provide an equivalent print, diagram, prepared screenshot, spoken, or facilitator-led version.
+- Do not promote a legacy activity solely because it is familiar or frequently used. Keep, revise, or retire it based on objective alignment, learner evidence, safety, accessibility, time, and pilot feedback.
+
 # Activity Bank Principles
 
 Activities should:

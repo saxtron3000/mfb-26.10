@@ -156,6 +156,31 @@ Research and publication caution:
 - Strategic, operational, investment, treasury, legal, policy, and sector-specific Organizations material should become Advanced source material, not beginner Core content.
 - Beginner use should favor guided questions and scenario prompts over institutional recommendations or predictions.
 
+## Internal Evidence: 2024 Teacher Survey
+
+Source: `../input/20260724_Teachers Survey (Responses) - Form Responses 1.csv`.
+
+This file contains eight Bitcoin Diploma educator responses collected in November 2024. It is a small, self-selected internal sample, and some activity-selection answers are unreliable because the form required respondents to mark an activity even when they used all of them. Treat it as directional qualitative evidence, not as a representative evaluation or a basis for numerical targets.
+
+### Signals
+
+- All eight respondents had used the Lesson Plan Guide. Its mean learning rating was 3.25 out of 5; the Activities Guide mean was 3.38 out of 5; onboarding mean was 3.88 out of 5. This supports the existing direction to make the Educator Guide a practical facilitation and assessor tool, and to strengthen educator preparation and calibration.
+- Seven respondents said activity time and pace were “Just Right”; one said “Too Fast.” Keep the approximately eight-hour pathway as the working design, but protect discussion, practice, review, and assessment time and offer multi-session delivery options.
+- The clearest positive activity signals were the wallet-creation exercise (six mentions), the money discussion using Monopoly bills (five), and block-explorer work (five). These are useful candidates for pilot priority, subject to objective alignment, safety, and low-connectivity alternatives.
+- Consensus, barter, video, hashing, relay-race, and transaction role-play activities were often skipped or rated among the least effective. These results do not establish that an activity should be removed: the survey does not distinguish availability, educator confidence, audience, or delivery conditions. They do establish a need to test the activity’s purpose, instructions, timing, materials, and fallback form before retaining it as a recommended item.
+- One educator reported no audiovisual equipment and that assigned videos were not watched. Video may be an optional enhancement, never a required dependency; each activity needs a print, spoken, diagram, or facilitator-led alternative.
+- Requests included simpler explanations of technical content, additional educator training and peer exchange, a graduate follow-on community, and deeper nodes, mining, hashing, UTXOs, Lightning, and Nostr content. The first two inform educator-support and pathway planning. The technical requests support the existing Advanced boundary; they do not expand the beginner Core.
+
+### Design Actions Already Supported Or Added
+
+| Evidence | Workspace action |
+|---|---|
+| Educators need stronger practical support and training | Keep facilitation, assessment calibration, pacing, and low-connectivity guidance in `12_educator.md`; plan educator preparation as implementation work. |
+| Activity use varies by context | Use pilot evidence to select, revise, or retire activities in `10_activities.md`; preserve objective alignment and equivalent low-tech options. |
+| Videos and online tools are not universally usable | Maintain the offline-capable, in-person-first delivery rule and require a non-video fallback for media-dependent activities. |
+| Learners and educators want a next step | Preserve technical and specialist follow-on material in `18_advanced.md`; consider graduate-community or referral work as a future implementation decision, not a beginner-Diploma requirement. |
+| Assessment should allow accessibility but stay meaningful | Keep common objectives and evidence standards while allowing equivalent task formats and accessibility accommodations, as defined in `13_assessment.md`. |
+
 # AI Research Prompt Bank
 
 ## AI research tool directory
