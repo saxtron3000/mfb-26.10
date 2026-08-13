@@ -16,11 +16,11 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
 
 ### About Us
 
-My First Bitcoin is a nonprofit education organization that began in El Salvador. We create free and open-source Bitcoin education for learners and educators around the world.
+My First Bitcoin is a nonprofit education organization founded by John Dennehy in El Salvador in 2021. We publish free and open-source Bitcoin education for learners and educators around the world.
 
-The project began with informal gatherings in San Salvador in 2021. The 90-minute introduction moved from what money is to how Bitcoin works, then gave the learner practical experience sending and receiving sats with a Lightning wallet. Within two months, the project was teaching hundreds of learners each month.
+The project began with small in-person classes in El Salvador in 2021. The 90-minute introduction moved from what money is to how Bitcoin works, then gave the learner practical experience sending and receiving sats with a Lightning wallet. Within two months, the project was teaching hundreds of learners each month. My First Bitcoin's [public history](https://myfirstbitcoin.org/about) records the project's milestones and organizational accountability.
 
-In 2022, the first Bitcoin Diploma cohort began in a public school in El Salvador. The curriculum was later published as an open-source resource, enabling educators around the world to translate, adapt, and teach it while sharing a common educational foundation.https://github.com/MyFirstBitcoin/Education-Network/tree/main/OS%20Everything/Bitcoin%20Education%20-%20Getting%20Started
+In 2022, the first Bitcoin Diploma cohort began in one public school in San Marcos, El Salvador. The pilot developed into an open-source curriculum that independent educators could translate, adapt, and teach. It later spread through the [My First Bitcoin Education Network](https://myfirstbitcoin.org/about/network) to communities around the world.
 
 Our work is independent, community-driven, and Bitcoin-only. We focus on financial literacy, careful thinking, and practical safety—not trading, speculation, or promoting other tokens. We do not ask you to accept a belief. Instead, we provide concepts, questions, and practical knowledge so you can form your own conclusions.
 
@@ -35,6 +35,8 @@ This approach matters because money affects every person. People should be able 
 ### What we stand for: accessibility, critical thinking, community, and self-sovereignty
 
 **Accessibility** means that cost, location, language, or limited technology should not prevent learning. The essential path in this book can be used offline. Local examples may change, but the main learning outcomes remain the same.
+
+**Curiosity** means being willing to ask why, admit what you do not know, and investigate an unfamiliar answer before accepting or rejecting it.
 
 **Critical thinking** means asking clear questions, checking evidence, and comparing trade-offs. Bitcoin makes strong claims about money and ownership. These claims deserve careful study. During this course, distinguish facts from opinions and possibilities from guarantees.
 
@@ -78,13 +80,15 @@ You can use the course to:
 
 You do not need to buy bitcoin to complete this Diploma. You also do not need to install a Bitcoin wallet or use meaningful personal funds. Required practical skills may be assessed with a prepared wallet, simulation, testnet, or an educator-approved low-stakes environment. Knowledge comes before action.
 
+If you have limited time or would like a first touch point before getting to grips with Bitcoin, begin with [Introduction to Bitcoin (ITB)](https://programs.myfirstbitcoin.org/programs/introduction-to-bitcoin/). It is a shorter course that introduces the basics. After the Diploma, learners who want to teach can continue to the [Educator Training Program (ETP)](https://programs.myfirstbitcoin.org/programs/educator-training-program/). These are separate learning paths: ITB is a short primer, the Diploma builds a broader beginner foundation, and ETP develops teaching practice.
+
 ---
 
 ## How This Diploma Works
 
 ### What learners will be able to explain and demonstrate by the end
 
-After completing the Core Diploma, you should be able to:
+After completing this Core Diploma, you should be able to:
 
 - explain what money is and why people use it;
 - identify the functions and useful properties of money;
@@ -119,7 +123,7 @@ You will learn more by participating than by reading silently. Some questions do
 
 ### Participation expectations
 
-Come prepared to think, ask, listen, and contribute. You are not expected to agree with every claim or with every person in the room.
+Come prepared to think, ask, listen, and contribute. You are not expected to agree with every claim or with every person in your cohort.
 
 During discussion:
 
@@ -128,7 +132,10 @@ During discussion:
 - separate personal experience from general evidence;
 - challenge ideas without attacking people;
 - state uncertainty when you are unsure;
+- remember that financial access, security, and opportunity differ; do not assume that everyone shares your circumstances;
 - protect other people's private financial information;
+- treat personal stories shared in the cohort as private unless the person gives permission to repeat them;
+- do not photograph, record, or share another person's screen, work, or identifying information without permission;
 - do not pressure anyone to buy, sell, or reveal how much money they hold.
 
 Your assessment has two equally important parts: theoretical understanding and practical competency. The My First Bitcoin app supports most of the theoretical half through learning and quizzes. Your educator carries out short theoretical touchpoints through activities, games, discussions, and role-plays, and evaluates the practical half through observed skills. These are opportunities to show what you understand and can do, and to discover what you should review or practise again.
@@ -147,14 +154,14 @@ No prior knowledge is required. The course introduces each required term before 
 
 Basic reading and everyday arithmetic are useful. The most important calculation is understanding that one bitcoin can be divided into 100,000,000 smaller units called satoshis. A calculator may help, but advanced mathematics is not required.
 
-If you already use Bitcoin, use this course to test your explanations. Being able to perform an action is different from being able to explain why it works and what risks it creates.
+If you already use Bitcoin, support your educator, share your experience, and explain ideas to peers in plain language. Teaching others is one way to consolidate your own learning. If you enjoy supporting learners, contribute feedback or local community support, and explore the [Educator Training Program (ETP)](https://programs.myfirstbitcoin.org/programs/educator-training-program/) to develop teaching practice.
 
 ### Required materials and technology expectations
 
 For the Core path, you need:
 
 - this book in print or PDF form;
-- a pen or another way to record answers;
+- a notebook and pen, or another way to record answers;
 - an educator or study group where available;
 - time to discuss and reflect.
 
@@ -172,7 +179,7 @@ For any practice with a device:
 
 All Core definitions, comparisons, safety rules, and review questions are contained in this book. Internet links and QR codes are optional. They may provide updates, source files, or ways to connect, but they are not required to understand the course.
 
-When a demonstration needs internet access, your educator should provide an offline alternative. This may be a printed wallet screen, a transaction scenario, a card exercise, or a step-by-step discussion. A failed connection should not stop learning.
+When a demonstration needs internet access, your educator should provide an offline alternative when possible. This may be a printed wallet screen, a transaction scenario, a card exercise, or a step-by-step discussion. A failed connection should not stop learning.
 
 An educator may use approved offline knowledge checks and practical assessment tasks when connectivity is limited. If assessment results must be synchronized later, that technical step should not change the learning objective or passing standard.
 
@@ -180,7 +187,9 @@ Some information changes over time. Fees, laws, taxes, available services, walle
 
 ### Safety, responsibility, and no financial advice
 
-This Diploma is for education. It does not provide financial, investment, legal, or tax advice. It does not promise that bitcoin will increase in price. It does not recommend that you buy, sell, borrow against, or hold any amount of bitcoin.
+This Diploma is for educational purposes only. It does not provide financial, investment, legal, or tax advice. It does not promise that bitcoin will increase in price. It does not recommend that you buy, sell, borrow against, or hold any amount of bitcoin.
+
+The Diploma is Bitcoin-only. Other tokens, trading products, and broader cryptocurrency promotion are outside its scope. This boundary defines the subject of the course; it is not a guarantee about Bitcoin or a recommendation to acquire it.
 
 Bitcoin's market price can change quickly. Transactions can be difficult or impossible to reverse. A lost seed phrase, exposed private key, dishonest custodian, software error, or scam can cause permanent loss.
 
@@ -188,7 +197,7 @@ Use three rules throughout the course:
 
 1. **Learn first.** Do not act only because of excitement, fear, or pressure.
 2. **Start small.** Test unfamiliar tools and processes with an amount you can afford to lose.
-3. **Verify.** Check addresses, amounts, fees, sources, and people before you approve an action.
+3. **Don't Trust, Verify.** Check addresses, amounts, fees, sources, and people before you approve an action.
 
 Responsibility also includes knowing when to ask for help. Seek help before moving meaningful funds, but never reveal a seed phrase or private key to the person helping you.
 
@@ -196,7 +205,7 @@ Responsibility also includes knowing when to ask for help. Seek help before movi
 
 **Core** is the shared beginner path in Blocks 1, 2, and 3. Every learner studies the same main concepts and safety outcomes.
 
-**Custom** is Block 4. An educator selects local workshops and examples based on the community's tools, laws, risks, language, infrastructure, and needs. Custom learning may include earning, saving, receiving, spending, Lightning, local exchange pathways, merchants, or circular economies.
+**Custom** is Block 4. An educator selects local workshops and examples based on the community's tools, laws, risks, language, infrastructure, and needs. Custom learning may include earning, saving, receiving, spending, Layer 2 solutions, local exchange pathways, merchants, or circular economies.
 
 **Advanced** learning goes beyond this Diploma. It may examine deeper economics, cryptography, mining, privacy, transaction structure, Lightning operations, business use, or security. Advanced material is kept separate so the beginner path remains clear and safe.
 
@@ -206,12 +215,20 @@ A topic is not unimportant because it is outside the Core path. It may simply re
 
 | Block | Role | Core question | Learner promise |
 | --- | --- | --- | --- |
-| 1. Problem / Broken Money | Understand the problem | How can money break? | You can explain the money problems Bitcoin responds to. |
-| 2. Solution / Bitcoin | Understand the response | Why was Bitcoin created, and how does it respond? | You can explain Bitcoin's purpose and core properties. |
-| 3. Action / Self-Custody | Understand the responsibility | How do I use and secure Bitcoin responsibly? | You can explain beginner custody and safety concepts. |
-| 4. Custom / Bitcoin As Money | Connect learning to local life | How can Bitcoin function as money here? | You can identify relevant local uses, tools, risks, and next steps. |
+| 1. Problem / Broken Money | Understand the problem | How can money break? | You can explain the money **problems** Bitcoin responds to. |
+| 2. Solution / Bitcoin | Understand the response | Why was Bitcoin created, and how does it respond? | You can explain Bitcoin's **purpose** and core properties. |
+| 3. Action / Self-Custody | Understand the responsibility | How do I use and secure Bitcoin responsibly? | You can explain beginner **custody and safety** concepts. |
+| 4. Custom / Bitcoin As Money | Connect learning to local life | How can Bitcoin function as money here? | You can identify relevant **local uses**, tools, risks, and next steps. |
 
-The four blocks provide the required learning sequence, not a fixed class timetable. Four two-hour sessions are one possible format. Your educator may divide a block across more sessions when learners need more time for discussion, practice, review, or assessment.
+The four blocks provide the required learning path, not a fixed class timetable. Blocks 1–3 are the shared Core, and the educator selects the local content for Block 4. Four two-hour sessions are one possible format. Your educator may divide a block across more sessions, revisit an earlier idea, or change the order of individual sections when your cohort needs more time for discussion, practice, review, or assessment. The educator remains responsible for covering all Core outcomes and making the connections among the blocks clear.
+
+### My engagement promise
+
+I, ____________________, intend to take part with curiosity, care, and respect. I will ask questions, think for myself, and use this learning responsibly.
+
+**My intention for this Diploma:** ____________________________________________
+
+**Signature:** ____________________  **Date:** ____________________
 
 ---
 
@@ -221,15 +238,17 @@ The four blocks provide the required learning sequence, not a fixed class timeta
 
 ### Opening questions about money
 
-Money is familiar, but it is not simple. Begin by writing a short answer to each question:
+**Opening reflection | Suggested time: 10 minutes | Individual writing, then cohort discussion**
+
+Money is familiar, but it is not simple. Before the course discussion begins, write a short answer to each question.
 
 1. Why do people need money?
 2. What makes something money?
 3. Who can create or control the money you use?
-4. Why does money have value?
+4. Why does the money you use have value?
 5. Does your money buy the same amount today as it did in the past?
 
-Keep your answers. Return to them at the end of the Diploma. A good course may strengthen some of your views and change others.
+Keep your answers. Return to them at the end of the Diploma. This course may strengthen some of your views and change others.
 
 As you discuss these questions, notice the difference between a fact and a preference. “This note is accepted for taxes” is a fact that can be checked. “This is the best form of money” is a conclusion that needs criteria and evidence.
 
@@ -271,7 +290,7 @@ Useful money also tends to have several properties:
 
 No form of money scores perfectly. Gold is durable and scarce but difficult to divide and transport for small payments. Paper cash is portable and accepted locally, but it can be damaged and its supply can expand. The best comparison depends on the purpose, place, and time.
 
-**Check your understanding:** Which function is most important when you compare two prices? Which property matters when you need to send value across a border?
+**Think critically:** Name a time when you chose one type of money or asset over another. What was the purpose? Compare the properties of the options you could have used. Which properties mattered most to you, and why?
 
 ### Barter and the double coincidence of wants
 
@@ -293,7 +312,7 @@ A commonly accepted money separates selling from buying. Amina can sell rice to 
 
 ### Scarcity, value, and exchange
 
-Resources are limited, while human wants are not. **Scarcity** means that choosing one use of a resource prevents another use. Time, land, energy, tools, and money are all scarce.
+Resources are limited, while human wants are not. **Scarcity** means that choosing one use of a resource prevents another use. Time, land, energy, good health, tools, and money are all scarce.
 
 The value of a good is not contained inside the object. People value goods according to their needs, preferences, information, and circumstances. Clean water may be inexpensive near a safe public source and extremely valuable during a shortage.
 
@@ -311,19 +330,23 @@ Scarcity alone does not guarantee value. An item may be rare and still have no d
 
 Money did not develop in one identical sequence everywhere. Different societies used different goods, records, and institutions. However, a broad pattern helps explain modern money.
 
+> “Money … is by no means the result of an agreement … but is the unintended product of historical development.”
+>
+> — Carl Menger, “On the Origin of Money” (1892)
+
 **Direct exchange and local records:** People used barter, gifts, obligations, and written or remembered debts. These systems depended strongly on local relationships.
 
 **Commodity money:** Communities selected goods that were widely valued and easier to trade. Salt, beads, shells, livestock, copper, silver, and gold have served monetary roles in different places. A commodity has a use or value beyond an issuer's promise.
 
-**Standard coins:** Authorities measured and stamped metal into standard units. Coins improved recognition and accounting. Authorities could also reduce the precious-metal content while keeping the same stated value. This is called debasement.
+**Standard coins:** Authorities measured and stamped metal into standard units. Coins improved recognition and accounting. Authorities could also reduce the precious-metal content of these coins while keeping the same stated value. This is called debasement.
 
-**Representative paper:** Carrying and protecting metal was difficult. Depositories and banks issued paper claims that could be redeemed for a stated amount of metal. The paper was easier to move, but users had to trust the issuer to keep enough metal and honor redemption.
+**Representative paper:** Transporting and protecting metal was difficult. Depositories and banks issued paper claims that could be redeemed for a stated amount of metal. The paper was easier to move, but users had to trust the issuer to keep enough metal and honor redemption. Under different versions of a **gold standard**, a currency unit was legally connected to a stated amount of gold. The rules varied by place and period, and governments or banks sometimes suspended or ended convertibility.
 
-**Bank and government money:** Banks issued more claims and credit. Governments created central banks and national currency systems. Money became increasingly based on institutional records and promises rather than direct possession of a commodity. In many countries, national currency later became no longer redeemable for a physical asset such as gold. This separation from commodity backing is a defining feature of today’s **fiat money** (see below).
+**Bank and government money:** Banks issued more claims and credit. Governments created central banks and national currency systems. Money became increasingly based on institutional records and promises rather than direct possession of a commodity by the population. In many countries, national currency later became no longer redeemable for a physical asset such as gold. This separation from commodity backing is a defining feature of today’s **fiat money** (see below).
 
 **Digital money:** Much of today's money moves as digital records through banks and payment services. A card or phone does not create a new kind of money by itself. It is usually an interface to a bank deposit or another claim denominated in the national currency.
 
-This history shows repeated trade-offs. Convenience increased, but users often became more dependent on issuers, banks, and payment intermediaries.
+This history shows repeated trade-offs. Convenience increased, but users often became more dependent on monetary policy, issuers, banks, and payment intermediaries.
 
 ### Fiat money
 
@@ -340,9 +363,17 @@ The fiat system has several main participants:
 | Government | Collects taxes, spends, borrows, creates laws, and usually defines the national unit of account. |
 | Citizens and businesses | Earn, save, borrow, invest, pay taxes, set prices, and exchange goods and services. |
 
-Fiat systems can provide convenient payments, flexible credit, and tools for responding to financial crises. The same flexibility creates risk. A small number of institutions can change the supply and cost of money, restrict access, or make decisions that reduce purchasing power.
+**Local scenario:** Choose one ordinary payment in your community, such as buying transport, food, or phone credit; receiving wages; or paying a bill. Use a realistic invented scenario if you prefer. In three or four sentences, explain:
 
-Fiat money requires layers of trust. Users trust banks to keep accurate records, payment services to process transfers, central banks to manage the currency, and governments to maintain lawful institutions. These systems can work for long periods, but their rules are not fixed.
+1. what is being paid for and which currency is used as the unit of account;
+2. why the seller or recipient is willing to accept that currency; and
+3. which institutions, records, or rules people rely on to complete the payment.
+
+Finish by naming one way the payment would become harder if that shared acceptance or trust broke down.
+
+Fiat systems can provide convenient payments, flexible credit, and tools for responding to financial crises. The same flexibility creates **risk**. A small number of institutions can change the supply and cost of money, restrict access, or make decisions that reduce purchasing power.
+
+Fiat money requires layers of **trust**. Users trust banks to keep accurate records, payment services to process transfers, central banks to manage the currency, and governments to maintain lawful institutions. These systems can work for long periods, but their rules are not fixed and can be open to neglect or abuse.
 
 ### Fractional reserve banking
 
@@ -350,14 +381,18 @@ When you deposit cash in a bank, the bank records a liability to you: it owes yo
 
 When a commercial bank approves a loan, it usually creates a new deposit in the borrower's account. This expands the amount of bank deposit money. When the principal is repaid, that deposit money is reduced. Banks are limited by capital rules, liquidity needs, credit risk, regulation, the cost of funding, and demand from qualified borrowers.
 
+Banks generally seek profit by earning interest and fees on loans and investments while paying their operating, funding, and regulatory costs and absorbing losses when borrowers do not repay. These activities and constraints differ by bank and jurisdiction.
+
 **Fractional reserve banking** is the broad idea that banks keep only a fraction of their deposit obligations available as immediately accessible reserves. Exact rules differ between countries and can change over time.
 
 This creates two important risks:
 
-- **Liquidity risk:** A bank may not have enough immediately available funds if many customers demand withdrawals at once.
-- **Solvency risk:** A bank's assets may lose enough value that they are worth less than what the bank owes.
+- **Liquidity risk:** A bank may own long-term loans that are expected to be repaid but still lack enough cash for many withdrawals today.
+- **Solvency risk:** Failed loans or falling asset values may leave the bank's total assets worth less than what it owes.
 
-A **bank run** happens when many depositors try to withdraw at the same time because they fear the bank may fail. Deposit insurance and central-bank lending can reduce panic, but these protections depend on institutions and rules. They can also move some losses or risks from an individual bank to the wider system.
+A **bank run** happens when many depositors try to withdraw at the same time because they fear the bank may fail. Deposit insurance and central-bank lending can reduce panic, but insurance eligibility and coverage limits vary by jurisdiction. These protections depend on institutions and rules, and they can move some losses or risks from an individual bank to the wider system.
+
+Regulation and oversight can reduce risk, but they cannot prevent every case of fraud, poor management, political abuse, or simple error. These failures are possibilities to evaluate, not outcomes of every banking system.
 
 The central lesson is not that every bank is about to fail. It is that a bank balance is the bank's promise to pay you. It is not the same as holding the settlement asset directly.
 
@@ -374,6 +409,8 @@ Inflation does not affect everyone equally. A person who holds mainly cash may l
 The rate of inflation is an average. Your personal experience may differ because your spending is not identical to the measured basket. Food, housing, transport, education, and health costs may change at different rates.
 
 **Purchasing-power check:** Choose one ordinary item in your community. Record its price today. Ask what it cost several years ago, then check a reliable record if possible. Did income change at the same rate? What other factors may explain the change?
+
+Then compare your item with an official inflation measure. Which goods and services are in that measure's basket? Has the basket or method changed over time, and does the source explain why? A change is not automatically manipulation, but it can affect comparisons and should be documented transparently.
 
 ### Why the US dollar is a world reserve currency
 
@@ -394,6 +431,8 @@ People often seek alternatives when they believe cash will lose purchasing power
 These assets are not identical to money. A home may store value but is not practical for buying food. A share may be easy to sell in one country but unavailable to someone without a brokerage account. Gold may cross long periods of history but be difficult to verify or divide during a small exchange.
 
 People may also choose foreign currency, government bonds, private businesses, land, tools, education, or other assets. Every choice includes opportunity cost and risk. There is no asset that guarantees purchasing power in every period and situation.
+
+**Note:** Tax treatment can also shape these decisions. Rules for income, gains, property, and transactions can change the cost or benefit of holding, selling, or using an asset. Tax rules vary by jurisdiction and can change over time; this course does not provide tax advice.
 
 Bitcoin emerged as another proposed alternative: a scarce digital asset that can be held and transferred without a central issuer. To evaluate that claim, we must study why Bitcoin was created and how its rules work.
 
@@ -433,6 +472,7 @@ Pause and consider the money you use: what makes it useful in daily life, and wh
 - Money has developed in different ways across societies, often improving convenience while creating new trade-offs in trust, control, and access.
 - Fiat money can support convenient payments and flexible credit, but its supply and rules depend on institutions.
 - Inflation, fractional-reserve banking, and CBDC design can affect purchasing power, access, privacy, and the need to trust institutions.
+- Some people look to alternatives such as precious metals when they want different trade-offs around purchasing power, supply, or control; every alternative has limits and risks.
 
 The next block examines Bitcoin's attempt to create a different set of monetary rules.
 
@@ -446,7 +486,7 @@ The next block examines Bitcoin's attempt to create a different set of monetary 
 
 Digital payments existed before Bitcoin. People could send money through banks, card networks, and online payment companies. These systems made commerce easier, but each depended on a trusted organization to keep the ledger, approve accounts, settle transfers, and resolve disputes.
 
-This dependence creates power and risk. An intermediary can delay a payment, charge a fee, collect personal data, restrict an account, reverse a transfer, or fail. The issuer of the currency can also change its supply.
+This dependence creates power and risk. An intermediary can delay a payment, charge a fee, collect  and misuse personal data, restrict an account, reverse a transfer, or fail. The issuer of the currency can also change its supply.
 
 For many years, computer scientists tried to create digital money that did not need a central issuer or payment company. The challenge was difficult. Digital information is easy to copy. If a digital coin could be copied and spent twice, it could not function as money. If one company prevented copying, the company became the point of control and failure.
 
@@ -454,17 +494,19 @@ Bitcoin was created to solve this problem with a peer-to-peer network. Its desig
 
 Bitcoin does not remove trust from every part of life. It reduces the need to trust a central authority for the issuance and settlement of its native money.
 
+In this book, **Bitcoin** with a capital B usually means the network, protocol, or wider system. **bitcoin** with a lowercase b means the monetary unit or asset. A wallet or exchange is a service that may connect to Bitcoin; it is not the Bitcoin network itself.
+
 ### The search for digital and decentralized money
 
 The growth of personal computers and the internet created new opportunities for communication. It also created new forms of surveillance and control. In the late twentieth century, a group of programmers, mathematicians, and activists known as **Cypherpunks** explored how cryptography could protect privacy and individual freedom in digital systems.
 
-**Cryptography** is the use of mathematical methods to protect information and prove that an action is authentic. Encryption can keep a message private. Digital signatures can prove that a message or instruction came from the holder of a secret key without revealing that key.
+**Cryptography** is the use of mathematical methods to protect information and prove that an action is authentic. Encryption can keep a message private. **Digital signatures** can prove that a message or instruction came from the holder of a secret key without revealing that key.
 
 The Cypherpunks understood that private communication was not enough. People also needed a way to exchange value online. If every digital payment required a bank or company, that intermediary could observe, permit, or prevent the exchange.
 
 Their goal was not simply digital money. Bank deposits were already digital. The harder goal was **decentralized digital money**: a system with no single issuer, server, or administrator that participants had to trust.
 
-Bitcoin grew from decades of work by many people. Its design joined earlier ideas in a new way and provided incentives for an open network to keep operating.
+Bitcoin was built upon decades of work by many people. Its design joined earlier ideas in a new way and provided incentives for an open network to keep operating.
 
 ### Early digital-money attempts and the double-spend problem
 
@@ -492,7 +534,7 @@ The whitepaper brought together the features needed for that approach:
 2. **Digital signatures:** only the holder of the relevant private key can authorize a spend.
 3. **Blocks and mining:** miners collect transactions into blocks and use proof of work to compete to add the next block.
 4. **Independent verification:** nodes check transactions and blocks against Bitcoin's rules.
-5. **A shared history with accumulated proof of work:** participants recognize the valid  of transactions with the most accumulated work as the shared record.
+5. **A shared history with accumulated proof of work:** participants recognize the valid chain of transactions with the most accumulated work as the shared record.
 
 This module explains these concepts in more detail. Together, they gave a practical answer to the double-spend problem: the network can reject a second attempt to spend the same bitcoin without relying on a central authority. Bitcoin offered the missing combination that decades of digital-money experiments had been seeking.
 
@@ -548,7 +590,7 @@ Bitcoin works because different participants perform different roles.
 
 **Users** receive, hold, and send bitcoin. A user may control their own keys held in a wallet or use a custodian. Users give the network economic meaning by choosing whether to accept bitcoin and which rules or services they trust.
 
-**Nodes** run Bitcoin software and independently verify the rules. A full node checks that transactions have valid signatures, that bitcoin have not already been spent, that blocks satisfy proof of work, and that new bitcoin follow the issuance schedule. Nodes share valid data with peers and reject invalid data.
+**Nodes** run Bitcoin software and independently verify the rules. A full node checks that transactions have valid signatures, that bitcoin have not already been spent, that blocks satisfy proof of work, and that new bitcoin follow the issuance schedule. Nodes share valid data with peers and reject invalid data. 
 
 **Miners** gather pending transactions, build candidate blocks, and compete through proof of work. A successful miner broadcasts a block and may receive the allowed block subsidy and transaction fees. Miners help order transactions and make the ledger costly to rewrite.
 
@@ -558,7 +600,7 @@ These roles limit one another:
 
 - a user cannot spend bitcoin without the required valid signature;
 - a miner can propose a block, but nodes decide whether it follows the rules;
-- a node can verify rules, but it cannot force users to value bitcoin;
+- a node verifies using its own rules, but consensus requires compatible rules across the network;
 - developers can propose software, but participants choose whether to run it.
 
 Some people perform several roles. A miner can run a node and also be a user. A beginner does not need to perform every role to understand the balance among them.
@@ -571,7 +613,7 @@ Some people perform several roles. A miner can run a node and also be a user. A 
 
 A miner repeatedly changes data in a candidate block and passes it through a mathematical hash function. The result is unpredictable. The miner is searching for a result below a target set by the network's difficulty rule. There is no shortcut; miners must perform many attempts.
 
-When a miner finds a valid result, it broadcasts the block. Nodes can check the proof quickly, even though finding it required significant computation and energy. This difference is important: work is costly to produce and easy to verify.
+When a miner finds a valid result, it broadcasts the block. Nodes can check the proof quickly, even though finding it required significant computation and energy. If the block includes a transaction, that transaction receives its first **confirmation**. Each valid block added after it adds another confirmation, making the transaction's place in the blockchain more costly to rewrite. This difference is important: work is costly to produce and easy to verify.
 
 Proof of work serves several purposes:
 
@@ -588,7 +630,7 @@ Proof of work involves a real energy cost. Supporters argue that this cost is wh
 
 Bitcoin's rules define a predictable issuance schedule and a maximum supply of 21 million bitcoin. New bitcoin enter circulation through the block subsidy paid to miners who produce valid blocks.
 
-Every 210,000 blocks, the subsidy is cut in half. This event is called a **halving**. Because blocks are produced about every ten minutes on average, a halving occurs roughly every four years. The exact calendar date is not fixed.
+Every 210,000 blocks, the subsidy is cut in half. This event is called a **halving**. Because blocks are produced approximately every ten minutes on average, a halving occurs roughly every four years. The exact calendar date is not fixed.
 
 | Halving year | Block height | Subsidy after halving |
 | --- | ---: | ---: |
@@ -605,7 +647,7 @@ Bitcoin's supply rule is credible because it is public, easy to verify with a no
 
 Many digital assets can claim a limited supply. The beginner question is whether the limit is credible in practice, not only whether it is written in a document or displayed on a website.
 
-**Spot question:** Why does Bitcoin have a limited supply? Include the role of the public rules and the nodes that enforce them.
+**Spot question:** What are the advantages of Bitcoin having a limited supply? What would be the effect of increasing the supply of Bitcoin on purchasing power? Who would reject an increase in supply?
 
 Finite supply does not guarantee a rising market price. Price depends on demand as well as supply. It also does not mean every bitcoin is available for sale; some may be held long term or become inaccessible because keys were lost.
 
@@ -621,7 +663,7 @@ One bitcoin can be divided into **100,000,000 satoshis**. A satoshi, often short
 | 0.001 bitcoin | 100,000 sats |
 | 0.00000001 bitcoin | 1 sat |
 
-You do not need to buy or use a whole bitcoin. Bitcoin software can display an amount in bitcoin or sats. Many people use sats for everyday amounts because whole numbers are easier to read.
+**You do not need to buy or use a whole bitcoin.** Bitcoin software can display an amount in bitcoin or sats. Many people use sats for everyday amounts because whole numbers are easier to read.
 
 **Unit bias** is the mistaken feeling that a lower price per whole unit makes an asset cheaper or more accessible. The number of units is a design choice. Owning 100,000 sats and owning 0.001 bitcoin describe the same amount.
 
@@ -659,6 +701,8 @@ Bitcoin therefore presents both benefits and trade-offs.
 
 Whether you call Bitcoin sound money should follow from your criteria. Compare it with fiat money, precious metals, and other assets using the same standards.
 
+**Local-value check:** Does bitcoin have value in your community? Separate three questions in your answer: What market price can be observed? Where, if anywhere, is it accepted? What personal preference or bias affects your judgment? Price, local usefulness, and personal approval are related but not identical.
+
 ### Bitcoin origin timeline
 
 Bitcoin appeared through a short series of public events.
@@ -669,6 +713,8 @@ Bitcoin appeared through a short series of public events.
 | 3 January 2009 | Satoshi created the Genesis Block, the first block in Bitcoin's chain. | The Bitcoin network began. The block included a newspaper headline about bank bailouts, placing the launch in the context of the financial crisis. |
 | 12 January 2009 | Satoshi sent bitcoin to Hal Finney in the first recorded person-to-person Bitcoin transaction. | The software moved value between two participants as designed. |
 | 22 May 2010 | A user paid 10,000 bitcoin for two pizzas. | The event showed bitcoin being exchanged for ordinary goods and is remembered as Bitcoin Pizza Day. |
+
+Explore the source records: read the [Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf), inspect the [Genesis Block](https://mempool.space/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f) and the [first recorded person-to-person transaction](https://mempool.space/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16), and read the [original pizza request](https://bitcointalk.org/index.php?topic=137.0). A block explorer is a convenient interface to public data, not a primary authority over Bitcoin's rules.
 
 **Satoshi Nakamoto** is the name used by Bitcoin's creator or creators. Satoshi communicated online, released the software as open source, and later stopped participating. Satoshi's real-world identity remains unknown.
 
@@ -694,6 +740,16 @@ Personal responsibility does not mean acting alone or refusing help. A cautious 
 
 Pause and consider how Bitcoin changes the trust model: how do public rules, finite issuance, peer-to-peer transfer, and independent verification respond to the concerns raised in the previous block? Ask yourself how nodes and miners have different roles, why double spending must be prevented, and which new responsibilities arise when a person controls their own keys. Bitcoin replaces some institutional trust with verification and personal responsibility; it does not remove risk or trade-offs.
 
+| Fiat-system issue | Bitcoin's response | New responsibility or trade-off |
+| --- | --- | --- |
+| Supply can change through policy | Predictable issuance and a 21 million maximum | Users must verify and choose to enforce the rules. |
+| Payments depend on intermediaries | Peer-to-peer transaction network | Errors are usually irreversible. |
+| A central ledger keeper controls records | Independent nodes share and verify a public ledger | Public records create privacy considerations. |
+| Access depends on an institution | Anyone can use the protocol and control keys | The user must secure keys and backups. |
+| A central party orders digital payments | Proof of work orders transactions without a central operator | Mining requires equipment and energy. |
+
+**Key thought:** Based on what you have learned about Bitcoin in this module, does it have value to you? Does the current price of Bitcoin represent its value?
+
 #### Key takeaways
 
 - Bitcoin was created to make digital transfer possible without a central ledger keeper while preventing double spending.
@@ -708,13 +764,11 @@ Pause and consider how Bitcoin changes the trust model: how do public rules, fin
 
 ## 3. Action / Self-Custody
 
-**Learner promise:** You will understand what responsibility looks like when using and securing Bitcoin.
-
 ### Wallets
 
 A **Bitcoin wallet** is a tool for managing keys, creating receiving information, checking balances, and signing transactions. It may be an application, a dedicated hardware device, or a coordinated service.
 
-The wallet does not store bitcoin inside the phone or device. Bitcoin remains recorded on the shared ledger. The wallet stores or controls the secret information that allows you to authorize a spend.
+The wallet does not store bitcoin inside the phone or device. Bitcoin remains recorded on the shared ledger. The wallet stores or controls the secret information that allows you to recieve, hold and spend bitcoin.
 
 A wallet usually helps you:
 
@@ -728,23 +782,27 @@ A wallet usually helps you:
 
 Wallets make different trade-offs. Some prioritize simplicity. Others prioritize privacy, independent verification, or stronger security. Some support only on-chain Bitcoin. Some support Lightning. Some hold the keys for you.
 
-Before choosing a wallet, ask:
+Before choosing a wallet, compare the same areas for every option:
 
-- Who controls the private keys?
-- Is the software open source and widely reviewed?
-- Is recovery clearly documented?
-- Does it support the network and address types I need?
-- What personal information does it collect?
-- Does it connect to its own server or to a node I choose?
-- What happens if the company or project disappears?
+| Area | Question to ask |
+| --- | --- |
+| Custody | Who controls the private keys? |
+| Source and review | Is the software open source, widely reviewed, and obtained from a verified source? |
+| Recovery | Is recovery clearly documented, and can you test it safely? |
+| Compatibility | Does it support the payment network, address or invoice types, device, and backup method you need? |
+| Privacy | What personal, device, contact, or transaction information does it collect? |
+| Verification | Does it connect to the provider's server or to a node you choose? |
+| Continuity | Is the project maintained, and what happens if the company or project disappears? |
 
 Do not choose a wallet only because it is popular, free, or recommended by a stranger. The right tool depends on the amount, purpose, device, experience, and local conditions.
+
+If wallets are new to you, observe a complete educator demonstration before installing one. Practise with a prepared, empty training wallet or printed screens first. Use the official instructions for any tool, ask for help without revealing secret information, and stop if the process differs from what was demonstrated.
 
 ### Addresses
 
 A Bitcoin **address** is information used to receive an on-chain payment. A wallet creates addresses from its keys and normally presents them as a line of letters and numbers and as a QR code.
 
-An address is similar to a payment destination, not an account with a reusable password. Sharing an address does not give someone permission to spend your bitcoin. It can, however, reduce privacy because transactions to and from addresses appear on the public ledger.
+An address is public receiving information that a sender's wallet uses to construct an on-chain payment. It identifies a payment destination; it is not a login credential or password. Sharing an address does not give someone permission to spend your bitcoin. It can, however, reduce privacy because transactions to and from addresses appear on the public ledger.
 
 Good address practice includes:
 
@@ -834,7 +892,7 @@ A **cold wallet** keeps the keys used for signing away from an internet-connecte
 
 A hardware wallet does not remove the need for a seed backup. If the device breaks, recovery usually depends on that backup. If an attacker obtains the seed phrase, the hardware device cannot protect the funds.
 
-For larger or long-term holdings, people may use advanced arrangements such as multiple-signature wallets. These are outside the Core Diploma. Greater complexity is useful only when the recovery plan is equally strong.
+For larger or long-term holdings, people may use advanced arrangements such as **multiple-signature**, or **multisignature**, wallets. These require a defined threshold of signatures from different keys—for example, two signatures from a set of three keys. In that example, one key alone cannot authorize a spend. Multisignature design and recovery are outside the Core Diploma. Greater complexity is useful only when the recovery plan is equally strong.
 
 A practical approach is to separate purposes: a small amount in a convenient spending wallet and a more carefully secured amount in a wallet used less often. The actual amounts depend on personal circumstances. This is an educational security model, not financial advice.
 
@@ -979,6 +1037,8 @@ Use this checklist before you depend on any Bitcoin tool.
 - **Romance or relationship manipulation:** A trusted-feeling contact slowly introduces an investment, emergency, or payment request.
 - **Too-good-to-be-true offer:** The reward is unusually high while the explanation is vague or secret.
 
+Any one of these patterns is a red flag for a potential scam. Pause, do not send money or share information, and verify independently before taking any action.
+
 **Check software and services**
 
 - Prefer well-established open-source wallet software that can be reviewed, while remembering that open source alone does not guarantee safety.
@@ -1057,6 +1117,8 @@ Before paying, confirm which network the recipient expects. An on-chain wallet c
 
 Detailed Lightning setup and live payment practice belong in the Custom block when local tools, connectivity, educator preparation, and learner safety allow.
 
+Channel setup, routing operations, and liquidity management are advanced topics. A beginner needs to recognize that these factors can affect whether a Lightning payment succeeds and what it costs, but does not need to operate routing infrastructure in the Core Diploma.
+
 ### Review: what does self-custody responsibility mean?
 
 Pause and consider what direct control would require from you: could you protect a recovery plan, distinguish safe receiving information from secrets, and verify a recipient, amount, network, and fee before sending? Self-custody gives you control of the keys, but it removes the provider who might reset access or reverse an error; custodial services make a different set of trust and risk trade-offs. The practical recap is simple: protect keys and backups, choose tools carefully, recognise scam signals, and keep mistakes small while learning.
@@ -1080,6 +1142,8 @@ Pause and consider what direct control would require from you: could you protect
 Bitcoin is one global protocol, but people use it under different local conditions. Internet access, phones, laws, taxes, currencies, banks, merchants, fees, language, safety, and technical support all affect what is useful.
 
 Your educator selects the modules in this block. The goal is not to demonstrate every tool. It is to connect the Core concepts to real choices in your community. The educator may invite a local expert when specialized knowledge is needed.
+
+Use the Block 3 safety checklist throughout every local module. Using bitcoin or a named tool in a supervised exercise does not mean that My First Bitcoin or your educator recommends frequent, ongoing, or higher-value use. The purpose is to understand the option and its trade-offs well enough to make your own decision.
 
 Record the focus of your Custom block:
 
@@ -1430,9 +1494,9 @@ Record your local resources:
 
 Good community discovery helps you find people who explain, verify, and respect your choices. It should not make you dependent on one leader.
 
-### Review: how can Bitcoin function as money in this community?
+### Review: how can Bitcoin function as money in your community?
 
-Pause and consider the local example you studied: what real need did it address, which function of money was involved, and was value moved on-chain, through Lightning, or both? Ask who controlled the keys, what the strongest benefit and most serious risk were, and how local law, infrastructure, language, or culture affected the result. A responsible next step is one that fits the local context, makes costs and custody clear, limits errors and scams, and can be evaluated against evidence.
+Complete this review individually, then compare your reasoning with your team or cohort. Consider the local example you studied: what real need did it address, which function of money was involved, and was value moved on-chain, through Lightning, or both? Ask who controlled the keys, what the strongest benefit and most serious risk were, and how local law, infrastructure, language, or culture affected the result. A responsible next step is one that fits the local context, makes costs and custody clear, limits errors and scams, and can be evaluated against evidence.
 
 **Block 4 answer:** Bitcoin can function as money when people voluntarily use it to earn, save, receive, send, spend, price, or settle value. A useful local application begins with a real need, makes custody and costs clear, respects local law and safety, and gives learners enough knowledge to choose freely.
 
@@ -1454,16 +1518,32 @@ Pause and consider the local example you studied: what real need did it address,
 
 You now have a foundation. Protect it by moving slowly.
 
-1. **Review your opening answers.** What changed in your understanding of money, control, value, and trust?
-2. **Explain Bitcoin to another beginner.** Use plain language. If you cannot explain a term, return to that section.
-3. **Choose one practical skill to repeat.** This may be identifying custody, checking an address, reading a transaction, recognizing a scam, or comparing local pathways.
-4. **Create a personal safety plan.** Decide what you will verify before installing a wallet, moving funds, or asking for help.
-5. **Study before increasing risk.** Learn more about self-custody, recovery, privacy, and inheritance before holding a meaningful amount.
-6. **Find a responsible community.** Look for educators who welcome questions, explain trade-offs, and never ask for secret information. You can also explore the My First Bitcoin Education Network.
-7. **Continue with advanced learning.** Choose a topic because it supports a real goal, not because online attention makes it feel urgent.
-8. **Contribute.** Help improve the Diploma, add a useful resource to the Resources Hub, support the learning community, or take the next step toward becoming an educator.
+First, return to the answers you wrote before the course. Do not erase them. Record your current answer and the evidence or idea that most influenced any change.
+
+| Opening question | My answer now | What changed or became clearer? |
+| --- | --- | --- |
+| What is money? |  |  |
+| Why do people need it? |  |  |
+| What makes something useful as money? |  |  |
+| Who can create or control the money I use? |  |  |
+| What makes people accept or value it? |  |  |
+| Has its purchasing power changed? |  |  |
+
+- [ ] **Review and research.** Revisit your opening answers and identify what changed in your understanding of money, control, value, and trust. Check one question against a reliable source.
+- [ ] **Practise or use one skill safely.** Repeat a concrete task such as identifying custody, checking an address, reading a transaction, recognizing a scam pattern, or comparing local pathways.
+- [ ] **Prepare before taking on more risk.** Create a personal safety plan and learn more about self-custody, recovery, privacy, and inheritance before meaningful funds depend on your decisions.
+- [ ] **Learn more.** Choose an advanced topic because it supports a real goal, not because online attention makes it feel urgent.
+- [ ] **Connect with a responsible community.** Look for educators who welcome questions, explain trade-offs, and never ask for secret information. You can also explore the My First Bitcoin Education Network.
+- [ ] **Explain Bitcoin to another person.** Use plain language and invite questions. A clear beginner explanation names the problem Bitcoin addresses, describes the network's basic response, and states an important trade-off or responsibility without hiding behind jargon.
+- [ ] **Contribute or become an educator.** Improve the Diploma, translate or proofread a resource, share feedback, support a learning community, or explore the Educator Training Program.
 
 One safe next step is enough. You do not need to perform every possible Bitcoin action immediately.
+
+**Name or team:** ____________________  **Date:** ____________________
+
+**My chosen next step:** _______________________________________________________
+
+**Evidence that I completed it:** _______________________________________________
 
 ### Contribute to My First Bitcoin and the Resources Hub
 
@@ -1473,9 +1553,11 @@ Choose a way to help and use the official form to get started:
 - **Volunteer:** offer time or skills to support the Diploma, educators, or local learning communities.
 - **Share feedback:** tell My First Bitcoin what worked, what was missing, or what could be safer or clearer.
 - **Contribute to the Resources Hub:** share a useful Bitcoin education resource, local learning resource, or improvement that other learners and educators can review and use.
-- **Sign up for the Educator Training Program (ETP):** register your interest in learning to teach the Bitcoin Diploma.
+- **Explore the Educator Training Program (ETP):** learn how My First Bitcoin prepares people to teach the Bitcoin Diploma.
 
-[Proofread, volunteer, contribute to the Resources Hub, share feedback, or sign up for ETP](https://forms.myfirstbitcoin.org/)
+[Proofread, volunteer, contribute to the Resources Hub, or share feedback](https://forms.myfirstbitcoin.org/)
+
+[Explore the Educator Training Program](https://programs.myfirstbitcoin.org/programs/educator-training-program/)
 
 Use the official form only. Do not include seed phrases, private keys, wallet balances, or other sensitive personal or security information in a submission.
 
@@ -1483,7 +1565,7 @@ Use the official form only. Do not include seed phrases, private keys, wallet ba
 
 The [My First Bitcoin Education Network](https://myfirstbitcoin.org/about/network) connects independent educators and local learning communities. Explore it to learn how communities share experience, adapt open-source materials responsibly, and support Bitcoin education in their own context.
 
-If you want to teach, start by building a strong foundation as a learner, then register interest in the **Educator Training Program (ETP)** through the [official form](https://forms.myfirstbitcoin.org/). The ETP is a training path for prospective independent educators; participation, timing, and local requirements may change, so check the current official information before applying.
+If you want to teach, start by building a strong foundation as a learner, then review the [Educator Training Program (ETP)](https://programs.myfirstbitcoin.org/programs/educator-training-program/). The ETP is a training path for prospective independent educators; participation, timing, and local requirements may change, so check the current official information before applying.
 
 ### Learn from community case studies
 
@@ -1515,6 +1597,7 @@ Education reduces risk but cannot remove it. If a situation is unclear, stop and
 My First Bitcoin provides open-source learning resources and supports independent educators and communities.
 
 - Website: [myfirstbitcoin.org](https://myfirstbitcoin.org/)
+- Public Bitcoin Diploma page: [programs.myfirstbitcoin.org/programs/bitcoin-diploma](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/)
 - Open-source organization: [github.com/MyFirstBitcoin](https://github.com/MyFirstBitcoin)
 - Curriculum source: [github.com/MyFirstBitcoin/mfb-curriculum](https://github.com/MyFirstBitcoin/mfb-curriculum)
 
