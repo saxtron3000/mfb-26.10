@@ -91,6 +91,7 @@ Advanced content may include deeper:
 
 - monetary history;
 - economics;
+- investment, risk, and capital-allocation reasoning;
 - fiat-system analysis;
 - Bitcoin history;
 - cryptography;
@@ -266,6 +267,40 @@ Reason moved out of Core:
 
 Core should introduce scarcity, time preference, and opportunity cost through essential ideas. Deeper behavioral analysis requires more time and more careful facilitation.
 
+## Investment, Risk, Reward, And Capital Allocation
+
+Primary sources:
+
+- `../ref/bitcoin-for-organizations/en/4-impact-on-industry-verticals/2-bitcoin-and-investment-management.md`
+- `../ref/bitcoin-for-organizations/en/1-bitcoin-and-risk-management/`
+- `../ref/bitcoin-for-organizations/en/5-impact-on-internal-functions/2-what-is-a-bitcoin-treasury.md`
+
+Content to preserve:
+
+- capital allocation as the process of deciding which available uses receive limited capital, including holding liquidity, meeting known obligations, funding productive work, or taking an investment exposure;
+- opportunity cost: choosing one use of capital means declining another;
+- the difference between a possible reward, an expected return, a promised return, and an actual outcome;
+- the relationship between risk and reward: greater possible reward does not guarantee a better outcome, and a lower-volatility or familiar option is not automatically low risk;
+- time horizon, liquidity needs, drawdown tolerance, concentration, correlation, counterparty exposure, custody and operational risk as distinct considerations;
+- the limits of historical returns, back-tests, correlations, and risk-adjusted-return measures: each describes selected past data and depends on assumptions, periods, and definitions;
+- scenario analysis using fictional cases, including the possibility of loss, prolonged drawdowns, inability to sell at the desired time, or an investment failing to meet its purpose;
+- the different responsibilities of an individual, a business, a nonprofit, and a professional investment manager when making capital-allocation decisions.
+
+Possible Advanced modules:
+
+- Monetary Economics
+- Bitcoin Risk Management and Scenario Planning
+- Bitcoin Treasury and Organizational Custody
+- Bitcoin for Business
+
+Teaching boundary:
+
+This material should teach decision frameworks, terminology, evidence limits, and trade-offs. It must not recommend Bitcoin, a portfolio weight, a product, a provider, a timing decision, or a personal capital allocation. Use fictional and clearly labelled scenarios rather than learner balances or personal financial details. Learners may evaluate the reasoning and missing information in a scenario; they should not be assessed on choosing an investment or producing a portfolio.
+
+Reason moved out of Core:
+
+Investment and capital-allocation reasoning assumes a longer time horizon, more economic background, and careful treatment of personal and organizational context. It belongs in Advanced study and must remain distinct from financial, legal, tax, accounting, or investment advice.
+
 ## Detailed History Of Money
 
 Primary sources:
@@ -316,6 +351,8 @@ Content to preserve:
 - fiat money pros and cons;
 - commodity-backed systems;
 - debt-driven money creation;
+- fractional-reserve banking as a featured case study: bank balance sheets, deposit liabilities, loans and other assets, liquidity, solvency, credit creation, and bank-run dynamics;
+- the distinction between reserve requirements, capital requirements, liquidity requirements, and the other legal, economic, and risk constraints on bank lending;
 - the Cantillon effect: when new money or credit enters an economy through particular recipients, those recipients may be able to spend it before prices and wages have fully adjusted; later recipients may face changed prices first;
 - how the distribution channel, timing, contracts, market conditions, and credit demand can affect who experiences those changes and when;
 - commercial-bank revenue models;
@@ -345,6 +382,12 @@ Possible Advanced modules:
 ### Cantillon Effect Teaching Note
 
 The Cantillon effect is a framework for examining the distributional effects of money and credit creation. It asks who receives new money or credit first, what they can buy or finance before prices adjust, and how later price, wage, and asset changes affect other people. It does not mean that every price increase has one cause or that the effects are identical in every case. Advanced learners should compare specific, sourced scenarios and distinguish the timing and distribution of new money or credit from broader causes of inflation and changes in relative prices.
+
+### Fractional-Reserve Banking Teaching Note
+
+Fractional-reserve banking should be a featured Monetary Economics strand, not a passing definition. Use simplified bank balance sheets to show that deposits are liabilities of a bank, while loans and other investments are assets. A bank can be solvent yet face a liquidity problem if it cannot meet withdrawals when due; it can also be insolvent when its assets are worth less than its liabilities. Learners should examine how lending, repayment, withdrawals, losses, capital, liquidity, and confidence interact in fictional scenarios.
+
+Avoid presenting one reserve ratio as a universal explanation of money creation. Rules and practices differ by jurisdiction and time, and lending is also constrained by capital, liquidity, regulation, borrower creditworthiness, funding, and demand for credit. Use current, locally relevant banking rules only when they are verified, dated, and appropriately sourced.
 
 Reason moved out of Core:
 
@@ -457,6 +500,8 @@ Content to preserve:
 - relationship between nodes, miners, proof of work, and rule enforcement;
 - how new nodes sync and verify;
 - why running a node reduces trust.
+
+A merchant, exchange, or other economically active user that verifies payments with a node is sometimes called an **economic node**. Its influence comes from the economic activity it accepts, not from authority over other participants. Running a node also requires storage, bandwidth, maintenance, and technical attention.
 
 Possible Advanced modules:
 
@@ -976,7 +1021,7 @@ This section sketches possible directions for the candidate modules. These are s
 | Candidate module | Possible focus | Parked source material |
 |---|---|---|
 | History of Money (localisation) | Local money histories, commodity money, coinage, paper receipts, gold standard, Bretton Woods, Nixon Shock, modern digital money | Legacy chapters 2 and 3; local educator input |
-| Monetary Economics | Scarcity, time preference, opportunity cost, inflation, purchasing power, banking, debt, policy tools, and the Cantillon effect | Legacy chapters 1.6, 3.2, 4.1, 4.2 |
+| Monetary Economics | Scarcity, time preference, opportunity cost, inflation, purchasing power, fractional-reserve banking, liquidity and solvency, debt, policy tools, the Cantillon effect, and risk/reward and capital-allocation reasoning | Legacy chapters 1.6, 3.2, 4.1, 4.2; Organizations investment-management material |
 | History of Bitcoin | Cypherpunks, digital cash attempts, Satoshi, whitepaper, Genesis Block, early transactions, Pizza Day | Legacy chapters 4.3, 5.0, 5.1 |
 | Philosophy of Bitcoin | Self-sovereignty, autonomy, critical thinking, rule verification, rights, future scenarios | Legacy chapter 10 |
 | Transactions & Settlement | UTXOs, inputs, outputs, change, signatures, broadcast, mempool, confirmations, settlement finality | Legacy chapters 6.4, 8.2, 9.2, 9.3 |
@@ -1014,7 +1059,8 @@ These activities may become Advanced modules, educator background, or optional w
 | Activity seed | Possible module | Source |
 |---|---|---|
 | Time preference activity | Monetary Economics | Legacy chapter 1.6 |
-| Fractional reserve banking activity | Monetary Economics | Legacy chapter 3.2 |
+| Fractional-reserve banking balance-sheet simulation | Monetary Economics | Use a fictional bank to distinguish deposits, loans, reserves or liquid assets, capital, liquidity pressure, and insolvency. Change one condition at a time and ask learners to explain the consequence; do not use it to make claims about a real bank. |
+| Fictional capital-allocation scenario | Monetary Economics | Compare liquidity, time horizon, opportunity cost, possible reward, and market, custody, concentration, and operational risks without selecting or recommending an allocation. |
 | Claim / evidence / reasoning on fiat problems | Money & Society | `10_activities.md` |
 | Cypherpunk timeline | History of Bitcoin | Legacy chapter 4.3 |
 | Consensus activity | Mining & Consensus | Legacy chapter 5.1 |
@@ -1156,7 +1202,7 @@ Most Organizations content belongs in Advanced because it assumes strategic, ope
 
 | Advanced module destination | Organizations content to merge | Source files | Transformation notes |
 |---|---|---|---|
-| Monetary Economics | value, intrinsic value, store of value, monetization sequence, Gresham's Law, monetary premium, inflation, credit, savings behavior, adoption curves | `2-dispelling-misconceptions/1-bitcoin-has-no-intrinsic-value.md`; `2-dispelling-misconceptions/8-bitcoin-is-not-widely-used-so-is-it-money.md`; `4-impact-on-industry-verticals/2-bitcoin-and-investment-management.md`; `6-adopting-bitcoin/2-the-bitcoin-adoption-cycle.md`; `7-bitcoin-s-possible-future/1-the-potential-future-for-bitcoin.md` | Use as deeper economic reasoning. Remove investment advice tone. Date and verify market claims. |
+| Monetary Economics | value, intrinsic value, store of value, monetization sequence, Gresham's Law, monetary premium, inflation, credit, savings behavior, adoption curves, and investment, risk/reward, and capital-allocation frameworks | `2-dispelling-misconceptions/1-bitcoin-has-no-intrinsic-value.md`; `2-dispelling-misconceptions/8-bitcoin-is-not-widely-used-so-is-it-money.md`; `4-impact-on-industry-verticals/2-bitcoin-and-investment-management.md`; `6-adopting-bitcoin/2-the-bitcoin-adoption-cycle.md`; `7-bitcoin-s-possible-future/1-the-potential-future-for-bitcoin.md` | Use as deeper economic reasoning and scenario analysis. Do not prescribe allocations, products, or timing; remove investment-advice tone and date and verify market claims. |
 | History of Bitcoin | Cypherpunks, TCP/IP context, public-key cryptography, DigiCash, Hashcash, BitTorrent, reusable proof of work, B-money, Bit Gold, Satoshi's synthesis | `3-bitcoin-technical-history/`; `6-adopting-bitcoin/1-the-discovery-of-digital-scarcity.md` | Use as a full technical-history module. Beginner Diploma only needs the short timeline. |
 | Philosophy of Bitcoin | value as social judgment, Bitcoin as protocol/discovery, decentralization, political control of money, technology versus law, rules-not-rulers framing | `2-dispelling-misconceptions/1-bitcoin-has-no-intrinsic-value.md`; `2-dispelling-misconceptions/10-will-bitcoin-be-overtaken-by-another-technology.md`; `4-impact-on-industry-verticals/6-government.md` | Keep as discussion and reasoning material. Review tone carefully before publication. |
 | Transactions & Settlement | settlement finality, block explorers, confirmations, transaction transparency, card-payment flow versus Lightning flow, high-value settlement, signing ceremony ideas | `4-impact-on-industry-verticals/3-banking-and-payments.md`; `7-bitcoin-s-possible-future/1-the-potential-future-for-bitcoin.md`; `8-the-bitcoin-economy/` | Strong fit. Include practical transaction analysis and settlement comparison activities. |
@@ -1235,6 +1281,7 @@ Before any Organizations material is published in Advanced modules:
 - distinguish Bitcoin from broader crypto without turning every section into an altcoin debate;
 - separate conceptual claims from local legal or regulatory facts;
 - add not-financial/legal/tax-advice boundaries where relevant;
+- frame risk, reward, investment, and capital-allocation material as general education and fictional scenario analysis, never individualized recommendations;
 - review tone for global audiences and translation readiness.
 
 Current-data claims requiring verification include:

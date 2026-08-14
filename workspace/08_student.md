@@ -814,7 +814,7 @@ Good address practice includes:
 - use a new address for each on-chain receipt when the wallet provides one;
 - send a small test first when the amount or process is unfamiliar.
 
-Bitcoin addresses can begin with different characters because several valid formats exist. Do not decide that an address is safe only by its appearance. Let a compatible wallet validate it.
+Bitcoin addresses can begin with different characters because several valid formats exist. Do not decide that an address is safe only by its appearance.
 
 A Lightning invoice is not the same as an on-chain address. Confirm the payment method before sending.
 
@@ -832,7 +832,7 @@ The essential rule is simple:
 
 A digital signature proves that the required private key authorized a transaction. It does not place the private key inside the transaction. Nodes verify the signature before accepting the spend.
 
-Modern wallets manage many keys automatically. Beginners should not copy or handle individual private-key strings. Protect the wallet's approved backup and follow its recovery procedure.
+Modern wallets manage many keys automatically. Beginners should not copy or handle individual private-key strings. To avoid loss of funds, protect the wallet's approved backup and follow its recovery procedure.
 
 No legitimate educator, wallet company, exchange employee, technical-support worker, or Bitcoin developer needs your private key or seed phrase. Anyone who asks for it should be treated as a threat.
 
@@ -910,7 +910,7 @@ A safe beginner recovery process follows these principles:
 
 1. Use official instructions for the exact wallet.
 2. Confirm that the wallet and backup standard are compatible.
-3. Practice in a private place without cameras or observers.
+3. Practice in a private place without distractions or observers.
 4. Prefer the wallet's built-in, trusted recovery or backup-check method.
 5. Never enter a hardware-wallet seed phrase into a website, message, or ordinary computer application.
 6. Confirm that the restored wallet shows the expected receiving information or test transaction history.
@@ -952,7 +952,7 @@ A wallet may generate a new address after each receipt. Old addresses usually re
 
 Seeing a transaction in a message or screenshot is not proof of payment. Verify it in your wallet or through a trusted node or block explorer. For meaningful amounts, wait until the transaction is confirmed in a block.
 
-For a classroom demonstration, use test funds or a very small amount. The learner should be able to identify the receive screen, amount, method, and status even if no real payment is made.
+For a classroom demonstration, use test funds or a very small amount. You should be able to identify the receive screen, amount, method, and status even if no real payment is made.
 
 ### Sending bitcoin
 
@@ -1060,9 +1060,11 @@ When uncertain, pause. A real opportunity will survive a careful check. A scam o
 
 **Spot question:** What clues would help you spot a scam, and what is the safe response if you see one?
 
-### Acquiring and exchanging bitcoin as pathway awareness, not financial advice
+### Acquiring and exchanging bitcoin
 
-People obtain bitcoin in several ways. Each path creates different privacy, custody, price, fraud, legal, and operational risks.
+## Pathway awareness, not financial advice
+
+People obtain bitcoin in several ways. Each path creates different privacy, custody, price, fraud, legal, and operational risks. This information is for education only and is not financial, investment, legal, or tax advice.
 
 **Earning:** A person may receive bitcoin for work, goods, or services. This can be direct and practical, but both parties must agree on the amount, timing, payment method, and local tax treatment.
 
@@ -1597,7 +1599,7 @@ Education reduces risk but cannot remove it. If a situation is unclear, stop and
 My First Bitcoin provides open-source learning resources and supports independent educators and communities.
 
 - Website: [myfirstbitcoin.org](https://myfirstbitcoin.org/)
-- Public Bitcoin Diploma page: [programs.myfirstbitcoin.org/programs/bitcoin-diploma](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/)
+- Bitcoin Diploma page: [programs.myfirstbitcoin.org/programs/bitcoin-diploma](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/)
 - Open-source organization: [github.com/MyFirstBitcoin](https://github.com/MyFirstBitcoin)
 - Curriculum source: [github.com/MyFirstBitcoin/mfb-curriculum](https://github.com/MyFirstBitcoin/mfb-curriculum)
 

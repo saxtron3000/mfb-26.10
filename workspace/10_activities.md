@@ -327,6 +327,7 @@ Every Block 4 certification assessment task must map to shared objectives `B4.1`
 - Do not trust, verify checklist
 - Block explorer observation where appropriate
 - Explore the ledger with confirmation and privacy prompts
+- Address history and reuse lookup with privacy prompts
 - Address verification and copy/paste risk scenario
 - Common scam pattern scenario
 - Acquiring/exchanging pathway risk map
@@ -405,6 +406,10 @@ Keep the activity focused on reasoning. Do not turn it into a debate about price
 Learners inspect a transaction using a live block explorer, a local node interface, or a printed screenshot. They identify amount, fee, confirmation status, and visible public information, then name one privacy risk created by searching or sharing transaction data.
 
 Pizza Day may be used as a historical example if the educator verifies the source and avoids turning the activity into a price speculation exercise.
+
+## Address History And Reuse Lookup
+
+Using a deliberately public, educator-prepared address, transaction, local-node view, or printed screenshot, learners identify visible address activity and decide whether the address appears to have been reused. They discuss how repeated use can make payments easier to link and why a wallet may provide a fresh receiving address. The educator must not ask learners to search, display, or share their own address or anyone else's address. Use a printed or projected example when connectivity is unavailable.
 
 ## Local Payment Path Comparison
 

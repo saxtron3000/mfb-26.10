@@ -34,6 +34,12 @@ The guide should help educators:
 
 The My First Bitcoin app is an essential tool for teaching the Diploma. It provides the learning, review, quizzes, knowledge checks, feedback, and progress support that accompany the Core blocks and make up much of the theoretical assessment. Ask learners to download it from [myfirstbitcoin.org](https://myfirstbitcoin.org/) before the course where possible, and plan when each app activity fits the lesson. The app complements rather than replaces the educator: you remain responsible for discussion, local context, guided practice, and direct observation of practical competency.
 
+### Educator support through the ETP
+
+You do not need to prepare or teach in isolation. My First Bitcoin supports educators through the [Educator Training Program (ETP)](https://programs.myfirstbitcoin.org/programs/educator-training-program/), which helps prospective and active educators develop their teaching practice and connect with the wider education community.
+
+**Ready for support?** Explore the [Educator Training Program](https://programs.myfirstbitcoin.org/programs/educator-training-program/) for current information and ways to get involved.
+
 ---
 
 # Guide Structure
@@ -48,9 +54,14 @@ The My First Bitcoin app is an essential tool for teaching the Diploma. It provi
 - How to avoid beginner overload
 - How to teach from translation-ready materials
 
+### Course roles
+
+In this Diploma, a **learner** studies, discusses, practises, and provides evidence of understanding. An **educator** facilitates the course, protects the learning environment, adds checked local context, and assesses practical competency. A **cohort** is the group learning together; smaller teams may complete particular activities. The **Diploma** is the complete learning and assessment program, not only this student book or the accompanying app.
+
 ### General Teaching Tips
 
 - Educators should feel allowed to say "not yet" when a student question would pull the class into a complex side topic. This does not shut down curiosity. It protects the structure, timing, and learning objectives of the activity. A useful response is: "That is an important question, but it belongs later. We will come back to it when the timing is right." This helps avoid rabbit-holing students before they have the foundation to understand the answer.
+- If learner time, energy, or familiarity with the basics suggests a gentler start, educators may offer an initial [Introduction to Bitcoin (ITB)](https://programs.myfirstbitcoin.org/programs/introduction-to-bitcoin/) session or course before the Diploma. ITB is a shorter first touch point for getting to grips with Bitcoin; it can prepare learners for the Diploma but does not replace its learning objectives or assessment.
 
 ## 2. Pacing And Timing
 
@@ -122,13 +133,18 @@ Suggested two-part sequence when more time is available:
 - Core ideas
 - Opening money questions
 - Key fiat-system roles
+- Prepare to facilitate the Student Book's local fiat-system reflection. Review the local currency's everyday uses, relevant institutions, and recent, checked examples before class; invite multiple experiences without presenting a political or financial conclusion as fact.
 - Fractional reserve banking and bank run demonstrations where appropriate
+- Be ready to explain the local banking rules and regulations relevant to this section, such as reserve arrangements, deposit protection, withdrawal rules, and the role of the central bank. Verify current details with authoritative local sources, distinguish rules from general concepts, and do not provide legal, financial, or regulatory advice.
+- Prepare to facilitate the purchasing-power check and discussion of the local official inflation measure. Locate a current, authoritative source, understand the basket and methodology it publishes, and invite learners to compare it with lived experience without treating either as a complete explanation of price changes.
 - CBDCs as digital fiat, with issuer, supply, permission, privacy, and verification questions
 - Likely misconceptions
 - Suggested activities
 - App knowledge checks
 - Assessed learner explanations, comparisons, discussions, or simulations
 - Review point
+
+Have learners keep their answers to the opening money questions. Return to them at the end of the Diploma.
 
 ### Solution / Bitcoin
 
@@ -143,6 +159,19 @@ Suggested two-part sequence when more time is available:
 - Assessed learner explanations, concept illustrations, role-plays, or scenarios
 - Review point
 
+### Frequently Asked Questions About Bitcoin's Properties
+
+Use these short answers to prepare for learner questions about the Student Book's Bitcoin-properties table. Ask a follow-up question or use a simple example where useful; do not turn the answers into claims that Bitcoin has no trade-offs.
+
+| Property | Learner question | Beginner-safe answer |
+| --- | --- | --- |
+| Scarcity | “Can't someone just make more than 21 million bitcoin?” | No person can create extra bitcoin simply by deciding to do so. The 21 million limit is enforced by the rules that nodes independently check. The rules could only change if people running the network chose to adopt different software, which would require broad agreement and could also create a network split; it is not a power held by a founder, miner, company, or government. |
+| Divisibility | “If bitcoin is limited, will there be enough for everyone?” | A bitcoin can be divided into 100,000,000 sats, so people can use small amounts. Dividing a bitcoin creates smaller units of the same fixed supply; it does not create more bitcoin. |
+| Durability | “What happens if my phone or wallet app stops working?” | Bitcoin does not live inside one phone. The shared ledger is maintained by many network participants, but access to a person's bitcoin depends on their keys and recovery information. Losing a device may be recoverable; losing or exposing the recovery information can create serious risk. |
+| Portability | “Does portable mean I can send bitcoin without any conditions?” | Bitcoin can be transferred through a communications network without a bank approving a valid transaction. In practice, a payment still depends on a working wallet, access to the network, fees, correct transaction details, and the recipient's ability to receive it. |
+| Verifiability | “Do I have to trust a website to know the supply or whether a payment happened?” | A block explorer can make information easier to view, but it is still a third-party service. A person or organization running a node can independently check Bitcoin's rules and transaction history; beginners may use explorers cautiously and should understand their privacy limits. |
+| Acceptability | “If Bitcoin is useful, why can’t I spend it everywhere?” | Use depends on whether people and businesses choose to accept it and on local tools, costs, rules, and habits. Bitcoin's technical properties do not guarantee local acceptance or stable prices. |
+
 ### Action / Self-custody
 
 Suggested two-part sequence when more time is available:
@@ -156,6 +185,7 @@ Suggested two-part sequence when more time is available:
 - Common scam and address-verification scenarios
 - How to explain acquiring and exchanging pathways without advice or endorsement
 - When to use block explorers as beginner verification tools, including confirmation status and public-ledger privacy limits
+- Address-history and reuse lookup activity: use a deliberately public, educator-prepared address, transaction, or screenshot to show that address activity can be visible and repeated use can make transactions easier to link. Never ask learners to search, display, or share an address that belongs to them or another person, and provide a printed or projected fallback when internet access is unavailable.
 - Suggested activities
 - Supporting app knowledge checks
 - Required educator-observed wallet, transaction, recovery-readiness, verification, and safety assessment
@@ -204,6 +234,8 @@ Educator rule: answer the learner's real question, name trade-offs honestly, and
 ## 5. Assessment Support
 
 ### 5.1 The Two-Part Model
+
+Explain to learners that assessment has two equally important parts: theoretical understanding and practical competency. The My First Bitcoin app supports most of the theoretical half through learning and quizzes. The educator carries out short theoretical touchpoints through activities, games, discussions, and role-plays, and evaluates the practical half through observed skills. Frame these as opportunities for learners to show what they understand and can do, and to discover what they should review or practise again.
 
 Educators should present assessment like a driving test:
 

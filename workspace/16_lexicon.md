@@ -54,7 +54,7 @@ This feedback-reviewed lexicon lists Bitcoin and Bitcoin-adjacent terms that a b
 | **“By decree”** | By an official order from an authority. | First: **314**<br>Later: — |
 | **Account claim** | A recorded promise that an institution owes the account holder money or another asset. | First: **308**<br>Later: 333, 335, 364, 445 |
 | **Bank deposit** | Money recorded as a claim on a commercial bank, rather than physical cash held separately for the customer. | First: **308**<br>Later: 333, 335, 364, 445 |
-| **Network effect** | A situation in which something becomes more useful as more people use it. | First: **316**<br>Later: — |
+| **Network effect** | A situation in which something becomes more useful as more people use it. | First: **362**<br>Later: — |
 
 ### Fractional reserve banking
 
@@ -64,19 +64,21 @@ This feedback-reviewed lexicon lists Bitcoin and Bitcoin-adjacent terms that a b
 | **Bank money creation** | The creation of a matching bank deposit when a commercial bank approves a loan. | First: **335**<br>Later: — |
 | **Liability** | Something a person or institution owes; a bank deposit is a liability the bank owes its customer. | First: **333**<br>Later: 364 |
 | **Fractional reserve banking** | Banking in which only part of deposit obligations is kept immediately available as reserves. | First: **86**<br>Later: 331, 337, 411 |
-| **Liquidity** | Access to funds that can be used quickly. | First: **335**<br>Later: 341, 974, 1013, 1015, 1313 |
-| **Liquidity risk** | The danger that funds will not be available when needed. | First: **341**<br>Later: 974, 1013, 1015, 1313 |
+| **Liquid assets** | Assets, such as cash or reserves, that can be used or converted to cash quickly. | First: **381**<br>Later: 383 |
+| **Liquidity** | The ability to meet payments or withdrawals promptly using cash or liquid assets. | First: **383**<br>Later: 391, 1059, 1098, 1100, 1108, 1389 |
+| **Liquidity risk** | The danger that a person or institution will not have enough readily available funds when needed. | First: **391**<br>Later: — |
+| **Capital** | A bank's loss-absorbing funding, such as owner funding and retained earnings. | First: **383**<br>Later: — |
 | **Solvency** | Having assets sufficient to cover obligations. | First: **342**<br>Later: — |
 | **Solvency risk** | The danger that an institution’s assets will not cover what it owes. | First: **342**<br>Later: — |
 | **Credit risk** | The risk that a borrower will not repay what is owed. | First: **335**<br>Later: — |
 | **Funding cost** | What a bank pays to obtain money. | First: **335**<br>Later: — |
 | **Qualified borrower** | A borrower who meets a lender’s standards for a loan. | First: **335**<br>Later: — |
-| **Bank capital rules** | Rules requiring banks to fund risks with capital that can absorb losses. | First: **335**<br>Later: — |
+| **Bank capital rules** | Rules requiring banks to fund risks with capital that can absorb losses. | First: **383**<br>Later: — |
 | **Bank regulation** | Rules and supervision that govern banks. | First: **335**<br>Later: 354 |
 | **Bank profit** | Income remaining after a bank’s costs and losses. | Not present |
 | **Deposit insurance** | A system that protects eligible bank deposits up to stated limits if a bank fails. | First: **344**<br>Later: — |
 | **Gearing** | Using borrowed money or obligations to increase the size of assets or financial exposure. | Not present |
-| **Bank run** | A rush of many customers trying to withdraw funds because they fear a bank may fail. | First: **344**<br>Later: — |
+| **Bank run** | A rush of many customers trying to withdraw funds because they fear a bank may fail. | First: **400**<br>Later: — |
 | **“Too big to fail”** | The view that an institution is so important that authorities may intervene to prevent its disorderly failure. | Not present |
 | **Restructuring** | Changing debts, ownership, or operations to help an institution continue or resolve failure. | Not present |
 
@@ -85,8 +87,8 @@ This feedback-reviewed lexicon lists Bitcoin and Bitcoin-adjacent terms that a b
 | Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
 | --- | --- | --- |
 | **Inflation** | A sustained increase in the general price level, so a unit of money buys less. | First: **86**<br>Later: 348, 350, 354, 356, 358, 412 |
-| **Price inflation** | A sustained increase in the general price level of goods and services. | First: **350**<br>Later: — |
-| **Purchasing power** | The amount of goods and services a unit of money can buy. | First: **45**<br>Later: 86, 238, 327, 348, 352, 356, 387, 397, 403, 415 |
+| **Price inflation** | A sustained increase in the general price level of goods and services. | First: **408**<br>Later: — |
+| **Purchasing power** | The amount of goods and services a unit of money can buy. | First: **53**<br>Later: 96, 282, 381, 406, 410, 414, 418, 430, 440, 469, 479, 1524 |
 | **Monetary expansion** | An increase in the amount of money or credit in circulation. | Not present |
 | **Secondary effects** | Later indirect effects caused by an initial economic change. | Not present |
 | **Inflation basket** | A selected group of goods and services used to measure average price changes. | Not present |
@@ -123,7 +125,7 @@ This feedback-reviewed lexicon lists Bitcoin and Bitcoin-adjacent terms that a b
 | --- | --- | --- |
 | **Cryptography** | Mathematical methods used to protect information and prove authenticity. | First: **185**<br>Later: 439, 441, 453 |
 | **Encryption** | Transforming information so only an authorized party can read it. | First: **441**<br>Later: — |
-| **Digital signature** | A mathematical proof created with a private key that authorizes a message or transaction. | First: **433**<br>Later: 441, 736, 744, 1518 |
+| **Digital signature** | A mathematical proof created with a private key that authorizes a message or transaction. | First: **503**<br>Later: 534, 569, 571, 729, 746, 817, 825, 1630 |
 | **Cypherpunk** | A person who uses or advocates cryptography and open technology to protect privacy and freedom. | First: **439**<br>Later: 443 |
 
 ### Early digital-money attempts and the double-spend problem
@@ -137,8 +139,8 @@ This feedback-reviewed lexicon lists Bitcoin and Bitcoin-adjacent terms that a b
 | **Reusable proof of work** | An early proposal for transferring scarce digital value without relying on one central database. | First: **459**<br>Later: — |
 | **BitTorrent** | A file-sharing system that demonstrated decentralized information sharing. | First: **461**<br>Later: — |
 | **Peer-to-peer network** | A network in which independent computers communicate directly rather than through one central server. | First: **461**<br>Later: 469 |
-| **Double spending** | Trying to use the same digital unit in more than one payment. | First: **465**<br>Later: 667 |
-| **Double-spend problem** | The challenge of preventing a digital unit from being spent more than once. | First: **449**<br>Later: 465, 667 |
+| **Double spending** | Trying to use the same digital unit in more than one payment. | First: **534**<br>Later: 546, 732, 748, 752 |
+| **Double-spend problem** | The challenge of preventing a digital unit from being spent more than once. | First: **518**<br>Later: 546 |
 | **Proof of work** | The process miners use to compete to propose blocks by performing costly computation. | First: **433**<br>Later: 455, 459, 470, 472, 517, 575, 577, 590, 592, 598, 607, 663 |
 | **Mining** | The process of competing through proof of work to propose a block. | First: **89**<br>Later: 185, 470, 504, 505, 509, 523, 527, 529, 569, 577, 584, 588, 592, 594, 596, 600, 605, 663, 668, 669, 883, 903, 1002 |
 | **Miner** | A participant that builds candidate blocks and performs proof-of-work computation. | First: **470**<br>Later: 504, 523, 527, 529, 577, 584, 588, 592, 594, 596, 600, 605, 663, 668, 669, 883, 903, 1002 |
@@ -196,7 +198,7 @@ This feedback-reviewed lexicon lists Bitcoin and Bitcoin-adjacent terms that a b
 
 | Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
 | --- | --- | --- |
-| **Hash function** | A mathematical process that turns data into a fixed-size digital result. | First: **594**<br>Later: — |
+| **Hash function** | A mathematical process that turns data into a fixed-length digital result. | First: **614**<br>Later: — |
 | **Target** | The threshold that a proof-of-work result must satisfy. | First: **594**<br>Later: 596, 605 |
 | **Difficulty** | A measure of how hard it is to find a proof-of-work result that satisfies the target. | First: **594**<br>Later: 596, 605 |
 | **Valid result** | A proof-of-work result that satisfies the target. | First: **605**<br>Later: — |
@@ -261,8 +263,8 @@ This feedback-reviewed lexicon lists Bitcoin and Bitcoin-adjacent terms that a b
 
 | Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
 | --- | --- | --- |
-| **Confirmation** | Inclusion of a transaction in a valid block. | First: **858**<br>Later: 893, 900, 903, 905, 907, 1002, 1014, 1015, 1032, 1182 |
-| **First confirmation** | The initial inclusion of a transaction in a valid block. | First: **858**<br>Later: 893, 900, 903, 905, 907, 1002, 1014, 1015, 1032, 1182 |
+| **Confirmation** | A count showing how many valid blocks include or follow the block containing a transaction; more confirmations make its place in the blockchain more costly to rewrite. | First: **616**<br>Later: 949, 953, 986, 993, 996, 998, 1000, 1004, 1097, 1109, 1110 |
+| **First confirmation** | The inclusion of a transaction in its first valid block. | First: **616**<br>Later: 996 |
 | **Block depth** | The number of blocks added after the block containing a transaction. | Not present |
 | **Transaction fee / miner fee** | A fee paid for an on-chain transaction to be included in a block. | First: **527**<br>Later: 577, 635, 694, 885, 1002, 1264 |
 | **Fee estimation** | A wallet’s attempt to choose an appropriate transaction fee. | First: **885**<br>Later: 1002, 1264 |
@@ -279,7 +281,7 @@ This feedback-reviewed lexicon lists Bitcoin and Bitcoin-adjacent terms that a b
 | **Layer 2** | A system built on a base network to add capacity or features. | Not present |
 | **Payment channel** | A mechanism for updating payments off-chain. | First: **1004**<br>Later: 1011, 1013, 1015, 1184 |
 | **Lightning routing** | Passing a payment through connected Lightning channels. | First: **1011**<br>Later: 1013, 1015, 1184 |
-| **Lightning liquidity** | Channel capacity available to move a Lightning payment. | First: **1013**<br>Later: 1015, 1184, 1313 |
+| **Lightning liquidity** | Channel capacity available to move a Lightning payment. | First: **1098**<br>Later: 1100, 1108 |
 | **Lightning invoice** | A usually specific Lightning payment request. | First: **1010**<br>Later: 1019, 1113, 1182, 1184 |
 | **Lightning offer** | A reusable Lightning payment request. | Not present |
 | **Lightning address** | A human-readable Lightning receiving identifier. | First: **1019**<br>Later: 1113, 1182, 1184 |
