@@ -51,7 +51,7 @@ The following assumptions affect project execution:
 
 - Target duration: an approximately 8-hour minimum planning baseline, with additional time where needed to meet the objectives.
 - Working architecture: 4 blocks—Problem / Broken Money, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money—delivered in an objective-preserving schedule rather than fixed two-hour classes.
-- Educator-facilitated delivery in person (preferred) or online.
+- Educator-facilitated delivery in person or online.
 - Low-tech, offline-capable print/PDF instructional materials, with supported app access required for theory assessment, practical-task follow-up, and completion.
 - Single Diploma with Custom and Advanced pathways.
 - Core / Custom / Advanced categorization.
@@ -282,7 +282,7 @@ Clarify implementation expectations.
 ### Deliverables
 
 - Low-tech, offline-capable print/PDF instructional-delivery specification
-- In-person delivery specification (preferred)
+- In-person delivery specification
 - Print/PDF usability guidance
 - Online adaptation guidance
 - Online PDF branch guidance

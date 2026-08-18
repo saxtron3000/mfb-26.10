@@ -107,9 +107,11 @@ After completing this Core Diploma, you should be able to:
 
 These outcomes are a foundation, not proof of expert skill. Completing the Diploma does not mean you are ready to manage large amounts of bitcoin, advise other people, or solve advanced technical problems without support.
 
-### Flexible learning: in person (preferred), online, or through low-tech delivery
+### Flexible learning: in person, online, or through low-tech delivery
 
-Diploma content is preferably taught in person; it may also be taught online, through a blended course, or with low-tech print/PDF materials. The book provides the shared knowledge path. Your educator adds discussion, guided activities, demonstrations, and local context. In every model, the required app theory assessment, educator theory interaction, observed practical assessment, and app practical follow-up remain the same.
+My First Bitcoin prefers in-person Diploma sessions because direct contact with an educator and more opportunities for practical activities can make learning more engaging and natural. This is a preference, not a requirement. Online teaching can be more affordable, scalable, and achievable for many people, so the Diploma supports both modes.
+
+Diploma content may be taught in person, online, through a blended course, or with low-tech print/PDF materials. The book provides the shared knowledge path. Your educator adds discussion, guided activities, demonstrations, and local context. In every model, the required app theory assessment, educator theory interaction, observed practical assessment, and app practical follow-up remain the same.
 
 Each block follows the same rhythm:
 

@@ -24,7 +24,7 @@ The redesigned Diploma should be shorter, clearer, more practical, and easier to
 
 Current design commitments:
 
-- educator-facilitated delivery in person (preferred) or online;
+- educator-facilitated delivery in person or online;
 - low-tech, offline-capable print/PDF instructional content, with supported app access required for theory assessment, practical-task follow-up, and completion;
 - an approximately 8-hour minimum planning baseline, with additional time when needed to meet the objectives;
 - 4 blocks that may be delivered in four two-hour sessions, eight one-hour sessions, or another schedule that preserves the learning sequence and required evidence;
@@ -254,7 +254,7 @@ Draft source material in English first. Before translation or publication, revie
 
 Delivery-branch rule:
 
-Low-tech, offline-capable print/PDF is the first content-publication mode and may support in-person facilitation (preferred) or online facilitation. Online PDF, online cohort, self-paced, web, an optional full-course app-delivery branch, and cross-modal versions should branch from the same Core outcomes rather than become separate curricula. In every certificated mode, the My First Bitcoin app remains mandatory for its theory-assessment and practical-task-follow-up contributions.
+Low-tech, offline-capable print/PDF is the first content-publication mode and may support in-person facilitation or online facilitation. Online PDF, online cohort, self-paced, web, an optional full-course app-delivery branch, and cross-modal versions should branch from the same Core outcomes rather than become separate curricula. In every certificated mode, the My First Bitcoin app remains mandatory for its theory-assessment and practical-task-follow-up contributions.
 
 ---
 

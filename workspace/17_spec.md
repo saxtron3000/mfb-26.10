@@ -21,7 +21,7 @@ The 2026.10 Bitcoin Diploma is a beginner course organized into four blocks, wit
 
 The first three blocks create a shared Core that every learner completes. The fourth block is selected by local educators so learners can connect Bitcoin to their own community, tools, risks, and opportunities.
 
-Teaching may be facilitated in person (preferred) or online, and the first publication package remains low-tech and offline-capable through print/PDF materials. Certification nevertheless requires supported access to the My First Bitcoin app for theory assessment and practical-task follow-up. Other delivery branches may include online PDF, online cohort, self-paced, web, and cross-modal formats, but every branch must preserve the same Core outcomes and two assessment gates.
+Teaching may be facilitated in person or online, and the first publication package remains low-tech and offline-capable through print/PDF materials. Certification nevertheless requires supported access to the My First Bitcoin app for theory assessment and practical-task follow-up. Other delivery branches may include online PDF, online cohort, self-paced, web, and cross-modal formats, but every branch must preserve the same Core outcomes and two assessment gates.
 
 ---
 
@@ -202,7 +202,7 @@ Named wallets, exchanges, services, maps, and local resources should be treated 
 
 # Delivery Model
 
-Teaching may be in person (preferred) or online and should remain low-tech and offline-capable wherever possible. Offline-capable describes content delivery, not a device-free certification path: every learner must eventually access and pass the required app theory assessment and practical-task follow-up.
+Teaching may be in person or online and should remain low-tech and offline-capable wherever possible. Offline-capable describes content delivery, not a device-free certification path: every learner must eventually access and pass the required app theory assessment and practical-task follow-up.
 
 The course is designed to work as:
 

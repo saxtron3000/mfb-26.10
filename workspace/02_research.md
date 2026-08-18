@@ -149,7 +149,7 @@ The largest evidence gap is Bitcoin-specific. None of the reviews located a peer
 - Four equal blocks or four two-hour sessions outperform every alternative schedule.
 - Lecture should occupy one exact percentage of each session.
 - The 50/50 and internal 80/20 allocations improve validity, reliability, or access.
-- No delivery mode is universally superior; the Diploma nevertheless prefers in-person learning (preferred).
+- No delivery mode is universally superior.
 - QR codes improve learning.
 - Completing Bitcoin education causes Bitcoin adoption, financial improvement, ideological agreement, or durable behaviour change.
 - Evidence from formal education, professional training, financial literacy, or digital skills predicts a specific Diploma effect size.
@@ -295,7 +295,7 @@ This file contains eight Bitcoin Diploma educator responses collected in Novembe
 |---|---|
 | Educators need stronger practical support and training | Keep facilitation, assessment calibration, pacing, and low-connectivity guidance in `12_educator-draft.md`; use `12_educator-plan.md` as its planning outline and treat educator preparation as implementation work. |
 | Activity use varies by context | Use pilot evidence to select, revise, or retire activities in `10_activities.md`; preserve objective alignment and equivalent low-tech options. |
-| Videos and online tools are not universally usable | Maintain low-tech, offline-capable content for in-person facilitation (preferred) or online facilitation and require a non-video fallback for media-dependent teaching activities; separately arrange supported access to the required assessment app. |
+| Videos and online tools are not universally usable | Maintain low-tech, offline-capable content for in-person facilitation or online facilitation and require a non-video fallback for media-dependent teaching activities; separately arrange supported access to the required assessment app. |
 | Learners and educators want a next step | Preserve technical and specialist follow-on material in `18_advanced.md`; consider graduate-community or referral work as a future implementation decision, not a beginner-Diploma requirement. |
 | Assessment should allow accessibility but stay meaningful | Keep common objectives and evidence standards while allowing equivalent task formats and accessibility accommodations, as defined in `13_assessment.md`. |
 
@@ -446,7 +446,7 @@ Return exactly:
 ```text
 You are conducting a rapid evidence review for My First Bitcoin's Bitcoin Diploma: a global, community-led, beginner, Bitcoin-only education programme. The proposed course is approximately eight hours and is delivered by community educators in varied languages, cultures, ages, and connectivity conditions. This is curriculum research, not financial, legal, tax, accounting, compliance, or investment advice. Do not recommend named commercial wallets, exchanges, or local services.
 
-Research question: Compare in-person delivery (the preferred Diploma learning experience), online cohort, self-paced, offline print/PDF, online PDF, web/app, hybrid, and cross-modal delivery for beginner adult education. Which learner supports, pacing mechanisms, interactions, accessibility measures, and evidence of learning must change by delivery mode while Core outcomes remain stable? Include low-connectivity and low-technology constraints. Also identify research, usability guidance, or accessibility standards that should govern QR-code use in printed learner resources: what must remain complete in print/PDF, when QR codes help, and how to avoid clutter, unstable destinations, or exclusion.
+Research question: Compare in-person delivery, online cohort, self-paced, offline print/PDF, online PDF, web/app, hybrid, and cross-modal delivery for beginner adult education. Which learner supports, pacing mechanisms, interactions, accessibility measures, and evidence of learning must change by delivery mode while Core outcomes remain stable? Include low-connectivity and low-technology constraints. Also identify research, usability guidance, or accessibility standards that should govern QR-code use in printed learner resources: what must remain complete in print/PDF, when QR codes help, and how to avoid clutter, unstable destinations, or exclusion.
 
 Approach: Prioritise systematic reviews, meta-analyses, peer-reviewed studies, established academic books, usability and accessibility standards, and university, government, or intergovernmental education bodies. Prefer research published since 2015, while including older foundational work if still influential. Separate direct evidence from reasonable design inference. Do not invent citations, DOIs, quotations, findings, or links.
 

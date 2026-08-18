@@ -13,7 +13,7 @@ The Diploma uses two required, non-compensatory assessment components:
 
 Only approved educator-led theory interactions with stated objectives, criteria, individual evidence, and a concise record contribute to the theoretical score. Other educator-led questions, explanations, comparisons, games, discussions, scenarios, simulations, and role-plays remain formative. App practical follow-up evaluates understanding of a task; it does not replace direct observation of performance. Learners must pass both components and all required internal contributions; strength in one cannot compensate for failure in another.
 
-Content may be facilitated in person (preferred) or online and remains usable through low-tech, offline-capable print/PDF materials. App access is nevertheless an explicit minimum-technology requirement for its theory-assessment and practical-task-follow-up contributions and for Diploma completion. The app cannot determine whether a learner can perform a practical skill; that is the educator's role. See `15_certification.md`. The app question-bank structure is maintained in `14_microlearning.md`.
+Content may be facilitated in person or online and remains usable through low-tech, offline-capable print/PDF materials. App access is nevertheless an explicit minimum-technology requirement for its theory-assessment and practical-task-follow-up contributions and for Diploma completion. The app cannot determine whether a learner can perform a practical skill; that is the educator's role. See `15_certification.md`. The app question-bank structure is maintained in `14_microlearning.md`.
 
 ---
 
@@ -296,7 +296,7 @@ The intended completion rule is that every required objective meets its approved
 
 All certificated delivery modes require both parts of the assessment.
 
-- In-person delivery (preferred), online delivery, and cohort delivery should integrate approved educator-evaluated theory interactions, formative educator support, direct practical observation, and task-linked app follow-up into block activities where appropriate.
+- In-person delivery, online delivery, and cohort delivery should integrate approved educator-evaluated theory interactions, formative educator support, direct practical observation, and task-linked app follow-up into block activities where appropriate.
 - Self-paced or app-first learners may complete app work independently, but must complete approved educator theory interactions and live or remote practical assessment before certification.
 - Low-connectivity delivery may use offline-capable print/PDF content and paper quizzes for formative learning, but certification requires eventual app-based theory assessment, practical-task follow-up, and synchronization of both app results.
 - Remote practical assessment may be used only when the educator can directly observe the required performance and protect learner privacy and safety.

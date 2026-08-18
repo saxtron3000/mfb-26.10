@@ -237,7 +237,7 @@ Before objectives are final, resolve:
 - multilingual glossary and translation-readiness checks;
 - technology assumptions;
 - online or self-paced objective variants, if those delivery modes remain in scope;
-- assessment timing and format for the approximately eight-hour in-person (preferred) or online pathway, including required app access;
+- assessment timing and format for the approximately eight-hour in-person or online pathway, including required app access;
 - educator authorization, calibration, and moderation requirements.
 
 ---

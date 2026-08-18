@@ -124,7 +124,7 @@ Estimated minutes.
 
 ### Delivery Mode
 
-In-person (preferred), offline print/PDF, online cohort, self-paced, web-supported, or adaptable.
+In-person, offline print/PDF, online cohort, self-paced, web-supported, or adaptable.
 
 ### Materials
 
@@ -206,7 +206,7 @@ Educator.
 
 ### Delivery Mode
 
-In-person (preferred), online cohort, offline print/PDF, or adaptable.
+In-person, online cohort, offline print/PDF, or adaptable.
 
 ### Materials
 

@@ -51,7 +51,7 @@ Internal purpose research clarifies that the Diploma should remain a structured,
 
 The current working design direction is:
 
-- educator-facilitated delivery in person (preferred) or online;
+- educator-facilitated delivery in person or online;
 - approximately 8-hour minimum planning baseline, with additional time where objectives require it;
 - working architecture of four blocks—Problem / Broken Money, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money—rather than fixed two-hour classes;
 - single Diploma with Custom and Advanced pathways;
@@ -66,7 +66,7 @@ The current working design direction is:
 - assessment built from the learning objectives, using a theoretical component worth 50% (80% app-evaluated / 20% educator-evaluated) and a practical component worth 50% (80% direct educator observation / 20% app task follow-up);
 - certification based on both theoretical evidence and directly observed practical competence;
 - localization considered through adaptable examples, activities, and facilitation, not through changing core outcomes;
-- low-tech, offline-capable print/PDF content treated as the first publication mode for in-person facilitation (preferred) or online facilitation, with future branches to online PDF, online cohort, self-paced, web, an optional full-course app-delivery branch, and cross-modal continuation; the required assessment app is a current dependency rather than a future branch;
+- low-tech, offline-capable print/PDF content treated as the first publication mode for in-person facilitation or online facilitation, with future branches to online PDF, online cohort, self-paced, web, an optional full-course app-delivery branch, and cross-modal continuation; the required assessment app is a current dependency rather than a future branch;
 - print PDFs kept clean, with QR codes used sparingly for stable, high-value destinations;
 - shared theory and Core outcomes standardized globally, while practice is localized and led by educators or local experts;
 - an internal "racecar" standard: every component should earn its place by improving clarity, completion, practice, educator usability, or learner safety.
@@ -270,7 +270,7 @@ Otherwise, technical depth should move to Custom, Advanced, educator background,
 
 ## 4.10 Design For Delivery-Mode Branching
 
-The first content implementation should remain low-tech and offline-capable, with in-person facilitation preferred and online facilitation supported. Certification still requires access to the assessment app.
+The first content implementation should remain low-tech and offline-capable, with in-person and online facilitation supported. Certification still requires access to the assessment app.
 
 The design should also make future branches possible:
 
@@ -365,7 +365,7 @@ The redesigned Diploma must:
 - avoid global endorsement of named tools, services, wallets, exchanges, or local resources;
 - fact-check or date current-data examples before publication;
 - use QR codes sparingly in print PDFs;
-- preserve low-tech, offline-capable content delivery for in-person teaching (preferred) and online teaching while stating the mandatory app requirement for theory assessment and practical-task follow-up;
+- preserve low-tech, offline-capable content delivery for in-person teaching and online teaching while stating the mandatory app requirement for theory assessment and practical-task follow-up;
 - support real-world implementation, not ideal conditions.
 
 ---
@@ -391,7 +391,7 @@ Pending: detailed audience assumptions require human confirmation.
 
 The Diploma should be designed for varied technology contexts.
 
-The first content-delivery mode should remain usable through in-person teaching (preferred) or online teaching and offline-capable print or PDF materials. This does not create a device-free certification route: every learner must receive supported access to the required app theory assessment and practical-task follow-up.
+The first content-delivery mode should remain usable through in-person teaching or online teaching and offline-capable print or PDF materials. This does not create a device-free certification route: every learner must receive supported access to the required app theory assessment and practical-task follow-up.
 
 Future delivery branches should be planned as adaptations of the same source, not as separate curricula with drifting outcomes.
 

@@ -20,7 +20,7 @@ The guide should help educators:
 - adapt examples locally;
 - support multilingual or translated delivery;
 - select Custom / Bitcoin as Money modules;
-- facilitate in person (preferred) or online with low-tech, offline-capable teaching materials when needed;
+- facilitate in person or online with low-tech, offline-capable teaching materials when needed;
 - handle named tools, local resources, and current-data examples carefully;
 - use QR codes and external links sparingly in print/PDF delivery;
 - protect learner safety and autonomy;
@@ -32,7 +32,7 @@ The guide should help educators:
 
 ### The My First Bitcoin app as the required assessment tool
 
-Content may be facilitated in person (preferred) or online and taught with low-tech, offline-capable print/PDF materials. To complete the Diploma, every learner must use the approved My First Bitcoin app for 80% of theoretical assessment and 20% task-linked practical follow-up. Educators contribute the other 20% of theoretical assessment through approved objective-aligned interactions; an educator directly evaluates 80% of the practical component. Arrange supported app access when a learner does not have a suitable device or connection.
+Content may be facilitated in person or online and taught with low-tech, offline-capable print/PDF materials. To complete the Diploma, every learner must use the approved My First Bitcoin app for 80% of theoretical assessment and 20% task-linked practical follow-up. Educators contribute the other 20% of theoretical assessment through approved objective-aligned interactions; an educator directly evaluates 80% of the practical component. Arrange supported app access when a learner does not have a suitable device or connection.
 
 ### Educator support through the ETP
 
@@ -69,7 +69,7 @@ In this Diploma, a **learner** studies, discusses, practises, and provides evide
 - Four two-hour sessions as one delivery model, not a fixed limit
 - Suggested timing per block
 - Flexible delivery models: one-day, four-day, or eight-day
-- In-person delivery (preferred) or online delivery using low-tech, offline-capable print/PDF content where needed
+- In-person delivery or online delivery using low-tech, offline-capable print/PDF content where needed
 - What to cut when time is short
 - What to move to Advanced pathways
 - How to reserve time for required assessment

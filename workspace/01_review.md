@@ -281,7 +281,7 @@ Bitcoin for Organizations contains useful technical-history and misconception ma
 
 It is not always clear whether the Diploma assumes:
 
-- in-person delivery (preferred);
+- in-person delivery;
 - offline print or PDF delivery;
 - online delivery;
 - online cohort delivery;

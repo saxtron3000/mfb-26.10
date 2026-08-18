@@ -13,7 +13,7 @@ The current direction is:
 - a beginner Diploma with an approximately 8-hour minimum planning baseline;
 - four blocks that may be delivered in four two-hour sessions or another objective-preserving schedule;
 - a shared Core followed by an educator-selected Custom block;
-- low-tech, offline-capable print or PDF content delivery first, facilitated in person (preferred) or online;
+- low-tech, offline-capable print or PDF content delivery first, facilitated in person or online;
 - practical learning, discussion, reflection, review, and learner explanation in every block;
 - English-first source drafting followed by simplicity, tone, terminology, style, and translation-readiness review;
 - a separate Student Book, Activity Bank, Educator Guide, assessment framework, and publication specification;

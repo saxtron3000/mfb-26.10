@@ -2898,7 +2898,9 @@ Pay particular attention to:
 
 Use the definitions in the [Beginner Lexicon](16_lexicon.md).
 
-### In-person delivery (preferred)
+My First Bitcoin prefers in-person Diploma sessions because direct educator contact and greater opportunity for practical activities can make learning more engaging and natural. This is a preference, not a requirement. Online delivery can be more affordable, scalable, and achievable for many people, so educators should support either mode appropriately.
+
+### In-person delivery
 
 - Arrange seating for dialogue and small-group work.
 - Create a private assessment area.

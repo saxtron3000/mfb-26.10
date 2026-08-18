@@ -11,7 +11,7 @@
 ## 2. How This Diploma Works
 
 - What learners will be able to explain and demonstrate by the end
-- Learning style: educator-facilitated in person (preferred) or online, with discussion, reflection, practice, and guided activities
+- Learning style: educator-facilitated in person or online, with discussion, reflection, practice, and guided activities
 - Participation expectations
 - Mandatory app microlearning, theoretical evaluation, and practical-task follow-up
 - Educator-observed practical evaluation
