@@ -51,7 +51,7 @@ Internal purpose research clarifies that the Diploma should remain a structured,
 
 The current working design direction is:
 
-- educator-facilitated delivery online or in person;
+- educator-facilitated delivery in person (preferred) or online;
 - approximately 8-hour minimum planning baseline, with additional time where objectives require it;
 - working architecture of four blocks—Problem / Broken Money, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money—rather than fixed two-hour classes;
 - single Diploma with Custom and Advanced pathways;
@@ -63,10 +63,10 @@ The current working design direction is:
 - Organizations material used only where it clarifies beginner Core concepts, educator misconception handling, Activity Bank scenarios, or local Custom practice;
 - Educator Guide treated as a facilitation engine;
 - Activity Bank treated as part of the learning ecosystem;
-- assessment built from the learning objectives, using a theoretical component worth 50% (80% app-evaluated / 20% educator-evaluated) and a practical component worth 50% (80% direct educator- or approved-assessor observation / 20% app task follow-up);
+- assessment built from the learning objectives, using a theoretical component worth 50% (80% app-evaluated / 20% educator-evaluated) and a practical component worth 50% (80% direct educator observation / 20% app task follow-up);
 - certification based on both theoretical evidence and directly observed practical competence;
 - localization considered through adaptable examples, activities, and facilitation, not through changing core outcomes;
-- low-tech, offline-capable print/PDF content treated as the first publication mode for in-person or online facilitation, with future branches to online PDF, online cohort, self-paced, web, an optional full-course app-delivery branch, and cross-modal continuation; the required assessment app is a current dependency rather than a future branch;
+- low-tech, offline-capable print/PDF content treated as the first publication mode for in-person facilitation (preferred) or online facilitation, with future branches to online PDF, online cohort, self-paced, web, an optional full-course app-delivery branch, and cross-modal continuation; the required assessment app is a current dependency rather than a future branch;
 - print PDFs kept clean, with QR codes used sparingly for stable, high-value destinations;
 - shared theory and Core outcomes standardized globally, while practice is localized and led by educators or local experts;
 - an internal "racecar" standard: every component should earn its place by improving clarity, completion, practice, educator usability, or learner safety.
@@ -210,9 +210,9 @@ Assessment should match the learning objective and the kind of competence being 
 
 The app should deliver objective-aligned micro-learning, 80% of theoretical assessment, and the 20% practical-task follow-up, including knowledge checks, feedback, and progress tracking. Educators should gather the remaining 20% of theoretical evidence through approved objective-aligned interactions and evaluate 80% practical performance using common tasks and rubrics.
 
-Blocks 1 and 2 should be knowledge-dominant, while Blocks 3 and 4 should be skills-dominant without excluding app evidence. The complete Diploma assessment allocates 50% to theory (80% app evaluation and 20% educator-evaluated interaction) and 50% to practice (80% direct observation by an educator or approved assessor and 20% app follow-up). Educator-led activities may be formative, but only approved objective-aligned interactions with criteria and records contribute to the theoretical score.
+Blocks 1 and 2 should be knowledge-dominant, while Blocks 3 and 4 should be skills-dominant without excluding app evidence. The complete Diploma assessment allocates 50% to theory (80% app evaluation and 20% educator-evaluated interaction) and 50% to practice (80% direct observation by an educator and 20% app follow-up). Educator-led activities may be formative, but only approved objective-aligned interactions with criteria and records contribute to the theoretical score.
 
-The app may record approved-assessor results and evaluate task-linked follow-up, but it cannot determine whether a learner can perform a practical skill. Certification requires both components and their required contributions.
+The app may record educator results and evaluate task-linked follow-up, but it cannot determine whether a learner can perform a practical skill. Certification requires both components and their required contributions.
 
 ## 4.8 Design For Multilingual Transfer
 
@@ -270,7 +270,7 @@ Otherwise, technical depth should move to Custom, Advanced, educator background,
 
 ## 4.10 Design For Delivery-Mode Branching
 
-The first content implementation should remain low-tech and offline-capable, with in-person and online facilitation supported. Certification still requires access to the assessment app.
+The first content implementation should remain low-tech and offline-capable, with in-person facilitation preferred and online facilitation supported. Certification still requires access to the assessment app.
 
 The design should also make future branches possible:
 
@@ -365,7 +365,7 @@ The redesigned Diploma must:
 - avoid global endorsement of named tools, services, wallets, exchanges, or local resources;
 - fact-check or date current-data examples before publication;
 - use QR codes sparingly in print PDFs;
-- preserve low-tech, offline-capable content delivery for in-person and online teaching while stating the mandatory app requirement for theory assessment and practical-task follow-up;
+- preserve low-tech, offline-capable content delivery for in-person teaching (preferred) and online teaching while stating the mandatory app requirement for theory assessment and practical-task follow-up;
 - support real-world implementation, not ideal conditions.
 
 ---
@@ -391,7 +391,7 @@ Pending: detailed audience assumptions require human confirmation.
 
 The Diploma should be designed for varied technology contexts.
 
-The first content-delivery mode should remain usable through in-person or online teaching and offline-capable print or PDF materials. This does not create a device-free certification route: every learner must receive supported access to the required app theory assessment and practical-task follow-up.
+The first content-delivery mode should remain usable through in-person teaching (preferred) or online teaching and offline-capable print or PDF materials. This does not create a device-free certification route: every learner must receive supported access to the required app theory assessment and practical-task follow-up.
 
 Future delivery branches should be planned as adaptations of the same source, not as separate curricula with drifting outcomes.
 
@@ -495,7 +495,7 @@ Educators should be supported with:
 - practical test administration;
 - rubric use and evidence recording;
 - feedback and reassessment; and
-- assessor calibration.
+- educator calibration.
 
 The Educator Guide should function as a facilitation engine, not as a duplicate of the Student Book.
 
@@ -594,9 +594,9 @@ Statistics, fees, legal context, provider availability, and network conditions m
 
 Adaptation and localization may gradually weaken learning outcomes.
 
-## Assessment Validity And Assessor Variation Risk
+## Assessment Validity And Educator Variation Risk
 
-App evaluation may over-reward recall, while educator theory and practical judgments may vary across cohorts. The 50/50 theoretical-practical allocation, internal 80/20 splits, a complete objective-aligned app blueprint, approved educator theory interactions, direct practical observation, task-linked app follow-up, common rubrics, assessor calibration, reassessment rules, and moderation are required to protect certificate consistency.
+App evaluation may over-reward recall, while educator theory and practical judgments may vary across cohorts. The 50/50 theoretical-practical allocation, internal 80/20 splits, a complete objective-aligned app blueprint, approved educator theory interactions, direct practical observation, task-linked app follow-up, common rubrics, educator calibration, reassessment rules, and moderation are required to protect certificate consistency.
 
 ## Translation Risk
 

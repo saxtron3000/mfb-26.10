@@ -11,10 +11,10 @@
 ## 2. How This Diploma Works
 
 - What learners will be able to explain and demonstrate by the end
-- Learning style: educator-facilitated online or in person, with discussion, reflection, practice, and guided activities
+- Learning style: educator-facilitated in person (preferred) or online, with discussion, reflection, practice, and guided activities
 - Participation expectations
 - Mandatory app microlearning, theoretical evaluation, and practical-task follow-up
-- Educator- or approved-assessor-observed practical evaluation
+- Educator-observed practical evaluation
 - Why both 50% assessment components must be passed for certification
 - Required prior knowledge: none
 - Minimum assessment technology and supported app-access expectations
@@ -72,7 +72,7 @@
 - Safety checklist: seed phrases, address checks, scams, and starting small
 - Acquiring and exchanging bitcoin as pathway awareness, not financial advice
 - On-chain and Lightning payments
-- Practical competency check observed by an educator or approved assessor, plus linked app follow-up
+- Practical competency check observed by an educator, plus linked app follow-up
 - Review: what does self-custody responsibility mean?
 
 ## 6. Block 4: Custom / Bitcoin As Money
@@ -89,7 +89,7 @@
 - Merchant or community use cases
 - Remittance, nonprofit, donation, or underbanked-access scenarios where locally appropriate
 - Local resource maps and community discovery
-- Local competency check observed by an educator or approved assessor, plus linked app follow-up
+- Local competency check observed by an educator, plus linked app follow-up
 - Review: how can Bitcoin function as money in this community?
 
 ## 7. Back Of Diploma: Next Steps

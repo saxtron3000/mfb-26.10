@@ -234,7 +234,7 @@ Risks include:
 - app or checklist completion being treated as proof of practical ability; and
 - certificates communicating inconsistent levels of achievement.
 
-The redesign should connect every learning objective to appropriate evidence. The complete assessment should contain two separately passed components: a theoretical 50% split between 80% app evaluation and 20% educator-evaluated objective-aligned interactions, and a practical 50% split between 80% direct educator- or approved-assessor observation and 20% app follow-up linked to the practical task. The common framework, app blueprint, rubrics, educator preparation, and certification prerequisite belong in `10_activities.md`, `12_educator-draft.md`, `13_assessment.md`, `14_microlearning.md`, and `15_certification.md`.
+The redesign should connect every learning objective to appropriate evidence. The complete assessment should contain two separately passed components: a theoretical 50% split between 80% app evaluation and 20% educator-evaluated objective-aligned interactions, and a practical 50% split between 80% direct educator observation and 20% app follow-up linked to the practical task. The common framework, app blueprint, rubrics, educator preparation, and certification prerequisite belong in `10_activities.md`, `12_educator-draft.md`, `13_assessment.md`, `14_microlearning.md`, and `15_certification.md`.
 
 ## 3.7 Lack of Measurable Outcomes
 
@@ -281,7 +281,7 @@ Bitcoin for Organizations contains useful technical-history and misconception ma
 
 It is not always clear whether the Diploma assumes:
 
-- in-person delivery;
+- in-person delivery (preferred);
 - offline print or PDF delivery;
 - online delivery;
 - online cohort delivery;

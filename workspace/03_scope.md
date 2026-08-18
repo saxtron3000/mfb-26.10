@@ -51,7 +51,7 @@ The following assumptions affect project execution:
 
 - Target duration: an approximately 8-hour minimum planning baseline, with additional time where needed to meet the objectives.
 - Working architecture: 4 blocks—Problem / Broken Money, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money—delivered in an objective-preserving schedule rather than fixed two-hour classes.
-- Educator-facilitated delivery online or in person.
+- Educator-facilitated delivery in person (preferred) or online.
 - Low-tech, offline-capable print/PDF instructional materials, with supported app access required for theory assessment, practical-task follow-up, and completion.
 - Single Diploma with Custom and Advanced pathways.
 - Core / Custom / Advanced categorization.
@@ -61,7 +61,7 @@ The following assumptions affect project execution:
 - Sparse QR code use in print materials.
 - Future instructional branches should be documented without becoming current implementation requirements: online PDF, online cohort, self-paced, web, an optional full-course app-delivery branch, and cross-modal continuation. The mandatory assessment app is a current dependency.
 - `06_plan.md` is the active plan source of truth.
-- Combined assessment is in scope: theoretical assessment is 50% of the Diploma and is split 80% app evaluation / 20% educator-evaluated objective-aligned interactions; practical assessment is the remaining 50% and is split 80% direct observation by an educator or approved assessor / 20% app follow-up linked to the practical task.
+- Combined assessment is in scope: theoretical assessment is 50% of the Diploma and is split 80% app evaluation / 20% educator-evaluated objective-aligned interactions; practical assessment is the remaining 50% and is split 80% direct observation by an educator / 20% app follow-up linked to the practical task.
 - Both assessment components are prerequisites for certification.
 - Detailed certification governance and credential infrastructure remain to be defined.
 - Localization preparation is in scope.
@@ -234,7 +234,7 @@ Separate advanced learning from beginner learning.
 
 ### Purpose
 
-Create an objective-aligned system with two required, non-compensatory components: a theoretical component worth 50%, divided 80% app evaluation and 20% educator-evaluated theory evidence; and a practical competency component worth 50%, divided 80% direct observation by an educator or approved assessor and 20% app follow-up on the practical task. Prevent certificate issuance until both components and their required contributions are passed.
+Create an objective-aligned system with two required, non-compensatory components: a theoretical component worth 50%, divided 80% app evaluation and 20% educator-evaluated theory evidence; and a practical competency component worth 50%, divided 80% direct observation by an educator and 20% app follow-up on the practical task. Prevent certificate issuance until both components and their required contributions are passed.
 
 ### Deliverables
 
@@ -242,19 +242,19 @@ Create an objective-aligned system with two required, non-compensatory component
 - Objective-to-assessment blueprint
 - Mandatory app assessment specification: micro-learning, theoretical evaluation, practical-task follow-up, feedback, passing rules, and retries
 - Educator-evaluated theoretical interactions and summative practical assessment tasks
-- 50/50 theoretical-practical assessment allocation: theory is app/educator 80/20 and practice is assessor/app-follow-up 80/20
+- 50/50 theoretical-practical assessment allocation: theory is app/educator 80/20 and practice is educator/app-follow-up 80/20
 - Competency evidence framework
 - Assessment mapping
 - Evidence models
 - Common practical rubrics, observable criteria, and safety-critical rules
-- Practical-assessor guidance, authorization, training, calibration, and moderation requirements
+- Educator guidance, authorization, training, calibration, and moderation requirements for practical assessment
 - Remediation, feedback, and reassessment process
 - Combined assessment-complete status for certification eligibility
 - Low-connectivity app access, interruption recovery, synchronization, and practical-result recording requirements
 
 ### Note
 
-The project establishes that both assessment components are mandatory for certification. The app produces 80% of the theoretical result and a 20% practical-task follow-up result; educators produce the remaining 20% theoretical evidence, while educators or approved assessors produce 80% of practical evidence through direct observation. App follow-up cannot evaluate or replace practical performance. Certificate governance, app access and continuity, identity verification, credential infrastructure, and on-chain verification decisions remain implementation questions.
+The project establishes that both assessment components are mandatory for certification. The app produces 80% of the theoretical result and a 20% practical-task follow-up result; educators produce the remaining 20% theoretical evidence, while educators or educator produce 80% of practical evidence through direct observation. App follow-up cannot evaluate or replace practical performance. Certificate governance, app access and continuity, identity verification, credential infrastructure, and on-chain verification decisions remain implementation questions.
 
 ---
 
@@ -282,7 +282,7 @@ Clarify implementation expectations.
 ### Deliverables
 
 - Low-tech, offline-capable print/PDF instructional-delivery specification
-- In-person delivery specification
+- In-person delivery specification (preferred)
 - Print/PDF usability guidance
 - Online adaptation guidance
 - Online PDF branch guidance
@@ -290,7 +290,7 @@ Clarify implementation expectations.
 - Self-paced adaptation guidance
 - Website branch guidance
 - Mandatory app theory assessment, practical-task follow-up, progress-tracking, minimum-access, and low-connectivity synchronization requirements
-- Recording and synchronization requirements for educator theory, educator- or approved-assessor practical observation, and both app results
+- Recording and synchronization requirements for educator theory, educator-observed practical evidence, and both app results
 - Cross-modal continuation notes
 - Delivery-mode branch map showing what stays fixed and what can adapt
 - Delivery assumptions documentation
@@ -417,8 +417,8 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 ## Milestone 6 — Combined Assessment Standard
 
 - Mandatory app-based theory-assessment and practical-task-follow-up framework completed
-- Educator-evaluated theory and educator- or approved-assessor practical-assessment framework completed
-- Objective-level evidence, assessor rubrics, and mandatory two-part certification prerequisite completed
+- Educator-evaluated theory and educator-observed practical-assessment framework completed
+- Objective-level evidence, educator rubrics, and mandatory two-part certification prerequisite completed
 
 ## Milestone 7 — Publishing
 
@@ -457,7 +457,7 @@ The redesign is complete when:
 - Strategic, organizational, financial, policy, legal, tax, treasury, sector-specific, and highly technical Organizations material is parked for Advanced rather than required in the beginner Diploma.
 - Timing assumptions are documented.
 - Delivery assumptions are documented.
-- Combined assessment framework, educator-assessor guidance, and two-part certification prerequisite are completed.
+- Combined assessment framework, educator-educator guidance, and two-part certification prerequisite are completed.
 - Measurable outcomes are defined.
 - Educator Guide is redesigned.
 - Activity Bank is operational.

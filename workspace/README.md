@@ -13,7 +13,7 @@ The current direction is:
 - a beginner Diploma with an approximately 8-hour minimum planning baseline;
 - four blocks that may be delivered in four two-hour sessions or another objective-preserving schedule;
 - a shared Core followed by an educator-selected Custom block;
-- low-tech, offline-capable print or PDF content delivery first, facilitated in person or online;
+- low-tech, offline-capable print or PDF content delivery first, facilitated in person (preferred) or online;
 - practical learning, discussion, reflection, review, and learner explanation in every block;
 - English-first source drafting followed by simplicity, tone, terminology, style, and translation-readiness review;
 - a separate Student Book, Activity Bank, Educator Guide, assessment framework, and publication specification;
@@ -21,7 +21,7 @@ The current direction is:
 - future online PDF, online cohort, self-paced, web, an optional full-course app-delivery branch, and cross-modal branches that preserve the same Core outcomes;
 - a combined assessment framework: 50% theory (80% app evaluation / 20% educator-evaluated interaction) and 50% practice (80% direct observation / 20% app task follow-up).
 
-The complete assessment uses two required, non-compensatory components. The theoretical 50% is 80% app-evaluated and 20% educator-evaluated through approved objective-aligned interactions. The practical 50% is 80% directly observed by an educator or approved assessor and 20% app-evaluated through follow-up linked to the practical task. A certificate may be issued only after all required contributions meet the approved standard and are recorded as assessment-complete. App follow-up does not assess or replace practical performance. Teaching may remain low-tech and offline-capable, but supported app access is an explicit requirement for Diploma completion. Detailed access, governance, credential infrastructure, and verification systems remain implementation work.
+The complete assessment uses two required, non-compensatory components. The theoretical 50% is 80% app-evaluated and 20% educator-evaluated through approved objective-aligned interactions. The practical 50% is 80% directly observed by an educator and 20% app-evaluated through follow-up linked to the practical task. A certificate may be issued only after all required contributions meet the approved standard and are recorded as assessment-complete. App follow-up does not assess or replace practical performance. Teaching may remain low-tech and offline-capable, but supported app access is an explicit requirement for Diploma completion. Detailed access, governance, credential infrastructure, and verification systems remain implementation work.
 
 ## Start Here
 

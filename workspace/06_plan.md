@@ -24,7 +24,7 @@ The redesigned Diploma should be shorter, clearer, more practical, and easier to
 
 Current design commitments:
 
-- educator-facilitated delivery online or in person;
+- educator-facilitated delivery in person (preferred) or online;
 - low-tech, offline-capable print/PDF instructional content, with supported app access required for theory assessment, practical-task follow-up, and completion;
 - an approximately 8-hour minimum planning baseline, with additional time when needed to meet the objectives;
 - 4 blocks that may be delivered in four two-hour sessions, eight one-hour sessions, or another schedule that preserves the learning sequence and required evidence;
@@ -38,7 +38,7 @@ Current design commitments:
 - a 50% theoretical and 50% practical assessment allocation, each with an 80/20 evidence split;
 - mandatory app-based microlearning and evaluation supplying 80% of theoretical evidence and 20% of practical-task follow-up for every learner;
 - educator-evaluated theory evidence supplying the remaining 20% through approved objective-aligned interactions; other educator-led theory work remains formative;
-- practical assessment 80% directly evaluated by an educator or approved assessor, with observation concentrated in Blocks 3 and 4, and 20% evaluated through app follow-up linked to those practical tasks;
+- practical assessment 80% directly evaluated by an educator, with observation concentrated in Blocks 3 and 4, and 20% evaluated through app follow-up linked to those practical tasks;
 - Advanced technical material outside the beginner pathway;
 - sparse QR code use in printed learner materials;
 - future instructional branches documented without changing Core outcomes: online PDF, online cohort, self-paced, web, an optional full-course app-delivery branch, and cross-modal continuation. The required assessment app is part of the current Diploma rather than a future branch.
@@ -254,7 +254,7 @@ Draft source material in English first. Before translation or publication, revie
 
 Delivery-branch rule:
 
-Low-tech, offline-capable print/PDF is the first content-publication mode and may support in-person or online facilitation. Online PDF, online cohort, self-paced, web, an optional full-course app-delivery branch, and cross-modal versions should branch from the same Core outcomes rather than become separate curricula. In every certificated mode, the My First Bitcoin app remains mandatory for its theory-assessment and practical-task-follow-up contributions.
+Low-tech, offline-capable print/PDF is the first content-publication mode and may support in-person facilitation (preferred) or online facilitation. Online PDF, online cohort, self-paced, web, an optional full-course app-delivery branch, and cross-modal versions should branch from the same Core outcomes rather than become separate curricula. In every certificated mode, the My First Bitcoin app remains mandatory for its theory-assessment and practical-task-follow-up contributions.
 
 ---
 
@@ -414,7 +414,7 @@ The October 2026 redesign should produce:
 - Educator Guide;
 - Activity Bank;
 - Custom module templates;
-- combined mandatory app-theory, educator-theory, assessor-observed-practical, and app-practical-follow-up certification-prerequisite framework;
+- combined mandatory app-theory, educator-theory, educator-observed-practical, and app-practical-follow-up certification-prerequisite framework;
 - publication-ready source files;
 - public communication materials.
 

@@ -19,7 +19,7 @@ This is an internal consistency, curriculum-architecture, and publication-readin
 
 ## Policy resolution update — 13 August 2026
 
-The project has resolved the major app/offline assessment contradiction. Teaching may be facilitated online or in person with low-tech, offline-capable print/PDF content. Diploma completion nevertheless requires the approved My First Bitcoin app. The theoretical 50% is split 80% app evaluation and 20% educator-evaluated objective-aligned interaction; the practical 50% is split 80% direct observation by an educator or approved assessor and 20% app follow-up linked to the practical task. Both components and their required contributions must be passed; none may compensate for another.
+The project has resolved the major app/offline assessment contradiction. Teaching may be facilitated in person (preferred) or online with low-tech, offline-capable print/PDF content. Diploma completion nevertheless requires the approved My First Bitcoin app. The theoretical 50% is split 80% app evaluation and 20% educator-evaluated objective-aligned interaction; the practical 50% is split 80% direct observation by an educator and 20% app follow-up linked to the practical task. Both components and their required contributions must be passed; none may compensate for another.
 
 Affected workspace documents have been harmonized to this policy. During the follow-up, `12_educator-draft.md` was added as the educator-facing publication target and `12_educator-plan.md` was retained as its subordinate structural plan. The draft now contains all four block companions plus a working assessment and recording section. It remains dependent on missing approved app items, tasks, rubrics, thresholds, and governance and needs traceability, concision, usability, and release review. The unresolved work is now operational: app capability and access, objective-valid item design, scoring and retries, practical tasks and rubrics, result integration, accessibility and language parity, privacy and governance, outage handling, and the meaning of the approximately eight-hour commitment.
 
@@ -36,7 +36,7 @@ The two intended publications require different levels of work:
 - `08_student.md` is a substantial late draft with many strong passages. It needs structural reduction, objective repair, role-boundary correction, a modular Block 4, and publication editing. It should be refined rather than restarted.
 - `12_educator-draft.md` is now a substantial educator-facing draft with general facilitation, accessibility, safety, pacing, all four block companions, and working assessment/recording guidance. It now substantially exceeds the Student Guide in length and needs a disciplined role and concision edit as well as completion of its referenced operational dependencies. `12_educator-plan.md` remains the supporting outline rather than a publication.
 
-The single most useful harmonization is an end-to-end objective crosswalk. Every required theoretical objective must connect to its learner teaching point, formative practice, valid app item, scoring rule, and recorded app result. Every required practical objective must connect to its teaching point, supported practice, observed task, rubric, and assessor record. Until that exists, the package cannot prove that it teaches and assesses what it promises.
+The single most useful harmonization is an end-to-end objective crosswalk. Every required theoretical objective must connect to its learner teaching point, formative practice, valid app item, scoring rule, and recorded app result. Every required practical objective must connect to its teaching point, supported practice, observed task, rubric, and educator record. Until that exists, the package cannot prove that it teaches and assesses what it promises.
 
 ### Direct answers to the audit questions
 
@@ -59,7 +59,7 @@ The labels below assess internal consistency and operational readiness, not the 
 | Educator Guide | Substantial draft; major validation needed | The publication draft now covers general practice, all four blocks, and working assessment/recording guidance. It is longer than the Student Guide, overlaps its plan and Activity Bank, and depends on unbuilt approved items, tasks, rubrics, and governance. |
 | Activity Bank | Build required | Strong template and legacy inventory, but almost no ready-to-run current activities or approved summative tasks. |
 | Microlearning/app evidence | Build required | A topic and item-design blueprint, not a populated question bank or usable theoretical assessment component. |
-| Assessment and certification | Critical dependency | Policy now uses four required contributions—app theory, educator theory, assessor-observed practice, and app practical follow-up—but no complete blueprint, item bank, task set, rubrics, thresholds, calibration, records, or governance exists. |
+| Assessment and certification | Critical dependency | Policy now uses four required contributions—app theory, educator theory, educator-observed practice, and app practical follow-up—but no complete blueprint, item bank, task set, rubrics, thresholds, calibration, records, or governance exists. |
 | Accessibility and supported access | Policy resolved; implementation at risk | Low-tech/offline-capable instruction is distinct from mandatory app-based completion. The device/account/accessibility/connectivity/support model is not yet operational. |
 | Publication system | Critical gap | `17_spec.md` is not a publication specification. Asset, source, link, rights, accessibility, export, and release controls have no effective owner. |
 | Source and reference integrity | At risk | Many internal paths, visual anchors, lexicon lines, and source locators are stale or broken. External claims remain to be validated later. |
@@ -74,7 +74,7 @@ The next phase should be a controlled consolidation, not a wholesale redesign. T
 - Learner autonomy is treated seriously. The Student Guide repeatedly allows uncertainty, warns against meaningful-fund experimentation, and avoids making purchase or installation a universal requirement.
 - The Student Guide handles trade-offs well in several areas, including fiat banking, decentralization, sound money, custody, and circular economies.
 - Self-custody safety content is generally cautious, practical, and explicit about responsibility and limitations.
-- The Educator Guide's assessment philosophy is strong: match evidence to the objective verb, observe practical performance, assess evidence rather than confidence, permit “Not yet” and reassessment, and calibrate assessors.
+- The Educator Guide's assessment philosophy is strong: match evidence to the objective verb, observe practical performance, assess evidence rather than confidence, permit “Not yet” and reassessment, and calibrate educator.
 - The Activity Bank template has useful metadata, safety, adaptation, evidence, and facilitation fields. It is a sound base for actual activity production.
 - `18_advanced.md` makes the correct strategic move: useful material can be parked without forcing it into the beginner Diploma.
 - The research file is honest that major evidence and validation work remain. That honesty should be converted into a controlled evidence register rather than removed.
@@ -132,7 +132,7 @@ Every required row must be complete before publication. Other documents should u
 
 ### 3. The assessment policy is now coherent, but the operational system is incomplete
 
-The governing model now uses four required contributions across two 50% components: app theory (40% overall), educator theory (10%), assessor-observed practice (40%), and app practical-task follow-up (10%). Both components and each required contribution must be passed; none may compensate for another. Ordinary educator-led theory activities remain formative.
+The governing model now uses four required contributions across two 50% components: app theory (40% overall), educator theory (10%), educator-observed practice (40%), and app practical-task follow-up (10%). Both components and each required contribution must be passed; none may compensate for another. Ordinary educator-led theory activities remain formative.
 
 The allocation is now fixed at 50% theory and 50% practice, internally divided 40/10/40/10. The current competency model should still be implemented as two separate pass gates, with every required contribution passed. If numerical scores will also be reported, `13_assessment.md` must define their denominator, thresholds, objective-level rules, and relationship to those gates without allowing averaging to conceal an unmet requirement.
 
@@ -141,19 +141,19 @@ The implementation gap is larger than the wording problem:
 - `10_activities.md` contains a legacy inventory, a strong template, one partial formative discussion, categories marked Work in Progress, and activity seeds. It does not contain approved summative task sheets and rubrics for the required practical outcomes.
 - `14_microlearning.md` contains item-writing rules and topic opportunities, not a bank of reviewed prompts, answers, distractors, feedback, objective links, scoring, or status.
 - `13_assessment.md` explicitly leaves the final blueprint, thresholds, tasks, rubrics, calibration, records, retakes, appeals, and related rules unresolved.
-- `15_certification.md` leaves issuer authority, assessor approval, privacy, retention, appeals, correction, revocation, and verification unresolved.
+- `15_certification.md` leaves issuer authority, educator approval, privacy, retention, appeals, correction, revocation, and verification unresolved.
 - `12_educator-plan.md` tells educators to use approved tasks that do not yet exist.
 - The Student Guide nevertheless describes certificate completion and possible verification fields at `08_student.md:1513-1528`.
 
-Direct observation also creates a capacity problem that no document solves. The system needs learner-to-assessor ratios, minutes per learner, rules for group observation, privacy arrangements, remote-observation boundaries, follow-up assessment, and reassessment outside the main session.
+Direct observation also creates a capacity problem that no document solves. The system needs learner-to-educator ratios, minutes per learner, rules for group observation, privacy arrangements, remote-observation boundaries, follow-up assessment, and reassessment outside the main session.
 
-**Harmonization:** keep `13_assessment.md` as the sole normative owner of the fixed 50/50, 40/10/40/10 two-gate model and define its scoring and reporting rules there. Other files should carry only short, conforming summaries. Build the minimum approved practical task set, rubrics, safety-critical errors, objective-complete app item bank, assessor calibration materials, combined evidence record, and reassessment route before promising operational certification.
+**Harmonization:** keep `13_assessment.md` as the sole normative owner of the fixed 50/50, 40/10/40/10 two-gate model and define its scoring and reporting rules there. Other files should carry only short, conforming summaries. Build the minimum approved practical task set, rubrics, safety-critical errors, objective-complete app item bank, educator calibration materials, combined evidence record, and reassessment route before promising operational certification.
 
 ### 4. The app/offline policy contradiction is resolved; access implementation is now critical
 
 The governing distinction is now explicit across the workspace:
 
-- content may be facilitated online or in person;
+- content may be facilitated in person (preferred) or online;
 - print/PDF teaching and practice should remain low-tech and offline-capable;
 - a learner-owned device or continuous connection is not required at every teaching step;
 - supported access to the approved My First Bitcoin app is required for theory assessment, practical-task follow-up, and Diploma completion;
@@ -170,7 +170,7 @@ This resolves the policy contradiction by narrowing the offline promise to conte
 4. Validate app item formats for theoretical verbs such as **explain**, **compare**, **apply**, and **reason**; redesign or reclassify objectives the app cannot assess reliably.
 5. Set pass thresholds, objective-level rules, retries, randomization, feedback timing, item versioning, identity, integrity, and audit requirements.
 6. Provide accessibility and language parity for every required app assessment, including minors' consent and assisted-use rules where relevant.
-7. Define how app theory, educator theory, assessor practical, and app practical-follow-up results combine, who may enter or correct each result, how mismatches are reconciled, and what unlocks a certificate.
+7. Define how app theory, educator theory, educator practical, and app practical-follow-up results combine, who may enter or correct each result, how mismatches are reconciled, and what unlocks a certificate.
 8. Decide whether app setup, microlearning, evaluation, synchronization, feedback, and retries count inside the approximately eight-hour pathway.
 9. Decide whether Block 4 uses common theoretical app items or moderated local packs; local packs create translation, availability, and equivalence obligations.
 10. Bring required app configuration, content integration, access testing, and release acceptance into scope even though building or replacing the platform remains out of scope.
@@ -194,9 +194,9 @@ The “approximately eight-hour minimum planning baseline” is internally consi
 - assessment and direct-observation time;
 - transitions and breaks;
 - feedback and reassessment outside or inside the baseline;
-- cohort size and assessor ratio assumptions.
+- cohort size and educator ratio assumptions.
 
-Pilot online and in-person teaching with low-tech materials and realistic supported-app access, group sizes, and assessor capacity. Until then, call eight hours a design target, not a validated completion promise.
+Pilot in-person teaching (preferred) and online teaching with low-tech materials and realistic supported-app access, group sizes, and educator capacity. Until then, call eight hours a design target, not a validated completion promise.
 
 ### 6. `17_spec.md` does not perform its assigned role
 
@@ -275,7 +275,7 @@ Learners should see the exact evidence expectation from the beginning. Replace v
 
 Examples include:
 
-- `07_contents.md` now promises assessor-observed Block 3 and Block 4 competency checks; no corresponding learner-facing checkpoints appear explicitly.
+- `07_contents.md` now promises educator-observed Block 3 and Block 4 competency checks; no corresponding learner-facing checkpoints appear explicitly.
 - “Don't trust, verify” is planned as a Block 2 bridge (`07_contents.md:49`; `06_plan.md:101`) but is mainly developed in Block 3.
 - Coin debasement is a planned topic (`07_contents.md:33`) but receives only a brief sentence.
 - The U.S. reserve-currency section at `08_student.md:378-382` is not in the planned contents and approaches detailed monetary/geopolitical history parked in Advanced.
@@ -325,7 +325,7 @@ Implementing `B2.5` and `B2.6` and using `ALL.2` formatively would make impartia
 
 The educator material now has a useful two-document contract. `12_educator-draft.md` is the publication target, and `12_educator-plan.md` is its supporting outline. The index and README have been updated to make that relationship explicit.
 
-The draft improves materially on the original outline. It provides general facilitation methods, accessibility guidance, pacing, practical-safety procedures, local-verification preparation, misconceptions, all four block companions, and working assessment/recording guidance. It now follows the four-contribution model: app theory, educator theory, assessor-observed practice, and app practical follow-up. It is not yet publication-ready because its referenced evidence system and governance are unbuilt and its length now exceeds the Student Guide, creating a clear role-boundary and concision problem.
+The draft improves materially on the original outline. It provides general facilitation methods, accessibility guidance, pacing, practical-safety procedures, local-verification preparation, misconceptions, all four block companions, and working assessment/recording guidance. It now follows the four-contribution model: app theory, educator theory, educator-observed practice, and app practical follow-up. It is not yet publication-ready because its referenced evidence system and governance are unbuilt and its length now exceeds the Student Guide, creating a clear role-boundary and concision problem.
 
 ### What is missing for publication
 
@@ -380,11 +380,11 @@ The guide makes a good promise: accommodations may change the method but not the
 
 ### Educator capacity and quality assurance
 
-The final guide needs assessor-ratio assumptions, practice scoring, annotated passing and Not-yet examples, prompting boundaries, moderation, calibration frequency, and a process for recording questions that expose curriculum ambiguity. Without those, two educators may issue the same certificate for materially different evidence.
+The final guide needs educator-ratio assumptions, practice scoring, annotated passing and Not-yet examples, prompting boundaries, moderation, calibration frequency, and a process for recording questions that expose curriculum ambiguity. Without those, two educators may issue the same certificate for materially different evidence.
 
 ## Repetition and ownership audit
 
-Not all repetition is bad. Learners, educators, assessors, and collaborators each need a short contextual statement. Harmful repetition occurs when several documents redefine the same rule, preserve different status, or require synchronized manual editing.
+Not all repetition is bad. Learners, educators, educator, and collaborators each need a short contextual statement. Harmful repetition occurs when several documents redefine the same rule, preserve different status, or require synchronized manual editing.
 
 | Subject | Normative owner | Current duplication/problem | Harmonized rule |
 | --- | --- | --- | --- |
@@ -400,7 +400,7 @@ Not all repetition is bad. Learners, educators, assessors, and collaborators eac
 | Visual requirements | `09_assets.md` | 74 visual entries, including 22 table assets and duplicated concept/table treatments; stale anchors; no production status/rights. | Triage to a minimum viable visual set, anchor by stable IDs, and let `17` own layout. |
 | Activity procedures | `10_activities.md` | Repeats assessment policy and has not yet replaced the activities still in Student. | Own complete activity/task records, learner extracts, safety, evidence, and variants; link to `13` for policy. |
 | Claim evidence | `11_resources.md` | Five sources cannot cover the current manuscript; line locators are stale. | Use stable claim IDs and a full internal claim register; keep learner links separately approved. |
-| Facilitation | `12_educator-draft.md` | Substantial guidance for all four blocks and assessment now exists, but it overlaps planning/activity material and depends on unbuilt artifacts. | Own concise operational run sheets, questions, misconceptions, safety, adaptation, activity selection, and practical-assessor procedures. Keep `12_educator-plan.md` subordinate. |
+| Facilitation | `12_educator-draft.md` | Substantial guidance for all four blocks and assessment now exists, but it overlaps planning/activity material and depends on unbuilt artifacts. | Own concise operational run sheets, questions, misconceptions, safety, adaptation, activity selection, and practical-assessment procedures. Keep `12_educator-plan.md` subordinate. |
 | Assessment | `13_assessment.md` | Policy repeated throughout package; implementation incomplete. | Be the sole normative owner of blueprint, evidence, thresholds, rubrics, reassessment, records, and equivalence. |
 | App items | `14_microlearning.md` | Title says Question Bank, content is a topic outline. | Populate actual reviewed item records or label it a blueprint until populated. |
 | Credential issuance | `15_certification.md` | Repeats assessment allocation; governance unresolved. | Own what the certificate represents, eligibility pointer, issuer workflow, privacy, appeals, replacement/revocation, and verification. |
@@ -432,7 +432,7 @@ When another audience needs context, use a two-to-four-sentence summary followed
 | `12_educator-plan.md` | Appropriate supporting-plan role | Structural checklist, assessment principles, and planned responsibilities | Overlaps the draft if treated as educator-facing authority; retains internal migration content | Keep subordinate to the draft, use for completeness checks, and do not publish as the guide. |
 | `13_assessment.md` | Strong concept, partial delivery | Competency philosophy, direct observation, non-compensation | Blueprint, tasks, rubrics, thresholds, records, calibration, appeals unresolved | Make sole assessment authority and finish operational system before release. |
 | `14_microlearning.md` | Fulfils structure role; not a bank | Good item template and writing rules | Topic opportunities only; no actual items, answers, feedback, mappings, scoring, or status | Populate reviewed items from the objective crosswalk or relabel internally as blueprint. |
-| `15_certification.md` | Partial | Clear two-component eligibility principle | Repeats assessment; issuer, assessor, privacy, appeal, revocation, and verification unresolved | Reduce to credential meaning and complete issuance/governance workflow. |
+| `15_certification.md` | Partial | Clear two-component eligibility principle | Repeats assessment; issuer, educator, privacy, appeal, revocation, and verification unresolved | Reduce to credential meaning and complete issuance/governance workflow. |
 | `16_lexicon.md` | Weak as authority | Broad inventory of beginner and feedback terms | Stale line numbers and presence claims; imprecise peer-to-peer definition; Advanced terms mixed in | Convert to controlled vocabulary with stable anchors and scope/status fields. |
 | `17_spec.md` | Fails assigned role | Useful stakeholder overview | No publication specification; duplicates plan and assessment | Rewrite as actual publication/release spec; relocate overview purpose. |
 | `18_advanced.md` | Mostly | Protects beginner boundary and preserves future material | Overgrown, duplicated, broken source trail, title overlaps, premature priorities, advice-boundary conflict | Freeze and repair as sole Advanced holding authority; defer design until Core release. |
@@ -521,7 +521,7 @@ Move absent optional technologies such as Liquid, ecash, and Fedimint to a parke
 
 - what the certificate represents;
 - the requirement for `assessment-complete` status from `13`;
-- issuer and assessor authority;
+- issuer and educator authority;
 - minimum record and privacy rules;
 - appeal, correction, replacement, expiry if any, and revocation;
 - verification method and claims that may appear publicly.
@@ -597,7 +597,7 @@ Record the answers once with Approved status. Do not continue carrying old alter
 3. Turn `07_contents.md` into the required/optional/selected content blueprint.
 4. Add estimated teaching, practice, assessment, and observation time to every required row.
 5. Remove, merge, or defer outcomes that cannot fit safely.
-6. Build and pilot a complete timed route with realistic cohort/assessor assumptions.
+6. Build and pilot a complete timed route with realistic cohort/educator assumptions.
 
 ### Gate 2: restructure the Student Guide
 
@@ -616,7 +616,7 @@ Record the answers once with Approved status. Do not continue carrying old alter
 2. Finalize theoretical and practical blueprints.
 3. Populate and validate the complete app theory-item and practical-task-follow-up bank; define supported access and outage handling without creating an unapproved paper substitute.
 4. Create task rubrics, critical-error rules, evidence examples, and reassessment.
-5. Define assessor ratios, authorization, calibration, moderation, and records.
+5. Define educator ratios, authorization, calibration, moderation, and records.
 6. Define Block 4's common performance spine and validate variant equivalence.
 7. Complete certification governance before public verification claims.
 
@@ -644,8 +644,8 @@ Record the answers once with Approved status. Do not continue carrying old alter
 
 ### Gate 6: validate the complete product
 
-1. Pilot online and in-person teaching routes, including low-tech content use and realistic supported-app access.
-2. Observe timing, learner comprehension, practical safety, assessor consistency, accessibility, and translation friction.
+1. Pilot in-person teaching routes (preferred) and online teaching routes, including low-tech content use and realistic supported-app access.
+2. Observe timing, learner comprehension, practical safety, educator consistency, accessibility, and translation friction.
 3. Revise once at system level rather than patching each document independently.
 4. Conduct a blind educator usability test.
 5. Complete external validation after the wording freeze, as described below.
@@ -679,7 +679,7 @@ Do not mark `12_educator-draft.md` publication-ready until all are true:
 
 - Every block has a complete timed run sheet tied to objective IDs.
 - Every referenced Activity, app item, practical task, rubric, and record exists and has Approved status.
-- Preparation, materials, learner-to-assessor ratio, and observation time are explicit.
+- Preparation, materials, learner-to-educator ratio, and observation time are explicit.
 - Suggested questions, likely responses, misconceptions, neutral follow-ups, and source trails are supplied.
 - Passing, Not-yet, unsafe, and over-prompted evidence examples are supplied.
 - The app covers every required theoretical objective validly, with supported access and approved outage procedures.
@@ -702,7 +702,7 @@ The later validation gate should include:
 3. **Historical review:** My First Bitcoin organizational history, Bitcoin predecessors, white paper/genesis/first transaction/Pizza Day chronology, Bretton Woods, 1971 convertibility changes, and any local historical examples.
 4. **Current-data review:** app capabilities, official program links, URLs, QR destinations, named services, wallet/tool status, certificate verification, legal availability, dates, numbers, and screenshots.
 5. **Safety and professional-boundary review:** scams, custody risks, minors/vulnerable learners, privacy, provider neutrality, and all language touching legal, tax, accounting, compliance, or financial decisions. Use qualified local review where jurisdiction matters; do not turn review into individualized advice.
-6. **Pedagogical review:** the eight-hour route, cognitive load, adult-learning assumptions, accessibility equivalence, assessor reliability, and transfer across languages and delivery modes.
+6. **Pedagogical review:** the eight-hour route, cognitive load, adult-learning assumptions, accessibility equivalence, educator reliability, and transfer across languages and delivery modes.
 7. **Source quality and publication treatment:** prioritize primary and authoritative sources; record counterevidence and uncertainty; date volatile claims; decide which sources are internal verification only and which appear in the publication.
 
 Each claim should end with a recorded status: Verified, Verified with qualification, Revised, Removed, Time-sensitive/recheck, or Contested/present multiple views.

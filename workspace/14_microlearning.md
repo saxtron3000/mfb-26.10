@@ -343,7 +343,7 @@ Question-bank opportunities:
 - sequence ordering: safe, educator-approved recovery-readiness steps;
 - multiple choice: identify an unsafe backup practice;
 - scenario: select the right response when a seed phrase may have been exposed;
-- assessor flag: practical recovery evidence requires direct observation under `13_assessment.md`.
+- educator flag: practical recovery evidence requires direct observation under `13_assessment.md`.
 
 ## BD-ML-B03-T06: Receiving bitcoin
 
@@ -354,7 +354,7 @@ Question-bank opportunities:
 - ordering: prepare to receive a small supported test amount;
 - multiple choice: identify the detail needed to receive on-chain bitcoin;
 - scenario: decide what to verify before sharing a receiving address;
-- assessor flag: app questions prepare for, but do not replace, observed practical evidence.
+- educator flag: app questions prepare for, but do not replace, observed practical evidence.
 
 ## BD-ML-B03-T07: Sending bitcoin and confirmations
 
@@ -410,7 +410,7 @@ Question-bank opportunities:
 - safety-critical mixed review;
 - scenario branching: identify the next safest action;
 - learner self-check: mark areas needing guided practice;
-- assessor flag: passing app theory never substitutes for the required practical competency assessment.
+- educator flag: passing app theory never substitutes for the required practical competency assessment.
 
 ---
 
@@ -484,14 +484,14 @@ Question-bank opportunities:
 
 ## BD-ML-B04-T07: Block 4 review and local competency preparation
 
-Themes: locally selected application, trade-offs, safety, and approved-assessor-observed practical evidence.
+Themes: locally selected application, trade-offs, safety, and educator-observed practical evidence.
 
 Question-bank opportunities:
 
 - local scenario review;
 - learner explanation prompt for formative educator follow-up;
 - confidence check and next-step resource selection;
-- assessor flag: the required local practical competency is assessed under `13_assessment.md` and certification eligibility under `15_certification.md`.
+- educator flag: the required local practical competency is assessed under `13_assessment.md` and certification eligibility under `15_certification.md`.
 
 ---
 
@@ -544,9 +544,9 @@ Resolve and verify these decisions before the Diploma can be released. Because t
 
 17. What learner data is recorded for each item: answer selected, score, attempts, time, completion date, and feedback viewed?
 18. Can educators see progress by learner, topic, block, and question?
-19. Can an educator record theory evidence and an approved assessor record practical observation while keeping both separate from the app's theoretical and practical-follow-up results? Who, if anyone, may correct or override any result, and how is that action audited?
+19. Can an educator record theory evidence and an educator record practical observation while keeping both separate from the app's theoretical and practical-follow-up results? Who, if anyone, may correct or override any result, and how is that action audited?
 20. Can results be exported? In which formats: CSV, spreadsheet, API, PDF, or dashboard?
-21. Can the system combine app theory, educator theory, assessor practical, and app practical-follow-up results while keeping them clearly separate?
+21. Can the system combine app theory, educator theory, educator practical, and app practical-follow-up results while keeping them clearly separate?
 
 ## Content import and maintenance
 
@@ -576,9 +576,9 @@ Also resolve:
 - accessibility support and language parity for every required assessment;
 - item and scoring-version controls, audit history, and result reconciliation;
 - privacy, consent, retention, and minors' access; and
-- how educators and approved assessors submit the theory and practical results that combine with the two app results for certificate eligibility.
+- how educators and educator submit the theory and practical results that combine with the two app results for certificate eligibility.
 
-Request these four outputs first: a sample import file, a list of supported question types, the scoring and retry rules, and a description of assessor reporting and result integration.
+Request these four outputs first: a sample import file, a list of supported question types, the scoring and retry rules, and a description of educator reporting and result integration.
 
 # 8. Review And Release Checklist
 
@@ -593,7 +593,7 @@ Before an item enters the app, confirm:
 - it does not give financial, legal, tax, accounting, compliance, or investment advice;
 - it does not expose or request private keys, seed phrases, personal financial data, or identifying information;
 - it avoids global recommendations for named wallets, exchanges, or local services;
-- its assessment role is clear and does not claim that practical-task follow-up replaces evidence observed by an educator or approved assessor; and
+- its assessment role is clear and does not claim that practical-task follow-up replaces evidence observed by an educator; and
 - local Custom items have an owner, location tag, review date, and approved source trail.
 
 Before the app contribution is released, also confirm:
@@ -603,4 +603,4 @@ Before the app contribution is released, also confirm:
 - accessibility and language variants preserve equivalent evidence and scoring;
 - supported access, weak-connectivity behavior, synchronization, interrupted attempts, and outage recovery have been tested;
 - identity, integrity, privacy, consent, retention, and audit controls are approved; and
-- app theory and practical-follow-up results reconcile correctly with educator-theory and assessor-practical records without allowing one component or required contribution to compensate for another.
+- app theory and practical-follow-up results reconcile correctly with educator-theory and educator-practical records without allowing one component or required contribution to compensate for another.

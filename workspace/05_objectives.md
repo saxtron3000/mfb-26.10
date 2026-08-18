@@ -58,7 +58,7 @@ The Diploma should not claim that every graduate can independently manage high-s
 
 ## Core Outcomes
 
-The Block 1–3 outcomes below are required for certification. The final blueprint assigns theoretical evidence 80% to the mandatory app and 20% to educator-evaluated objective-aligned interactions. It assigns practical evidence 80% to direct observation by an educator or approved assessor and 20% to app follow-up linked to the practical task. `ALL.1` and `ALL.2` currently guide formative learning and reflection but are not separate certification gates unless a later approved blueprint maps them to scored evidence. Stable objective IDs should be used in app items, activities, practical tasks, rubrics, and completion records.
+The Block 1–3 outcomes below are required for certification. The final blueprint assigns theoretical evidence 80% to the mandatory app and 20% to educator-evaluated objective-aligned interactions. It assigns practical evidence 80% to direct observation by an educator and 20% to app follow-up linked to the practical task. `ALL.1` and `ALL.2` currently guide formative learning and reflection but are not separate certification gates unless a later approved blueprint maps them to scored evidence. Stable objective IDs should be used in app items, activities, practical tasks, rubrics, and completion records.
 
 | ID | Block | Every learner should be able to... | Primary evidence |
 |---|---|---|---|
@@ -78,13 +78,13 @@ The Block 1–3 outcomes below are required for certification. The final bluepri
 | `B3.2` | Action / Self-custody | Compare custodial and non-custodial approaches in guided scenarios. | Applied comparison |
 | `B3.3` | Action / Self-custody | Identify what hardware wallets are, why people use them, and how they differ from hot wallets in a practical overview. | Knowledge and scenario response |
 | `B3.4` | Action / Self-custody | Identify common beginner risks and explain the safe response to seed phrase exposure, address mistakes, copy/paste attacks, impersonation, urgency scams, and too-good-to-be-true offers. | Theoretical safety scenario |
-| `B3.5` | Action / Self-custody | Demonstrate safe setup or opening and navigation of an approved or prepared wallet environment, including locating and checking receive information. | Direct observation by an educator or approved assessor |
-| `B3.6` | Action / Self-custody | Complete or safely simulate a beginner receive or send flow and verify the relevant address, invoice, amount, confirmation, or transaction status. | Direct observation by an educator or approved assessor |
-| `B3.7` | Action / Self-custody | Demonstrate recovery readiness and protection of recovery information using prepared or simulated materials without exposing real secrets. | Direct observation by an educator or approved assessor |
+| `B3.5` | Action / Self-custody | Demonstrate safe setup or opening and navigation of an approved or prepared wallet environment, including locating and checking receive information. | Direct observation by an educator |
+| `B3.6` | Action / Self-custody | Complete or safely simulate a beginner receive or send flow and verify the relevant address, invoice, amount, confirmation, or transaction status. | Direct observation by an educator |
+| `B3.7` | Action / Self-custody | Demonstrate recovery readiness and protection of recovery information using prepared or simulated materials without exposing real secrets. | Direct observation by an educator |
 | `B3.8` | Action / Self-custody | Distinguish on-chain and Lightning payments and select an appropriate beginner pathway in a guided scenario. | Theoretical scenario |
 | `B3.9` | Action / Self-custody | Compare beginner pathways for acquiring or exchanging bitcoin, including relevant risks, without treating any pathway as a recommendation or financial advice. | Applied comparison |
 | `B3.10` | Action / Self-custody | Distinguish beginner practical Bitcoin use from advanced technical or high-stakes activity and identify when to stop or seek help. | Applied safety judgment |
-| `B3.11` | Action / Self-custody | Gain access to bitcoin in an approved low-stakes or simulated environment by completing a supported first-access pathway, receiving the bitcoin, and checking the relevant wallet and transaction information. | Direct observation by an educator or approved assessor |
+| `B3.11` | Action / Self-custody | Gain access to bitcoin in an approved low-stakes or simulated environment by completing a supported first-access pathway, receiving the bitcoin, and checking the relevant wallet and transaction information. | Direct observation by an educator |
 | `ALL.1` | All blocks | Participate in guided discussion using clear explanations, relevant evidence, respectful listening, and basic reasoning. | Formative educator observation; not scored certification evidence |
 | `ALL.2` | All blocks | Articulate a personal reason to continue learning about Bitcoin, or a reason for remaining uncertain, using course concepts and an observed, local, or realistic money experience without making an investment claim. | Formative reflection; not scored certification evidence |
 
@@ -94,12 +94,12 @@ Custom outcomes are selected by educators for Block 4: Custom / Bitcoin as Money
 
 Custom outcomes should connect Bitcoin to local daily life through practical workshops, demonstrations, local tools, local expert guidance, and community-specific examples.
 
-Every delivery plan must select at least one approved Block 4 practical task for direct assessment by an educator or approved assessor. The local task must assess these shared objectives:
+Every delivery plan must select at least one approved Block 4 practical task for direct assessment by an educator. The local task must assess these shared objectives:
 
 | ID | Every learner should be able to... | Primary evidence |
 |---|---|---|
-| `B4.1` | Demonstrate at least one approved, locally relevant Bitcoin-as-money task using the required safe sequence and verification behaviors. | Direct observation by an educator or approved assessor |
-| `B4.2` | Explain the task's purpose, relevant trade-offs, failure points, safety considerations, and realistic next steps as part of the approved practical performance. | Assessor-evaluated decision narration embedded in or immediately following the practical task; not a separate theory score |
+| `B4.1` | Demonstrate at least one approved, locally relevant Bitcoin-as-money task using the required safe sequence and verification behaviors. | Direct observation by an educator |
+| `B4.2` | Explain the task's purpose, relevant trade-offs, failure points, safety considerations, and realistic next steps as part of the approved practical performance. | Educator-evaluated decision narration embedded in or immediately following the practical task; not a separate theory score |
 
 These objectives are required for every learner seeking certification. Local tasks may differ, but they must use equivalent observable criteria for safe performance, verification, explanation, and trade-off awareness.
 
@@ -190,7 +190,7 @@ The Core Diploma may introduce:
 
 Create-level tasks belong in Custom or Advanced material unless a local module explicitly includes them.
 
-The complete Diploma assessment consists of two separately passed components. The theoretical component is 50% of the assessment: 80% is mandatory app-based microlearning and evaluation, while 20% is educator-evaluated evidence gathered through approved objective-aligned activities, workshops, discussions, or learner explanations. The practical component is the remaining 50%: 80% is directly observed by an educator or approved assessor, while 20% is app-evaluated follow-up linked to the practical task. App follow-up cannot satisfy a direct-performance objective, and informal educator checks cannot substitute for approved educator theory evidence.
+The complete Diploma assessment consists of two separately passed components. The theoretical component is 50% of the assessment: 80% is mandatory app-based microlearning and evaluation, while 20% is educator-evaluated evidence gathered through approved objective-aligned activities, workshops, discussions, or learner explanations. The practical component is the remaining 50%: 80% is directly observed by an educator, while 20% is app-evaluated follow-up linked to the practical task. App follow-up cannot satisfy a direct-performance objective, and informal educator checks cannot substitute for approved educator theory evidence.
 
 ---
 
@@ -237,7 +237,7 @@ Before objectives are final, resolve:
 - multilingual glossary and translation-readiness checks;
 - technology assumptions;
 - online or self-paced objective variants, if those delivery modes remain in scope;
-- assessment timing and format for the approximately eight-hour online or in-person pathway, including required app access;
+- assessment timing and format for the approximately eight-hour in-person (preferred) or online pathway, including required app access;
 - educator authorization, calibration, and moderation requirements.
 
 ---

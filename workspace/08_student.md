@@ -34,7 +34,7 @@ This approach matters because money affects every person. People should be able 
 
 ### What we stand for: accessibility, critical thinking, community, and self-sovereignty
 
-**Accessibility** means that Diploma content can be taught in person, online, or through low-tech print/PDF delivery. Limited technology should not prevent participation in learning. Completion and certification do require supported access to the My First Bitcoin app for theory assessment and practical-task follow-up. Local examples may change, but the main learning outcomes remain the same.
+**Accessibility** means that Diploma content can be taught in person (preferred), online, or through low-tech print/PDF delivery. Limited technology should not prevent participation in learning. Completion and certification do require supported access to the My First Bitcoin app for theory assessment and practical-task follow-up. Local examples may change, but the main learning outcomes remain the same.
 
 **Curiosity** means being willing to ask why, admit what you do not know, and investigate an unfamiliar answer before accepting or rejecting it.
 
@@ -107,9 +107,9 @@ After completing this Core Diploma, you should be able to:
 
 These outcomes are a foundation, not proof of expert skill. Completing the Diploma does not mean you are ready to manage large amounts of bitcoin, advise other people, or solve advanced technical problems without support.
 
-### Flexible learning: in person, online, or through low-tech delivery
+### Flexible learning: in person (preferred), online, or through low-tech delivery
 
-Diploma content may be taught in person, online, through a blended course, or with low-tech print/PDF materials. The book provides the shared knowledge path. Your educator adds discussion, guided activities, demonstrations, and local context. In every model, the required app theory assessment, educator theory interaction, observed practical assessment, and app practical follow-up remain the same.
+Diploma content is preferably taught in person; it may also be taught online, through a blended course, or with low-tech print/PDF materials. The book provides the shared knowledge path. Your educator adds discussion, guided activities, demonstrations, and local context. In every model, the required app theory assessment, educator theory interaction, observed practical assessment, and app practical follow-up remain the same.
 
 Each block follows the same rhythm:
 
@@ -138,17 +138,17 @@ During discussion:
 - do not photograph, record, or share another person's screen, work, or identifying information without permission;
 - do not pressure anyone to buy, sell, or reveal how much money they hold.
 
-Your assessment has two required, non-substitutable components, each allocated 50% of the complete assessment. The theoretical component is 80% app evaluation and 20% educator-evaluated evidence from approved activities, workshops, discussions, or learner explanations. The practical component is 80% direct observation by an educator or approved assessor and 20% app follow-up about the practical task, its checks, decisions, and learning. Informal classroom discussion remains formative unless your educator explains that it is an approved assessment interaction.
+Your assessment has two required, non-substitutable components, each allocated 50% of the complete assessment. The theoretical component is 80% app evaluation and 20% educator-evaluated evidence from approved activities, workshops, discussions, or learner explanations. The practical component is 80% direct observation by an educator and 20% app follow-up about the practical task, its checks, decisions, and learning. Informal classroom discussion remains formative unless your educator explains that it is an approved assessment interaction.
 
 Theory is mainly developed in Blocks 1 and 2. Practical competency is mainly developed in Blocks 3 and 4, where an app follow-up checks your understanding of the task but does not replace observed performance.
 
-To receive a certificate, you must pass both components and their required app, educator, and assessor contributions. A strong result in one part cannot replace an unmet standard in another. Passing the app alone, completing the practical task without its follow-up, or attending every session is not enough.
+To receive a certificate, you must pass both components and their required app, educator, and educator contributions. A strong result in one part cannot replace an unmet standard in another. Passing the app alone, completing the practical task without its follow-up, or attending every session is not enough.
 
 ### Use the My First Bitcoin app
 
 Use the app access route approved for this Diploma edition. Its required pathway combines formative microlearning with approved scored items. It evaluates 80% of the theoretical component and the 20% practical-task follow-up; app progress or practice alone is not a passing result. If you temporarily lack a suitable device or connection, tell your educator so supported access can be arranged. Offline knowledge checks can help you prepare, but cannot replace the required app contributions.
 
-The app evaluates theoretical learning and task-linked practical follow-up. It does not replace practical competency assessment by an educator or approved assessor, and the required Diploma app is a learning and assessment tool rather than a Bitcoin wallet.
+The app evaluates theoretical learning and task-linked practical follow-up. It does not replace practical competency assessment by an educator, and the required Diploma app is a learning and assessment tool rather than a Bitcoin wallet.
 
 ### Required prior knowledge: none
 
@@ -1642,7 +1642,7 @@ A printed edition may place one official support QR code here. Before paying, co
 
 ### Certificate verification
 
-A certificate is issued only after you pass both required components: theory, worth 50% and split app/educator 80/20; and practical competency, worth 50% and split direct observation/app follow-up 80/20. The app may display the combined completion status, but its practical follow-up does not replace practical performance evaluation by an educator or approved assessor. The certificate represents assessed beginner competence under supported conditions, not investment skill, professional financial competence, or readiness to manage high-value self-custody.
+A certificate is issued only after you pass both required components: theory, worth 50% and split app/educator 80/20; and practical competency, worth 50% and split direct observation/app follow-up 80/20. The app may display the combined completion status, but its practical follow-up does not replace practical performance evaluation by an educator. The certificate represents assessed beginner competence under supported conditions, not investment skill, professional financial competence, or readiness to manage high-value self-custody.
 
 If your Diploma certificate includes a verification code, link, QR code, digital signature, or timestamp, follow the instructions printed on that certificate. Verify that the destination belongs to My First Bitcoin or the clearly identified issuing organization.
 

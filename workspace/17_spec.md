@@ -21,7 +21,7 @@ The 2026.10 Bitcoin Diploma is a beginner course organized into four blocks, wit
 
 The first three blocks create a shared Core that every learner completes. The fourth block is selected by local educators so learners can connect Bitcoin to their own community, tools, risks, and opportunities.
 
-Teaching may be facilitated online or in person, and the first publication package remains low-tech and offline-capable through print/PDF materials. Certification nevertheless requires supported access to the My First Bitcoin app for theory assessment and practical-task follow-up. Other delivery branches may include online PDF, online cohort, self-paced, web, and cross-modal formats, but every branch must preserve the same Core outcomes and two assessment gates.
+Teaching may be facilitated in person (preferred) or online, and the first publication package remains low-tech and offline-capable through print/PDF materials. Certification nevertheless requires supported access to the My First Bitcoin app for theory assessment and practical-task follow-up. Other delivery branches may include online PDF, online cohort, self-paced, web, and cross-modal formats, but every branch must preserve the same Core outcomes and two assessment gates.
 
 ---
 
@@ -178,7 +178,7 @@ The Student Book should carry the learner path. The Educator Guide should help t
 Assessment in the redesigned Diploma is beginner-focused, objective-aligned, and required. It has two non-compensatory parts:
 
 1. Theoretical assessment: 80% delivered, evaluated, and recorded in the approved My First Bitcoin app, and 20% evaluated by an educator through approved objective-aligned interactions. Together this represents 50% of the complete assessment.
-2. Practical competency assessment: 80% directly evaluated by an educator or approved assessor through demonstrations, simulations, tests, and role-plays, and 20% evaluated through task-linked app follow-up. Together this represents the remaining 50%.
+2. Practical competency assessment: 80% directly evaluated by an educator through demonstrations, simulations, tests, and role-plays, and 20% evaluated through task-linked app follow-up. Together this represents the remaining 50%.
 
 Blocks 1 and 2 are knowledge-dominant. Blocks 3 and 4 are skills-dominant and require direct observation of approved practical competencies followed by app questions about the task, checks, decisions, and reflection. Educator-led theory activities are formative unless they are explicitly approved, criteria-based, individually evidenced, and recorded as the 20% theory contribution.
 
@@ -202,7 +202,7 @@ Named wallets, exchanges, services, maps, and local resources should be treated 
 
 # Delivery Model
 
-Teaching may be online or in person and should remain low-tech and offline-capable wherever possible. Offline-capable describes content delivery, not a device-free certification path: every learner must eventually access and pass the required app theory assessment and practical-task follow-up.
+Teaching may be in person (preferred) or online and should remain low-tech and offline-capable wherever possible. Offline-capable describes content delivery, not a device-free certification path: every learner must eventually access and pass the required app theory assessment and practical-task follow-up.
 
 The course is designed to work as:
 
@@ -248,7 +248,7 @@ It should not promise:
 - organizational treasury, policy, compliance, accounting, tax, legal, investment, or institutional custody competence;
 - legal or tax guidance;
 - global endorsement of named tools or services;
-- certification without all four required contributions: app theory, educator theory, assessor-observed practice, and app practical follow-up.
+- certification without all four required contributions: app theory, educator theory, educator-observed practice, and app practical follow-up.
 
 Advanced topics should be preserved for future pathways rather than forced into the 8-hour beginner course.
 

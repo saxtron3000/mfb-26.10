@@ -1,6 +1,6 @@
 # Bitcoin Diploma Consistency And Release To-Do
 
-This list records discrepancies found in the project-wide consistency check after the assessment-policy update. Complete items in priority order. The active policy is fixed: theory is 50% of the Diploma (80% app / 20% educator), practical competency is 50% (80% direct observation by an educator or approved assessor / 20% app task follow-up), and all four contributions are non-compensatory.
+This list records discrepancies found in the project-wide consistency check after the assessment-policy update. Complete items in priority order. The active policy is fixed: theory is 50% of the Diploma (80% app / 20% educator), practical competency is 50% (80% direct observation by an educator / 20% app task follow-up), and all four contributions are non-compensatory.
 
 ## Release blockers
 
@@ -20,7 +20,7 @@ This list records discrepancies found in the project-wide consistency check afte
    - Create the final assessment blueprint and objective-level pass rules.
    - Build approved app theory items and app practical-task follow-up items.
    - Create approved educator-theory interaction criteria and concise record fields.
-   - Create practical tasks, rubrics, safety-critical errors, assessor calibration, reassessment, and combined completion-record procedures.
+   - Create practical tasks, rubrics, safety-critical errors, educator calibration, reassessment, and combined completion-record procedures.
    - Define thresholds, retries, identity, privacy, accessibility, access, outage, and correction rules before certification is offered.
 
 ## High-priority structure and publishing work
@@ -57,6 +57,6 @@ This list records discrepancies found in the project-wide consistency check afte
 
    - Check local Markdown links and source paths.
    - Check that every required objective is represented in the crosswalk.
-   - Check app and educator/assessor evidence allocations against the four-contribution model.
+   - Check app and educator/educator evidence allocations against the four-contribution model.
    - Check stale line references, heading anchors, placeholders, and external claims before publication.
    - Update public materials whenever assessment or certification policy changes.

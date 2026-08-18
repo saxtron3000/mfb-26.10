@@ -1348,7 +1348,7 @@ Do not resolve these before the beginner Diploma is published unless the answer 
 - Which topics require community co-design?
 - What prerequisites should learners complete before each module?
 - Should the Advanced pathway have levels, such as intermediate and advanced?
-- How should Advanced modules connect to combined knowledge and approved-assessor-observed competency assessment and a future Advanced certification standard?
+- How should Advanced modules connect to combined knowledge and educator-observed competency assessment and a future Advanced certification standard?
 - Which older activities should be revived, redesigned, or retired?
 - Which named tools can appear as global examples, and which must remain local?
 - What maintenance process is needed for Advanced modules with current data?

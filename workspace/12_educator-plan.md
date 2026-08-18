@@ -20,19 +20,19 @@ The guide should help educators:
 - adapt examples locally;
 - support multilingual or translated delivery;
 - select Custom / Bitcoin as Money modules;
-- facilitate online or in person with low-tech, offline-capable teaching materials when needed;
+- facilitate in person (preferred) or online with low-tech, offline-capable teaching materials when needed;
 - handle named tools, local resources, and current-data examples carefully;
 - use QR codes and external links sparingly in print/PDF delivery;
 - protect learner safety and autonomy;
 - use educator-led explanations, discussions, games, simulations, and role-plays for theory learning, distinguishing approved educator-evaluated evidence from formative feedback;
-- when approved as a practical assessor, directly assess 80% of each required practical learning objective and link the remaining 20% to app follow-up;
+- assess 80% of each required practical learning objective through direct observation and link the remaining 20% to app follow-up;
 - use common rubrics consistently;
 - provide feedback and reassessment; and
 - understand that app theory, educator theory, direct practical observation, and app practical follow-up are all required for certification.
 
 ### The My First Bitcoin app as the required assessment tool
 
-Content may be facilitated online or in person and taught with low-tech, offline-capable print/PDF materials. To complete the Diploma, every learner must use the approved My First Bitcoin app for 80% of theoretical assessment and 20% task-linked practical follow-up. Educators contribute the other 20% of theoretical assessment through approved objective-aligned interactions; an educator or approved assessor directly evaluates 80% of the practical component. Arrange supported app access when a learner does not have a suitable device or connection.
+Content may be facilitated in person (preferred) or online and taught with low-tech, offline-capable print/PDF materials. To complete the Diploma, every learner must use the approved My First Bitcoin app for 80% of theoretical assessment and 20% task-linked practical follow-up. Educators contribute the other 20% of theoretical assessment through approved objective-aligned interactions; an educator directly evaluates 80% of the practical component. Arrange supported app access when a learner does not have a suitable device or connection.
 
 ### Educator support through the ETP
 
@@ -56,7 +56,7 @@ You do not need to prepare or teach in isolation. My First Bitcoin supports educ
 
 ### Course roles
 
-In this Diploma, a **learner** studies, discusses, practises, and provides evidence of understanding. An **educator** facilitates the course, protects the learning environment, adds checked local context, provides formative theory feedback, and may serve as the approved practical assessor. An **approved assessor** directly evaluates the practical competencies when the educator does not hold that role. A **cohort** is the group learning together; smaller teams may complete particular activities. The **Diploma** is the complete learning and assessment program, not only the Student Guide or the accompanying app.
+In this Diploma, a **learner** studies, discusses, practises, and provides evidence of understanding. An **educator** facilitates the course, protects the learning environment, adds checked local context, provides formative theory feedback, and directly evaluates practical competencies. A **cohort** is the group learning together; smaller teams may complete particular activities. The **Diploma** is the complete learning and assessment program, not only the Student Guide or the accompanying app.
 
 ### General Teaching Tips
 
@@ -69,7 +69,7 @@ In this Diploma, a **learner** studies, discusses, practises, and provides evide
 - Four two-hour sessions as one delivery model, not a fixed limit
 - Suggested timing per block
 - Flexible delivery models: one-day, four-day, or eight-day
-- Online or in-person delivery using low-tech, offline-capable print/PDF content where needed
+- In-person delivery (preferred) or online delivery using low-tech, offline-capable print/PDF content where needed
 - What to cut when time is short
 - What to move to Advanced pathways
 - How to reserve time for required assessment
@@ -188,7 +188,7 @@ Suggested two-part sequence when more time is available:
 - Address-history and reuse lookup activity: use a deliberately public, educator-prepared address, transaction, or screenshot to show that address activity can be visible and repeated use can make transactions easier to link. Never ask learners to search, display, or share an address that belongs to them or another person, and provide a printed or projected fallback when internet access is unavailable.
 - Suggested activities
 - Required app theoretical items mapped to this block, where applicable, and practical-task follow-up linked to each assessed performance
-- Required educator- or approved-assessor-observed wallet, transaction, recovery-readiness, verification, and safety assessment
+- Required educator-observed wallet, transaction, recovery-readiness, verification, and safety assessment
 - Review point
 
 ### Custom / Bitcoin as Money
@@ -235,14 +235,14 @@ Educator rule: answer the learner's real question, name trade-offs honestly, and
 
 ### 5.1 The Two-Part Model
 
-Explain to learners that assessment has two equally important, non-compensatory parts: theoretical understanding and practical competency. The theoretical 50% is 80% app-evaluated and 20% educator-evaluated through approved interactions. The practical 50% is 80% direct observation by an educator or approved assessor and 20% app follow-up linked to the task. Other educator-led questions, explanations, activities, games, discussions, and role-plays are formative.
+Explain to learners that assessment has two equally important, non-compensatory parts: theoretical understanding and practical competency. The theoretical 50% is 80% app-evaluated and 20% educator-evaluated through approved interactions. The practical 50% is 80% direct observation by an educator and 20% app follow-up linked to the task. Other educator-led questions, explanations, activities, games, discussions, and role-plays are formative.
 
 Educators should present assessment like a driving test:
 
 1. Learners must pass the app and educator contributions to the theoretical component, which represents 50% of the complete assessment.
-2. Learners must pass the assessor-observed and app-follow-up contributions to the practical component, which represents the remaining 50%.
+2. Learners must pass the educator-observed and app-follow-up contributions to the practical component, which represents the remaining 50%.
 
-The app supplies objective-aligned microlearning, 80% theory evaluation, feedback, 20% practical-task follow-up, and recorded app results. The educator evaluates the approved 20% theory interactions; an educator serving as assessor, or another approved assessor, evaluates practical performance. A learner explanation may be scored as theory only through an approved educator interaction, or as practice when it is an observable criterion within an approved practical task.
+The app supplies objective-aligned microlearning, 80% theory evaluation, feedback, 20% practical-task follow-up, and recorded app results. The educator evaluates the approved 20% theory interactions and directly evaluates practical performance. A learner explanation may be scored as theory only through an approved educator interaction, or as practice when it is an observable criterion within an approved practical task.
 
 The app cannot determine whether a learner can safely operate a wallet, verify transaction details, protect recovery information, respond to a scam, or complete a locally relevant practical task. A checklist can guide preparation, but checking a box is not proof of competence.
 
@@ -250,7 +250,7 @@ Both assessment components must be passed for certification; strength in one can
 
 ### 5.2 Start With The Practical Learning Objective
 
-Before conducting a practical assessment, the educator or approved assessor should confirm:
+Before conducting a practical assessment, the educator should confirm:
 
 - the stable objective ID;
 - the measurable verb;
@@ -289,7 +289,7 @@ Educators should not treat fluent repetition as evidence of understanding. Use f
 
 ### 5.4 Blocks 3 And 4: Practical Competence
 
-Blocks 3 and 4 are skills-dominant. Required practical objectives make up the practical 50% of assessment: 80% is assessed through direct observation by an educator or approved assessor and 20% through app follow-up linked to the task. Any theoretical objectives mapped to these blocks follow the app/educator 80/20 theory allocation.
+Blocks 3 and 4 are skills-dominant. Required practical objectives make up the practical 50% of assessment: 80% is assessed through direct observation by an educator and 20% through app follow-up linked to the task. Any theoretical objectives mapped to these blocks follow the app/educator 80/20 theory allocation.
 
 Use approved Activity Bank tests, demonstrations, simulations, and role-plays to observe whether the learner can:
 
@@ -346,13 +346,13 @@ Record only the minimum evidence needed. Do not photograph, copy, or store seed 
 
 For the theoretical component, app rules determine feedback, attempts, and the recorded app reassessment result. The educator reassesses approved theory interactions against their criteria and may also provide formative help.
 
-For the practical component, the educator or approved assessor should identify the unmet criterion, direct the learner to appropriate practice, provide focused feedback, allow reasonable practice time, reassess the objective against the same approved rubric, and ensure the linked app follow-up is completed again where required.
+For the practical component, the educator should identify the unmet criterion, direct the learner to appropriate practice, provide focused feedback, allow reasonable practice time, reassess the objective against the same approved rubric, and ensure the linked app follow-up is completed again where required.
 
 App assessment accommodations must follow the approved central access and accommodation process. Practical-task accommodations may change how a learner receives instructions, communicates an explanation, controls a device, or demonstrates a sequence, but must not remove the objective or lower the competency standard.
 
-### 5.8 Practical-Assessor Calibration And Quality
+### 5.8 Educator calibration and quality
 
-Anyone who will serve as an approved practical assessor needs assessor preparation. The final guide should include:
+Every educator who assesses practical competency needs preparation. The final guide should include:
 
 - annotated examples of passing and **Not yet** evidence;
 - practice scoring common learner responses and performances;
@@ -366,18 +366,18 @@ Calibration protects learners from inconsistent grading and protects the reputat
 
 ### 5.9 Recording And Certification
 
-Where authorized and technically available, the educator may use app progress data to identify support needs. Passing any app contribution alone does not qualify a learner for certification; all required educator and assessor contributions must also be passed.
+Where authorized and technically available, the educator may use app progress data to identify support needs. Passing any app contribution alone does not qualify a learner for certification; all required educator and educator contributions must also be passed.
 
 The approved completion record must contain:
 
 - required app theory-assessment results;
 - required educator-evaluated theoretical-interaction results;
-- required approved-assessor-observed Block 3 and Block 4 practical results;
+- required educator-observed Block 3 and Block 4 practical results;
 - required app practical-task-follow-up results linked to those tasks;
 - the selected and passed Block 4 competency; and
-- any required assessor attestation or evidence reference.
+- any required educator attestation or evidence reference.
 
-Only the combined **assessment-complete** status may unlock a certificate. Assessor endorsement without structured evidence is insufficient, and direct practical assessment by an educator or approved assessor is mandatory.
+Only the combined **assessment-complete** status may unlock a certificate. Educator endorsement without structured evidence is insufficient, and direct practical assessment by an educator is mandatory.
 
 ## 6. Adaptation Guidance
 
@@ -395,7 +395,7 @@ Only the combined **assessment-complete** status may unlock a certificate. Asses
 - Self-paced adaptation
 - Website branch adaptation
 - App theory assessment, practical-task follow-up, and progress-tracking support
-- Recording and synchronizing app theory, educator theory, assessor practical, and app follow-up results
+- Recording and synchronizing app theory, educator theory, educator practical, and app follow-up results
 - Cross-modal branch notes
 - QR-code restraint for print and PDF delivery
 
