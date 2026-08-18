@@ -51,7 +51,7 @@ Internal purpose research clarifies that the Diploma should remain a structured,
 
 The current working design direction is:
 
-- in-person first;
+- educator-facilitated delivery online or in person;
 - approximately 8-hour minimum planning baseline, with additional time where objectives require it;
 - working architecture of four blocks—Problem / Broken Money, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money—rather than fixed two-hour classes;
 - single Diploma with Custom and Advanced pathways;
@@ -63,10 +63,10 @@ The current working design direction is:
 - Organizations material used only where it clarifies beginner Core concepts, educator misconception handling, Activity Bank scenarios, or local Custom practice;
 - Educator Guide treated as a facilitation engine;
 - Activity Bank treated as part of the learning ecosystem;
-- assessment built from the learning objectives, using a 50% theoretical component and 50% educator-led practical component; the theoretical half is approximately 80% app-supported and 20% educator-led;
+- assessment built from the learning objectives, using a theoretical component worth 50% (80% app-evaluated / 20% educator-evaluated) and a practical component worth 50% (80% direct educator- or approved-assessor observation / 20% app task follow-up);
 - certification based on both theoretical evidence and directly observed practical competence;
 - localization considered through adaptable examples, activities, and facilitation, not through changing core outcomes;
-- in-person and offline-capable PDF delivery treated as the first mode, with future branches to online PDF, online cohort, self-paced, web, app, and cross-modal continuation documented without overloading the current scope;
+- low-tech, offline-capable print/PDF content treated as the first publication mode for in-person or online facilitation, with future branches to online PDF, online cohort, self-paced, web, an optional full-course app-delivery branch, and cross-modal continuation; the required assessment app is a current dependency rather than a future branch;
 - print PDFs kept clean, with QR codes used sparingly for stable, high-value destinations;
 - shared theory and Core outcomes standardized globally, while practice is localized and led by educators or local experts;
 - an internal "racecar" standard: every component should earn its place by improving clarity, completion, practice, educator usability, or learner safety.
@@ -88,7 +88,7 @@ The following rough design notes are clarified into stable design rules:
 | Practical skills | Treat practical learning as guided skill orientation: demonstration, practice, production, reflection, and safe next steps. |
 | Precise Learning Outcomes | Let measurable outcomes control content decisions. If an objective cannot be taught, practiced, and evidenced inside the beginner pathway, it should not be Core. |
 | Include future ideas | Preserve future pathways in roadmaps, Advanced material, and publication planning without expanding the required beginner Diploma. |
-| Forking off modes | Design from a first offline/in-person PDF mode toward clear future delivery branches: online PDF, online cohort, self-paced, web, app, and eventual cross-modal continuation. |
+| Forking off modes | Design from low-tech, offline-capable print/PDF teaching toward clear future instructional branches: online PDF, online cohort, self-paced, web, an optional full-course app-delivery branch, and eventual cross-modal continuation, while preserving the mandatory app assessment. |
 | Don't put too many QR codes on PDF in print to start | Use QR codes sparingly in print. Prefer a few durable destinations over many fragile links that clutter pages or become stale. |
 | Consensus based theory with localized, expert-led practice | Keep the Core theory layer and outcomes shared globally. Let local educators or experts select and adapt practice responsibly. |
 | 4 units - total 8hrs? | Use four blocks, not old module labels, as the required structure. Plan from objectives and required evidence: four two-hour sessions are one useful format, not a limit. |
@@ -208,11 +208,11 @@ These topics should be framed as guided orientation, not as permission to manage
 
 Assessment should match the learning objective and the kind of competence being claimed.
 
-The app should support micro-learning, knowledge checks, feedback, and progress tracking. Educators should assess explanations, synthesis, discussions, simulations, role-plays, and practical performance using common tasks and rubrics.
+The app should deliver objective-aligned micro-learning, 80% of theoretical assessment, and the 20% practical-task follow-up, including knowledge checks, feedback, and progress tracking. Educators should gather the remaining 20% of theoretical evidence through approved objective-aligned interactions and evaluate 80% practical performance using common tasks and rubrics.
 
-Blocks 1 and 2 should be knowledge-dominant. The complete Diploma assessment is allocated 50% to theoretical evidence and 50% to practical competency evidence. Within the theoretical half, assessment should normally be divided approximately 80% through app quizzes and interactive learning and 20% through short educator-led activities, games, discussions, explanations, scenarios, or role-plays. Blocks 3 and 4 should be skills-dominant and require direct educator observation.
+Blocks 1 and 2 should be knowledge-dominant, while Blocks 3 and 4 should be skills-dominant without excluding app evidence. The complete Diploma assessment allocates 50% to theory (80% app evaluation and 20% educator-evaluated interaction) and 50% to practice (80% direct observation by an educator or approved assessor and 20% app follow-up). Educator-led activities may be formative, but only approved objective-aligned interactions with criteria and records contribute to the theoretical score.
 
-The app may record educator results, but it cannot determine whether a learner can perform a practical skill. Certification requires both parts.
+The app may record approved-assessor results and evaluate task-linked follow-up, but it cannot determine whether a learner can perform a practical skill. Certification requires both components and their required contributions.
 
 ## 4.8 Design For Multilingual Transfer
 
@@ -270,7 +270,7 @@ Otherwise, technical depth should move to Custom, Advanced, educator background,
 
 ## 4.10 Design For Delivery-Mode Branching
 
-The first implementation should remain in-person first and offline-capable.
+The first content implementation should remain low-tech and offline-capable, with in-person and online facilitation supported. Certification still requires access to the assessment app.
 
 The design should also make future branches possible:
 
@@ -279,7 +279,7 @@ The design should also make future branches possible:
 - online cohort;
 - self-paced course;
 - web version;
-- app version;
+- required assessment-app integration;
 - eventual cross-modal continuation across formats.
 
 Each branch should preserve the same Core outcomes while adapting pacing, educator support, evidence of learning, accessibility, and technology assumptions.
@@ -365,7 +365,7 @@ The redesigned Diploma must:
 - avoid global endorsement of named tools, services, wallets, exchanges, or local resources;
 - fact-check or date current-data examples before publication;
 - use QR codes sparingly in print PDFs;
-- preserve an offline-capable in-person pathway while documenting future delivery branches;
+- preserve low-tech, offline-capable content delivery for in-person and online teaching while stating the mandatory app requirement for theory assessment and practical-task follow-up;
 - support real-world implementation, not ideal conditions.
 
 ---
@@ -391,13 +391,13 @@ Pending: detailed audience assumptions require human confirmation.
 
 The Diploma should be designed for varied technology contexts.
 
-The first delivery mode should remain usable through in-person teaching and offline-capable print or PDF materials.
+The first content-delivery mode should remain usable through in-person or online teaching and offline-capable print or PDF materials. This does not create a device-free certification route: every learner must receive supported access to the required app theory assessment and practical-task follow-up.
 
 Future delivery branches should be planned as adaptations of the same source, not as separate curricula with drifting outcomes.
 
 Design questions:
 
-- Can learning occur offline?
+- Can teaching and preparation occur offline while required app assessment access is scheduled separately?
 - Can activities be delivered with minimal connectivity?
 - Can learning occur with only mobile devices?
 - What happens when technology fails?
@@ -596,7 +596,7 @@ Adaptation and localization may gradually weaken learning outcomes.
 
 ## Assessment Validity And Assessor Variation Risk
 
-App quizzes may over-reward recall, while educator judgments may vary across cohorts. The 50/50 theoretical-practical allocation, 80/20 theoretical assessment model, objective-aligned educator touchpoints, direct observation, common rubrics, assessor calibration, reassessment rules, and moderation are required to protect certificate consistency.
+App evaluation may over-reward recall, while educator theory and practical judgments may vary across cohorts. The 50/50 theoretical-practical allocation, internal 80/20 splits, a complete objective-aligned app blueprint, approved educator theory interactions, direct practical observation, task-linked app follow-up, common rubrics, assessor calibration, reassessment rules, and moderation are required to protect certificate consistency.
 
 ## Translation Risk
 
@@ -650,7 +650,7 @@ The retiring Bitcoin for Organizations pathway contains strong material for misc
 ## Accessibility Questions
 
 - What happens when internet access fails?
-- What happens when learners lack devices?
+- How will supported app assessment access work for learners who lack a suitable personal device or connection?
 - What happens when classes are interrupted?
 - Which content must be fully usable offline?
 - How many QR codes can a print PDF include before it becomes cluttered or fragile?
@@ -670,7 +670,7 @@ The retiring Bitcoin for Organizations pathway contains strong material for misc
 - What changes for an online cohort?
 - What evidence of learning works in a self-paced format?
 - What belongs on the web version?
-- What would an app need to preserve from the Core experience?
+- What capabilities, accessibility, scoring, identity, versioning, low-connectivity, and result-transfer controls must the required assessment app provide?
 - What should cross-modal continuation mean for a learner who moves between formats?
 
 ---

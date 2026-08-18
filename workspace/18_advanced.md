@@ -72,7 +72,7 @@ The absence of a topic from `08_student.md` does not mean the topic is unimporta
 | Beginner objectives | `05_objectives.md` |
 | Beginner assessment | `13_assessment.md` |
 | Activity templates | `10_activities.md` |
-| Educator facilitation guidance | `12_educator.md` |
+| Educator facilitation guidance | `12_educator-draft.md` |
 | Publication rules | `17_spec.md` |
 
 `06_plan.md` remains the source of truth for the active beginner redesign structure.
@@ -1037,7 +1037,7 @@ This section sketches possible directions for the candidate modules. These are s
 | Open Source Software | Bitcoin Core, wallet code, BTCPay, contribution models, review, licenses, community development | Legacy chapters 5.1, 6.2, 7.5 |
 | Nostr & Decentralized Communication | Decentralized communication, relays, identity, censorship resistance, social publishing | Candidate title; Cypherpunk material |
 | Communication Networks | Internet, Tor, encryption, peer-to-peer networks, censorship resistance, network resilience | Legacy chapter 4.3 |
-| Bitcoin Education | How to teach Bitcoin, concept maps, prerequisite chains, demo-before-abstraction, activity design | `02_research.md`, `10_activities.md`, `12_educator.md` |
+| Bitcoin Education | How to teach Bitcoin, concept maps, prerequisite chains, demo-before-abstraction, activity design | `02_research.md`, `10_activities.md`, `12_educator-draft.md` |
 | Bitcoin for Families | Family custody conversations, inheritance basics, safety culture, youth education, shared decision-making | Candidate title; custody and safety material |
 | Bitcoin for Organizations | Treasury policy, custody roles, governance, payments, donations, accounting, staff training | Candidate title; business and custody material |
 | Bitcoin Treasury and Organizational Custody | Treasury policy, balance-sheet exposure, custody roles, approval workflows, controls, accounting boundaries, institutional risk | `../ref/bitcoin-for-organizations/en/5-impact-on-internal-functions/2-what-is-a-bitcoin-treasury.md`; `../ref/bitcoin-for-organizations/en/4-impact-on-industry-verticals/2-bitcoin-and-investment-management.md` |
@@ -1113,7 +1113,7 @@ Use these source files when future Advanced module work begins.
 - `06_plan.md`: active beginner architecture and legacy migration rules.
 - `08_student.md`: current beginner draft; useful for identifying what has been compressed or removed.
 - `10_activities.md`: activity template and activity categories.
-- `12_educator.md`: educator guidance on moving complex side topics to Advanced.
+- `12_educator-draft.md`: educator guidance on moving complex side topics to Advanced.
 - `17_spec.md`: publication rules, fact-check rules, QR rules, and public communication rules.
 
 ## Legacy Reference Sources
@@ -1192,7 +1192,7 @@ Bitcoin for Organizations should not remain a separate pathway after the redesig
 
 Its content should be transformed into:
 
-- a small number of beginner-appropriate additions to the new Diploma, tracked in `mergefromorganizations.md`;
+- a small number of beginner-appropriate additions to the new Diploma, tracked in `advanced/mergefromorganizations.md`;
 - Advanced module source trails, module seeds, activity seeds, and research notes in this file;
 - educator background where the material is useful but not yet student-facing.
 
@@ -1348,7 +1348,7 @@ Do not resolve these before the beginner Diploma is published unless the answer 
 - Which topics require community co-design?
 - What prerequisites should learners complete before each module?
 - Should the Advanced pathway have levels, such as intermediate and advanced?
-- How should Advanced modules connect to combined knowledge and educator-observed competency assessment and a future Advanced certification standard?
+- How should Advanced modules connect to combined knowledge and approved-assessor-observed competency assessment and a future Advanced certification standard?
 - Which older activities should be revived, redesigned, or retired?
 - Which named tools can appear as global examples, and which must remain local?
 - What maintenance process is needed for Advanced modules with current data?

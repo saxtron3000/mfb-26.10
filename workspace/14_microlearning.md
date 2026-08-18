@@ -2,9 +2,9 @@
 
 ## Purpose
 
-This document is the content home for short microlearning items used in the My First Bitcoin app. It provides a structured bank for questions, reflections, retrieval practice, scenarios, and feedback across the four-block Bitcoin Diploma.
+This document is the content home for short microlearning and evaluation items used in the required My First Bitcoin app. The completed, approved bank must supply 80% of theoretical evidence (40% of the complete Diploma assessment) and 20% practical-task follow-up evidence (10% of the complete assessment) across the four blocks.
 
-It is not the complete assessment framework. Required assessment rules, passing requirements, and educator-observed practical competencies remain in `13_assessment.md`. App items may support theoretical assessment, self-evaluation, review, and preparation for educator-led learning.
+It is not the complete assessment framework. Overall assessment rules, passing requirements, educator-evaluated theory interactions, and directly observed practical competencies remain in `13_assessment.md`. This bank owns app-based theoretical evidence, task-linked practical follow-up, self-evaluation, review, and preparation for educator-led learning. It may contain formative microlearning, summative theoretical items, and summative practical-follow-up items; only items explicitly tagged and approved as summative contribute to a component result.
 
 Use simple, translation-ready English. Keep the Diploma Bitcoin-only, educational, and free from financial, legal, tax, accounting, compliance, or investment advice. Do not turn a named wallet, exchange, tool, or local service into a global recommendation.
 
@@ -24,17 +24,17 @@ Each future item should use this record:
 | Answer or response criteria | Correct answer(s), acceptable range, or reflection guidance. |
 | Feedback | Brief explanation for correct and incorrect choices; link to review content if useful. |
 | Objective link | Relevant objective in `05_objectives.md`, where applicable. |
-| Assessment use | Practice only, app theoretical evidence, or educator follow-up. |
+| Assessment use | Formative app practice, summative app theoretical evidence, summative app practical-task follow-up, or educator follow-up. |
 | Review metadata | Language, difficulty, source/date for current claims, and reviewer status. |
 
 ## Item-writing rules
 
 - Test one idea or decision at a time.
-- Use multiple-choice questions for recognition and recall; use scenarios, short responses, or educator follow-up for reasoning and explanation.
+- Use multiple-choice questions for recognition and recall. Use app-valid scenarios, ordering, matching, structured responses, or other approved scoring patterns for reasoning and explanation. A short response that requires educator review is formative only unless the app has an approved reliable scoring mechanism.
 - Include believable distractors without using trick wording, “all of the above,” or clues based on grammar or answer length.
 - Use numbers and dates only when they support a meaningful idea. Provide feedback that explains why the fact matters.
 - Date and cite claims that can change. Avoid current price, policy, provider, or local-service questions unless a local, reviewed module owns them.
-- Mark safety-critical misunderstandings for clear corrective feedback and educator follow-up where required.
+- Mark safety-critical misunderstandings for clear corrective feedback and formative educator follow-up where required.
 - Reflections do not have a “correct” answer. They should invite thought, not collect sensitive personal information or require disclosure of holdings, seed phrases, or financial circumstances.
 
 ## Suggested question mix
@@ -285,7 +285,7 @@ Themes: purpose, scarcity, roles, supply, and the bridge to action.
 Question-bank opportunities:
 
 - mixed quiz with a timeline, role-match, and scenario;
-- one learner explanation prompt for educator follow-up;
+- one learner explanation prompt for formative educator follow-up;
 - confidence check for Block 3 preparation.
 
 ---
@@ -343,7 +343,7 @@ Question-bank opportunities:
 - sequence ordering: safe, educator-approved recovery-readiness steps;
 - multiple choice: identify an unsafe backup practice;
 - scenario: select the right response when a seed phrase may have been exposed;
-- educator flag: practical recovery evidence requires direct observation under `13_assessment.md`.
+- assessor flag: practical recovery evidence requires direct observation under `13_assessment.md`.
 
 ## BD-ML-B03-T06: Receiving bitcoin
 
@@ -354,7 +354,7 @@ Question-bank opportunities:
 - ordering: prepare to receive a small supported test amount;
 - multiple choice: identify the detail needed to receive on-chain bitcoin;
 - scenario: decide what to verify before sharing a receiving address;
-- educator flag: app questions prepare for, but do not replace, observed practical evidence.
+- assessor flag: app questions prepare for, but do not replace, observed practical evidence.
 
 ## BD-ML-B03-T07: Sending bitcoin and confirmations
 
@@ -410,7 +410,7 @@ Question-bank opportunities:
 - safety-critical mixed review;
 - scenario branching: identify the next safest action;
 - learner self-check: mark areas needing guided practice;
-- educator flag: app completion never substitutes for the required practical competency assessment.
+- assessor flag: passing app theory never substitutes for the required practical competency assessment.
 
 ---
 
@@ -484,14 +484,14 @@ Question-bank opportunities:
 
 ## BD-ML-B04-T07: Block 4 review and local competency preparation
 
-Themes: locally selected application, trade-offs, safety, and educator-assessed evidence.
+Themes: locally selected application, trade-offs, safety, and approved-assessor-observed practical evidence.
 
 Question-bank opportunities:
 
 - local scenario review;
-- learner explanation prompt for educator follow-up;
+- learner explanation prompt for formative educator follow-up;
 - confidence check and next-step resource selection;
-- educator flag: the required local practical competency is assessed under `13_assessment.md` and certification eligibility under `15_certification.md`.
+- assessor flag: the required local practical competency is assessed under `13_assessment.md` and certification eligibility under `15_certification.md`.
 
 ---
 
@@ -506,14 +506,14 @@ Use these types throughout the bank when they fit the learning purpose:
 | Matching | Terms, roles, functions, and timelines | Keep both columns short and unambiguous. |
 | Ordering | Historical sequence or safe process | Use only when sequence meaningfully matters. |
 | Number or date | Supply, unit conversion, historical markers, or fictional amounts | Confirm calculation and date source before release. |
-| Short response | Explanation in the learner’s own words | Define acceptable evidence or route to educator review. |
+| Short response | Formative explanation, or summative evidence only with an approved reliable app-scoring mechanism | Define acceptable evidence. If educator review is required, mark the item formative and redesign any summative objective coverage. |
 | Scenario | Applying a concept, trade-off, or safety response | Use fictional people, amounts, and tools unless a local module is approved. |
 | Reflection | Personal sense-making and discussion | No right answer; do not collect sensitive information. |
 | Confidence check | Targeted review and educator support | Never use as assessment evidence by itself. |
 
-# 7. App Implementation Questions For Development
+# 7. App Release Dependencies
 
-Confirm these decisions with the app developer before converting the question-bank opportunities in this document into upload-ready item records.
+Resolve and verify these decisions before the Diploma can be released. Because the app is mandatory and owns 80% of theoretical evidence plus 20% practical-task follow-up, the opportunities in this document must be converted into an approved, objective-complete, scored item bank rather than treated as optional enrichment.
 
 ## Content and question types
 
@@ -527,13 +527,13 @@ Confirm these decisions with the app developer before converting the question-ba
 
 6. Can the app store one correct answer, multiple correct answers, or a required answer order?
 7. Can each answer option have its own feedback, or is there only one general correct or incorrect message?
-8. Can the app accept several equivalent short-answer responses, or do written answers require educator review?
+8. Can the app score several equivalent short-answer responses reliably? If written answers require educator review, they must remain formative and any summative evidence must use another validated app pattern.
 9. Can reflections be unscored and optionally saved? Who can see them: the learner only, an educator, or administrators?
-10. Can an item be marked as discussion only or educator follow-up required rather than automatically scored?
+10. Can an item be marked as discussion only or formative educator follow-up rather than automatically scored?
 
 ## Assessment and learner flow
 
-11. Can items be tagged as practice, required knowledge check, safety-critical check, reflection, or educator follow-up?
+11. Can items be tagged as formative practice, required summative theoretical evidence, required summative practical-task follow-up, safety-critical check, reflection, or educator follow-up?
 12. Can we set a passing score by topic, block, or full course?
 13. Can learners retry questions? If yes, can we control the number of attempts, whether feedback appears immediately, whether questions are randomized, and whether the correct answer appears after an attempt?
 14. Can the app require a learner to complete one topic or block before opening the next?
@@ -544,9 +544,9 @@ Confirm these decisions with the app developer before converting the question-ba
 
 17. What learner data is recorded for each item: answer selected, score, attempts, time, completion date, and feedback viewed?
 18. Can educators see progress by learner, topic, block, and question?
-19. Can educators add an observation, mark a practical task as complete, or override an app result?
+19. Can an educator record theory evidence and an approved assessor record practical observation while keeping both separate from the app's theoretical and practical-follow-up results? Who, if anyone, may correct or override any result, and how is that action audited?
 20. Can results be exported? In which formats: CSV, spreadsheet, API, PDF, or dashboard?
-21. Can the system combine app results with educator-led assessment records while keeping them clearly separate?
+21. Can the system combine app theory, educator theory, assessor practical, and app practical-follow-up results while keeping them clearly separate?
 
 ## Content import and maintenance
 
@@ -567,12 +567,24 @@ Confirm these decisions with the app developer before converting the question-ba
 33. Where is learner data stored, who can access it, and can learners delete their saved reflections or personal data?
 34. Can the platform prevent the collection of sensitive information in responses, such as seed phrases, private keys, holdings, or financial details?
 
-Request these four outputs first: a sample import file, a list of supported question types, the scoring and retry rules, and a description of educator reporting.
+Also resolve:
+
+- supported device, browser, and operating-system requirements;
+- learner, shared-device, loan-device, and assisted-use account models;
+- identity and assessment-integrity controls;
+- interrupted attempts, weak-connectivity behavior, offline operation, synchronization, outages, and recovery;
+- accessibility support and language parity for every required assessment;
+- item and scoring-version controls, audit history, and result reconciliation;
+- privacy, consent, retention, and minors' access; and
+- how educators and approved assessors submit the theory and practical results that combine with the two app results for certificate eligibility.
+
+Request these four outputs first: a sample import file, a list of supported question types, the scoring and retry rules, and a description of assessor reporting and result integration.
 
 # 8. Review And Release Checklist
 
 Before an item enters the app, confirm:
 
+- the complete bank covers its assigned theoretical objectives with valid app-evaluable evidence patterns and includes approved task-linked practical follow-up;
 - it is located in the correct block and topic;
 - it fits the approved beginner scope and learning objectives;
 - the answer, calculation, date, and feedback have been independently reviewed;
@@ -581,5 +593,14 @@ Before an item enters the app, confirm:
 - it does not give financial, legal, tax, accounting, compliance, or investment advice;
 - it does not expose or request private keys, seed phrases, personal financial data, or identifying information;
 - it avoids global recommendations for named wallets, exchanges, or local services;
-- its assessment role is clear and does not claim to replace educator-observed practical evidence; and
+- its assessment role is clear and does not claim that practical-task follow-up replaces evidence observed by an educator or approved assessor; and
 - local Custom items have an owner, location tag, review date, and approved source trail.
+
+Before the app contribution is released, also confirm:
+
+- the pass threshold, objective-level rules, retries, feedback timing, and item version are approved;
+- practice, confidence checks, and reflections cannot inflate the theoretical score;
+- accessibility and language variants preserve equivalent evidence and scoring;
+- supported access, weak-connectivity behavior, synchronization, interrupted attempts, and outage recovery have been tested;
+- identity, integrity, privacy, consent, retention, and audit controls are approved; and
+- app theory and practical-follow-up results reconcile correctly with educator-theory and assessor-practical records without allowing one component or required contribution to compensate for another.

@@ -16,7 +16,7 @@ Sources reviewed:
 
 Related Advanced merge map:
 
-- `workspace/advancedorganizations.md`
+- `advancedorganizations.md`
 
 ## Cannibalization Decision
 
@@ -254,7 +254,7 @@ Keep out:
 
 Organizations provides strong material for educator preparation.
 
-Add a Misconception Bank to `workspace/12_educator.md` later, using Organizations as source material.
+Add a Misconception Bank to `workspace/12_educator-draft.md` later, using Organizations as source material.
 
 Recommended entries:
 
@@ -381,7 +381,7 @@ Do not add the following to the required beginner Student Book:
 - detailed cryptography;
 - named companies, wallets, exchanges, custodians, or service providers as recommendations.
 
-All of this should go to `workspace/advancedorganizations.md` and later `workspace/18_advanced.md`.
+All of this should go to `advancedorganizations.md` and later `../18_advanced.md`.
 
 ## Fact-Check Flags If Used In Beginner Materials
 

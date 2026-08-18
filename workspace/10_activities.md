@@ -10,7 +10,7 @@ The Activity Bank is designed for two uses. Activities can complement the Bitcoi
 
 A standalone activity should provide enough context, instructions, debrief questions, and safety notes for participants to learn a clear idea even if they have not completed the full diploma.
 
-The Activity Bank also contains educator-led assessment tasks. These give learners opportunities to explain, compare, synthesize, role-play, simulate, and demonstrate the objectives that cannot be assessed adequately through an app quiz. Formal certification tasks must use the approved objective, instructions, observable criteria, rubric, and safety conditions.
+The Activity Bank contains educator-led formative activities, approved educator-evaluated theory interactions, and educator- or approved-assessor practical competency tasks. Explanations, comparisons, discussions, games, scenarios, and role-plays support learning and formative feedback unless approved for the 20% theoretical evidence contribution. Formal practical certification tasks supply the 80% directly observed practical contribution and must link to the app's 20% task follow-up; they must use the approved objective, instructions, observable criteria, rubric, and safety conditions.
 
 ## Current Activities in the Bitcoin Diploma (26.04)
 
@@ -81,11 +81,12 @@ Every activity must be identified as one or more of:
 
 - learning and practice;
 - formative assessment; or
-- summative assessment for certification.
+- summative educator-evaluated theory interaction for certification; or
+- summative practical assessment for certification.
 
-Educators may adapt ordinary learning and formative activities within the published guardrails. A summative assessment task may be adapted only through an approved equivalent version that preserves the objective, evidence, difficulty, rubric, and safety standard.
+Educators may adapt ordinary learning and formative activities within the published guardrails. A summative practical assessment task may be adapted only through an approved equivalent version that preserves the objective, evidence, difficulty, rubric, and safety standard.
 
-Learners should receive supported practice before a task is used for summative assessment.
+Learners should receive supported practice before a task is used for summative practical assessment.
 
 ---
 
@@ -107,15 +108,15 @@ List the competency or competencies the activity develops or assesses.
 
 ### Assessment Use
 
-Learning and practice, formative assessment, summative assessment, or a permitted combination.
+Learning and practice, formative assessment, summative educator-evaluated theory interaction, summative practical assessment, or a permitted combination.
 
 ### Assessment Component
 
-Theoretical assessment, educator-led practical competency assessment, or both.
+Formative theoretical support, summative educator-evaluated theory interaction, summative practical competency assessment, or formative preparation plus approved summative criteria.
 
 ### Assessor
 
-App, educator or approved assessor, or both. Practical competency must be evaluated by an educator or approved assessor.
+For a formative item, identify the educator or facilitator. For a summative educator-theory item, identify the educator and its approved criteria/record. For a summative practical item, identify the approved practical assessor. The app supplies the complementary 80% theoretical evidence and practical-task follow-up under `14_microlearning.md`.
 
 ### Time
 
@@ -147,7 +148,7 @@ Questions that connect the activity back to the block objective.
 
 ### Evidence Of Learning
 
-What the educator can observe or collect.
+For formative use, state what the educator can notice and use for feedback. For summative educator-theory use, state the individual response, criteria, and concise record. For summative practical use, state what the approved assessor must observe and the linked app follow-up.
 
 ### Rubric And Passing Standard
 
@@ -155,11 +156,11 @@ Define **Meets standard** and **Not yet**, including any safety-critical error t
 
 ### Feedback And Reassessment
 
-State how the educator gives feedback, what practice or micro-learning follows a **Not yet** result, and how the learner can be reassessed.
+For formative theory, state how the educator gives feedback and directs further learning. For summative educator-theory work, state how the educator gives feedback and reassesses the approved interaction. For summative practical work, state how the assessor gives feedback, what practice follows a **Not yet** result, how the learner can be reassessed against the same rubric, and how the linked app follow-up is retried.
 
 ### Evidence Record
 
-State what result, evidence reference, or educator attestation must be recorded and where.
+For a summative practical task, state what result, evidence reference, or assessor attestation must be recorded and where. Formative notes are not certification gates.
 
 ### Adaptation Notes
 
@@ -193,7 +194,7 @@ Learning and practice or formative assessment. These prompts may inform a formal
 
 ### Assessment Component
 
-Theoretical assessment, with practical prompts used to prepare for educator-led practical competency assessment.
+Theoretical learning and formative checking, with practical prompts used to prepare for educator- or approved-assessor practical competency assessment.
 
 ### Assessor
 
@@ -239,7 +240,7 @@ Ask: What evidence or check supports your answer? What could go wrong? What woul
 
 ### Evidence Of Learning
 
-The educator may record concise notes on the learner's explanation, safety judgment, or simulated action for formative feedback. For certification, collect evidence through the approved task and rubric for the objective.
+The educator may record concise notes on the learner's explanation, safety judgment, or simulated action for formative feedback. For certification, an educator may collect the approved 20% theoretical evidence through an objective-aligned interaction with criteria and a concise record; an educator or approved assessor collects the directly observed practical evidence through an approved practical task and rubric.
 
 ### Adaptation Notes
 
@@ -247,7 +248,7 @@ Translate the questions for plain local language without changing the expected c
 
 ### Safety Notes
 
-Do not ask learners to reveal a seed phrase, private key, login credential, or personal transaction history. A spoken answer to a send or recovery question does not replace direct educator observation when the objective requires demonstration.
+Do not ask learners to reveal a seed phrase, private key, login credential, or personal transaction history. A spoken answer to a send or recovery question does not replace direct observation by an educator or approved assessor when the objective requires demonstration.
 
 ---
 
@@ -255,13 +256,13 @@ Do not ask learners to reveal a seed phrase, private key, login credential, or p
 
 ## Blocks 1 And 2: Knowledge-Dominant
 
-The complete Diploma assessment is allocated 50% to theoretical evidence and 50% to practical competency evidence. Within the theoretical half, the app provides approximately 80% through quizzes and interactive learning. Activity Bank assessment tasks provide the remaining approximately 20% through educator-led explanations, comparisons, concept illustrations, games, discussions, simulations, scenarios, and role-plays.
+The mandatory app supplies 80% of theoretical evidence through objective-aligned microlearning and evaluation. Approved Activity Bank explanations, comparisons, concept illustrations, games, discussions, simulations, scenarios, and role-plays may supply the remaining 20% when they have an objective, individual evidence, criteria, and record; otherwise they are formative.
 
-Selected formal educator tasks should be short, objective-aligned touchpoints that confirm learners can explain, discuss, compare, illustrate, or reason through selected concepts. The 80/20 division applies within the theoretical half; the other 50% of the complete Diploma assessment is educator-observed practical competency.
+Selected educator-led theoretical activities should be short and objective-aligned; the blueprint must distinguish the approved summative 20% from formative touchpoints. The Activity Bank owns approved tasks for 80% of the practical 50%, which an educator or approved assessor evaluates through direct observation, and links them to the app's 20% practical follow-up.
 
 ## Blocks 3 And 4: Skills-Dominant
 
-Activity Bank assessment tasks provide the direct educator-observed evidence required for practical competence.
+Activity Bank assessment tasks provide the direct educator- or approved-assessor-observed 80% of evidence required for practical competence and identify the linked 20% app follow-up.
 
 Formal tasks should include approved variations of:
 
@@ -273,7 +274,7 @@ Formal tasks should include approved variations of:
 - scam, address-error, or irreversible-transaction responses; and
 - selected local Block 4 payment, receiving, remittance, merchant, donation, resource, or community-use performance.
 
-An app checklist may prepare a learner or support an educator's procedure. Marking a checklist complete is not proof of practical competence.
+An app checklist or follow-up may prepare a learner, capture task understanding, or support an educator's procedure. It is not proof of practical competence without the required direct observation.
 
 Every Block 4 certification assessment task must map to shared objectives `B4.1` and `B4.2`, even when the local tool or scenario differs.
 
@@ -393,7 +394,7 @@ Every final activity should include:
 
 # Organizations-Derived Activity Seeds
 
-These seeds come from `mergefromorganizations.md`. They should be developed as Activity Bank items only if they remain beginner-safe and locally adaptable.
+These seeds come from `advanced/mergefromorganizations.md`. They should be developed as Activity Bank items only if they remain beginner-safe and locally adaptable.
 
 ## Claim, Evidence, Trade-Off
 

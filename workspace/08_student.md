@@ -267,7 +267,7 @@ Money helps strangers cooperate across distance and time. It allows a worker to 
 
 Money is not the food, home, time, or skill that people value. It is a tool for measuring and exchanging claims on those things. Its usefulness depends on trust, rules, social acceptance, and its monetary properties.
 
-**Formative spot question:** Why did money come into existence? Explain the exchange or coordination problem it helps people solve.
+**Spot question:** Why did money come into existence? Explain the exchange or coordination problem it helps people solve.
 
 ### Functions and properties of money
 
@@ -610,7 +610,7 @@ These roles limit one another:
 
 Some people perform several roles. A miner can run a node and also be a user. A beginner does not need to perform every role to understand the balance among them.
 
-**Formative spot question:** Why does a node verify transactions? Name at least one rule that a node checks.
+**Spot question:** Why does a node verify transactions? Name at least one rule that a node checks.
 
 ### Proof of work
 
@@ -652,7 +652,7 @@ Bitcoin's supply rule is credible because it is public, easy to verify with a no
 
 Many digital assets can claim a limited supply. The beginner question is whether the limit is credible in practice, not only whether it is written in a document or displayed on a website.
 
-**Formative spot question:** What are the advantages of Bitcoin having a limited supply? What would be the effect of increasing the supply of Bitcoin on purchasing power? Who would reject an increase in supply?
+**Spot question:** What are the advantages of Bitcoin having a limited supply? What would be the effect of increasing the supply of Bitcoin on purchasing power? Who would reject an increase in supply?
 
 Finite supply does not guarantee a rising market price. Price depends on demand as well as supply. It also does not mean every bitcoin is available for sale; some may be held long term or become inaccessible because keys were lost.
 
@@ -924,7 +924,7 @@ A safe beginner recovery process follows these principles:
 
 Do not test a backup by exposing the seed to an educator or classmate. They can explain the procedure without seeing the words.
 
-**Formative spot question:** Using a prepared practice wallet, how would you recover access after the original device fails while keeping the recovery information private?
+**Spot question:** Using a prepared practice wallet, how would you recover access after the original device fails while keeping the recovery information private?
 
 Recovery planning should answer:
 
@@ -982,7 +982,7 @@ Wallet fee estimates can be wrong or become outdated. A low fee may cause a tran
 
 Never send because someone creates urgency. Stop if the recipient changes the address unexpectedly, asks you to “verify” the payment with your seed phrase, or refuses to allow a small test.
 
-**Formative spot question:** In a prepared wallet or simulation, what would you check before sending a transaction? How would you verify the address before approval?
+**Spot question:** In a prepared wallet or simulation, what would you check before sending a transaction? How would you verify the address before approval?
 
 ### Verification, block explorers, and irreversible transactions
 
@@ -1063,7 +1063,7 @@ Any one of these patterns is a red flag for a potential scam. Pause, do not send
 
 When uncertain, pause. A real opportunity will survive a careful check. A scam often depends on preventing one.
 
-**Formative spot question:** What clues would help you spot a scam, and what is the safe response if you see one?
+**Spot question:** What clues would help you spot a scam, and what is the safe response if you see one?
 
 ### Acquiring and exchanging bitcoin
 

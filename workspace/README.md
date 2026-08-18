@@ -13,15 +13,15 @@ The current direction is:
 - a beginner Diploma with an approximately 8-hour minimum planning baseline;
 - four blocks that may be delivered in four two-hour sessions or another objective-preserving schedule;
 - a shared Core followed by an educator-selected Custom block;
-- in-person, offline-capable print or PDF delivery first;
+- low-tech, offline-capable print or PDF content delivery first, facilitated in person or online;
 - practical learning, discussion, reflection, review, and learner explanation in every block;
 - English-first source drafting followed by simplicity, tone, terminology, style, and translation-readiness review;
 - a separate Student Book, Activity Bank, Educator Guide, assessment framework, and publication specification;
 - Advanced module design after the beginner Diploma is stable and published;
-- future online PDF, online cohort, self-paced, web, app, and cross-modal branches that preserve the same Core outcomes;
-- a combined assessment framework: app-supported and educator-led theoretical assessment plus educator-led practical competency evaluation.
+- future online PDF, online cohort, self-paced, web, an optional full-course app-delivery branch, and cross-modal branches that preserve the same Core outcomes;
+- a combined assessment framework: 50% theory (80% app evaluation / 20% educator-evaluated interaction) and 50% practice (80% direct observation / 20% app task follow-up).
 
-The complete assessment is allocated 50% to theoretical evidence and 50% to educator-observed practical competency. The app supports approximately 80% of the theoretical half through micro-learning, quizzes, interactive learning, feedback, and progress tracking. Educators provide the remaining theoretical touchpoints through activities, games, discussions, and role-plays, and they directly assess practical performance. A certificate may be issued only after both components meet the learning objectives and are recorded as assessment-complete. App completion alone is not sufficient, and the app does not assess practical skill. Detailed governance, credential infrastructure, and verification systems remain implementation work.
+The complete assessment uses two required, non-compensatory components. The theoretical 50% is 80% app-evaluated and 20% educator-evaluated through approved objective-aligned interactions. The practical 50% is 80% directly observed by an educator or approved assessor and 20% app-evaluated through follow-up linked to the practical task. A certificate may be issued only after all required contributions meet the approved standard and are recorded as assessment-complete. App follow-up does not assess or replace practical performance. Teaching may remain low-tech and offline-capable, but supported app access is an explicit requirement for Diploma completion. Detailed access, governance, credential infrastructure, and verification systems remain implementation work.
 
 ## Start Here
 
@@ -72,9 +72,10 @@ Reference and feedback material is input, not automatically approved curriculum.
 | [`09_assets.md`](09_assets.md) | Visual-text index, asset requirements, placement rules, and review handoff. |
 | [`10_activities.md`](10_activities.md) | Activity Bank structure, activity inventory, and activity design rules. |
 | [`11_resources.md`](11_resources.md) | External sources and their current Student Book claim locations. |
-| [`12_educator.md`](12_educator.md) | Educator Guide structure, pacing, facilitation, adaptation, and learner-safety guidance. |
+| [`12_educator-draft.md`](12_educator-draft.md) | Current educator-facing publication draft covering all four blocks and working assessment guidance; not yet release-approved. |
+| [`12_educator-plan.md`](12_educator-plan.md) | Supporting Educator Guide outline and structural plan. |
 | [`13_assessment.md`](13_assessment.md) | Combined assessment model, objective-aligned evidence, passing requirements, and delivery-mode adaptation. |
-| [`14_microlearning.md`](14_microlearning.md) | App microlearning question-bank structure across the four Diploma blocks. |
+| [`14_microlearning.md`](14_microlearning.md) | Required app theory-assessment and practical-task-follow-up bank structure across the four Diploma blocks. |
 | [`15_certification.md`](15_certification.md) | Two-part assessment prerequisite for certification and outstanding governance questions. |
 | [`16_lexicon.md`](16_lexicon.md) | Beginner-safe terminology and definitions for consistent drafting and translation. |
 | [`17_spec.md`](17_spec.md) | Standalone 2026.10 overview, publication rules, and collaborator-facing specification. |
@@ -90,7 +91,7 @@ The public stakeholder brief and keynote source is [`../public/MFB-BD-Keynote.md
 - Keep measurable outcomes and competencies in `05_objectives.md`.
 - Keep learner-facing prose in `08_student.md` and align its order with `07_contents.md`.
 - Keep detailed activities in `10_activities.md`, not in the Student Book or plan.
-- Keep detailed facilitation guidance in `12_educator.md`, not in the Student Book or plan.
+- Keep detailed facilitation guidance in `12_educator-draft.md`, not in the Student Guide or curriculum plan; use `12_educator-plan.md` only to plan and check the guide structure.
 - Keep the combined assessment model, objective-aligned evidence, and passing requirements in `13_assessment.md`; keep certification eligibility and governance questions in `15_certification.md`.
 - Keep the full Advanced module list and parked advanced content in `18_advanced.md`.
 - Use `advanced/mergefromorganizations.md` as the beginner-safe Organizations checklist; do not import Organizations chapters directly into the Student Book.
@@ -104,7 +105,7 @@ The redesign should:
 - manage beginner cognitive load and keep every component tied to a learning purpose;
 - separate Core, Custom, and Advanced material clearly;
 - standardize shared Core theory and outcomes while allowing educator-led local practice within guardrails;
-- support offline or low-connectivity delivery and use print QR codes sparingly;
+- support low-tech or low-connectivity teaching, arrange required app-assessment access, and use print QR codes sparingly;
 - prepare English source files for translation and localization before publication;
 - use beginner-safe, consistent terminology from `16_lexicon.md`;
 - avoid financial, legal, tax, accounting, compliance, or investment advice;

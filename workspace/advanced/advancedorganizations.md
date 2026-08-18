@@ -16,7 +16,7 @@ Bitcoin for Organizations should not remain a standalone path after the Diploma 
 
 Its content should be transformed into:
 
-- a small number of beginner-appropriate additions to the new Diploma, tracked in `workspace/mergefromorganizations.md`;
+- a small number of beginner-appropriate additions to the new Diploma, tracked in `mergefromorganizations.md`;
 - a much larger set of Advanced module source trails, tracked here and later merged into `workspace/18_advanced.md`;
 - educator background, activity seeds, and future research notes where the content is useful but not yet publication-ready.
 
@@ -182,9 +182,9 @@ These can inform educator preparation, scenario design, or research notes.
 Use:
 
 - `workspace/18_advanced.md` as the official Advanced holding file;
-- `workspace/mergefromorganizations.md` for beginner Diploma merge decisions;
+- `mergefromorganizations.md` for beginner Diploma merge decisions;
 - `workspace/06_plan.md` for Core, Custom, and Advanced boundaries;
 - `workspace/10_activities.md` for future activity templates;
-- `workspace/12_educator.md` for educator-facing misconception guidance.
+- `workspace/12_educator-draft.md` for educator-facing misconception guidance.
 
 This file should remain the detailed Organizations-to-Advanced source map until its strongest material has been migrated into `18_advanced.md`.

@@ -6,14 +6,14 @@ This document defines how learning is evaluated in the redesigned Bitcoin Diplom
 
 Assessment must measure the learning objectives in `05_objectives.md`. It must establish not only what a learner remembers, but what the learner can explain, compare, apply, and demonstrate.
 
-The Diploma uses two complementary forms of assessment:
+The Diploma uses two required, non-compensatory assessment components:
 
-1. **Theoretical assessment**, divided between My First Bitcoin app quizzes and interactive learning (approximately 80%) and short educator-led touchpoints (approximately 20%) such as activities, games, discussions, explanations, scenarios, and role-plays from the Activity Bank.
-2. **Educator-led practical competency assessment**, using direct observation of tests, demonstrations, simulations, and role-plays.
+1. **Theoretical assessment (50%)**: 80% is evaluated and recorded in the approved My First Bitcoin app through objective-aligned microlearning and evaluation; the remaining 20% is evaluated by an educator through approved objective-aligned activities, workshops, discussions, and learner explanations.
+2. **Practical competency assessment (50%)**: 80% is evaluated through direct observation of performance by an educator or approved assessor; the remaining 20% is evaluated in the app through questions linked to the learner's practical task, checks, decisions, and reflection.
 
-The working Diploma assessment allocation is 50% theoretical assessment and 50% practical competency assessment. Within the theoretical half, the app accounts for approximately 80% and educator-led touchpoints for approximately 20%. This is equivalent to approximately 40% of the total assessment through the app, 10% through educator-led theoretical touchpoints, and 50% through educator-observed practical assessment.
+Only approved educator-led theory interactions with stated objectives, criteria, individual evidence, and a concise record contribute to the theoretical score. Other educator-led questions, explanations, comparisons, games, discussions, scenarios, simulations, and role-plays remain formative. App practical follow-up evaluates understanding of a task; it does not replace direct observation of performance. Learners must pass both components and all required internal contributions; strength in one cannot compensate for failure in another.
 
-The app is an important assessment tool, but it is not the whole assessment system and cannot determine whether a learner can perform a practical skill. Certification requires successful completion of both parts. See `15_certification.md`. The app question-bank structure is maintained in `14_microlearning.md`.
+Content may be facilitated online or in person and remains usable through low-tech, offline-capable print/PDF materials. App access is nevertheless an explicit minimum-technology requirement for its theory-assessment and practical-task-follow-up contributions and for Diploma completion. The app cannot determine whether a learner can perform a practical skill; that is the assessor's role. See `15_certification.md`. The app question-bank structure is maintained in `14_microlearning.md`.
 
 ---
 
@@ -23,13 +23,13 @@ This is the working assessment design brief for an approximately 8-hour beginner
 
 The assessment approach is comparable to a driving test: learners must show that they understand the relevant concepts and that they can apply required skills safely. Neither theoretical knowledge alone nor practical participation alone is sufficient.
 
-The same learning objectives and minimum competency standard apply across cohorts, educators, languages, and delivery modes. The method used to collect evidence may be adapted for accessibility, local context, and connectivity, but the competency being assessed may not be removed or weakened.
+The same learning objectives and minimum competency standard apply across cohorts, educators, languages, and delivery modes. Practical evidence collection may be adapted for accessibility and local context, but the competency being assessed may not be removed or weakened. Low-connectivity teaching does not waive either required app contribution; supported app access and result recording must be arranged. Offline app operation or later synchronization may be used only if tested and approved.
 
 ---
 
 # 2. Assessment Philosophy
 
-Assessment should show whether learners can explain, discuss, apply, and demonstrate beginner concepts and skills safely. It should confirm learning, not attendance, enthusiasm, app completion, or agreement with a slogan.
+Assessment should show whether learners can explain, compare, apply, and demonstrate beginner concepts and skills safely. It should confirm learning, not attendance, enthusiasm, mere app participation or completion without meeting the approved passing standard, or agreement with a slogan.
 
 The Diploma uses competency-based assessment. A learner may need to remember essential facts, but competence requires a further step. Depending on the objective, the learner must be able to explain an idea in their own words, compare alternatives, illustrate a relationship, reason through a scenario, make a safe decision, or perform an action.
 
@@ -78,7 +78,7 @@ A multiple-choice answer may provide evidence of recognition or recall. It canno
 
 ## 4.1 Theoretical Assessment
 
-The My First Bitcoin app should deliver approximately 80% of the theoretical assessment through:
+The approved My First Bitcoin app delivers and evaluates 80% of the theoretical component through:
 
 - short micro-learning units;
 - self-evaluation;
@@ -86,10 +86,13 @@ The My First Bitcoin app should deliver approximately 80% of the theoretical ass
 - retrieval practice and essential-fact recall;
 - objective-aligned quizzes and knowledge checks;
 - scenario questions;
-- feedback, review resources, and retries; and
-- identification of concepts that need educator support.
+- feedback, review resources, and retries;
+- identification of concepts that need educator support; and
+- a recorded app contribution to the theoretical-component result.
 
-Educators should deliver the remaining approximately 20% of the theoretical assessment through short, objective-aligned touchpoints from `10_activities.md`, including:
+The app pathway may contain both formative microlearning interactions and summative theoretical items. Only interactions explicitly tagged and approved as summative contribute to the theoretical result; progress, practice, reflection, and completion alone do not establish a pass. The final blueprint must identify the scored items and objective-level rules.
+
+Educators should gather the remaining 20% of theoretical evidence through approved short, objective-aligned interactions from `10_activities.md`, including:
 
 - learner explanations;
 - guided discussions;
@@ -100,13 +103,13 @@ Educators should deliver the remaining approximately 20% of the theoretical asse
 - simulations; and
 - role-plays.
 
-Rote memory has a limited but useful role for essential terms, safety rules, and foundational facts. App assessment may check recall, understanding, and appropriate scenario responses. Educator touchpoints ensure learners also explain, discuss, compare, illustrate, or reason through selected ideas in person. The working 80/20 division describes who conducts the theoretical half of assessment. The theoretical and practical components each carry 50% of the total assessment.
+Rote memory has a limited but useful role for essential terms, safety rules, and foundational facts. The blueprint must assign 80% of theoretical evidence to valid app items and 20% to approved educator-evaluated interactions, including recall, explanation, comparison, reasoning, and appropriate scenario responses as required by the objective. The theoretical and practical components each represent 50% of the complete assessment.
 
-The app may support some applied questions, but educator judgment is required where the objective calls for a spoken explanation, discussion, nuanced reasoning, or performance that automated scoring cannot evaluate reliably.
+If the approved app cannot evaluate an assigned theoretical objective reliably, the item design or objective allocation must be resolved before release. Educator-evaluated theory evidence must use approved criteria and records; it cannot be based on participation, confidence, or personal agreement. A learner explanation may also be scored within a practical task when it is an observable criterion of that performance.
 
-## 4.2 Educator-Led Practical Competency
+## 4.2 Directly Observed Practical Competency
 
-Practical competency assessment carries 50% of the total assessment and must be evaluated by an educator or approved assessor through direct observation.
+Practical competency assessment represents the remaining 50%. Eighty percent must be evaluated by an educator or approved assessor through direct observation; the other 20% is app follow-up tied to the task.
 
 Suitable methods include:
 
@@ -118,9 +121,9 @@ Suitable methods include:
 - observed troubleshooting or safety responses; and
 - structured learner explanations during performance.
 
-The educator must use an objective-aligned task and common rubric. The assessment should establish whether the learner can complete the required action in the correct sequence, make relevant safety checks, explain important decisions, and recognize when to stop or ask for help.
+The educator or approved assessor must use an objective-aligned task and common rubric. The assessment should establish whether the learner can complete the required action in the correct sequence, make relevant safety checks, explain important decisions, and recognize when to stop or ask for help.
 
-The app may prepare learners, display instructions, provide checklists, and store an educator's result or attestation. It must not be treated as the assessor of practical skill. Learner self-report, tapping a checklist, watching a demonstration, or completing an app simulation is not sufficient evidence that a practical competency has been achieved.
+The app may prepare learners, display instructions, provide checklists, ask task-linked follow-up questions, and store an assessor's result or attestation. It must not be treated as the assessor of practical skill. Learner self-report, tapping a checklist, watching a demonstration, completing an app simulation, or passing task-follow-up questions is not sufficient evidence that a practical competency has been achieved.
 
 Practical assessment should use testnet, prepared wallets, simulations, or appropriately low-stakes transactions when needed to protect learners. No assessment should require learners to expose a seed phrase, private key, wallet credential, or unnecessary personal financial information.
 
@@ -130,10 +133,10 @@ Practical assessment should use testnet, prepared wallets, simulations, or appro
 
 | Block | Primary assessment emphasis | Required evidence pattern |
 |---|---|---|
-| 1. Problem / Broken Money | Theoretical assessment | App quizzes and interactive learning, with educator-led explanation, discussion, game, role-play, or simulation touchpoints. |
-| 2. Solution / Bitcoin | Theoretical assessment | App quizzes and interactive learning, with educator-led explanation, discussion, game, role-play, or scenario-response touchpoints. |
-| 3. Action / Self-custody | Practical competence and safety | Supporting theoretical checks plus direct educator observation of required wallet, transaction, verification, recovery, and safety capabilities. |
-| 4. Custom / Bitcoin as Money | Practical local competency | Direct educator observation of an approved local practical task, simulation, role-play, or problem-solving performance, supported by relevant theoretical knowledge. |
+| 1. Problem / Broken Money | Theoretical assessment | App evaluation supplies 80% of the theoretical evidence; approved educator interaction supplies 20%. |
+| 2. Solution / Bitcoin | Theoretical assessment | App evaluation supplies 80% of the theoretical evidence; approved educator interaction supplies 20%. |
+| 3. Action / Self-custody | Theory and practical competence | App/educator theory evidence where mapped; practical evidence is 80% direct observation plus 20% task-linked app follow-up. |
+| 4. Custom / Bitcoin as Money | Theory where mapped and local practical competency | App/educator theory evidence where mapped; practical evidence is 80% direct observation plus 20% task-linked app follow-up. |
 
 Blocks 1 and 2 are knowledge-dominant, while Blocks 3 and 4 are skills-dominant. This describes where the evidence is taught and collected; certification still uses the 50% theoretical and 50% practical allocation across the complete Diploma.
 
@@ -143,29 +146,29 @@ Blocks 1 and 2 are knowledge-dominant, while Blocks 3 and 4 are skills-dominant.
 
 ## Block 1: Problem / Broken Money
 
-Required evidence should include:
+The Block 1 learning and assessment package should include:
 
-- app knowledge checks on money functions and properties, barter limits, fiat-system basics, inflation, and purchasing power;
-- a learner explanation, comparison, or concept illustration using their own words;
-- an educator-led discussion, simulation, or scenario drawn from the Activity Bank;
-- a local fiat-currency history or characteristics inquiry where appropriate; and
-- evidence that the learner can connect relevant concepts rather than only repeat isolated definitions.
+- required app evidence on money functions and properties, barter limits, fiat-system basics, inflation, purchasing power, and the other approved Block 1 theoretical objectives;
+- app item patterns that test connections, explanation, or comparison rather than only isolated definitions;
+- approved educator-evaluated learner explanations, comparisons, or concept illustrations in their own words for the 20% theory contribution;
+- approved educator-evaluated discussion, simulation, or scenario from the Activity Bank, plus other formative support as needed; and
+- a formative local fiat-currency history or characteristics inquiry where appropriate.
 
 ## Block 2: Solution / Bitcoin
 
-Required evidence should include:
+The Block 2 learning and assessment package should include:
 
-- app knowledge checks on why Bitcoin was created, the double-spend problem, digital scarcity, satoshis, the 21 million limit, and relevant network roles;
-- a learner explanation or illustration of how Bitcoin responds to a relevant monetary or digital-money problem;
-- an educator-led comparison, role-play, discussion, or scenario drawn from the Activity Bank; and
-- evidence that the learner can distinguish users, nodes, miners, and developers and synthesize relevant Bitcoin properties in beginner language.
+- required app evidence on why Bitcoin was created, the double-spend problem, digital scarcity, satoshis, the 21 million limit, relevant network roles, and the other approved Block 2 theoretical objectives;
+- app item patterns that validly test distinctions, explanation, comparison, and synthesis in beginner language;
+- an approved educator-evaluated learner explanation or illustration of how Bitcoin responds to a relevant monetary or digital-money problem; and
+- an approved educator-evaluated comparison, role-play, discussion, or scenario from the Activity Bank, plus other formative support as needed.
 
 ## Block 3: Action / Self-custody
 
-Required evidence should include:
+Required Block 3 evidence should include:
 
-- supporting knowledge checks on wallets, addresses, keys, seed phrases, custody trade-offs, confirmations, public-ledger privacy, on-chain and Lightning distinctions, and beginner risks;
-- direct educator observation of a learner safely setting up or opening and navigating an approved or prepared wallet environment;
+- required app evidence for mapped theoretical objectives on wallets, addresses, keys, seed phrases, custody trade-offs, confirmations, public-ledger privacy, on-chain and Lightning distinctions, and beginner risks;
+- direct observation by an educator or approved assessor of a learner safely setting up or opening and navigating an approved or prepared wallet environment;
 - direct observation of the learner locating and checking receive information and completing or safely simulating a receive or send flow;
 - direct observation of address, invoice, amount, confirmation, or transaction-status verification as relevant to the task;
 - an observed recovery-readiness or seed-phrase protection scenario that never exposes real secrets;
@@ -174,9 +177,10 @@ Required evidence should include:
 
 ## Block 4: Custom / Bitcoin As Money
 
-Required evidence should include:
+Required Block 4 evidence should include:
 
-- direct educator observation of at least one approved local task mapped to objectives `B4.1` and `B4.2`;
+- required app evidence for any shared or selected theoretical objectives mapped to Block 4;
+- direct observation by an educator or approved assessor of at least one approved local task mapped to objectives `B4.1` and `B4.2`;
 - a local payment, receiving, remittance, merchant, donation, resource-discovery, or community-use task, simulation, or role-play as appropriate;
 - learner identification of relevant trade-offs, failure points, safety considerations, and realistic next steps; and
 - a short explanation connecting the practical task to the Diploma's Core objectives.
@@ -191,12 +195,12 @@ Each assessed competency should follow this sequence:
 
 1. **Teach:** Introduce the relevant concept or skill.
 2. **Practice:** Give the learner supported practice and feedback before evaluation.
-3. **Check knowledge:** Use the app and appropriate educator-led activities to check recall, understanding, explanation, and synthesis.
-4. **Observe application:** Use discussion, simulation, role-play, or practical performance to collect evidence that matches the objective.
-5. **Evaluate:** Apply the common rubric and record **Meets standard** or **Not yet**.
+3. **Check theory:** The app collects its 80% theoretical evidence, and the educator collects the approved 20% theoretical interaction evidence.
+4. **Observe practical application:** An educator or approved assessor uses an approved simulation, role-play, or practical performance to collect the 80% directly observed practical evidence; the learner then completes the task-linked app follow-up for the remaining 20%.
+5. **Evaluate:** The app applies approved theoretical and practical-follow-up scoring rules; the educator applies approved theory-interaction criteria and the assessor applies the common practical rubric. Each required contribution records **Meets standard** or **Not yet**.
 6. **Remediate:** Direct the learner to relevant micro-learning, practice, or educator support.
 7. **Reassess:** Give a fair opportunity to demonstrate the same competency again.
-8. **Record:** Store the app result and educator assessment result in the approved completion record.
+8. **Record:** Store the app theory result, educator theory result, assessor practical result, and app practical-follow-up result in the approved completion record.
 
 Assessment must not surprise learners. The learning objective, expected task, safety boundaries, and success criteria should be clear before evaluation.
 
@@ -218,20 +222,20 @@ Use a prompt only after learners have had an opportunity to learn and practise t
 | 4 | How would you verify an address before sending? | `B3.6`: Whether the learner can identify the correct network and compare the destination on a trusted receiving screen before approval. |
 | 5 | Why does a node verify transactions? | `B2.2` and `B2.3`: Whether the learner can explain that independent verification enforces Bitcoin's rules, including valid signatures, no double spending, and the supply schedule. |
 
-For the two practical prompts, a spoken answer can prepare a learner but cannot replace direct educator observation of the required performance. Prompts that only ask learners to recall an event year or date should not be used as evidence of competence unless that date is necessary to explain the relevant concept or context.
+For the two practical prompts, a spoken answer can prepare a learner but cannot replace direct observation by an educator or approved assessor of the required performance. Prompts that only ask learners to recall an event year or date should not be used as evidence of competence unless that date is necessary to explain the relevant concept or context.
 
 ---
 
-# 9. Educator Assessment Standard
+# 9. Practical-Assessor Standard
 
-Educators are assessors as well as facilitators. They need explicit guidance, practice, and tools to evaluate consistently.
+Educators are theory facilitators and may also be approved practical assessors. Anyone assessing practical competency needs explicit guidance, practice, and tools to evaluate consistently.
 
 The Educator Guide should provide:
 
-- an objective-to-assessment blueprint;
-- required and optional assessment tasks;
+- an objective-to-practical-assessment blueprint;
+- required and optional practical assessment tasks;
 - practical test procedures;
-- discussion, simulation, and role-play guidance;
+- simulation, role-play, and practical-performance guidance;
 - observable performance criteria;
 - common rubrics and sample evidence;
 - clear definitions of **Meets standard** and **Not yet**;
@@ -242,7 +246,7 @@ The Educator Guide should provide:
 - assessor calibration examples; and
 - moderation or audit procedures where needed to protect consistency.
 
-Educator judgment must be evidence-based. A learner should not pass because the educator assumes they understand, participated enthusiastically, attended every session, or completed the app. The educator should be able to identify the observed evidence that satisfies each required objective.
+Practical-assessor judgment must be evidence-based. A learner should not pass the practical component because the assessor assumes they understand, participated enthusiastically, attended every session, or passed the app. The assessor should be able to identify the observed evidence that satisfies each required practical objective. Educators evaluate only the approved 20% theory interactions using their stated criteria; app scoring rules determine the app portions of the result.
 
 ---
 
@@ -252,24 +256,25 @@ A learner is **assessment-complete** only when both component statuses are compl
 
 ## A. Theoretical assessment complete
 
-- required app micro-learning, interactive learning, and knowledge checks are complete at the approved standard; and
-- required educator-led theoretical touchpoints—such as activities, games, discussions, explanations, scenarios, or role-plays—meet the rubric.
+- the required app pathway is complete and its approved summative theoretical requirements meet the passing standard; and
+- the approved educator-evaluated theory interactions meet their criteria and are recorded.
 
-This component contributes 50% of the total assessment. Approximately 80% of this component is app-based and 20% is educator-led.
+The app contributes 80% and educator-evaluated interactions contribute 20% of this 50% component. Informal educator theory learning and feedback remain formative only.
 
 ## B. Practical-competence complete
 
 - the required Block 3 practical and safety competencies have been directly observed and passed by an educator or approved assessor;
-- the required selected Block 4 practical or applied competency has been directly observed and passed; and
-- the educator assessment result and evidence reference have been recorded through the approved process.
+- the required selected Block 4 practical or applied competency has been directly observed and passed;
+- the learner has met the approved app follow-up standard for the practical tasks; and
+- the assessor's practical result, app follow-up result, and evidence reference have been recorded through the approved process.
 
-This component contributes 50% of the total assessment and is educator-observed.
+Direct observation contributes 80% and task-linked app follow-up contributes 20% of this 50% component.
 
-The app may display the combined status and store educator attestations. That administrative role does not mean the app assessed the learner's practical ability.
+The app may display the combined status and store assessor attestations. That administrative role and task-linked follow-up do not mean the app assessed the learner's practical ability.
 
-App completion without the required educator-led theoretical touchpoints and practical assessment is not assessment-complete. Educator approval without the required theoretical assessment is also not assessment-complete.
+Passing only one required contribution or component is not assessment-complete.
 
-Every required objective must meet its own standard. A strong result in one objective or component cannot compensate for an unmet practical or safety-critical competency.
+The intended completion rule is that every required objective meets its approved standard; a strong result in one objective or component cannot compensate for an unmet practical or safety-critical competency. The final objective-level thresholds and aggregation rules remain a release dependency in Section 13, so certification cannot operate until they are approved.
 
 ---
 
@@ -277,13 +282,13 @@ Every required objective must meet its own standard. A strong result in one obje
 
 | Competency | Objective-aligned evidence | Primary evaluator |
 |---|---|---|
-| Monetary foundations | Knowledge check plus explanation, comparison, local inquiry, discussion, or simulation. | App and educator |
-| Beginner economic reasoning | Scenario response using relevant concepts, evidence, relationships, and trade-offs. | Educator, with app support where appropriate |
-| Bitcoin fundamentals | Knowledge check plus learner explanation, concept illustration, comparison, or role-play. | App and educator |
-| Practical Bitcoin capability | Directly observed wallet, receiving or sending, verification, recovery-readiness, and safety performance using an approved task. | Educator or approved assessor |
-| Guided critical discussion | Spoken or written response using clear reasoning, evidence, and trade-off language. | Educator |
-| Social learning | Observable listening, explanation, question, and collaborative role-play behaviors where included in an objective. | Educator |
-| Local relevance | Directly observed Custom task, simulation, role-play, or problem-solving performance with a local explanation. | Educator or approved assessor |
+| Monetary foundations | App items plus approved educator-evaluated explanation, comparison, or scenario evidence in the 80/20 theoretical allocation. | App and educator |
+| Beginner economic reasoning | App scenario response plus approved educator-evaluated discussion, explanation, or trade-off response in the 80/20 theoretical allocation. | App and educator |
+| Bitcoin fundamentals | App items plus approved educator-evaluated concept relationship, comparison, or scenario evidence in the 80/20 theoretical allocation. | App and educator |
+| Practical Bitcoin capability | Directly observed wallet, receiving or sending, verification, recovery-readiness, and safety performance using an approved task, plus task-linked app follow-up. | Educator or approved assessor; app follow-up |
+| Guided critical discussion | Formative spoken or written response using clear reasoning, evidence, and trade-off language. If retained as a certification objective, it requires placement in a valid app item, an approved educator-theory interaction within the assigned 20%, or an approved practical-performance rubric. | Educator for formative support; future summative placement requires approval |
+| Social learning and course-ending reflection (`ALL.1`, `ALL.2`) | Formative listening, explanation, questioning, collaborative role-play, and reflection. These do not currently create certification gates. Any future summative use requires explicit placement in the app blueprint, an approved educator-theory interaction, or an approved practical rubric. | Educator for formative support; future summative placement requires approval |
+| Local relevance | Directly observed Custom task, simulation, role-play, or problem-solving performance, including any explanation embedded in the practical rubric. | Educator or approved assessor |
 
 ---
 
@@ -291,9 +296,9 @@ Every required objective must meet its own standard. A strong result in one obje
 
 All certificated delivery modes require both parts of the assessment.
 
-- In-person and cohort delivery should integrate educator-led assessment into the block activities.
-- Self-paced or app-first learners may complete knowledge preparation independently, but must complete an approved live or remote educator assessment before certification.
-- Low-connectivity delivery may use offline quizzes and paper evidence, but results must be recorded through the approved completion process.
+- Online, in-person, and cohort delivery should integrate approved educator-evaluated theory interactions, formative educator support, direct practical observation, and task-linked app follow-up into block activities where appropriate.
+- Self-paced or app-first learners may complete app work independently, but must complete approved educator theory interactions and live or remote practical assessment before certification.
+- Low-connectivity delivery may use offline-capable print/PDF content and paper quizzes for formative learning, but certification requires eventual app-based theory assessment, practical-task follow-up, and synchronization of both app results.
 - Remote practical assessment may be used only when the assessor can directly observe the required performance and protect learner privacy and safety.
 - Accessibility accommodations may change how a learner communicates or performs, but must preserve the objective and required level of competence.
 
@@ -301,14 +306,17 @@ All certificated delivery modes require both parts of the assessment.
 
 # 13. Implementation Questions To Resolve
 
-- Final assessment blueprint mapping every Core and selected Custom objective to evidence
-- Final app passing thresholds and retake rules
-- Implementation of the 50/50 theoretical-practical allocation and the 80/20 app-educator division within theoretical assessment
+- Final assessment blueprint mapping theoretical objectives to app and educator evidence, and practical objectives to observed tasks and app follow-up
+- How any reported numerical score will represent the fixed 50/50 allocation and the four 40/10/40/10 contributions without allowing an average to compensate for an unmet required contribution
+- App item formats capable of validly assessing verbs such as **explain**, **compare**, **apply**, and **reason**, plus any future summative treatment of `ALL.1`, `ALL.2`, discussion, and social-learning outcomes
+- App passing thresholds, objective-level pass rules, retries, randomization, feedback timing, versioning, assessment integrity, and identity assurance
 - Required practical tasks and rubrics for Blocks 3 and 4
-- Educator authorization, training, calibration, and moderation
-- Acceptable evidence and support levels for each competency
-- Accessibility, translation, remote-observation, and low-connectivity requirements
-- Privacy, data retention, consent, and account-recovery rules
-- How app results and educator attestations form one completion record
-- Appeals, remediation, reassessment, and suspected-misconduct procedures
+- Educator and assessor authorization, training, calibration, moderation, and online-observation rules
+- Minimum app access: supported devices and operating systems, learner versus shared or loan-device accounts, assisted use, connectivity, offline behavior, synchronization, interruptions, outages, and account recovery
+- Accessibility and language parity across the app assessment, instructional materials, and practical assessment
+- Privacy, consent, data retention, minors' access, audit trails, and result correction
+- How app theory, educator theory, assessor practical, and app practical-follow-up results form one completion record, including permissions, mismatches, manual reconciliation, and certificate unlock
+- Whether required app learning, evaluation, setup, synchronization, feedback, and retries count inside the advertised approximately eight-hour pathway
+- Whether Block 4 theory uses common app items or approved local app packs, and how local packs are translated and moderated
+- Appeals, remediation, reassessment, suspected-misconduct, outage, and emergency-contingency procedures
 - Certificate issuance, identity verification, revocation, and public verification rules

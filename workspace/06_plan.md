@@ -12,7 +12,7 @@ It defines:
 - how in-class time should be used;
 - which documents own detailed implementation work.
 
-Detailed activities belong in `10_activities.md`. Detailed facilitation guidance belongs in `12_educator.md`. Detailed objectives belong in `05_objectives.md`. App question-bank structure belongs in `14_microlearning.md`. Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use belong in `18_advanced.md`.
+Detailed activities belong in `10_activities.md`. Detailed facilitation guidance belongs in `12_educator-draft.md`; `12_educator-plan.md` is the supporting structure plan. Detailed objectives belong in `05_objectives.md`. App question-bank structure belongs in `14_microlearning.md`. Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use belong in `18_advanced.md`.
 
 `06_plan.md` is the active plan source of truth. The older duplicated plan file has been archived at `../y_archive/y_13_plan_superseded.md`.
 
@@ -24,8 +24,8 @@ The redesigned Diploma should be shorter, clearer, more practical, and easier to
 
 Current design commitments:
 
-- in-person first;
-- offline-capable print or PDF first;
+- educator-facilitated delivery online or in person;
+- low-tech, offline-capable print/PDF instructional content, with supported app access required for theory assessment, practical-task follow-up, and completion;
 - an approximately 8-hour minimum planning baseline, with additional time when needed to meet the objectives;
 - 4 blocks that may be delivered in four two-hour sessions, eight one-hour sessions, or another schedule that preserves the learning sequence and required evidence;
 - Core, Custom, and Advanced content separation;
@@ -35,13 +35,13 @@ Current design commitments:
 - a separate Activity Bank;
 - an Educator Guide designed for facilitation, pacing, adaptation, and safety;
 - a combined theoretical and practical assessment model tied directly to the learning objectives;
-- a 50% theoretical and 50% educator-observed practical assessment allocation;
-- an approximately 80% app and 20% educator division within the theoretical half;
-- app-supported theoretical quizzes and interactive learning for every learner;
-- educator-led theoretical touchpoints and practical assessment, with direct observation in Blocks 3 and 4;
+- a 50% theoretical and 50% practical assessment allocation, each with an 80/20 evidence split;
+- mandatory app-based microlearning and evaluation supplying 80% of theoretical evidence and 20% of practical-task follow-up for every learner;
+- educator-evaluated theory evidence supplying the remaining 20% through approved objective-aligned interactions; other educator-led theory work remains formative;
+- practical assessment 80% directly evaluated by an educator or approved assessor, with observation concentrated in Blocks 3 and 4, and 20% evaluated through app follow-up linked to those practical tasks;
 - Advanced technical material outside the beginner pathway;
 - sparse QR code use in printed learner materials;
-- future delivery branches documented without changing Core outcomes: online PDF, online cohort, self-paced, web, app, and cross-modal continuation.
+- future instructional branches documented without changing Core outcomes: online PDF, online cohort, self-paced, web, an optional full-course app-delivery branch, and cross-modal continuation. The required assessment app is part of the current Diploma rather than a future branch.
 
 The public explanation is simple:
 
@@ -204,13 +204,13 @@ Split decisions:
 
 ## Bitcoin For Organizations Cannibalization
 
-`workspace/mergefromorganizations.md` reviews the retiring `../ref/bitcoin-for-organizations/en` pathway for beginner Diploma use. `workspace/advancedorganizations.md` and `18_advanced.md` preserve the larger Advanced source trail.
+`advanced/mergefromorganizations.md` reviews the retiring `../ref/bitcoin-for-organizations/en` pathway for beginner Diploma use. `advanced/advancedorganizations.md` and `18_advanced.md` preserve the larger Advanced source trail.
 
 Beginner merge decision:
 
 - Do not import Organizations chapters into the Student Book.
 - Use Organizations material only where it improves existing beginner outcomes.
-- Keep the Student Book lean; put misconception handling mostly in `12_educator.md` and scenario practice mostly in `10_activities.md` or Block 4 Custom templates.
+- Keep the Student Book lean; put misconception handling mostly in `12_educator-draft.md` and scenario practice mostly in `10_activities.md` or Block 4 Custom templates.
 
 Organizations content may support:
 
@@ -254,7 +254,7 @@ Draft source material in English first. Before translation or publication, revie
 
 Delivery-branch rule:
 
-Offline/in-person PDF is the first implementation mode. Online PDF, online cohort, self-paced, web, app, and cross-modal versions should branch from the same Core outcomes rather than become separate curricula.
+Low-tech, offline-capable print/PDF is the first content-publication mode and may support in-person or online facilitation. Online PDF, online cohort, self-paced, web, an optional full-course app-delivery branch, and cross-modal versions should branch from the same Core outcomes rather than become separate curricula. In every certificated mode, the My First Bitcoin app remains mandatory for its theory-assessment and practical-task-follow-up contributions.
 
 ---
 
@@ -323,7 +323,7 @@ Advanced content should not overload the beginner pathway. It may later become o
 
 Class time should be used for learning that benefits from live facilitation.
 
-Begin time planning with the objectives, required practice, and assessment evidence. Do not shorten or waive these merely to fit a one- or two-hour session; schedule a follow-up when necessary. Educators may assign the relevant Student Book chapter as optional preparation before class, but must not make pre-reading, a device, or connectivity a condition for Core learning.
+Begin time planning with the objectives, required practice, and assessment evidence. Do not shorten or waive these merely to fit a one- or two-hour session; schedule a follow-up when necessary. Educators may assign the relevant Student Book chapter as optional preparation before class, but must not make pre-reading, a learner-owned device, or continuous connectivity a condition for Core instruction. They must arrange supported access to the required app and any necessary connectivity for theory assessment and practical-task follow-up.
 
 Prioritize:
 
@@ -380,7 +380,7 @@ Each block should follow a simple rhythm:
 
 Activities leave the main student-facing text and move to `10_activities.md`.
 
-Educator preparation, timing, adaptation, misconception support, and debrief guidance move to `12_educator.md`.
+Educator preparation, timing, adaptation, misconception support, and debrief guidance move to `12_educator-draft.md`.
 
 ---
 
@@ -388,16 +388,16 @@ Educator preparation, timing, adaptation, misconception support, and debrief gui
 
 | Material | Owner document |
 |---|---|
-| Student-facing draft scaffold | `08_student.md` |
+| Student Guide publication draft | `08_student.md` |
 | Learning objectives and competencies | `05_objectives.md` |
 | Activity categories and activity template | `10_activities.md` |
-| Educator facilitation and Custom selection guidance | `12_educator.md` |
+| Educator facilitation and Custom selection guidance | `12_educator-draft.md` |
 | Combined assessment, objective-aligned evidence, and passing requirements | `13_assessment.md` |
 | App microlearning question-bank structure | `14_microlearning.md` |
 | Two-part assessment prerequisite for certification and governance questions | `15_certification.md` |
 | Publication rules | `17_spec.md` |
-| Beginner-safe Organizations merge checklist | `mergefromorganizations.md` |
-| Organizations-to-Advanced source map | `advancedorganizations.md` and `18_advanced.md` |
+| Beginner-safe Organizations merge checklist | `advanced/mergefromorganizations.md` |
+| Organizations-to-Advanced source map | `advanced/advancedorganizations.md` and `18_advanced.md` |
 | Advanced module ideas and redacted content collection | `18_advanced.md` |
 | Public keynote and stakeholder brief | `../public/MFB-BD-Keynote.md` |
 
@@ -414,7 +414,7 @@ The October 2026 redesign should produce:
 - Educator Guide;
 - Activity Bank;
 - Custom module templates;
-- combined app-supported and educator-led assessment and certification-prerequisite framework;
+- combined mandatory app-theory, educator-theory, assessor-observed-practical, and app-practical-follow-up certification-prerequisite framework;
 - publication-ready source files;
 - public communication materials.
 
@@ -440,12 +440,12 @@ The redesign still needs decisions on:
 - which safety practices are required Core versus optional Custom;
 - which named tools or services may appear in published materials, and where;
 - final QR code destination list for print materials;
-- delivery-mode branch requirements for online PDF, online cohort, self-paced, web, app, and cross-modal continuation;
+- delivery-mode branch requirements for online PDF, online cohort, self-paced, web, an optional full-course app-delivery branch, and cross-modal continuation, all retaining mandatory app theory assessment and practical-task follow-up;
 - multilingual glossary readiness;
 - ownership and approval criteria for English-source simplicity and translation-readiness review;
 - ownership and approval criteria for post-translation language review;
-- app theoretical-quiz thresholds and the 50/50 theoretical-practical and 80/20 theoretical app-educator weighting;
-- educator practical tasks, rubrics, training, calibration, moderation, and reassessment rules;
+- app theory and practical-follow-up blueprint, thresholds, retries, and access requirements, plus implementation of the non-compensatory 50/50 allocation with internal 80/20 splits;
+- educator theory-interaction and practical tasks, rubrics, training, calibration, moderation, and reassessment rules;
 - certificate governance and future verification options, including possible on-chain timestamping;
 - low-connectivity delivery assumptions;
 - pilot and educator review process;

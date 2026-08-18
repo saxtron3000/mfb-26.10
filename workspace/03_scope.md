@@ -51,23 +51,23 @@ The following assumptions affect project execution:
 
 - Target duration: an approximately 8-hour minimum planning baseline, with additional time where needed to meet the objectives.
 - Working architecture: 4 blocks—Problem / Broken Money, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money—delivered in an objective-preserving schedule rather than fixed two-hour classes.
-- In-person first.
-- Offline-capable print or PDF first.
+- Educator-facilitated delivery online or in person.
+- Low-tech, offline-capable print/PDF instructional materials, with supported app access required for theory assessment, practical-task follow-up, and completion.
 - Single Diploma with Custom and Advanced pathways.
 - Core / Custom / Advanced categorization.
 - Shared Core theory and outcomes with localized, educator-led practice.
 - English-first drafting with multilingual and translation-ready source files.
 - English-source simplicity, tone, style, and translation-readiness review before translation or publication.
 - Sparse QR code use in print materials.
-- Future delivery branches should be documented without becoming current implementation requirements: online PDF, online cohort, self-paced, web, app, and cross-modal continuation.
+- Future instructional branches should be documented without becoming current implementation requirements: online PDF, online cohort, self-paced, web, an optional full-course app-delivery branch, and cross-modal continuation. The mandatory assessment app is a current dependency.
 - `06_plan.md` is the active plan source of truth.
-- Combined assessment—a 50% theoretical component and 50% educator-observed practical component—is in scope; the theoretical half is approximately 80% app-based and 20% educator-led.
+- Combined assessment is in scope: theoretical assessment is 50% of the Diploma and is split 80% app evaluation / 20% educator-evaluated objective-aligned interactions; practical assessment is the remaining 50% and is split 80% direct observation by an educator or approved assessor / 20% app follow-up linked to the practical task.
 - Both assessment components are prerequisites for certification.
 - Detailed certification governance and credential infrastructure remain to be defined.
 - Localization preparation is in scope.
 - Localization implementation is out of scope.
 - Publishing is part of project completion.
-- Bitcoin for Organizations is being cannibalized, not preserved as a standalone beginner pathway. Use `mergefromorganizations.md` for beginner-safe additions and `advancedorganizations.md` / `18_advanced.md` for Advanced source trails.
+- Bitcoin for Organizations is being cannibalized, not preserved as a standalone beginner pathway. Use `advanced/mergefromorganizations.md` for beginner-safe additions and `advanced/advancedorganizations.md` / `18_advanced.md` for Advanced source trails.
 
 ---
 
@@ -225,7 +225,7 @@ Separate advanced learning from beginner learning.
 
 - Advanced module title inventory guided by `18_advanced.md`
 - Advanced pathway recommendations guided by the candidate module titles in `18_advanced.md`
-- Organizations-to-Advanced source trail using `advancedorganizations.md` and the Organizations material already parked in `18_advanced.md`
+- Organizations-to-Advanced source trail using `advanced/advancedorganizations.md` and the Organizations material already parked in `18_advanced.md`
 - Technical content recommendations
 
 ---
@@ -234,27 +234,27 @@ Separate advanced learning from beginner learning.
 
 ### Purpose
 
-Create an objective-aligned system with a 50% theoretical component and 50% educator-observed practical competency component. The theoretical half is approximately 80% app-based and 20% educator-led. Prevent certificate issuance until both parts are passed.
+Create an objective-aligned system with two required, non-compensatory components: a theoretical component worth 50%, divided 80% app evaluation and 20% educator-evaluated theory evidence; and a practical competency component worth 50%, divided 80% direct observation by an educator or approved assessor and 20% app follow-up on the practical task. Prevent certificate issuance until both components and their required contributions are passed.
 
 ### Deliverables
 
 - Assessment philosophy
 - Objective-to-assessment blueprint
-- App theoretical-assessment design brief: micro-learning, quizzes, interactive learning, feedback, and retries
-- Educator-led theoretical touchpoints and practical assessment tasks
-- 50/50 theoretical-practical weighting and 80/20 app-educator theoretical weighting
+- Mandatory app assessment specification: micro-learning, theoretical evaluation, practical-task follow-up, feedback, passing rules, and retries
+- Educator-evaluated theoretical interactions and summative practical assessment tasks
+- 50/50 theoretical-practical assessment allocation: theory is app/educator 80/20 and practice is assessor/app-follow-up 80/20
 - Competency evidence framework
 - Assessment mapping
 - Evidence models
 - Common practical rubrics, observable criteria, and safety-critical rules
-- Educator assessor guidance, training, calibration, and moderation requirements
+- Practical-assessor guidance, authorization, training, calibration, and moderation requirements
 - Remediation, feedback, and reassessment process
 - Combined assessment-complete status for certification eligibility
-- Low-connectivity evidence, educator-result recording, and synchronization requirements
+- Low-connectivity app access, interruption recovery, synchronization, and practical-result recording requirements
 
 ### Note
 
-The project establishes that both assessment components are mandatory for certification. The app may store the combined result, but it cannot evaluate practical performance. Certificate governance, identity verification, credential infrastructure, and on-chain verification decisions remain implementation questions.
+The project establishes that both assessment components are mandatory for certification. The app produces 80% of the theoretical result and a 20% practical-task follow-up result; educators produce the remaining 20% theoretical evidence, while educators or approved assessors produce 80% of practical evidence through direct observation. App follow-up cannot evaluate or replace practical performance. Certificate governance, app access and continuity, identity verification, credential infrastructure, and on-chain verification decisions remain implementation questions.
 
 ---
 
@@ -281,7 +281,7 @@ Clarify implementation expectations.
 
 ### Deliverables
 
-- Offline/in-person PDF delivery specification
+- Low-tech, offline-capable print/PDF instructional-delivery specification
 - In-person delivery specification
 - Print/PDF usability guidance
 - Online adaptation guidance
@@ -289,8 +289,8 @@ Clarify implementation expectations.
 - Online cohort branch guidance
 - Self-paced adaptation guidance
 - Website branch guidance
-- App knowledge-assessment and progress-tracking requirements, including low-connectivity synchronization
-- Recording and synchronization requirements for educator-led theoretical-touchpoint and practical results
+- Mandatory app theory assessment, practical-task follow-up, progress-tracking, minimum-access, and low-connectivity synchronization requirements
+- Recording and synchronization requirements for educator theory, educator- or approved-assessor practical observation, and both app results
 - Cross-modal continuation notes
 - Delivery-mode branch map showing what stays fixed and what can adapt
 - Delivery assumptions documentation
@@ -416,8 +416,8 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 
 ## Milestone 6 — Combined Assessment Standard
 
-- App-supported theoretical-assessment framework completed
-- Educator-led theoretical-touchpoint and practical assessment framework completed
+- Mandatory app-based theory-assessment and practical-task-follow-up framework completed
+- Educator-evaluated theory and educator- or approved-assessor practical-assessment framework completed
 - Objective-level evidence, assessor rubrics, and mandatory two-part certification prerequisite completed
 
 ## Milestone 7 — Publishing
@@ -446,7 +446,7 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 The redesign is complete when:
 
 - Diploma has an approximately 8-hour planning baseline and is scheduled with additional time whenever required to meet the objectives and assessment standard.
-- Diploma can be delivered from an offline-capable print or PDF package.
+- Diploma teaching content can be delivered from an offline-capable print or PDF package; completion additionally requires access to the app-based theory assessment and practical-task follow-up.
 - Learning outcomes are clearly defined.
 - Competencies are mapped to blocks, activities, and evidence.
 - Practical learning is significantly increased.
@@ -490,7 +490,7 @@ The following items are intentionally excluded from the current redesign project
 - Maintenance of multiple localized curriculum variants
 - Online cohort platform implementation
 - Self-paced learning platform implementation
-- App implementation
+- Building or replacing the underlying app platform; assessment configuration, curriculum integration, localization, access planning, acceptance testing, and release readiness for the mandatory app component remain in scope as publication dependencies
 - Cross-modal learner-continuation infrastructure
 
 These may become future projects.

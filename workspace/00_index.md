@@ -12,7 +12,7 @@ Use these documents to understand:
 - how the new 4-block Diploma is structured;
 - how objectives, activities, assessment, educator support, and publication fit together.
 
-`y_archive/` is historical and must not be used as a source of truth for the current redesign.
+Reference and feedback material outside this folder is input, not an active source of truth, unless this index explicitly assigns it a role.
 
 ---
 
@@ -27,13 +27,14 @@ Use these documents to understand:
 | 5 | `05_objectives.md` | Review learner outcomes, objective levels, and competency boundaries. |
 | 6 | `06_plan.md` | Read the current source of truth for the redesign structure and content boundaries. |
 | 7 | `07_contents.md` | Review the planned content table of contents. |
-| 8 | `08_student.md` | Review the draft student-book scaffold. |
+| 8 | `08_student.md` | Review the current Student Guide publication draft. |
 | 9 | `09_assets.md` | Review visual and asset needs. |
 | 10 | `10_activities.md` | See the Activity Bank structure and activity categories. |
 | 11 | `11_resources.md` | Review external sources and their current student-book locations. |
-| 12 | `12_educator.md` | See the Educator Guide outline and facilitation responsibilities. |
+| 12 | `12_educator-draft.md` | Review the current educator-facing publication draft. |
+| 12a | `12_educator-plan.md` | Review the supporting Educator Guide outline and planning structure. |
 | 13 | `13_assessment.md` | Review the combined theoretical and practical competency assessment framework. |
-| 14 | `14_microlearning.md` | Review the app microlearning question-bank structure across the four blocks. |
+| 14 | `14_microlearning.md` | Review the required app theory-assessment and practical-task-follow-up bank structure across the four blocks. |
 | 15 | `15_certification.md` | Review the two-part assessment prerequisite for certification and implementation questions. |
 | 16 | `16_lexicon.md` | Review terminology and language consistency. |
 | 17 | `17_spec.md` | Review publication rules and final consistency checks. |
@@ -56,14 +57,15 @@ Use these documents to understand:
 | External sources and student-book claim references | `11_resources.md` |
 | Visual and asset needs | `09_assets.md` |
 | Activity Bank structure | `10_activities.md` |
-| Educator Guide structure | `12_educator.md` |
+| Educator Guide publication draft | `12_educator-draft.md` |
+| Educator Guide planning structure | `12_educator-plan.md` |
 | Objective-aligned combined assessment and evidence | `13_assessment.md` |
-| App microlearning question-bank structure | `14_microlearning.md` |
+| Required app theory-assessment and practical-task-follow-up bank structure | `14_microlearning.md` |
 | Two-part assessment prerequisite for certification | `15_certification.md` |
 | Beginner terminology and definitions | `16_lexicon.md` |
 | Publication specification | `17_spec.md` |
-| Beginner-safe Organizations merge decisions | `mergefromorganizations.md` |
-| Organizations-to-Advanced source map | `advancedorganizations.md` |
+| Beginner-safe Organizations merge decisions | `advanced/mergefromorganizations.md` |
+| Organizations-to-Advanced source map | `advanced/advancedorganizations.md` |
 | Public keynote and stakeholder brief | `../public/MFB-BD-Keynote.md` |
 
 ---
@@ -79,8 +81,8 @@ The redesign currently uses this 4-block structure:
 
 Working assumptions:
 
-- in-person first;
-- offline-capable print or PDF first;
+- educator-facilitated delivery online or in person (preferred);
+- low-tech, offline-capable print/PDF teaching content, while supported app access remains required for theory assessment, practical-task follow-up, and completion;
 - an approximately 8-hour minimum planning baseline, with additional time where required to meet the objectives;
 - four blocks that may be delivered across four two-hour sessions, eight one-hour sessions, or another objective-preserving schedule;
 - one beginner Diploma with Custom and Advanced pathways;
@@ -93,13 +95,14 @@ Working assumptions:
 - Activity Bank as a separate ecosystem component;
 - Educator Guide as a facilitation tool;
 - sparse QR code use in print materials;
-- future delivery branches documented without changing Core outcomes: online PDF, online cohort, self-paced, web, app, and cross-modal continuation;
-- combined assessment: 50% theoretical and 50% practical; the theoretical half is led approximately 80% through the app and 20% through educator touchpoints, while practical competency is educator-observed;
-- Blocks 1 and 2 are knowledge-dominant; Blocks 3 and 4 are skills-dominant and require direct educator observation;
-- certification requires both assessment components; the app may record the combined status but cannot assess practical performance;
+- future instructional branches documented without changing Core outcomes: online PDF, online cohort, self-paced, web, an optional full-course app-delivery branch, and cross-modal continuation; both mandatory app contributions remain common to all branches;
+- two required, non-compensatory assessment components, each worth 50%: theoretical assessment is 80% app-evaluated and 20% educator-evaluated; practical assessment is 80% directly observed by an educator or approved assessor and 20% app-evaluated through task-linked follow-up;
+- educator-led theoretical evidence must come from approved objective-aligned activities, workshops, discussions, or learner explanations with concise evidence criteria and records; other educator-led theory work remains formative;
+- Blocks 1 and 2 are knowledge-dominant; Blocks 3 and 4 are skills-dominant and require direct observation by an educator or approved assessor, followed where mapped by app questions about the learner's task, checks, decisions, and reflection;
+- certification requires both theoretical and practical component statuses to pass their approved app and educator/assessor contributions; neither component can compensate for the other, and app follow-up cannot substitute for direct observation of practical performance;
 - Advanced module design deferred until after the beginner Diploma is published;
 - Bitcoin for Organizations will not remain a standalone beginner path; beginner-safe material is merged only where it clarifies Core, Custom, educator, activity, or assessment work, while strategic and organizational depth is routed to Advanced;
-- `06_plan.md` is the active plan source of truth; the duplicated older plan file has been archived at `../y_archive/y_13_plan_superseded.md`.
+- `06_plan.md` is the active plan source of truth.
 
 ---
 
@@ -115,14 +118,14 @@ Public materials should be clear, short, and non-technical. They should explain 
 
 # Consistency Rules
 
-- Do not use `y_archive/` as current evidence or source material.
+- Do not treat reference, feedback, or superseded material as current authority unless this index explicitly assigns it a role.
 - Use "block" for the required Diploma structure.
 - Use "Custom modules" or "Custom units" only for educator-selected Block 4 content.
 - Do not rename Block 4 globally as "Spending"; spending is one possible Custom / Bitcoin as Money practice.
 - Keep the full Advanced module title list only in `18_advanced.md`.
-- Use `mergefromorganizations.md` as the checklist for beginner-safe Organizations material; do not import Organizations chapters directly into the Student Book.
+- Use `advanced/mergefromorganizations.md` as the checklist for beginner-safe Organizations material; do not import Organizations chapters directly into the Student Guide.
 - Keep detailed activity instructions in `10_activities.md`, not in the Student Book or plan.
-- Keep detailed facilitation guidance in `12_educator.md`, not in the Student Book or plan.
+- Keep detailed facilitation guidance in `12_educator-draft.md`, not in the Student Guide or curriculum plan. Use `12_educator-plan.md` only to plan and check the guide's structure.
 - Draft in English first, then review simplicity, tone, style, terminology, and translation readiness before translation or publication.
 - Keep print QR codes sparse and tied to stable, high-value destinations.
 - Fact-check or date current-data examples before publication.
