@@ -110,7 +110,7 @@ When you open a module companion, follow the same order every time:
 4. **Suggested flow:** use the timing as a starting point, not a test of your teaching.
 5. **Questions and activities:** choose one or two and give learners time to think.
 6. **Trouble spots:** listen for these misunderstandings and use the suggested correction.
-7. **Evidence and safety:** observe only what you are prepared and authorized to assess.
+7. **Evidence and safety:** observe only what you are prepared to review against the agreed criteria.
 8. **Review and bridge:** close the module and explain why the next module follows.
 
 The headings are deliberately repetitive. That repetition is a navigation aid for a new teacher, not content that must be memorized.
@@ -184,8 +184,7 @@ You are not responsible for making learners agree with you. A learner can meet t
 ### Course roles
 
 - A **learner** studies, discusses, practises, and provides evidence of understanding.
-- An **educator** facilitates, protects the learning environment, adds checked local context, conducts approved theoretical touchpoints, and provides practical-learning feedback. When authorized, the educator also directly evaluates practical competency.
-- An **approved assessor** directly evaluates the practical component when local delivery separates teaching and assessment. A teacher who is not authorized to assess still prepares learners and records formative observations according to local procedures.
+- An **educator** facilitates, protects the learning environment, adds checked local context, conducts approved theoretical touchpoints, provides practical-learning feedback, and may directly review practical competency against the agreed criteria. Where local delivery separates teaching and evidence review, another educator may review the practical component. An educator who does not conduct that review still prepares learners and records formative observations according to local procedures.
 - A **cohort** is the group learning together. Smaller teams may complete activities, but individual certification evidence must remain identifiable where required.
 - The **Diploma** is the complete learning and assessment program, not only the Student Guide or app.
 
