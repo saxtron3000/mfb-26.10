@@ -604,7 +604,7 @@ None of these features is required for the October quiz. They are a simple idea 
 - Educator accounts and educator-facing dashboards.
 - Cohort, class, and group management.
 - A way for educators to add learners to a cohort.
-- A way for educators to pair a learner with an educator or approved assessor.
+- A way for educators to pair a learner with an educator.
 - Assignable individual questions, topic sets, module sets, or custom question banks.
 - Due dates, completion expectations, and reminders for assigned work.
 - Educator view of learner progress, answers, attempts, confidence checks, and review needs.
