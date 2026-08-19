@@ -206,6 +206,114 @@ Confidence is highest where strong adjacent evidence converges: active participa
 
 ---
 
+# Research Versus Current Curriculum Comparison
+
+## Audit scope
+
+Audit date: 2026-08-19
+
+This comparison applies the complete research file to the current workspace. It reviewed the active architecture, objectives, Student Guide, Activity Bank, Educator Guide plan and draft, assessment and certification frameworks, lexicon, source register, visual index, publication file, scope, release to-do, and consistency report.
+
+The comparison uses four status labels:
+
+- **Implemented:** the workspace contains a usable curriculum or delivery feature, not only a statement of intent.
+- **Partly implemented:** the principle is present, but one or more artifacts, procedures, owners, or tests needed to make it reliable are missing.
+- **Not operational:** the workspace names the need, but an educator, editor, translator, or evaluator could not yet carry it out consistently.
+- **Conflicted:** current files communicate materially different expectations.
+
+## Overall judgement
+
+The project is not ignoring the main research findings at the level of curriculum intent. The architecture, Student Guide, and especially the Educator Guide draft already apply active learning, beginner guidance, discussion, retrieval, practical safety, offline-capable delivery, direct observation, feedback, reassessment, localisation boundaries, and non-advisory framing.
+
+The larger risk is the gap between **policy and operational evidence**. The workspace often says that a blueprint, rubric, equivalent variant, calibration exercise, pilot, accessibility check, translation review, or release control is required without yet providing the finished artifact or assigning it to a release gate. If the Diploma were delivered from the current package, educator quality and local effort could compensate for these gaps in some cohorts, but results and certificate meaning could vary substantially across educators, languages, cohort sizes, and delivery conditions.
+
+The most important outcome-changing work is therefore not adding more learner content. It is completing the minimum system that makes the existing objectives teachable, assessable, accessible, and testable within the available time.
+
+## Comparison matrix
+
+| Research finding | Current curriculum evidence | Status and risk | Smallest evidence-aligned action | Primary owner |
+|---|---|---|---|---|
+| Beginners benefit from concise explanation or demonstration, guided practice, application, feedback, and reduced support as competence grows. | `04_design.md`, `06_plan.md`, `08_student.md`, and `12_educator-draft.md` establish a repeatable active-learning rhythm. The educator draft contains module flows, demonstration protocols, retrieval openings, practice, and debrief guidance. | **Implemented in guidance; partly implemented in activities.** The generic Activity Bank template does not explicitly require prerequisite knowledge, a model or worked example, likely misconceptions, or a progression from guided to less-supported performance. | Add `Prerequisites`, `Model or worked example`, `Guidance and fading`, and `Likely misconceptions` fields to every activity record. | `10_activities.md` |
+| Spacing, retrieval, and follow-up support retention better than one exposure. | The Educator Guide supports four-session and eight-session routes and opens recurring modules with retrieval. The Student Guide closes modules with summaries and reflection. | **Partly implemented.** No standard post-course retrieval touchpoint has an owner, schedule, reusable prompt set, or offline route. Module reviews often summarize before requiring unaided recall. | Add a short no-stakes retrieval prompt before each module summary and one optional offline-capable follow-up at a declared interval after the course. Track participation separately from certification. | `08_student.md`, `12_educator-draft.md`, and the future evaluation protocol |
+| Objectives, teaching, practice, and assessment must form one traceable system. | `05_objectives.md` defines 25 certification objectives plus two formative outcomes. `13_assessment.md` defines matching evidence principles. | **Not operational and release-critical.** The final objective-to-evidence crosswalk does not yet exist. Topic coverage in prose cannot show that each measurable verb is taught, practised, and assessed. | Build one row per objective with Student Guide section, prerequisite, teaching, formative practice, approved evidence, rubric or criteria ID, permitted support, result field, estimated time, accessibility variant, and reassessment route. | `05_objectives.md` and `13_assessment.md`, linked to `08_student.md`, `10_activities.md`, and `12_educator-draft.md` |
+| Practical claims require directly observed performance, common criteria, feedback, and reassessment. | The objectives, assessment, certification, and educator files consistently require educator observation and non-compensatory completion. | **Strong policy; not operational.** `10_activities.md` is still mostly a legacy inventory, template, one discussion record, and activity seeds. Approved Module 3 and Module 4 task variants, final rubrics, critical errors, and records are missing. | Build the smallest certification-complete Activity Bank first: only the formative practice and summative theory/practical tasks needed to cover every required objective. Expand the optional bank after pilots. | `10_activities.md` and `13_assessment.md` |
+| Rubrics improve consistency only when criteria are specific and educators see examples, practise scoring, calibrate, and receive moderation. | `12_educator-draft.md`, `12_educator-plan.md`, `13_assessment.md`, and `15_certification.md` require calibration and moderation. | **Not operational and high impact.** No annotated `Meets standard` and `Not yet` exemplars, scoring rehearsal, agreement check, calibration frequency, or moderation sample is published. The word `exemplar` does not appear in the core delivery files. | Create a compact calibration pack with two examples per critical criterion, educator scoring practice, answer rationale, permitted-prompt rules, an agreement check, and a light moderation procedure. | `13_assessment.md` with educator-facing extracts in `12_educator-draft.md` |
+| Duration should follow the complete teach–practice–assess workload; competence should not be weakened to protect a clock. | The plan and educator draft call eight hours a minimum baseline and allow extra time. The research file identifies an unresolved conflict with the eight-hour exclusion rule in `05_objectives.md`. | **Conflicted and unvalidated.** The Student Guide contains about 19,400 words, the educator draft about 26,700 words, and the course has 25 certification objectives. Word count alone does not establish infeasibility, but no end-to-end timed route proves that instruction, practice, direct observation, feedback, accessibility, and reassessment fit. | Resolve whether eight hours is a Core-scope cap or the shortest intended route. Then field-time one complete route with realistic cohort sizes and educator ratios. Publish planned and actual minutes by function and module. | Governance decision in `05_objectives.md` and `06_plan.md`; validation owned by `03_scope.md` |
+| Direct observation capacity falls as cohort size and learner-to-educator ratio rise. | Module 3 educator guidance recognizes time and educator capacity. The research file gives an observation-load calculation. | **Partly implemented.** No default cohort bands, simultaneous-observer assumptions, station plan, or maximum load for the eight-hour route is established. | Add a simple capacity table for common cohort sizes using observed minutes per learner, number of qualified educators, setup, rotations, feedback, and reassessment. Require extra time or educators when the route exceeds capacity. | `12_educator-draft.md` and the timed objective blueprint |
+| Core outcomes and safety must remain stable while local examples, language, facilitation, and tools may adapt. | Core, Custom, and Advanced boundaries appear across `04_design.md`, `05_objectives.md`, `06_plan.md`, `08_student.md`, and the educator guide. | **Partly implemented and potentially confusing.** No one-page contract exists. “Custom” can be read as optional, while `B4.1` and `B4.2` make one approved Module 4 task mandatory for certification. | Publish a one-page Core/Custom contract stating exactly what is fixed, adaptable, approval-controlled, and required for certification. Use the same language everywhere. | `06_plan.md`, with learner and educator extracts in `08_student.md` and `12_educator-draft.md` |
+| Learners should know the task, support conditions, and success criteria before assessment. | The Student Guide's opening outcomes include practical demonstration, and `07_contents.md` lists practical competency checks. | **Conflicted in learner-facing summaries.** The Module 3 and Module 4 promises in `08_student.md` and the outcomes in `17_spec.md` use weaker verbs such as “explain” or “identify,” while `05_objectives.md` requires demonstration. This can make assessment feel unexpected. | Synchronize every module promise and public outcome to the exact level of the approved objectives, while retaining the beginner/high-stakes limitation. | `08_student.md`, `17_spec.md`, checked against `05_objectives.md` |
+| A global curriculum needs plain source language, a controlled lexicon, versioning, qualified human review, and learner comprehension testing. | The design, plan, and educator draft contain a sensible nine-step translation workflow and require approval before certification use. | **Partly implemented.** `16_lexicon.md` is a useful feedback inventory but relies on mutable line numbers and lacks controlled fields for preferred term, prohibited ambiguity, scope, language-specific decision, reviewer, version, and approval status. No learner comprehension test is a release gate. | Convert the lexicon to stable term IDs and controlled metadata. Add bilingual review and small learner comprehension testing before approving a language for certification. | `16_lexicon.md`, `03_scope.md`, and the publication specification |
+| Offline and accessible routes must preserve the objective rather than merely provide the same file. | The Student Guide and educator draft strongly state that devices, continuous connectivity, QR codes, and the app are not prerequisites. Safety fallbacks are described. | **Strong intent; partly operational.** Approved equivalent assessment variants do not yet exist, and no release specification sets an accessibility target, tagged-PDF requirements, reading order, form behavior, or representative-user checks. | Require at least one tested low-tech and relevant accessibility variant for every summative task, with invariant evidence stated. Add technical accessibility and representative-user acceptance checks to release. | `10_activities.md`, `13_assessment.md`, and `17_spec.md` |
+| Publication quality requires an auditable source of truth, versioning, citations, rights, accessible exports, QA, sign-off, and maintenance. | `06_plan.md` assigns publication rules to `17_spec.md`; `00_todo.md` correctly identifies the problem. | **Not operational and release-critical.** `17_spec.md` explicitly describes itself as a stakeholder overview. It is not a publication specification. It contains no enforceable WCAG target, tagged-PDF rules, rights register, export/preflight procedure, release sign-off, changelog, or maintenance process. | Move the overview or rename it, then make `17_spec.md` the real production and release specification. | `17_spec.md` |
+| Current and contestable claims need stable IDs, source quality, review dates, uncertainty, and revalidation ownership. | `11_resources.md` contains six useful source rows and some volatility notes. The educator draft tells educators to recheck local facts and tools. | **Not operational at curriculum scale.** The 19,000-word Student Guide contains many economic, historical, technical, security, wallet, Lightning, and current-context claims, while the source register uses mutable lines and has no claim IDs, reviewer, authority level, counterevidence, or next-review date. Educators should not have to research Core claims independently. | Create a claim register with stable IDs, exact claim text, source type, authority, publication treatment, volatility, reviewer, date checked, and next review. Keep local current facts in a separate educator verification record. | `11_resources.md` and `17_spec.md` |
+| Educator materials should reduce implementation load and survive scale. | `12_educator-draft.md` is unusually comprehensive and includes a quick start, module flows, safety, localisation, activities, and appendices. | **Substantive but usability-unvalidated.** At about 26,700 words, the guide may be difficult to scan during preparation and live delivery. No independent educator usability test is a release requirement. | Preserve the full reference guide, but extract one repeated run sheet per module and one assessment cue card. Test preparation and delivery with educators who did not write the guide. Record time, errors, unanswered questions, and deviations. | `12_educator-draft.md` and `03_scope.md` |
+| Release evaluation should measure learning, safe transfer, retention, access, implementation, and educator agreement rather than satisfaction alone. | This research file defines a minimum evaluation package. `03_scope.md` contains a thin measurable-outcomes workstream and a general feedback milestone. `17_spec.md` lists field testing as something collaborators can help with. | **Largely missing and the clearest research-to-workspace omission.** No owned pilot protocol, measures, delayed check, implementation/fidelity record, double-scoring sample, go/no-go gate, or reporting standard appears in scope or the release to-do. | Add a formal pilot-and-evaluation workstream and release gate. Predefine measures, routes, languages, learner groups, timing, attrition denominators, safety events, delayed checks, educator agreement, and decision rules. | `03_scope.md`, `00_todo.md`, and a versioned evaluation protocol |
+| Assessment and evaluation involving minors or financial learning require data minimisation, consent, safeguarding, controlled retention, correction, and appeals. | `13_assessment.md` and `15_certification.md` list privacy, consent, minors, retention, audit trails, corrections, and appeals as unresolved. The educator guide includes strong in-class privacy rules and incident prompts. | **Recognized but not operational.** These protections cannot remain open when pilots begin collecting results or certificate evidence. | Approve a minimum data and safeguarding pack before any outcome pilot or certification: consent or assent, allowed and prohibited data, access roles, retention and deletion, incident response, correction, appeal, and aggregate reporting. | `13_assessment.md` and `15_certification.md` |
+
+## High-impact findings the current project is still underweighting
+
+### 1. A finished guide is not evidence that the course works
+
+The workspace treats feedback and iteration as a milestone, but it does not yet treat end-to-end pilot evidence as a release dependency. This matters because the largest evidence gap in the field is the absence of independent Bitcoin-education outcomes. A strong October release should include at least a usability and safety pilot, even if it cannot yet make a causal effectiveness claim.
+
+The pilot should test the complete system rather than isolated chapters: learner comprehension, teaching time, supported practice, direct observation, educator workload, accessibility, translation friction, reassessment, delayed retention, and certificate-decision consistency.
+
+### 2. The assessment system needs artifacts, not more policy prose
+
+The principle of two non-compensatory components is now clear. Repeating it across more documents will not improve validity. The outcome depends on the missing crosswalk, approved individual-evidence tasks, criteria, exemplars, prompt boundaries, records, calibration, moderation, and reassessment procedures.
+
+Until these exist, the project has an assessment philosophy rather than an assessment system.
+
+### 3. The eight-hour risk is primarily observation capacity
+
+Content density is a concern, but educator observation is the harder constraint. Every learner seeking certification must produce individually identifiable evidence across required theoretical objectives and directly observed Module 3 and Module 4 performance. A schedule that works for six learners with two qualified educators may fail for twenty learners with one educator even when the lesson content is unchanged.
+
+The delivery model should therefore publish cohort and educator assumptions, not only session length.
+
+### 4. Translation quality is part of assessment validity
+
+Translation is currently treated mainly as an editorial workflow. Because learners are assessed through explanation, comparison, safety judgement, and practical instructions, translation can change the construct or difficulty of an assessment. Language approval should therefore include assessment review and learner testing, not only proofreading and subject-matter review.
+
+### 5. Accessibility needs a production standard and tested task variants
+
+The curriculum has a strong accessibility promise, but “offline-capable” and “accessible” are not interchangeable. A PDF may work without a connection and still fail reading order, contrast, navigation, form usability, screen-reader interpretation, large-print use, or accessible assessment. The same applies to practical tasks: an accommodation must preserve the evidence, but the approved variants have not been built.
+
+### 6. Source maintenance is part of educator support
+
+The educator guide correctly asks local educators to verify changing local tools and rules. It should not make them re-establish Core economic, historical, technical, or safety claims for every cohort. A maintained Core claim register would reduce educator burden, prevent drift, and make translations easier to update.
+
+## Easily achievable modifications with disproportionate value
+
+These changes can be made before major layout or platform work:
+
+1. **Extend the Activity Bank template.** Add prerequisites, model or worked example, likely misconceptions, minimum and extended timing, supported-practice steps, guidance fading, offline fallback, accessibility variant, permitted prompts, pilot status, and revision owner.
+2. **Create the one-page Core/Custom contract.** State that the local Module 4 content is selected locally but the approved `B4.1` and `B4.2` evidence is required for certification.
+3. **Synchronize learner promises.** Replace weaker Module 3 and Module 4 learner-facing verbs with the exact explain-and-demonstrate standard already owned by `05_objectives.md`.
+4. **Add stable schemas before adding content.** Define the row formats for the objective crosswalk, claim register, controlled lexicon, activity/task records, and pilot log so future work accumulates consistently.
+5. **Extract educator run sheets.** Keep the detailed educator reference, but provide one concise preparation-and-delivery sheet per module plus a separate assessment cue card.
+6. **Add one post-course retrieval touchpoint.** Provide an offline-ready short prompt set and educator instructions; do not make it a hidden certification gate.
+7. **Add pilot status to every required task.** Record learner group, language, mode, educator experience, planned and actual time, access failures, safety events, completion, common errors, and revision decision.
+8. **Turn evaluation into scheduled work.** Add the pilot protocol and go/no-go review to `03_scope.md` and `00_todo.md` rather than leaving evaluation only inside this research file.
+9. **Replace the false publication-spec role.** Preserve the useful overview under an appropriate name and make `17_spec.md` enforce production, accessibility, rights, citation, export, QA, sign-off, release, and maintenance rules.
+10. **Define minimum data protections before pilots.** A one-page approved data map and incident route is more valuable now than a complex future credential design.
+
+## Recommended execution order
+
+1. Resolve the eight-hour governance rule and Module 4 requirement language.
+2. Build the objective-to-evidence-and-time crosswalk.
+3. Build the smallest certification-complete set of activities, tasks, rubrics, exemplars, and records.
+4. Field-time the complete route and test educator capacity.
+5. Run independent educator usability, learner comprehension, accessibility, translation, and safety pilots.
+6. Revise the Student and Educator Guides using observed failures and friction.
+7. Complete the publication specification, source controls, data protections, and release sign-offs.
+8. Publish the evaluation protocol and limitations with the release; publish results when sufficient data exists.
+
+## Decision implication
+
+The research does not justify expanding the beginner syllabus. It supports finishing, simplifying, and testing the system around the existing objectives. The highest-quality Student and Educator Guides will come from a verified objective chain, a timed delivery route, usable educator tools, safe and equivalent assessment variants, controlled language and sources, and observed learner and educator performance—not from adding more explanatory prose.
+
+---
+
 # Internal Purpose Definitions
 
 These are internal stakeholder definitions of what the Bitcoin Diploma is for. Treat them as qualitative internal evidence for purpose, tone, and design direction, not as final public copy.
