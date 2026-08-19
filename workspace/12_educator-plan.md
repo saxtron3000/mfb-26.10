@@ -25,14 +25,14 @@ The guide should help educators:
 - use QR codes and external links sparingly in print/PDF delivery;
 - protect learner safety and autonomy;
 - use educator-led explanations, discussions, games, simulations, and role-plays for theory learning, distinguishing approved educator-evaluated evidence from formative feedback;
-- assess 80% of each required practical learning objective through direct observation and link the remaining 20% to app follow-up;
+- assess required practical learning objectives through direct observation;
 - use common rubrics consistently;
 - provide feedback and reassessment; and
-- understand that app theory, educator theory, direct practical observation, and app practical follow-up are all required for certification.
+- understand that the 2026.10 assessment process is educator-led and that optional app use does not affect certification.
 
-### The My First Bitcoin app as the required assessment tool
+### The My First Bitcoin app as an optional learning resource
 
-Content may be facilitated in person or online and taught with low-tech, offline-capable print/PDF materials. To complete the Diploma, every learner must use the approved My First Bitcoin app for 80% of theoretical assessment and 20% task-linked practical follow-up. Educators contribute the other 20% of theoretical assessment through approved objective-aligned interactions; an educator directly evaluates 80% of the practical component. Arrange supported app access when a learner does not have a suitable device or connection.
+Content may be facilitated in person or online and taught with low-tech, offline-capable print/PDF materials. The My First Bitcoin app may be offered for voluntary recap, self-checks, discovery, and connection to future My First Bitcoin learning. It is not required for learning, assessment, completion, or certification in the 2026.10 release.
 
 ### Educator support through the ETP
 
@@ -76,7 +76,7 @@ In this Diploma, a **learner** studies, discusses, practises, and provides evide
 
 ### Managing The 8-Hour Pathway
 
-The Core Diploma has an approximately 8-hour minimum planning baseline. Educators should add time when needed to meet the objectives, practice requirements, and assessment standard, and may deliver the learning in different time chunks depending on learner availability, venue constraints, travel time, energy level, device access, and local teaching context. Each schedule must reserve or arrange supported access to the required app-based theory assessment and practical-task follow-up, approved educator theory interactions, and enough time for direct practical observation, recording, feedback, and reassessment.
+The Core Diploma has an approximately 8-hour minimum planning baseline. Educators should add time when needed to meet the objectives, practice requirements, and assessment standard, and may deliver the learning in different time chunks depending on learner availability, venue constraints, travel time, energy level, device access, and local teaching context. Each schedule must reserve enough time for educator-led theory checks where required, direct practical observation, recording, feedback, and reassessment. Optional app use must not become a barrier to participation.
 
 The four-block sequence should remain the same:
 
@@ -117,7 +117,7 @@ Educators may also combine models, such as two half-days or one weekend morning 
 
 ### Media And Tool Fallbacks
 
-Do not make a video, external website, named service, or learner-owned device a condition of teaching or practice. Before facilitating a media- or tool-dependent activity, prepare an equivalent low-tech path, such as a printed screenshot, diagram, physical simulation, spoken walkthrough, or educator demonstration. The fallback must preserve the same objective and safety boundary; it does not need to reproduce every feature of the digital tool. The sole digital requirement for certification is completion of the approved app-based theory assessment and practical-task follow-up; arrange supported access and result synchronization as applicable.
+Do not make a video, external website, named service, learner-owned device, or app a condition of teaching, practice, assessment, or certification. Before facilitating a media- or tool-dependent activity, prepare an equivalent low-tech path, such as a printed screenshot, diagram, physical simulation, spoken walkthrough, or educator demonstration. The fallback must preserve the same objective and safety boundary; it does not need to reproduce every feature of the digital tool.
 
 Use optional videos only when the venue, device access, connectivity, and learner time make them genuinely useful. Do not rely on assigned video homework as the sole preparation for a scheduled learning activity.
 
@@ -140,7 +140,7 @@ Suggested two-part sequence when more time is available:
 - CBDCs as digital fiat, with issuer, supply, permission, privacy, and verification questions
 - Likely misconceptions
 - Suggested activities
-- Required app theoretical items mapped to this block
+- Optional app recap or self-check items mapped to this block, where useful
 - Approved educator-evaluated theory interactions and formative learner explanations, comparisons, discussions, or simulations
 - Review point
 
@@ -155,7 +155,7 @@ Have learners keep their answers to the opening money questions. Return to them 
 - Satoshis as a low-complexity concept that unlocks payments, fees, supply, and custody discussions
 - Likely misconceptions
 - Suggested activities
-- Required app theoretical items mapped to this block
+- Optional app recap or self-check items mapped to this block, where useful
 - Approved educator-evaluated theory interactions and formative learner explanations, concept illustrations, role-plays, or scenarios
 - Review point
 
@@ -187,7 +187,7 @@ Suggested two-part sequence when more time is available:
 - When to use block explorers as beginner verification tools, including confirmation status and public-ledger privacy limits
 - Address-history and reuse lookup activity: use a deliberately public, educator-prepared address, transaction, or screenshot to show that address activity can be visible and repeated use can make transactions easier to link. Never ask learners to search, display, or share an address that belongs to them or another person, and provide a printed or projected fallback when internet access is unavailable.
 - Suggested activities
-- Required app theoretical items mapped to this block, where applicable, and practical-task follow-up linked to each assessed performance
+- Optional app recap or self-check items mapped to this block, where useful
 - Required educator-observed wallet, transaction, recovery-readiness, verification, and safety assessment
 - Review point
 
@@ -202,7 +202,7 @@ Suggested two-part sequence when more time is available:
 - How to frame Lightning, merchant payments, remittance scenarios, nonprofit or community donation scenarios, local on/off-ramps, KYC/no-KYC trade-offs, BTCMap or equivalent resource maps, and circular economies
 - How to avoid global recommendations for named services or providers
 - How to document local adaptations
-- How to select and directly assess at least one approved local practical or applied competency, with its linked app follow-up
+- How to select and directly assess at least one approved local practical or applied competency
 
 ## 4.1 Misconception Bank
 
@@ -235,16 +235,16 @@ Educator rule: answer the learner's real question, name trade-offs honestly, and
 
 ### 5.1 The Two-Part Model
 
-Explain to learners that assessment has two equally important, non-compensatory parts: theoretical understanding and practical competency. The theoretical 50% is 80% app-evaluated and 20% educator-evaluated through approved interactions. The practical 50% is 80% direct observation by an educator and 20% app follow-up linked to the task. Other educator-led questions, explanations, activities, games, discussions, and role-plays are formative.
+Explain to learners that assessment has two equally important, non-compensatory parts: theoretical understanding and practical competency. The theoretical half is educator-led through check-ins, participation, discussion, and learner explanations. The practical half is educator-led through direct observation. Other learning activities remain formative unless the educator identifies them as an assessment check-in.
 
 Educators should present assessment like a driving test:
 
-1. Learners must pass the app and educator contributions to the theoretical component, which represents 50% of the complete assessment.
-2. Learners must pass the educator-observed and app-follow-up contributions to the practical component, which represents the remaining 50%.
+1. Learners must meet the approved educator-led theoretical requirements, which represent 50% of the complete assessment.
+2. Learners must meet the approved educator-observed practical requirements, which represent the remaining 50%.
 
-The app supplies objective-aligned microlearning, 80% theory evaluation, feedback, 20% practical-task follow-up, and recorded app results. The educator evaluates the approved 20% theory interactions and directly evaluates practical performance. A learner explanation may be scored as theory only through an approved educator interaction, or as practice when it is an observable criterion within an approved practical task.
+The optional app may supply microlearning, feedback, and self-checks. The educator evaluates approved theoretical interactions and directly evaluates practical performance. A learner explanation may be assessed as theory through an approved educator interaction, or as practice when it is an observable criterion within an approved practical task.
 
-The app cannot determine whether a learner can safely operate a wallet, verify transaction details, protect recovery information, respond to a scam, or complete a locally relevant practical task. A checklist can guide preparation, but checking a box is not proof of competence.
+An app quiz or checklist can guide preparation, but it is not proof of competence.
 
 Both assessment components must be passed for certification; strength in one cannot compensate for failure in the other.
 
@@ -267,9 +267,9 @@ The task must match the verb. **Explain** requires an explanation. **Compare** r
 
 Blocks 1 and 2 are knowledge-dominant, but they must not become memory tests.
 
-Use the following to prepare learners for the required app assessment and to provide formative feedback:
+Use the following to develop theoretical understanding and provide formative feedback:
 
-- required app microlearning and theoretical items for scored evidence;
+- optional app microlearning and self-checks where useful;
 - learner explanations in their own words;
 - comparisons and concept illustrations;
 - guided discussion;
@@ -277,7 +277,7 @@ Use the following to prepare learners for the required app assessment and to pro
 - simulations and role-plays; and
 - scenarios that require learners to connect more than one concept.
 
-The complete Diploma assessment allocates 50% to theoretical evidence and 50% to practical competency evidence. Theoretical evidence is app/educator 80/20; practical evidence is direct observation/app follow-up 80/20. Educator-led explanations, comparisons, illustrations, games, discussions, simulations, scenarios, and role-plays contribute to theory only when approved, criteria-based, individually evidenced, and recorded; otherwise they are formative.
+The complete Diploma assessment allocates 50% to theoretical evidence and 50% to practical competency evidence. Educator-led explanations, comparisons, illustrations, games, discussions, simulations, scenarios, and role-plays contribute to theory only when approved, criteria-based, individually evidenced, and recorded; otherwise they are formative.
 
 Educators should not treat fluent repetition as evidence of understanding. Use formative prompts such as:
 
@@ -289,7 +289,7 @@ Educators should not treat fluent repetition as evidence of understanding. Use f
 
 ### 5.4 Blocks 3 And 4: Practical Competence
 
-Blocks 3 and 4 are skills-dominant. Required practical objectives make up the practical 50% of assessment: 80% is assessed through direct observation by an educator and 20% through app follow-up linked to the task. Any theoretical objectives mapped to these blocks follow the app/educator 80/20 theory allocation.
+Blocks 3 and 4 are skills-dominant. Required practical objectives make up the practical 50% of assessment and are assessed through direct observation by an educator. Theoretical objectives mapped to these blocks use approved educator-led evidence.
 
 Use approved Activity Bank tests, demonstrations, simulations, and role-plays to observe whether the learner can:
 
@@ -344,11 +344,11 @@ Record only the minimum evidence needed. Do not photograph, copy, or store seed 
 
 **Not yet** means that the learner needs more learning or practice; it is not a permanent failure.
 
-For the theoretical component, app rules determine feedback, attempts, and the recorded app reassessment result. The educator reassesses approved theory interactions against their criteria and may also provide formative help.
+For the theoretical component, the educator reassesses approved theory interactions against their criteria and may also provide formative help. Optional app self-checks may support review but are not recorded assessment evidence.
 
-For the practical component, the educator should identify the unmet criterion, direct the learner to appropriate practice, provide focused feedback, allow reasonable practice time, reassess the objective against the same approved rubric, and ensure the linked app follow-up is completed again where required.
+For the practical component, the educator should identify the unmet criterion, direct the learner to appropriate practice, provide focused feedback, allow reasonable practice time, and reassess the objective against the same approved rubric.
 
-App assessment accommodations must follow the approved central access and accommodation process. Practical-task accommodations may change how a learner receives instructions, communicates an explanation, controls a device, or demonstrates a sequence, but must not remove the objective or lower the competency standard.
+Practical-task accommodations may change how a learner receives instructions, communicates an explanation, controls a device, or demonstrates a sequence, but must not remove the objective or lower the competency standard. Optional app use must never be required as an accommodation route.
 
 ### 5.8 Educator calibration and quality
 
@@ -366,14 +366,12 @@ Calibration protects learners from inconsistent grading and protects the reputat
 
 ### 5.9 Recording And Certification
 
-Where authorized and technically available, the educator may use app progress data to identify support needs. Passing any app contribution alone does not qualify a learner for certification; all required educator and educator contributions must also be passed.
+The educator may invite learners to use the optional app for recap, but must not use app progress as assessment evidence.
 
 The approved completion record must contain:
 
-- required app theory-assessment results;
 - required educator-evaluated theoretical-interaction results;
 - required educator-observed Block 3 and Block 4 practical results;
-- required app practical-task-follow-up results linked to those tasks;
 - the selected and passed Block 4 competency; and
 - any required educator attestation or evidence reference.
 
@@ -394,8 +392,8 @@ Only the combined **assessment-complete** status may unlock a certificate. Educa
 - Online cohort adaptation
 - Self-paced adaptation
 - Website branch adaptation
-- App theory assessment, practical-task follow-up, and progress-tracking support
-- Recording and synchronizing app theory, educator theory, educator practical, and app follow-up results
+- Optional app recap, self-check, and discovery resources
+- Recording educator-led theoretical and practical evidence
 - Cross-modal branch notes
 - QR-code restraint for print and PDF delivery
 

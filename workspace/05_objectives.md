@@ -58,7 +58,7 @@ The Diploma should not claim that every graduate can independently manage high-s
 
 ## Core Outcomes
 
-The Block 1–3 outcomes below are required for certification. The final blueprint assigns theoretical evidence 80% to the mandatory app and 20% to educator-evaluated objective-aligned interactions. It assigns practical evidence 80% to direct observation by an educator and 20% to app follow-up linked to the practical task. `ALL.1` and `ALL.2` currently guide formative learning and reflection but are not separate certification gates unless a later approved blueprint maps them to scored evidence. Stable objective IDs should be used in app items, activities, practical tasks, rubrics, and completion records.
+The Block 1–3 outcomes below are required for certification. The final blueprint assigns the 50% theoretical component to educator-evaluated objective-aligned interactions and the 50% practical component to direct observation by an educator. `ALL.1` and `ALL.2` currently guide formative learning and reflection but are not separate certification gates unless a later approved blueprint maps them to educator-evaluated evidence. Stable objective IDs should be used in optional app self-checks, activities, practical tasks, rubrics, and completion records.
 
 | ID | Block | Every learner should be able to... | Primary evidence |
 |---|---|---|---|
@@ -190,7 +190,7 @@ The Core Diploma may introduce:
 
 Create-level tasks belong in Custom or Advanced material unless a local module explicitly includes them.
 
-The complete Diploma assessment consists of two separately passed components. The theoretical component is 50% of the assessment: 80% is mandatory app-based microlearning and evaluation, while 20% is educator-evaluated evidence gathered through approved objective-aligned activities, workshops, discussions, or learner explanations. The practical component is the remaining 50%: 80% is directly observed by an educator, while 20% is app-evaluated follow-up linked to the practical task. App follow-up cannot satisfy a direct-performance objective, and informal educator checks cannot substitute for approved educator theory evidence.
+The complete Diploma assessment consists of two separately passed components. The theoretical component is 50% of the assessment and is educator-evaluated through approved objective-aligned activities, workshops, discussions, or learner explanations. The practical component is the remaining 50% and is evaluated through direct observation by an educator. Optional app self-checks may support review before, during, or after learning, but cannot satisfy either component. Informal educator checks cannot substitute for approved educator assessment evidence.
 
 ---
 
@@ -237,7 +237,7 @@ Before objectives are final, resolve:
 - multilingual glossary and translation-readiness checks;
 - technology assumptions;
 - online or self-paced objective variants, if those delivery modes remain in scope;
-- assessment timing and format for the approximately eight-hour in-person or online pathway, including required app access;
+- assessment timing and format for the approximately eight-hour in-person or online pathway;
 - educator authorization, calibration, and moderation requirements.
 
 ---

@@ -10,7 +10,7 @@ The Activity Bank is designed for two uses. Activities can complement the Bitcoi
 
 A standalone activity should provide enough context, instructions, debrief questions, and safety notes for participants to learn a clear idea even if they have not completed the full diploma.
 
-The Activity Bank contains educator-led formative activities, approved educator-evaluated theory interactions, and educator-observed practical competency tasks. Explanations, comparisons, discussions, games, scenarios, and role-plays support learning and formative feedback unless approved for the 20% theoretical evidence contribution. Formal practical certification tasks supply the 80% directly observed practical contribution and must link to the app's 20% task follow-up; they must use the approved objective, instructions, observable criteria, rubric, and safety conditions.
+The Activity Bank contains educator-led formative activities, approved educator-evaluated theory interactions, and educator-observed practical competency tasks. Explanations, comparisons, discussions, games, scenarios, and role-plays support learning and formative feedback unless approved as theoretical evidence. Formal practical certification tasks supply educator-observed practical evidence and must use the approved objective, instructions, observable criteria, rubric, and safety conditions.
 
 ## Current Activities in the Bitcoin Diploma (26.04)
 
@@ -116,7 +116,7 @@ Formative theoretical support, summative educator-evaluated theory interaction, 
 
 ### Educator
 
-For a formative item, identify the educator or facilitator. For a summative educator-theory item, identify the educator and its approved criteria/record. For a summative practical item, identify the educator. The app supplies the complementary 80% theoretical evidence and practical-task follow-up under `14_microlearning.md`.
+For a formative item, identify the educator or facilitator. For a summative educator-theory item, identify the educator and its approved criteria/record. For a summative practical item, identify the educator. Optional app self-checks are maintained separately in `14_microlearning.md` and do not supply assessment evidence.
 
 ### Time
 
@@ -148,7 +148,7 @@ Questions that connect the activity back to the block objective.
 
 ### Evidence Of Learning
 
-For formative use, state what the educator can notice and use for feedback. For summative educator-theory use, state the individual response, criteria, and concise record. For summative practical use, state what the educator must observe and the linked app follow-up.
+For formative use, state what the educator can notice and use for feedback. For summative educator-theory use, state the individual response, criteria, and concise record. For summative practical use, state what the educator must observe and record.
 
 ### Rubric And Passing Standard
 
@@ -156,7 +156,7 @@ Define **Meets standard** and **Not yet**, including any safety-critical error t
 
 ### Feedback And Reassessment
 
-For formative theory, state how the educator gives feedback and directs further learning. For summative educator-theory work, state how the educator gives feedback and reassesses the approved interaction. For summative practical work, state how the educator gives feedback, what practice follows a **Not yet** result, how the learner can be reassessed against the same rubric, and how the linked app follow-up is retried.
+For formative theory, state how the educator gives feedback and directs further learning. For summative educator-theory work, state how the educator gives feedback and reassesses the approved interaction. For summative practical work, state how the educator gives feedback, what practice follows a **Not yet** result, and how the learner can be reassessed against the same rubric.
 
 ### Evidence Record
 
@@ -240,7 +240,7 @@ Ask: What evidence or check supports your answer? What could go wrong? What woul
 
 ### Evidence Of Learning
 
-The educator may record concise notes on the learner's explanation, safety judgment, or simulated action for formative feedback. For certification, an educator may collect the approved 20% theoretical evidence through an objective-aligned interaction with criteria and a concise record; an educator collects the directly observed practical evidence through an approved practical task and rubric.
+The educator may record concise notes on the learner's explanation, safety judgment, or simulated action for formative feedback. For certification, an educator collects theoretical evidence through an objective-aligned interaction with criteria and a concise record, and practical evidence through an approved practical task and rubric.
 
 ### Adaptation Notes
 
@@ -256,13 +256,13 @@ Do not ask learners to reveal a seed phrase, private key, login credential, or p
 
 ## Blocks 1 And 2: Knowledge-Dominant
 
-The mandatory app supplies 80% of theoretical evidence through objective-aligned microlearning and evaluation. Approved Activity Bank explanations, comparisons, concept illustrations, games, discussions, simulations, scenarios, and role-plays may supply the remaining 20% when they have an objective, individual evidence, criteria, and record; otherwise they are formative.
+Educators collect the full theoretical component through approved, objective-aligned explanations, comparisons, concept illustrations, games, discussions, simulations, scenarios, and role-plays that have individual evidence, criteria, and a record; otherwise they are formative. Optional app self-checks may prepare or help learners review, but are never assessment evidence.
 
-Selected educator-led theoretical activities should be short and objective-aligned; the blueprint must distinguish the approved summative 20% from formative touchpoints. The Activity Bank owns approved tasks for 80% of the practical 50%, which an educator evaluates through direct observation, and links them to the app's 20% practical follow-up.
+Selected educator-led theoretical activities should be short and objective-aligned; the blueprint must distinguish approved summative evidence from formative touchpoints. The Activity Bank owns approved tasks for the practical 50%, which an educator evaluates through direct observation.
 
 ## Blocks 3 And 4: Skills-Dominant
 
-Activity Bank assessment tasks provide the direct educator-observed 80% of evidence required for practical competence and identify the linked 20% app follow-up.
+Activity Bank assessment tasks provide the direct educator-observed evidence required for practical competence.
 
 Formal tasks should include approved variations of:
 

@@ -39,7 +39,7 @@
 - PPP practical learning: Presentation, Practice, Production.
 - A dedicated Activity Bank for participation and local adaptation.
 - An Educator Guide designed as a facilitation engine.
-- App-supported knowledge checks and progress tracking.
+- Optional app self-checks, recap, and discovery resources that do not affect certification.
 - A 50% theoretical and 50% educator-observed practical assessment model, including demonstrations, simulations, and practical competency assessment.
 - Low-connectivity and offline delivery remain part of the design.
 

@@ -234,7 +234,7 @@ Risks include:
 - app or checklist completion being treated as proof of practical ability; and
 - certificates communicating inconsistent levels of achievement.
 
-The redesign should connect every learning objective to appropriate evidence. The complete assessment should contain two separately passed components: a theoretical 50% split between 80% app evaluation and 20% educator-evaluated objective-aligned interactions, and a practical 50% split between 80% direct educator observation and 20% app follow-up linked to the practical task. The common framework, app blueprint, rubrics, educator preparation, and certification prerequisite belong in `10_activities.md`, `12_educator-draft.md`, `13_assessment.md`, `14_microlearning.md`, and `15_certification.md`.
+The redesign should connect every learning objective to appropriate evidence. The complete assessment should contain two separately passed components: a 50% educator-evaluated theoretical component and a 50% educator-observed practical component. The common framework, rubrics, educator preparation, and certification prerequisite belong in `10_activities.md`, `12_educator-draft.md`, `13_assessment.md`, and `15_certification.md`; optional learner self-checks belong in `14_microlearning.md`.
 
 ## 3.7 Lack of Measurable Outcomes
 
@@ -384,7 +384,7 @@ Public before / after framing:
 | Beginner and advanced material mixed together | Core / Custom / Advanced separation |
 | Activities embedded inconsistently | Separate Activity Bank |
 | Educator support uneven | Educator Guide as facilitation engine |
-| Assessment and certificate meaning vary | Objective-aligned 50% theoretical and 50% practical components, each separately passed: app/educator theory evidence at 80/20, and observed-practical/app-follow-up evidence at 80/20 |
+| Assessment and certificate meaning vary | Objective-aligned 50% educator-led theoretical and 50% educator-observed practical components, each separately passed |
 | Local adaptation unclear | Custom / Bitcoin as Money block |
 | English/PDF assumptions hidden | Translation-ready source files and clear delivery-mode branches |
 | Link-heavy print risk | Sparse QR codes tied to stable destinations |

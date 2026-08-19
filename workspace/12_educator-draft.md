@@ -1,6 +1,6 @@
 # Bitcoin Diploma educator companion guide
 
-This guide is the teacher's companion to the 2026.10 Bitcoin Diploma. Use it with the [Student Guide](08_student.md), the My First Bitcoin app, the [Activity Bank](10_activities.md), and the approved assessment materials.
+This guide is the teacher's companion to the 2026.10 Bitcoin Diploma. Use it with the [Student Guide](08_student.md), the [Activity Bank](10_activities.md), and the approved assessment materials. The My First Bitcoin app may be offered as an optional self-check, recap, and discovery resource.
 
 The Student Guide gives learners the essential path. This companion helps a teacher turn that path into a complete learning experience through interaction, discussion, local context, guided practice, feedback, and assessment. You can teach directly from it: read the short preparation notes before a session, use the suggested words and questions during the session, and return to the evidence and safety notes afterwards.
 
@@ -8,24 +8,22 @@ The Student Guide gives learners the essential path. This companion helps a teac
 
 ## About this draft
 
-This is a working educator-facing publication draft based primarily on the [Educator Guide plan](12_educator-plan.md). It also draws from the current curriculum architecture, objectives, Student Guide, Activity Bank, assessment framework, certification framework, lexicon, visual index, and publication specification across this workspace. It is written for a first-time teacher as well as an experienced educator. All four block companions and a working assessment and recording section are drafted, but referenced app items, approved tasks, rubrics, governance rules, and release validation remain incomplete. This guide is not yet publication-ready.
+This is a working educator-facing publication draft based primarily on the [Educator Guide plan](12_educator-plan.md). It also draws from the current curriculum architecture, objectives, Student Guide, Activity Bank, assessment framework, certification framework, lexicon, visual index, and publication specification across this workspace. It is written for a first-time teacher as well as an experienced educator. All four block companions and a working assessment and recording section are drafted, but approved tasks, rubrics, governance rules, and release validation remain incomplete. This guide is not yet publication-ready.
 
-This draft follows the assessment model in `12_educator-plan.md`, `13_assessment.md`, and `15_certification.md`. The Diploma has two required, non-compensatory components: theoretical understanding is 50% and practical competency is 50%. Theory is 80% app-evaluated and 20% educator-evaluated through approved objective-aligned interactions. Practice is 80% directly observed by an educator and 20% app-evaluated through follow-up linked to the practical task. Learners must pass both components and their required contributions before certification.
+For 2026.10, this draft follows an educator-led assessment model: theoretical understanding and practical competency are both required, and optional app use does not count as assessment evidence.
 
-The educator-evaluated 20% theory contribution must be distinguished from ordinary formative discussion. Only approved objective-aligned interactions with individual evidence, criteria, and a concise record contribute to certification.
+Approved educator-led theory interactions must be distinguished from ordinary formative discussion. Only objective-aligned interactions with individual evidence, criteria, and a concise record contribute to certification.
 
-For a new teacher, the model can be remembered as four contributions:
+For a new teacher, the model can be remembered as two components:
 
 | What must be complete | Main source | Share within that component |
 | --- | --- | ---: |
-| Theoretical understanding | App learning and quizzes | 80% |
-| Theoretical understanding | Approved educator interaction | 20% |
-| Practical competency | Educator observation of the practical task | 80% |
-| Practical competency | App follow-up linked to that task | 20% |
+| Theoretical understanding | Approved educator-led interaction | 50% |
+| Practical competency | Educator observation of the practical task | 50% |
 
 These percentages describe the assessment evidence, not the amount of teaching time. A practical lesson may need substantial explanation and practice before the observation takes place.
 
-Some implementation details are still awaiting governance approval, including final app thresholds, approved task variants, exact prompting limits, final practical rubrics, educator authorization, moderation, appeals, data retention, and certificate-verification procedures. This guide identifies working practices without presenting those open decisions as final policy.
+Some implementation details are still awaiting governance approval, including approved task variants, exact prompting limits, final practical rubrics, educator authorization, moderation, appeals, data retention, and certificate-verification procedures. This guide identifies working practices without presenting those open decisions as final policy.
 
 ## Start here: your first teaching route
 
@@ -139,22 +137,22 @@ These are guardrails, not a test. Keep this list open while you prepare. You do 
 1. Teach the four blocks in sequence: Problem / Broken Money, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money.
 2. Treat Blocks 1–3 as the shared Core. Block 4 is required, but its local learning task is educator-selected.
 3. Preserve the approved objectives, evidence requirements, safety boundaries, and passing standard in every language and delivery mode.
-4. Use the app for 80% of theoretical assessment and the 20% practical-task follow-up. Conduct approved educator-evaluated theory interactions, and use direct observation for 80% of practical assessment.
+4. Conduct approved educator-led theory interactions and direct practical observation. Offer the app only as an optional recap, self-check, or discovery resource.
 5. Give supported practice before assessment. For practical learning, use Presentation → Practice → Production.
 6. Never ask to see, handle, photograph, copy, record, or store a learner's real seed phrase, private key, credential, balance, or unnecessary transaction information.
 7. Use prepared wallets, simulations, test environments, printed screens, or appropriately low-stakes practice. Always prepare a no-funds or offline fallback.
 8. Do not give financial, investment, legal, tax, accounting, compliance, or trading advice. Do not pressure learners to acquire or use bitcoin.
 9. Treat named wallets, exchanges, services, maps, merchants, and community resources as dated local examples, not global recommendations.
-10. Do not certify attendance, app activity without a passing result, an educator interaction without valid evidence, practical observation without its app follow-up, or either assessment component alone. Certification requires all four required contributions.
+10. Do not certify attendance, app activity, an educator interaction without valid evidence, or either assessment component alone. Certification requires approved educator-led theoretical and practical evidence.
 
 ## The Diploma at a glance
 
 | Block | Core question | Learner outcome | Educator's main contribution | Main evidence |
 | --- | --- | --- | --- | --- |
-| 1. Problem / Broken Money | How can money break? | Explain why money exists, compare forms of money, and connect modern-money problems to a local or realistic experience. | Draw out existing ideas, facilitate comparison, add checked local fiat context, and assess approved theoretical touchpoints. | App evidence plus approved educator-led theoretical evidence. |
-| 2. Solution / Bitcoin | Why was Bitcoin created, and how does it respond? | Explain Bitcoin's purpose, core properties, participant roles, benefits, limits, and new responsibilities. | Make technical relationships visible, correct role confusion, test claims through evidence and trade-offs, and assess approved theoretical touchpoints. | App evidence plus approved educator-led theoretical evidence. |
-| 3. Action / Self-custody | How do I take responsibility for using and securing Bitcoin? | Explain custody and safety concepts and demonstrate required beginner wallet, recovery-readiness, transaction, and verification skills. | Demonstrate safe process, supervise practice, protect secrets, observe performance, and give corrective feedback. | App/educator theory evidence plus 80% direct observation and 20% app follow-up for approved practical and safety tasks. |
-| 4. Custom / Bitcoin as Money | How can Bitcoin function as money in this community? | Demonstrate one approved local Bitcoin-as-money task and explain its purpose, trade-offs, risks, failure points, and next steps. | Research local reality, select and validate the module, facilitate safe practice, and assess the approved evidence. | Relevant app/educator theory evidence plus 80% direct observation and 20% app follow-up for a task mapped to `B4.1` and `B4.2`. |
+| 1. Problem / Broken Money | How can money break? | Explain why money exists, compare forms of money, and connect modern-money problems to a local or realistic experience. | Draw out existing ideas, facilitate comparison, add checked local fiat context, and assess approved theoretical touchpoints. | Educator-led theoretical evidence. |
+| 2. Solution / Bitcoin | Why was Bitcoin created, and how does it respond? | Explain Bitcoin's purpose, core properties, participant roles, benefits, limits, and new responsibilities. | Make technical relationships visible, correct role confusion, test claims through evidence and trade-offs, and assess approved theoretical touchpoints. | Educator-led theoretical evidence. |
+| 3. Action / Self-custody | How do I take responsibility for using and securing Bitcoin? | Explain custody and safety concepts and demonstrate required beginner wallet, recovery-readiness, transaction, and verification skills. | Demonstrate safe process, supervise practice, protect secrets, observe performance, and give corrective feedback. | Educator-led theory evidence and direct practical observation. |
+| 4. Custom / Bitcoin as Money | How can Bitcoin function as money in this community? | Demonstrate one approved local Bitcoin-as-money task and explain its purpose, trade-offs, risks, failure points, and next steps. | Research local reality, select and validate the module, facilitate safe practice, and assess the approved evidence. | Educator-led theory evidence and direct practical observation for a task mapped to `B4.1` and `B4.2`. |
 
 The narrative should remain connected:
 
@@ -198,7 +196,7 @@ Each part of the Diploma has a distinct function.
 | Component | Primary function | What it cannot replace |
 | --- | --- | --- |
 | Student Guide | Essential learner explanations, reflection, review, and reference | Live facilitation, local verification, supported practice, or observed assessment |
-| My First Bitcoin app | Required theoretical microlearning, evaluation, feedback, progress, 80% of scored theoretical evidence, and the 20% practical-task follow-up | Nuanced human dialogue, the educator-led share of theoretical evidence, or direct observation of practical skill |
+| My First Bitcoin app | Optional self-checks, recap, discovery, feedback, and connection to future learning | Educator-led theoretical or practical assessment, certification records, or learner evaluation |
 | Educator Guide | Preparation, pacing, facilitation, localization, safety, and assessment support | The approved learner materials or final governance decisions |
 | Activity Bank | Modular interaction, formative checks, approved educator-led theoretical touchpoints, practical practice, and approved practical assessment tasks | Objective definitions, app scoring, or educator judgment |
 | Assessment materials | Tasks, observable criteria, rubrics, evidence records, and completion decisions | Teaching and supported practice |
@@ -228,7 +226,7 @@ You may:
 - choose a suitable local wallet or payment scenario;
 - invite a qualified local expert;
 - adapt how a learner communicates or controls a device; and
-- use a centrally approved app accommodation for theoretical assessment or an approved equivalent practical-task variant for directly observed assessment.
+- use an approved equivalent assessment-task variant when needed for accessibility.
 
 You may not:
 
@@ -316,7 +314,7 @@ Never require disclosure of income, debt, bank access, identity status, holdings
 
 ### Support multilingual discussion
 
-Allow learners to reason and participate in the language in which they can think most clearly. App evidence must use an approved language-equivalent and accessible route. Educator-led theoretical touchpoints and educator-observed practical evidence may use another approved language when the educator can judge its meaning reliably.
+Allow learners to reason and participate in the language in which they can think most clearly. Educator-led theoretical touchpoints and educator-observed practical evidence may use another approved language when the educator can judge its meaning reliably.
 
 Before teaching:
 
@@ -345,7 +343,7 @@ For teaching and assessment, an accommodation may change how instructions are re
 
 The accommodation must preserve the measurable objective. If the objective is to explain, the learner must still communicate the explanation. If it is to verify a payment destination, the learner must still make or direct that verification. If it is to demonstrate a sequence, the educator must still observe the learner controlling the decisions in that sequence.
 
-App accommodations must follow the approved access process and preserve the required theory-assessment and practical-task-follow-up standards. Accommodations for educator-led theoretical touchpoints or educator-observed practical evidence must preserve their purpose, objective, evidence, and standard; if equivalence is unclear, seek approval before certification.
+Accommodations for educator-led theoretical touchpoints or educator-observed practical evidence must preserve their purpose, objective, evidence, and standard; if equivalence is unclear, seek approval before certification. Optional app use must never be a required accommodation route.
 
 ---
 
@@ -360,7 +358,7 @@ Before choosing activities, answer:
 - What reading, numeracy, and digital skills can the course assume?
 - What accessibility support is required?
 - What devices and connectivity are reliably available?
-- Can every learner receive supported app access for both required app contributions?
+- What local supports do learners need to participate safely in educator-led assessment?
 - Which money and payment experiences are locally familiar?
 - Which examples may create political, legal, social, or personal risk?
 - Which practical competencies must be observed?
@@ -368,7 +366,7 @@ Before choosing activities, answer:
 - When will learners practise before assessment?
 - When and how will **Not yet** learners be supported and reassessed?
 
-Do not build the schedule around content coverage alone. Build it around explanation, formative practice, app theory evaluation, educator-led theoretical touchpoints, directly observed practical evidence, app practical-task follow-up, and safe completion.
+Do not build the schedule around content coverage alone. Build it around explanation, formative practice, educator-led theoretical evidence, directly observed practical evidence, and safe completion.
 
 ### The approximately eight-hour baseline
 
@@ -397,12 +395,12 @@ Use this as a planning pattern, not a rigid script.
 | 55–65 min | Debrief | Connect the experience to the objective; correct what the activity could not show. |
 | 65–80 min | Second concept or demonstration | Add the next essential idea and model the complete process where relevant. |
 | 80–105 min | Practice and production | Learners apply, decide, explain, or perform with decreasing support. |
-| 105–115 min | Learning check or practical evidence | Gather a formative or approved educator-theory interaction, or have an educator observe an approved practical skill and schedule its app follow-up. |
+| 105–115 min | Learning check or practical evidence | Gather a formative or approved educator-theory interaction, or have an educator observe an approved practical skill. |
 | 115–120 min | Review and bridge | Name key takeaways, unresolved questions, and the next block connection. |
 
 Practical observation often requires more time than this pattern allows. For Block 3 and Block 4, plan stations, additional educator, smaller groups, or follow-up appointments. Do not assess several learners at once when you cannot see each learner's decisions and safety behavior.
 
-This pattern does not establish how much time the required app microlearning, theory evaluation, and practical-task follow-up need. Reserve that time within the schedule or arrange supported completion separately once the app flow has been validated; record both app results before certification.
+This pattern does not establish how much time educator-led assessment needs. Reserve enough time within the schedule for individual evidence, feedback, reassessment, and recording. Optional app self-checks may be offered before, during, or after learning without changing the assessment schedule.
 
 ### What to protect when time is tight
 
@@ -424,7 +422,6 @@ Move optional history, extra analogies, extended debates, detailed mechanics, an
 
 - Confirm the cohort, language, accessibility, safeguarding, venue, and schedule.
 - Read the relevant Student Guide sections and objective map.
-- Confirm app access, accounts, devices, charging, connectivity, and support.
 - Select the Block 4 module and any local expert.
 - Verify local banking, inflation, payment, legal, tax, privacy, and tool information that will be used.
 - Select activities and assessment tasks.
@@ -455,7 +452,6 @@ Prepare according to the cohort and selected tasks:
 
 - Student Guide copies or shared display;
 - educator access to this guide;
-- app access plan and charging;
 - paper, pens, cards, counters, sticky notes, or a board;
 - printed key tables, diagrams, and activity instructions;
 - prepared wallet screens or empty training wallets;
@@ -572,7 +568,7 @@ Maintain a visible “Later / Advanced” list. Add the question, confirm why it
 
 ### Media and tool fallbacks
 
-No Core explanation, formative educator check, practice activity, or directly observed practical evidence should depend on a video, live website, named service, or learner-owned device when an approved equivalent path can preserve the objective. This flexibility does not remove required app evidence.
+No Core explanation, formative educator check, practice activity, or directly observed practical evidence should depend on a video, live website, named service, or learner-owned device when an approved equivalent path can preserve the objective.
 
 | Live or online experience | Offline or low-tech equivalent |
 | --- | --- |
@@ -586,7 +582,7 @@ No Core explanation, formative educator check, practice activity, or directly ob
 | Video | Narrated diagram, storyboard, or educator explanation |
 | Live transaction | Simulation, test environment, empty training wallet, or educator demonstration |
 
-Offline teaching does not remove the required app assessment. Arrange supported app access at another time if continuous connectivity is unavailable. Do not promise offline app completion or later synchronization unless those capabilities have been tested and approved.
+Offline teaching and assessment are valid. Offer optional app self-checks only when learners can access them safely and voluntarily.
 
 ---
 
@@ -993,7 +989,7 @@ CBDC designs differ. Do not claim that every CBDC has or lacks a feature. Separa
 
 ### Block 1 educator-led theoretical touchpoint
 
-Use an approved short task that requires connection rather than definition alone. This provides educator-led theoretical evidence and complements, but does not duplicate or replace, the required app evidence. A strong candidate combines:
+Use an approved short task that requires connection rather than definition alone. This provides educator-led theoretical evidence. A strong candidate combines:
 
 - an own-words explanation of why money exists;
 - comparison of two forms of money through at least two relevant properties;
@@ -1380,16 +1376,16 @@ Learner promise:
 
 | ID | Learner must be able to | Evidence emphasis |
 | --- | --- | --- |
-| `B3.1` | Explain wallets, addresses, keys, seed phrases, and custody through essential terms and examples. | App evidence plus approved educator-led explanation where mapped. |
-| `B3.2` | Compare custodial and non-custodial approaches in guided scenarios. | App evidence plus approved educator-led comparison where mapped. |
-| `B3.3` | Identify hardware wallets, why people use them, and how they differ from hot wallets. | App evidence plus approved educator-led scenario where mapped. |
-| `B3.4` | Identify common risks and explain safe responses to seed exposure, address mistakes, clipboard attacks, impersonation, urgency scams, and too-good-to-be-true offers. | App evidence plus approved educator-led safety scenario where mapped. |
+| `B3.1` | Explain wallets, addresses, keys, seed phrases, and custody through essential terms and examples. | Approved educator-led explanation. |
+| `B3.2` | Compare custodial and non-custodial approaches in guided scenarios. | Approved educator-led comparison. |
+| `B3.3` | Identify hardware wallets, why people use them, and how they differ from hot wallets. | Approved educator-led scenario. |
+| `B3.4` | Identify common risks and explain safe responses to seed exposure, address mistakes, clipboard attacks, impersonation, urgency scams, and too-good-to-be-true offers. | Approved educator-led safety scenario. |
 | `B3.5` | Demonstrate safe setup or opening and navigation of an approved or prepared wallet, including locating and checking receive information. | Direct observation by an educator. |
 | `B3.6` | Complete or safely simulate a beginner receive or send flow and verify the relevant address, invoice, amount, confirmation, or status. | Direct observation by an educator. |
 | `B3.7` | Demonstrate recovery readiness and protection of recovery information with prepared or simulated materials. | Direct observation by an educator without real secrets. |
-| `B3.8` | Distinguish on-chain and Lightning payments and select an appropriate beginner path in a guided scenario. | App evidence plus approved educator-led scenario where mapped. |
-| `B3.9` | Compare beginner acquisition or exchange pathways and their risks without recommendation or advice. | App evidence plus approved educator-led comparison where mapped. |
-| `B3.10` | Distinguish beginner practical use from advanced or high-stakes activity and identify when to stop or seek help. | App evidence plus approved educator-led safety discussion where mapped. |
+| `B3.8` | Distinguish on-chain and Lightning payments and select an appropriate beginner path in a guided scenario. | Approved educator-led scenario. |
+| `B3.9` | Compare beginner acquisition or exchange pathways and their risks without recommendation or advice. | Approved educator-led comparison. |
+| `B3.10` | Distinguish beginner practical use from advanced or high-stakes activity and identify when to stop or seek help. | Approved educator-led safety discussion. |
 | `B3.11` | Gain access to bitcoin in an approved low-stakes or simulated environment, receive it, and check the relevant wallet and transaction information. | Direct observation by an educator. |
 
 Use guided discussions to collect formative indicators for `ALL.1` through clear explanation, relevant evidence, respectful listening, and basic reasoning. `ALL.1` is not a certification gate under the current objectives.
@@ -2394,519 +2390,17 @@ Close with:
 
 ---
 
-## 11. Assessment and certification companion
+## 11. Offer the app as an optional learning resource
 
-### If assessment is new to you
+The My First Bitcoin app is not part of assessment, completion, or certification in 2026.10. You may invite learners to use it for short self-checks, recap, discovery, and connection to My First Bitcoin updates.
 
-Assessment means collecting enough evidence to decide whether a learner has met a stated objective. It is not judging personality, confidence, speed, accent, enthusiasm, or agreement with Bitcoin.
+Do not assign app work, collect app results, use app progress to judge a learner, or require a device, account, or connection. Continue teaching and assessing through the Student Guide, discussion, activities, and direct educator observation when appropriate.
 
-Use three questions:
-
-1. **What was the learner asked to explain or do?**
-2. **What did I actually hear or observe?**
-3. **Which criterion does that evidence meet, or which criterion still needs practice?**
-
-During ordinary teaching, use questions and activities to help learners improve. During an approved assessment, explain the conditions first, observe without taking over, record evidence promptly, and give feedback afterwards. If you are not authorized to assess, do not invent a pass/fail decision; refer the evidence to the approved assessor.
-
-### Explain assessment to learners
-
-Use this explanation early in the course:
-
-> Your assessment has two equally important parts: theoretical understanding and practical competency. The app evaluates 80% of theory and your educator evaluates 20% through approved activities, workshops, discussions, and explanations. An educator directly observes 80% of practical performance, and the app evaluates a 20% follow-up about the task, its checks, decisions, and learning. These are opportunities to show what you understand and can do, and to discover what you should review or practise again.
-
-Explain that both halves are required and non-compensatory: a strong result in one cannot replace an unmet standard in the other.
-
-Compare the model with a driving test: understanding the rules is necessary, and safe performance is also necessary. Neither alone is enough.
-
-### The two-part model
-
-| Component | Share of complete assessment | Main method | Evaluator |
-| --- | ---: | --- | --- |
-| App-based theoretical evidence | 40% of the complete assessment; 80% of the theoretical half | Required app pathway and approved objective-aligned theoretical items, feedback, and retries | App under the approved assessment design |
-| Educator-led theoretical evidence | 10% of the complete assessment; 20% of the theoretical half | Approved explanations, comparisons, discussions, activities, games, simulations, scenarios, or role-plays | Educator |
-| Directly observed practical evidence | 40% of the complete assessment; 80% of the practical half | Direct observation of approved performance tasks | Educator |
-| App practical-task follow-up | 10% of the complete assessment; 20% of the practical half | Objective-aligned questions about the task, checks, decisions, and reflection | App under the approved assessment design |
-
-The app and educator-led interactions together make up the theoretical half. Direct observation and app task follow-up together make up the practical half. Many classroom activities remain formative; only an approved, objective-aligned interaction with individual evidence, criteria, and a recorded result contributes to assessment.
-
-The theoretical component and practical component must each meet the approved standard. Results are non-compensatory:
-
-- a high theoretical result cannot replace an unmet practical or safety competency;
-- strong practical performance cannot replace required theoretical evidence; and
-- strong performance in one objective cannot erase an unmet required objective.
-
-App participation or progress short of a passing result, attendance, enthusiasm, confidence, effort, or an educator's general impression is not assessment-complete status. Passing app work alone remains insufficient until the educator theory evidence and both practical contributions are passed.
-
-### Assessment roles
-
-#### The app
-
-The app can:
-
-- provide sequenced learning and retrieval practice;
-- check essential terms, facts, relationships, and scenario responses;
-- provide feedback and review routes;
-- identify possible learning gaps;
-- evaluate and record 80% of scored theoretical evidence and 20% practical-task follow-up under the approved assessment design; and
-- display or store educator-submitted practical results where approved.
-
-The app cannot directly determine whether a learner safely handles recovery information, verifies a payment, detects a changed address, controls a wallet task, or responds appropriately to a real performance condition.
-
-#### The educator's theory-assessment role
-
-The educator teaches theory, uses formative checks, responds to misconceptions, and directs learners to relevant Student Guide and app microlearning. For the approved educator-led share of theoretical assessment, the educator also:
-
-- administers approved objective-aligned touchpoints;
-- gathers individually identifiable explanations, comparisons, decisions, or reflections;
-- applies the approved theoretical rubric;
-- distinguishes evidence from participation or agreement;
-- records **Meets standard** or **Not yet** with a concise evidence reference; and
-- provides remediation and fair reassessment.
-
-An ordinary discussion does not become assessment merely because an educator hears it. The assessment purpose, conditions, criteria, and recording process must be clear in advance.
-
-#### The educator and practical assessment
-
-When conducting practical assessment, the educator:
-
-- explains the objective and success criteria;
-- provides supported practice before assessment;
-- selects only approved tasks or equivalent variants;
-- observes evidence matching the measurable verb;
-- uses the approved rubric and prompting rules;
-- stops unsafe performance;
-- records **Meets standard** or **Not yet** with an evidence reference;
-- gives specific feedback;
-- arranges remediation and fair reassessment; and
-- protects assessment and learner data.
-
-The educator does not replace structured evidence with personal discretion.
-
-### Match evidence to the objective verb
-
-The app and educator-led touchpoints use approved evidence patterns suited to theoretical objective verbs. An educator uses direct-observation tasks suited to practical objective verbs.
-
-| Verb | Evidence needed | Insufficient by itself |
-| --- | --- | --- |
-| Identify | Correct recognition or classification | Familiarity or guessing |
-| Describe | Accurate account of relevant features or sequence | Naming one isolated term |
-| Explain | Meaning expressed in the learner's own words, with a relevant relationship or reason | Repeating a slogan or selecting an answer |
-| Compare | Relevant similarities, differences, conditions, or trade-offs using consistent criteria | Saying one option is “better” without criteria |
-| Apply or assess | Use of concepts in a new or realistic scenario with a reasoned decision | Repeating the original example |
-| Demonstrate | Directly observed performance under the approved conditions | Self-report, watching another person, tapping a checklist, or explaining without acting |
-
-### Objective-to-evidence blueprint
-
-Use the block tables for exact wording. This blueprint shows the minimum evidence pattern.
-
-| Objective IDs | Required evidence pattern | Main evaluator |
-| --- | --- | --- |
-| `B1.1`–`B1.6` | App evidence plus approved educator-led explanation, comparison, modern-money scenario, and realistic/local connection | App and educator |
-| `B2.1`–`B2.6` | App evidence plus approved educator-led explanation, comparison, role map, claim analysis, or responsible-learning scenario | App and educator |
-| `B3.1`–`B3.4` | App evidence plus approved educator-led explanation, custody comparison, or safety response where mapped | App and educator |
-| `B3.5` | Direct observation of safe wallet access or opening, navigation, and receive-information check, plus linked app follow-up | Educator; app follow-up |
-| `B3.6` | Direct observation of an approved receive or send flow and all relevant verification, plus linked app follow-up | Educator; app follow-up |
-| `B3.7` | Direct observation of recovery readiness with prepared material and continuous secret protection, plus linked app follow-up | Educator; app follow-up |
-| `B3.8`–`B3.10` | App evidence plus approved educator-led payment-path, pathway-risk, or stop-and-seek-help scenario where mapped | App and educator |
-| `B3.11` | Direct observation of supported first access, receipt, and wallet or transaction-information check, plus linked app follow-up | Educator; app follow-up |
-| `B4.1` | Direct observation of one approved locally relevant task using the safe sequence and verification behavior, plus linked app follow-up | Educator; app follow-up |
-| `B4.2` | Explanation of purpose, trade-offs, failure points, safety, and next steps during or after `B4.1`, plus linked app follow-up | Educator; app follow-up |
-| `ALL.1`, `ALL.2` | Guided discussion and course-grounded reflection connected to an observed, local, or realistic experience; formative only under the current objectives | Educator for formative support |
-
-### Assessment workflows
-
-The theoretical and practical halves use related but distinct evidence workflows.
-
-For theoretical assessment:
-
-1. **Teach and practise:** Use the Student Guide, app microlearning, discussion, and formative activities.
-2. **Assess in the app:** The learner completes the required objective-aligned app items under the approved conditions.
-3. **Conduct educator touchpoints:** The educator administers the approved explanation, comparison, discussion, game, scenario, simulation, role-play, or reflection task.
-4. **Evaluate and record:** The app records its evidence; the educator applies the approved rubric and records the touchpoint result separately.
-5. **Remediate:** Use app feedback, relevant microlearning, educator explanation, and focused practice for the exact gap.
-6. **Reassess:** Use the approved app retry route or an equivalent educator-led task at the same standard.
-7. **Combine status:** Confirm that both sources of theoretical evidence meet the approved rules before marking the theoretical half complete.
-
-For practical assessment:
-
-1. **Teach:** Introduce the skill and its safety boundaries.
-2. **Practise:** Give supported rehearsal and feedback.
-3. **Observe:** An educator gathers the directly observed practical evidence through the approved practical task.
-4. **Follow up in the app:** The learner completes objective-aligned questions about the task, checks, decisions, and reflection.
-5. **Evaluate:** The educator applies the approved rubric and the app applies the approved follow-up rules; each records **Meets standard** or **Not yet**.
-6. **Remediate:** Identify the unmet criterion and provide focused learning or practice.
-7. **Reassess:** Give a fair opportunity to perform an equivalent task and app follow-up at the same standard.
-8. **Record:** Store the educator's practical result and the app follow-up result through the approved process.
-
-Assessment should never surprise a learner. Before the formal task, explain:
-
-- the objective;
-- the task and conditions;
-- the success criteria;
-- which support is allowed;
-- the safety stop conditions;
-- how the result will be recorded; and
-- what happens after **Not yet**.
-
-### Administer an educator-led theoretical touchpoint
-
-1. Select an approved task mapped to one or more theoretical objectives.
-2. Tell learners that the touchpoint provides evidence for the educator-led part of the theoretical half.
-3. State the task, conditions, permitted support, criteria, and reassessment route.
-4. Give thinking time and make each learner's evidence individually identifiable, even when the activity begins in a group.
-5. Ask for an own-words explanation, comparison, decision, or reflection.
-6. Use neutral follow-ups such as “What makes you say that?” or “Which evidence supports the connection?” without supplying the answer.
-7. Apply the approved rubric and record **Meets standard** or **Not yet** with a concise evidence reference.
-8. Give focused feedback and arrange an equivalent reassessment where needed.
-
-Group energy, speaking frequency, agreement with the educator, and polished language are not evidence of understanding. The touchpoint complements rather than replaces app evidence.
-
-### Administer a practical assessment
-
-1. Prepare the exact environment and reset it before the learner begins.
-2. Confirm the learner has completed supported practice.
-3. Explain the task, conditions, success criteria, permitted support, and stop conditions.
-4. Ask the learner to identify whether any real funds or real secrets are involved.
-5. Observe without taking over the task.
-6. Ask the learner to explain important checks and decisions.
-7. Stop immediately if a safety-critical condition occurs.
-8. Apply the approved rubric criterion by criterion.
-9. Record **Meets standard** or **Not yet** and the required evidence reference.
-10. Give specific feedback and arrange reassessment if needed.
-11. Reset or clear the environment before the next learner.
-
-Do not coach the learner through a summative task and then mark the resulting performance as independent.
-
-### Working prompting guide
-
-Final prompting limits require assessment approval. Until then, educator should use this conservative distinction during pilots and record the support provided.
-
-| Prompt type | Example | Working treatment |
-| --- | --- | --- |
-| Administrative | “You have ten minutes.” | Does not affect evidence. |
-| Accessibility or communication | Repeating the instruction, enlarging text, or allowing an approved control method | Permitted when it preserves the objective. |
-| Neutral clarification | “Please explain what you are checking now.” | May be permitted if it does not reveal the required answer or step. |
-| Directional hint | “Check the network before continuing.” | Provides part of the required safety decision; normally means independent evidence has not yet been shown. |
-| Corrective instruction | “That address is wrong; use this one.” | Stops unsafe action and changes the task into teaching or practice. Reassess later. |
-| Taking control | The educator taps, signs, scans, enters, or makes the decision for the learner | Cannot count as learner performance. |
-
-Safety intervention always takes priority over preserving an attempt. Mark **Not yet**, teach, practise, and reassess.
-
-### Working theoretical-evidence rubric
-
-This is a draft calibration aid for educator-led theoretical touchpoints. Final task-level criteria and prompting rules require assessment approval. Use it formatively for ordinary classroom checks; use it for assessment only when the task and rubric have been approved.
-
-| Dimension | Shows readiness | Needs further support |
-| --- | --- | --- |
-| Accuracy | Uses the essential concept accurately and avoids a material misconception. | Contains a material factual or conceptual error. |
-| Own-words meaning | Explains the idea rather than repeating only a label or slogan. | Gives memorized wording without showing meaning. |
-| Connection or application | Connects the idea to the question, comparison, or scenario. | Gives isolated facts or an unrelated example. |
-| Evidence and trade-off | Uses a relevant reason, check, condition, or trade-off where the objective requires it. | States preference as fact or omits the relevant condition. |
-| Scope | Recognizes uncertainty, local variation, or beginner limits where relevant. | Makes an unsupported universal, price, legal, or safety claim. |
-
-Use only the dimensions relevant to the objective. Eloquence, accent, vocabulary range, political agreement, or personal approval of Bitcoin is not an assessment criterion.
-
-### Working practical-evidence rubric
-
-This is a draft calibration aid. Final task-level criteria and prompting rules require approval.
-
-| Dimension | Meets standard | Not yet |
-| --- | --- | --- |
-| Preparation and orientation | Identifies the environment, purpose, payment path, and whether real value or secrets are involved. | Proceeds without understanding the environment or conditions. |
-| Sequence | Completes the required steps in a safe and functional order. | Omits an essential step or cannot complete within permitted support. |
-| Verification | Checks the relevant recipient, network, destination, amount, unit, fee, expiry, confirmation, status, or result. | Skips or misreads a required check. |
-| Secret and privacy protection | Keeps recovery information and credentials private and avoids unnecessary personal-data exposure. | Reveals, requests, records, or mishandles sensitive information. |
-| Risk response | Stops on mismatch, exposure, scam signal, unexpected behavior, or excess complexity and identifies a safe response. | Continues through a safety warning or cannot identify when to seek help. |
-| Explanation | Explains important choices, custody, failure points, and safety reasoning. | Completes taps without understanding or gives a materially wrong explanation. |
-| Independence | Performs within the approved support level and controls the decisions. | Depends on directional coaching or another person taking over. |
-
-A safety-critical error results in **Not yet**, even if other dimensions are strong.
-
-### Safety-critical failures
-
-The final approved list belongs in each task rubric. At minimum, stop and record **Not yet** when the learner:
-
-- exposes, requests, photographs, copies, shares, or enters a real seed phrase, private key, or wallet credential in an unsafe place;
-- fails to treat suspected recovery-information exposure as a compromise;
-- approves a known address, invoice, recipient, network, amount, or unit mismatch;
-- bypasses a required payment or transaction-status check;
-- proceeds after a clipboard anomaly, impersonation, urgency request, credential request, or too-good-to-be-true offer;
-- cannot distinguish public receiving information from spending authority;
-- continues beyond their competence instead of stopping or seeking help;
-- shares learner-linked transaction information without recognizing the privacy consequence; or
-- fails the required safe sequence or verification behavior in the selected Block 4 task.
-
-Intervene before harm occurs. The educational value comes from remediation and safe reassessment, not from letting an error continue.
-
-### Sample responses and performances for calibration
-
-Examples 1 and 2 illustrate theoretical evidence for educator calibration. Examples 3–5 illustrate practical evidence. All assessed use still requires an approved task and rubric.
-
-#### Example 1: why money exists (`B1.1`)
-
-**Meets standard:**
-
-> Money helps people exchange when the person with what I need does not want what I offer. I can sell my work or goods for something others accept and use that later with a different person.
-
-Why it meets: It identifies the coordination problem and explains how a common medium separates selling from buying.
-
-**Not yet:**
-
-> Money exists because governments print it.
-
-Why not yet: This describes one possible issuer relationship but does not explain why societies use money or the exchange problem it solves.
-
-#### Example 2: miner and node roles (`B2.3`)
-
-**Meets standard:**
-
-> A miner builds a candidate block and spends energy competing to propose it. My node checks whether the block follows rules such as valid proof of work and allowed new issuance. If it creates too much bitcoin, nodes following the rules reject it.
-
-Why it meets: It distinguishes proposal from verification and applies the supply rule.
-
-**Not yet:**
-
-> Miners control Bitcoin because they confirm every transaction.
-
-Why further support is needed: It gives miners unilateral control and fails to distinguish block proposal from node validation.
-
-#### Example 3: prepared send (`B3.6`)
-
-**Meets standard:** The learner identifies on-chain payment, verifies the intended recipient through the prepared trusted channel, compares the complete destination, confirms amount and unit, reviews the fee and summary, notices no mismatch, approves in the simulation, and identifies the pending status correctly.
-
-**Not yet:** The learner scans the request and approves without checking the destination or unit, even though the rest of the sequence is fluent.
-
-Why not yet: Verification is an essential safety behavior and cannot be averaged away.
-
-#### Example 4: recovery readiness (`B3.7`)
-
-**Meets standard:** The learner uses only fictional training words, shields them from view, confirms compatibility, follows the trusted recovery process, checks the expected training address, clears the temporary device, and explains that real exposure requires a new wallet and careful fund movement.
-
-**Not yet:** The learner offers to show the phrase to the educator so the educator can confirm it.
-
-Why not yet: The learner has not demonstrated protection of recovery information.
-
-#### Example 5: local payment task (`B4.1` and `B4.2`)
-
-**Meets standard:** The learner completes the approved simulated merchant receipt, verifies the request and result, identifies who controls the keys, compares the full path with local mobile money, and explains one benefit, one serious failure point, and a safe response.
-
-**Not yet:** The learner completes a payment but cannot identify whether the wallet is custodial, how receipt is verified, or what happens if the payment fails.
-
-Why not yet: A completed transaction alone is not transferable local competence.
-
-### Feedback after **Not yet**
-
-For app evidence, use the approved app feedback and retry route. For educator-led theoretical or educator-observed practical evidence, use feedback that names the exact gap:
-
-> You correctly identified the payment path and amount. The required destination verification was missing. Before reassessment, practise comparing the request with the trusted receiving display and stopping on a mismatch.
-
-Avoid:
-
-- “Be more careful.”
-- “You almost passed.”
-- “I know you understand.”
-- completing the task for the learner; or
-- lowering the standard because time is short.
-
-### Remediation and reassessment
-
-For an educator-led theoretical or educator-observed practical result, the educator should:
-
-1. Name the unmet criterion.
-2. Return the learner to the relevant Student Guide section, app microlearning, demonstration, or practice activity.
-3. Provide focused rehearsal in a safe environment.
-4. Confirm the learner understands why the criterion matters.
-5. Use the same approved objective and standard in a fresh but equivalent app, theoretical-touchpoint, or practical task.
-6. Record the new result and link it to the earlier attempt as required.
-
-**Not yet** means more learning or practice is needed. It is not a permanent failure or a judgment of character.
-
-Do not reassess immediately after giving the exact answer if the learner has not had a chance to internalize and transfer the learning.
-
-### Accessibility in assessment
-
-App accommodations must use an approved accessible route and preserve the theoretical standard. For educator-led theoretical touchpoints and educator-observed practical assessment, agree on and document permitted accommodations. Preserve the objective, evidence, difficulty, independence, and safety requirement.
-
-Examples:
-
-- A learner with low vision may use magnification and audio output while still verifying the full destination through an accessible trusted display.
-- A learner with limited motor control may direct an assistant's taps, provided the learner makes every relevant decision and the educator can distinguish direction from coaching.
-- A learner may explain orally instead of writing during an educator-led theoretical touchpoint or when explanation is an observable criterion within an approved practical task. The app must provide its own approved accessible route for its share of theoretical evidence.
-- A learner may receive extra processing time without receiving additional content hints.
-
-If an accommodation changes the evidence so substantially that equivalence is unclear, seek approval before certification.
-
-### Educator calibration
-
-Before assessing a cohort, educators and educator should practise scoring common theoretical responses and practical performances.
-
-Use this calibration routine:
-
-1. Review the exact objective, task, evidence type, and rubric.
-2. Independently score two **Meets standard** and two **Not yet** examples for each evidence type the educator will judge.
-3. Compare which observable evidence each educator used.
-4. Resolve disagreement through the rubric, not seniority or intuition.
-5. Practise when to use a neutral clarification and when a prompt becomes coaching.
-6. Rehearse safety interventions.
-7. Agree how evidence references and reassessments are recorded.
-
-Seek moderation or a second review when:
-
-- the educator is uncertain about a safety-critical judgment;
-- an accommodation creates an unfamiliar evidence form;
-- a local task's equivalence is disputed;
-- an educator or other educator has a personal or organizational conflict of interest; or
-- records show unusual pass patterns that require quality review.
-
-Final educator authorization and moderation procedures remain governance decisions.
-
-### Evidence minimization and privacy
-
-Record only what is required to justify the decision. A concise evidence reference may identify the task, date, criterion, result, and reassessment status.
-
-Never store:
-
-- seed phrases or private keys;
-- wallet passwords or PINs;
-- unnecessary balances;
-- complete personal transaction histories;
-- screenshots containing unrelated accounts or contacts;
-- identity documents unless an approved, lawful process explicitly requires them; or
-- private stories shared for discussion.
-
-Do not photograph practical performance by default. If recording is approved for moderation, obtain informed consent, minimize the frame, remove secrets and unrelated data, protect access, and follow the approved retention and deletion rules.
-
-### Working assessment record
-
-Use the approved system when available. This template shows the minimum distinctions the system needs.
-
-| Field | Record |
-| --- | --- |
-| Learner identifier |  |
-| Cohort, language, and delivery mode |  |
-| Objective ID |  |
-| Task and approved variant ID |  |
-| Assessment component | App theoretical / educator-led theoretical / educator-observed practical / app practical follow-up |
-| Assessment date and evaluator |  |
-| Permitted accommodation |  |
-| Support or prompts used |  |
-| Result | Meets standard / Not yet |
-| Concise evidence reference |  |
-| Safety-critical issue, if any |  |
-| Feedback given |  |
-| Remediation route |  |
-| Reassessment date and result |  |
-
-The final platform, identity, consent, retention, audit, and data-transfer fields require governance approval.
-
-### Low-connectivity and remote assessment
-
-All certificated delivery modes require both assessment parts.
-
-- Teaching and practice may occur offline through print or PDF.
-- Required app access may be scheduled when connectivity is available.
-- App assessment may operate offline and synchronize later only if that capability has been approved and tested; otherwise schedule supported app access when connectivity returns.
-- Educator-led theoretical and educator-observed practical results may be recorded on paper temporarily, then transferred through the approved process. App practical follow-up must be recorded through the approved app route. Clearly separate assessed evidence from informal formative notes.
-- Keep an audit trail that distinguishes original observation from later data entry.
-- Remote practical assessment is acceptable only when the educator can directly observe the learner's decisions, preserve privacy, intervene safely, and confirm the task environment.
-- A self-paced or app-first learner still needs the required educator-led theoretical touchpoints and directly observed practical assessment by an educator.
-
-Do not improvise a device-free certification route because technology failed. Reschedule required app access or assessment.
-
-### Certification checklist
-
-A certificate may be issued only when the approved completion record confirms:
-
-- [ ] required app theoretical learning and assessment meet the approved standard;
-- [ ] required educator-led theoretical touchpoints meet the approved standard;
-- [ ] all required Block 3 practical and safety objectives have been directly observed by an educator and passed, with their linked app follow-up passed;
-- [ ] one approved Block 4 task has been passed against both `B4.1` and `B4.2`, with its linked app follow-up passed;
-- [ ] required cross-block evidence has been completed;
-- [ ] all **Not yet** results for required objectives have been remediated and reassessed successfully;
-- [ ] the app theoretical result, educator-led theoretical result, educator practical result, and app practical-follow-up result are recorded distinctly and combined through the approved process; and
-- [ ] no required evidence was replaced by attendance, participation, self-report, or general endorsement.
-
-The certificate represents beginner competence under approved conditions. It does not represent advanced mastery, professional qualification, high-stakes custody readiness, investment expertise, or legal, tax, accounting, compliance, policy, or institutional competence.
+Use the optional 12-question self-check in [Microlearning](14_microlearning.md) only as a voluntary review aid. It can start a discussion, but it cannot replace an educator’s assessment evidence.
 
 ---
 
-## 12. Integrate the app with live teaching
-
-### Treat the app and educator as complementary
-
-The app provides structured individual learning, retrieval, quizzes, feedback, progress, 80% theory evidence, and 20% practical-task follow-up. Live teaching provides the required educator-evaluated theory interactions, direct practical observation, relationships, formative feedback, and human support the app cannot fully supply:
-
-- hearing how learners reason;
-- responding to local experience;
-- correcting ambiguous or confident misconceptions;
-- modelling safe behavior;
-- guiding practice;
-- observing transfer to a new situation; and
-- creating accountable, respectful discussion.
-
-Do not read app content aloud as the main lesson. Use app results to decide where live time is most valuable.
-
-### Plan app access without making pre-work a barrier
-
-Before the cohort:
-
-- confirm how learners download or access the official app;
-- identify shared-device, account, language, data, and accessibility needs;
-- schedule supported access for learners without reliable devices or connectivity;
-- explain which app work is learning practice and which contributes to formal theoretical evidence;
-- test sign-in, progress saving, interruption recovery, and synchronization when available; and
-- prepare the approved contingency for a failed session.
-
-Pre-reading or app preparation may be invited, but a learner must not be excluded because they could not complete optional work independently. Provide an accessible supported route.
-
-### App topic map
-
-Use the detailed question-bank structure in [Microlearning](14_microlearning.md). This table helps you align live teaching.
-
-| Block | App topic sequence | Educator connection |
-| --- | --- | --- |
-| 1. Problem / Broken Money | Opening money questions; why money exists; functions and properties; barter; scarcity, time preference, and opportunity cost; monetary history; fiat roles; fractional-reserve banking; inflation; CBDCs; review | Use local examples, role maps, comparison, purchasing-power investigation, and checked banking context. |
-| 2. Solution / Bitcoin | Purpose; digital-money search; double spending and digital scarcity; origin; decentralization and peer-to-peer transfer; roles; proof of work; supply, halving, sats, and unit bias; verification and sound money; responsibility; review | Use mechanism maps, role-play, invalid-block check, property comparison, FAQs, and evidence/trade-off discussion. |
-| 3. Action / Self-custody | Wallets; addresses, keys, and seed phrases; custody; hot and cold wallets; recovery; receiving; sending and confirmations; explorers and privacy; safety and scams; acquisition pathways; practical readiness | Demonstrate, supervise, observe, correct, and assess with prepared environments. |
-| 4. Custom / Bitcoin as Money | Local tools; Lightning where appropriate; daily-life uses; local pathways; merchant, remittance, donation, and community cases; local problems; competency preparation | Replace generic examples with checked local context and an approved local task. |
-
-### A practical app rhythm
-
-**Before the live section:** Invite or provide supported access to the relevant microlearning. Review aggregate gaps without exposing individual scores publicly.
-
-**At the start:** Use one retrieval question. Ask learners to explain why the answer is correct.
-
-**During:** Refer learners back to the app when a term or relationship needs reinforcement. Do not pause a rich discussion simply to complete screens.
-
-**After:** Assign the relevant required app check, explain the deadline and support route, and note learners who need follow-up.
-
-**Before assessment completion:** Confirm the app theoretical result, educator-led theoretical result, educator practical result, and app practical-follow-up result separately. Do not assume one status implies the others.
-
-### Use progress data responsibly
-
-Progress data can help you identify:
-
-- topics many learners misunderstood;
-- a learner who needs a different explanation;
-- an app item that may be ambiguous or poorly translated;
-- a technical access problem; and
-- where remediation should begin.
-
-Do not rank or shame learners publicly. A rapid app completion is not necessarily deep understanding. Repeated difficulty may reflect language, access, interface, disability, or item-design problems rather than effort.
-
-### When the app or network fails
-
-1. Continue teaching with the offline Student Guide and prepared activities.
-2. Record which required app work could not be completed.
-3. Do not invent or silently lower a theoretical threshold.
-4. Arrange a supported make-up session.
-5. Preserve any temporary educator practical record securely.
-6. Transfer practical results through the approved process when access returns. Synchronize an offline app result only if offline assessment and synchronization have been tested and formally approved for the current app and Diploma edition.
-7. Confirm completion before certification.
-
----
-
-## 13. Localization, translation, and delivery adaptation
+## 12. Localization, translation, and delivery adaptation
 
 ### Localize examples, not truth standards
 
@@ -3025,13 +2519,13 @@ My First Bitcoin prefers in-person Diploma sessions because direct educator cont
 - Conduct formal remote practical assessment only under approved direct-observation and privacy conditions.
 - Have a phone or low-bandwidth fallback that preserves the objective.
 
-### Self-paced or app-first learners
+### Self-paced learners
 
-Self-paced learning can prepare knowledge and complete the required app-based theory assessment and practical-task follow-up. It cannot remove the educator-evaluated theory interaction or directly observed practical assessment.
+Self-paced learning can prepare knowledge but cannot replace educator-led theoretical assessment or directly observed practical assessment.
 
 Provide:
 
-- a clear map of required app units;
+- a clear map of required learning materials and educator assessment points;
 - optional or need-based formative educator support;
 - supported practical workshops;
 - approved live or remote observation;
@@ -3043,7 +2537,7 @@ Provide:
 - Make tables and instructions readable without side-by-side windows.
 - Print comparison sheets that would otherwise require switching screens.
 - Use device turns without treating observation as performance.
-- Schedule individual app access and assessment.
+- Schedule individual educator assessment where needed.
 - Check that clipboard, camera, and notification use does not expose data.
 - Reset shared devices between learners.
 
@@ -3066,7 +2560,7 @@ Protect beginners from jargon and status competition. A person can know market l
 
 ---
 
-## 14. Select and adapt activities
+## 13. Select and adapt activities
 
 ### Activity purpose comes first
 
@@ -3148,7 +2642,7 @@ Preserve:
 
 ### Adapt a summative practical task
 
-Only use an approved equivalent practical variant. Educators may not adapt an Activity Bank task into a scored theoretical substitute for the app's assigned evidence; an approved educator-theory interaction may contribute only its assigned 20% with its own criteria and record. Preserve:
+Only use an approved equivalent practical variant. Educators may not adapt an Activity Bank task into a scored theoretical substitute when it does not match the objective; an approved educator-theory interaction must use its own criteria and record. Preserve:
 
 - objective and measurable verb;
 - evidence type;
@@ -3162,7 +2656,7 @@ If equivalence is uncertain, use the adaptation for practice and seek approval b
 
 ---
 
-## 15. Use visuals as teaching tools
+## 14. Use visuals as teaching tools
 
 The [Visual–Text Index](09_assets.md) maps Student Guide concepts to planned diagrams, tables, timelines, and interface examples. Use the visuals to reveal relationships, not decorate a lecture.
 
@@ -3207,7 +2701,7 @@ Do not turn a qualified text claim into an absolute visual. A supply chart must 
 
 ---
 
-## 16. Close the Diploma well
+## 15. Close the Diploma well
 
 ### Return to the opening questions
 
@@ -3307,15 +2801,15 @@ Remind learners:
 
 ---
 
-## 17. After the course
+## 16. After the course
 
 ### Complete records and reassessment
 
-- Reconcile the app theoretical result, educator-led theoretical result, educator practical records, and app practical-follow-up result.
+- Reconcile educator-led theoretical results and educator-observed practical records.
 - Confirm that every objective required by the approved certification blueprint has evidence from its assigned component.
 - Contact learners privately about incomplete tasks.
 - Provide focused remediation and fair reassessment.
-- Transfer delayed practical records through the approved process. Synchronize offline app results only when that capability is tested and approved for the current app and Diploma edition.
+- Transfer delayed practical records through the approved process.
 - Do not issue a certificate before assessment-complete status is confirmed.
 - Store and retain only approved minimum data.
 
@@ -3369,7 +2863,7 @@ If an activity exposes private information, risks funds, misstates a rule, or en
 
 ---
 
-## 18. Quick terminology and misconception-sensitive distinctions
+## 17. Quick terminology and misconception-sensitive distinctions
 
 Use the [Beginner Lexicon](16_lexicon.md) for full definitions. Keep these distinctions consistent in speech, slides, activities, and assessment.
 
@@ -3419,7 +2913,6 @@ Use the [Beginner Lexicon](16_lexicon.md) for full definitions. Keep these disti
 - [ ] I know the cohort's language, literacy, numeracy, and device assumptions.
 - [ ] Accessibility needs and accommodations are arranged.
 - [ ] Learners can use invented scenarios instead of private disclosure.
-- [ ] Supported app access is available to every learner.
 - [ ] The schedule includes practice, assessment, feedback, and reassessment.
 
 ### Local context
@@ -3571,10 +3064,10 @@ When a question is too advanced:
 
 | Session | Main focus | Essential interaction | Evidence planning |
 | --- | --- | --- | --- |
-| 1 | Problem / Broken Money | Opening questions, money-properties comparison, local fiat and purchasing-power discussion | App evidence plus approved educator-led Block 1 theoretical touchpoint |
-| 2 | Solution / Bitcoin | Double-spend scenario, role map, supply and sound-money comparison | App evidence plus approved educator-led Block 2 theoretical touchpoint |
-| 3 | Action / Self-custody | Custody, public/secret, recovery, receive/send, explorer, scam, and pathway practice | App/educator theory evidence plus direct practical observation and linked app follow-up |
-| 4 | Custom / Bitcoin as Money | Approved local PPP module and final reflection | App/educator theory evidence where mapped; educator-observed `B4.1`/`B4.2`; linked app follow-up; formative `ALL.2` reflection; any reassessment |
+| 1 | Problem / Broken Money | Opening questions, money-properties comparison, local fiat and purchasing-power discussion | Educator-led Block 1 theoretical evidence |
+| 2 | Solution / Bitcoin | Double-spend scenario, role map, supply and sound-money comparison | Educator-led Block 2 theoretical evidence |
+| 3 | Action / Self-custody | Custody, public/secret, recovery, receive/send, explorer, scam, and pathway practice | Educator-led theory evidence and direct practical observation |
+| 4 | Custom / Bitcoin as Money | Approved local PPP module and final reflection | Educator-led theory evidence where mapped; educator-observed `B4.1`/`B4.2`; formative `ALL.2` reflection; any reassessment |
 
 This model commonly needs extra practical assessment time.
 
@@ -3597,14 +3090,14 @@ Use only when the cohort and setting support sustained learning. Protect breaks 
 
 | Period | Focus |
 | --- | --- |
-| Opening | Expectations, app and assessment explanation, money questions |
+| Opening | Expectations, optional app and assessment explanation, money questions |
 | Morning 1 | Money foundations and properties activity |
 | Morning 2 | Fiat, banking, purchasing power, and Block 1 review |
 | Midday 1 | Bitcoin problem, roles, proof of work, supply, and sats |
 | Midday 2 | Sound-money comparison and responsibility bridge |
 | Afternoon 1 | Custody, secrets, recovery, receiving, and sending practice |
 | Afternoon 2 | Verification, scams, local Custom task, and final reflection |
-| Follow-up | Any remaining app assessment, individual practical observation, **Not yet** support, formative educator help, and certification review |
+| Follow-up | Any remaining educator assessment, individual practical observation, **Not yet** support, formative educator help, and certification review |
 
 Do not describe a compressed day as complete if required observation or assessment remains outstanding.
 
@@ -3635,7 +3128,7 @@ Use the source with direct ownership of the decision. Do not treat reference, fe
 
 This guide is operational as a teaching draft, but the following must be reconciled or approved before it becomes the final certification guide:
 
-- final approval of the four-contribution model: theory is 80% app evidence and 20% educator-led evidence; practice is 80% direct observation and 20% app follow-up; both 50% components and their required contributions are non-compensatory;
+- final approval of the 50% educator-led theoretical and 50% educator-observed practical assessment model, with both components non-compensatory;
 - the final objective-to-assessment blueprint for every required objective;
 - final app thresholds, retry rules, interruption recovery, and synchronization;
 - approved Block 3 task variants for `B3.5`, `B3.6`, `B3.7`, and `B3.11`;

@@ -247,7 +247,7 @@ The redesigned Diploma should be understood as a learning ecosystem rather than 
 | Educator Guide | Facilitation, pacing, classroom decisions, discussion management, and adaptation support |
 | Activity Bank | Participation, practice, local adaptation, review, and practical learning |
 | Custom templates | Local workshops, demonstrations, and community-specific Bitcoin use cases |
-| My First Bitcoin app | Micro-learning, knowledge checks, feedback, progress tracking, and combined-status record |
+| My First Bitcoin app | Optional microlearning, learner-owned self-checks, feedback, recap, and discovery; never assessment evidence |
 | Educator-led assessment | Explanation, synthesis, simulations, role-plays, and direct observation of practical competence |
 | Advanced pathways | Deeper study without overloading the beginner pathway |
 
@@ -265,10 +265,10 @@ Possible supporting components:
 
 Assessment should connect every learning objective to evidence that matches it. The model has two parts:
 
-1. A 50% theoretical component, led approximately 80% through app quizzes and interactive learning and 20% through short educator-led activities, games, discussions, and role-plays.
-2. A 50% educator-led practical competency component through directly observed demonstrations, simulations, tests, and role-plays.
+1. A 50% theoretical component, evaluated by educators through approved explanations, activities, games, discussions, and role-plays.
+2. A 50% practical competency component, evaluated by educators through directly observed demonstrations, simulations, tests, and role-plays.
 
-Like a driving test, learners must show that they understand the relevant ideas and that they can perform the required skills. The app supports the theory side and may record combined status, but it cannot assess practical performance.
+Like a driving test, learners must show that they understand the relevant ideas and that they can perform the required skills. The optional app can help learners review, but it does not assess, record, or determine certification.
 
 Assessment should align with:
 
@@ -302,7 +302,7 @@ Possible summative evidence:
 
 Important distinction:
 
-Blocks 1 and 2 are knowledge-dominant, while Blocks 3 and 4 are skills-dominant. The complete assessment is allocated 50% to theory and 50% to educator-observed practical competence. Within the theoretical half, approximately 80% is app-based and 20% is educator-led.
+Blocks 1 and 2 are knowledge-dominant, while Blocks 3 and 4 are skills-dominant. The complete assessment is allocated 50% to educator-led theory and 50% to educator-observed practical competence.
 
 Participation and attendance are not certification. A learner may receive a Diploma certificate only after both the theoretical component and the educator-led practical competency component are passed and recorded. This protects a shared minimum standard across educators and communities.
 
@@ -499,7 +499,7 @@ Time: 90 seconds
 
 Key message: The redesigned Diploma is more than a student book or an app.
 
-Speaker note: Introduce the Student Book, Educator Guide, Activity Bank, app, Custom templates, and Advanced pathways. Explain the driving-test model: the app supports knowledge assessment, while educators assess applied explanations and practical performance.
+Speaker note: Introduce the Student Book, Educator Guide, Activity Bank, app, Custom templates, and Advanced pathways. Explain the driving-test model: educators assess both theoretical understanding and practical performance; the app offers voluntary self-checks and review.
 
 Suggested visual: Ecosystem diagram.
 
@@ -555,7 +555,7 @@ Avoid:
 | Beginner and advanced material mixed together | Core, Custom, and Advanced separation |
 | Activities embedded inconsistently | Dedicated Activity Bank |
 | Educator support uneven | Educator Guide as facilitation engine |
-| Assessment varies by cohort | Shared objectives, app knowledge checks, and educator-observed practical rubrics |
+| Assessment varies by cohort | Shared objectives, educator-led theory criteria, and educator-observed practical rubrics |
 | Local adaptation unclear | Educator-selected Custom / Bitcoin as Money block |
 
 ---

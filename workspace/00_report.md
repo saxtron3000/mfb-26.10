@@ -1,5 +1,7 @@
 # Bitcoin Diploma 2026.10 workspace consistency and publication-readiness report
 
+> 2026.10 release supersession: this historical report includes an earlier app-assessment model. That model is post-October only; the current release treats the app as an optional recap, self-check, discovery, and update resource.
+
 | Audit control | Detail |
 | --- | --- |
 | Date | Original audit: 11 August 2026; policy harmonization update: 13 August 2026 |

@@ -107,9 +107,9 @@ These are rapid evidence reviews, not registered systematic reviews. They draw m
 
 The three reviews agree that the redesign is moving in a defensible direction. Strong adjacent evidence supports active participation, guided beginner practice, retrieval distributed across sessions, objective–activity–assessment alignment, direct observation of practical skills, task-specific assessment criteria, educator preparation and calibration, human-reviewed localisation, and a complete offline-capable instructional path.
 
-The evidence supports these design principles, but it does not validate the Diploma's exact numbers. Eight hours, four blocks, four two-hour sessions, the 50/50 theory-practice allocation, and the 80/20 allocations within theory and practice are programme choices, not proven optima. Competence, access, and safety should take priority over treating a timetable or percentage as research-established.
+The evidence supports these design principles, but it does not validate the Diploma's exact numbers. Eight hours, four blocks, four two-hour sessions, and the 50/50 theory-practice allocation are programme choices, not proven optima. Competence, access, and safety should take priority over treating a timetable or percentage as research-established.
 
-**Programme policy update, 2026-08-13:** The Diploma has adopted two 50% components. Theory is split 80% app evaluation and 20% educator-evaluated objective-aligned interaction; practice is split 80% direct educator observation and 20% app follow-up linked to the practical task. This is a governance decision to implement and evaluate, not a ratio established as optimal by the research reviewed here. Low-tech and offline-capable delivery refers to instruction and preparation, not to a device-free certification route.
+**Programme policy update, 2026-08-19:** The Diploma has adopted two educator-evaluated 50% components: theoretical understanding and directly observed practical competency. The app is optional self-assessment only and cannot provide assessment evidence. This is a governance decision to implement and evaluate, not a ratio established as optimal by the research reviewed here. Low-tech and offline-capable delivery includes learning, assessment, completion, and certification.
 
 The largest evidence gap is Bitcoin-specific. None of the reviews located a peer-reviewed or genuinely independent outcome evaluation of a beginner, community-led Bitcoin course. Public programme materials can describe curricula, delivery, and reach, but they cannot establish learning, retention, safe performance, or behaviour change. The Diploma should help close this gap through transparent pilot evaluation rather than effectiveness claims.
 
@@ -127,7 +127,7 @@ The largest evidence gap is Bitcoin-specific. None of the reviews located a peer
 | Core and Custom | Keep outcomes, safety, terminology, assessment constructs, and minimum criteria stable while adapting language, examples, schedule, facilitation, optional tools, and equivalent evidence routes locally. | High |
 | Translation | Use plain English source text, a controlled lexicon, qualified local human review, versioning, sign-off, and learner comprehension testing. AI may assist but must not be the final authority. | Medium to high |
 | Delivery modes | Hold Core outcomes and standards stable while redesigning interaction, pacing, learner support, and evidence capture for each mode. | High |
-| Offline access | Keep every essential explanation, activity, and practice route usable without continuous connectivity, a QR code, live service, personal account, real secret, or meaningful-value transaction; separately arrange the mandatory app access required for theory assessment and practical-task follow-up. | High |
+| Offline access | Keep every essential explanation, activity, practice route, and educator-led assessment usable without continuous connectivity, a QR code, live service, personal account, real secret, or meaningful-value transaction. | High |
 | QR codes | Use QR codes only for optional enhancements; pair them with a readable URL, controlled redirect, clear label, accessibility checks, and link maintenance. | Medium |
 | Follow-up | Include a post-course retrieval or supported practice touchpoint because learning and behavioural effects may decay. | Medium |
 
@@ -138,17 +138,17 @@ The largest evidence gap is Bitcoin-specific. None of the reviews located a peer
 - Keep learners active in every block. "Active" means purposeful processing and supported practice, not minimally guided discovery.
 - Use several evidence channels. App completion, attendance, confidence, enjoyment, self-report, or a quiz alone cannot demonstrate practical competence.
 - Keep theoretical and practical assessment as non-compensatory certification gates. Treat 50/50 as the approved administrative or reporting allocation, not as a research-proven optimum.
-- Implement the app/educator 80/20 theory allocation and educator/app-follow-up 80/20 practical allocation as programme policy while evaluating assessment validity, access failures, differential completion, and learner support needs. Arrange supported app access rather than implying a paper assessment substitute.
+- Implement the educator-led 50/50 theory-practice allocation as programme policy while evaluating assessment validity, access, differential completion, and learner support needs. Keep app self-checks optional and separate from certification evidence.
 - Publish a one-page Core/Custom contract so educators and translators know what they may adapt and what requires formal review.
 - Treat translation and mode conversion as versioned curriculum changes, especially when assessment meaning, safety, or learner evidence may change.
-- Keep print and offline instructional materials complete without scanning. The assessment app is an explicit prerequisite for its theory-assessment and practical-task-follow-up contributions and for certification; other digital tools must not become hidden instructional prerequisites.
+- Keep print and offline instructional materials complete without scanning. Optional app self-checks must not become hidden instructional prerequisites or certification evidence.
 
 ## Claims the evidence does not support
 
 - Eight hours is sufficient for every learner group, language, cohort size, or required objective.
 - Four equal blocks or four two-hour sessions outperform every alternative schedule.
 - Lecture should occupy one exact percentage of each session.
-- The 50/50 and internal 80/20 allocations improve validity, reliability, or access.
+- The 50/50 allocation improves validity, reliability, or access.
 - No delivery mode is universally superior.
 - QR codes improve learning.
 - Completing Bitcoin education causes Bitcoin adoption, financial improvement, ideological agreement, or durable behaviour change.
@@ -202,7 +202,7 @@ Do not scale a language and delivery-mode combination until every required objec
 - Use the Claude review as strong corroboration and practical synthesis. It marks some citations for direct verification and identifies search areas not covered.
 - Use the Gemini review for directional corroboration and implementation ideas. Verify Gemini-only claims before using them in curriculum governance or public materials because its verification trail is less transparent and some claims are more specific than the cited evidence appears to support.
 
-Confidence is highest where strong adjacent evidence converges: active participation, retrieval and spacing, novice guidance, objective-assessment alignment, direct evidence for practical skills, calibrated task-specific criteria, human-reviewed localisation, and offline-capable instruction. Confidence is lowest for Bitcoin-specific outcomes, exact time and assessment allocations, app/educator theoretical validity, app practical-follow-up validity, QR-code learning effects, self-paced completion, and long-term behaviour change.
+Confidence is highest where strong adjacent evidence converges: active participation, retrieval and spacing, novice guidance, objective-assessment alignment, direct evidence for practical skills, calibrated task-specific criteria, human-reviewed localisation, and offline-capable instruction. Confidence is lowest for Bitcoin-specific outcomes, exact time and assessment allocations, educator-assessment reliability, QR-code learning effects, self-paced completion, and long-term behaviour change.
 
 ---
 
@@ -295,7 +295,7 @@ This file contains eight Bitcoin Diploma educator responses collected in Novembe
 |---|---|
 | Educators need stronger practical support and training | Keep facilitation, assessment calibration, pacing, and low-connectivity guidance in `12_educator-draft.md`; use `12_educator-plan.md` as its planning outline and treat educator preparation as implementation work. |
 | Activity use varies by context | Use pilot evidence to select, revise, or retire activities in `10_activities.md`; preserve objective alignment and equivalent low-tech options. |
-| Videos and online tools are not universally usable | Maintain low-tech, offline-capable content for in-person facilitation or online facilitation and require a non-video fallback for media-dependent teaching activities; separately arrange supported access to the required assessment app. |
+| Videos and online tools are not universally usable | Maintain low-tech, offline-capable content for in-person facilitation or online facilitation and require a non-video fallback for media-dependent teaching activities. |
 | Learners and educators want a next step | Preserve technical and specialist follow-on material in `18_advanced.md`; consider graduate-community or referral work as a future implementation decision, not a beginner-Diploma requirement. |
 | Assessment should allow accessibility but stay meaningful | Keep common objectives and evidence standards while allowing equivalent task formats and accessibility accommodations, as defined in `13_assessment.md`. |
 
@@ -516,7 +516,7 @@ The external reviews now support several design principles while leaving the exa
 3. Require active learning, guided practice, retrieval, feedback, and objective-aligned evidence throughout the programme.
 4. Build the Educator Guide, Activity Bank, educator calibration, and reassessment system as required implementation infrastructure.
 5. Design source files for multilingual transfer, human review, versioning, and local comprehension testing from the beginning.
-6. Preserve a complete offline-capable instructional path while arranging and documenting mandatory app access for theory assessment and practical-task follow-up.
+6. Preserve a complete offline-capable instructional and educator-assessment path; optional app self-checks must never become a certification requirement.
 7. Keep print QR codes sparse, optional, accessible, and tied to controlled, maintained destinations.
 8. Make release evaluation part of the redesign rather than adding it after publication.
 
@@ -526,7 +526,7 @@ The external reviews now support several design principles while leaving the exa
 
 1. No located Bitcoin-specific independent evaluation establishes the Diploma's effectiveness.
 2. No located evidence establishes that eight hours is universally sufficient or that four equal sessions are optimal.
-3. No located evidence validates the 50/50 theory-practice allocation or either internal 80/20 allocation.
+3. No located evidence validates the 50/50 theory-practice allocation.
 4. Delivery-mode claims require testing of the actual materials, supports, interaction, and evidence route in that mode.
 5. Translation equivalence requires local human review and learner testing; source-language quality alone is insufficient.
 6. Practical-assessment reliability requires measured educator agreement, not the existence of a rubric alone.
@@ -555,10 +555,10 @@ The external reviews now support several design principles while leaving the exa
 3. Build the Educator Guide, Activity Bank, educator calibration, and reassessment route as required parts of the learning ecosystem.
 4. Write in plain, consistent, translation-ready language and require qualified local review.
 5. Treat spending as one possible Block 4 practice, not the full global definition of Block 4.
-6. Require print and offline instructional resources to be complete without scanning; use QR codes only for optional enhancements, while clearly disclosing the separate mandatory app assessment.
-7. Use two required, non-compensatory assessment gates: theory split between app and educator evidence, and practice split between direct observation and task-linked app follow-up.
+6. Require print and offline instructional resources to be complete without scanning; use QR codes only for optional enhancements, while clearly stating that app self-checks are optional.
+7. Use two required, non-compensatory educator-led assessment gates: theoretical understanding and directly observed practical competency.
 8. Require both assessment components before certification.
-9. Implement the 50/50 allocation and its internal 80/20 splits as declared programme policy while evaluating validity, access failures, differential completion, and assessment burden; do not present the allocation as research-proven.
+9. Implement the 50/50 allocation as declared programme policy while evaluating validity, access failures, differential completion, and assessment burden; do not present the allocation as research-proven.
 10. Pilot and report actual time, access, assessment burden, reassessment, retention, and educator agreement.
 
 ---
@@ -570,7 +570,7 @@ The external reviews now support several design principles while leaving the exa
 3. A final claim that eight hours is sufficient for the complete Core objective set.
 4. Final passing thresholds, scoring rules, retries, access arrangements, and accommodations within the approved two-component model.
 5. Public effectiveness, behavioural, adoption, or financial-outcome claims until supported by an appropriate evaluation.
-6. App functionality and cross-modal continuation beyond the mandatory theoretical-assessment role; the assessment configuration, integration, access planning, and release readiness cannot wait.
+6. Optional app self-assessment functionality and cross-modal continuation; it must remain separate from assessment, completion, and certification.
 7. Final online cohort, self-paced, remote, and low-connectivity practical-evidence requirements.
 8. Scaling a language or delivery-mode combination before its safety, accessibility, translation, timing, and educator model are tested.
 

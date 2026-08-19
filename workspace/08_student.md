@@ -34,7 +34,7 @@ This approach matters because money affects every person. People should be able 
 
 ### What we stand for: accessibility, critical thinking, community, and self-sovereignty
 
-**Accessibility** means that Diploma content can be taught in person (preferred), online, or through low-tech print/PDF delivery. Limited technology should not prevent participation in learning. Completion and certification do require supported access to the My First Bitcoin app for theory assessment and practical-task follow-up. Local examples may change, but the main learning outcomes remain the same.
+**Accessibility** means that Diploma content can be taught in person (preferred), online, or through low-tech print/PDF delivery. Limited technology should not prevent participation in learning or certification. Local examples may change, but the main learning outcomes remain the same.
 
 **Curiosity** means being willing to ask why, admit what you do not know, and investigate an unfamiliar answer before accepting or rejecting it.
 
@@ -44,9 +44,9 @@ This approach matters because money affects every person. People should be able 
 
 **Self-sovereignty** means having meaningful control over your own choices and resources. With Bitcoin, greater control can reduce dependence on institutions. It also creates greater personal responsibility. Control without knowledge can be dangerous, so practical safety is a central part of this Diploma.
 
-### Learn with the My First Bitcoin app
+### Learn more with the My First Bitcoin app
 
-The My First Bitcoin app is required to complete the Diploma. It provides microlearning, 80% of theoretical assessment, and the 20% practical-task follow-up. This book, your educator, and group activities provide flexible content delivery, discussion, context, and practical preparation. Follow the app access instructions approved for this Diploma edition before assessment. If you do not have a suitable device or connection, ask your educator about supported access.
+The My First Bitcoin app is an optional resource. It can offer short self-check questions, recap material, and ways to discover more from My First Bitcoin. It is not required to take part in the Diploma, complete the learning, or receive a certificate. Your book, educator, and group activities provide the complete learning path.
 
 ### Why this Diploma exists
 
@@ -111,7 +111,7 @@ These outcomes are a foundation, not proof of expert skill. Completing the Diplo
 
 My First Bitcoin prefers in-person Diploma sessions because direct contact with an educator and more opportunities for practical activities can make learning more engaging and natural. This is a preference, not a requirement. Online teaching can be more affordable, scalable, and achievable for many people, so the Diploma supports both modes.
 
-Diploma content may be taught in person, online, through a blended course, or with low-tech print/PDF materials. The book provides the shared knowledge path. Your educator adds discussion, guided activities, demonstrations, and local context. In every model, the required app theory assessment, educator theory interaction, observed practical assessment, and app practical follow-up remain the same.
+Diploma content may be taught in person, online, through a blended course, or with low-tech print/PDF materials. The book provides the shared knowledge path. Your educator adds discussion, guided activities, demonstrations, local context, and any required assessment.
 
 Each block follows the same rhythm:
 
@@ -140,17 +140,13 @@ During discussion:
 - do not photograph, record, or share another person's screen, work, or identifying information without permission;
 - do not pressure anyone to buy, sell, or reveal how much money they hold.
 
-Your assessment has two required, non-substitutable components, each allocated 50% of the complete assessment. The theoretical component is 80% app evaluation and 20% educator-evaluated evidence from approved activities, workshops, discussions, or learner explanations. The practical component is 80% direct observation by an educator and 20% app follow-up about the practical task, its checks, decisions, and learning. Informal classroom discussion remains formative unless your educator explains that it is an approved assessment interaction.
+Your educator will explain any required assessment activities. Theory is mainly developed in Blocks 1 and 2, where your educator uses check-ins, discussion, participation, and your explanations to understand your learning. Practical competency is mainly developed in Blocks 3 and 4, where an educator observes the relevant actions under safe, supported conditions.
 
-Theory is mainly developed in Blocks 1 and 2. Practical competency is mainly developed in Blocks 3 and 4, where an app follow-up checks your understanding of the task but does not replace observed performance.
+To receive a certificate, you must meet the approved Diploma requirements. Attendance, app use, or completing a self-check quiz alone is not enough.
 
-To receive a certificate, you must pass both components and their required app, educator, and educator contributions. A strong result in one part cannot replace an unmet standard in another. Passing the app alone, completing the practical task without its follow-up, or attending every session is not enough.
+### Use the My First Bitcoin app if it helps you
 
-### Use the My First Bitcoin app
-
-Use the app access route approved for this Diploma edition. Its required pathway combines formative microlearning with approved scored items. It evaluates 80% of the theoretical component and the 20% practical-task follow-up; app progress or practice alone is not a passing result. If you temporarily lack a suitable device or connection, tell your educator so supported access can be arranged. Offline knowledge checks can help you prepare, but cannot replace the required app contributions.
-
-The app evaluates theoretical learning and task-linked practical follow-up. It does not replace practical competency assessment by an educator, and the required Diploma app is a learning and assessment tool rather than a Bitcoin wallet.
+You may use the app for short self-checks, recap, or to find more My First Bitcoin learning. Its quiz is a learning aid, not an assessment or a Bitcoin wallet. If you do not have a suitable device or connection, you can still participate fully in the Diploma.
 
 ### Required prior knowledge: none
 
@@ -167,10 +163,10 @@ For the Core path, you need:
 - this book in print or PDF form;
 - a notebook and pen, or another way to record answers;
 - an educator or study group where available;
-- supported access, at scheduled points, to a device capable of running the My First Bitcoin app and submitting the required theoretical assessment;
+- optional access to the My First Bitcoin app if you would like to use its self-check and recap resources;
 - time to discuss and reflect.
 
-A personal phone and continuous internet connection are not required for content delivery or practical preparation. However, every learner must have supported access to the app and any connectivity it requires to complete and record the theoretical assessment. Do not install a Bitcoin wallet or create a seed phrase only because another learner tells you to. Use practical tools only under clear guidance and only when you understand the purpose and risk.
+A personal phone and continuous internet connection are not required for learning, practical preparation, assessment, or certification. Do not install a Bitcoin wallet or create a seed phrase only because another learner tells you to. Use practical tools only under clear guidance and only when you understand the purpose and risk.
 
 For Bitcoin-wallet or other financial-tool practice on a device:
 
@@ -180,15 +176,15 @@ For Bitcoin-wallet or other financial-tool practice on a device:
 - never use another person's real seed phrase;
 - never display a seed phrase to a class, camera, website, or message service.
 
-Supported app assessment may use an approved managed, shared, or loaned device if the access rules permit it. Follow the approved sign-in, privacy, sign-out, and account-security process; do not enter wallet secrets or personal financial information into the assessment app.
+If you use the optional app on a managed, shared, or loaned device, follow the approved sign-in, privacy, sign-out, and account-security process. Never enter wallet secrets or personal financial information into the app.
 
 ### How low-tech and offline content delivery works
 
-All Core definitions, comparisons, safety rules, and review questions are contained in this book. Supplementary learning links and QR codes are optional. They may provide updates, source files, or ways to connect, but they are not required to understand the course. The required app access used for theoretical assessment is not optional.
+All Core definitions, comparisons, safety rules, and review questions are contained in this book. Supplementary learning links, QR codes, and the My First Bitcoin app are optional. They may provide updates, recap material, source files, or ways to connect, but they are not required to understand or complete the course.
 
 When a demonstration needs internet access, your educator should provide an offline alternative when possible. This may be a printed wallet screen, a transaction scenario, a card exercise, or a step-by-step discussion. A failed connection should not stop teaching or preparation.
 
-An educator may use offline knowledge checks for formative preparation and approved offline practical assessment tasks when connectivity is limited. Offline theory checks do not replace the required app-based theory assessment or app practical follow-up. Every learner must complete and record both required app contributions through supported access before certification. Any offline app or later-synchronization option applies only if that capability has been tested and approved.
+An educator may use offline knowledge checks for preparation and approved practical assessment tasks when connectivity is limited. A learner may use the optional app later for recap or self-checks, but it is not part of the certification process.
 
 Some information changes over time. Fees, laws, taxes, available services, wallet features, and local merchant lists are examples. This book explains the lasting concepts. Your educator should verify current local details before presenting them.
 
@@ -1644,7 +1640,7 @@ A printed edition may place one official support QR code here. Before paying, co
 
 ### Certificate verification
 
-A certificate is issued only after you pass both required components: theory, worth 50% and split app/educator 80/20; and practical competency, worth 50% and split direct observation/app follow-up 80/20. The app may display the combined completion status, but its practical follow-up does not replace practical performance evaluation by an educator. The certificate represents assessed beginner competence under supported conditions, not investment skill, professional financial competence, or readiness to manage high-value self-custody.
+A certificate is issued only after you meet the approved theoretical and practical requirements through the Diploma’s educator-led assessment process. Optional app use does not affect certification. The certificate represents assessed beginner competence under supported conditions, not investment skill, professional financial competence, or readiness to manage high-value self-custody.
 
 If your Diploma certificate includes a verification code, link, QR code, digital signature, or timestamp, follow the instructions printed on that certificate. Verify that the destination belongs to My First Bitcoin or the clearly identified issuing organization.
 

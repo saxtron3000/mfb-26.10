@@ -1,15 +1,12 @@
-# Bitcoin Diploma Microlearning Question Bank
+# Bitcoin Diploma Optional Self-Assessment Question Bank
 
-## Delivery roadmap
+## Scope
 
-This document has two separate tracks:
+This document defines a minimal, learner-owned self-assessment quiz that can be built with the app as it exists today.
 
-1. **October push:** a minimal viable self-assessment quiz that can be built with the app as it exists today.
-2. **Post-October wish list:** the larger question-bank, richer learning formats, and future app features to consider after the October release.
+The quiz is deliberately separate from formal Diploma assessment. It is learner-owned by design, so its results cannot be used for certification, passing decisions, educator tracking, or evidence that a learner has completed a practical skill.
 
-The October quiz is deliberately separate from formal Diploma assessment. The app cannot give educators learner-progress data, so its results cannot be used for certification, passing decisions, educator tracking, or evidence that a learner has completed a practical skill.
-
-# October push: Phase 1 minimal viable product
+# Phase 1 minimal viable product
 
 ## Learner purpose
 
@@ -27,7 +24,7 @@ Create one learner-owned **12-question** self-assessment quiz. It helps learners
 | Final screen | Show a simple score out of 12, if supported, with one encouraging message. Do not label it pass or fail. |
 | Data and assessment | No educator tracking, certification use, learner-progress record, practical-skills claim, or collection of personal financial information. |
 
-## October developer handoff record
+## Developer handoff record
 
 Supply each of the 12 questions with: item ID; block and topic; prompt; options A–D; correct option; correct-answer response and call to action; an incorrect-answer response and review reference for each option; objective link; and review status.
 
@@ -37,7 +34,7 @@ Use supportive result messages such as:
 - “Good progress. Review the topics highlighted in your answers, then try again.”
 - “Every question is a chance to learn. Revisit the relevant Diploma sections and try the quiz again.”
 
-## October review checklist
+## Review checklist
 
 Before a question enters the October quiz, confirm that it:
 
@@ -48,7 +45,7 @@ Before a question enters the October quiz, confirm that it:
 - does not give financial, legal, tax, accounting, compliance, or investment advice; and
 - does not request or expose seed phrases, private keys, personal financial data, or identifying information.
 
-# Post-October wish list
+# Question-bank expansion
 
 Everything below this heading is not required for the October push. It preserves the larger content bank, question-type ideas, and feature requests for later planning. Do not treat it as an October build requirement.
 
@@ -56,7 +53,7 @@ Use simple, translation-ready English. Keep the Diploma Bitcoin-only, educationa
 
 ---
 
-# Post-October content-record format
+# Content-record format
 
 Each future item should use this record:
 
@@ -70,7 +67,7 @@ Each future item should use this record:
 | Answer or response criteria | Correct answer(s), acceptable range, or reflection guidance. |
 | Feedback | Brief explanation for correct and incorrect choices; link to review content if useful. |
 | Objective link | Relevant objective in `05_objectives.md`, where applicable. |
-| Assessment use | Self-assessment, future app practice, or another approved future use. |
+| Use | Self-assessment, recap, or discovery. Never certification evidence. |
 | Review metadata | Language, difficulty, source/date for current claims, and reviewer status. |
 
 ## Item-writing rules
@@ -451,7 +448,7 @@ Question-bank opportunities:
 - safety-critical mixed review;
 - scenario branching: identify the next safest action;
 - learner self-check: mark areas needing guided practice;
-- educator flag: passing app theory never substitutes for the required practical competency assessment.
+- educator flag: app self-checks can guide review but never substitute for educator-led assessment.
 
 ---
 
@@ -459,7 +456,7 @@ Question-bank opportunities:
 
 ## Custom-content rule
 
-Block 4 content is selected by the educator for the local community. Create app items only after the local module, tools, safety boundaries, sources, and assessment evidence are approved. Keep these items modular and tag them by location, language, delivery context, and review date.
+Block 4 content is selected by the educator for the local community. Create app self-check items only after the local module, tools, safety boundaries, and sources are approved. Keep these items modular and tag them by location, language, delivery context, and review date.
 
 ## BD-ML-B04-T01: Local Bitcoin tools and resources
 
