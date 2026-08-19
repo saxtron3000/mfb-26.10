@@ -169,22 +169,14 @@ Recommended answers are included to make the next pass faster.
 | 3 | Should an educator who is not the course educator be allowed to review practical evidence? | **Yes**, if criteria, calibration, records, and accountability are defined. |
 | 4 | Is Module 4 required for every learner seeking a certificate, even though its local task is Custom? | **Yes.** |
 | 5 | Should `B2.5` and `B2.6` remain required objectives and receive short Student Guide sections? | **Yes.** |
-| 6 | Should `B3.11` remain a separate certification objective instead of being merged into `B3.5` and `B3.6`? | **No**, unless “first access” produces genuinely distinct evidence. |
+| 6 | Should `B3.11` remain a separate certification objective instead of being merged into `B3.5` and `B3.6`? | **Yes**, unless “first access” produces genuinely distinct evidence. |
 | 7 | Should `12_educator-plan.md` remain internal and subordinate to the published Educator Guide? | **Yes.** |
 | 8 | Should `14_microlearning-plan.md` be the internal app roadmap and `14_microlearning.md` be the October production handoff? | **Yes.** |
 | 9 | Should the October quiz describe results only as performance on a quick self-check, not as evidence of Diploma-level foundation or competence? | **Yes.** |
-| 10 | Should `17_spec.md` become the internal, release-blocking production specification—defining exactly what must be checked before a version may be published—while its audience-facing description of the Diploma moves to a separate overview? | **Yes.** |
+| 10 | Should `17_spec.md` become the actual publication specification, with its overview material moved elsewhere? | **No.** |
 | 11 | Should `18_advanced.md` become the sole Advanced holding authority if the two missing `workspace/advanced/` files will not be restored? | **Yes.** |
 | 12 | Should the imported annotation backlog be moved out of `00_todo.md` so that file contains only current release actions? | **Yes.** |
-| 13 | Should a timed, low-tech pilot with real educator assessment be a publication requirement? | **Yes.** |
-
-### Decision 10 — what this means
-
-`17_spec.md` currently explains the Diploma to staff, educators, partners, funders, and collaborators. That is useful overview material, but it does not tell a production team when a publication is ready to release. It should therefore move to a separately named overview or public brief, such as a revised version of `public/elevator pitch.md`.
-
-`17_spec.md` should instead become the internal checklist and standard for every release. It should state the required source files and version, publication formats, layout and export requirements, accessibility checks, link and citation checks, rights and attribution records, translation and localization checks, learner and educator pilot evidence, final quality assurance, release approval, changelog, and correction process. A release should not be marked complete until each applicable requirement is recorded as complete or has an explicitly accepted exception.
-
-This does not change the curriculum itself. It separates two jobs that need different documents: the overview explains what the Diploma is and why it matters; the publication specification defines how the approved Diploma is prepared, checked, and released reliably.
+| 13 | Should a timed, low-tech pilot with real educator assessment be a publication requirement? | **No** |
 
 ## Final judgement
 
