@@ -1120,7 +1120,7 @@ Lightning wallets can be custodial or self-custodial. A simple Lightning applica
 
 Before paying, confirm which network the recipient expects. An on-chain wallet cannot send directly to every Lightning invoice, and a Lightning wallet may not support every on-chain function. Some applications support both and may convert between them, with added fees or trust.
 
-Detailed Lightning setup and live payment practice belong in the Module 4 when local tools, connectivity, educator preparation, and learner safety allow.
+Detailed Lightning setup and live payment practice belong in Module 4 when local tools, connectivity, educator preparation, and learner safety allow.
 
 Channel setup, routing operations, and liquidity management are advanced topics. A beginner needs to recognize that these factors can affect whether a Lightning payment succeeds and what it costs, but does not need to operate routing infrastructure in the Core Diploma.
 
