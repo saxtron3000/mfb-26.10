@@ -1073,17 +1073,17 @@ This catalog gives every module in the 24-module roadmap a home for the parked m
 | 2. History of Bitcoin and Computer Science Foundations | Cypherpunks, digital-cash attempts, Satoshi, the whitepaper, Genesis Block, protocols, networks, peer-to-peer systems, hashes, and distributed-system foundations | Legacy chapters 4.3, 5.0, 5.1, 8 and 9; Organizations technical-history sources |
 | 3. Monetary Economics | Scarcity, time preference, opportunity cost, inflation, purchasing power, fractional-reserve banking, liquidity and solvency, debt, policy tools, the Cantillon effect, and risk/reward and capital-allocation reasoning | Legacy chapters 1.6, 3.2, 4.1, 4.2; Organizations investment-management material |
 | 4. History of Money (localisation) | Local money histories, commodity money, coinage, paper receipts, gold standards, Bretton Woods, Nixon Shock, and modern digital money | Legacy chapters 2 and 3; local educator input |
-| 5. Mining and Consensus | Nakamoto Consensus, proof of work, nodes, miners, economic nodes, block templates, valid hashes, difficulty, issuance, halvings, fee markets, and incentives | Legacy chapters 5.1 and 9; Organizations adoption and mining sources |
+| 5. Mining and Consensus | Nakamoto Consensus, proof of work, nodes, miners, economic nodes, block templates, valid hashes, difficulty, issuance, halvings, fee markets, incentives, chain reorganizations, 51% attack scenarios, and protocol-governance cases | Legacy chapters 5.1 and 9; Organizations adoption and mining sources |
 | 6. Cryptography | Public/private keys, digital signatures, hashing, SHA-256, one-way functions, address hashing, and optional Merkle trees | Legacy chapter 8.1; Organizations technical-history sources |
 | 7. Transactions and Settlement | UTXOs, inputs, outputs, change, signatures, broadcast, mempools, confirmations, settlement finality, and public-ledger trade-offs | Legacy chapters 6.4, 8.2, 9.2, 9.3; Organizations Bitcoin-economy sources |
 | 8. Self-Custody, Privacy, Security, and Online Safety | Threat models, wallet and recovery design, custody, passphrases, multisig, UTXO and explorer privacy, scams, metadata, and device safety | Legacy chapters 6, 8, 9; `08_student.md` safety sections; Cypherpunk material |
-| 9. Payments, Exchange, and Lightning | On/off ramps, exchange trade-offs, Lightning channels and routing, liquidity, payment flows, merchant payments, and acquisition risks | Legacy chapters 6.1 and 7; Organizations banking-and-payments sources |
+| 9. Payments, Exchange, and Lightning | On/off ramps, exchange trade-offs, Lightning channels and routing, liquidity, payment flows, merchant payments, acquisition risks, and carefully bounded comparisons with adjacent payment-layer designs | Legacy chapters 6.1 and 7; Organizations banking-and-payments sources |
 | 10. Infrastructure and Maintenance | Nodes, wallet infrastructure, explorers, BTCPay, Lightning nodes, connectivity, troubleshooting, service management, and maintenance habits | Legacy chapters 7, 8, 9; Organizations internal-functions sources |
 | 11. Open Source Software and Contribution | Bitcoin Core, wallet and payment software, review, licenses, BIPs, governance, and code and non-code contribution pathways | Legacy chapters 5.1, 6.2, 7.5; Organizations technical-history sources |
-| 12. On-Chain Analytics | Open-ledger inspection, transaction graphs, public metrics, block explorers, Pizza Day analysis, and privacy limits | Organizations Bitcoin-economy sources |
-| 13. Energy and Mining | Mining energy use, incentives, surplus energy, grid interaction, energy claims, and public debate | Legacy mining material; Organizations energy sources |
-| 14. Bitcoin for Business | Merchant workflows, payment operations, BTCPay, receipts, refunds, staff training, accounting boundaries, and customer education | Legacy chapter 7.5; Organizations business and sector sources |
-| 15. Bitcoin Treasury and Organizational Custody | Treasury policy, balance-sheet exposure, custody roles, approvals, controls, accounting boundaries, and institutional risk | Organizations treasury and investment-management sources |
+| 12. On-Chain Analytics | Open-ledger inspection, transaction graphs, public metrics, block explorers, Pizza Day analysis, HODL waves, Coin Days Destroyed, MVRV, Puell Multiple, and privacy limits | Organizations Bitcoin-economy sources |
+| 13. Energy and Mining | Mining energy use, incentives, surplus energy, grid interaction, demand response, methane or flared-gas claims, renewable-energy project claims, and public debate | Legacy mining material; Organizations energy sources |
+| 14. Bitcoin for Business | Merchant workflows, payment operations, BTCPay, receipts, refunds, staff training, accounting boundaries, customer education, and organizational analysis frameworks such as SWOT, PESTLE, and Porter’s Five Forces | Legacy chapter 7.5; Organizations business and sector sources |
+| 15. Bitcoin Treasury and Organizational Custody | Treasury policy, balance-sheet exposure, custody roles, approvals, controls, proof-of-reserves evaluation, accounting boundaries, and institutional risk | Organizations treasury and investment-management sources |
 | 16. Bitcoin Risk Management and Scenario Planning | Risk registers, likelihood, magnitude, time horizon, mitigations, strategic scenarios, and organizational decision-making | Organizations risk-management sources |
 | 17. Communities and Circular Economies | Local resource maps, merchant discovery, circular-economy design, education support, case studies, governance, and community sustainability | Legacy chapter 7.5 and case studies; local Custom experience |
 | 18. Bitcoin for Families and Communities | Family custody conversations, inheritance basics, safety culture, youth education, shared decisions, and community-specific modules co-designed with participants | Custody and safety material; local community input |
@@ -1091,7 +1091,7 @@ This catalog gives every module in the 24-module roadmap a home for the parked m
 | 20. Money and Human Rights | Financial censorship, CBDCs, privacy, access, self-sovereignty, remittances, and rights framing | Legacy chapter 10.1, 10.2; Organizations government and underbanked-access sources |
 | 21. Bitcoin Policy and Governance | CBDCs, self-custody restrictions, law versus protocol, organizational governance, and public-sector implications | Organizations government and CBDC sources |
 | 22. Philosophy of Bitcoin and Future Scenarios | Self-sovereignty, autonomy, critical thinking, rule verification, value claims, and future scenarios evaluated as possibilities rather than promises | Legacy chapter 10; Organizations misconceptions and future-scenarios sources |
-| 23. Decentralized Communication and Networks | Internet and protocol layers, Tor, encryption, peer-to-peer resilience, Nostr, identity, relays, censorship resistance, and social publishing | Legacy chapter 4.3; Cypherpunk material; Organizations communication sources |
+| 23. Decentralized Communication and Networks | Internet and protocol layers, Tor, encryption, peer-to-peer resilience, Nostr, identity, relays, censorship resistance, social publishing, and carefully evaluated application examples such as healthcare data, e-voting, and sats rewards | Legacy chapter 4.3; Cypherpunk material; Organizations communication sources |
 | 24. Bitcoin and AI Payments | AI agents, machine payments, Lightning-enabled APIs, L402-style flows, and automated service purchasing | Organizations AI and infrastructure sources |
 
 ---
@@ -1269,6 +1269,25 @@ Most Organizations content belongs in Advanced because it assumes strategic, ope
 | Computer Science Fundamentals | protocols, networks, hashes, distributed systems, Byzantine fault, proof of work, peer-to-peer systems, protocol layers | `3-bitcoin-technical-history/`; `6-adopting-bitcoin/1-the-discovery-of-digital-scarcity.md`; `6-adopting-bitcoin/2-the-bitcoin-adoption-cycle.md` | Strong source material. Could be sequenced before Cryptography. |
 | Online privacy and safety | KYC/no-KYC, phishing, cryptojacking, wallet privacy, public ledger privacy, data breaches, identity exposure | `4-impact-on-industry-verticals/4-the-impact-on-the-technology-industry.md`; `5-impact-on-internal-functions/1-bitcoin-s-impact-on-it-leaders.md`; `7-bitcoin-s-possible-future/3-banking-the-un-der-banked.md`; `8-the-bitcoin-economy/` | Useful as an individual and organizational safety module. |
 
+## Additional Organizations Material To Preserve
+
+The beginner merge map identifies the following material as too advanced for the Diploma but useful when bounded carefully in the 24-module roadmap.
+
+Sources:
+
+- `advanced/advancedorganizations.md`
+- `advanced/mergefromorganizations.md`
+
+| Material | Roadmap home | Boundary for future publication |
+|---|---|---|
+| Sharpe ratio, Sortino ratio, correlation, total-addressable-market estimates, and hurdle rates | 3. Monetary Economics; 15. Bitcoin Treasury and Organizational Custody | Teach them as analytical concepts with assumption and data-limit analysis; never calculate or recommend a learner’s allocation. |
+| Reorganization probability, 51% attack, soft-fork, and hard-fork scenarios | 5. Mining and Consensus; 11. Open Source Software and Contribution | Use simplified, fictional cases to explain incentives, consensus, and governance; avoid presenting attack likelihood as a current network guarantee. |
+| Liquid, Fedimint, Cashu, Chaumian mints, sidechains, and stablecoins | 9. Payments, Exchange, and Lightning | Use only as limited comparisons that clarify Bitcoin and Lightning’s scope and trade-offs. They are not Bitcoin-only recommendations or a required curriculum focus. |
+| HODL waves, Coin Days Destroyed, MVRV, Puell Multiple, and market-cycle analysis | 12. On-Chain Analytics | Explain definitions, measurement limits, selection bias, and uncertainty. Do not use them for price prediction or investment recommendations. |
+| Proof-of-reserves evaluation; organizational custody due diligence; payroll and employee-benefit scenarios | 14. Bitcoin for Business; 15. Bitcoin Treasury and Organizational Custody | Treat as organizational scenarios with local legal, tax, accounting, employment, and security review. Do not turn them into operational instructions. |
+| SWOT, PESTLE, and Porter’s Five Forces | 14. Bitcoin for Business; 16. Bitcoin Risk Management and Scenario Planning | Use as optional frameworks for analyzing a fictional organization; they do not replace sector expertise or decision authority. |
+| Healthcare data, e-voting, sats rewards, and other Nostr application claims | 23. Decentralized Communication and Networks | Treat as optional, fact-checked case studies. Do not imply that Nostr or Bitcoin is suitable for a sensitive use case without specialist review. |
+
 ## Existing Titles With Little Direct Organizations Content
 
 | Existing Advanced module title | Decision |
@@ -1339,6 +1358,8 @@ Current-data claims requiring verification include:
 - corporate and national Bitcoin holdings;
 - accounting, tax, AML, KYC, and regulatory rules;
 - energy-use percentages, renewable-energy claims, grid-cost examples, and methane claims;
+- on-chain analytic metrics, their methodology, and any interpretation based on them;
+- sensitive Nostr application claims, including healthcare, voting, identity, or reward-system examples;
 - named company, wallet, custodian, exchange, and service-provider examples.
 
 ## Material To Keep As Background Only
@@ -1352,6 +1373,8 @@ Do not automatically make the following student-facing:
 - investment-performance comparisons;
 - claims about future government adoption;
 - highly technical AI-payment workflows;
+- adjacent-protocol comparisons that could blur the Bitcoin-only scope;
+- sensitive communication or data-use case studies without specialist review;
 - controversial policy claims without structured evidence and counterarguments.
 
 These can inform educator preparation, scenario design, or research notes.
@@ -1367,6 +1390,7 @@ Before any Advanced module is published, verify, date, cite, localize, or rewrit
 - CBDC country counts and country-status claims;
 - debt, inflation, purchasing-power, wage, and productivity statistics;
 - bitcoin mined-supply figures;
+- on-chain analytic metrics and market-cycle interpretations;
 - halving tables and future issuance estimates;
 - hashrate, mining distribution, mining-pool, and energy data;
 - large-transaction fee examples;
@@ -1377,6 +1401,7 @@ Before any Advanced module is published, verify, date, cite, localize, or rewrit
 - merchant fee examples;
 - URLs, QR codes, and external resource links;
 - safety claims about wallets, hardware devices, or custody practices.
+- sensitive Nostr application claims, including healthcare, voting, identity, or reward-system examples.
 
 Evergreen explanations are preferred when current data is not essential.
 
