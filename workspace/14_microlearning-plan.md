@@ -19,14 +19,23 @@ Create one learner-owned **12-question** self-assessment quiz. It helps learners
 | Questions | Exactly 12 questions selected from Modules 1, 2, and 3. Do not include local Module 4 content. |
 | Format | One multiple-choice prompt with exactly four answer options. |
 | Correct answer | One clear best answer. |
-| Correct-answer response | Brief congratulations, a plain-language reason, and a call to action such as “Keep learning” or “Continue.” |
-| Incorrect-answer response | Brief correction, a plain-language explanation, and a specific Bitcoin Diploma topic to review. |
+| Feedback after an answer | One shared, plain-language explanation, shown after either answer outcome, with a specific Bitcoin Diploma topic to review. It may invite the learner to keep learning or continue, but the current app cannot show different correct and incorrect messages. |
 | Final screen | Show a simple score out of 12, if supported, with one encouraging message. Do not label it pass or fail. |
 | Data and assessment | No educator tracking, certification use, learner-progress record, practical-skills claim, or collection of personal financial information. |
 
+## Current-app implementation constraints
+
+The October app supports one plain-text, single-choice question with two to six choices and one correct answer. This MVP specifies four choices for every question. It can show one optional plain-text explanation after an answer and reveal the correct answer, but that explanation is the same whether the learner was correct or incorrect. It cannot show answer-specific, correct-specific, or incorrect-specific feedback.
+
+Questions in one quiz appear on the same screen. The current item format does not support images, audio, video, links, rich text, teaching cards, or a multi-screen explanation–scenario–question–feedback flow. A review reference may therefore name the relevant Diploma section, but should not depend on the app rendering a clickable link.
+
+The displayed score and the learner-selected completion status are local to the learner's device and are not evidence of learning. Completion is score-independent. Closing and reopening a quiz restarts it, so learners can retry, but answers, attempts, and scores are not retained or shared.
+
 ## Developer handoff record
 
-Supply each of the 12 questions with: item ID; module and topic; prompt; options A–D; correct option; correct-answer response and call to action; an incorrect-answer response and review reference for each option; objective link; and review status.
+Supply each of the 12 questions with: stable item ID and meaningful app question key; module and topic; prompt; options A–D; correct option; one shared explanation and review reference; objective link; language/source version; and review status.
+
+For the current Sanity quiz format, map the handoff record to `_key`, `prompt`, `choices`, `correctIndex`, and optional `explanation`. `correctIndex` is the zero-based position of the correct choice. Do not reorder choices after setting it without checking the index. Keep the stable item ID and source-language relationship in the authoring record, because the current app uses separate documents for each language and does not yet link them.
 
 Use supportive result messages such as:
 
@@ -40,8 +49,9 @@ Before a question enters the October quiz, confirm that it:
 
 - uses exactly four answer options and has one clear best answer;
 - links learners to a Diploma topic they can actually review;
-- includes positive correct-answer feedback and supportive corrective feedback for each incorrect option;
+- includes one plain-language explanation that is useful whether the learner was correct or incorrect, plus a clear review reference;
 - uses simple, translation-ready language and has been independently checked for accuracy;
+- has a meaningful, stable question key and an identified source-language version before translation;
 - does not give financial, legal, tax, accounting, compliance, or investment advice; and
 - does not request or expose seed phrases, private keys, personal financial data, or identifying information.
 
@@ -552,6 +562,7 @@ None of these features is required for the October quiz. They are a simple idea 
 - Short written responses.
 - Scenario questions, including multi-step scenarios and branching choices.
 - Questions with images, diagrams, audio, video, links, or other media.
+- Accessible captions, transcripts, audio alternatives, and descriptive text for any future media.
 - Short teaching cards before a question.
 - Multi-screen learning items: explanation, scenario, question, then feedback.
 - A mix of recall, vocabulary, comparison, cause-and-effect, application, safety checks, confidence checks, and local examples.
@@ -584,6 +595,7 @@ None of these features is required for the October quiz. They are a simple idea 
 - Optional learning paths that unlock one topic or module after another.
 - Learner-visible progress tracker across questions, topics, and modules.
 - Flags for repeated incorrect answers, especially for safety-critical concepts.
+- Learner-controlled review of missed concepts and suggested next steps.
 - Offline or weak-connectivity use, with safe synchronization when access returns.
 - Recovery from interrupted attempts or app outages.
 
@@ -622,22 +634,26 @@ None of these features is required for the October quiz. They are a simple idea 
 - A sample import file and a published list of required content fields.
 - Stable item IDs that remain in place when wording changes.
 - A clear format for answer options, correct answers, answer order, and multiple correct answers.
+- Explicit option IDs and correct-answer markers so answer choices can be reordered safely.
 - Several accepted answers for approved short-response questions.
 - Draft, review, approval, publication, retirement, and version-control statuses.
 - Update a question without breaking historical learner records.
 - Item review history, scoring-version controls, and audit trails.
 - Fact, date, calculation, and feedback review before publication.
 - Local-content ownership, location tags, review dates, and source trails.
+- Import validation for required fields, one clear correct answer, duplicate items, required feedback, translation links, and broken review references.
 
 ## Language, accessibility, privacy, and safety
 
 - Multiple language versions connected to one stable item ID.
 - Support for right-to-left languages and non-Latin scripts.
 - Translation-ready source content and language-parity checks.
-- Screen-reader support, keyboard navigation, captions, text resizing, contrast, and audio alternatives.
+- Screen-reader support, keyboard navigation, captions, text resizing, contrast, and audio alternatives; do not rely on colour alone to communicate correctness, and announce new feedback when it appears.
+- Screen-reader and colour-contrast testing of quiz interactions, including a labelled radio-group pattern for answer choices.
 - Supported device, browser, and operating-system guidance.
 - Shared-device, loan-device, assisted-use, and learner-account models.
 - Clear rules for what learner data is stored, who can see it, and how long it is retained.
+- If learner data is ever shared with educators, a separate data model with informed consent, access control, retention/deletion rules, and audit trails.
 - Learner controls to delete saved reflections or other personal data.
 - Consent, privacy, identity, assessment-integrity, and minors’ access controls where relevant.
 - A design that never asks for seed phrases, private keys, holdings, or unnecessary financial or identifying information.
