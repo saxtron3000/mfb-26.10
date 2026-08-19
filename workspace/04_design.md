@@ -53,7 +53,7 @@ The current working design direction is:
 
 - educator-facilitated delivery in person or online;
 - approximately 8-hour minimum planning baseline, with additional time where objectives require it;
-- working architecture of four blocks—Problem / Broken Money, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money—rather than fixed two-hour classes;
+- working architecture of four modules—Understanding Money, How Bitcoin Works, Using Bitcoin Safely, and Bitcoin in Your Community—rather than fixed two-hour classes;
 - single Diploma with Custom and Advanced pathways;
 - Core / Custom / Advanced content separation;
 - English-first drafting followed by explicit simplicity, tone, style, and translation-readiness review;
@@ -91,9 +91,9 @@ The following rough design notes are clarified into stable design rules:
 | Forking off modes | Design from low-tech, offline-capable print/PDF teaching toward clear future instructional branches: online PDF, online cohort, self-paced, web, optional app self-assessment support, and eventual cross-modal continuation, while preserving educator-led assessment. |
 | Don't put too many QR codes on PDF in print to start | Use QR codes sparingly in print. Prefer a few durable destinations over many fragile links that clutter pages or become stale. |
 | Consensus based theory with localized, expert-led practice | Keep the Core theory layer and outcomes shared globally. Let local educators or experts select and adapt practice responsibly. |
-| 4 units - total 8hrs? | Use four blocks, not old module labels, as the required structure. Plan from objectives and required evidence: four two-hour sessions are one useful format, not a limit. |
+| 4 units - total 8hrs? | Use four modules, not old module labels, as the required structure. Plan from objectives and required evidence: four two-hour sessions are one useful format, not a limit. |
 | We are building a racecar | Design for a lean, high-performance learning experience. Remove ornament, duplication, and content that slows completion without improving learning. |
-| Problem / solution / self-custody / spending | Keep the official block sequence as Problem / Broken Money, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money. Spending is an important possible Block 4 practice, but Block 4 should not be narrowed globally to spending only. |
+| Problem / solution / self-custody / spending | Keep the official module sequence as Understanding Money, How Bitcoin Works, Using Bitcoin Safely, and Bitcoin in Your Community. Spending is an important possible Module 4 practice, but Module 4 should not be narrowed globally to spending only. |
 
 ---
 
@@ -131,7 +131,7 @@ Learners should be encouraged to:
 
 ## 4.2 Preserve Thematic Coherence
 
-The redesigned Diploma should not become a collection of disconnected blocks.
+The redesigned Diploma should not become a collection of disconnected modules.
 
 Thematic consistency should be intentionally preserved across:
 
@@ -210,7 +210,7 @@ Assessment should match the learning objective and the kind of competence being 
 
 The optional app may deliver microlearning, knowledge checks, feedback, recap, and discovery for self-assessment. Educators gather all theoretical evidence through approved objective-aligned interactions and evaluate all practical performance using common tasks and rubrics.
 
-Blocks 1 and 2 should be knowledge-dominant, while Blocks 3 and 4 should be skills-dominant. The complete Diploma assessment allocates 50% to educator-led theory and 50% to educator-observed practice. Educator-led activities may be formative, but only approved objective-aligned interactions with criteria and records contribute to the theoretical score.
+Modules 1 and 2 should be knowledge-dominant, while Modules 3 and 4 should be skills-dominant. The complete Diploma assessment allocates 50% to educator-led theory and 50% to educator-observed practice. Educator-led activities may be formative, but only approved objective-aligned interactions with criteria and records contribute to the theoretical score.
 
 The app cannot record or evaluate assessment evidence. Certification requires both educator-evaluated components.
 
@@ -361,7 +361,7 @@ The redesigned Diploma must:
 - require an English-language simplicity, tone, style, and translation-readiness review before translation or publication;
 - avoid unnecessary beginner technical overload;
 - distinguish Core, Custom, and Advanced content;
-- preserve the official four-block naming and avoid narrowing Block 4 globally to spending only;
+- preserve the official four-module naming and avoid narrowing Module 4 globally to spending only;
 - avoid global endorsement of named tools, services, wallets, exchanges, or local resources;
 - fact-check or date current-data examples before publication;
 - use QR codes sparingly in print PDFs;
@@ -425,7 +425,7 @@ The redesigned Diploma should distinguish between fixed, adaptable, and flexible
 - Two-part assessment requirement
 - Minimum evidence and rubric criteria for certification
 - Bitcoin-only educational focus
-- Four-block beginner architecture
+- Four-module beginner architecture
 - Shared Core theory and safety boundaries
 
 ## Adaptable
@@ -529,7 +529,7 @@ Spiral review should:
 
 - deepen understanding;
 - reinforce retention;
-- connect blocks together;
+- connect modules together;
 - strengthen long-term learning.
 
 Modularity should not break the learner journey.
@@ -616,7 +616,7 @@ Locally useful practice may become unsafe or misleading if it is not led by educ
 
 ## Narrow Spending Risk
 
-Reducing Block 4 to "spending" may understate broader local Bitcoin-as-money possibilities such as earning, saving, merchant discovery, circular economies, remittances, resource mapping, and community problem-solving.
+Reducing Module 4 to "spending" may understate broader local Bitcoin-as-money possibilities such as earning, saving, merchant discovery, circular economies, remittances, resource mapping, and community problem-solving.
 
 ## Organizations Source Creep Risk
 
@@ -708,10 +708,10 @@ Public communication should emphasize:
 
 - The mission is not changing.
 - The learner pathway is becoming easier to complete.
-- The beginner pathway is organized into four blocks.
+- The beginner pathway is organized into four modules.
 - Educators receive better tools and clearer facilitation support.
-- Communities gain local relevance through the Custom / Bitcoin as Money block.
-- Spending can be included as local practice, but Block 4 is broader than spending.
+- Communities gain local relevance through the Bitcoin in Your Community module.
+- Spending can be included as local practice, but Module 4 is broader than spending.
 - Advanced pathways remain available without overloading beginners.
 
 The design story should avoid excessive internal terminology. Use concrete contrasts such as long to short, dense to clear, lecture-heavy to active, centralized design to educator choice, and one document to learning ecosystem.

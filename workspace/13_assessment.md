@@ -23,7 +23,7 @@ This is the working assessment design brief for an approximately 8-hour beginner
 
 The assessment approach is comparable to a driving test: learners must show that they understand the relevant concepts and that they can apply required skills safely. Neither theoretical knowledge alone nor practical participation alone is sufficient.
 
-The same learning objectives and minimum competency standard apply across cohorts, educators, languages, and delivery modes. Practical evidence collection may be adapted for accessibility and local context, but the competency being assessed may not be removed or weakened. Low connectivity, lack of a device, or app access must not block learning, assessment, completion, or certification.
+The same learning objectives and minimum competency standard apply across cohorts, educators, languages, and delivery modes. Practical evidence collection may be adapted for accessibility and local context, but the competency being assessed may not be removed or weakened. Low connectivity, lack of a device, or app access must not prevent learning, assessment, completion, or certification.
 
 ---
 
@@ -115,39 +115,39 @@ Practical assessment should use testnet, prepared wallets, simulations, or appro
 
 ---
 
-# 5. Assessment Balance By Block
+# 5. Assessment Balance By Module
 
-| Block | Primary assessment emphasis | Required evidence pattern |
+| Module | Primary assessment emphasis | Required evidence pattern |
 |---|---|---|
-| 1. Problem / Broken Money | Theoretical assessment | Approved educator-led theoretical evidence. |
-| 2. Solution / Bitcoin | Theoretical assessment | Approved educator-led theoretical evidence. |
-| 3. Action / Self-custody | Theory and practical competence | Educator-led theory evidence and direct practical observation. |
-| 4. Custom / Bitcoin as Money | Theory where mapped and local practical competency | Educator-led theory evidence and direct practical observation. |
+| 1. Understanding Money | Theoretical assessment | Approved educator-led theoretical evidence. |
+| 2. How Bitcoin Works | Theoretical assessment | Approved educator-led theoretical evidence. |
+| 3. Using Bitcoin Safely | Theory and practical competence | Educator-led theory evidence and direct practical observation. |
+| 4. Bitcoin in Your Community | Theory where mapped and local practical competency | Educator-led theory evidence and direct practical observation. |
 
-Blocks 1 and 2 are knowledge-dominant, while Blocks 3 and 4 are skills-dominant. This describes where the evidence is taught and collected; certification still uses the 50% theoretical and 50% practical allocation across the complete Diploma.
+Modules 1 and 2 are knowledge-dominant, while Modules 3 and 4 are skills-dominant. This describes where the evidence is taught and collected; certification still uses the 50% theoretical and 50% practical allocation across the complete Diploma.
 
 ---
 
-# 6. Required Assessment By Block
+# 6. Required Assessment By Module
 
-## Block 1: Problem / Broken Money
+## Module 1: Understanding Money
 
-The Block 1 learning and assessment package should include:
+The Module 1 learning and assessment package should include:
 
 - approved educator-evaluated learner explanations, comparisons, or concept illustrations in their own words about money functions and properties, barter limits, fiat-system basics, inflation, and purchasing power;
 - approved educator-evaluated discussion, simulation, or scenario from the Activity Bank, plus other formative support as needed; and
 - a formative local fiat-currency history or characteristics inquiry where appropriate.
 
-## Block 2: Solution / Bitcoin
+## Module 2: How Bitcoin Works
 
-The Block 2 learning and assessment package should include:
+The Module 2 learning and assessment package should include:
 
 - an approved educator-evaluated learner explanation or illustration of how Bitcoin responds to a relevant monetary or digital-money problem; and
 - an approved educator-evaluated comparison, role-play, discussion, or scenario from the Activity Bank, plus other formative support as needed.
 
-## Block 3: Action / Self-custody
+## Module 3: Using Bitcoin Safely
 
-Required Block 3 evidence should include:
+Required Module 3 evidence should include:
 
 - approved educator-evaluated theory evidence on wallets, addresses, keys, seed phrases, custody trade-offs, confirmations, public-ledger privacy, on-chain and Lightning distinctions, and beginner risks;
 - direct observation by an educator of a learner safely setting up or opening and navigating an approved or prepared wallet environment;
@@ -157,11 +157,11 @@ Required Block 3 evidence should include:
 - an observed scam, error, or irreversible-transaction safety response; and
 - a learner explanation of what they are doing, why the checks matter, and when they should stop or seek help.
 
-## Block 4: Custom / Bitcoin As Money
+## Module 4: Bitcoin in Your Community
 
-Required Block 4 evidence should include:
+Required Module 4 evidence should include:
 
-- approved educator-evaluated theory evidence for any shared or selected theoretical objectives mapped to Block 4;
+- approved educator-evaluated theory evidence for any shared or selected theoretical objectives mapped to Module 4;
 - direct observation by an educator of at least one approved local task mapped to objectives `B4.1` and `B4.2`;
 - a local payment, receiving, remittance, merchant, donation, resource-discovery, or community-use task, simulation, or role-play as appropriate;
 - learner identification of relevant trade-offs, failure points, safety considerations, and realistic next steps; and
@@ -244,8 +244,8 @@ Informal educator theory learning and feedback remain formative only.
 
 ## B. Practical-competence complete
 
-- the required Block 3 practical and safety competencies have been directly observed and passed by an educator;
-- the required selected Block 4 practical or applied competency has been directly observed and passed;
+- the required Module 3 practical and safety competencies have been directly observed and passed by an educator;
+- the required selected Module 4 practical or applied competency has been directly observed and passed;
 - the educator's practical result and evidence reference have been recorded through the approved process.
 
 Direct observation by an educator supplies the full practical component.
@@ -274,7 +274,7 @@ The intended completion rule is that every required objective meets its approved
 
 All certificated delivery modes require both parts of the assessment.
 
-- In-person delivery, online delivery, and cohort delivery should integrate approved educator-evaluated theory interactions, formative educator support, and direct practical observation into block activities where appropriate.
+- In-person delivery, online delivery, and cohort delivery should integrate approved educator-evaluated theory interactions, formative educator support, and direct practical observation into module activities where appropriate.
 - Self-paced learning may support preparation, but learners must complete approved educator-led theoretical and live or remote practical assessment before certification.
 - Low-connectivity delivery may use offline-capable print/PDF content and educator-led assessment without any later app requirement.
 - Remote practical assessment may be used only when the educator can directly observe the required performance and protect learner privacy and safety.
@@ -286,7 +286,7 @@ All certificated delivery modes require both parts of the assessment.
 
 - Final assessment blueprint mapping theoretical objectives to educator-evaluated evidence and practical objectives to observed tasks
 - How any reported numerical score will represent the fixed 50/50 allocation without allowing an average to compensate for an unmet required component or safety-critical competency
-- Required practical tasks and rubrics for Blocks 3 and 4
+- Required practical tasks and rubrics for Modules 3 and 4
 - Educator authorization, training, calibration, moderation, and online-observation rules
 - Accessibility and language parity across instructional materials and educator-led assessment
 - Privacy, consent, data retention, minors' access, audit trails, and result correction

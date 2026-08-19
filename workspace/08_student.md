@@ -113,13 +113,13 @@ My First Bitcoin prefers in-person Diploma sessions because direct contact with 
 
 Diploma content may be taught in person, online, through a blended course, or with low-tech print/PDF materials. The book provides the shared knowledge path. Your educator adds discussion, guided activities, demonstrations, local context, and any required assessment.
 
-Each block follows the same rhythm:
+Each module follows the same rhythm:
 
 1. Learn a core idea.
 2. Check your understanding.
 3. Apply the idea to a comparison, question, scenario, or demonstration.
 4. Explain the idea in your own words.
-5. Review how it connects to the next block.
+5. Review how it connects to the next module.
 
 You will learn more by participating than by reading silently. Some questions do not have one correct answer. What matters is whether you can explain your reasoning, examine evidence, and revise your view when you learn something new.
 
@@ -140,7 +140,7 @@ During discussion:
 - do not photograph, record, or share another person's screen, work, or identifying information without permission;
 - do not pressure anyone to buy, sell, or reveal how much money they hold.
 
-Your educator will explain any required assessment activities. Theory is mainly developed in Blocks 1 and 2, where your educator uses check-ins, discussion, participation, and your explanations to understand your learning. Practical competency is mainly developed in Blocks 3 and 4, where an educator observes the relevant actions under safe, supported conditions.
+Your educator will explain any required assessment activities. Theory is mainly developed in Modules 1 and 2, where your educator uses check-ins, discussion, participation, and your explanations to understand your learning. Practical competency is mainly developed in Modules 3 and 4, where an educator observes the relevant actions under safe, supported conditions.
 
 To receive a certificate, you must meet the approved Diploma requirements. Attendance, app use, or completing a self-check quiz alone is not enough.
 
@@ -206,24 +206,24 @@ Responsibility also includes knowing when to ask for help. Seek help before movi
 
 ### What belongs in Core, Custom, and Advanced learning
 
-**Core** is the shared beginner path in Blocks 1, 2, and 3. Every learner studies the same main concepts and safety outcomes.
+**Core** is the shared beginner path in Modules 1, 2, and 3. Every learner studies the same main concepts and safety outcomes.
 
-**Custom** is Block 4. An educator selects local workshops and examples based on the community's tools, laws, risks, language, infrastructure, and needs. Custom learning may include earning, saving, receiving, spending, Layer 2 solutions, local exchange pathways, merchants, or circular economies.
+**Custom** is Module 4. An educator selects local workshops and examples based on the community's tools, laws, risks, language, infrastructure, and needs. Custom learning may include earning, saving, receiving, spending, Layer 2 solutions, local exchange pathways, merchants, or circular economies.
 
 **Advanced** learning goes beyond this Diploma. It may examine deeper economics, cryptography, mining, privacy, transaction structure, Lightning operations, business use, or security. Advanced material is kept separate so the beginner path remains clear and safe.
 
 A topic is not unimportant because it is outside the Core path. It may simply require more time or prior knowledge.
 
-### How the 4-block learning path is organized
+### How the 4-module learning path is organized
 
-| Block | Role | Core question | Learner promise |
+| Module | Role | Core question | Learner promise |
 | --- | --- | --- | --- |
-| 1. Problem / Broken Money | Understand the problem | How can money break? | You can explain the money **problems** Bitcoin responds to. |
-| 2. Solution / Bitcoin | Understand the response | Why was Bitcoin created, and how does it respond? | You can explain Bitcoin's **purpose** and core properties. |
-| 3. Action / Self-Custody | Understand the responsibility | How do I use and secure Bitcoin responsibly? | You can explain beginner **custody and safety** concepts. |
-| 4. Custom / Bitcoin As Money | Connect learning to local life | How can Bitcoin function as money here? | You can identify relevant **local uses**, tools, risks, and next steps. |
+| Module 1: Understanding Money | Understand the problem | How can money break? | You can explain the money **problems** Bitcoin responds to. |
+| Module 2: How Bitcoin Works | Understand the response | Why was Bitcoin created, and how does it respond? | You can explain Bitcoin's **purpose** and core properties. |
+| Module 3: Using Bitcoin Safely | Understand the responsibility | How do I use and secure Bitcoin responsibly? | You can explain beginner **custody and safety** concepts. |
+| Module 4: Bitcoin in Your Community | Connect learning to local life | How can Bitcoin function as money here? | You can identify relevant **local uses**, tools, risks, and next steps. |
 
-The four blocks provide the required learning path, not a fixed class timetable. Blocks 1–3 are the shared Core, and the educator selects the local content for Block 4. Four two-hour sessions are one possible format. Your educator may divide a block across more sessions, revisit an earlier idea, or change the order of individual sections when your cohort needs more time for discussion, practice, review, or assessment. The educator remains responsible for covering all Core outcomes and making the connections among the blocks clear.
+The four modules provide the required learning path, not a fixed class timetable. Modules 1–3 are the shared Core, and the educator selects the local content for Module 4. Four two-hour sessions are one possible format. Your educator may divide a module across more sessions, revisit an earlier idea, or change the order of individual sections when your cohort needs more time for discussion, practice, review, or assessment. The educator remains responsible for covering all Core outcomes and making the connections among the modules clear.
 
 ### My engagement promise
 
@@ -235,7 +235,7 @@ I, ____________________, intend to take part with curiosity, care, and respect. 
 
 ---
 
-## 1. Problem / Broken Money
+## Module 1: Understanding Money
 
 **Learner promise:** You will understand the money problems Bitcoin responds to.
 
@@ -477,11 +477,11 @@ Pause and consider the money you use: what makes it useful in daily life, and wh
 - Inflation, fractional-reserve banking, and CBDC design can affect purchasing power, access, privacy, and the need to trust institutions.
 - Some people look to alternatives such as precious metals when they want different trade-offs around purchasing power, supply, or control; every alternative has limits and risks.
 
-The next block examines Bitcoin's attempt to create a different set of monetary rules.
+The next module examines Bitcoin's attempt to create a different set of monetary rules.
 
 ---
 
-## 2. Solution / Bitcoin
+## Module 2: How Bitcoin Works
 
 **Learner promise:** You will understand why Bitcoin was created and what makes it different.
 
@@ -735,13 +735,13 @@ These properties can empower participants, but they also place more responsibili
 
 For a person who chooses self-custody, control of the keys brings direct control of bitcoin. No company can freeze a correctly controlled on-chain balance. No company can restore a lost seed phrase either.
 
-Self-custody is therefore not just a technical feature. It requires protecting backups, verifying addresses, understanding wallet behavior, and creating a recovery plan. The next block explains how to hold and use bitcoin carefully, including how to manage these risks and responsibilities.
+Self-custody is therefore not just a technical feature. It requires protecting backups, verifying addresses, understanding wallet behavior, and creating a recovery plan. The next module explains how to hold and use bitcoin carefully, including how to manage these risks and responsibilities.
 
 Personal responsibility does not mean acting alone or refusing help. A cautious learner can use education, peer review, documented procedures, and small tests without giving anyone access to secret information.
 
 ### Review: how does Bitcoin respond to fiat problems?
 
-Pause and consider how Bitcoin changes the trust model: how do public rules, finite issuance, peer-to-peer transfer, and independent verification respond to the concerns raised in the previous block? Ask yourself how nodes and miners have different roles, why double spending must be prevented, and which new responsibilities arise when a person controls their own keys. Bitcoin replaces some institutional trust with verification and personal responsibility; it does not remove risk or trade-offs.
+Pause and consider how Bitcoin changes the trust model: how do public rules, finite issuance, peer-to-peer transfer, and independent verification respond to the concerns raised in the previous module? Ask yourself how nodes and miners have different roles, why double spending must be prevented, and which new responsibilities arise when a person controls their own keys. Bitcoin replaces some institutional trust with verification and personal responsibility; it does not remove risk or trade-offs.
 
 | Fiat-system issue | Bitcoin's response | New responsibility or trade-off |
 | --- | --- | --- |
@@ -765,7 +765,7 @@ Pause and consider how Bitcoin changes the trust model: how do public rules, fin
 
 ---
 
-## 3. Action / Self-Custody
+## Module 3: Using Bitcoin Safely
 
 ### Wallets
 
@@ -1095,7 +1095,7 @@ Before using any path, compare:
 
 **Know your customer**, or **KYC**, describes identity checks a regulated service may require. KYC can support legal compliance and account recovery, but it creates a record connecting identity to financial activity. No-KYC paths may offer more privacy, but can involve greater counterparty risk, complexity, price differences, or legal uncertainty.
 
-No path is automatically best in every location. Provider-specific instruction belongs in the local Custom block and must not be treated as a global recommendation.
+No path is automatically best in every location. Provider-specific instruction belongs in the local Module 4 and must not be treated as a global recommendation.
 
 ### On-chain and Lightning payments
 
@@ -1120,7 +1120,7 @@ Lightning wallets can be custodial or self-custodial. A simple Lightning applica
 
 Before paying, confirm which network the recipient expects. An on-chain wallet cannot send directly to every Lightning invoice, and a Lightning wallet may not support every on-chain function. Some applications support both and may convert between them, with added fees or trust.
 
-Detailed Lightning setup and live payment practice belong in the Custom block when local tools, connectivity, educator preparation, and learner safety allow.
+Detailed Lightning setup and live payment practice belong in the Module 4 when local tools, connectivity, educator preparation, and learner safety allow.
 
 Channel setup, routing operations, and liquidity management are advanced topics. A beginner needs to recognize that these factors can affect whether a Lightning payment succeeds and what it costs, but does not need to operate routing infrastructure in the Core Diploma.
 
@@ -1140,17 +1140,17 @@ Pause and consider what direct control would require from you: could you protect
 
 ---
 
-## 4. Custom / Bitcoin As Money
+## Module 4: Bitcoin in Your Community
 
 **Learner promise:** You will see how Bitcoin can function as money in your local context.
 
 Bitcoin is one global protocol, but people use it under different local conditions. Internet access, phones, laws, taxes, currencies, banks, merchants, fees, language, safety, and technical support all affect what is useful.
 
-Your educator selects the modules in this block. The goal is not to demonstrate every tool. It is to connect the Core concepts to real choices in your community. The educator may invite a local expert when specialized knowledge is needed.
+Your educator selects the learning activities in this module. The goal is not to demonstrate every tool. It is to connect the Core concepts to real choices in your community. The educator may invite a local expert when specialized knowledge is needed.
 
-Use the Block 3 safety checklist throughout every local module. Using bitcoin or a named tool in a supervised exercise does not mean that My First Bitcoin or your educator recommends frequent, ongoing, or higher-value use. The purpose is to understand the option and its trade-offs well enough to make your own decision.
+Use the Module 3 safety checklist throughout every local module. Using bitcoin or a named tool in a supervised exercise does not mean that My First Bitcoin or your educator recommends frequent, ongoing, or higher-value use. The purpose is to understand the option and its trade-offs well enough to make your own decision.
 
-Record the focus of your Custom block:
+Record the focus of your Module 4:
 
 | Local learning choice | Your notes |
 | --- | --- |
@@ -1503,7 +1503,7 @@ Good community discovery helps you find people who explain, verify, and respect 
 
 Complete this review individually, then compare your reasoning with your team or cohort. Consider the local example you studied: what real need did it address, which function of money was involved, and was value moved on-chain, through Lightning, or both? Ask who controlled the keys, what the strongest benefit and most serious risk were, and how local law, infrastructure, language, or culture affected the result. A responsible next step is one that fits the local context, makes costs and custody clear, limits errors and scams, and can be evaluated against evidence.
 
-**Block 4 answer:** Bitcoin can function as money when people voluntarily use it to earn, save, receive, send, spend, price, or settle value. A useful local application begins with a real need, makes custody and costs clear, respects local law and safety, and gives learners enough knowledge to choose freely.
+**Module 4 answer:** Bitcoin can function as money when people voluntarily use it to earn, save, receive, send, spend, price, or settle value. A useful local application begins with a real need, makes custody and costs clear, respects local law and safety, and gives learners enough knowledge to choose freely.
 
 #### Key takeaways
 

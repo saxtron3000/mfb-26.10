@@ -16,7 +16,7 @@ Create one learner-owned **12-question** self-assessment quiz. It helps learners
 
 | Element | October requirement |
 |---|---|
-| Questions | Exactly 12 questions selected from Blocks 1, 2, and 3. Do not include local Block 4 content. |
+| Questions | Exactly 12 questions selected from Modules 1, 2, and 3. Do not include local Module 4 content. |
 | Format | One multiple-choice prompt with exactly four answer options. |
 | Correct answer | One clear best answer. |
 | Correct-answer response | Brief congratulations, a plain-language reason, and a call to action such as “Keep learning” or “Continue.” |
@@ -26,7 +26,7 @@ Create one learner-owned **12-question** self-assessment quiz. It helps learners
 
 ## Developer handoff record
 
-Supply each of the 12 questions with: item ID; block and topic; prompt; options A–D; correct option; correct-answer response and call to action; an incorrect-answer response and review reference for each option; objective link; and review status.
+Supply each of the 12 questions with: item ID; module and topic; prompt; options A–D; correct option; correct-answer response and call to action; an incorrect-answer response and review reference for each option; objective link; and review status.
 
 Use supportive result messages such as:
 
@@ -60,7 +60,7 @@ Each future item should use this record:
 | Field | What to record |
 |---|---|
 | Item ID | Stable identifier, for example `BD-ML-B01-T03-Q04`. |
-| Block and topic | The location in this document. |
+| Module and topic | The location in this document. |
 | Learning purpose | Recall, explain, compare, apply, or safety check. |
 | Format | Any format the future app can support and that is separately approved. |
 | Prompt | Clear learner-facing wording. |
@@ -86,7 +86,7 @@ Each topic can grow into a small set of varied items: a recall or vocabulary che
 
 ---
 
-# 2. Block 1: Problem / Broken Money
+# 2. Module 1: Understanding Money
 
 ## BD-ML-B01-T01: Opening questions about money
 
@@ -195,7 +195,7 @@ Question-bank opportunities:
 - multiple choice: identify the inaccurate claim that all digital money is decentralized;
 - reflection: “Which questions would you ask before using any digital form of money?”
 
-## BD-ML-B01-T11: Block 1 review
+## BD-ML-B01-T11: Module 1 review
 
 Themes: connections among money functions, barter, fiat systems, inflation, and the search for alternatives.
 
@@ -203,11 +203,11 @@ Question-bank opportunities:
 
 - mixed retrieval set;
 - scenario: explain one money problem that could lead people to seek an alternative;
-- confidence check: select a topic to review before Block 2.
+- confidence check: select a topic to review before Module 2.
 
 ---
 
-# 3. Block 2: Solution / Bitcoin
+# 3. Module 2: How Bitcoin Works
 
 ## BD-ML-B02-T01: Why Bitcoin was created
 
@@ -291,7 +291,7 @@ Question-bank opportunities:
 
 - number conversion: convert a stated bitcoin amount to satoshis and vice versa;
 - multiple choice: identify the total supply limit of bitcoin (21 million);
-- date/interval question: identify the approximate halving cycle (about four years), with feedback that block-based timing varies;
+- date/interval question: identify the approximate halving cycle (about four years), with feedback that the calendar timing varies because halvings occur at block heights;
 - misconception check: owning less than one bitcoin does not prevent use;
 - reflection: how can units influence the way people think about an amount?
 
@@ -316,7 +316,7 @@ Question-bank opportunities:
 - reflection: “What responsibilities can come with greater control?”
 - readiness check: identify a question to answer before setting up a wallet.
 
-## BD-ML-B02-T11: Block 2 review
+## BD-ML-B02-T11: Module 2 review
 
 Themes: purpose, scarcity, roles, supply, and the bridge to action.
 
@@ -324,11 +324,11 @@ Question-bank opportunities:
 
 - mixed quiz with a timeline, role-match, and scenario;
 - one learner explanation prompt for formative educator follow-up;
-- confidence check for Block 3 preparation.
+- confidence check for Module 3 preparation.
 
 ---
 
-# 4. Block 3: Action / Self-Custody
+# 4. Module 3: Using Bitcoin Safely
 
 ## BD-ML-B03-T01: Wallets as interfaces
 
@@ -439,7 +439,7 @@ Question-bank opportunities:
 - sorting: general concept versus named-provider recommendation;
 - reflection: “What local safety, legal, or access question might require educator guidance?”
 
-## BD-ML-B03-T11: Block 3 review and practical readiness
+## BD-ML-B03-T11: Module 3 review and practical readiness
 
 Themes: secure access, receiving, sending, checking, recovery readiness, and scam awareness.
 
@@ -452,11 +452,11 @@ Question-bank opportunities:
 
 ---
 
-# 5. Block 4: Custom / Bitcoin As Money
+# 5. Module 4: Bitcoin in Your Community
 
 ## Custom-content rule
 
-Block 4 content is selected by the educator for the local community. Create app self-check items only after the local module, tools, safety boundaries, and sources are approved. Keep these items modular and tag them by location, language, delivery context, and review date.
+Module 4 content is selected by the educator for the local community. Create app self-check items only after the local module, tools, safety boundaries, and sources are approved. Keep these items modular and tag them by location, language, delivery context, and review date.
 
 ## BD-ML-B04-T01: Local Bitcoin tools and resources
 
@@ -520,7 +520,7 @@ Question-bank opportunities:
 - scenario: distinguish a local observation from an unsupported general claim;
 - reflection: “What would you need to learn before concluding that Bitcoin is useful for a local problem?”
 
-## BD-ML-B04-T07: Block 4 review and local competency preparation
+## BD-ML-B04-T07: Module 4 review and local competency preparation
 
 Themes: locally selected application, trade-offs, safety, and educator-observed practical evidence.
 
@@ -539,7 +539,7 @@ None of these features is required for the October quiz. They are a simple idea 
 
 ## Learning content and question types
 
-- A larger question bank across all four Diploma blocks.
+- A larger question bank across all four Diploma modules.
 - Random question selection from a bank.
 - Different quiz versions so learners can revisit content without seeing the same questions every time.
 - Single-choice multiple-choice questions.
@@ -555,8 +555,8 @@ None of these features is required for the October quiz. They are a simple idea 
 - Short teaching cards before a question.
 - Multi-screen learning items: explanation, scenario, question, then feedback.
 - A mix of recall, vocabulary, comparison, cause-and-effect, application, safety checks, confidence checks, and local examples.
-- Question sets tailored to a particular topic, block, or learning objective.
-- A shared Core bank plus locally selected Block 4 content.
+- Question sets tailored to a particular topic, module, or learning objective.
+- A shared Core bank plus locally selected Module 4 content.
 
 ## Feedback, review, and reflection
 
@@ -575,14 +575,14 @@ None of these features is required for the October quiz. They are a simple idea 
 
 ## Learner flow and self-assessment
 
-- Topic and block scores in addition to a whole-quiz score.
+- Topic and module scores in addition to a whole-quiz score.
 - Supportive score messages and suggested review paths.
 - Learner retries, with configurable attempt limits.
 - Question randomization on retries.
 - Controls for when feedback and correct answers appear.
 - Completion status separated from score or passing status.
-- Optional learning paths that unlock one topic or block after another.
-- Learner-visible progress tracker across questions, topics, and blocks.
+- Optional learning paths that unlock one topic or module after another.
+- Learner-visible progress tracker across questions, topics, and modules.
 - Flags for repeated incorrect answers, especially for safety-critical concepts.
 - Offline or weak-connectivity use, with safe synchronization when access returns.
 - Recovery from interrupted attempts or app outages.
@@ -593,7 +593,7 @@ None of these features is required for the October quiz. They are a simple idea 
 - Cohort, class, and group management.
 - A way for educators to add learners to a cohort.
 - A way for educators to pair a learner with an educator or approved assessor.
-- Assignable individual questions, topic sets, block sets, or custom question banks.
+- Assignable individual questions, topic sets, module sets, or custom question banks.
 - Due dates, completion expectations, and reminders for assigned work.
 - Educator view of learner progress, answers, attempts, confidence checks, and review needs.
 - Educator notes and learner-support flags.
@@ -609,9 +609,9 @@ None of these features is required for the October quiz. They are a simple idea 
 - Stable mapping from every question to one or more Diploma learning objectives.
 - A coverage check showing which objectives have enough valid learning and question support.
 - Tags for recall, explanation, comparison, application, reflection, safety, practice, and educator follow-up.
-- Tags for block, topic, difficulty, language, location, source, review date, and content owner.
+- Tags for module, topic, difficulty, language, location, source, review date, and content owner.
 - A future formal-assessment mode only after tracking, scoring, privacy, and educator workflows are approved.
-- Configurable passing scores by topic, block, or full course.
+- Configurable passing scores by topic, module, or full course.
 - Clear separation between completion, self-assessment, quiz score, theoretical assessment, and educator-observed practical competence.
 - A way to combine approved app and educator evidence without allowing one component to replace required practical observation.
 - Support for practical-task preparation, checklists, and follow-up questions without claiming that the app alone assessed a practical skill.

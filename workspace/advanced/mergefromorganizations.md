@@ -39,10 +39,10 @@ If yes, it is listed here. If no, it belongs in `advancedorganizations.md` and l
 
 Use Organizations content in the Diploma only as compressed support for:
 
-- Block 1: CBDCs as digital fiat and a trust/control comparison;
-- Block 2: digital scarcity, the double-spend problem, Bitcoin's technical lineage, credible scarcity, decentralization, and protocol/layers framing;
-- Block 3: confirmations, block explorer verification, public ledger transparency, and privacy trade-offs;
-- Block 4: local merchant, remittance, nonprofit, underbanked, and circular-economy scenarios;
+- Module 1: CBDCs as digital fiat and a trust/control comparison;
+- Module 2: digital scarcity, the double-spend problem, Bitcoin's technical lineage, credible scarcity, decentralization, and protocol/layers framing;
+- Module 3: confirmations, block explorer verification, public ledger transparency, and privacy trade-offs;
+- Module 4: local merchant, remittance, nonprofit, underbanked, and circular-economy scenarios;
 - Educator Guide and Activity Bank: misconception prompts, claim/evidence/trade-off discussion, and local scenario activities.
 
 Do not import the Organizations path as prose chapters into the Student Book.
@@ -75,21 +75,21 @@ It supports these objectives from `05_objectives.md`:
 
 | Priority | Useful Organizations content | Beginner value | Scope/objective fit | Where in `07_contents.md` | Where in `08_student.md` | Action |
 |---|---|---|---|---|---|---|
-| High | CBDCs as digital fiat, not Bitcoin | Helps beginners compare central-bank digital money with Bitcoin without assuming all digital money is the same | Objectives 5, 7, 17 | Block 1: `CBDCs as a beginner fiat-system example where appropriate` | Block 1: `CBDCs as a beginner fiat-system example where appropriate` | Keep and lightly strengthen. Emphasize issuer, supply, permission, privacy, rule changes, and verification. Do not include country counts. |
-| High | Digital scarcity and double-spend problem | Helps beginners understand why Bitcoin was created and why a decentralized digital money was difficult | Objectives 6, 7, 8 | Block 2: `Early digital-money attempts and the double-spend problem`; `Why Bitcoin was created` | Block 2: `Why Bitcoin was created`; `Early digital-money attempts and the double-spend problem` | Add or preserve plain-language digital-copy explanation. Avoid attack probability tables. |
-| High | Technical origin lineage: Cypherpunks, DigiCash, Hashcash, BitTorrent, B-money/Bit Gold, reusable proof of work | Shows Bitcoin as a synthesis of earlier attempts, not a random invention | Objectives 6, 8, 16 | Block 2: `The search for digital and decentralized money`; `Bitcoin origin timeline` | Block 2: `The search for digital and decentralized money`; `Early digital-money attempts...`; `Bitcoin origin timeline` | Use only a short timeline and one-sentence contributions. Route cryptography/protocol depth to Advanced. |
-| High | Verification through block explorers and public ledger inspection | Supports practical competence and "don't trust, verify" | Objectives 12, 13, 17 | Block 3: `Verification, block explorers, and irreversible transactions` | Block 3: `Verification, block explorers, and irreversible transactions` | Keep as a beginner demonstration or Activity Bank task. Include privacy warning. |
-| Medium | Confirmations and settlement confidence | Helps learners understand transaction status and irreversible settlement | Objectives 13, 14 | Block 3: `Verification, block explorers, and irreversible transactions` | Block 3: `Verification, block explorers, and irreversible transactions` | Add only beginner wording: more confirmations increase confidence. Keep six-confirmation math and reorg scenarios Advanced. |
-| Medium | Protocol/layers framing for scalability and innovation objections | Helps beginners distinguish base-layer settlement from Lightning without seeing slowness as failure | Objectives 7, 14, 16, 17 | Block 2: `Peer-to-peer transfer`; `Proof of work`; Block 3: `On-chain and Lightning payments` | Block 2: `Bitcoin as sound digital money`; Block 3: `On-chain and Lightning payments` | Use a short educator note or one paragraph. Detailed TCP/IP, Liquid, Fedimint, Cashu, and sidechains remain Advanced. |
-| Medium | Who controls Bitcoin: developers, miners, nodes, users | Strengthens beginner decentralization and rule-verification understanding | Objectives 7, 8, 16 | Block 2: `Decentralization`; `Users, nodes, and miners` | Block 2: `Decentralization`; `Users, nodes, and miners` | Keep at role level. Do not teach full soft fork/hard fork governance in Core. |
-| Medium | Credible scarcity versus "many coins" | Helps answer a common beginner confusion without turning the Diploma into a crypto survey | Objectives 7, 16, 17 | Block 2: `Finite supply`; possibly Educator Guide FAQ, not TOC | Block 2: `Finite supply`; optional educator note | Use as an educator-guided misconception prompt. Avoid naming many coins or making market predictions. |
-| Medium | Local merchant/payment/remittance/nonprofit scenarios | Gives Block 4 practical local relevance | Custom outcomes; Objectives 14, 15, 17 | Block 4: `Local spending and receiving scenarios`; `Merchant or community use cases`; `Circular economies`; `Local on-ramp and off-ramp pathways` | Block 4 scenario sections | Use as optional Custom scenario cards. Local educator must verify tools, fees, law, and safety. |
-| Low | Monetization sequence: store of value, medium of exchange, unit of account | Helps answer "if I cannot spend it everywhere, is it money?" | Objectives 1, 3, 4, 7, 17 | Block 2: `Bitcoin as sound digital money`; Block 4 review | Block 2: `Bitcoin as sound digital money`; Block 4 `Daily-life Bitcoin use` | Use sparingly. Keep Gresham's Law and adoption theory Advanced unless educator uses a simple prompt. |
-| Low | Energy as security | Helps with a predictable learner misconception | Objectives 8, 17 | Block 2: `Proof of work` | Block 2: `Proof of work` | Keep one balanced paragraph. Detailed energy grid, methane, ESG, and mining economics go Advanced. |
+| High | CBDCs as digital fiat, not Bitcoin | Helps beginners compare central-bank digital money with Bitcoin without assuming all digital money is the same | Objectives 5, 7, 17 | Module 1: `CBDCs as a beginner fiat-system example where appropriate` | Module 1: `CBDCs as a beginner fiat-system example where appropriate` | Keep and lightly strengthen. Emphasize issuer, supply, permission, privacy, rule changes, and verification. Do not include country counts. |
+| High | Digital scarcity and double-spend problem | Helps beginners understand why Bitcoin was created and why a decentralized digital money was difficult | Objectives 6, 7, 8 | Module 2: `Early digital-money attempts and the double-spend problem`; `Why Bitcoin was created` | Module 2: `Why Bitcoin was created`; `Early digital-money attempts and the double-spend problem` | Add or preserve plain-language digital-copy explanation. Avoid attack probability tables. |
+| High | Technical origin lineage: Cypherpunks, DigiCash, Hashcash, BitTorrent, B-money/Bit Gold, reusable proof of work | Shows Bitcoin as a synthesis of earlier attempts, not a random invention | Objectives 6, 8, 16 | Module 2: `The search for digital and decentralized money`; `Bitcoin origin timeline` | Module 2: `The search for digital and decentralized money`; `Early digital-money attempts...`; `Bitcoin origin timeline` | Use only a short timeline and one-sentence contributions. Route cryptography/protocol depth to Advanced. |
+| High | Verification through block explorers and public ledger inspection | Supports practical competence and "don't trust, verify" | Objectives 12, 13, 17 | Module 3: `Verification, block explorers, and irreversible transactions` | Module 3: `Verification, block explorers, and irreversible transactions` | Keep as a beginner demonstration or Activity Bank task. Include privacy warning. |
+| Medium | Confirmations and settlement confidence | Helps learners understand transaction status and irreversible settlement | Objectives 13, 14 | Module 3: `Verification, block explorers, and irreversible transactions` | Module 3: `Verification, block explorers, and irreversible transactions` | Add only beginner wording: more confirmations increase confidence. Keep six-confirmation math and reorg scenarios Advanced. |
+| Medium | Protocol/layers framing for scalability and innovation objections | Helps beginners distinguish base-layer settlement from Lightning without seeing slowness as failure | Objectives 7, 14, 16, 17 | Module 2: `Peer-to-peer transfer`; `Proof of work`; Module 3: `On-chain and Lightning payments` | Module 2: `Bitcoin as sound digital money`; Module 3: `On-chain and Lightning payments` | Use a short educator note or one paragraph. Detailed TCP/IP, Liquid, Fedimint, Cashu, and sidechains remain Advanced. |
+| Medium | Who controls Bitcoin: developers, miners, nodes, users | Strengthens beginner decentralization and rule-verification understanding | Objectives 7, 8, 16 | Module 2: `Decentralization`; `Users, nodes, and miners` | Module 2: `Decentralization`; `Users, nodes, and miners` | Keep at role level. Do not teach full soft fork/hard fork governance in Core. |
+| Medium | Credible scarcity versus "many coins" | Helps answer a common beginner confusion without turning the Diploma into a crypto survey | Objectives 7, 16, 17 | Module 2: `Finite supply`; possibly Educator Guide FAQ, not TOC | Module 2: `Finite supply`; optional educator note | Use as an educator-guided misconception prompt. Avoid naming many coins or making market predictions. |
+| Medium | Local merchant/payment/remittance/nonprofit scenarios | Gives Module 4 practical local relevance | Custom outcomes; Objectives 14, 15, 17 | Module 4: `Local spending and receiving scenarios`; `Merchant or community use cases`; `Circular economies`; `Local on-ramp and off-ramp pathways` | Module 4 scenario sections | Use as optional Custom scenario cards. Local educator must verify tools, fees, law, and safety. |
+| Low | Monetization sequence: store of value, medium of exchange, unit of account | Helps answer "if I cannot spend it everywhere, is it money?" | Objectives 1, 3, 4, 7, 17 | Module 2: `Bitcoin as sound digital money`; Module 4 review | Module 2: `Bitcoin as sound digital money`; Module 4 `Daily-life Bitcoin use` | Use sparingly. Keep Gresham's Law and adoption theory Advanced unless educator uses a simple prompt. |
+| Low | Energy as security | Helps with a predictable learner misconception | Objectives 8, 17 | Module 2: `Proof of work` | Module 2: `Proof of work` | Keep one balanced paragraph. Detailed energy grid, methane, ESG, and mining economics go Advanced. |
 
-## Block-By-Block Recommendations
+## Module-by-Module Recommendations
 
-### Block 1: Problem / Broken Money
+### Module 1: Understanding Money
 
 Organizations source:
 
@@ -108,7 +108,7 @@ Recommended Diploma use:
 
 Where:
 
-- `07_contents.md`: already listed under Block 1.
+- `07_contents.md`: already listed under Module 1.
 - `08_student.md`: already has `CBDCs as a beginner fiat-system example where appropriate`.
 
 Suggested refinement:
@@ -123,7 +123,7 @@ Keep out:
 - detailed surveillance or policy arguments;
 - legal predictions.
 
-### Block 2: Solution / Bitcoin
+### Module 2: How Bitcoin Works
 
 Organizations sources:
 
@@ -152,8 +152,8 @@ Recommended Diploma use:
 
 Where:
 
-- `07_contents.md`: Block 2 already includes `The search for digital and decentralized money`, `Early digital-money attempts and the double-spend problem`, `Bitcoin origin timeline`, `Decentralization`, `Finite supply`, `Users, nodes, and miners`, and `Proof of work`.
-- `08_student.md`: Block 2 already has matching sections. The Organizations path can refine these sections rather than create new ones.
+- `07_contents.md`: Module 2 already includes `The search for digital and decentralized money`, `Early digital-money attempts and the double-spend problem`, `Bitcoin origin timeline`, `Decentralization`, `Finite supply`, `Users, nodes, and miners`, and `Proof of work`.
+- `08_student.md`: Module 2 already has matching sections. The Organizations path can refine these sections rather than create new ones.
 
 Suggested refinements:
 
@@ -171,7 +171,7 @@ Keep out:
 - soft fork/hard fork governance;
 - Liquid, Fedimint, Cashu, L402, sidechain, and AI-payment detail.
 
-### Block 3: Action / Self-Custody
+### Module 3: Using Bitcoin Safely
 
 Organizations sources:
 
@@ -189,8 +189,8 @@ Recommended Diploma use:
 
 Where:
 
-- `07_contents.md`: Block 3 already includes `Verification, block explorers, and irreversible transactions`.
-- `08_student.md`: Block 3 already has `Verification, block explorers, and irreversible transactions`.
+- `07_contents.md`: Module 3 already includes `Verification, block explorers, and irreversible transactions`.
+- `08_student.md`: Module 3 already has `Verification, block explorers, and irreversible transactions`.
 
 Suggested refinement:
 
@@ -207,7 +207,7 @@ Keep out:
 - institutional custody due diligence;
 - corporate treasury custody.
 
-### Block 4: Custom / Bitcoin As Money
+### Module 4: Bitcoin in Your Community
 
 Organizations sources:
 
@@ -230,8 +230,8 @@ Use as optional Custom scenario material:
 
 Where:
 
-- `07_contents.md`: Block 4 already includes local tools, Lightning, daily-life use, on/off-ramps, KYC/no-KYC, circular economies, merchant/community use cases, and resource maps.
-- `08_student.md`: Block 4 already has sections that can absorb these examples.
+- `07_contents.md`: Module 4 already includes local tools, Lightning, daily-life use, on/off-ramps, KYC/no-KYC, circular economies, merchant/community use cases, and resource maps.
+- `08_student.md`: Module 4 already has sections that can absorb these examples.
 
 Suggested refinement:
 
@@ -349,14 +349,14 @@ Learner task:
 
 | Organizations module | Beginner usefulness | Diploma destination | Main reason most content does or does not fit |
 |---|---|---|---|
-| 1. Bitcoin and Risk Management | Low to Medium | Block 4 discussion / Activity Bank only | Scenario thinking is useful, but risk-register methods are organizational and Advanced. |
-| 2. Dispelling Misconceptions | Medium to High | Educator Guide; selected Block 1/2/3 prompts | Beginner questions are common, but full rebuttal essays are too long and advanced. |
-| 3. Bitcoin Technical History | Medium | Block 2 timeline and double-spend context | Useful lineage, but cryptography and protocol mechanics are Advanced. |
-| 4. Impact on Industry Verticals | Low for Core; Medium for Custom | Block 4 scenario cards only | Sector analysis is Advanced; local merchant/remittance/nonprofit examples can support Custom. |
+| 1. Bitcoin and Risk Management | Low to Medium | Module 4 discussion / Activity Bank only | Scenario thinking is useful, but risk-register methods are organizational and Advanced. |
+| 2. Dispelling Misconceptions | Medium to High | Educator Guide; selected Module 1/2/3 prompts | Beginner questions are common, but full rebuttal essays are too long and advanced. |
+| 3. Bitcoin Technical History | Medium | Module 2 timeline and double-spend context | Useful lineage, but cryptography and protocol mechanics are Advanced. |
+| 4. Impact on Industry Verticals | Low for Core; Medium for Custom | Module 4 scenario cards only | Sector analysis is Advanced; local merchant/remittance/nonprofit examples can support Custom. |
 | 5. Impact on Internal Functions | Low | Mostly Advanced | IT leadership, treasury, payroll, and business operations exceed beginner scope. |
-| 6. Adopting Bitcoin | Medium | Block 2 digital scarcity; Block 3 confirmations | Digital scarcity is useful; adoption-cycle and reorg math are Advanced. |
-| 7. Bitcoin's Possible Future | Low for Core; Medium for Custom discussion | Block 4 local future scenario only | Most future claims are speculative; local reflection can be useful if framed carefully. |
-| 8. The Bitcoin Economy | Medium | Block 3 verification; Activity Bank | Block explorers support beginner verification; on-chain analytics are Advanced. |
+| 6. Adopting Bitcoin | Medium | Module 2 digital scarcity; Module 3 confirmations | Digital scarcity is useful; adoption-cycle and reorg math are Advanced. |
+| 7. Bitcoin's Possible Future | Low for Core; Medium for Custom discussion | Module 4 local future scenario only | Most future claims are speculative; local reflection can be useful if framed carefully. |
+| 8. The Bitcoin Economy | Medium | Module 3 verification; Activity Bank | Block explorers support beginner verification; on-chain analytics are Advanced. |
 
 ## Material Explicitly Rejected For The Beginner Diploma
 
@@ -405,7 +405,7 @@ When the Diploma draft is edited, use this file as a checklist:
 1. Keep the beginner Student Book lean.
 2. Add only the high-priority beginner items if they are not already covered.
 3. Put misconception handling mostly in the Educator Guide.
-4. Put practical scenario material mostly in the Activity Bank and Custom block templates.
+4. Put practical scenario material mostly in the Activity Bank and Module 4 templates.
 5. Route everything advanced to `advancedorganizations.md` and `18_advanced.md`.
 
 The redesigned Diploma should gain clarity from Bitcoin for Organizations, not inherit its complexity.

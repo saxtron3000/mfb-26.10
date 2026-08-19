@@ -9,7 +9,7 @@ Use these documents to understand:
 - why the redesign exists;
 - what is changing;
 - what must stay fixed;
-- how the new 4-block Diploma is structured;
+- how the new 4-module Diploma is structured;
 - how objectives, activities, assessment, educator support, and publication fit together.
 
 Reference and feedback material outside this folder is input, not an active source of truth, unless this index explicitly assigns it a role.
@@ -52,7 +52,7 @@ Reference and feedback material outside this folder is input, not an active sour
 | Design principles and constraints | `04_design.md` |
 | Objectives and competencies | `05_objectives.md` |
 | Student Guide | `08_student.md` |
-| 4-block structure, content boundaries, and legacy migration | `06_plan.md` |
+| 4-module structure, content boundaries, and legacy migration | `06_plan.md` |
 | Advanced module titles, follow-on pathway ideas, and parked legacy content | `18_advanced.md` |
 | External sources and student-book claim references | `11_resources.md` |
 | Visual and asset needs | `09_assets.md` |
@@ -72,33 +72,33 @@ Reference and feedback material outside this folder is input, not an active sour
 
 # Current Working Direction
 
-The redesign currently uses this 4-block structure:
+The redesign currently uses this 4-module structure:
 
-1. Problem / Broken Money
-2. Solution / Bitcoin
-3. Action / Self-custody
-4. Custom / Bitcoin as Money
+1. Understanding Money
+2. How Bitcoin Works
+3. Using Bitcoin Safely
+4. Bitcoin in Your Community
 
 Working assumptions:
 
 - educator-facilitated delivery in person (preferred) or online;
 - low-tech, offline-capable print/PDF teaching content, with no app or connectivity requirement for learning, assessment, completion, or certification;
 - an approximately 8-hour minimum planning baseline, with additional time where required to meet the objectives;
-- four blocks that may be delivered across four two-hour sessions, eight one-hour sessions, or another objective-preserving schedule;
+- four modules that may be delivered across four two-hour sessions, eight one-hour sessions, or another objective-preserving schedule;
 - one beginner Diploma with Custom and Advanced pathways;
 - Core, Custom, and Advanced content separation;
 - shared Core theory with localized, educator-led practice;
 - English-first drafting with multilingual and translation-ready source files;
 - simplicity, tone, style, and translation-readiness review before translation or publication;
-- practical learning in every block;
-- educator-selected Custom block;
+- practical learning in every module;
+- educator-selected Module 4;
 - Activity Bank as a separate ecosystem component;
 - Educator Guide as a facilitation tool;
 - sparse QR code use in print materials;
 - future instructional branches documented without changing Core outcomes: online PDF, online cohort, self-paced, web, optional app self-assessment support, and cross-modal continuation; app use remains optional self-assessment only;
 - two required, non-compensatory assessment components, each worth 50%: theoretical assessment uses approved educator-led evidence and practical assessment uses direct educator observation;
 - educator-led theoretical evidence must come from approved objective-aligned activities, workshops, discussions, or learner explanations with concise evidence criteria and records; other educator-led theory work remains formative;
-- Blocks 1 and 2 are knowledge-dominant; Blocks 3 and 4 are skills-dominant and require direct observation by an educator;
+- Modules 1 and 2 are knowledge-dominant; Modules 3 and 4 are skills-dominant and require direct observation by an educator;
 - certification requires both theoretical and practical component statuses to meet their approved educator-led requirements; neither component can compensate for the other;
 - Advanced module design deferred until after the beginner Diploma is published;
 - Bitcoin for Organizations will not remain a standalone beginner path; beginner-safe material is merged only where it clarifies Core, Custom, educator, activity, or assessment work, while strategic and organizational depth is routed to Advanced;
@@ -119,9 +119,9 @@ Public materials should be clear, short, and non-technical. They should explain 
 # Consistency Rules
 
 - Do not treat reference, feedback, or superseded material as current authority unless this index explicitly assigns it a role.
-- Use "block" for the required Diploma structure.
-- Use "Custom modules" or "Custom units" only for educator-selected Block 4 content.
-- Do not rename Block 4 globally as "Spending"; spending is one possible Custom / Bitcoin as Money practice.
+- Use "module" for the required Diploma structure.
+- Use "Custom modules" or "Custom units" only for educator-selected Module 4 content.
+- Do not rename Module 4 globally as "Spending"; spending is one possible Bitcoin in Your Community practice.
 - Keep the full Advanced module title list only in `18_advanced.md`.
 - Use `advanced/mergefromorganizations.md` as the checklist for beginner-safe Organizations material; do not import Organizations chapters directly into the Student Guide.
 - Keep detailed activity instructions in `10_activities.md`, not in the Student Book or plan.

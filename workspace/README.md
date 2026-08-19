@@ -11,10 +11,10 @@ The project is in active planning and drafting. The files in `workspace/` are wo
 The current direction is:
 
 - a beginner Diploma with an approximately 8-hour minimum planning baseline;
-- four blocks that may be delivered in four two-hour sessions or another objective-preserving schedule;
-- a shared Core followed by an educator-selected Custom block;
+- four modules that may be delivered in four two-hour sessions or another objective-preserving schedule;
+- a shared Core followed by an educator-selected Module 4;
 - low-tech, offline-capable print or PDF content delivery first, facilitated in person or online;
-- practical learning, discussion, reflection, review, and learner explanation in every block;
+- practical learning, discussion, reflection, review, and learner explanation in every module;
 - English-first source drafting followed by simplicity, tone, terminology, style, and translation-readiness review;
 - a separate Student Book, Activity Bank, Educator Guide, assessment framework, and publication specification;
 - Advanced module design after the beginner Diploma is stable and published;
@@ -35,14 +35,14 @@ For a faster orientation:
 
 ## Course Architecture
 
-| Block | Role | Working title | Core question |
+| Module | Role | Working title | Core question |
 |---|---|---|---|
 | 1 | Problem | Broken Money | How can money break? |
 | 2 | Solution | Bitcoin | Why was Bitcoin created, and how does it respond? |
 | 3 | Action | Self-custody | How do I take responsibility for using and securing Bitcoin? |
 | 4 | Custom | Bitcoin as Money | How can Bitcoin function as money in this community? |
 
-Blocks 1–3 form the shared Core every learner completes. Local educators select and adapt Block 4 within the approved Custom boundaries so that practice reflects local tools, risks, opportunities, infrastructure, and community context.
+Modules 1–3 form the shared Core every learner completes. Local educators select and adapt Module 4 within the approved Custom boundaries so that practice reflects local tools, risks, opportunities, infrastructure, and community context.
 
 ## Repository Structure
 
@@ -66,16 +66,16 @@ Reference and feedback material is input, not automatically approved curriculum.
 | [`03_scope.md`](03_scope.md) | Workstreams, milestones, deliverables, completion criteria, and out-of-scope work. |
 | [`04_design.md`](04_design.md) | Design principles, non-negotiables, assumptions, adaptation boundaries, and risks. |
 | [`05_objectives.md`](05_objectives.md) | Core, Custom, and Advanced learning outcomes and competency boundaries. |
-| [`06_plan.md`](06_plan.md) | **Active source of truth** for the four-block architecture, content boundaries, timing rules, and legacy migration. |
+| [`06_plan.md`](06_plan.md) | **Active source of truth** for the four-module architecture, content boundaries, timing rules, and legacy migration. |
 | [`07_contents.md`](07_contents.md) | Planned Student Book table of contents. |
 | [`08_student.md`](08_student.md) | Current Student Guide and learner-facing content. |
 | [`09_assets.md`](09_assets.md) | Visual-text index, asset requirements, placement rules, and review handoff. |
 | [`10_activities.md`](10_activities.md) | Activity Bank structure, activity inventory, and activity design rules. |
 | [`11_resources.md`](11_resources.md) | External sources and their current Student Book claim locations. |
-| [`12_educator-draft.md`](12_educator-draft.md) | Current educator-facing publication draft covering all four blocks and working assessment guidance; not yet release-approved. |
+| [`12_educator-draft.md`](12_educator-draft.md) | Current educator-facing publication draft covering all four modules and working assessment guidance; not yet release-approved. |
 | [`12_educator-plan.md`](12_educator-plan.md) | Supporting Educator Guide outline and structural plan. |
 | [`13_assessment.md`](13_assessment.md) | Combined assessment model, objective-aligned evidence, passing requirements, and delivery-mode adaptation. |
-| [`14_microlearning.md`](14_microlearning.md) | Optional app self-assessment question bank across the four Diploma blocks. |
+| [`14_microlearning.md`](14_microlearning.md) | Optional app self-assessment question bank across the four Diploma modules. |
 | [`15_certification.md`](15_certification.md) | Two-part assessment prerequisite for certification and outstanding governance questions. |
 | [`16_lexicon.md`](16_lexicon.md) | Beginner-safe terminology and definitions for consistent drafting and translation. |
 | [`17_spec.md`](17_spec.md) | Standalone 2026.10 overview, publication rules, and collaborator-facing specification. |

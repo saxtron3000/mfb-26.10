@@ -26,11 +26,11 @@
 ## The new learning pathway
 
 - Approximately 8-hour core pathway.
-- Four coherent blocks:
-  1. **Problem / Broken Money** — understand the monetary problem.
-  2. **Solution / Bitcoin** — understand Bitcoin’s design and purpose.
-  3. **Action / Self-custody** — learn wallets, safety, and responsible use.
-  4. **Custom / Bitcoin as Money** — connect learning to local tools, needs, and use cases.
+- Four coherent modules:
+  1. **Understanding Money** — understand the monetary problem.
+  2. **How Bitcoin Works** — understand Bitcoin’s design and purpose.
+  3. **Using Bitcoin Safely** — learn wallets, safety, and responsible use.
+  4. **Bitcoin in Your Community** — connect learning to local tools, needs, and use cases.
 - Core, Custom, and Advanced pathways prevent beginner overload while preserving depth.
 
 ## What makes it stronger

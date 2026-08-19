@@ -79,7 +79,7 @@ This document sorts suggestions consolidated from `ARNOLD-SURVEY_Education Comme
 
 ## Horizon
 
-28. Introduce Bitcoin earlier in the learning path than the current Problem / Fiat → Solution / Bitcoin progression, or create an alternate entry sequence for learners who arrive specifically for Bitcoin. — Bitcoin Amantikir
+28. Introduce Bitcoin earlier in the learning path than the current Understanding Money → How Bitcoin Works progression, or create an alternate entry sequence for learners who arrive specifically for Bitcoin. — Bitcoin Amantikir
 
 29. Design activities specifically for one-to-one teaching and very small groups, including dedicated 1:1 guidance. — Bitcoin Ekasi
 

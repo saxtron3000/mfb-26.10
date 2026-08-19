@@ -130,8 +130,8 @@ Suggested content structure:
 | Priority | Destination | Rationale |
 |---|---|---|
 | 1 | Bitcoin Education / Misconceptions | Useful immediately for educators and public communication. |
-| 2 | History of Bitcoin / Computer Science Fundamentals / Cryptography | Strong source material that deepens Block 2 without burdening the beginner Diploma. |
-| 3 | Payments & Exchange / Transactions & Settlement | Direct follow-on from Block 3 and Block 4 practical learning. |
+| 2 | History of Bitcoin / Computer Science Fundamentals / Cryptography | Strong source material that deepens Module 2 without burdening the beginner Diploma. |
+| 3 | Payments & Exchange / Transactions & Settlement | Direct follow-on from Module 3 and Module 4 practical learning. |
 | 4 | Bitcoin for Business / Treasury | Core of the old Organizations path; high value for organizational audiences. |
 | 5 | Energy & Mining | Large, coherent content set; needs significant fact-checking. |
 | 6 | Money & Human Rights / Money & Society / Policy | Valuable but tone-sensitive and locally sensitive. |

@@ -50,7 +50,7 @@ The scope assumes the current working design direction described in `04_design.m
 The following assumptions affect project execution:
 
 - Target duration: an approximately 8-hour minimum planning baseline, with additional time where needed to meet the objectives.
-- Working architecture: 4 blocks—Problem / Broken Money, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money—delivered in an objective-preserving schedule rather than fixed two-hour classes.
+- Working architecture: 4 modules—Understanding Money, How Bitcoin Works, Using Bitcoin Safely, and Bitcoin in Your Community—delivered in an objective-preserving schedule rather than fixed two-hour classes.
 - Educator-facilitated delivery in person or online.
 - Low-tech, offline-capable print/PDF instructional materials, with no app access required for learning, assessment, completion, or certification.
 - Single Diploma with Custom and Advanced pathways.
@@ -81,7 +81,7 @@ Reduce duration, duplication, and cognitive load while improving clarity and ret
 
 ### Deliverables
 
-- Four-block architecture proposal
+- Four-module architecture proposal
 - Core content map
 - Custom content map
 - Advanced content map
@@ -122,7 +122,7 @@ Create explicit links between:
 ### Deliverables
 
 - Competency framework
-- Competency-to-block map
+- Competency-to-module map
 - Competency-to-activity map
 - Competency evidence framework
 
@@ -303,7 +303,7 @@ Ensure realistic implementation.
 
 ### Deliverables
 
-- Block timing analysis
+- Module timing analysis
 - Activity timing analysis
 - Total workload analysis
 - Facilitator implementation guidance
@@ -369,15 +369,15 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 - 10-minute Prague keynote proposal
 - Speaker notes
 - Before / after comparison
-- 4-block visual brief
+- 4-module visual brief
 - Public call-to-action language
 - Backup notes for assessment, certification, and Advanced pathways
 
 ### Completion Criteria
 
 - Public materials explain what is changing and what is being preserved.
-- The 4-block structure is visible and easy to repeat.
-- The Custom / Bitcoin as Money block is explained as educator-selected and locally grounded.
+- The 4-module structure is visible and easy to repeat.
+- The Bitcoin in Your Community module is explained as educator-selected and locally grounded.
 - The Activity Bank and Educator Guide are presented as core ecosystem components.
 - Assessment and certification are described accurately without overpromising.
 - Advanced module titles are not duplicated outside `18_advanced.md`.
@@ -399,7 +399,7 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 
 ## Milestone 3 — Curriculum Architecture
 
-- Four-block architecture completed
+- Four-module architecture completed
 - Content categorization completed
 
 ## Milestone 4 — Practical Learning & Activity Bank
@@ -445,7 +445,7 @@ The redesign is complete when:
 - Diploma has an approximately 8-hour planning baseline and is scheduled with additional time whenever required to meet the objectives and assessment standard.
 - Diploma teaching content and educator-led assessment can be delivered from an offline-capable print or PDF package, with no app requirement for completion.
 - Learning outcomes are clearly defined.
-- Competencies are mapped to blocks, activities, and evidence.
+- Competencies are mapped to modules, activities, and evidence.
 - Practical learning is significantly increased.
 - Essential and optional content are clearly separated.
 - Advanced content is appropriately separated.

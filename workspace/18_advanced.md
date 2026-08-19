@@ -63,7 +63,7 @@ The absence of a topic from `08_student.md` does not mean the topic is unimporta
 
 | Topic | Owner document |
 |---|---|
-| Four-block beginner architecture | `06_plan.md` |
+| Four-module beginner architecture | `06_plan.md` |
 | Core / Custom / Advanced boundary rules | `06_plan.md` |
 | Advanced title inventory | `18_advanced.md` |
 | Advanced follow-on pathway ideas | `18_advanced.md` |
@@ -117,45 +117,94 @@ Core learners should not be expected to master these topics inside the 8-hour be
 
 ---
 
-# 4. Candidate Advanced Module Titles
+# 4. Proposed 24-Module Advanced Roadmap
 
-The full Advanced module title list should appear only in this file.
+This is the proposed priority order for Advanced publication after the redesigned Diploma is published. It is a roadmap and coverage plan, not a finished curriculum or commitment to publish all modules at once.
 
-Candidate Advanced module titles:
+1. Bitcoin Education and Misconceptions
+2. History of Bitcoin and Computer Science Foundations
+3. Monetary Economics
+4. History of Money (localisation)
+5. Mining and Consensus
+6. Cryptography
+7. Transactions and Settlement
+8. Self-Custody, Privacy, Security, and Online Safety
+9. Payments, Exchange, and Lightning
+10. Infrastructure and Maintenance
+11. Open Source Software and Contribution
+12. On-Chain Analytics
+13. Energy and Mining
+14. Bitcoin for Business
+15. Bitcoin Treasury and Organizational Custody
+16. Bitcoin Risk Management and Scenario Planning
+17. Communities and Circular Economies
+18. Bitcoin for Families and Communities
+19. Money and Society
+20. Money and Human Rights
+21. Bitcoin Policy and Governance
+22. Philosophy of Bitcoin and Future Scenarios
+23. Decentralized Communication and Networks
+24. Bitcoin and AI Payments
 
-- History of Money (localisation)
-- Monetary Economics
-- History of Bitcoin
-- Philosophy of Bitcoin
-- Transactions & Settlement
-- Mining & Consensus
-- Privacy & Security
-- Payments & Exchange
-- Bitcoin for Business
-- Infrastructure & Maintenance
-- Communities & Circular Economies
-- Money & Society
-- Money & Human Rights
-- Energy & Mining
-- Open Source Software
-- Nostr & Decentralized Communication
-- Communication Networks
-- Bitcoin Education
-- Bitcoin for Families
-- Bitcoin for Organizations
-- Bitcoin Treasury and Organizational Custody
-- Bitcoin Risk Management and Scenario Planning
-- Bitcoin Policy and Governance
-- Bitcoin and AI Payments
-- On-Chain Analytics
-- Bitcoin for ... (Communities & Populations)
-- Cryptography
-- Computer Science Fundamentals
-- Online privacy and safety
+### Coverage And Consolidation Rule
 
-Note: `Bitcoin for X` is a flexible Advanced category for population- or community-specific modules, such as Bitcoin for women, Bitcoin for Muslims, or other locally relevant communities. These modules should be developed with community input and should avoid treating any group as monolithic.
+The roadmap deliberately consolidates overlapping candidate titles without discarding their content:
 
-The Organizations-derived titles were added after reviewing the retiring `../ref/bitcoin-for-organizations/en` pathway. They may later be merged into broader modules if the Advanced pathway needs fewer titles, but they are strong enough to preserve as candidate modules for now.
+| Existing title or seed | Roadmap home |
+|---|---|
+| Bitcoin Education | 1. Bitcoin Education and Misconceptions |
+| History of Bitcoin; Computer Science Fundamentals | 2. History of Bitcoin and Computer Science Foundations |
+| Monetary Economics | 3. Monetary Economics |
+| History of Money (localisation) | 4. History of Money (localisation) |
+| Mining & Consensus | 5. Mining and Consensus |
+| Cryptography | 6. Cryptography |
+| Transactions & Settlement | 7. Transactions and Settlement |
+| Privacy & Security; Online privacy and safety; Bitcoin Self-Custody seed | 8. Self-Custody, Privacy, Security, and Online Safety |
+| Payments & Exchange; Lightning Network seed | 9. Payments, Exchange, and Lightning |
+| Infrastructure & Maintenance | 10. Infrastructure and Maintenance |
+| Open Source Software | 11. Open Source Software and Contribution |
+| On-Chain Analytics | 12. On-Chain Analytics |
+| Energy & Mining | 13. Energy and Mining |
+| Bitcoin for Business | 14. Bitcoin for Business |
+| Bitcoin Treasury and Organizational Custody | 15. Bitcoin Treasury and Organizational Custody |
+| Bitcoin Risk Management and Scenario Planning | 16. Bitcoin Risk Management and Scenario Planning |
+| Communities & Circular Economies | 17. Communities and Circular Economies |
+| Bitcoin for Families; Bitcoin for ... (Communities & Populations) | 18. Bitcoin for Families and Communities |
+| Money & Society | 19. Money and Society |
+| Money & Human Rights | 20. Money and Human Rights |
+| Bitcoin Policy and Governance | 21. Bitcoin Policy and Governance |
+| Philosophy of Bitcoin | 22. Philosophy of Bitcoin and Future Scenarios |
+| Nostr & Decentralized Communication; Communication Networks | 23. Decentralized Communication and Networks |
+| Bitcoin and AI Payments | 24. Bitcoin and AI Payments |
+| Bitcoin for Organizations | A cross-module pathway and capstone drawing primarily on Modules 14–16, not a separate module. |
+
+`Bitcoin for X` remains a flexible local adaptation category inside Module 18. It must be co-designed with the relevant community and must not treat any group as monolithic.
+
+### Parked-Content Coverage Audit
+
+Every redacted-content collection and L2 seed in this file has a roadmap destination. A topic may appear in more than one module where different audiences or applications require it.
+
+| Parked content or seed | Roadmap destination |
+|---|---|
+| Money psychology and economic behavior | 3. Monetary Economics; 19. Money and Society; 1. Bitcoin Education and Misconceptions |
+| Investment, risk, reward, and capital allocation | 3. Monetary Economics; 15. Bitcoin Treasury and Organizational Custody; 16. Bitcoin Risk Management and Scenario Planning |
+| Detailed history of money | 4. History of Money (localisation); 3. Monetary Economics; 19. Money and Society |
+| Fiat systems, fractional-reserve banking, debt, and policy | 3. Monetary Economics; 4. History of Money (localisation); 19. Money and Society; 21. Bitcoin Policy and Governance |
+| CBDCs and digital fiat | 20. Money and Human Rights; 21. Bitcoin Policy and Governance; 3. Monetary Economics; 8. Self-Custody, Privacy, Security, and Online Safety |
+| Cypherpunks, digital cash, and decentralized systems | 2. History of Bitcoin and Computer Science Foundations; 6. Cryptography; 23. Decentralized Communication and Networks |
+| Consensus, network roles, open development, and economic nodes | 5. Mining and Consensus; 10. Infrastructure and Maintenance; 11. Open Source Software and Contribution; 1. Bitcoin Education and Misconceptions |
+| Cryptography | 6. Cryptography; 2. History of Bitcoin and Computer Science Foundations; 7. Transactions and Settlement; 8. Self-Custody, Privacy, Security, and Online Safety |
+| UTXOs and transaction structure | 7. Transactions and Settlement; 8. Self-Custody, Privacy, Security, and Online Safety; 10. Infrastructure and Maintenance |
+| Mining, difficulty, issuance, fees, and fee markets | 5. Mining and Consensus; 13. Energy and Mining; 7. Transactions and Settlement; 10. Infrastructure and Maintenance |
+| Mempools and block explorers | 7. Transactions and Settlement; 10. Infrastructure and Maintenance; 12. On-Chain Analytics; 8. Self-Custody, Privacy, Security, and Online Safety |
+| Wallets, custody, recovery, and operational security | 8. Self-Custody, Privacy, Security, and Online Safety; 10. Infrastructure and Maintenance; 18. Bitcoin for Families and Communities |
+| Acquiring, exchanging, KYC, and no-KYC trade-offs | 9. Payments, Exchange, and Lightning; 8. Self-Custody, Privacy, Security, and Online Safety; 14. Bitcoin for Business; 20. Money and Human Rights |
+| Lightning and second-layer payments | 9. Payments, Exchange, and Lightning; 10. Infrastructure and Maintenance; 14. Bitcoin for Business; 8. Self-Custody, Privacy, Security, and Online Safety |
+| Merchant tools, BTCPay Server, and business use | 14. Bitcoin for Business; 9. Payments, Exchange, and Lightning; 10. Infrastructure and Maintenance; 17. Communities and Circular Economies |
+| Circular economies and communities | 17. Communities and Circular Economies; 18. Bitcoin for Families and Communities; 14. Bitcoin for Business; 1. Bitcoin Education and Misconceptions |
+| Philosophy, human rights, and future scenarios | 22. Philosophy of Bitcoin and Future Scenarios; 20. Money and Human Rights; 19. Money and Society; 13. Energy and Mining |
+| Open-source software and contribution | 11. Open Source Software and Contribution; 1. Bitcoin Education and Misconceptions; 10. Infrastructure and Maintenance; 14. Bitcoin for Business |
+| Communication networks, Nostr, and online privacy | 23. Decentralized Communication and Networks; 8. Self-Custody, Privacy, Security, and Online Safety; 20. Money and Human Rights |
 
 ---
 
@@ -195,7 +244,7 @@ Split decisions:
 - Psychology of money stays in Core as a foundation; deeper behavioral analysis moves to Advanced.
 - Nodes and miners stay in Core only as simple roles; technical mechanics move to Advanced.
 - Transaction concepts stay in Core only where needed for safe use and verification; detailed models move to Advanced.
-- CBDCs may appear briefly in Block 1 or locally in Block 4; policy and technical depth moves to Advanced.
+- CBDCs may appear briefly in Module 1 or locally in Module 4; policy and technical depth moves to Advanced.
 - Lightning distinctions may be introduced briefly, but wallet setup and payment practice normally belongs in Custom.
 - Buying and selling bitcoin may appear in Core as a conceptual risk map, but provider-specific practice belongs in Custom or Advanced.
 - Named services, wallets, exchanges, peer-to-peer platforms, and local recommendations should not become global Student Book recommendations.
@@ -444,7 +493,7 @@ Primary sources:
 - `../ref/chapters/4-how-problems-lead-to-solutions/3-the-quest-for-a-decentralized-currency.md`
 - `../ref/chapters/2-the-history-of-money/2-digital-currency.md`
 - `../ref/00_bd_202604-en.md`, sections `2.2` and `4.3`
-- `08_student.md`, Block 2 sections on Cypherpunk context and early digital-money attempts
+- `08_student.md`, Module 2 sections on Cypherpunk context and early digital-money attempts
 
 Content to preserve:
 
@@ -483,7 +532,7 @@ Primary sources:
 - `../ref/chapters/9-how-does-bitcoin-mining-work/1-bitcoin-nodes-and-miners.md`
 - `../ref/00_bd_202604-en.md`, sections `5.1`, `9.1`
 - `02_research.md`, Hackfest repository research
-- `08_student.md`, Block 2 sections on users, nodes, miners, and proof of work
+- `08_student.md`, Module 2 sections on users, nodes, miners, and proof of work
 
 Content to preserve:
 
@@ -568,7 +617,7 @@ Primary sources:
 - `../ref/chapters/9-how-does-bitcoin-mining-work/3-how-transactions-work.md`
 - `../ref/chapters/6-how-to-use-bitcoin/4-receiving-and-sending-transactions.md`
 - `../ref/00_bd_202604-en.md`, sections `6.4`, `8.2`, `9.3`
-- `08_student.md`, Block 3 transaction and verification sections
+- `08_student.md`, Module 3 transaction and verification sections
 
 Content to preserve:
 
@@ -582,7 +631,7 @@ Content to preserve:
 - broadcast to peer-to-peer network;
 - node validation;
 - mempool entry;
-- miner block selection;
+- miner transaction selection for candidate blocks;
 - confirmations;
 - transaction finality;
 - privacy risk from revealing UTXOs;
@@ -693,7 +742,7 @@ Primary sources:
 - `../ref/chapters/6-how-to-use-bitcoin/3-setting-up-a-mobile-wallet.md`
 - `../ref/chapters/6-how-to-use-bitcoin/4-receiving-and-sending-transactions.md`
 - `../ref/chapters/6-how-to-use-bitcoin/5-don-t-trust-verify.md`
-- `08_student.md`, Block 3 self-custody sections
+- `08_student.md`, Module 3 self-custody sections
 
 Content to preserve:
 
@@ -786,7 +835,7 @@ Primary sources:
 - `../ref/chapters/7-using-bitcoin-in-daily-life/2-types-of-lightning-wallets.md`
 - `../ref/chapters/7-using-bitcoin-in-daily-life/3-setting-up-a-bitcoin-lightning-wallet.md`
 - `../ref/chapters/7-using-bitcoin-in-daily-life/4-sending-and-receiving-lightning-transactions.md`
-- `08_student.md`, Block 3 Lightning distinction and Block 4 Lightning sections
+- `08_student.md`, Module 3 Lightning distinction and Module 4 Lightning sections
 
 Content to preserve:
 
@@ -833,7 +882,7 @@ Fact-check notes:
 Primary sources:
 
 - `../ref/chapters/7-using-bitcoin-in-daily-life/5-buying-coffee-and-groceries-with-bitcoin.md`
-- `08_student.md`, Block 4 merchant and community use-case sections
+- `08_student.md`, Module 4 merchant and community use-case sections
 
 Content to preserve:
 
@@ -874,7 +923,7 @@ Primary sources:
 
 - `../ref/chapters/7-using-bitcoin-in-daily-life/5-buying-coffee-and-groceries-with-bitcoin.md`
 - `../ref/chapters/11-back-matter/1-real-world-case-studies.md`
-- `08_student.md`, Block 4 circular economy, local resource map, and community discovery sections
+- `08_student.md`, Module 4 circular economy, local resource map, and community discovery sections
 - `public/MFB-BD-Keynote.md`, public redesign explanation
 
 Content to preserve:
@@ -902,7 +951,7 @@ Possible Advanced modules:
 
 Reason moved out of Core:
 
-Block 4 can introduce local practice. Deeper community development, governance, support, and sustainability belong in separate modules or local programs.
+Module 4 can introduce local practice. Deeper community development, governance, support, and sustainability belong in separate modules or local programs.
 
 ## Philosophy, Human Rights, And Future Scenarios
 
@@ -1014,41 +1063,36 @@ The beginner Diploma should stay focused on money and Bitcoin. Decentralized com
 
 ---
 
-# 9. Candidate Module Seed Catalog
+# 9. Module Seed Catalog
 
-This section sketches possible directions for the candidate modules. These are seeds, not final scopes.
+This catalog gives every module in the 24-module roadmap a home for the parked material. These are seeds, not final scopes.
 
-| Candidate module | Possible focus | Parked source material |
+| Roadmap module | Possible focus | Parked source material |
 |---|---|---|
-| History of Money (localisation) | Local money histories, commodity money, coinage, paper receipts, gold standard, Bretton Woods, Nixon Shock, modern digital money | Legacy chapters 2 and 3; local educator input |
-| Monetary Economics | Scarcity, time preference, opportunity cost, inflation, purchasing power, fractional-reserve banking, liquidity and solvency, debt, policy tools, the Cantillon effect, and risk/reward and capital-allocation reasoning | Legacy chapters 1.6, 3.2, 4.1, 4.2; Organizations investment-management material |
-| History of Bitcoin | Cypherpunks, digital cash attempts, Satoshi, whitepaper, Genesis Block, early transactions, Pizza Day | Legacy chapters 4.3, 5.0, 5.1 |
-| Philosophy of Bitcoin | Self-sovereignty, autonomy, critical thinking, rule verification, rights, future scenarios | Legacy chapter 10 |
-| Transactions & Settlement | UTXOs, inputs, outputs, change, signatures, broadcast, mempool, confirmations, settlement finality | Legacy chapters 6.4, 8.2, 9.2, 9.3 |
-| Mining & Consensus | Nakamoto Consensus, proof of work, nodes, miners, block templates, valid hashes, difficulty, halvings | Legacy chapters 5.1 and 9 |
-| Privacy & Security | Threat models, UTXO privacy, block explorer privacy, KYC trade-offs, wallet security, scams, online safety | Legacy chapters 6, 8, 9; `08_student.md` safety sections |
-| Payments & Exchange | P2P exchange, centralized exchanges, escrow, on/off ramps, Lightning payments, gift cards, merchant payments | Legacy chapters 6.1 and 7 |
-| Bitcoin for Business | Merchant workflows, BTCPay Server, receipts, refunds, accounting, staff training, payment operations | Legacy chapter 7.5; Block 4 draft |
-| Infrastructure & Maintenance | Running nodes, wallet infrastructure, explorers, BTCPay, Lightning nodes, maintenance habits | Legacy chapters 7, 8, 9 |
-| Communities & Circular Economies | Local resource maps, merchant discovery, circular-economy design, education support, community case studies | Legacy chapter 7.5 and case studies |
-| Money & Society | Fiat social effects, wealth concentration, consumerism, debt culture, savings, planning, trust | Legacy chapters 3.2, 4.2, 10 |
-| Money & Human Rights | Financial censorship, CBDCs, privacy, access, self-sovereignty, remittances, rights framing | Legacy chapter 10.1, 10.2 |
-| Energy & Mining | Mining energy use, surplus energy, grid interaction, incentives, energy claims, public debate | Legacy chapter 10.3; mining chapter |
-| Open Source Software | Bitcoin Core, wallet code, BTCPay, contribution models, review, licenses, community development | Legacy chapters 5.1, 6.2, 7.5 |
-| Nostr & Decentralized Communication | Decentralized communication, relays, identity, censorship resistance, social publishing | Candidate title; Cypherpunk material |
-| Communication Networks | Internet, Tor, encryption, peer-to-peer networks, censorship resistance, network resilience | Legacy chapter 4.3 |
-| Bitcoin Education | How to teach Bitcoin, concept maps, prerequisite chains, demo-before-abstraction, activity design | `02_research.md`, `10_activities.md`, `12_educator-draft.md` |
-| Bitcoin for Families | Family custody conversations, inheritance basics, safety culture, youth education, shared decision-making | Candidate title; custody and safety material |
-| Bitcoin for Organizations | Treasury policy, custody roles, governance, payments, donations, accounting, staff training | Candidate title; business and custody material |
-| Bitcoin Treasury and Organizational Custody | Treasury policy, balance-sheet exposure, custody roles, approval workflows, controls, accounting boundaries, institutional risk | `../ref/bitcoin-for-organizations/en/5-impact-on-internal-functions/2-what-is-a-bitcoin-treasury.md`; `../ref/bitcoin-for-organizations/en/4-impact-on-industry-verticals/2-bitcoin-and-investment-management.md` |
-| Bitcoin Risk Management and Scenario Planning | Risk registers, likelihood, magnitude, time horizon, mitigations, strategic scenarios, organizational decision-making | `../ref/bitcoin-for-organizations/en/1-bitcoin-and-risk-management/` |
-| Bitcoin Policy and Governance | CBDCs, government bans, self-custody restrictions, law versus protocol, organizational governance, public-sector implications | `../ref/bitcoin-for-organizations/en/4-impact-on-industry-verticals/6-government.md`; `../ref/bitcoin-for-organizations/en/2-dispelling-misconceptions/5-will-governments-ban-bitcoin.md`; `../ref/bitcoin-for-organizations/en/2-dispelling-misconceptions/9-will-a-cbdc-render-bitcoin-obsolete.md` |
-| Bitcoin and AI Payments | AI agents, machine payments, L402-style payment flows, Lightning-enabled APIs, automated service purchasing | `../ref/bitcoin-for-organizations/en/7-bitcoin-s-possible-future/4-the-convergence-of-bitcoin-and-ai.md`; `../ref/bitcoin-for-organizations/en/5-impact-on-internal-functions/1-bitcoin-s-impact-on-it-leaders.md` |
-| On-Chain Analytics | Open-ledger inspection, block explorer literacy, transaction graphs, public metrics, Pizza Day transaction analysis, privacy limits | `../ref/bitcoin-for-organizations/en/8-the-bitcoin-economy/` |
-| Bitcoin for ... | Community-specific modules co-designed with the relevant community | Candidate title; local Custom experience |
-| Cryptography | Public/private keys, digital signatures, hashing, SHA-256, one-way functions, address hashing | Legacy chapter 8.1 |
-| Computer Science Fundamentals | Functions, hashes, networks, databases, peer-to-peer systems, block structure, verification | Legacy chapters 8 and 9; Hackfest research |
-| Online privacy and safety | Device hygiene, metadata, scams, identity exposure, communication privacy, wallet privacy | Safety sections; Cypherpunk material |
+| 1. Bitcoin Education and Misconceptions | Teaching practice, concept maps, prerequisite chains, misconception handling, demonstration design, and educator-facing scenario workshops | `02_research.md`, `10_activities.md`, `12_educator-draft.md`; Organizations misconceptions and risk-management sources |
+| 2. History of Bitcoin and Computer Science Foundations | Cypherpunks, digital-cash attempts, Satoshi, the whitepaper, Genesis Block, protocols, networks, peer-to-peer systems, hashes, and distributed-system foundations | Legacy chapters 4.3, 5.0, 5.1, 8 and 9; Organizations technical-history sources |
+| 3. Monetary Economics | Scarcity, time preference, opportunity cost, inflation, purchasing power, fractional-reserve banking, liquidity and solvency, debt, policy tools, the Cantillon effect, and risk/reward and capital-allocation reasoning | Legacy chapters 1.6, 3.2, 4.1, 4.2; Organizations investment-management material |
+| 4. History of Money (localisation) | Local money histories, commodity money, coinage, paper receipts, gold standards, Bretton Woods, Nixon Shock, and modern digital money | Legacy chapters 2 and 3; local educator input |
+| 5. Mining and Consensus | Nakamoto Consensus, proof of work, nodes, miners, economic nodes, block templates, valid hashes, difficulty, issuance, halvings, fee markets, and incentives | Legacy chapters 5.1 and 9; Organizations adoption and mining sources |
+| 6. Cryptography | Public/private keys, digital signatures, hashing, SHA-256, one-way functions, address hashing, and optional Merkle trees | Legacy chapter 8.1; Organizations technical-history sources |
+| 7. Transactions and Settlement | UTXOs, inputs, outputs, change, signatures, broadcast, mempools, confirmations, settlement finality, and public-ledger trade-offs | Legacy chapters 6.4, 8.2, 9.2, 9.3; Organizations Bitcoin-economy sources |
+| 8. Self-Custody, Privacy, Security, and Online Safety | Threat models, wallet and recovery design, custody, passphrases, multisig, UTXO and explorer privacy, scams, metadata, and device safety | Legacy chapters 6, 8, 9; `08_student.md` safety sections; Cypherpunk material |
+| 9. Payments, Exchange, and Lightning | On/off ramps, exchange trade-offs, Lightning channels and routing, liquidity, payment flows, merchant payments, and acquisition risks | Legacy chapters 6.1 and 7; Organizations banking-and-payments sources |
+| 10. Infrastructure and Maintenance | Nodes, wallet infrastructure, explorers, BTCPay, Lightning nodes, connectivity, troubleshooting, service management, and maintenance habits | Legacy chapters 7, 8, 9; Organizations internal-functions sources |
+| 11. Open Source Software and Contribution | Bitcoin Core, wallet and payment software, review, licenses, BIPs, governance, and code and non-code contribution pathways | Legacy chapters 5.1, 6.2, 7.5; Organizations technical-history sources |
+| 12. On-Chain Analytics | Open-ledger inspection, transaction graphs, public metrics, block explorers, Pizza Day analysis, and privacy limits | Organizations Bitcoin-economy sources |
+| 13. Energy and Mining | Mining energy use, incentives, surplus energy, grid interaction, energy claims, and public debate | Legacy mining material; Organizations energy sources |
+| 14. Bitcoin for Business | Merchant workflows, payment operations, BTCPay, receipts, refunds, staff training, accounting boundaries, and customer education | Legacy chapter 7.5; Organizations business and sector sources |
+| 15. Bitcoin Treasury and Organizational Custody | Treasury policy, balance-sheet exposure, custody roles, approvals, controls, accounting boundaries, and institutional risk | Organizations treasury and investment-management sources |
+| 16. Bitcoin Risk Management and Scenario Planning | Risk registers, likelihood, magnitude, time horizon, mitigations, strategic scenarios, and organizational decision-making | Organizations risk-management sources |
+| 17. Communities and Circular Economies | Local resource maps, merchant discovery, circular-economy design, education support, case studies, governance, and community sustainability | Legacy chapter 7.5 and case studies; local Custom experience |
+| 18. Bitcoin for Families and Communities | Family custody conversations, inheritance basics, safety culture, youth education, shared decisions, and community-specific modules co-designed with participants | Custody and safety material; local community input |
+| 19. Money and Society | Fiat social effects, wealth concentration, consumerism, debt culture, savings, planning, trust, and social-change claims evaluated with evidence | Legacy chapters 3.2, 4.2, 10; Organizations government and nonprofit sources |
+| 20. Money and Human Rights | Financial censorship, CBDCs, privacy, access, self-sovereignty, remittances, and rights framing | Legacy chapter 10.1, 10.2; Organizations government and underbanked-access sources |
+| 21. Bitcoin Policy and Governance | CBDCs, self-custody restrictions, law versus protocol, organizational governance, and public-sector implications | Organizations government and CBDC sources |
+| 22. Philosophy of Bitcoin and Future Scenarios | Self-sovereignty, autonomy, critical thinking, rule verification, value claims, and future scenarios evaluated as possibilities rather than promises | Legacy chapter 10; Organizations misconceptions and future-scenarios sources |
+| 23. Decentralized Communication and Networks | Internet and protocol layers, Tor, encryption, peer-to-peer resilience, Nostr, identity, relays, censorship resistance, and social publishing | Legacy chapter 4.3; Cypherpunk material; Organizations communication sources |
+| 24. Bitcoin and AI Payments | AI agents, machine payments, Lightning-enabled APIs, L402-style flows, and automated service purchasing | Organizations AI and infrastructure sources |
 
 ---
 
@@ -1064,14 +1108,14 @@ These activities may become Advanced modules, educator background, or optional w
 | Claim / evidence / reasoning on fiat problems | Money & Society | `10_activities.md` |
 | Cypherpunk timeline | History of Bitcoin | Legacy chapter 4.3 |
 | Consensus activity | Mining & Consensus | Legacy chapter 5.1 |
-| Wallet evaluation exercise | Privacy & Security | Legacy chapter 6.2 |
-| Wallet setup and recovery lab | Bitcoin Self-Custody | Legacy chapter 6.3 |
+| Wallet evaluation exercise | Self-Custody, Privacy, Security, and Online Safety | Legacy chapter 6.2 |
+| Wallet setup and recovery lab | Self-Custody, Privacy, Security, and Online Safety | Legacy chapter 6.3 |
 | Transactions in action | Transactions & Settlement | Legacy chapter 6.4 |
 | SHA-256 hashing demo | Cryptography | Legacy chapter 8.1 |
 | UTXO change-output exercise | Transactions & Settlement | Legacy chapter 8.2 |
 | Mempool observation | Transactions & Settlement | Legacy chapter 9.2 |
 | Block-time and halving demonstration | Mining & Consensus | `02_research.md` Hackfest notes |
-| Lightning relay race | Lightning Network | Legacy chapter 7.4 |
+| Lightning relay race | Payments, Exchange, and Lightning | Legacy chapter 7.4 |
 | Merchant payment workflow | Bitcoin for Business | Legacy chapter 7.5 |
 | Circular economy map | Communities & Circular Economies | Legacy chapter 7.5 and `08_student.md` |
 | CBDC comparison workshop | Money & Human Rights | Legacy chapters 3.3 and 10.1 |
@@ -1257,18 +1301,20 @@ These titles have already been added to the candidate title inventory above, but
 | 7. Bitcoin's Possible Future | Money & Society; Payments & Exchange; Energy & Mining; Money & Human Rights; Infrastructure & Maintenance; Bitcoin and AI Payments |
 | 8. The Bitcoin Economy | Transactions & Settlement; Privacy & Security; Mining & Consensus; On-Chain Analytics |
 
-## Priority For Advanced Migration
+## Migration Priority Reconciliation
 
-| Priority | Destination | Rationale |
-|---|---|---|
-| 1 | Bitcoin Education / Misconceptions | Useful immediately for educators and public communication. |
-| 2 | History of Bitcoin / Computer Science Fundamentals / Cryptography | Strong source material that deepens Block 2 without burdening the beginner Diploma. |
-| 3 | Payments & Exchange / Transactions & Settlement | Direct follow-on from Block 3 and Block 4 practical learning. |
-| 4 | Bitcoin for Business / Treasury | Core of the old Organizations path; high value for organizational audiences. |
-| 5 | Energy & Mining | Large, coherent content set; needs significant fact-checking. |
-| 6 | Money & Human Rights / Money & Society / Policy | Valuable but tone-sensitive and locally sensitive. |
-| 7 | Open Ledger / On-Chain Analytics | Strong but specialized; should be separated from beginner verification. |
-| 8 | Bitcoin and AI Payments | Interesting, but speculative and dependency-heavy. |
+The earlier eight-band migration priority was a source-preservation aid, not a publication sequence. The 24-module roadmap in Section 4 now supersedes it as the single publication-order reference.
+
+The earlier signals remain represented in the roadmap:
+
+- educator preparation and misconceptions: Module 1;
+- technical history, computer science, cryptography, mining, and consensus: Modules 2, 5, and 6;
+- transactions, payments, exchange, Lightning, and infrastructure: Modules 7, 9, and 10;
+- organizational, business, treasury, and risk material: Modules 14–16;
+- energy: Module 13;
+- social, human-rights, and policy material: Modules 19–21;
+- open-ledger analysis: Module 12; and
+- AI payments: Module 24.
 
 ## Organizations Publication Guardrails
 
@@ -1340,7 +1386,7 @@ Evergreen explanations are preferred when current data is not essential.
 
 Do not resolve these before the beginner Diploma is published unless the answer is required for publication.
 
-- Which Advanced modules should be designed first?
+- Does the proposed 24-module publication order still fit learner demand, educator capacity, and available review resources after the beginner Diploma is published?
 - Which Advanced modules are learner-facing, educator-facing, or both?
 - Which topics become workshops rather than written modules?
 - Which topics require local legal, tax, privacy, or safety review?

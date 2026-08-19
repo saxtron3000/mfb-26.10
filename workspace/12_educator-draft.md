@@ -8,7 +8,7 @@ The Student Guide gives learners the essential path. This companion helps a teac
 
 ## About this draft
 
-This is a working educator-facing publication draft based primarily on the [Educator Guide plan](12_educator-plan.md). It also draws from the current curriculum architecture, objectives, Student Guide, Activity Bank, assessment framework, certification framework, lexicon, visual index, and publication specification across this workspace. It is written for a first-time teacher as well as an experienced educator. All four block companions and a working assessment and recording section are drafted, but approved tasks, rubrics, governance rules, and release validation remain incomplete. This guide is not yet publication-ready.
+This is a working educator-facing publication draft based primarily on the [Educator Guide plan](12_educator-plan.md). It also draws from the current curriculum architecture, objectives, Student Guide, Activity Bank, assessment framework, certification framework, lexicon, visual index, and publication specification across this workspace. It is written for a first-time teacher as well as an experienced educator. All four module companions and a working assessment and recording section are drafted, but approved tasks, rubrics, governance rules, and release validation remain incomplete. This guide is not yet publication-ready.
 
 For 2026.10, this draft follows an educator-led assessment model: theoretical understanding and practical competency are both required, and optional app use does not count as assessment evidence.
 
@@ -32,24 +32,24 @@ You do not need to be a Bitcoin expert or an experienced teacher to begin. You d
 For your first delivery, use this route:
 
 1. Read **Quick start** and **The educator's role**.
-2. Read the relevant block companion only. You do not need to read the whole handbook before the first session.
-3. Complete the block's **Prepare before class** list.
+2. Read the relevant module companion only. You do not need to read the whole handbook before the first session.
+3. Complete the module's **Prepare before class** list.
 4. Choose one main activity and one backup activity. Do not try to use every option.
 5. Copy the session objective and safety rule onto your board or opening slide.
 6. Teach in the order **explain → ask → practise → debrief → check**.
 7. Use the assessment companion only when you are ready to plan evidence; ordinary discussion is not automatically assessment.
 8. After class, write down what learners understood, what confused them, what needs checking, and what you will change next time.
 
-If you have only ten minutes to prepare, read the block's purpose, learner promise, suggested flow, likely trouble spots, safety notes, and review point. That is enough to run a safe first session while you continue learning.
+If you have only ten minutes to prepare, read the module's purpose, learner promise, suggested flow, likely trouble spots, safety notes, and review point. That is enough to run a safe first session while you continue learning.
 
 ### What to read, and when
 
 | When | Read first | Your immediate task |
 | --- | --- | --- |
 | Before your first course | Start here, Quick start, educator's role, safe practical teaching | Understand the boundaries, choose the schedule, and prepare the room and materials. |
-| Before Block 1 or 2 | The relevant block companion, facilitation methods, local verification record | Choose the opening question, one activity, one backup, and the local examples to check. |
-| Before Block 3 | Safe practical teaching, Block 3 companion, practical evidence | Rehearse with a prepared or empty environment and define every stop condition. |
-| Before Block 4 | Block 4 companion, Custom-module planning record, local expert briefing | Start with a local need and verify the selected task, tool, and current context. |
+| Before Module 1 or 2 | The relevant module companion, facilitation methods, local verification record | Choose the opening question, one activity, one backup, and the local examples to check. |
+| Before Module 3 | Safe practical teaching, Module 3 companion, practical evidence | Rehearse with a prepared or empty environment and define every stop condition. |
+| Before Module 4 | Module 4 companion, Custom-module planning record, local expert briefing | Start with a local need and verify the selected task, tool, and current context. |
 | Before any formal assessment | Assessment companion, approved task and rubric | Explain conditions, prepare evidence records, and confirm your authorization. |
 | After each session | Review point, feedback and reassessment guidance, after-course reflection | Record what learners need next and update the following session. |
 
@@ -73,14 +73,14 @@ Short scripts, question stems, activity instructions, examples, stop conditions,
 The Educator Guide is a practical teaching companion. It should help you:
 
 - prepare a cohort and learning environment;
-- understand the purpose and boundaries of every block;
+- understand the purpose and boundaries of every module;
 - use live time for dialogue, practice, feedback, and local application;
 - explain difficult ideas in beginner language;
 - correct misconceptions without demanding agreement;
 - select and facilitate suitable activities;
 - localize examples without changing the Core outcomes;
 - prepare safe wallet, transaction, recovery, and verification practice;
-- select a meaningful Custom / Bitcoin as Money experience;
+- select a meaningful Bitcoin in Your Community experience;
 - use objective-aligned evidence to support learning;
 - when authorized, assess practical competency consistently and provide practical reassessment;
 - protect learner privacy, autonomy, and safety; and
@@ -94,24 +94,24 @@ The guide does not replace educator judgment. It gives that judgment a shared pu
 
 Use the guide in three passes.
 
-1. **Before the course:** Read the course principles, planning chapters, assessment model, and Block 4 selection guidance. Complete the preparation and local verification records.
-2. **Before each block:** Use the relevant block companion to choose a lesson flow, prepare questions and materials, anticipate misconceptions, and identify the evidence you need.
+1. **Before the course:** Read the course principles, planning chapters, assessment model, and Module 4 selection guidance. Complete the preparation and local verification records.
+2. **Before each module:** Use the relevant module companion to choose a lesson flow, prepare questions and materials, anticipate misconceptions, and identify the evidence you need.
 3. **During and after delivery:** Use the facilitation patterns, safety procedures, assessment process, feedback guidance, and record templates.
 
 Do not try to use every prompt or activity. Select the smallest combination that enables learners to meet the objectives safely. Add time when the learning, practice, or assessment requires it.
 
 ### The page-by-page teaching rhythm
 
-When you open a block companion, follow the same order every time:
+When you open a module companion, follow the same order every time:
 
-1. **Purpose:** know why this block matters.
+1. **Purpose:** know why this module matters.
 2. **Learner promise:** tell learners what they should be able to do by the end.
 3. **Prepare before class:** gather materials, check local facts, and test any demonstration.
 4. **Suggested flow:** use the timing as a starting point, not a test of your teaching.
 5. **Questions and activities:** choose one or two and give learners time to think.
 6. **Trouble spots:** listen for these misunderstandings and use the suggested correction.
 7. **Evidence and safety:** observe only what you are prepared and authorized to assess.
-8. **Review and bridge:** close the block and explain why the next block follows.
+8. **Review and bridge:** close the module and explain why the next module follows.
 
 The headings are deliberately repetitive. That repetition is a navigation aid for a new teacher, not content that must be memorized.
 
@@ -134,8 +134,8 @@ Never fill a knowledge gap with a confident guess, especially for a current law,
 
 These are guardrails, not a test. Keep this list open while you prepare. You do not need to memorize the curriculum before teaching; you do need to protect these boundaries every time.
 
-1. Teach the four blocks in sequence: Problem / Broken Money, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money.
-2. Treat Blocks 1–3 as the shared Core. Block 4 is required, but its local learning task is educator-selected.
+1. Teach the four modules in sequence: Understanding Money, How Bitcoin Works, Using Bitcoin Safely, and Bitcoin in Your Community.
+2. Treat Modules 1–3 as the shared Core. Module 4 is required, but its local learning task is educator-selected.
 3. Preserve the approved objectives, evidence requirements, safety boundaries, and passing standard in every language and delivery mode.
 4. Conduct approved educator-led theory interactions and direct practical observation. Offer the app only as an optional recap, self-check, or discovery resource.
 5. Give supported practice before assessment. For practical learning, use Presentation → Practice → Production.
@@ -147,12 +147,12 @@ These are guardrails, not a test. Keep this list open while you prepare. You do 
 
 ## The Diploma at a glance
 
-| Block | Core question | Learner outcome | Educator's main contribution | Main evidence |
+| Module | Core question | Learner outcome | Educator's main contribution | Main evidence |
 | --- | --- | --- | --- | --- |
-| 1. Problem / Broken Money | How can money break? | Explain why money exists, compare forms of money, and connect modern-money problems to a local or realistic experience. | Draw out existing ideas, facilitate comparison, add checked local fiat context, and assess approved theoretical touchpoints. | Educator-led theoretical evidence. |
-| 2. Solution / Bitcoin | Why was Bitcoin created, and how does it respond? | Explain Bitcoin's purpose, core properties, participant roles, benefits, limits, and new responsibilities. | Make technical relationships visible, correct role confusion, test claims through evidence and trade-offs, and assess approved theoretical touchpoints. | Educator-led theoretical evidence. |
-| 3. Action / Self-custody | How do I take responsibility for using and securing Bitcoin? | Explain custody and safety concepts and demonstrate required beginner wallet, recovery-readiness, transaction, and verification skills. | Demonstrate safe process, supervise practice, protect secrets, observe performance, and give corrective feedback. | Educator-led theory evidence and direct practical observation. |
-| 4. Custom / Bitcoin as Money | How can Bitcoin function as money in this community? | Demonstrate one approved local Bitcoin-as-money task and explain its purpose, trade-offs, risks, failure points, and next steps. | Research local reality, select and validate the module, facilitate safe practice, and assess the approved evidence. | Educator-led theory evidence and direct practical observation for a task mapped to `B4.1` and `B4.2`. |
+| 1. Understanding Money | How can money break? | Explain why money exists, compare forms of money, and connect modern-money problems to a local or realistic experience. | Draw out existing ideas, facilitate comparison, add checked local fiat context, and assess approved theoretical touchpoints. | Educator-led theoretical evidence. |
+| 2. How Bitcoin Works | Why was Bitcoin created, and how does it respond? | Explain Bitcoin's purpose, core properties, participant roles, benefits, limits, and new responsibilities. | Make technical relationships visible, correct role confusion, test claims through evidence and trade-offs, and assess approved theoretical touchpoints. | Educator-led theoretical evidence. |
+| 3. Using Bitcoin Safely | How do I take responsibility for using and securing Bitcoin? | Explain custody and safety concepts and demonstrate required beginner wallet, recovery-readiness, transaction, and verification skills. | Demonstrate safe process, supervise practice, protect secrets, observe performance, and give corrective feedback. | Educator-led theory evidence and direct practical observation. |
+| 4. Bitcoin in Your Community | How can Bitcoin function as money in this community? | Demonstrate one approved local Bitcoin-as-money task and explain its purpose, trade-offs, risks, failure points, and next steps. | Research local reality, select and validate the module, facilitate safe practice, and assess the approved evidence. | Educator-led theory evidence and direct practical observation for a task mapped to `B4.1` and `B4.2`. |
 
 The narrative should remain connected:
 
@@ -172,7 +172,7 @@ You are responsible for helping learners:
 - ask questions without embarrassment;
 - distinguish fact, opinion, preference, and uncertainty;
 - compare claims using consistent criteria;
-- connect concepts across blocks;
+- connect concepts across modules;
 - practise safely before acting independently;
 - learn from mistakes without hiding them;
 - apply ideas to local life without disclosing private finances;
@@ -215,7 +215,7 @@ Local relevance is essential, but it must not create a different Diploma standar
 
 | Fixed | Adaptable | Flexible with guardrails |
 | --- | --- | --- |
-| Four-block architecture; Core objectives; required competencies; Bitcoin-only focus; shared Core theory; safety boundaries; two-part assessment; objective-to-evidence alignment; minimum certification standard | Examples; activities; case studies; facilitation style; classroom grouping; named local tools; local resources; language examples; practical environment; merchant or spending scenario | Session grouping; delivery mode; translated wording; local legal, tax, privacy, and safety context; Custom-module depth; use of QR codes or current online resources |
+| Four-module architecture; Core objectives; required competencies; Bitcoin-only focus; shared Core theory; safety boundaries; two-part assessment; objective-to-evidence alignment; minimum certification standard | Examples; activities; case studies; facilitation style; classroom grouping; named local tools; local resources; language examples; practical environment; merchant or spending scenario | Session grouping; delivery mode; translated wording; local legal, tax, privacy, and safety context; Custom-module depth; use of QR codes or current online resources |
 
 You may:
 
@@ -241,9 +241,9 @@ You may not:
 
 ### Core, Custom, and Advanced boundaries
 
-**Core** is the shared beginner path in Blocks 1–3. Every learner completes it.
+**Core** is the shared beginner path in Modules 1–3. Every learner completes it.
 
-**Custom** is required Block 4 learning selected for the local cohort. The scenario or tool may change, but every learner seeking certification must meet `B4.1` and `B4.2` through an approved task.
+**Custom** is required Module 4 learning selected for the local cohort. The scenario or tool may change, but every learner seeking certification must meet `B4.1` and `B4.2` through an approved task.
 
 **Advanced** is optional follow-on learning. Detailed mining, transaction mechanics, Lightning operations, multisignature design, institutional custody, organizational treasury, regulation, accounting, tax, compliance, investment analysis, policy, and deep technical topics do not belong in the required beginner experience.
 
@@ -377,13 +377,13 @@ Possible delivery models include:
 | Model | Example | Best fit | Watch for |
 | --- | --- | --- | --- |
 | One-day intensive | 9:00–18:00 with suitable breaks | Learners who can attend once and already have strong study stamina | Fatigue, rushed practice, insufficient individual assessment time |
-| Four-session course | Four sessions of about two hours | Community classes, schools, libraries, or evening cohorts | Do not assume every practical assessment fits inside the Block 3 or 4 session |
+| Four-session course | Four sessions of about two hours | Community classes, schools, libraries, or evening cohorts | Do not assume every practical assessment fits inside the Module 3 or 4 session |
 | Eight-session course | Eight sessions of about one hour | Translation, younger learners, repeated practice, limited device access | Maintain the narrative connection across shorter meetings |
 | Blended local schedule | Two half-days plus assessment follow-up, or another sequence | Travel constraints, shared devices, remote preparation | Keep pre-work accessible and make live evidence requirements clear |
 
 If an advertised day runs from 9:00 to 17:00, breaks and lunch reduce live learning time. Shorten optional examples, not required objectives, safe practice, or assessment. Schedule a follow-up rather than certify without evidence.
 
-### A repeatable two-hour block rhythm
+### A repeatable two-hour module rhythm
 
 Use this as a planning pattern, not a rigid script.
 
@@ -396,9 +396,9 @@ Use this as a planning pattern, not a rigid script.
 | 65–80 min | Second concept or demonstration | Add the next essential idea and model the complete process where relevant. |
 | 80–105 min | Practice and production | Learners apply, decide, explain, or perform with decreasing support. |
 | 105–115 min | Learning check or practical evidence | Gather a formative or approved educator-theory interaction, or have an educator observe an approved practical skill. |
-| 115–120 min | Review and bridge | Name key takeaways, unresolved questions, and the next block connection. |
+| 115–120 min | Review and bridge | Name key takeaways, unresolved questions, and the next module connection. |
 
-Practical observation often requires more time than this pattern allows. For Block 3 and Block 4, plan stations, additional educator, smaller groups, or follow-up appointments. Do not assess several learners at once when you cannot see each learner's decisions and safety behavior.
+Practical observation often requires more time than this pattern allows. For Module 3 and Module 4, plan stations, additional educator, smaller groups, or follow-up appointments. Do not assess several learners at once when you cannot see each learner's decisions and safety behavior.
 
 This pattern does not establish how much time educator-led assessment needs. Reserve enough time within the schedule for individual evidence, feedback, reassessment, and recording. Optional app self-checks may be offered before, during, or after learning without changing the assessment schedule.
 
@@ -410,7 +410,7 @@ Protect, in this order:
 2. required objectives and evidence;
 3. learner explanation and questions;
 4. supported practice;
-5. review and connection across blocks;
+5. review and connection across modules;
 6. local context needed for accurate use; and
 7. optional examples and technical depth.
 
@@ -422,7 +422,7 @@ Move optional history, extra analogies, extended debates, detailed mechanics, an
 
 - Confirm the cohort, language, accessibility, safeguarding, venue, and schedule.
 - Read the relevant Student Guide sections and objective map.
-- Select the Block 4 module and any local expert.
+- Select the Module 4 module and any local expert.
 - Verify local banking, inflation, payment, legal, tax, privacy, and tool information that will be used.
 - Select activities and assessment tasks.
 - Plan practical environments, amounts, roles, stop conditions, and reset procedures.
@@ -468,11 +468,11 @@ Complete one row for each changing fact, service, or resource used in class.
 
 | Item | Why it matters | Source or local expert | Date checked | What may change | Classroom wording or fallback |
 | --- | --- | --- | --- | --- | --- |
-| Local currency and payment rules | Block 1 discussion |  |  |  |  |
+| Local currency and payment rules | Module 1 discussion |  |  |  |  |
 | Banking regulation and deposit protection | Fractional-reserve section |  |  |  |  |
 | Official inflation measure and basket | Purchasing-power activity |  |  |  |  |
 | CBDC status or design | Optional local comparison |  |  |  |  |
-| Wallet or payment tool | Block 3 or 4 practice |  |  |  |  |
+| Wallet or payment tool | Module 3 or 4 practice |  |  |  |  |
 | Fees, spreads, and limits | Local pathway comparison |  |  |  |  |
 | Legal, tax, privacy, or reporting context | Local module |  |  |  |  |
 | Merchant, map, meetup, or support resource | Community discovery |  |  |  |  |
@@ -481,7 +481,7 @@ Prefer authoritative primary sources for current rules. If the evidence is incom
 
 ---
 
-## 5. Facilitation methods that work across all blocks
+## 5. Facilitation methods that work across all modules
 
 ### The learning rhythm
 
@@ -547,7 +547,7 @@ At the end of a section, ask learners to complete one of these:
 - “A common mistake is ___; a safer explanation is ___.”
 - “The strongest benefit is ___, but the relevant trade-off is ___.”
 - “I would stop and verify if ___.”
-- “This connects to the next block because ___.”
+- “This connects to the next module because ___.”
 
 An exit response is usually formative feedback. It may contribute to the educator-led share of theoretical assessment when it is an approved objective-aligned touchpoint with a rubric, individual evidence, and a recorded result. It may contribute to practical evidence only when it is an observable criterion embedded in an approved practical task and rubric.
 
@@ -655,11 +655,11 @@ When devices are shared:
 
 ---
 
-## 7. Block 1 companion: Problem / Broken Money
+## 7. Module 1 companion: Understanding Money
 
-### Purpose of the block
+### Purpose of the module
 
-Block 1 gives learners the language and criteria needed to examine money. It should not become a long argument against every fiat system. Its job is to help learners understand why money exists, how different arrangements work, what trade-offs they create, and which problems Bitcoin later attempts to address.
+Module 1 gives learners the language and criteria needed to examine money. It should not become a long argument against every fiat system. Its job is to help learners understand why money exists, how different arrangements work, what trade-offs they create, and which problems Bitcoin later attempts to address.
 
 Core question:
 
@@ -669,7 +669,7 @@ Learner promise:
 
 > I can explain and apply the money problems Bitcoin responds to.
 
-**If this is your first time teaching Block 1:** Start with the opening questions and a familiar local payment. Do not begin with a long history lecture. Let learners describe what they already know, then introduce only the terms needed for the next activity. Return to the local fiat and banking notes when the cohort reaches those sections.
+**If this is your first time teaching Module 1:** Start with the opening questions and a familiar local payment. Do not begin with a long history lecture. Let learners describe what they already know, then introduce only the terms needed for the next activity. Return to the local fiat and banking notes when the cohort reaches those sections.
 
 ### Required outcomes
 
@@ -686,7 +686,7 @@ Use guided discussions to collect formative indicators for `ALL.1` across the co
 
 ### Prepare before class
 
-- Read the Block 1 Student Guide sections and identify which definitions need local-language support.
+- Read the Module 1 Student Guide sections and identify which definitions need local-language support.
 - Prepare the five opening questions and a way for learners to keep their original answers.
 - Select one money-properties activity and one modern-money activity.
 - Prepare locally familiar examples of a medium of exchange, unit of account, and store of value.
@@ -713,7 +713,7 @@ This is a minimum pathway. Extend it when the cohort needs more economic backgro
 | 105–115 min | Inflation, purchasing power, and CBDC | Dated local evidence discussion |
 | 115–120 min | Review and bridge | “Money can break when…” explanation |
 
-If the course has more time, split the block into two parts: money foundations, then modern-money trade-offs.
+If the course has more time, split the module into two parts: money foundations, then modern-money trade-offs.
 
 ### Opening questions about money
 
@@ -725,7 +725,7 @@ Facilitate in this order:
 2. Let learners choose one answer to discuss in pairs.
 3. Ask the group which statements are factual and which are judgments.
 4. Record questions and contradictions without resolving all of them.
-5. Tell learners they will return to the same questions after Block 4.
+5. Tell learners they will return to the same questions after Module 4.
 
 Listen for hidden definitions. If a learner says money is “anything valuable,” ask whether every valuable object is normally accepted, used for pricing, or carried into the future.
 
@@ -768,13 +768,13 @@ Then ask whether the same form of money performs equally well in every purpose a
 
 #### Activity: money-properties comparison
 
-**Purpose:** Prepare the criteria learners will reuse for Bitcoin in Block 2.
+**Purpose:** Prepare the criteria learners will reuse for Bitcoin in Module 2.
 
 **Setup:** Select three or four familiar forms, such as local cash, a bank balance, a useful commodity, a precious metal, or another locally relevant asset. Do not pre-label a winner.
 
 **Task:** Teams compare each form against the seven properties. Every judgment must include a reason, condition, or example.
 
-**Debrief:** Ask which property changed most when the purpose changed. Preserve the comparison for Block 2.
+**Debrief:** Ask which property changed most when the purpose changed. Preserve the comparison for Module 2.
 
 **Watch for:** Treating a property as absolute. Cash may be portable across a neighborhood but difficult to transfer internationally. A bank balance may be accepted through local payment rails but dependent on account access.
 
@@ -822,7 +822,7 @@ Invite local additions. Ask which forms coexisted rather than assuming one repla
 
 If using the gold standard, Bretton Woods, the Nixon Shock, or Executive Order 6102:
 
-- keep the explanation brief and relevant to the block;
+- keep the explanation brief and relevant to the module;
 - state the location and historical scope;
 - present Executive Order 6102 as a specific United States example;
 - present 1971 as an important marker in international dollar-to-gold convertibility, not the origin of all fiat money; and
@@ -958,7 +958,7 @@ Explain that a CBDC is a central-bank liability in digital form. “Digital” d
 
 CBDC designs differ. Do not claim that every CBDC has or lacks a feature. Separate confirmed local design, published proposal, commentary, and speculation.
 
-### Strong Block 1 questions
+### Strong Module 1 questions
 
 - Why did money come into existence?
 - Can something perform one money function well and another poorly?
@@ -987,7 +987,7 @@ CBDC designs differ. Do not claim that every CBDC has or lacks a feature. Separa
 | The official basket should match every person's experience. | The measure is an average; household spending patterns differ. | Which category matters more in your invented household? |
 | Every CBDC has identical surveillance or control. | Features depend on design, law, infrastructure, and implementation. | Which feature is confirmed by a primary source? |
 
-### Block 1 educator-led theoretical touchpoint
+### Module 1 educator-led theoretical touchpoint
 
 Use an approved short task that requires connection rather than definition alone. This provides educator-led theoretical evidence. A strong candidate combines:
 
@@ -1007,7 +1007,7 @@ Listen for:
 
 Do not treat the learner's preference for fiat money or Bitcoin as evidence of learning. Apply the approved theoretical-touchpoint rubric, record individually identifiable evidence, give feedback, and offer reassessment where needed. If the task has not been approved for assessment, use it only formatively.
 
-### Review and bridge to Block 2
+### Review and bridge to Module 2
 
 Ask each learner to complete:
 
@@ -1017,15 +1017,15 @@ Summarize that people may seek different monetary arrangements when they want di
 
 Bridge:
 
-> The next block asks whether decentralized digital money can offer a different arrangement without recreating the double-spend problem.
+> The next module asks whether decentralized digital money can offer a different arrangement without recreating the double-spend problem.
 
 ---
 
-## 8. Block 2 companion: Solution / Bitcoin
+## 8. Module 2 companion: How Bitcoin Works
 
-### Purpose of the block
+### Purpose of the module
 
-Block 2 explains why Bitcoin was created and how its parts work together at beginner depth. Avoid teaching a list of impressive features. Learners should connect the problem of decentralized digital money to Bitcoin's public rules, signatures, shared history, proof of work, and independent verification.
+Module 2 explains why Bitcoin was created and how its parts work together at beginner depth. Avoid teaching a list of impressive features. Learners should connect the problem of decentralized digital money to Bitcoin's public rules, signatures, shared history, proof of work, and independent verification.
 
 Core question:
 
@@ -1035,7 +1035,7 @@ Learner promise:
 
 > I can explain Bitcoin's purpose, core properties, limits, and new responsibilities.
 
-**If this is your first time teaching Block 2:** Keep the central story visible: a digital payment can be copied, Bitcoin proposes a shared rule system, and independent participants verify those rules. Use the role cards before introducing technical detail. If the group gets lost, return to the double-spend problem and the miner/node distinction.
+**If this is your first time teaching Module 2:** Keep the central story visible: a digital payment can be copied, Bitcoin proposes a shared rule system, and independent participants verify those rules. Use the role cards before introducing technical detail. If the group gets lost, return to the double-spend problem and the miner/node distinction.
 
 ### Required outcomes
 
@@ -1052,7 +1052,7 @@ Use guided discussions to collect formative indicators for `ALL.1` across the co
 
 ### Prepare before class
 
-- Reuse the monetary-properties comparison from Block 1.
+- Reuse the monetary-properties comparison from Module 1.
 - Prepare a plain-language double-spend scenario.
 - Prepare role cards for user, node, miner, developer, and optional service provider.
 - Prepare a node rule card that includes valid signature, no double spend, valid proof of work, and allowed issuance.
@@ -1067,13 +1067,13 @@ Use guided discussions to collect formative indicators for `ALL.1` across the co
 
 | Time | Learning move | Suggested method |
 | ---: | --- | --- |
-| 0–10 min | Retrieve Block 1 | Name one money problem and the trade-off it creates |
+| 0–10 min | Retrieve Module 1 | Name one money problem and the trade-off it creates |
 | 10–27 min | Why decentralized digital money was difficult | Digital-copy and double-spend scenario |
 | 27–42 min | Bitcoin's combined response | Process map: authorize, broadcast, mine, verify, share history |
 | 42–62 min | Roles and decentralization | User/node/miner/developer role task |
 | 62–77 min | Proof of work | Costly-to-produce, quick-to-check demonstration |
 | 77–92 min | Supply, halving, and sats | Issuance model and unit-bias check |
-| 92–110 min | Sound-money comparison | Reuse Block 1 properties; add benefits and trade-offs |
+| 92–110 min | Sound-money comparison | Reuse Module 1 properties; add benefits and trade-offs |
 | 110–117 min | Scope and responsibility | Bitcoin vs stablecoin/other assets; learning vs speculation |
 | 117–120 min | Review and bridge | Fiat issue → Bitcoin response → new responsibility |
 
@@ -1093,7 +1093,7 @@ Clarify that the problem is not copying a picture of a coin. It is deciding whic
 
 Keep DigiCash, Hashcash, Bit Gold, B-money, reusable proof of work, and peer-to-peer systems brief. Their role is to show that Bitcoin emerged from earlier work on privacy, digital cash, costly computation, distributed networks, and scarcity.
 
-Do not imply that every predecessor contributed code directly to Bitcoin. Do not turn the Core block into a technical timeline quiz.
+Do not imply that every predecessor contributed code directly to Bitcoin. Do not turn the Core module into a technical timeline quiz.
 
 Ask:
 
@@ -1122,7 +1122,7 @@ At beginner level, teach:
 - the signature does not encrypt the transaction; and
 - control of the private key creates both authority and responsibility.
 
-Do not demonstrate or calculate cryptography. The practical consequences belong in Block 3.
+Do not demonstrate or calculate cryptography. The practical consequences belong in Module 3.
 
 ### Decentralization and peer-to-peer transfer
 
@@ -1224,7 +1224,7 @@ Unit bias is the mistaken impression that a cheaper-looking whole unit is automa
 
 ### Bitcoin as sound digital money
 
-Return to the exact money properties used in Block 1. Require evidence and qualification.
+Return to the exact money properties used in Module 1. Require evidence and qualification.
 
 | Property | Useful educator question | Important qualification |
 | --- | --- | --- |
@@ -1306,7 +1306,7 @@ Use these answers as educator preparation, not as speeches. First discover the l
 | “CBDCs will replace Bitcoin.” | A CBDC and Bitcoin have different issuers, supply rules, permissions, and verification models. Whether one affects demand for another is a prediction, not a beginner fact. | Which problem is each system designed to solve? | Do not predict policy or markets as certainty. |
 | “A better technology will overtake Bitcoin.” | “Better” requires criteria. Speed, programmability, decentralization, security, monetary policy, verification, and adoption can trade off against one another. | Better for which purpose, and what is sacrificed? | Do not claim Bitcoin can never be displaced or improved. |
 
-### Strong Block 2 activities
+### Strong Module 2 activities
 
 Choose two or three, not all:
 
@@ -1316,7 +1316,7 @@ Choose two or three, not all:
 - invalid-block rule check;
 - finite-supply and halving model;
 - sats and unit-bias check;
-- Bitcoin-properties comparison using the Block 1 table;
+- Bitcoin-properties comparison using the Module 1 table;
 - fiat issue / Bitcoin response / new responsibility map;
 - Bitcoin origin timeline;
 - claim, evidence, reasoning, and trade-off discussion; or
@@ -1324,7 +1324,7 @@ Choose two or three, not all:
 
 The Activity Bank marks some legacy consensus, hashing, video, and role-play activities for further testing. Use them only when the purpose, timing, learner context, and debrief are strong. An activity supplies educator-led theoretical evidence only when it is an approved objective-aligned touchpoint with individual evidence, a rubric, and a recording process. Otherwise, use it formatively.
 
-### Block 2 educator-led theoretical touchpoint
+### Module 2 educator-led theoretical touchpoint
 
 Use an approved short task that asks the learner to connect at least three elements. It supplies educator-led theoretical evidence while the app supplies most of the theoretical half. For example:
 
@@ -1337,7 +1337,7 @@ For `B2.5` and `B2.6`, use a short guided scenario that asks who controls issuan
 
 Listen for the learner's own words. A fluent repetition of “21 million” or “decentralized” is not enough without the mechanism or qualification.
 
-### Review and bridge to Block 3
+### Review and bridge to Module 3
 
 Ask learners to complete:
 
@@ -1352,15 +1352,15 @@ Require a clear explanation of why nodes and miners have different roles.
 
 Bridge:
 
-> Bitcoin can reduce dependence on an account operator, but direct control depends on keys, verification, recovery, and safe decisions. Block 3 turns that responsibility into practice.
+> Bitcoin can reduce dependence on an account operator, but direct control depends on keys, verification, recovery, and safe decisions. Module 3 turns that responsibility into practice.
 
 ---
 
-## 9. Block 3 companion: Action / Self-custody
+## 9. Module 3 companion: Using Bitcoin Safely
 
-### Purpose of the block
+### Purpose of the module
 
-Block 3 moves from explanation into safe beginner performance. It does not make every learner ready for high-value self-custody. It helps learners distinguish public information from secrets, understand custody choices, practise recovery readiness, verify payment details, recognize unsafe conditions, and demonstrate required actions under approved support conditions.
+Module 3 moves from explanation into safe beginner performance. It does not make every learner ready for high-value self-custody. It helps learners distinguish public information from secrets, understand custody choices, practise recovery readiness, verify payment details, recognize unsafe conditions, and demonstrate required actions under approved support conditions.
 
 Core question:
 
@@ -1370,7 +1370,7 @@ Learner promise:
 
 > I can explain beginner custody and safety concepts and demonstrate the required actions safely under supported conditions.
 
-**If this is your first time teaching Block 3:** Practise the complete safe process yourself before class. Use an empty training wallet, printed screens, or a simulation. Never learn a new wallet or recovery procedure at the same time as learners, and never ask learners to show real secrets. Slow, visible checking is more important than completing a live transaction.
+**If this is your first time teaching Module 3:** Practise the complete safe process yourself before class. Use an empty training wallet, printed screens, or a simulation. Never learn a new wallet or recovery procedure at the same time as learners, and never ask learners to show real secrets. Slow, visible checking is more important than completing a live transaction.
 
 ### Required outcomes
 
@@ -1392,7 +1392,7 @@ Use guided discussions to collect formative indicators for `ALL.1` through clear
 
 ### Time and educator capacity
 
-This block needs more individual observation than Blocks 1 and 2. A two-hour session may introduce and practise the content, but it may not provide enough time to assess every learner reliably.
+This module needs more individual observation than Modules 1 and 2. A two-hour session may introduce and practise the content, but it may not provide enough time to assess every learner reliably.
 
 Before class, estimate:
 
@@ -1407,7 +1407,7 @@ Use smaller stations or separate assessment appointments. Group practice is valu
 
 ### Prepare before class
 
-- Read the Block 3 Student Guide and practise every demonstration.
+- Read the Module 3 Student Guide and practise every demonstration.
 - Select the exact prepared wallet, simulation, test environment, or printed sequence.
 - Verify the tool's source, version, network, custody model, recovery process, and reset process.
 - Decide whether learners will use no funds, simulated funds, testnet, or an approved low-stakes amount.
@@ -1825,7 +1825,7 @@ Plan the route carefully:
 
 Do not require learners to purchase bitcoin. A prepared training balance, educator-provided low-stakes receipt, test environment, or approved simulation may satisfy the objective when the assessment variant permits it.
 
-### Integrated Block 3 practice circuit
+### Integrated Module 3 practice circuit
 
 Use stations after learners have seen each process.
 
@@ -1860,7 +1860,7 @@ Do not use the stations as formal assessment unless the exact tasks, variants, c
 | Lightning always means self-custody and no fees. | Lightning wallets may be custodial or self-custodial, and routing, service, or liquidity conditions may create fees and failures. | Which two separate questions should you ask? |
 | KYC is always safe, or no-KYC is always safe. | Each route exchanges identity, support, counterparty, fraud, legal, and privacy risks. | Which risk is reduced, and which is added? |
 
-### Block 3 practical evidence
+### Module 3 practical evidence
 
 Formal assessment must use approved tasks and direct observation. Across the required tasks, observe whether the learner can:
 
@@ -1880,7 +1880,7 @@ Formal assessment must use approved tasks and direct observation. Across the req
 
 Safety-critical behavior cannot be averaged away. Revealing recovery information, approving a known mismatch, proceeding through an apparent scam, or bypassing a required verification results in **Not yet** until focused remediation and reassessment.
 
-### Review and bridge to Block 4
+### Review and bridge to Module 4
 
 Use an integrated scenario. A learner or pair must:
 
@@ -1898,15 +1898,15 @@ Ask:
 
 Bridge:
 
-> Block 4 asks whether these tools and responsibilities solve a real need in this community. The answer may be yes, no, or only under particular conditions.
+> Module 4 asks whether these tools and responsibilities solve a real need in this community. The answer may be yes, no, or only under particular conditions.
 
 ---
 
-## 10. Block 4 companion: Custom / Bitcoin as Money
+## 10. Module 4 companion: Bitcoin in Your Community
 
-### Purpose of the block
+### Purpose of the module
 
-Block 4 connects the shared Core to local daily life. It is not a free-choice bonus block and it is not globally defined as “spending.” Every certificated learner completes one approved locally relevant task, but educators select the context because currencies, tools, laws, risks, infrastructure, and community needs vary.
+Module 4 connects the shared Core to local daily life. It is not a free-choice bonus module and it is not globally defined as “spending.” Every certificated learner completes one approved locally relevant task, but educators select the context because currencies, tools, laws, risks, infrastructure, and community needs vary.
 
 Core question:
 
@@ -1916,7 +1916,7 @@ Learner promise:
 
 > I can demonstrate one approved local Bitcoin-as-money task and explain its purpose, trade-offs, failure points, safety considerations, and realistic next steps.
 
-**If this is your first time teaching Block 4:** Do not start by choosing a popular tool. Start with a local need, compare the existing option, verify current facts, and select the smallest safe task that can show useful learning. A well-supported simulation is a successful lesson; a live payment is not required merely to make the block feel practical.
+**If this is your first time teaching Module 4:** Do not start by choosing a popular tool. Start with a local need, compare the existing option, verify current facts, and select the smallest safe task that can show useful learning. A well-supported simulation is a successful lesson; a live payment is not required merely to make the module feel practical.
 
 ### Required outcomes
 
@@ -1939,7 +1939,7 @@ Ask first:
 6. Can learners examine or practise the path safely?
 7. What evidence would show understanding and competence?
 
-A valid conclusion may be that Bitcoin is not the best option for the case. The block assesses reasoning and safe performance, not adoption.
+A valid conclusion may be that Bitcoin is not the best option for the case. The module assesses reasoning and safe performance, not adoption.
 
 ### The seven-step module builder
 
@@ -1970,7 +1970,7 @@ If the sentence starts with a product name, return to the need.
 
 #### 3. Select a focused module
 
-Choose one primary task and, at most, one supporting task for a minimum block. Suitable areas may include:
+Choose one primary task and, at most, one supporting task for a minimum module. Suitable areas may include:
 
 - receiving payment for work;
 - an everyday purchase;
@@ -2093,7 +2093,7 @@ Complete this before delivery.
 | Time | Learning move | Educator action |
 | ---: | --- | --- |
 | 0–12 min | Local need | Present the problem and current path; invite learner experience without requiring disclosure. |
-| 12–28 min | Core connection | Identify the money function, custody, payment rail, and relevant Block 1–3 concepts. |
+| 12–28 min | Core connection | Identify the money function, custody, payment rail, and relevant Module 1–3 concepts. |
 | 28–48 min | Complete demonstration | Show both success and failure paths; explain costs, privacy, recovery, and stop conditions. |
 | 48–70 min | Supported practice | Learners rehearse in pairs or stations with educator feedback. |
 | 70–90 min | Comparison and local trade-offs | Compare the Bitcoin path with the current alternative through total received, time, fees, custody, privacy, reversibility, and failure. |
@@ -2199,7 +2199,7 @@ A successful small Lightning payment shows that the selected path worked once. I
 - Which path provides liquidity or conversion?
 - Is either fiat payment reversible?
 - What records or tax treatment may apply?
-- What happens if a service delays or blocks withdrawal?
+- What happens if a service delays or prevents withdrawal?
 - Does the complete path improve cost, time, access, or control?
 
 **Production:** Demonstrate or simulate the receive step and verify the final amount and status. Explain the main benefit, risk, and failure point.
@@ -2313,7 +2313,7 @@ If one person or group controls bitcoin for others, they are acting as a custodi
 
 Do not turn community-custody design into a beginner implementation exercise. Use a scenario and seek appropriate legal and security review.
 
-### Strong Block 4 discussion questions
+### Strong Module 4 discussion questions
 
 - What local need are we trying to solve?
 - Which current option is the strongest comparison?
@@ -2331,7 +2331,7 @@ Do not turn community-custody design into a beginner implementation exercise. Us
 - What would count as success besides transaction volume?
 - What is the smallest safe next step?
 
-### Common Block 4 trouble spots
+### Common Module 4 trouble spots
 
 - Starting with a fashionable tool instead of a need.
 - Treating a named wallet, exchange, map, merchant, or community as an endorsement.
@@ -2348,7 +2348,7 @@ Do not turn community-custody design into a beginner implementation exercise. Us
 - Having no offline, no-funds, refund, failure, or support process.
 - Assuming that a local example applies globally.
 
-### Block 4 evidence
+### Module 4 evidence
 
 The selected approved task must let the educator observe the learner:
 
@@ -2594,7 +2594,7 @@ Before choosing an activity, ask:
 For any activity you develop or materially adapt, record:
 
 - title;
-- block and objective IDs;
+- module and objective IDs;
 - competency;
 - learning, formative-theory, practical-practice, or approved practical-assessment use;
 - practical assessment component and educator, where applicable;
@@ -2638,7 +2638,7 @@ Preserve:
 - the safety boundary;
 - the learner action;
 - the critical comparison or decision; and
-- the connection to the block objective.
+- the connection to the module objective.
 
 ### Adapt a summative practical task
 
@@ -2902,11 +2902,11 @@ Use the [Beginner Lexicon](16_lexicon.md) for full definitions. Keep these disti
 
 ### Curriculum
 
-- [ ] I can explain the four-block narrative and learner promises.
+- [ ] I can explain the four-module narrative and learner promises.
 - [ ] I reviewed every required objective and evidence type.
 - [ ] I know which content is Core, Custom, and Advanced.
 - [ ] I selected activities for a clear objective rather than entertainment alone.
-- [ ] I prepared a review and bridge for every block.
+- [ ] I prepared a review and bridge for every module.
 
 ### Learners and access
 
@@ -2945,11 +2945,11 @@ Use the [Beginner Lexicon](16_lexicon.md) for full definitions. Keep these disti
 
 ---
 
-## Appendix B: block lesson-plan template
+## Appendix B: module lesson-plan template
 
 | Field | Plan |
 | --- | --- |
-| Block, date, and cohort |  |
+| Module, date, and cohort |  |
 | Core question |  |
 | Required objective IDs |  |
 | Learner starting point |  |
@@ -2966,7 +2966,7 @@ Use the [Beginner Lexicon](16_lexicon.md) for full definitions. Keep these disti
 | Accessibility adaptation |  |
 | Offline fallback |  |
 | Debrief questions |  |
-| Review and next-block bridge |  |
+| Review and next-module bridge |  |
 | Assessment or evidence record |  |
 | Follow-up and reassessment |  |
 
@@ -3000,7 +3000,7 @@ Use the [Beginner Lexicon](16_lexicon.md) for full definitions. Keep these disti
 Before inviting a guest, agree that they will:
 
 - support named objectives and the planned learner task;
-- use beginner language and respect the four-block scope;
+- use beginner language and respect the four-module scope;
 - distinguish general concepts from local and changing facts;
 - disclose relevant affiliations or commercial interests;
 - avoid product promotion, investment claims, and legal or tax advice;
@@ -3064,10 +3064,10 @@ When a question is too advanced:
 
 | Session | Main focus | Essential interaction | Evidence planning |
 | --- | --- | --- | --- |
-| 1 | Problem / Broken Money | Opening questions, money-properties comparison, local fiat and purchasing-power discussion | Educator-led Block 1 theoretical evidence |
-| 2 | Solution / Bitcoin | Double-spend scenario, role map, supply and sound-money comparison | Educator-led Block 2 theoretical evidence |
-| 3 | Action / Self-custody | Custody, public/secret, recovery, receive/send, explorer, scam, and pathway practice | Educator-led theory evidence and direct practical observation |
-| 4 | Custom / Bitcoin as Money | Approved local PPP module and final reflection | Educator-led theory evidence where mapped; educator-observed `B4.1`/`B4.2`; formative `ALL.2` reflection; any reassessment |
+| 1 | Understanding Money | Opening questions, money-properties comparison, local fiat and purchasing-power discussion | Educator-led Module 1 theoretical evidence |
+| 2 | How Bitcoin Works | Double-spend scenario, role map, supply and sound-money comparison | Educator-led Module 2 theoretical evidence |
+| 3 | Using Bitcoin Safely | Custody, public/secret, recovery, receive/send, explorer, scam, and pathway practice | Educator-led theory evidence and direct practical observation |
+| 4 | Bitcoin in Your Community | Approved local PPP module and final reflection | Educator-led theory evidence where mapped; educator-observed `B4.1`/`B4.2`; formative `ALL.2` reflection; any reassessment |
 
 This model commonly needs extra practical assessment time.
 
@@ -3092,7 +3092,7 @@ Use only when the cohort and setting support sustained learning. Protect breaks 
 | --- | --- |
 | Opening | Expectations, optional app and assessment explanation, money questions |
 | Morning 1 | Money foundations and properties activity |
-| Morning 2 | Fiat, banking, purchasing power, and Block 1 review |
+| Morning 2 | Fiat, banking, purchasing power, and Module 1 review |
 | Midday 1 | Bitcoin problem, roles, proof of work, supply, and sats |
 | Midday 2 | Sound-money comparison and responsibility bridge |
 | Afternoon 1 | Custody, secrets, recovery, receiving, and sending practice |
@@ -3131,8 +3131,8 @@ This guide is operational as a teaching draft, but the following must be reconci
 - final approval of the 50% educator-led theoretical and 50% educator-observed practical assessment model, with both components non-compensatory;
 - the final objective-to-assessment blueprint for every required objective;
 - final app thresholds, retry rules, interruption recovery, and synchronization;
-- approved Block 3 task variants for `B3.5`, `B3.6`, `B3.7`, and `B3.11`;
-- approved Block 4 task variants for `B4.1` and `B4.2`;
+- approved Module 3 task variants for `B3.5`, `B3.6`, `B3.7`, and `B3.11`;
+- approved Module 4 task variants for `B4.1` and `B4.2`;
 - final rubrics, prompting limits, and safety-critical-error lists;
 - educator authorization, calibration, moderation, and audit;
 - accessibility equivalence and remote-observation approval;

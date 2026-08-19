@@ -2,7 +2,7 @@
 
 This feedback-reviewed lexicon lists Bitcoin and Bitcoin-adjacent terms that a beginner may need explained. Line references are to `workspace/08_student.md` (the Bitcoin Diploma). **First** is the earliest relevant appearance; **Later** lists subsequent relevant appearances. `Not present` means the term was requested in feedback but is not yet stated explicitly in the diploma.
 
-## Block 1: Problem / Broken Money
+## Module 1: Understanding Money
 
 ### Functions and properties of money
 
@@ -107,7 +107,7 @@ This feedback-reviewed lexicon lists Bitcoin and Bitcoin-adjacent terms that a b
 | **Asset** | Something a person or institution owns that may provide use, income, or future value. | First: **224**<br>Later: 240, 290, 333, 342, 346, 356, 392, 395, 397, 399, 533, 551, 553, 613, 637, 1281 |
 | **Bond** | A debt security: the buyer lends money to a government or organization in return for promised repayment, usually with interest. | First: **397**<br>Later: — |
 
-## Block 2: Solution / Bitcoin
+## Module 2: How Bitcoin Works
 
 ### Why Bitcoin was created
 
@@ -216,7 +216,7 @@ This feedback-reviewed lexicon lists Bitcoin and Bitcoin-adjacent terms that a b
 | **Price** | The amount exchanged for a good, service, or asset. | Not present |
 | **Bias** | A tendency that can influence judgment. | Not present |
 
-## Block 3: Action / Self-Custody
+## Module 3: Using Bitcoin Safely
 
 ### Wallets
 
@@ -286,7 +286,7 @@ This feedback-reviewed lexicon lists Bitcoin and Bitcoin-adjacent terms that a b
 | **Lightning offer** | A reusable Lightning payment request. | Not present |
 | **Lightning address** | A human-readable Lightning receiving identifier. | First: **1019**<br>Later: 1113, 1182, 1184 |
 
-## Block 4: Custom / Bitcoin As Money
+## Module 4: Bitcoin in Your Community
 
 ### Local on-ramp and off-ramp pathways
 

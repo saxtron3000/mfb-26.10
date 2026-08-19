@@ -9,7 +9,7 @@ Status key: `[x]` added to the current student text; `[o]` not possible in this 
 - [o] Create a consistent visual system for graphics, diagrams, tables, examples, activities, educator guidance, glossary terms, and advanced content.
 - [o] Build a glossary/lexicon; define marked terms before or at first use and use consistent beginner language.
 - [o] Separate student content from educator guidance; create an educator guide/toolkit where marked.
-- [-] Make Blocks 1–3 the Core and Block 4 optional/custom. Give Block 4 a separate educator-facing structure with templates and local modules.
+- [-] Make Modules 1–3 the Core and Module 4 optional/custom. Give Module 4 a separate educator-facing structure with templates and local modules.
 - [o] Add graphics and worked/local examples for abstract money, banking, mining, wallet, transaction, and payment concepts.
 - [o] Give every exercise a format, duration, purpose, facilitator instructions, expected evidence/output, and writing space where needed.
 - [o] Fact-check economic, banking, Bitcoin, security, legal, and technical claims with qualified reviewers.
@@ -49,7 +49,7 @@ Status key: `[x]` added to the current student text; `[o]` not possible in this 
 
 - [-] Support or soften the claim that bitcoin can be used in a local community.
 - [x] Reword “identify wallet and custody choices” around how learners access/use bitcoin.
-- [-] Reconsider the outcomes heading/framing and whether it is meaningful for one eight-hour block.
+- [-] Reconsider the outcomes heading/framing and whether it is meaningful for one eight-hour module.
 - [-] Replace or clarify “recovery phrase.”
 
 ### Learning style: in-person preferred, discussion, reflection, practice, and guided activities
@@ -88,11 +88,11 @@ Status key: `[x]` added to the current student text; `[o]` not possible in this 
 - [-] Reinforce “don't trust, verify” where appropriate.
 - [-] Mention Lightning/Layer 2 in the description of optional/local modules if it fits the intended scope.
 
-## 1. Problem / Broken Money
+## 1. Understanding Money
 
 ### Opening questions about money
 
-- [x] State that block timing/structure are examples and educators adapt them to cohort needs.
+- [x] State that module timing/structure are examples and educators adapt them to cohort needs.
 - [x] Turn “Opening questions” into a commitment/pre-course activity with time, method, facilitator guidance, date, and participant fields.
 - [x] Ask “What is money?” before “What makes something money?”
 - [x] Rewrite “Why does money have value?”
@@ -180,13 +180,13 @@ Status key: `[x]` added to the current student text; `[o]` not possible in this 
 - [-] Clarify assets versus money for metals, currency, bonds, businesses, land, tools, and education.
 - [-] Distinguish BTC as money versus asset and clarify the claimed fiat “problem.”
 - [o] Keep the fill-in review exercise (“YES!”).
-- [o] Expert-review the Block 1 answer.
-- [-] Rename/reframe “Solution / Bitcoin” if “solution” overstates the claim.
+- [o] Expert-review the Module 1 answer.
+- [-] Rename/reframe “How Bitcoin Works” if “solution” overstates the claim.
 - [-] Ensure the framing cannot be mistaken for a general cryptocurrency diploma.
 - [ ] Clarify the annotation “To what Q?” and connect item 7 to its intended question.
-- [o] Preserve “YES!” on the fill-in exercise and “PERFECT LFG!” at the end of Block 1 as explicit approvals.
+- [o] Preserve “YES!” on the fill-in exercise and “PERFECT LFG!” at the end of Module 1 as explicit approvals.
 
-## 2. Solution / Bitcoin
+## 2. How Bitcoin Works
 
 ### Why Bitcoin was created
 
@@ -220,7 +220,7 @@ Status key: `[x]` added to the current student text; `[o]` not possible in this 
 - [-] Explain halving as block-based/roughly four-year timing, not a fixed date.
 - [o] Add a finite-supply/halving graphic.
 - [-] Separate known issuance facts from uncertain adoption/price/scaling claims.
-- [-] Link back to Block 1.
+- [-] Link back to Module 1.
 
 ### Satoshis and unit bias
 
@@ -253,18 +253,18 @@ Status key: `[x]` added to the current student text; `[o]` not possible in this 
 ### Participant empowerment, risk, and responsibility
 
 - [-] Improve personal-responsibility examples and unclear wording (“less,” “peer information”).
-- [o] Add graphics to the Block 2 comparison.
+- [o] Add graphics to the Module 2 comparison.
 - [-] Deepen function/property comparisons, including scarcity.
-- [-] Make the next-block transition explicit.
+- [-] Make the next-module transition explicit.
 
-## 3. Action / Self-Custody
+## 3. Using Bitcoin Safely
 
 ### Wallets
 
 - [ ] Confirm/add the proposed new comparison column (label illegible).
-- [-] Recheck the Block 2 answer and transition to Block 3.
+- [-] Recheck the Module 2 answer and transition to Module 3.
 - [-] Add wallet terms to the lexicon.
-- [-] Rephrase the Block 3 learner promise consistently.
+- [-] Rephrase the Module 3 learner promise consistently.
 - [-] Clarify that a wallet coordinates keys/spending/receiving while bitcoin remains on the ledger.
 
 ### Addresses
@@ -326,7 +326,7 @@ Status key: `[x]` added to the current student text; `[o]` not possible in this 
 ### Safety checklist: seed phrases, address checks, scams, and starting small
 
 - [o] Turn scam scenarios into scaffolded role-play/advanced content rather than one dense list.
-- [-] Reduce Block 3 security overload and clarify learner choices.
+- [-] Reduce Module 3 security overload and clarify learner choices.
 
 ### Acquiring and exchanging bitcoin as pathway awareness, not financial advice
 
@@ -344,22 +344,22 @@ Status key: `[x]` added to the current student text; `[o]` not possible in this 
 ### Review: what does self-custody responsibility mean?
 
 - [x] Mark deeper Lightning content as advanced.
-- [-] Rename/explain “Custom block” and Block 4.
+- [-] Rename/explain “Module 4” and Module 4.
 - [-] Mark the second on-chain/Lightning comparison table as advanced if that matches the annotation.
 
-## 4. Custom / Bitcoin As Money
+## 4. Bitcoin in Your Community
 
 ### Educator-selected local modules
 
 - [-] Clarify the responsibility map and whether “choose custody” is an action or outcome.
 - [o] Make the table an educator-guided exercise with examples.
 - [-] Separate generic terms from scam signals.
-- [-] Rewrite the “heavy” Block 3 answer with examples.
-- [o] Move educator-only Block 3 material to the educator guide.
-- [-] Redesign Block 4 as custom/local modules; define MFB versus educator responsibilities and resources.
+- [-] Rewrite the “heavy” Module 3 answer with examples.
+- [o] Move educator-only Module 3 material to the educator guide.
+- [-] Redesign Module 4 as custom/local modules; define MFB versus educator responsibilities and resources.
 - [x] State MFB's neutrality: using Bitcoin in practical exercises does not necessarily endorse frequent or ongoing use.
 - [-] Consider removing “Custom” from the learner-facing Diploma and retaining the concept only in educator guidance.
-- [-] Preserve the annotation that Block 3 is “full, complete & serious” while acting on the concern that it feels heavy.
+- [-] Preserve the annotation that Module 3 is “full, complete & serious” while acting on the concern that it feels heavy.
 
 - [-] State that educators select a topic/module for local context and provide an example.
 - [-] Clarify local warnings/appropriateness conditions.
@@ -373,7 +373,7 @@ Status key: `[x]` added to the current student text; `[o]` not possible in this 
 
 - [-] Organize modules around local worker/family/merchant/community needs and remittance examples.
 - [-] Keep presentation–practice–production (“perfect place”).
-- [x] Remove repetition with Block 3; cross-reference safety.
+- [x] Remove repetition with Module 3; cross-reference safety.
 - [o] Turn merchant payment flow into an educator-guide case study.
 - [-] Explain how demonstration safety changes by local conditions.
 - [-] Work through the marked module questions with the community team and rewrite them.
@@ -383,8 +383,8 @@ Status key: `[x]` added to the current student text; `[o]` not possible in this 
 - [-] Create a reusable local-tool comparison template; consider merging with wallet comparison.
 - [-] Preserve the checked workshop-result sentence as approved.
 
-- [-] Move the local-tool record and guidance into the separate Block 4/educator guide; Core is Blocks 1–3.
-- [o] Sequence the educator materials explicitly: Block 3 items 1–3, then its Educator Guide; Block 4 should be driven by its Educator Guide.
+- [-] Move the local-tool record and guidance into the separate Module 4/educator guide; Core is Modules 1–3.
+- [o] Sequence the educator materials explicitly: Module 3 items 1–3, then its Educator Guide; Module 4 should be driven by its Educator Guide.
 
 ### Daily-life Bitcoin use
 
@@ -405,7 +405,7 @@ Status key: `[x]` added to the current student text; `[o]` not possible in this 
 ### Local on-ramp and off-ramp pathways
 
 - [-] Remove/redesign the on/off-ramp table if too technical for learners.
-- [o] Decide whether most Block 4 content should be packaged as activities.
+- [o] Decide whether most Module 4 content should be packaged as activities.
 - [-] Preserve the strong approval of the pathway-comparison template.
 
 ### KYC and no-KYC trade-offs where locally appropriate
@@ -422,7 +422,7 @@ Status key: `[x]` added to the current student text; `[o]` not possible in this 
 
 ### Merchant or community use cases
 
-- [-] Break Block 4 into educator-selected sections (wallet, exchange, circular economy, etc.).
+- [-] Break Module 4 into educator-selected sections (wallet, exchange, circular economy, etc.).
 - [-] Reduce wordiness and create response space.
 - [-] Connect merchant/community cases to jurisdiction/local context.
 - [-] Expand practical field/community work where appropriate.
@@ -437,7 +437,7 @@ Status key: `[x]` added to the current student text; `[o]` not possible in this 
 
 ### Review: how can Bitcoin function as money in your community?
 
-- [x] Frame final Block 4 questions as a role/project/team exercise.
+- [x] Frame final Module 4 questions as a role/project/team exercise.
 - [-] Replace generic “Need” with the specific Bitcoin/local need.
 - [-] Make “Back of Diploma: Next Steps” build on earlier work and scan quickly.
 - [-] Align the first next-step question with the opening activity.

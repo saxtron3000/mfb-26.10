@@ -13,13 +13,13 @@ The Educator Guide should function as a facilitation engine, not as a duplicate 
 The guide should help educators:
 
 - prepare quickly;
-- pace each block realistically;
+- pace each module realistically;
 - choose activities;
 - manage discussion;
 - correct misconceptions;
 - adapt examples locally;
 - support multilingual or translated delivery;
-- select Custom / Bitcoin as Money modules;
+- select Bitcoin in Your Community modules;
 - facilitate in person or online with low-tech, offline-capable teaching materials when needed;
 - handle named tools, local resources, and current-data examples carefully;
 - use QR codes and external links sparingly in print/PDF delivery;
@@ -50,7 +50,7 @@ You do not need to prepare or teach in isolation. My First Bitcoin supports educ
 - What stays fixed
 - What educators can adapt
 - Shared Core theory versus localized practice
-- How the 4-block structure works
+- How the 4-module structure works
 - How to avoid beginner overload
 - How to teach from translation-ready materials
 
@@ -67,7 +67,7 @@ In this Diploma, a **learner** studies, discusses, practises, and provides evide
 
 - Minimum 8-hour planning baseline, with additional time where objectives require it
 - Four two-hour sessions as one delivery model, not a fixed limit
-- Suggested timing per block
+- Suggested timing per module
 - Flexible delivery models: one-day, four-day, or eight-day
 - In-person delivery or online delivery using low-tech, offline-capable print/PDF content where needed
 - What to cut when time is short
@@ -78,12 +78,12 @@ In this Diploma, a **learner** studies, discusses, practises, and provides evide
 
 The Core Diploma has an approximately 8-hour minimum planning baseline. Educators should add time when needed to meet the objectives, practice requirements, and assessment standard, and may deliver the learning in different time chunks depending on learner availability, venue constraints, travel time, energy level, device access, and local teaching context. Each schedule must reserve enough time for educator-led theory checks where required, direct practical observation, recording, feedback, and reassessment. Optional app use must not become a barrier to participation.
 
-The four-block sequence should remain the same:
+The four-module sequence should remain the same:
 
-1. Problem / Broken Money
-2. Solution / Bitcoin
-3. Action / Self-custody
-4. Custom / Bitcoin as Money
+1. Understanding Money
+2. How Bitcoin Works
+3. Using Bitcoin Safely
+4. Bitcoin in Your Community
 
 Educators should choose the schedule that gives learners enough time to discuss, practice, ask questions, and review without overloading them.
 
@@ -94,14 +94,14 @@ The course should feel lean and intentional. When time is tight, protect learner
 | Delivery model | Example timing | Best use | Educator guidance |
 |---|---|---|---|
 | One-day intensive | 9:00-5:00 with breaks, or 9:00-6:00 if preserving a full 8 teaching hours plus lunch | Conferences, weekend intensives, visiting educators, or learners who can only attend once | Keep explanations short, protect review time, choose only the strongest activities, and avoid adding advanced topics. |
-| Four-day course | Four 2-hour sessions | Community classes, schools, libraries, meetups, or evening programs | Teach one block per session. Begin each session with a short recap and end with an exit ticket or reflection. |
-| Eight-day course | Eight 1-hour sessions | Learners who benefit from slower pacing, translation, discussion, or repeated practice | Split each block across two sessions: one for the core idea and discussion, one for practice, review, and local application. |
+| Four-day course | Four 2-hour sessions | Community classes, schools, libraries, meetups, or evening programs | Teach one module per session. Begin each session with a short recap and end with an exit ticket or reflection. |
+| Eight-day course | Eight 1-hour sessions | Learners who benefit from slower pacing, translation, discussion, or repeated practice | Split each module across two sessions: one for the core idea and discussion, one for practice, review, and local application. |
 
 If a one-day course must fit strictly inside 9:00-5:00, educators should treat it as an intensive version of the Diploma. Breaks and lunch reduce available teaching time, so the educator may need to shorten activities, assign a small amount of pre-reading, or move optional discussion into follow-up resources.
 
 If the priority is a full 8 hours of live teaching plus a proper meal break, the day should be scheduled longer than 9:00-5:00 or split across multiple days.
 
-Educators may also combine models, such as two half-days or one weekend morning plus several evening sessions. The important decision is not the exact calendar format, but whether the chosen time chunks protect the learning rhythm of each block: introduce, discuss, practice, apply, and review.
+Educators may also combine models, such as two half-days or one weekend morning plus several evening sessions. The important decision is not the exact calendar format, but whether the chosen time chunks protect the learning rhythm of each module: introduce, discuss, practice, apply, and review.
 
 ## 3. Facilitation Patterns
 
@@ -121,9 +121,9 @@ Do not make a video, external website, named service, learner-owned device, or a
 
 Use optional videos only when the venue, device access, connectivity, and learner time make them genuinely useful. Do not rely on assigned video homework as the sole preparation for a scheduled learning activity.
 
-## 4. Block Guidance
+## 4. Module Guidance
 
-### Problem / Broken Money
+### Understanding Money
 
 Suggested two-part sequence when more time is available:
 
@@ -140,13 +140,13 @@ Suggested two-part sequence when more time is available:
 - CBDCs as digital fiat, with issuer, supply, permission, privacy, and verification questions
 - Likely misconceptions
 - Suggested activities
-- Optional app recap or self-check items mapped to this block, where useful
+- Optional app recap or self-check items mapped to this module, where useful
 - Approved educator-evaluated theory interactions and formative learner explanations, comparisons, discussions, or simulations
 - Review point
 
 Have learners keep their answers to the opening money questions. Return to them at the end of the Diploma.
 
-### Solution / Bitcoin
+### How Bitcoin Works
 
 - Core ideas
 - Cypherpunk and early digital-money context without overloading the timeline
@@ -155,7 +155,7 @@ Have learners keep their answers to the opening money questions. Return to them 
 - Satoshis as a low-complexity concept that unlocks payments, fees, supply, and custody discussions
 - Likely misconceptions
 - Suggested activities
-- Optional app recap or self-check items mapped to this block, where useful
+- Optional app recap or self-check items mapped to this module, where useful
 - Approved educator-evaluated theory interactions and formative learner explanations, concept illustrations, role-plays, or scenarios
 - Review point
 
@@ -172,7 +172,7 @@ Use these short answers to prepare for learner questions about the Student Book'
 | Verifiability | “Do I have to trust a website to know the supply or whether a payment happened?” | A block explorer can make information easier to view, but it is still a third-party service. A person or organization running a node can independently check Bitcoin's rules and transaction history; beginners may use explorers cautiously and should understand their privacy limits. |
 | Acceptability | “If Bitcoin is useful, why can’t I spend it everywhere?” | Use depends on whether people and businesses choose to accept it and on local tools, costs, rules, and habits. Bitcoin's technical properties do not guarantee local acceptance or stable prices. |
 
-### Action / Self-custody
+### Using Bitcoin Safely
 
 Suggested two-part sequence when more time is available:
 
@@ -187,18 +187,18 @@ Suggested two-part sequence when more time is available:
 - When to use block explorers as beginner verification tools, including confirmation status and public-ledger privacy limits
 - Address-history and reuse lookup activity: use a deliberately public, educator-prepared address, transaction, or screenshot to show that address activity can be visible and repeated use can make transactions easier to link. Never ask learners to search, display, or share an address that belongs to them or another person, and provide a printed or projected fallback when internet access is unavailable.
 - Suggested activities
-- Optional app recap or self-check items mapped to this block, where useful
+- Optional app recap or self-check items mapped to this module, where useful
 - Required educator-observed wallet, transaction, recovery-readiness, verification, and safety assessment
 - Review point
 
-### Custom / Bitcoin as Money
+### Bitcoin in Your Community
 
 - How to choose a Custom module
 - How to identify local opportunities
 - How to assess tool readiness
 - When local expert support is required
 - How to run practical demonstrations safely
-- How to frame spending as one possible local practice rather than the whole purpose of Block 4
+- How to frame spending as one possible local practice rather than the whole purpose of Module 4
 - How to frame Lightning, merchant payments, remittance scenarios, nonprofit or community donation scenarios, local on/off-ramps, KYC/no-KYC trade-offs, BTCMap or equivalent resource maps, and circular economies
 - How to avoid global recommendations for named services or providers
 - How to document local adaptations
@@ -263,9 +263,9 @@ Before conducting a practical assessment, the educator should confirm:
 
 The task must match the verb. **Explain** requires an explanation. **Compare** requires relevant similarities, differences, or trade-offs. **Apply** requires use in a scenario. **Demonstrate** requires direct observation of performance.
 
-### 5.3 Blocks 1 And 2: Theoretical Learning And Formative Support
+### 5.3 Modules 1 And 2: Theoretical Learning And Formative Support
 
-Blocks 1 and 2 are knowledge-dominant, but they must not become memory tests.
+Modules 1 and 2 are knowledge-dominant, but they must not become memory tests.
 
 Use the following to develop theoretical understanding and provide formative feedback:
 
@@ -287,9 +287,9 @@ Educators should not treat fluent repetition as evidence of understanding. Use f
 - “What would change in this scenario?”
 - “What is the relevant trade-off?”
 
-### 5.4 Blocks 3 And 4: Practical Competence
+### 5.4 Modules 3 And 4: Practical Competence
 
-Blocks 3 and 4 are skills-dominant. Required practical objectives make up the practical 50% of assessment and are assessed through direct observation by an educator. Theoretical objectives mapped to these blocks use approved educator-led evidence.
+Modules 3 and 4 are skills-dominant. Required practical objectives make up the practical 50% of assessment and are assessed through direct observation by an educator. Theoretical objectives mapped to these modules use approved educator-led evidence.
 
 Use approved Activity Bank tests, demonstrations, simulations, and role-plays to observe whether the learner can:
 
@@ -303,7 +303,7 @@ Use approved Activity Bank tests, demonstrations, simulations, and role-plays to
 - explain what they are doing and why; and
 - recognize when to stop or seek help.
 
-Block 4 requires direct assessment of an approved local task mapped to shared objectives `B4.1` and `B4.2`. The task may vary by context, but it must preserve equivalent evidence of safe performance, verification, explanation, and trade-off awareness.
+Module 4 requires direct assessment of an approved local task mapped to shared objectives `B4.1` and `B4.2`. The task may vary by context, but it must preserve equivalent evidence of safe performance, verification, explanation, and trade-off awareness.
 
 Use prepared wallets, simulations, testnet, or appropriately low-stakes transactions where needed. Never ask a learner to expose a real seed phrase, private key, credential, or unnecessary financial information.
 
@@ -371,8 +371,8 @@ The educator may invite learners to use the optional app for recap, but must not
 The approved completion record must contain:
 
 - required educator-evaluated theoretical-interaction results;
-- required educator-observed Block 3 and Block 4 practical results;
-- the selected and passed Block 4 competency; and
+- required educator-observed Module 3 and Module 4 practical results;
+- the selected and passed Module 4 competency; and
 - any required educator attestation or evidence reference.
 
 Only the combined **assessment-complete** status may unlock a certificate. Educator endorsement without structured evidence is insufficient, and direct practical assessment by an educator is mandatory.
@@ -403,18 +403,18 @@ Only the combined **assessment-complete** status may unlock a certificate. Educa
 - Use `advanced/mergefromorganizations.md` to decide whether Organizations material belongs in beginner Core, Custom, Activity Bank, Educator Guide, or Advanced material.
 - Use `18_advanced.md` to park deeper technical, economic, philosophical, or future-facing material that should be preserved for later Advanced modules.
 - Do not treat old `OUT` markings as deletion when the same item is marked Custom or Advanced.
-- Keep Block 3 technical material practical: use it only to support safer self-custody, verification, and transaction responsibility.
+- Keep Module 3 technical material practical: use it only to support safer self-custody, verification, and transaction responsibility.
 - Split topics carefully when needed: beginner concepts may stay in Core while deeper analysis moves to Advanced material.
 - Treat sats, wallet recovery, seed phrase testing, address verification, scam awareness, and beginner acquisition-pathway risk as clarified Core concepts.
-- Place daily-life Lightning wallet setup, local spending, and merchant scenarios in Custom / Bitcoin as Money unless the local delivery plan requires them earlier.
+- Place daily-life Lightning wallet setup, local spending, and merchant scenarios in Bitcoin in Your Community unless the local delivery plan requires them earlier.
 - Use Custom modules for local money examples, local inequality or debt discussions, local resource maps, circular economies, and real tools used by the community.
 - Do not turn named exchanges, wallets, peer-to-peer platforms, maps, or local services into global recommendations.
 
 ---
 
-# Custom Block Selection Checklist
+# Module 4 Selection Checklist
 
-Educators should choose Custom / Bitcoin as Money modules based on:
+Educators should choose Bitcoin in Your Community modules based on:
 
 - student needs;
 - local Bitcoin tools;

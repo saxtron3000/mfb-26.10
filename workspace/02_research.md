@@ -107,7 +107,7 @@ These are rapid evidence reviews, not registered systematic reviews. They draw m
 
 The three reviews agree that the redesign is moving in a defensible direction. Strong adjacent evidence supports active participation, guided beginner practice, retrieval distributed across sessions, objective–activity–assessment alignment, direct observation of practical skills, task-specific assessment criteria, educator preparation and calibration, human-reviewed localisation, and a complete offline-capable instructional path.
 
-The evidence supports these design principles, but it does not validate the Diploma's exact numbers. Eight hours, four blocks, four two-hour sessions, and the 50/50 theory-practice allocation are programme choices, not proven optima. Competence, access, and safety should take priority over treating a timetable or percentage as research-established.
+The evidence supports these design principles, but it does not validate the Diploma's exact numbers. Eight hours, four modules, four two-hour sessions, and the 50/50 theory-practice allocation are programme choices, not proven optima. Competence, access, and safety should take priority over treating a timetable or percentage as research-established.
 
 **Programme policy update, 2026-08-19:** The Diploma has adopted two educator-evaluated 50% components: theoretical understanding and directly observed practical competency. The app is optional self-assessment only and cannot provide assessment evidence. This is a governance decision to implement and evaluate, not a ratio established as optimal by the research reviewed here. Low-tech and offline-capable delivery includes learning, assessment, completion, and certification.
 
@@ -117,7 +117,7 @@ The largest evidence gap is Bitcoin-specific. None of the reviews located a peer
 
 | Area | Evidence-informed direction | Confidence |
 |---|---|---|
-| Participation | Require active processing and practice in every block rather than lecture-dominant delivery. | High |
+| Participation | Require active processing and practice in every module rather than lecture-dominant delivery. | High |
 | Beginner instruction | Move from concise explanation or demonstration to guided practice, supported application, feedback, and retrieval or reflection. Reduce support as competence grows. | High |
 | Pacing | Prefer spaced delivery where practical and preserve locally workable alternatives, including an intensive option with breaks and follow-up. | Medium |
 | Curriculum coherence | Write objectives as observable knowledge, reasoning, or performance and derive activities and assessment from them. | High |
@@ -134,8 +134,8 @@ The largest evidence gap is Bitcoin-specific. None of the reviews located a peer
 ## Shared programme-design implications
 
 - Prefer four two-hour meetings as the first spaced-delivery hypothesis where feasible, but do not make that schedule universal.
-- Use a recurring block repertoire: reconnect or retrieve prior learning; explain or demonstrate a manageable step; provide guided processing or practice; move toward a scenario, explanation, or supported performance; collect evidence; give specific feedback; and close with retrieval or reflection.
-- Keep learners active in every block. "Active" means purposeful processing and supported practice, not minimally guided discovery.
+- Use a recurring module repertoire: reconnect or retrieve prior learning; explain or demonstrate a manageable step; provide guided processing or practice; move toward a scenario, explanation, or supported performance; collect evidence; give specific feedback; and close with retrieval or reflection.
+- Keep learners active in every module. "Active" means purposeful processing and supported practice, not minimally guided discovery.
 - Use several evidence channels. App completion, attendance, confidence, enjoyment, self-report, or a quiz alone cannot demonstrate practical competence.
 - Keep theoretical and practical assessment as non-compensatory certification gates. Treat 50/50 as the approved administrative or reporting allocation, not as a research-proven optimum.
 - Implement the educator-led 50/50 theory-practice allocation as programme policy while evaluating assessment validity, access, differential completion, and learner support needs. Keep app self-checks optional and separate from certification evidence.
@@ -146,7 +146,7 @@ The largest evidence gap is Bitcoin-specific. None of the reviews located a peer
 ## Claims the evidence does not support
 
 - Eight hours is sufficient for every learner group, language, cohort size, or required objective.
-- Four equal blocks or four two-hour sessions outperform every alternative schedule.
+- Four equal sessions or four two-hour sessions outperform every alternative schedule.
 - Lecture should occupy one exact percentage of each session.
 - The 50/50 allocation improves validity, reliability, or access.
 - No delivery mode is universally superior.
@@ -157,7 +157,7 @@ The largest evidence gap is Bitcoin-specific. None of the reviews located a peer
 
 ## Eight-hour feasibility and governance risk
 
-The current `05_objectives.md` contains 25 certification objectives plus two formative cross-block outcomes, including several performances observed by an educator. The eight-hour pathway must cover access checks, instruction, guided practice, discussion, transitions, breaks, theoretical evidence, direct observation, feedback, accommodations, recovery, and reassessment. It may fit only if compatible objectives are validly integrated into coherent scenarios and the learner-to-educator model provides enough observation capacity.
+The current `05_objectives.md` contains 25 certification objectives plus two formative cross-module outcomes, including several performances observed by an educator. The eight-hour pathway must cover access checks, instruction, guided practice, discussion, transitions, breaks, theoretical evidence, direct observation, feedback, accommodations, recovery, and reassessment. It may fit only if compatible objectives are validly integrated into coherent scenarios and the learner-to-educator model provides enough observation capacity.
 
 Before locking scope, create and field-time an objective blueprint containing:
 
@@ -185,7 +185,7 @@ The October 2026 release should include a common, proportionate, privacy-minimis
 
 - objective-aligned pre-course and immediate post-course checks using equivalent, not identical, forms;
 - a common observed practical scenario with analytic criteria;
-- attendance by block, delivery mode, implementation deviations, access failures, practice attempts, feedback, and reassessment data;
+- attendance by module, delivery mode, implementation deviations, access failures, practice attempts, feedback, and reassessment data;
 - a delayed retrieval and safety-transfer check, ideally after 8–12 weeks;
 - educator preparation time, guide usability, scoring rationale, incidents, and near misses;
 - double-scoring of a planned sample to estimate educator agreement;
@@ -367,7 +367,7 @@ Use these tools to discover, map, read, compare, and synthesize research; they a
 
 Suggested workflow: start with Consensus, Elicit, Google Scholar, Semantic Scholar, and ERIC; use ResearchRabbit or Connected Papers to follow citation trails; use Scite to check whether important findings are supported or disputed; then save verified sources in Zotero. Use ChatGPT, NotebookLM, Gemini, or Claude only with the papers you have selected and uploaded, and require citations back to those papers.
 
-Each block below is a complete prompt: copy one whole block into an academic research LLM. They are designed to build a reliable evidence base for the Diploma, not to generate a finished paper. Verify every cited source against its original record or full text before using it.
+Each module below is a complete prompt: copy one whole module into an academic research LLM. They are designed to build a reliable evidence base for the Diploma, not to generate a finished paper. Verify every cited source against its original record or full text before using it.
 
 ## 1. Programme architecture, pacing, and participation
 
@@ -511,7 +511,7 @@ The external reviews now support several design principles while leaving the exa
 
 ## Evidence-Informed Direction
 
-1. Use the approximately 8-hour, 4-block pathway as the working pilot baseline, with additional time or support when competence requires it.
+1. Use the approximately 8-hour, 4-module pathway as the working pilot baseline, with additional time or support when competence requires it.
 2. Separate beginner, Custom, and Advanced material to reduce cognitive overload.
 3. Require active learning, guided practice, retrieval, feedback, and objective-aligned evidence throughout the programme.
 4. Build the Educator Guide, Activity Bank, educator calibration, and reassessment system as required implementation infrastructure.
@@ -550,11 +550,11 @@ The external reviews now support several design principles while leaving the exa
 
 ## Decisions Safe To Make Now
 
-1. Use the 4-block model as the working architecture.
+1. Use the 4-module model as the working architecture.
 2. Keep Advanced material outside the Core beginner pathway.
 3. Build the Educator Guide, Activity Bank, educator calibration, and reassessment route as required parts of the learning ecosystem.
 4. Write in plain, consistent, translation-ready language and require qualified local review.
-5. Treat spending as one possible Block 4 practice, not the full global definition of Block 4.
+5. Treat spending as one possible Module 4 practice, not the full global definition of Module 4.
 6. Require print and offline instructional resources to be complete without scanning; use QR codes only for optional enhancements, while clearly stating that app self-checks are optional.
 7. Use two required, non-compensatory educator-led assessment gates: theoretical understanding and directly observed practical competency.
 8. Require both assessment components before certification.
@@ -660,7 +660,7 @@ Reviewed files from the Hackfest repository:
 
 Module sequencing:
 
-- Use prerequisite structure to guide sequencing inside the 4-block Diploma.
+- Use prerequisite structure to guide sequencing inside the 4-module Diploma.
 - Place high-unlocking, low-complexity concepts early when they help later ideas make sense.
 - Use `satoshi` before transaction amounts, fees, rewards, and issuance.
 - Use `hashing` before blocks, proof of work, mining, and difficulty.

@@ -22,7 +22,7 @@ A certificate may be issued only when the approved completion record confirms **
 Assessment-complete status requires:
 
 - passing educator-evaluated theoretical interaction evidence;
-- successful direct observation by an educator of required Block 3 practical and safety competencies and selected Block 4 objectives; and
+- successful direct observation by an educator of required Module 3 practical and safety competencies and selected Module 4 objectives; and
 
 The theoretical and practical components each carry 50% of the total assessment. Both must meet the approved standard; a result in one component cannot compensate for an unmet requirement in the other.
 
@@ -114,7 +114,7 @@ Standardization does not mean every learner must use the same wallet or local sc
 
 1. The learner completes the relevant teaching and supported practice.
 2. The educator gathers and records approved theoretical evidence; other explanations, discussions, scenarios, simulations, or role-plays remain formative.
-3. An educator directly observes and records the required Block 3 and selected Block 4 practical competencies.
+3. An educator directly observes and records the required Module 3 and selected Module 4 practical competencies.
 4. Any unmet competency is marked **Not yet**, followed by feedback, further practice, and reassessment.
 5. The educator-led theoretical and practical results are recorded in the approved completion record.
 6. The system confirms assessment-complete status only when both components meet the standard.

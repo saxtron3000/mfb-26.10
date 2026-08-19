@@ -20,9 +20,9 @@
 - How low-tech and offline-capable print/PDF instruction and assessment work
 - Safety, responsibility, and no financial advice
 - What belongs in Core, Custom, and Advanced learning
-- How the 4-block learning path is organized
+- How the 4-module learning path is organized
 
-## 3. Block 1: Problem / Broken Money
+## 3. Module 1: Understanding Money
 
 - Opening questions about money
 - Why money exists
@@ -38,7 +38,7 @@
 - Why people look for alternatives (Precious Metals, Real Estate, Stocks)
 - Review: how can money break?
 
-## 4. Block 2: Solution / Bitcoin
+## 4. Module 2: How Bitcoin Works
 
 - Why Bitcoin was created
 - The search for digital and decentralized money
@@ -56,7 +56,7 @@
 - Personal responsibility as bridge to self-custody
 - Review: how does Bitcoin respond to fiat problems?
 
-## 5. Block 3: Action / Self-Custody
+## 5. Module 3: Using Bitcoin Safely
 
 - Wallets
 - Addresses
@@ -74,7 +74,7 @@
 - Practical competency check observed by an educator
 - Review: what does self-custody responsibility mean?
 
-## 6. Block 4: Custom / Bitcoin As Money
+## 6. Module 4: Bitcoin in Your Community
 
 - Educator-selected local modules
 - Practical workshops and demonstrations

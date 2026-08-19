@@ -6,7 +6,7 @@ This document defines the Activity Bank for the redesigned Bitcoin Diploma.
 
 Activities are removed from the main student-facing text so educators can choose, adapt, and facilitate them more easily.
 
-The Activity Bank is designed for two uses. Activities can complement the Bitcoin Diploma by giving educators modular exercises connected to the diploma blocks, objectives, and competencies. They can also stand alone as short learning experiences for social gatherings, community events, conferences, meetups, workshops, or other public learning spaces.
+The Activity Bank is designed for two uses. Activities can complement the Bitcoin Diploma by giving educators modular exercises connected to the Diploma modules, objectives, and competencies. They can also stand alone as short learning experiences for social gatherings, community events, conferences, meetups, workshops, or other public learning spaces.
 
 A standalone activity should provide enough context, instructions, debrief questions, and safety notes for participants to learn a clear idea even if they have not completed the full diploma.
 
@@ -94,9 +94,9 @@ Learners should receive supported practice before a task is used for summative p
 
 ## Activity Title
 
-### Block Alignment
+### Module Alignment
 
-Problem / Broken Money, Solution / Bitcoin, Action / Self-custody, or Custom / Bitcoin as Money.
+Understanding Money, How Bitcoin Works, Using Bitcoin Safely, or Bitcoin in Your Community.
 
 ### Objective Alignment
 
@@ -144,7 +144,7 @@ What the learner must say, decide, illustrate, or demonstrate. For a practical t
 
 ### Debrief
 
-Questions that connect the activity back to the block objective.
+Questions that connect the activity back to the module objective.
 
 ### Evidence Of Learning
 
@@ -176,9 +176,9 @@ Local legal, tax, privacy, safety, tool, or community knowledge required before 
 
 # Potential Discussion: Competency Questions Across The Diploma
 
-### Block Alignment
+### Module Alignment
 
-Problem / Broken Money, Solution / Bitcoin, and Action / Self-custody.
+Understanding Money, How Bitcoin Works, and Using Bitcoin Safely.
 
 ### Objective Alignment
 
@@ -252,15 +252,15 @@ Do not ask learners to reveal a seed phrase, private key, login credential, or p
 
 ---
 
-# Assessment Role By Block
+# Assessment Role By Module
 
-## Blocks 1 And 2: Knowledge-Dominant
+## Modules 1 And 2: Knowledge-Dominant
 
 Educators collect the full theoretical component through approved, objective-aligned explanations, comparisons, concept illustrations, games, discussions, simulations, scenarios, and role-plays that have individual evidence, criteria, and a record; otherwise they are formative. Optional app self-checks may prepare or help learners review, but are never assessment evidence.
 
 Selected educator-led theoretical activities should be short and objective-aligned; the blueprint must distinguish approved summative evidence from formative touchpoints. The Activity Bank owns approved tasks for the practical 50%, which an educator evaluates through direct observation.
 
-## Blocks 3 And 4: Skills-Dominant
+## Modules 3 And 4: Skills-Dominant
 
 Activity Bank assessment tasks provide the direct educator-observed evidence required for practical competence.
 
@@ -272,17 +272,17 @@ Formal tasks should include approved variations of:
 - transaction-status or confirmation checks;
 - recovery-readiness and secret-protection scenarios;
 - scam, address-error, or irreversible-transaction responses; and
-- selected local Block 4 payment, receiving, remittance, merchant, donation, resource, or community-use performance.
+- selected local Module 4 payment, receiving, remittance, merchant, donation, resource, or community-use performance.
 
 An app checklist or follow-up may prepare a learner, capture task understanding, or support an educator's procedure. It is not proof of practical competence without the required direct observation.
 
-Every Block 4 certification assessment task must map to shared objectives `B4.1` and `B4.2`, even when the local tool or scenario differs.
+Every Module 4 certification assessment task must map to shared objectives `B4.1` and `B4.2`, even when the local tool or scenario differs.
 
 ---
 
-# Activity Categories By Block (Work in Progress)
+# Activity Categories By Module (Work in Progress)
 
-## Block 1: Problem / Broken Money
+## Module 1: Understanding Money
 
 - Money properties comparison
 - Barter scenario
@@ -298,7 +298,7 @@ Every Block 4 certification assessment task must map to shared objectives `B4.1`
 - Scarcity, time preference, and opportunity cost reflection
 - Claim / evidence / reasoning on fiat problems
 
-## Block 2: Solution / Bitcoin
+## Module 2: How Bitcoin Works
 
 - Bitcoin properties comparison
 - Build a blockchain
@@ -315,7 +315,7 @@ Every Block 4 certification assessment task must map to shared objectives `B4.1`
 - Personal responsibility transition prompt
 - Bitcoin benefits and trade-offs map
 
-## Block 3: Action / Self-custody
+## Module 3: Using Bitcoin Safely
 
 - Wallet type identification
 - Address identification
@@ -336,7 +336,7 @@ Every Block 4 certification assessment task must map to shared objectives `B4.1`
 - Simple transaction responsibility walkthrough
 - Safety checklist
 
-## Block 4: Custom / Bitcoin as Money
+## Module 4: Bitcoin in Your Community
 
 - Local Bitcoin tool demonstration
 - Local types-of-money comparison
@@ -365,7 +365,7 @@ Every Block 4 certification assessment task must map to shared objectives `B4.1`
 
 Every final activity should include:
 
-- block;
+- module;
 - stable objective ID and exact objective;
 - competency;
 - assessment use;

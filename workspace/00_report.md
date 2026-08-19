@@ -23,20 +23,20 @@ This is an internal consistency, curriculum-architecture, and publication-readin
 
 The project has resolved the major app/offline assessment contradiction. Teaching may be facilitated in person (preferred) or online with low-tech, offline-capable print/PDF content. Diploma completion nevertheless requires the approved My First Bitcoin app. The theoretical 50% is split 80% app evaluation and 20% educator-evaluated objective-aligned interaction; the practical 50% is split 80% direct observation by an educator and 20% app follow-up linked to the practical task. Both components and their required contributions must be passed; none may compensate for another.
 
-Affected workspace documents have been harmonized to this policy. During the follow-up, `12_educator-draft.md` was added as the educator-facing publication target and `12_educator-plan.md` was retained as its subordinate structural plan. The draft now contains all four block companions plus a working assessment and recording section. It remains dependent on missing approved app items, tasks, rubrics, thresholds, and governance and needs traceability, concision, usability, and release review. The unresolved work is now operational: app capability and access, objective-valid item design, scoring and retries, practical tasks and rubrics, result integration, accessibility and language parity, privacy and governance, outage handling, and the meaning of the approximately eight-hour commitment.
+Affected workspace documents have been harmonized to this policy. During the follow-up, `12_educator-draft.md` was added as the educator-facing publication target and `12_educator-plan.md` was retained as its subordinate structural plan. The draft now contains all four module companions plus a working assessment and recording section. It remains dependent on missing approved app items, tasks, rubrics, thresholds, and governance and needs traceability, concision, usability, and release review. The unresolved work is now operational: app capability and access, objective-valid item design, scoring and retries, practical tasks and rubrics, result integration, accessibility and language parity, privacy and governance, outage handling, and the meaning of the approximately eight-hour commitment.
 
 ## Executive conclusion
 
 The project has a coherent educational concept but is not yet ready to publish as a reliable Bitcoin Diploma.
 
-The strongest shared foundations are the four-block journey, beginner focus, Core/Custom/Advanced separation, practical learning, learner safety, non-endorsement, local adaptation, offline intent, and direct observation of practical competence. Those principles appear often enough across the package to show genuine alignment rather than coincidence.
+The strongest shared foundations are the four-module journey, beginner focus, Core/Custom/Advanced separation, practical learning, learner safety, non-endorsement, local adaptation, offline intent, and direct observation of practical competence. Those principles appear often enough across the package to show genuine alignment rather than coincidence.
 
 The weakness is implementation control. The documents repeat the same direction in several places, but do not yet form a dependable chain from decision to learner experience to evidence to certificate. Important decisions appear as fixed commitments in one document, working assumptions in another, and open questions in a third. Required objectives disappear downstream. Support documents that are labelled as structures or frameworks are relied upon as though they contain finished activities, questions, rubrics, records, and publication rules. Numerous paths, line references, and section anchors are stale.
 
 The two intended publications require different levels of work:
 
-- `08_student.md` is a substantial late draft with many strong passages. It needs structural reduction, objective repair, role-boundary correction, a modular Block 4, and publication editing. It should be refined rather than restarted.
-- `12_educator-draft.md` is now a substantial educator-facing draft with general facilitation, accessibility, safety, pacing, all four block companions, and working assessment/recording guidance. It now substantially exceeds the Student Guide in length and needs a disciplined role and concision edit as well as completion of its referenced operational dependencies. `12_educator-plan.md` remains the supporting outline rather than a publication.
+- `08_student.md` is a substantial late draft with many strong passages. It needs structural reduction, objective repair, role-boundary correction, a modular Module 4, and publication editing. It should be refined rather than restarted.
+- `12_educator-draft.md` is now a substantial educator-facing draft with general facilitation, accessibility, safety, pacing, all four module companions, and working assessment/recording guidance. It now substantially exceeds the Student Guide in length and needs a disciplined role and concision edit as well as completion of its referenced operational dependencies. `12_educator-plan.md` remains the supporting outline rather than a publication.
 
 The single most useful harmonization is an end-to-end objective crosswalk. Every required theoretical objective must connect to its learner teaching point, formative practice, valid app item, scoring rule, and recorded app result. Every required practical objective must connect to its teaching point, supported practice, observed task, rubric, and educator record. Until that exists, the package cannot prove that it teaches and assesses what it promises.
 
@@ -44,7 +44,7 @@ The single most useful harmonization is an end-to-end objective crosswalk. Every
 
 | Question | Finding |
 | --- | --- |
-| Do the documents respect their roles? | Partly. `01_review.md`, `05_objectives.md`, `06_plan.md`, and `18_advanced.md` are the strongest role performers. `12_educator-draft.md` now performs the publication-draft role across all four blocks, while `12_educator-plan.md` appropriately remains its outline; the pair still overlap and the draft needs reduction. `10_activities.md` and `14_microlearning.md` respect their structure roles but are not finished deliverables. `08_student.md` still absorbs educator and activity material. `17_spec.md` still fails its index-assigned publication-specification role. |
+| Do the documents respect their roles? | Partly. `01_review.md`, `05_objectives.md`, `06_plan.md`, and `18_advanced.md` are the strongest role performers. `12_educator-draft.md` now performs the publication-draft role across all four modules, while `12_educator-plan.md` appropriately remains its outline; the pair still overlap and the draft needs reduction. `10_activities.md` and `14_microlearning.md` respect their structure roles but are not finished deliverables. `08_student.md` still absorbs educator and activity material. `17_spec.md` still fails its index-assigned publication-specification role. |
 | Are they overlapping so much that they are repetitive? | Yes, in several high-value areas. Architecture is restated across `00`, `03`, `04`, `06`, `17`, and `README`; assessment ratios across `05`, `10`, `12`, `13`, `15`, `17`, and `README`; detailed activities and facilitation leak into `08`; and Organizations/Advanced mapping is duplicated across `18` and both `advanced/` files. Repetition is not uniformly excessive, but it is excessive where one exact rule needs one owner. |
 | Do they carry out the roles assigned in `00_index.md`? | The planning documents mostly do at a conceptual level. The publishing and delivery chain does not. The Student Guide, Activity Bank, Educator Guide, assessment system, app bank, certification workflow, lexicon, source register, visual handoff, and publication specification are not collectively operational. Some files accurately label themselves as unfinished; the package around them nevertheless makes publication and certification promises that depend on their completion. |
 
@@ -54,11 +54,11 @@ The labels below assess internal consistency and operational readiness, not the 
 
 | Area | Status | Assessment |
 | --- | --- | --- |
-| Educational direction | Strong foundation | The four-block progression, beginner orientation, safety, autonomy, and local adaptation are consistently understood. |
+| Educational direction | Strong foundation | The four-module progression, beginner orientation, safety, autonomy, and local adaptation are consistently understood. |
 | Document governance | At risk | The follow-up repaired the index's obsolete paths and educator-guide status, but precedence and a controlled document-status system are still not explicit, and several decisions are repeated across files. |
 | Learning objectives | At risk | The objective framework is thoughtful, but several objectives are bundled, unresolved, missing downstream, or too ambitious for an unvalidated eight-hour route. |
-| Student Guide | Major revision | Strong learner prose and safety content, but excessive scope, role leakage, objective gaps, TOC drift, duplicated Block 4 material, and release defects remain. |
-| Educator Guide | Substantial draft; major validation needed | The publication draft now covers general practice, all four blocks, and working assessment/recording guidance. It is longer than the Student Guide, overlaps its plan and Activity Bank, and depends on unbuilt approved items, tasks, rubrics, and governance. |
+| Student Guide | Major revision | Strong learner prose and safety content, but excessive scope, role leakage, objective gaps, TOC drift, duplicated Module 4 material, and release defects remain. |
+| Educator Guide | Substantial draft; major validation needed | The publication draft now covers general practice, all four modules, and working assessment/recording guidance. It is longer than the Student Guide, overlaps its plan and Activity Bank, and depends on unbuilt approved items, tasks, rubrics, and governance. |
 | Activity Bank | Build required | Strong template and legacy inventory, but almost no ready-to-run current activities or approved summative tasks. |
 | Microlearning/app evidence | Build required | A topic and item-design blueprint, not a populated question bank or usable theoretical assessment component. |
 | Assessment and certification | Critical dependency | Policy now uses four required contributions—app theory, educator theory, educator-observed practice, and app practical follow-up—but no complete blueprint, item bank, task set, rubrics, thresholds, calibration, records, or governance exists. |
@@ -71,7 +71,7 @@ The labels below assess internal consistency and operational readiness, not the 
 
 The next phase should be a controlled consolidation, not a wholesale redesign. These strengths are worth protecting:
 
-- The four-block narrative is simple and memorable: Problem / Broken Money; Solution / Bitcoin; Action / Self-custody; Custom / Bitcoin as Money.
+- The four-module narrative is simple and memorable: Understanding Money; How Bitcoin Works; Using Bitcoin Safely; Bitcoin in Your Community.
 - The course is transparent about being beginner, Bitcoin-only, educational, open-source, community-led, and not financial, investment, legal, or tax advice.
 - Learner autonomy is treated seriously. The Student Guide repeatedly allows uncertainty, warns against meaningful-fund experimentation, and avoids making purchase or installation a universal requirement.
 - The Student Guide handles trade-offs well in several areas, including fiat banking, decentralization, sound money, custody, and circular economies.
@@ -103,7 +103,7 @@ The index also does not define precedence when authorities disagree. For example
 
 ### 2. Required objectives do not have end-to-end traceability
 
-`05_objectives.md` defines 27 stable objective IDs and correctly says evidence must match the measurable verb. Following the assessment-policy update, 25 block-specific IDs are certification requirements, while `ALL.1` and `ALL.2` are formative unless a later approved blueprint assigns them valid summative evidence. The original repository check found no explicit downstream ID reference for 18 of the 27 IDs. The new `12_educator-draft.md` now names all block IDs, but a fresh end-to-end crosswalk remains necessary because an ID appearing in one guide does not prove that valid teaching, app evidence, practical evidence, and recording all exist:
+`05_objectives.md` defines 27 stable objective IDs and correctly says evidence must match the measurable verb. Following the assessment-policy update, 25 module-specific IDs are certification requirements, while `ALL.1` and `ALL.2` are formative unless a later approved blueprint assigns them valid summative evidence. The original repository check found no explicit downstream ID reference for 18 of the 27 IDs. The new `12_educator-draft.md` now names all module IDs, but a fresh end-to-end crosswalk remains necessary because an ID appearing in one guide does not prove that valid teaching, app evidence, practical evidence, and recording all exist:
 
 - `B1.2`-`B1.6`;
 - `B2.1`, `B2.4`-`B2.6`;
@@ -116,7 +116,7 @@ The most consequential content gaps or reductions are:
 
 | Objective | Drift | Required decision |
 | --- | --- | --- |
-| `B2.5` | The new Educator Guide draft now teaches the required comparison of Bitcoin with stablecoins and other non-Bitcoin crypto-assets, but the Block 2 plan, contents, substantive Student lesson, and app bank still do not complete the same objective. | Implement the objective end to end or formally remove/defer it. Do not leave it nominally required. Use neutral, translation-ready terminology in the formal objective. |
+| `B2.5` | The new Educator Guide draft now teaches the required comparison of Bitcoin with stablecoins and other non-Bitcoin crypto-assets, but the Module 2 plan, contents, substantive Student lesson, and app bank still do not complete the same objective. | Implement the objective end to end or formally remove/defer it. Do not leave it nominally required. Use neutral, translation-ready terminology in the formal objective. |
 | `B2.6` | The new Educator Guide draft now covers responsible learning versus speculation. The Student Guide states that the course is not trading, token promotion, or speculation, but does not yet teach the required distinction and beginner risks as a complete objective; the app evidence is also undeveloped. | Add a short, criteria-based learner lesson and valid app evidence, or revise the objective authority. |
 | `B3.11` | The new Educator Guide draft defines a supported first-access route, but the wider learner, activity, app, task, rubric, and recording chain remains incomplete. The objective also overlaps `B3.5` and `B3.6`. | Define and approve the distinct evidence or consolidate the objectives. Explicitly permit prepared funds or simulation. |
 | `B4.1` and `B4.2` | The objective authority requires demonstration and explanation, while the Student overview and `17_spec.md` reduce the promise to seeing or identifying local uses. | Restore the exact measurable verbs and define equivalent criteria for every approved Custom variant. |
@@ -174,7 +174,7 @@ This resolves the policy contradiction by narrowing the offline promise to conte
 6. Provide accessibility and language parity for every required app assessment, including minors' consent and assisted-use rules where relevant.
 7. Define how app theory, educator theory, educator practical, and app practical-follow-up results combine, who may enter or correct each result, how mismatches are reconciled, and what unlocks a certificate.
 8. Decide whether app setup, microlearning, evaluation, synchronization, feedback, and retries count inside the approximately eight-hour pathway.
-9. Decide whether Block 4 uses common theoretical app items or moderated local packs; local packs create translation, availability, and equivalence obligations.
+9. Decide whether Module 4 uses common theoretical app items or moderated local packs; local packs create translation, availability, and equivalence obligations.
 10. Bring required app configuration, content integration, access testing, and release acceptance into scope even though building or replacing the platform remains out of scope.
 
 **Harmonization:** publish one access standard and one contingency policy. Never describe the complete credential path as offline or device-free. Say instead that teaching content is offline-capable and that supported app access is a minimum certification requirement.
@@ -183,11 +183,11 @@ This resolves the policy contradiction by narrowing the offline promise to conte
 
 The “approximately eight-hour minimum planning baseline” is internally consistent as an intention, but no complete time model demonstrates it. Timing validation remains an unfinished scope item at `03_scope.md:300-312`.
 
-`08_student.md` now contains approximately 19,400 words. At roughly 200 words per minute, silent reading alone is about 97 minutes. Word count does not prove that eight hours is impossible. The risk comes from combining that reading or explanation load with 25 certification objectives, two formative cross-block outcomes, four blocks, required app learning and evaluation, discussion, activities, practical instruction, individual observation, feedback, breaks, and possible reassessment. Pre-reading cannot be assumed.
+`08_student.md` now contains approximately 19,400 words. At roughly 200 words per minute, silent reading alone is about 97 minutes. Word count does not prove that eight hours is impossible. The risk comes from combining that reading or explanation load with 25 certification objectives, two formative cross-module outcomes, four modules, required app learning and evaluation, discussion, activities, practical instruction, individual observation, feedback, breaks, and possible reassessment. Pre-reading cannot be assumed.
 
 `12_educator-plan.md` gives a 9:00-5:00 schedule with breaks as an example, while immediately acknowledging that this supplies less than eight teaching hours. This is a useful warning embedded in what otherwise looks like a schedule recommendation.
 
-**Harmonization:** create a timed delivery script that identifies, for every block:
+**Harmonization:** create a timed delivery script that identifies, for every module:
 
 - required learner prose or educator explanation;
 - optional enrichment;
@@ -202,7 +202,7 @@ Pilot in-person teaching (preferred) and online teaching with low-tech materials
 
 ### 6. `17_spec.md` does not perform its assigned role
 
-`00_index.md:64` makes `17_spec.md` the source of truth for publication requirements. `17_spec.md:1-9` explicitly identifies itself as a short standalone overview for staff, educators, partners, funders, and collaborators. It mostly repeats the four-block plan, audience, scope, delivery direction, assessment ratios, and redesign rationale.
+`00_index.md:64` makes `17_spec.md` the source of truth for publication requirements. `17_spec.md:1-9` explicitly identifies itself as a short standalone overview for staff, educators, partners, funders, and collaborators. It mostly repeats the four-module plan, audience, scope, delivery direction, assessment ratios, and redesign rationale.
 
 It does not specify:
 
@@ -231,17 +231,17 @@ It is best understood as a strong late manuscript requiring a structural edit, n
 ### Strengths
 
 - The opening explains purpose, beginner audience, openness, independence, and learner autonomy clearly.
-- The four-block path is easy to understand.
+- The four-module path is easy to understand.
 - Practical safety is emphasized without requiring purchase, installation, or meaningful personal funds.
 - Explanations of fiat systems, decentralization, sound money, custody, and payment trade-offs are often balanced and translation-friendly.
 - Tables support comparison and reduce prose in several difficult sections.
 - Self-custody coverage is cautious and action-oriented.
 - The guide allows simulation and uncertainty rather than requiring ideological agreement.
-- Block 4 starts from local need and constraints instead of treating a product or provider as the answer.
+- Module 4 starts from local need and constraints instead of treating a product or provider as the answer.
 
 ### Main structural problems
 
-#### Block 4 is fixed in the manuscript even though it is supposed to be selected locally
+#### Module 4 is fixed in the manuscript even though it is supposed to be selected locally
 
 The Student Guide says the educator chooses local modules (`08_student.md:1050-1052`) but then gives every learner more than 3,100 words covering most possible Custom pathways. This makes Custom function like a compulsory global chapter.
 
@@ -252,7 +252,7 @@ It also repeats Core material:
 - acquisition pathways at `983-1013` and local ramps/KYC at `1273-1322`;
 - receiving, sending, verification, and safety at `857-981` and again in workshops and scenarios at `1093-1271`.
 
-The main guide should contain a short common Block 4 introduction, a local decision and safety lens, a record of the selected task, the shared review, and the required outcome. Approved modular learner inserts should contain only the selected pathway. Facilitation and assessment remain in the Educator Guide and Activity Bank.
+The main guide should contain a short common Module 4 introduction, a local decision and safety lens, a record of the selected task, the shared review, and the required outcome. Approved modular learner inserts should contain only the selected pathway. Facilitation and assessment remain in the Educator Guide and Activity Bank.
 
 #### Educator and Activity Bank content remains inside the learner text
 
@@ -269,7 +269,7 @@ Short learner reflections, practice prompts, and “check your understanding” 
 
 #### The guide promises weaker outcomes than the objective authority
 
-The introductory Block 1 and 2 outcomes use “understand” (`08_student.md:220`, `433`). The overview says Block 3 learners will “explain” and Block 4 learners will “identify” (`211-212`). `05_objectives.md` and `06_plan.md` require application and demonstrations.
+The introductory Module 1 and 2 outcomes use “understand” (`08_student.md:220`, `433`). The overview says Module 3 learners will “explain” and Module 4 learners will “identify” (`211-212`). `05_objectives.md` and `06_plan.md` require application and demonstrations.
 
 Learners should see the exact evidence expectation from the beginning. Replace vague verbs with the approved measurable verbs, and use identical wording in the contents, guide introductions, reviews, assessment, and educator run sheets.
 
@@ -277,8 +277,8 @@ Learners should see the exact evidence expectation from the beginning. Replace v
 
 Examples include:
 
-- `07_contents.md` now promises educator-observed Block 3 and Block 4 competency checks; no corresponding learner-facing checkpoints appear explicitly.
-- “Don't trust, verify” is planned as a Block 2 bridge (`07_contents.md:49`; `06_plan.md:101`) but is mainly developed in Block 3.
+- `07_contents.md` now promises educator-observed Module 3 and Module 4 competency checks; no corresponding learner-facing checkpoints appear explicitly.
+- “Don't trust, verify” is planned as a Module 2 bridge (`07_contents.md:49`; `06_plan.md:101`) but is mainly developed in Module 3.
 - Coin debasement is a planned topic (`07_contents.md:33`) but receives only a brief sentence.
 - The U.S. reserve-currency section at `08_student.md:378-382` is not in the planned contents and approaches detailed monetary/geopolitical history parked in Advanced.
 - Back matter expands beyond `07_contents.md:94-101` into contribution, network, case-study, leaderboard, support, and verification sections.
@@ -287,12 +287,12 @@ This does not mean every extra section is wrong. The project needs a deliberate 
 
 ### Concision and timing
 
-The main opportunity is structural subtraction, not sentence-by-sentence compression. Removing repeated Block 4 teaching, moving full activities and facilitation, consolidating app and back-matter promotion, and distinguishing required from optional prose will produce larger gains than line editing.
+The main opportunity is structural subtraction, not sentence-by-sentence compression. Removing repeated Module 4 teaching, moving full activities and facilitation, consolidating app and back-matter promotion, and distinguishing required from optional prose will produce larger gains than line editing.
 
 A lean Student Guide should contain:
 
 1. a short orientation explaining low-tech content delivery, supported app access, and the two assessment gates;
-2. three shared Core blocks, each with exact outcomes, essential explanation, small formative checks, safety, and review;
+2. three shared Core modules, each with exact outcomes, essential explanation, small formative checks, safety, and review;
 3. a short common Custom introduction;
 4. one selected learner insert rather than every possible local module;
 5. explicit learner-facing competency checkpoints;
@@ -310,7 +310,7 @@ These are individually easy to fix but collectively show that the file has not h
 - The chronology at `08_student.md:669` returns to an October 2008 event after a timeline reaching 2010 and repeats earlier origin material.
 - Placeholder headings remain at `08_student.md:1483` and `1503`.
 - Student Guide, Student Book, Diploma, and scaffold are used inconsistently across the package.
-- Canonical block capitalization varies: “Self-Custody” and “Bitcoin As Money” conflict with `00_index.md`.
+- Canonical module-title capitalization varies: “Self-Custody” and “Bitcoin As Money” conflict with `00_index.md`.
 - British and American English are mixed.
 - `08_student.md:146` says terms are introduced before deeper use, but sats, Lightning wallet, fiat, wallet, and seed-related language appear before their formal introductions.
 - The app is introduced more than once, and the guide contains 14 explicit web URLs. Back matter repeats contributions, network, case studies, leaderboard, support, sources, and certificate links, weakening the sparse-link/QR policy.
@@ -327,11 +327,11 @@ Implementing `B2.5` and `B2.6` and using `ALL.2` formatively would make impartia
 
 The educator material now has a useful two-document contract. `12_educator-draft.md` is the publication target, and `12_educator-plan.md` is its supporting outline. The index and README have been updated to make that relationship explicit.
 
-The draft improves materially on the original outline. It provides general facilitation methods, accessibility guidance, pacing, practical-safety procedures, local-verification preparation, misconceptions, all four block companions, and working assessment/recording guidance. It now follows the four-contribution model: app theory, educator theory, educator-observed practice, and app practical follow-up. It is not yet publication-ready because its referenced evidence system and governance are unbuilt and its length now exceeds the Student Guide, creating a clear role-boundary and concision problem.
+The draft improves materially on the original outline. It provides general facilitation methods, accessibility guidance, pacing, practical-safety procedures, local-verification preparation, misconceptions, all four module companions, and working assessment/recording guidance. It now follows the four-contribution model: app theory, educator theory, educator-observed practice, and app practical follow-up. It is not yet publication-ready because its referenced evidence system and governance are unbuilt and its length now exceeds the Student Guide, creating a clear role-boundary and concision problem.
 
 ### What is missing for publication
 
-- Validate and refine all four block companions against the final objective crosswalk and timed delivery route.
+- Validate and refine all four module companions against the final objective crosswalk and timed delivery route.
 - Finalize the practical-assessment administration, recording, feedback, reassessment, moderation, and appeal workflow.
 - Insert approved task and rubric IDs once the Activity Bank and assessment system are built.
 - Add annotated **Meets standard**, **Not yet**, unsafe, and over-prompted practical evidence examples.
@@ -341,7 +341,7 @@ The draft improves materially on the original outline. It provides general facil
 
 ### Recommended operational structure
 
-Every block run sheet should use the same compact template:
+Every module run sheet should use the same compact template:
 
 | Field | Required content |
 | --- | --- |
@@ -355,7 +355,7 @@ Every block run sheet should use the same compact template:
 | Safety | Stop conditions, prohibited handling, test-fund limits, incident response |
 | Adaptation | Translation, low-literacy, visual/motor, shared-device, oral, and low-connectivity instructional/practical variants |
 | Assessment | Task and rubric IDs, observable criteria, critical errors, evidence record, reassessment |
-| Close | Review, learner next step, and handoff to the next block |
+| Close | Review, learner next step, and handoff to the next module |
 
 This repeated template will make the guide easier to scan, translate, pilot, and update than long policy prose.
 
@@ -396,13 +396,13 @@ Not all repetition is bad. Learners, educators, educator, and collaborators each
 | Project delivery | `03_scope.md` | Sixteen overlapping workstreams, no owner/status/dependency, and conflicts between app/web scope and promised outputs. | Use a deliverable register with owner, dependency, status, acceptance evidence, and gate. |
 | Design principles | `04_design.md` | Repeats architecture, assessment mechanics, translation workflow, and resolved/open questions. | Keep rationale, principles, adaptation boundaries, and risks; link to implementation owners. |
 | Objectives | `05_objectives.md` | Includes evidence methods and assessment ratios; downstream paraphrases weaken verbs. | Own IDs, required status, exact wording, and competency standard only. |
-| Architecture and content depth | `06_plan.md` | Repeats detailed TOC, publication rules, and assessment mechanics; commitments and open decisions conflict. | Keep block boundaries, required/optional/Advanced depth, ownership, and migration decisions. |
+| Architecture and content depth | `06_plan.md` | Repeats detailed TOC, publication rules, and assessment mechanics; commitments and open decisions conflict. | Keep module boundaries, required/optional/Advanced depth, ownership, and migration decisions. |
 | Learner content blueprint | `07_contents.md` | Manually maintained parallel TOC without IDs, status, or authority; drift from Student. | Make it an authoritative blueprint with objective IDs/depth/status, or generate it from `08`. Do not leave it ambiguous. |
 | Learner prose | `08_student.md` | Holds facilitator setup, scenarios, worksheets, and every Custom option. | Keep explanations, learner safety, brief checks, selected learner material, and reviews. |
 | Visual requirements | `09_assets.md` | 74 visual entries, including 22 table assets and duplicated concept/table treatments; stale anchors; no production status/rights. | Triage to a minimum viable visual set, anchor by stable IDs, and let `17` own layout. |
 | Activity procedures | `10_activities.md` | Repeats assessment policy and has not yet replaced the activities still in Student. | Own complete activity/task records, learner extracts, safety, evidence, and variants; link to `13` for policy. |
 | Claim evidence | `11_resources.md` | Five sources cannot cover the current manuscript; line locators are stale. | Use stable claim IDs and a full internal claim register; keep learner links separately approved. |
-| Facilitation | `12_educator-draft.md` | Substantial guidance for all four blocks and assessment now exists, but it overlaps planning/activity material and depends on unbuilt artifacts. | Own concise operational run sheets, questions, misconceptions, safety, adaptation, activity selection, and practical-assessment procedures. Keep `12_educator-plan.md` subordinate. |
+| Facilitation | `12_educator-draft.md` | Substantial guidance for all four modules and assessment now exists, but it overlaps planning/activity material and depends on unbuilt artifacts. | Own concise operational run sheets, questions, misconceptions, safety, adaptation, activity selection, and practical-assessment procedures. Keep `12_educator-plan.md` subordinate. |
 | Assessment | `13_assessment.md` | Policy repeated throughout package; implementation incomplete. | Be the sole normative owner of blueprint, evidence, thresholds, rubrics, reassessment, records, and equivalence. |
 | App items | `14_microlearning.md` | Title says Question Bank, content is a topic outline. | Populate actual reviewed item records or label it a blueprint until populated. |
 | Credential issuance | `15_certification.md` | Repeats assessment allocation; governance unresolved. | Own what the certificate represents, eligibility pointer, issuer workflow, privacy, appeals, replacement/revocation, and verification. |
@@ -424,13 +424,13 @@ When another audience needs context, use a two-to-four-sentence summary followed
 | `03_scope.md` | Partial | Comprehensive deliverables and completion concerns | Overlapping workstreams; no owner/date/status/dependency; app and web scope contradictions | Collapse into operational deliverable and gate register. |
 | `04_design.md` | Mostly | Strong principles, guardrails, risks, adaptation logic | Repeats architecture and assessment rules; stale open questions; pending audience assumptions | Retain principle-level content; remove operational duplication and resolve statuses. |
 | `05_objectives.md` | Strong framework | Stable IDs and verb/evidence discipline | Working gaps, bundled/overlapping outcomes, evidence and ratios outside role, downstream omissions | Freeze an atomic classified objective set, then enforce exact IDs. |
-| `06_plan.md` | Strongest planning file | Four-block architecture, boundaries, ownership, migration | Too much detail; missing required objectives; stale paths; commitments also listed as open | Retain as architecture authority; label Approved/Working/Optional/Deferred explicitly. |
+| `06_plan.md` | Strongest planning file | Four-module architecture, boundaries, ownership, migration | Too much detail; missing required objectives; stale paths; commitments also listed as open | Retain as architecture authority; label Approved/Working/Optional/Deferred explicitly. |
 | `07_contents.md` | Partial | Concise learner-flow view | No purpose/status/IDs; parallel TOC drift; required topics and checks missing | Make controlled content blueprint or derive automatically from Student headings. |
-| `08_student.md` | Partial, substantive | Strong explanations, transparency, safety, practical beginner tone | Too broad, role leakage, fixed-all-options Block 4, objective/TOC drift, duplication, editorial defects | Structural edit and modularization; preserve the strongest prose. |
+| `08_student.md` | Partial, substantive | Strong explanations, transparency, safety, practical beginner tone | Too broad, role leakage, fixed-all-options Module 4, objective/TOC drift, duplication, editorial defects | Structural edit and modularization; preserve the strongest prose. |
 | `09_assets.md` | Partial | Detailed visual briefs and thoughtful safety constraints | Stale anchors, excessive 74-asset scope, table/layout creep, broken provenance, no rights/status | Rebuild after manuscript freeze around a minimum visual set and stable anchors. |
 | `10_activities.md` | Partial by design | Strong activity template and legacy inventory | Not yet a current Activity Bank; almost no approved tasks; repeats assessment policy | Populate only the minimum required activities/tasks first, then optional bank. |
 | `11_resources.md` | Weak | Correct idea of an internal source register | Only five entries, stale lines, incomplete claim coverage | Expand to claim-ID register after internal wording freeze. |
-| `12_educator-draft.md` | Substantial publication draft | Strong general facilitation, safety, accessibility, pacing, four block companions, and working assessment guidance | Overlong; overlaps plan/activity material; operational evidence artifacts and governance remain unapproved | Reduce around the repeated run-sheet pattern and integrate the approved evidence system. |
+| `12_educator-draft.md` | Substantial publication draft | Strong general facilitation, safety, accessibility, pacing, four module companions, and working assessment guidance | Overlong; overlaps plan/activity material; operational evidence artifacts and governance remain unapproved | Reduce around the repeated run-sheet pattern and integrate the approved evidence system. |
 | `12_educator-plan.md` | Appropriate supporting-plan role | Structural checklist, assessment principles, and planned responsibilities | Overlaps the draft if treated as educator-facing authority; retains internal migration content | Keep subordinate to the draft, use for completeness checks, and do not publish as the guide. |
 | `13_assessment.md` | Strong concept, partial delivery | Competency philosophy, direct observation, non-compensation | Blueprint, tasks, rubrics, thresholds, records, calibration, appeals unresolved | Make sole assessment authority and finish operational system before release. |
 | `14_microlearning.md` | Fulfils structure role; not a bank | Good item template and writing rules | Topic opportunities only; no actual items, answers, feedback, mappings, scoring, or status | Populate reviewed items from the objective crosswalk or relabel internally as blueprint. |
@@ -446,16 +446,16 @@ When another audience needs context, use a two-to-four-sentence summary followed
 
 | Area | Conflicting expressions | Harmonized position |
 | --- | --- | --- |
-| Complete Diploma | Core is described as required and as Blocks 1-3 (`06_plan.md:265`), while Block 4 objectives are also required for certification (`05_objectives.md:97-104`). | **Shared Core content:** Blocks 1-3. **Fixed Diploma performance requirements:** include `B4.1`/`B4.2`. **Custom variant:** locally selected task. **Complete Diploma:** Core plus one approved Custom task. Custom selection is variable; completion is not optional. |
+| Complete Diploma | Core is described as required and as Modules 1–3 (`06_plan.md:265`), while Module 4 objectives are also required for certification (`05_objectives.md:97-104`). | **Shared Core content:** Modules 1–3. **Fixed Diploma performance requirements:** include `B4.1`/`B4.2`. **Custom variant:** locally selected task. **Complete Diploma:** Core plus one approved Custom task. Custom selection is variable; completion is not optional. |
 | App status | Policy resolved; access and capability are not yet operational. | The app is mandatory for 80% of theory and 20% task-linked practice follow-up. Low-tech/offline-capable describes teaching content, not a device-free credential. Publish supported-access and outage rules before release. |
 | Assessment ratios | The approved allocation is 40% app theory, 10% educator theory, 40% observed practice, and 10% app practical follow-up. | Use two mandatory, non-compensatory pass gates and require each internal contribution. Define any reported numerical score separately and prevent averaging across failed requirements. |
 | Duration | Approximately eight-hour minimum, one-day examples, and 9:00-5:00 with breaks are used interchangeably. | Define what counts inside eight hours and publish a pilot-tested range. Do not equate elapsed schedule, live teaching, and total learner effort. |
 | Objective verbs | `05` requires explain/apply/demonstrate; `08` and `17` use understand/see/identify. | Exact objective verbs govern all learner promises and evidence. |
 | CBDCs | Required in `B1.5`, conditional in `17`, omitted from required assessment evidence. | Decide required/illustrative/Advanced once; synchronize the crosswalk. |
 | Problem/Solution impartiality | Learner autonomy is promised, but comparison and uncertainty objectives are missing operationally. | Apply consistent criteria across systems; teach speculation distinction; accept evidence-based uncertainty. |
-| Block 4 scope | Educator-selected in policy; all modules preloaded in Student; variant difficulty differs. | Short shared section plus selected learner insert; common performance spine across all approved variants. |
+| Module 4 scope | Educator-selected in policy; all modules preloaded in Student; variant difficulty differs. | Short shared section plus selected learner insert; common performance spine across all approved variants. |
 | Product names | Student Guide, Student Book, Diploma, and scaffold compete; edition is `26.10` and `2026.10`. | Use **Bitcoin Diploma 2026.10 Student Guide** and **Bitcoin Diploma 2026.10 Educator Guide** unless a different formal naming decision is recorded. |
-| Block names | Self-custody/Self-Custody and Bitcoin as Money/Bitcoin As Money vary. | Use the exact canonical forms in `00_index.md`; encode them in `16_lexicon.md` and `17_spec.md`. |
+| Module names | Self-custody/Self-Custody and Bitcoin as Money/Bitcoin As Money vary. | Use the exact canonical forms in `00_index.md`; encode them in `16_lexicon.md` and `17_spec.md`. |
 | Language variant | British and American forms are mixed. | Select one editorial variant, document exceptions, and enforce it in publication QA. |
 | Markdown structure | Many files use multiple `#` headings or duplicate filename/title H1s despite the repository rule. | One `#` title per file; `##` top-level sections; sentence-case headings. |
 | Stable references | `09`, `11`, and `16` depend on mutable line numbers; many are already wrong. | Use stable section, claim, objective, item, activity, and asset IDs. Generate line/page data only as temporary convenience. |
@@ -482,7 +482,7 @@ After the Student structure freezes:
 
 ### Activity Bank
 
-The template is fit for purpose, but the content is not yet the promised bank. Build the smallest certification-complete set first: enough formative practice and approved summative tasks to cover every required verb, especially direct demonstrations and Block 4 equivalence. Each task needs learner instructions, facilitator setup, time, safety, accessibility/offline variants, observable criteria, critical errors, rubric, evidence record, and reassessment.
+The template is fit for purpose, but the content is not yet the promised bank. Build the smallest certification-complete set first: enough formative practice and approved summative tasks to cover every required verb, especially direct demonstrations and Module 4 equivalence. Each task needs learner instructions, facilitator setup, time, safety, accessibility/offline variants, observable criteria, critical errors, rubric, evidence record, and reassessment.
 
 Only after this minimum set works in pilots should the project expand the standalone community-event library.
 
@@ -550,7 +550,7 @@ No large new document family is needed. The existing numbered structure can work
 | `03` | Deliverables, owners, dependencies, dates/status, acceptance gates | Design philosophy or curriculum content |
 | `04` | Principles, constraints, adaptation boundaries, risks | Detailed implementation mechanics |
 | `05` | Atomic learner objectives, IDs, required/formative/optional status, support conditions | Task procedures or scoring allocation |
-| `06` | Four-block architecture, depth, Core/Custom/Advanced boundaries, migration decisions | Full TOC, prose, rubrics, publication layout |
+| `06` | Four-module architecture, depth, Core/Custom/Advanced boundaries, migration decisions | Full TOC, prose, rubrics, publication layout |
 | `07` | Controlled learner-content blueprint with objective IDs and required/optional/selected labels | A manually drifting copy of current headings |
 | `08` | Learner-facing explanation, safety, brief checks, selected learner material, reviews | Facilitator setup, full activity procedures, rubrics, unselected Custom modules |
 | `09` | Minimum visual-content requirements and stable asset IDs | Ordinary layout styling, rights/release control |
@@ -564,7 +564,7 @@ No large new document family is needed. The existing numbered structure can work
 | `17` | Manuscript, layout, accessibility, rights, citations, links, export, QA, sign-off, maintenance | Stakeholder overview narrative |
 | `18` | Deferred Advanced candidates and repaired source trails | Current beginner-course design work |
 
-Every active file should begin with a compact control block:
+Every active file should begin with a compact control section:
 
 - status;
 - audience;
@@ -605,7 +605,7 @@ Record the answers once with Approved status. Do not continue carrying old alter
 
 1. Preserve strong explanations and learner safety.
 2. Remove educator setup and full activity procedures.
-3. Replace the fixed all-options Block 4 with a common section plus selected inserts.
+3. Replace the fixed all-options Module 4 with a common section plus selected inserts.
 4. Restore exact objective verbs and explicit competency checkpoints.
 5. Label Required, Optional, Selected Custom, and Reference content.
 6. Reconcile the plan, contents, and Advanced depth boundaries.
@@ -619,12 +619,12 @@ Record the answers once with Approved status. Do not continue carrying old alter
 3. Populate and validate the complete app theory-item and practical-task-follow-up bank; define supported access and outage handling without creating an unapproved paper substitute.
 4. Create task rubrics, critical-error rules, evidence examples, and reassessment.
 5. Define educator ratios, authorization, calibration, moderation, and records.
-6. Define Block 4's common performance spine and validate variant equivalence.
+6. Define Module 4's common performance spine and validate variant equivalence.
 7. Complete certification governance before public verification claims.
 
 ### Gate 4: build the Educator Guide around the tested route
 
-1. Write block run sheets using the common template.
+1. Write module run sheets using the common template.
 2. Insert stable Student, Activity, item, and rubric IDs.
 3. Add neutral prompts, misconception responses, and acceptable evidence examples.
 4. Add practical-session safety and incident protocols.
@@ -661,14 +661,14 @@ Do not mark `08_student.md` publication-ready until all are true:
 
 - Every required objective has an exact learner teaching point and correct measurable verb.
 - Every required/optional/selected section is visibly classified.
-- Block 4 supplies only the common material and selected learner insert.
+- Module 4 supplies only the common material and selected learner insert.
 - Full facilitation, scenario variants, and rubrics have left the main manuscript.
-- Learner-facing Block 3 and Block 4 competency checkpoints are explicit.
+- Learner-facing Module 3 and Module 4 competency checkpoints are explicit.
 - Low-tech/offline-capable teaching and mandatory supported app assessment are accurately distinguished.
 - Safety rules match the tested practical tasks and never expose real secrets or require meaningful personal funds.
 - Impartial comparison and acceptable uncertainty are observable in the learning path.
 - Terminology follows the controlled lexicon and is introduced before deeper use.
-- TOC, headings, block names, edition, and product names are synchronized.
+- TOC, headings, module names, edition, and product names are synchronized.
 - No placeholder headings, malformed links, missing words, duplicated timeline material, or unresolved verification promises remain.
 - All substantive claims have claim IDs and later-validated sources.
 - Every outbound link/QR is approved, tested, dated, and has a print fallback.
@@ -679,7 +679,7 @@ Do not mark `08_student.md` publication-ready until all are true:
 
 Do not mark `12_educator-draft.md` publication-ready until all are true:
 
-- Every block has a complete timed run sheet tied to objective IDs.
+- Every module has a complete timed run sheet tied to objective IDs.
 - Every referenced Activity, app item, practical task, rubric, and record exists and has Approved status.
 - Preparation, materials, learner-to-educator ratio, and observation time are explicit.
 - Suggested questions, likely responses, misconceptions, neutral follow-ups, and source trails are supplied.
@@ -687,7 +687,7 @@ Do not mark `12_educator-draft.md` publication-ready until all are true:
 - The app covers every required theoretical objective validly, with supported access and approved outage procedures.
 - Practical-session safety, privacy, incident, device/fund, and secret-handling protocols are complete.
 - Accessibility and translation variants preserve invariant evidence.
-- Block 4 selection rules and variant equivalence are operational.
+- Module 4 selection rules and variant equivalence are operational.
 - Feedback, reassessment, moderation, calibration, appeal, and evidence recording are usable.
 - Pacing and cut rules never remove a required objective or assessment.
 - Internal migration notes and project-only file instructions are absent.
