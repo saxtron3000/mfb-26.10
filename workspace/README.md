@@ -80,6 +80,7 @@ Reference and feedback material is input, not automatically approved curriculum.
 | [`16_lexicon.md`](16_lexicon.md) | Beginner-safe terminology and definitions for consistent drafting and translation. |
 | [`17_spec.md`](17_spec.md) | Standalone 2026.10 overview, publication rules, and collaborator-facing specification. |
 | [`18_advanced.md`](18_advanced.md) | Advanced module ideas, follow-on pathways, and legacy material parked outside the beginner Diploma. |
+| [`99_horizon.md`](99_horizon.md) | Post-October candidates, programme boundaries, and future decision gates. |
 | [`advanced/mergefromorganizations.md`](advanced/mergefromorganizations.md) | Checklist for beginner-safe material selected from Bitcoin for Organizations. |
 | [`advanced/advancedorganizations.md`](advanced/advancedorganizations.md) | Source trail for Organizations material routed to Advanced pathways. |
 

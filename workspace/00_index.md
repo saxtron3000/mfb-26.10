@@ -39,6 +39,7 @@ Reference and feedback material outside this folder is input, not an active sour
 | 16 | `16_lexicon.md` | Review terminology and language consistency. |
 | 17 | `17_spec.md` | Review publication rules and final consistency checks. |
 | 18 | `18_advanced.md` | Review Advanced module ideas, follow-on pathway notes, and parked legacy content. |
+| 19 | `99_horizon.md` | Review post-October candidates, programme boundaries, and future decision gates. |
 
 ---
 
@@ -64,6 +65,7 @@ Reference and feedback material outside this folder is input, not an active sour
 | Two-part assessment prerequisite for certification | `15_certification.md` |
 | Beginner terminology and definitions | `16_lexicon.md` |
 | Publication specification | `17_spec.md` |
+| Post-October horizon register | `99_horizon.md` |
 | Beginner-safe Organizations merge decisions | `advanced/mergefromorganizations.md` |
 | Organizations-to-Advanced source map | `advanced/advancedorganizations.md` |
 | Public keynote and stakeholder brief | `../public/MFB-BD-Keynote.md` |
