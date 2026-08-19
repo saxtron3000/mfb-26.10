@@ -1,16 +1,62 @@
 # Bitcoin Diploma Microlearning Question Bank
 
-## Purpose
+## Delivery roadmap
 
-This document is the content home for short microlearning and evaluation items used in the required My First Bitcoin app. The completed, approved bank must supply 80% of theoretical evidence (40% of the complete Diploma assessment) and 20% practical-task follow-up evidence (10% of the complete assessment) across the four blocks.
+This document has two separate tracks:
 
-It is not the complete assessment framework. Overall assessment rules, passing requirements, educator-evaluated theory interactions, and directly observed practical competencies remain in `13_assessment.md`. This bank owns app-based theoretical evidence, task-linked practical follow-up, self-evaluation, review, and preparation for educator-led learning. It may contain formative microlearning, summative theoretical items, and summative practical-follow-up items; only items explicitly tagged and approved as summative contribute to a component result.
+1. **October push:** a minimal viable self-assessment quiz that can be built with the app as it exists today.
+2. **Post-October wish list:** the larger question-bank, richer learning formats, and future app features to consider after the October release.
+
+The October quiz is deliberately separate from formal Diploma assessment. The app cannot give educators learner-progress data, so its results cannot be used for certification, passing decisions, educator tracking, or evidence that a learner has completed a practical skill.
+
+# October push: Phase 1 minimal viable product
+
+## Learner purpose
+
+Create one learner-owned **12-question** self-assessment quiz. It helps learners check their understanding of the Bitcoin Diploma and identify topics to revisit. It does not give a formal result.
+
+## Required quiz behaviour
+
+| Element | October requirement |
+|---|---|
+| Questions | Exactly 12 questions selected from Blocks 1, 2, and 3. Do not include local Block 4 content. |
+| Format | One multiple-choice prompt with exactly four answer options. |
+| Correct answer | One clear best answer. |
+| Correct-answer response | Brief congratulations, a plain-language reason, and a call to action such as “Keep learning” or “Continue.” |
+| Incorrect-answer response | Brief correction, a plain-language explanation, and a specific Bitcoin Diploma topic to review. |
+| Final screen | Show a simple score out of 12, if supported, with one encouraging message. Do not label it pass or fail. |
+| Data and assessment | No educator tracking, certification use, learner-progress record, practical-skills claim, or collection of personal financial information. |
+
+## October developer handoff record
+
+Supply each of the 12 questions with: item ID; block and topic; prompt; options A–D; correct option; correct-answer response and call to action; an incorrect-answer response and review reference for each option; objective link; and review status.
+
+Use supportive result messages such as:
+
+- “Great work. You have a strong foundation. Keep building your Bitcoin knowledge.”
+- “Good progress. Review the topics highlighted in your answers, then try again.”
+- “Every question is a chance to learn. Revisit the relevant Diploma sections and try the quiz again.”
+
+## October review checklist
+
+Before a question enters the October quiz, confirm that it:
+
+- uses exactly four answer options and has one clear best answer;
+- links learners to a Diploma topic they can actually review;
+- includes positive correct-answer feedback and supportive corrective feedback for each incorrect option;
+- uses simple, translation-ready language and has been independently checked for accuracy;
+- does not give financial, legal, tax, accounting, compliance, or investment advice; and
+- does not request or expose seed phrases, private keys, personal financial data, or identifying information.
+
+# Post-October wish list
+
+Everything below this heading is not required for the October push. It preserves the larger content bank, question-type ideas, and feature requests for later planning. Do not treat it as an October build requirement.
 
 Use simple, translation-ready English. Keep the Diploma Bitcoin-only, educational, and free from financial, legal, tax, accounting, compliance, or investment advice. Do not turn a named wallet, exchange, tool, or local service into a global recommendation.
 
 ---
 
-# 1. How To Add An Item
+# Post-October content-record format
 
 Each future item should use this record:
 
@@ -18,33 +64,28 @@ Each future item should use this record:
 |---|---|
 | Item ID | Stable identifier, for example `BD-ML-B01-T03-Q04`. |
 | Block and topic | The location in this document. |
-| Learning purpose | Recall, explain, compare, apply, reflect, or safety check. |
-| Format | Multiple choice, multiple select, ordering, matching, number/date, short response, reflection, or scenario. |
+| Learning purpose | Recall, explain, compare, apply, or safety check. |
+| Format | Any format the future app can support and that is separately approved. |
 | Prompt | Clear learner-facing wording. |
 | Answer or response criteria | Correct answer(s), acceptable range, or reflection guidance. |
 | Feedback | Brief explanation for correct and incorrect choices; link to review content if useful. |
 | Objective link | Relevant objective in `05_objectives.md`, where applicable. |
-| Assessment use | Formative app practice, summative app theoretical evidence, summative app practical-task follow-up, or educator follow-up. |
+| Assessment use | Self-assessment, future app practice, or another approved future use. |
 | Review metadata | Language, difficulty, source/date for current claims, and reviewer status. |
 
 ## Item-writing rules
 
 - Test one idea or decision at a time.
-- Use multiple-choice questions for recognition and recall. Use app-valid scenarios, ordering, matching, structured responses, or other approved scoring patterns for reasoning and explanation. A short response that requires educator review is formative only unless the app has an approved reliable scoring mechanism.
+- Use only question formats that the future app can support and that are approved for the learning purpose.
+- Write feedback for every option or response pattern where the future app supports it.
 - Include believable distractors without using trick wording, “all of the above,” or clues based on grammar or answer length.
 - Use numbers and dates only when they support a meaningful idea. Provide feedback that explains why the fact matters.
 - Date and cite claims that can change. Avoid current price, policy, provider, or local-service questions unless a local, reviewed module owns them.
-- Mark safety-critical misunderstandings for clear corrective feedback and formative educator follow-up where required.
-- Reflections do not have a “correct” answer. They should invite thought, not collect sensitive personal information or require disclosure of holdings, seed phrases, or financial circumstances.
+- Mark safety-critical misunderstandings for clear corrective feedback. Never ask learners to enter or disclose seed phrases, private keys, holdings, or financial circumstances.
 
 ## Suggested question mix
 
-Each topic can grow into a small set of varied items:
-
-- one recall or vocabulary check;
-- one meaning, comparison, or cause-and-effect question;
-- one applied scenario or ordering task where appropriate; and
-- one optional reflection or discussion prompt.
+Each topic can grow into a small set of varied items: a recall or vocabulary check; a meaning, comparison, or cause-and-effect question; an applied scenario or ordering task where appropriate; and an optional reflection or discussion prompt.
 
 ---
 
@@ -495,112 +536,112 @@ Question-bank opportunities:
 
 ---
 
-# 6. Cross-Block Question Types
+# Post-October wish list: future features and design questions
 
-Use these types throughout the bank when they fit the learning purpose:
+None of these features is required for the October quiz. They are a simple idea bank for later selection and prioritization.
 
-| Type | Best use | Design note |
-|---|---|---|
-| Multiple choice | Essential facts, definitions, and recognition | One best answer; explain each misconception briefly. |
-| Multiple select | Several valid safety checks or properties | State how many choices apply if that reduces ambiguity. |
-| Matching | Terms, roles, functions, and timelines | Keep both columns short and unambiguous. |
-| Ordering | Historical sequence or safe process | Use only when sequence meaningfully matters. |
-| Number or date | Supply, unit conversion, historical markers, or fictional amounts | Confirm calculation and date source before release. |
-| Short response | Formative explanation, or summative evidence only with an approved reliable app-scoring mechanism | Define acceptable evidence. If educator review is required, mark the item formative and redesign any summative objective coverage. |
-| Scenario | Applying a concept, trade-off, or safety response | Use fictional people, amounts, and tools unless a local module is approved. |
-| Reflection | Personal sense-making and discussion | No right answer; do not collect sensitive information. |
-| Confidence check | Targeted review and educator support | Never use as assessment evidence by itself. |
+## Learning content and question types
 
-# 7. App Release Dependencies
+- A larger question bank across all four Diploma blocks.
+- Random question selection from a bank.
+- Different quiz versions so learners can revisit content without seeing the same questions every time.
+- Single-choice multiple-choice questions.
+- Multiple-select questions.
+- True/false questions.
+- Missing-word or fill-in-the-blank questions.
+- Matching questions.
+- Ordering and timeline questions.
+- Number and date questions.
+- Short written responses.
+- Scenario questions, including multi-step scenarios and branching choices.
+- Questions with images, diagrams, audio, video, links, or other media.
+- Short teaching cards before a question.
+- Multi-screen learning items: explanation, scenario, question, then feedback.
+- A mix of recall, vocabulary, comparison, cause-and-effect, application, safety checks, confidence checks, and local examples.
+- Question sets tailored to a particular topic, block, or learning objective.
+- A shared Core bank plus locally selected Block 4 content.
 
-Resolve and verify these decisions before the Diploma can be released. Because the app is mandatory and owns 80% of theoretical evidence plus 20% practical-task follow-up, the opportunities in this document must be converted into an approved, objective-complete, scored item bank rather than treated as optional enrichment.
+## Feedback, review, and reflection
 
-## Content and question types
+- Feedback for each individual answer option.
+- One general correct or incorrect message where answer-specific feedback is not needed.
+- Immediate feedback, delayed feedback, or educator-selected feedback timing.
+- Explanations of why an answer is correct or incorrect.
+- Direct links from feedback to the relevant Diploma section for review.
+- Optional answer reveals after an attempt or after all attempts.
+- Learner confidence checks and suggested next steps.
+- Private self-reflection prompts with no correct answer.
+- Reflection responses saved only when the learner chooses to save them.
+- Discussion prompts for educator-led sessions.
+- AI-supported reflection or discussion prompts that help a learner think further without collecting sensitive information or presenting the AI response as authoritative advice.
+- AI-supported prompts that help educators prepare follow-up discussion questions.
 
-1. Which interaction types can the app support now: single-choice multiple choice, multiple-select, true/false, ordering, matching, fill-in-the-blank, numeric answer, short written answer, reflection, or multi-step scenario?
-2. Can an item include images, diagrams, audio, video, or links?
-3. Can prompts, answer options, and feedback include formatted text, such as bold terms, lists, tables, or the Bitcoin symbol?
-4. Can the app show a short teaching card before a question, or only questions?
-5. Can one microlearning item contain several screens, for example explanation, scenario, question, then feedback?
+## Learner flow and self-assessment
 
-## Answer handling and feedback
+- Topic and block scores in addition to a whole-quiz score.
+- Supportive score messages and suggested review paths.
+- Learner retries, with configurable attempt limits.
+- Question randomization on retries.
+- Controls for when feedback and correct answers appear.
+- Completion status separated from score or passing status.
+- Optional learning paths that unlock one topic or block after another.
+- Learner-visible progress tracker across questions, topics, and blocks.
+- Flags for repeated incorrect answers, especially for safety-critical concepts.
+- Offline or weak-connectivity use, with safe synchronization when access returns.
+- Recovery from interrupted attempts or app outages.
 
-6. Can the app store one correct answer, multiple correct answers, or a required answer order?
-7. Can each answer option have its own feedback, or is there only one general correct or incorrect message?
-8. Can the app score several equivalent short-answer responses reliably? If written answers require educator review, they must remain formative and any summative evidence must use another validated app pattern.
-9. Can reflections be unscored and optionally saved? Who can see them: the learner only, an educator, or administrators?
-10. Can an item be marked as discussion only or formative educator follow-up rather than automatically scored?
+## Educator, cohort, and assignment features
 
-## Assessment and learner flow
+- Educator accounts and educator-facing dashboards.
+- Cohort, class, and group management.
+- A way for educators to add learners to a cohort.
+- A way for educators to pair a learner with an educator or approved assessor.
+- Assignable individual questions, topic sets, block sets, or custom question banks.
+- Due dates, completion expectations, and reminders for assigned work.
+- Educator view of learner progress, answers, attempts, confidence checks, and review needs.
+- Educator notes and learner-support flags.
+- Educator-led discussion-only or follow-up-required items.
+- Educator review of written responses and reflections when the learner has consented.
+- Educator observation records for approved practical tasks, kept separate from quiz results.
+- Approved educator overrides or corrections, with an audit record.
+- Cohort-level reporting to identify common learning gaps.
+- Exportable reports in formats such as CSV, spreadsheet, API, PDF, or dashboard.
 
-11. Can items be tagged as formative practice, required summative theoretical evidence, required summative practical-task follow-up, safety-critical check, reflection, or educator follow-up?
-12. Can we set a passing score by topic, block, or full course?
-13. Can learners retry questions? If yes, can we control the number of attempts, whether feedback appears immediately, whether questions are randomized, and whether the correct answer appears after an attempt?
-14. Can the app require a learner to complete one topic or block before opening the next?
-15. Can the app distinguish completion from passing?
-16. Can it flag repeated incorrect answers, especially on safety topics, for educator support?
+## Objectives, assessment, and Diploma integration
 
-## Data, reporting, and educator role
+- Stable mapping from every question to one or more Diploma learning objectives.
+- A coverage check showing which objectives have enough valid learning and question support.
+- Tags for recall, explanation, comparison, application, reflection, safety, practice, and educator follow-up.
+- Tags for block, topic, difficulty, language, location, source, review date, and content owner.
+- A future formal-assessment mode only after tracking, scoring, privacy, and educator workflows are approved.
+- Configurable passing scores by topic, block, or full course.
+- Clear separation between completion, self-assessment, quiz score, theoretical assessment, and educator-observed practical competence.
+- A way to combine approved app and educator evidence without allowing one component to replace required practical observation.
+- Support for practical-task preparation, checklists, and follow-up questions without claiming that the app alone assessed a practical skill.
 
-17. What learner data is recorded for each item: answer selected, score, attempts, time, completion date, and feedback viewed?
-18. Can educators see progress by learner, topic, block, and question?
-19. Can an educator record theory evidence and an educator record practical observation while keeping both separate from the app's theoretical and practical-follow-up results? Who, if anyone, may correct or override any result, and how is that action audited?
-20. Can results be exported? In which formats: CSV, spreadsheet, API, PDF, or dashboard?
-21. Can the system combine app theory, educator theory, educator practical, and app practical-follow-up results while keeping them clearly separate?
+## Content management and quality control
 
-## Content import and maintenance
+- Import questions through CSV, spreadsheet, JSON, API, Markdown, or a content-management interface.
+- A sample import file and a published list of required content fields.
+- Stable item IDs that remain in place when wording changes.
+- A clear format for answer options, correct answers, answer order, and multiple correct answers.
+- Several accepted answers for approved short-response questions.
+- Draft, review, approval, publication, retirement, and version-control statuses.
+- Update a question without breaking historical learner records.
+- Item review history, scoring-version controls, and audit trails.
+- Fact, date, calculation, and feedback review before publication.
+- Local-content ownership, location tags, review dates, and source trails.
 
-22. What is the required import format: CSV, Excel, JSON, API, Markdown, or manual entry?
-23. Can the developer provide the exact required fields and a sample import file?
-24. Does each question need a unique ID? Can IDs remain stable when wording changes?
-25. How are answer options represented in the import format?
-26. Can we attach metadata such as objective ID, block, topic, difficulty, language, review date, source, and content owner?
-27. Can content be drafted, reviewed, approved, published, and retired through separate statuses?
-28. Can we update one item without breaking existing learner records?
+## Language, accessibility, privacy, and safety
 
-## Language, access, and safety
-
-29. Does the app support multiple languages for the same item while retaining one stable item ID?
-30. Can it support right-to-left languages and non-Latin scripts?
-31. Does it work offline or with weak connectivity? How does it sync progress later?
-32. What accessibility support exists: screen readers, keyboard navigation, captions, text resizing, contrast, and audio alternatives?
-33. Where is learner data stored, who can access it, and can learners delete their saved reflections or personal data?
-34. Can the platform prevent the collection of sensitive information in responses, such as seed phrases, private keys, holdings, or financial details?
-
-Also resolve:
-
-- supported device, browser, and operating-system requirements;
-- learner, shared-device, loan-device, and assisted-use account models;
-- identity and assessment-integrity controls;
-- interrupted attempts, weak-connectivity behavior, offline operation, synchronization, outages, and recovery;
-- accessibility support and language parity for every required assessment;
-- item and scoring-version controls, audit history, and result reconciliation;
-- privacy, consent, retention, and minors' access; and
-- how educators and educator submit the theory and practical results that combine with the two app results for certificate eligibility.
-
-Request these four outputs first: a sample import file, a list of supported question types, the scoring and retry rules, and a description of educator reporting and result integration.
-
-# 8. Review And Release Checklist
-
-Before an item enters the app, confirm:
-
-- the complete bank covers its assigned theoretical objectives with valid app-evaluable evidence patterns and includes approved task-linked practical follow-up;
-- it is located in the correct block and topic;
-- it fits the approved beginner scope and learning objectives;
-- the answer, calculation, date, and feedback have been independently reviewed;
-- facts that can change are dated and cited;
-- wording is simple, translation-ready, and free of unnecessary jargon;
-- it does not give financial, legal, tax, accounting, compliance, or investment advice;
-- it does not expose or request private keys, seed phrases, personal financial data, or identifying information;
-- it avoids global recommendations for named wallets, exchanges, or local services;
-- its assessment role is clear and does not claim that practical-task follow-up replaces evidence observed by an educator; and
-- local Custom items have an owner, location tag, review date, and approved source trail.
-
-Before the app contribution is released, also confirm:
-
-- the pass threshold, objective-level rules, retries, feedback timing, and item version are approved;
-- practice, confidence checks, and reflections cannot inflate the theoretical score;
-- accessibility and language variants preserve equivalent evidence and scoring;
-- supported access, weak-connectivity behavior, synchronization, interrupted attempts, and outage recovery have been tested;
-- identity, integrity, privacy, consent, retention, and audit controls are approved; and
-- app theory and practical-follow-up results reconcile correctly with educator-theory and educator-practical records without allowing one component or required contribution to compensate for another.
+- Multiple language versions connected to one stable item ID.
+- Support for right-to-left languages and non-Latin scripts.
+- Translation-ready source content and language-parity checks.
+- Screen-reader support, keyboard navigation, captions, text resizing, contrast, and audio alternatives.
+- Supported device, browser, and operating-system guidance.
+- Shared-device, loan-device, assisted-use, and learner-account models.
+- Clear rules for what learner data is stored, who can see it, and how long it is retained.
+- Learner controls to delete saved reflections or other personal data.
+- Consent, privacy, identity, assessment-integrity, and minors’ access controls where relevant.
+- A design that never asks for seed phrases, private keys, holdings, or unnecessary financial or identifying information.
+- Safety-critical feedback and referral to approved support where a learner repeatedly selects an unsafe response.
