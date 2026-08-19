@@ -1,24 +1,78 @@
-# Bitcoin Diploma educator guide
+# Bitcoin Diploma educator companion guide
 
 This guide is the teacher's companion to the 2026.10 Bitcoin Diploma. Use it with the [Student Guide](08_student.md), the My First Bitcoin app, the [Activity Bank](10_activities.md), and the approved assessment materials.
 
-The Student Guide gives learners the essential path. This guide helps the educator turn that path into a complete learning experience through interaction, discussion, local context, guided practice, feedback, and assessment.
+The Student Guide gives learners the essential path. This companion helps a teacher turn that path into a complete learning experience through interaction, discussion, local context, guided practice, feedback, and assessment. You can teach directly from it: read the short preparation notes before a session, use the suggested words and questions during the session, and return to the evidence and safety notes afterwards.
 
 ---
 
 ## About this draft
 
-This is a working educator-facing publication draft based primarily on the [Educator Guide plan](12_educator-plan.md). It also draws from the current curriculum architecture, objectives, Student Guide, Activity Bank, assessment framework, certification framework, lexicon, visual index, and publication specification across this workspace. All four block companions and a working assessment and recording section are now drafted, but referenced app items, approved tasks, rubrics, governance rules, and release validation remain incomplete. This guide is not yet publication-ready.
+This is a working educator-facing publication draft based primarily on the [Educator Guide plan](12_educator-plan.md). It also draws from the current curriculum architecture, objectives, Student Guide, Activity Bank, assessment framework, certification framework, lexicon, visual index, and publication specification across this workspace. It is written for a first-time teacher as well as an experienced educator. All four block companions and a working assessment and recording section are drafted, but referenced app items, approved tasks, rubrics, governance rules, and release validation remain incomplete. This guide is not yet publication-ready.
 
 This draft follows the assessment model in `12_educator-plan.md`, `13_assessment.md`, and `15_certification.md`. The Diploma has two required, non-compensatory components: theoretical understanding is 50% and practical competency is 50%. Theory is 80% app-evaluated and 20% educator-evaluated through approved objective-aligned interactions. Practice is 80% directly observed by an educator and 20% app-evaluated through follow-up linked to the practical task. Learners must pass both components and their required contributions before certification.
 
 The educator-evaluated 20% theory contribution must be distinguished from ordinary formative discussion. Only approved objective-aligned interactions with individual evidence, criteria, and a concise record contribute to certification.
 
+For a new teacher, the model can be remembered as four contributions:
+
+| What must be complete | Main source | Share within that component |
+| --- | --- | ---: |
+| Theoretical understanding | App learning and quizzes | 80% |
+| Theoretical understanding | Approved educator interaction | 20% |
+| Practical competency | Educator observation of the practical task | 80% |
+| Practical competency | App follow-up linked to that task | 20% |
+
+These percentages describe the assessment evidence, not the amount of teaching time. A practical lesson may need substantial explanation and practice before the observation takes place.
+
 Some implementation details are still awaiting governance approval, including final app thresholds, approved task variants, exact prompting limits, final practical rubrics, educator authorization, moderation, appeals, data retention, and certificate-verification procedures. This guide identifies working practices without presenting those open decisions as final policy.
+
+## Start here: your first teaching route
+
+You do not need to be a Bitcoin expert or an experienced teacher to begin. You do need to prepare carefully, keep the learner safe, and be honest about what you know and what needs checking.
+
+For your first delivery, use this route:
+
+1. Read **Quick start** and **The educator's role**.
+2. Read the relevant block companion only. You do not need to read the whole handbook before the first session.
+3. Complete the block's **Prepare before class** list.
+4. Choose one main activity and one backup activity. Do not try to use every option.
+5. Copy the session objective and safety rule onto your board or opening slide.
+6. Teach in the order **explain → ask → practise → debrief → check**.
+7. Use the assessment companion only when you are ready to plan evidence; ordinary discussion is not automatically assessment.
+8. After class, write down what learners understood, what confused them, what needs checking, and what you will change next time.
+
+If you have only ten minutes to prepare, read the block's purpose, learner promise, suggested flow, likely trouble spots, safety notes, and review point. That is enough to run a safe first session while you continue learning.
+
+### What to read, and when
+
+| When | Read first | Your immediate task |
+| --- | --- | --- |
+| Before your first course | Start here, Quick start, educator's role, safe practical teaching | Understand the boundaries, choose the schedule, and prepare the room and materials. |
+| Before Block 1 or 2 | The relevant block companion, facilitation methods, local verification record | Choose the opening question, one activity, one backup, and the local examples to check. |
+| Before Block 3 | Safe practical teaching, Block 3 companion, practical evidence | Rehearse with a prepared or empty environment and define every stop condition. |
+| Before Block 4 | Block 4 companion, Custom-module planning record, local expert briefing | Start with a local need and verify the selected task, tool, and current context. |
+| Before any formal assessment | Assessment companion, approved task and rubric | Explain conditions, prepare evidence records, and confirm your authorization. |
+| After each session | Review point, feedback and reassessment guidance, after-course reflection | Record what learners need next and update the following session. |
+
+The rest of the handbook is a reference shelf. Read it when a learner asks a deeper question, when a local example needs checking, or when you are preparing a new delivery—not as compulsory pre-reading.
+
+### What this guide assumes—and what it does not
+
+It assumes that you care about learner safety and can follow a preparation checklist. It does not assume that you already know how to:
+
+- explain technical ideas simply;
+- manage a discussion;
+- design an activity;
+- observe practical skill;
+- give useful feedback; or
+- decide what evidence is enough.
+
+Short scripts, question stems, activity instructions, examples, stop conditions, and record templates are provided for these tasks. Adapt the examples to your cohort, but do not improvise safety or certification standards.
 
 ## Purpose
 
-The Educator Guide is a facilitation engine. It should help you:
+The Educator Guide is a practical teaching companion. It should help you:
 
 - prepare a cohort and learning environment;
 - understand the purpose and boundaries of every block;
@@ -46,9 +100,39 @@ Use the guide in three passes.
 
 Do not try to use every prompt or activity. Select the smallest combination that enables learners to meet the objectives safely. Add time when the learning, practice, or assessment requires it.
 
+### The page-by-page teaching rhythm
+
+When you open a block companion, follow the same order every time:
+
+1. **Purpose:** know why this block matters.
+2. **Learner promise:** tell learners what they should be able to do by the end.
+3. **Prepare before class:** gather materials, check local facts, and test any demonstration.
+4. **Suggested flow:** use the timing as a starting point, not a test of your teaching.
+5. **Questions and activities:** choose one or two and give learners time to think.
+6. **Trouble spots:** listen for these misunderstandings and use the suggested correction.
+7. **Evidence and safety:** observe only what you are prepared and authorized to assess.
+8. **Review and bridge:** close the block and explain why the next block follows.
+
+The headings are deliberately repetitive. That repetition is a navigation aid for a new teacher, not content that must be memorized.
+
+### Words you can use when you are unsure
+
+It is safe to say:
+
+- “Let us check that before we treat it as a fact.”
+- “I do not know the current local rule; I will verify it and return to you.”
+- “That is a useful question for the Advanced list. First, let us establish the beginner idea.”
+- “I may be explaining this unclearly. Let me use an example.”
+- “Please explain what you think happens next.”
+- “Stop there. We are going to protect the learner and the information before continuing.”
+
+Never fill a knowledge gap with a confident guess, especially for a current law, banking rule, wallet instruction, fee, or safety decision.
+
 ---
 
 ## Quick start: ten non-negotiables
+
+These are guardrails, not a test. Keep this list open while you prepare. You do not need to memorize the curriculum before teaching; you do need to protect these boundaries every time.
 
 1. Teach the four blocks in sequence: Problem / Broken Money, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money.
 2. Treat Blocks 1–3 as the shared Core. Block 4 is required, but its local learning task is educator-selected.
@@ -80,7 +164,7 @@ The narrative should remain connected:
 
 ### More than presenting information
 
-An educator in this Diploma facilitates, guides, safeguards, localizes, and assesses learning.
+Your job is not to give a perfect lecture. Your job is to help learners understand, practise, explain, and make safe decisions. You facilitate the group, guide the learning, safeguard people and information, add checked local context, and—when authorized—assess the required evidence.
 
 You are responsible for helping learners:
 
@@ -100,8 +184,8 @@ You are not responsible for making learners agree with you. A learner can meet t
 ### Course roles
 
 - A **learner** studies, discusses, practises, and provides evidence of understanding.
-- An **educator** facilitates, protects the learning environment, adds checked local context, conducts approved theoretical touchpoints, and provides practical-learning feedback. An educator may assess practical competency when approved to do so.
-- An **educator** directly evaluates the practical component when local delivery separates teaching and assessment.
+- An **educator** facilitates, protects the learning environment, adds checked local context, conducts approved theoretical touchpoints, and provides practical-learning feedback. When authorized, the educator also directly evaluates practical competency.
+- An **approved assessor** directly evaluates the practical component when local delivery separates teaching and assessment. A teacher who is not authorized to assess still prepares learners and records formative observations according to local procedures.
 - A **cohort** is the group learning together. Smaller teams may complete activities, but individual certification evidence must remain identifiable where required.
 - The **Diploma** is the complete learning and assessment program, not only the Student Guide or app.
 
@@ -587,6 +671,8 @@ Learner promise:
 
 > I can explain and apply the money problems Bitcoin responds to.
 
+**If this is your first time teaching Block 1:** Start with the opening questions and a familiar local payment. Do not begin with a long history lecture. Let learners describe what they already know, then introduce only the terms needed for the next activity. Return to the local fiat and banking notes when the cohort reaches those sections.
+
 ### Required outcomes
 
 | ID | Learner must be able to | Useful educator evidence |
@@ -951,6 +1037,8 @@ Learner promise:
 
 > I can explain Bitcoin's purpose, core properties, limits, and new responsibilities.
 
+**If this is your first time teaching Block 2:** Keep the central story visible: a digital payment can be copied, Bitcoin proposes a shared rule system, and independent participants verify those rules. Use the role cards before introducing technical detail. If the group gets lost, return to the double-spend problem and the miner/node distinction.
+
 ### Required outcomes
 
 | ID | Learner must be able to | Useful educator evidence |
@@ -1283,6 +1371,8 @@ Core question:
 Learner promise:
 
 > I can explain beginner custody and safety concepts and demonstrate the required actions safely under supported conditions.
+
+**If this is your first time teaching Block 3:** Practise the complete safe process yourself before class. Use an empty training wallet, printed screens, or a simulation. Never learn a new wallet or recovery procedure at the same time as learners, and never ask learners to show real secrets. Slow, visible checking is more important than completing a live transaction.
 
 ### Required outcomes
 
@@ -1828,6 +1918,8 @@ Learner promise:
 
 > I can demonstrate one approved local Bitcoin-as-money task and explain its purpose, trade-offs, failure points, safety considerations, and realistic next steps.
 
+**If this is your first time teaching Block 4:** Do not start by choosing a popular tool. Start with a local need, compare the existing option, verify current facts, and select the smallest safe task that can show useful learning. A well-supported simulation is a successful lesson; a live payment is not required merely to make the block feel practical.
+
 ### Required outcomes
 
 | ID | Learner must be able to | Required evidence |
@@ -2301,6 +2393,18 @@ Close with:
 ---
 
 ## 11. Assessment and certification companion
+
+### If assessment is new to you
+
+Assessment means collecting enough evidence to decide whether a learner has met a stated objective. It is not judging personality, confidence, speed, accent, enthusiasm, or agreement with Bitcoin.
+
+Use three questions:
+
+1. **What was the learner asked to explain or do?**
+2. **What did I actually hear or observe?**
+3. **Which criterion does that evidence meet, or which criterion still needs practice?**
+
+During ordinary teaching, use questions and activities to help learners improve. During an approved assessment, explain the conditions first, observe without taking over, record evidence promptly, and give feedback afterwards. If you are not authorized to assess, do not invent a pass/fail decision; refer the evidence to the approved assessor.
 
 ### Explain assessment to learners
 
