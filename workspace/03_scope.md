@@ -21,9 +21,9 @@ This document does not define design philosophy or decision-making principles. S
 
 This document does not define learning objectives. See `05_objectives.md`.
 
-This document does not define assessment methodology. See `13_assessment.md`.
+This document does not define assessment methodology. See `11_assessment.md`.
 
-This document does not define certification requirements. See `15_certification.md`.
+This document does not define certification requirements. See `13_certification.md`.
 
 ---
 
@@ -67,7 +67,7 @@ The following assumptions affect project execution:
 - Localization preparation is in scope.
 - Localization implementation is out of scope.
 - Publishing is part of project completion.
-- Bitcoin for Organizations is being cannibalized, not preserved as a standalone beginner pathway. Use `18_advanced.md` as the sole holding authority for beginner-safe additions and Advanced source trails.
+- Bitcoin for Organizations is being cannibalized, not preserved as a standalone beginner pathway. Use `15_advanced.md` as the sole holding authority for beginner-safe additions and Advanced source trails.
 
 ---
 
@@ -223,9 +223,9 @@ Separate advanced learning from beginner learning.
 
 ### Deliverables
 
-- Advanced module title inventory guided by `18_advanced.md`
-- Advanced pathway recommendations guided by the candidate module titles in `18_advanced.md`
-- Organizations-to-Advanced source trail using the Organizations material parked in `18_advanced.md`
+- Advanced module title inventory guided by `15_advanced.md`
+- Advanced pathway recommendations guided by the candidate module titles in `15_advanced.md`
+- Organizations-to-Advanced source trail using the Organizations material parked in `15_advanced.md`
 - Technical content recommendations
 
 ---
@@ -380,7 +380,7 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 - The Bitcoin in Your Community module is explained as educator-selected and locally grounded.
 - The Activity Bank and Educator Guide are presented as core ecosystem components.
 - Assessment and certification are described accurately without overpromising.
-- Advanced module titles are not duplicated outside `18_advanced.md`.
+- Advanced module titles are not duplicated outside `15_advanced.md`.
 
 ---
 
@@ -487,7 +487,7 @@ The following items are intentionally excluded from the current redesign project
 - Maintenance of multiple localized curriculum variants
 - Online cohort platform implementation
 - Self-paced learning platform implementation
-- Building or replacing the underlying app platform; optional self-assessment content may be maintained separately in `14_microlearning.md`.
+- Building or replacing the underlying app platform; optional self-assessment content may be maintained separately in `12_microlearning-plan.md`.
 - Cross-modal learner-continuation infrastructure
 
 These may become future projects.

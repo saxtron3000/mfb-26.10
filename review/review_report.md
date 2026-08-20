@@ -1,7 +1,7 @@
 # Bitcoin Diploma 2026.10 Tune-Up Report
 
 **Review date:** 19 August 2026  
-**Scope:** the complete `workspace/` folder, with priority given to `08_student.md`, `12_educator-plan.md`, `12_educator-draft.md`, `14_microlearning-plan.md`, and `14_microlearning.md`.
+**Scope:** the complete `workspace/` folder, with priority given to `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, `10_educator-plan.md`, `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, `12_microlearning-plan.md`, and `12_microlearning-plan.md`.
 
 ## Bottom line
 
@@ -21,14 +21,14 @@ The fastest route to a strong release is to stop adding topics, settle the decis
 
 | Document | Current judgement | Main action |
 |---|---|---|
-| `08_student.md` | Strong working manuscript | Add missing required outcomes, reduce overload, and complete publication edit. |
-| `12_educator-plan.md` | Sound internal outline | Keep internal; resolve the educator role and avoid duplicating the published guide. |
-| `12_educator-draft.md` | Substantial and useful, but too long | Remove repeated learner content, correct residual app language, and connect it to approved assessment materials. |
-| `14_microlearning-plan.md` | Useful internal roadmap | Add it to the index and define it as the planning authority. |
-| `14_microlearning.md` | Good developer handoff | Complete independent review and narrow score claims to this 12-question check. |
-| `13_assessment.md` | Correct model, incomplete system | Build the blueprint, rubrics, pass rules, and records. |
-| `15_certification.md` | Mostly aligned | Repair its completion rule and finish governance decisions. |
-| `17_spec.md` | Standalone overview | Keep it as the collaborator and stakeholder overview; do not assign it production-control duties. |
+| `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md` | Strong working manuscript | Add missing required outcomes, reduce overload, and complete publication edit. |
+| `10_educator-plan.md` | Sound internal outline | Keep internal; resolve the educator role and avoid duplicating the published guide. |
+| `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` | Substantial and useful, but too long | Remove repeated learner content, correct residual app language, and connect it to approved assessment materials. |
+| `12_microlearning-plan.md` | Useful internal roadmap | Add it to the index and define it as the planning authority. |
+| `12_microlearning-plan.md` | Good developer handoff | Complete independent review and narrow score claims to this 12-question check. |
+| `11_assessment.md` | Correct model, incomplete system | Build the blueprint, rubrics, pass rules, and records. |
+| `13_certification.md` | Mostly aligned | Repair its completion rule and finish governance decisions. |
+| `14_spec.md` | Standalone overview | Keep it as the collaborator and stakeholder overview; do not assign it production-control duties. |
 
 ## What is working well
 
@@ -38,7 +38,7 @@ The fastest route to a strong release is to stop adding topics, settle the decis
 - Module 4 has a stronger purpose than a narrow “spending” module and is grounded in local need, comparison, safety, and voluntary participation.
 - The app boundary is now clear in the main public documents. The October handoff contains exactly 12 concrete questions and explicitly excludes tracking, certification, and practical-skill claims.
 - `ALL.1` and `ALL.2` are generally treated as formative rather than ideological or participation-based certificate gates.
-- `99_horizon.md` provides a sensible home for post-release ideas and helps protect the October scope.
+- `16_horizon.md` provides a sensible home for post-release ideas and helps protect the October scope.
 
 ## Highest-priority tune-ups
 
@@ -64,7 +64,7 @@ Do this before creating more prose, activities, visuals, or app questions.
 
 ### 2. Close the Student Guide objective gaps
 
-`08_student.md` is the strongest publication candidate, but its learner promise does not yet fully match `05_objectives.md`.
+`../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md` is the strongest publication candidate, but its learner promise does not yet fully match `05_objectives.md`.
 
 - Required `B2.5` and `B2.6` are developed in the Educator Draft but not taught explicitly in the Student Guide or planned contents. Add a short learner-facing comparison of Bitcoin, a generic stablecoin model, and other crypto-assets using control, issuance, verification, custody, and counterparty risk. Add a separate short distinction between education/responsible use and trading, token promotion, or speculation.
 - Remove “often called ‘shitcoins’” from the formal wording of `B2.5`. It is not suitable for an objective authority, translation, or impartial public assessment.
@@ -78,7 +78,7 @@ Small publication defects also remain, including `recieve`, a broken heading lev
 
 ### 3. Turn the Educator Draft into a companion, not a second textbook
 
-`12_educator-draft.md` has improved substantially, but at about 26,700 words it still repeats many Student Guide explanations. Its best material is the material an educator cannot obtain from the learner book:
+`../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` has improved substantially, but at about 26,700 words it still repeats many Student Guide explanations. Its best material is the material an educator cannot obtain from the learner book:
 
 - preparation and pacing;
 - misconception diagnosis;
@@ -102,7 +102,7 @@ Also correct “the number of educator” and similar copy defects.
 
 ### 4. Resolve the Educator Plan versus Educator Draft boundary
 
-The plan is useful as an internal checklist, but it repeats substantial assessment guidance already present in the draft. Keep `12_educator-plan.md` internal and concise. After the draft structure is approved, use the plan as an acceptance checklist rather than a parallel authority.
+The plan is useful as an internal checklist, but it repeats substantial assessment guidance already present in the draft. Keep `10_educator-plan.md` internal and concise. After the draft structure is approved, use the plan as an acceptance checklist rather than a parallel authority.
 
 One governance question is unresolved: the index and most assessment documents require direct observation by an educator, while the Educator Draft allows another educator when teaching and evidence review are separated. Choose one rule and apply it everywhere.
 
@@ -112,10 +112,10 @@ The statement that a first-time teacher can run a safe session after ten minutes
 
 The split is sensible but undocumented:
 
-- `14_microlearning-plan.md` owns scope, product constraints, future question-bank ideas, and the post-October roadmap.
-- `14_microlearning.md` contains the 12-question October production handoff.
+- `12_microlearning-plan.md` owns scope, product constraints, future question-bank ideas, and the post-October roadmap.
+- `12_microlearning-plan.md` contains the 12-question October production handoff.
 
-Add both to `00_index.md`, `README.md`, `06_plan.md`, and the Educator Guide source map with distinct roles. Current descriptions incorrectly say that `14_microlearning.md` contains a four-module bank; the production quiz intentionally contains 12 questions from Modules 1–3 only.
+Add both to `00_index.md`, `README.md`, `06_plan.md`, and the Educator Guide source map with distinct roles. Current descriptions incorrectly say that `12_microlearning-plan.md` contains a four-module bank; the production quiz intentionally contains 12 questions from Modules 1–3 only.
 
 All 12 items still require independent factual and editorial approval. Pilot the all-questions-on-one-screen experience on a small phone and with a screen reader. Change “You have a strong foundation” to “You showed a strong result on this quick check,” because the quiz samples only part of the Diploma and does not assess practical competence or Module 4.
 
@@ -125,7 +125,7 @@ The 50/50 language currently describes two non-compensatory components, but its 
 
 Avoid listing “participation” as theoretical evidence. Participation can create an opportunity to produce evidence, but the evidence must be an identifiable explanation, comparison, decision, or response judged against criteria. This will improve fairness for quiet, multilingual, neurodivergent, and remote learners.
 
-`15_certification.md` also contains an unfinished list: the assessment-complete requirements end with “and.” Repair it while defining the final completion record, educator responsibilities, appeals, corrections, privacy, retention, replacement, revocation, and verification.
+`13_certification.md` also contains an unfinished list: the assessment-complete requirements end with “and.” Repair it while defining the final completion record, educator responsibilities, appeals, corrections, privacy, retention, replacement, revocation, and verification.
 
 ### 7. Validate the eight-hour claim
 
@@ -139,12 +139,12 @@ Test one four-session route and one intensive route. Record actual teaching, pra
 
 ### 8. Repair document governance and production controls
 
-- `17_spec.md` should remain an overview. The index and plan must not describe it as a publication specification or assign it production-control duties.
+- `14_spec.md` should remain an overview. The index and plan must not describe it as a publication specification or assign it production-control duties.
 - `00_todo.md` mixes current release blockers with hundreds of imported annotation notes using unclear status markers. Move the imported notes to a review archive or triage them into accepted, rejected, completed, and active actions.
-- `09_assets.md` proposes up to 74 visual concepts. Select a smaller minimum viable set of essential learning visuals before production; otherwise visual work may delay the curriculum and overwhelm the page.
-- `11_resources.md` contains only a small source set and stale line references. Expand it for the claims that require technical, historical, banking, safety, and current-data verification.
-- `16_lexicon.md` mixes a learner/editor lexicon with a stale line-location audit and “not present” records. Keep canonical definitions in the lexicon; generate occurrence reports separately.
-- `18_advanced.md` is the sole holding authority for Organizations merge decisions and Advanced source trails; remove obsolete references to the former `workspace/advanced/` files.
+- `08_assets.md` proposes up to 74 visual concepts. Select a smaller minimum viable set of essential learning visuals before production; otherwise visual work may delay the curriculum and overwhelm the page.
+- `09_resources.md` contains only a small source set and stale line references. Expand it for the claims that require technical, historical, banking, safety, and current-data verification.
+- `../publish/mfb-bd-26.10/mfb-bd-lx.md` mixes a learner/editor lexicon with a stale line-location audit and “not present” records. Keep canonical definitions in the lexicon; generate occurrence reports separately.
+- `15_advanced.md` is the sole holding authority for Organizations merge decisions and Advanced source trails; remove obsolete references to the former `workspace/advanced/` files.
 - Other stale paths remain: the archived plan, legacy contents CSV, teacher-survey CSV, Pablo feedback paths, and the example visual asset. Repair or explicitly mark them as unavailable historical inputs.
 
 ## Recommended release sequence
@@ -155,7 +155,7 @@ Test one four-session route and one intensive route. Record actual teaching, pra
 4. Add the missing Student Guide outcomes and reduce excess learner content.
 5. Reduce the Educator Draft to facilitation and assessment support; remove residual app and duplicated textbook material.
 6. Independently review and pilot the 12-question optional quiz.
-7. Keep `17_spec.md` as the collaborator overview, repair sources and links, then run copy, accessibility, translation-readiness, and low-tech QA.
+7. Keep `14_spec.md` as the collaborator overview, repair sources and links, then run copy, accessibility, translation-readiness, and low-tech QA.
 8. Test the complete course before describing it as an eight-hour assessed Diploma; record the findings, but do not make a pilot a publication requirement.
 
 ## Author decisions — please answer yes or no
@@ -170,11 +170,11 @@ Recommended answers are included to make the next pass faster.
 | 4 | Is Module 4 required for every learner seeking a certificate, even though its local task is Custom? | **Yes.** |
 | 5 | Should `B2.5` and `B2.6` remain required objectives and receive short Student Guide sections? | **Yes.** |
 | 6 | Should `B3.11` remain a separate certification objective instead of being merged into `B3.5` and `B3.6`? | **Yes**, unless “first access” produces genuinely distinct evidence. |
-| 7 | Should `12_educator-plan.md` remain internal and subordinate to the published Educator Guide? | **Yes.** |
-| 8 | Should `14_microlearning-plan.md` be the internal app roadmap and `14_microlearning.md` be the October production handoff? | **Yes.** |
+| 7 | Should `10_educator-plan.md` remain internal and subordinate to the published Educator Guide? | **Yes.** |
+| 8 | Should `12_microlearning-plan.md` be the internal app roadmap and `12_microlearning-plan.md` be the October production handoff? | **Yes.** |
 | 9 | Should the October quiz describe results only as performance on a quick self-check, not as evidence of Diploma-level foundation or competence? | **Yes.** |
-| 10 | Should `17_spec.md` become the actual publication specification, with its overview material moved elsewhere? | **No.** |
-| 11 | Should `18_advanced.md` become the sole Advanced holding authority if the two missing `workspace/advanced/` files will not be restored? | **Yes.** |
+| 10 | Should `14_spec.md` become the actual publication specification, with its overview material moved elsewhere? | **No.** |
+| 11 | Should `15_advanced.md` become the sole Advanced holding authority if the two missing `workspace/advanced/` files will not be restored? | **Yes.** |
 | 12 | Should the imported annotation backlog be moved out of `00_todo.md` so that file contains only current release actions? | **Yes.** |
 | 13 | Should a timed, low-tech pilot with real educator assessment be a publication requirement? | **No** |
 

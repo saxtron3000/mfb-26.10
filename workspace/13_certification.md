@@ -17,7 +17,7 @@ The quality and reputation of the certificate depend on the quality and consiste
 
 # 1. Certification Rule
 
-A certificate may be issued only when the approved completion record confirms **assessment-complete** status under `13_assessment.md`.
+A certificate may be issued only when the approved completion record confirms **assessment-complete** status under `11_assessment.md`.
 
 Assessment-complete status requires:
 
@@ -165,8 +165,8 @@ An on-chain timestamp, if adopted, must not expose learner personal information 
 
 Use `05_objectives.md` for the learning objectives and competencies that assessment must measure.
 
-Use `10_activities.md` for approved educator-evaluated theory interactions, formative activities, and summative practical assessment tasks.
+Use the external Activity Bank project for approved educator-evaluated theory interactions, formative activities, and summative practical assessment tasks.
 
-Use `12_educator-draft.md` for facilitation guidance and educator assessment procedures, rubrics, evidence, feedback, and reassessment guidance; use `12_educator-plan.md` as the supporting structure plan.
+Use `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` for facilitation guidance and educator assessment procedures, rubrics, evidence, feedback, and reassessment guidance; use `10_educator-plan.md` as the supporting structure plan.
 
-Use `13_assessment.md` for the complete two-part assessment model and completion standard.
+Use `11_assessment.md` for the complete two-part assessment model and completion standard.

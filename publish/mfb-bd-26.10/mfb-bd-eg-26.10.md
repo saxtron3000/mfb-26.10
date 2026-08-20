@@ -1,6 +1,6 @@
 # Bitcoin Diploma educator companion guide
 
-This guide is the teacher's companion to the 2026.10 Bitcoin Diploma. Use it with the [Student Guide](08_student.md), the [Activity Bank](10_activities.md), and the approved assessment materials. The My First Bitcoin app may be offered as an optional self-check, recap, and discovery resource.
+This guide is the teacher's companion to the 2026.10 Bitcoin Diploma. Use it with the [Student Guide](mfb-bd-sg-26.10.md), the external Activity Bank project, and the approved assessment materials. The My First Bitcoin app may be offered as an optional self-check, recap, and discovery resource.
 
 The Student Guide gives learners the essential path. This companion helps a teacher turn that path into a complete learning experience through interaction, discussion, local context, guided practice, feedback, and assessment. You can teach directly from it: read the short preparation notes before a session, use the suggested words and questions during the session, and return to the evidence and safety notes afterwards.
 
@@ -8,7 +8,7 @@ The Student Guide gives learners the essential path. This companion helps a teac
 
 ## About this draft
 
-This is a working educator-facing publication draft based primarily on the [Educator Guide plan](12_educator-plan.md). It also draws from the current curriculum architecture, objectives, Student Guide, Activity Bank, assessment framework, certification framework, lexicon, visual index, and Diploma overview across this workspace. It is written for a first-time teacher as well as an experienced educator. All four module companions and a working assessment and recording section are drafted, but approved tasks, rubrics, governance rules, and release validation remain incomplete. This guide is not yet publication-ready.
+This is a working educator-facing publication draft based primarily on the [Educator Guide plan](../../workspace/10_educator-plan.md). It also draws from the current curriculum architecture, objectives, Student Guide, Activity Bank, assessment framework, certification framework, lexicon, visual index, and Diploma overview across this workspace. It is written for a first-time teacher as well as an experienced educator. All four module companions and a working assessment and recording section are drafted, but approved tasks, rubrics, governance rules, and release validation remain incomplete. This guide is not yet publication-ready.
 
 For 2026.10, this draft follows an educator-led assessment model: theoretical understanding and practical competency are both required, and optional app use does not count as assessment evidence.
 
@@ -2395,7 +2395,7 @@ The My First Bitcoin app is not part of assessment, completion, or certification
 
 Do not assign app work, collect app results, use app progress to judge a learner, or require a device, account, or connection. Continue teaching and assessing through the Student Guide, discussion, activities, and direct educator observation when appropriate.
 
-Use the optional 12-question self-check in [Microlearning](14_microlearning.md) only as a voluntary review aid. It can start a discussion, but it cannot replace an educator’s assessment evidence.
+Use the optional 12-question self-check in [Microlearning](../../workspace/12_microlearning-plan.md) only as a voluntary review aid. It can start a discussion, but it cannot replace an educator’s assessment evidence.
 
 ---
 
@@ -2495,7 +2495,7 @@ Pay particular attention to:
 - KYC and no-KYC; and
 - trade-off, risk, and uncertainty.
 
-Use the definitions in the [Beginner Lexicon](16_lexicon.md).
+Use the definitions in the [Beginner Lexicon](mfb-bd-lx.md).
 
 My First Bitcoin prefers in-person Diploma sessions because direct educator contact and greater opportunity for practical activities can make learning more engaging and natural. This is a preference, not a requirement. Online delivery can be more affordable, scalable, and achievable for many people, so educators should support either mode appropriately.
 
@@ -2614,7 +2614,7 @@ For any activity you develop or materially adapt, record:
 
 ### Current Activity Bank status
 
-The [Activity Bank](10_activities.md) remains a work in progress. Category lists and Organizations-derived items are promising choices or seeds, not automatically approved summative tasks.
+The external Activity Bank project remains a work in progress. Category lists and Organizations-derived items are promising choices or seeds, not automatically approved summative tasks.
 
 Current internal educator feedback suggests prioritizing safe wallet or prepared-wallet work, money-properties comparison, and beginner ledger exploration for refinement. Consensus games, barter activities, videos, hashing exercises, Lightning relays, and transaction role-plays should be retested and adapted before broad recommendation.
 
@@ -2657,7 +2657,7 @@ If equivalence is uncertain, use the adaptation for practice and seek approval b
 
 ## 14. Use visuals as teaching tools
 
-The [Visual–Text Index](09_assets.md) maps Student Guide concepts to planned diagrams, tables, timelines, and interface examples. Use the visuals to reveal relationships, not decorate a lecture.
+The [Visual–Text Index](../../workspace/08_assets.md) maps Student Guide concepts to planned diagrams, tables, timelines, and interface examples. Use the visuals to reveal relationships, not decorate a lecture.
 
 Before showing a visual:
 
@@ -2864,7 +2864,7 @@ If an activity exposes private information, risks funds, misstates a rule, or en
 
 ## 17. Quick terminology and misconception-sensitive distinctions
 
-Use the [Beginner Lexicon](16_lexicon.md) for full definitions. Keep these distinctions consistent in speech, slides, activities, and assessment.
+Use the [Beginner Lexicon](mfb-bd-lx.md) for full definitions. Keep these distinctions consistent in speech, slides, activities, and assessment.
 
 | Terms | Educator distinction |
 | --- | --- |
@@ -3106,18 +3106,18 @@ Do not describe a compressed day as complete if required observation or assessme
 
 | Need | Workspace source |
 | --- | --- |
-| Architecture and content boundaries | [Redesign Plan](06_plan.md) |
-| Required learner outcomes | [Learning Objectives](05_objectives.md) |
-| Learner-facing content | [Student Guide](08_student.md) |
-| Activity structure and current activity seeds | [Activity Bank](10_activities.md) |
-| Educator Guide source outline | [Educator Guide plan](12_educator-plan.md) |
-| Assessment design | [Assessment Framework](13_assessment.md) |
-| App topic and question-bank structure | [Microlearning](14_microlearning.md) |
-| Certification requirement | [Certification Framework](15_certification.md) |
-| Approved beginner terminology | [Beginner Lexicon](16_lexicon.md) |
-| Diploma overview and current boundaries | [2026.10 Bitcoin Diploma Overview](17_spec.md) |
-| Student Guide visual support | [Visual–Text Index](09_assets.md) |
-| Advanced follow-on material | [Advanced](18_advanced.md) |
+| Architecture and content boundaries | [Redesign Plan](../../workspace/06_plan.md) |
+| Required learner outcomes | [Learning Objectives](../../workspace/05_objectives.md) |
+| Learner-facing content | [Student Guide](mfb-bd-sg-26.10.md) |
+| Activity structure and current activity seeds | External Activity Bank project |
+| Educator Guide source outline | [Educator Guide plan](../../workspace/10_educator-plan.md) |
+| Assessment design | [Assessment Framework](../../workspace/11_assessment.md) |
+| App topic and question-bank structure | [Microlearning](../../workspace/12_microlearning-plan.md) |
+| Certification requirement | [Certification Framework](../../workspace/13_certification.md) |
+| Approved beginner terminology | [Beginner Lexicon](mfb-bd-lx.md) |
+| Diploma overview and current boundaries | [2026.10 Bitcoin Diploma Overview](../../workspace/14_spec.md) |
+| Student Guide visual support | [Visual–Text Index](../../workspace/08_assets.md) |
+| Advanced follow-on material | [Advanced](../../workspace/15_advanced.md) |
 
 Use the source with direct ownership of the decision. Do not treat reference, feedback, legacy, or Advanced material as approved beginner curriculum without review.
 

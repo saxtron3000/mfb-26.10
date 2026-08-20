@@ -391,7 +391,7 @@ Question-bank opportunities:
 - sequence ordering: safe, educator-approved recovery-readiness steps;
 - multiple choice: identify an unsafe backup practice;
 - scenario: select the right response when a seed phrase may have been exposed;
-- educator flag: practical recovery evidence requires direct observation under `13_assessment.md`.
+- educator flag: practical recovery evidence requires direct observation under `11_assessment.md`.
 
 ## BD-ML-B03-T06: Receiving bitcoin
 
@@ -539,7 +539,7 @@ Question-bank opportunities:
 - local scenario review;
 - learner explanation prompt for formative educator follow-up;
 - confidence check and next-step resource selection;
-- educator flag: the required local practical competency is assessed under `13_assessment.md` and certification eligibility under `15_certification.md`.
+- educator flag: the required local practical competency is assessed under `11_assessment.md` and certification eligibility under `13_certification.md`.
 
 ---
 

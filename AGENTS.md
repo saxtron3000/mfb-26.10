@@ -4,13 +4,13 @@
 
 This is a Markdown-first curriculum redesign repository for My First Bitcoin's Bitcoin Diploma 2026.10 edition.
 
-- `workspace/` contains the active planning, objectives, draft, activities, educator guide, assessment, lexicon, and publication specification.
+- `workspace/` contains the active planning, objectives, design, content, assets, resources, educator, assessment, microlearning, certification, specification, advanced, and horizon documents.
 - `workspace/00_index.md` defines the recommended reading order and source-of-truth map. `workspace/06_plan.md` owns architecture and content boundaries.
 - `ref/` contains legacy Diploma, Educator Guide, and Bitcoin for Organizations material for reference only.
 - `feedback/` contains stakeholder review notes and research inputs.
 - `public/` contains public briefs, presentation sources, PDFs, and images.
 
-Keep learner-facing prose in `workspace/08_draft.md`, detailed activities in `workspace/10_activities.md`, facilitation guidance in `workspace/12_guide.md`, and assessment requirements in `workspace/13_assessment.md`. Do not treat reference or feedback files as approved curriculum without review.
+Keep learner-facing prose in `publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, detailed activities in the external Activity Bank project, facilitation guidance in `publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, and assessment requirements in `workspace/11_assessment.md`. Do not treat reference or feedback files as approved curriculum without review.
 
 ## Build, Test, and Development Commands
 
@@ -30,7 +30,7 @@ Use Markdown with one `#` title, descriptive `##` sections, short paragraphs, an
 
 ## Testing Guidelines
 
-There is no test framework or coverage requirement. Validate edits manually for factual consistency, working relative links, consistent terminology with `workspace/16_lexicon.md`, alignment with `workspace/05_objectives.md`, and compliance with publication guardrails in `workspace/17_spec.md`. Current-data claims should be dated and cited.
+There is no test framework or coverage requirement. Validate edits manually for factual consistency, working relative links, consistent terminology with `publish/mfb-bd-26.10/mfb-bd-lx.md`, alignment with `workspace/05_objectives.md`, and compliance with publication guardrails in `workspace/14_spec.md`. Current-data claims should be dated and cited.
 
 ## Commit & Pull Request Guidelines
 

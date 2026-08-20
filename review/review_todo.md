@@ -22,7 +22,7 @@ The active policy is fixed: educators evaluate the 50% theoretical component and
 3. Repair source, path, and link integrity.
 
    - Remove or correct obsolete archive, feedback, and reference paths.
-   - Update `11_resources.md` Student Guide locations and the `16_lexicon.md` location map.
+   - Update `09_resources.md` Student Guide locations and the `../publish/mfb-bd-26.10/mfb-bd-lx.md` location map.
    - Revalidate external source references before publication.
 
 ## Ongoing quality controls

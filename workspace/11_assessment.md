@@ -13,7 +13,7 @@ The 2026.10 Diploma uses two required, non-compensatory assessment components:
 
 Educators should use simple, objective-aligned check-ins and concise records to distinguish meaningful understanding from attendance alone. Learners must meet both components; strength in one cannot compensate for failure in another.
 
-Content may be facilitated in person or online and remains usable through low-tech, offline-capable print/PDF materials. App access is not a minimum-technology requirement for learning, assessment, completion, or certification. The My First Bitcoin app may be offered as an optional self-check, recap, discovery, and connection resource. See `15_certification.md`. The optional app question-bank structure is maintained in `14_microlearning.md`.
+Content may be facilitated in person or online and remains usable through low-tech, offline-capable print/PDF materials. App access is not a minimum-technology requirement for learning, assessment, completion, or certification. The My First Bitcoin app may be offered as an optional self-check, recap, discovery, and connection resource. See `13_certification.md`. The optional app question-bank structure is maintained in `12_microlearning-plan.md`.
 
 ---
 
@@ -78,7 +78,7 @@ A multiple-choice answer may provide evidence of recognition or recall. It canno
 
 ## 4.1 Theoretical Assessment
 
-Educators gather theoretical evidence through approved short, objective-aligned interactions from `10_activities.md`, including:
+Educators gather theoretical evidence through approved short, objective-aligned interactions from the external Activity Bank project, including:
 
 - learner explanations;
 - guided discussions;

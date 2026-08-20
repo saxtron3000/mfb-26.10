@@ -94,7 +94,7 @@ These are the five suggestions already classified as **Horizon** in `input/COMMU
 
 ## 5. Design an evidence-led Advanced pathway
 
-**Status:** Not a 2026.10 change. **First dependency:** publish and evaluate the stable beginner Diploma. `18_advanced.md` remains the holding authority for candidate topics.
+**Status:** Not a 2026.10 change. **First dependency:** publish and evaluate the stable beginner Diploma. `15_advanced.md` remains the holding authority for candidate topics.
 
 - Validate demand, educator capacity, prerequisites, reviewer availability, maintenance cost, and community co-design needs before selecting a small first set of Advanced modules. The existing 24-module list is a candidate inventory, not a publication promise or sequence.
 - Decide which candidates should be learner modules, educator background, workshops, technical demonstrations, local Custom resources, aliases/merged modules, or retired topics.
@@ -133,4 +133,4 @@ Review this document after the first release retrospective and thereafter when a
 
 ## Source basis
 
-This register consolidates post-release and boundary signals from the active scope, plan, research, assessment, certification, microlearning, Advanced, activity, educator, asset, report, and community-suggestion materials. The current authorities remain `06_plan.md`, `13_assessment.md`, `15_certification.md`, `14_microlearning.md`, and `18_advanced.md`; legacy and historical audit material is context, not a replacement for those authorities.
+This register consolidates post-release and boundary signals from the active scope, plan, research, assessment, certification, microlearning, Advanced, activity, educator, asset, report, and community-suggestion materials. The current authorities remain `06_plan.md`, `11_assessment.md`, `13_certification.md`, `12_microlearning-plan.md`, and `15_advanced.md`; legacy and historical audit material is context, not a replacement for those authorities.
