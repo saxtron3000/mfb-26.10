@@ -55,7 +55,7 @@ The new version improves the Diploma by:
 - organizing the course into four clear modules;
 - separating required Core content from Custom local practice and Advanced future learning;
 - increasing practical learning, discussion, reflection, and learner explanation;
-- using selected Bitcoin for Organizations material only where it clarifies beginner concepts, educator misconception support, Activity Bank scenarios, or local Custom practice;
+- using selected Bitcoin for Organizations material only where it clarifies beginner concepts, educator misconception support, activities, or local Custom practice;
 - improving educator guidance, pacing, activities, and assessment support;
 - preparing English source files for translation and localization;
 - reducing fragile links, QR-code clutter, and named-service dependencies;
@@ -161,7 +161,7 @@ The 2026.10 Diploma package is expected to include:
 - online PDF package;
 - Educator Guide;
 - Educator Quick Start Guide;
-- Activity Bank;
+- activities in the Tools and Resources Hub;
 - Bitcoin in Your Community templates;
 - assessment framework;
 - optional My First Bitcoin app self-check, recap, and discovery package;
@@ -170,7 +170,7 @@ The 2026.10 Diploma package is expected to include:
 - website-ready source files;
 - future delivery-branch notes.
 
-The Student Book should carry the learner path. The Educator Guide should help teachers facilitate, pace, adapt, and protect learner safety. The concise [Educator Quick Start Guide](../publish/mfb-bd/mfb-bd-qs-26.10.md) should help a teacher begin quickly and direct them to the full materials. The Activity Bank should provide modular exercises that educators can use inside the Diploma or as standalone learning experiences.
+The Student Book should carry the learner path. The Educator Guide should help teachers facilitate, pace, adapt, and protect learner safety. The concise [Educator Quick Start Guide](../publish/mfb-bd/mfb-bd-qs-26.10.md) should help a teacher begin quickly and direct them to the full materials. Activities should be hosted as individual web pages in the Tools and Resources Hub, linked from the Diploma PDF, and usable inside the Diploma or as standalone learning experiences.
 
 ---
 

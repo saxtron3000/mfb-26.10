@@ -96,7 +96,7 @@ The minimum standard is created by the combination of:
 - shared learning objectives;
 - a common assessment blueprint;
 - approved educator-evaluated theoretical interactions;
-- approved Activity Bank practical assessment tasks;
+- approved practical assessment activities;
 - common practical tasks or equivalent approved variants;
 - observable rubrics;
 - educator preparation, training, and calibration for practical assessment;

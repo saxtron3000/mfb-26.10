@@ -364,7 +364,7 @@ Its limitations lie in:
 
 The redesign process should preserve the strengths while solving the structural and pedagogical weaknesses in the appropriate documents.
 
-Organizations-derived material should be treated as a supporting source for this redesign, not as a replacement structure. Use it to strengthen beginner-safe explanation, educator misconception prompts, Activity Bank scenarios, and Module 4 local examples.
+Organizations-derived material should be treated as a supporting source for this redesign, not as a replacement structure. Use it to strengthen beginner-safe explanation, educator misconception prompts, activities, and Module 4 local examples.
 
 ---
 
@@ -382,7 +382,7 @@ Public before / after framing:
 |---|---|
 | Long and dense pathway | 8-hour 4-module beginner pathway |
 | Beginner and advanced material mixed together | Core / Custom / Advanced separation |
-| Activities embedded inconsistently | Separate Activity Bank |
+| Activities embedded inconsistently | Linked activities in the Tools and Resources Hub |
 | Educator support uneven | Educator Guide as facilitation engine |
 | Assessment and certificate meaning vary | Objective-aligned 50% educator-led theoretical and 50% educator-observed practical components, each separately passed |
 | Local adaptation unclear | Bitcoin in Your Community module |

@@ -123,7 +123,7 @@ Depending on local context, selected objectives may require learners to:
 - connect Bitcoin concepts to local economic conditions;
 - identify realistic next steps for their community.
 
-Each selected task should have an approved variant ID and map to `B4.1` and `B4.2` in the Activity Bank. Other Custom outcomes remain optional.
+Each selected task should have an approved variant ID and map to `B4.1` and `B4.2` in the activity specifications. Other Custom outcomes remain optional.
 
 ### Selectable Custom task: Dual-rail payment practice
 
@@ -156,7 +156,7 @@ Advanced outcomes may include detailed Bretton Woods and geopolitical monetary h
 | Using Bitcoin Safely | Learners can explain responsibility and demonstrate required beginner actions safely under supported conditions. | Explain relevant concepts and demonstrate wallet navigation, a supported first-access pathway, receiving or sending, verification, recovery readiness, risk response, and safe limits. |
 | Bitcoin in Your Community | Learners can demonstrate at least one approved locally relevant Bitcoin-as-money competency. | Educator-selected and directly assessed outcomes using local tools, simulations, testnet or low-stakes practice, payment or receiving scenarios, local resources, workshops, or case examples. |
 
-This map should guide assessment, Activity Bank design, Educator Guide pacing, and public communication.
+This map should guide assessment, activity design, Educator Guide pacing, and public communication.
 
 ---
 

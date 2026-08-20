@@ -293,7 +293,7 @@ Educators should not treat fluent repetition as evidence of understanding. Use f
 
 Modules 3 and 4 are skills-dominant. Required practical objectives make up the practical 50% of assessment and are assessed through direct observation by an educator. Theoretical objectives mapped to these modules use approved educator-led evidence.
 
-Use approved Activity Bank tests, demonstrations, simulations, and role-plays to observe whether the learner can:
+Use approved activities, tests, demonstrations, simulations, and role-plays to observe whether the learner can:
 
 - follow the relevant sequence;
 - safely set up or open and navigate an approved or prepared wallet environment;
@@ -402,7 +402,7 @@ Only the combined **assessment-complete** status may unlock a certificate. Educa
 ## 7. Legacy Content Migration Guidance
 
 - Use the legacy table-of-contents migration notes in `06_plan.md` to decide whether old content belongs in Core, Custom, or Advanced material.
-- Use `18_advanced.md` to decide whether Organizations material belongs in beginner Core, Custom, Activity Bank, Educator Guide, or Advanced material, and to park deeper technical, economic, philosophical, or future-facing material for later Advanced modules.
+- Use `18_advanced.md` to decide whether Organizations material belongs in beginner Core, Custom, activities, Educator Guide, or Advanced material, and to park deeper technical, economic, philosophical, or future-facing material for later Advanced modules.
 - Do not treat old `OUT` markings as deletion when the same item is marked Custom or Advanced.
 - Keep Module 3 technical material practical: use it only to support safer self-custody, verification, and transaction responsibility.
 - Split topics carefully when needed: beginner concepts may stay in Core while deeper analysis moves to Advanced material.

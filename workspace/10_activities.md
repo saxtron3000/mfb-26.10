@@ -1,16 +1,16 @@
-# Bitcoin Diploma Activity Bank
+# Bitcoin Diploma activities
 
 ## Purpose
 
-This document defines the Activity Bank for the redesigned Bitcoin Diploma.
+This document defines activity requirements for the redesigned Bitcoin Diploma.
 
 Activities are removed from the main student-facing text so educators can choose, adapt, and facilitate them more easily.
 
-The Activity Bank is designed for two uses. Activities can complement the Bitcoin Diploma by giving educators modular exercises connected to the Diploma modules, objectives, and competencies. They can also stand alone as short learning experiences for social gatherings, community events, conferences, meetups, workshops, or other public learning spaces.
+Activities are designed for two uses. They can complement the Bitcoin Diploma as modular exercises connected to its modules, objectives, and competencies. They can also stand alone as short learning experiences for social gatherings, community events, conferences, meetups, workshops, or other public learning spaces. Published activities will be hosted as individual web pages in the Tools and Resources Hub and linked from the Diploma PDF.
 
 A standalone activity should provide enough context, instructions, debrief questions, and safety notes for participants to learn a clear idea even if they have not completed the full diploma.
 
-The Activity Bank contains educator-led formative activities, approved educator-evaluated theory interactions, and educator-observed practical competency tasks. Explanations, comparisons, discussions, games, scenarios, and role-plays support learning and formative feedback unless approved as theoretical evidence. Formal practical certification tasks supply educator-observed practical evidence and must use the approved objective, instructions, observable criteria, rubric, and safety conditions.
+Activities include educator-led formative activities, approved educator-evaluated theory interactions, and educator-observed practical competency tasks. Explanations, comparisons, discussions, games, scenarios, and role-plays support learning and formative feedback unless approved as theoretical evidence. Formal practical certification tasks supply educator-observed practical evidence and must use the approved objective, instructions, observable criteria, rubric, and safety conditions.
 
 ## Current Activities in the Bitcoin Diploma (26.04)
 
@@ -57,7 +57,7 @@ Use it to prioritize activity development and pilots as follows:
 - Do not make video, an external website, or a named explorer a required dependency. Every such activity must provide an equivalent print, diagram, prepared screenshot, spoken, or facilitator-led version.
 - Do not promote a legacy activity solely because it is familiar or frequently used. Keep, revise, or retire it based on objective alignment, learner evidence, safety, accessibility, time, and pilot feedback.
 
-# Activity Bank Principles
+# Activity principles
 
 Activities should:
 
@@ -75,7 +75,7 @@ Activities should:
 - identify when local expert guidance is needed;
 - avoid unsafe financial or custody assumptions.
 
-Each published Activity Bank item must also state its realistic facilitation time, whether it has been piloted, its online and offline suitability, any required materials or tool dependencies, and an equivalent low-tech fallback. Named websites, explorers, or trackers may be listed only as optional examples; they must not be a required dependency or a global recommendation.
+Each published activity page in the Tools and Resources Hub must also state its realistic facilitation time, whether it has been piloted, its online and offline suitability, any required materials or tool dependencies, and an equivalent low-tech fallback. Named websites, explorers, or trackers may be listed only as optional examples; they must not be a required dependency or a global recommendation.
 
 Every activity must be identified as one or more of:
 
@@ -258,11 +258,11 @@ Do not ask learners to reveal a seed phrase, private key, login credential, or p
 
 Educators collect the full theoretical component through approved, objective-aligned explanations, comparisons, concept illustrations, games, discussions, simulations, scenarios, and role-plays that have individual evidence, criteria, and a record; otherwise they are formative. Optional app self-checks may prepare or help learners review, but are never assessment evidence.
 
-Selected educator-led theoretical activities should be short and objective-aligned; the blueprint must distinguish approved summative evidence from formative touchpoints. The Activity Bank owns approved tasks for the practical 50%, which an educator evaluates through direct observation.
+Selected educator-led theoretical activities should be short and objective-aligned; the blueprint must distinguish approved summative evidence from formative touchpoints. Approved activities supply tasks for the practical 50%, which an educator evaluates through direct observation.
 
 ## Modules 3 And 4: Skills-Dominant
 
-Activity Bank assessment tasks provide the direct educator-observed evidence required for practical competence.
+Approved activity assessment tasks provide the direct educator-observed evidence required for practical competence.
 
 Formal tasks should include approved variations of:
 
@@ -394,7 +394,7 @@ Every final activity should include:
 
 # Organizations-Derived Activity Seeds
 
-These seeds are recorded in `18_advanced.md`. They should be developed as Activity Bank items only if they remain beginner-safe and locally adaptable.
+These seeds are recorded in `18_advanced.md`. They should be developed as activities only if they remain beginner-safe and locally adaptable.
 
 ## Claim, Evidence, Trade-Off
 

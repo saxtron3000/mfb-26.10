@@ -47,7 +47,7 @@ Read the working documents in this order when you need the full design context:
 | 6 | [`06_plan.md`](06_plan.md) | Read the active source of truth for the four-module architecture and content boundaries. |
 | 7 | [`07_contents.md`](07_contents.md) | Review the planned learner-content structure. |
 | 8 | [`09_assets.md`](09_assets.md) | Review visual and asset requirements. |
-| 9 | [`10_activities.md`](10_activities.md) | Review Activity Bank structure, activity design, and assessment-task requirements. |
+| 9 | [`10_activities.md`](10_activities.md) | Review activity design and assessment-task requirements. Published activities will be hosted in the Tools and Resources Hub. |
 | 10 | [`11_resources.md`](11_resources.md) | Review external sources and their curriculum claim locations. |
 | 11 | [`12_educator-plan.md`](12_educator-plan.md) | Review the planning structure for the Educator Companion Guide. |
 | 12 | [`13_assessment.md`](13_assessment.md) | Review theoretical and practical assessment requirements. |
@@ -74,7 +74,7 @@ Advanced pathway ideas and parked legacy material are maintained separately in [
 | Learner-content structure | [`07_contents.md`](07_contents.md) |
 | Student Guide publication source | [`publish/mfb-bd-sg-26.10.md`](../publish/mfb-bd-sg-26.10.md) |
 | Visual and asset needs | [`09_assets.md`](09_assets.md) |
-| Activity Bank structure | [`10_activities.md`](10_activities.md) |
+| Activity design | [`10_activities.md`](10_activities.md) |
 | External sources and claim references | [`11_resources.md`](11_resources.md) |
 | Educator Guide planning structure | [`12_educator-plan.md`](12_educator-plan.md) |
 | Educator Companion Guide publication source | [`publish/mfb-bd-eg-26.10.md`](../publish/mfb-bd-eg-26.10.md) |

@@ -72,7 +72,7 @@ Do this before creating more prose, activities, visuals, or app questions.
 - Strengthen the Module 4 learner promise. The current public wording emphasizes identifying or discussing local uses, while `B4.1` and `B4.2` require an observed task and decision narration.
 - Clarify in learner language that Modules 1–3 are the shared Core and Module 4 is a required Custom component for certification. “Custom” must not sound optional.
 
-Then reduce load. The Student Guide is about 19,400 words, and Modules 3 and 4 carry many procedures, comparisons, scenarios, and safety rules. Keep learner instructions and useful worksheets, but move facilitator setup, timing, task variants, and assessment administration to the Activity Bank or Educator Guide.
+Then reduce load. The Student Guide is about 19,400 words, and Modules 3 and 4 carry many procedures, comparisons, scenarios, and safety rules. Keep learner instructions and useful worksheets, but move facilitator setup, timing, task variants, and assessment administration to linked activity pages in the Tools and Resources Hub or the Educator Guide.
 
 Small publication defects also remain, including `recieve`, a broken heading level under “Acquiring and exchanging bitcoin,” and stale location references in supporting files.
 

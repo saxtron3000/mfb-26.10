@@ -120,13 +120,13 @@ The assessment and certification documents define a mandatory prerequisite and i
 
 Affected: `03_scope.md`, `12_educator-draft.md`, `13_assessment.md`, `15_certification.md`, `17_spec.md`, `99_horizon.md`, public materials.
 
-## 12. Should the first release include a timed, certification-complete Activity Bank?
+## 12. Should the first release include a timed, certification-complete set of activities?
 
 The design requires approved theory interactions, direct observation, rubrics, records, and equivalent variants. `10_activities.md` contains a strong template and legacy inventory but not the complete set of approved, timed, rubric-backed tasks needed to support every objective. Other files sometimes describe the assessment system as if it is ready to operate.
 
-**A. Release only when operational.** Make a certification-complete Activity Bank—objective-to-evidence crosswalk, approved tasks, rubrics, records, variants, and educator calibration—a release dependency.
+**A. Release only when operational.** Make a certification-complete set of activities—objective-to-evidence crosswalk, approved tasks, rubrics, records, variants, and educator calibration—a release dependency.
 
-**B. Release the curriculum framework first.** Publish the Student and Educator guides as a provisional teaching package; defer certification claims and assessment-complete status until the Activity Bank is operational.
+**B. Release the curriculum framework first.** Publish the Student and Educator guides as a provisional teaching package; defer certification claims and assessment-complete status until the required activities are operational in the Tools and Resources Hub.
 
 Affected: `02_research.md`, `03_scope.md`, `05_objectives.md`, `10_activities.md`, `12_educator-draft.md`, `13_assessment.md`, `15_certification.md`, `17_spec.md`, `99_horizon.md`.
 

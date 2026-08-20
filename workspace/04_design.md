@@ -60,9 +60,9 @@ The current working design direction is:
 - practical learning increased substantially;
 - practical skills structured using PPP: Presentation, Practice, Production;
 - advanced technical content separated from the beginner pathway;
-- Organizations material used only where it clarifies beginner Core concepts, educator misconception handling, Activity Bank scenarios, or local Custom practice;
+- Organizations material used only where it clarifies beginner Core concepts, educator misconception handling, activities, or local Custom practice;
 - Educator Guide treated as a facilitation engine;
-- Activity Bank treated as part of the learning ecosystem;
+- activities in the Tools and Resources Hub treated as part of the learning ecosystem;
 - assessment built from the learning objectives, using an educator-led theoretical component worth 50% and an educator-observed practical component worth 50%;
 - certification based on both theoretical evidence and directly observed practical competence;
 - localization considered through adaptable examples, activities, and facilitation, not through changing core outcomes;
@@ -644,7 +644,7 @@ The retiring Bitcoin for Organizations pathway contains strong material for misc
 
 - What belongs in the Student Book?
 - What belongs in the Educator Guide?
-- What belongs in the Activity Bank?
+- What should be a linked activity in the Tools and Resources Hub?
 - What belongs on the website?
 
 ## Accessibility Questions

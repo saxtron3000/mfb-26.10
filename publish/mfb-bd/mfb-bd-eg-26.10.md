@@ -1,6 +1,6 @@
 # Bitcoin Diploma educator companion guide
 
-This guide is the teacher's companion to the 2026.10 Bitcoin Diploma. Use it with the [Student Guide](08_student.md), the [Activity Bank](10_activities.md), and the approved assessment materials. For a concise first-teaching route, begin with the [Educator Quick Start Guide](./mfb-bd-qs-26.10.md). The My First Bitcoin app may be offered as an optional self-check, recap, and discovery resource.
+This guide is the teacher's companion to the 2026.10 Bitcoin Diploma. Use it with the [Student Guide](08_student.md), the linked activities in the Tools and Resources Hub, and the approved assessment materials. For a concise first-teaching route, begin with the [Educator Quick Start Guide](./mfb-bd-qs-26.10.md). The My First Bitcoin app may be offered as an optional self-check, recap, and discovery resource.
 
 The Student Guide gives learners the essential path. This companion helps a teacher turn that path into a complete learning experience through interaction, discussion, local context, guided practice, feedback, and assessment. You can teach directly from it: read the short preparation notes before a session, use the suggested words and questions during the session, and return to the evidence and safety notes afterwards.
 
@@ -8,7 +8,7 @@ The Student Guide gives learners the essential path. This companion helps a teac
 
 ## About this draft
 
-This is a working educator-facing publication draft based primarily on the [Educator Guide plan](12_educator-plan.md). It also draws from the current curriculum architecture, objectives, Student Guide, Activity Bank, assessment framework, certification framework, lexicon, visual index, and Diploma overview across this workspace. It is written for a first-time teacher as well as an experienced educator. All four module companions and a working assessment and recording section are drafted, but approved tasks, rubrics, governance rules, and release validation remain incomplete. This guide is not yet publication-ready.
+This is a working educator-facing publication draft based primarily on the [Educator Guide plan](12_educator-plan.md). It also draws from the current curriculum architecture, objectives, Student Guide, activities, assessment framework, certification framework, lexicon, visual index, and Diploma overview across this workspace. It is written for a first-time teacher as well as an experienced educator. All four module companions and a working assessment and recording section are drafted, but approved tasks, rubrics, governance rules, and release validation remain incomplete. This guide is not yet publication-ready.
 
 For 2026.10, this draft follows an educator-led assessment model: theoretical understanding and practical competency are both required, and optional app use does not count as assessment evidence.
 
@@ -197,7 +197,7 @@ Each part of the Diploma has a distinct function.
 | Student Guide | Essential learner explanations, reflection, review, and reference | Live facilitation, local verification, supported practice, or observed assessment |
 | My First Bitcoin app | Optional self-checks, recap, discovery, feedback, and connection to future learning | Educator-led theoretical or practical assessment, certification records, or learner evaluation |
 | Educator Guide | Preparation, pacing, facilitation, localization, safety, and assessment support | The approved learner materials or final governance decisions |
-| Activity Bank | Modular interaction, formative checks, approved educator-led theoretical touchpoints, practical practice, and approved practical assessment tasks | Objective definitions, app scoring, or educator judgment |
+| Activities in the Tools and Resources Hub | Modular interaction, formative checks, approved educator-led theoretical touchpoints, practical practice, and approved practical assessment tasks | Objective definitions, app scoring, or educator judgment |
 | Assessment materials | Tasks, observable criteria, rubrics, evidence records, and completion decisions | Teaching and supported practice |
 
 ### Educator support
@@ -1321,7 +1321,7 @@ Choose two or three, not all:
 - claim, evidence, reasoning, and trade-off discussion; or
 - generic Bitcoin/stablecoin/other-asset comparison.
 
-The Activity Bank marks some legacy consensus, hashing, video, and role-play activities for further testing. Use them only when the purpose, timing, learner context, and debrief are strong. An activity supplies educator-led theoretical evidence only when it is an approved objective-aligned touchpoint with individual evidence, a rubric, and a recording process. Otherwise, use it formatively.
+Some legacy consensus, hashing, video, and role-play activities require further testing. Use them only when the purpose, timing, learner context, and debrief are strong. An activity supplies educator-led theoretical evidence only when it is an approved objective-aligned touchpoint with individual evidence, a rubric, and a recording process. Otherwise, use it formatively.
 
 ### Module 2 educator-led theoretical touchpoint
 
@@ -2571,7 +2571,7 @@ Every activity should state whether it is:
 - an approved practical assessment for certification; or
 - an approved combination of formative learning and practical assessment.
 
-The Activity Bank may supply approved educator-led theoretical touchpoints and practical assessment tasks. It does not make every activity an assessment. Do not score an engaging activity unless it is objective-aligned and has individual evidence, observable criteria, a passing standard, prompting rules, evidence recording, and—where practical—safety conditions and an approved equivalent-variant policy.
+Activities in the Tools and Resources Hub may supply approved educator-led theoretical touchpoints and practical assessment tasks. This does not make every activity an assessment. Do not score an engaging activity unless it is objective-aligned and has individual evidence, observable criteria, a passing standard, prompting rules, evidence recording, and—where practical—safety conditions and an approved equivalent-variant policy.
 
 ### Activity selection questions
 
@@ -2612,9 +2612,9 @@ For any activity you develop or materially adapt, record:
 - safety-critical errors; and
 - local expert or current-fact needs.
 
-### Current Activity Bank status
+### Current activity status
 
-The [Activity Bank](10_activities.md) remains a work in progress. Category lists and Organizations-derived items are promising choices or seeds, not automatically approved summative tasks.
+Activities for the Tools and Resources Hub remain a work in progress. Category lists and Organizations-derived items are promising choices or seeds, not automatically approved summative tasks.
 
 Current internal educator feedback suggests prioritizing safe wallet or prepared-wallet work, money-properties comparison, and beginner ledger exploration for refinement. Consensus games, barter activities, videos, hashing exercises, Lightning relays, and transaction role-plays should be retested and adapted before broad recommendation.
 
@@ -2641,7 +2641,7 @@ Preserve:
 
 ### Adapt a summative practical task
 
-Only use an approved equivalent practical variant. Educators may not adapt an Activity Bank task into a scored theoretical substitute when it does not match the objective; an approved educator-theory interaction must use its own criteria and record. Preserve:
+Only use an approved equivalent practical variant. Educators may not adapt an activity into a scored theoretical substitute when it does not match the objective; an approved educator-theory interaction must use its own criteria and record. Preserve:
 
 - objective and measurable verb;
 - evidence type;
@@ -3109,7 +3109,7 @@ Do not describe a compressed day as complete if required observation or assessme
 | Architecture and content boundaries | [Redesign Plan](06_plan.md) |
 | Required learner outcomes | [Learning Objectives](05_objectives.md) |
 | Learner-facing content | [Student Guide](08_student.md) |
-| Activity structure and current activity seeds | [Activity Bank](10_activities.md) |
+| Activity structure and current activity seeds | [Activities](10_activities.md) |
 | Educator Guide source outline | [Educator Guide plan](12_educator-plan.md) |
 | Assessment design | [Assessment Framework](13_assessment.md) |
 | App topic and question-bank structure | [Microlearning](14_microlearning.md) |

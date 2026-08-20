@@ -135,7 +135,7 @@ Modules 1 and 2 are knowledge-dominant, while Modules 3 and 4 are skills-dominan
 The Module 1 learning and assessment package should include:
 
 - approved educator-evaluated learner explanations, comparisons, or concept illustrations in their own words about money functions and properties, barter limits, fiat-system basics, inflation, and purchasing power;
-- approved educator-evaluated discussion, simulation, or scenario from the Activity Bank, plus other formative support as needed; and
+- approved educator-evaluated discussion, simulation, or scenario activity, plus other formative support as needed; and
 - a formative local fiat-currency history or characteristics inquiry where appropriate.
 
 ## Module 2: How Bitcoin Works
@@ -143,7 +143,7 @@ The Module 1 learning and assessment package should include:
 The Module 2 learning and assessment package should include:
 
 - an approved educator-evaluated learner explanation or illustration of how Bitcoin responds to a relevant monetary or digital-money problem; and
-- an approved educator-evaluated comparison, role-play, discussion, or scenario from the Activity Bank, plus other formative support as needed.
+- an approved educator-evaluated comparison, role-play, discussion, or scenario activity, plus other formative support as needed.
 
 ## Module 3: Using Bitcoin Safely
 
