@@ -32,7 +32,7 @@ Current design commitments:
 - shared Core theory and outcomes with localized, educator-led practice;
 - English-first drafting with simplicity, tone, style, terminology, and translation-readiness review before translation or publication;
 - practical learning in every module;
-- activities hosted in the Tools and Resources Hub and linked from the Diploma PDF;
+- activities hosted in the Resources Hub and linked from the Diploma PDF;
 - an Educator Guide designed for facilitation, pacing, adaptation, and safety;
 - a combined theoretical and practical assessment model tied directly to the learning objectives;
 - a 50% educator-led theoretical and 50% educator-observed practical assessment allocation;
@@ -411,7 +411,7 @@ The October 2026 redesign should produce:
 - clear learning objectives;
 - Student Guide;
 - Educator Guide;
-- activities in the Tools and Resources Hub;
+- activities in the Resources Hub;
 - Custom module templates;
 - educator-led theoretical and practical certification-prerequisite framework, with optional app recap and self-check resources;
 - publication-ready source files;

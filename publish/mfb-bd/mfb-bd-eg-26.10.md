@@ -1,6 +1,6 @@
 # Bitcoin Diploma educator companion guide
 
-This guide is the teacher's companion to the 2026.10 Bitcoin Diploma. Use it with the [Student Guide](08_student.md), the linked activities in the Tools and Resources Hub, and the approved assessment materials. For a concise first-teaching route, begin with the [Educator Quick Start Guide](./mfb-bd-qs-26.10.md). The My First Bitcoin app may be offered as an optional self-check, recap, and discovery resource.
+This guide is the teacher's companion to the 2026.10 Bitcoin Diploma. Use it with the [Student Guide](08_student.md), the linked activities in the Resources Hub, and the approved assessment materials. For a concise first-teaching route, begin with the [Educator Quick Start Guide](./mfb-bd-qs-26.10.md). The My First Bitcoin app may be offered as an optional self-check, recap, and discovery resource.
 
 The Student Guide gives learners the essential path. This companion helps a teacher turn that path into a complete learning experience through interaction, discussion, local context, guided practice, feedback, and assessment. You can teach directly from it: read the short preparation notes before a session, use the suggested words and questions during the session, and return to the evidence and safety notes afterwards.
 
@@ -111,7 +111,7 @@ When you open a module companion, follow the same order every time:
 5. **Questions and activities:** choose one or two and give learners time to think.
 6. **Trouble spots:** listen for these misunderstandings and use the suggested correction.
 7. **Evidence and safety:** observe only what you are prepared to review against the agreed criteria.
-8. **Review and bridge:** close the module and explain why the next module follows.
+8. **Review and bridge:** ask learners to complete the ungraded recall prompt before reading the key takeaways, then explain why the next module follows.
 
 The headings are deliberately repetitive. That repetition is a navigation aid for a new teacher, not content that must be memorized.
 
@@ -197,7 +197,7 @@ Each part of the Diploma has a distinct function.
 | Student Guide | Essential learner explanations, reflection, review, and reference | Live facilitation, local verification, supported practice, or observed assessment |
 | My First Bitcoin app | Optional self-checks, recap, discovery, feedback, and connection to future learning | Educator-led theoretical or practical assessment, certification records, or learner evaluation |
 | Educator Guide | Preparation, pacing, facilitation, localization, safety, and assessment support | The approved learner materials or final governance decisions |
-| Activities in the Tools and Resources Hub | Modular interaction, formative checks, approved educator-led theoretical touchpoints, practical practice, and approved practical assessment tasks | Objective definitions, app scoring, or educator judgment |
+| Activities in the Resources Hub | Modular interaction, formative checks, approved educator-led theoretical touchpoints, practical practice, and approved practical assessment tasks | Objective definitions, app scoring, or educator judgment |
 | Assessment materials | Tasks, observable criteria, rubrics, evidence records, and completion decisions | Teaching and supported practice |
 
 ### Educator support
@@ -2571,7 +2571,7 @@ Every activity should state whether it is:
 - an approved practical assessment for certification; or
 - an approved combination of formative learning and practical assessment.
 
-Activities in the Tools and Resources Hub may supply approved educator-led theoretical touchpoints and practical assessment tasks. This does not make every activity an assessment. Do not score an engaging activity unless it is objective-aligned and has individual evidence, observable criteria, a passing standard, prompting rules, evidence recording, and—where practical—safety conditions and an approved equivalent-variant policy.
+Activities in the Resources Hub may supply approved educator-led theoretical touchpoints and practical assessment tasks. This does not make every activity an assessment. Do not score an engaging activity unless it is objective-aligned and has individual evidence, observable criteria, a passing standard, prompting rules, evidence recording, and—where practical—safety conditions and an approved equivalent-variant policy.
 
 ### Activity selection questions
 
@@ -2614,7 +2614,7 @@ For any activity you develop or materially adapt, record:
 
 ### Current activity status
 
-Activities for the Tools and Resources Hub remain a work in progress. Category lists and Organizations-derived items are promising choices or seeds, not automatically approved summative tasks.
+Activities for the Resources Hub remain a work in progress. Category lists and Organizations-derived items are promising choices or seeds, not automatically approved summative tasks.
 
 Current internal educator feedback suggests prioritizing safe wallet or prepared-wallet work, money-properties comparison, and beginner ledger exploration for refinement. Consensus games, barter activities, videos, hashing exercises, Lightning relays, and transaction role-plays should be retested and adapted before broad recommendation.
 
@@ -2826,6 +2826,10 @@ Collect feedback that can improve delivery:
 - Which question remains unanswered?
 
 Do not ask only whether learners “liked” the course. Look for evidence about clarity, participation, safety, transfer, and local usefulness.
+
+### Offer the optional four-week recall
+
+Before the course ends, show learners the printed four-week recall in the Student Guide and agree on a suggested date. It requires no app or connection and does not affect certification. If participation is recorded, keep only an optional follow-up status separate from assessment and certificate records.
 
 ### Reflect as an educator
 

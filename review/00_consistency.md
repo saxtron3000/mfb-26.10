@@ -126,7 +126,7 @@ The design requires approved theory interactions, direct observation, rubrics, r
 
 **A. Release only when operational.** Make a certification-complete set of activities—objective-to-evidence crosswalk, approved tasks, rubrics, records, variants, and educator calibration—a release dependency.
 
-**B. Release the curriculum framework first.** Publish the Student and Educator guides as a provisional teaching package; defer certification claims and assessment-complete status until the required activities are operational in the Tools and Resources Hub.
+**B. Release the curriculum framework first.** Publish the Student and Educator guides as a provisional teaching package; defer certification claims and assessment-complete status until the required activities are operational in the Resources Hub.
 
 Affected: `02_research.md`, `03_scope.md`, `05_objectives.md`, `10_activities.md`, `12_educator-draft.md`, `13_assessment.md`, `15_certification.md`, `17_spec.md`, `99_horizon.md`.
 

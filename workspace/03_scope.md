@@ -153,7 +153,7 @@ Improve participation and engagement.
 
 ### Deliverables
 
-- Activities linked from the Diploma PDF to individual web pages in the Tools and Resources Hub
+- Activities linked from the Diploma PDF to individual web pages in the Resources Hub
 - Objective mapping
 - Activity categories aligned to Core, Custom, and Advanced boundaries
 - Safety notes and fact-check notes for activities using live tools, named services, or current data
@@ -377,7 +377,7 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 - Public materials explain what is changing and what is being preserved.
 - The 4-module structure is visible and easy to repeat.
 - The Bitcoin in Your Community module is explained as educator-selected and locally grounded.
-- Activities in the Tools and Resources Hub and the Educator Guide are presented as core ecosystem components.
+- Activities in the Resources Hub and the Educator Guide are presented as core ecosystem components.
 - Assessment and certification are described accurately without overpromising.
 - Advanced module titles are not duplicated outside `18_advanced.md`.
 
@@ -403,7 +403,7 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 
 ## Milestone 4 — Practical Learning & Activities
 
-- Activities completed and hosted in the Tools and Resources Hub
+- Activities completed and hosted in the Resources Hub
 - PPP framework completed
 
 ## Milestone 5 — Educator Guide
@@ -456,7 +456,7 @@ The redesign is complete when:
 - Combined assessment framework, educator-educator guidance, and two-part certification prerequisite are completed.
 - Measurable outcomes are defined.
 - Educator Guide is redesigned.
-- Activities are operational in the Tools and Resources Hub.
+- Activities are operational in the Resources Hub.
 - Review systems are integrated.
 - Student Book is published.
 - Educator Guide is published.

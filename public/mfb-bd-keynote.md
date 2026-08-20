@@ -107,7 +107,7 @@ The current working design direction is:
 - practical skills structured using PPP: Presentation, Practice, Production;
 - advanced technical content separated from the beginner pathway;
 - Educator Guide treated as a facilitation engine;
-- activities in the Tools and Resources Hub treated as part of the learning ecosystem;
+- activities in the Resources Hub treated as part of the learning ecosystem;
 - localization supported through adaptable examples, activities, and facilitation.
 
 The redesign should teach learners how to think, not what to think. Learners should leave with better questions, clearer reasoning, and more confidence.
@@ -245,7 +245,7 @@ The redesigned Diploma should be understood as a learning ecosystem rather than 
 |---|---|
 | Student Book | Learner understanding, reflection, and key concepts |
 | Educator Guide | Facilitation, pacing, classroom decisions, discussion management, and adaptation support |
-| Activities in the Tools and Resources Hub | Participation, practice, local adaptation, review, and practical learning |
+| Activities in the Resources Hub | Participation, practice, local adaptation, review, and practical learning |
 | Custom templates | Local workshops, demonstrations, and community-specific Bitcoin use cases |
 | My First Bitcoin app | Optional microlearning, learner-owned self-checks, feedback, recap, and discovery; never assessment evidence |
 | Educator-led assessment | Explanation, synthesis, simulations, role-plays, and direct observation of practical competence |
@@ -366,7 +366,7 @@ Suggested release path:
 3. Define Core, Custom, and Advanced content.
 4. Rewrite student materials.
 5. Build Educator Guide.
-6. Publish activities in the Tools and Resources Hub.
+6. Publish activities in the Resources Hub.
 7. Align objectives and assessment.
 8. Review with educators.
 9. Pilot or field test.
@@ -429,7 +429,7 @@ This launch presentation tells the redesign story from its foundations through t
 | 6. The new learning story | 3:00 | Four modules move from money, to Bitcoin, to safe use, to local application. | Horizontal module journey |
 | 7. Practice with responsibility | 3:00 | Learners discuss, reason, practice, reflect, and identify safer next steps. | Presentation–Practice–Production loop |
 | 8. Educators complete the local story | 3:00 | Local educators select Module 4 practice within shared outcomes and safety boundaries. | Educator choosing from Custom module bank |
-| 9. The learning ecosystem | 3:00 | The Student Book, Educator Guide, activities in the Tools and Resources Hub, optional app, and Advanced pathways have distinct roles. | Ecosystem diagram |
+| 9. The learning ecosystem | 3:00 | The Student Book, Educator Guide, activities in the Resources Hub, optional app, and Advanced pathways have distinct roles. | Ecosystem diagram |
 | 10. A certificate that means something | 2:30 | Certification requires educator-evaluated theory and educator-observed practical competence. | Two-part evidence pathway |
 | 11. From redesign to release | 2:00 | The work now moves through review, pilots, publication, and launch preparation. | Release path to October 2026 |
 | 12. What collaboration makes possible | 2:00 | Educators, communities, contributors, and supporters can help make the release useful and durable. | Four collaboration roles |
@@ -525,7 +525,7 @@ Time: 3 minutes
 
 Key message: The redesigned Diploma is a coordinated learning package, not a single book or an app.
 
-Speaker note: Give each component a distinct role. The Student Book carries learner understanding and reflection. The Educator Guide supports facilitation and adaptation. Activities hosted in the Tools and Resources Hub supply participation and practice, with the Diploma PDF linking to the appropriate activity page. The app is optional and learner-owned: it can support recap, self-checks, and discovery, but it does not assess or record certification evidence. Advanced pathways hold deeper study outside the beginner Core.
+Speaker note: Give each component a distinct role. The Student Book carries learner understanding and reflection. The Educator Guide supports facilitation and adaptation. Activities hosted in the Resources Hub supply participation and practice, with the Diploma PDF linking to the appropriate activity page. The app is optional and learner-owned: it can support recap, self-checks, and discovery, but it does not assess or record certification evidence. Advanced pathways hold deeper study outside the beginner Core.
 
 Suggested visual: Ecosystem diagram with educators and learners at the centre.
 
@@ -601,7 +601,7 @@ Avoid:
 |---|---|
 | Long or dense pathway | Approximately eight-hour completion pathway |
 | Beginner and advanced material mixed together | Core, Custom, and Advanced content boundaries |
-| Activities embedded inconsistently | Linked activities in the Tools and Resources Hub and guided practice |
+| Activities embedded inconsistently | Linked activities in the Resources Hub and guided practice |
 | Educator support uneven | Educator Guide as a facilitation engine |
 | Local adaptation unclear | Educator-selected Bitcoin in Your Community practice within shared outcomes |
 | Attendance can be mistaken for completion | Recorded educator-evaluated theory and observed practical evidence required for certification |

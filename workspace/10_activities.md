@@ -6,7 +6,7 @@ This document defines activity requirements for the redesigned Bitcoin Diploma.
 
 Activities are removed from the main student-facing text so educators can choose, adapt, and facilitate them more easily.
 
-Activities are designed for two uses. They can complement the Bitcoin Diploma as modular exercises connected to its modules, objectives, and competencies. They can also stand alone as short learning experiences for social gatherings, community events, conferences, meetups, workshops, or other public learning spaces. Published activities will be hosted as individual web pages in the Tools and Resources Hub and linked from the Diploma PDF.
+Activities are designed for two uses. They can complement the Bitcoin Diploma as modular exercises connected to its modules, objectives, and competencies. They can also stand alone as short learning experiences for social gatherings, community events, conferences, meetups, workshops, or other public learning spaces. Published activities will be hosted as individual web pages in the Resources Hub and linked from the Diploma PDF.
 
 A standalone activity should provide enough context, instructions, debrief questions, and safety notes for participants to learn a clear idea even if they have not completed the full diploma.
 
@@ -75,7 +75,7 @@ Activities should:
 - identify when local expert guidance is needed;
 - avoid unsafe financial or custody assumptions.
 
-Each published activity page in the Tools and Resources Hub must also state its realistic facilitation time, whether it has been piloted, its online and offline suitability, any required materials or tool dependencies, and an equivalent low-tech fallback. Named websites, explorers, or trackers may be listed only as optional examples; they must not be a required dependency or a global recommendation.
+Each published activity page in the Resources Hub must also state its realistic facilitation time, whether it has been piloted, its online and offline suitability, any required materials or tool dependencies, and an equivalent low-tech fallback. Named websites, explorers, or trackers may be listed only as optional examples; they must not be a required dependency or a global recommendation.
 
 Every activity must be identified as one or more of:
 

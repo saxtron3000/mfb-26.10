@@ -37,7 +37,7 @@
 
 - More discussion, practice, reflection, and real-world application.
 - PPP practical learning: Presentation, Practice, Production.
-- Linked activities in the Tools and Resources Hub for participation and local adaptation.
+- Linked activities in the Resources Hub for participation and local adaptation.
 - An Educator Guide designed as a facilitation engine.
 - Optional app self-checks, recap, and discovery resources that do not affect certification.
 - A 50% educator-evaluated theoretical component and 50% educator-observed practical component. Both must meet the approved standard before certification.

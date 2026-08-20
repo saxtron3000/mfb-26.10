@@ -382,7 +382,7 @@ Public before / after framing:
 |---|---|
 | Long and dense pathway | 8-hour 4-module beginner pathway |
 | Beginner and advanced material mixed together | Core / Custom / Advanced separation |
-| Activities embedded inconsistently | Linked activities in the Tools and Resources Hub |
+| Activities embedded inconsistently | Linked activities in the Resources Hub |
 | Educator support uneven | Educator Guide as facilitation engine |
 | Assessment and certificate meaning vary | Objective-aligned 50% educator-led theoretical and 50% educator-observed practical components, each separately passed |
 | Local adaptation unclear | Bitcoin in Your Community module |
