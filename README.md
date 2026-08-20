@@ -13,6 +13,7 @@ Choose the route that matches your work:
 | Understand the curriculum design | [`workspace/00_index.md`](workspace/00_index.md) |
 | Read or edit the Student Guide | [`publish/mfb-bd-sg-26.10.md`](publish/mfb-bd-sg-26.10.md) |
 | Read or edit the Educator Companion Guide | [`publish/mfb-bd-eg-26.10.md`](publish/mfb-bd-eg-26.10.md) |
+| Prepare to teach the Diploma quickly | [`mfb-bd-qs-26.10.md`](publish/mfb-bd/mfb-bd-qs-26.10.md) |
 | Work on optional app self-assessment content | [`publish/mfb-bd-ml-26.10.md`](publish/mfb-bd-ml-26.10.md) |
 | Check current release actions | [`review/00_todo.md`](review/00_todo.md) |
 | Review unresolved consistency decisions | [`review/00_consistency.md`](review/00_consistency.md) |
@@ -38,6 +39,7 @@ The files intended to become the live curriculum are:
 |---|---|
 | [`mfb-bd-sg-26.10.md`](publish/mfb-bd-sg-26.10.md) | Student Guide; learner-facing curriculum for publication. |
 | [`mfb-bd-eg-26.10.md`](publish/mfb-bd-eg-26.10.md) | Educator Companion Guide; educator-facing preparation and facilitation support. |
+| [`mfb-bd-qs-26.10.md`](publish/mfb-bd/mfb-bd-qs-26.10.md) | Educator Quick Start Guide; a concise first-teaching route into the full materials. |
 | [`mfb-bd-ml-26.10.md`](publish/mfb-bd-ml-26.10.md) | Optional microlearning self-assessment data for the app. |
 
 These files implement decisions made in the working documents. They should not introduce new curriculum policy without first updating the appropriate source of truth in `workspace/`.

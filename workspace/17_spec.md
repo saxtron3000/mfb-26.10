@@ -160,6 +160,7 @@ The 2026.10 Diploma package is expected to include:
 - offline print/PDF package;
 - online PDF package;
 - Educator Guide;
+- Educator Quick Start Guide;
 - Activity Bank;
 - Bitcoin in Your Community templates;
 - assessment framework;
@@ -169,7 +170,7 @@ The 2026.10 Diploma package is expected to include:
 - website-ready source files;
 - future delivery-branch notes.
 
-The Student Book should carry the learner path. The Educator Guide should help teachers facilitate, pace, adapt, and protect learner safety. The Activity Bank should provide modular exercises that educators can use inside the Diploma or as standalone learning experiences.
+The Student Book should carry the learner path. The Educator Guide should help teachers facilitate, pace, adapt, and protect learner safety. The concise [Educator Quick Start Guide](../publish/mfb-bd/mfb-bd-qs-26.10.md) should help a teacher begin quickly and direct them to the full materials. The Activity Bank should provide modular exercises that educators can use inside the Diploma or as standalone learning experiences.
 
 ---
 

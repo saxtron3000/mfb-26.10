@@ -6,6 +6,8 @@ This document defines the structure of the redesigned Educator Guide.
 
 The Educator Guide should function as a facilitation engine, not as a duplicate of the Student Book.
 
+The [Educator Quick Start Guide](../publish/mfb-bd/mfb-bd-qs-26.10.md) is the short entry point for educators preparing a first delivery. It should point educators into the full guide and source materials; it does not replace the Guide's facilitation, safety, or assessment guidance.
+
 ---
 
 # Educator Guide Principles

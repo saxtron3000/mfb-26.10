@@ -26,6 +26,7 @@ The current publication sources are:
 |---|---|---|
 | Student Guide | [`mfb-bd-sg-26.10.md`](../publish/mfb-bd-sg-26.10.md) | Learner-facing Diploma curriculum. |
 | Educator Companion Guide | [`mfb-bd-eg-26.10.md`](../publish/mfb-bd-eg-26.10.md) | Educator-facing preparation, facilitation, adaptation, safety, and assessment guidance. |
+| Educator Quick Start Guide | [`mfb-bd-qs-26.10.md`](../publish/mfb-bd/mfb-bd-qs-26.10.md) | Concise first-teaching route and links to essential Diploma materials. |
 | Optional self-assessment | [`mfb-bd-ml-26.10.md`](../publish/mfb-bd-ml-26.10.md) | Microlearning question data for the optional app self-assessment. |
 
 These files should contain publication-ready content. Planning notes, unresolved questions, review commentary, and historical material should remain outside `publish/`.
@@ -77,6 +78,7 @@ Advanced pathway ideas and parked legacy material are maintained separately in [
 | External sources and claim references | [`11_resources.md`](11_resources.md) |
 | Educator Guide planning structure | [`12_educator-plan.md`](12_educator-plan.md) |
 | Educator Companion Guide publication source | [`publish/mfb-bd-eg-26.10.md`](../publish/mfb-bd-eg-26.10.md) |
+| Educator Quick Start Guide publication source | [`publish/mfb-bd/mfb-bd-qs-26.10.md`](../publish/mfb-bd/mfb-bd-qs-26.10.md) |
 | Objective-aligned assessment and evidence | [`13_assessment.md`](13_assessment.md) |
 | Optional app microlearning plan | [`14_microlearning-plan.md`](14_microlearning-plan.md) |
 | Optional app self-assessment publication source | [`publish/mfb-bd-ml-26.10.md`](../publish/mfb-bd-ml-26.10.md) |
