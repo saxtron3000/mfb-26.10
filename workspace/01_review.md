@@ -21,9 +21,9 @@ For design principles, see `04_design.md`.
 
 For learning outcomes, see `05_objectives.md`.
 
-For assessment, see `12_assessment.md`.
+For assessment, see `13_assessment.md`.
 
-For certification, see `13_certification.md`.
+For certification, see `15_certification.md`.
 
 For project workstreams and deliverables, see `03_scope.md`.
 
@@ -219,7 +219,22 @@ There is not yet a strong visible relationship between:
 - competencies;
 - learner outcomes.
 
-Assessment evidence is addressed separately in `12_assessment.md`.
+Assessment evidence is addressed separately in `13_assessment.md`.
+
+## 3.6.1 Inconsistent Assessment And Certificate Meaning
+
+The current decentralized delivery model does not yet provide enough common evidence that learners across cohorts have achieved the same knowledge and practical competencies.
+
+Risks include:
+
+- attendance or participation being treated as completion;
+- recall being mistaken for understanding;
+- practical activities occurring without structured evaluation;
+- educators applying different standards;
+- app or checklist completion being treated as proof of practical ability; and
+- certificates communicating inconsistent levels of achievement.
+
+The redesign should connect every learning objective to appropriate evidence. The complete assessment should contain two separately passed components: a 50% educator-evaluated theoretical component and a 50% educator-observed practical component. The common framework, rubrics, educator preparation, and certification prerequisite belong in `10_activities.md`, `12_educator-draft.md`, `13_assessment.md`, and `15_certification.md`; optional learner self-checks belong in `14_microlearning.md`.
 
 ## 3.7 Lack of Measurable Outcomes
 
@@ -229,7 +244,7 @@ The current Diploma makes it difficult to determine:
 - learner progress;
 - outcome achievement.
 
-A measurable outcomes framework belongs in `05_objectives.md` and `12_assessment.md`.
+A measurable outcomes framework belongs in `05_objectives.md` and `13_assessment.md`.
 
 ## 3.8 Limited Structured Review
 
@@ -308,7 +323,7 @@ Risks include:
 - unclear boundaries between translation and localization;
 - missing language notes for difficult Bitcoin, money, custody, and safety terms.
 
-Multilingual design belongs in `04_design.md`, `03_scope.md`, and `15_spec.md`.
+Multilingual design belongs in `04_design.md`, `03_scope.md`, and `17_spec.md`.
 
 ## 3.15 Publication And Link Fragility
 
@@ -316,7 +331,7 @@ Print and PDF materials can become cluttered or fragile if they depend on too ma
 
 The redesigned publication system should keep printed materials durable and offline-usable while reserving QR codes for stable, high-value destinations.
 
-Publication rules belong in `15_spec.md`.
+The collaborator and stakeholder overview belongs in `17_spec.md`. Keep production checks separate from that overview.
 
 ---
 
@@ -349,7 +364,7 @@ Its limitations lie in:
 
 The redesign process should preserve the strengths while solving the structural and pedagogical weaknesses in the appropriate documents.
 
-Organizations-derived material should be treated as a supporting source for this redesign, not as a replacement structure. Use it to strengthen beginner-safe explanation, educator misconception prompts, Activity Bank scenarios, and Custom block local examples.
+Organizations-derived material should be treated as a supporting source for this redesign, not as a replacement structure. Use it to strengthen beginner-safe explanation, educator misconception prompts, Activity Bank scenarios, and Module 4 local examples.
 
 ---
 
@@ -365,11 +380,12 @@ Public before / after framing:
 
 | Current Friction | Redesign Response |
 |---|---|
-| Long and dense pathway | 8-hour 4-block beginner pathway |
+| Long and dense pathway | 8-hour 4-module beginner pathway |
 | Beginner and advanced material mixed together | Core / Custom / Advanced separation |
 | Activities embedded inconsistently | Separate Activity Bank |
 | Educator support uneven | Educator Guide as facilitation engine |
-| Local adaptation unclear | Custom / Bitcoin as Money block |
+| Assessment and certificate meaning vary | Objective-aligned 50% educator-led theoretical and 50% educator-observed practical components, each separately passed |
+| Local adaptation unclear | Bitcoin in Your Community module |
 | English/PDF assumptions hidden | Translation-ready source files and clear delivery-mode branches |
 | Link-heavy print risk | Sparse QR codes tied to stable destinations |
 
@@ -391,4 +407,4 @@ This document intentionally does not include:
 - certification requirements;
 - publishing plans.
 
-Those belong in `04_design.md`, `05_objectives.md`, `12_assessment.md`, `13_certification.md`, and `03_scope.md`.
+Those belong in `04_design.md`, `05_objectives.md`, `13_assessment.md`, `15_certification.md`, and `03_scope.md`.

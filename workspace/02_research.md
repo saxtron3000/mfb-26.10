@@ -1,5 +1,3 @@
-# 02_research.md
-
 # Bitcoin Diploma Redesign Research Framework
 
 ## Purpose
@@ -90,6 +88,232 @@ Time Spent:
 
 ---
 
+# External Evidence Review Synthesis
+
+## Review record
+
+Date: 2026-08-12
+
+Inputs:
+
+- [`../research/claude-bitcoin-diploma-evidence-review.md`](../research/claude-bitcoin-diploma-evidence-review.md)
+- [`../research/codex-bitcoin-diploma-evidence-review.md`](../research/codex-bitcoin-diploma-evidence-review.md)
+- [`../research/gemini-bitcoin-diploma-evidence-review.md`](../research/gemini-bitcoin-diploma-evidence-review.md)
+- [`../research/tldr-research.md`](../research/tldr-research.md), the combined decision summary
+
+These are rapid evidence reviews, not registered systematic reviews. They draw mainly from adjacent research in adult learning, cognitive science, financial education, digital skills, professional assessment, educator development, accessibility, translation, and delivery-mode design. Findings from those settings do not transfer automatically to a mixed-age, community-led Bitcoin programme.
+
+## Executive conclusion
+
+The three reviews agree that the redesign is moving in a defensible direction. Strong adjacent evidence supports active participation, guided beginner practice, retrieval distributed across sessions, objective–activity–assessment alignment, direct observation of practical skills, task-specific assessment criteria, educator preparation and calibration, human-reviewed localisation, and a complete offline-capable instructional path.
+
+The evidence supports these design principles, but it does not validate the Diploma's exact numbers. Eight hours, four modules, four two-hour sessions, and the 50/50 theory-practice allocation are programme choices, not proven optima. Competence, access, and safety should take priority over treating a timetable or percentage as research-established.
+
+**Programme policy update, 2026-08-19:** The Diploma has adopted two educator-evaluated 50% components: theoretical understanding and directly observed practical competency. The app is optional self-assessment only and cannot provide assessment evidence. This is a governance decision to implement and evaluate, not a ratio established as optimal by the research reviewed here. Low-tech and offline-capable delivery includes learning, assessment, completion, and certification.
+
+The largest evidence gap is Bitcoin-specific. None of the reviews located a peer-reviewed or genuinely independent outcome evaluation of a beginner, community-led Bitcoin course. Public programme materials can describe curricula, delivery, and reach, but they cannot establish learning, retention, safe performance, or behaviour change. The Diploma should help close this gap through transparent pilot evaluation rather than effectiveness claims.
+
+## Evidence-informed design direction
+
+| Area | Evidence-informed direction | Confidence |
+|---|---|---|
+| Participation | Require active processing and practice in every module rather than lecture-dominant delivery. | High |
+| Beginner instruction | Move from concise explanation or demonstration to guided practice, supported application, feedback, and retrieval or reflection. Reduce support as competence grows. | High |
+| Pacing | Prefer spaced delivery where practical and preserve locally workable alternatives, including an intensive option with breaks and follow-up. | Medium |
+| Curriculum coherence | Write objectives as observable knowledge, reasoning, or performance and derive activities and assessment from them. | High |
+| Assessment | Combine low-stakes retrieval, explanation or scenarios, and direct observation. Require both theoretical understanding and practical competence. | High |
+| Educator consistency | Use analytic criteria, pass and not-yet examples, permitted-prompt rules, calibration, light moderation, feedback, and reassessment. | High for the principle; medium for the exact implementation. |
+| Educator support | Build the Educator Guide as a performance-support system with preparation, rehearsal, worked examples, safety guidance, offline alternatives, and peer support. | High |
+| Core and Custom | Keep outcomes, safety, terminology, assessment constructs, and minimum criteria stable while adapting language, examples, schedule, facilitation, optional tools, and equivalent evidence routes locally. | High |
+| Translation | Use plain English source text, a controlled lexicon, qualified local human review, versioning, sign-off, and learner comprehension testing. AI may assist but must not be the final authority. | Medium to high |
+| Delivery modes | Hold Core outcomes and standards stable while redesigning interaction, pacing, learner support, and evidence capture for each mode. | High |
+| Offline access | Keep every essential explanation, activity, practice route, and educator-led assessment usable without continuous connectivity, a QR code, live service, personal account, real secret, or meaningful-value transaction. | High |
+| QR codes | Use QR codes only for optional enhancements; pair them with a readable URL, controlled redirect, clear label, accessibility checks, and link maintenance. | Medium |
+| Follow-up | Include a post-course retrieval or supported practice touchpoint because learning and behavioural effects may decay. | Medium |
+
+## Shared programme-design implications
+
+- Prefer four two-hour meetings as the first spaced-delivery hypothesis where feasible, but do not make that schedule universal.
+- Use a recurring module repertoire: reconnect or retrieve prior learning; explain or demonstrate a manageable step; provide guided processing or practice; move toward a scenario, explanation, or supported performance; collect evidence; give specific feedback; and close with retrieval or reflection.
+- Keep learners active in every module. "Active" means purposeful processing and supported practice, not minimally guided discovery.
+- Use several evidence channels. App completion, attendance, confidence, enjoyment, self-report, or a quiz alone cannot demonstrate practical competence.
+- Keep theoretical and practical assessment as non-compensatory certification gates. Treat 50/50 as the approved administrative or reporting allocation, not as a research-proven optimum.
+- Implement the educator-led 50/50 theory-practice allocation as programme policy while evaluating assessment validity, access, differential completion, and learner support needs. Keep app self-checks optional and separate from certification evidence.
+- Publish a one-page Core/Custom contract so educators and translators know what they may adapt and what requires formal review.
+- Treat translation and mode conversion as versioned curriculum changes, especially when assessment meaning, safety, or learner evidence may change.
+- Keep print and offline instructional materials complete without scanning. Optional app self-checks must not become hidden instructional prerequisites or certification evidence.
+
+## Claims the evidence does not support
+
+- Eight hours is sufficient for every learner group, language, cohort size, or required objective.
+- Four equal sessions or four two-hour sessions outperform every alternative schedule.
+- Lecture should occupy one exact percentage of each session.
+- The 50/50 allocation improves validity, reliability, or access.
+- No delivery mode is universally superior.
+- QR codes improve learning.
+- Completing Bitcoin education causes Bitcoin adoption, financial improvement, ideological agreement, or durable behaviour change.
+- Evidence from formal education, professional training, financial literacy, or digital skills predicts a specific Diploma effect size.
+- Organisational reach, enrolment, completion, certificate, or translation counts establish programme effectiveness.
+
+## Eight-hour feasibility and governance risk
+
+The current `05_objectives.md` contains 25 certification objectives plus two formative cross-module outcomes, including several performances observed by an educator. The eight-hour pathway must cover access checks, instruction, guided practice, discussion, transitions, breaks, theoretical evidence, direct observation, feedback, accommodations, recovery, and reassessment. It may fit only if compatible objectives are validly integrated into coherent scenarios and the learner-to-educator model provides enough observation capacity.
+
+Before locking scope, create and field-time an objective blueprint containing:
+
+- prerequisite knowledge;
+- teaching or demonstration time;
+- supported practice time;
+- the smallest valid evidence matching the objective's verb;
+- opportunities to integrate compatible objectives without hiding a criterion;
+- learner-minutes of direct observation and available qualified educator;
+- accessibility and low-connectivity alternatives;
+- feedback, failed attempts, and reassessment time; and
+- the response to device, connection, audiovisual, or live-service failure.
+
+Estimate minimum observation burden as:
+
+`learner count × observed minutes per learner ÷ simultaneous qualified educator`
+
+Then add setup, rotations, evidence recording, feedback, accommodations, failed attempts, and reassessment. If the complete pathway does not fit, first remove duplication and integrate compatible evidence, then add learner-contact or separately scheduled supported assessment time. Do not convert a performance objective to a quiz or waive a safety-critical outcome to protect the clock.
+
+The eight-hour decision is now fixed: the advertised course pathway includes teaching, practice, assessment, feedback, and recording. Required assessment is not added as a separate follow-up. Testing should report planned and actual time so future revisions can reduce or combine objectives if the complete pathway does not fit.
+
+## Minimum pilot and release evidence
+
+The October 2026 release should include a common, proportionate, privacy-minimised evaluation:
+
+- objective-aligned pre-course and immediate post-course checks using equivalent, not identical, forms;
+- a common observed practical scenario with analytic criteria;
+- attendance by module, delivery mode, implementation deviations, access failures, practice attempts, feedback, and reassessment data;
+- a delayed retrieval and safety-transfer check, ideally after 8–12 weeks;
+- educator preparation time, guide usability, scoring rationale, incidents, and near misses;
+- double-scoring of a planned sample to estimate educator agreement;
+- separate invitation, enrolment, start, completion, assessment, and delayed-follow-up denominators; and
+- aggregate results, uncertainty, missing data, subgroup gaps, adverse and null findings, and limitations.
+
+Do not collect seed phrases, private keys, wallet credentials, unnecessary addresses or transaction histories, balances, or unnecessary personal financial information.
+
+Do not scale a language and delivery-mode combination until every required objective has a tested teach–practice–assess path, essential content has a low-connectivity alternative, learner testing finds no unresolved safety-critical misconception, educator have calibrated, practical observation and reassessment fit the cohort model, accessibility has been tested, translation has been reviewed, and incidents and appeals have an owner.
+
+## Review quality and use
+
+- Use the Codex review as the primary decision anchor because it has the clearest verification procedure, evidence labels, uncertainty statements, internal-workspace audit, feasibility analysis, and release-evaluation proposal.
+- Use the Claude review as strong corroboration and practical synthesis. It marks some citations for direct verification and identifies search areas not covered.
+- Use the Gemini review for directional corroboration and implementation ideas. Verify Gemini-only claims before using them in curriculum governance or public materials because its verification trail is less transparent and some claims are more specific than the cited evidence appears to support.
+
+Confidence is highest where strong adjacent evidence converges: active participation, retrieval and spacing, novice guidance, objective-assessment alignment, direct evidence for practical skills, calibrated task-specific criteria, human-reviewed localisation, and offline-capable instruction. Confidence is lowest for Bitcoin-specific outcomes, exact time and assessment allocations, educator-assessment reliability, QR-code learning effects, self-paced completion, and long-term behaviour change.
+
+---
+
+# Research Versus Current Curriculum Comparison
+
+## Audit scope
+
+Audit date: 2026-08-19
+
+This comparison applies the complete research file to the current workspace. It reviewed the active architecture, objectives, Student Guide, Activity Bank, Educator Guide plan and draft, assessment and certification frameworks, lexicon, source register, visual index, publication file, scope, release to-do, and consistency report.
+
+The comparison uses four status labels:
+
+- **Implemented:** the workspace contains a usable curriculum or delivery feature, not only a statement of intent.
+- **Partly implemented:** the principle is present, but one or more artifacts, procedures, owners, or tests needed to make it reliable are missing.
+- **Not operational:** the workspace names the need, but an educator, editor, translator, or evaluator could not yet carry it out consistently.
+- **Conflicted:** current files communicate materially different expectations.
+
+## Overall judgement
+
+The project is not ignoring the main research findings at the level of curriculum intent. The architecture, Student Guide, and especially the Educator Guide draft already apply active learning, beginner guidance, discussion, retrieval, practical safety, offline-capable delivery, direct observation, feedback, reassessment, localisation boundaries, and non-advisory framing.
+
+The larger risk is the gap between **policy and operational evidence**. The workspace often says that a blueprint, rubric, equivalent variant, calibration exercise, pilot, accessibility check, translation review, or release control is required without yet providing the finished artifact or assigning it to a release gate. If the Diploma were delivered from the current package, educator quality and local effort could compensate for these gaps in some cohorts, but results and certificate meaning could vary substantially across educators, languages, cohort sizes, and delivery conditions.
+
+The most important outcome-changing work is therefore not adding more learner content. It is completing the minimum system that makes the existing objectives teachable, assessable, accessible, and testable within the available time.
+
+## Comparison matrix
+
+| Research finding | Current curriculum evidence | Status and risk | Smallest evidence-aligned action | Primary owner |
+|---|---|---|---|---|
+| Beginners benefit from concise explanation or demonstration, guided practice, application, feedback, and reduced support as competence grows. | `04_design.md`, `06_plan.md`, `08_student.md`, and `12_educator-draft.md` establish a repeatable active-learning rhythm. The educator draft contains module flows, demonstration protocols, retrieval openings, practice, and debrief guidance. | **Implemented in guidance; partly implemented in activities.** The generic Activity Bank template does not explicitly require prerequisite knowledge, a model or worked example, likely misconceptions, or a progression from guided to less-supported performance. | Add `Prerequisites`, `Model or worked example`, `Guidance and fading`, and `Likely misconceptions` fields to every activity record. | `10_activities.md` |
+| Spacing, retrieval, and follow-up support retention better than one exposure. | The Educator Guide supports four-session and eight-session routes and opens recurring modules with retrieval. The Student Guide closes modules with summaries and reflection. | **Partly implemented.** No standard post-course retrieval touchpoint has an owner, schedule, reusable prompt set, or offline route. Module reviews often summarize before requiring unaided recall. | Add a short no-stakes retrieval prompt before each module summary and one optional offline-capable follow-up at a declared interval after the course. Track participation separately from certification. | `08_student.md`, `12_educator-draft.md`, and the future evaluation protocol |
+| Objectives, teaching, practice, and assessment must form one traceable system. | `05_objectives.md` defines 25 certification objectives plus two formative outcomes. `13_assessment.md` defines matching evidence principles. | **Not operational and release-critical.** The final objective-to-evidence crosswalk does not yet exist. Topic coverage in prose cannot show that each measurable verb is taught, practised, and assessed. | Build one row per objective with Student Guide section, prerequisite, teaching, formative practice, approved evidence, rubric or criteria ID, permitted support, result field, estimated time, accessibility variant, and reassessment route. | `05_objectives.md` and `13_assessment.md`, linked to `08_student.md`, `10_activities.md`, and `12_educator-draft.md` |
+| Practical claims require directly observed performance, common criteria, feedback, and reassessment. | The objectives, assessment, certification, and educator files consistently require educator observation and non-compensatory completion. | **Strong policy; not operational.** `10_activities.md` is still mostly a legacy inventory, template, one discussion record, and activity seeds. Approved Module 3 and Module 4 task variants, final rubrics, critical errors, and records are missing. | Build the smallest certification-complete Activity Bank first: only the formative practice and summative theory/practical tasks needed to cover every required objective. Expand the optional bank after pilots. | `10_activities.md` and `13_assessment.md` |
+| Rubrics improve consistency only when criteria are specific and educators see examples, practise scoring, calibrate, and receive moderation. | `12_educator-draft.md`, `12_educator-plan.md`, `13_assessment.md`, and `15_certification.md` require calibration and moderation. | **Not operational and high impact.** No annotated `Meets standard` and `Not yet` exemplars, scoring rehearsal, agreement check, calibration frequency, or moderation sample is published. The word `exemplar` does not appear in the core delivery files. | Create a compact calibration pack with two examples per critical criterion, educator scoring practice, answer rationale, permitted-prompt rules, an agreement check, and a light moderation procedure. | `13_assessment.md` with educator-facing extracts in `12_educator-draft.md` |
+| Duration should follow the complete teach–practice–assess workload; competence should not be weakened to protect a clock. | The plan and educator draft call eight hours a minimum baseline and allow extra time. The research file identifies an unresolved conflict with the eight-hour exclusion rule in `05_objectives.md`. | **Conflicted and unvalidated.** The Student Guide contains about 19,400 words, the educator draft about 26,700 words, and the course has 25 certification objectives. Word count alone does not establish infeasibility, but no end-to-end timed route proves that instruction, practice, direct observation, feedback, accessibility, and reassessment fit. | Resolve whether eight hours is a Core-scope cap or the shortest intended route. Then field-time one complete route with realistic cohort sizes and educator ratios. Publish planned and actual minutes by function and module. | Governance decision in `05_objectives.md` and `06_plan.md`; validation owned by `03_scope.md` |
+| Direct observation capacity falls as cohort size and learner-to-educator ratio rise. | Module 3 educator guidance recognizes time and educator capacity. The research file gives an observation-load calculation. | **Partly implemented.** No default cohort bands, simultaneous-observer assumptions, station plan, or maximum load for the eight-hour route is established. | Add a simple capacity table for common cohort sizes using observed minutes per learner, number of qualified educators, setup, rotations, feedback, and reassessment. Require extra time or educators when the route exceeds capacity. | `12_educator-draft.md` and the timed objective blueprint |
+| Core outcomes and safety must remain stable while local examples, language, facilitation, and tools may adapt. | Core, Custom, and Advanced boundaries appear across `04_design.md`, `05_objectives.md`, `06_plan.md`, `08_student.md`, and the educator guide. | **Partly implemented and potentially confusing.** No one-page contract exists. “Custom” can be read as optional, while `B4.1` and `B4.2` make one approved Module 4 task mandatory for certification. | Publish a one-page Core/Custom contract stating exactly what is fixed, adaptable, approval-controlled, and required for certification. Use the same language everywhere. | `06_plan.md`, with learner and educator extracts in `08_student.md` and `12_educator-draft.md` |
+| Learners should know the task, support conditions, and success criteria before assessment. | The Student Guide's opening outcomes include practical demonstration, and `07_contents.md` lists practical competency checks. | **Conflicted in learner-facing summaries.** The Module 3 and Module 4 promises in `08_student.md` and the outcomes in `17_spec.md` use weaker verbs such as “explain” or “identify,” while `05_objectives.md` requires demonstration. This can make assessment feel unexpected. | Synchronize every module promise and public outcome to the exact level of the approved objectives, while retaining the beginner/high-stakes limitation. | `08_student.md`, `17_spec.md`, checked against `05_objectives.md` |
+| A global curriculum needs plain source language, a controlled lexicon, versioning, qualified human review, and learner comprehension testing. | The design, plan, and educator draft contain a sensible nine-step translation workflow and require approval before certification use. | **Partly implemented.** `16_lexicon.md` is a useful feedback inventory but relies on mutable line numbers and lacks controlled fields for preferred term, prohibited ambiguity, scope, language-specific decision, reviewer, version, and approval status. No learner comprehension test is a release gate. | Convert the lexicon to stable term IDs and controlled metadata. Add bilingual review and small learner comprehension testing before approving a language for certification. | `16_lexicon.md`, `03_scope.md`, and the Diploma overview |
+| Offline and accessible routes must preserve the objective rather than merely provide the same file. | The Student Guide and educator draft strongly state that devices, continuous connectivity, QR codes, and the app are not prerequisites. Safety fallbacks are described. | **Strong intent; partly operational.** Approved equivalent assessment variants do not yet exist, and no release specification sets an accessibility target, tagged-PDF requirements, reading order, form behavior, or representative-user checks. | Require at least one tested low-tech and relevant accessibility variant for every summative task, with invariant evidence stated. Add technical accessibility and representative-user acceptance checks to release. | `10_activities.md`, `13_assessment.md`, and `17_spec.md` |
+| Publication quality requires an auditable source of truth, versioning, citations, rights, accessible exports, QA, sign-off, and maintenance. | `17_spec.md` is a stakeholder overview. | **Production controls are not defined in this workspace.** The decision is to keep `17_spec.md` as an overview rather than assign it release-control duties. | Define proportionate production controls separately if and when a release process needs them; do not overload the overview document. | Governance decision; `17_spec.md` |
+| Current and contestable claims need stable IDs, source quality, review dates, uncertainty, and revalidation ownership. | `11_resources.md` contains six useful source rows and some volatility notes. The educator draft tells educators to recheck local facts and tools. | **Not operational at curriculum scale.** The 19,000-word Student Guide contains many economic, historical, technical, security, wallet, Lightning, and current-context claims, while the source register uses mutable lines and has no claim IDs, reviewer, authority level, counterevidence, or next-review date. Educators should not have to research Core claims independently. | Create a claim register with stable IDs, exact claim text, source type, authority, publication treatment, volatility, reviewer, date checked, and next review. Keep local current facts in a separate educator verification record. | `11_resources.md` and `17_spec.md` |
+| Educator materials should reduce implementation load and survive scale. | `12_educator-draft.md` is unusually comprehensive and includes a quick start, module flows, safety, localisation, activities, and appendices. | **Substantive but usability-unvalidated.** At about 26,700 words, the guide may be difficult to scan during preparation and live delivery. No independent educator usability test is a release requirement. | Preserve the full reference guide, but extract one repeated run sheet per module and one assessment cue card. Test preparation and delivery with educators who did not write the guide. Record time, errors, unanswered questions, and deviations. | `12_educator-draft.md` and `03_scope.md` |
+| Release evaluation should measure learning, safe transfer, retention, access, implementation, and educator agreement rather than satisfaction alone. | This research file defines a minimum evaluation package. `03_scope.md` contains a thin measurable-outcomes workstream and a general feedback milestone. `17_spec.md` lists field testing as something collaborators can help with. | **Largely missing and the clearest research-to-workspace omission.** No owned pilot protocol, measures, delayed check, implementation/fidelity record, double-scoring sample, go/no-go gate, or reporting standard appears in scope or the release to-do. | Add a formal pilot-and-evaluation workstream and release gate. Predefine measures, routes, languages, learner groups, timing, attrition denominators, safety events, delayed checks, educator agreement, and decision rules. | `03_scope.md`, `00_todo.md`, and a versioned evaluation protocol |
+| Assessment and evaluation involving minors or financial learning require data minimisation, consent, safeguarding, controlled retention, correction, and appeals. | `13_assessment.md` and `15_certification.md` list privacy, consent, minors, retention, audit trails, corrections, and appeals as unresolved. The educator guide includes strong in-class privacy rules and incident prompts. | **Recognized but not operational.** These protections cannot remain open when pilots begin collecting results or certificate evidence. | Approve a minimum data and safeguarding pack before any outcome pilot or certification: consent or assent, allowed and prohibited data, access roles, retention and deletion, incident response, correction, appeal, and aggregate reporting. | `13_assessment.md` and `15_certification.md` |
+
+## High-impact findings the current project is still underweighting
+
+### 1. A finished guide is not evidence that the course works
+
+The workspace treats feedback and iteration as a milestone, but it does not yet treat end-to-end pilot evidence as a release dependency. This matters because the largest evidence gap in the field is the absence of independent Bitcoin-education outcomes. A strong October release should include at least a usability and safety pilot, even if it cannot yet make a causal effectiveness claim.
+
+The pilot should test the complete system rather than isolated chapters: learner comprehension, teaching time, supported practice, direct observation, educator workload, accessibility, translation friction, reassessment, delayed retention, and certificate-decision consistency.
+
+### 2. The assessment system needs artifacts, not more policy prose
+
+The principle of two non-compensatory components is now clear. Repeating it across more documents will not improve validity. The outcome depends on the missing crosswalk, approved individual-evidence tasks, criteria, exemplars, prompt boundaries, records, calibration, moderation, and reassessment procedures.
+
+Until these exist, the project has an assessment philosophy rather than an assessment system.
+
+### 3. The eight-hour risk is primarily observation capacity
+
+Content density is a concern, but educator observation is the harder constraint. Every learner seeking certification must produce individually identifiable evidence across required theoretical objectives and directly observed Module 3 and Module 4 performance. A schedule that works for six learners with two qualified educators may fail for twenty learners with one educator even when the lesson content is unchanged.
+
+The delivery model should therefore publish cohort and educator assumptions, not only session length.
+
+### 4. Translation quality is part of assessment validity
+
+Translation is currently treated mainly as an editorial workflow. Because learners are assessed through explanation, comparison, safety judgement, and practical instructions, translation can change the construct or difficulty of an assessment. Language approval should therefore include assessment review and learner testing, not only proofreading and subject-matter review.
+
+### 5. Accessibility needs a production standard and tested task variants
+
+The curriculum has a strong accessibility promise, but “offline-capable” and “accessible” are not interchangeable. A PDF may work without a connection and still fail reading order, contrast, navigation, form usability, screen-reader interpretation, large-print use, or accessible assessment. The same applies to practical tasks: an accommodation must preserve the evidence, but the approved variants have not been built.
+
+### 6. Source maintenance is part of educator support
+
+The educator guide correctly asks local educators to verify changing local tools and rules. It should not make them re-establish Core economic, historical, technical, or safety claims for every cohort. A maintained Core claim register would reduce educator burden, prevent drift, and make translations easier to update.
+
+## Easily achievable modifications with disproportionate value
+
+These changes can be made before major layout or platform work:
+
+1. **Extend the Activity Bank template.** Add prerequisites, model or worked example, likely misconceptions, minimum and extended timing, supported-practice steps, guidance fading, offline fallback, accessibility variant, permitted prompts, pilot status, and revision owner.
+2. **Create the one-page Core/Custom contract.** State that the local Module 4 content is selected locally but the approved `B4.1` and `B4.2` evidence is required for certification.
+3. **Synchronize learner promises.** Replace weaker Module 3 and Module 4 learner-facing verbs with the exact explain-and-demonstrate standard already owned by `05_objectives.md`.
+4. **Add stable schemas before adding content.** Define the row formats for the objective crosswalk, claim register, controlled lexicon, activity/task records, and pilot log so future work accumulates consistently.
+5. **Extract educator run sheets.** Keep the detailed educator reference, but provide one concise preparation-and-delivery sheet per module plus a separate assessment cue card.
+6. **Add one post-course retrieval touchpoint.** Provide an offline-ready short prompt set and educator instructions; do not make it a hidden certification gate.
+7. **Add pilot status to every required task.** Record learner group, language, mode, educator experience, planned and actual time, access failures, safety events, completion, common errors, and revision decision.
+8. **Turn evaluation into scheduled work.** Add the pilot protocol and go/no-go review to `03_scope.md` and `00_todo.md` rather than leaving evaluation only inside this research file.
+9. **Replace the false publication-spec role.** Preserve the useful overview under an appropriate name and make `17_spec.md` enforce production, accessibility, rights, citation, export, QA, sign-off, release, and maintenance rules.
+10. **Define minimum data protections before pilots.** A one-page approved data map and incident route is more valuable now than a complex future credential design.
+
+## Recommended execution order
+
+1. Resolve the eight-hour governance rule and Module 4 requirement language.
+2. Build the objective-to-evidence-and-time crosswalk.
+3. Build the smallest certification-complete set of activities, tasks, rubrics, exemplars, and records.
+4. Field-time the complete route and test educator capacity.
+5. Run independent educator usability, learner comprehension, accessibility, translation, and safety pilots.
+6. Revise the Student and Educator Guides using observed failures and friction.
+7. Complete source controls, data protections, and proportionate release checks without changing `17_spec.md` from its overview role.
+8. Publish the evaluation protocol and limitations with the release; publish results when sufficient data exists.
+
+## Decision implication
+
+The research does not justify expanding the beginner syllabus. It supports finishing, simplifying, and testing the system around the existing objectives. The highest-quality Student and Educator Guides will come from a verified objective chain, a timed delivery route, usable educator tools, safe and equivalent assessment variants, controlled language and sources, and observed learner and educator performance—not from adding more explanatory prose.
+
+---
+
 # Internal Purpose Definitions
 
 These are internal stakeholder definitions of what the Bitcoin Diploma is for. Treat them as qualitative internal evidence for purpose, tone, and design direction, not as final public copy.
@@ -134,7 +358,7 @@ Implementation locations:
 1. `workspace/02_research.md`: preserve the internal definitions as stakeholder evidence.
 2. `workspace/04_design.md`: use the synthesis as a purpose anchor for design decisions.
 3. `workspace/07_contents.md`: later translate the synthesis into student-facing opening material about why the Diploma exists.
-4. `workspace/05_objectives.md` and `workspace/12_assessment.md`: keep sovereignty, agency, and independent reasoning visible in objectives and evidence of learning without turning them into ideological agreement.
+4. `workspace/05_objectives.md` and `workspace/13_assessment.md`: keep sovereignty, agency, and independent reasoning visible in objectives and evidence of learning without turning them into ideological agreement.
 
 Recommended working definition:
 
@@ -144,7 +368,7 @@ The Bitcoin Diploma exists to provide structured, foundational, globally accessi
 
 # Internal Source Review: Bitcoin For Organizations
 
-`workspace/mergefromorganizations.md` and `workspace/advancedorganizations.md` reviewed the retiring `ref/bitcoin-for-organizations/en` pathway on 2026-06-26.
+`workspace/18_advanced.md` is the sole holding authority for the review of the retiring `ref/bitcoin-for-organizations/en` pathway, completed on 2026-06-26.
 
 Treat this as internal curriculum evidence, not as external research. The review supports the current redesign direction in three ways:
 
@@ -158,477 +382,305 @@ Research and publication caution:
 - Strategic, operational, investment, treasury, legal, policy, and sector-specific Organizations material should become Advanced source material, not beginner Core content.
 - Beginner use should favor guided questions and scenario prompts over institutional recommendations or predictions.
 
-# Section 1: Adult Learning Research
+## Internal Evidence: 2024 Teacher Survey
 
-## Key Questions
+Source: `../input/20260724_Teachers Survey (Responses) - Form Responses 1.csv`.
 
-What does adult learning research say about lecture-based learning?
+This file contains eight Bitcoin Diploma educator responses collected in November 2024. It is a small, self-selected internal sample, and some activity-selection answers are unreliable because the form required respondents to mark an activity even when they used all of them. Treat it as directional qualitative evidence, not as a representative evaluation or a basis for numerical targets.
 
-Answer:
+### Signals
 
-Source:
+- All eight respondents had used the Lesson Plan Guide. Its mean learning rating was 3.25 out of 5; the Activities Guide mean was 3.38 out of 5; onboarding mean was 3.88 out of 5. This supports the existing direction to make the Educator Guide a practical facilitation and educator tool, and to strengthen educator preparation and calibration.
+- Seven respondents said activity time and pace were “Just Right”; one said “Too Fast.” Keep the approximately eight-hour pathway as the working design, but protect discussion, practice, review, and assessment time and offer multi-session delivery options.
+- The clearest positive activity signals were the wallet-creation exercise (six mentions), the money discussion using Monopoly bills (five), and block-explorer work (five). These are useful candidates for pilot priority, subject to objective alignment, safety, and low-connectivity alternatives.
+- Consensus, barter, video, hashing, relay-race, and transaction role-play activities were often skipped or rated among the least effective. These results do not establish that an activity should be removed: the survey does not distinguish availability, educator confidence, audience, or delivery conditions. They do establish a need to test the activity’s purpose, instructions, timing, materials, and fallback form before retaining it as a recommended item.
+- One educator reported no audiovisual equipment and that assigned videos were not watched. Video may be an optional enhancement, never a required dependency; each activity needs a print, spoken, diagram, or facilitator-led alternative.
+- Requests included simpler explanations of technical content, additional educator training and peer exchange, a graduate follow-on community, and deeper nodes, mining, hashing, UTXOs, Lightning, and Nostr content. The first two inform educator-support and pathway planning. The technical requests support the existing Advanced boundary; they do not expand the beginner Core.
 
+### Design Actions Already Supported Or Added
+
+| Evidence | Workspace action |
+|---|---|
+| Educators need stronger practical support and training | Keep facilitation, assessment calibration, pacing, and low-connectivity guidance in `12_educator-draft.md`; use `12_educator-plan.md` as its planning outline and treat educator preparation as implementation work. |
+| Activity use varies by context | Use pilot evidence to select, revise, or retire activities in `10_activities.md`; preserve objective alignment and equivalent low-tech options. |
+| Videos and online tools are not universally usable | Maintain low-tech, offline-capable content for in-person facilitation or online facilitation and require a non-video fallback for media-dependent teaching activities. |
+| Learners and educators want a next step | Preserve technical and specialist follow-on material in `18_advanced.md`; consider graduate-community or referral work as a future implementation decision, not a beginner-Diploma requirement. |
+| Assessment should allow accessibility but stay meaningful | Keep common objectives and evidence standards while allowing equivalent task formats and accessibility accommodations, as defined in `13_assessment.md`. |
+
+# AI Research Prompt Bank
+
+## AI research tool directory
+
+Use these tools to discover, map, read, compare, and synthesize research; they are not evidence by themselves. For every source used in a paper, open the original record or full text, confirm that it is peer reviewed where required, check the publication details and DOI, and save the exact citation.
+
+### Start with scholarly search and evidence synthesis
+
+- [ ] [Consensus](https://consensus.app/)
+- [ ] [Elicit](https://elicit.com/)
+- [ ] [Scite](https://scite.ai/)
+- [ ] [Google Scholar](https://scholar.google.com/)
+- [ ] [Semantic Scholar](https://www.semanticscholar.org/)
+- [ ] [OpenAlex](https://openalex.org/)
+- [ ] [Perplexity](https://www.perplexity.ai/)
+- [ ] [SciSpace](https://scispace.com/)
+- [ ] [Keenious](https://www.keenious.com/)
+- [ ] [Undermind](https://www.undermind.ai/)
+
+### Find related papers, citation trails, and research gaps
+
+- [ ] [ResearchRabbit](https://www.researchrabbit.ai/)
+- [ ] [Connected Papers](https://www.connectedpapers.com/)
+- [ ] [Litmaps](https://www.litmaps.com/)
+- [ ] [Inciteful](https://inciteful.xyz/)
+- [ ] [The Lens](https://www.lens.org/)
+- [ ] [Dimensions](https://app.dimensions.ai/)
+- [ ] [Google Scholar cited-by search](https://scholar.google.com/)
+
+### Read, interrogate, and extract from papers
+
+- [ ] [NotebookLM](https://notebooklm.google.com/)
+- [ ] [Google Gemini](https://gemini.google.com/)
+- [ ] [ChatGPT](https://chatgpt.com/)
+- [ ] [Claude](https://claude.ai/)
+- [ ] [SciSpace Copilot](https://scispace.com/)
+- [ ] [Explainpaper](https://www.explainpaper.com/)
+- [ ] [Humata](https://www.humata.ai/)
+- [ ] [AskYourPDF](https://askyourpdf.com/)
+
+### Search authoritative and open research sources directly
+
+- [ ] [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+- [ ] [PubMed Central](https://pmc.ncbi.nlm.nih.gov/)
+- [ ] [ERIC](https://eric.ed.gov/)
+- [ ] [DOAJ](https://doaj.org/)
+- [ ] [CORE](https://core.ac.uk/)
+- [ ] [BASE](https://www.base-search.net/)
+- [ ] [OpenAIRE Explore](https://explore.openaire.eu/)
+- [ ] [Crossref Metadata Search](https://search.crossref.org/)
+- [ ] [Cochrane Library](https://www.cochranelibrary.com/)
+
+### Institutional tools, if access is available
+
+- [ ] [Scopus AI](https://www.scopus.com/)
+- [ ] [Web of Science Research Assistant](https://www.webofscience.com/)
+- [ ] [ProQuest](https://www.proquest.com/)
+- [ ] [JSTOR](https://www.jstor.org/)
+
+### Keep sources, notes, and citations organised
+
+- [ ] [Zotero](https://www.zotero.org/)
+- [ ] [ZoteroBib](https://zbib.org/)
+- [ ] [Paperpile](https://paperpile.com/)
+- [ ] [Mendeley Reference Manager](https://www.mendeley.com/reference-management/reference-manager)
+
+Suggested workflow: start with Consensus, Elicit, Google Scholar, Semantic Scholar, and ERIC; use ResearchRabbit or Connected Papers to follow citation trails; use Scite to check whether important findings are supported or disputed; then save verified sources in Zotero. Use ChatGPT, NotebookLM, Gemini, or Claude only with the papers you have selected and uploaded, and require citations back to those papers.
+
+Each module below is a complete prompt: copy one whole module into an academic research LLM. They are designed to build a reliable evidence base for the Diploma, not to generate a finished paper. Verify every cited source against its original record or full text before using it.
+
+## 1. Programme architecture, pacing, and participation
+
+```text
+You are conducting a rapid evidence review for My First Bitcoin's Bitcoin Diploma: a global, community-led, beginner, Bitcoin-only education programme. The proposed course is approximately eight hours and is delivered by community educators in varied languages, cultures, ages, and connectivity conditions. This is curriculum research, not financial, legal, tax, accounting, compliance, or investment advice. Do not recommend named commercial wallets, exchanges, or local services.
+
+Research question: What does the best available evidence say about designing the overall structure, duration, pacing, and participation pattern of a short beginner community-learning programme? Compare lecture, discussion, retrieval practice, demonstration, guided practice, peer learning, and reflection. Examine completion, retention, cognitive load, and learning outcomes without assuming that shorter is always better. Draw useful comparisons from adult education, financial literacy, digital skills, technology education, and civic/community education.
+
+Approach: Prioritise systematic reviews, meta-analyses, peer-reviewed studies, established academic books, and university, government, or intergovernmental education bodies. Prefer research published since 2015, while including older foundational work if still influential. Separate causal evidence, association, practitioner guidance, and your own inference. Do not invent citations, DOIs, quotations, findings, or links.
+
+Return exactly:
+1. A 200-word evidence summary.
+2. A table of 6–10 verifiable sources with full citation, year, source type, DOI or stable link, population/context, and the precise finding used.
+3. The strongest evidence limitations and disagreements.
+4. A proposed evidence-informed eight-hour structure, with the reason for each component.
+5. Five practical recommendations labelled Core, Custom, or Educator Guide.
+6. A confidence rating (high, medium, or low) for each recommendation.
+```
+
+## 2. Curriculum coherence and assessment
+
+```text
+You are conducting a rapid evidence review for My First Bitcoin's Bitcoin Diploma: a global, community-led, beginner, Bitcoin-only education programme. The proposed course is approximately eight hours and is delivered by community educators in varied languages, cultures, ages, and connectivity conditions. This is curriculum research, not financial, legal, tax, accounting, compliance, or investment advice. Do not recommend named commercial wallets, exchanges, or local services.
+
+Research question: What makes a short beginner curriculum coherent, teachable by educators with varied experience, and aligned across learning objectives, activities, and assessment? Evaluate competency-based education and constructive alignment. Identify an evidence-informed balance of recall, conceptual understanding, application, synthesis, and directly observed performance. Examine rubrics, educator calibration, moderation, feedback, reassessment, and the reliability risks of educator-led practical assessment.
+
+Approach: Prioritise systematic reviews, meta-analyses, peer-reviewed studies, established academic books, and university, government, or intergovernmental education bodies. Prefer research published since 2015, while including older foundational work if still influential. Separate direct evidence from reasonable design inference. Do not invent citations, DOIs, quotations, findings, or links.
+
+Return exactly:
+1. A 200-word evidence summary.
+2. A table of 6–10 verifiable sources with full citation, year, source type, DOI or stable link, population/context, and the precise finding used.
+3. The strongest evidence limitations and disagreements.
+4. A recommended assessment model for an eight-hour beginner Diploma, including what should be assessed by quiz, observation, discussion, or practical task.
+5. Five practical recommendations labelled Core, Custom, Educator Guide, or Assessment.
+6. A confidence rating (high, medium, or low) for each recommendation.
+```
+
+## 3. Educator support and activity design
+
+```text
+You are conducting a rapid evidence review for My First Bitcoin's Bitcoin Diploma: a global, community-led, beginner, Bitcoin-only education programme. The proposed course is approximately eight hours and is delivered by community educators in varied languages, cultures, ages, and connectivity conditions. This is curriculum research, not financial, legal, tax, accounting, compliance, or investment advice. Do not recommend named commercial wallets, exchanges, or local services.
+
+Research question: What educator-guide features, preparation, and support systems improve teaching consistency and learner outcomes in distributed community programmes? What evidence supports active learning, experiential learning, demonstration before abstraction, guided practice, peer discussion, and Presentation–Practice–Production (PPP), including their limitations? Identify what an educator needs before, during, and after each activity: timing, materials, safety boundaries, misconceptions, questions, differentiation, offline alternatives, and assessment evidence.
+
+Approach: Prioritise systematic reviews, meta-analyses, peer-reviewed studies, established academic books, and university, government, or intergovernmental education bodies. Prefer research published since 2015, while including older foundational work if still influential. Separate direct evidence from reasonable design inference. Do not invent citations, DOIs, quotations, findings, or links.
+
+Return exactly:
+1. A 200-word evidence summary.
+2. A table of 6–10 verifiable sources with full citation, year, source type, DOI or stable link, population/context, and the precise finding used.
+3. The strongest evidence limitations and disagreements.
+4. A minimum viable educator-guide specification for this Diploma.
+5. Five practical recommendations labelled Core, Custom, or Educator Guide.
+6. A confidence rating (high, medium, or low) for each recommendation.
+```
+
+## 4. Global learners, localisation, translation, and inclusion
+
+```text
+You are conducting a rapid evidence review for My First Bitcoin's Bitcoin Diploma: a global, community-led, beginner, Bitcoin-only education programme. The proposed course is approximately eight hours and is delivered by community educators in varied languages, cultures, ages, and connectivity conditions. This is curriculum research, not financial, legal, tax, accounting, compliance, or investment advice. Do not recommend named commercial wallets, exchanges, or local services.
+
+Research question: For a global beginner curriculum, which elements should be standardised to protect accuracy and comparable outcomes, and which should be locally Customised for language, examples, delivery, discussion, and practice? Identify evidence-informed approaches for plain-language source writing, translation review, localisation rather than literal translation, accessible design, varied literacy and digital-confidence levels, teenagers, adults, and older adults. Address AI-assisted translation/customisation risks: factual error, bias, privacy, source opacity, translation drift, loss of pedagogical intent, and inconsistent assessment.
+
+Approach: Prioritise systematic reviews, meta-analyses, peer-reviewed studies, established academic books, accessibility standards, and university, government, or intergovernmental education bodies. Prefer research published since 2015, while including older foundational work if still influential. Separate direct evidence from reasonable design inference. Do not invent citations, DOIs, quotations, findings, or links.
+
+Return exactly:
+1. A 200-word evidence summary.
+2. A table of 6–10 verifiable sources with full citation, year, source type, DOI or stable link, population/context, and the precise finding used.
+3. The strongest evidence limitations and disagreements.
+4. A two-column list: elements that must remain Core and elements that may be Custom.
+5. Five practical recommendations labelled Core, Custom, Educator Guide, or Assessment.
+6. A confidence rating (high, medium, or low) for each recommendation.
+```
+
+## 5. Delivery modes, offline access, print, and QR codes
+
+```text
+You are conducting a rapid evidence review for My First Bitcoin's Bitcoin Diploma: a global, community-led, beginner, Bitcoin-only education programme. The proposed course is approximately eight hours and is delivered by community educators in varied languages, cultures, ages, and connectivity conditions. This is curriculum research, not financial, legal, tax, accounting, compliance, or investment advice. Do not recommend named commercial wallets, exchanges, or local services.
+
+Research question: Compare in-person delivery, online cohort, self-paced, offline print/PDF, online PDF, web/app, hybrid, and cross-modal delivery for beginner adult education. Which learner supports, pacing mechanisms, interactions, accessibility measures, and evidence of learning must change by delivery mode while Core outcomes remain stable? Include low-connectivity and low-technology constraints. Also identify research, usability guidance, or accessibility standards that should govern QR-code use in printed learner resources: what must remain complete in print/PDF, when QR codes help, and how to avoid clutter, unstable destinations, or exclusion.
+
+Approach: Prioritise systematic reviews, meta-analyses, peer-reviewed studies, established academic books, usability and accessibility standards, and university, government, or intergovernmental education bodies. Prefer research published since 2015, while including older foundational work if still influential. Separate direct evidence from reasonable design inference. Do not invent citations, DOIs, quotations, findings, or links.
+
+Return exactly:
+1. A 200-word evidence summary.
+2. A table of 6–10 verifiable sources with full citation, year, source type, DOI or stable link, population/context, and the precise finding used.
+3. The strongest evidence limitations and disagreements.
+4. A compact comparison table for each delivery mode: keep stable, adapt, and avoid.
+5. Five practical recommendations labelled Core, Custom, Educator Guide, Publication, or Assessment.
+6. A confidence rating (high, medium, or low) for each recommendation.
+```
+
+## 6. Bitcoin education and comparable-programme landscape
+
+```text
+You are conducting a rapid evidence review for My First Bitcoin's Bitcoin Diploma: a global, community-led, beginner, Bitcoin-only education programme. The proposed course is approximately eight hours and is delivered by community educators in varied languages, cultures, ages, and connectivity conditions. This is curriculum research, not financial, legal, tax, accounting, compliance, or investment advice. Do not recommend named commercial wallets, exchanges, or local services.
+
+Research question: Map publicly documented beginner Bitcoin education programmes and the most relevant comparable programmes in financial literacy, digital skills, technology training, entrepreneurship, civic/community education, and open-source education. For each relevant example, identify target learner, duration, structure, activity types, assessment, educator support, delivery mode, and publicly documented outcomes or limitations. Extract transferable curriculum lessons, clearly distinguish documented evidence from marketing claims, and state where Bitcoin-specific research is absent. Do not rank programmes or make commercial recommendations.
+
+Approach: Prefer peer-reviewed research and independent evaluations. Use official programme documentation only to describe a programme's stated design, not to claim effectiveness unless independently supported. Include established academic books, university research centres, and government or intergovernmental education bodies where relevant. Prefer evidence published since 2015. Do not invent citations, DOIs, quotations, findings, or links.
+
+Return exactly:
+1. A 200-word landscape summary.
+2. A comparison table of 8–12 relevant programmes or evidence sources, with link, learner, duration, design, assessment, and strength of evidence.
+3. A separate table of 6–10 peer-reviewed or independent-evaluation sources with full citation, year, DOI or stable link, and precise finding.
+4. The strongest evidence limitations and gaps, especially Bitcoin-specific gaps.
+5. Five transferable recommendations labelled Core, Custom, Educator Guide, Publication, or Assessment.
+6. A confidence rating (high, medium, or low) for each recommendation.
+```
+
+## Research record template
+
+Capture results in this form so decisions remain traceable.
+
+```text
+Decision:
+Question/prompt used:
+Date:
+Model/tool used:
+
+Verified evidence supporting:
+Verified evidence challenging:
+Evidence limitations and gaps:
 Confidence:
-
----
-
-What role does active participation play in learning?
-
-Answer:
-
-Source:
-
-Confidence:
-
----
-
-What increases completion rates?
-
-Answer:
-
-Source:
-
-Confidence:
-
----
-
-What reduces dropout rates?
-
-Answer:
-
-Source:
-
-Confidence:
-
----
-
-# Section 2: Curriculum Design Research
-
-What makes a curriculum coherent?
-
-Answer:
-
-Source:
-
----
-
-What makes a curriculum teachable by different educators?
-
-Answer:
-
-Source:
-
----
-
-What does research say about competency-based education?
-
-Answer:
-
-Source:
-
----
-
-# Section 3: Duration & Attrition
-
-What evidence exists regarding shorter learning experiences?
-
-Answer:
-
-Source:
-
----
-
-What duration appears most effective for adult community education?
-
-Answer:
-
-Source:
-
----
-
-What duration is used by comparable programs?
-
-Program:
-
-Duration:
-
-Source:
-
----
-
-# Section 4: Educator Support Systems
-
-What makes an educator guide effective?
-
-Answer:
-
-Source:
-
----
-
-What support structures improve teaching consistency?
-
-Answer:
-
-Source:
-
----
-
-# Section 5: Activity-Based Learning
-
-What evidence supports active learning?
-
-Answer:
-
-Source:
-
----
-
-What evidence supports experiential learning?
-
-Answer:
-
-Source:
-
----
-
-What evidence supports PPP (Presentation, Practice, Production)?
-
-Answer:
-
-Source:
-
----
-
-# Section 6: Online vs In-Person And Delivery Branches
-
-What learning outcomes improve in-person?
-
-Answer:
-
-Source:
-
----
-
-What learning outcomes improve online?
-
-Answer:
-
-Source:
-
----
-
-What must change between offline print/PDF, online PDF, online cohort, self-paced, web, app, and hybrid or cross-modal delivery while preserving the same Core outcomes?
-
-Answer:
-
-Source:
-
----
-
-Which delivery modes require different evidence of learning, educator support, or learner pacing?
-
-Answer:
-
-Source:
-
----
-
-# Section 7: Bitcoin Learning Landscape
-
-## Comparable Programs
-
-Program:
-
-Strengths:
-
-Weaknesses:
-
-Lessons:
-
----
-
-Program:
-
-Strengths:
-
-Weaknesses:
-
-Lessons:
-
----
-
-# Section 8: Adjacent Programs
-
-Research:
-
-- Financial literacy
-- Entrepreneurship
-- Technology training
-- Community education
-- Open-source education
-
-Lessons:
-
----
-
-# Section 9: Learner Research
-
-Why do learners enroll?
-
-Evidence:
-
----
-
-Why do learners quit?
-
-Evidence:
-
----
-
-What do learners struggle with?
-
-Evidence:
-
----
-
-# Section 10: Educator Research
-
-What do educators find difficult?
-
-Evidence:
-
----
-
-What support would educators use?
-
-Evidence:
-
----
-
-# Section 11: Localization & AI
-
-Which elements should remain standardized globally?
-
-Answer:
-
----
-
-Which elements should be adaptable?
-
-Answer:
-
----
-
-What risks exist with AI customization?
-
-Answer:
-
----
-
-# Section 12: Cross-Cultural Research
-
-Which concepts appear culturally universal?
-
-Evidence:
-
----
-
-Which concepts are culturally sensitive?
-
-Evidence:
-
----
-
-Which examples do not translate well globally?
-
-Evidence:
-
----
-
-# Section 13: Multilingual Research
-
-Which source-writing practices improve translation quality?
-
-Evidence:
-
----
-
-Which editorial checks best preserve simple language, tone, style, and meaning when an English-first curriculum is translated?
-
-Evidence:
-
----
-
-Which Bitcoin concepts are difficult to translate?
-
-Evidence:
-
----
-
-Which concepts require localization rather than translation?
-
-Evidence:
-
----
-
-Common translation failures:
-
-Evidence:
-
----
-
-Which concepts require local expert explanation rather than direct translation?
-
-Evidence:
-
----
-
-# Section 14: Multi-Generational Research
-
-What works best for teenagers?
-
-Evidence:
-
----
-
-What works best for adults?
-
-Evidence:
-
----
-
-What works best for older adults?
-
-Evidence:
-
----
-
-What technological assumptions create barriers?
-
-Evidence:
-
----
-
-# Section 15: Accessibility & Inclusion
-
-What literacy level should the Diploma target?
-
-Evidence:
-
----
-
-What barriers exist for low-connectivity learners?
-
-Evidence:
-
----
-
-What barriers exist for low-technology learners?
-
-Evidence:
-
----
-
-# Section 16: Decision Validation
-
-## Decision
-
-Evidence Supporting:
-
-Evidence Challenging:
-
-Confidence:
-
 Recommendation:
-
----
-
-## Decision
-
-Evidence Supporting:
-
-Evidence Challenging:
-
-Confidence:
-
-Recommendation:
+Core implications:
+Custom implications:
+Educator Guide implications:
+Assessment implications:
+Follow-up needed:
+```
 
 ---
 
 # Section 17: Publication, Print, And QR Restraint
 
-How many QR codes can a printed learner resource use before the page becomes cluttered or the resource becomes fragile?
-
-Evidence:
-
----
-
-Which destinations are stable enough to justify QR codes in print?
-
-Evidence:
-
----
-
-What should remain fully available offline in the print or PDF version?
-
-Evidence:
-
----
+Research on print, offline access, and QR-code restraint is included in prompt 5 above.
 
 # Final Recommendations
 
-The research package should support, test, or challenge the following redesign decisions. Until external sources are filled in, these should be treated as research priorities and internal review implications rather than completed evidence claims.
+The external reviews now support several design principles while leaving the exact programme parameters as pilot hypotheses. The following statuses replace the earlier assumption that all listed decisions were equally safe.
 
-## Strong Internal Direction
+## Evidence-Informed Direction
 
-1. Reduce the beginner pathway to an approximately 8-hour 4-block structure.
+1. Use the approximately 8-hour, 4-module pathway as the working pilot baseline, with additional time or support when competence requires it.
 2. Separate beginner, Custom, and Advanced material to reduce cognitive overload.
-3. Increase active learning through a dedicated Activity Bank and educator facilitation support.
-4. Design source files for multilingual transfer from the beginning.
-5. Preserve an offline-capable in-person PDF path while documenting future delivery branches.
-6. Keep print QR codes sparse and tied to stable, high-value destinations.
+3. Require active learning, guided practice, retrieval, feedback, and objective-aligned evidence throughout the programme.
+4. Build the Educator Guide, Activity Bank, educator calibration, and reassessment system as required implementation infrastructure.
+5. Design source files for multilingual transfer, human review, versioning, and local comprehension testing from the beginning.
+6. Preserve a complete offline-capable instructional and educator-assessment path; optional app self-checks must never become a certification requirement.
+7. Keep print QR codes sparse, optional, accessible, and tied to controlled, maintained destinations.
+8. Make release evaluation part of the redesign rather than adding it after publication.
 
 ---
 
-## Evidence Needed Before Public Claims
+## Evidence Limits Before Public Claims
 
-1. Adult learning evidence for shorter, active, in-person learning experiences.
-2. Curriculum design evidence for modular learning, spiral review, and competency alignment.
-3. Educator support evidence showing why facilitator guides, timing support, and activity banks improve consistency.
-4. Evidence or expert review for multilingual source-writing practices.
-5. Evidence for online, self-paced, web, app, and cross-modal adaptations before making claims about those modes.
+1. No located Bitcoin-specific independent evaluation establishes the Diploma's effectiveness.
+2. No located evidence establishes that eight hours is universally sufficient or that four equal sessions are optimal.
+3. No located evidence validates the 50/50 theory-practice allocation.
+4. Delivery-mode claims require testing of the actual materials, supports, interaction, and evidence route in that mode.
+5. Translation equivalence requires local human review and learner testing; source-language quality alone is insufficient.
+6. Practical-assessment reliability requires measured educator agreement, not the existence of a rubric alone.
+7. Learning, reach, completion, satisfaction, certification, adoption, and financial outcomes are different constructs and must not be reported as interchangeable.
+8. Behavioural or long-term claims require delayed follow-up and, for causal claims, a credible comparison design.
 
 ---
 
 ## Areas Requiring More Research
 
-1. Completion and dropout patterns in comparable community education programs.
-2. Low-connectivity and mobile-first learning constraints.
-3. Cross-cultural adaptation risks for money, custody, and local Bitcoin examples.
-4. Print usability and QR-code restraint.
-5. Local expert-led practice models and safety boundaries.
+1. Independent evaluation of beginner Bitcoin education.
+2. Completion, attrition, retention, and transfer in comparable community programmes.
+3. Whether every required objective can be taught, practised, assessed, and reassessed safely within the intended pathway.
+4. Educator agreement and moderation feasibility across distributed educators.
+5. Low-connectivity, mobile-first, self-paced, and remote practical-assessment constraints.
+6. Cross-cultural and cross-language interpretation of money, custody, privacy, risk, and local Bitcoin examples.
+7. Accessibility and comprehension across teenagers, adults, older adults, varied literacy, and varied digital confidence.
+8. Safe local-practice models that do not require real secrets, meaningful-value transactions, or named-service recommendations.
 
 ---
 
 ## Decisions Safe To Make Now
 
-1. Use the 4-block model as the working architecture.
+1. Use the 4-module model as the working architecture.
 2. Keep Advanced material outside the Core beginner pathway.
-3. Build the Educator Guide and Activity Bank as required parts of the learning ecosystem.
-4. Write in plain, consistent, translation-ready language.
-5. Treat spending as one possible Block 4 practice, not the full global definition of Block 4.
-6. Use QR codes sparingly in printed learner materials.
+3. Build the Educator Guide, Activity Bank, educator calibration, and reassessment route as required parts of the learning ecosystem.
+4. Write in plain, consistent, translation-ready language and require qualified local review.
+5. Treat spending as one possible Module 4 practice, not the full global definition of Module 4.
+6. Require print and offline instructional resources to be complete without scanning; use QR codes only for optional enhancements, while clearly stating that app self-checks are optional.
+7. Use two required, non-compensatory educator-led assessment gates: theoretical understanding and directly observed practical competency.
+8. Require both assessment components before certification.
+9. Implement the 50/50 allocation as declared programme policy while evaluating validity, access failures, differential completion, and assessment burden; do not present the allocation as research-proven.
+10. Pilot and report actual time, access, assessment burden, reassessment, retention, and educator agreement.
 
 ---
 
 ## Decisions That Should Wait
 
-1. Certification design and verification governance.
+1. Detailed certificate governance and verification implementation.
 2. Final Advanced module objectives.
-3. Public claims that depend on external research until sources are added.
-4. App implementation and cross-modal continuation design.
-5. Final online cohort and self-paced evidence requirements.
+3. A final claim that eight hours is sufficient for the complete Core objective set.
+4. Final passing thresholds, scoring rules, retries, access arrangements, and accommodations within the approved two-component model.
+5. Public effectiveness, behavioural, adoption, or financial-outcome claims until supported by an appropriate evaluation.
+6. Optional app self-assessment functionality and cross-modal continuation; it must remain separate from assessment, completion, and certification.
+7. Final online cohort, self-paced, remote, and low-connectivity practical-evidence requirements.
+8. Scaling a language or delivery-mode combination before its safety, accessibility, translation, timing, and educator model are tested.
 
 ---
 
@@ -640,6 +692,11 @@ Books:
 
 Reports:
 
+- `../research/tldr-research.md`
+- `../research/claude-bitcoin-diploma-evidence-review.md`
+- `../research/codex-bitcoin-diploma-evidence-review.md`
+- `../research/gemini-bitcoin-diploma-evidence-review.md`
+
 Websites:
 
 Interviews:
@@ -647,6 +704,8 @@ Interviews:
 Podcasts:
 
 Field Notes:
+
+- `../input/20260724_Teachers Survey (Responses) - Form Responses 1.csv`
 
 Community Feedback:
 
@@ -665,9 +724,9 @@ Use `04_design.md` to understand design principles and assumptions.
 
 Use `05_objectives.md` to understand learning outcomes.
 
-Use `12_assessment.md` to understand evaluation of learning.
+Use `13_assessment.md` to understand evaluation of learning.
 
-Use `13_certification.md` to understand certification questions.
+Use `15_certification.md` to understand the two-part assessment prerequisite and outstanding certification-governance questions.
 
 Use `03_scope.md` to understand project workstreams and deliverables.
 
@@ -709,7 +768,7 @@ Reviewed files from the Hackfest repository:
 
 Module sequencing:
 
-- Use prerequisite structure to guide sequencing inside the 4-block Diploma.
+- Use prerequisite structure to guide sequencing inside the 4-module Diploma.
 - Place high-unlocking, low-complexity concepts early when they help later ideas make sense.
 - Use `satoshi` before transaction amounts, fees, rewards, and issuance.
 - Use `hashing` before blocks, proof of work, mining, and difficulty.

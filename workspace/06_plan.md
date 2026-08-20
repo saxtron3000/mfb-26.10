@@ -6,13 +6,13 @@ This is the source of truth for the current Bitcoin Diploma redesign structure.
 
 It defines:
 
-- the 4-block architecture;
+- the 4-module architecture;
 - what belongs in Core, Custom, and Advanced pathways at a boundary level;
 - how legacy content is being migrated;
 - how in-class time should be used;
 - which documents own detailed implementation work.
 
-Detailed activities belong in `10_activities.md`. Detailed facilitation guidance belongs in `11_guide.md`. Detailed objectives belong in `05_objectives.md`. Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use belong in `16_advanced.md`.
+Detailed activities belong in `10_activities.md`. Detailed facilitation guidance belongs in `12_educator-draft.md`; `12_educator-plan.md` is the supporting structure plan. Detailed objectives belong in `05_objectives.md`. App question-bank structure belongs in `14_microlearning.md`. Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use belong in `18_advanced.md`.
 
 `06_plan.md` is the active plan source of truth. The older duplicated plan file has been archived at `../y_archive/y_13_plan_superseded.md`.
 
@@ -24,19 +24,24 @@ The redesigned Diploma should be shorter, clearer, more practical, and easier to
 
 Current design commitments:
 
-- in-person first;
-- offline-capable print or PDF first;
-- approximately 8 hours total;
-- 4 blocks of approximately 2 hours each;
+- educator-facilitated delivery in person or online;
+- low-tech, offline-capable print/PDF instructional content, with no app, device, or connectivity requirement for learning, assessment, completion, or certification;
+- an approximately 8-hour delivery pathway that includes required teaching, practice, assessment, feedback, and recording;
+- 4 modules that may be delivered in four two-hour sessions, eight one-hour sessions, or another schedule that preserves the learning sequence and required evidence;
 - Core, Custom, and Advanced content separation;
 - shared Core theory and outcomes with localized, educator-led practice;
 - English-first drafting with simplicity, tone, style, terminology, and translation-readiness review before translation or publication;
-- practical learning in every block;
+- practical learning in every module;
 - a separate Activity Bank;
 - an Educator Guide designed for facilitation, pacing, adaptation, and safety;
+- a combined theoretical and practical assessment model tied directly to the learning objectives;
+- a 50% educator-led theoretical and 50% educator-observed practical assessment allocation;
+- optional app-based microlearning for recap, self-checks, discovery, and connection to My First Bitcoin updates;
+- educator-evaluated theory evidence through approved objective-aligned interactions; other educator-led theory work remains formative;
+- practical assessment directly evaluated by an educator, with observation concentrated in Modules 3 and 4;
 - Advanced technical material outside the beginner pathway;
 - sparse QR code use in printed learner materials;
-- future delivery branches documented without changing Core outcomes: online PDF, online cohort, self-paced, web, app, and cross-modal continuation.
+- future instructional branches documented without changing Core outcomes: online PDF, online cohort, self-paced, web, optional app self-assessment support, and cross-modal continuation. The app remains an optional self-assessment resource, not an assessment feature.
 
 The public explanation is simple:
 
@@ -44,18 +49,18 @@ The Diploma is being reorganized, not replaced.
 
 ---
 
-# 2. Four-Block Architecture
+# 2. Four-Module Architecture
 
-| Block | Role | Title | Core question |
+| Module | Role | Title | Core question |
 |---|---|---|---|
-| 1 | Problem | Fiat | What problem does fiat money create? |
+| 1 | Problem | Broken Money | How can money break? |
 | 2 | Solution | Bitcoin | Why was Bitcoin created, and how does it respond? |
 | 3 | Action | Self-custody | How do I take responsibility for using and securing Bitcoin? |
 | 4 | Custom | Bitcoin as Money | How can Bitcoin function as money in this community? |
 
-## Block 1: Problem / Fiat
+## Module 1: Understanding Money
 
-Keep this block focused on money and the fiat problem.
+Keep this module focused on money and the problems that can arise in modern money systems.
 
 Core content:
 
@@ -63,36 +68,37 @@ Core content:
 - what money is;
 - functions and properties of money;
 - barter limitations, including the double coincidence of wants;
-- scarcity, time preference, and opportunity cost at beginner level;
-- short history from barter to modern money, including the Nixon Shock as a brief historical marker;
-- fiat systems, including central banks, commercial banks, governments, and citizens at beginner level;
-- fractional reserve banking and bank runs at beginner level;
+- scarcity, time preference, and opportunity cost through essential ideas;
+- short history from barter to modern money, including coin debasement as a historical example, the Nixon Shock as a brief historical marker and, where useful, Executive Order 6102 as a clearly labelled U.S.-specific example;
+- fiat systems, including central banks, commercial banks, governments, and citizens with a simple role map;
+- fractional reserve banking and bank runs as an overview;
 - inflation and purchasing power;
 - CBDCs as a beginner fiat-system example where appropriate, emphasizing that digital fiat is not the same as decentralized or scarce money.
 
 Outcome:
 
-Learners can explain why fiat money is the problem Bitcoin responds to.
+Learners can explain the money problems Bitcoin responds to.
 
-## Block 2: Solution / Bitcoin
+## Module 2: How Bitcoin Works
 
-Keep this block focused on why Bitcoin exists and what makes it different.
+Keep this module focused on why Bitcoin exists and what makes it different.
 
 Core content:
 
 - search for digital and decentralized money, including the Cypherpunk context;
-- earlier digital-money attempts and influences such as DigiCash, Hashcash, Bit Gold, B-money, BitTorrent, and reusable proof of work at beginner level;
-- the double-spend problem at beginner level;
-- digital scarcity and credible scarcity at beginner level;
+- earlier digital-money attempts and influences such as DigiCash, Hashcash, Bit Gold, B-money, BitTorrent, and reusable proof of work in a brief historical survey;
+- the double-spend problem in plain language;
+- digital scarcity and credible scarcity through core examples;
 - Bitcoin origin story and timeline, including the whitepaper, Genesis Block, first transaction, and Pizza Day;
 - decentralization;
-- users, nodes, and miners at beginner level;
-- developer, miner, node, and user role boundaries at beginner level;
-- proof of work at beginner level;
+- users, nodes, and miners as network roles;
+- developer, miner, node, and user role boundaries with clear role distinctions;
+- proof of work with a simplified process; introduce hash functions only as the mechanism that makes proof of work costly to produce and quick to check, not as a calculation or cryptography lesson;
 - finite supply and halving;
 - satoshis and unit bias;
 - peer-to-peer transfer;
 - verifiability;
+- the "don't trust, verify" principle as a bridge from public-rule verification to personal safety practice;
 - Bitcoin as sound digital money;
 - personal responsibility as the bridge into self-custody.
 
@@ -100,9 +106,9 @@ Outcome:
 
 Learners can explain Bitcoin's purpose and how it differs from fiat money.
 
-## Block 3: Action / Self-custody
+## Module 3: Using Bitcoin Safely
 
-Keep this block practical and safety-oriented.
+Keep this module practical and safety-oriented.
 
 Core content:
 
@@ -114,7 +120,7 @@ Core content:
 - receiving bitcoin;
 - sending bitcoin;
 - verification, confirmations, and basic block explorer orientation where they support beginner understanding;
-- public-ledger privacy trade-offs at beginner level;
+- public-ledger privacy trade-offs as an introductory discussion;
 - irreversible transactions and address verification;
 - beginner safety practices, including common scams, copy/paste address risks, seed phrase protection, open-source wallet preference, and starting small;
 - acquiring and exchanging bitcoin as a concept, not financial advice;
@@ -122,11 +128,11 @@ Core content:
 
 Outcome:
 
-Learners can explain beginner self-custody concepts and identify basic safety practices.
+Learners can explain beginner self-custody concepts and demonstrate required wallet, transaction, verification, recovery-readiness, and safety actions under approved, supported conditions.
 
-## Block 4: Custom / Bitcoin as Money
+## Module 4: Bitcoin in Your Community
 
-This block is educator-selected.
+This module is educator-selected.
 
 Educators choose Custom modules because they understand their students, tools, risks, opportunities, and local conditions better than a centralized curriculum can.
 
@@ -157,9 +163,9 @@ Possible Custom content:
 
 Outcome:
 
-Learners can identify beginner-appropriate ways Bitcoin can function as money in local daily life.
+Learners can demonstrate at least one approved, educator-assessed way Bitcoin can function as money in local daily life and explain the relevant trade-offs and safety considerations.
 
-Spending is an important possible Block 4 practice, but Block 4 should remain Custom / Bitcoin as Money because local use may also include earning, saving, receiving, resource discovery, circular economy mapping, merchant discovery, and community problem-solving.
+Spending is an important possible Module 4 practice, but Module 4 should remain Bitcoin in Your Community because local use may also include earning, saving, receiving, resource discovery, circular economy mapping, merchant discovery, and community problem-solving.
 
 ---
 
@@ -169,8 +175,8 @@ Spending is an important possible Block 4 practice, but Block 4 should remain Cu
 
 Reading rule:
 
-- `BLOCK` means old content moves into Core blocks 1-3.
-- `CUSTOM` means old content becomes educator-selected Block 4 material.
+- `CORE` means old content moves into Core Modules 1–3.
+- `CUSTOM` means old content becomes educator-selected Module 4 material.
 - `ADVANCED` means old content becomes Advanced pathway material.
 - `OUT` does not mean deletion when the same item is marked Custom or Advanced.
 - In the reviewed table, no section is marked as out-only.
@@ -180,38 +186,38 @@ Migration summary:
 
 | Destination | Legacy content signal | Redesign decision |
 |---|---|---|
-| Core Block 1 | money, money history, fiat, early problem framing | Keep beginner monetary foundations and fiat problem material. |
-| Core Block 2 | decentralized currency search, Bitcoin origin, Bitcoin benefits | Keep beginner Bitcoin purpose and properties. |
-| Core Block 3 | wallet use, receiving, sending, verification, selected technical orientation | Keep practical use and safety material. |
-| Custom Block 4 | daily-life Bitcoin use, local tools, Lightning payments, local spending | Move into educator-selected workshops and demonstrations. |
+| Core Module 1 | money, money history, fiat, early problem framing | Keep beginner monetary foundations and fiat problem material. |
+| Core Module 2 | decentralized currency search, Bitcoin origin, Bitcoin benefits | Keep beginner Bitcoin purpose and properties. |
+| Core Module 3 | wallet use, receiving, sending, verification, selected technical orientation | Keep practical use and safety material. |
+| Custom Module 4 | daily-life Bitcoin use, local tools, Lightning payments, local spending | Move into educator-selected workshops and demonstrations. |
 | Advanced | deeper psychology, detailed mining, mempool, detailed transactions, philosophy, future scenarios | Move into Advanced pathways or educator background. |
 
 Split decisions:
 
-- Psychology of money stays in Core only at beginner level; deeper behavioral analysis moves to Advanced.
+- Psychology of money stays in Core as a foundation; deeper behavioral analysis moves to Advanced.
 - Nodes and miners stay in Core only as simple roles; technical mechanics move to Advanced.
 - Transaction concepts stay in Core only where needed for safe use and verification; detailed models move to Advanced.
-- CBDCs may appear briefly in Block 1 or locally in Block 4; policy and technical depth moves to Advanced.
+- CBDCs may appear briefly in Module 1 or locally in Module 4; policy and technical depth moves to Advanced.
 - Lightning distinctions may be introduced briefly, but wallet setup and payment practice normally belongs in Custom.
 - Buying and selling bitcoin may appear in Core as a conceptual risk map, but provider-specific practice belongs in Custom.
 - Named services, wallets, exchanges, peer-to-peer platforms, and local recommendations should not become global Student Book recommendations.
 
 ## Bitcoin For Organizations Cannibalization
 
-`workspace/mergefromorganizations.md` reviews the retiring `../ref/bitcoin-for-organizations/en` pathway for beginner Diploma use. `workspace/advancedorganizations.md` and `16_advanced.md` preserve the larger Advanced source trail.
+`18_advanced.md` is the sole holding authority for material from the retiring `../ref/bitcoin-for-organizations/en` pathway. It records both beginner-safe merge decisions and the larger Advanced source trail.
 
 Beginner merge decision:
 
 - Do not import Organizations chapters into the Student Book.
 - Use Organizations material only where it improves existing beginner outcomes.
-- Keep the Student Book lean; put misconception handling mostly in `11_guide.md` and scenario practice mostly in `10_activities.md` or Block 4 Custom templates.
+- Keep the Student Book lean; put misconception handling mostly in `12_educator-draft.md` and scenario practice mostly in `10_activities.md` or Module 4 Custom templates.
 
 Organizations content may support:
 
-- Block 1: CBDCs as digital fiat and a trust/control comparison.
-- Block 2: digital scarcity, double spending, short technical lineage, credible scarcity, protocol/layers framing, and role boundaries among developers, miners, nodes, and users.
-- Block 3: confirmations, explorer orientation, public-ledger transparency, irreversible settlement, and privacy trade-offs.
-- Block 4: local merchant, remittance, nonprofit, underbanked-access, circular-economy, on-ramp, and off-ramp scenarios.
+- Module 1: CBDCs as digital fiat and a trust/control comparison.
+- Module 2: digital scarcity, double spending, short technical lineage, credible scarcity, protocol/layers framing, and role boundaries among developers, miners, nodes, and users.
+- Module 3: confirmations, explorer orientation, public-ledger transparency, irreversible settlement, and privacy trade-offs.
+- Module 4: local merchant, remittance, nonprofit, underbanked-access, circular-economy, on-ramp, and off-ramp scenarios.
 - Educator Guide: misconception prompts and claim/evidence/trade-off facilitation.
 - Activity Bank: ledger exploration, local payment path comparison, community donation scenarios, and local resource mapping.
 
@@ -248,7 +254,7 @@ Draft source material in English first. Before translation or publication, revie
 
 Delivery-branch rule:
 
-Offline/in-person PDF is the first implementation mode. Online PDF, online cohort, self-paced, web, app, and cross-modal versions should branch from the same Core outcomes rather than become separate curricula.
+Low-tech, offline-capable print/PDF is the first content-publication mode and may support in-person facilitation or online facilitation. Online PDF, online cohort, self-paced, web, optional app self-assessment support, and cross-modal versions should branch from the same Core outcomes rather than become separate curricula. The My First Bitcoin app is optional in 2026.10 and may be used for recap, self-checks, discovery, and updates.
 
 ---
 
@@ -277,7 +283,7 @@ Core should function as the shared theory layer across languages and delivery mo
 
 ## Custom
 
-Custom completes Block 4.
+Custom completes Module 4.
 
 Custom should:
 
@@ -305,7 +311,7 @@ Template Custom units should include:
 
 ## Advanced
 
-Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use are collected in `16_advanced.md`.
+Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use are collected in `18_advanced.md`.
 
 Advanced outcomes are ongoing and should be designed module by module after the redesigned beginner Diploma is published.
 
@@ -316,6 +322,8 @@ Advanced content should not overload the beginner pathway. It may later become o
 # 5. In-Class Time Rules
 
 Class time should be used for learning that benefits from live facilitation.
+
+Begin time planning with the objectives, required practice, and assessment evidence. Do not shorten or waive these merely to fit a one- or two-hour session; schedule a follow-up when necessary. Educators may assign the relevant Student Book chapter or optional app recap before class, but must not make pre-reading, a learner-owned device, app use, or continuous connectivity a condition for Core instruction.
 
 Prioritize:
 
@@ -341,9 +349,11 @@ Internal performance rule:
 
 Treat the beginner pathway like a lean, high-performance learning experience. Every required component should improve learner clarity, completion likelihood, practice, educator usability, safety, translation readiness, or maintainability.
 
-Each block should close with a short review point. The review should include key takeaways, a learner explanation prompt, a link to the next block, and an evidence-of-learning opportunity that can connect to `12_assessment.md`.
+Each module should close with a short review point. The review should include key takeaways, a learner explanation prompt, a link to the next module, and an evidence-of-learning opportunity that can connect to `13_assessment.md`.
 
-Each block should follow a simple rhythm:
+Suggested delivery sequencing belongs in the Educator Guide. It can divide Module 1 into money foundations and modern fiat-system trade-offs, and Module 3 into custody foundations and transaction verification/safety, while preserving educator choice about activities and local pacing.
+
+Each module should follow a simple rhythm:
 
 1. Present the core idea briefly.
 2. Check understanding.
@@ -360,17 +370,17 @@ Each block should follow a simple rhythm:
 | Money, fiat, inflation, purchasing power | Detailed monetary theory and long policy history |
 | Double coincidence of wants, fiat-system roles, fractional reserve banking, bank runs, and brief CBDC orientation | Detailed banking policy, CBDC policy, and long monetary-policy history |
 | Bitcoin origin, purpose, properties, finite supply, sats, and beginner timeline | Deep protocol and cryptography detail |
-| Users, nodes, miners, proof of work at beginner level | Detailed mining mechanics, mempool, transaction lifecycle |
+| Overview of users, nodes, miners, and proof of work | Detailed mining mechanics, mempool, transaction lifecycle |
 | Wallets, addresses, keys, seed phrases, custody trade-offs, wallet recovery basics, and seed phrase testing | Advanced custody models and operational security |
 | Receiving, sending, verification, address checking, beginner safety, scam awareness, and start-small guidance | Advanced troubleshooting and technical analysis |
 | Beginner acquiring and exchanging pathways as risk orientation | Named provider recommendations, live exchange setup, deep KYC/no-KYC trade-off analysis, and tax/legal advice |
-| On-chain and Lightning distinctions at beginner level | Lightning channel mechanics, routing, liquidity, and node operations |
+| High-level distinctions between on-chain and Lightning | Lightning channel mechanics, routing, liquidity, and node operations |
 | Local daily-life Bitcoin use as Custom source material | Fixed global requirements for specific local tools, merchants, exchanges, or communities |
 | Guided discussion and practical orientation | Full activity instructions, facilitation scripts, and optional extensions |
 
 Activities leave the main student-facing text and move to `10_activities.md`.
 
-Educator preparation, timing, adaptation, misconception support, and debrief guidance move to `11_guide.md`.
+Educator preparation, timing, adaptation, misconception support, and debrief guidance move to `12_educator-draft.md`.
 
 ---
 
@@ -378,16 +388,16 @@ Educator preparation, timing, adaptation, misconception support, and debrief gui
 
 | Material | Owner document |
 |---|---|
-| Student-facing draft scaffold | `08_draft.md` |
+| Student Guide publication draft | `08_student.md` |
 | Learning objectives and competencies | `05_objectives.md` |
 | Activity categories and activity template | `10_activities.md` |
-| Educator facilitation and Custom selection guidance | `11_guide.md` |
-| Assessment evidence and direction | `12_assessment.md` |
-| Certification boundaries | `13_certification.md` |
-| Publication rules | `15_spec.md` |
-| Beginner-safe Organizations merge checklist | `mergefromorganizations.md` |
-| Organizations-to-Advanced source map | `advancedorganizations.md` and `16_advanced.md` |
-| Advanced module ideas and redacted content collection | `16_advanced.md` |
+| Educator facilitation and Custom selection guidance | `12_educator-draft.md` |
+| Combined assessment, objective-aligned evidence, and passing requirements | `13_assessment.md` |
+| App microlearning question-bank structure | `14_microlearning.md` |
+| Two-part assessment prerequisite for certification and governance questions | `15_certification.md` |
+| Diploma overview for collaborators and stakeholders | `17_spec.md` |
+| Organizations merge decisions and Advanced source trail | `18_advanced.md` |
+| Advanced module ideas and redacted content collection | `18_advanced.md` |
 | Public keynote and stakeholder brief | `../public/MFB-BD-Keynote.md` |
 
 ---
@@ -396,14 +406,14 @@ Educator preparation, timing, adaptation, misconception support, and debrief gui
 
 The October 2026 redesign should produce:
 
-- a 4-block beginner Diploma;
+- a 4-module beginner Diploma;
 - an approximately 8-hour delivery path;
 - clear learning objectives;
-- Student Book draft;
+- Student Guide;
 - Educator Guide;
 - Activity Bank;
 - Custom module templates;
-- assessment framework;
+- educator-led theoretical and practical certification-prerequisite framework, with optional app recap and self-check resources;
 - publication-ready source files;
 - public communication materials.
 
@@ -413,7 +423,7 @@ The Diploma should remain the entry point into a wider learning ecosystem, not t
 
 # 9. Follow-On Pathways
 
-Follow-on pathway ideas are collected in `16_advanced.md`.
+Follow-on pathway ideas are collected in `18_advanced.md`.
 
 ---
 
@@ -425,20 +435,21 @@ The redesign still needs decisions on:
 - minimum Custom module templates for October 2026;
 - minimum required practical tasks;
 - how much learner-facing prose should appear in the Student Book versus educator-led explanation;
-- whether sats should be introduced primarily in Block 2 or Block 3;
+- whether sats should be introduced primarily in Module 2 or Module 3;
 - which safety practices are required Core versus optional Custom;
 - which named tools or services may appear in published materials, and where;
 - final QR code destination list for print materials;
-- delivery-mode branch requirements for online PDF, online cohort, self-paced, web, app, and cross-modal continuation;
+- delivery-mode branch requirements for online PDF, online cohort, self-paced, web, optional app self-assessment support, and cross-modal continuation;
 - multilingual glossary readiness;
 - ownership and approval criteria for English-source simplicity and translation-readiness review;
 - ownership and approval criteria for post-translation language review;
-- final assessment format;
-- future certification verification options, including possible on-chain timestamping;
+- optional app self-assessment question-bank maintenance and learner-feedback requirements;
+- educator theory-interaction and practical tasks, rubrics, training, calibration, moderation, and reassessment rules;
+- certificate governance and future verification options, including possible on-chain timestamping;
 - low-connectivity delivery assumptions;
 - pilot and educator review process;
 - exact publication formats;
-- Advanced module objectives and sequencing, tracked in `16_advanced.md`.
+- Advanced module objectives and sequencing, tracked in `18_advanced.md`.
 
 ---
 

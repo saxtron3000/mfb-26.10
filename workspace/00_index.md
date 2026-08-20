@@ -9,10 +9,10 @@ Use these documents to understand:
 - why the redesign exists;
 - what is changing;
 - what must stay fixed;
-- how the new 4-block Diploma is structured;
+- how the new 4-module Diploma is structured;
 - how objectives, activities, assessment, educator support, and publication fit together.
 
-`y_archive/` is historical and must not be used as a source of truth for the current redesign.
+Reference and feedback material outside this folder is input, not an active source of truth, unless this index explicitly assigns it a role.
 
 ---
 
@@ -27,15 +27,19 @@ Use these documents to understand:
 | 5 | `05_objectives.md` | Review learner outcomes, objective levels, and competency boundaries. |
 | 6 | `06_plan.md` | Read the current source of truth for the redesign structure and content boundaries. |
 | 7 | `07_contents.md` | Review the planned content table of contents. |
-| 8 | `08_draft.md` | Review the draft student-book scaffold. |
+| 8 | `08_student.md` | Review the current Student Guide publication draft. |
 | 9 | `09_assets.md` | Review visual and asset needs. |
 | 10 | `10_activities.md` | See the Activity Bank structure and activity categories. |
-| 11 | `11_guide.md` | See the Educator Guide outline and facilitation responsibilities. |
-| 12 | `12_assessment.md` | Review assessment direction and evidence of learning. |
-| 13 | `13_certification.md` | Review certification boundaries and future questions. |
-| 14 | `14_lexicon.md` | Review terminology and language consistency. |
-| 15 | `15_spec.md` | Review publication rules and final consistency checks. |
-| 16 | `16_advanced.md` | Review Advanced module ideas, follow-on pathway notes, and parked legacy content. |
+| 11 | `11_resources.md` | Review external sources and their current student-book locations. |
+| 12 | `12_educator-draft.md` | Review the current educator-facing publication draft. |
+| 12a | `12_educator-plan.md` | Review the supporting Educator Guide outline and planning structure. |
+| 13 | `13_assessment.md` | Review the combined theoretical and practical competency assessment framework. |
+| 14 | `14_microlearning.md` | Review the optional app self-assessment question bank. |
+| 15 | `15_certification.md` | Review the two-part assessment prerequisite for certification and implementation questions. |
+| 16 | `16_lexicon.md` | Review terminology and language consistency. |
+| 17 | `17_spec.md` | Review the standalone Diploma overview for collaborators and stakeholders. |
+| 18 | `18_advanced.md` | Review Advanced module ideas, follow-on pathway notes, and parked legacy content. |
+| 19 | `99_horizon.md` | Review post-October candidates, programme boundaries, and future decision gates. |
 
 ---
 
@@ -48,53 +52,58 @@ Use these documents to understand:
 | Project scope and milestones | `03_scope.md` |
 | Design principles and constraints | `04_design.md` |
 | Objectives and competencies | `05_objectives.md` |
-| Draft student-book scaffold | `08_draft.md` |
-| 4-block structure, content boundaries, and legacy migration | `06_plan.md` |
-| Advanced module titles, follow-on pathway ideas, and parked legacy content | `16_advanced.md` |
+| Student Guide | `08_student.md` |
+| 4-module structure, content boundaries, and legacy migration | `06_plan.md` |
+| Advanced module titles, follow-on pathway ideas, and parked legacy content | `18_advanced.md` |
+| External sources and student-book claim references | `11_resources.md` |
 | Visual and asset needs | `09_assets.md` |
 | Activity Bank structure | `10_activities.md` |
-| Educator Guide structure | `11_guide.md` |
-| Assessment direction | `12_assessment.md` |
-| Certification boundaries | `13_certification.md` |
-| Beginner terminology and definitions | `14_lexicon.md` |
-| Publication specification | `15_spec.md` |
-| Beginner-safe Organizations merge decisions | `mergefromorganizations.md` |
-| Organizations-to-Advanced source map | `advancedorganizations.md` |
+| Educator Guide publication draft | `12_educator-draft.md` |
+| Educator Guide planning structure | `12_educator-plan.md` |
+| Objective-aligned combined assessment and evidence | `13_assessment.md` |
+| Optional app self-assessment question bank | `14_microlearning.md` |
+| Two-part assessment prerequisite for certification | `15_certification.md` |
+| Beginner terminology and definitions | `16_lexicon.md` |
+| Diploma overview for collaborators and stakeholders | `17_spec.md` |
+| Post-October horizon register | `99_horizon.md` |
+| Organizations merge decisions and Advanced source trail | `18_advanced.md` |
 | Public keynote and stakeholder brief | `../public/MFB-BD-Keynote.md` |
 
 ---
 
 # Current Working Direction
 
-The redesign currently uses this 4-block structure:
+The redesign currently uses this 4-module structure:
 
-1. Problem / Fiat
-2. Solution / Bitcoin
-3. Action / Self-custody
-4. Custom / Bitcoin as Money
+1. Understanding Money
+2. How Bitcoin Works
+3. Using Bitcoin Safely
+4. Bitcoin in Your Community
 
 Working assumptions:
 
-- in-person first;
-- offline-capable print or PDF first;
-- approximately 8 hours total;
-- approximately 2 hours per block;
+- educator-facilitated delivery in person (preferred) or online;
+- low-tech, offline-capable print/PDF teaching content, with no app or connectivity requirement for learning, assessment, completion, or certification;
+- an approximately 8-hour delivery pathway that includes required teaching, practice, assessment, feedback, and recording;
+- four modules that may be delivered across four two-hour sessions, eight one-hour sessions, or another objective-preserving schedule;
 - one beginner Diploma with Custom and Advanced pathways;
 - Core, Custom, and Advanced content separation;
 - shared Core theory with localized, educator-led practice;
 - English-first drafting with multilingual and translation-ready source files;
 - simplicity, tone, style, and translation-readiness review before translation or publication;
-- practical learning in every block;
-- educator-selected Custom block;
+- practical learning in every module;
+- educator-selected Module 4;
 - Activity Bank as a separate ecosystem component;
 - Educator Guide as a facilitation tool;
 - sparse QR code use in print materials;
-- future delivery branches documented without changing Core outcomes: online PDF, online cohort, self-paced, web, app, and cross-modal continuation;
-- assessment framework in scope;
-- certification design out of scope for the current redesign;
+- future instructional branches documented without changing Core outcomes: online PDF, online cohort, self-paced, web, optional app self-assessment support, and cross-modal continuation; app use remains optional self-assessment only;
+- two required, non-compensatory assessment components, each worth 50%: theoretical assessment uses approved educator-led evidence and practical assessment uses direct educator observation;
+- educator-led theoretical evidence must come from approved objective-aligned activities, workshops, discussions, or learner explanations with concise evidence criteria and records; other educator-led theory work remains formative;
+- Modules 1 and 2 are knowledge-dominant; Modules 3 and 4 are skills-dominant and require direct observation by an educator;
+- certification requires both theoretical and practical component statuses to meet their approved educator-led requirements; neither component can compensate for the other;
 - Advanced module design deferred until after the beginner Diploma is published;
 - Bitcoin for Organizations will not remain a standalone beginner path; beginner-safe material is merged only where it clarifies Core, Custom, educator, activity, or assessment work, while strategic and organizational depth is routed to Advanced;
-- `06_plan.md` is the active plan source of truth; the duplicated older plan file has been archived at `../y_archive/y_13_plan_superseded.md`.
+- `06_plan.md` is the active plan source of truth.
 
 ---
 
@@ -110,15 +119,15 @@ Public materials should be clear, short, and non-technical. They should explain 
 
 # Consistency Rules
 
-- Do not use `y_archive/` as current evidence or source material.
-- Use "block" for the required Diploma structure.
-- Use "Custom modules" or "Custom units" only for educator-selected Block 4 content.
-- Do not rename Block 4 globally as "Spending"; spending is one possible Custom / Bitcoin as Money practice.
-- Keep the full Advanced module title list only in `16_advanced.md`.
-- Use `mergefromorganizations.md` as the checklist for beginner-safe Organizations material; do not import Organizations chapters directly into the Student Book.
+- Do not treat reference, feedback, or superseded material as current authority unless this index explicitly assigns it a role.
+- Use "module" for the required Diploma structure.
+- Use "Custom modules" or "Custom units" only for educator-selected Module 4 content.
+- Do not rename Module 4 globally as "Spending"; spending is one possible Bitcoin in Your Community practice.
+- Keep the full Advanced module title list only in `18_advanced.md`.
+- Use `18_advanced.md` as the sole holding authority for Organizations material and Advanced pathways; do not import Organizations chapters directly into the Student Guide.
 - Keep detailed activity instructions in `10_activities.md`, not in the Student Book or plan.
-- Keep detailed facilitation guidance in `11_guide.md`, not in the Student Book or plan.
+- Keep detailed facilitation guidance in `12_educator-draft.md`, not in the Student Guide or curriculum plan. Use `12_educator-plan.md` only to plan and check the guide's structure.
 - Draft in English first, then review simplicity, tone, style, terminology, and translation readiness before translation or publication.
 - Keep print QR codes sparse and tied to stable, high-value destinations.
 - Fact-check or date current-data examples before publication.
-- Do not turn named tools, services, exchanges, wallets, maps, or local resources into global recommendations unless publication rules explicitly allow them.
+- Do not turn named tools, services, exchanges, wallets, maps, or local resources into global recommendations.

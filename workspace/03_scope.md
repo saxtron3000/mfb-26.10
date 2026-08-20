@@ -21,9 +21,9 @@ This document does not define design philosophy or decision-making principles. S
 
 This document does not define learning objectives. See `05_objectives.md`.
 
-This document does not define assessment methodology. See `12_assessment.md`.
+This document does not define assessment methodology. See `13_assessment.md`.
 
-This document does not define certification requirements. See `13_certification.md`.
+This document does not define certification requirements. See `15_certification.md`.
 
 ---
 
@@ -49,24 +49,25 @@ The scope assumes the current working design direction described in `04_design.m
 
 The following assumptions affect project execution:
 
-- Target duration: maximum 8 hours.
-- Working architecture: 4 blocks of approximately 2 hours: Problem / Fiat, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money.
-- In-person first.
-- Offline-capable print or PDF first.
+- Target duration: an approximately 8-hour delivery pathway, including required teaching, practice, assessment, feedback, and recording.
+- Working architecture: 4 modules—Understanding Money, How Bitcoin Works, Using Bitcoin Safely, and Bitcoin in Your Community—delivered in an objective-preserving schedule rather than fixed two-hour classes.
+- Educator-facilitated delivery in person or online.
+- Low-tech, offline-capable print/PDF instructional materials, with no app access required for learning, assessment, completion, or certification.
 - Single Diploma with Custom and Advanced pathways.
 - Core / Custom / Advanced categorization.
 - Shared Core theory and outcomes with localized, educator-led practice.
 - English-first drafting with multilingual and translation-ready source files.
 - English-source simplicity, tone, style, and translation-readiness review before translation or publication.
 - Sparse QR code use in print materials.
-- Future delivery branches should be documented without becoming current implementation requirements: online PDF, online cohort, self-paced, web, app, and cross-modal continuation.
+- Future instructional branches should be documented without becoming current implementation requirements: online PDF, online cohort, self-paced, web, optional app self-assessment support, and cross-modal continuation.
 - `06_plan.md` is the active plan source of truth.
-- Assessment framework is in scope.
-- Certification design is out of scope.
+- Combined assessment is in scope: educator-led theoretical assessment is 50% of the Diploma and educator-observed practical assessment is the remaining 50%.
+- Both assessment components are prerequisites for certification.
+- Detailed certification governance and credential infrastructure remain to be defined.
 - Localization preparation is in scope.
 - Localization implementation is out of scope.
 - Publishing is part of project completion.
-- Bitcoin for Organizations is being cannibalized, not preserved as a standalone beginner pathway. Use `mergefromorganizations.md` for beginner-safe additions and `advancedorganizations.md` / `16_advanced.md` for Advanced source trails.
+- Bitcoin for Organizations is being cannibalized, not preserved as a standalone beginner pathway. Use `18_advanced.md` as the sole holding authority for beginner-safe additions and Advanced source trails.
 
 ---
 
@@ -80,7 +81,7 @@ Reduce duration, duplication, and cognitive load while improving clarity and ret
 
 ### Deliverables
 
-- Four-block architecture proposal
+- Four-module architecture proposal
 - Core content map
 - Custom content map
 - Advanced content map
@@ -121,7 +122,7 @@ Create explicit links between:
 ### Deliverables
 
 - Competency framework
-- Competency-to-block map
+- Competency-to-module map
 - Competency-to-activity map
 - Competency evidence framework
 
@@ -222,30 +223,37 @@ Separate advanced learning from beginner learning.
 
 ### Deliverables
 
-- Advanced module title inventory guided by `16_advanced.md`
-- Advanced pathway recommendations guided by the candidate module titles in `16_advanced.md`
-- Organizations-to-Advanced source trail using `advancedorganizations.md` and the Organizations material already parked in `16_advanced.md`
+- Advanced module title inventory guided by `18_advanced.md`
+- Advanced pathway recommendations guided by the candidate module titles in `18_advanced.md`
+- Organizations-to-Advanced source trail using the Organizations material parked in `18_advanced.md`
 - Technical content recommendations
 
 ---
 
-## 10. Assessment Foundation & Assessment Framework
+## 10. Combined Assessment & Certification Prerequisite
 
 ### Purpose
 
-Create the foundation for evaluating learning.
+Create an objective-aligned system with two required, non-compensatory components: an educator-led theoretical component worth 50% and an educator-observed practical competency component worth 50%. Prevent certificate issuance until both components are passed.
 
 ### Deliverables
 
 - Assessment philosophy
-- Assessment framework
+- Objective-to-assessment blueprint
+- Educator-evaluated theoretical interactions and summative practical assessment tasks
+- 50/50 theoretical-practical assessment allocation, both evaluated by educators
 - Competency evidence framework
 - Assessment mapping
 - Evidence models
+- Common practical rubrics, observable criteria, and safety-critical rules
+- Educator guidance, authorization, training, calibration, and moderation requirements for practical assessment
+- Remediation, feedback, and reassessment process
+- Combined assessment-complete status for certification eligibility
+- Low-tech evidence-recording and delivery guidance
 
 ### Note
 
-Certification design is outside the scope of this project.
+The project establishes that both educator-evaluated assessment components are mandatory for certification. Optional app self-checks cannot evaluate, record, or replace either component. Certificate governance, identity verification, credential infrastructure, and on-chain verification decisions remain implementation questions.
 
 ---
 
@@ -272,7 +280,7 @@ Clarify implementation expectations.
 
 ### Deliverables
 
-- Offline/in-person PDF delivery specification
+- Low-tech, offline-capable print/PDF instructional-delivery specification
 - In-person delivery specification
 - Print/PDF usability guidance
 - Online adaptation guidance
@@ -280,7 +288,8 @@ Clarify implementation expectations.
 - Online cohort branch guidance
 - Self-paced adaptation guidance
 - Website branch guidance
-- Future app and cross-modal continuation notes
+- Educator-led theory and practical evidence-recording requirements
+- Cross-modal continuation notes
 - Delivery-mode branch map showing what stays fixed and what can adapt
 - Delivery assumptions documentation
 
@@ -294,7 +303,7 @@ Ensure realistic implementation.
 
 ### Deliverables
 
-- Block timing analysis
+- Module timing analysis
 - Activity timing analysis
 - Total workload analysis
 - Facilitator implementation guidance
@@ -360,18 +369,18 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 - 10-minute Prague keynote proposal
 - Speaker notes
 - Before / after comparison
-- 4-block visual brief
+- 4-module visual brief
 - Public call-to-action language
 - Backup notes for assessment, certification, and Advanced pathways
 
 ### Completion Criteria
 
 - Public materials explain what is changing and what is being preserved.
-- The 4-block structure is visible and easy to repeat.
-- The Custom / Bitcoin as Money block is explained as educator-selected and locally grounded.
+- The 4-module structure is visible and easy to repeat.
+- The Bitcoin in Your Community module is explained as educator-selected and locally grounded.
 - The Activity Bank and Educator Guide are presented as core ecosystem components.
 - Assessment and certification are described accurately without overpromising.
-- Advanced module titles are not duplicated outside `16_advanced.md`.
+- Advanced module titles are not duplicated outside `18_advanced.md`.
 
 ---
 
@@ -390,7 +399,7 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 
 ## Milestone 3 — Curriculum Architecture
 
-- Four-block architecture completed
+- Four-module architecture completed
 - Content categorization completed
 
 ## Milestone 4 — Practical Learning & Activity Bank
@@ -403,10 +412,10 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 - Educator Guide redesign completed
 - Delivery support systems completed
 
-## Milestone 6 — Assessment Foundation
+## Milestone 6 — Combined Assessment Standard
 
-- Assessment framework completed
-- Competency evidence completed
+- Educator-evaluated theory and educator-observed practical-assessment framework completed
+- Objective-level evidence, educator rubrics, and mandatory two-part certification prerequisite completed
 
 ## Milestone 7 — Publishing
 
@@ -433,19 +442,19 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 
 The redesign is complete when:
 
-- Diploma can be delivered within approximately 8 hours.
-- Diploma can be delivered from an offline-capable print or PDF package.
+- Diploma has an approximately 8-hour planning baseline and is scheduled with additional time whenever required to meet the objectives and assessment standard.
+- Diploma teaching content and educator-led assessment can be delivered from an offline-capable print or PDF package, with no app requirement for completion.
 - Learning outcomes are clearly defined.
-- Competencies are mapped to blocks, activities, and evidence.
+- Competencies are mapped to modules, activities, and evidence.
 - Practical learning is significantly increased.
 - Essential and optional content are clearly separated.
 - Advanced content is appropriately separated.
-- Named tools, local resources, and current-data examples are checked against publication rules.
+- Named tools, local resources, and current-data examples are checked before use or publication.
 - Beginner-safe Organizations material has been merged only where it improves the Core Diploma, Activity Bank, Educator Guide, assessment, lexicon, or publication guardrails.
 - Strategic, organizational, financial, policy, legal, tax, treasury, sector-specific, and highly technical Organizations material is parked for Advanced rather than required in the beginner Diploma.
 - Timing assumptions are documented.
 - Delivery assumptions are documented.
-- Assessment framework is completed.
+- Combined assessment framework, educator-educator guidance, and two-part certification prerequisite are completed.
 - Measurable outcomes are defined.
 - Educator Guide is redesigned.
 - Activity Bank is operational.
@@ -470,9 +479,7 @@ The redesign is complete when:
 
 The following items are intentionally excluded from the current redesign project:
 
-- Certification design
-- Certification standards
-- Certification governance
+- Certificate governance, credential infrastructure, identity verification, and public verification implementation
 - A standalone Bitcoin for Organizations beginner pathway
 - Organizational treasury, accounting, legal, tax, investment, policy, compliance, or institutional custody instruction inside the beginner Diploma
 - Full localization implementation
@@ -480,7 +487,7 @@ The following items are intentionally excluded from the current redesign project
 - Maintenance of multiple localized curriculum variants
 - Online cohort platform implementation
 - Self-paced learning platform implementation
-- App implementation
+- Building or replacing the underlying app platform; optional self-assessment content may be maintained separately in `14_microlearning.md`.
 - Cross-modal learner-continuation infrastructure
 
 These may become future projects.
@@ -491,7 +498,7 @@ These may become future projects.
 
 - Success Metrics
 - North Star Definition
-- Certification Design
+- Certificate Governance and Verification Design
 - AI Localization
 - Advanced Pathway Design
 - Delivery-Mode Branch Roadmap

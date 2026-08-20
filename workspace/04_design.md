@@ -23,9 +23,9 @@ For workstreams and deliverables, see `03_scope.md`.
 
 For learning outcomes and competencies, see `05_objectives.md`.
 
-For assessment, see `12_assessment.md`.
+For assessment, see `13_assessment.md`.
 
-For certification, see `13_certification.md`.
+For certification, see `15_certification.md`.
 
 ---
 
@@ -51,9 +51,9 @@ Internal purpose research clarifies that the Diploma should remain a structured,
 
 The current working design direction is:
 
-- in-person first;
-- approximately 8-hour maximum completion pathway;
-- working architecture of four blocks of approximately 2 hours each: Problem / Fiat, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money;
+- educator-facilitated delivery in person or online;
+- approximately 8-hour delivery pathway, including required teaching and assessment;
+- working architecture of four modules—Understanding Money, How Bitcoin Works, Using Bitcoin Safely, and Bitcoin in Your Community—rather than fixed two-hour classes;
 - single Diploma with Custom and Advanced pathways;
 - Core / Custom / Advanced content separation;
 - English-first drafting followed by explicit simplicity, tone, style, and translation-readiness review;
@@ -63,8 +63,10 @@ The current working design direction is:
 - Organizations material used only where it clarifies beginner Core concepts, educator misconception handling, Activity Bank scenarios, or local Custom practice;
 - Educator Guide treated as a facilitation engine;
 - Activity Bank treated as part of the learning ecosystem;
+- assessment built from the learning objectives, using an educator-led theoretical component worth 50% and an educator-observed practical component worth 50%;
+- certification based on both theoretical evidence and directly observed practical competence;
 - localization considered through adaptable examples, activities, and facilitation, not through changing core outcomes;
-- in-person and offline-capable PDF delivery treated as the first mode, with future branches to online PDF, online cohort, self-paced, web, app, and cross-modal continuation documented without overloading the current scope;
+- low-tech, offline-capable print/PDF content treated as the first publication mode for in-person facilitation or online facilitation, with future branches to online PDF, online cohort, self-paced, web, optional app self-assessment support, and cross-modal continuation;
 - print PDFs kept clean, with QR codes used sparingly for stable, high-value destinations;
 - shared theory and Core outcomes standardized globally, while practice is localized and led by educators or local experts;
 - an internal "racecar" standard: every component should earn its place by improving clarity, completion, practice, educator usability, or learner safety.
@@ -86,12 +88,12 @@ The following rough design notes are clarified into stable design rules:
 | Practical skills | Treat practical learning as guided skill orientation: demonstration, practice, production, reflection, and safe next steps. |
 | Precise Learning Outcomes | Let measurable outcomes control content decisions. If an objective cannot be taught, practiced, and evidenced inside the beginner pathway, it should not be Core. |
 | Include future ideas | Preserve future pathways in roadmaps, Advanced material, and publication planning without expanding the required beginner Diploma. |
-| Forking off modes | Design from a first offline/in-person PDF mode toward clear future delivery branches: online PDF, online cohort, self-paced, web, app, and eventual cross-modal continuation. |
+| Forking off modes | Design from low-tech, offline-capable print/PDF teaching toward clear future instructional branches: online PDF, online cohort, self-paced, web, optional app self-assessment support, and eventual cross-modal continuation, while preserving educator-led assessment. |
 | Don't put too many QR codes on PDF in print to start | Use QR codes sparingly in print. Prefer a few durable destinations over many fragile links that clutter pages or become stale. |
 | Consensus based theory with localized, expert-led practice | Keep the Core theory layer and outcomes shared globally. Let local educators or experts select and adapt practice responsibly. |
-| 4 units - total 8hrs? | Use four blocks, not old module labels, as the required structure. The working total is approximately 8 hours, with roughly 2 hours per block. |
+| 4 units - total 8hrs? | Use four modules, not old module labels, as the required structure. Plan from objectives and required evidence: four two-hour sessions are one useful format, not a limit. |
 | We are building a racecar | Design for a lean, high-performance learning experience. Remove ornament, duplication, and content that slows completion without improving learning. |
-| Problem / solution / self-custody / spending | Keep the official block sequence as Problem / Fiat, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money. Spending is an important possible Block 4 practice, but Block 4 should not be narrowed globally to spending only. |
+| Problem / solution / self-custody / spending | Keep the official module sequence as Understanding Money, How Bitcoin Works, Using Bitcoin Safely, and Bitcoin in Your Community. Spending is an important possible Module 4 practice, but Module 4 should not be narrowed globally to spending only. |
 
 ---
 
@@ -129,7 +131,7 @@ Learners should be encouraged to:
 
 ## 4.2 Preserve Thematic Coherence
 
-The redesigned Diploma should not become a collection of disconnected blocks.
+The redesigned Diploma should not become a collection of disconnected modules.
 
 Thematic consistency should be intentionally preserved across:
 
@@ -202,6 +204,16 @@ Learners should encounter:
 
 These topics should be framed as guided orientation, not as permission to manage high-stakes custody or make financial decisions independently.
 
+## 4.7.1 Design For Valid Assessment
+
+Assessment should match the learning objective and the kind of competence being claimed.
+
+The optional app may deliver microlearning, knowledge checks, feedback, recap, and discovery for self-assessment. Educators gather all theoretical evidence through approved objective-aligned interactions and evaluate all practical performance using common tasks and rubrics.
+
+Modules 1 and 2 should be knowledge-dominant, while Modules 3 and 4 should be skills-dominant. The complete Diploma assessment allocates 50% to educator-led theory and 50% to educator-observed practice. Educator-led activities may be formative, but only approved objective-aligned interactions with criteria and records contribute to the theoretical score.
+
+The app cannot record or evaluate assessment evidence. Certification requires both educator-evaluated components.
+
 ## 4.8 Design For Multilingual Transfer
 
 The Diploma should be drafted in English first and designed for later translation.
@@ -258,7 +270,7 @@ Otherwise, technical depth should move to Custom, Advanced, educator background,
 
 ## 4.10 Design For Delivery-Mode Branching
 
-The first implementation should remain in-person first and offline-capable.
+The first content implementation should remain low-tech and offline-capable, with in-person and online facilitation supported. Certification has no app or connectivity requirement.
 
 The design should also make future branches possible:
 
@@ -267,7 +279,7 @@ The design should also make future branches possible:
 - online cohort;
 - self-paced course;
 - web version;
-- app version;
+- optional app self-assessment integration;
 - eventual cross-modal continuation across formats.
 
 Each branch should preserve the same Core outcomes while adapting pacing, educator support, evidence of learning, accessibility, and technology assumptions.
@@ -349,11 +361,11 @@ The redesigned Diploma must:
 - require an English-language simplicity, tone, style, and translation-readiness review before translation or publication;
 - avoid unnecessary beginner technical overload;
 - distinguish Core, Custom, and Advanced content;
-- preserve the official four-block naming and avoid narrowing Block 4 globally to spending only;
+- preserve the official four-module naming and avoid narrowing Module 4 globally to spending only;
 - avoid global endorsement of named tools, services, wallets, exchanges, or local resources;
 - fact-check or date current-data examples before publication;
 - use QR codes sparingly in print PDFs;
-- preserve an offline-capable in-person pathway while documenting future delivery branches;
+- preserve low-tech, offline-capable content delivery and educator-led assessment for in-person teaching and online teaching;
 - support real-world implementation, not ideal conditions.
 
 ---
@@ -379,13 +391,13 @@ Pending: detailed audience assumptions require human confirmation.
 
 The Diploma should be designed for varied technology contexts.
 
-The first delivery mode should remain usable through in-person teaching and offline-capable print or PDF materials.
+The first content-delivery mode should remain usable through in-person teaching or online teaching and offline-capable print or PDF materials. It provides a device-free certification route through educator-led assessment.
 
 Future delivery branches should be planned as adaptations of the same source, not as separate curricula with drifting outcomes.
 
 Design questions:
 
-- Can learning occur offline?
+- Can teaching, assessment, and record-keeping remain usable when connectivity fails?
 - Can activities be delivered with minimal connectivity?
 - Can learning occur with only mobile devices?
 - What happens when technology fails?
@@ -409,8 +421,11 @@ The redesigned Diploma should distinguish between fixed, adaptable, and flexible
 - Learning objectives
 - Core outcomes
 - Competency expectations
+- Objective-to-assessment blueprint
+- Two-part assessment requirement
+- Minimum evidence and rubric criteria for certification
 - Bitcoin-only educational focus
-- Four-block beginner architecture
+- Four-module beginner architecture
 - Shared Core theory and safety boundaries
 
 ## Adaptable
@@ -475,7 +490,12 @@ Educators should be supported with:
 - misconception awareness;
 - review structures;
 - classroom decision-making;
-- adaptation boundaries.
+- adaptation boundaries;
+- assessment literacy;
+- practical test administration;
+- rubric use and evidence recording;
+- feedback and reassessment; and
+- educator calibration.
 
 The Educator Guide should function as a facilitation engine, not as a duplicate of the Student Book.
 
@@ -509,7 +529,7 @@ Spiral review should:
 
 - deepen understanding;
 - reinforce retention;
-- connect blocks together;
+- connect modules together;
 - strengthen long-term learning.
 
 Modularity should not break the learner journey.
@@ -574,6 +594,10 @@ Statistics, fees, legal context, provider availability, and network conditions m
 
 Adaptation and localization may gradually weaken learning outcomes.
 
+## Assessment Validity And Educator Variation Risk
+
+Optional app self-checks may over-reward recall, while educator theory and practical judgments may vary across cohorts. The 50/50 theoretical-practical allocation, approved educator theory interactions, direct practical observation, common rubrics, educator calibration, reassessment rules, and moderation are required to protect certificate consistency.
+
 ## Translation Risk
 
 English-first phrasing, complex sentences, inconsistent tone, idioms, inconsistent terms, or culturally narrow examples may distort meaning or make multilingual publication harder than necessary. Treating translation as a final production step may preserve avoidable problems from the English source.
@@ -592,7 +616,7 @@ Locally useful practice may become unsafe or misleading if it is not led by educ
 
 ## Narrow Spending Risk
 
-Reducing Block 4 to "spending" may understate broader local Bitcoin-as-money possibilities such as earning, saving, merchant discovery, circular economies, remittances, resource mapping, and community problem-solving.
+Reducing Module 4 to "spending" may understate broader local Bitcoin-as-money possibilities such as earning, saving, merchant discovery, circular economies, remittances, resource mapping, and community problem-solving.
 
 ## Organizations Source Creep Risk
 
@@ -614,6 +638,7 @@ The retiring Bitcoin for Organizations pathway contains strong material for misc
 - What does an educator need before teaching?
 - What support is required during delivery?
 - What support is required after delivery?
+- What training and calibration are required before assessing learners?
 
 ## Ecosystem Questions
 
@@ -625,7 +650,7 @@ The retiring Bitcoin for Organizations pathway contains strong material for misc
 ## Accessibility Questions
 
 - What happens when internet access fails?
-- What happens when learners lack devices?
+- How will educator-led assessment remain accessible to learners with varied devices, connectivity, and communication needs?
 - What happens when classes are interrupted?
 - Which content must be fully usable offline?
 - How many QR codes can a print PDF include before it becomes cluttered or fragile?
@@ -645,7 +670,7 @@ The retiring Bitcoin for Organizations pathway contains strong material for misc
 - What changes for an online cohort?
 - What evidence of learning works in a self-paced format?
 - What belongs on the web version?
-- What would an app need to preserve from the Core experience?
+- Which optional app self-check features would improve learner review without creating a hidden assessment requirement?
 - What should cross-modal continuation mean for a learner who moves between formats?
 
 ---
@@ -658,17 +683,17 @@ Use `02_research.md` for evidence gathering.
 
 Use `05_objectives.md` for learning outcomes and competencies.
 
-Use `12_assessment.md` for how learning is evaluated.
+Use `13_assessment.md` for how learning is evaluated.
 
-Use `13_certification.md` for certification questions and future certification design.
+Use `15_certification.md` for the two-part assessment prerequisite and certification governance questions.
 
 Use `03_scope.md` for workstreams, milestones, deliverables, publishing, and completion criteria.
 
 Use `06_plan.md` for active structure, content boundaries, and legacy migration.
 
-Use `16_advanced.md` for Advanced module titles, follow-on pathway ideas, and parked legacy content.
+Use `18_advanced.md` for Advanced module titles, follow-on pathway ideas, and parked legacy content.
 
-Use `15_spec.md` for publication, QR code, source-of-truth, and delivery-output rules.
+Use `17_spec.md` for publication, QR code, source-of-truth, and delivery-output rules.
 
 
 ---
@@ -683,10 +708,10 @@ Public communication should emphasize:
 
 - The mission is not changing.
 - The learner pathway is becoming easier to complete.
-- The beginner pathway is organized into four blocks.
+- The beginner pathway is organized into four modules.
 - Educators receive better tools and clearer facilitation support.
-- Communities gain local relevance through the Custom / Bitcoin as Money block.
-- Spending can be included as local practice, but Block 4 is broader than spending.
+- Communities gain local relevance through the Bitcoin in Your Community module.
+- Spending can be included as local practice, but Module 4 is broader than spending.
 - Advanced pathways remain available without overloading beginners.
 
 The design story should avoid excessive internal terminology. Use concrete contrasts such as long to short, dense to clear, lecture-heavy to active, centralized design to educator choice, and one document to learning ecosystem.

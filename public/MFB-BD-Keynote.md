@@ -32,7 +32,7 @@ Key points:
 - The Diploma remains focused on Bitcoin education.
 - The learner pathway becomes shorter and more coherent.
 - The working model is an in-person-first, approximately 8-hour pathway.
-- The current working architecture is a 4-block structure of approximately 2 hours each.
+- The current working architecture is a 4-module structure of approximately 2 hours each.
 - Practical learning becomes more intentional.
 - Educator support becomes clearer and more usable.
 - Advanced technical content is separated from the beginner pathway.
@@ -101,7 +101,7 @@ The current working design direction is:
 
 - in-person first;
 - approximately 8-hour maximum completion pathway;
-- 4 blocks of approximately 2 hours each;
+- 4 modules of approximately 2 hours each;
 - one Diploma with Core, Custom, and Advanced pathways;
 - substantially increased practical learning;
 - practical skills structured using PPP: Presentation, Practice, Production;
@@ -112,20 +112,20 @@ The current working design direction is:
 
 The redesign should teach learners how to think, not what to think. Learners should leave with better questions, clearer reasoning, and more confidence.
 
-Legacy content is being reorganized, not simply discarded. Foundational money and fiat material moves into Problem / Fiat; Bitcoin origins and benefits move into Solution / Bitcoin; practical wallet and verification material moves into Action / Self-custody; daily-life payments, local tools, and local money examples move into Custom / Bitcoin as Money; deeper technical, philosophical, and future-facing content moves into Advanced pathways.
+Legacy content is being reorganized, not simply discarded. Foundational money and fiat material moves into Understanding Money; Bitcoin origins and benefits move into How Bitcoin Works; practical wallet and verification material moves into Using Bitcoin Safely; daily-life payments, local tools, and local money examples move into Bitcoin in Your Community; deeper technical, philosophical, and future-facing content moves into Advanced pathways.
 
 ---
 
-# The 4-Block Learning Architecture
+# The 4-Module Learning Architecture
 
-| Block | Learning Role | Title |
+| Module | Learning Role | Title |
 |---|---|---|
-| Block 1 | Problem | Fiat |
-| Block 2 | Solution | Bitcoin |
-| Block 3 | Action | Self-custody |
-| Block 4 | Custom | Bitcoin as Money |
+| Module 1 | Problem | Understanding Money |
+| Module 2 | Solution | How Bitcoin Works |
+| Module 3 | Action | Using Bitcoin Safely |
+| Module 4 | Custom | Bitcoin in Your Community |
 
-## Block 1: Problem / Fiat
+## Module 1: Understanding Money
 
 Focus:
 
@@ -140,7 +140,7 @@ Learner outcome:
 
 Learners can explain why fiat money is the problem Bitcoin responds to.
 
-## Block 2: Solution / Bitcoin
+## Module 2: How Bitcoin Works
 
 Focus:
 
@@ -155,7 +155,7 @@ Learner outcome:
 
 Learners can explain Bitcoin as the solution being introduced and how it differs from fiat money.
 
-## Block 3: Action / Self-custody
+## Module 3: Using Bitcoin Safely
 
 Focus:
 
@@ -171,7 +171,7 @@ Learner outcome:
 
 Learners can explain beginner self-custody concepts and identify basic safety practices.
 
-## Block 4: Custom / Bitcoin as Money
+## Module 4: Bitcoin in Your Community
 
 Focus:
 
@@ -231,7 +231,7 @@ Expected improvements:
 
 The Educator Guide should function as a facilitation engine, not as a duplicate of the Student Book.
 
-The fourth block is educator-selected because educators are community leaders. They understand local situations, needs, risks, opportunities, and learner requirements better than a centralized curriculum can.
+The fourth module is educator-selected because educators are community leaders. They understand local situations, needs, risks, opportunities, and learner requirements better than a centralized curriculum can.
 
 The redesign should give educators a bank of modules and activity templates so they can complete the Diploma in a way that is locally meaningful while still protecting shared learning standards.
 
@@ -247,6 +247,8 @@ The redesigned Diploma should be understood as a learning ecosystem rather than 
 | Educator Guide | Facilitation, pacing, classroom decisions, discussion management, and adaptation support |
 | Activity Bank | Participation, practice, local adaptation, review, and practical learning |
 | Custom templates | Local workshops, demonstrations, and community-specific Bitcoin use cases |
+| My First Bitcoin app | Optional microlearning, learner-owned self-checks, feedback, recap, and discovery; never assessment evidence |
+| Educator-led assessment | Explanation, synthesis, simulations, role-plays, and direct observation of practical competence |
 | Advanced pathways | Deeper study without overloading the beginner pathway |
 
 Possible supporting components:
@@ -261,7 +263,12 @@ Possible supporting components:
 
 # Assessment And Certification Direction
 
-Assessment should connect learning objectives to evidence of learning.
+Assessment should connect every learning objective to evidence that matches it. The model has two parts:
+
+1. A 50% theoretical component, evaluated by educators through approved explanations, activities, games, discussions, and role-plays.
+2. A 50% practical competency component, evaluated by educators through directly observed demonstrations, simulations, tests, and role-plays.
+
+Like a driving test, learners must show that they understand the relevant ideas and that they can perform the required skills. The optional app can help learners review, but it does not assess, record, or determine certification.
 
 Assessment should align with:
 
@@ -295,9 +302,11 @@ Possible summative evidence:
 
 Important distinction:
 
-Assessment is part of the redesign foundation. Certification design is a future decision.
+Modules 1 and 2 are knowledge-dominant, while Modules 3 and 4 are skills-dominant. The complete assessment is allocated 50% to educator-led theory and 50% to educator-observed practical competence.
 
-The redesign can prepare foundations for certification through objectives, competencies, assessment frameworks, and evidence models. Certification governance and verification are separate future decisions.
+Participation and attendance are not certification. A learner may receive a Diploma certificate only after both the theoretical component and the educator-led practical competency component are passed and recorded. This protects a shared minimum standard across educators and communities.
+
+Certificate governance, identity verification, and public verification remain implementation decisions; they must not create a path to certification without both assessment components.
 
 ---
 
@@ -324,7 +333,7 @@ Adaptable:
 
 Flexible with guardrails:
 
-- block sequencing;
+- module sequencing;
 - delivery mode adaptations;
 - localization choices;
 - depth of Custom and Advanced material.
@@ -353,7 +362,7 @@ Local relevance should increase without weakening learning standards.
 Suggested release path:
 
 1. Confirm design direction.
-2. Finalize block structure.
+2. Finalize module structure.
 3. Define Core, Custom, and Advanced content.
 4. Rewrite student materials.
 5. Build Educator Guide.
@@ -399,7 +408,7 @@ The Diploma remains open, serious, and community driven.
 - Learners will do more than listen; they will discuss, reason, practice, and reflect.
 - Educators will receive better support.
 - Advanced pathways will remain available without overloading beginners.
-- The fourth block gives educators local choice.
+- The fourth module gives educators local choice.
 - Practical workshops and demonstrations are becoming more central.
 - The Diploma will remain open source and community driven.
 - October 2026 is the public release target.
@@ -410,14 +419,14 @@ The Diploma remains open, serious, and community driven.
 
 | Slide | Time | Message | Visual |
 |---|---:|---|---|
-| 1. Bitcoin Diploma 2026 | 0:30 | The Diploma is evolving, not being replaced. | Title plus 4-block strip |
+| 1. Bitcoin Diploma 2026 | 0:30 | The Diploma is evolving, not being replaced. | Title plus 4-module strip |
 | 2. Why Redesign? | 1:15 | The issue is not lack of value; it is overload, pacing, and teachability. | Before / after contrast |
 | 3. What Stays | 1:00 | The mission, open-source model, community leadership, and Bitcoin-only focus remain. | Four preservation anchors |
-| 4. What Changes | 1:15 | The pathway becomes 8 hours, 4 blocks, practical, and easier to teach. | Change stack |
-| 5. The 4-Block Model | 2:00 | Problem / Fiat, Solution / Bitcoin, Action / Self-custody, Custom / Bitcoin as Money. | Horizontal block diagram |
-| 6. Educators Complete The Local Story | 1:30 | The fourth block is selected by educators because they know their communities best. | Educator choosing from module bank |
-| 7. A Learning Ecosystem | 1:30 | The redesigned Diploma includes Student Book, Educator Guide, Activity Bank, Custom templates, and Advanced pathways. | Ecosystem diagram |
-| 8. What This Makes Possible | 1:15 | More learners can complete the Diploma and more educators can teach it well. | Learner pathway |
+| 4. What Changes | 1:15 | The pathway becomes 8 hours, 4 modules, practical, and easier to teach. | Change stack |
+| 5. The 4-Module Model | 2:00 | Understanding Money, How Bitcoin Works, Using Bitcoin Safely, Bitcoin in Your Community. | Horizontal module diagram |
+| 6. Educators Complete The Local Story | 1:30 | The fourth module is selected by educators because they know their communities best. | Educator choosing from module bank |
+| 7. A Learning And Assessment Ecosystem | 1:30 | The Student Book, Educator Guide, app, Activity Bank, and trained educators work together. | Ecosystem diagram |
+| 8. What This Makes Possible | 1:15 | More learners can complete the Diploma while robust assessment protects certificate reputation. | Learner-to-certificate pathway |
 | 9. October 2026 Call To Action | 1:15 | The release needs educators, communities, contributors, and supporters. | Four calls to action |
 
 ---
@@ -432,7 +441,7 @@ Key message: The Diploma is evolving, not being replaced.
 
 Speaker note: Open by naming the redesign as a continuation of the same mission: open-source Bitcoin education led by communities.
 
-Suggested visual: Title over a simple 4-block strip.
+Suggested visual: Title over a simple 4-module strip.
 
 ## Slide 2: Why Redesign?
 
@@ -460,37 +469,37 @@ Time: 75 seconds
 
 Key message: The Diploma becomes shorter, clearer, more practical, and easier to teach.
 
-Speaker note: Name the major changes: 8-hour pathway, 4 blocks, Activity Bank, stronger Educator Guide, and Core, Custom, and Advanced separation.
+Speaker note: Name the major changes: 8-hour pathway, 4 modules, Activity Bank, stronger Educator Guide, and Core, Custom, and Advanced separation.
 
 Suggested visual: Change stack or simple checklist.
 
-## Slide 5: The 4-Block Model
+## Slide 5: The 4-Module Model
 
 Time: 120 seconds
 
 Key message: The new structure tells a simpler learning story.
 
-Speaker note: Walk through the four blocks: Problem / Fiat, Solution / Bitcoin, Action / Self-custody, and Custom / Bitcoin as Money.
+Speaker note: Walk through the four modules: Understanding Money, How Bitcoin Works, Using Bitcoin Safely, and Bitcoin in Your Community.
 
-Suggested visual: Horizontal 4-block diagram.
+Suggested visual: Horizontal 4-module diagram.
 
 ## Slide 6: Educators Complete The Local Story
 
 Time: 90 seconds
 
-Key message: The fourth block is chosen by educators because they know their communities best.
+Key message: The fourth module is chosen by educators because they know their communities best.
 
-Speaker note: Explain that educators choose practical Custom / Bitcoin as Money modules based on local tools, local needs, risks, and opportunities.
+Speaker note: Explain that educators choose practical Bitcoin in Your Community modules based on local tools, local needs, risks, and opportunities.
 
-Suggested visual: Educator selects from a Custom module bank into Block 4.
+Suggested visual: Educator selects from a Custom module bank into Module 4.
 
-## Slide 7: A Learning Ecosystem
+## Slide 7: A Learning And Assessment Ecosystem
 
 Time: 90 seconds
 
-Key message: The redesigned Diploma is more than a student book.
+Key message: The redesigned Diploma is more than a student book or an app.
 
-Speaker note: Introduce Student Book, Educator Guide, Activity Bank, Custom templates, and Advanced pathways.
+Speaker note: Introduce the Student Book, Educator Guide, Activity Bank, app, Custom templates, and Advanced pathways. Explain the driving-test model: educators assess both theoretical understanding and practical performance; the app offers voluntary self-checks and review.
 
 Suggested visual: Ecosystem diagram.
 
@@ -498,9 +507,9 @@ Suggested visual: Ecosystem diagram.
 
 Time: 75 seconds
 
-Key message: More learners can complete the Diploma and more educators can teach it well.
+Key message: More learners can complete the Diploma while shared assessment protects what the certificate means.
 
-Speaker note: Describe improved completion, local adaptation, practical learning, educator usability, and advanced pathways without beginner overload.
+Speaker note: Describe improved completion, local adaptation, practical learning, educator usability, and advanced pathways without beginner overload. Add that every certificate requires both knowledge and educator-observed practical evidence.
 
 Suggested visual: Learner pathway from Core Diploma to local use and future learning.
 
@@ -525,14 +534,14 @@ Say:
 - The Diploma is being reorganized, not replaced.
 - It is becoming shorter, but not shallower.
 - Legacy content is moving into the right places: Core, Custom, or Advanced.
-- The fourth block gives educators local choice.
+- The fourth module gives educators local choice.
 - Practical workshops and demonstrations are becoming more central.
 
 Avoid:
 
 - listing all Advanced module titles;
 - sounding like the old Diploma failed;
-- promising final certification details;
+- promising certificate-governance details that have not yet been decided;
 - overexplaining technical Bitcoin topics;
 - using internal planning terms when a plain contrast works better.
 
@@ -542,11 +551,12 @@ Avoid:
 
 | Before | After |
 |---|---|
-| Long and dense pathway | 8-hour 4-block pathway |
+| Long and dense pathway | 8-hour 4-module pathway |
 | Beginner and advanced material mixed together | Core, Custom, and Advanced separation |
 | Activities embedded inconsistently | Dedicated Activity Bank |
 | Educator support uneven | Educator Guide as facilitation engine |
-| Local adaptation unclear | Educator-selected Custom / Bitcoin as Money block |
+| Assessment varies by cohort | Shared objectives, educator-led theory criteria, and educator-observed practical rubrics |
+| Local adaptation unclear | Educator-selected Bitcoin in Your Community module |
 
 ---
 
@@ -554,7 +564,7 @@ Avoid:
 
 For educators:
 
-Help test Custom / Bitcoin as Money modules.
+Help test Bitcoin in Your Community modules, practical assessment tasks, and common rubrics.
 
 For communities:
 
@@ -575,7 +585,7 @@ Help make publication, translation, educator readiness, and the October 2026 rel
 Keep these topics available for questions, but do not make them central to the 10-minute talk:
 
 - assessment direction;
-- certification boundaries;
+- two-part assessment prerequisite for certification;
 - Advanced pathway details;
 - detailed scope and milestones;
 - research evidence still being gathered;
@@ -594,8 +604,8 @@ Possible appendix materials:
 - full learning objectives;
 - competency areas;
 - assessment framework;
-- certification questions;
+- certificate governance questions;
 - research evidence summary;
-- block-level objective templates;
+- module-level objective templates;
 - glossary;
 - open decisions.
