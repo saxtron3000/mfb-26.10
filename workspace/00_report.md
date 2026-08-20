@@ -4,6 +4,8 @@
 **Scope:** All current Markdown and publication-source files in `workspace/`, `publish/`, `review/`, and `public/`, plus the root repository guidance.  
 **Purpose:** An actionable consistency review. This is a review snapshot, not a new source of curriculum policy.
 
+**Resolution update, 19 August 2026:** Repository-migration item 2 is complete. All 40 broken local Markdown-link occurrences identified by this review were repaired; a repository-wide recheck found 0 broken occurrences across 110 local links. Later descriptions of those broken paths preserve the original audit finding.
+
 ## TL;DR
 
 The Diploma is substantially more coherent than it was in the earlier review. The four-module story is clear, the Student Guide now covers the previously missing stablecoin/non-Bitcoin comparison and trading/speculation boundary, Module 4 is consistently required but locally adaptable, `B3.11` is explicit, and almost all active files now agree that the app is optional and supplies no certification evidence.
@@ -13,7 +15,7 @@ It is **not yet ready to publish as a certificated Diploma**. The main issue is 
 Address these items in order:
 
 1. **Build the assessment package before making certification operational.** The project still lacks the final objective-to-evidence crosswalk, approved theory interactions, practical tasks, rubrics, prompting rules, assessor calibration, completion record, and privacy/appeals process. The Educator Guide itself says it is not publication-ready.
-2. **Finish the repository migration.** A local-link check found **40 broken Markdown-link occurrences across six files**. The index and README point to the wrong publication paths; the Educator Guide links to deleted workspace filenames; the optional self-assessment links to old filenames; and the documented `advanced/` location does not exist.
+2. **Resolved: finish the repository migration.** The **40 broken Markdown-link occurrences across six files** were repaired on 19 August 2026, including the publication, workspace, self-assessment, research, asset, and Advanced-location references.
 3. **Remove the remaining assessment-policy regressions.** The Educator Guide says in one place that the app supplies “most” theory, although every authority says the app is optional and non-certifying. Its final-approval list also asks for obsolete app thresholds and synchronization. Two planning passages understate the educator's theory-assessment role.
 4. **Resolve what “50% / 50%” means.** The project calls the components non-compensatory gates but also uses “score,” “worth,” and “share.” The cleanest rule is: theory and practice are equally important component gates; every required mapped objective must pass; there is no combined compensating grade unless a numerical reporting model is deliberately designed.
 5. **Prove the approximately eight-hour pathway.** There are 25 certification objectives, a 20,000-word Student Guide, direct observation, feedback, recording, and possible reassessment. This may be workable, but no timed objective-level route or cohort-capacity model proves it. Treat eight hours as unvalidated until a complete route is timed with real educators and learners.
@@ -86,7 +88,9 @@ Create one versioned table with one row for each of the 25 certification objecti
 
 Then produce the minimum viable assessment pack from that table. Until this exists, describe the guides as a teaching draft and avoid implying that certification can already be issued consistently.
 
-### 3.2 The file migration is incomplete
+### 3.2 The file migration was incomplete — resolved
+
+The paths in this section were repaired on 19 August 2026. The local-link release check now passes with 0 broken occurrences across 110 checked links.
 
 The project now separates planning (`workspace/`), publication (`publish/`), and review (`review/`). That is a good governance improvement, but dependent paths were not fully updated.
 

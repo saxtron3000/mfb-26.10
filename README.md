@@ -11,10 +11,10 @@ Choose the route that matches your work:
 | If you want to… | Start with… |
 |---|---|
 | Understand the curriculum design | [`workspace/00_index.md`](workspace/00_index.md) |
-| Read or edit the Student Guide | [`publish/mfb-bd-sg-26.10.md`](publish/mfb-bd-sg-26.10.md) |
-| Read or edit the Educator Companion Guide | [`publish/mfb-bd-eg-26.10.md`](publish/mfb-bd-eg-26.10.md) |
+| Read or edit the Student Guide | [`mfb-bd-sg-26.10.md`](publish/mfb-bd/mfb-bd-sg-26.10.md) |
+| Read or edit the Educator Companion Guide | [`mfb-bd-eg-26.10.md`](publish/mfb-bd/mfb-bd-eg-26.10.md) |
 | Prepare to teach the Diploma quickly | [`mfb-bd-qs-26.10.md`](publish/mfb-bd/mfb-bd-qs-26.10.md) |
-| Work on optional app self-assessment content | [`publish/mfb-bd-ml-26.10.md`](publish/mfb-bd-ml-26.10.md) |
+| Work on optional app self-assessment content | [`mfb-ml-26.10.md`](publish/mfb-ml/mfb-ml-26.10.md) |
 | Check current release actions | [`review/00_todo.md`](review/00_todo.md) |
 | Review unresolved consistency decisions | [`review/00_consistency.md`](review/00_consistency.md) |
 | Understand the project in one document | [`workspace/17_spec.md`](workspace/17_spec.md) |
@@ -26,7 +26,7 @@ Choose the route that matches your work:
 | [`workspace/`](workspace/) | Working documents that guide content creation: design, scope, objectives, architecture, activities, assessment, terminology, and publication planning. |
 | [`publish/`](publish/) | Curriculum sources intended for publication in Sanity and release as the new curriculum. |
 | [`review/`](review/) | Cross-project reviews, quality controls, consistency decisions, annotations, and release actions. |
-| [`advanced/`](advanced/) | Advanced pathway ideas and legacy material parked outside the beginner Diploma. |
+| [`publish/mfb-adv/`](publish/mfb-adv/) | Reserved for future Advanced publication sources; current planning remains in `workspace/18_advanced.md`. |
 | [`public/`](public/) | Public briefs, presentation material, and communication assets. |
 
 Keep planning commentary out of `publish/`. Keep review findings in `review/` until they are approved and incorporated into the appropriate working or publication source.
@@ -37,10 +37,10 @@ The files intended to become the live curriculum are:
 
 | File | Audience and destination |
 |---|---|
-| [`mfb-bd-sg-26.10.md`](publish/mfb-bd-sg-26.10.md) | Student Guide; learner-facing curriculum for publication. |
-| [`mfb-bd-eg-26.10.md`](publish/mfb-bd-eg-26.10.md) | Educator Companion Guide; educator-facing preparation and facilitation support. |
+| [`mfb-bd-sg-26.10.md`](publish/mfb-bd/mfb-bd-sg-26.10.md) | Student Guide; learner-facing curriculum for publication. |
+| [`mfb-bd-eg-26.10.md`](publish/mfb-bd/mfb-bd-eg-26.10.md) | Educator Companion Guide; educator-facing preparation and facilitation support. |
 | [`mfb-bd-qs-26.10.md`](publish/mfb-bd/mfb-bd-qs-26.10.md) | Educator Quick Start Guide; a concise first-teaching route into the full materials. |
-| [`mfb-bd-ml-26.10.md`](publish/mfb-bd-ml-26.10.md) | Optional microlearning self-assessment data for the app. |
+| [`mfb-ml-26.10.md`](publish/mfb-ml/mfb-ml-26.10.md) | Optional microlearning self-assessment data for the app. |
 
 These files implement decisions made in the working documents. They should not introduce new curriculum policy without first updating the appropriate source of truth in `workspace/`.
 
@@ -70,7 +70,7 @@ Use these files when making curriculum decisions:
 | Assessment evidence and passing requirements | [`workspace/13_assessment.md`](workspace/13_assessment.md) |
 | Certification prerequisite and governance | [`workspace/15_certification.md`](workspace/15_certification.md) |
 | Terminology and definitions | [`workspace/16_lexicon.md`](workspace/16_lexicon.md) |
-| Advanced boundaries and parked content | [`advanced/18_advanced.md`](advanced/18_advanced.md) |
+| Advanced boundaries and parked content | [`workspace/18_advanced.md`](workspace/18_advanced.md) |
 
 The complete reading order and ownership map are in [`workspace/00_index.md`](workspace/00_index.md).
 

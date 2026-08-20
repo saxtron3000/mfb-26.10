@@ -94,12 +94,14 @@ Time Spent:
 
 Date: 2026-08-12
 
-Inputs:
+Inputs synthesized into this file before the current repository migration:
 
-- [`../research/claude-bitcoin-diploma-evidence-review.md`](../research/claude-bitcoin-diploma-evidence-review.md)
-- [`../research/codex-bitcoin-diploma-evidence-review.md`](../research/codex-bitcoin-diploma-evidence-review.md)
-- [`../research/gemini-bitcoin-diploma-evidence-review.md`](../research/gemini-bitcoin-diploma-evidence-review.md)
-- [`../research/tldr-research.md`](../research/tldr-research.md), the combined decision summary
+- Claude Bitcoin Diploma evidence review
+- Codex Bitcoin Diploma evidence review
+- Gemini Bitcoin Diploma evidence review
+- combined evidence-review summary
+
+The four model-generated input files are not retained as active sources in the current repository. Their combined findings, limitations, and curriculum implications are preserved below.
 
 These are rapid evidence reviews, not registered systematic reviews. They draw mainly from adjacent research in adult learning, cognitive science, financial education, digital skills, professional assessment, educator development, accessibility, translation, and delivery-mode design. Findings from those settings do not transfer automatically to a mixed-age, community-led Bitcoin programme.
 
@@ -692,10 +694,7 @@ Books:
 
 Reports:
 
-- `../research/tldr-research.md`
-- `../research/claude-bitcoin-diploma-evidence-review.md`
-- `../research/codex-bitcoin-diploma-evidence-review.md`
-- `../research/gemini-bitcoin-diploma-evidence-review.md`
+- Four model-generated evidence-review inputs were consolidated into the external evidence synthesis in this file before the current repository migration; the separate files are not retained as active sources.
 
 Websites:
 

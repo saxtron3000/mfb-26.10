@@ -24,10 +24,10 @@ The current publication sources are:
 
 | Publication | File | Purpose |
 |---|---|---|
-| Student Guide | [`mfb-bd-sg-26.10.md`](../publish/mfb-bd-sg-26.10.md) | Learner-facing Diploma curriculum. |
-| Educator Companion Guide | [`mfb-bd-eg-26.10.md`](../publish/mfb-bd-eg-26.10.md) | Educator-facing preparation, facilitation, adaptation, safety, and assessment guidance. |
+| Student Guide | [`mfb-bd-sg-26.10.md`](../publish/mfb-bd/mfb-bd-sg-26.10.md) | Learner-facing Diploma curriculum. |
+| Educator Companion Guide | [`mfb-bd-eg-26.10.md`](../publish/mfb-bd/mfb-bd-eg-26.10.md) | Educator-facing preparation, facilitation, adaptation, safety, and assessment guidance. |
 | Educator Quick Start Guide | [`mfb-bd-qs-26.10.md`](../publish/mfb-bd/mfb-bd-qs-26.10.md) | Concise first-teaching route and links to essential Diploma materials. |
-| Optional self-assessment | [`mfb-bd-ml-26.10.md`](../publish/mfb-bd-ml-26.10.md) | Microlearning question data for the optional app self-assessment. |
+| Optional self-assessment | [`mfb-ml-26.10.md`](../publish/mfb-ml/mfb-ml-26.10.md) | Microlearning question data for the optional app self-assessment. |
 
 These files should contain publication-ready content. Planning notes, unresolved questions, review commentary, and historical material should remain outside `publish/`.
 
@@ -57,7 +57,7 @@ Read the working documents in this order when you need the full design context:
 | 16 | [`17_spec.md`](17_spec.md) | Read the standalone Diploma overview for collaborators and stakeholders. |
 | 17 | [`99_horizon.md`](99_horizon.md) | Review post-release candidates, programme boundaries, and future decision gates. |
 
-Advanced pathway ideas and parked legacy material are maintained separately in [`advanced/18_advanced.md`](../advanced/18_advanced.md).
+Advanced pathway ideas and parked legacy material are maintained in [`18_advanced.md`](18_advanced.md). Future Advanced publication sources may use `publish/mfb-adv/` when that package is created.
 
 ---
 
@@ -72,20 +72,20 @@ Advanced pathway ideas and parked legacy material are maintained separately in [
 | Objectives and competencies | [`05_objectives.md`](05_objectives.md) |
 | Four-module architecture, content boundaries, and legacy migration | [`06_plan.md`](06_plan.md) |
 | Learner-content structure | [`07_contents.md`](07_contents.md) |
-| Student Guide publication source | [`publish/mfb-bd-sg-26.10.md`](../publish/mfb-bd-sg-26.10.md) |
+| Student Guide publication source | [`publish/mfb-bd/mfb-bd-sg-26.10.md`](../publish/mfb-bd/mfb-bd-sg-26.10.md) |
 | Visual and asset needs | [`09_assets.md`](09_assets.md) |
 | Activity design | [`10_activities.md`](10_activities.md) |
 | External sources and claim references | [`11_resources.md`](11_resources.md) |
 | Educator Guide planning structure | [`12_educator-plan.md`](12_educator-plan.md) |
-| Educator Companion Guide publication source | [`publish/mfb-bd-eg-26.10.md`](../publish/mfb-bd-eg-26.10.md) |
+| Educator Companion Guide publication source | [`publish/mfb-bd/mfb-bd-eg-26.10.md`](../publish/mfb-bd/mfb-bd-eg-26.10.md) |
 | Educator Quick Start Guide publication source | [`publish/mfb-bd/mfb-bd-qs-26.10.md`](../publish/mfb-bd/mfb-bd-qs-26.10.md) |
 | Objective-aligned assessment and evidence | [`13_assessment.md`](13_assessment.md) |
 | Optional app microlearning plan | [`14_microlearning-plan.md`](14_microlearning-plan.md) |
-| Optional app self-assessment publication source | [`publish/mfb-bd-ml-26.10.md`](../publish/mfb-bd-ml-26.10.md) |
+| Optional app self-assessment publication source | [`publish/mfb-ml/mfb-ml-26.10.md`](../publish/mfb-ml/mfb-ml-26.10.md) |
 | Certification prerequisite and governance questions | [`15_certification.md`](15_certification.md) |
 | Beginner terminology and definitions | [`16_lexicon.md`](16_lexicon.md) |
 | Collaborator and stakeholder overview | [`17_spec.md`](17_spec.md) |
-| Advanced pathways and parked legacy content | [`advanced/18_advanced.md`](../advanced/18_advanced.md) |
+| Advanced pathways and parked legacy content | [`18_advanced.md`](18_advanced.md) |
 | Post-release horizon register | [`99_horizon.md`](99_horizon.md) |
 | Active release actions | [`review/00_todo.md`](../review/00_todo.md) |
 | Cross-project consistency decisions | [`review/00_consistency.md`](../review/00_consistency.md) |
@@ -143,12 +143,12 @@ Review findings should be converted into an approved decision or an action in `r
 
 - Use `06_plan.md` for architecture and content-boundary decisions.
 - Keep measurable outcomes and competency requirements in `05_objectives.md`.
-- Keep learner-facing publication content in `publish/mfb-bd-sg-26.10.md` and align it with `07_contents.md`.
+- Keep learner-facing publication content in `publish/mfb-bd/mfb-bd-sg-26.10.md` and align it with `07_contents.md`.
 - Keep detailed activities and assessment-task specifications in `10_activities.md`, not in the Student Guide or curriculum plan.
-- Keep educator-facing publication content in `publish/mfb-bd-eg-26.10.md`; use `12_educator-plan.md` to plan and check its structure.
+- Keep educator-facing publication content in `publish/mfb-bd/mfb-bd-eg-26.10.md`; use `12_educator-plan.md` to plan and check its structure.
 - Keep assessment rules in `13_assessment.md` and certification eligibility and governance questions in `15_certification.md`.
-- Keep optional app planning in `14_microlearning-plan.md` and publication data in `publish/mfb-bd-ml-26.10.md`.
-- Keep the complete Advanced inventory and Organizations source trail in `advanced/18_advanced.md`.
+- Keep optional app planning in `14_microlearning-plan.md` and publication data in `publish/mfb-ml/mfb-ml-26.10.md`.
+- Keep the complete Advanced inventory and Organizations source trail in `18_advanced.md` until a separate Advanced publication package is created.
 - Keep cross-project findings, decisions, quality checks, and release actions in `review/`.
 - Draft in English first, then review simplicity, tone, terminology, accessibility, and translation readiness before publication.
 - Keep printed QR codes sparse and tied to stable, high-value destinations.
