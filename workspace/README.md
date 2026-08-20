@@ -10,13 +10,13 @@ The project is in active planning and drafting. The files in `workspace/` are wo
 
 The current direction is:
 
-- a beginner Diploma with an approximately 8-hour minimum planning baseline;
+- a beginner Diploma with an approximately 8-hour delivery pathway that includes required assessment;
 - four modules that may be delivered in four two-hour sessions or another objective-preserving schedule;
 - a shared Core followed by an educator-selected Module 4;
 - low-tech, offline-capable print or PDF content delivery first, facilitated in person or online;
 - practical learning, discussion, reflection, review, and learner explanation in every module;
 - English-first source drafting followed by simplicity, tone, terminology, style, and translation-readiness review;
-- a separate Student Book, Activity Bank, Educator Guide, assessment framework, and publication specification;
+- a separate Student Book, Activity Bank, Educator Guide, assessment framework, and collaborator overview;
 - Advanced module design after the beginner Diploma is stable and published;
 - future online PDF, online cohort, self-paced, web, optional app self-assessment support, and cross-modal branches that preserve the same Core outcomes;
 - a combined assessment framework: 50% educator-led theory and 50% educator-observed practice.
@@ -49,7 +49,6 @@ Modules 1–3 form the shared Core every learner completes. Local educators sele
 | Path | Purpose |
 |---|---|
 | `workspace/` | Active planning and drafting package; the main working area. |
-| `workspace/advanced/` | Source maps for merging beginner-safe Organizations material and preserving Advanced material. |
 | `ref/` | Legacy Bitcoin Diploma, Educator Guide, and Bitcoin for Organizations reference material. |
 | `public/` | Public-facing briefs, presentation sources, PDFs, images, and stakeholder communication assets. |
 | `feedback/` | Review notes and stakeholder feedback used as project inputs. |
@@ -78,11 +77,9 @@ Reference and feedback material is input, not automatically approved curriculum.
 | [`14_microlearning.md`](14_microlearning.md) | Optional app self-assessment question bank across the four Diploma modules. |
 | [`15_certification.md`](15_certification.md) | Two-part assessment prerequisite for certification and outstanding governance questions. |
 | [`16_lexicon.md`](16_lexicon.md) | Beginner-safe terminology and definitions for consistent drafting and translation. |
-| [`17_spec.md`](17_spec.md) | Standalone 2026.10 overview, publication rules, and collaborator-facing specification. |
+| [`17_spec.md`](17_spec.md) | Standalone 2026.10 overview for collaborators and stakeholders. |
 | [`18_advanced.md`](18_advanced.md) | Advanced module ideas, follow-on pathways, and legacy material parked outside the beginner Diploma. |
 | [`99_horizon.md`](99_horizon.md) | Post-October candidates, programme boundaries, and future decision gates. |
-| [`advanced/mergefromorganizations.md`](advanced/mergefromorganizations.md) | Checklist for beginner-safe material selected from Bitcoin for Organizations. |
-| [`advanced/advancedorganizations.md`](advanced/advancedorganizations.md) | Source trail for Organizations material routed to Advanced pathways. |
 
 The public stakeholder brief and keynote source is [`../public/MFB-BD-Keynote.md`](../public/MFB-BD-Keynote.md).
 
@@ -95,8 +92,7 @@ The public stakeholder brief and keynote source is [`../public/MFB-BD-Keynote.md
 - Keep detailed facilitation guidance in `12_educator-draft.md`, not in the Student Guide or curriculum plan; use `12_educator-plan.md` only to plan and check the guide structure.
 - Keep the combined assessment model, objective-aligned evidence, and passing requirements in `13_assessment.md`; keep certification eligibility and governance questions in `15_certification.md`.
 - Keep the full Advanced module list and parked advanced content in `18_advanced.md`.
-- Use `advanced/mergefromorganizations.md` as the beginner-safe Organizations checklist; do not import Organizations chapters directly into the Student Book.
-- Use `advanced/advancedorganizations.md` and `18_advanced.md` for Organizations material that exceeds beginner scope.
+- Use `18_advanced.md` as the sole holding authority for Organizations material and Advanced pathways; do not import Organizations chapters directly into the Student Book.
 
 ## Design and Publication Guardrails
 
