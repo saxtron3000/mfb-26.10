@@ -464,6 +464,8 @@ Do not assume that every proposed CBDC has the same design. Use current, local, 
 
 ### Review: how can money break?
 
+**Recall before reviewing:** Without looking back, name the three functions of money, explain why barter is difficult, and identify one trade-off in a modern money system. This is not graded.
+
 Pause and consider the money you use: what makes it useful in daily life, and which of its rules depend on institutions you must trust? Barter is difficult because matching needs is inefficient, while fiat money makes exchange easier but can involve changing supply, restricted access, and declining purchasing power. In short, people look for monetary alternatives when they want different trade-offs around supply, control, access, and trust.
 
 #### Key takeaways
@@ -762,6 +764,8 @@ Self-custody is therefore not just a technical feature. It requires protecting b
 Personal responsibility does not mean acting alone or refusing help. A cautious learner can use education, peer review, documented procedures, and small tests without giving anyone access to secret information.
 
 ### Review: how does Bitcoin respond to fiat problems?
+
+**Recall before reviewing:** Without looking back, explain one problem Bitcoin addresses, distinguish a node from a miner, and name one responsibility or trade-off Bitcoin introduces. This is not graded.
 
 Pause and consider how Bitcoin changes the trust model: how do public rules, finite issuance, peer-to-peer transfer, and independent verification respond to the concerns raised in the previous module? Ask yourself how nodes and miners have different roles, why double spending must be prevented, and which new responsibilities arise when a person controls their own keys. Bitcoin replaces some institutional trust with verification and personal responsibility; it does not remove risk or trade-offs.
 
@@ -1148,6 +1152,8 @@ Channel setup, routing operations, and liquidity management are advanced topics.
 
 ### Review: what does self-custody responsibility mean?
 
+**Recall before reviewing:** Without looking back, identify what may be shared and what must remain secret, list the checks required before sending, and state when you should stop and seek help. This is not graded.
+
 Pause and consider what direct control would require from you: could you protect a recovery plan, distinguish safe receiving information from secrets, and verify a recipient, amount, network, and fee before sending? Self-custody gives you control of the keys, but it removes the provider who might reset access or reverse an error; custodial services make a different set of trust and risk trade-offs. The practical recap is simple: protect keys and backups, choose tools carefully, recognise scam signals, and keep mistakes small while learning.
 
 #### Key takeaways
@@ -1523,6 +1529,8 @@ Good community discovery helps you find people who explain, verify, and respect 
 
 ### Review: how can Bitcoin function as money in your community?
 
+**Recall before reviewing:** Without looking back, name the local need examined, who controlled the keys, and the main benefit, risk, and safe next step. This is not graded.
+
 Complete this review individually, then compare your reasoning with your team or cohort. Consider the local example you studied: what real need did it address, which function of money was involved, and was value moved on-chain, through Lightning, or both? Ask who controlled the keys, what the strongest benefit and most serious risk were, and how local law, infrastructure, language, or culture affected the result. A responsible next step is one that fits the local context, makes costs and custody clear, limits errors and scams, and can be evaluated against evidence.
 
 **Module 4 answer:** Bitcoin can function as money when people voluntarily use it to earn, save, receive, send, spend, price, or settle value. A useful local application begins with a real need, makes custody and costs clear, respects local law and safety, and gives learners enough knowledge to choose freely.
@@ -1571,6 +1579,12 @@ One safe next step is enough. You do not need to perform every possible Bitcoin 
 **My chosen next step:** _______________________________________________________
 
 **Evidence that I completed it:** _______________________________________________
+
+### Optional four-week recall
+
+About four weeks after the course, without looking back, write one money problem Bitcoin addresses, one difference between a node and a miner, the checks you would make before sending bitcoin, a safe response to a seed-phrase request, and one local use with its main trade-off. Then use this book to check your answers.
+
+This offline activity is optional, ungraded, and does not affect certification.
 
 ### Contribute to My First Bitcoin and the Resources Hub
 

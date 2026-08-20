@@ -75,6 +75,7 @@ In this Diploma, a **learner** studies, discusses, practises, and provides evide
 - What to cut when time is short
 - What to move to Advanced pathways
 - How to reserve time for required assessment
+- Optional four-week offline recall, separate from assessment and certification
 
 ### Managing The 8-Hour Pathway
 
