@@ -146,7 +146,7 @@ A strong assessment system makes the certificate meaningful. Weak, inconsistent,
 The two-part assessment prerequisite is a current design requirement. The following implementation and governance details still require definition:
 
 - certificate issuer and approval authority;
-- educator authorization and renewal;
+- educator preparation and renewal;
 - educator calibration, moderation, and audit process;
 - assessment integrity and identity and learner-account verification appropriate to the context;
 - accessibility and equivalent access, including language parity;

@@ -8,7 +8,7 @@ The Student Guide gives learners the essential path. This companion helps a teac
 
 ## About this draft
 
-This is a working educator-facing publication draft based primarily on the [Educator Guide plan](12_educator-plan.md). It also draws from the current curriculum architecture, objectives, Student Guide, Activity Bank, assessment framework, certification framework, lexicon, visual index, and publication specification across this workspace. It is written for a first-time teacher as well as an experienced educator. All four module companions and a working assessment and recording section are drafted, but approved tasks, rubrics, governance rules, and release validation remain incomplete. This guide is not yet publication-ready.
+This is a working educator-facing publication draft based primarily on the [Educator Guide plan](12_educator-plan.md). It also draws from the current curriculum architecture, objectives, Student Guide, Activity Bank, assessment framework, certification framework, lexicon, visual index, and Diploma overview across this workspace. It is written for a first-time teacher as well as an experienced educator. All four module companions and a working assessment and recording section are drafted, but approved tasks, rubrics, governance rules, and release validation remain incomplete. This guide is not yet publication-ready.
 
 For 2026.10, this draft follows an educator-led assessment model: theoretical understanding and practical competency are both required, and optional app use does not count as assessment evidence.
 
@@ -23,7 +23,7 @@ For a new teacher, the model can be remembered as two components:
 
 These percentages describe the assessment evidence, not the amount of teaching time. A practical lesson may need substantial explanation and practice before the observation takes place.
 
-Some implementation details are still awaiting governance approval, including approved task variants, exact prompting limits, final practical rubrics, educator authorization, moderation, appeals, data retention, and certificate-verification procedures. This guide identifies working practices without presenting those open decisions as final policy.
+Some implementation details are still awaiting governance approval, including approved task variants, exact prompting limits, final practical rubrics, educator preparation, moderation, appeals, data retention, and certificate-verification procedures. This guide identifies working practices without presenting those open decisions as final policy.
 
 ## Start here: your first teaching route
 
@@ -369,7 +369,7 @@ Do not build the schedule around content coverage alone. Build it around explana
 
 ### The approximately eight-hour baseline
 
-Eight hours is a minimum planning baseline, not a hard maximum and not an automatic certificate route. Add time whenever learners need more explanation, translation, supported practice, direct observation, feedback, or reassessment.
+The approximately eight-hour pathway includes teaching, practice, direct observation, feedback, recording, and planned reassessment. It is not an automatic certificate route. If a cohort needs a different schedule, redesign the whole course pathway before delivery; do not place required assessment in a separate follow-up after the advertised Diploma.
 
 Possible delivery models include:
 
@@ -378,9 +378,9 @@ Possible delivery models include:
 | One-day intensive | 9:00–18:00 with suitable breaks | Learners who can attend once and already have strong study stamina | Fatigue, rushed practice, insufficient individual assessment time |
 | Four-session course | Four sessions of about two hours | Community classes, schools, libraries, or evening cohorts | Do not assume every practical assessment fits inside the Module 3 or 4 session |
 | Eight-session course | Eight sessions of about one hour | Translation, younger learners, repeated practice, limited device access | Maintain the narrative connection across shorter meetings |
-| Blended local schedule | Two half-days plus assessment follow-up, or another sequence | Travel constraints, shared devices, remote preparation | Keep pre-work accessible and make live evidence requirements clear |
+| Blended local schedule | Two half-days or another integrated sequence | Travel constraints, shared devices, remote preparation | Keep pre-work accessible and make live evidence requirements clear |
 
-If an advertised day runs from 9:00 to 17:00, breaks and lunch reduce live learning time. Shorten optional examples, not required objectives, safe practice, or assessment. Schedule a follow-up rather than certify without evidence.
+If an advertised day runs from 9:00 to 17:00, breaks and lunch reduce live learning time. Shorten optional examples, not required objectives, safe practice, or assessment. Redesign the advertised course schedule before delivery rather than certify without evidence.
 
 ### A repeatable two-hour module rhythm
 
@@ -397,7 +397,7 @@ Use this as a planning pattern, not a rigid script.
 | 105–115 min | Learning check or practical evidence | Gather a formative or approved educator-theory interaction, or have an educator observe an approved practical skill. |
 | 115–120 min | Review and bridge | Name key takeaways, unresolved questions, and the next module connection. |
 
-Practical observation often requires more time than this pattern allows. For Module 3 and Module 4, plan stations, additional educator, smaller groups, or follow-up appointments. Do not assess several learners at once when you cannot see each learner's decisions and safety behavior.
+Practical observation often requires more time than this pattern allows. For Module 3 and Module 4, plan stations, another educator, or smaller groups within the course schedule. Do not assess several learners at once when you cannot see each learner's decisions and safety behavior.
 
 This pattern does not establish how much time educator-led assessment needs. Reserve enough time within the schedule for individual evidence, feedback, reassessment, and recording. Optional app self-checks may be offered before, during, or after learning without changing the assessment schedule.
 
@@ -3085,7 +3085,7 @@ This model commonly needs extra practical assessment time.
 
 ### One-day intensive
 
-Use only when the cohort and setting support sustained learning. Protect breaks and arrange practical assessment follow-up.
+Use only when the cohort and setting support sustained learning. Protect breaks and include practical assessment within the advertised course schedule.
 
 | Period | Focus |
 | --- | --- |
@@ -3115,7 +3115,7 @@ Do not describe a compressed day as complete if required observation or assessme
 | App topic and question-bank structure | [Microlearning](14_microlearning.md) |
 | Certification requirement | [Certification Framework](15_certification.md) |
 | Approved beginner terminology | [Beginner Lexicon](16_lexicon.md) |
-| Publication and current boundaries | [Publication Specification](17_spec.md) |
+| Diploma overview and current boundaries | [2026.10 Bitcoin Diploma Overview](17_spec.md) |
 | Student Guide visual support | [Visual–Text Index](09_assets.md) |
 | Advanced follow-on material | [Advanced](18_advanced.md) |
 
@@ -3133,7 +3133,7 @@ This guide is operational as a teaching draft, but the following must be reconci
 - approved Module 3 task variants for `B3.5`, `B3.6`, `B3.7`, and `B3.11`;
 - approved Module 4 task variants for `B4.1` and `B4.2`;
 - final rubrics, prompting limits, and safety-critical-error lists;
-- educator authorization, calibration, moderation, and audit;
+- educator preparation, calibration, moderation, and audit;
 - accessibility equivalence and remote-observation approval;
 - assessment privacy, consent, evidence retention, and appeals;
 - certificate issuer, identity, issuance, correction, revocation, and verification processes;

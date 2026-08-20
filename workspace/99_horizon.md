@@ -47,7 +47,7 @@ Future work may strengthen the system behind a meaningful certificate.
 
 - Review the 50/50 theoretical–practical allocation against validity, reliability, access, learner support, and actual delivery time. Retain the non-compensatory requirement unless a governed evidence review approves a change.
 - Version the objective-to-teaching-to-evidence crosswalk, task variants, rubrics, prompting limits, safety-critical errors, and completion record so revised content does not obscure what a certificate represented at the time it was issued.
-- Build an educator authorization, onboarding, calibration, moderation, audit, remediation, reassessment, correction, accessibility-accommodation, and appeals model.
+- Build an educator onboarding, preparation, calibration, moderation, audit, remediation, reassessment, correction, accessibility-accommodation, and appeals model.
 - Define certificate issuer authority, identity and learner-account approach, minimum data fields, consent, retention, deletion/recovery, replacement, revocation, and public verification. Consider on-chain timestamping only if it protects personal data and adds value beyond ordinary verification.
 - Design an Advanced certification approach only after individual Advanced modules and their practical evidence needs are defined. It must not be a single completion metric.
 

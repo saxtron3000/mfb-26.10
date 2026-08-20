@@ -26,7 +26,7 @@ Current design commitments:
 
 - educator-facilitated delivery in person or online;
 - low-tech, offline-capable print/PDF instructional content, with no app, device, or connectivity requirement for learning, assessment, completion, or certification;
-- an approximately 8-hour minimum planning baseline, with additional time when needed to meet the objectives;
+- an approximately 8-hour delivery pathway that includes required teaching, practice, assessment, feedback, and recording;
 - 4 modules that may be delivered in four two-hour sessions, eight one-hour sessions, or another schedule that preserves the learning sequence and required evidence;
 - Core, Custom, and Advanced content separation;
 - shared Core theory and outcomes with localized, educator-led practice;
@@ -204,7 +204,7 @@ Split decisions:
 
 ## Bitcoin For Organizations Cannibalization
 
-`advanced/mergefromorganizations.md` reviews the retiring `../ref/bitcoin-for-organizations/en` pathway for beginner Diploma use. `advanced/advancedorganizations.md` and `18_advanced.md` preserve the larger Advanced source trail.
+`18_advanced.md` is the sole holding authority for material from the retiring `../ref/bitcoin-for-organizations/en` pathway. It records both beginner-safe merge decisions and the larger Advanced source trail.
 
 Beginner merge decision:
 
@@ -395,9 +395,8 @@ Educator preparation, timing, adaptation, misconception support, and debrief gui
 | Combined assessment, objective-aligned evidence, and passing requirements | `13_assessment.md` |
 | App microlearning question-bank structure | `14_microlearning.md` |
 | Two-part assessment prerequisite for certification and governance questions | `15_certification.md` |
-| Publication rules | `17_spec.md` |
-| Beginner-safe Organizations merge checklist | `advanced/mergefromorganizations.md` |
-| Organizations-to-Advanced source map | `advanced/advancedorganizations.md` and `18_advanced.md` |
+| Diploma overview for collaborators and stakeholders | `17_spec.md` |
+| Organizations merge decisions and Advanced source trail | `18_advanced.md` |
 | Advanced module ideas and redacted content collection | `18_advanced.md` |
 | Public keynote and stakeholder brief | `../public/MFB-BD-Keynote.md` |
 

@@ -151,6 +151,7 @@ Required Module 3 evidence should include:
 
 - approved educator-evaluated theory evidence on wallets, addresses, keys, seed phrases, custody trade-offs, confirmations, public-ledger privacy, on-chain and Lightning distinctions, and beginner risks;
 - direct observation by an educator of a learner safely setting up or opening and navigating an approved or prepared wallet environment;
+- direct observation of the distinct `B3.11` first-access pathway: the learner gains access to bitcoin in an approved low-stakes or simulated environment, receives it, and checks the relevant wallet and transaction information;
 - direct observation of the learner locating and checking receive information and completing or safely simulating a receive or send flow;
 - direct observation of address, invoice, amount, confirmation, or transaction-status verification as relevant to the task;
 - an observed recovery-readiness or seed-phrase protection scenario that never exposes real secrets;
@@ -287,7 +288,7 @@ All certificated delivery modes require both parts of the assessment.
 - Final assessment blueprint mapping theoretical objectives to educator-evaluated evidence and practical objectives to observed tasks
 - How any reported numerical score will represent the fixed 50/50 allocation without allowing an average to compensate for an unmet required component or safety-critical competency
 - Required practical tasks and rubrics for Modules 3 and 4
-- Educator authorization, training, calibration, moderation, and online-observation rules
+- Educator preparation, training, calibration, moderation, and online-observation rules
 - Accessibility and language parity across instructional materials and educator-led assessment
 - Privacy, consent, data retention, minors' access, audit trails, and result correction
 - How educator-led theoretical and practical results form one completion record, including permissions, corrections, and certificate issuance

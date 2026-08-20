@@ -37,7 +37,7 @@ Reference and feedback material outside this folder is input, not an active sour
 | 14 | `14_microlearning.md` | Review the optional app self-assessment question bank. |
 | 15 | `15_certification.md` | Review the two-part assessment prerequisite for certification and implementation questions. |
 | 16 | `16_lexicon.md` | Review terminology and language consistency. |
-| 17 | `17_spec.md` | Review publication rules and final consistency checks. |
+| 17 | `17_spec.md` | Review the standalone Diploma overview for collaborators and stakeholders. |
 | 18 | `18_advanced.md` | Review Advanced module ideas, follow-on pathway notes, and parked legacy content. |
 | 19 | `99_horizon.md` | Review post-October candidates, programme boundaries, and future decision gates. |
 
@@ -64,10 +64,9 @@ Reference and feedback material outside this folder is input, not an active sour
 | Optional app self-assessment question bank | `14_microlearning.md` |
 | Two-part assessment prerequisite for certification | `15_certification.md` |
 | Beginner terminology and definitions | `16_lexicon.md` |
-| Publication specification | `17_spec.md` |
+| Diploma overview for collaborators and stakeholders | `17_spec.md` |
 | Post-October horizon register | `99_horizon.md` |
-| Beginner-safe Organizations merge decisions | `advanced/mergefromorganizations.md` |
-| Organizations-to-Advanced source map | `advanced/advancedorganizations.md` |
+| Organizations merge decisions and Advanced source trail | `18_advanced.md` |
 | Public keynote and stakeholder brief | `../public/MFB-BD-Keynote.md` |
 
 ---
@@ -85,7 +84,7 @@ Working assumptions:
 
 - educator-facilitated delivery in person (preferred) or online;
 - low-tech, offline-capable print/PDF teaching content, with no app or connectivity requirement for learning, assessment, completion, or certification;
-- an approximately 8-hour minimum planning baseline, with additional time where required to meet the objectives;
+- an approximately 8-hour delivery pathway that includes required teaching, practice, assessment, feedback, and recording;
 - four modules that may be delivered across four two-hour sessions, eight one-hour sessions, or another objective-preserving schedule;
 - one beginner Diploma with Custom and Advanced pathways;
 - Core, Custom, and Advanced content separation;
@@ -125,10 +124,10 @@ Public materials should be clear, short, and non-technical. They should explain 
 - Use "Custom modules" or "Custom units" only for educator-selected Module 4 content.
 - Do not rename Module 4 globally as "Spending"; spending is one possible Bitcoin in Your Community practice.
 - Keep the full Advanced module title list only in `18_advanced.md`.
-- Use `advanced/mergefromorganizations.md` as the checklist for beginner-safe Organizations material; do not import Organizations chapters directly into the Student Guide.
+- Use `18_advanced.md` as the sole holding authority for Organizations material and Advanced pathways; do not import Organizations chapters directly into the Student Guide.
 - Keep detailed activity instructions in `10_activities.md`, not in the Student Book or plan.
 - Keep detailed facilitation guidance in `12_educator-draft.md`, not in the Student Guide or curriculum plan. Use `12_educator-plan.md` only to plan and check the guide's structure.
 - Draft in English first, then review simplicity, tone, style, terminology, and translation readiness before translation or publication.
 - Keep print QR codes sparse and tied to stable, high-value destinations.
 - Fact-check or date current-data examples before publication.
-- Do not turn named tools, services, exchanges, wallets, maps, or local resources into global recommendations unless publication rules explicitly allow them.
+- Do not turn named tools, services, exchanges, wallets, maps, or local resources into global recommendations.

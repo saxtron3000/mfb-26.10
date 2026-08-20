@@ -72,7 +72,7 @@ The Module 1–3 outcomes below are required for certification. The final bluepr
 | `B2.2` | How Bitcoin Works | Explain Bitcoin's core properties: decentralization, credible finite supply, peer-to-peer transfer, and verifiability, including the beginner meaning of “don’t trust, verify.” | Knowledge and synthesis |
 | `B2.3` | How Bitcoin Works | Describe the beginner roles of users, nodes, miners, and developers and the beginner relevance of proof of work, the 21 million limit, halving, and satoshis. | Knowledge, role-play, or concept illustration |
 | `B2.4` | How Bitcoin Works | Assess whether Bitcoin can be described as sound money by applying beginner monetary properties and explaining the limits of that judgment. | Guided comparison and explanation |
-| `B2.5` | How Bitcoin Works | Compare Bitcoin with non-Bitcoin crypto-assets (often called “shitcoins”), including stablecoins, using issuer or control, supply or issuance, verification, custody, and counterparty considerations in a guided scenario. | Applied comparison and scenario reasoning |
+| `B2.5` | How Bitcoin Works | Compare Bitcoin with non-Bitcoin crypto-assets, including stablecoins, using issuer or control, supply or issuance, verification, custody, and counterparty considerations in a guided scenario. | Applied comparison and scenario reasoning |
 | `B2.6` | How Bitcoin Works | Explain why the Diploma treats Bitcoin learning and responsible use as different from short-term trading, token promotion, or speculation, including the beginner risks of each. | Theoretical explanation and safety judgment |
 | `B3.1` | Using Bitcoin Safely | Explain wallets, addresses, keys, seed phrases, and custody through essential terms and examples. | Knowledge and explanation |
 | `B3.2` | Using Bitcoin Safely | Compare custodial and non-custodial approaches in guided scenarios. | Applied comparison |
@@ -238,7 +238,7 @@ Before objectives are final, resolve:
 - technology assumptions;
 - online or self-paced objective variants, if those delivery modes remain in scope;
 - assessment timing and format for the approximately eight-hour in-person or online pathway;
-- educator authorization, calibration, and moderation requirements.
+- educator preparation, calibration, and moderation requirements.
 
 ---
 

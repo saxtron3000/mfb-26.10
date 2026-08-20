@@ -49,7 +49,7 @@ The scope assumes the current working design direction described in `04_design.m
 
 The following assumptions affect project execution:
 
-- Target duration: an approximately 8-hour minimum planning baseline, with additional time where needed to meet the objectives.
+- Target duration: an approximately 8-hour delivery pathway, including required teaching, practice, assessment, feedback, and recording.
 - Working architecture: 4 modules—Understanding Money, How Bitcoin Works, Using Bitcoin Safely, and Bitcoin in Your Community—delivered in an objective-preserving schedule rather than fixed two-hour classes.
 - Educator-facilitated delivery in person or online.
 - Low-tech, offline-capable print/PDF instructional materials, with no app access required for learning, assessment, completion, or certification.
@@ -67,7 +67,7 @@ The following assumptions affect project execution:
 - Localization preparation is in scope.
 - Localization implementation is out of scope.
 - Publishing is part of project completion.
-- Bitcoin for Organizations is being cannibalized, not preserved as a standalone beginner pathway. Use `advanced/mergefromorganizations.md` for beginner-safe additions and `advanced/advancedorganizations.md` / `18_advanced.md` for Advanced source trails.
+- Bitcoin for Organizations is being cannibalized, not preserved as a standalone beginner pathway. Use `18_advanced.md` as the sole holding authority for beginner-safe additions and Advanced source trails.
 
 ---
 
@@ -225,7 +225,7 @@ Separate advanced learning from beginner learning.
 
 - Advanced module title inventory guided by `18_advanced.md`
 - Advanced pathway recommendations guided by the candidate module titles in `18_advanced.md`
-- Organizations-to-Advanced source trail using `advanced/advancedorganizations.md` and the Organizations material already parked in `18_advanced.md`
+- Organizations-to-Advanced source trail using the Organizations material parked in `18_advanced.md`
 - Technical content recommendations
 
 ---
@@ -449,7 +449,7 @@ The redesign is complete when:
 - Practical learning is significantly increased.
 - Essential and optional content are clearly separated.
 - Advanced content is appropriately separated.
-- Named tools, local resources, and current-data examples are checked against publication rules.
+- Named tools, local resources, and current-data examples are checked before use or publication.
 - Beginner-safe Organizations material has been merged only where it improves the Core Diploma, Activity Bank, Educator Guide, assessment, lexicon, or publication guardrails.
 - Strategic, organizational, financial, policy, legal, tax, treasury, sector-specific, and highly technical Organizations material is parked for Advanced rather than required in the beginner Diploma.
 - Timing assumptions are documented.

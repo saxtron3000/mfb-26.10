@@ -394,7 +394,7 @@ Every final activity should include:
 
 # Organizations-Derived Activity Seeds
 
-These seeds come from `advanced/mergefromorganizations.md`. They should be developed as Activity Bank items only if they remain beginner-safe and locally adaptable.
+These seeds are recorded in `18_advanced.md`. They should be developed as Activity Bank items only if they remain beginner-safe and locally adaptable.
 
 ## Claim, Evidence, Trade-Off
 

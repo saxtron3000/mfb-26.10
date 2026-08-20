@@ -65,7 +65,7 @@ In this Diploma, a **learner** studies, discusses, practises, and provides evide
 
 ## 2. Pacing And Timing
 
-- Minimum 8-hour planning baseline, with additional time where objectives require it
+- Approximately 8-hour delivery pathway, including required assessment
 - Four two-hour sessions as one delivery model, not a fixed limit
 - Suggested timing per module
 - Flexible delivery models: one-day, four-day, or eight-day
@@ -76,7 +76,7 @@ In this Diploma, a **learner** studies, discusses, practises, and provides evide
 
 ### Managing The 8-Hour Pathway
 
-The Core Diploma has an approximately 8-hour minimum planning baseline. Educators should add time when needed to meet the objectives, practice requirements, and assessment standard, and may deliver the learning in different time chunks depending on learner availability, venue constraints, travel time, energy level, device access, and local teaching context. Each schedule must reserve enough time for educator-led theory checks where required, direct practical observation, recording, feedback, and reassessment. Optional app use must not become a barrier to participation.
+The Core Diploma has an approximately 8-hour delivery pathway. This pathway includes teaching, practice, educator-led theory checks, direct practical observation, recording, feedback, and any planned reassessment. Educators may use different time chunks depending on learner availability, venue constraints, travel time, energy level, device access, and local teaching context, but must not treat assessment as an extra follow-up outside the advertised Diploma. Optional app use must not become a barrier to participation.
 
 The four-module sequence should remain the same:
 
@@ -87,9 +87,9 @@ The four-module sequence should remain the same:
 
 Educators should choose the schedule that gives learners enough time to discuss, practice, ask questions, and review without overloading them.
 
-Plan from the learning objectives, required practice, and assessment evidence first. Do not cut or waive them merely to fit a fixed session length. If they do not fit, schedule another session or an assessment follow-up. Educators may invite learners to read the relevant Student Book chapter before class so live time can focus on discussion, questions, local context, and selected activities. Pre-reading must remain optional and must not create an access barrier.
+Plan from the learning objectives, required practice, and assessment evidence first. Do not cut or waive them merely to fit a fixed session length. If they do not fit, redesign the advertised course schedule before delivery so that teaching and assessment remain part of the same Diploma pathway. Educators may invite learners to read the relevant Student Book chapter before class so live time can focus on discussion, questions, local context, and selected activities. Pre-reading must remain optional and must not create an access barrier.
 
-The course should feel lean and intentional. When time is tight, protect learner explanation, practice, safety, review, and required assessment before adding technical depth or extra examples. Required objectives and certification assessments must not be cut. If they do not fit in the teaching session, the educator must schedule an assessment follow-up rather than certify without evidence.
+The course should feel lean and intentional. When time is tight, protect learner explanation, practice, safety, review, and required assessment before adding technical depth or extra examples. Required objectives and certification assessments must not be cut. If they do not fit in the teaching session, the educator must redesign the course schedule before delivery rather than add an assessment-only follow-up or certify without evidence.
 
 | Delivery model | Example timing | Best use | Educator guidance |
 |---|---|---|---|
@@ -400,8 +400,7 @@ Only the combined **assessment-complete** status may unlock a certificate. Educa
 ## 7. Legacy Content Migration Guidance
 
 - Use the legacy table-of-contents migration notes in `06_plan.md` to decide whether old content belongs in Core, Custom, or Advanced material.
-- Use `advanced/mergefromorganizations.md` to decide whether Organizations material belongs in beginner Core, Custom, Activity Bank, Educator Guide, or Advanced material.
-- Use `18_advanced.md` to park deeper technical, economic, philosophical, or future-facing material that should be preserved for later Advanced modules.
+- Use `18_advanced.md` to decide whether Organizations material belongs in beginner Core, Custom, Activity Bank, Educator Guide, or Advanced material, and to park deeper technical, economic, philosophical, or future-facing material for later Advanced modules.
 - Do not treat old `OUT` markings as deletion when the same item is marked Custom or Advanced.
 - Keep Module 3 technical material practical: use it only to support safer self-custody, verification, and transaction responsibility.
 - Split topics carefully when needed: beginner concepts may stay in Core while deeper analysis moves to Advanced material.

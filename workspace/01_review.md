@@ -331,7 +331,7 @@ Print and PDF materials can become cluttered or fragile if they depend on too ma
 
 The redesigned publication system should keep printed materials durable and offline-usable while reserving QR codes for stable, high-value destinations.
 
-Publication rules belong in `17_spec.md`.
+The collaborator and stakeholder overview belongs in `17_spec.md`. Keep production checks separate from that overview.
 
 ---
 

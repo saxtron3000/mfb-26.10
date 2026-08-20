@@ -73,7 +73,7 @@ The absence of a topic from `08_student.md` does not mean the topic is unimporta
 | Beginner assessment | `13_assessment.md` |
 | Activity templates | `10_activities.md` |
 | Educator facilitation guidance | `12_educator-draft.md` |
-| Publication rules | `17_spec.md` |
+| Diploma overview | `17_spec.md` |
 
 `06_plan.md` remains the source of truth for the active beginner redesign structure.
 
@@ -1158,7 +1158,7 @@ Use these source files when future Advanced module work begins.
 - `08_student.md`: current beginner draft; useful for identifying what has been compressed or removed.
 - `10_activities.md`: activity template and activity categories.
 - `12_educator-draft.md`: educator guidance on moving complex side topics to Advanced.
-- `17_spec.md`: publication rules, fact-check rules, QR rules, and public communication rules.
+- `17_spec.md`: Diploma overview and public communication context.
 
 ## Legacy Reference Sources
 
@@ -1236,7 +1236,7 @@ Bitcoin for Organizations should not remain a separate pathway after the redesig
 
 Its content should be transformed into:
 
-- a small number of beginner-appropriate additions to the new Diploma, tracked in `advanced/mergefromorganizations.md`;
+- a small number of beginner-appropriate additions to the new Diploma, tracked in this file;
 - Advanced module source trails, module seeds, activity seeds, and research notes in this file;
 - educator background where the material is useful but not yet student-facing.
 
@@ -1273,10 +1273,7 @@ Most Organizations content belongs in Advanced because it assumes strategic, ope
 
 The beginner merge map identifies the following material as too advanced for the Diploma but useful when bounded carefully in the 24-module roadmap.
 
-Sources:
-
-- `advanced/advancedorganizations.md`
-- `advanced/mergefromorganizations.md`
+Source: the Organizations material mapped and preserved in this file.
 
 | Material | Roadmap home | Boundary for future publication |
 |---|---|---|

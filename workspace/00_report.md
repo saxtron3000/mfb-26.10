@@ -28,7 +28,7 @@ The fastest route to a strong release is to stop adding topics, settle the decis
 | `14_microlearning.md` | Good developer handoff | Complete independent review and narrow score claims to this 12-question check. |
 | `13_assessment.md` | Correct model, incomplete system | Build the blueprint, rubrics, pass rules, and records. |
 | `15_certification.md` | Mostly aligned | Repair its completion rule and finish governance decisions. |
-| `17_spec.md` | Wrong document role | Convert it into a real publication specification or reclassify it as an overview. |
+| `17_spec.md` | Standalone overview | Keep it as the collaborator and stakeholder overview; do not assign it production-control duties. |
 
 ## What is working well
 
@@ -129,22 +129,22 @@ Avoid listing “participation” as theoretical evidence. Participation can cre
 
 ### 7. Validate the eight-hour claim
 
-The approximately eight-hour route remains a planning hypothesis. Twenty-five certification objectives, direct individual observation, discussion, practice, feedback, and reassessment are unlikely to fit consistently without careful integration or additional assessment time.
+The approximately eight-hour route must include teaching, direct individual observation, discussion, practice, feedback, and reassessment. Twenty-five certification objectives make this a demanding design constraint, so every required evidence activity must be integrated into the advertised course pathway.
 
 Build a timed delivery map from the crosswalk. Calculate direct-observation demand as:
 
 `learners × observed minutes per learner ÷ simultaneous authorized evaluators`
 
-Pilot one four-session route and one intensive route. Record actual teaching, practice, assessment, transition, feedback, and reassessment time. If the full standard does not fit, reduce or combine objectives before reducing valid evidence.
+Test one four-session route and one intensive route. Record actual teaching, practice, assessment, transition, feedback, and reassessment time. This is strongly recommended quality work, but not a publication requirement. If the full standard does not fit, reduce or combine objectives before reducing valid evidence.
 
 ### 8. Repair document governance and production controls
 
-- `17_spec.md` explicitly describes itself as an overview, while the index makes it the publication specification. Either reclassify it or replace it with real controls for versions, layout, accessibility, rights, citations, exports, QA, approval, release, and corrections.
+- `17_spec.md` should remain an overview. The index and plan must not describe it as a publication specification or assign it production-control duties.
 - `00_todo.md` mixes current release blockers with hundreds of imported annotation notes using unclear status markers. Move the imported notes to a review archive or triage them into accepted, rejected, completed, and active actions.
 - `09_assets.md` proposes up to 74 visual concepts. Select a smaller minimum viable set of essential learning visuals before production; otherwise visual work may delay the curriculum and overwhelm the page.
 - `11_resources.md` contains only a small source set and stale line references. Expand it for the claims that require technical, historical, banking, safety, and current-data verification.
 - `16_lexicon.md` mixes a learner/editor lexicon with a stale line-location audit and “not present” records. Keep canonical definitions in the lexicon; generate occurrence reports separately.
-- The index, README, scope, plan, research, activities, and Advanced holding file refer to missing `workspace/advanced/mergefromorganizations.md` and `workspace/advanced/advancedorganizations.md`. Either restore them or make `18_advanced.md` the sole authority and remove the references.
+- `18_advanced.md` is the sole holding authority for Organizations merge decisions and Advanced source trails; remove obsolete references to the former `workspace/advanced/` files.
 - Other stale paths remain: the archived plan, legacy contents CSV, teacher-survey CSV, Pablo feedback paths, and the example visual asset. Repair or explicitly mark them as unavailable historical inputs.
 
 ## Recommended release sequence
@@ -155,8 +155,8 @@ Pilot one four-session route and one intensive route. Record actual teaching, pr
 4. Add the missing Student Guide outcomes and reduce excess learner content.
 5. Reduce the Educator Draft to facilitation and assessment support; remove residual app and duplicated textbook material.
 6. Independently review and pilot the 12-question optional quiz.
-7. Create the real publication specification, repair sources and links, then run copy, accessibility, translation-readiness, and low-tech QA.
-8. Pilot the complete course before describing it as an eight-hour assessed Diploma.
+7. Keep `17_spec.md` as the collaborator overview, repair sources and links, then run copy, accessibility, translation-readiness, and low-tech QA.
+8. Test the complete course before describing it as an eight-hour assessed Diploma; record the findings, but do not make a pilot a publication requirement.
 
 ## Author decisions — please answer yes or no
 
