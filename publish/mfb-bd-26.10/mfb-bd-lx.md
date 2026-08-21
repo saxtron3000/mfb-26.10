@@ -1,6 +1,6 @@
 # Bitcoin Diploma Beginner Lexicon
 
-This feedback-reviewed lexicon lists Bitcoin and Bitcoin-adjacent terms that a beginner may need explained. Line references are to `publish/mfb-bd/mfb-bd-sg-26.10.md` (the published Bitcoin Diploma study guide). **First** is the earliest explicit appearance; **Later** lists subsequent explicit appearances. `Not present` means the term was requested in feedback but is not yet stated explicitly in the study guide.
+This lexicon lists Bitcoin and Bitcoin-adjacent terms that a beginner may need explained. Line references are to the official [Student Guide](mfb-bd-sg-26.10.md). **First** is the earliest explicit appearance; **Later** lists subsequent explicit appearances. `Not present` means the term is not stated explicitly in the Student Guide.
 
 ## Module 1: Understanding Money
 

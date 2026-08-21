@@ -2,7 +2,7 @@
 
 ## Use
 
-This file is the developer handoff for the 12-question optional My First Bitcoin app self-test. It follows the October scope and implementation constraints in [Microlearning plan](../../workspace/12_microlearning-plan.md). It is not formal assessment and must not be used for educator tracking, certification, or a pass/fail decision.
+This file is the developer handoff for the 12-question optional My First Bitcoin app self-test. It supports the 2026.10 Diploma and is not formal assessment; do not use it for educator tracking, certification, or a pass/fail decision.
 
 Each item has one correct answer and four plain-text options. After either answer outcome, show the item's shared plain-language explanation and review reference. The current app cannot show different correct and incorrect messages, rich text, media, links, or a multi-screen item flow. The review reference points to the learner's next reading in the Student Guide and should be displayed as text.
 

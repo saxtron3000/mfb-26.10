@@ -388,7 +388,7 @@ Educator preparation, timing, adaptation, misconception support, and debrief gui
 
 | Material | Owner document |
 |---|---|
-| Student Guide publication draft | `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md` |
+| Official Student Guide | `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md` |
 | Learning objectives and competencies | `05_objectives.md` |
 | Activity categories and activity template | the external Activity Bank project |
 | Educator facilitation and Custom selection guidance | `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` |

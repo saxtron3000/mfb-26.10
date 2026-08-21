@@ -1,6 +1,6 @@
 # Bitcoin Diploma 2026.10
 
-This repository contains the working guidance, publication sources, and review materials for My First Bitcoin's October 2026 Bitcoin Diploma curriculum.
+This repository contains the official publication documents, planning guidance, and review materials for My First Bitcoin's October 2026 Bitcoin Diploma curriculum.
 
 The redesign preserves the Diploma's open-source, community-led, Bitcoin-only identity while making the beginner pathway shorter, clearer, more practical, easier to teach, and easier to adapt across communities.
 
@@ -13,6 +13,9 @@ Choose the route that matches your work:
 | Understand the curriculum design | [`workspace/00_index.md`](workspace/00_index.md) |
 | Read or edit the Student Guide | [`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`](publish/mfb-bd-26.10/mfb-bd-sg-26.10.md) |
 | Read or edit the Educator Companion Guide | [`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`](publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) |
+| Use the educator assessment record | [`publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md`](publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) |
+| Check a beginner definition | [`publish/mfb-bd-26.10/mfb-bd-lx.md`](publish/mfb-bd-26.10/mfb-bd-lx.md) |
+| See Advanced-module availability | [`publish/mfb-adv-26.10/README.md`](publish/mfb-adv-26.10/README.md) |
 | Work on optional app self-assessment content | [`publish/mfb-ml-26.10/mfb-ml-26.10.md`](publish/mfb-ml-26.10/mfb-ml-26.10.md) |
 | Check current release actions | [`review/review_todo.md`](review/review_todo.md) |
 | Review unresolved consistency decisions | [`review/review_consistency.md`](review/review_consistency.md) |
@@ -23,23 +26,27 @@ Choose the route that matches your work:
 | Directory | What belongs there |
 |---|---|
 | [`workspace/`](workspace/) | Working documents that guide content creation: design, scope, objectives, architecture, assets, resources, educator planning, assessment, and publication planning. |
-| [`publish/`](publish/) | Curriculum sources intended for publication in Sanity and release as the new curriculum. |
+| [`publish/`](publish/) | Official curriculum documents and supporting publication materials. |
 | [`review/`](review/) | Cross-project reviews, quality controls, consistency decisions, annotations, and release actions. |
 | [`public/`](public/) | Public briefs, presentation material, and communication assets. |
 
 Keep planning commentary out of `publish/`. Keep review findings in `review/` until they are approved and incorporated into the appropriate working or publication source.
 
-## Publication Sources
+## Official Diploma documents
 
-The files intended to become the live curriculum are:
+The official 2026.10 Diploma documents are:
 
 | File | Audience and destination |
 |---|---|
-| [`mfb-bd-sg-26.10.md`](publish/mfb-bd-26.10/mfb-bd-sg-26.10.md) | Student Guide; learner-facing curriculum for publication. |
-| [`mfb-bd-eg-26.10.md`](publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) | Educator Companion Guide; educator-facing preparation and facilitation support. |
-| [`mfb-bd-ml-26.10.md`](publish/mfb-ml-26.10/mfb-ml-26.10.md) | Optional microlearning self-assessment data for the app. |
+| [`mfb-bd-sg-26.10.md`](publish/mfb-bd-26.10/mfb-bd-sg-26.10.md) | Student Guide; learner-facing curriculum. |
+| [`mfb-bd-eg-26.10.md`](publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) | Educator Guide; educator-facing preparation, facilitation, safety, and assessment guidance. |
+| [`mfb-bd-assessment-grid-26.10.md`](publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) | Assessment Grid; objective-level educator record and completion check. |
+| [`mfb-bd-lx.md`](publish/mfb-bd-26.10/mfb-bd-lx.md) | Lexicon Entries; approved beginner terminology and definitions. |
+| [`mfb-adv-26.10/README.md`](publish/mfb-adv-26.10/README.md) | Future home of Advanced modules; none is available yet. |
 
-These files implement decisions made in the working documents. They should not introduce new curriculum policy without first updating the appropriate source of truth in `workspace/`.
+The `workspace/` documents support the development and maintenance of these official documents. They are planning resources, not learner- or educator-facing curriculum.
+
+The optional app self-assessment data remains in [`publish/mfb-ml-26.10/mfb-ml-26.10.md`](publish/mfb-ml-26.10/mfb-ml-26.10.md). It supports voluntary review and is not assessment evidence.
 
 ## Curriculum at a Glance
 
@@ -54,9 +61,9 @@ The current design uses an approximately eight-hour, educator-facilitated pathwa
 
 Assessment has two required, non-compensatory components: educator-evaluated theoretical understanding and educator-observed practical competency. The optional app supports learner-owned recap and self-assessment only; it is not required and does not provide certification evidence.
 
-## Working Sources of Truth
+## Planning references
 
-Use these files when making curriculum decisions:
+Use these planning documents to develop and maintain the official documents above:
 
 | Decision area | File |
 |---|---|
@@ -74,12 +81,12 @@ The complete reading order and ownership map are in [`workspace/00_index.md`](wo
 ## Review Workflow
 
 1. Check [`review/review_todo.md`](review/review_todo.md) before beginning release work.
-2. Use the applicable source of truth in `workspace/` to resolve design or policy questions.
-3. Apply approved decisions to the relevant files in `publish/`.
+2. Use the applicable planning reference in `workspace/` to resolve design or policy questions.
+3. Apply the resulting changes to the relevant official document in `publish/`.
 4. Record new cross-project findings in the appropriate `review/` document.
 5. Check links, terminology, objective alignment, safety, accessibility, translation readiness, and current-data citations before publication.
 
-Review documents identify problems and proposed actions. They do not override the working source-of-truth documents by themselves.
+Review documents identify problems and proposed actions. They do not override the official documents or planning references by themselves.
 
 ## Contribution Guardrails
 

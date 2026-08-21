@@ -1155,7 +1155,7 @@ Use these source files when future Advanced module work begins.
 - `04_design.md`: simple-over-technical principle and Core / Custom / Advanced separation.
 - `05_objectives.md`: Advanced outcomes boundary.
 - `06_plan.md`: active beginner architecture and legacy migration rules.
-- `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`: current beginner draft; useful for identifying what has been compressed or removed.
+- `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`: official beginner Student Guide; useful for identifying what has been compressed or removed.
 - the external Activity Bank project: activity template and activity categories.
 - `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`: educator guidance on moving complex side topics to Advanced.
 - `14_spec.md`: Diploma overview and public communication context.

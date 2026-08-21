@@ -10,7 +10,7 @@ This is a Markdown-first curriculum redesign repository for My First Bitcoin's B
 - `feedback/` contains stakeholder review notes and research inputs.
 - `public/` contains public briefs, presentation sources, PDFs, and images.
 
-Keep learner-facing prose in `publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, detailed activities in the external Activity Bank project, facilitation guidance in `publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, and assessment requirements in `workspace/11_assessment.md`. Do not treat reference or feedback files as approved curriculum without review.
+Keep learner-facing prose in `publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, detailed activities in the external Activity Bank project, facilitation guidance in `publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, and educator assessment records in `publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md`. Use `workspace/11_assessment.md` as planning support. Do not treat reference or feedback files as approved curriculum without review.
 
 ## Build, Test, and Development Commands
 

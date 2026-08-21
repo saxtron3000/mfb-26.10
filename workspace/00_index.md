@@ -9,27 +9,30 @@ The repository now separates three kinds of material:
 | Area | Purpose |
 |---|---|
 | [`workspace/`](./) | Working documents that guide content creation, including architecture, objectives, design rules, activities, assessment, terminology, and publication planning. |
-| [`publish/`](../publish/) | Curriculum source documents intended for publication in Sanity and release as the new curriculum. |
+| [`publish/`](../publish/) | Official curriculum documents and supporting publication materials. |
 | [`review/`](../review/) | Documents used to review quality, consistency, annotations, and release readiness across the project. |
 
-These areas have different authority. Working documents define and explain curriculum decisions. Publication documents apply those decisions for learners, educators, and the app. Review documents identify issues and actions but do not replace the relevant working source of truth.
+These areas have different roles. Working documents support planning and maintenance. Publication documents are the official learner- and educator-facing curriculum. Review documents identify issues and actions but do not replace the published curriculum.
 
 For a repository-wide introduction, see the [root README](../README.md).
 
 ---
 
-## Published Curriculum Sources
+## Official Diploma documents
 
-The current publication sources are:
+The official 2026.10 Diploma documents are:
 
 | Publication | File | Purpose |
 |---|---|---|
 | Student Guide | [`mfb-bd-sg-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md) | Learner-facing Diploma curriculum. |
-| Educator Companion Guide | [`mfb-bd-eg-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) | Educator-facing preparation, facilitation, adaptation, safety, and assessment guidance. |
+| Educator Guide | [`mfb-bd-eg-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) | Educator-facing preparation, facilitation, adaptation, safety, and assessment guidance. |
 | Educator Assessment Grid | [`mfb-bd-assessment-grid-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) | Objective-level learner assessment and completion record for educators. |
-| Optional self-assessment | [`mfb-bd-ml-26.10.md`](../publish/mfb-ml-26.10/mfb-ml-26.10.md) | Microlearning question data for the optional app self-assessment. |
+| Lexicon Entries | [`mfb-bd-lx.md`](../publish/mfb-bd-26.10/mfb-bd-lx.md) | Beginner terminology and definitions. |
+| Advanced modules | [`mfb-adv-26.10/README.md`](../publish/mfb-adv-26.10/README.md) | Future home of Advanced modules; none is available yet. |
 
-These files should contain publication-ready content. Planning notes, unresolved questions, review commentary, and historical material should remain outside `publish/`.
+The optional app self-assessment data is maintained in [`mfb-ml-26.10.md`](../publish/mfb-ml-26.10/mfb-ml-26.10.md). It is a voluntary review resource, not assessment evidence.
+
+Planning notes, unresolved questions, review commentary, and historical material should remain outside the official Diploma documents.
 
 ---
 
@@ -60,9 +63,9 @@ Detailed activities are maintained in the external Activity Bank project.
 
 ---
 
-## Source-of-Truth Map
+## Planning reference map
 
-| Topic | Source of truth |
+| Topic | Planning reference |
 |---|---|
 | Earlier-Diploma diagnosis | [`01_review.md`](01_review.md) |
 | Research and evidence validation | [`02_research.md`](02_research.md) |
@@ -71,18 +74,18 @@ Detailed activities are maintained in the external Activity Bank project.
 | Objectives and competencies | [`05_objectives.md`](05_objectives.md) |
 | Four-module architecture, content boundaries, and legacy migration | [`06_plan.md`](06_plan.md) |
 | Learner-content structure | [`07_contents.md`](07_contents.md) |
-| Student Guide publication source | [`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md) |
+| Official Student Guide | [`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md) |
 | Visual and asset needs | [`08_assets.md`](08_assets.md) |
 | Activity Bank structure | External Activity Bank project |
 | External sources and claim references | [`09_resources.md`](09_resources.md) |
 | Educator Guide planning structure | [`10_educator-plan.md`](10_educator-plan.md) |
-| Educator Companion Guide publication source | [`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) |
-| Educator objective-level assessment record | [`publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) |
+| Official Educator Guide | [`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) |
+| Official Assessment Grid | [`publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) |
 | Objective-aligned assessment and evidence | [`11_assessment.md`](11_assessment.md) |
 | Optional app microlearning plan | [`12_microlearning-plan.md`](12_microlearning-plan.md) |
 | Optional app self-assessment publication source | [`publish/mfb-ml-26.10/mfb-ml-26.10.md`](../publish/mfb-ml-26.10/mfb-ml-26.10.md) |
 | Certification prerequisite and governance questions | [`13_certification.md`](13_certification.md) |
-| Beginner terminology and definitions | [`mfb-bd-lx.md`](../publish/mfb-bd-26.10/mfb-bd-lx.md) |
+| Official Lexicon Entries | [`mfb-bd-lx.md`](../publish/mfb-bd-26.10/mfb-bd-lx.md) |
 | Collaborator and stakeholder overview | [`14_spec.md`](14_spec.md) |
 | Advanced pathways and parked legacy content | [`15_advanced.md`](15_advanced.md) |
 | Post-release horizon register | [`16_horizon.md`](16_horizon.md) |
@@ -90,7 +93,7 @@ Detailed activities are maintained in the external Activity Bank project.
 | Cross-project consistency decisions | [`review/review_consistency.md`](../review/review_consistency.md) |
 | Ongoing quality controls | [`review/review_quality.md`](../review/review_quality.md) |
 
-When two documents disagree, resolve the decision in the owning working document before updating dependent publication files.
+Use the published documents as the official curriculum. When a change is needed, use the relevant planning reference to develop and check it before updating the affected official document.
 
 ---
 

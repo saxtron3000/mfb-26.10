@@ -288,7 +288,7 @@ id: BD-V-001
 suggested_by: Pablo | AI
 priority: essential | supporting | conditional
 type: Table | Diagram | Image
-source_document: workspace/../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md
+source_document: ../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md
 source_heading: Exact heading from the placement field
 insert_position: Exact before/after instruction
 source_line: Current line from the Line column
