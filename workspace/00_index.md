@@ -26,6 +26,7 @@ The current publication sources are:
 |---|---|---|
 | Student Guide | [`mfb-bd-sg-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md) | Learner-facing Diploma curriculum. |
 | Educator Companion Guide | [`mfb-bd-eg-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) | Educator-facing preparation, facilitation, adaptation, safety, and assessment guidance. |
+| Educator Assessment Grid | [`mfb-bd-assessment-grid-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) | Objective-level learner assessment and completion record for educators. |
 | Optional self-assessment | [`mfb-bd-ml-26.10.md`](../publish/mfb-ml-26.10/mfb-ml-26.10.md) | Microlearning question data for the optional app self-assessment. |
 
 These files should contain publication-ready content. Planning notes, unresolved questions, review commentary, and historical material should remain outside `publish/`.
@@ -76,6 +77,7 @@ Detailed activities are maintained in the external Activity Bank project.
 | External sources and claim references | [`09_resources.md`](09_resources.md) |
 | Educator Guide planning structure | [`10_educator-plan.md`](10_educator-plan.md) |
 | Educator Companion Guide publication source | [`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) |
+| Educator objective-level assessment record | [`publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) |
 | Objective-aligned assessment and evidence | [`11_assessment.md`](11_assessment.md) |
 | Optional app microlearning plan | [`12_microlearning-plan.md`](12_microlearning-plan.md) |
 | Optional app self-assessment publication source | [`publish/mfb-ml-26.10/mfb-ml-26.10.md`](../publish/mfb-ml-26.10/mfb-ml-26.10.md) |

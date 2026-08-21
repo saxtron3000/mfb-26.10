@@ -1,29 +1,25 @@
 # Bitcoin Diploma educator companion guide
 
-This guide is the teacher's companion to the 2026.10 Bitcoin Diploma. Use it with the [Student Guide](mfb-bd-sg-26.10.md), the external Activity Bank project, and the approved assessment materials. The My First Bitcoin app may be offered as an optional self-check, recap, and discovery resource.
+This guide is the teacher's companion to the 2026.10 Bitcoin Diploma. Use it with the [Student Guide](mfb-bd-sg-26.10.md), the [Educator Assessment Grid](mfb-bd-assessment-grid-26.10.md), and the learning activities and assessment rubrics supplied for your course. The My First Bitcoin app may be offered as an optional self-check, recap, and discovery resource.
 
 The Student Guide gives learners the essential path. This companion helps a teacher turn that path into a complete learning experience through interaction, discussion, local context, guided practice, feedback, and assessment. You can teach directly from it: read the short preparation notes before a session, use the suggested words and questions during the session, and return to the evidence and safety notes afterwards.
 
 ---
 
-## About this draft
+## Assessment at a glance
 
-This is a working educator-facing publication draft based primarily on the [Educator Guide plan](../../workspace/10_educator-plan.md). It also draws from the current curriculum architecture, objectives, Student Guide, Activity Bank, assessment framework, certification framework, lexicon, visual index, and Diploma overview across this workspace. It is written for a first-time teacher as well as an experienced educator. All four module companions and a working assessment and recording section are drafted, but approved tasks, rubrics, governance rules, and release validation remain incomplete. This guide is not yet publication-ready.
+The 2026.10 Diploma uses an educator-led assessment model. Theoretical understanding and practical competency are both required, and optional app use does not count as assessment evidence.
 
-For 2026.10, this draft follows an educator-led assessment model: theoretical understanding and practical competency are both required, and optional app use does not count as assessment evidence.
-
-Approved educator-led theory interactions must be distinguished from ordinary formative discussion. Only objective-aligned interactions with individual evidence, criteria, and a concise record contribute to certification.
+Distinguish formal assessment from ordinary formative discussion. A formal theory interaction must be objective-aligned, use clear criteria, produce individual evidence, and be recorded.
 
 For a new teacher, the model can be remembered as two components:
 
 | What must be complete | Main source | Share within that component |
 | --- | --- | ---: |
-| Theoretical understanding | Approved educator-led interaction | 50% |
+| Theoretical understanding | Objective-aligned educator-led interaction | 50% |
 | Practical competency | Educator observation of the practical task | 50% |
 
 These percentages describe the assessment evidence, not the amount of teaching time. A practical lesson may need substantial explanation and practice before the observation takes place.
-
-Some implementation details are still awaiting governance approval, including approved task variants, exact prompting limits, final practical rubrics, educator preparation, moderation, appeals, data retention, and certificate-verification procedures. This guide identifies working practices without presenting those open decisions as final policy.
 
 ## Start here: your first teaching route
 
@@ -37,7 +33,7 @@ For your first delivery, use this route:
 4. Choose one main activity and one backup activity. Do not try to use every option.
 5. Copy the session objective and safety rule onto your board or opening slide.
 6. Teach in the order **explain → ask → practise → debrief → check**.
-7. Use the assessment companion only when you are ready to plan evidence; ordinary discussion is not automatically assessment.
+7. Use the Assessment Grid and task rubric when you are ready to collect evidence; ordinary discussion is not automatically assessment.
 8. After class, write down what learners understood, what confused them, what needs checking, and what you will change next time.
 
 If you have only ten minutes to prepare, read the module's purpose, learner promise, suggested flow, likely trouble spots, safety notes, and review point. That is enough to run a safe first session while you continue learning.
@@ -50,7 +46,7 @@ If you have only ten minutes to prepare, read the module's purpose, learner prom
 | Before Module 1 or 2 | The relevant module companion, facilitation methods, local verification record | Choose the opening question, one activity, one backup, and the local examples to check. |
 | Before Module 3 | Safe practical teaching, Module 3 companion, practical evidence | Rehearse with a prepared or empty environment and define every stop condition. |
 | Before Module 4 | Module 4 companion, Custom-module planning record, local expert briefing | Start with a local need and verify the selected task, tool, and current context. |
-| Before any formal assessment | Assessment companion, approved task and rubric | Explain conditions, prepare evidence records, and confirm your authorization. |
+| Before any formal assessment | Assessment Grid, selected task, and rubric | Explain conditions, prepare evidence records, and confirm the task conditions. |
 | After each session | Review point, feedback and reassessment guidance, after-course reflection | Record what learners need next and update the following session. |
 
 The rest of the handbook is a reference shelf. Read it when a learner asks a deeper question, when a local example needs checking, or when you are preparing a new delivery—not as compulsory pre-reading.
@@ -82,7 +78,7 @@ The Educator Guide is a practical teaching companion. It should help you:
 - prepare safe wallet, transaction, recovery, and verification practice;
 - select a meaningful Bitcoin in Your Community experience;
 - use objective-aligned evidence to support learning;
-- when authorized, assess practical competency consistently and provide practical reassessment;
+- assess practical competency consistently and provide practical reassessment;
 - protect learner privacy, autonomy, and safety; and
 - connect learners with suitable next steps.
 
@@ -94,7 +90,7 @@ The guide does not replace educator judgment. It gives that judgment a shared pu
 
 Use the guide in three passes.
 
-1. **Before the course:** Read the course principles, planning chapters, assessment model, and Module 4 selection guidance. Complete the preparation and local verification records.
+1. **Before the course:** Read the course principles, preparation chapters, assessment model, and Module 4 selection guidance. Complete the preparation and local verification records.
 2. **Before each module:** Use the relevant module companion to choose a lesson flow, prepare questions and materials, anticipate misconceptions, and identify the evidence you need.
 3. **During and after delivery:** Use the facilitation patterns, safety procedures, assessment process, feedback guidance, and record templates.
 
@@ -136,23 +132,23 @@ These are guardrails, not a test. Keep this list open while you prepare. You do 
 
 1. Teach the four modules in sequence: Understanding Money, How Bitcoin Works, Using Bitcoin Safely, and Bitcoin in Your Community.
 2. Treat Modules 1–3 as the shared Core. Module 4 is required, but its local learning task is educator-selected.
-3. Preserve the approved objectives, evidence requirements, safety boundaries, and passing standard in every language and delivery mode.
-4. Conduct approved educator-led theory interactions and direct practical observation. Offer the app only as an optional recap, self-check, or discovery resource.
+3. Preserve the required objectives, evidence requirements, safety boundaries, and passing standard in every language and delivery mode.
+4. Conduct objective-aligned educator-led theory interactions and direct practical observation. Offer the app only as an optional recap, self-check, or discovery resource.
 5. Give supported practice before assessment. For practical learning, use Presentation → Practice → Production.
 6. Never ask to see, handle, photograph, copy, record, or store a learner's real seed phrase, private key, credential, balance, or unnecessary transaction information.
 7. Use prepared wallets, simulations, test environments, printed screens, or appropriately low-stakes practice. Always prepare a no-funds or offline fallback.
 8. Do not give financial, investment, legal, tax, accounting, compliance, or trading advice. Do not pressure learners to acquire or use bitcoin.
 9. Treat named wallets, exchanges, services, maps, merchants, and community resources as dated local examples, not global recommendations.
-10. Do not certify attendance, app activity, an educator interaction without valid evidence, or either assessment component alone. Certification requires approved educator-led theoretical and practical evidence.
+10. Do not certify attendance, app activity, an educator interaction without valid evidence, or either assessment component alone. Certification requires recorded theoretical and practical evidence.
 
 ## The Diploma at a glance
 
 | Module | Core question | Learner outcome | Educator's main contribution | Main evidence |
 | --- | --- | --- | --- | --- |
-| 1. Understanding Money | How can money break? | Explain why money exists, compare forms of money, and connect modern-money problems to a local or realistic experience. | Draw out existing ideas, facilitate comparison, add checked local fiat context, and assess approved theoretical touchpoints. | Educator-led theoretical evidence. |
-| 2. How Bitcoin Works | Why was Bitcoin created, and how does it respond? | Explain Bitcoin's purpose, core properties, participant roles, benefits, limits, and new responsibilities. | Make technical relationships visible, correct role confusion, test claims through evidence and trade-offs, and assess approved theoretical touchpoints. | Educator-led theoretical evidence. |
+| 1. Understanding Money | How can money break? | Explain why money exists, compare forms of money, and connect modern-money problems to a local or realistic experience. | Draw out existing ideas, facilitate comparison, add checked local fiat context, and assess objective-aligned theory interactions. | Educator-led theoretical evidence. |
+| 2. How Bitcoin Works | Why was Bitcoin created, and how does it respond? | Explain Bitcoin's purpose, core properties, participant roles, benefits, limits, and new responsibilities. | Make technical relationships visible, correct role confusion, test claims through evidence and trade-offs, and assess objective-aligned theory interactions. | Educator-led theoretical evidence. |
 | 3. Using Bitcoin Safely | How do I take responsibility for using and securing Bitcoin? | Explain custody and safety concepts and demonstrate required beginner wallet, recovery-readiness, transaction, and verification skills. | Demonstrate safe process, supervise practice, protect secrets, observe performance, and give corrective feedback. | Educator-led theory evidence and direct practical observation. |
-| 4. Bitcoin in Your Community | How can Bitcoin function as money in this community? | Demonstrate one approved local Bitcoin-as-money task and explain its purpose, trade-offs, risks, failure points, and next steps. | Research local reality, select and validate the module, facilitate safe practice, and assess the approved evidence. | Educator-led theory evidence and direct practical observation for a task mapped to `B4.1` and `B4.2`. |
+| 4. Bitcoin in Your Community | How can Bitcoin function as money in this community? | Demonstrate one locally relevant Bitcoin-as-money task and explain its purpose, trade-offs, risks, failure points, and next steps. | Research local reality, select and validate the module, facilitate safe practice, and assess the required evidence. | Educator-led theory evidence and direct practical observation for a task mapped to `B4.1` and `B4.2`. |
 
 The narrative should remain connected:
 
@@ -164,7 +160,7 @@ The narrative should remain connected:
 
 ### More than presenting information
 
-Your job is not to give a perfect lecture. Your job is to help learners understand, practise, explain, and make safe decisions. You facilitate the group, guide the learning, safeguard people and information, add checked local context, and—when authorized—assess the required evidence.
+Your job is not to give a perfect lecture. Your job is to help learners understand, practise, explain, and make safe decisions. You facilitate the group, guide the learning, safeguard people and information, add checked local context, and assess the required evidence.
 
 You are responsible for helping learners:
 
@@ -184,7 +180,7 @@ You are not responsible for making learners agree with you. A learner can meet t
 ### Course roles
 
 - A **learner** studies, discusses, practises, and provides evidence of understanding.
-- An **educator** facilitates, protects the learning environment, adds checked local context, conducts approved theoretical touchpoints, provides practical-learning feedback, and may directly review practical competency against the agreed criteria. Where local delivery separates teaching and evidence review, another educator may review the practical component. An educator who does not conduct that review still prepares learners and records formative observations according to local procedures.
+- An **educator** facilitates, protects the learning environment, adds checked local context, conducts objective-aligned theoretical touchpoints, provides practical-learning feedback, and directly assesses practical competency against the stated criteria. Where teaching and assessment are divided between educators, both should follow the same task conditions, criteria, and record-keeping process.
 - A **cohort** is the group learning together. Smaller teams may complete activities, but individual certification evidence must remain identifiable where required.
 - The **Diploma** is the complete learning and assessment program, not only the Student Guide or app.
 
@@ -196,8 +192,8 @@ Each part of the Diploma has a distinct function.
 | --- | --- | --- |
 | Student Guide | Essential learner explanations, reflection, review, and reference | Live facilitation, local verification, supported practice, or observed assessment |
 | My First Bitcoin app | Optional self-checks, recap, discovery, feedback, and connection to future learning | Educator-led theoretical or practical assessment, certification records, or learner evaluation |
-| Educator Guide | Preparation, pacing, facilitation, localization, safety, and assessment support | The approved learner materials or final governance decisions |
-| Activity Bank | Modular interaction, formative checks, approved educator-led theoretical touchpoints, practical practice, and approved practical assessment tasks | Objective definitions, app scoring, or educator judgment |
+| Educator Guide | Preparation, pacing, facilitation, localization, safety, and assessment support | Learner materials or assessment rubrics |
+| Activity collection | Modular interaction, formative checks, educator-led theoretical touchpoints, practical practice, and practical assessment tasks | Objective definitions, app scoring, or educator judgment |
 | Assessment materials | Tasks, observable criteria, rubrics, evidence records, and completion decisions | Teaching and supported practice |
 
 ### Educator support
@@ -342,7 +338,7 @@ For teaching and assessment, an accommodation may change how instructions are re
 
 The accommodation must preserve the measurable objective. If the objective is to explain, the learner must still communicate the explanation. If it is to verify a payment destination, the learner must still make or direct that verification. If it is to demonstrate a sequence, the educator must still observe the learner controlling the decisions in that sequence.
 
-Accommodations for educator-led theoretical touchpoints or educator-observed practical evidence must preserve their purpose, objective, evidence, and standard; if equivalence is unclear, seek approval before certification. Optional app use must never be a required accommodation route.
+Accommodations for educator-led theoretical touchpoints or educator-observed practical evidence must preserve their purpose, objective, evidence, and standard. If an equivalent assessment cannot be established, provide further supported practice rather than certify the objective. Optional app use must never be a required accommodation route.
 
 ---
 
@@ -1321,11 +1317,11 @@ Choose two or three, not all:
 - claim, evidence, reasoning, and trade-off discussion; or
 - generic Bitcoin/stablecoin/other-asset comparison.
 
-The Activity Bank marks some legacy consensus, hashing, video, and role-play activities for further testing. Use them only when the purpose, timing, learner context, and debrief are strong. An activity supplies educator-led theoretical evidence only when it is an approved objective-aligned touchpoint with individual evidence, a rubric, and a recording process. Otherwise, use it formatively.
+Use consensus games, hashing activities, videos, and role-plays only when their purpose, timing, learner context, and debrief are strong. An activity supplies educator-led theoretical evidence only when it is an objective-aligned touchpoint with individual evidence, a rubric, and a recording process. Otherwise, use it formatively.
 
 ### Module 2 educator-led theoretical touchpoint
 
-Use an approved short task that asks the learner to connect at least three elements. It supplies educator-led theoretical evidence while the app supplies most of the theoretical half. For example:
+Use a short task that asks the learner to connect at least three elements. It supplies educator-led theoretical evidence. For example:
 
 - explain the double-spend problem;
 - distinguish the roles of a miner and node;
@@ -1924,7 +1920,7 @@ Learner promise:
 | `B4.1` | Demonstrate at least one approved, locally relevant Bitcoin-as-money task using the required safe sequence and verification behaviors. | Direct observation by an educator. |
 | `B4.2` | Explain the task's purpose, relevant trade-offs, failure points, safety considerations, and realistic next steps. | Explanation during or immediately after performance. |
 
-Use approved guided discussion to support `ALL.1` and the course-ending reflection to support `ALL.2`. Both are formative under the current objectives and do not create certification gates. Any future summative placement must be approved in the final blueprint and assigned to a valid app item, an approved educator-theory interaction, or an observable criterion within an approved practical task.
+Use guided discussion to support `ALL.1` and the course-ending reflection to support `ALL.2`. Both are formative and do not create certification gates.
 
 ### Begin with a need, not a tool
 
@@ -2395,7 +2391,7 @@ The My First Bitcoin app is not part of assessment, completion, or certification
 
 Do not assign app work, collect app results, use app progress to judge a learner, or require a device, account, or connection. Continue teaching and assessing through the Student Guide, discussion, activities, and direct educator observation when appropriate.
 
-Use the optional 12-question self-check in [Microlearning](../../workspace/12_microlearning-plan.md) only as a voluntary review aid. It can start a discussion, but it cannot replace an educator’s assessment evidence.
+Use the optional app self-check only as a voluntary review aid. It can start a discussion, but it cannot replace an educator’s assessment evidence.
 
 ---
 
@@ -2465,7 +2461,7 @@ Named explorers, wallet-selection sites, maps, or trackers are optional interfac
 
 Use this sequence:
 
-1. Draft and approve the English learning meaning.
+1. Establish the English learning meaning.
 2. Edit for beginner clarity, short sentences, direct voice, consistent terminology, and low ambiguity.
 3. Identify terms requiring a translator note or local replacement.
 4. Translate the meaning, not English word order.
@@ -2473,7 +2469,7 @@ Use this sequence:
 6. Review the translation with a language specialist and a subject-matter educator.
 7. Test difficult safety instructions with learners.
 8. Confirm that objectives, task difficulty, rubrics, and stop conditions remain equivalent.
-9. Approve the language version before publication or certification use.
+9. Confirm that the language version preserves the objectives, safety instructions, and assessment standard before use.
 
 Avoid idioms and metaphors that cannot travel cleanly. If using an analogy, always state what it explains and what it does not.
 
@@ -2612,11 +2608,7 @@ For any activity you develop or materially adapt, record:
 - safety-critical errors; and
 - local expert or current-fact needs.
 
-### Current Activity Bank status
-
-The external Activity Bank project remains a work in progress. Category lists and Organizations-derived items are promising choices or seeds, not automatically approved summative tasks.
-
-Current internal educator feedback suggests prioritizing safe wallet or prepared-wallet work, money-properties comparison, and beginner ledger exploration for refinement. Consensus games, barter activities, videos, hashing exercises, Lightning relays, and transaction role-plays should be retested and adapted before broad recommendation.
+### Choose activities deliberately
 
 Do not retain an activity only because it is familiar. Keep it when it improves objective alignment, learner evidence, safety, accessibility, time use, or local relevance.
 
@@ -2651,13 +2643,13 @@ Only use an approved equivalent practical variant. Educators may not adapt an Ac
 - safety-critical errors; and
 - recording requirement.
 
-If equivalence is uncertain, use the adaptation for practice and seek approval before certification.
+If equivalence is uncertain, use the adaptation for practice and select an assessment task whose evidence and standard clearly match the objective.
 
 ---
 
 ## 14. Use visuals as teaching tools
 
-The [Visual–Text Index](../../workspace/08_assets.md) maps Student Guide concepts to planned diagrams, tables, timelines, and interface examples. Use the visuals to reveal relationships, not decorate a lecture.
+Use diagrams, tables, timelines, and interface examples to reveal relationships, not decorate a lecture.
 
 Before showing a visual:
 
@@ -2804,8 +2796,8 @@ Remind learners:
 
 ### Complete records and reassessment
 
-- Reconcile educator-led theoretical results and educator-observed practical records.
-- Confirm that every objective required by the approved certification blueprint has evidence from its assigned component.
+- Combine educator-led theoretical results and educator-observed practical records.
+- Confirm that every required objective in the Assessment Grid has evidence from its assigned component.
 - Contact learners privately about incomplete tasks.
 - Provide focused remediation and fair reassessment.
 - Transfer delayed practical records through the approved process.
@@ -2935,7 +2927,7 @@ Use the [Beginner Lexicon](mfb-bd-lx.md) for full definitions. Keep these distin
 
 ### Assessment
 
-- [ ] Every formal task is approved and objective-aligned.
+- [ ] Every formal task is selected, objective-aligned, and supported by clear criteria.
 - [ ] Learners will receive supported practice before formal observation.
 - [ ] Observable criteria, permitted support, and safety failures are clear.
 - [ ] Evidence records protect privacy and distinguish assessment components.
@@ -3099,49 +3091,6 @@ Use only when the cohort and setting support sustained learning. Protect breaks 
 | Follow-up | Any remaining educator assessment, individual practical observation, **Not yet** support, formative educator help, and certification review |
 
 Do not describe a compressed day as complete if required observation or assessment remains outstanding.
-
----
-
-## Appendix G: source map for educators and editors
-
-| Need | Workspace source |
-| --- | --- |
-| Architecture and content boundaries | [Redesign Plan](../../workspace/06_plan.md) |
-| Required learner outcomes | [Learning Objectives](../../workspace/05_objectives.md) |
-| Learner-facing content | [Student Guide](mfb-bd-sg-26.10.md) |
-| Activity structure and current activity seeds | External Activity Bank project |
-| Educator Guide source outline | [Educator Guide plan](../../workspace/10_educator-plan.md) |
-| Assessment design | [Assessment Framework](../../workspace/11_assessment.md) |
-| App topic and question-bank structure | [Microlearning](../../workspace/12_microlearning-plan.md) |
-| Certification requirement | [Certification Framework](../../workspace/13_certification.md) |
-| Approved beginner terminology | [Beginner Lexicon](mfb-bd-lx.md) |
-| Diploma overview and current boundaries | [2026.10 Bitcoin Diploma Overview](../../workspace/14_spec.md) |
-| Student Guide visual support | [Visual–Text Index](../../workspace/08_assets.md) |
-| Advanced follow-on material | [Advanced](../../workspace/15_advanced.md) |
-
-Use the source with direct ownership of the decision. Do not treat reference, feedback, legacy, or Advanced material as approved beginner curriculum without review.
-
----
-
-## Appendix H: items requiring final approval before publication
-
-This guide is operational as a teaching draft, but the following must be reconciled or approved before it becomes the final certification guide:
-
-- final approval of the 50% educator-led theoretical and 50% educator-observed practical assessment model, with both components non-compensatory;
-- the final objective-to-assessment blueprint for every required objective;
-- final app thresholds, retry rules, interruption recovery, and synchronization;
-- approved Module 3 task variants for `B3.5`, `B3.6`, `B3.7`, and `B3.11`;
-- approved Module 4 task variants for `B4.1` and `B4.2`;
-- final rubrics, prompting limits, and safety-critical-error lists;
-- educator preparation, calibration, moderation, and audit;
-- accessibility equivalence and remote-observation approval;
-- assessment privacy, consent, evidence retention, and appeals;
-- certificate issuer, identity, issuance, correction, revocation, and verification processes;
-- final Custom-module set and local-expert guardrails;
-- approved translated terminology and publication review ownership; and
-- final links, QR destinations, and maintained update channels.
-
-Do not fill these gaps through local improvisation when the decision affects certification validity, learner privacy, or safety.
 
 ---
 
