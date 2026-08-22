@@ -99,7 +99,7 @@ The minimum standard is created by the combination of:
 - shared assessed competencies and observable criteria;
 - a common assessment blueprint;
 - approved educator-evaluated theoretical interactions;
-- approved Activity Bank practical assessment tasks;
+- approved practical assessment tasks;
 - common practical tasks or equivalent approved variants;
 - observable rubrics;
 - educator preparation, training, and calibration for practical assessment;
@@ -168,7 +168,7 @@ An on-chain timestamp, if adopted, must not expose learner personal information 
 
 Use `05_competencies.md` for the competencies and observable criteria that assessment must measure.
 
-Use the external Activity Bank project for approved educator-evaluated theory interactions, formative activities, and summative practical assessment tasks.
+Use approved educator-evaluated theory interactions, formative activities, and summative practical assessment tasks available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/).
 
 Use `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` for facilitation guidance and educator assessment procedures, rubrics, evidence, feedback, and reassessment guidance; use `12_educator-plan.md` as the supporting structure plan.
 

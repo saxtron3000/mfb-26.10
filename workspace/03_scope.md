@@ -145,7 +145,7 @@ Increase active participation and practical competence.
 
 ---
 
-## 5. Activity Bank
+## 5. Activities
 
 ### Purpose
 
@@ -153,8 +153,8 @@ Improve participation and engagement.
 
 ### Deliverables
 
-- Embedded Activity Bank version
-- Standalone Activity Bank version
+- Embedded activities version
+- Standalone activities version
 - Competency mapping
 - Activity categories aligned to the four-module Diploma, educator-curated Module 4 options, and Advanced boundaries
 - Safety notes and fact-check notes for activities using live tools, named services, or current data
@@ -209,7 +209,7 @@ Reduce unnecessary cognitive load.
 - Duplicate content audit
 - Essential shared-core versus educator-curated Module 4 classification
 - Beginner prerequisite analysis
-- Bitcoin for Organizations cannibalization check: classify each useful item as required Diploma learning, an educator-curated Module 3 or 4 option within the Diploma, Activity Bank, Educator Guide, Advanced, or outside Diploma scope
+- Bitcoin for Organizations cannibalization check: classify each useful item as required Diploma learning, an educator-curated Module 3 or 4 option within the Diploma, Resources Hub activities, Educator Guide, Advanced, or outside Diploma scope
 - Named-tool and current-data audit
 - Content reduction recommendations
 
@@ -378,7 +378,7 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 - Public materials explain what is changing and what is being preserved.
 - The 4-module structure is visible and easy to repeat.
 - The Bitcoin in Your Community module is explained as the educator-curated, locally grounded **Connect** stage of the Problem → Solution → Action → Connect learning arc.
-- The Activity Bank and Educator Guide are presented as essential ecosystem components.
+- Resources Hub activities and the Educator Guide are presented as essential ecosystem components.
 - Assessment and certification are described accurately without overpromising.
 - Advanced module titles are not duplicated outside `17_advanced.md`.
 
@@ -402,9 +402,9 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 - Four-module architecture completed
 - Content categorization completed
 
-## Milestone 4 — Practical Learning & Activity Bank
+## Milestone 4 — Practical learning and activities
 
-- Activity Bank completed
+- Activities completed and available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/)
 - PPP framework completed
 
 ## Milestone 5 — Educator Guide
@@ -450,14 +450,14 @@ The redesign is complete when:
 - Essential and optional content are clearly separated.
 - Advanced content is appropriately separated.
 - Named tools, local resources, and current-data examples are checked before use or publication.
-- Beginner-safe Organizations material has been merged only where it improves the four-module Diploma, Activity Bank, Educator Guide, assessment, lexicon, or publication guardrails.
+- Beginner-safe Organizations material has been merged only where it improves the four-module Diploma, activities, Educator Guide, assessment, lexicon, or publication guardrails.
 - Strategic, organizational, financial, policy, legal, tax, treasury, sector-specific, and highly technical Organizations material is parked for Advanced rather than required in the beginner Diploma.
 - Timing assumptions are documented.
 - Delivery assumptions are documented.
 - Combined assessment framework, educator-educator guidance, and two-part certification prerequisite are completed.
 - Measurable competency criteria are defined.
 - Educator Guide is redesigned.
-- Activity Bank is operational.
+- Required activities are operational and available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/).
 - Review systems are integrated.
 - Student Book is published.
 - Educator Guide is published.

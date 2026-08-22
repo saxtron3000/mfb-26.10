@@ -12,7 +12,7 @@ It defines:
 - how in-class time should be used;
 - which documents own detailed implementation work.
 
-`10_activities.md` defines Activity Bank boundaries, quality requirements, and release priorities; detailed activities belong in the external Activity Bank project. Detailed facilitation guidance belongs in `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`; `12_educator-plan.md` is the supporting structure plan. The detailed competency framework and observable criteria belong in `05_competencies.md`. App question-bank structure belongs in `14_microlearning-plan.md`. Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use belong in `17_advanced.md`.
+`10_activities.md` defines activity boundaries, quality requirements, and release priorities; detailed activities are available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/). Detailed facilitation guidance belongs in `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`; `12_educator-plan.md` is the supporting structure plan. The detailed competency framework and observable criteria belong in `05_competencies.md`. App question-bank structure belongs in `14_microlearning-plan.md`. Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use belong in `17_advanced.md`.
 
 `06_plan.md` is the active plan source of truth. The older duplicated plan file has been archived at `../y_archive/y_13_plan_superseded.md`.
 
@@ -32,7 +32,7 @@ Current design commitments:
 - shared Modules 1–2 core learning, with educator-adapted Module 3 practice and educator-curated Module 4 Connect practice;
 - English-first drafting with simplicity, tone, style, terminology, and translation-readiness review before translation or publication;
 - practical learning in every module;
-- a separate Activity Bank;
+- activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/);
 - an Educator Guide designed for facilitation, pacing, adaptation, and safety;
 - a combined theoretical and practical assessment model tied directly to assessed competencies and observable criteria;
 - a 50% educator-led theoretical and 50% educator-observed practical assessment allocation;
@@ -214,7 +214,7 @@ Beginner merge decision:
 
 - Do not import Organizations chapters into the Student Book.
 - Use Organizations material only where it improves existing beginner competencies or observable criteria.
-- Keep the Student Book lean; put misconception handling mostly in `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` and scenario practice mostly in the external Activity Bank project or educator-curated Module 3–4 templates.
+- Keep the Student Book lean; put misconception handling mostly in `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` and scenario practice mostly in activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) or educator-curated Module 3–4 templates.
 
 Organizations content may support:
 
@@ -223,7 +223,7 @@ Organizations content may support:
 - Module 3: confirmations, explorer orientation, public-ledger transparency, irreversible settlement, and privacy trade-offs.
 - Module 4: local merchant, remittance, nonprofit, underbanked-access, circular-economy, on-ramp, and off-ramp scenarios.
 - Educator Guide: misconception prompts and claim/evidence/trade-off facilitation.
-- Activity Bank: ledger exploration, local payment path comparison, community donation scenarios, and local resource mapping.
+- Resources Hub activities: ledger exploration, local payment path comparison, community donation scenarios, and local resource mapping.
 
 Organizations content should not become part of the beginner Diploma when it requires:
 
@@ -388,7 +388,7 @@ Each module should follow a simple rhythm:
 | Local daily-life Bitcoin use as educator-curated Module 4 source material within the Diploma | Fixed global requirements for specific local tools, merchants, exchanges, or communities |
 | Guided discussion and practical orientation | Full activity instructions, facilitation scripts, and optional extensions |
 
-Activities leave the main student-facing text and move to the external Activity Bank project.
+Activities leave the main student-facing text and are available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/).
 
 Educator preparation, timing, adaptation, misconception support, and debrief guidance move to `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`.
 
@@ -400,8 +400,8 @@ Educator preparation, timing, adaptation, misconception support, and debrief gui
 |---|---|
 | Official Student Guide | `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md` |
 | Competency framework and observable criteria | `05_competencies.md` |
-| Activity Bank boundaries, quality requirements, and release priorities | `10_activities.md` |
-| Activity categories and activity template | the external Activity Bank project |
+| Activity boundaries, quality requirements, and release priorities | `10_activities.md` |
+| Activity categories and activity template | [Resources Hub](https://programs.myfirstbitcoin.org/resources/) |
 | Educator facilitation and Module 4 selection guidance | `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` |
 | Combined assessment, competency-aligned evidence, and passing requirements | `13_assessment.md` |
 | App microlearning question-bank structure | `14_microlearning-plan.md` |
@@ -422,7 +422,7 @@ The October 2026 redesign should produce:
 - clear assessed competencies and observable criteria;
 - Student Guide;
 - Educator Guide;
-- Activity Bank;
+- Resources Hub activities;
 - educator-curated Module 4 templates;
 - educator-led theoretical and practical certification-prerequisite framework, with optional app recap and self-check resources;
 - publication-ready source files;

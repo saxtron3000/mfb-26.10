@@ -22,7 +22,7 @@ This file is not:
 - a rights-management or publication log;
 - an index of every table, checklist, worksheet, activity card, or page-layout treatment.
 
-Activity visuals belong in the external Activity Bank project. Educator-only visuals belong in `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`. Presentation visuals belong with the relevant presentation source. Ordinary tables and forms remain part of the Diploma manuscript unless they require a separate explanatory graphic listed here.
+Activity visuals belong on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/). Educator-only visuals belong in `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`. Presentation visuals belong with the relevant presentation source. Ordinary tables and forms remain part of the Diploma manuscript unless they require a separate explanatory graphic listed here.
 
 ---
 

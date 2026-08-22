@@ -51,8 +51,8 @@ Read the working documents in this order when you need the full design context:
 | 7 | [`07_contents.md`](07_contents.md) | Review the planned learner-content structure. |
 | 8 | [`08_assets.md`](08_assets.md) | Review visual and asset requirements. |
 | 9 | [`09_resources.md`](09_resources.md) | Review external sources and their curriculum claim locations. |
-| 10 | [`10_activities.md`](10_activities.md) | Review Activity Bank boundaries, quality requirements, and release priorities. |
-| 11 | [`11_activities-template.md`](11_activities-template.md) | Use the working template for individual Activity Bank entries. |
+| 10 | [`10_activities.md`](10_activities.md) | Review activity boundaries, quality requirements, and release priorities. |
+| 11 | [`11_activities-template.md`](11_activities-template.md) | Use the working template for individual activity entries. |
 | 12 | [`12_educator-plan.md`](12_educator-plan.md) | Review the planning structure for the Educator Companion Guide. |
 | 13 | [`13_assessment.md`](13_assessment.md) | Review theoretical and practical assessment requirements. |
 | 14 | [`14_microlearning-plan.md`](14_microlearning-plan.md) | Review the internal plan for optional app microlearning. |
@@ -61,7 +61,7 @@ Read the working documents in this order when you need the full design context:
 | 17 | [`17_advanced.md`](17_advanced.md) | Review Advanced pathway ideas and parked legacy material. |
 | 18 | [`18_horizon.md`](18_horizon.md) | Review post-release candidates, programme boundaries, and future decision gates. |
 
-Detailed activities are maintained in the external Activity Bank project.
+Detailed activities are available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/).
 
 ---
 
@@ -78,9 +78,9 @@ Detailed activities are maintained in the external Activity Bank project.
 | Learner-content structure | [`07_contents.md`](07_contents.md) |
 | Official Student Guide | [`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md) |
 | Visual and asset needs | [`08_assets.md`](08_assets.md) |
-| Activity Bank planning, quality requirements, and release priorities | [`10_activities.md`](10_activities.md) |
-| Activity Bank working-entry template | [`11_activities-template.md`](11_activities-template.md) |
-| Activity Bank procedures and task templates | External Activity Bank project |
+| Activity planning, quality requirements, and release priorities | [`10_activities.md`](10_activities.md) |
+| Activity working-entry template | [`11_activities-template.md`](11_activities-template.md) |
+| Activity procedures and task templates | [Resources Hub](https://programs.myfirstbitcoin.org/resources/) |
 | External sources and claim references | [`09_resources.md`](09_resources.md) |
 | Educator Guide planning structure | [`12_educator-plan.md`](12_educator-plan.md) |
 | Official Educator Guide | [`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) |
@@ -152,7 +152,7 @@ Review findings should be converted into an approved decision or an action in `r
 - Use `06_plan.md` for architecture and content-boundary decisions.
 - Keep measurable competencies and required observable criteria in `05_competencies.md`.
 - Keep learner-facing publication content in `publish/mfb-bd-26.10/mfb-bd-sg-26.10.md` and align it with `07_contents.md`.
-- Use `10_activities.md` for Activity Bank boundaries, quality requirements, and release priorities. Keep detailed activities and assessment-task specifications in the external Activity Bank project, not in the Student Guide or curriculum plan.
+- Use `10_activities.md` for activity boundaries, quality requirements, and release priorities. Keep detailed activities and assessment-task specifications on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), not in the Student Guide or curriculum plan.
 - Keep educator-facing publication content in `publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`; use `12_educator-plan.md` to plan and check its structure.
 - Keep assessment rules in `13_assessment.md` and certification eligibility and governance questions in `15_certification.md`.
 - Keep optional app planning in `14_microlearning-plan.md` and publication data in `publish/mfb-ml-26.10/mfb-ml-26.10.md`.

@@ -60,9 +60,9 @@ The current working design direction is:
 - practical learning increased substantially;
 - practical skills structured using PPP: Presentation, Practice, Production;
 - advanced technical content separated from the beginner pathway;
-- Organizations material used only where it clarifies beginner Diploma concepts, educator misconception handling, Activity Bank scenarios, or educator-curated Module 3 or 4 practice;
+- Organizations material used only where it clarifies beginner Diploma concepts, educator misconception handling, activity scenarios, or educator-curated Module 3 or 4 practice;
 - Educator Guide treated as a facilitation engine;
-- Activity Bank treated as part of the learning ecosystem;
+- activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) treated as part of the learning ecosystem;
 - assessment built from assessed competencies and observable criteria, using an educator-led theoretical component worth 50% and an educator-observed practical component worth 50%;
 - certification based on both theoretical evidence and directly observed practical competence;
 - localization considered through adaptable examples, activities, and facilitation, not through changing required Diploma competency standards;
@@ -644,7 +644,7 @@ The retiring Bitcoin for Organizations pathway contains strong material for misc
 
 - What belongs in the Student Book?
 - What belongs in the Educator Guide?
-- What belongs in the Activity Bank?
+- What activities belong on the Resources Hub?
 - What belongs on the website?
 
 ## Accessibility Questions

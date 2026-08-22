@@ -2573,7 +2573,7 @@ Every activity should state whether it is:
 - an approved practical assessment for certification; or
 - an approved combination of formative learning and practical assessment.
 
-The Activity Bank may supply approved educator-led theoretical touchpoints and practical assessment tasks. It does not make every activity an assessment. Do not score an engaging activity unless it is competency-aligned and has individual evidence, observable criteria, a passing standard, prompting rules, evidence recording, and—where practical—safety conditions and an approved equivalent-variant policy.
+Activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) may supply approved educator-led theoretical touchpoints and practical assessment tasks. Their use does not make every activity an assessment. Do not score an engaging activity unless it is competency-aligned and has individual evidence, observable criteria, a passing standard, prompting rules, evidence recording, and—where practical—safety conditions and an approved equivalent-variant policy.
 
 ### Activity selection questions
 
@@ -2638,7 +2638,7 @@ Preserve:
 
 ### Adapt a summative practical task
 
-Only use an approved equivalent practical variant. Educators may not adapt an Activity Bank task into a scored theoretical substitute when it does not match the competency; an approved educator-theory interaction must use its own criteria and record. Preserve:
+Only use an approved equivalent practical variant. Educators may not adapt an activity into a scored theoretical substitute when it does not match the competency; an approved educator-theory interaction must use its own criteria and record. Preserve:
 
 - competency and measurable verb;
 - evidence type;

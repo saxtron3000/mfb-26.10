@@ -71,7 +71,7 @@ The absence of a topic from `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md` does no
 | Student-facing beginner guide | `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md` |
 | Beginner competency framework and criteria | `05_competencies.md` |
 | Beginner assessment | `13_assessment.md` |
-| Activity templates | the external Activity Bank project |
+| Activity templates | [Resources Hub](https://programs.myfirstbitcoin.org/resources/) |
 | Educator facilitation guidance | `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` |
 | Diploma overview | `16_spec.md` |
 
@@ -1069,7 +1069,7 @@ This catalog gives every module in the 24-module roadmap a home for the parked m
 
 | Roadmap module | Possible focus | Parked source material |
 |---|---|---|
-| 1. Bitcoin Education and Misconceptions | Teaching practice, concept maps, prerequisite chains, misconception handling, demonstration design, and educator-facing scenario workshops | `02_research.md`, the external Activity Bank project, `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`; Organizations misconceptions and risk-management sources |
+| 1. Bitcoin Education and Misconceptions | Teaching practice, concept maps, prerequisite chains, misconception handling, demonstration design, and educator-facing scenario workshops | `02_research.md`, activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`; Organizations misconceptions and risk-management sources |
 | 2. History of Bitcoin and Computer Science Foundations | Cypherpunks, digital-cash attempts, Satoshi, the whitepaper, Genesis Block, protocols, networks, peer-to-peer systems, hashes, and distributed-system foundations | Legacy chapters 4.3, 5.0, 5.1, 8 and 9; Organizations technical-history sources |
 | 3. Monetary Economics | Scarcity, time preference, opportunity cost, inflation, purchasing power, fractional-reserve banking, liquidity and solvency, debt, policy tools, the Cantillon effect, and risk/reward and capital-allocation reasoning | Legacy chapters 1.6, 3.2, 4.1, 4.2; Organizations investment-management material |
 | 4. History of Money (localisation) | Local money histories, commodity money, coinage, paper receipts, gold standards, Bretton Woods, Nixon Shock, and modern digital money | Legacy chapters 2 and 3; local educator input |
@@ -1105,7 +1105,7 @@ These activities may become Advanced modules, educator background, or optional w
 | Time preference activity | Monetary Economics | Legacy chapter 1.6 |
 | Fractional-reserve banking balance-sheet simulation | Monetary Economics | Use a fictional bank to distinguish deposits, loans, reserves or liquid assets, capital, liquidity pressure, and insolvency. Change one condition at a time and ask learners to explain the consequence; do not use it to make claims about a real bank. |
 | Fictional capital-allocation scenario | Monetary Economics | Compare liquidity, time horizon, opportunity cost, possible reward, and market, custody, concentration, and operational risks without selecting or recommending an allocation. |
-| Claim / evidence / reasoning on fiat problems | Money & Society | the external Activity Bank project |
+| Claim / evidence / reasoning on fiat problems | Money & Society | [Resources Hub](https://programs.myfirstbitcoin.org/resources/) |
 | Cypherpunk timeline | History of Bitcoin | Legacy chapter 4.3 |
 | Consensus activity | Mining & Consensus | Legacy chapter 5.1 |
 | Wallet evaluation exercise | Self-Custody, Privacy, Security, and Online Safety | Legacy chapter 6.2 |
@@ -1156,7 +1156,7 @@ Use these source files when future Advanced module work begins.
 - `05_competencies.md`: Advanced competency boundary.
 - `06_plan.md`: active beginner architecture and legacy migration rules.
 - `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`: official beginner Student Guide; useful for identifying what has been compressed or removed.
-- the external Activity Bank project: activity template and activity categories.
+- [Resources Hub](https://programs.myfirstbitcoin.org/resources/): activity template and activity categories.
 - `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`: educator guidance on moving complex side topics to Advanced.
 - `16_spec.md`: Diploma overview and public communication context.
 

@@ -269,7 +269,7 @@ Advanced material may include detailed Bretton Woods and geopolitical monetary h
 | Using Bitcoin Safely | Learners can explain responsibility and demonstrate required beginner actions safely under supported conditions. | C6–C10: explain relevant concepts, compare pathways, demonstrate wallet navigation, a supported first-access pathway, receiving or sending, verification, recovery readiness, risk response, and safe limits. |
 | Connect: Bitcoin in Your Community | Learners can connect the Problem, Solution, and Action learning to an approved locally relevant Bitcoin-as-money capability. | C11: educator-curated and directly assessed local task using tools, simulations, testnet or low-stakes practice, payment or receiving scenarios, local resources, workshops, or case examples, plus a realistic alternative and responsible next step. |
 
-This map guides assessment design, Activity Bank design, Educator Guide pacing, and public communication.
+This map guides assessment design, activity design, Educator Guide pacing, and public communication.
 
 ## Competency areas
 
@@ -350,7 +350,7 @@ Use:
 - 17_advanced.md for Advanced module titles, follow-on pathway ideas, and parked legacy content;
 - 04_design.md for design principles and constraints;
 - 02_research.md for evidence validation;
-- the external Activity Bank project for activity design;
+- the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) for activity design;
 - ../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md for educator facilitation;
 - 13_assessment.md for competency-based evidence and the two-part assessment model; and
 - 15_certification.md for the two-part assessment prerequisite and governance questions.

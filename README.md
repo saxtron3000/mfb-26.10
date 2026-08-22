@@ -70,7 +70,7 @@ Use these planning documents to develop and maintain the official documents abov
 | Architecture and content boundaries | [`workspace/06_plan.md`](workspace/06_plan.md) |
 | Competency framework | [`workspace/05_competencies.md`](workspace/05_competencies.md) |
 | Design principles and adaptation rules | [`workspace/04_design.md`](workspace/04_design.md) |
-| Activity and task design | external Activity Bank project |
+| Activity and task design | [Resources Hub](https://programs.myfirstbitcoin.org/resources/) |
 | Assessment evidence and passing requirements | [`workspace/13_assessment.md`](workspace/13_assessment.md) |
 | Certification prerequisite and governance | [`workspace/15_certification.md`](workspace/15_certification.md) |
 | Terminology and definitions | [`mfb-bd-lx.md`](publish/mfb-bd-26.10/mfb-bd-lx.md) |

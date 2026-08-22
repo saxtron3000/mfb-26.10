@@ -69,7 +69,7 @@ An approved assessment task may collect evidence for several criteria within one
 
 ## Theoretical competency — 50%
 
-Educators collect evidence through approved short interactions from the external Activity Bank project, such as learner explanations, guided comparisons, scenario analysis, concept illustrations, claim/evidence/trade-off responses, simulations, and role-plays.
+Educators collect evidence through approved short interactions, including activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), such as learner explanations, guided comparisons, scenario analysis, concept illustrations, claim/evidence/trade-off responses, simulations, and role-plays.
 
 The evidence must match the competency verb. For example:
 
@@ -170,7 +170,7 @@ Passing one component cannot compensate for an unmet requirement in the other. P
 
 Educators assess both theoretical and practical competencies using approved tasks, observable criteria, common rubrics, concise evidence records, feedback, and fair reassessment.
 
-The Educator Guide and Activity Bank must provide:
+The Educator Guide and Resources Hub must provide:
 
 - competency-to-task mappings;
 - required observable criteria for each competency;

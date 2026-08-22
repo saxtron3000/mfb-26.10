@@ -1,16 +1,16 @@
-# Bitcoin Diploma Activity Bank Plan
+# Bitcoin Diploma Activities Plan
 
 ## Purpose
 
-This document defines how activities support the Bitcoin Diploma 2026.10 learning pathway. It is a planning and quality guide for the external Activity Bank project; it does not contain full activity procedures or replace the Educator Guide, assessment requirements, or competency framework.
+This document defines how activities support the Bitcoin Diploma 2026.10 learning pathway. It is a planning and quality guide for activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/); it does not contain full activity procedures or replace the Educator Guide, assessment requirements, or competency framework.
 
 Activities should give learners short, purposeful opportunities to discuss, compare, practise, apply, explain, and reflect. They should make the Diploma more participatory without adding unnecessary technical depth, access barriers, financial risk, or a requirement to use a particular tool or service.
 
-Detailed activity instructions, task specifications, materials, and variants belong in the external Activity Bank project. The Student Guide remains lean and learner-facing. The Educator Guide provides facilitation, pacing, adaptation, misconception support, and debrief guidance.
+Detailed activity instructions, task specifications, materials, and variants are available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/). The Student Guide remains lean and learner-facing. The Educator Guide provides facilitation, pacing, adaptation, misconception support, and debrief guidance.
 
 ## Role in the learning ecosystem
 
-The Activity Bank is a modular part of the Diploma learning ecosystem. Educators may use an approved activity within a module or, where appropriate, as a standalone learning experience. It supports the complete four-module beginner Diploma, including educator-adapted Module 3 practice and educator-curated Module 4 Connect practice; Advanced work remains outside the Diploma.
+Activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) are a modular part of the Diploma learning ecosystem. Educators may use an approved activity within a module or, where appropriate, as a standalone learning experience. They support the complete four-module beginner Diploma, including educator-adapted Module 3 practice and educator-curated Module 4 Connect practice; Advanced work remains outside the Diploma.
 
 Activity design should reflect the Diploma arc: **Problem → Solution → Action → Connect**. Module 4 activities are Connect activities: they link the shared learning from Modules 1–3 to a local need or opportunity, a realistic alternative, safe practice, and a responsible next step. They do not require a learner to adopt Bitcoin or endorse a named local service.
 
@@ -61,13 +61,13 @@ Suggested beginner areas include money and purchasing-power reflections; Bitcoin
 
 Most activities are formative. An activity may contribute to the theoretical assessment only when it is approved, competency-aligned, criteria-based, individually evidenced, and recorded. A practical activity may contribute only when an educator directly observes the required performance using the approved criteria, prompting rules, and evidence record.
 
-The practical Activity Bank must support safe assessment of the required first-access, transaction, recovery-readiness, verification, safety, and educator-curated practical or applied competencies. Use prepared wallets, simulations, testnet, or other appropriate low-stakes arrangements where needed. Never require disclosure of a seed phrase, private key, credential, balance, unnecessary address history, or other unnecessary personal information.
+Practical activities must support safe assessment of the required first-access, transaction, recovery-readiness, verification, safety, and educator-curated practical or applied competencies. Use prepared wallets, simulations, testnet, or other appropriate low-stakes arrangements where needed. Never require disclosure of a seed phrase, private key, credential, balance, unnecessary address history, or other unnecessary personal information.
 
 Equivalent accessibility, language, and low-connectivity variants may change how learners communicate or perform, but must preserve the competency, required observable criteria, and level of performance.
 
 ## Minimum activity record
 
-Each Activity Bank entry should include:
+Each activity entry should include:
 
 - title, activity type, intended module and learning-arc stage, and estimated time;
 - competency or formative-learning links and prerequisites; for Module 4, the Problem → Solution → Action concepts, local need, and realistic alternative to connect;
@@ -100,7 +100,7 @@ Priority work is:
 |---|---|
 | Four-module architecture and content boundaries | `06_plan.md` |
 | Competencies and observable criteria | `05_competencies.md` |
-| Activity categories, full procedures, and task templates | External Activity Bank project |
+| Activity categories, full procedures, and task templates | [Resources Hub](https://programs.myfirstbitcoin.org/resources/) |
 | Educator facilitation, pacing, adaptation, and debrief guidance | `12_educator-plan.md` and `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` |
 | Assessment evidence, passing rules, and assessment standards | `13_assessment.md` |
 | Certification prerequisite and governance questions | `15_certification.md` |
@@ -113,4 +113,4 @@ Priority work is:
 - What is the smallest set of task variants that works across in-person, online, low-connectivity, and accessibility contexts?
 - Which safety-critical errors require an immediate **Not yet** result, and what support may an educator give before or during each task?
 - What calibration examples and moderation sample are proportionate for a community-led programme?
-- How will the external Activity Bank version, review status, current-data checks, and links remain traceable to the published Diploma?
+- How will the Resources Hub version, review status, current-data checks, and links remain traceable to the published Diploma?

@@ -56,7 +56,7 @@ Affected: `05_competencies.md`, `06_plan.md`, `../publish/mfb-bd-26.10/mfb-bd-sg
 
 **B. Optional first access.** Remove `C9.3` as a required competency criterion; certification requires safe wallet navigation and a receive/send simulation, but not access to bitcoin.
 
-Affected: `05_competencies.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, `13_assessment.md`, `15_certification.md`, the external Activity Bank project.
+Affected: `05_competencies.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, `13_assessment.md`, `15_certification.md`, and activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/).
 
 ## 6. What is the required Diploma learning for Lightning?
 
@@ -66,7 +66,7 @@ Affected: `05_competencies.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, `.
 
 **B. Required supported use.** Every learner completes an approved Lightning receive/send exercise in Module 3; Module 4 may deepen or localize it.
 
-Affected: `05_competencies.md`, `06_plan.md`, `07_contents.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, the external Activity Bank project, `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, `13_assessment.md`, `../publish/mfb-bd-26.10/mfb-bd-lx.md`, `16_spec.md`.
+Affected: `05_competencies.md`, `06_plan.md`, `07_contents.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, `13_assessment.md`, `../publish/mfb-bd-26.10/mfb-bd-lx.md`, `16_spec.md`.
 
 ## 7. Are online PDF, website-ready content, and future branches October deliverables?
 
@@ -86,7 +86,7 @@ Affected: `03_scope.md`, `04_design.md`, `06_plan.md`, `../publish/mfb-bd-26.10/
 
 **B. Move it out of the learner Diploma.** Keep wallet open-source evaluation as educator/Advanced context and teach Diploma learners only the custody, recovery, verification, and safety criteria needed for beginner use.
 
-Affected: `06_plan.md`, `05_competencies.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, the external Activity Bank project, `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, `../publish/mfb-bd-26.10/mfb-bd-lx.md`, `17_advanced.md`.
+Affected: `06_plan.md`, `05_competencies.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, `../publish/mfb-bd-26.10/mfb-bd-lx.md`, `17_advanced.md`.
 
 ## 9. Is named programme-pathway promotion part of the Student Guide?
 
@@ -118,21 +118,21 @@ The assessment and certification documents define a mandatory prerequisite and i
 
 Affected: `03_scope.md`, `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, `13_assessment.md`, `15_certification.md`, `16_spec.md`, `18_horizon.md`, public materials.
 
-## 12. Should the first release include a timed, certification-complete Activity Bank?
+## 12. Should the first release include timed, certification-complete activities?
 
-The design requires approved theory interactions, direct observation, rubrics, records, and equivalent variants. the external Activity Bank project contains a strong template and legacy inventory but not the complete set of approved, timed, rubric-backed tasks needed to support every competency. Other files sometimes describe the assessment system as if it is ready to operate.
+The design requires approved theory interactions, direct observation, rubrics, records, and equivalent variants. The [Resources Hub](https://programs.myfirstbitcoin.org/resources/) needs a complete set of approved, timed, rubric-backed tasks to support every competency. Other files sometimes describe the assessment system as if it is ready to operate.
 
-**A. Release only when operational.** Make a certification-complete Activity Bank—competency-to-evidence crosswalk, approved tasks, rubrics, records, variants, and educator calibration—a release dependency.
+**A. Release only when operational.** Make certification-complete activities—competency-to-evidence crosswalk, approved tasks, rubrics, records, variants, and educator calibration—a release dependency.
 
-**B. Release the curriculum framework first.** Publish the Student and Educator guides as a provisional teaching package; defer certification claims and assessment-complete status until the Activity Bank is operational.
+**B. Release the curriculum framework first.** Publish the Student and Educator guides as a provisional teaching package; defer certification claims and assessment-complete status until the required activities are operational.
 
-Affected: `02_research.md`, `03_scope.md`, `05_competencies.md`, the external Activity Bank project, `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, `13_assessment.md`, `15_certification.md`, `16_spec.md`, `18_horizon.md`.
+Affected: `02_research.md`, `03_scope.md`, `05_competencies.md`, activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, `13_assessment.md`, `15_certification.md`, `16_spec.md`, `18_horizon.md`.
 
 ---
 
 ## Reconciliation order after decisions
 
 1. Update authorities: `06_plan.md`, `05_competencies.md`, `13_assessment.md`, and `15_certification.md`.
-2. Align delivery files: `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, the external Activity Bank project, and `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`.
+2. Align delivery files: `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), and `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`.
 3. Align planning and communication: `03_scope.md`, `04_design.md`, `07_contents.md`, `16_spec.md`, and `18_horizon.md`.
 4. Update the index, lexicon, resource register, and any public materials that repeat the resolved decision.

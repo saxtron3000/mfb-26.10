@@ -55,7 +55,7 @@ The new version improves the Diploma by:
 - organizing the course into four clear modules;
 - keeping all four Diploma modules together, while keeping Advanced future learning outside the Diploma and allowing educators to adapt Modules 3–4 within it;
 - increasing practical learning, discussion, reflection, and learner explanation;
-- using selected Bitcoin for Organizations material only where it clarifies beginner concepts, educator misconception support, Activity Bank scenarios, or educator-curated Module 3–4 practice;
+- using selected Bitcoin for Organizations material only where it clarifies beginner concepts, educator misconception support, activity scenarios, or educator-curated Module 3–4 practice;
 - improving educator guidance, pacing, activities, and assessment support;
 - preparing English source files for translation and localization;
 - reducing fragile links, QR-code clutter, and named-service dependencies;
@@ -162,7 +162,7 @@ The 2026.10 Diploma package is expected to include:
 - offline print/PDF package;
 - online PDF package;
 - Educator Guide;
-- Activity Bank;
+- Resources Hub activities;
 - Bitcoin in Your Community templates;
 - assessment framework;
 - optional My First Bitcoin app self-check, recap, and discovery package;
@@ -171,7 +171,7 @@ The 2026.10 Diploma package is expected to include:
 - website-ready source files;
 - future delivery-branch notes.
 
-The Student Book should carry the learner path. The Educator Guide should help teachers facilitate, pace, adapt, and protect learner safety. The Activity Bank should provide modular exercises that educators can use inside the Diploma or as standalone learning experiences.
+The Student Book should carry the learner path. The Educator Guide should help teachers facilitate, pace, adapt, and protect learner safety. Activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) should provide modular exercises that educators can use inside the Diploma or as standalone learning experiences.
 
 ---
 
