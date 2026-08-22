@@ -41,7 +41,7 @@ Use this file as a collection point for material that may later become:
 
 Do not begin full Advanced module design until the redesigned Bitcoin Diploma has been published.
 
-The beginner Diploma must remain the priority. Advanced work should not pull time, scope, or complexity back into the Core pathway.
+The beginner Diploma must remain the priority. Advanced work should not pull time, scope, or complexity back into the Diploma pathway.
 
 ## Preservation Rule
 
@@ -52,7 +52,7 @@ Place it here with enough context to recover it later:
 - topic;
 - source file;
 - likely Advanced module;
-- reason it was removed from Core;
+- reason it was moved outside the Diploma;
 - notes for future use.
 
 The absence of a topic from `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md` does not mean the topic is unimportant. It may simply be too detailed, too local, too technical, too current-data-dependent, or too risky for an 8-hour beginner pathway.
@@ -64,26 +64,26 @@ The absence of a topic from `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md` does no
 | Topic | Owner document |
 |---|---|
 | Four-module beginner architecture | `06_plan.md` |
-| Core / Custom / Advanced boundary rules | `06_plan.md` |
-| Advanced title inventory | `15_advanced.md` |
-| Advanced follow-on pathway ideas | `15_advanced.md` |
-| Redacted legacy material for future Advanced use | `15_advanced.md` |
+| Four-module Diploma / educator-curated Modules 3–4 / Advanced boundary rules | `06_plan.md` |
+| Advanced title inventory | `17_advanced.md` |
+| Advanced follow-on pathway ideas | `17_advanced.md` |
+| Redacted legacy material for future Advanced use | `17_advanced.md` |
 | Student-facing beginner guide | `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md` |
-| Beginner objectives | `05_objectives.md` |
-| Beginner assessment | `11_assessment.md` |
+| Beginner competency framework and criteria | `05_competencies.md` |
+| Beginner assessment | `13_assessment.md` |
 | Activity templates | the external Activity Bank project |
 | Educator facilitation guidance | `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` |
-| Diploma overview | `14_spec.md` |
+| Diploma overview | `16_spec.md` |
 
-`06_plan.md` remains the source of truth for the active beginner redesign structure.
+`06_plan.md` remains the source of truth for the active beginner redesign structure, including the **Problem → Solution → Action → Connect** learning arc. The educator-curated Connect module completes the beginner Diploma; it is not a route for importing Advanced scope.
 
-`15_advanced.md` is the source of truth for Advanced module ideas, title inventory, source trails, and parked content.
+`17_advanced.md` is the source of truth for Advanced module ideas, title inventory, source trails, and parked content.
 
 ---
 
 # 3. Advanced Boundary From The Plan
 
-Advanced outcomes are ongoing and should be designed module by module.
+Advanced competencies are ongoing and should be designed module by module.
 
 Advanced content should not overload the beginner pathway. It may become optional extensions, separate workshops, educator background, or follow-on courses.
 
@@ -113,7 +113,7 @@ Advanced content may include deeper:
 - communication networks;
 - Bitcoin education practice.
 
-Core learners should not be expected to master these topics inside the 8-hour beginner Diploma.
+Diploma learners should not be expected to master these topics inside the 8-hour beginner Diploma.
 
 ---
 
@@ -229,43 +229,43 @@ These are pathway ideas, not final product names.
 Reading rule:
 
 - `ADVANCED` means old content becomes Advanced pathway material.
-- `OUT` does not mean deletion when the same item is marked Custom or Advanced.
-- No reviewed section should be treated as out-only deletion without checking whether the content belongs in Custom or Advanced.
+- `OUT` does not mean deletion when the same item is assigned to an educator-curated Module 4 variant within the Diploma or Advanced learning.
+- No reviewed section should be treated as out-only deletion without checking whether the content belongs in an educator-curated Module 4 variant within the Diploma or Advanced learning.
 
 Migration summary for Advanced:
 
 | Destination | Legacy content signal | Redesign decision |
 |---|---|---|
 | Advanced | deeper psychology, detailed mining, mempool, detailed transactions, philosophy, future scenarios | Move into Advanced pathways or educator background. |
-| Advanced | L1 UTXOs; L2 detailed monetary history, protocol mechanics, Lightning operation, and high-security custody | Preserve as module seeds; do not return them to the beginner Core. |
+| Advanced | L1 UTXOs; L2 detailed monetary history, protocol mechanics, Lightning operation, and high-security custody | Preserve as module seeds; do not return them to the beginner Diploma. |
 
 Split decisions:
 
-- Psychology of money stays in Core as a foundation; deeper behavioral analysis moves to Advanced.
-- Nodes and miners stay in Core only as simple roles; technical mechanics move to Advanced.
-- Transaction concepts stay in Core only where needed for safe use and verification; detailed models move to Advanced.
+- Psychology of money stays in the Diploma as a foundation; deeper behavioral analysis moves to Advanced.
+- Nodes and miners stay in the Diploma only as simple roles; technical mechanics move to Advanced.
+- Transaction concepts stay in the Diploma only where needed for safe use and verification; detailed models move to Advanced.
 - CBDCs may appear briefly in Module 1 or locally in Module 4; policy and technical depth moves to Advanced.
-- Lightning distinctions may be introduced briefly, but wallet setup and payment practice normally belongs in Custom.
-- Buying and selling bitcoin may appear in Core as a conceptual risk map, but provider-specific practice belongs in Custom or Advanced.
+- Lightning distinctions may be introduced briefly, but wallet setup and payment practice normally belongs in Module 4.
+- Buying and selling bitcoin may appear in the Diploma as a conceptual risk map, but provider-specific practice belongs in an educator-curated Module 4 variant within the Diploma or Advanced learning.
 - Named services, wallets, exchanges, peer-to-peer platforms, and local recommendations should not become global Student Book recommendations.
 
 ### L2 Module Seeds
 
-The earlier L2 proposal supplies concise sequences for future module design. These are seeds only; they are not approved module outlines or Advanced outcomes.
+The earlier L2 proposal supplies concise sequences for future module design. These are seeds only; they are not approved module outlines or Advanced competencies.
 
 | Future module | Suggested sequence recovered from L2 | Boundary |
 |---|---|---|
-| History of Money (localisation) | Bretton Woods context; 1971 end of dollar-to-gold convertibility; local and global consequences | Keep only the brief historical marker in Core. |
-| Mining & Consensus | Transaction relay and validation; candidate-block construction; proof of work; hashes and block headers; difficulty adjustment; block propagation; consensus; optional Merkle trees | Core keeps participant roles and simplified proof of work. |
-| Infrastructure & Maintenance | Connect a wallet or application to a Bitcoin node; compare connection and verification trade-offs; troubleshoot supported local connectivity | Core keeps only the beginner roles of nodes and the meaning of verification. |
-| Lightning Network | Channel opening and closing; payment channels; HTLCs; routing; liquidity; routing failures; operational trade-offs | Core distinguishes on-chain from Lightning; Custom may support locally appropriate payment practice. |
-| Bitcoin Self-Custody | Hot, hardware, and air-gapped signing; passphrases; multisig; encrypted-backup trade-offs; recovery and inheritance planning | Core gives an introductory hardware-wallet and recovery-safety overview. |
+| History of Money (localisation) | Bretton Woods context; 1971 end of dollar-to-gold convertibility; local and global consequences | Keep only the brief historical marker in the Diploma. |
+| Mining & Consensus | Transaction relay and validation; candidate-block construction; proof of work; hashes and block headers; difficulty adjustment; block propagation; consensus; optional Merkle trees | The Diploma keeps participant roles and simplified proof of work. |
+| Infrastructure & Maintenance | Connect a wallet or application to a Bitcoin node; compare connection and verification trade-offs; troubleshoot supported local connectivity | The Diploma keeps only the beginner roles of nodes and the meaning of verification. |
+| Lightning Network | Channel opening and closing; payment channels; HTLCs; routing; liquidity; routing failures; operational trade-offs | The Diploma distinguishes on-chain from Lightning; an educator-curated Module 4 variant within the Diploma may support appropriate payment practice. |
+| Bitcoin Self-Custody | Hot, hardware, and air-gapped signing; passphrases; multisig; encrypted-backup trade-offs; recovery and inheritance planning | The Diploma gives an introductory hardware-wallet and recovery-safety overview. |
 
 ---
 
-# 7. What Moves Out Of Core
+# 7. What Moves Beyond the Diploma
 
-| Beginner Core keeps | Advanced may develop |
+| Diploma keeps | Advanced may develop |
 |---|---|
 | Money, fiat, inflation, purchasing power | Detailed monetary theory and long policy history |
 | Double coincidence of wants, fiat-system roles, fractional reserve banking, bank runs, and brief CBDC orientation | Detailed banking policy, CBDC policy, and long monetary-policy history |
@@ -275,7 +275,7 @@ The earlier L2 proposal supplies concise sequences for future module design. The
 | Receiving, sending, verification, address checking, beginner safety, scam awareness, and start-small guidance | Advanced troubleshooting and technical analysis |
 | Beginner acquiring and exchanging pathways as risk orientation | Named provider recommendations, live exchange setup, deep KYC/no-KYC trade-off analysis, and tax/legal advice |
 | High-level distinctions between on-chain and Lightning | Lightning channel mechanics, routing, liquidity, and node operations |
-| Local daily-life Bitcoin use as Custom source material | Fixed global requirements for specific local tools, merchants, exchanges, or communities |
+| Local daily-life Bitcoin use as Module 4 source material | Fixed global requirements for specific local tools, merchants, exchanges, or communities |
 | Guided discussion and practical orientation | Full technical demonstration sequences and optional extensions |
 
 ---
@@ -312,9 +312,9 @@ Possible Advanced modules:
 - Money & Human Rights
 - Bitcoin Education
 
-Reason moved out of Core:
+Reason outside the Diploma:
 
-Core should introduce scarcity, time preference, and opportunity cost through essential ideas. Deeper behavioral analysis requires more time and more careful facilitation.
+The Diploma should introduce scarcity, time preference, and opportunity cost through essential ideas. Deeper behavioral analysis requires more time and more careful facilitation.
 
 ## Investment, Risk, Reward, And Capital Allocation
 
@@ -346,7 +346,7 @@ Teaching boundary:
 
 This material should teach decision frameworks, terminology, evidence limits, and trade-offs. It must not recommend Bitcoin, a portfolio weight, a product, a provider, a timing decision, or a personal capital allocation. Use fictional and clearly labelled scenarios rather than learner balances or personal financial details. Learners may evaluate the reasoning and missing information in a scenario; they should not be assessed on choosing an investment or producing a portfolio.
 
-Reason moved out of Core:
+Reason outside the Diploma:
 
 Investment and capital-allocation reasoning assumes a longer time horizon, more economic background, and careful treatment of personal and organizational context. It belongs in Advanced study and must remain distinct from financial, legal, tax, accounting, or investment advice.
 
@@ -380,9 +380,9 @@ Possible Advanced modules:
 - Monetary Economics
 - Money & Society
 
-Reason moved out of Core:
+Reason outside the Diploma:
 
-Core needs a short history from barter to modern fiat. Detailed chronology, local monetary histories, and policy context belong in follow-on study.
+The Diploma needs a short history from barter to modern fiat. Detailed chronology, local monetary histories, and policy context belong in follow-on study.
 
 ## Fiat System, Banking, Debt, And Policy
 
@@ -438,9 +438,9 @@ Fractional-reserve banking should be a featured Monetary Economics strand, not a
 
 Avoid presenting one reserve ratio as a universal explanation of money creation. Rules and practices differ by jurisdiction and time, and lending is also constrained by capital, liquidity, regulation, borrower creditworthiness, funding, and demand for credit. Use current, locally relevant banking rules only when they are verified, dated, and appropriately sourced.
 
-Reason moved out of Core:
+Reason outside the Diploma:
 
-Core should give a plain-language account of fiat-system problems. Advanced modules can examine policy, institutions, debt dynamics, and social consequences with more precision and context.
+The Diploma should give a plain-language account of fiat-system problems. Advanced modules can examine policy, institutions, debt dynamics, and social consequences with more precision and context.
 
 Fact-check notes:
 
@@ -477,9 +477,9 @@ Possible Advanced modules:
 - Money & Society
 - Privacy & Security
 
-Reason moved out of Core:
+Reason outside the Diploma:
 
-Core may use CBDCs briefly as a fiat-system example. Detailed CBDC policy, surveillance, programmability, and country-specific status belong in Advanced or local Custom material.
+The Diploma may use CBDCs briefly as a fiat-system example. Detailed CBDC policy, surveillance, programmability, and country-specific status belong in Advanced learning or a educator-curated Module 4 variant.
 
 Fact-check notes:
 
@@ -520,9 +520,9 @@ Possible Advanced modules:
 - Nostr & Decentralized Communication
 - Cryptography
 
-Reason moved out of Core:
+Reason outside the Diploma:
 
-Core should introduce the search for decentralized digital money without overloading beginners with a long technical or historical timeline.
+The Diploma should introduce the search for decentralized digital money without overloading beginners with a long technical or historical timeline.
 
 ## Bitcoin Consensus, Network Roles, And Open Development
 
@@ -560,9 +560,9 @@ Possible Advanced modules:
 - Bitcoin Education
 - Computer Science Fundamentals
 
-Reason moved out of Core:
+Reason outside the Diploma:
 
-Core should explain roles simply. Exact consensus mechanics and open-source governance need more time and stronger prerequisites.
+The Diploma should explain roles simply. Exact consensus mechanics and open-source governance need more time and stronger prerequisites.
 
 ## Cryptography
 
@@ -599,9 +599,9 @@ Possible Advanced modules:
 - Transactions & Settlement
 - Privacy & Security
 
-Reason moved out of Core:
+Reason outside the Diploma:
 
-Core needs a practical introduction to keys and signatures. Cryptographic properties, hash functions, and address-generation detail are Advanced technical foundations.
+The Diploma needs a practical introduction to keys and signatures. Cryptographic properties, hash functions, and address-generation detail are Advanced technical foundations.
 
 Activity seeds:
 
@@ -645,9 +645,9 @@ Possible Advanced modules:
 - Computer Science Fundamentals
 - Infrastructure & Maintenance
 
-Reason moved out of Core:
+Reason outside the Diploma:
 
-Core should teach only the transaction knowledge needed for safe beginner use. UTXO mechanics, fee strategy, privacy analysis, and full transaction lifecycle belong in Advanced.
+The Diploma should teach only the transaction knowledge needed for safe beginner use. UTXO mechanics, fee strategy, privacy analysis, and full transaction lifecycle belong in Advanced.
 
 ## Mining, Difficulty, Issuance, And Fees
 
@@ -693,9 +693,9 @@ Possible Advanced modules:
 - Infrastructure & Maintenance
 - Computer Science Fundamentals
 
-Reason moved out of Core:
+Reason outside the Diploma:
 
-Core needs a foundational explanation of proof of work. Detailed mining mechanics, issuance math, fee markets, and difficulty adjustment belong in Advanced.
+The Diploma needs a foundational explanation of proof of work. Detailed mining mechanics, issuance math, fee markets, and difficulty adjustment belong in Advanced.
 
 Fact-check notes:
 
@@ -730,9 +730,9 @@ Possible Advanced modules:
 - Infrastructure & Maintenance
 - Privacy & Security
 
-Reason moved out of Core:
+Reason outside the Diploma:
 
-Core may include simple block explorer orientation. Detailed mempool analysis and fee market behavior are Advanced.
+The Diploma may include simple block explorer orientation. Detailed mempool analysis and fee market behavior are Advanced.
 
 ## Wallets, Custody, Recovery, And Operational Security
 
@@ -777,9 +777,9 @@ Possible Advanced modules:
 - Infrastructure & Maintenance
 - Online privacy and safety
 
-Reason moved out of Core:
+Reason outside the Diploma:
 
-Core gives beginner orientation and safety rules. Advanced modules can teach operational security, troubleshooting, deeper wallet selection, and high-stakes custody practices.
+The Diploma gives beginner orientation and safety rules. Advanced modules can teach operational security, troubleshooting, deeper wallet selection, and high-stakes custody practices.
 
 Safety notes:
 
@@ -817,9 +817,9 @@ Possible Advanced modules:
 - Bitcoin for Business
 - Money & Human Rights
 
-Reason moved out of Core:
+Reason outside the Diploma:
 
-Core should teach acquisition pathways as risk awareness, not as instructions or provider recommendations. Specific providers, KYC/no-KYC practice, and legal/tax considerations require local expertise.
+The Diploma should teach acquisition pathways as risk awareness, not as instructions or provider recommendations. Specific providers, KYC/no-KYC practice, and legal/tax considerations require local expertise.
 
 Safety and publication notes:
 
@@ -869,9 +869,9 @@ Possible Advanced modules:
 - Privacy & Security
 - Bitcoin for Business
 
-Reason moved out of Core:
+Reason outside the Diploma:
 
-Core should distinguish on-chain and Lightning at a high-level overview. Detailed Lightning setup, channel management, routing, liquidity, and node operation belong in Custom or Advanced.
+The Diploma should distinguish on-chain and Lightning at a high-level overview. Detailed Lightning setup, channel management, routing, liquidity, and node operation belong in a educator-curated Module 4 variant or Advanced learning.
 
 Fact-check notes:
 
@@ -909,9 +909,9 @@ Possible Advanced modules:
 - Infrastructure & Maintenance
 - Communities & Circular Economies
 
-Reason moved out of Core:
+Reason outside the Diploma:
 
-Core may discuss local use cases. Business implementation, payment processors, accounting, staff process, and named tools require separate workshops and local expertise.
+The Diploma may discuss local use cases. Business implementation, payment processors, accounting, staff process, and named tools require separate workshops and local expertise.
 
 Fact-check notes:
 
@@ -949,7 +949,7 @@ Possible Advanced modules:
 - Bitcoin for Families
 - Bitcoin for ... (Communities & Populations)
 
-Reason moved out of Core:
+Reason outside the Diploma:
 
 Module 4 can introduce local practice. Deeper community development, governance, support, and sustainability belong in separate modules or local programs.
 
@@ -990,9 +990,9 @@ Possible Advanced modules:
 - Energy & Mining
 - Bitcoin Education
 
-Reason moved out of Core:
+Reason outside the Diploma:
 
-Core should help learners reason independently without overloading them with broad future claims. Philosophy and future scenarios need careful claim/evidence/reasoning structure.
+The Diploma should help learners reason independently without overloading them with broad future claims. Philosophy and future scenarios need careful claim/evidence/reasoning structure.
 
 Fact-check and tone notes:
 
@@ -1027,9 +1027,9 @@ Possible Advanced modules:
 - Infrastructure & Maintenance
 - Bitcoin for Organizations
 
-Reason moved out of Core:
+Reason outside the Diploma:
 
-Core can mention open-source preference. Contribution pathways, software review, maintainership, and project governance require separate treatment.
+The Diploma can mention open-source preference. Contribution pathways, software review, maintainership, and project governance require separate treatment.
 
 ## Communication Networks, Nostr, And Online Privacy
 
@@ -1057,7 +1057,7 @@ Possible Advanced modules:
 - Privacy & Security
 - Money & Human Rights
 
-Reason moved out of Core:
+Reason outside the Diploma:
 
 The beginner Diploma should stay focused on money and Bitcoin. Decentralized communication networks are important adjacent topics but should not expand the beginner scope.
 
@@ -1085,7 +1085,7 @@ This catalog gives every module in the 24-module roadmap a home for the parked m
 | 14. Bitcoin for Business | Merchant workflows, payment operations, BTCPay, receipts, refunds, staff training, accounting boundaries, customer education, and organizational analysis frameworks such as SWOT, PESTLE, and Porter’s Five Forces | Legacy chapter 7.5; Organizations business and sector sources |
 | 15. Bitcoin Treasury and Organizational Custody | Treasury policy, balance-sheet exposure, custody roles, approvals, controls, proof-of-reserves evaluation, accounting boundaries, and institutional risk | Organizations treasury and investment-management sources |
 | 16. Bitcoin Risk Management and Scenario Planning | Risk registers, likelihood, magnitude, time horizon, mitigations, strategic scenarios, and organizational decision-making | Organizations risk-management sources |
-| 17. Communities and Circular Economies | Local resource maps, merchant discovery, circular-economy design, education support, case studies, governance, and community sustainability | Legacy chapter 7.5 and case studies; local Custom experience |
+| 17. Communities and Circular Economies | Local resource maps, merchant discovery, circular-economy design, education support, case studies, governance, and community sustainability | Legacy chapter 7.5 and case studies; educator-curated Module 4 experience |
 | 18. Bitcoin for Families and Communities | Family custody conversations, inheritance basics, safety culture, youth education, shared decisions, and community-specific modules co-designed with participants | Custody and safety material; local community input |
 | 19. Money and Society | Fiat social effects, wealth concentration, consumerism, debt culture, savings, planning, trust, and social-change claims evaluated with evidence | Legacy chapters 3.2, 4.2, 10; Organizations government and nonprofit sources |
 | 20. Money and Human Rights | Financial censorship, CBDCs, privacy, access, self-sovereignty, remittances, and rights framing | Legacy chapter 10.1, 10.2; Organizations government and underbanked-access sources |
@@ -1130,7 +1130,7 @@ These activities may become Advanced modules, educator background, or optional w
 
 Every future activity should include:
 
-- objective;
+- competency;
 - prerequisites;
 - materials;
 - low-tech alternative;
@@ -1152,13 +1152,13 @@ Use these source files when future Advanced module work begins.
 - `01_review.md`: diagnosis that the old Diploma mixed beginner and advanced material.
 - `02_research.md`: evidence needs, Hackfest technical teaching notes, concept-map ideas.
 - `03_scope.md`: Advanced pathway workstream and out-of-scope timing.
-- `04_design.md`: simple-over-technical principle and Core / Custom / Advanced separation.
-- `05_objectives.md`: Advanced outcomes boundary.
+- `04_design.md`: simple-over-technical principle and four-module Diploma / educator-curated Module 4 within it / Advanced separation.
+- `05_competencies.md`: Advanced competency boundary.
 - `06_plan.md`: active beginner architecture and legacy migration rules.
 - `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`: official beginner Student Guide; useful for identifying what has been compressed or removed.
 - the external Activity Bank project: activity template and activity categories.
 - `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`: educator guidance on moving complex side topics to Advanced.
-- `14_spec.md`: Diploma overview and public communication context.
+- `16_spec.md`: Diploma overview and public communication context.
 
 ## Legacy Reference Sources
 
@@ -1433,11 +1433,11 @@ When adding an item, include:
 - short topic name;
 - source file or note origin;
 - potential module;
-- why it does not belong in Core;
+- why it is outside the Diploma;
 - whether it needs fact-checking, technical review, legal review, or local adaptation.
 
 Template:
 
-| Topic | Source | Potential module | Why not Core | Review needed |
+| Topic | Source | Potential module | Why outside the Diploma | Review needed |
 |---|---|---|---|---|
 |  |  |  |  |  |

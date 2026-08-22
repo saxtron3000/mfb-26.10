@@ -63,20 +63,20 @@ Each numbered pair offers a short (`S`) and long (`L`) alternative for the same 
 
 All source items are English, version 1.0, and require independent factual and editorial review before publication. The app question key is the authored Sanity `_key`; it must remain stable when wording changes. `correctIndex` is zero-based for the Sanity import.
 
-| Short ID and app question key | Long ID and app question key | Objective link | Source language/version | Review status | `correctIndex` |
+| Short ID and app question key | Long ID and app question key | Competency criterion | Source language/version | Review status | `correctIndex` |
 |---|---|---|---|---|---|
-| `BD-ML-01S` / `b1-1-money-purpose-short` | `BD-ML-01L` / `b1-1-money-purpose-long` | `B1.1` | English 1.0 | Needs independent factual and editorial review | 0 |
-| `BD-ML-02S` / `b1-3-money-functions-short` | `BD-ML-02L` / `b1-3-money-functions-long` | `B1.3` | English 1.0 | Needs independent factual and editorial review | 1 |
-| `BD-ML-03S` / `b1-2-barter-limits-short` | `BD-ML-03L` / `b1-2-barter-limits-long` | `B1.2` | English 1.0 | Needs independent factual and editorial review | 1 |
-| `BD-ML-04S` / `b1-5-purchasing-power-short` | `BD-ML-04L` / `b1-5-purchasing-power-long` | `B1.5` | English 1.0 | Needs independent factual and editorial review | 2 |
-| `BD-ML-05S` / `b2-1-double-spending-short` | `BD-ML-05L` / `b2-1-double-spending-long` | `B2.1` | English 1.0 | Needs independent factual and editorial review | 0 |
-| `BD-ML-06S` / `b2-2-decentralization-short` | `BD-ML-06L` / `b2-2-decentralization-long` | `B2.2` | English 1.0 | Needs independent factual and editorial review | 1 |
-| `BD-ML-07S` / `b2-3-node-role-short` | `BD-ML-07L` / `b2-3-node-role-long` | `B2.3` | English 1.0 | Needs independent factual and editorial review | 0 |
-| `BD-ML-08S` / `b2-4-sound-money-judgment-short` | `BD-ML-08L` / `b2-4-sound-money-judgment-long` | `B2.4` | English 1.0 | Needs independent factual and editorial review | 1 |
-| `BD-ML-09S` / `b3-1-wallet-interface-short` | `BD-ML-09L` / `b3-1-wallet-interface-long` | `B3.1` | English 1.0 | Needs independent factual and editorial review | 1 |
-| `BD-ML-10S` / `b3-1-address-and-secrets-short` | `BD-ML-10L` / `b3-1-address-and-secrets-long` | `B3.1` | English 1.0 | Needs independent factual and editorial review | 2 |
-| `BD-ML-11S` / `b3-4-seed-phrase-exposure-short` | `BD-ML-11L` / `b3-4-seed-phrase-exposure-long` | `B3.4` | English 1.0 | Needs independent factual and editorial review | 2 |
-| `BD-ML-12S` / `b3-2-custody-comparison-short` | `BD-ML-12L` / `b3-2-custody-comparison-long` | `B3.2` | English 1.0 | Needs independent factual and editorial review | 0 |
+| `BD-ML-01S` / `b1-1-money-purpose-short` | `BD-ML-01L` / `b1-1-money-purpose-long` | `C1.1` | English 1.0 | Needs independent factual and editorial review | 0 |
+| `BD-ML-02S` / `b1-3-money-functions-short` | `BD-ML-02L` / `b1-3-money-functions-long` | `C1.3` | English 1.0 | Needs independent factual and editorial review | 1 |
+| `BD-ML-03S` / `b1-2-barter-limits-short` | `BD-ML-03L` / `b1-2-barter-limits-long` | `C1.2` | English 1.0 | Needs independent factual and editorial review | 1 |
+| `BD-ML-04S` / `b1-5-purchasing-power-short` | `BD-ML-04L` / `b1-5-purchasing-power-long` | `C2.1` | English 1.0 | Needs independent factual and editorial review | 2 |
+| `BD-ML-05S` / `b2-1-double-spending-short` | `BD-ML-05L` / `b2-1-double-spending-long` | `C3.1` | English 1.0 | Needs independent factual and editorial review | 0 |
+| `BD-ML-06S` / `b2-2-decentralization-short` | `BD-ML-06L` / `b2-2-decentralization-long` | `C4.1` | English 1.0 | Needs independent factual and editorial review | 1 |
+| `BD-ML-07S` / `b2-3-node-role-short` | `BD-ML-07L` / `b2-3-node-role-long` | `C4.2` | English 1.0 | Needs independent factual and editorial review | 0 |
+| `BD-ML-08S` / `b2-4-sound-money-judgment-short` | `BD-ML-08L` / `b2-4-sound-money-judgment-long` | `C4.3` | English 1.0 | Needs independent factual and editorial review | 1 |
+| `BD-ML-09S` / `b3-1-wallet-interface-short` | `BD-ML-09L` / `b3-1-wallet-interface-long` | `C6.1` | English 1.0 | Needs independent factual and editorial review | 1 |
+| `BD-ML-10S` / `b3-1-address-and-secrets-short` | `BD-ML-10L` / `b3-1-address-and-secrets-long` | `C6.1` | English 1.0 | Needs independent factual and editorial review | 2 |
+| `BD-ML-11S` / `b3-4-seed-phrase-exposure-short` | `BD-ML-11L` / `b3-4-seed-phrase-exposure-long` | `C7.1` | English 1.0 | Needs independent factual and editorial review | 2 |
+| `BD-ML-12S` / `b3-2-custody-comparison-short` | `BD-ML-12L` / `b3-2-custody-comparison-long` | `C6.2` | English 1.0 | Needs independent factual and editorial review | 0 |
 
 ## Optional final-score messages
 

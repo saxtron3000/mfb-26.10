@@ -10,13 +10,13 @@ The quiz is deliberately separate from formal Diploma assessment. It is learner-
 
 ## Learner purpose
 
-Create one learner-owned **12-question** self-assessment quiz. It helps learners check their understanding of the Bitcoin Diploma and identify topics to revisit. It does not give a formal result.
+Create one learner-owned **12-question** self-assessment quiz. It helps learners check what they can explain, compare, or apply from the Bitcoin Diploma and identify topics to revisit. It does not give a formal result.
 
 ## Required quiz behaviour
 
 | Element | October requirement |
 |---|---|
-| Questions | Exactly 12 questions selected from Modules 1, 2, and 3. Do not include local Module 4 content. |
+| Questions | Exactly 12 questions selected from Modules 1, 2, and 3. Do not include educator-curated Module 4 content in the shared October bank. |
 | Format | One multiple-choice prompt with exactly four answer options. |
 | Correct answer | One clear best answer. |
 | Feedback after an answer | One shared, plain-language explanation, shown after either answer outcome, with a specific Bitcoin Diploma topic to review. It may invite the learner to keep learning or continue, but the current app cannot show different correct and incorrect messages. |
@@ -33,7 +33,7 @@ The displayed score and the learner-selected completion status are local to the 
 
 ## Developer handoff record
 
-Supply each of the 12 questions with: stable item ID and meaningful app question key; module and topic; prompt; options A–D; correct option; one shared explanation and review reference; objective link; language/source version; and review status.
+Supply each of the 12 questions with: stable item ID and meaningful app question key; module and topic; prompt; options A–D; correct option; one shared explanation and review reference; competency link; language/source version; and review status.
 
 For the current Sanity quiz format, map the handoff record to `_key`, `prompt`, `choices`, `correctIndex`, and optional `explanation`. `correctIndex` is the zero-based position of the correct choice. Do not reorder choices after setting it without checking the index. Keep the stable item ID and source-language relationship in the authoring record, because the current app uses separate documents for each language and does not yet link them.
 
@@ -76,7 +76,7 @@ Each future item should use this record:
 | Prompt | Clear learner-facing wording. |
 | Answer or response criteria | Correct answer(s), acceptable range, or reflection guidance. |
 | Feedback | Brief explanation for correct and incorrect choices; link to review content if useful. |
-| Objective link | Relevant objective in `05_objectives.md`, where applicable. |
+| Competency link | Relevant competency or observable criterion in `05_competencies.md`, where applicable. |
 | Use | Self-assessment, recap, or discovery. Never certification evidence. |
 | Review metadata | Language, difficulty, source/date for current claims, and reviewer status. |
 
@@ -259,7 +259,7 @@ Question-bank opportunities:
 - date matching: whitepaper (2008), Genesis Block (2009), Pizza Day (2010);
 - timeline ordering: place events in chronological order;
 - multiple choice: identify what the Bitcoin whitepaper introduced;
-- reflection: why do origin milestones matter less than understanding how the system works today?
+- reflection: why do origin milestones matter less than being able to explain how the system works today?
 
 ## BD-ML-B02-T05: Decentralization and peer-to-peer transfer
 
@@ -348,7 +348,7 @@ Question-bank opportunities:
 
 - multiple choice: identify what a wallet does and does not store in a practical introduction;
 - matching: wallet action to purpose;
-- reflection: why should a learner understand an interface before using it?
+- reflection: why should a learner be able to identify key interface details before using it?
 
 ## BD-ML-B03-T02: Addresses, keys, and seed phrases
 
@@ -391,7 +391,7 @@ Question-bank opportunities:
 - sequence ordering: safe, educator-approved recovery-readiness steps;
 - multiple choice: identify an unsafe backup practice;
 - scenario: select the right response when a seed phrase may have been exposed;
-- educator flag: practical recovery evidence requires direct observation under `11_assessment.md`.
+- educator flag: practical recovery evidence requires direct observation under `13_assessment.md`.
 
 ## BD-ML-B03-T06: Receiving bitcoin
 
@@ -464,9 +464,9 @@ Question-bank opportunities:
 
 # 5. Module 4: Bitcoin in Your Community
 
-## Custom-content rule
+## Educator-curated Module 4 content rule
 
-Module 4 content is selected by the educator for the local community. Create app self-check items only after the local module, tools, safety boundaries, and sources are approved. Keep these items modular and tag them by location, language, delivery context, and review date.
+Module 4 is the educator-curated **Connect** stage of Problem → Solution → Action → Connect. It links the shared learning to a local need or opportunity, a realistic alternative, safe practice, and a responsible next step. Create app self-check items only after the local module, tools, safety boundaries, and sources are approved. Keep these items modular and tag them by location, language, delivery context, and review date.
 
 ## BD-ML-B04-T01: Local Bitcoin tools and resources
 
@@ -532,14 +532,14 @@ Question-bank opportunities:
 
 ## BD-ML-B04-T07: Module 4 review and local competency preparation
 
-Themes: locally selected application, trade-offs, safety, and educator-observed practical evidence.
+Themes: educator-curated Connect application, trade-offs, safety, realistic alternatives and next steps, and educator-observed practical evidence.
 
 Question-bank opportunities:
 
 - local scenario review;
 - learner explanation prompt for formative educator follow-up;
 - confidence check and next-step resource selection;
-- educator flag: the required local practical competency is assessed under `11_assessment.md` and certification eligibility under `13_certification.md`.
+- educator flag: the required local practical competency is assessed under `13_assessment.md` and certification eligibility under `15_certification.md`.
 
 ---
 
@@ -566,14 +566,14 @@ None of these features is required for the October quiz. They are a simple idea 
 - Short teaching cards before a question.
 - Multi-screen learning items: explanation, scenario, question, then feedback.
 - A mix of recall, vocabulary, comparison, cause-and-effect, application, safety checks, confidence checks, and local examples.
-- Question sets tailored to a particular topic, module, or learning objective.
-- A shared Core bank plus locally selected Module 4 content.
+- Question sets tailored to a particular topic, module, competency, or observable criterion.
+- A shared question bank for Modules 1–3 plus educator-curated Module 4 content.
 
 ## Feedback, review, and reflection
 
 - Feedback for each individual answer option.
 - One general correct or incorrect message where answer-specific feedback is not needed.
-- Immediate feedback, delayed feedback, or educator-selected feedback timing.
+- Immediate feedback, delayed feedback, or educator-curated feedback timing.
 - Explanations of why an answer is correct or incorrect.
 - Direct links from feedback to the relevant Diploma section for review.
 - Optional answer reveals after an attempt or after all attempts.
@@ -616,10 +616,10 @@ None of these features is required for the October quiz. They are a simple idea 
 - Cohort-level reporting to identify common learning gaps.
 - Exportable reports in formats such as CSV, spreadsheet, API, PDF, or dashboard.
 
-## Objectives, assessment, and Diploma integration
+## Competencies, assessment, and Diploma integration
 
-- Stable mapping from every question to one or more Diploma learning objectives.
-- A coverage check showing which objectives have enough valid learning and question support.
+- Stable mapping from every question to one or more Diploma competencies or observable criteria.
+- A coverage check showing which competencies and criteria have enough valid learning and question support.
 - Tags for recall, explanation, comparison, application, reflection, safety, practice, and educator follow-up.
 - Tags for module, topic, difficulty, language, location, source, review date, and content owner.
 - A future formal-assessment mode only after tracking, scoring, privacy, and educator workflows are approved.

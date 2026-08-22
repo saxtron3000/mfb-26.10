@@ -6,15 +6,15 @@ The active policy is fixed: educators evaluate the 50% theoretical component and
 
 ## Release blockers
 
-1. Build the objective-to-evidence crosswalk.
+1. Build the competency-to-evidence crosswalk.
 
-   - Map every certification objective in `05_objectives.md` to Student Guide teaching, formative practice, educator-led theoretical evidence or practical task, scoring rule, result field, and estimated time within the advertised course pathway.
-   - Do not treat a topic appearing in prose as proof that the measurable objective is taught or assessed.
-   - Complete the distinct evidence and record fields for `B3.11`.
+   - Map every assessed competency in `05_competencies.md` to Student Guide teaching, formative practice, educator-led theoretical evidence or practical task, scoring rule, result field, and estimated time within the advertised course pathway.
+   - Do not treat a topic appearing in prose as proof that the required competency is taught or assessed.
+   - Complete the distinct evidence and record fields for `C9.3`.
 
 2. Make the educator-led assessment system operational.
 
-   - Create the final assessment blueprint and objective-level pass rules.
+   - Create the final assessment blueprint and competency-level pass rules.
    - Create approved educator-theory interaction criteria and concise record fields.
    - Create practical tasks, rubrics, safety-critical errors, educator calibration, reassessment, and combined completion-record procedures.
    - Define privacy, accessibility, correction, and appeals rules before certification is offered.
@@ -28,7 +28,7 @@ The active policy is fixed: educators evaluate the 50% theoretical component and
 ## Ongoing quality controls
 
 - Check local Markdown links and source paths.
-- Check that every required objective is represented in the crosswalk.
+- Check that every required competency is represented in the crosswalk.
 - Check that the 50% educator-led theory and 50% educator-observed practical assessment allocation remains non-compensatory.
 - Check that optional app self-checks are never presented as evidence, a requirement, or a certification gate.
 - Check stale line references, heading anchors, placeholders, and external claims before publication.
@@ -41,7 +41,7 @@ Source: `input/PABLO/202602721_final_draft_notes.md`. Items marked `[x]` in the 
 - [o] Create a consistent visual system for graphics, diagrams, tables, examples, activities, educator guidance, glossary terms, and advanced content.
 - [o] Build a glossary/lexicon; define marked terms before or at first use and use consistent beginner language.
 - [o] Separate student content from educator guidance; create an educator guide/toolkit where marked.
-- [-] Make Modules 1–3 the Core and Module 4 optional/custom. Give Module 4 a separate educator-facing structure with templates and local modules.
+- [-] Treat Modules 1–4 as the required Diploma. Keep Module 4 locally selected, with educator-facing templates and local variants.
 - [o] Add graphics and worked/local examples for abstract money, banking, mining, wallet, transaction, and payment concepts.
 - [o] Give every exercise a format, duration, purpose, facilitator instructions, expected evidence/output, and writing space where needed.
 - [o] Fact-check economic, banking, Bitcoin, security, legal, and technical claims with qualified reviewers.
@@ -64,11 +64,11 @@ Source: `input/PABLO/202602721_final_draft_notes.md`. Items marked `[x]` in the 
 
 #### What learners will be able to explain and demonstrate by the end
 - [-] Support or soften the claim that bitcoin can be used in a local community.
-- [-] Reconsider the outcomes heading/framing and whether it is meaningful for one eight-hour module.
+- [-] Reconsider the competency heading/framing and whether it is meaningful for one eight-hour module.
 - [-] Replace or clarify “recovery phrase.”
 
 #### Learning style: in-person preferred, discussion, reflection, practice, and guided activities
-- [-] Use one simple learner checklist instead of duplicating outcomes.
+- [-] Use one simple learner checklist instead of duplicating competency statements.
 - [-] Show creator/editor accountability and transparent GitHub history.
 - [-] Apply the five-step learning rhythm consistently.
 
@@ -84,7 +84,7 @@ Source: `input/PABLO/202602721_final_draft_notes.md`. Items marked `[x]` in the 
 - [-] Review the marked sentence about Bitcoin’s market position.
 - [-] Expand “Verify” to include actions, people, and sources—not just transaction fields.
 - [o] Have a lawyer review the legal/financial/tax disclaimer.
-- [-] Rename/refine Core, Custom, and Advanced as modules; clarify boundaries and local suggestions.
+- [-] Clarify the Diploma, locally selected Module 4, and Advanced boundaries and local suggestions.
 - [-] Use clear names instead of calling material “Bitcoin terms” merely for aesthetics.
 - [o] Create a standalone scam-reminders/red-flags one-pager.
 - [-] Reinforce “don't trust, verify” where appropriate.
@@ -101,7 +101,7 @@ Source: `input/PABLO/202602721_final_draft_notes.md`. Items marked `[x]` in the 
 - [-] Move deeper barter/double-coincidence material into advanced modules.
 - [-] Add examples of exchange difficulty: wants, timing, distance, etc.
 - [o] Add links to optional further economics reading.
-- [-] Decide whether capitalism and free markets belong in advanced discussion rather than Core.
+- [-] Decide whether capitalism and free markets belong in advanced discussion rather than the beginner Diploma.
 - [-] Preserve the “very good for critical thinking” annotation as approval.
 
 #### Functions and properties of money
@@ -294,18 +294,18 @@ Source: `input/PABLO/202602721_final_draft_notes.md`. Items marked `[x]` in the 
 ### 4. Bitcoin in Your Community
 
 #### Educator-selected local modules
-- [-] Clarify the responsibility map and whether “choose custody” is an action or outcome.
+- [-] Clarify the responsibility map and whether “choose custody” is an action or competency result.
 - [o] Make the table an educator-guided exercise with examples.
 - [-] Separate generic terms from scam signals.
 - [-] Rewrite the “heavy” Module 3 answer with examples.
 - [o] Move educator-only Module 3 material to the educator guide.
-- [-] Redesign Module 4 as custom/local modules; define MFB versus educator responsibilities and resources.
-- [-] Consider removing “Custom” from the learner-facing Diploma and retaining the concept only in educator guidance.
+- [-] Redesign Module 4 as locally selected learning; define MFB versus educator responsibilities and resources.
+- [-] Describe Module 4 as locally selected but required in learner-facing Diploma material.
 - [-] Preserve the annotation that Module 3 is “full, complete & serious” while acting on the concern that it feels heavy.
 - [-] State that educators select a topic/module for local context and provide an example.
 - [-] Clarify local warnings/appropriateness conditions.
 - [-] Preserve the local-learning table (“I like this”) as a reusable template.
-- [-] State what custom-module learners should learn and integrate.
+- [-] State what learners should learn and integrate through locally selected Module 4.
 - [-] Add community/spread-layer considerations.
 - [o] Give each local module a page-count or scope limit.
 - [-] State that the aim is to help learners learn, interact with, and integrate into their local Bitcoin ecosystem/community where appropriate.
@@ -320,7 +320,7 @@ Source: `input/PABLO/202602721_final_draft_notes.md`. Items marked `[x]` in the 
 #### Local Bitcoin tools and resources
 - [-] Create a reusable local-tool comparison template; consider merging with wallet comparison.
 - [-] Preserve the checked workshop-result sentence as approved.
-- [-] Move the local-tool record and guidance into the separate Module 4/educator guide; Core is Modules 1–3.
+- [-] Move the local-tool record and guidance into the separate Module 4/educator guide; Modules 1–4 are the Diploma.
 - [o] Sequence the educator materials explicitly: Module 3 items 1–3, then its Educator Guide; Module 4 should be driven by its Educator Guide.
 
 #### Daily-life Bitcoin use
@@ -356,7 +356,7 @@ Source: `input/PABLO/202602721_final_draft_notes.md`. Items marked `[x]` in the 
 - [-] Reduce wordiness and create response space.
 - [-] Connect merchant/community cases to jurisdiction/local context.
 - [-] Expand practical field/community work where appropriate.
-- [-] Keep API/technical references out of beginner Core unless needed.
+- [-] Keep API/technical references out of the beginner Diploma unless needed.
 - [o] Break educator guidance into wallet, exchange, and circular-economy sections before expanding it.
 
 #### Local resource maps and community discovery

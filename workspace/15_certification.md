@@ -4,12 +4,14 @@
 
 This document defines the non-negotiable relationship between assessment and certification for the Bitcoin Diploma.
 
+The Diploma consists of the **Problem → Solution → Action → Connect** learning arc. Modules 1 and 2 develop theoretical competencies through observable explanation, comparison, reasoning, and application. Module 3 develops safe practical action. Module 4 is the educator-curated Connect stage: learners connect the shared learning to a local need or opportunity, an appropriate comparison, safe performance, and a realistic next step. It is required for Diploma completion.
+
 Nobody may receive a Bitcoin Diploma certificate without successfully completing both:
 
-1. the theoretical assessment component, representing 50% of the complete assessment and evaluated through educator-led check-ins, participation, discussion, and observation of understanding; and
+1. the theoretical competency component, representing 50% of the complete assessment and evaluated through observable learner explanations, comparisons, scenario responses, and other educator-led evidence; and
 2. the practical competency assessment component, representing the remaining 50% and evaluated through direct observation by an educator.
 
-Only approved educator-led theory interactions with criteria and records contribute to the theoretical result; other educator-led questions, explanations, discussions, games, scenarios, simulations, and role-plays are formative. Optional app use is not assessment evidence. Both components are non-compensatory pass gates.
+Only approved educator-led interactions with clear competency criteria and records contribute to the theoretical result; participation, self-description, and unrecorded discussion do not. Other questions, discussions, games, scenarios, simulations, and role-plays are formative. Optional app use is not assessment evidence. Both components are non-compensatory pass gates.
 
 The quality and reputation of the certificate depend on the quality and consistency of both forms of assessment.
 
@@ -17,12 +19,13 @@ The quality and reputation of the certificate depend on the quality and consiste
 
 # 1. Certification Rule
 
-A certificate may be issued only when the approved completion record confirms **assessment-complete** status under `11_assessment.md`.
+A certificate may be issued only when the approved completion record confirms **assessment-complete** status under `13_assessment.md`.
 
 Assessment-complete status requires:
 
 - passing educator-evaluated theoretical interaction evidence;
-- successful direct observation by an educator of required Module 3 practical and safety competencies and selected Module 4 objectives; and
+- successful direct observation by an educator of practical competencies `C9`, `C10`, and the selected local task `C11`, including their required safety-focused criteria; and
+- a **Meets standard** result for every required assessed competency, with its required decimal-code criteria evidenced as observable look-fors.
 
 The theoretical and practical components each carry 50% of the total assessment. Both must meet the approved standard; a result in one component cannot compensate for an unmet requirement in the other.
 
@@ -34,13 +37,13 @@ This rule applies to every cohort, educator, delivery format, language, and loca
 
 # 2. What A Certificate Represents
 
-A Bitcoin Diploma certificate represents that the learner has demonstrated the approved beginner learning objectives through both knowledge-based and performance-based evidence.
+A Bitcoin Diploma certificate represents that the learner has demonstrated the approved beginner competencies through both theoretical and practical evidence.
 
 The certificate confirms a shared beginner standard in:
 
 - monetary foundations;
-- applied economic and Bitcoin understanding;
-- Bitcoin fundamentals;
+- applied monetary and Bitcoin explanation, comparison, and reasoning;
+- Bitcoin explanation and verification reasoning;
 - practical wallet and transaction capability;
 - verification and safety behavior;
 - guided critical reasoning; and
@@ -79,9 +82,9 @@ In 2026.10, the My First Bitcoin app is optional. It may offer self-checks, reca
 
 ## The educator
 
-The educator evaluates the full theoretical component through approved objective-aligned activities, workshops, discussions, and learner explanations, using criteria and concise records; other educator-led theory work is formative. An educator evaluates the full practical component through direct observation. An explanation may also be scored within a practical task when it is an observable criterion of that performance.
+The educator evaluates the full theoretical competency component through approved competency-aligned activities, workshops, discussions, and learner explanations, using criteria and concise records; other educator-led theory work is formative. An educator evaluates the full practical component through direct observation. An explanation may also be scored within a practical task when it is an observable criterion of that performance.
 
-The educator must use approved objective-aligned tasks and rubrics, record evidence-based results, provide remediation where needed, and reassess fairly. The educator may not replace required evidence with attendance, effort, familiarity, or personal discretion and may not set or override the theoretical pass result except through an explicitly governed correction process.
+The educator must use approved competency-aligned tasks and rubrics, record evidence-based results, provide remediation where needed, and reassess fairly. The educator may not replace required evidence with attendance, effort, familiarity, a learner's self-description, or personal discretion and may not set or override the theoretical pass result except through an explicitly governed correction process.
 
 ## The Certification Process
 
@@ -93,7 +96,7 @@ The certification process verifies that both educator-led component statuses are
 
 The minimum standard is created by the combination of:
 
-- shared learning objectives;
+- shared assessed competencies and observable criteria;
 - a common assessment blueprint;
 - approved educator-evaluated theoretical interactions;
 - approved Activity Bank practical assessment tasks;
@@ -104,9 +107,9 @@ The minimum standard is created by the combination of:
 - remediation and reassessment rules; and
 - moderation or audit where required.
 
-Educators may adapt examples, language, resources, tools, and approved Custom practice. They may not remove required objectives, substitute participation for evidence, lower the passing standard, or issue a certificate outside the approved assessment process.
+Educators may adapt examples, language, resources, tools, and approved practical routes in Modules 3–4; they curate Module 4 using their local subject-matter expertise. They may not remove required competencies or criteria, substitute participation for evidence, lower the passing standard, or issue a certificate outside the approved assessment process.
 
-Standardization does not mean every learner must use the same wallet or local scenario. It means that different approved tasks must provide equivalent evidence of the same objective and competency.
+Standardization does not mean every learner must use the same wallet or local scenario. It means that different approved tasks must provide equivalent evidence of the same competency and its required criteria.
 
 ---
 
@@ -128,9 +131,9 @@ The certificate's credibility rests on what it reliably communicates to learners
 
 To protect that credibility:
 
-- every certificated learner must be assessed against the learning objectives;
+- every certificated learner must be assessed against the required competencies;
 - practical capability must be directly observed;
-- theoretical understanding and practical capability must each meet the 50% component standard;
+- observable theoretical competency and practical capability must each meet the 50% component standard;
 - educators must use common criteria rather than personal impressions;
 - unsuccessful attempts must lead to feedback and reassessment, not automatic passing;
 - results must be recorded accurately;
@@ -163,10 +166,10 @@ An on-chain timestamp, if adopted, must not expose learner personal information 
 
 # 9. Relationship To Other Documents
 
-Use `05_objectives.md` for the learning objectives and competencies that assessment must measure.
+Use `05_competencies.md` for the competencies and observable criteria that assessment must measure.
 
 Use the external Activity Bank project for approved educator-evaluated theory interactions, formative activities, and summative practical assessment tasks.
 
-Use `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` for facilitation guidance and educator assessment procedures, rubrics, evidence, feedback, and reassessment guidance; use `10_educator-plan.md` as the supporting structure plan.
+Use `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` for facilitation guidance and educator assessment procedures, rubrics, evidence, feedback, and reassessment guidance; use `12_educator-plan.md` as the supporting structure plan.
 
-Use `11_assessment.md` for the complete two-part assessment model and completion standard.
+Use `13_assessment.md` for the complete two-part assessment model and completion standard.

@@ -8,7 +8,7 @@ The repository now separates three kinds of material:
 
 | Area | Purpose |
 |---|---|
-| [`workspace/`](./) | Working documents that guide content creation, including architecture, objectives, design rules, activities, assessment, terminology, and publication planning. |
+| [`workspace/`](./) | Working documents that guide content creation, including architecture, competencies and observable criteria, design rules, activities, assessment, terminology, and publication planning. |
 | [`publish/`](../publish/) | Official curriculum documents and supporting publication materials. |
 | [`review/`](../review/) | Documents used to review quality, consistency, annotations, and release readiness across the project. |
 
@@ -26,7 +26,7 @@ The official 2026.10 Diploma documents are:
 |---|---|---|
 | Student Guide | [`mfb-bd-sg-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md) | Learner-facing Diploma curriculum. |
 | Educator Guide | [`mfb-bd-eg-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) | Educator-facing preparation, facilitation, adaptation, safety, and assessment guidance. |
-| Educator Assessment Grid | [`mfb-bd-assessment-grid-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) | Objective-level learner assessment and completion record for educators. |
+| Educator Assessment Grid | [`mfb-bd-assessment-grid-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) | Competency-level cohort progress and completion record for educators. |
 | Lexicon Entries | [`mfb-bd-lx.md`](../publish/mfb-bd-26.10/mfb-bd-lx.md) | Beginner terminology and definitions. |
 | Advanced modules | [`mfb-adv-26.10/README.md`](../publish/mfb-adv-26.10/README.md) | Future home of Advanced modules; none is available yet. |
 
@@ -42,22 +42,24 @@ Read the working documents in this order when you need the full design context:
 
 | Step | File | Use |
 |---|---|---|
-| 1 | [`01_review.md`](01_review.md) | Understand the earlier Diploma and the problems the redesign responds to. |
+| 1 | [`01_review.md`](01_review.md) | Review the earlier Diploma and the problems the redesign responds to. |
 | 2 | [`02_research.md`](02_research.md) | Review the evidence base, research limits, and claims requiring validation. |
 | 3 | [`03_scope.md`](03_scope.md) | Review workstreams, milestones, deliverables, and completion criteria. |
-| 4 | [`04_design.md`](04_design.md) | Understand design principles, non-negotiables, assumptions, adaptation boundaries, and risks. |
-| 5 | [`05_objectives.md`](05_objectives.md) | Review learner outcomes, competency boundaries, and stable objective IDs. |
+| 4 | [`04_design.md`](04_design.md) | Review design principles, non-negotiables, assumptions, adaptation boundaries, and risks. |
+| 5 | [`05_competencies.md`](05_competencies.md) | Review assessed competencies, observable criteria, and stable competency IDs. |
 | 6 | [`06_plan.md`](06_plan.md) | Read the active source of truth for the four-module architecture and content boundaries. |
 | 7 | [`07_contents.md`](07_contents.md) | Review the planned learner-content structure. |
 | 8 | [`08_assets.md`](08_assets.md) | Review visual and asset requirements. |
 | 9 | [`09_resources.md`](09_resources.md) | Review external sources and their curriculum claim locations. |
-| 10 | [`10_educator-plan.md`](10_educator-plan.md) | Review the planning structure for the Educator Companion Guide. |
-| 11 | [`11_assessment.md`](11_assessment.md) | Review theoretical and practical assessment requirements. |
-| 12 | [`12_microlearning-plan.md`](12_microlearning-plan.md) | Review the internal plan for optional app microlearning. |
-| 13 | [`13_certification.md`](13_certification.md) | Review the assessment prerequisite for certification and outstanding governance questions. |
-| 14 | [`14_spec.md`](14_spec.md) | Read the standalone Diploma overview for collaborators and stakeholders. |
-| 15 | [`15_advanced.md`](15_advanced.md) | Review Advanced pathway ideas and parked legacy material. |
-| 16 | [`16_horizon.md`](16_horizon.md) | Review post-release candidates, programme boundaries, and future decision gates. |
+| 10 | [`10_activities.md`](10_activities.md) | Review Activity Bank boundaries, quality requirements, and release priorities. |
+| 11 | [`11_activities-template.md`](11_activities-template.md) | Use the working template for individual Activity Bank entries. |
+| 12 | [`12_educator-plan.md`](12_educator-plan.md) | Review the planning structure for the Educator Companion Guide. |
+| 13 | [`13_assessment.md`](13_assessment.md) | Review theoretical and practical assessment requirements. |
+| 14 | [`14_microlearning-plan.md`](14_microlearning-plan.md) | Review the internal plan for optional app microlearning. |
+| 15 | [`15_certification.md`](15_certification.md) | Review the assessment prerequisite for certification and outstanding governance questions. |
+| 16 | [`16_spec.md`](16_spec.md) | Read the standalone Diploma overview for collaborators and stakeholders. |
+| 17 | [`17_advanced.md`](17_advanced.md) | Review Advanced pathway ideas and parked legacy material. |
+| 18 | [`18_horizon.md`](18_horizon.md) | Review post-release candidates, programme boundaries, and future decision gates. |
 
 Detailed activities are maintained in the external Activity Bank project.
 
@@ -71,24 +73,26 @@ Detailed activities are maintained in the external Activity Bank project.
 | Research and evidence validation | [`02_research.md`](02_research.md) |
 | Project scope and milestones | [`03_scope.md`](03_scope.md) |
 | Design principles and constraints | [`04_design.md`](04_design.md) |
-| Objectives and competencies | [`05_objectives.md`](05_objectives.md) |
+| Competencies and observable criteria | [`05_competencies.md`](05_competencies.md) |
 | Four-module architecture, content boundaries, and legacy migration | [`06_plan.md`](06_plan.md) |
 | Learner-content structure | [`07_contents.md`](07_contents.md) |
 | Official Student Guide | [`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md) |
 | Visual and asset needs | [`08_assets.md`](08_assets.md) |
-| Activity Bank structure | External Activity Bank project |
+| Activity Bank planning, quality requirements, and release priorities | [`10_activities.md`](10_activities.md) |
+| Activity Bank working-entry template | [`11_activities-template.md`](11_activities-template.md) |
+| Activity Bank procedures and task templates | External Activity Bank project |
 | External sources and claim references | [`09_resources.md`](09_resources.md) |
-| Educator Guide planning structure | [`10_educator-plan.md`](10_educator-plan.md) |
+| Educator Guide planning structure | [`12_educator-plan.md`](12_educator-plan.md) |
 | Official Educator Guide | [`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) |
 | Official Assessment Grid | [`publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) |
-| Objective-aligned assessment and evidence | [`11_assessment.md`](11_assessment.md) |
-| Optional app microlearning plan | [`12_microlearning-plan.md`](12_microlearning-plan.md) |
+| Competency-aligned assessment and evidence | [`13_assessment.md`](13_assessment.md) |
+| Optional app microlearning plan | [`14_microlearning-plan.md`](14_microlearning-plan.md) |
 | Optional app self-assessment publication source | [`publish/mfb-ml-26.10/mfb-ml-26.10.md`](../publish/mfb-ml-26.10/mfb-ml-26.10.md) |
-| Certification prerequisite and governance questions | [`13_certification.md`](13_certification.md) |
+| Certification prerequisite and governance questions | [`15_certification.md`](15_certification.md) |
 | Official Lexicon Entries | [`mfb-bd-lx.md`](../publish/mfb-bd-26.10/mfb-bd-lx.md) |
-| Collaborator and stakeholder overview | [`14_spec.md`](14_spec.md) |
-| Advanced pathways and parked legacy content | [`15_advanced.md`](15_advanced.md) |
-| Post-release horizon register | [`16_horizon.md`](16_horizon.md) |
+| Collaborator and stakeholder overview | [`16_spec.md`](16_spec.md) |
+| Advanced pathways and parked legacy content | [`17_advanced.md`](17_advanced.md) |
+| Post-release horizon register | [`18_horizon.md`](18_horizon.md) |
 | Active release actions | [`review/review_todo.md`](../review/review_todo.md) |
 | Cross-project consistency decisions | [`review/review_consistency.md`](../review/review_consistency.md) |
 | Ongoing quality controls | [`review/review_quality.md`](../review/review_quality.md) |
@@ -99,12 +103,14 @@ Use the published documents as the official curriculum. When a change is needed,
 
 ## Current Working Direction
 
-The redesign uses four modules:
+The redesign uses the four-stage **Problem → Solution → Action → Connect** learning arc:
 
-1. Understanding Money
-2. How Bitcoin Works
-3. Using Bitcoin Safely
-4. Bitcoin in Your Community
+1. **Problem** — Understanding Money
+2. **Solution** — How Bitcoin Works
+3. **Action** — Using Bitcoin Safely
+4. **Connect** — Bitcoin in Your Community
+
+All four modules together are the Diploma. Modules 1 and 2 provide the shared core; educators can adapt practical examples, tools, resources, and delivery in Modules 3 and 4 within the required competency and safety boundaries. Module 4 is the educator-curated **Connect** stage: educators use their local subject-matter expertise to link the Problem, Solution, and Action learning to a real local need or opportunity, a realistic alternative, and a responsible next step. It does not require a learner to adopt Bitcoin or treat a local tool as a recommendation.
 
 The working assumptions are:
 
@@ -112,7 +118,7 @@ The working assumptions are:
 - educator-facilitated delivery in person or online;
 - a complete low-tech, offline-capable print/PDF route;
 - no app or connectivity requirement for learning, assessment, completion, or certification;
-- shared Core learning with educator-selected, locally relevant Module 4 practice;
+- shared learning in Modules 1–3, with educator-curated, locally relevant Module 4 practice required for Diploma completion;
 - practical learning in every module;
 - separate learner, educator, activity, assessment, and optional microlearning components;
 - English-first drafting followed by simplicity, tone, terminology, and translation-readiness review;
@@ -144,13 +150,13 @@ Review findings should be converted into an approved decision or an action in `r
 ## Content Ownership Rules
 
 - Use `06_plan.md` for architecture and content-boundary decisions.
-- Keep measurable outcomes and competency requirements in `05_objectives.md`.
+- Keep measurable competencies and required observable criteria in `05_competencies.md`.
 - Keep learner-facing publication content in `publish/mfb-bd-26.10/mfb-bd-sg-26.10.md` and align it with `07_contents.md`.
-- Keep detailed activities and assessment-task specifications in the external Activity Bank project, not in the Student Guide or curriculum plan.
-- Keep educator-facing publication content in `publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`; use `10_educator-plan.md` to plan and check its structure.
-- Keep assessment rules in `11_assessment.md` and certification eligibility and governance questions in `13_certification.md`.
-- Keep optional app planning in `12_microlearning-plan.md` and publication data in `publish/mfb-ml-26.10/mfb-ml-26.10.md`.
-- Keep the complete Advanced inventory and Organizations source trail in `workspace/15_advanced.md`.
+- Use `10_activities.md` for Activity Bank boundaries, quality requirements, and release priorities. Keep detailed activities and assessment-task specifications in the external Activity Bank project, not in the Student Guide or curriculum plan.
+- Keep educator-facing publication content in `publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`; use `12_educator-plan.md` to plan and check its structure.
+- Keep assessment rules in `13_assessment.md` and certification eligibility and governance questions in `15_certification.md`.
+- Keep optional app planning in `14_microlearning-plan.md` and publication data in `publish/mfb-ml-26.10/mfb-ml-26.10.md`.
+- Keep the complete Advanced inventory and Organizations source trail in `workspace/17_advanced.md`.
 - Keep cross-project findings, decisions, quality checks, and release actions in `review/`.
 - Draft in English first, then review simplicity, tone, terminology, accessibility, and translation readiness before publication.
 - Keep printed QR codes sparse and tied to stable, high-value destinations.

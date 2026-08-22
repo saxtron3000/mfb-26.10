@@ -25,10 +25,10 @@ The guide should help educators:
 - use QR codes and external links sparingly in print/PDF delivery;
 - protect learner safety and autonomy;
 - use educator-led explanations, discussions, games, simulations, and role-plays for theory learning, distinguishing approved educator-evaluated evidence from formative feedback;
-- assess required practical learning objectives through direct observation;
+- assess required practical competencies through direct observation;
 - use common rubrics consistently;
 - provide feedback and reassessment; and
-- understand that the 2026.10 assessment process is educator-led and that optional app use does not affect certification.
+- recognize that the 2026.10 assessment process is educator-led and that optional app use does not affect certification.
 
 ### The My First Bitcoin app as an optional learning resource
 
@@ -49,19 +49,19 @@ You do not need to prepare or teach in isolation. My First Bitcoin supports educ
 - Purpose of the Diploma
 - What stays fixed
 - What educators can adapt
-- Shared Core theory versus localized practice
-- How the 4-module structure works
+- Shared Modules 1–2 core learning, educator-adapted Module 3 practice, and educator-curated Module 4 Connect practice
+- How the Problem → Solution → Action → Connect structure works
 - How to avoid beginner overload
 - How to teach from translation-ready materials
 
 ### Course roles
 
-In this Diploma, a **learner** studies, discusses, practises, and provides evidence of understanding. An **educator** facilitates the course, protects the learning environment, adds checked local context, provides formative theory feedback, and directly evaluates practical competencies. A **cohort** is the group learning together; smaller teams may complete particular activities. The **Diploma** is the complete learning and assessment program, not only the Student Guide or the accompanying app.
+In this Diploma, a **learner** studies, discusses, practises, and provides observable evidence through explanation and action. An **educator** facilitates the course, protects the learning environment, adds checked local context, provides formative theory feedback, and directly evaluates practical competencies. A **cohort** is the group learning together; smaller teams may complete particular activities. The **Diploma** is the complete learning and assessment program, not only the Student Guide or the accompanying app.
 
 ### General Teaching Tips
 
-- Educators should feel allowed to say "not yet" when a student question would pull the class into a complex side topic. This does not shut down curiosity. It protects the structure, timing, and learning objectives of the activity. A useful response is: "That is an important question, but it belongs later. We will come back to it when the timing is right." This helps avoid rabbit-holing students before they have the foundation to understand the answer.
-- If learner time, energy, or familiarity with the basics suggests a gentler start, educators may offer an initial [Introduction to Bitcoin (ITB)](https://programs.myfirstbitcoin.org/programs/introduction-to-bitcoin/) session or course before the Diploma. ITB is a shorter first touch point for getting to grips with Bitcoin; it can prepare learners for the Diploma but does not replace its learning objectives or assessment.
+- Educators should feel allowed to say "not yet" when a student question would pull the class into a complex side topic. This does not shut down curiosity. It protects the structure, timing, and competency criteria of the activity. A useful response is: "That is an important question, but it belongs later. We will come back to it when the timing is right." This helps avoid rabbit-holing students before they have the foundation to address the question safely.
+- If learner time, energy, or familiarity with the basics suggests a gentler start, educators may offer an initial [Introduction to Bitcoin (ITB)](https://programs.myfirstbitcoin.org/programs/introduction-to-bitcoin/) session or course before the Diploma. ITB is a shorter first touch point for getting to grips with Bitcoin; it can prepare learners for the Diploma but does not replace its assessed competencies or assessment.
 
 ## 2. Pacing And Timing
 
@@ -76,26 +76,28 @@ In this Diploma, a **learner** studies, discusses, practises, and provides evide
 
 ### Managing The 8-Hour Pathway
 
-The Core Diploma has an approximately 8-hour delivery pathway. This pathway includes teaching, practice, educator-led theory checks, direct practical observation, recording, feedback, and any planned reassessment. Educators may use different time chunks depending on learner availability, venue constraints, travel time, energy level, device access, and local teaching context, but must not treat assessment as an extra follow-up outside the advertised Diploma. Optional app use must not become a barrier to participation.
+The Bitcoin Diploma has an approximately 8-hour delivery pathway. This pathway includes teaching, practice, educator-led theory checks, direct practical observation, recording, feedback, and any planned reassessment. Educators may use different time chunks depending on learner availability, venue constraints, travel time, energy level, device access, and local teaching context, but must not treat assessment as an extra follow-up outside the advertised Diploma. Optional app use must not become a barrier to participation.
 
 The four-module sequence should remain the same:
 
-1. Understanding Money
-2. How Bitcoin Works
-3. Using Bitcoin Safely
-4. Bitcoin in Your Community
+1. **Problem:** Understanding Money
+2. **Solution:** How Bitcoin Works
+3. **Action:** Using Bitcoin Safely
+4. **Connect:** Bitcoin in Your Community
+
+Module 4 is the educator-curated **Connect** stage. It links the first three modules to a local need or opportunity, an existing alternative, safe practice, and a realistic next step. It is not an adoption exercise or a global recommendation for a local tool.
 
 Educators should choose the schedule that gives learners enough time to discuss, practice, ask questions, and review without overloading them.
 
-Plan from the learning objectives, required practice, and assessment evidence first. Do not cut or waive them merely to fit a fixed session length. If they do not fit, redesign the advertised course schedule before delivery so that teaching and assessment remain part of the same Diploma pathway. Educators may invite learners to read the relevant Student Book chapter before class so live time can focus on discussion, questions, local context, and selected activities. Pre-reading must remain optional and must not create an access barrier.
+Plan from the assessed competencies, observable criteria, required practice, and assessment evidence first. Do not cut or waive them merely to fit a fixed session length. If they do not fit, redesign the advertised course schedule before delivery so that teaching and assessment remain part of the same Diploma pathway. Educators may invite learners to read the relevant Student Book chapter before class so live time can focus on discussion, questions, local context, and selected activities. Pre-reading must remain optional and must not create an access barrier.
 
-The course should feel lean and intentional. When time is tight, protect learner explanation, practice, safety, review, and required assessment before adding technical depth or extra examples. Required objectives and certification assessments must not be cut. If they do not fit in the teaching session, the educator must redesign the course schedule before delivery rather than add an assessment-only follow-up or certify without evidence.
+The course should feel lean and intentional. When time is tight, protect learner explanation, practice, safety, review, and required assessment before adding technical depth or extra examples. Required competencies, observable criteria, and certification assessments must not be cut. If they do not fit in the teaching session, the educator must redesign the course schedule before delivery rather than add an assessment-only follow-up or certify without evidence.
 
 | Delivery model | Example timing | Best use | Educator guidance |
 |---|---|---|---|
 | One-day intensive | 9:00-5:00 with breaks, or 9:00-6:00 if preserving a full 8 teaching hours plus lunch | Conferences, weekend intensives, visiting educators, or learners who can only attend once | Keep explanations short, protect review time, choose only the strongest activities, and avoid adding advanced topics. |
 | Four-day course | Four 2-hour sessions | Community classes, schools, libraries, meetups, or evening programs | Teach one module per session. Begin each session with a short recap and end with an exit ticket or reflection. |
-| Eight-day course | Eight 1-hour sessions | Learners who benefit from slower pacing, translation, discussion, or repeated practice | Split each module across two sessions: one for the core idea and discussion, one for practice, review, and local application. |
+| Eight-day course | Eight 1-hour sessions | Learners who benefit from slower pacing, translation, discussion, or repeated practice | Split each module across two sessions: one for the key idea and discussion, one for practice, review, and educator-curated Connect learning. |
 
 If a one-day course must fit strictly inside 9:00-5:00, educators should treat it as an intensive version of the Diploma. Breaks and lunch reduce available teaching time, so the educator may need to shorten activities, assign a small amount of pre-reading, or move optional discussion into follow-up resources.
 
@@ -117,7 +119,7 @@ Educators may also combine models, such as two half-days or one weekend morning 
 
 ### Media And Tool Fallbacks
 
-Do not make a video, external website, named service, learner-owned device, or app a condition of teaching, practice, assessment, or certification. Before facilitating a media- or tool-dependent activity, prepare an equivalent low-tech path, such as a printed screenshot, diagram, physical simulation, spoken walkthrough, or educator demonstration. The fallback must preserve the same objective and safety boundary; it does not need to reproduce every feature of the digital tool.
+Do not make a video, external website, named service, learner-owned device, or app a condition of teaching, practice, assessment, or certification. Before facilitating a media- or tool-dependent activity, prepare an equivalent low-tech path, such as a printed screenshot, diagram, physical simulation, spoken walkthrough, or educator demonstration. The fallback must preserve the same competency and safety boundary; it does not need to reproduce every feature of the digital tool.
 
 Use optional videos only when the venue, device access, connectivity, and learner time make them genuinely useful. Do not rely on assigned video homework as the sole preparation for a scheduled learning activity.
 
@@ -130,13 +132,13 @@ Suggested two-part sequence when more time is available:
 1. Money foundations: opening questions; functions and properties; barter; scarcity, value, and exchange; and the short history to modern money.
 2. Modern-money trade-offs: fiat money; fractional-reserve banking; inflation and purchasing power; CBDCs where appropriate; alternatives; and review.
 
-- Core ideas
+- Key ideas
 - Opening money questions
 - Key fiat-system roles
 - Prepare to facilitate the Student Book's local fiat-system reflection. Review the local currency's everyday uses, relevant institutions, and recent, checked examples before class; invite multiple experiences without presenting a political or financial conclusion as fact.
 - Fractional reserve banking and bank run demonstrations where appropriate
 - Be ready to explain the local banking rules and regulations relevant to this section, such as reserve arrangements, deposit protection, withdrawal rules, and the role of the central bank. Verify current details with authoritative local sources, distinguish rules from general concepts, and do not provide legal, financial, or regulatory advice.
-- Prepare to facilitate the purchasing-power check and discussion of the local official inflation measure. Locate a current, authoritative source, understand the basket and methodology it publishes, and invite learners to compare it with lived experience without treating either as a complete explanation of price changes.
+- Prepare to facilitate the purchasing-power check and discussion of the local official inflation measure. Locate a current, authoritative source, review the basket and methodology it publishes, and invite learners to compare it with lived experience without treating either as a complete explanation of price changes.
 - CBDCs as digital fiat, with issuer, supply, permission, privacy, and verification questions
 - Likely misconceptions
 - Suggested activities
@@ -148,7 +150,7 @@ Have learners keep their answers to the opening money questions. Return to them 
 
 ### How Bitcoin Works
 
-- Core ideas
+- Key ideas
 - Cypherpunk and early digital-money context without overloading the timeline
 - Digital scarcity, double spending, and credible scarcity as the main beginner reasons the technical history matters
 - Clear developer, miner, node, and user role boundaries
@@ -169,7 +171,7 @@ Use these short answers to prepare for learner questions about the Student Book'
 | Divisibility | “If bitcoin is limited, will there be enough for everyone?” | A bitcoin can be divided into 100,000,000 sats, so people can use small amounts. Dividing a bitcoin creates smaller units of the same fixed supply; it does not create more bitcoin. |
 | Durability | “What happens if my phone or wallet app stops working?” | Bitcoin does not live inside one phone. The shared ledger is maintained by many network participants, but access to a person's bitcoin depends on their keys and recovery information. Losing a device may be recoverable; losing or exposing the recovery information can create serious risk. |
 | Portability | “Does portable mean I can send bitcoin without any conditions?” | Bitcoin can be transferred through a communications network without a bank approving a valid transaction. In practice, a payment still depends on a working wallet, access to the network, fees, correct transaction details, and the recipient's ability to receive it. |
-| Verifiability | “Do I have to trust a website to know the supply or whether a payment happened?” | A block explorer can make information easier to view, but it is still a third-party service. A person or organization running a node can independently check Bitcoin's rules and transaction history; beginners may use explorers cautiously and should understand their privacy limits. |
+| Verifiability | “Do I have to trust a website to know the supply or whether a payment happened?” | A block explorer can make information easier to view, but it is still a third-party service. A person or organization running a node can independently check Bitcoin's rules and transaction history; beginners may use explorers cautiously and should identify their privacy limits. |
 | Acceptability | “If Bitcoin is useful, why can’t I spend it everywhere?” | Use depends on whether people and businesses choose to accept it and on local tools, costs, rules, and habits. Bitcoin's technical properties do not guarantee local acceptance or stable prices. |
 
 ### Using Bitcoin Safely
@@ -179,7 +181,7 @@ Suggested two-part sequence when more time is available:
 1. Custody foundations: wallets, addresses, keys, seed phrases, custody choices, recovery readiness, receiving, and sending.
 2. Verification and safety: block explorers, confirmations, irreversible transactions, safety checks, acquisition pathways as awareness rather than advice, on-chain and Lightning distinctions, and review.
 
-- Core ideas
+- Key ideas
 - Safety boundaries
 - Wallet recovery and seed phrase testing boundaries
 - Common scam and address-verification scenarios
@@ -193,7 +195,8 @@ Suggested two-part sequence when more time is available:
 
 ### Bitcoin in Your Community
 
-- How to choose a Custom module
+- How to make educator-curated Module 4 the **Connect** stage of Problem → Solution → Action → Connect
+- How to curate a Module 4 task using local subject-matter expertise
 - How to identify local opportunities
 - How to assess tool readiness
 - When local expert support is required
@@ -235,7 +238,7 @@ Educator rule: answer the learner's real question, name trade-offs honestly, and
 
 ### 5.1 The Two-Part Model
 
-Explain to learners that assessment has two equally important, non-compensatory parts: theoretical understanding and practical competency. The theoretical half is educator-led through check-ins, participation, discussion, and learner explanations. The practical half is educator-led through direct observation. Other learning activities remain formative unless the educator identifies them as an assessment check-in.
+Explain to learners that assessment has two equally important, non-compensatory parts: theoretical competency shown through explanation, comparison, application, or a scenario response, and practical competency shown through direct observation. The theoretical half is educator-led through check-ins, participation, discussion, and learner explanations. Other learning activities remain formative unless the educator identifies them as an assessment check-in.
 
 Educators should present assessment like a driving test:
 
@@ -248,12 +251,12 @@ An app quiz or checklist can guide preparation, but it is not proof of competenc
 
 Both assessment components must be passed for certification; strength in one cannot compensate for failure in the other.
 
-### 5.2 Start With The Practical Learning Objective
+### 5.2 Start With The Practical Competency
 
 Before conducting a practical assessment, the educator should confirm:
 
-- the stable objective ID;
-- the measurable verb;
+- the stable competency ID;
+- the observable learner action;
 - the required evidence;
 - the approved assessment task;
 - the observable criteria;
@@ -267,7 +270,7 @@ The task must match the verb. **Explain** requires an explanation. **Compare** r
 
 Modules 1 and 2 are knowledge-dominant, but they must not become memory tests.
 
-Use the following to develop theoretical understanding and provide formative feedback:
+Use the following to develop theoretical competency through observable learner action and provide formative feedback:
 
 - optional app microlearning and self-checks where useful;
 - learner explanations in their own words;
@@ -279,7 +282,7 @@ Use the following to develop theoretical understanding and provide formative fee
 
 The complete Diploma assessment allocates 50% to theoretical evidence and 50% to practical competency evidence. Educator-led explanations, comparisons, illustrations, games, discussions, simulations, scenarios, and role-plays contribute to theory only when approved, criteria-based, individually evidenced, and recorded; otherwise they are formative.
 
-Educators should not treat fluent repetition as evidence of understanding. Use formative prompts such as:
+Educators should not treat fluent repetition as evidence of a competency. Use formative prompts such as:
 
 - “Can you explain that in your own words?”
 - “Can you give an example?”
@@ -289,7 +292,7 @@ Educators should not treat fluent repetition as evidence of understanding. Use f
 
 ### 5.4 Modules 3 And 4: Practical Competence
 
-Modules 3 and 4 are skills-dominant. Required practical objectives make up the practical 50% of assessment and are assessed through direct observation by an educator. Theoretical objectives mapped to these modules use approved educator-led evidence.
+Modules 3 and 4 are skills-dominant. Required practical competencies make up the practical 50% of assessment and are assessed through direct observation by an educator. Theoretical competencies mapped to these modules use approved educator-led evidence.
 
 Use approved Activity Bank tests, demonstrations, simulations, and role-plays to observe whether the learner can:
 
@@ -303,13 +306,13 @@ Use approved Activity Bank tests, demonstrations, simulations, and role-plays to
 - explain what they are doing and why; and
 - recognize when to stop or seek help.
 
-Module 4 requires direct assessment of an approved local task mapped to shared objectives `B4.1` and `B4.2`. The task may vary by context, but it must preserve equivalent evidence of safe performance, verification, explanation, and trade-off awareness.
+Module 4 requires direct assessment of an approved local task mapped to `C11`, including required observable criteria `C11.1` and `C11.2`. The task may vary by context, but it must preserve equivalent evidence of safe performance, verification, explanation, and trade-off awareness.
 
 Use prepared wallets, simulations, testnet, or appropriately low-stakes transactions where needed. Never ask a learner to expose a real seed phrase, private key, credential, or unnecessary financial information.
 
 ### 5.5 Administering A Practical Assessment
 
-1. Explain the objective, task, conditions, and success criteria.
+1. Explain the competency, task, conditions, and success criteria.
 2. Confirm that the learner has already received supported practice.
 3. Prepare the environment and identify safety stop conditions.
 4. Observe without taking over the task.
@@ -346,9 +349,9 @@ Record only the minimum evidence needed. Do not photograph, copy, or store seed 
 
 For the theoretical component, the educator reassesses approved theory interactions against their criteria and may also provide formative help. Optional app self-checks may support review but are not recorded assessment evidence.
 
-For the practical component, the educator should identify the unmet criterion, direct the learner to appropriate practice, provide focused feedback, allow reasonable practice time, and reassess the objective against the same approved rubric.
+For the practical component, the educator should identify the unmet criterion, direct the learner to appropriate practice, provide focused feedback, allow reasonable practice time, and reassess the competency against the same approved rubric.
 
-Practical-task accommodations may change how a learner receives instructions, communicates an explanation, controls a device, or demonstrates a sequence, but must not remove the objective or lower the competency standard. Optional app use must never be required as an accommodation route.
+Practical-task accommodations may change how a learner receives instructions, communicates an explanation, controls a device, or demonstrates a sequence, but must not remove the required action or lower the competency standard. Optional app use must never be required as an accommodation route.
 
 ### 5.8 Educator calibration and quality
 
@@ -399,22 +402,24 @@ Only the combined **assessment-complete** status may unlock a certificate. Educa
 
 ## 7. Legacy Content Migration Guidance
 
-- Use the legacy table-of-contents migration notes in `06_plan.md` to decide whether old content belongs in Core, Custom, or Advanced material.
-- Use `15_advanced.md` to decide whether Organizations material belongs in beginner Core, Custom, Activity Bank, Educator Guide, or Advanced material, and to park deeper technical, economic, philosophical, or future-facing material for later Advanced modules.
-- Do not treat old `OUT` markings as deletion when the same item is marked Custom or Advanced.
+- Use the legacy table-of-contents migration notes in `06_plan.md` to decide whether old content belongs in the shared core, an educator-adapted Module 3 option, an educator-curated Module 4 option within the Diploma, or Advanced learning.
+- Use `17_advanced.md` to decide whether Organizations material supports the beginner Diploma, educator-adapted Module 3 practice, an educator-curated Module 4 option, the Activity Bank, the Educator Guide, or Advanced learning, and to park deeper technical, economic, philosophical, or future-facing material for later Advanced modules.
+- Do not treat old `OUT` markings as deletion when the same item has an educator-curated Module 4 or Advanced destination.
 - Keep Module 3 technical material practical: use it only to support safer self-custody, verification, and transaction responsibility.
-- Split topics carefully when needed: beginner concepts may stay in Core while deeper analysis moves to Advanced material.
-- Treat sats, wallet recovery, seed phrase testing, address verification, scam awareness, and beginner acquisition-pathway risk as clarified Core concepts.
+- Split topics carefully when needed: beginner concepts may stay in the Diploma while deeper analysis moves to Advanced learning.
+- Treat sats, wallet recovery, seed phrase testing, address verification, scam awareness, and beginner acquisition-pathway risk as clarified Diploma concepts.
 - Place daily-life Lightning wallet setup, local spending, and merchant scenarios in Bitcoin in Your Community unless the local delivery plan requires them earlier.
-- Use Custom modules for local money examples, local inequality or debt discussions, local resource maps, circular economies, and real tools used by the community.
+- Use educator-curated Module 4 tasks for local money examples, local inequality or debt discussions, local resource maps, circular economies, and real tools used by the community.
 - Do not turn named exchanges, wallets, peer-to-peer platforms, maps, or local services into global recommendations.
 
 ---
 
 # Module 4 Selection Checklist
 
-Educators should choose Bitcoin in Your Community modules based on:
+As the **Connect** stage, educators should choose Bitcoin in Your Community modules based on:
 
+- the local need or opportunity and the realistic existing alternative;
+- the Module 1 problem, Module 2 response, and Module 3 safe action the task will connect;
 - student needs;
 - local Bitcoin tools;
 - local risks;

@@ -1,0 +1,116 @@
+# Bitcoin Diploma Activity Bank Plan
+
+## Purpose
+
+This document defines how activities support the Bitcoin Diploma 2026.10 learning pathway. It is a planning and quality guide for the external Activity Bank project; it does not contain full activity procedures or replace the Educator Guide, assessment requirements, or competency framework.
+
+Activities should give learners short, purposeful opportunities to discuss, compare, practise, apply, explain, and reflect. They should make the Diploma more participatory without adding unnecessary technical depth, access barriers, financial risk, or a requirement to use a particular tool or service.
+
+Detailed activity instructions, task specifications, materials, and variants belong in the external Activity Bank project. The Student Guide remains lean and learner-facing. The Educator Guide provides facilitation, pacing, adaptation, misconception support, and debrief guidance.
+
+## Role in the learning ecosystem
+
+The Activity Bank is a modular part of the Diploma learning ecosystem. Educators may use an approved activity within a module or, where appropriate, as a standalone learning experience. It supports the complete four-module beginner Diploma, including educator-adapted Module 3 practice and educator-curated Module 4 Connect practice; Advanced work remains outside the Diploma.
+
+Activity design should reflect the Diploma arc: **Problem → Solution → Action → Connect**. Module 4 activities are Connect activities: they link the shared learning from Modules 1–3 to a local need or opportunity, a realistic alternative, safe practice, and a responsible next step. They do not require a learner to adopt Bitcoin or endorse a named local service.
+
+Activities must be connected to the Diploma's teach–practise–assess path:
+
+1. Introduce a key idea briefly.
+2. Elicit an observable learner response.
+3. Let learners practise through a scenario, activity, comparison, or demonstration.
+4. Ask learners to explain, decide, apply, or reflect.
+5. Review the connection to the wider Diploma and capture evidence only where the activity is approved for assessment.
+
+An activity can be formative, educator-evaluated theoretical evidence, or a directly observed practical assessment task. Those roles must be explicit. Attendance, participation, app use, confidence, or completion of a worksheet alone is not assessment evidence.
+
+## Design principles
+
+Every activity should:
+
+- support one or more defined competencies or formative learning aims;
+- use simple, translation-ready language and a short, clear learner task;
+- fit the relevant module and prerequisite knowledge;
+- invite active participation rather than add a long lecture or dense explanation;
+- preserve learner safety, privacy, autonomy, and the project's Bitcoin-only, non-advisory boundaries;
+- work without a required personal device, app, named service, account, internet connection, or real funds;
+- include an equivalent low-tech route when it relies on media, software, connectivity, or a live tool;
+- allow local examples and Module 4 adaptation without changing required competency standards;
+- distinguish evergreen concepts from current, local, or tool-dependent claims that need checking; and
+- include an educator debrief that corrects likely misconceptions and reconnects the activity to the module.
+
+Activities should be concise and purposeful. They should protect time for learner explanation, practice, safety, review, feedback, and required assessment before optional extensions or advanced detail.
+
+## Activity categories
+
+The Bank should include a balanced mix of activity types, selected for the learner outcome rather than novelty:
+
+| Category | Appropriate use |
+|---|---|
+| Guided discussion and learner explanation | Check understanding, surface assumptions, and practise clear reasoning. |
+| Comparison or sorting task | Distinguish concepts, roles, trade-offs, or safety choices. |
+| Scenario analysis and decision practice | Apply concepts to realistic, beginner-safe situations without giving financial, legal, tax, accounting, compliance, or investment advice. |
+| Demonstration, simulation, or role-play | Practise a process, system role, or safety response with an educator-led fallback. |
+| Concept illustration or physical model | Make an abstract idea visible without claiming the model is a complete technical explanation. |
+| Safety checklist or verification practice | Rehearse cautious behaviour around wallets, transactions, privacy, scams, and recovery readiness. |
+| Connect application and reflection | Link Modules 1–3 to locally relevant money, community, payment, or resource contexts without endorsing providers. |
+
+Suggested beginner areas include money and purchasing-power reflections; Bitcoin role and property comparisons; sats, ledger, and proof-of-work illustrations; wallet, address, recovery, verification, and scam-awareness simulations; and educator-curated community, payment, donation, or resource-mapping scenarios. Live-address or explorer activities must use deliberately public, educator-prepared material rather than learner or third-party wallet information.
+
+## Assessment boundary
+
+Most activities are formative. An activity may contribute to the theoretical assessment only when it is approved, competency-aligned, criteria-based, individually evidenced, and recorded. A practical activity may contribute only when an educator directly observes the required performance using the approved criteria, prompting rules, and evidence record.
+
+The practical Activity Bank must support safe assessment of the required first-access, transaction, recovery-readiness, verification, safety, and educator-curated practical or applied competencies. Use prepared wallets, simulations, testnet, or other appropriate low-stakes arrangements where needed. Never require disclosure of a seed phrase, private key, credential, balance, unnecessary address history, or other unnecessary personal information.
+
+Equivalent accessibility, language, and low-connectivity variants may change how learners communicate or perform, but must preserve the competency, required observable criteria, and level of performance.
+
+## Minimum activity record
+
+Each Activity Bank entry should include:
+
+- title, activity type, intended module and learning-arc stage, and estimated time;
+- competency or formative-learning links and prerequisites; for Module 4, the Problem → Solution → Action concepts, local need, and realistic alternative to connect;
+- learner task and intended evidence of learning;
+- materials and preparation, including an offline or low-tech alternative;
+- step-by-step procedure and concise educator facilitation notes;
+- debrief prompts, likely misconceptions, and what not to overclaim;
+- safety, privacy, current-data, named-tool, and local-expert notes where relevant;
+- localization and accessibility adaptations;
+- assessment status: formative, approved theoretical interaction, or approved practical task;
+- for approved assessment tasks, observable criteria, permitted support, critical errors, rubric or decision rule, and concise record requirements; and
+- source trail, fact-check date where relevant, version, and review status.
+
+## Release priorities
+
+Build the smallest certification-complete Bank before expanding optional activities. The first release needs enough approved formative practice and summative theory and practical tasks to cover every required competency and observable criterion, with usable educator records, low-tech variants, and safety guidance.
+
+Priority work is:
+
+1. Produce the competency-to-activity and competency-to-evidence crosswalk.
+2. Finalize Module 3 and Module 4 practical task variants, rubrics, critical errors, and records.
+3. Define approved educator-evaluated theoretical interactions for Modules 1 and 2.
+4. Provide at least one tested low-tech and relevant accessibility variant for every summative task.
+5. Add calibration examples, prompting limits, and a light moderation approach for educator consistency.
+6. Expand the optional Bank only after the certification-complete core has been piloted and checked.
+
+## Ownership and interfaces
+
+| Topic | Owner |
+|---|---|
+| Four-module architecture and content boundaries | `06_plan.md` |
+| Competencies and observable criteria | `05_competencies.md` |
+| Activity categories, full procedures, and task templates | External Activity Bank project |
+| Educator facilitation, pacing, adaptation, and debrief guidance | `12_educator-plan.md` and `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` |
+| Assessment evidence, passing rules, and assessment standards | `13_assessment.md` |
+| Certification prerequisite and governance questions | `15_certification.md` |
+| Optional app self-assessment | `14_microlearning-plan.md` and `../publish/mfb-ml-26.10/mfb-ml-26.10.md` |
+| Advanced activity seeds and source trails | `17_advanced.md` |
+
+## Open implementation questions
+
+- Which activity variants are approved for each required observable criterion?
+- What is the smallest set of task variants that works across in-person, online, low-connectivity, and accessibility contexts?
+- Which safety-critical errors require an immediate **Not yet** result, and what support may an educator give before or during each task?
+- What calibration examples and moderation sample are proportionate for a community-led programme?
+- How will the external Activity Bank version, review status, current-data checks, and links remain traceable to the published Diploma?

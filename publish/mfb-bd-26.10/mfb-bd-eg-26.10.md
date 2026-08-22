@@ -8,16 +8,20 @@ The Student Guide gives learners the essential path. This companion helps a teac
 
 ## Assessment at a glance
 
-The 2026.10 Diploma uses an educator-led assessment model. Theoretical understanding and practical competency are both required, and optional app use does not count as assessment evidence.
+The 2026.10 Diploma uses an educator-led assessment model. Theoretical and practical competencies are both required, and optional app use does not count as assessment evidence.
 
-Distinguish formal assessment from ordinary formative discussion. A formal theory interaction must be objective-aligned, use clear criteria, produce individual evidence, and be recorded.
+Distinguish formal assessment from ordinary formative discussion. A formal theory interaction must be competency-aligned, use clear observable criteria, produce individual evidence, and be recorded.
+
+Theoretical evidence is observable learner action: the learner explains, compares, justifies, or applies an idea. Do not record a competency because a learner says they know, attends, or joins a discussion.
+
+`C1`–`C11` are the recorded assessed competencies. Decimal `C` IDs are competency criteria and observable look-fors, not separate result rows. `C12` and `C13` are formative competencies only.
 
 For a new teacher, the model can be remembered as two components:
 
 | What must be complete | Main source | Share within that component |
 | --- | --- | ---: |
-| Theoretical understanding | Objective-aligned educator-led interaction | 50% |
-| Practical competency | Educator observation of the practical task | 50% |
+| Theoretical competencies (`C1`–`C8`) | Competency-aligned educator-led interaction | 50% |
+| Practical competencies (`C9`–`C11`) | Educator observation of the practical task | 50% |
 
 These percentages describe the assessment evidence, not the amount of teaching time. A practical lesson may need substantial explanation and practice before the observation takes place.
 
@@ -31,7 +35,7 @@ For your first delivery, use this route:
 2. Read the relevant module companion only. You do not need to read the whole handbook before the first session.
 3. Complete the module's **Prepare before class** list.
 4. Choose one main activity and one backup activity. Do not try to use every option.
-5. Copy the session objective and safety rule onto your board or opening slide.
+5. Copy the session competency and safety rule onto your board or opening slide.
 6. Teach in the order **explain → ask → practise → debrief → check**.
 7. Use the Assessment Grid and task rubric when you are ready to collect evidence; ordinary discussion is not automatically assessment.
 8. After class, write down what learners understood, what confused them, what needs checking, and what you will change next time.
@@ -42,10 +46,10 @@ If you have only ten minutes to prepare, read the module's purpose, learner prom
 
 | When | Read first | Your immediate task |
 | --- | --- | --- |
-| Before your first course | Start here, Quick start, educator's role, safe practical teaching | Understand the boundaries, choose the schedule, and prepare the room and materials. |
+| Before your first course | Start here, Quick start, educator's role, safe practical teaching | Review the boundaries, choose the schedule, and prepare the room and materials. |
 | Before Module 1 or 2 | The relevant module companion, facilitation methods, local verification record | Choose the opening question, one activity, one backup, and the local examples to check. |
 | Before Module 3 | Safe practical teaching, Module 3 companion, practical evidence | Rehearse with a prepared or empty environment and define every stop condition. |
-| Before Module 4 | Module 4 companion, Custom-module planning record, local expert briefing | Start with a local need and verify the selected task, tool, and current context. |
+| Before Module 4 | Module 4 companion, Module 4 planning record, local expert briefing | Start with a local need and verify the selected task, tool, and current context. |
 | Before any formal assessment | Assessment Grid, selected task, and rubric | Explain conditions, prepare evidence records, and confirm the task conditions. |
 | After each session | Review point, feedback and reassessment guidance, after-course reflection | Record what learners need next and update the following session. |
 
@@ -69,15 +73,15 @@ Short scripts, question stems, activity instructions, examples, stop conditions,
 The Educator Guide is a practical teaching companion. It should help you:
 
 - prepare a cohort and learning environment;
-- understand the purpose and boundaries of every module;
+- be able to explain the purpose and boundaries of every module;
 - use live time for dialogue, practice, feedback, and local application;
 - explain difficult ideas in beginner language;
 - correct misconceptions without demanding agreement;
 - select and facilitate suitable activities;
-- localize examples without changing the Core outcomes;
+- localize examples without changing the required Diploma competencies;
 - prepare safe wallet, transaction, recovery, and verification practice;
 - select a meaningful Bitcoin in Your Community experience;
-- use objective-aligned evidence to support learning;
+- use competency-aligned evidence to support learning;
 - assess practical competency consistently and provide practical reassessment;
 - protect learner privacy, autonomy, and safety; and
 - connect learners with suitable next steps.
@@ -94,7 +98,7 @@ Use the guide in three passes.
 2. **Before each module:** Use the relevant module companion to choose a lesson flow, prepare questions and materials, anticipate misconceptions, and identify the evidence you need.
 3. **During and after delivery:** Use the facilitation patterns, safety procedures, assessment process, feedback guidance, and record templates.
 
-Do not try to use every prompt or activity. Select the smallest combination that enables learners to meet the objectives safely. Add time when the learning, practice, or assessment requires it.
+Do not try to use every prompt or activity. Select the smallest combination that enables learners to demonstrate the assessed competencies and their competency criteria safely. Add time when the learning, practice, or assessment requires it.
 
 ### The page-by-page teaching rhythm
 
@@ -130,10 +134,10 @@ Never fill a knowledge gap with a confident guess, especially for a current law,
 
 These are guardrails, not a test. Keep this list open while you prepare. You do not need to memorize the curriculum before teaching; you do need to protect these boundaries every time.
 
-1. Teach the four modules in sequence: Understanding Money, How Bitcoin Works, Using Bitcoin Safely, and Bitcoin in Your Community.
-2. Treat Modules 1–3 as the shared Core. Module 4 is required, but its local learning task is educator-selected.
-3. Preserve the required objectives, evidence requirements, safety boundaries, and passing standard in every language and delivery mode.
-4. Conduct objective-aligned educator-led theory interactions and direct practical observation. Offer the app only as an optional recap, self-check, or discovery resource.
+1. Teach the four-module **Problem → Solution → Action → Connect** sequence: Problem—Understanding Money; Solution—How Bitcoin Works; Action—Using Bitcoin Safely; and Connect—Bitcoin in Your Community.
+2. Treat Modules 1–4 as the required Diploma. Modules 1–2 develop theory-based competencies through explanation, comparison, and reasoning; Module 3 develops safe practical action; and the educator-curated, required Module 4 Connect stage links the shared learning to a local need, realistic alternative, safe task, and responsible next step.
+3. Preserve the required competencies, evidence requirements, safety boundaries, and passing standard in every language and delivery mode.
+4. Conduct competency-aligned educator-led theory interactions and direct practical observation. Offer the app only as an optional recap, self-check, or discovery resource.
 5. Give supported practice before assessment. For practical learning, use Presentation → Practice → Production.
 6. Never ask to see, handle, photograph, copy, record, or store a learner's real seed phrase, private key, credential, balance, or unnecessary transaction information.
 7. Use prepared wallets, simulations, test environments, printed screens, or appropriately low-stakes practice. Always prepare a no-funds or offline fallback.
@@ -143,16 +147,16 @@ These are guardrails, not a test. Keep this list open while you prepare. You do 
 
 ## The Diploma at a glance
 
-| Module | Core question | Learner outcome | Educator's main contribution | Main evidence |
+| Module | Guiding question | Learner competency | Educator's main contribution | Main evidence |
 | --- | --- | --- | --- | --- |
-| 1. Understanding Money | How can money break? | Explain why money exists, compare forms of money, and connect modern-money problems to a local or realistic experience. | Draw out existing ideas, facilitate comparison, add checked local fiat context, and assess objective-aligned theory interactions. | Educator-led theoretical evidence. |
-| 2. How Bitcoin Works | Why was Bitcoin created, and how does it respond? | Explain Bitcoin's purpose, core properties, participant roles, benefits, limits, and new responsibilities. | Make technical relationships visible, correct role confusion, test claims through evidence and trade-offs, and assess objective-aligned theory interactions. | Educator-led theoretical evidence. |
-| 3. Using Bitcoin Safely | How do I take responsibility for using and securing Bitcoin? | Explain custody and safety concepts and demonstrate required beginner wallet, recovery-readiness, transaction, and verification skills. | Demonstrate safe process, supervise practice, protect secrets, observe performance, and give corrective feedback. | Educator-led theory evidence and direct practical observation. |
-| 4. Bitcoin in Your Community | How can Bitcoin function as money in this community? | Demonstrate one locally relevant Bitcoin-as-money task and explain its purpose, trade-offs, risks, failure points, and next steps. | Research local reality, select and validate the module, facilitate safe practice, and assess the required evidence. | Educator-led theory evidence and direct practical observation for a task mapped to `B4.1` and `B4.2`. |
+| 1. Problem: Understanding Money | How can money break? | Explain why money exists, compare forms of money, and connect modern-money problems to a local or realistic experience. | Draw out existing ideas, facilitate comparison, add checked local fiat context, and assess competency-aligned theory interactions. | Educator-led theoretical evidence. |
+| 2. Solution: How Bitcoin Works | Why was Bitcoin created, and how does it respond? | Explain Bitcoin's purpose, key properties, participant roles, benefits, limits, and new responsibilities. | Make technical relationships visible, correct role confusion, test claims through evidence and trade-offs, and assess competency-aligned theory interactions. | Educator-led theoretical evidence. |
+| 3. Action: Using Bitcoin Safely | How do I take responsibility for using and securing Bitcoin? | Explain custody and safety concepts and demonstrate required beginner wallet, recovery-readiness, transaction, and verification skills. | Demonstrate safe process, supervise practice, protect secrets, observe performance, and give corrective feedback. | Educator-led theory evidence and direct practical observation. |
+| 4. Connect: Bitcoin in Your Community | How do the problem, solution, and safe action connect to this community? | Complete one locally relevant Bitcoin-as-money task safely and connect it to its local purpose, realistic alternative, trade-offs, safety considerations, and next steps. | Research local reality, select and validate the module, facilitate safe practice, and assess the required evidence. | Direct practical observation for `C11`, including `C11.1` and `C11.2` competency criteria. |
 
 The narrative should remain connected:
 
-**money problem → Bitcoin response → personal responsibility → local application**
+**Problem → Solution → Action → Connect**
 
 ---
 
@@ -160,7 +164,13 @@ The narrative should remain connected:
 
 ### More than presenting information
 
-Your job is not to give a perfect lecture. Your job is to help learners understand, practise, explain, and make safe decisions. You facilitate the group, guide the learning, safeguard people and information, add checked local context, and assess the required evidence.
+Your job is not to give a perfect lecture. Your job is to help learners explain, practise, and make safe decisions. You facilitate the group, guide the learning, safeguard people and information, add checked local context, and assess the required evidence.
+
+### The Diploma purpose and your responsibility
+
+The purpose of the Bitcoin Diploma is for every learner to develop and demonstrate its required competencies. Your role is to deliver the knowledge and guided practice that support those competencies, make sure learners have a fair opportunity to develop them during the cohort, and assess each learner's individual ability, competency, and practical skill against the stated criteria.
+
+Before you issue or recommend a learner for a certificate of completion, confirm that the learner has demonstrated every required competency through the approved evidence: observable explanation, comparison, reasoning, or application for theory, and direct educator observation for practical skills. Attendance, confidence, app progress, or a learner's own claim of ability cannot replace this evidence.
 
 You are responsible for helping learners:
 
@@ -172,15 +182,15 @@ You are responsible for helping learners:
 - practise safely before acting independently;
 - learn from mistakes without hiding them;
 - apply ideas to local life without disclosing private finances;
-- demonstrate what they understand and can do; and
+- demonstrate what they can explain and do; and
 - identify an appropriate next step or a reason to remain uncertain.
 
-You are not responsible for making learners agree with you. A learner can meet the Diploma standard while remaining critical of Bitcoin, fiat systems, self-custody, or a local Bitcoin use case, provided they understand the concepts, use relevant evidence, explain trade-offs, and demonstrate the required safety competencies.
+You are not responsible for making learners agree with you. A learner can meet the Diploma standard while remaining critical of Bitcoin, fiat systems, self-custody, or a local Bitcoin use case, provided they can explain the concepts, use relevant evidence, explain trade-offs, and demonstrate the required safety competencies.
 
 ### Course roles
 
-- A **learner** studies, discusses, practises, and provides evidence of understanding.
-- An **educator** facilitates, protects the learning environment, adds checked local context, conducts objective-aligned theoretical touchpoints, provides practical-learning feedback, and directly assesses practical competency against the stated criteria. Where teaching and assessment are divided between educators, both should follow the same task conditions, criteria, and record-keeping process.
+- A **learner** studies, discusses, practises, and demonstrates competency through observable explanation, comparison, reasoning, or action.
+- An **educator** facilitates, protects the learning environment, adds checked local context, conducts competency-aligned theoretical touchpoints, provides practical-learning feedback, and directly assesses practical competency against the stated criteria. Where teaching and assessment are divided between educators, both should follow the same task conditions, criteria, and record-keeping process.
 - A **cohort** is the group learning together. Smaller teams may complete activities, but individual certification evidence must remain identifiable where required.
 - The **Diploma** is the complete learning and assessment program, not only the Student Guide or app.
 
@@ -193,14 +203,14 @@ Each part of the Diploma has a distinct function.
 | Student Guide | Essential learner explanations, reflection, review, and reference | Live facilitation, local verification, supported practice, or observed assessment |
 | My First Bitcoin app | Optional self-checks, recap, discovery, feedback, and connection to future learning | Educator-led theoretical or practical assessment, certification records, or learner evaluation |
 | Educator Guide | Preparation, pacing, facilitation, localization, safety, and assessment support | Learner materials or assessment rubrics |
-| Activity collection | Modular interaction, formative checks, educator-led theoretical touchpoints, practical practice, and practical assessment tasks | Objective definitions, app scoring, or educator judgment |
+| Activity collection | Modular interaction, formative checks, educator-led theoretical touchpoints, practical practice, and practical assessment tasks | Competency definitions, app scoring, or educator judgment |
 | Assessment materials | Tasks, observable criteria, rubrics, evidence records, and completion decisions | Teaching and supported practice |
 
 ### Educator support
 
 You do not need to prepare or teach in isolation. The [Educator Training Program](https://programs.myfirstbitcoin.org/programs/educator-training-program/) supports prospective and active educators in developing their teaching and assessment practice and connecting with the wider education community.
 
-Use local expert support when a module depends on knowledge you do not hold, especially current banking rules, legal or tax context, accessibility, translation, local payment tools, merchant operations, community custody, or safety conditions. An expert should support the learning objective, not use the class to promote a product, service, political position, or investment choice.
+Use local expert support when a module depends on knowledge you do not hold, especially current banking rules, legal or tax context, accessibility, translation, local payment tools, merchant operations, community custody, or safety conditions. An expert should support the learning competency, not use the class to promote a product, service, political position, or investment choice.
 
 ---
 
@@ -210,7 +220,7 @@ Local relevance is essential, but it must not create a different Diploma standar
 
 | Fixed | Adaptable | Flexible with guardrails |
 | --- | --- | --- |
-| Four-module architecture; Core objectives; required competencies; Bitcoin-only focus; shared Core theory; safety boundaries; two-part assessment; objective-to-evidence alignment; minimum certification standard | Examples; activities; case studies; facilitation style; classroom grouping; named local tools; local resources; language examples; practical environment; merchant or spending scenario | Session grouping; delivery mode; translated wording; local legal, tax, privacy, and safety context; Custom-module depth; use of QR codes or current online resources |
+| Four-module Diploma architecture; required competencies and competency criteria; Bitcoin-only focus; Modules 1–2 theory-based competencies; Modules 3–4 practical competencies; safety boundaries; two-part assessment; competency-to-evidence alignment; minimum certification standard | Examples; activities; case studies; facilitation style; classroom grouping; named local tools; local resources; language examples; practical environment; merchant or spending scenario | Session grouping; delivery mode; translated wording; local legal, tax, privacy, and safety context; educator-curated Module 3–4 depth; use of QR codes or current online resources |
 
 You may:
 
@@ -225,22 +235,22 @@ You may:
 
 You may not:
 
-- remove a required objective;
+- remove a required competency or competency criterion;
 - change what a learner must ultimately explain or demonstrate;
 - substitute attendance, effort, or app progress for evidence;
 - lower the passing or safety standard;
 - require learners to expose private financial information;
 - turn a local service into a global recommendation;
 - issue a certificate outside the approved completion process; or
-- move advanced technical or professional content into the beginner Core at the cost of required learning.
+- move advanced technical or professional content into the required Diploma at the cost of required learning.
 
-### Core, Custom, and Advanced boundaries
+### Four-module Diploma and Advanced boundaries
 
-**Core** is the shared beginner path in Modules 1–3. Every learner completes it.
+**The Diploma** follows the four-stage learning arc **Problem → Solution → Action → Connect**. Modules 1–2 develop the Problem and Solution through explanation, comparison, and reasoning. Module 3 develops safe Action. Module 4 is the educator-curated Connect stage, where learners link the shared learning to a local need or opportunity, realistic alternative, safe performance, and responsible next step.
 
-**Custom** is required Module 4 learning selected for the local cohort. The scenario or tool may change, but every learner seeking certification must meet `B4.1` and `B4.2` through an approved task.
+**Module 4** is required Diploma learning, curated by educators as the local subject-matter experts. The scenario or tool may change, but every learner seeking certification must meet `C11` through an approved task that covers `C11.1` and `C11.2`.
 
-**Advanced** is optional follow-on learning. Detailed mining, transaction mechanics, Lightning operations, multisignature design, institutional custody, organizational treasury, regulation, accounting, tax, compliance, investment analysis, policy, and deep technical topics do not belong in the required beginner experience.
+**Advanced** is optional follow-on learning beyond the Diploma. Detailed mining, transaction mechanics, Lightning operations, multisignature design, institutional custody, organizational treasury, regulation, accounting, tax, compliance, investment analysis, policy, and deep technical topics do not belong in the required beginner experience.
 
 When an interesting question would pull the group into advanced material, acknowledge it and protect the course sequence. A useful response is:
 
@@ -282,7 +292,7 @@ Use one recurring reasoning sequence throughout the Diploma:
 7. What remains uncertain or locally variable?
 8. What would change your conclusion?
 
-Do not reward slogans without understanding. “Fiat is broken,” “Bitcoin fixes this,” “not your keys, not your coins,” and “don't trust, verify” may open a discussion, but each must be unpacked into a specific claim, mechanism, condition, and trade-off.
+Do not reward slogans without a learner explanation or reasoned application. “Fiat is broken,” “Bitcoin fixes this,” “not your keys, not your coins,” and “don't trust, verify” may open a discussion, but each must be unpacked into a specific claim, mechanism, condition, and trade-off.
 
 ### Welcome disagreement and correct error
 
@@ -322,7 +332,7 @@ Before teaching:
 
 An interpreter may convey meaning during learning or assessment but must not improve, coach, or complete the learner's answer. Interpreter support for the app must follow the approved access, integrity, and accommodation rules.
 
-### Support accessibility without lowering the objective
+### Support accessibility without lowering the competency
 
 For teaching and assessment, an accommodation may change how instructions are received, how a response is communicated, or how a device is controlled. It may include:
 
@@ -336,9 +346,9 @@ For teaching and assessment, an accommodation may change how instructions are re
 - reduced noise or a private assessment space; or
 - breaking a task into clearly signposted stages.
 
-The accommodation must preserve the measurable objective. If the objective is to explain, the learner must still communicate the explanation. If it is to verify a payment destination, the learner must still make or direct that verification. If it is to demonstrate a sequence, the educator must still observe the learner controlling the decisions in that sequence.
+The accommodation must preserve the measurable competency. If the competency is to explain, the learner must still communicate the explanation. If it is to verify a payment destination, the learner must still make or direct that verification. If it is to demonstrate a sequence, the educator must still observe the learner controlling the decisions in that sequence.
 
-Accommodations for educator-led theoretical touchpoints or educator-observed practical evidence must preserve their purpose, objective, evidence, and standard. If an equivalent assessment cannot be established, provide further supported practice rather than certify the objective. Optional app use must never be a required accommodation route.
+Accommodations for educator-led theoretical touchpoints or educator-observed practical evidence must preserve their purpose, competency, evidence, and standard. If an equivalent assessment cannot be established, provide further supported practice rather than certify the competency. Optional app use must never be a required accommodation route.
 
 ---
 
@@ -376,7 +386,7 @@ Possible delivery models include:
 | Eight-session course | Eight sessions of about one hour | Translation, younger learners, repeated practice, limited device access | Maintain the narrative connection across shorter meetings |
 | Blended local schedule | Two half-days or another integrated sequence | Travel constraints, shared devices, remote preparation | Keep pre-work accessible and make live evidence requirements clear |
 
-If an advertised day runs from 9:00 to 17:00, breaks and lunch reduce live learning time. Shorten optional examples, not required objectives, safe practice, or assessment. Redesign the advertised course schedule before delivery rather than certify without evidence.
+If an advertised day runs from 9:00 to 17:00, breaks and lunch reduce live learning time. Shorten optional examples, not required competencies, safe practice, or assessment. Redesign the advertised course schedule before delivery rather than certify without evidence.
 
 ### A repeatable two-hour module rhythm
 
@@ -385,9 +395,9 @@ Use this as a planning pattern, not a rigid script.
 | Time | Purpose | Educator move |
 | ---: | --- | --- |
 | 0–10 min | Welcome and retrieval | Ask a short question from the previous learning and surface uncertainty. |
-| 10–30 min | First concept | Explain briefly, use a visual or local example, and check understanding. |
+| 10–30 min | First concept | Explain briefly, use a visual or local example, and elicit an observable learner response. |
 | 30–55 min | Main interaction | Facilitate a comparison, game, scenario, role map, demonstration, or guided practice. |
-| 55–65 min | Debrief | Connect the experience to the objective; correct what the activity could not show. |
+| 55–65 min | Debrief | Connect the experience to the competency; correct what the activity could not show. |
 | 65–80 min | Second concept or demonstration | Add the next essential idea and model the complete process where relevant. |
 | 80–105 min | Practice and production | Learners apply, decide, explain, or perform with decreasing support. |
 | 105–115 min | Learning check or practical evidence | Gather a formative or approved educator-theory interaction, or have an educator observe an approved practical skill. |
@@ -402,7 +412,7 @@ This pattern does not establish how much time educator-led assessment needs. Res
 Protect, in this order:
 
 1. safety boundaries;
-2. required objectives and evidence;
+2. required competencies and evidence;
 3. learner explanation and questions;
 4. supported practice;
 5. review and connection across modules;
@@ -416,7 +426,7 @@ Move optional history, extra analogies, extended debates, detailed mechanics, an
 #### One to two weeks before
 
 - Confirm the cohort, language, accessibility, safeguarding, venue, and schedule.
-- Read the relevant Student Guide sections and objective map.
+- Read the relevant Student Guide sections and competency map.
 - Select the Module 4 module and any local expert.
 - Verify local banking, inflation, payment, legal, tax, privacy, and tool information that will be used.
 - Select activities and assessment tasks.
@@ -437,7 +447,7 @@ Move optional history, extra analogies, extended debates, detailed mechanics, an
 
 - Reset training devices and confirm that no earlier learner data remain.
 - Check the network and the offline path.
-- Display the session objective and safety rule.
+- Display the session competency and safety rule.
 - Place private assessment records out of public view.
 - Confirm the escalation contact and what you will do if a tool, payment, or device behaves unexpectedly.
 
@@ -484,8 +494,8 @@ For most concepts, use this sequence:
 
 1. **Purpose:** Tell learners why the idea matters.
 2. **Activate:** Ask what they already think or have observed.
-3. **Explain:** Give the shortest accurate explanation that unlocks the objective.
-4. **Check:** Ask a quick question that reveals understanding, not only recall.
+3. **Explain:** Give the shortest accurate explanation that unlocks the competency.
+4. **Check:** Ask a quick question that reveals what the learner can explain or apply, not only recall.
 5. **Apply:** Use a comparison, activity, scenario, demonstration, or decision.
 6. **Produce:** Ask learners to explain or perform with less support.
 7. **Debrief:** Name the evidence, limitation, safety point, and trade-off.
@@ -524,7 +534,7 @@ Use realistic invented characters and local conditions. Ask:
 6. What could fail?
 7. What is the smallest safe next step?
 
-Change one condition after the first answer. For example: the internet fails, the address changes, the recipient wants local currency, the fee rises, or the learner notices an urgent support message. This tests whether understanding transfers.
+Change one condition after the first answer. For example: the internet fails, the address changes, the recipient wants local currency, the fee rises, or the learner notices an urgent support message. This tests whether the learner can transfer their reasoning.
 
 ### Misconception check
 
@@ -544,7 +554,7 @@ At the end of a section, ask learners to complete one of these:
 - “I would stop and verify if ___.”
 - “This connects to the next module because ___.”
 
-An exit response is usually formative feedback. It may contribute to the educator-led share of theoretical assessment when it is an approved objective-aligned touchpoint with a rubric, individual evidence, and a recorded result. It may contribute to practical evidence only when it is an observable criterion embedded in an approved practical task and rubric.
+An exit response is usually formative feedback. It may contribute to the educator-led share of theoretical assessment when it is an approved competency-aligned touchpoint with a rubric, individual evidence, and a recorded result. It may contribute to practical evidence only when it is an observable criterion embedded in an approved practical task and rubric.
 
 ### Debrief every activity
 
@@ -563,7 +573,7 @@ Maintain a visible “Later / Advanced” list. Add the question, confirm why it
 
 ### Media and tool fallbacks
 
-No Core explanation, formative educator check, practice activity, or directly observed practical evidence should depend on a video, live website, named service, or learner-owned device when an approved equivalent path can preserve the objective.
+No required Diploma explanation, formative educator check, practice activity, or directly observed practical evidence should depend on a video, live website, named service, or learner-owned device when an approved equivalent path can preserve the competency.
 
 | Live or online experience | Offline or low-tech equivalent |
 | --- | --- |
@@ -654,9 +664,9 @@ When devices are shared:
 
 ### Purpose of the module
 
-Module 1 gives learners the language and criteria needed to examine money. It should not become a long argument against every fiat system. Its job is to help learners understand why money exists, how different arrangements work, what trade-offs they create, and which problems Bitcoin later attempts to address.
+Module 1 gives learners the language and criteria needed to examine money. It should not become a long argument against every fiat system. Its job is to help learners explain why money exists, how different arrangements work, what trade-offs they create, and which problems Bitcoin later attempts to address.
 
-Core question:
+Guiding question:
 
 > How can money break?
 
@@ -666,18 +676,16 @@ Learner promise:
 
 **If this is your first time teaching Module 1:** Start with the opening questions and a familiar local payment. Do not begin with a long history lecture. Let learners describe what they already know, then introduce only the terms needed for the next activity. Return to the local fiat and banking notes when the cohort reaches those sections.
 
-### Required outcomes
+### Assessed competencies and competency criteria
 
-| ID | Learner must be able to | Useful educator evidence |
-| --- | --- | --- |
-| `B1.1` | Explain what money is and why societies use it. | Own-words explanation of the exchange or coordination problem money helps solve. |
-| `B1.2` | Describe the beginner history and evolution of money, including barter and its limits. | Sequenced explanation that recognizes different societies followed different paths. |
-| `B1.3` | Identify the functions and properties of money. | Classification or application to examples. |
-| `B1.4` | Compare different forms of money using beginner monetary characteristics. | Comparison using consistent criteria and at least one trade-off. |
-| `B1.5` | Explain introductory problems involving inflation, purchasing-power loss, fractional-reserve banking, and CBDCs. | Explanation and scenario reasoning without one-cause or universal claims. |
-| `B1.6` | Relate a local, observed, or realistic money experience to a monetary property or problem without required personal disclosure. | Local or invented scenario connected accurately to a course concept. |
+Record each assessed competency. Decimal `C` IDs are competency criteria and rubric look-fors, not separate pass/fail rows.
 
-Use guided discussions to collect formative indicators for `ALL.1` across the course. Do not infer it from attendance or confidence; notice clear explanation, relevant evidence, respectful listening, and basic reasoning. `ALL.1` is not a certification gate under the current objectives.
+| Assessed competency | Learner must be able to | Competency criteria to cover | Useful educator evidence |
+| --- | --- | --- | --- |
+| `C1` | Explain why people use money and compare two forms of money using simple characteristics. | `C1.1` Money and its purpose.<br>`C1.2` Barter and the evolution of money.<br>`C1.3` Functions and properties.<br>`C1.4` Comparison using monetary characteristics. | Own-words explanation and a comparison using consistent criteria and one trade-off. |
+| `C2` | Use a guided local or realistic scenario to explain one modern-money trade-off. | `C2.1` Inflation, purchasing power, banking, or CBDC trade-offs.<br>`C2.2` Local, observed, or realistic money experience without personal disclosure. | Scenario explanation without one-cause or universal claims. |
+
+Use guided discussions to develop and notice the formative competency `C12` across the course. Do not infer it from attendance or confidence; notice clear explanation, relevant evidence, respectful listening, and basic reasoning. `C12` is not a certification gate.
 
 ### Prepare before class
 
@@ -915,7 +923,7 @@ Avoid assigning every price change to one factor.
 - Why can a learner's experience differ from the average?
 - What evidence would be needed before alleging error or manipulation?
 
-Prepare for this discussion. Understand the local official measure well enough to explain what it does and does not claim. A basket change is not automatically manipulation, but it can affect comparison and should be transparent.
+Prepare for this discussion. Review the local official measure well enough to explain what it does and does not claim. A basket change is not automatically manipulation, but it can affect comparison and should be transparent.
 
 ### Why the US dollar is a reserve currency
 
@@ -1022,28 +1030,27 @@ Bridge:
 
 Module 2 explains why Bitcoin was created and how its parts work together at beginner depth. Avoid teaching a list of impressive features. Learners should connect the problem of decentralized digital money to Bitcoin's public rules, signatures, shared history, proof of work, and independent verification.
 
-Core question:
+Guiding question:
 
 > Why was Bitcoin created, and how does it respond?
 
 Learner promise:
 
-> I can explain Bitcoin's purpose, core properties, limits, and new responsibilities.
+> I can explain Bitcoin's purpose, key properties, limits, and new responsibilities.
 
 **If this is your first time teaching Module 2:** Keep the central story visible: a digital payment can be copied, Bitcoin proposes a shared rule system, and independent participants verify those rules. Use the role cards before introducing technical detail. If the group gets lost, return to the double-spend problem and the miner/node distinction.
 
-### Required outcomes
+### Assessed competencies and competency criteria
 
-| ID | Learner must be able to | Useful educator evidence |
-| --- | --- | --- |
-| `B2.1` | Explain why Bitcoin was created, including digital copying and double spending. | Own-words problem-and-response explanation. |
-| `B2.2` | Explain decentralization, credible finite supply, peer-to-peer transfer, verifiability, and “don't trust, verify.” | Connected explanation using at least one mechanism and trade-off. |
-| `B2.3` | Describe users, nodes, miners, and developers and the beginner relevance of proof of work, the 21 million limit, halving, and sats. | Role map, concept illustration, or explanation. |
-| `B2.4` | Assess whether Bitcoin can be described as sound money using monetary properties and the limits of that judgment. | Guided comparison with evidence and qualifications. |
-| `B2.5` | Compare Bitcoin with stablecoins and other non-Bitcoin crypto-assets through issuer or control, supply, verification, custody, and counterparty considerations. | Guided, Bitcoin-only boundary comparison without token promotion. |
-| `B2.6` | Explain why responsible Bitcoin learning differs from short-term trading, token promotion, or speculation. | Safety judgment naming risks and course boundaries. |
+Record one result for each assessed competency. Decimal `C` IDs are competency criteria and rubric look-fors, not separate pass/fail rows.
 
-Use guided discussions to collect formative indicators for `ALL.1` across the course. Do not infer understanding from attendance or confidence; listen for clear explanation, relevant evidence, respectful listening, and basic reasoning. `ALL.1` is not a certification gate under the current objectives.
+| Assessed competency | Learner must be able to | Competency criteria to cover | Useful educator evidence |
+| --- | --- | --- | --- |
+| `C3` | Explain the digital-copy and double-spend problem and how shared verification helps Bitcoin address it. | `C3.1` Why Bitcoin was created, including digital copying and double spending. | Own-words problem-and-response explanation. |
+| `C4` | Explain how Bitcoin's public rules and network roles support its key money properties. | `C4.1` Key properties and “don't trust, verify.”<br>`C4.2` Roles, proof of work, supply, halving, and sats.<br>`C4.3` Sound-money reasoning and limits. | Connected explanation, role map, or guided comparison. |
+| `C5` | Compare Bitcoin with one other digital asset using guided criteria. | `C5.1` Comparison using control, supply, verification, custody, or counterparty considerations.<br>`C5.2` Risks and course boundaries. | Guided, Bitcoin-only comparison scenario without token promotion. |
+
+Use guided discussions to develop and notice the formative competency `C12` across the course. Do not infer it from attendance or confidence; listen for clear explanation, relevant evidence, respectful listening, and basic reasoning. `C12` is not a certification gate.
 
 ### Prepare before class
 
@@ -1088,7 +1095,7 @@ Clarify that the problem is not copying a picture of a coin. It is deciding whic
 
 Keep DigiCash, Hashcash, Bit Gold, B-money, reusable proof of work, and peer-to-peer systems brief. Their role is to show that Bitcoin emerged from earlier work on privacy, digital cash, costly computation, distributed networks, and scarcity.
 
-Do not imply that every predecessor contributed code directly to Bitcoin. Do not turn the Core module into a technical timeline quiz.
+Do not imply that every predecessor contributed code directly to Bitcoin. Do not turn Module 2 into a technical timeline quiz.
 
 Ask:
 
@@ -1178,7 +1185,7 @@ Use claim, evidence, and trade-off:
 - Which alternative system is being compared?
 - Which facts are current and need dated evidence?
 
-Detailed energy statistics and mining economics belong outside the Core unless the educator has verified current sources and the discussion supports an objective.
+Detailed energy statistics and mining economics are not required Diploma content. Use them only when the educator has verified current sources and the discussion supports a competency.
 
 ### Finite supply and halving
 
@@ -1242,7 +1249,7 @@ Separate:
 
 ### Bitcoin, stablecoins, and other crypto-assets
 
-The Diploma remains Bitcoin-only. A short comparison supports `B2.5` and helps learners recognize why a similar-looking digital token may have a different trust model.
+The Diploma remains Bitcoin-only. A short comparison supports `C5` and helps learners recognize why a similar-looking digital token may have a different trust model.
 
 Use a generic guided table rather than promoting named assets:
 
@@ -1252,7 +1259,7 @@ Use a generic guided table rather than promoting named assets:
 | What supports the supply claim? | Independently verifiable issuance rules and history | Reserves, redemption promises, collateral, algorithms, legal claims, or a combination | Project-specific rules and governance |
 | What counterparty risk exists? | Services can add counterparty risk, but the base asset has no redeeming issuer | Issuer, custodian, bank, collateral, oracle, bridge, or redemption risk may exist | Project, governance, bridge, custodian, or operator risk may exist |
 | What can the learner verify independently? | Protocol rules and history with a node | Depends on reserve evidence, legal rights, code, network, and service | Depends on design and access to verification |
-| What does the course recommend? | Study the Bitcoin-specific beginner objectives and safety practices | No acquisition or product recommendation | No acquisition, trading, or token promotion |
+| What does the course recommend? | Study the Bitcoin-specific beginner competencies and safety practices | No acquisition or product recommendation | No acquisition, trading, or token promotion |
 
 Do not imply that every non-Bitcoin asset has the same structure. The learner's task is to ask consistent questions about issuer, control, supply, verification, custody, and counterparty dependence.
 
@@ -1263,7 +1270,7 @@ Explain the boundary:
 - Education asks how the system works, what can be verified, what risks exist, and what the learner can safely demonstrate.
 - Responsible use begins with purpose, custody, verification, small tests, and informed choice.
 - Trading attempts to profit from price changes and may involve leverage, rapid decisions, platform risk, and loss.
-- Token promotion creates conflicts of interest and may reward persuasion over understanding.
+- Token promotion creates conflicts of interest and may reward persuasion over clear reasoning.
 - Speculation can cause learners to confuse price movement with technical or social value.
 
 The Diploma does not teach or assess price prediction, portfolio construction, trading, investment returns, or token selection.
@@ -1275,11 +1282,11 @@ The Diploma does not teach or assess price prediction, portfolio construction, t
 | Scarcity | “Can't someone just make more than 21 million bitcoin?” | Someone can write different software, but participants do not have to run it. Nodes following Bitcoin's rules reject excess issuance. Broad adoption of incompatible rules could produce a separate network; no founder, miner, developer, company, or government can quietly create extra valid bitcoin for everyone. |
 | Scarcity | “Does the limited supply mean the price must rise?” | No. Price depends on demand as well as supply, and demand can fall. Finite supply is a monetary property, not a return guarantee. |
 | Divisibility | “If there are only 21 million, is there enough for everyone?” | One bitcoin divides into 100,000,000 sats. Smaller units let people represent small amounts without increasing the total supply. |
-| Divisibility | “Do I need to buy a whole bitcoin?” | No. A learner can understand or use sats without owning a whole bitcoin, and ownership is not required for the Diploma. |
+| Divisibility | “Do I need to buy a whole bitcoin?” | No. A learner can explain or use sats without owning a whole bitcoin, and ownership is not required for the Diploma. |
 | Durability | “What if my phone breaks?” | Bitcoin is not stored inside the phone. The network record continues, but access depends on safe keys and recovery. Device loss may be recoverable; lost or exposed recovery information can cause permanent loss. |
 | Portability | “Can I send it anywhere with no conditions?” | A valid transfer does not need approval from a central Bitcoin operator, but it still needs a suitable wallet, communication, correct payment information, fees, and a recipient who can receive it. Local laws and services may add constraints. |
 | Fungibility | “Is every sat exactly the same?” | Equal amounts follow the same protocol spending rules, but public transaction history can influence how some services or people treat particular funds. |
-| Verifiability | “Do I have to trust a website?” | An explorer is a convenient third-party interface. A node allows stronger independent verification, while beginners may still rely on wallet or service information and should understand that dependency. |
+| Verifiability | “Do I have to trust a website?” | An explorer is a convenient third-party interface. A node allows stronger independent verification, while beginners may still rely on wallet or service information and should identify that dependency. |
 | Acceptability | “If Bitcoin is useful, why can't I spend it everywhere?” | Technical capability does not create universal acceptance. Local habits, tools, costs, regulation, volatility, education, and merchant demand affect use. |
 | Decentralization | “Is Bitcoin completely decentralized?” | Influence and infrastructure are not equally distributed. The narrower claim is that no single participant can unilaterally alter valid balances or rules for everyone. |
 | Credible scarcity | “Why not copy the code and make another coin?” | Copying code or writing a supply cap is possible. Credible enforcement, independent verification, security, history, network adoption, and resistance to unilateral change are separate questions. |
@@ -1317,7 +1324,7 @@ Choose two or three, not all:
 - claim, evidence, reasoning, and trade-off discussion; or
 - generic Bitcoin/stablecoin/other-asset comparison.
 
-Use consensus games, hashing activities, videos, and role-plays only when their purpose, timing, learner context, and debrief are strong. An activity supplies educator-led theoretical evidence only when it is an objective-aligned touchpoint with individual evidence, a rubric, and a recording process. Otherwise, use it formatively.
+Use consensus games, hashing activities, videos, and role-plays only when their purpose, timing, learner context, and debrief are strong. An activity supplies educator-led theoretical evidence only when it is a competency-aligned touchpoint with individual evidence, a rubric, and a recording process. Otherwise, use it formatively.
 
 ### Module 2 educator-led theoretical touchpoint
 
@@ -1328,7 +1335,7 @@ Use a short task that asks the learner to connect at least three elements. It su
 - explain how node verification supports credible supply; and
 - apply monetary properties to one benefit and one trade-off.
 
-For `B2.5` and `B2.6`, use a short guided scenario that asks who controls issuance, what can be verified, which counterparty risk exists, and why price speculation is outside the Diploma's responsible-learning purpose.
+For `C5`, use a short guided scenario that asks who controls issuance, what can be verified, which counterparty risk exists, and why price speculation is outside the Diploma's responsible-learning purpose.
 
 Listen for the learner's own words. A fluent repetition of “21 million” or “decentralized” is not enough without the mechanism or qualification.
 
@@ -1355,9 +1362,9 @@ Bridge:
 
 ### Purpose of the module
 
-Module 3 moves from explanation into safe beginner performance. It does not make every learner ready for high-value self-custody. It helps learners distinguish public information from secrets, understand custody choices, practise recovery readiness, verify payment details, recognize unsafe conditions, and demonstrate required actions under approved support conditions.
+Module 3 moves from explanation into safe beginner performance. It does not make every learner ready for high-value self-custody. It helps learners distinguish public information from secrets, compare custody choices, practise recovery readiness, verify payment details, recognize unsafe conditions, and demonstrate required actions under approved support conditions.
 
-Core question:
+Guiding question:
 
 > How do I take responsibility for using and securing Bitcoin?
 
@@ -1367,23 +1374,19 @@ Learner promise:
 
 **If this is your first time teaching Module 3:** Practise the complete safe process yourself before class. Use an empty training wallet, printed screens, or a simulation. Never learn a new wallet or recovery procedure at the same time as learners, and never ask learners to show real secrets. Slow, visible checking is more important than completing a live transaction.
 
-### Required outcomes
+### Assessed competencies and competency criteria
 
-| ID | Learner must be able to | Evidence emphasis |
-| --- | --- | --- |
-| `B3.1` | Explain wallets, addresses, keys, seed phrases, and custody through essential terms and examples. | Approved educator-led explanation. |
-| `B3.2` | Compare custodial and non-custodial approaches in guided scenarios. | Approved educator-led comparison. |
-| `B3.3` | Identify hardware wallets, why people use them, and how they differ from hot wallets. | Approved educator-led scenario. |
-| `B3.4` | Identify common risks and explain safe responses to seed exposure, address mistakes, clipboard attacks, impersonation, urgency scams, and too-good-to-be-true offers. | Approved educator-led safety scenario. |
-| `B3.5` | Demonstrate safe setup or opening and navigation of an approved or prepared wallet, including locating and checking receive information. | Direct observation by an educator. |
-| `B3.6` | Complete or safely simulate a beginner receive or send flow and verify the relevant address, invoice, amount, confirmation, or status. | Direct observation by an educator. |
-| `B3.7` | Demonstrate recovery readiness and protection of recovery information with prepared or simulated materials. | Direct observation by an educator without real secrets. |
-| `B3.8` | Distinguish on-chain and Lightning payments and select an appropriate beginner path in a guided scenario. | Approved educator-led scenario. |
-| `B3.9` | Compare beginner acquisition or exchange pathways and their risks without recommendation or advice. | Approved educator-led comparison. |
-| `B3.10` | Distinguish beginner practical use from advanced or high-stakes activity and identify when to stop or seek help. | Approved educator-led safety discussion. |
-| `B3.11` | Gain access to bitcoin in an approved low-stakes or simulated environment, receive it, and check the relevant wallet and transaction information. | Direct observation by an educator. |
+Record one result for each assessed competency. Decimal `C` IDs are competency criteria and rubric look-fors, not separate pass/fail rows.
 
-Use guided discussions to collect formative indicators for `ALL.1` through clear explanation, relevant evidence, respectful listening, and basic reasoning. `ALL.1` is not a certification gate under the current objectives.
+| Assessed competency | Learner must be able to | Competency criteria to cover | Evidence emphasis |
+| --- | --- | --- | --- |
+| `C6` | Explain what wallet information can be shared or must be protected, and describe one custody trade-off. | `C6.1` Wallets, addresses, keys, seed phrases, and custody.<br>`C6.2` Custodial and non-custodial approaches.<br>`C6.3` Hardware-wallet and hot-wallet overview. | Educator-led explanation or guided scenario. |
+| `C7` | Identify a scam, error, or high-risk request and state when to stop, verify, or seek help. | `C7.1` Safe responses to common beginner risks.<br>`C7.2` Beginner limits and when to stop or seek help. | Educator-led safety scenario. |
+| `C8` | Compare common ways to pay with or access bitcoin in guided scenarios. | `C8.1` On-chain and Lightning distinctions and pathway selection.<br>`C8.2` Acquisition or exchange pathways and relevant risks. | Educator-led comparison scenario. |
+| `C9` | Safely complete and verify a supported first-access wallet activity, including receipt of bitcoin or a safe simulated receipt, in an approved low-stakes or simulated setting. | `C9.1` Wallet setup or opening, navigation, and receive information.<br>`C9.2` Receive-or-send flow and verification.<br>`C9.3` Supported first access, receipt or safe simulated receipt, and information check. | Direct observation by an educator. |
+| `C10` | Demonstrate recovery readiness with prepared or simulated materials without exposing secrets. | `C10.1` Recovery readiness and protection of recovery information. | Direct observation by an educator without real secrets. |
+
+Use guided discussions to develop and notice the formative competency `C12` through clear explanation, relevant evidence, respectful listening, and basic reasoning. `C12` is not a certification gate.
 
 ### Time and educator capacity
 
@@ -1603,7 +1606,7 @@ Teach the consequences:
 
 **Required safety response:** If a real seed may have been exposed, stop using it as a safe backup, create a new trusted wallet with new recovery information, and move funds after carefully verifying the destination. The learner should seek help without revealing either phrase.
 
-Inheritance, multisignature design, advanced passphrases, and high-value recovery planning may require advanced security and professional legal advice. They are outside Core performance.
+Inheritance, multisignature design, advanced passphrases, and high-value recovery planning may require advanced security and professional legal advice. They are outside required Diploma performance.
 
 ### Custodial and self-custodial use
 
@@ -1763,7 +1766,7 @@ Include one legitimate-looking message with no obvious spelling error. Scams sho
 
 ### Acquiring and exchanging as pathway awareness
 
-The learner should understand possible routes, not receive a recommendation.
+The learner should compare possible routes, not receive a recommendation.
 
 Compare:
 
@@ -1801,11 +1804,11 @@ Use a comparison that separates payment path from custody.
 | Custody | Can be custodial or self-custodial | Can be custodial or self-custodial |
 | Main beginner check | Correct address, network, amount, fee, and confirmation | Correct invoice or destination, amount, expiry, fee, and payment result |
 
-Lightning is not a separate coin. A successful Lightning payment does not prove the wallet is safe for a larger balance. Channel operation, routing infrastructure, and liquidity management belong outside Core unless selected as Advanced learning.
+Lightning is not a separate coin. A successful Lightning payment does not prove the wallet is safe for a larger balance. Channel operation, routing infrastructure, and liquidity management are Advanced learning outside the Diploma.
 
 ### Supported first access
 
-`B3.11` requires a learner to gain access to bitcoin in an approved low-stakes or simulated environment, receive it, and check the relevant information.
+`C9.3` is a competency criterion within `C9`. The learner gains access to bitcoin in an approved low-stakes or simulated environment, receives it or safely simulates receipt, and checks the relevant information as part of the observed wallet, payment, and verification performance.
 
 Plan the route carefully:
 
@@ -1818,7 +1821,7 @@ Plan the route carefully:
 7. Have the learner verify balance or payment status and explain what that evidence means.
 8. Have the learner identify the recovery path and stop conditions.
 
-Do not require learners to purchase bitcoin. A prepared training balance, educator-provided low-stakes receipt, test environment, or approved simulation may satisfy the objective when the assessment variant permits it.
+Do not require learners to purchase bitcoin. A prepared training balance, educator-provided low-stakes receipt, test environment, or approved simulation may satisfy the competency when the assessment variant permits it.
 
 ### Integrated Module 3 practice circuit
 
@@ -1901,9 +1904,11 @@ Bridge:
 
 ### Purpose of the module
 
-Module 4 connects the shared Core to local daily life. It is not a free-choice bonus module and it is not globally defined as “spending.” Every certificated learner completes one approved locally relevant task, but educators select the context because currencies, tools, laws, risks, infrastructure, and community needs vary.
+Module 4 applies learning from Modules 1–3 to local daily life. It is a required part of the Diploma, not a free-choice bonus module, and it is not globally defined as “spending.” Every certificated learner completes one approved locally relevant task, but educators select the context because currencies, tools, laws, risks, infrastructure, and community needs vary.
 
-Core question:
+It is the **Connect** stage of Problem → Solution → Action → Connect. The learner must connect the earlier modules to a local need or opportunity and a realistic existing alternative before practising a safe task. The intended outcome is sound local reasoning and safe performance, not adoption or a favorable conclusion about Bitcoin.
+
+Guiding question:
 
 > How can Bitcoin function as money in this community?
 
@@ -1913,26 +1918,26 @@ Learner promise:
 
 **If this is your first time teaching Module 4:** Do not start by choosing a popular tool. Start with a local need, compare the existing option, verify current facts, and select the smallest safe task that can show useful learning. A well-supported simulation is a successful lesson; a live payment is not required merely to make the module feel practical.
 
-### Required outcomes
+### Assessed competency and competency criteria
 
-| ID | Learner must be able to | Required evidence |
-| --- | --- | --- |
-| `B4.1` | Demonstrate at least one approved, locally relevant Bitcoin-as-money task using the required safe sequence and verification behaviors. | Direct observation by an educator. |
-| `B4.2` | Explain the task's purpose, relevant trade-offs, failure points, safety considerations, and realistic next steps. | Explanation during or immediately after performance. |
+| Assessed competency | Learner must be able to | Competency criteria to cover | Required evidence |
+| --- | --- | --- | --- |
+| `C11` | Safely complete one approved local Bitcoin-as-money task and connect it to its local purpose, realistic alternative, trade-offs, and next step. | `C11.1` Safe task sequence and verification behavior.<br>`C11.2` Local purpose, realistic alternative, trade-offs, failure points, safety considerations, and realistic next steps. | Direct observation and explanation during or immediately after performance. |
 
-Use guided discussion to support `ALL.1` and the course-ending reflection to support `ALL.2`. Both are formative and do not create certification gates.
+Use guided discussion to support the formative competency `C12` and the course-ending reflection to support the formative competency `C13`. Neither creates a certification gate.
 
 ### Begin with a need, not a tool
 
 Ask first:
 
-1. What real local problem or opportunity are we examining?
-2. How is it handled now?
-3. Which function of money is involved?
-4. Could Bitcoin improve the complete path?
-5. What new cost, custody, privacy, price, legal, operational, or safety risk appears?
-6. Can learners examine or practise the path safely?
-7. What evidence would show understanding and competence?
+1. Which Module 1 problem, Module 2 response, and Module 3 safe action are learners connecting?
+2. What real local problem or opportunity are we examining?
+3. How is it handled now?
+4. Which function of money is involved?
+5. Could Bitcoin improve the complete path?
+6. What new cost, custody, privacy, price, legal, operational, or safety risk appears?
+7. Can learners examine or practise the path safely?
+8. What observable action would show the competency?
 
 A valid conclusion may be that Bitcoin is not the best option for the case. The module assesses reasoning and safe performance, not adoption.
 
@@ -1979,7 +1984,7 @@ Choose one primary task and, at most, one supporting task for a minimum module. 
 - local money-problem analysis; or
 - another approved locally relevant Bitcoin-as-money task.
 
-Every certification task must map to both `B4.1` and `B4.2` through an approved variant.
+Every certification task must map to `C11`, including `C11.1` and `C11.2`, through an approved variant.
 
 #### 4. Verify facts, tools, and expertise
 
@@ -1999,7 +2004,7 @@ For every tool or service, record:
 - alternative if the tool fails; and
 - date checked.
 
-Invite a qualified local expert when needed. Brief them on the objectives, no-promotion boundary, privacy rules, and assessment role. The educator remains responsible for the learning environment.
+Invite a qualified local expert when needed. Brief them on the competencies, no-promotion boundary, privacy rules, and assessment role. The educator remains responsible for the learning environment.
 
 #### 5. Design Presentation → Practice → Production
 
@@ -2013,7 +2018,7 @@ Invite a qualified local expert when needed. Brief them on the objectives, no-pr
 
 Before class, specify:
 
-- exact objective and approved variant;
+- exact competency and approved variant;
 - observable action sequence;
 - required verification behavior;
 - required explanation;
@@ -2041,14 +2046,14 @@ Ask learners to identify:
 
 The next step may be further learning, another simulation, checking a current rule, seeking qualified help, or deciding not to use the path.
 
-### Custom-module readiness gate
+### Module 4 readiness gate
 
 Do not deliver a live module until every required answer is satisfactory.
 
 | Readiness question | Ready when | If not ready |
 | --- | --- | --- |
 | Is the need real and relevant? | The educator can describe the local problem without relying on a product pitch. | Select a better need or use a comparative scenario. |
-| Is the objective clear? | The task maps to Core concepts and an approved `B4.1`/`B4.2` variant. | Do not use it for certification. |
+| Is the competency clear? | The task maps to concepts from Modules 1–3 and an approved `C11` variant, including `C11.1` and `C11.2`. | Do not use it for certification. |
 | Is the educator competent? | The educator can demonstrate, troubleshoot safely, and explain limitations. | Use a qualified expert, simulation, or different module. |
 | Is the tool verified? | Source, custody, recovery, fees, privacy, compatibility, and failure behavior were checked recently. | Use printed screens or remove the tool. |
 | Are local rules understood? | Relevant claims are supported by authoritative current guidance. | State uncertainty and avoid live action requiring that guidance. |
@@ -2056,7 +2061,7 @@ Do not deliver a live module until every required answer is satisfactory.
 | Is access equitable? | Learners can participate despite device, language, disability, or connectivity constraints. | Prepare an equivalent accessible pathway. |
 | Can evidence be observed? | The educator can see the learner's decisions and hear the explanation. | Reduce group size or schedule individual assessment. |
 
-### Custom-module planning record
+### Module 4 planning record
 
 Complete this before delivery.
 
@@ -2064,10 +2069,11 @@ Complete this before delivery.
 | --- | --- |
 | Module title and variant ID |  |
 | Local need or opportunity |  |
+| Problem → Solution → Action concepts to connect |  |
 | Learner profile and access needs |  |
-| Core concepts connected |  |
-| `B4.1` observable task |  |
-| `B4.2` required explanation |  |
+| Modules 1–3 concepts connected |  |
+| `C11` observable task |  |
+| `C11.1` / `C11.2` required verification and explanation |  |
 | Existing non-Bitcoin alternative |  |
 | Tool, version, source, and date checked |  |
 | Custody and recovery model |  |
@@ -2083,12 +2089,12 @@ Complete this before delivery.
 | Accessibility or language adaptation |  |
 | Evidence record and reassessment plan |  |
 
-### Suggested two-hour Custom flow
+### Suggested two-hour Module 4 flow
 
 | Time | Learning move | Educator action |
 | ---: | --- | --- |
 | 0–12 min | Local need | Present the problem and current path; invite learner experience without requiring disclosure. |
-| 12–28 min | Core connection | Identify the money function, custody, payment rail, and relevant Module 1–3 concepts. |
+| 12–28 min | Connect the learning | Identify the Module 1 problem, Module 2 response, Module 3 safe action, money function, custody, payment rail, and realistic existing alternative. |
 | 28–48 min | Complete demonstration | Show both success and failure paths; explain costs, privacy, recovery, and stop conditions. |
 | 48–70 min | Supported practice | Learners rehearse in pairs or stations with educator feedback. |
 | 70–90 min | Comparison and local trade-offs | Compare the Bitcoin path with the current alternative through total received, time, fees, custody, privacy, reversibility, and failure. |
@@ -2241,7 +2247,7 @@ Learners decide:
 
 **Production:** Demonstrate a verified sample donation request and explain custody, transparency, privacy, and the main failure point.
 
-**Safety:** Do not collect real donations during an assessment unless an approved organizational process, consent, records, and legal review already exist. A simulation usually serves the learning objective better.
+**Safety:** Do not collect real donations during an assessment unless an approved organizational process, consent, records, and legal review already exist. A simulation usually serves the learning competency better.
 
 ### Module option F: on-ramp, off-ramp, KYC, and no-KYC comparison
 
@@ -2345,7 +2351,7 @@ Do not turn community-custody design into a beginner implementation exercise. Us
 
 ### Module 4 evidence
 
-The selected approved task must let the educator observe the learner:
+The selected approved task must let the educator observe the `C11` competency criteria as the learner:
 
 - identify the local purpose;
 - complete the required action or simulation in the correct sequence;
@@ -2377,11 +2383,11 @@ For review, each learner or team may present:
 
 Ask another learner to pose one verification question and identify one trade-off.
 
-Team presentation does not provide individual certification evidence. Each learner seeking certification must produce individually identifiable practical evidence against the approved `B4.1` and `B4.2` rubric under direct observation by an educator.
+Team presentation does not provide individual certification evidence. Each learner seeking certification must produce individually identifiable practical evidence against the `C11` rubric, including `C11.1` and `C11.2`, under direct observation by an educator.
 
 Close with:
 
-> Bitcoin can function as money when people voluntarily use it to earn, save, receive, send, spend, price, or settle value. A useful local application begins with a real need, makes custody and costs clear, respects local law and safety, and leaves people free to decide.
+> Bitcoin can function as money when people voluntarily use it to earn, save, receive, send, spend, price, or settle value. The Connect stage begins with a real need, compares a realistic alternative, makes custody and costs clear, respects local law and safety, and leaves people free to decide.
 
 ---
 
@@ -2401,7 +2407,7 @@ Use the optional app self-check only as a voluntary review aid. It can start a d
 
 Use local examples to help learners see a shared concept. For each adaptation, ask:
 
-- Which objective does this serve?
+- Which competency does this serve?
 - Is the underlying concept unchanged?
 - Is the example accurate and current?
 - Does it create a political, legal, privacy, or safety risk?
@@ -2409,7 +2415,7 @@ Use local examples to help learners see a shared concept. For each adaptation, a
 - Does it imply a recommendation?
 - Does the assessment still produce equivalent evidence?
 
-Document material changes so another educator can understand what was localized and why.
+Document material changes so another educator can see what was localized and why.
 
 ### Separate stable concepts from changing facts
 
@@ -2446,7 +2452,7 @@ Use wording such as:
 
 When naming a local example:
 
-- explain why it was selected for the learning objective;
+- explain why it was selected for the learning competency;
 - state the date and version checked;
 - identify custody and key dependencies;
 - include one alternative or offline route;
@@ -2468,8 +2474,8 @@ Use this sequence:
 5. Localize examples only where authorized.
 6. Review the translation with a language specialist and a subject-matter educator.
 7. Test difficult safety instructions with learners.
-8. Confirm that objectives, task difficulty, rubrics, and stop conditions remain equivalent.
-9. Confirm that the language version preserves the objectives, safety instructions, and assessment standard before use.
+8. Confirm that competencies, task difficulty, rubrics, and stop conditions remain equivalent.
+9. Confirm that the language version preserves the competencies, safety instructions, and assessment standard before use.
 
 Avoid idioms and metaphors that cannot travel cleanly. If using an analogy, always state what it explains and what it does not.
 
@@ -2512,7 +2518,7 @@ My First Bitcoin prefers in-person Diploma sessions because direct educator cont
 - Do not ask learners to screen-share a real wallet, balance, address history, or recovery process.
 - Use prepared interfaces for teaching.
 - Conduct formal remote practical assessment only under approved direct-observation and privacy conditions.
-- Have a phone or low-bandwidth fallback that preserves the objective.
+- Have a phone or low-bandwidth fallback that preserves the competency.
 
 ### Self-paced learners
 
@@ -2567,13 +2573,13 @@ Every activity should state whether it is:
 - an approved practical assessment for certification; or
 - an approved combination of formative learning and practical assessment.
 
-The Activity Bank may supply approved educator-led theoretical touchpoints and practical assessment tasks. It does not make every activity an assessment. Do not score an engaging activity unless it is objective-aligned and has individual evidence, observable criteria, a passing standard, prompting rules, evidence recording, and—where practical—safety conditions and an approved equivalent-variant policy.
+The Activity Bank may supply approved educator-led theoretical touchpoints and practical assessment tasks. It does not make every activity an assessment. Do not score an engaging activity unless it is competency-aligned and has individual evidence, observable criteria, a passing standard, prompting rules, evidence recording, and—where practical—safety conditions and an approved equivalent-variant policy.
 
 ### Activity selection questions
 
 Before choosing an activity, ask:
 
-1. Which stable objective ID does it serve?
+1. Which assessed competency ID does it serve, and which competency criteria does it cover?
 2. What will learners think, say, decide, or do?
 3. Does the experience reveal the concept or distract from it?
 4. How much setup and debrief time is needed?
@@ -2589,8 +2595,7 @@ Before choosing an activity, ask:
 For any activity you develop or materially adapt, record:
 
 - title;
-- module and objective IDs;
-- competency;
+- module, assessed competency, and competency criterion IDs;
 - learning, formative-theory, practical-practice, or approved practical-assessment use;
 - practical assessment component and educator, where applicable;
 - realistic time;
@@ -2610,7 +2615,7 @@ For any activity you develop or materially adapt, record:
 
 ### Choose activities deliberately
 
-Do not retain an activity only because it is familiar. Keep it when it improves objective alignment, learner evidence, safety, accessibility, time use, or local relevance.
+Do not retain an activity only because it is familiar. Keep it when it improves competency alignment, learner evidence, safety, accessibility, time use, or local relevance.
 
 ### Adapt an ordinary learning activity
 
@@ -2629,13 +2634,13 @@ Preserve:
 - the safety boundary;
 - the learner action;
 - the critical comparison or decision; and
-- the connection to the module objective.
+- the connection to the module competency.
 
 ### Adapt a summative practical task
 
-Only use an approved equivalent practical variant. Educators may not adapt an Activity Bank task into a scored theoretical substitute when it does not match the objective; an approved educator-theory interaction must use its own criteria and record. Preserve:
+Only use an approved equivalent practical variant. Educators may not adapt an Activity Bank task into a scored theoretical substitute when it does not match the competency; an approved educator-theory interaction must use its own criteria and record. Preserve:
 
-- objective and measurable verb;
+- competency and measurable verb;
 - evidence type;
 - difficulty and independence;
 - required sequence and verification;
@@ -2643,7 +2648,7 @@ Only use an approved equivalent practical variant. Educators may not adapt an Ac
 - safety-critical errors; and
 - recording requirement.
 
-If equivalence is uncertain, use the adaptation for practice and select an assessment task whose evidence and standard clearly match the objective.
+If equivalence is uncertain, use the adaptation for practice and select an assessment task whose evidence and standard clearly match the competency.
 
 ---
 
@@ -2727,7 +2732,7 @@ Use think–pair–share before whole-group discussion:
 
 Ask learners to support answers with a course concept and an example, not a slogan.
 
-### Final personal learning reflection (`ALL.2`)
+### Final personal learning reflection (`C13`)
 
 Each learner articulates either:
 
@@ -2741,11 +2746,11 @@ The response should:
 - identify one relevant benefit, risk, question, or trade-off; and
 - avoid an investment or price claim.
 
-Use the course-ending reflection formatively to support `ALL.2`. Preserve the learner's right to remain uncertain: give feedback on grounded explanation and connection to experience, not enthusiasm, agreement, or an intention to acquire bitcoin. It does not currently contribute to certification.
+Use the course-ending reflection formatively to support `C13`. Preserve the learner's right to remain uncertain: give feedback on grounded explanation and connection to experience, not enthusiasm, agreement, or an intention to acquire bitcoin. It does not currently contribute to certification.
 
 Examples:
 
-> I want to learn more about self-custody because I now understand the difference between an account balance and control of keys. I am not ready to manage a meaningful amount until I can test recovery safely.
+> I want to learn more about self-custody because I can now explain the difference between an account balance and control of keys. I am not ready to manage a meaningful amount until I can test recovery safely.
 
 > I remain uncertain that Bitcoin improves local payments because most merchants here do not accept it and conversion adds cost. I want to compare the complete route with our existing mobile-money option.
 
@@ -2797,7 +2802,7 @@ Remind learners:
 ### Complete records and reassessment
 
 - Combine educator-led theoretical results and educator-observed practical records.
-- Confirm that every required objective in the Assessment Grid has evidence from its assigned component.
+- Confirm that every required assessed competency in the Assessment Grid, including its required competency criteria, has evidence from its assigned component.
 - Contact learners privately about incomplete tasks.
 - Provide focused remediation and fair reassessment.
 - Transfer delayed practical records through the approved process.
@@ -2825,10 +2830,10 @@ Complete this review while the course is fresh:
 
 | Question | Notes and action |
 | --- | --- |
-| Which objective took more or less time than planned? |  |
+| Which competency took more or less time than planned? |  |
 | Which misconception appeared repeatedly? |  |
 | Which learner voices were heard least? |  |
-| Which local example improved understanding? |  |
+| Which local example improved what learners could explain, compare, or do? |  |
 | Which example became political, promotional, or too personal? |  |
 | Which activity produced useful evidence? |  |
 | Which activity created a misleading simplification? |  |
@@ -2894,9 +2899,9 @@ Use the [Beginner Lexicon](mfb-bd-lx.md) for full definitions. Keep these distin
 ### Curriculum
 
 - [ ] I can explain the four-module narrative and learner promises.
-- [ ] I reviewed every required objective and evidence type.
-- [ ] I know which content is Core, Custom, and Advanced.
-- [ ] I selected activities for a clear objective rather than entertainment alone.
+- [ ] I reviewed every required assessed competency, its competency criteria, and its evidence type.
+- [ ] I know that all four modules are required Diploma learning, how I may adapt Module 3 and curate Module 4, and what belongs to Advanced learning.
+- [ ] I selected activities for a clear competency rather than entertainment alone.
 - [ ] I prepared a review and bridge for every module.
 
 ### Learners and access
@@ -2913,7 +2918,7 @@ Use the [Beginner Lexicon](mfb-bd-lx.md) for full definitions. Keep these distin
 - [ ] CBDC claims are current and design-specific.
 - [ ] Local tools, fees, services, resources, and listings are dated.
 - [ ] Legal, tax, privacy, and reporting context is framed without advice.
-- [ ] Any local expert understands the no-promotion and privacy boundaries.
+- [ ] Any local expert can explain the no-promotion and privacy boundaries.
 
 ### Safety and technology
 
@@ -2927,7 +2932,7 @@ Use the [Beginner Lexicon](mfb-bd-lx.md) for full definitions. Keep these distin
 
 ### Assessment
 
-- [ ] Every formal task is selected, objective-aligned, and supported by clear criteria.
+- [ ] Every formal task is selected, competency-aligned, and supported by clear criteria.
 - [ ] Learners will receive supported practice before formal observation.
 - [ ] Observable criteria, permitted support, and safety failures are clear.
 - [ ] Evidence records protect privacy and distinguish assessment components.
@@ -2941,8 +2946,8 @@ Use the [Beginner Lexicon](mfb-bd-lx.md) for full definitions. Keep these distin
 | Field | Plan |
 | --- | --- |
 | Module, date, and cohort |  |
-| Core question |  |
-| Required objective IDs |  |
+| Guiding question |  |
+| Required assessed competency and competency criterion IDs |  |
 | Learner starting point |  |
 | Key terms and translation notes |  |
 | Local facts and date checked |  |
@@ -2967,7 +2972,7 @@ Use the [Beginner Lexicon](mfb-bd-lx.md) for full definitions. Keep these distin
 
 | Field | Plan |
 | --- | --- |
-| Demonstration purpose and objective |  |
+| Demonstration purpose and competency |  |
 | Tool, version, source, and date checked |  |
 | Network and payment path |  |
 | Custody and recovery model |  |
@@ -2990,7 +2995,7 @@ Use the [Beginner Lexicon](mfb-bd-lx.md) for full definitions. Keep these distin
 
 Before inviting a guest, agree that they will:
 
-- support named objectives and the planned learner task;
+- support named competencies and the planned learner task;
 - use beginner language and respect the four-module scope;
 - distinguish general concepts from local and changing facts;
 - disclose relevant affiliations or commercial interests;
@@ -3005,7 +3010,7 @@ Before inviting a guest, agree that they will:
 | --- | --- |
 | Expert name and relevant competence |  |
 | Affiliation or conflict disclosure |  |
-| Objective and role |  |
+| Competency and role |  |
 | Claims or demonstrations to verify |  |
 | Materials and fallback |  |
 | Privacy and safety boundary |  |
@@ -3058,7 +3063,7 @@ When a question is too advanced:
 | 1 | Understanding Money | Opening questions, money-properties comparison, local fiat and purchasing-power discussion | Educator-led Module 1 theoretical evidence |
 | 2 | How Bitcoin Works | Double-spend scenario, role map, supply and sound-money comparison | Educator-led Module 2 theoretical evidence |
 | 3 | Using Bitcoin Safely | Custody, public/secret, recovery, receive/send, explorer, scam, and pathway practice | Educator-led theory evidence and direct practical observation |
-| 4 | Bitcoin in Your Community | Approved local PPP module and final reflection | Educator-led theory evidence where mapped; educator-observed `B4.1`/`B4.2`; formative `ALL.2` reflection; any reassessment |
+| 4 | Connect: Bitcoin in Your Community | Approved local PPP module, connection to the earlier learning, and final reflection | Educator-observed `C11`, including `C11.1`/`C11.2`; formative `C13` reflection; any reassessment |
 
 This model commonly needs extra practical assessment time.
 
@@ -3072,8 +3077,8 @@ This model commonly needs extra practical assessment time.
 | 4 | Proof of work, supply, sats, sound-money comparison, scope, and review |
 | 5 | Wallets, addresses, keys, seed phrases, custody, and recovery practice |
 | 6 | Receiving, sending, confirmations, explorers, privacy, scams, pathways, and practical assessment |
-| 7 | Local need, tool/path comparison, presentation, and supported Custom practice |
-| 8 | Custom production, assessment, final reflection, remediation, and next steps |
+| 7 | Local need, tool/path comparison, presentation, and supported Module 4 practice |
+| 8 | Module 4 production, assessment, final reflection, remediation, and next steps |
 
 ### One-day intensive
 
@@ -3087,7 +3092,7 @@ Use only when the cohort and setting support sustained learning. Protect breaks 
 | Midday 1 | Bitcoin problem, roles, proof of work, supply, and sats |
 | Midday 2 | Sound-money comparison and responsibility bridge |
 | Afternoon 1 | Custody, secrets, recovery, receiving, and sending practice |
-| Afternoon 2 | Verification, scams, local Custom task, and final reflection |
+| Afternoon 2 | Verification, scams, educator-curated Module 4 Connect task, and final reflection |
 | Follow-up | Any remaining educator assessment, individual practical observation, **Not yet** support, formative educator help, and certification review |
 
 Do not describe a compressed day as complete if required observation or assessment remains outstanding.
@@ -3098,4 +3103,4 @@ Do not describe a compressed day as complete if required observation or assessme
 
 The Student Guide carries the beginner content. The educator brings it to life.
 
-A strong Diploma experience is not the one with the longest lecture, the most technical detail, or the greatest number of transactions. It is the one in which learners ask better questions, explain the core ideas clearly, practise safely, connect learning to local reality, recognize limits and trade-offs, and demonstrate the beginner competencies the certificate claims.
+A strong Diploma experience is not the one with the longest lecture, the most technical detail, or the greatest number of transactions. It is the one in which learners ask better questions, explain the key ideas clearly, practise safely, connect learning to local reality, recognize limits and trade-offs, and demonstrate the beginner competencies the certificate claims.

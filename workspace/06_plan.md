@@ -7,12 +7,12 @@ This is the source of truth for the current Bitcoin Diploma redesign structure.
 It defines:
 
 - the 4-module architecture;
-- what belongs in Core, Custom, and Advanced pathways at a boundary level;
+- what belongs in the complete four-module Diploma, how educators adapt Modules 3–4 within it, and what belongs in Advanced learning;
 - how legacy content is being migrated;
 - how in-class time should be used;
 - which documents own detailed implementation work.
 
-Detailed activities belong in the external Activity Bank project. Detailed facilitation guidance belongs in `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`; `10_educator-plan.md` is the supporting structure plan. Detailed objectives belong in `05_objectives.md`. App question-bank structure belongs in `12_microlearning-plan.md`. Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use belong in `15_advanced.md`.
+`10_activities.md` defines Activity Bank boundaries, quality requirements, and release priorities; detailed activities belong in the external Activity Bank project. Detailed facilitation guidance belongs in `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`; `12_educator-plan.md` is the supporting structure plan. The detailed competency framework and observable criteria belong in `05_competencies.md`. App question-bank structure belongs in `14_microlearning-plan.md`. Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use belong in `17_advanced.md`.
 
 `06_plan.md` is the active plan source of truth. The older duplicated plan file has been archived at `../y_archive/y_13_plan_superseded.md`.
 
@@ -28,20 +28,20 @@ Current design commitments:
 - low-tech, offline-capable print/PDF instructional content, with no app, device, or connectivity requirement for learning, assessment, completion, or certification;
 - an approximately 8-hour delivery pathway that includes required teaching, practice, assessment, feedback, and recording;
 - 4 modules that may be delivered in four two-hour sessions, eight one-hour sessions, or another schedule that preserves the learning sequence and required evidence;
-- Core, Custom, and Advanced content separation;
-- shared Core theory and outcomes with localized, educator-led practice;
+- all four required Diploma modules, with educator-adapted practical learning in Modules 3–4 and Advanced learning outside the Diploma;
+- shared Modules 1–2 core learning, with educator-adapted Module 3 practice and educator-curated Module 4 Connect practice;
 - English-first drafting with simplicity, tone, style, terminology, and translation-readiness review before translation or publication;
 - practical learning in every module;
 - a separate Activity Bank;
 - an Educator Guide designed for facilitation, pacing, adaptation, and safety;
-- a combined theoretical and practical assessment model tied directly to the learning objectives;
+- a combined theoretical and practical assessment model tied directly to assessed competencies and observable criteria;
 - a 50% educator-led theoretical and 50% educator-observed practical assessment allocation;
 - optional app-based microlearning for recap, self-checks, discovery, and connection to My First Bitcoin updates;
-- educator-evaluated theory evidence through approved objective-aligned interactions; other educator-led theory work remains formative;
+- educator-evaluated theory evidence through approved competency-aligned interactions; other educator-led theory work remains formative;
 - practical assessment directly evaluated by an educator, with observation concentrated in Modules 3 and 4;
 - Advanced technical material outside the beginner pathway;
 - sparse QR code use in printed learner materials;
-- future instructional branches documented without changing Core outcomes: online PDF, online cohort, self-paced, web, optional app self-assessment support, and cross-modal continuation. The app remains an optional self-assessment resource, not an assessment feature.
+- future instructional branches documented without changing required Diploma competency standards: online PDF, online cohort, self-paced, web, optional app self-assessment support, and cross-modal continuation. The app remains an optional self-assessment resource, not an assessment feature.
 
 The public explanation is simple:
 
@@ -51,18 +51,20 @@ The Diploma is being reorganized, not replaced.
 
 # 2. Four-Module Architecture
 
-| Module | Role | Title | Core question |
+| Module | Role | Title | Guiding question |
 |---|---|---|---|
 | 1 | Problem | Broken Money | How can money break? |
 | 2 | Solution | Bitcoin | Why was Bitcoin created, and how does it respond? |
 | 3 | Action | Self-custody | How do I take responsibility for using and securing Bitcoin? |
-| 4 | Custom | Bitcoin as Money | How can Bitcoin function as money in this community? |
+| 4 | Connect | Bitcoin in Your Community | How do the problem, solution, and safe action connect to this community? |
+
+The four modules form one learning arc: **Problem → Solution → Action → Connect**. Module 4 is not an optional add-on or a generic spending lesson. It connects the shared learning from Modules 1–3 to a locally relevant need or opportunity, compares the Bitcoin path with a realistic alternative, supports safe practical action, and ends with a responsible next step. A learner may reasonably conclude that a particular path is not suitable in their context.
 
 ## Module 1: Understanding Money
 
 Keep this module focused on money and the problems that can arise in modern money systems.
 
-Core content:
+Diploma content:
 
 - opening questions about money;
 - what money is;
@@ -75,7 +77,7 @@ Core content:
 - inflation and purchasing power;
 - CBDCs as a beginner fiat-system example where appropriate, emphasizing that digital fiat is not the same as decentralized or scarce money.
 
-Outcome:
+Observable competency:
 
 Learners can explain the money problems Bitcoin responds to.
 
@@ -83,12 +85,12 @@ Learners can explain the money problems Bitcoin responds to.
 
 Keep this module focused on why Bitcoin exists and what makes it different.
 
-Core content:
+Diploma content:
 
 - search for digital and decentralized money, including the Cypherpunk context;
 - earlier digital-money attempts and influences such as DigiCash, Hashcash, Bit Gold, B-money, BitTorrent, and reusable proof of work in a brief historical survey;
 - the double-spend problem in plain language;
-- digital scarcity and credible scarcity through core examples;
+- digital scarcity and credible scarcity through key examples;
 - Bitcoin origin story and timeline, including the whitepaper, Genesis Block, first transaction, and Pizza Day;
 - decentralization;
 - users, nodes, and miners as network roles;
@@ -102,7 +104,7 @@ Core content:
 - Bitcoin as sound digital money;
 - personal responsibility as the bridge into self-custody.
 
-Outcome:
+Observable competency:
 
 Learners can explain Bitcoin's purpose and how it differs from fiat money.
 
@@ -110,7 +112,7 @@ Learners can explain Bitcoin's purpose and how it differs from fiat money.
 
 Keep this module practical and safety-oriented.
 
-Core content:
+Diploma content:
 
 - wallets as interfaces;
 - addresses, keys, and seed phrases;
@@ -119,26 +121,28 @@ Core content:
 - wallet recovery and seed phrase testing;
 - receiving bitcoin;
 - sending bitcoin;
-- verification, confirmations, and basic block explorer orientation where they support beginner understanding;
+- verification, confirmations, and basic block explorer orientation where they support a beginner explanation or safe action;
 - public-ledger privacy trade-offs as an introductory discussion;
 - irreversible transactions and address verification;
 - beginner safety practices, including common scams, copy/paste address risks, seed phrase protection, open-source wallet preference, and starting small;
 - acquiring and exchanging bitcoin as a concept, not financial advice;
 - only the transaction detail needed for responsible beginner use.
 
-Outcome:
+Observable competency:
 
 Learners can explain beginner self-custody concepts and demonstrate required wallet, transaction, verification, recovery-readiness, and safety actions under approved, supported conditions.
 
 ## Module 4: Bitcoin in Your Community
 
-This module is educator-selected.
+This required Diploma module is educator-curated.
 
-Educators choose Custom modules because they understand their students, tools, risks, opportunities, and local conditions better than a centralized curriculum can.
+It is the **Connect** stage of the Problem → Solution → Action → Connect learning arc. It brings the earlier shared learning into a locally relevant comparison and safe practical task; it does not require Bitcoin adoption or endorse a local provider.
 
-Custom modules should usually be practical workshops or demonstrations.
+Educators curate Module 4 because they know their students, local constraints, solutions, tools, resources, risks, opportunities, and conditions better than a centralized curriculum can.
 
-Possible Custom content:
+Module 4 should usually use practical workshops or demonstrations.
+
+Possible Module 4 content:
 
 - local wallet tools;
 - Lightning payments where locally appropriate;
@@ -161,7 +165,7 @@ Possible Custom content:
 - CBDCs in the local context;
 - community-specific Bitcoin use cases.
 
-Outcome:
+Observable competency:
 
 Learners can demonstrate at least one approved, educator-assessed way Bitcoin can function as money in local daily life and explain the relevant trade-offs and safety considerations.
 
@@ -175,42 +179,42 @@ Spending is an important possible Module 4 practice, but Module 4 should remain 
 
 Reading rule:
 
-- `CORE` means old content moves into Core Modules 1–3.
-- `CUSTOM` means old content becomes educator-selected Module 4 material.
+- The legacy shared-module label identifies content that now moves into Modules 1–3 within the Diploma.
+- A legacy local-module label identifies educator-curated Module 4 material, which remains required Diploma learning.
 - `ADVANCED` means old content becomes Advanced pathway material.
-- `OUT` does not mean deletion when the same item is marked Custom or Advanced.
+- `OUT` does not mean deletion when the same item has a Module 4 or Advanced destination.
 - In the reviewed table, no section is marked as out-only.
-- Daily-life Bitcoin use should become Custom module source material unless a local delivery plan selects it.
+- Daily-life Bitcoin use should become Module 4 source material unless a local delivery plan selects it.
 
 Migration summary:
 
 | Destination | Legacy content signal | Redesign decision |
 |---|---|---|
-| Core Module 1 | money, money history, fiat, early problem framing | Keep beginner monetary foundations and fiat problem material. |
-| Core Module 2 | decentralized currency search, Bitcoin origin, Bitcoin benefits | Keep beginner Bitcoin purpose and properties. |
-| Core Module 3 | wallet use, receiving, sending, verification, selected technical orientation | Keep practical use and safety material. |
-| Custom Module 4 | daily-life Bitcoin use, local tools, Lightning payments, local spending | Move into educator-selected workshops and demonstrations. |
+| Diploma Module 1 | money, money history, fiat, early problem framing | Keep beginner monetary foundations and fiat problem material. |
+| Diploma Module 2 | decentralized currency search, Bitcoin origin, Bitcoin benefits | Keep beginner Bitcoin purpose and properties. |
+| Diploma Module 3 | wallet use, receiving, sending, verification, selected technical orientation | Keep practical use and safety material. |
+| Diploma Module 4: educator-curated Connect | daily-life Bitcoin use, local tools, Lightning payments, local spending | Move into educator-curated workshops and demonstrations within the Diploma. |
 | Advanced | deeper psychology, detailed mining, mempool, detailed transactions, philosophy, future scenarios | Move into Advanced pathways or educator background. |
 
 Split decisions:
 
-- Psychology of money stays in Core as a foundation; deeper behavioral analysis moves to Advanced.
-- Nodes and miners stay in Core only as simple roles; technical mechanics move to Advanced.
-- Transaction concepts stay in Core only where needed for safe use and verification; detailed models move to Advanced.
+- Psychology of money stays in the Diploma as a foundation; deeper behavioral analysis moves to Advanced.
+- Nodes and miners stay in the Diploma only as simple roles; technical mechanics move to Advanced.
+- Transaction concepts stay in the Diploma only where needed for safe use and verification; detailed models move to Advanced.
 - CBDCs may appear briefly in Module 1 or locally in Module 4; policy and technical depth moves to Advanced.
-- Lightning distinctions may be introduced briefly, but wallet setup and payment practice normally belongs in Custom.
-- Buying and selling bitcoin may appear in Core as a conceptual risk map, but provider-specific practice belongs in Custom.
+- Lightning distinctions may be introduced briefly, but wallet setup and payment practice normally belongs in Module 4.
+- Buying and selling bitcoin may appear in the Diploma as a conceptual risk map, but provider-specific practice belongs in Module 4.
 - Named services, wallets, exchanges, peer-to-peer platforms, and local recommendations should not become global Student Book recommendations.
 
 ## Bitcoin For Organizations Cannibalization
 
-`15_advanced.md` is the sole holding authority for material from the retiring `../ref/bitcoin-for-organizations/en` pathway. It records both beginner-safe merge decisions and the larger Advanced source trail.
+`17_advanced.md` is the sole holding authority for material from the retiring `../ref/bitcoin-for-organizations/en` pathway. It records both beginner-safe merge decisions and the larger Advanced source trail.
 
 Beginner merge decision:
 
 - Do not import Organizations chapters into the Student Book.
-- Use Organizations material only where it improves existing beginner outcomes.
-- Keep the Student Book lean; put misconception handling mostly in `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` and scenario practice mostly in the external Activity Bank project or Module 4 Custom templates.
+- Use Organizations material only where it improves existing beginner competencies or observable criteria.
+- Keep the Student Book lean; put misconception handling mostly in `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` and scenario practice mostly in the external Activity Bank project or educator-curated Module 3–4 templates.
 
 Organizations content may support:
 
@@ -221,7 +225,7 @@ Organizations content may support:
 - Educator Guide: misconception prompts and claim/evidence/trade-off facilitation.
 - Activity Bank: ledger exploration, local payment path comparison, community donation scenarios, and local resource mapping.
 
-Organizations content should not become beginner Core when it requires:
+Organizations content should not become part of the beginner Diploma when it requires:
 
 - treasury strategy;
 - investment management;
@@ -254,21 +258,21 @@ Draft source material in English first. Before translation or publication, revie
 
 Delivery-branch rule:
 
-Low-tech, offline-capable print/PDF is the first content-publication mode and may support in-person facilitation or online facilitation. Online PDF, online cohort, self-paced, web, optional app self-assessment support, and cross-modal versions should branch from the same Core outcomes rather than become separate curricula. The My First Bitcoin app is optional in 2026.10 and may be used for recap, self-checks, discovery, and updates.
+Low-tech, offline-capable print/PDF is the first content-publication mode and may support in-person facilitation or online facilitation. Online PDF, online cohort, self-paced, web, optional app self-assessment support, and cross-modal versions should branch from the same required Diploma competency standards rather than become separate curricula. The My First Bitcoin app is optional in 2026.10 and may be used for recap, self-checks, discovery, and updates.
 
 ---
 
-# 4. Core, Custom, And Advanced Boundaries
+# 4. Four-module Diploma, educator-curated Modules 3–4, and Advanced boundaries
 
-## Core
+## Diploma
 
-Core is required for every learner.
+The Diploma consists of Modules 1–4: Problem, Solution, Action, and Connect. Modules 1 and 2 develop theory-based competencies through explanation, comparison, and reasoning. Module 3 develops safe practical action. Module 4 uses that foundation to connect learning to a local need, alternative, practical task, and realistic next step. It is a required Diploma module, curated by educators because they are the subject-matter experts on their students' local constraints, solutions, tools, resources, and context.
 
-Core should include:
+The Diploma should include:
 
 - money foundations;
 - fiat problems;
-- Bitcoin purpose and core properties;
+- Bitcoin purpose and key properties;
 - sats as a beginner unit concept;
 - beginner custody concepts;
 - wallet recovery basics;
@@ -277,26 +281,32 @@ Core should include:
 - acquiring and exchanging pathways as beginner concepts, not recommendations;
 - guided discussion and reflection.
 
-Core should not promise independent mastery of economics, technical systems, or high-stakes custody.
+It must also include one approved educator-curated Module 4 task with safe practice, verification, explanation, and realistic next steps.
 
-Core should function as the shared theory layer across languages and delivery modes.
+The Diploma should not promise independent mastery of economics, technical systems, or high-stakes custody.
 
-## Custom
+All four modules are part of the Diploma. Modules 1–2 provide the shared core across languages and delivery modes. Educators adapt practical examples, tools, resources, and delivery in Modules 3–4 without lowering competency standards or evidence requirements; in Module 4 they curate the local Connect experience.
 
-Custom completes Module 4.
+## Educator-curated Module 4 within the Diploma
 
-Custom should:
+The educator-curated Module 4 completes the Diploma as its **Connect** stage.
+
+Module 4 should:
 
 - be selected by the educator;
+- connect the Module 1 problem, Module 2 response, and Module 3 safety action to a local need or opportunity;
 - connect Bitcoin to local daily life;
+- compare the Bitcoin path with a realistic local alternative without requiring a favorable conclusion;
 - use tools and resources local bitcoiners actually use;
-- be guided by educators or local experts who understand local risks and learner readiness;
+- be guided by educators or local experts who know local risks and learner readiness;
 - focus on workshops, demonstrations, and local problem-solving;
 - include safety notes and realistic next steps.
 
-Template Custom units should include:
+Template Module 4 variants should include:
 
 - local problem or opportunity;
+- Problem → Solution → Action concepts to connect;
+- realistic existing alternative;
 - learner profile;
 - tools or resources;
 - local legal, tax, and safety context where relevant;
@@ -311,9 +321,9 @@ Template Custom units should include:
 
 ## Advanced
 
-Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use are collected in `15_advanced.md`.
+Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use are collected in `17_advanced.md`.
 
-Advanced outcomes are ongoing and should be designed module by module after the redesigned beginner Diploma is published.
+Advanced competencies are ongoing and should be designed module by module after the redesigned beginner Diploma is published.
 
 Advanced content should not overload the beginner pathway. It may later become optional extensions, separate workshops, educator background, or follow-on courses.
 
@@ -323,7 +333,7 @@ Advanced content should not overload the beginner pathway. It may later become o
 
 Class time should be used for learning that benefits from live facilitation.
 
-Begin time planning with the objectives, required practice, and assessment evidence. Do not shorten or waive these merely to fit a one- or two-hour session; schedule a follow-up when necessary. Educators may assign the relevant Student Book chapter or optional app recap before class, but must not make pre-reading, a learner-owned device, app use, or continuous connectivity a condition for Core instruction.
+Begin time planning with the assessed competencies, observable criteria, required practice, and assessment evidence. Do not shorten or waive these merely to fit a one- or two-hour session; schedule a follow-up when necessary. Educators may assign the relevant Student Book chapter or optional app recap before class, but must not make pre-reading, a learner-owned device, app use, or continuous connectivity a condition for required Diploma instruction.
 
 Prioritize:
 
@@ -334,7 +344,7 @@ Prioritize:
 - scenario analysis;
 - peer explanation;
 - reflection;
-- local application;
+- educator-curated Connect learning;
 - educator-led synthesis.
 
 Minimize:
@@ -349,14 +359,14 @@ Internal performance rule:
 
 Treat the beginner pathway like a lean, high-performance learning experience. Every required component should improve learner clarity, completion likelihood, practice, educator usability, safety, translation readiness, or maintainability.
 
-Each module should close with a short review point. The review should include key takeaways, a learner explanation prompt, a link to the next module, and an evidence-of-learning opportunity that can connect to `11_assessment.md`.
+Each module should close with a short review point. The review should include key takeaways, a learner explanation prompt, a link to the next module, and an evidence-of-learning opportunity that can connect to `13_assessment.md`.
 
 Suggested delivery sequencing belongs in the Educator Guide. It can divide Module 1 into money foundations and modern fiat-system trade-offs, and Module 3 into custody foundations and transaction verification/safety, while preserving educator choice about activities and local pacing.
 
 Each module should follow a simple rhythm:
 
-1. Present the core idea briefly.
-2. Check understanding.
+1. Present the key idea briefly.
+2. Elicit an observable learner response.
 3. Practice through a scenario, activity, comparison, or demonstration.
 4. Ask learners to explain, decide, apply, or reflect.
 5. Review the connection to the wider Diploma and capture evidence of learning.
@@ -365,7 +375,7 @@ Each module should follow a simple rhythm:
 
 # 6. What Stays And What Moves
 
-| Stays in Core | Moves elsewhere |
+| Stays in the Diploma | Moves outside the Diploma |
 |---|---|
 | Money, fiat, inflation, purchasing power | Detailed monetary theory and long policy history |
 | Double coincidence of wants, fiat-system roles, fractional reserve banking, bank runs, and brief CBDC orientation | Detailed banking policy, CBDC policy, and long monetary-policy history |
@@ -375,7 +385,7 @@ Each module should follow a simple rhythm:
 | Receiving, sending, verification, address checking, beginner safety, scam awareness, and start-small guidance | Advanced troubleshooting and technical analysis |
 | Beginner acquiring and exchanging pathways as risk orientation | Named provider recommendations, live exchange setup, deep KYC/no-KYC trade-off analysis, and tax/legal advice |
 | High-level distinctions between on-chain and Lightning | Lightning channel mechanics, routing, liquidity, and node operations |
-| Local daily-life Bitcoin use as Custom source material | Fixed global requirements for specific local tools, merchants, exchanges, or communities |
+| Local daily-life Bitcoin use as educator-curated Module 4 source material within the Diploma | Fixed global requirements for specific local tools, merchants, exchanges, or communities |
 | Guided discussion and practical orientation | Full activity instructions, facilitation scripts, and optional extensions |
 
 Activities leave the main student-facing text and move to the external Activity Bank project.
@@ -389,15 +399,16 @@ Educator preparation, timing, adaptation, misconception support, and debrief gui
 | Material | Owner document |
 |---|---|
 | Official Student Guide | `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md` |
-| Learning objectives and competencies | `05_objectives.md` |
+| Competency framework and observable criteria | `05_competencies.md` |
+| Activity Bank boundaries, quality requirements, and release priorities | `10_activities.md` |
 | Activity categories and activity template | the external Activity Bank project |
-| Educator facilitation and Custom selection guidance | `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` |
-| Combined assessment, objective-aligned evidence, and passing requirements | `11_assessment.md` |
-| App microlearning question-bank structure | `12_microlearning-plan.md` |
-| Two-part assessment prerequisite for certification and governance questions | `13_certification.md` |
-| Diploma overview for collaborators and stakeholders | `14_spec.md` |
-| Organizations merge decisions and Advanced source trail | `15_advanced.md` |
-| Advanced module ideas and redacted content collection | `15_advanced.md` |
+| Educator facilitation and Module 4 selection guidance | `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` |
+| Combined assessment, competency-aligned evidence, and passing requirements | `13_assessment.md` |
+| App microlearning question-bank structure | `14_microlearning-plan.md` |
+| Two-part assessment prerequisite for certification and governance questions | `15_certification.md` |
+| Diploma overview for collaborators and stakeholders | `16_spec.md` |
+| Organizations merge decisions and Advanced source trail | `17_advanced.md` |
+| Advanced module ideas and redacted content collection | `17_advanced.md` |
 | Public keynote and stakeholder brief | `../public/MFB-BD-Keynote.md` |
 
 ---
@@ -408,11 +419,11 @@ The October 2026 redesign should produce:
 
 - a 4-module beginner Diploma;
 - an approximately 8-hour delivery path;
-- clear learning objectives;
+- clear assessed competencies and observable criteria;
 - Student Guide;
 - Educator Guide;
 - Activity Bank;
-- Custom module templates;
+- educator-curated Module 4 templates;
 - educator-led theoretical and practical certification-prerequisite framework, with optional app recap and self-check resources;
 - publication-ready source files;
 - public communication materials.
@@ -423,7 +434,7 @@ The Diploma should remain the entry point into a wider learning ecosystem, not t
 
 # 9. Follow-On Pathways
 
-Follow-on pathway ideas are collected in `15_advanced.md`.
+Follow-on pathway ideas are collected in `17_advanced.md`.
 
 ---
 
@@ -431,12 +442,12 @@ Follow-on pathway ideas are collected in `15_advanced.md`.
 
 The redesign still needs decisions on:
 
-- final Custom module options;
-- minimum Custom module templates for October 2026;
+- final educator-curated Module 4 options;
+- minimum educator-curated Module 4 templates for October 2026;
 - minimum required practical tasks;
 - how much learner-facing prose should appear in the Student Book versus educator-led explanation;
 - whether sats should be introduced primarily in Module 2 or Module 3;
-- which safety practices are required Core versus optional Custom;
+- which safety practices are required throughout the Diploma versus specific to educator-curated Module 3–4 variants;
 - which named tools or services may appear in published materials, and where;
 - final QR code destination list for print materials;
 - delivery-mode branch requirements for online PDF, online cohort, self-paced, web, optional app self-assessment support, and cross-modal continuation;
@@ -449,7 +460,7 @@ The redesign still needs decisions on:
 - low-connectivity delivery assumptions;
 - pilot and educator review process;
 - exact publication formats;
-- Advanced module objectives and sequencing, tracked in `15_advanced.md`.
+- Advanced module competencies and sequencing, tracked in `17_advanced.md`.
 
 ---
 
@@ -462,6 +473,6 @@ Use class time for what class time does best:
 - practice;
 - feedback;
 - reflection;
-- local application.
+- educator-curated Connect learning.
 
 Content should support those experiences, not crowd them out.

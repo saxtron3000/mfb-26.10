@@ -21,11 +21,11 @@ This document does not define project workstreams, milestones, implementation ta
 
 For workstreams and deliverables, see `03_scope.md`.
 
-For learning outcomes and competencies, see `05_objectives.md`.
+For assessed competencies and observable criteria, see `05_competencies.md`.
 
-For assessment, see `11_assessment.md`.
+For assessment, see `13_assessment.md`.
 
-For certification, see `13_certification.md`.
+For certification, see `15_certification.md`.
 
 ---
 
@@ -54,21 +54,21 @@ The current working design direction is:
 - educator-facilitated delivery in person or online;
 - approximately 8-hour delivery pathway, including required teaching and assessment;
 - working architecture of four modules—Understanding Money, How Bitcoin Works, Using Bitcoin Safely, and Bitcoin in Your Community—rather than fixed two-hour classes;
-- single Diploma with Custom and Advanced pathways;
-- Core / Custom / Advanced content separation;
+- single four-module Diploma, with educator-curated local practice in Modules 3–4 and Advanced pathways outside the Diploma;
+- four-module Diploma / educator-curated Modules 3–4 / Advanced content boundaries;
 - English-first drafting followed by explicit simplicity, tone, style, and translation-readiness review;
 - practical learning increased substantially;
 - practical skills structured using PPP: Presentation, Practice, Production;
 - advanced technical content separated from the beginner pathway;
-- Organizations material used only where it clarifies beginner Core concepts, educator misconception handling, Activity Bank scenarios, or local Custom practice;
+- Organizations material used only where it clarifies beginner Diploma concepts, educator misconception handling, Activity Bank scenarios, or educator-curated Module 3 or 4 practice;
 - Educator Guide treated as a facilitation engine;
 - Activity Bank treated as part of the learning ecosystem;
-- assessment built from the learning objectives, using an educator-led theoretical component worth 50% and an educator-observed practical component worth 50%;
+- assessment built from assessed competencies and observable criteria, using an educator-led theoretical component worth 50% and an educator-observed practical component worth 50%;
 - certification based on both theoretical evidence and directly observed practical competence;
-- localization considered through adaptable examples, activities, and facilitation, not through changing core outcomes;
+- localization considered through adaptable examples, activities, and facilitation, not through changing required Diploma competency standards;
 - low-tech, offline-capable print/PDF content treated as the first publication mode for in-person facilitation or online facilitation, with future branches to online PDF, online cohort, self-paced, web, optional app self-assessment support, and cross-modal continuation;
 - print PDFs kept clean, with QR codes used sparingly for stable, high-value destinations;
-- shared theory and Core outcomes standardized globally, while practice is localized and led by educators or local experts;
+- shared Modules 1–2 core theory and required Diploma competency standards standardized globally, while practical delivery in Modules 3–4 is adapted by educators or local experts;
 - an internal "racecar" standard: every component should earn its place by improving clarity, completion, practice, educator usability, or learner safety.
 
 These are working design assumptions, not final curriculum specifications.
@@ -84,16 +84,16 @@ The following rough design notes are clarified into stable design rules:
 | Rough note | Clarified design rule |
 |---|---|
 | Design for multi-lingual | Draft in English first, then edit the English source for simple language, consistent tone, clear style, and translation readiness before translation or publication. |
-| Simple over technical | Prefer plain beginner explanations over technical detail unless the detail directly supports safety, reasoning, or later understanding. |
+| Simple over technical | Prefer plain beginner explanations over technical detail unless the detail directly supports safety, reasoning, or later explanation or application. |
 | Practical skills | Treat practical learning as guided skill orientation: demonstration, practice, production, reflection, and safe next steps. |
-| Precise Learning Outcomes | Let measurable outcomes control content decisions. If an objective cannot be taught, practiced, and evidenced inside the beginner pathway, it should not be Core. |
+| Observable competencies | Let observable learner action control content decisions. If a competency cannot be taught, practised, and evidenced inside the beginner pathway, it should not be part of the Diploma. |
 | Include future ideas | Preserve future pathways in roadmaps, Advanced material, and publication planning without expanding the required beginner Diploma. |
 | Forking off modes | Design from low-tech, offline-capable print/PDF teaching toward clear future instructional branches: online PDF, online cohort, self-paced, web, optional app self-assessment support, and eventual cross-modal continuation, while preserving educator-led assessment. |
 | Don't put too many QR codes on PDF in print to start | Use QR codes sparingly in print. Prefer a few durable destinations over many fragile links that clutter pages or become stale. |
-| Consensus based theory with localized, expert-led practice | Keep the Core theory layer and outcomes shared globally. Let local educators or experts select and adapt practice responsibly. |
-| 4 units - total 8hrs? | Use four modules, not old module labels, as the required structure. Plan from objectives and required evidence: four two-hour sessions are one useful format, not a limit. |
+| Shared core with educator-curated practice | Keep the shared Modules 1–2 core and required Diploma competency standards consistent globally. Let educators adapt Module 3 practice and curate Module 4's local Connect experience responsibly. |
+| 4 units - total 8hrs? | Use four modules, not old module labels, as the required structure. Plan from competencies, observable criteria, and required evidence: four two-hour sessions are one useful format, not a limit. |
 | We are building a racecar | Design for a lean, high-performance learning experience. Remove ornament, duplication, and content that slows completion without improving learning. |
-| Problem / solution / self-custody / spending | Keep the official module sequence as Understanding Money, How Bitcoin Works, Using Bitcoin Safely, and Bitcoin in Your Community. Spending is an important possible Module 4 practice, but Module 4 should not be narrowed globally to spending only. |
+| Problem → Solution → Action → Connect | Use the official sequence: Problem—Understanding Money; Solution—How Bitcoin Works; Action—Using Bitcoin Safely; Connect—Bitcoin in Your Community. The educator-curated Connect module links the first three stages to a local need, comparison, safe practice, and realistic next step. Spending is one possible practice, not its global definition. |
 
 ---
 
@@ -104,7 +104,7 @@ The redesign responds to four current learner-experience tensions:
 | Dimension | Current problem | Redesign response |
 |---|---|---|
 | Time | Time required is too high. | Shorten the pathway, clarify pacing, and reduce unnecessary content density. |
-| Value | Perceived learner value is too low or too hard to reach. | Make value easier to experience through practical learning, clearer outcomes, and stronger local relevance. |
+| Value | Perceived learner value is too low or too hard to reach. | Make value easier to experience through practical learning, clearer competencies, and stronger local relevance. |
 | Energy | The learning experience does not ask for enough active learner energy. | Increase discussion, practice, reflection, learner explanation, and production. |
 | Autonomy | Unsupported beginner autonomy is too high. | Provide clearer sequencing, safer beginner boundaries, educator support, and guided pathways. |
 
@@ -206,11 +206,11 @@ These topics should be framed as guided orientation, not as permission to manage
 
 ## 4.7.1 Design For Valid Assessment
 
-Assessment should match the learning objective and the kind of competence being claimed.
+Assessment should match the competency and the learner action being claimed.
 
-The optional app may deliver microlearning, knowledge checks, feedback, recap, and discovery for self-assessment. Educators gather all theoretical evidence through approved objective-aligned interactions and evaluate all practical performance using common tasks and rubrics.
+The optional app may deliver microlearning, knowledge checks, feedback, recap, and discovery for self-assessment. Educators gather all theoretical evidence through approved competency-aligned interactions and evaluate all practical performance using common tasks and rubrics.
 
-Modules 1 and 2 should be knowledge-dominant, while Modules 3 and 4 should be skills-dominant. The complete Diploma assessment allocates 50% to educator-led theory and 50% to educator-observed practice. Educator-led activities may be formative, but only approved objective-aligned interactions with criteria and records contribute to the theoretical score.
+Modules 1 and 2 should be knowledge-dominant, while Modules 3 and 4 should be skills-dominant. The complete Diploma assessment allocates 50% to educator-led theory and 50% to educator-observed practice. Educator-led activities may be formative, but only approved competency-aligned interactions with criteria and records contribute to the theoretical score.
 
 The app cannot record or evaluate assessment evidence. Certification requires both educator-evaluated components.
 
@@ -235,7 +235,7 @@ The English source should use:
 
 Before translation or publication, the English source should pass a simplicity and translation-readiness review. The review should check:
 
-- whether a beginner can understand the language without unnecessary technical knowledge;
+- whether a beginner can explain the language without unnecessary technical knowledge;
 - whether sentences can be shortened or made less ambiguous;
 - whether the same concept uses the same term throughout;
 - whether tone and emphasis can survive translation;
@@ -259,14 +259,14 @@ Multilingual design does not mean all localized versions must be completed durin
 
 The beginner Diploma should privilege useful clarity over impressive detail.
 
-Technical content belongs in Core only when it:
+Technical content belongs in the Diploma only when it:
 
-- unlocks beginner understanding;
+- enables beginner explanation or safe action;
 - supports safer practice;
 - prepares learners for a later concept;
 - helps learners ask better questions.
 
-Otherwise, technical depth should move to Custom, Advanced, educator background, or future pathways.
+Otherwise, technical depth should move to educator-curated Module 4 learning within the Diploma, Advanced, educator background, or future pathways.
 
 ## 4.10 Design For Delivery-Mode Branching
 
@@ -282,7 +282,7 @@ The design should also make future branches possible:
 - optional app self-assessment integration;
 - eventual cross-modal continuation across formats.
 
-Each branch should preserve the same Core outcomes while adapting pacing, educator support, evidence of learning, accessibility, and technology assumptions.
+Each branch should preserve the same required Diploma competency standards while adapting pacing, educator support, evidence of learning, accessibility, and technology assumptions.
 
 ## 4.11 Use Shared Theory And Local Expert Practice
 
@@ -290,7 +290,7 @@ The Diploma should distinguish between shared theory and local practice.
 
 Shared theory includes:
 
-- Core outcomes;
+- required Diploma competency standards;
 - beginner money, fiat, and Bitcoin explanations;
 - safety principles;
 - non-endorsement boundaries;
@@ -355,12 +355,12 @@ The redesigned Diploma must:
 - preserve learner autonomy;
 - reduce unnecessary cognitive load;
 - maintain learning quality while reducing duration;
-- keep learning objectives standardized;
-- keep Core theory and outcomes shared globally;
+- keep assessed competencies and observable criteria consistent;
+- keep the shared Modules 1–2 core and required Diploma competency standards consistent globally, while allowing educator-adapted practical delivery in Modules 3–4;
 - draft source material in English first and prepare it deliberately for translation and localization;
 - require an English-language simplicity, tone, style, and translation-readiness review before translation or publication;
 - avoid unnecessary beginner technical overload;
-- distinguish Core, Custom, and Advanced content;
+- distinguish the complete four-module Diploma, educator-curated Module 3–4 practice within it, and Advanced content outside it;
 - preserve the official four-module naming and avoid narrowing Module 4 globally to spending only;
 - avoid global endorsement of named tools, services, wallets, exchanges, or local resources;
 - fact-check or date current-data examples before publication;
@@ -393,7 +393,7 @@ The Diploma should be designed for varied technology contexts.
 
 The first content-delivery mode should remain usable through in-person teaching or online teaching and offline-capable print or PDF materials. It provides a device-free certification route through educator-led assessment.
 
-Future delivery branches should be planned as adaptations of the same source, not as separate curricula with drifting outcomes.
+Future delivery branches should be planned as adaptations of the same source, not as separate curricula with drifting competency standards.
 
 Design questions:
 
@@ -418,15 +418,15 @@ The redesigned Diploma should distinguish between fixed, adaptable, and flexible
 
 ## Fixed
 
-- Learning objectives
-- Core outcomes
+- Assessed competencies
+- Required Diploma competency standards
 - Competency expectations
-- Objective-to-assessment blueprint
+- Competency-to-assessment blueprint
 - Two-part assessment requirement
 - Minimum evidence and rubric criteria for certification
 - Bitcoin-only educational focus
 - Four-module beginner architecture
-- Shared Core theory and safety boundaries
+- Shared Modules 1–2 core theory, educator-adapted Module 3 practice, and Diploma safety boundaries
 
 ## Adaptable
 
@@ -449,7 +449,7 @@ The redesigned Diploma should distinguish between fixed, adaptable, and flexible
 - delivery mode adaptations;
 - localization choices;
 - legal, tax, privacy, and safety context;
-- depth of Custom and Advanced material;
+- depth of educator-curated Module 3–4 practice and Advanced material;
 - QR code use;
 - future online, web, app, or cross-modal publication branches.
 
@@ -466,14 +466,14 @@ The learner experience should be:
 - discussion-rich;
 - practical;
 - confidence-building;
-- outcome-oriented;
+- competency-oriented;
 - globally adaptable;
 - low-friction;
 - memorable.
 
 The Diploma should create structured conversations, guided reflection, and applied reasoning.
 
-The detailed learner outcomes belong in `05_objectives.md`.
+The detailed competency framework and observable criteria belong in `05_competencies.md`.
 
 ---
 
@@ -511,7 +511,7 @@ Each component of the ecosystem should have a distinct purpose.
 
 The design principle is:
 
-- student-facing materials support learner understanding;
+- student-facing materials support demonstrated learner competency;
 - educator-facing materials support teaching and facilitation;
 - activity materials support participation, practice, and adaptation.
 
@@ -527,7 +527,7 @@ Important concepts should be revisited intentionally.
 
 Spiral review should:
 
-- deepen understanding;
+- extend demonstrated competency;
 - reinforce retention;
 - connect modules together;
 - strengthen long-term learning.
@@ -590,9 +590,9 @@ Named tools, services, wallets, exchanges, maps, or local resources may be mista
 
 Statistics, fees, legal context, provider availability, and network conditions may change before publication or localization.
 
-## Outcome Drift Risk
+## Competency Drift Risk
 
-Adaptation and localization may gradually weaken learning outcomes.
+Adaptation and localization may gradually weaken required competency standards.
 
 ## Assessment Validity And Educator Variation Risk
 
@@ -604,7 +604,7 @@ English-first phrasing, complex sentences, inconsistent tone, idioms, inconsiste
 
 ## Delivery-Mode Drift Risk
 
-Online, self-paced, web, app, or cross-modal versions may drift away from the shared Core outcomes if delivery-mode branches are not governed by the same source of truth.
+Online, self-paced, web, app, or cross-modal versions may drift away from the required Diploma competency standards if delivery-mode branches are not governed by the same source of truth.
 
 ## Print Clutter Risk
 
@@ -612,7 +612,7 @@ Too many QR codes, links, or online dependencies may weaken the printed learner 
 
 ## Local Practice Risk
 
-Locally useful practice may become unsafe or misleading if it is not led by educators or local experts who understand tools, risks, laws, privacy, and learner readiness.
+Locally useful practice may become unsafe or misleading if it is not led by educators or local experts who know the relevant tools, risks, laws, privacy, and learner readiness.
 
 ## Narrow Spending Risk
 
@@ -681,19 +681,19 @@ Use `01_review.md` for current-state diagnosis.
 
 Use `02_research.md` for evidence gathering.
 
-Use `05_objectives.md` for learning outcomes and competencies.
+Use `05_competencies.md` for assessed competencies and observable criteria.
 
-Use `11_assessment.md` for how learning is evaluated.
+Use `13_assessment.md` for how learning is evaluated.
 
-Use `13_certification.md` for the two-part assessment prerequisite and certification governance questions.
+Use `15_certification.md` for the two-part assessment prerequisite and certification governance questions.
 
 Use `03_scope.md` for workstreams, milestones, deliverables, publishing, and completion criteria.
 
 Use `06_plan.md` for active structure, content boundaries, and legacy migration.
 
-Use `15_advanced.md` for Advanced module titles, follow-on pathway ideas, and parked legacy content.
+Use `17_advanced.md` for Advanced module titles, follow-on pathway ideas, and parked legacy content.
 
-Use `14_spec.md` for publication, QR code, source-of-truth, and delivery-output rules.
+Use `16_spec.md` for publication, QR code, source-of-truth, and delivery-output rules.
 
 
 ---

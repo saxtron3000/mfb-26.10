@@ -288,6 +288,8 @@ This lexicon lists Bitcoin and Bitcoin-adjacent terms that a beginner may need e
 
 ## Module 4: Bitcoin in Your Community
 
+Module 4 is the educator-curated **Connect** stage of the Diploma's Problem → Solution → Action → Connect learning arc.
+
 ### Local on-ramp and off-ramp pathways
 
 | Word or phrase | Beginner definition | Bitcoin Diploma line(s) |

@@ -19,8 +19,8 @@
 - Required prior knowledge: none
 - How low-tech and offline-capable print/PDF instruction and assessment work
 - Safety, responsibility, and no financial advice
-- What belongs in Core, Custom, and Advanced learning
-- How the 4-module learning path is organized
+- What stays shared, what educators select for Module 4, and what is Advanced
+- How the Problem → Solution → Action → Connect learning path is organized
 
 ## 3. Module 1: Understanding Money
 
@@ -76,7 +76,8 @@
 
 ## 6. Module 4: Bitcoin in Your Community
 
-- Educator-selected local modules
+- Connect the Problem, Solution, and Action learning to a local need, alternative, safe task, and realistic next step
+- Educator-curated local modules
 - Practical workshops and demonstrations
 - Local Bitcoin tools and resources
 - Lightning payments where locally appropriate
@@ -89,7 +90,7 @@
 - Remittance, nonprofit, donation, or underbanked-access scenarios where locally appropriate
 - Local resource maps and community discovery
 - Local competency check observed by an educator
-- Review: how can Bitcoin function as money in this community?
+- Review: how do the problem, solution, and safe action connect to this community?
 
 ## 7. Back Of Diploma: Next Steps
 

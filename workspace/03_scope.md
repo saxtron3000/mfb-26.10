@@ -19,11 +19,11 @@ This document does not diagnose the current Diploma. See `01_review.md`.
 
 This document does not define design philosophy or decision-making principles. See `04_design.md`.
 
-This document does not define learning objectives. See `05_objectives.md`.
+This document does not define assessed competencies or their observable criteria. See `05_competencies.md`.
 
-This document does not define assessment methodology. See `11_assessment.md`.
+This document does not define assessment methodology. See `13_assessment.md`.
 
-This document does not define certification requirements. See `13_certification.md`.
+This document does not define certification requirements. See `15_certification.md`.
 
 ---
 
@@ -50,12 +50,12 @@ The scope assumes the current working design direction described in `04_design.m
 The following assumptions affect project execution:
 
 - Target duration: an approximately 8-hour delivery pathway, including required teaching, practice, assessment, feedback, and recording.
-- Working architecture: 4 modules—Understanding Money, How Bitcoin Works, Using Bitcoin Safely, and Bitcoin in Your Community—delivered in an objective-preserving schedule rather than fixed two-hour classes.
+- Working architecture: 4 modules—Problem: Understanding Money; Solution: How Bitcoin Works; Action: Using Bitcoin Safely; and Connect: Bitcoin in Your Community—delivered in a competency-preserving schedule rather than fixed two-hour classes. The educator-curated Connect module links the shared learning to a local need, comparison, safe task, and responsible next step.
 - Educator-facilitated delivery in person or online.
 - Low-tech, offline-capable print/PDF instructional materials, with no app access required for learning, assessment, completion, or certification.
-- Single Diploma with Custom and Advanced pathways.
-- Core / Custom / Advanced categorization.
-- Shared Core theory and outcomes with localized, educator-led practice.
+- One four-module Diploma. Advanced learning is outside the Diploma.
+- Four-module Diploma, educator-curated Modules 3–4, and Advanced boundary rules.
+- Shared core learning and competencies in Modules 1–2, with educator-adapted practical learning in Modules 3–4 and an educator-curated required Module 4 Connect experience.
 - English-first drafting with multilingual and translation-ready source files.
 - English-source simplicity, tone, style, and translation-readiness review before translation or publication.
 - Sparse QR code use in print materials.
@@ -67,7 +67,7 @@ The following assumptions affect project execution:
 - Localization preparation is in scope.
 - Localization implementation is out of scope.
 - Publishing is part of project completion.
-- Bitcoin for Organizations is being cannibalized, not preserved as a standalone beginner pathway. Use `15_advanced.md` as the sole holding authority for beginner-safe additions and Advanced source trails.
+- Bitcoin for Organizations is being cannibalized, not preserved as a standalone beginner pathway. Use `17_advanced.md` as the sole holding authority for beginner-safe additions and Advanced source trails.
 
 ---
 
@@ -82,15 +82,15 @@ Reduce duration, duplication, and cognitive load while improving clarity and ret
 ### Deliverables
 
 - Four-module architecture proposal
-- Core content map
-- Custom content map
+- Modules 1–3 content map
+- Educator-curated Module 4 content map
 - Advanced content map
 - Revised sequencing
 - Content reduction recommendations
 
 ---
 
-## 2. Learning Outcomes Framework
+## 2. Competency Framework
 
 ### Purpose
 
@@ -98,12 +98,12 @@ Create measurable learning expectations.
 
 ### Deliverables
 
-- Knowledge objectives
-- Competency objectives
-- Outcome objectives
-- Measurable objective language using beginner-appropriate verbs
-- Outcome checks for translation readiness and delivery-mode adaptation
-- Clarified objectives for sats, wallet recovery, seed phrase testing, scam awareness, Lightning distinctions, and acquisition-pathway risks
+- Observable knowledge competencies
+- Observable practical competencies
+- Formative competencies
+- Measurable competency language using beginner-appropriate action verbs
+- Competency checks for translation readiness and delivery-mode adaptation
+- Clarified competency criteria for sats, wallet recovery, seed phrase testing, scam awareness, Lightning distinctions, and acquisition-pathway risks
 
 ---
 
@@ -113,11 +113,11 @@ Create measurable learning expectations.
 
 Create explicit links between:
 
-- objectives;
-- competencies;
+- assessed competencies;
+- required observable criteria;
 - activities;
 - assessment;
-- learner outcomes.
+- formative competencies.
 
 ### Deliverables
 
@@ -155,8 +155,8 @@ Improve participation and engagement.
 
 - Embedded Activity Bank version
 - Standalone Activity Bank version
-- Objective mapping
-- Activity categories aligned to Core, Custom, and Advanced boundaries
+- Competency mapping
+- Activity categories aligned to the four-module Diploma, educator-curated Module 4 options, and Advanced boundaries
 - Safety notes and fact-check notes for activities using live tools, named services, or current data
 
 ---
@@ -207,9 +207,9 @@ Reduce unnecessary cognitive load.
 
 - Content audit
 - Duplicate content audit
-- Essential vs Custom classification
+- Essential shared-core versus educator-curated Module 4 classification
 - Beginner prerequisite analysis
-- Bitcoin for Organizations cannibalization check: classify each useful item as Core, Custom, Activity Bank, Educator Guide, Advanced, or out of beginner scope
+- Bitcoin for Organizations cannibalization check: classify each useful item as required Diploma learning, an educator-curated Module 3 or 4 option within the Diploma, Activity Bank, Educator Guide, Advanced, or outside Diploma scope
 - Named-tool and current-data audit
 - Content reduction recommendations
 
@@ -223,9 +223,9 @@ Separate advanced learning from beginner learning.
 
 ### Deliverables
 
-- Advanced module title inventory guided by `15_advanced.md`
-- Advanced pathway recommendations guided by the candidate module titles in `15_advanced.md`
-- Organizations-to-Advanced source trail using the Organizations material parked in `15_advanced.md`
+- Advanced module title inventory guided by `17_advanced.md`
+- Advanced pathway recommendations guided by the candidate module titles in `17_advanced.md`
+- Organizations-to-Advanced source trail using the Organizations material parked in `17_advanced.md`
 - Technical content recommendations
 
 ---
@@ -234,12 +234,12 @@ Separate advanced learning from beginner learning.
 
 ### Purpose
 
-Create an objective-aligned system with two required, non-compensatory components: an educator-led theoretical component worth 50% and an educator-observed practical competency component worth 50%. Prevent certificate issuance until both components are passed.
+Create a competency-aligned system with two required, non-compensatory components: an educator-led theoretical component worth 50% and an educator-observed practical competency component worth 50%. Prevent certificate issuance until both components are passed.
 
 ### Deliverables
 
 - Assessment philosophy
-- Objective-to-assessment blueprint
+- Competency-to-assessment blueprint
 - Educator-evaluated theoretical interactions and summative practical assessment tasks
 - 50/50 theoretical-practical assessment allocation, both evaluated by educators
 - Competency evidence framework
@@ -257,7 +257,7 @@ The project establishes that both educator-evaluated assessment components are m
 
 ---
 
-## 11. Measurable Outcomes Framework
+## 11. Observable Competency Framework
 
 ### Purpose
 
@@ -265,8 +265,8 @@ Improve the ability to evaluate impact.
 
 ### Deliverables
 
-- Outcome framework
-- Outcome indicators
+- Competency framework
+- Observable competency indicators
 - Learning evidence recommendations
 - Program impact indicators
 
@@ -377,10 +377,10 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 
 - Public materials explain what is changing and what is being preserved.
 - The 4-module structure is visible and easy to repeat.
-- The Bitcoin in Your Community module is explained as educator-selected and locally grounded.
-- The Activity Bank and Educator Guide are presented as core ecosystem components.
+- The Bitcoin in Your Community module is explained as the educator-curated, locally grounded **Connect** stage of the Problem → Solution → Action → Connect learning arc.
+- The Activity Bank and Educator Guide are presented as essential ecosystem components.
 - Assessment and certification are described accurately without overpromising.
-- Advanced module titles are not duplicated outside `15_advanced.md`.
+- Advanced module titles are not duplicated outside `17_advanced.md`.
 
 ---
 
@@ -392,10 +392,10 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 - Research framework completed
 - Decision gaps identified
 
-## Milestone 2 — Learning Outcomes
+## Milestone 2 — Competency Framework
 
-- Objectives framework completed
-- Competency framework completed
+- Assessed competency framework completed
+- Observable criteria framework completed
 
 ## Milestone 3 — Curriculum Architecture
 
@@ -415,7 +415,7 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 ## Milestone 6 — Combined Assessment Standard
 
 - Educator-evaluated theory and educator-observed practical-assessment framework completed
-- Objective-level evidence, educator rubrics, and mandatory two-part certification prerequisite completed
+- Competency-level evidence, educator rubrics, and mandatory two-part certification prerequisite completed
 
 ## Milestone 7 — Publishing
 
@@ -442,20 +442,20 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 
 The redesign is complete when:
 
-- Diploma has an approximately 8-hour planning baseline and is scheduled with additional time whenever required to meet the objectives and assessment standard.
+- Diploma has an approximately 8-hour planning baseline and is scheduled with additional time whenever required to meet the competency standard and assessment requirements.
 - Diploma teaching content and educator-led assessment can be delivered from an offline-capable print or PDF package, with no app requirement for completion.
-- Learning outcomes are clearly defined.
+- Observable learner competencies and criteria are clearly defined.
 - Competencies are mapped to modules, activities, and evidence.
 - Practical learning is significantly increased.
 - Essential and optional content are clearly separated.
 - Advanced content is appropriately separated.
 - Named tools, local resources, and current-data examples are checked before use or publication.
-- Beginner-safe Organizations material has been merged only where it improves the Core Diploma, Activity Bank, Educator Guide, assessment, lexicon, or publication guardrails.
+- Beginner-safe Organizations material has been merged only where it improves the four-module Diploma, Activity Bank, Educator Guide, assessment, lexicon, or publication guardrails.
 - Strategic, organizational, financial, policy, legal, tax, treasury, sector-specific, and highly technical Organizations material is parked for Advanced rather than required in the beginner Diploma.
 - Timing assumptions are documented.
 - Delivery assumptions are documented.
 - Combined assessment framework, educator-educator guidance, and two-part certification prerequisite are completed.
-- Measurable outcomes are defined.
+- Measurable competency criteria are defined.
 - Educator Guide is redesigned.
 - Activity Bank is operational.
 - Review systems are integrated.
@@ -467,7 +467,7 @@ The redesign is complete when:
 - Translation-ready source files are published.
 - English source files pass simplicity, tone, style, terminology, and translation-readiness review before translation or publication.
 - Translated versions require language-specific review before publication.
-- Future delivery branches are documented without changing Core outcomes.
+- Future delivery branches are documented without changing required Diploma competency standards.
 - Localization preparation is completed.
 - Public stakeholder brief is completed.
 - Prague keynote proposal is completed.
@@ -487,7 +487,7 @@ The following items are intentionally excluded from the current redesign project
 - Maintenance of multiple localized curriculum variants
 - Online cohort platform implementation
 - Self-paced learning platform implementation
-- Building or replacing the underlying app platform; optional self-assessment content may be maintained separately in `12_microlearning-plan.md`.
+- Building or replacing the underlying app platform; optional self-assessment content may be maintained separately in `14_microlearning-plan.md`.
 - Cross-modal learner-continuation infrastructure
 
 These may become future projects.
