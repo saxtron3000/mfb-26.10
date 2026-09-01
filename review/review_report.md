@@ -110,17 +110,17 @@ Replace line locations with stable section anchors or claim IDs. Maintain separa
 
 **Primary files:** `workspace/09_resources.md`, `publish/mfb-bd-26.10/mfb-bd-lx.md`, `publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`.
 
-### 6. Restore a usable review register
+### 6. Triage the remaining consistency decisions
 
 **Status:** Immediate maintenance action.
 
-`review_todo.md` says it contains only current release actions and that historical annotations are in `review_annotation_backlog.md`, but it repeats the whole imported annotation backlog after the ongoing-quality-controls section. This creates two competing lists and makes active work impossible to scan.
+The active [release to-do](review_todo.md) now contains only current work and links to the historical [annotation backlog](review_annotation_backlog.md). The remaining review-system task is to remove implemented decisions from `review_consistency.md` so it records only choices that still need an owner response.
 
-Remove the duplicated imported material from `review_todo.md` and replace it with a single link to the archive. Keep only owner-ready actions, a status, and an acceptance condition in the active list. After resolving the decisions above, trim `review_consistency.md` in the same way.
+Mark questions 2, 3, 4, 5, and 10 resolved or remove them, then retain and decide only the genuinely open questions. Keep every new action in `review_todo.md` specific, current, and paired with an acceptance condition.
 
 This report deliberately does not reactivate untriaged handwritten notes. A note becomes active only when a responsible editor converts it into a specific accepted action.
 
-**Primary files:** `review/review_todo.md`, `review/review_annotation_backlog.md`, `review/review_consistency.md`.
+**Primary files:** `review/review_consistency.md`, `review/review_todo.md`, `review/review_annotation_backlog.md`.
 
 ### 7. Finish the optional self-check as a bounded learner aid
 
@@ -142,7 +142,7 @@ A local Markdown-link check found **162 local targets and one missing target**: 
 
 ## Recommended editing sequence
 
-1. Clean `review_todo.md` and triage `review_consistency.md` so the project has one accurate work queue.
+1. Triage `review_consistency.md` so the project has one accurate decision log and work queue.
 2. Make the four publication decisions above, starting with the eight-hour rule and certificate status.
 3. Prepare the selected local `P11` route, calibration examples, capacity model, and record-governance pack.
 4. Pilot the full learner-and-educator pathway; revise the guides from observed evidence rather than adding topics.
