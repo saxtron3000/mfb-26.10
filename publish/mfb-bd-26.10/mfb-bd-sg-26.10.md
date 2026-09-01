@@ -1063,44 +1063,33 @@ Record the focus of your Module 4:
 
 ### Your local Module 4
 
-In this module, you will apply at least one idea from Modules 1–3 to a real need or opportunity where you live. Your work may explore earning, saving, receiving, spending, exchange pathways, merchant use, community resources, or another local use of Bitcoin as money.
+In this module, you will apply an idea from Modules 1–3 to a real need or opportunity where you live. You may explore earning, saving, receiving, spending, merchant use, community resources, or another local use of Bitcoin as money.
 
-This matters because Bitcoin is experienced locally. By exploring a real situation, you can better understand what is useful, what is not, and which conditions or risks shape a responsible choice. You will become more familiar with the tools, resources, and organisations involved in local Bitcoin without being expected to use or recommend any of them.
+This matters because Bitcoin is experienced locally. You will better understand what is useful, what is not, and which conditions and risks shape a responsible choice. You will also become familiar with local Bitcoin tools, resources, and organisations without being expected to use or recommend them.
 
-Your educator will guide you through this section because they understand the local context. They may also invite a local expert to help you learn from experience, ask useful questions, and interact positively and respectfully with people and organisations in your community. The goal is to build informed connections and help foster a stronger local community, not simply to complete a transaction.
+Your educator will guide you because they understand the local context. They may invite a local expert to help you learn from experience and interact positively and respectfully with your community. The goal is to build informed connections and help foster community, not simply to complete a transaction.
 
 Your local Module 4 activity will help you:
 
-1. **Connect:** Identify the Module 1 money problem, Module 2 Bitcoin response, and Module 3 safe action that matter for a local need or opportunity.
-2. **Understand the context:** Consider the local economic, legal, cultural, and technical conditions, then compare Bitcoin with a realistic existing option.
-3. **Practise safely:** Observe, compare, or try a clearly defined task with guidance.
-4. **Recognise risk:** Identify what could fail and how to limit the risk.
-5. **Explain your learning:** Show what you learned and identify the smallest responsible next step, if any.
+1. **Connect:** Identify the money problem, Bitcoin response, and safe action that matter locally.
+2. **Compare:** Consider local conditions and compare Bitcoin with a realistic existing option.
+3. **Practise safely:** Observe, compare, or try a defined task with guidance.
+4. **Explain:** Identify risks, show what you learned, and name a responsible next step, if any.
 
 Your activity may explore questions such as:
 
 - Can a local worker receive bitcoin for a service?
-- Can a family send value between two places more easily?
-- Can a merchant accept payment without holding a large bitcoin balance?
-- Can a person compare a local exchange path with a bank transfer or cash exchange?
 - Can a family compare a remittance path with an existing local method?
-- Can a nonprofit or community group receive support while keeping custody, transparency, and records clear?
-- Can people with limited banking access identify a safer payment or savings path without increasing personal risk?
+- Can a merchant accept payment without holding a large bitcoin balance?
+- Can a community group receive support while keeping custody and records clear?
 - Can you identify reliable Bitcoin support in the community?
-- Can local businesses trade with one another using the same money?
 - Can saving in sats address a local problem, and what new risk does it create?
 
 A local example is not proof that the same method works everywhere. Explain what is specific to your community.
 
 ### Practical workshops and demonstrations
 
-You will move through three stages of practice.
-
-**Presentation:** Your educator shows the complete process and explains its purpose, terms, and risks. You observe before handling a device or payment.
-
-**Practice:** You follow a guided process with printed screens, test tools, testnet where suitable, or a very small amount. Mistakes should be safe and visible.
-
-**Production:** You complete a defined task or explain a decision without step-by-step prompting. This helps show whether you can apply the learning in a new situation.
+You will move through three stages: **Presentation**, where your educator shows the process and its risks; **Practice**, where you follow a guided process using safe materials or a very small amount; and **Production**, where you complete a task or explain a decision independently.
 
 Your workshop may include:
 
@@ -1108,10 +1097,9 @@ Your workshop may include:
 - locating the receive screen without creating or exposing a real seed phrase;
 - comparing an on-chain address with a Lightning invoice;
 - checking a transaction in a wallet or block explorer;
-- comparing fees and final received amounts across two local pathways;
-- identifying scam signals in a message;
-- planning a merchant payment flow;
-- designing a safe community donation flow;
+- comparing fees and received amounts across local pathways;
+- identifying scam signals;
+- planning a merchant payment or community donation flow;
 - mapping local resources or payment relationships.
 
 Before any live demonstration, make sure you know:
