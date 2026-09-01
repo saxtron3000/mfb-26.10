@@ -209,7 +209,7 @@ Reduce unnecessary cognitive load.
 - Duplicate content audit
 - Essential shared-core versus educator-curated Module 4 classification
 - Beginner prerequisite analysis
-- Bitcoin for Organizations cannibalization check: classify each useful item as required Diploma learning, an educator-curated Module 3 or 4 option within the Diploma, Resources Hub activities, Educator Guide, Advanced, or outside Diploma scope
+- Bitcoin for Organizations cannibalization check: classify each useful item as required Diploma learning, an educator-curated Module 3 or 4 option within the Diploma, activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), Educator Guide, Advanced, or outside Diploma scope
 - Named-tool and current-data audit
 - Content reduction recommendations
 
@@ -378,7 +378,7 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 - Public materials explain what is changing and what is being preserved.
 - The 4-module structure is visible and easy to repeat.
 - The Bitcoin in Your Community module is explained as the educator-curated, locally grounded **Connect** stage of the Problem → Solution → Action → Connect learning arc.
-- Resources Hub activities and the Educator Guide are presented as essential ecosystem components.
+- Activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) and the Educator Guide are presented as essential ecosystem components.
 - Assessment and certification are described accurately without overpromising.
 - Advanced module titles are not duplicated outside `17_advanced.md`.
 

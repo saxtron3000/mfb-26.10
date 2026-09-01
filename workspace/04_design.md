@@ -644,7 +644,7 @@ The retiring Bitcoin for Organizations pathway contains strong material for misc
 
 - What belongs in the Student Book?
 - What belongs in the Educator Guide?
-- What activities belong on the Resources Hub?
+- What activities are available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/)?
 - What belongs on the website?
 
 ## Accessibility Questions

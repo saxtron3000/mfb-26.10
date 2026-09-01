@@ -170,7 +170,7 @@ Passing one component cannot compensate for an unmet requirement in the other. P
 
 Educators assess both theoretical and practical competencies using approved tasks, observable criteria, common rubrics, concise evidence records, feedback, and fair reassessment.
 
-The Educator Guide and Resources Hub must provide:
+The Educator Guide and approved activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) must provide:
 
 - competency-to-task mappings;
 - required observable criteria for each competency;

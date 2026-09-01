@@ -162,7 +162,7 @@ The 2026.10 Diploma package is expected to include:
 - offline print/PDF package;
 - online PDF package;
 - Educator Guide;
-- Resources Hub activities;
+- activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/);
 - Bitcoin in Your Community templates;
 - assessment framework;
 - optional My First Bitcoin app self-check, recap, and discovery package;

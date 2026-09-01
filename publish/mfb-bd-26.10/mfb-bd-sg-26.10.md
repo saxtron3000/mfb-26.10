@@ -789,39 +789,33 @@ Pause and consider how Bitcoin changes the trust model: how do public rules, fin
 
 ## Module 3: Using Bitcoin Safely
 
+This module is about safe first actions, not becoming an expert or taking financial risk. You will practise with a prepared simulation, test funds, or an amount approved by your educator. You never need to buy bitcoin to complete the Diploma.
+
+What information can you share safely? What information could give another person control? How would you notice that a payment request has changed? These questions matter before any wallet, payment, or backup becomes important.
+
+Use these three rules throughout the module:
+
+1. **Share receiving information, never secrets.** An address or payment request can receive bitcoin. A private key or recovery phrase can control it.
+2. **Pause before approving a send.** Check the person, payment method, destination, amount, and final screen.
+3. **Keep mistakes small.** Stop and ask for help when a request is unclear, rushed, or asks for secret information.
+
+By the end, you should be able to explain who controls the keys, complete a supported receive or send practice, respond safely to a scam or mismatch, and show recovery readiness without exposing any real secret. The goal is not speed. It is knowing when to pause.
+
 ### Wallets
 
-A **Bitcoin wallet** is a tool for managing keys, creating receiving information, checking balances, and signing transactions. It may be an application, a dedicated hardware device, or a coordinated service.
+A **Bitcoin wallet** is a tool that manages the information needed to receive and authorize Bitcoin transactions. It may be an app, a dedicated device, or a service. Bitcoin is recorded on the shared ledger; it is not stored inside a phone.
 
-The wallet does not store bitcoin inside the phone or device. Bitcoin remains recorded on the shared ledger. The wallet stores or controls the secret information that allows you to recieve, hold and spend bitcoin.
+What would happen if your phone stopped working? The Bitcoin record would still exist, but access would depend on the keys and recovery method the wallet uses. A wallet helps create receiving information, show balances and transaction history, and authorize spending. It does not remove the need to understand who controls access.
 
-A wallet usually helps you:
+The first question about any wallet is: **who controls the keys?**
 
-- generate private keys securely;
-- create addresses for receiving bitcoin;
-- display transaction history and balances;
-- build and sign outgoing transactions;
-- estimate or select transaction fees;
-- create a backup or recovery method;
-- connect to the Bitcoin network directly or through a service.
+| Arrangement | What it means | Main responsibility |
+| --- | --- | --- |
+| Custodial | A service controls the keys. | Understand the service's rules, risks, and recovery process. |
+| Self-custodial | You control the keys. | Protect recovery information and verify every action. |
+| Hardware wallet | A dedicated device helps protect keys. | Protect both the device and its recovery backup. |
 
-Wallets make different trade-offs. Some prioritize simplicity. Others prioritize privacy, independent verification, or stronger security. Some support only on-chain Bitcoin. Some support Lightning. Some hold the keys for you.
-
-Before choosing a wallet, compare the same areas for every option:
-
-| Area | Question to ask |
-| --- | --- |
-| Custody | Who controls the private keys? |
-| Source and review | Is the software open source, widely reviewed, and obtained from a verified source? |
-| Recovery | Is recovery clearly documented, and can you test it safely? |
-| Compatibility | Does it support the payment network, address or invoice types, device, and backup method you need? |
-| Privacy | What personal, device, contact, or transaction information does it collect? |
-| Verification | Does it connect to the provider's server or to a node you choose? |
-| Continuity | Is the project maintained, and what happens if the company or project disappears? |
-
-Do not choose a wallet only because it is popular, free, or recommended by a stranger. The right tool depends on the amount, purpose, device, experience, and local conditions.
-
-If wallets are new to you, observe a complete educator demonstration before installing one. Practise with a prepared, empty training wallet or printed screens first. Use the official instructions for any tool, ask for help without revealing secret information, and stop if the process differs from what was demonstrated.
+These are not labels for good or bad choices. They describe different trade-offs. Before using a wallet, ask: Who controls the keys? How would access be recovered? Which payment methods does it support? How is the software obtained and maintained? Prefer well-established open-source wallet software where appropriate, while remembering that open source alone does not prove a tool is safe or suitable. Start with your educator's prepared environment; do not choose a tool because a stranger recommends it.
 
 ### Addresses
 

@@ -403,7 +403,7 @@ Only the combined **assessment-complete** status may unlock a certificate. Educa
 ## 7. Legacy Content Migration Guidance
 
 - Use the legacy table-of-contents migration notes in `06_plan.md` to decide whether old content belongs in the shared core, an educator-adapted Module 3 option, an educator-curated Module 4 option within the Diploma, or Advanced learning.
-- Use `17_advanced.md` to decide whether Organizations material supports the beginner Diploma, educator-adapted Module 3 practice, an educator-curated Module 4 option, Resources Hub activities, the Educator Guide, or Advanced learning, and to park deeper technical, economic, philosophical, or future-facing material for later Advanced modules.
+- Use `17_advanced.md` to decide whether Organizations material supports the beginner Diploma, educator-adapted Module 3 practice, an educator-curated Module 4 option, activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), the Educator Guide, or Advanced learning, and to park deeper technical, economic, philosophical, or future-facing material for later Advanced modules.
 - Do not treat old `OUT` markings as deletion when the same item has an educator-curated Module 4 or Advanced destination.
 - Keep Module 3 technical material practical: use it only to support safer self-custody, verification, and transaction responsibility.
 - Split topics carefully when needed: beginner concepts may stay in the Diploma while deeper analysis moves to Advanced learning.

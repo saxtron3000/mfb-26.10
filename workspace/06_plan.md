@@ -223,7 +223,7 @@ Organizations content may support:
 - Module 3: confirmations, explorer orientation, public-ledger transparency, irreversible settlement, and privacy trade-offs.
 - Module 4: local merchant, remittance, nonprofit, underbanked-access, circular-economy, on-ramp, and off-ramp scenarios.
 - Educator Guide: misconception prompts and claim/evidence/trade-off facilitation.
-- Resources Hub activities: ledger exploration, local payment path comparison, community donation scenarios, and local resource mapping.
+- Activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/): ledger exploration, local payment path comparison, community donation scenarios, and local resource mapping.
 
 Organizations content should not become part of the beginner Diploma when it requires:
 
@@ -422,7 +422,7 @@ The October 2026 redesign should produce:
 - clear assessed competencies and observable criteria;
 - Student Guide;
 - Educator Guide;
-- Resources Hub activities;
+- activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/);
 - educator-curated Module 4 templates;
 - educator-led theoretical and practical certification-prerequisite framework, with optional app recap and self-check resources;
 - publication-ready source files;
