@@ -801,41 +801,31 @@ Use these three rules throughout the module:
 
 By the end, you should be able to explain who controls the keys, complete a supported receive or send practice, respond safely to a scam or mismatch, and show recovery readiness without exposing any real secret. The goal is not speed. It is knowing when to pause.
 
+The module follows three practical questions:
+
+1. **What can I share, and what must remain secret?**
+2. **What must I check before I receive or send?**
+3. **When should I stop and ask for help?**
+
+Use the explanations below to prepare for the three guided practices: a receive-screen check, a send-and-verify check, and a recovery-readiness or scam-response scenario.
+
 ### Wallets
 
 A **Bitcoin wallet** is a tool that manages the information needed to receive and authorize Bitcoin transactions. It may be an app, a dedicated device, or a service. Bitcoin is recorded on the shared ledger; it is not stored inside a phone.
 
 What would happen if your phone stopped working? The Bitcoin record would still exist, but access would depend on the keys and recovery method the wallet uses. A wallet helps create receiving information, show balances and transaction history, and authorize spending. It does not remove the need to understand who controls access.
 
-The first question about any wallet is: **who controls the keys?**
-
-| Arrangement | What it means | Main responsibility |
-| --- | --- | --- |
-| Custodial | A service controls the keys. | Understand the service's rules, risks, and recovery process. |
-| Self-custodial | You control the keys. | Protect recovery information and verify every action. |
-| Hardware wallet | A dedicated device helps protect keys. | Protect both the device and its recovery backup. |
-
-These are not labels for good or bad choices. They describe different trade-offs. Before using a wallet, ask: Who controls the keys? How would access be recovered? Which payment methods does it support? How is the software obtained and maintained? Prefer well-established open-source wallet software where appropriate, while remembering that open source alone does not prove a tool is safe or suitable. Start with your educator's prepared environment; do not choose a tool because a stranger recommends it.
+The first question about any wallet is: **who controls the keys?** Before using a tool, check who can authorize a payment, how access is recovered, and which payment methods it supports. Prefer well-established open-source wallet software where appropriate, while remembering that open source alone does not prove a tool is safe or suitable. Start with an educator's prepared environment; do not choose a tool because a stranger recommends it.
 
 ### Addresses
 
-A Bitcoin **address** is information used to receive an on-chain payment. A wallet creates addresses from its keys and normally presents them as a line of letters and numbers and as a QR code.
+A Bitcoin **address** is public receiving information for an on-chain payment. A wallet normally shows it as text and a QR code. It is not a password and cannot authorize spending by itself.
 
-An address is public receiving information that a sender's wallet uses to construct an on-chain payment. It identifies a payment destination; it is not a login credential or password. Sharing an address does not give someone permission to spend your bitcoin. It can, however, reduce privacy because transactions to and from addresses appear on the public ledger.
+If you want to receive an on-chain payment, where should the address come from? Open the intended wallet and use its receive screen. A sender can scan the QR code or copy the address. This avoids the mistakes that can happen when long strings are typed by hand.
 
-Good address practice includes:
+For every payment request, confirm the intended payment method. An on-chain address and a Lightning invoice are different. After scanning or copying, compare the destination with the trusted receiving screen before approving a payment. Why check after copying? Malicious software can replace copied address information. A new on-chain address for a new receipt can improve privacy.
 
-- obtain the address from the receiving wallet;
-- confirm that it is for Bitcoin and for the intended network;
-- use copy-and-paste or a QR code to avoid manual typing;
-- compare visible characters at the beginning and end after copying;
-- for important payments, verify the complete address on a trusted display;
-- use a new address for each on-chain receipt when the wallet provides one;
-- send a small test first when the amount or process is unfamiliar.
-
-Bitcoin addresses can begin with different characters because several valid formats exist. Do not decide that an address is safe only by its appearance.
-
-A Lightning invoice is not the same as an on-chain address. Confirm the payment method before sending.
+When a payment matters, do not decide that an address is safe only because it looks familiar. Confirm the intended recipient, correct Bitcoin network, destination, and payment method. Use a small test first when the process or amount is unfamiliar.
 
 ### Keys
 
@@ -843,7 +833,7 @@ Bitcoin ownership is enforced through cryptographic keys.
 
 A **private key** is secret information that allows a wallet to create a valid digital signature. That signature authorizes the spending of bitcoin controlled by the corresponding key. Anyone who obtains the private key can usually spend those funds.
 
-A **public key** is mathematically related to the private key. It can be used to verify a signature without revealing the private key. Addresses are created from public-key information through additional mathematical steps.
+A **public key** is mathematically related to the private key. It helps verify a signature without revealing the private key. Addresses are created from public-key information.
 
 The essential rule is simple:
 
@@ -851,9 +841,11 @@ The essential rule is simple:
 
 A digital signature proves that the required private key authorized a transaction. It does not place the private key inside the transaction. Nodes verify the signature before accepting the spend.
 
-Modern wallets manage many keys automatically. Beginners should not copy or handle individual private-key strings. To avoid loss of funds, protect the wallet's approved backup and follow its recovery procedure.
+Modern wallets manage many keys automatically. Beginners should not copy or handle individual private-key strings. Protect the wallet's approved backup and follow its recovery procedure.
 
 No legitimate educator, wallet company, exchange employee, technical-support worker, or Bitcoin developer needs your private key or seed phrase. Anyone who asks for it should be treated as a threat.
+
+**Try it:** Sort prepared examples into three groups: safe to share for receiving, secret spending information, and information that may be public but should still be kept private when linked to a person.
 
 ### Seed phrases
 
@@ -866,16 +858,11 @@ Protect a seed phrase with these rules:
 - write it down privately and accurately during wallet creation;
 - follow the wallet's official backup instructions;
 - keep it offline;
-- do not photograph, scan, email, print through an online service, or save it in cloud notes;
-- do not type it into a website or ordinary computer form;
-- do not send it through a message or password manager;
-- do not speak it near a camera, microphone, or other people;
-- store the backup where damage, loss, theft, or casual discovery are less likely;
-- make sure a trusted recovery plan exists for serious illness or death, without exposing the words unnecessarily.
+- never photograph it, store it in cloud notes, email it, or send it in a message;
+- never type it into a website or ordinary computer form;
+- keep it out of cameras, microphones, other people's view, and places where it may be damaged, lost, or found.
 
-Some advanced wallets use additional passphrases, multiple keys, or other backup systems. These can improve security but can also create new ways to lose access. Do not add complexity you cannot yet explain and manage safely.
-
-If a seed phrase may have been seen, copied, entered online, or stored on an untrusted device, treat it as compromised. Create a new wallet with a new seed using a trusted process, then move the funds after verifying the destination. Ask for guidance if needed, but never reveal the old or new phrase.
+Some wallets use additional passphrases, multiple keys, or other backup systems. These are Advanced learning. Do not add complexity you cannot explain and recover from safely. If a seed phrase may have been seen, copied, entered online, or stored on an untrusted device, treat it as compromised: seek guidance without revealing it and use a new trusted recovery process.
 
 ### Custodial and non-custodial use
 
@@ -888,14 +875,12 @@ In a **non-custodial** or **self-custodial** wallet, you control the keys. The w
 | Question | Custodial use | Self-custodial use |
 | --- | --- | --- |
 | Who holds the keys? | The service | The user |
-| Who can restrict access? | The service may restrict it | Anyone with the keys can spend; no account operator is required |
 | Who handles recovery? | Usually the service through an account process | The user through a backup process |
-| Main convenience | Familiar login, support, and simple operation | Direct control and fewer custody intermediaries |
-| Main risk | Failure, fraud, hacking, freezes, withdrawal limits, or changing rules | Lost or exposed keys, user error, unsafe backups, or poor tools |
+| Main trade-off | Familiar support, with provider dependence | Direct control, with backup and error responsibility |
 
-Custody is not always obvious from the interface. An application may use the word “wallet” while holding all keys for its users. Check the documentation. If you cannot export or control the recovery method and need the company to approve a withdrawal, you are probably using a custodian.
+Custody is not always obvious from the interface. If you cannot control the recovery method and need a company to approve a withdrawal, you are probably using a custodian. Self-custody is not a test of personal worth; the important step is to identify the trust and risk involved.
 
-Self-custody is a spectrum of responsibility, not a test of personal worth. A beginner may use a small custodial balance while learning and later move to self-custody. The important step is to identify the trust and risk involved.
+**Try it:** Read two prepared wallet descriptions. For each, state who controls the keys, who could restore access, and one risk to check before using it.
 
 ### Hot and cold wallets
 
@@ -903,256 +888,138 @@ A **hot wallet** manages keys on a device connected to the internet, such as a p
 
 A **cold wallet** keeps the keys used for signing away from an internet-connected general-purpose device. A **hardware wallet** is a dedicated device designed to generate, protect, and use keys while keeping them isolated from the connected computer or phone.
 
-| Use | Common strengths | Common risks |
+| Arrangement | Common strength | Responsibility to remember |
 | --- | --- | --- |
-| Hot wallet | Fast access, simple payments, low cost | Online threats, phone loss, malicious applications, weaker isolation |
-| Hardware or cold wallet | Stronger key isolation, suitable for less frequent access | Device cost, supply-chain risk, backup mistakes, complex recovery, loss or damage |
-| Custodial account | Familiar login and support | Counterparty control and loss of direct ownership |
+| Hot wallet | Convenient access for regular payments. | An internet-connected device can face malware, phishing, or loss. |
+| Hardware or cold wallet | More isolated signing keys. | The device, backup, and recovery process still need protection. |
+| Custodial account | Familiar login and available support. | A provider controls access and may impose limits. |
 
-A hardware wallet does not remove the need for a seed backup. If the device breaks, recovery usually depends on that backup. If an attacker obtains the seed phrase, the hardware device cannot protect the funds.
-
-For larger or long-term holdings, people may use advanced arrangements such as **multiple-signature**, or **multisignature**, wallets. These require a defined threshold of signatures from different keys—for example, two signatures from a set of three keys. In that example, one key alone cannot authorize a spend. Multisignature design and recovery are outside the Diploma. Greater complexity is useful only when the recovery plan is equally strong.
-
-A practical approach is to separate purposes: a small amount in a convenient spending wallet and a more carefully secured amount in a wallet used less often. The actual amounts depend on personal circumstances. This is an educational security model, not financial advice.
+**Try it:** For a small, fictional payment and a less-frequent fictional payment, explain which trade-off matters more. Do not choose a tool or amount for your own funds.
 
 ### Wallet recovery and seed phrase testing
 
-A backup is valuable only if it can recover the intended wallet. Testing should happen before meaningful funds depend on it.
+What would you do if the original device failed? A recovery plan should let you restore the expected wallet without exposing the recovery information. Practice only with educator-prepared, empty, or simulated materials. Follow the wallet's official recovery method privately, confirm the expected training wallet, and reset or return the temporary material safely.
 
-There are two different checks:
+An educator can observe your process without seeing any recovery words. Never enter a real recovery phrase into a website, message, or ordinary computer form.
 
-**Backup verification** confirms that the words, order, and format were recorded correctly. Some hardware wallets provide an on-device backup-check feature. This is usually safer than entering the phrase into another device.
+A safe recovery-readiness practice is simple:
 
-**Recovery practice** lets you demonstrate the full process and restore the expected wallet. A beginner should practice with a new, empty training wallet or a wallet containing only a very small test amount.
+1. Use the official instructions for the exact training wallet.
+2. Confirm that the wallet and its recovery method are compatible.
+3. Work privately, without cameras or observers seeing the secret material.
+4. Use the wallet's approved backup-check or recovery method.
+5. Confirm the expected receiving information or training history.
+6. Reset or clear the temporary training environment as instructed.
 
-A safe beginner recovery process follows these principles:
-
-1. Use official instructions for the exact wallet.
-2. Confirm that the wallet and backup standard are compatible.
-3. Practice in a private place without distractions or observers.
-4. Prefer the wallet's built-in, trusted recovery or backup-check method.
-5. Never enter a hardware-wallet seed phrase into a website, message, or ordinary computer application.
-6. Confirm that the restored wallet shows the expected receiving information or test transaction history.
-7. Clear or securely reset any temporary training device after the exercise.
-8. Keep the permanent backup offline and private.
-
-Do not test a backup by exposing the seed to an educator or classmate. They can explain the procedure without seeing the words.
-
-**Spot question:** Using a prepared practice wallet, how would you recover access after the original device fails while keeping the recovery information private?
-
-Recovery planning should answer:
-
-- Where is the backup?
-- What could damage or reveal it?
-- Which wallet or standard created it?
-- What instructions will a future user need?
-- How can access be recovered if the original device fails?
-- How can heirs recover funds without giving one person easy access today?
-
-Inheritance and advanced recovery design may require professional legal and security advice in your location.
+The point is not to make recovery feel easy. It is to understand the process before a device failure creates pressure.
 
 ### Receiving bitcoin
 
-Receiving is usually safer than sending because you do not authorize funds to leave. It still requires verification.
+**Practice 1: receive safely**
 
-For an on-chain receipt:
+Receiving does not authorize funds to leave your wallet, but it still needs careful checking. Begin by asking: am I using the intended wallet and the intended payment method?
 
-1. Open the intended Bitcoin wallet.
-2. Select **Receive**.
-3. Confirm that the wallet is showing an on-chain Bitcoin address, not another network or Lightning.
-4. Copy the address or display its QR code.
-5. Share only the address or payment request. Do not share keys or a seed phrase.
-6. If the sender copies the address, ask them to compare it with the address on your own trusted screen.
-7. Confirm the expected amount and whether the sender will subtract any fee.
-8. After broadcast, check the wallet for the pending transaction.
-9. Wait for a suitable number of confirmations based on the amount and risk.
+1. Open the prepared wallet and choose **Receive**.
+2. Identify whether the request is on-chain or Lightning.
+3. Share only the address, QR code, or payment request.
+4. If an amount is shown, check it with the sender.
+5. Check the amount and status in your own wallet.
 
-A wallet may generate a new address after each receipt. Old addresses usually remain valid, but new addresses improve privacy by making it harder for an observer to connect payments.
-
-Seeing a transaction in a message or screenshot is not proof of payment. Verify it in your wallet or through a trusted node or block explorer. For meaningful amounts, wait until the transaction is confirmed in a block.
-
-For a classroom demonstration, use test funds or a very small amount. You should be able to identify the receive screen, amount, method, and status even if no real payment is made.
+A message or screenshot that says “sent” is not proof. What evidence can you see yourself? Check the receiving wallet or approved transaction view. For on-chain payments, a wallet may first show the transaction as pending. Confirmation status adds settlement confidence; it does not repair a wrong address or scam. A wallet may offer a fresh address for a new receipt; older addresses may still work, but fresh addresses can reduce easy links between payments.
 
 ### Sending bitcoin
 
-Sending requires care because a valid Bitcoin transaction is usually irreversible.
+**Practice 2: pause and check before sending**
 
-Before an on-chain send:
+Sending needs more care because a valid Bitcoin transaction is usually irreversible. Before you touch the approve button, can you explain who will receive the payment and why?
 
-1. Confirm the recipient and purpose through a trusted communication channel.
-2. Ask for a fresh address from the recipient when possible.
-3. Confirm that it is an on-chain Bitcoin address for the correct network.
-4. Enter or scan the address and verify it after entry.
-5. Enter the amount and confirm the unit: bitcoin, sats, or fiat equivalent.
-6. Review the network fee and expected timing.
-7. Read the final summary on the wallet or hardware-device screen.
-8. If the process, address, or amount is unfamiliar, send a small test first.
-9. Approve the transaction only after every field is correct.
-10. Save the transaction ID if you may need to track or discuss the payment.
+1. Confirm the recipient and purpose through a trusted channel.
+2. Confirm the payment method: on-chain or Lightning.
+3. Scan or enter the destination, then compare it with the trusted receiving screen.
+4. Check the amount, unit, fee or expiry information, and final summary.
+5. Use a small test when the process is unfamiliar.
+6. Approve only when every item matches; then check the payment result.
 
-The **network fee** is paid to miners for including the transaction in a block. It is based mainly on transaction data and current demand for block space, not simply on the amount sent. A larger payment does not automatically require a larger fee.
+For an on-chain payment, the **network fee** is paid for including the transaction in a block. It depends mainly on the transaction data and demand for block space, not simply on the amount being sent. Fee estimates and timing can change, so read the final summary rather than assuming that a low-value payment has a low fee.
 
-Wallet fee estimates can be wrong or become outdated. A low fee may cause a transaction to wait. A high fee may waste funds. Some wallets support fee adjustment, but the methods vary and are not required knowledge for this Diploma.
-
-Never send because someone creates urgency. Stop if the recipient changes the address unexpectedly, asks you to “verify” the payment with your seed phrase, or refuses to allow a small test.
-
-**Spot question:** In a prepared wallet or simulation, what would you check before sending a transaction? How would you verify the address before approval?
+If the destination changes unexpectedly, the request becomes urgent, or anyone asks for recovery information, what should you do? Stop. Verify the request independently, or ask for help without sharing secrets.
 
 ### Verification, block explorers, and irreversible transactions
 
-Bitcoin replaces some trust with the ability to verify.
+A **transaction ID (TXID)** identifies an on-chain transaction. A **block explorer** shows public Bitcoin data, such as a transaction's status and confirmation count. It is a useful view, not an authority over Bitcoin and not proof of the recipient's identity or honesty.
 
-A **transaction ID**, or **TXID**, is an identifier for an on-chain transaction. A **block explorer** is a tool that displays public Bitcoin data such as transaction status, fees, addresses, blocks, and confirmations.
+What can this public information show, and what can it not show? It can show a transaction's status, destination, amount, fee, and confirmation count; it cannot prove why a payment happened or whether a person is trustworthy. An on-chain transaction is unconfirmed after it is broadcast and gains its first confirmation when included in a valid block. Later blocks add confidence to its place in the record, but they do not fix a wrong destination or a scam. There is no universal confirmation count for every payment; the suitable check depends on the amount and risk.
 
-To check a transaction with a block explorer:
-
-1. Obtain the TXID from the sending wallet.
-2. Open a trusted explorer that supports the correct Bitcoin network.
-3. Search for the TXID.
-4. Check the destination, amount, fee, and confirmation status.
-5. Remember that an explorer is an interface. Independent verification through your own node provides stronger privacy and trust reduction.
-
-A transaction with no confirmation has been broadcast but is not yet included in a block. Its status can still change. The first confirmation occurs when a miner includes it in a valid block. Each valid block added after that increases the work that would need to be redone to replace its history.
-
-More confirmations increase settlement confidence. They do not make a bad address good or turn a scam into a safe payment. They only show that the transaction is deeper in the accepted history.
-
-The suitable number of confirmations depends on risk. A small purchase may be treated differently from a large settlement. Your educator may explain local practice, but there is no universal number for every situation.
-
-Block explorers create privacy considerations. Searching your own address or TXID can reveal to the explorer's operator that your device is interested in that transaction. Avoid publishing addresses or transaction details without a reason.
-
-Bitcoin transactions are designed for final settlement. There is no central institution that can cancel a confirmed transaction because you made a mistake. A recipient can voluntarily return funds, but the network cannot force them to do so. Verification must happen before approval.
-
-For a classroom activity, an educator may use a printed explorer screenshot or a historical transaction, such as the Pizza Day transaction, to show what public ledger data can and cannot prove. The activity should also ask what privacy information becomes visible.
+To inspect a prepared transaction, obtain its TXID, open a trusted explorer for the intended Bitcoin network, and check the status, destination, amount, fee, and confirmations. An explorer is only an interface. Searching an address or TXID may reveal to its operator that your device is interested in that information. For practice, use an educator-prepared transaction or printed screenshot. Do not search a learner's personal address or transaction on a public service.
 
 ### Safety checklist: seed phrases, address checks, scams, and starting small
 
-Use this checklist before you depend on any Bitcoin tool.
+**Practice 3: spot a risk and stop safely**
 
-**Protect secrets**
+What would make you stop before a payment or installation? Treat these as red flags: someone impersonates support or an educator; creates urgency or secrecy; promises guaranteed returns; asks you to send bitcoin first; changes a destination; or asks for keys, recovery words, remote access, or an advance fee.
 
-- Never share a seed phrase or private key.
-- Keep seed backups offline and out of view.
-- Do not store a seed phrase in photographs, cloud files, email, or messages.
-- Do not enter recovery words after following a link or advertisement.
-- Lock and update the device that holds a hot wallet.
+The safe response is always: **Pause. Share nothing. Send nothing. Close the channel. Verify independently through a known source. Ask for help without revealing secrets.** A real opportunity can survive a careful check; a scam often depends on preventing one.
 
-**Verify destinations**
+Protect secrets by keeping seed phrases and private keys offline and out of view. Verify destinations by checking the payment method, recipient, address or invoice, amount, and final screen after copying or scanning. Use official instructions and a verified source for any wallet or service; be cautious with sponsored search results, direct-message links, and look-alike sites. If the process differs from the demonstrated process, pause rather than trying to solve it under pressure. Start with safe practice, a simulation, or a small approved amount; never borrow money to experiment.
 
-- Confirm whether the payment is on-chain or Lightning.
-- Check the address or invoice on the trusted receiving screen.
-- Compare after copy-and-paste; malware can replace clipboard addresses.
-- Verify important addresses on a hardware-wallet display when available.
-- Use a small test for an unfamiliar process.
-
-**Recognize scam patterns**
-
-- **Impersonation:** A scammer pretends to be support staff, an educator, a public figure, a friend, or a government official.
-- **Urgency:** You are told to act now or lose access, miss a profit, pay a penalty, or face danger.
-- **Guaranteed returns:** An offer promises easy, fixed, or risk-free profit.
-- **Giveaway fraud:** You are asked to send bitcoin first to receive more later.
-- **Recovery fraud:** Someone claims they can recover lost bitcoin if you provide words, keys, remote access, or an advance fee.
-- **Fake application or update:** A copy of a real wallet steals credentials or creates attacker-controlled addresses.
-- **Phishing:** A message or website copies a trusted brand to collect login details or seed words.
-- **Romance or relationship manipulation:** A trusted-feeling contact slowly introduces an investment, emergency, or payment request.
-- **Too-good-to-be-true offer:** The reward is unusually high while the explanation is vague or secret.
-
-Any one of these patterns is a red flag for a potential scam. Pause, do not send money or share information, and verify independently before taking any action.
-
-**Check software and services**
-
-- Prefer well-established open-source wallet software that can be reviewed, while remembering that open source alone does not guarantee safety.
-- Use the project's official website or verified application listing.
-- Check the developer name, domain spelling, and release information.
-- Be cautious with sponsored search results and direct-message links.
-- Use strong, unique account passwords and two-factor authentication for custodial services.
-- Be able to explain the recovery process before depositing funds.
-
-**Control the size of mistakes**
-
-- Start with an amount you can afford to lose.
-- Practice receiving before sending.
-- Test backups before storing meaningful funds.
-- Increase security and complexity slowly.
-- Do not borrow money to experiment.
-
-When uncertain, pause. A real opportunity will survive a careful check. A scam often depends on preventing one.
-
-**Spot question:** What clues would help you spot a scam, and what is the safe response if you see one?
+**Try it:** In a prepared message or payment screen, identify the warning sign, what could be lost, and the first safe action.
 
 ### Acquiring and exchanging bitcoin
 
-## Pathway awareness, not financial advice
+#### Pathway awareness, not financial advice
 
-People obtain bitcoin in several ways. Each path creates different privacy, custody, price, fraud, legal, and operational risks. This information is for education only and is not financial, investment, legal, or tax advice.
+People may receive bitcoin through work, a community payment, a peer exchange, an ATM, or a service. Each pathway has different costs, custody, privacy, fraud, legal, and operational trade-offs. This Diploma does not recommend a provider or tell you which path to use.
 
-**Earning:** A person may receive bitcoin for work, goods, or services. This can be direct and practical, but both parties must agree on the amount, timing, payment method, and local tax treatment.
+- **Earning or receiving:** Bitcoin may be received for work, goods, services, a gift, a refund, or a community payment. The parties still need to agree on the amount, timing, and payment method.
+- **Peer-to-peer exchange:** Two people may exchange fiat money or goods for bitcoin directly or through a matching service. This can introduce counterparty, physical-safety, payment-reversal, and fraud risks.
+- **Exchange, broker, ATM, or kiosk:** A service or machine may provide a familiar route, but may involve fees, identity checks, custody, withdrawal limits, or a poor exchange rate.
 
-**Peer-to-peer exchange:** Two people may exchange fiat money or goods for bitcoin directly, in person or through an online matching service. This can reduce dependence on a central exchange but creates counterparty, physical-safety, payment-reversal, and fraud risks.
+Before comparing a path, ask:
 
-**Centralized exchange or broker:** A company may sell bitcoin through an account. This can provide liquidity and a familiar payment path. It creates identity, custody, hacking, withdrawal, fee, banking, and jurisdiction risk.
-
-**Bitcoin ATM or kiosk:** A machine may exchange cash or another payment for bitcoin. It can be convenient but may charge high fees, require identification, impose limits, or use an unfavorable rate.
-
-**Community or merchant payment:** A person may receive bitcoin as a refund, gift, donation, or local payment. The parties must still verify the wallet, amount, and tax or accounting implications.
-
-Before using any path, compare:
-
-| Risk area | Questions to ask |
+| Risk area | Question to ask |
 | --- | --- |
-| Price | What exchange rate and spread are used? |
-| Fees | What service, network, deposit, or withdrawal fees apply? |
-| Custody | Who holds the bitcoin before and after the exchange? |
-| Identity | What personal data is collected, stored, or shared? |
-| Settlement | Can the fiat payment be reversed? When is the bitcoin final? |
-| Withdrawal | Can bitcoin be sent to a wallet you control? Are there limits or delays? |
-| Counterparty | How do you know the other party will perform? |
-| Safety | Is an in-person meeting public and appropriate? Is support legitimate? |
-| Law and tax | Is the path lawful where you live? What records are required? |
+| Costs | What price, spread, and service or withdrawal fees apply? |
+| Custody | Who controls the bitcoin before and after the exchange? |
+| Identity and privacy | What personal information is collected, stored, or shared? |
+| Withdrawal and settlement | Can payment or withdrawal be delayed, limited, or reversed? |
+| Counterparty and safety | How can I verify the other party or service, and is an in-person exchange safe? |
+| Local context | Is the route lawful and appropriate where I live, and what records may matter? |
 
-**Know your customer**, or **KYC**, describes identity checks a regulated service may require. KYC can support legal compliance and account recovery, but it creates a record connecting identity to financial activity. No-KYC paths may offer more privacy, but can involve greater counterparty risk, complexity, price differences, or legal uncertainty.
-
-No path is automatically best in every location. Provider-specific instruction belongs only in the educator-curated Module 4 Connect experience and must not be treated as a global recommendation.
+No pathway is automatically best everywhere. Local examples and provider-specific guidance belong in Module 4. **Know your customer (KYC)** describes identity checks a regulated service may require. It can support account recovery or legal compliance, while also creating a record that connects identity and financial activity. Paths with less identity collection can involve different counterparty, legal, safety, cost, or complexity risks.
 
 ### On-chain and Lightning payments
 
-Bitcoin supports more than one payment path.
+Bitcoin has more than one payment path. **On-chain** payments are recorded in Bitcoin's blockchain and gain confirmations. **Lightning** is a payment network built on Bitcoin that can support fast, frequent payments. A Lightning payment may complete quickly or fail, and its wallet can still be custodial or self-custodial.
 
-An **on-chain payment** is recorded directly in Bitcoin's blockchain. It uses block space, pays a miner fee, and gains confirmations. On-chain payments provide base-layer settlement and are useful when final settlement matters. During busy periods, fees or waiting times may increase.
-
-The **Lightning Network** is a payment network built on top of Bitcoin. Participants use payment channels and route payments between one another without recording every individual payment as a separate on-chain transaction. Lightning is designed for fast, frequent, or small payments.
-
-This is a layer distinction. Bitcoin's base layer prioritizes open verification and final settlement. Lightning uses Bitcoin as its foundation while making different trade-offs for speed and frequent payments. Faster layers do not replace the base rules; they depend on them.
-
-| Feature | On-chain Bitcoin | Lightning |
+| Question | On-chain Bitcoin | Lightning |
 | --- | --- | --- |
-| Payment request | Bitcoin address or on-chain payment request | Lightning invoice, offer, or supported Lightning address |
-| Settlement path | Recorded in a block | Routed through payment channels; channels ultimately depend on Bitcoin |
-| Typical use | Base settlement, larger or less frequent transfer | Fast, smaller, or frequent payment |
-| Fee conditions | Depend on block-space demand and transaction data | Depend on routing, wallet, liquidity, and service design |
-| Timing | Broadcast first, then confirmations | Usually completes or fails quickly |
-| Main beginner risk | Wrong address, unsuitable fee, confirmation delay | Wrong payment method, wallet custody, liquidity or routing failure |
+| Receiving information | Bitcoin address or on-chain payment request | Lightning invoice, offer, or supported Lightning address |
+| Payment result | Broadcast first, then confirmations | Usually completes or fails quickly |
+| Common use | Base-layer settlement or less frequent transfer | Fast, smaller, or frequent payment |
+| Beginner checks | Correct address, network, amount, fee, and confirmation status | Correct invoice or request, amount, expiry, custody, and payment result |
 
-Lightning wallets can be custodial or self-custodial. A simple Lightning application may hold the user's funds. Another may let the user control keys but require more backup and channel management. Do not assume that “Lightning wallet” describes the custody model.
+Which path does the recipient expect? Confirm whether they have provided an on-chain address or a Lightning invoice or request before paying. An on-chain wallet cannot directly pay every Lightning invoice, and a Lightning wallet may not support every on-chain action. Some applications support both paths but may add fees or service dependencies. Detailed Lightning setup, channels, routing, and liquidity are Advanced learning; live local practice belongs in Module 4 when it is safe and appropriate.
 
-Before paying, confirm which network the recipient expects. An on-chain wallet cannot send directly to every Lightning invoice, and a Lightning wallet may not support every on-chain function. Some applications support both and may convert between them, with added fees or trust.
+Imagine that a prepared scenario offers both payment paths. Which request can the intended wallet use, and what would you check before approving it? The answer depends on the receiving request, the wallet, and the situation—not on a universal “best” path.
 
-Detailed Lightning setup and live payment practice belong in Module 4 when local tools, connectivity, educator preparation, and learner safety allow.
+### Practical competency check observed by an educator
 
-Channel setup, routing operations, and liquidity management are advanced topics. A beginner needs to recognize that these factors can affect whether a Lightning payment succeeds and what it costs, but does not need to operate routing infrastructure in the Diploma.
+Before assessment, you will receive supported practice and know the task and safety boundaries. Your educator—not an app, attendance record, or self-report—will observe you using an approved prepared, simulated, or low-stakes environment.
+
+You will show that you can open or navigate the prepared wallet, complete an approved first-access pathway, locate and check receiving information, and receive bitcoin or safely simulate receipt. You will also complete or safely simulate a receive or send flow, respond safely to a mismatch or scam, and show recovery readiness with prepared materials while keeping all secrets private. If you are not yet ready, you should receive feedback, more practice, and another opportunity to demonstrate the skill.
 
 ### Review: what does self-custody responsibility mean?
 
-Pause and consider what direct control would require from you: could you protect a recovery plan, distinguish safe receiving information from secrets, and verify a recipient, amount, network, and fee before sending? Self-custody gives you control of the keys, but it removes the provider who might reset access or reverse an error; custodial services make a different set of trust and risk trade-offs. The practical recap is simple: protect keys and backups, choose tools carefully, recognise scam signals, and keep mistakes small while learning.
+Imagine that a friend sends you a payment request while an unfamiliar support account says you must act immediately. What could you check before doing anything? Can you protect a recovery plan, distinguish receiving information from secrets, and verify the person, payment method, destination, amount, and final screen before sending? Whether a service or you control the keys, the practical recap is the same: protect secrets, verify before approving, recognize scam signals, and keep mistakes small while learning.
 
 #### Key takeaways
 
 - A wallet manages the keys and information used to receive, check, and spend bitcoin; it does not store bitcoin inside a phone or device.
 - Addresses and payment requests can be shared to receive bitcoin, but private keys and seed phrases must remain secret.
-- A seed phrase is full recovery access for many wallets, so it must be recorded accurately, protected offline, and never entered into a website or shared with another person.
-- Custodial services control the keys and may provide account recovery, while self-custody gives the user direct control and direct responsibility for recovery.
-- Hot wallets are convenient for regular use; cold or hardware wallets can provide stronger key isolation but still depend on a safe backup.
-- Before receiving or sending, check the correct network, address or invoice, amount, fee, and transaction status; a valid send is usually irreversible.
-- Start with safe practice or small amounts, recognize scam signals, and pause when a request creates urgency, secrecy, or pressure.
+- A seed phrase can provide full recovery access, so it must stay offline, private, and out of websites and messages.
+- Custodial and self-custodial arrangements create different recovery and control responsibilities. Hardware wallets still depend on a safe backup.
+- Before receiving or sending, check the correct payment method, destination, amount, and final status; a valid send is usually irreversible.
+- Start with safe practice or small approved amounts. Pause when a request creates urgency, secrecy, or pressure.
 
 ---
 
