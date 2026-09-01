@@ -194,8 +194,8 @@ An educator must not award a result because a learner attended, participated con
 
 All certificated delivery modes require both assessment components.
 
-- In-person, online, and cohort delivery integrate approved educator-evaluated theory interactions, formative support, and direct practical observation into competency-led module activities.
-- Self-paced learning may support preparation, but certification requires approved educator-led theoretical and live or remote practical assessment.
+- In-person, online, and cohort delivery integrate documented educator-evaluated theory interactions, formative support, and direct practical observation into competency-led module activities.
+- Self-paced learning may support preparation, but certification requires educator-led theoretical and live or remote practical assessment.
 - Low-connectivity delivery may use offline-capable print/PDF materials and educator-led assessment without a later app requirement.
 - Remote practical assessment is permitted only when the educator can directly observe the required performance and protect learner privacy and safety.
 - Accessibility accommodations may change how a learner communicates or performs, but must preserve the assessed competency, its required criteria, and the required level of performance.

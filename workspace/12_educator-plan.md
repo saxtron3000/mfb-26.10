@@ -24,7 +24,7 @@ The guide should help educators:
 - handle named tools, local resources, and current-data examples carefully;
 - use QR codes and external links sparingly in print/PDF delivery;
 - protect learner safety and autonomy;
-- use educator-led explanations, discussions, games, simulations, and role-plays for theory learning, distinguishing approved educator-evaluated evidence from formative feedback;
+- use educator-led explanations, discussions, games, simulations, and role-plays for theory learning, distinguishing documented educator-evaluated evidence from formative feedback;
 - assess required practical competencies through direct observation;
 - use common rubrics consistently;
 - provide feedback and reassessment; and
@@ -143,7 +143,7 @@ Suggested two-part sequence when more time is available:
 - Likely misconceptions
 - Suggested activities
 - Optional app recap or self-check items mapped to this module, where useful
-- Approved educator-evaluated theory interactions and formative learner explanations, comparisons, discussions, or simulations
+- Documented educator-evaluated theory interactions and formative learner explanations, comparisons, discussions, or simulations
 - Review point
 
 Have learners keep their answers to the opening money questions. Return to them at the end of the Diploma.
@@ -158,7 +158,7 @@ Have learners keep their answers to the opening money questions. Return to them 
 - Likely misconceptions
 - Suggested activities
 - Optional app recap or self-check items mapped to this module, where useful
-- Approved educator-evaluated theory interactions and formative learner explanations, concept illustrations, role-plays, or scenarios
+- Documented educator-evaluated theory interactions and formative learner explanations, concept illustrations, role-plays, or scenarios
 - Review point
 
 ### Frequently Asked Questions About Bitcoin's Properties
@@ -242,12 +242,12 @@ Explain to learners that assessment has two equally important, non-compensatory 
 
 Educators should present assessment like a driving test:
 
-1. Learners must meet the approved educator-led theoretical requirements, which represent 50% of the complete assessment.
-2. Learners must meet the approved educator-observed practical requirements, which represent the remaining 50%.
+1. Learners must meet the educator-led theoretical requirements, which represent 50% of the complete assessment.
+2. Learners must meet the educator-observed practical requirements, which represent the remaining 50%.
 
 The percentages describe the balance of the two required components; do not calculate a combined numerical grade.
 
-The optional app may supply microlearning, feedback, and self-checks. The educator evaluates approved theoretical interactions and directly evaluates practical performance. A learner explanation may be assessed as theory through an approved educator interaction, or as practice when it is an observable criterion within an approved practical task.
+The optional app may supply microlearning, feedback, and self-checks. The educator evaluates approved theoretical interactions and directly evaluates practical performance. A learner explanation may be assessed as theory through a competency-aligned educator interaction, or as practice when it is an observable criterion within an approved practical task.
 
 An app quiz or checklist can guide preparation, but it is not proof of competence.
 
@@ -296,7 +296,7 @@ Educators should not treat fluent repetition as evidence of a competency. Use fo
 
 ### 5.4 Modules 3 And 4: Practical Competence
 
-Modules 3 and 4 are skills-dominant. Required practical competencies make up the practical 50% of assessment and are assessed through direct observation by an educator. Theoretical competencies mapped to these modules use approved educator-led evidence.
+Modules 3 and 4 are skills-dominant. Required practical competencies make up the practical 50% of assessment and are assessed through direct observation by an educator. Theoretical competencies mapped to these modules use documented educator-led evidence.
 
 Use approved tests, demonstrations, simulations, and role-plays from the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) to observe whether the learner can:
 

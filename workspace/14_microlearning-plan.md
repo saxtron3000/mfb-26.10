@@ -388,7 +388,7 @@ Themes: recovery process, approved practice conditions, backup safety, and suppo
 
 Question-bank opportunities:
 
-- sequence ordering: safe, educator-approved recovery-readiness steps;
+- sequence ordering: safe, educator-selected recovery-readiness steps;
 - multiple choice: identify an unsafe backup practice;
 - scenario: select the right response when a seed phrase may have been exposed;
 - educator flag: practical recovery evidence requires direct observation under `13_assessment.md`.
@@ -612,7 +612,7 @@ None of these features is required for the October quiz. They are a simple idea 
 - Educator-led discussion-only or follow-up-required items.
 - Educator review of written responses and reflections when the learner has consented.
 - Educator observation records for approved practical tasks, kept separate from quiz results.
-- Approved educator overrides or corrections, with an audit record.
+- Educator overrides or corrections, with an audit record.
 - Cohort-level reporting to identify common learning gaps.
 - Exportable reports in formats such as CSV, spreadsheet, API, PDF, or dashboard.
 

@@ -282,7 +282,7 @@ The Diploma should include:
 - acquiring and exchanging pathways as beginner concepts, not recommendations;
 - guided discussion and reflection.
 
-It must also include one approved educator-curated Module 4 task with safe practice, verification, explanation, and realistic next steps.
+It must also include one educator-curated Module 4 task with safe practice, verification, explanation, and realistic next steps.
 
 The Diploma should not promise independent mastery of economics, technical systems, or high-stakes custody.
 

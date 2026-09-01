@@ -11,7 +11,7 @@ Nobody may receive a Bitcoin Diploma certificate without successfully completing
 1. the theoretical competency component, representing 50% of the complete assessment and evaluated through observable learner explanations, comparisons, scenario responses, and other educator-led evidence; and
 2. the practical competency assessment component, representing the remaining 50% and evaluated through direct observation by an educator.
 
-Only approved educator-led interactions with clear competency criteria and records contribute to the theoretical result; participation, self-description, and unrecorded discussion do not. Other questions, discussions, games, scenarios, simulations, and role-plays are formative. Optional app use is not assessment evidence. Both components are non-compensatory pass gates.
+Only documented educator-led interactions with clear competency criteria and records contribute to the theoretical result; participation, self-description, and unrecorded discussion do not. Other questions, discussions, games, scenarios, simulations, and role-plays are formative. Optional app use is not assessment evidence. Both components are non-compensatory pass gates.
 
 The percentages describe the balance of two required components. The Diploma does not calculate or report a combined numerical grade unless a separate reporting rule is approved.
 
@@ -65,7 +65,7 @@ Public communication must distinguish these terms:
 |---|---|
 | Participation | A learner attended or joined the learning experience. |
 | App progress | A learner completed some app learning units, self-evaluations, or quizzes. |
-| Theoretical assessment complete | The learner passed approved educator-evaluated theoretical evidence for the 50% theoretical component. |
+| Theoretical assessment complete | The learner passed educator-evaluated theoretical evidence for the 50% theoretical component. |
 | Practical-competence complete | The learner passed direct educator observation for the 50% practical component. |
 | Assessment-complete | Both assessment components are complete and recorded. |
 | Certification | A certificate issued only after assessment-complete status is verified. |
@@ -84,7 +84,7 @@ In 2026.10, the My First Bitcoin app is optional. It may offer self-checks, reca
 
 ## The educator
 
-The educator evaluates the full theoretical competency component through approved competency-aligned activities, workshops, discussions, and learner explanations, using criteria and concise records; other educator-led theory work is formative. An educator evaluates the full practical component through direct observation. An explanation may also be scored within a practical task when it is an observable criterion of that performance.
+The educator evaluates the full theoretical competency component through competency-aligned activities, workshops, discussions, and learner explanations, using criteria and concise records; other educator-led theory work is formative. An educator evaluates the full practical component through direct observation. An explanation may also be scored within a practical task when it is an observable criterion of that performance.
 
 The educator must use the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol), record evidence-based results in the Assessment Grid, provide remediation where needed, and reassess fairly. The educator may not replace required evidence with attendance, effort, familiarity, a learner's self-description, or personal discretion and may not set or override the theoretical pass result except through an explicitly governed correction process.
 
@@ -163,7 +163,7 @@ An on-chain timestamp, if adopted, must not expose learner personal information 
 
 Use `05_competencies.md` for the competencies and observable criteria that assessment must measure.
 
-Use the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) for approved educator-evaluated theory interactions, summative practical assessment tasks, rubrics, equivalent routes, and reassessment. Use the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) for formative activities and approved supporting practice.
+Use the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) for competency-aligned educator-evaluated theory interactions, summative practical assessment tasks, rubrics, equivalent routes, and reassessment. Use the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) for formative activities and approved supporting practice.
 
 Use `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` for facilitation guidance and educator assessment procedures, rubrics, evidence, feedback, and reassessment guidance; use `12_educator-plan.md` as the supporting structure plan.
 

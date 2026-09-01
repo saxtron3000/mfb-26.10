@@ -598,7 +598,7 @@ Adaptation and localization may gradually weaken required competency standards.
 
 ## Assessment Validity And Educator Variation Risk
 
-Optional app self-checks may over-reward recall, while educator theory and practical judgments may vary across cohorts. The 50/50 theoretical-practical allocation, approved educator theory interactions, direct practical observation, common rubrics, educator calibration, reassessment rules, and moderation are required to protect certificate consistency.
+Optional app self-checks may over-reward recall, while educator theory and practical judgments may vary across cohorts. The 50/50 theoretical-practical allocation, competency-aligned educator theory interactions, direct practical observation, common rubrics, educator calibration, reassessment rules, and moderation are required to protect certificate consistency.
 
 ## Translation Risk
 

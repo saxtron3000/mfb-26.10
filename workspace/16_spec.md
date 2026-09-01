@@ -129,7 +129,7 @@ How can Bitcoin function as money in this community?
 
 Observable learner competency:
 
-Learners can safely complete one approved educator-curated Bitcoin-as-money task and explain its purpose, trade-offs, safety considerations, and realistic next step.
+Learners can safely complete one educator-curated Bitcoin-as-money task and explain its purpose, trade-offs, safety considerations, and realistic next step.
 
 ---
 
@@ -179,7 +179,7 @@ The Student Book should carry the learner path. The Educator Guide should help t
 
 Assessment in the redesigned Diploma is beginner-focused, competency-aligned, and required. It has two non-compensatory parts:
 
-1. Theoretical assessment: a learner explanation, comparison, illustration, or scenario response, evaluated and recorded through approved educator-led, competency-aligned interactions. This represents 50% of the complete assessment.
+1. Theoretical assessment: a learner explanation, comparison, illustration, or scenario response, evaluated and recorded through educator-led, competency-aligned interactions. This represents 50% of the complete assessment.
 2. Practical competency assessment: directly evaluated by an educator through demonstrations, simulations, tests, and role-plays. This represents the remaining 50%.
 
 Modules 1 and 2 are knowledge-dominant. Modules 3 and 4 are skills-dominant and require direct observation of approved practical competencies. Educator-led theory activities are formative unless they are explicitly approved, criteria-based, individually evidenced, and recorded.
@@ -254,7 +254,7 @@ It should not promise:
 - organizational treasury, policy, compliance, accounting, tax, legal, investment, or institutional custody competence;
 - legal or tax guidance;
 - global endorsement of named tools or services;
-- certification without approved educator-led theoretical and practical evidence.
+- certification without documented educator-led theoretical and practical evidence.
 
 Advanced topics should be preserved for future pathways rather than forced into the 8-hour beginner course.
 

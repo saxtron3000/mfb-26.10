@@ -62,7 +62,7 @@ The four-module Diploma has 11 assessed competencies. `C1` through `C11` are the
 | `C10` | Demonstrate recovery readiness and protection of recovery information. | Practical: direct observation |
 | `C11` | Complete one approved locally relevant Bitcoin-as-money task and connect it to its local purpose, realistic alternative, trade-offs, and next step. | Practical: direct observation with embedded explanation |
 
-The theoretical component (50%) and practical component (50%) are separately required and non-compensatory. The theoretical component is evidenced through approved educator-evaluated learner actions. The practical component is evidenced through direct educator observation. Every assessed competency must meet its approved standard. Optional app self-checks may support practice and review, but cannot supply either component.
+The theoretical component (50%) and practical component (50%) are separately required and non-compensatory. The theoretical component is evidenced through educator-evaluated learner actions. The practical component is evidenced through direct educator observation. Every assessed competency must meet its approved standard. Optional app self-checks may support practice and review, but cannot supply either component.
 
 Use these stable competency and criterion codes in activities, practical tasks, rubrics, optional self-checks, and completion records. The approved competency-to-evidence route is maintained in the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol).
 

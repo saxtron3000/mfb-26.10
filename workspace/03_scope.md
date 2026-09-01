@@ -240,7 +240,7 @@ Create a competency-aligned system with two required, non-compensatory component
 
 - Assessment philosophy
 - Competency-to-assessment blueprint and capacity check
-- Approved educator-evaluated theoretical interactions and summative practical assessment tasks
+- Documented educator-evaluated theoretical interactions and summative practical assessment tasks
 - 50/50 theoretical-practical assessment allocation, both evaluated by educators
 - Competency evidence framework
 - Assessment mapping

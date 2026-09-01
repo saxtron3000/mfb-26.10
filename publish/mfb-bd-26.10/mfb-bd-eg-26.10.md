@@ -541,7 +541,7 @@ Use this as a planning pattern, not a rigid script.
 | 55–65 min | Debrief | Connect the experience to the competency; correct what the activity could not show. |
 | 65–80 min | Second concept or demonstration | Add the next essential idea and model the complete process where relevant. |
 | 80–105 min | Practice and production | Learners apply, decide, explain, or perform with decreasing support. |
-| 105–115 min | Learning check or practical evidence | Gather a formative or approved educator-theory interaction, or have an educator observe an approved practical skill. |
+| 105–115 min | Learning check or practical evidence | Gather formative feedback or a competency-aligned educator-theory interaction, or have an educator observe an approved practical skill. |
 | 115–120 min | Review and bridge | Name key takeaways, unresolved questions, and the next module connection. |
 
 Practical observation often requires more time than this pattern allows. For Module 3 and Module 4, plan stations, another educator, or smaller groups within the course schedule. Do not assess several learners at once when you cannot see each learner's decisions and safety behavior.
@@ -1539,7 +1539,7 @@ Before class, estimate:
 - the realistic time per learner;
 - device-sharing delays;
 - accessibility and language support;
-- the number of approved educators or assessors; and
+- the number of educators or assessors; and
 - time for feedback and reassessment.
 
 Use smaller stations or additional approved assessors within the scheduled course route. Group practice is valuable, but one learner must not perform the task for the whole group when individual evidence is required. Do not move required certification assessment to an unplanned appointment after the advertised Diploma.
@@ -2710,11 +2710,11 @@ Every activity should state whether it is:
 
 - learning and practice;
 - formative theory checking or feedback;
-- an approved educator-led theoretical touchpoint;
+- a competency-aligned educator-led theoretical touchpoint;
 - an approved practical assessment for certification; or
 - an approved combination of formative learning and practical assessment.
 
-Activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) may supply approved educator-led theoretical touchpoints and practical assessment tasks. Their use does not make every activity an assessment. Do not score an engaging activity unless it is competency-aligned and has individual evidence, observable criteria, a passing standard, prompting rules, evidence recording, and—where practical—safety conditions and an approved equivalent-variant policy.
+Activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) may supply competency-aligned educator-led theoretical touchpoints and practical assessment tasks. Their use does not make every activity an assessment. Do not score an engaging activity unless it is competency-aligned and has individual evidence, observable criteria, a passing standard, prompting rules, evidence recording, and—where practical—safety conditions and an approved equivalent-variant policy.
 
 ### Assessment activity crosswalk
 
@@ -2797,7 +2797,7 @@ Preserve:
 
 ### Adapt a summative practical task
 
-Only use an approved equivalent practical variant. Educators may not adapt an activity into a scored theoretical substitute when it does not match the competency; an approved educator-theory interaction must use its own criteria and record. Preserve:
+Only use an approved equivalent practical variant. Educators may not adapt an activity into a scored theoretical substitute when it does not match the competency; a competency-aligned educator-theory interaction must use its own criteria and record. Preserve:
 
 - competency and measurable verb;
 - evidence type;
