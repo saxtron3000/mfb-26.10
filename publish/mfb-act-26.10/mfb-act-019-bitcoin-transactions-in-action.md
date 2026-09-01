@@ -1,0 +1,37 @@
+# Bitcoin Transactions in Action
+## Keywords
+Bitcoin transaction, sender, receiver, node, miner, blockchain
+## Activity Type
+Role-play class activity
+## Participation
+Students act as senders, receivers, nodes, or miners.
+## Duration
+
+## Description
+Students simulate creating, verifying, validating, and adding peer-to-peer Bitcoin transactions to a blockchain.
+## Objectives
+Understand the underlying concepts and mechanics of a peer-to-peer Bitcoin transaction.
+## Materials
+Transaction notes; coins; approval tables; dice.
+## Preparation
+Assign students the roles of sender, receiver, node, or miner.
+## Procedure
+### Setup
+Explain each role: senders create and broadcast; receivers receive and verify; nodes validate; miners add transactions to the blockchain.
+### Step 1
+Senders write the amount and receiver on a transaction note, sign it, and pass the note and coins to the receiver.
+### Step 2
+Receivers check the note and coin count, then approve or reject. Nodes validate addresses, sufficient funds, and absence of double spending.
+### Step 3
+Miners review approved transactions, roll dice, and the miner with the smaller number adds the transaction to the blockchain. Students keep track of their coin balances.
+## Review
+### Key Points
+Once added to the blockchain, a transaction cannot be changed or reversed.
+### Discussion questions
+What concepts did the class learn through the activity?
+## Notes
+
+**Diploma assessment link:** May provide the individual-response context for [`T2` / `C3`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#assessed-competencies-criteria-and-educator-notes). Use the approved protocol and record an individual explanation of validation and double-spending; otherwise, this activity is formative.
+
+## Additional Resources
+
