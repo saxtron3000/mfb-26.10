@@ -41,7 +41,7 @@ Do not claim that the Diploma causes adoption, financial improvement, ideologica
 
 ## 2. Mature assessment, certification, and evaluation governance
 
-**Status:** Conditional expansion. **First dependency:** the October competency-to-evidence crosswalk, approved tasks and rubrics, and low-tech assessment records must be operating reliably.
+**Status:** Conditional expansion. **First dependency:** the published October competency-to-evidence crosswalk, approved tasks and rubrics, and low-tech assessment records must be piloted and operating reliably.
 
 Future work may strengthen the system behind a meaningful certificate.
 

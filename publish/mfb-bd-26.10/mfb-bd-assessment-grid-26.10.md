@@ -29,7 +29,7 @@ The Bitcoin Diploma aims for every learner to attain and demonstrate its require
 - `C9`, `C10`, and `C11` require direct educator observation. A safety-critical error is `NY`.
 - Theory and practice are separate requirements: theory is `C1`–`C8`; practice is `C9`, `C10`, and `C11`.
 - Never record seed phrases, private keys, credentials, balances, or unnecessary personal information. `C12` and `C13` are formative competencies only.
-- Use the approved task rubric for detailed prompting, accommodations, evidence requirements, and reassessment.
+- Use the [Educator Guide's operational assessment protocol](mfb-bd-eg-26.10.md#operational-assessment-protocol) for task IDs, detailed prompting, accommodations, evidence requirements, safety-critical errors, reassessment, and calibration.
 
 <div style="break-after: page; page-break-after: always;"></div>
 
@@ -56,4 +56,4 @@ The Bitcoin Diploma aims for every learner to attain and demonstrate its require
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-**Certificate-of-completion check:** Mark **Complete** only when all 11 assessed competency cells are `MS`, both assessment components have passed, and the required evidence is recorded privately. Only then may a certificate of completion be issued or recommended through the approved process.
+**Certificate-of-completion check:** Mark **Complete** only when all 11 assessed competency cells are `MS`, both assessment components have passed, and the required evidence is recorded privately. Record the applicable `T1`–`T3` and `P9`–`P11` task IDs in the notes field. Only then may a certificate of completion be issued or recommended through the approved process.

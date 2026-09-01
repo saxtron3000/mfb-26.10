@@ -21,6 +21,8 @@ The 2026.10 Diploma uses two required, non-compensatory assessment components:
 
 App progress, attendance, participation, enthusiasm, confidence, self-report, or completion of materials cannot establish competency. The My First Bitcoin app is optional and cannot provide formal assessment evidence.
 
+The operational source is the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol). It contains the competency-to-evidence crosswalk, approved theory interactions, practical tasks, permitted support, safety-critical errors, equivalent routes, reassessment, calibration, and moderation procedures. The Assessment Grid is the cohort record; it is not a rubric.
+
 ---
 
 # 1. Competency-led assessment
@@ -105,6 +107,8 @@ The assessment follows the Diploma's **Problem → Solution → Action → Conne
 
 Each row below receives one final result. The decimal-code criteria are required within that result.
 
+The approved task or interaction IDs and their evidence routes are maintained in the Educator Guide's operational assessment protocol. An educator must plan a valid individual evidence route for every row before teaching starts.
+
 | Assessed competency | Required observable criteria | Approved evidence | Component |
 |---|---|---|---|
 | `C1` Explain why people use money and compare two forms of money using simple characteristics. | `C1.1` Explain why people use money.<br>`C1.2` Explain barter limits and the beginner evolution of money.<br>`C1.3` Use functions and properties of money.<br>`C1.4` Compare two forms of money using simple characteristics. | Own-words explanation, concept illustration, and guided comparison. | Theoretical |
@@ -170,7 +174,7 @@ Passing one component cannot compensate for an unmet requirement in the other. P
 
 Educators assess both theoretical and practical competencies using approved tasks, observable criteria, common rubrics, concise evidence records, feedback, and fair reassessment.
 
-The Educator Guide and approved activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) must provide:
+The [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) and approved activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) provide:
 
 - competency-to-task mappings;
 - required observable criteria for each competency;
@@ -200,12 +204,9 @@ All certificated delivery modes require both assessment components.
 
 # 11. Implementation questions to resolve
 
-- Final competency-to-evidence blueprint for `C1`–`C11`, including the required decimal-code criteria.
-- How any reported numerical score represents the fixed 50/50 allocation without allowing an average to compensate for an unmet component or safety-critical competency.
-- Final practical tasks and rubrics for `C9`, `C10`, and `C11`.
-- Educator preparation, training, calibration, moderation, and online-observation rules.
-- Accessibility and language parity across instructional materials and educator-led assessment.
+- Whether any numerical score will be reported alongside the two non-compensatory component statuses. Until a separate rule is approved, do not calculate or report a combined numerical grade.
+- The release-test evidence that the selected delivery route, cohort size, assessor ratio, accommodations, feedback, and reassessment can deliver the required individual evidence within its advertised schedule.
 - Privacy, consent, data retention, minors' access, audit trails, and result correction.
-- How theoretical and practical results form one completion record, including permissions, corrections, and certificate issuance.
-- Appeals, remediation, reassessment, suspected-misconduct, outage, and emergency-contingency procedures.
+- Certificate-record permissions, corrections, and issuance workflow.
+- Appeals, suspected-misconduct, outage, and emergency-contingency procedures.
 - Certificate issuance, identity verification, revocation, and public verification rules.

@@ -238,18 +238,22 @@ Educator rule: answer the learner's real question, name trade-offs honestly, and
 
 ### 5.1 The Two-Part Model
 
-Explain to learners that assessment has two equally important, non-compensatory parts: theoretical competency shown through explanation, comparison, application, or a scenario response, and practical competency shown through direct observation. The theoretical half is educator-led through check-ins, participation, discussion, and learner explanations. Other learning activities remain formative unless the educator identifies them as an assessment check-in.
+Explain to learners that assessment has two equally important, non-compensatory parts: theoretical competency shown through explanation, comparison, application, or a scenario response, and practical competency shown through direct observation. The theoretical half is educator-led through approved individual check-ins, discussions, and learner explanations. Participation creates an opportunity for evidence but is not evidence by itself. Other learning activities remain formative unless the educator identifies them as an approved assessment interaction.
 
 Educators should present assessment like a driving test:
 
 1. Learners must meet the approved educator-led theoretical requirements, which represent 50% of the complete assessment.
 2. Learners must meet the approved educator-observed practical requirements, which represent the remaining 50%.
 
+The percentages describe the balance of the two required components; do not calculate a combined numerical grade.
+
 The optional app may supply microlearning, feedback, and self-checks. The educator evaluates approved theoretical interactions and directly evaluates practical performance. A learner explanation may be assessed as theory through an approved educator interaction, or as practice when it is an observable criterion within an approved practical task.
 
 An app quiz or checklist can guide preparation, but it is not proof of competence.
 
 Both assessment components must be passed for certification; strength in one cannot compensate for failure in the other.
+
+The operational source is the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol). It supplies the approved `T1`–`T3` theory interactions, `P9`–`P11` practical tasks, permitted support, safety-critical errors, equivalent routes, calibration, moderation, and reassessment procedure. The Assessment Grid records results; it does not replace the protocol.
 
 ### 5.2 Start With The Practical Competency
 
@@ -355,7 +359,7 @@ Practical-task accommodations may change how a learner receives instructions, co
 
 ### 5.8 Educator calibration and quality
 
-Every educator who assesses practical competency needs preparation. The final guide should include:
+Every educator who assesses practical competency needs preparation. The operational assessment protocol includes:
 
 - annotated examples of passing and **Not yet** evidence;
 - practice scoring common learner responses and performances;

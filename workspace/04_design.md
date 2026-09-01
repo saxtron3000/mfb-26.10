@@ -25,6 +25,8 @@ For assessed competencies and observable criteria, see `05_competencies.md`.
 
 For assessment, see `13_assessment.md`.
 
+For the approved competency-to-evidence crosswalk, theory interactions, practical tasks, rubrics, support rules, equivalent routes, reassessment, calibration, and moderation, see the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol).
+
 For certification, see `15_certification.md`.
 
 ---
@@ -208,9 +210,9 @@ These topics should be framed as guided orientation, not as permission to manage
 
 Assessment should match the competency and the learner action being claimed.
 
-The optional app may deliver microlearning, knowledge checks, feedback, recap, and discovery for self-assessment. Educators gather all theoretical evidence through approved competency-aligned interactions and evaluate all practical performance using common tasks and rubrics.
+The optional app may deliver microlearning, knowledge checks, feedback, recap, and discovery for self-assessment. Educators gather all theoretical evidence through approved competency-aligned interactions and evaluate all practical performance using the common tasks and rubrics in the Educator Guide's operational assessment protocol.
 
-Modules 1 and 2 should be knowledge-dominant, while Modules 3 and 4 should be skills-dominant. The complete Diploma assessment allocates 50% to educator-led theory and 50% to educator-observed practice. Educator-led activities may be formative, but only approved competency-aligned interactions with criteria and records contribute to the theoretical score.
+Modules 1 and 2 should be knowledge-dominant, while Modules 3 and 4 should be skills-dominant. The complete Diploma assessment allocates 50% to educator-led theory and 50% to educator-observed practice. Educator-led activities may be formative, but only approved competency-aligned interactions with criteria and records contribute to the theoretical component. Do not calculate a combined numerical grade unless a separate reporting rule is approved.
 
 The app cannot record or evaluate assessment evidence. Certification requires both educator-evaluated components.
 

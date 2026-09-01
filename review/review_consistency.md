@@ -22,11 +22,7 @@ Affected: `05_competencies.md`, `03_scope.md`, `06_plan.md`, `02_research.md`, `
 
 ## 2. Does “50% / 50%” describe a score or two completion gates?
 
-The assessment and certification files require both components to be passed and recorded as `Meets standard` or `Not yet`, but still call each component 50% of a total assessment. This can be read as either a weighted grade or two non-compensatory status checks.
-
-**A. Weighted grade plus gates.** Retain a numerical 50/50 calculation and publish competency-level thresholds, aggregation, and reporting rules for both components.
-
-**B. Two completion gates.** Treat 50/50 as a programme-balance statement only; certificates depend on passing every required competency and safety criterion, with no combined numerical grade.
+**Resolved.** The 50/50 wording describes two equal-status, non-compensatory completion gates: theoretical competency (`C1`–`C8`) and practical competency (`C9`–`C11`). Every required competency and safety criterion must meet standard. The Diploma does not calculate or report a combined numerical grade unless a separate reporting rule is approved.
 
 Affected: `05_competencies.md`, `06_plan.md`, `13_assessment.md`, `15_certification.md`, `16_spec.md`, public materials.
 
@@ -120,7 +116,7 @@ Affected: `03_scope.md`, `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, `13_asses
 
 ## 12. Should the first release include timed, certification-complete activities?
 
-The design requires approved theory interactions, direct observation, rubrics, records, and equivalent variants. The [Resources Hub](https://programs.myfirstbitcoin.org/resources/) needs a complete set of approved, timed, rubric-backed tasks to support every competency. Other files sometimes describe the assessment system as if it is ready to operate.
+The Educator Guide operational assessment protocol now supplies approved theory interactions, direct observation tasks, rubrics, records, support rules, and equivalent routes for every competency. It still requires delivery validation, local `P11` variant approval, calibration examples, and record-governance controls before certificated delivery.
 
 **A. Release only when operational.** Make certification-complete activities—competency-to-evidence crosswalk, approved tasks, rubrics, records, variants, and educator calibration—a release dependency.
 

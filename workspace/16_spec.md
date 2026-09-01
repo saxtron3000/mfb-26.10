@@ -164,7 +164,7 @@ The 2026.10 Diploma package is expected to include:
 - Educator Guide;
 - activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/);
 - Bitcoin in Your Community templates;
-- assessment framework;
+- assessment framework, Educator Guide operational assessment protocol, and cohort assessment grid;
 - optional My First Bitcoin app self-check, recap, and discovery package;
 - public stakeholder brief and keynote material;
 - translation-ready Markdown source files;
@@ -184,9 +184,13 @@ Assessment in the redesigned Diploma is beginner-focused, competency-aligned, an
 
 Modules 1 and 2 are knowledge-dominant. Modules 3 and 4 are skills-dominant and require direct observation of approved practical competencies. Educator-led theory activities are formative unless they are explicitly approved, criteria-based, individually evidenced, and recorded.
 
+The percentages describe two equal-status, non-compensatory components; they do not create a combined numerical grade.
+
 The optional app cannot determine whether a learner can perform a practical skill. Its self-checks and recap do not contribute to assessment in 2026.10.
 
 No learner may receive a Bitcoin Diploma certificate until both assessment components meet the 11 assessed competencies at the required standard. Educators may adapt practical teaching in Modules 3–4 and curate Module 4 tasks, but required competencies, observable criteria, equivalent evidence, and passing standards may not be waived. Certificate governance, identity verification, credential infrastructure, and any on-chain verification remain implementation decisions.
+
+The Educator Guide's operational assessment protocol supplies the common competency-to-evidence crosswalk, approved theory interactions, practical tasks, rubrics, permitted support, safety-critical errors, equivalent routes, reassessment, calibration, and moderation. Every certificated cohort must pass its capacity check before delivery.
 
 ---
 

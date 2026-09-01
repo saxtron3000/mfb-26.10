@@ -61,7 +61,7 @@ The following assumptions affect project execution:
 - Sparse QR code use in print materials.
 - Future instructional branches should be documented without becoming current implementation requirements: online PDF, online cohort, self-paced, web, optional app self-assessment support, and cross-modal continuation.
 - `06_plan.md` is the active plan source of truth.
-- Combined assessment is in scope: educator-led theoretical assessment is 50% of the Diploma and educator-observed practical assessment is the remaining 50%.
+- Combined assessment is in scope: educator-led theoretical assessment is 50% of the Diploma and educator-observed practical assessment is the remaining 50%. These are non-compensatory component balances, not a combined numerical grade.
 - Both assessment components are prerequisites for certification.
 - Detailed certification governance and credential infrastructure remain to be defined.
 - Localization preparation is in scope.
@@ -239,21 +239,21 @@ Create a competency-aligned system with two required, non-compensatory component
 ### Deliverables
 
 - Assessment philosophy
-- Competency-to-assessment blueprint
-- Educator-evaluated theoretical interactions and summative practical assessment tasks
+- Competency-to-assessment blueprint and capacity check
+- Approved educator-evaluated theoretical interactions and summative practical assessment tasks
 - 50/50 theoretical-practical assessment allocation, both evaluated by educators
 - Competency evidence framework
 - Assessment mapping
 - Evidence models
-- Common practical rubrics, observable criteria, and safety-critical rules
-- Educator guidance, authorization, training, calibration, and moderation requirements for practical assessment
+- Common rubrics, observable criteria, permitted support, equivalent routes, and safety-critical rules
+- Educator guidance, training, calibration, and moderation requirements
 - Remediation, feedback, and reassessment process
 - Combined assessment-complete status for certification eligibility
 - Low-tech evidence-recording and delivery guidance
 
 ### Note
 
-The project establishes that both educator-evaluated assessment components are mandatory for certification. Optional app self-checks cannot evaluate, record, or replace either component. Certificate governance, identity verification, credential infrastructure, and on-chain verification decisions remain implementation questions.
+The operational assessment protocol is published in the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) and the cohort record in `../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md`. Both educator-evaluated assessment components are mandatory for certification. Optional app self-checks cannot evaluate, record, or replace either component. Certificate governance, identity verification, credential infrastructure, and on-chain verification decisions remain implementation questions.
 
 ---
 

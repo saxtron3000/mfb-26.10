@@ -13,6 +13,7 @@ Choose the route that matches your work:
 | Review the curriculum design | [`workspace/00_index.md`](workspace/00_index.md) |
 | Read or edit the Student Guide | [`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`](publish/mfb-bd-26.10/mfb-bd-sg-26.10.md) |
 | Read or edit the Educator Companion Guide | [`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`](publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) |
+| Use approved assessment interactions, tasks, and rubrics | [`Educator Guide: operational assessment protocol`](publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) |
 | Use the educator assessment record | [`publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md`](publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) |
 | Check a beginner definition | [`publish/mfb-bd-26.10/mfb-bd-lx.md`](publish/mfb-bd-26.10/mfb-bd-lx.md) |
 | See Advanced-module availability | [`publish/mfb-adv-26.10/README.md`](publish/mfb-adv-26.10/README.md) |
@@ -72,6 +73,7 @@ Use these planning documents to develop and maintain the official documents abov
 | Design principles and adaptation rules | [`workspace/04_design.md`](workspace/04_design.md) |
 | Activity and task design | [Resources Hub](https://programs.myfirstbitcoin.org/resources/) |
 | Assessment evidence and passing requirements | [`workspace/13_assessment.md`](workspace/13_assessment.md) |
+| Assessment crosswalk, approved tasks, and rubrics | [`Educator Guide: operational assessment protocol`](publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) |
 | Certification prerequisite and governance | [`workspace/15_certification.md`](workspace/15_certification.md) |
 | Terminology and definitions | [`mfb-bd-lx.md`](publish/mfb-bd-26.10/mfb-bd-lx.md) |
 | Advanced boundaries and parked content | [`workspace/17_advanced.md`](workspace/17_advanced.md) |

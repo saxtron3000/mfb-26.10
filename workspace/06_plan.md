@@ -35,6 +35,7 @@ Current design commitments:
 - activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/);
 - an Educator Guide designed for facilitation, pacing, adaptation, and safety;
 - a combined theoretical and practical assessment model tied directly to assessed competencies and observable criteria;
+- an operational assessment protocol in the Educator Guide with the approved evidence crosswalk, theory interactions, practical tasks, rubrics, support rules, equivalent routes, reassessment, calibration, and moderation;
 - a 50% educator-led theoretical and 50% educator-observed practical assessment allocation;
 - optional app-based microlearning for recap, self-checks, discovery, and connection to My First Bitcoin updates;
 - educator-evaluated theory evidence through approved competency-aligned interactions; other educator-led theory work remains formative;
@@ -333,7 +334,7 @@ Advanced content should not overload the beginner pathway. It may later become o
 
 Class time should be used for learning that benefits from live facilitation.
 
-Begin time planning with the assessed competencies, observable criteria, required practice, and assessment evidence. Do not shorten or waive these merely to fit a one- or two-hour session; schedule a follow-up when necessary. Educators may assign the relevant Student Book chapter or optional app recap before class, but must not make pre-reading, a learner-owned device, app use, or continuous connectivity a condition for required Diploma instruction.
+Begin time planning with the assessed competencies, observable criteria, required practice, and assessment evidence. Use the Educator Guide's operational assessment protocol capacity check before advertising certification. Do not shorten or waive required evidence merely to fit a one- or two-hour session, and do not treat assessment as an unplanned follow-up outside the advertised Diploma. Educators may invite learners to read the relevant Student Book chapter or use an optional app recap before class, but must not make pre-reading, a learner-owned device, app use, or continuous connectivity a condition for required Diploma instruction.
 
 Prioritize:
 
@@ -404,6 +405,7 @@ Educator preparation, timing, adaptation, misconception support, and debrief gui
 | Activity categories and activity template | [Resources Hub](https://programs.myfirstbitcoin.org/resources/) |
 | Educator facilitation and Module 4 selection guidance | `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` |
 | Combined assessment, competency-aligned evidence, and passing requirements | `13_assessment.md` |
+| Assessment crosswalk, approved interactions and tasks, rubrics, and equivalent routes | `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol` |
 | App microlearning question-bank structure | `14_microlearning-plan.md` |
 | Two-part assessment prerequisite for certification and governance questions | `15_certification.md` |
 | Diploma overview for collaborators and stakeholders | `16_spec.md` |
@@ -455,7 +457,7 @@ The redesign still needs decisions on:
 - ownership and approval criteria for English-source simplicity and translation-readiness review;
 - ownership and approval criteria for post-translation language review;
 - optional app self-assessment question-bank maintenance and learner-feedback requirements;
-- educator theory-interaction and practical tasks, rubrics, training, calibration, moderation, and reassessment rules;
+- operational-assessment-protocol pilot evidence for task timing, records, calibration, moderation, accessibility equivalents, and educator capacity;
 - certificate governance and future verification options, including possible on-chain timestamping;
 - low-connectivity delivery assumptions;
 - pilot and educator review process;

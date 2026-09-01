@@ -154,7 +154,7 @@ Review findings should be converted into an approved decision or an action in `r
 - Keep learner-facing publication content in `publish/mfb-bd-26.10/mfb-bd-sg-26.10.md` and align it with `07_contents.md`.
 - Use `10_activities.md` for activity boundaries, quality requirements, and release priorities. Keep detailed activities and assessment-task specifications on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), not in the Student Guide or curriculum plan.
 - Keep educator-facing publication content in `publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`; use `12_educator-plan.md` to plan and check its structure.
-- Keep assessment rules in `13_assessment.md` and certification eligibility and governance questions in `15_certification.md`.
+- Keep assessment rules in `13_assessment.md`, runnable theory interactions and practical assessment tasks in the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol), cohort records in `mfb-bd-assessment-grid-26.10.md`, and certification eligibility and governance questions in `15_certification.md`.
 - Keep optional app planning in `14_microlearning-plan.md` and publication data in `publish/mfb-ml-26.10/mfb-ml-26.10.md`.
 - Keep the complete Advanced inventory and Organizations source trail in `workspace/17_advanced.md`.
 - Keep cross-project findings, decisions, quality checks, and release actions in `review/`.

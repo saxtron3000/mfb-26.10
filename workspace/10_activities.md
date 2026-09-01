@@ -83,16 +83,15 @@ Each activity entry should include:
 
 ## Release priorities
 
-Build the smallest certification-complete Bank before expanding optional activities. The first release needs enough approved formative practice and summative theory and practical tasks to cover every required competency and observable criterion, with usable educator records, low-tech variants, and safety guidance.
+The certification-complete core is maintained in the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol): it maps all assessed competencies, defines approved theory interactions and practical tasks, and supplies common support, safety, equivalent-route, reassessment, calibration, and moderation rules.
 
-Priority work is:
+Priority work is now:
 
-1. Produce the competency-to-activity and competency-to-evidence crosswalk.
-2. Finalize Module 3 and Module 4 practical task variants, rubrics, critical errors, and records.
-3. Define approved educator-evaluated theoretical interactions for Modules 1 and 2.
-4. Provide at least one tested low-tech and relevant accessibility variant for every summative task.
-5. Add calibration examples, prompting limits, and a light moderation approach for educator consistency.
-6. Expand the optional Bank only after the certification-complete core has been piloted and checked.
+1. Create or approve activity entries that prepare learners for each package interaction or task without duplicating its assessment rule.
+2. Test every selected practical variant, low-tech equivalent, and accessibility route in delivery.
+3. Produce and use local calibration examples for the selected `P11` variant before certification.
+4. Keep activity versions, current-data checks, and links traceable to the package.
+5. Expand the optional Bank only after the certification-complete core has been piloted and checked.
 
 ## Ownership and interfaces
 
@@ -103,14 +102,13 @@ Priority work is:
 | Activity categories, full procedures, and task templates | [Resources Hub](https://programs.myfirstbitcoin.org/resources/) |
 | Educator facilitation, pacing, adaptation, and debrief guidance | `12_educator-plan.md` and `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` |
 | Assessment evidence, passing rules, and assessment standards | `13_assessment.md` |
+| Assessment crosswalk, approved tasks, rubrics, and equivalent routes | `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol` |
 | Certification prerequisite and governance questions | `15_certification.md` |
 | Optional app self-assessment | `14_microlearning-plan.md` and `../publish/mfb-ml-26.10/mfb-ml-26.10.md` |
 | Advanced activity seeds and source trails | `17_advanced.md` |
 
 ## Open implementation questions
 
-- Which activity variants are approved for each required observable criterion?
-- What is the smallest set of task variants that works across in-person, online, low-connectivity, and accessibility contexts?
-- Which safety-critical errors require an immediate **Not yet** result, and what support may an educator give before or during each task?
-- What calibration examples and moderation sample are proportionate for a community-led programme?
+- Which local `P11` task variants will be approved first, and which local calibration examples are needed for each?
+- What release evidence will demonstrate that the selected task variants work across in-person, online, low-connectivity, and accessibility contexts?
 - How will the Resources Hub version, review status, current-data checks, and links remain traceable to the published Diploma?

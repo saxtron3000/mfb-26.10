@@ -13,6 +13,8 @@ Nobody may receive a Bitcoin Diploma certificate without successfully completing
 
 Only approved educator-led interactions with clear competency criteria and records contribute to the theoretical result; participation, self-description, and unrecorded discussion do not. Other questions, discussions, games, scenarios, simulations, and role-plays are formative. Optional app use is not assessment evidence. Both components are non-compensatory pass gates.
 
+The percentages describe the balance of two required components. The Diploma does not calculate or report a combined numerical grade unless a separate reporting rule is approved.
+
 The quality and reputation of the certificate depend on the quality and consistency of both forms of assessment.
 
 ---
@@ -27,7 +29,7 @@ Assessment-complete status requires:
 - successful direct observation by an educator of practical competencies `C9`, `C10`, and the selected local task `C11`, including their required safety-focused criteria; and
 - a **Meets standard** result for every required assessed competency, with its required decimal-code criteria evidenced as observable look-fors.
 
-The theoretical and practical components each carry 50% of the total assessment. Both must meet the approved standard; a result in one component cannot compensate for an unmet requirement in the other.
+The theoretical and practical components each carry 50% of the programme's assessment balance. Both must meet the approved standard; a result in one component cannot compensate for an unmet requirement in the other.
 
 Attendance, participation, app activity, an educator's general impression, self-reported ability, or completion of printed/PDF materials alone are not sufficient.
 
@@ -70,7 +72,7 @@ Public communication must distinguish these terms:
 
 Neither app progress nor either assessment component by itself may unlock certification.
 
-Results are non-compensatory: a high theoretical score cannot offset an unmet practical or safety competency, and strong practical performance cannot replace required theoretical evidence.
+Results are non-compensatory: strong theoretical evidence cannot offset an unmet practical or safety competency, and strong practical performance cannot replace required theoretical evidence.
 
 ---
 
@@ -84,7 +86,7 @@ In 2026.10, the My First Bitcoin app is optional. It may offer self-checks, reca
 
 The educator evaluates the full theoretical competency component through approved competency-aligned activities, workshops, discussions, and learner explanations, using criteria and concise records; other educator-led theory work is formative. An educator evaluates the full practical component through direct observation. An explanation may also be scored within a practical task when it is an observable criterion of that performance.
 
-The educator must use approved competency-aligned tasks and rubrics, record evidence-based results, provide remediation where needed, and reassess fairly. The educator may not replace required evidence with attendance, effort, familiarity, a learner's self-description, or personal discretion and may not set or override the theoretical pass result except through an explicitly governed correction process.
+The educator must use the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol), record evidence-based results in the Assessment Grid, provide remediation where needed, and reassess fairly. The educator may not replace required evidence with attendance, effort, familiarity, a learner's self-description, or personal discretion and may not set or override the theoretical pass result except through an explicitly governed correction process.
 
 ## The Certification Process
 
@@ -97,15 +99,8 @@ The certification process verifies that both educator-led component statuses are
 The minimum standard is created by the combination of:
 
 - shared assessed competencies and observable criteria;
-- a common assessment blueprint;
-- approved educator-evaluated theoretical interactions;
-- approved practical assessment tasks;
-- common practical tasks or equivalent approved variants;
-- observable rubrics;
-- educator preparation, training, and calibration for practical assessment;
-- evidence records;
-- remediation and reassessment rules; and
-- moderation or audit where required.
+- the common crosswalk, theory interactions, practical tasks, equivalent variants, rubrics, support rules, safety-critical errors, calibration, moderation, and reassessment process in the Educator Guide's operational assessment protocol; and
+- evidence records in the Assessment Grid.
 
 Educators may adapt examples, language, resources, tools, and approved practical routes in Modules 3–4; they curate Module 4 using their local subject-matter expertise. They may not remove required competencies or criteria, substitute participation for evidence, lower the passing standard, or issue a certificate outside the approved assessment process.
 
@@ -168,7 +163,7 @@ An on-chain timestamp, if adopted, must not expose learner personal information 
 
 Use `05_competencies.md` for the competencies and observable criteria that assessment must measure.
 
-Use approved educator-evaluated theory interactions, formative activities, and summative practical assessment tasks available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/).
+Use the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) for approved educator-evaluated theory interactions, summative practical assessment tasks, rubrics, equivalent routes, and reassessment. Use the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) for formative activities and approved supporting practice.
 
 Use `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` for facilitation guidance and educator assessment procedures, rubrics, evidence, feedback, and reassessment guidance; use `12_educator-plan.md` as the supporting structure plan.
 

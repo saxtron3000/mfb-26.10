@@ -64,7 +64,7 @@ The four-module Diploma has 11 assessed competencies. `C1` through `C11` are the
 
 The theoretical component (50%) and practical component (50%) are separately required and non-compensatory. The theoretical component is evidenced through approved educator-evaluated learner actions. The practical component is evidenced through direct educator observation. Every assessed competency must meet its approved standard. Optional app self-checks may support practice and review, but cannot supply either component.
 
-Use these stable competency and criterion codes in activities, practical tasks, rubrics, optional self-checks, and completion records.
+Use these stable competency and criterion codes in activities, practical tasks, rubrics, optional self-checks, and completion records. The approved competency-to-evidence route is maintained in the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol).
 
 ## Safety and assessment boundaries
 
@@ -327,20 +327,10 @@ Learners demonstrate that they can compare custodial and non-custodial wallets u
 
 Before this framework is finalized, resolve:
 
-- final four-module Diploma, educator-curated Module 4, and Advanced boundaries;
-- final practical tasks and observable rubrics for C9, C10, and C11;
-- final content boundaries, evidence, and passing criteria for C2, C4, C5, and the first-access requirement in C9;
-- evidence and passing criteria for every assessed competency, plus formative indicators for C12 and C13;
-- required safety practices and recovery concepts for the Diploma;
-- Module 4 guardrails;
-- local expert-led practice guardrails;
-- spending-as-practice boundaries for Module 4;
-- named-tool and local-resource boundaries;
-- multilingual lexicon and translation-readiness checks;
-- technology assumptions;
-- online or self-paced competency variants, if those delivery modes remain in scope;
-- assessment timing and format for the approximately eight-hour in-person or online pathway; and
-- educator preparation, calibration, and moderation requirements.
+- release-test evidence that the selected cohort size and assessor ratio can support the required individual evidence within the advertised route;
+- privacy, consent, record correction, and appeals rules for certificated delivery;
+- online or self-paced observation safeguards, if those delivery modes remain in scope; and
+- certificate-governance decisions in `15_certification.md`.
 
 ## Relationship to other planning documents
 
@@ -353,4 +343,5 @@ Use:
 - the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) for activity design;
 - ../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md for educator facilitation;
 - 13_assessment.md for competency-based evidence and the two-part assessment model; and
+- `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol` for approved assessment interactions, tasks, rubrics, and equivalent routes;
 - 15_certification.md for the two-part assessment prerequisite and governance questions.

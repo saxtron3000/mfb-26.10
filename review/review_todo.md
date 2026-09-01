@@ -6,20 +6,14 @@ The active policy is fixed: educators evaluate the 50% theoretical component and
 
 ## Release blockers
 
-1. Build the competency-to-evidence crosswalk.
+1. Validate the Educator Guide operational assessment protocol before certificated delivery.
 
-   - Map every assessed competency in `05_competencies.md` to Student Guide teaching, formative practice, educator-led theoretical evidence or practical task, scoring rule, result field, and estimated time within the advertised course pathway.
-   - Do not treat a topic appearing in prose as proof that the required competency is taught or assessed.
-   - Complete the distinct evidence and record fields for `C9.3`.
+   - Pilot the Educator Guide operational assessment protocol with the intended cohort size, assessor ratio, selected `P11` variant, low-tech route, and accessibility accommodation.
+   - Record actual individual evidence, feedback, reassessment, transition, and record-keeping time. Do not claim that a route is certification-ready until the capacity check is passed.
+   - Create local annotated `MS` and `NY` calibration examples for `T2`, `P9`, and the selected `P11` variant.
+   - Define privacy, accessibility, correction, appeal, outage, and certificate-record procedures before certification is offered.
 
-2. Make the educator-led assessment system operational.
-
-   - Create the final assessment blueprint and competency-level pass rules.
-   - Create approved educator-theory interaction criteria and concise record fields.
-   - Create practical tasks, rubrics, safety-critical errors, educator calibration, reassessment, and combined completion-record procedures.
-   - Define privacy, accessibility, correction, and appeals rules before certification is offered.
-
-3. Repair source, path, and link integrity.
+2. Repair source, path, and link integrity.
 
    - Remove or correct obsolete archive, feedback, and reference paths.
    - Update `09_resources.md` Student Guide locations and the `../publish/mfb-bd-26.10/mfb-bd-lx.md` location map.
