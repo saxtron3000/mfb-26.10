@@ -68,7 +68,7 @@
 - Receiving bitcoin
 - Sending bitcoin
 - Verification, confirmations, block explorers, public-ledger privacy, and irreversible transactions
-- Safety checklist: seed phrases, address checks, scams, and starting small
+- Safety checklist
 - Acquiring and exchanging bitcoin as pathway awareness, not financial advice
 - On-chain and Lightning payments
 - Practical competency check observed by an educator

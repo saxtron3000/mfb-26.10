@@ -421,7 +421,7 @@ A **reserve currency** is a currency that central banks and governments hold and
 
 In 1971, President Nixon ended the official exchange of dollars for gold by foreign governments and central banks, helping bring the Bretton Woods system to an end. The dollar nevertheless remained widely used because of its established role in trade and finance, the size of the U.S. economy, and the depth of U.S. financial markets. It remains the leading reserve currency today, although central banks also hold other currencies and its share can change over time.
 
-### Why people look for alternatives (Precious Metals, Real Estate, Stocks)
+### Why people look for alternatives
 
 People often seek alternatives when they believe cash will lose purchasing power. Common choices include precious metals, real estate, and stocks. Each has benefits and risks.
 
@@ -952,7 +952,7 @@ What can this public information show, and what can it not show? It can show a t
 
 To inspect a prepared transaction, obtain its TXID, open a trusted explorer for the intended Bitcoin network, and check the status, destination, amount, fee, and confirmations. An explorer is only an interface. Searching an address or TXID may reveal to its operator that your device is interested in that information. For practice, use an educator-prepared transaction or printed screenshot. Do not search a learner's personal address or transaction on a public service.
 
-### Safety checklist: seed phrases, address checks, scams, and starting small
+### Safety checklist
 
 **Practice 3: spot a risk and stop safely**
 

@@ -266,7 +266,7 @@ Source: `input/PABLO/202602721_final_draft_notes.md`. Items marked `[x]` in the 
 - [o] Make the safety checklist a one-page resource.
 - [-] Distinguish on-chain and Lightning under destination verification.
 
-#### Safety checklist: seed phrases, address checks, scams, and starting small
+#### Safety checklist
 - [o] Turn scam scenarios into scaffolded role-play/advanced content rather than one dense list.
 - [-] Reduce Module 3 security overload and clarify learner choices.
 
