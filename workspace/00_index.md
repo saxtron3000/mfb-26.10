@@ -53,6 +53,7 @@ Read the working documents in this order when you need the full design context:
 | 9 | [`09_resources.md`](09_resources.md) | Review external sources and their curriculum claim locations. |
 | 10 | [`10_activities.md`](10_activities.md) | Review activity boundaries, quality requirements, and release priorities. |
 | 11 | [`11_activities-template.md`](11_activities-template.md) | Use the working template for individual activity entries. |
+| 11a | [`11_activities-template-assess.md`](11_activities-template-assess.md) | Use the assessment-specific template for approved theory interactions and practical tasks. |
 | 12 | [`12_educator-plan.md`](12_educator-plan.md) | Review the planning structure for the Educator Companion Guide. |
 | 13 | [`13_assessment.md`](13_assessment.md) | Review theoretical and practical assessment requirements. |
 | 14 | [`14_microlearning-plan.md`](14_microlearning-plan.md) | Review the internal plan for optional app microlearning. |
@@ -80,6 +81,7 @@ Detailed activities are available on the [Resources Hub](https://programs.myfirs
 | Visual and asset needs | [`08_assets.md`](08_assets.md) |
 | Activity planning, quality requirements, and release priorities | [`10_activities.md`](10_activities.md) |
 | Activity working-entry template | [`11_activities-template.md`](11_activities-template.md) |
+| Assessed activity/task template | [`11_activities-template-assess.md`](11_activities-template-assess.md) |
 | Activity procedures and task templates | [Resources Hub](https://programs.myfirstbitcoin.org/resources/) |
 | External sources and claim references | [`09_resources.md`](09_resources.md) |
 | Educator Guide planning structure | [`12_educator-plan.md`](12_educator-plan.md) |

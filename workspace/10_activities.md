@@ -81,6 +81,8 @@ Each activity entry should include:
 - for approved assessment tasks, observable criteria, permitted support, critical errors, rubric or decision rule, and concise record requirements; and
 - source trail, fact-check date where relevant, version, and review status.
 
+Use `11_activities-template.md` for a formative activity. Use [`11_activities-template-assess.md`](11_activities-template-assess.md) when an approved activity or task will collect formal assessment evidence.
+
 ## Release priorities
 
 The certification-complete core is maintained in the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol): it maps all assessed competencies, defines approved theory interactions and practical tasks, and supplies common support, safety, equivalent-route, reassessment, calibration, and moderation rules.
