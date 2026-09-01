@@ -46,7 +46,7 @@ This approach matters because money affects every person. People should be able 
 
 ### Learn more with the My First Bitcoin app
 
-The My First Bitcoin app is an optional resource. It can offer short self-check questions, recap material, and ways to discover more from My First Bitcoin. It is not required to take part in the Diploma, complete the learning, or receive a certificate. Your book, educator, and group activities provide the complete learning path.
+The My First Bitcoin app is an optional resource. It can offer short self-check questions, recap material, and ways to discover more from My First Bitcoin. You are also able to use it to find a My First Bitcoin educator or Diploma learning opportunity near you. Availability depends on your location. The app is not required to take part in the Diploma, complete the learning, or receive a certificate. Your book, educator, and group activities provide the complete learning path.
 
 ### Why this Diploma exists
 
@@ -549,6 +549,14 @@ Bitcoin creates digital scarcity by combining signatures, a public transaction h
 
 Scarcity is more credible when the rules are public, users can verify them independently, and no single issuer can quietly change the supply for everyone. This is why Bitcoin's supply limit must be studied together with decentralization and node verification.
 
+### The Blockchain - Bitcoin’s Public Ledger
+
+Unlike banks, who each have their own ledger of transactions and must coordinate with each other, Bitcoin is recorded and stored in a SINGLE, digital, decentralized, public ledger. This ledger is stored in a data format referred to as a “blockchain”. 
+
+A block contains a series of transactions (in order), and each block is like a page in a ledger. Transactions within each block are in precise, chronological order and blocks are also sequenced and “chained” together in chronological order.
+
+Bitcoin is designed to add a new block of transactions to the blockchain approximately every 10 minutes.The blockchain is basically append only, and is therefore considered to be “immutable,” meaning it cannot be altered, which is a critical concept for accuracy, security, and stability.
+
 ### Decentralization
 
 A centralized system has a controlling point. A bank controls its customer ledger. A payment company controls its network. A government controls the issuance rules of its currency.
@@ -892,7 +900,7 @@ Custody is not always obvious from the interface. If you cannot control the reco
 
 A **hot wallet** manages keys on a device connected to the internet, such as a phone or computer. It is convenient for regular payments. It also has a larger attack surface because malicious software, insecure updates, phishing, physical access, or device compromise may expose the wallet.
 
-A **cold wallet** keeps the keys used for signing away from an internet-connected general-purpose device. A **hardware wallet** is a dedicated device designed to generate, protect, and use keys while keeping them isolated from the connected computer or phone.
+A **cold wallet** keeps the keys used for signing transactios away from an internet-connected general-purpose device. A **hardware wallet** is a dedicated device designed to generate, protect, and use keys while keeping them isolated from the connected computer or phone.
 
 | Arrangement | Common strength | Responsibility to remember |
 | --- | --- | --- |
@@ -1053,19 +1061,23 @@ Record the focus of your Module 4:
 | Evidence or result |  |
 | Safe next step |  |
 
-### Educator-curated local modules
+### Your local Module 4
 
-A required educator-curated Module 4 task should help you apply at least one concept from Modules 1–3. It may focus on earning, saving, receiving, spending, exchange pathways, merchant use, community resources, or another local use of Bitcoin as money.
+In this module, you will apply at least one idea from Modules 1–3 to a real need or opportunity where you live. Your work may explore earning, saving, receiving, spending, exchange pathways, merchant use, community resources, or another local use of Bitcoin as money.
 
-A strong local module has five parts:
+This matters because Bitcoin is experienced locally. By exploring a real situation, you can better understand what is useful, what is not, and which conditions or risks shape a responsible choice. You will become more familiar with the tools, resources, and organisations involved in local Bitcoin without being expected to use or recommend any of them.
 
-1. **Connect:** Which Module 1 problem, Module 2 response, and Module 3 safe action matter for this local need or opportunity?
-2. **Context and comparison:** What economic, legal, cultural, and technical conditions matter, and what realistic existing option should we compare?
-3. **Practice:** What can learners safely observe, compare, or do?
-4. **Safety:** What could fail, and how will risk be limited?
-5. **Evidence and next step:** What should a learner be able to explain or demonstrate afterward, and what is the smallest responsible next step?
+Your educator will guide you through this section because they understand the local context. They may also invite a local expert to help you learn from experience, ask useful questions, and interact positively and respectfully with people and organisations in your community. The goal is to build informed connections and help foster a stronger local community, not simply to complete a transaction.
 
-Possible module questions include:
+Your local Module 4 activity will help you:
+
+1. **Connect:** Identify the Module 1 money problem, Module 2 Bitcoin response, and Module 3 safe action that matter for a local need or opportunity.
+2. **Understand the context:** Consider the local economic, legal, cultural, and technical conditions, then compare Bitcoin with a realistic existing option.
+3. **Practise safely:** Observe, compare, or try a clearly defined task with guidance.
+4. **Recognise risk:** Identify what could fail and how to limit the risk.
+5. **Explain your learning:** Show what you learned and identify the smallest responsible next step, if any.
+
+Your activity may explore questions such as:
 
 - Can a local worker receive bitcoin for a service?
 - Can a family send value between two places more easily?
@@ -1074,23 +1086,23 @@ Possible module questions include:
 - Can a family compare a remittance path with an existing local method?
 - Can a nonprofit or community group receive support while keeping custody, transparency, and records clear?
 - Can people with limited banking access identify a safer payment or savings path without increasing personal risk?
-- Can learners identify reliable Bitcoin support in the community?
+- Can you identify reliable Bitcoin support in the community?
 - Can local businesses trade with one another using the same money?
 - Can saving in sats address a local problem, and what new risk does it create?
 
-A local example is not proof that the same method works everywhere. State what is specific to your community.
+A local example is not proof that the same method works everywhere. Explain what is specific to your community.
 
 ### Practical workshops and demonstrations
 
-Practice should move through three stages.
+You will move through three stages of practice.
 
-**Presentation:** The educator shows the complete process and explains its purpose, terms, and risks. Learners observe before handling a device or payment.
+**Presentation:** Your educator shows the complete process and explains its purpose, terms, and risks. You observe before handling a device or payment.
 
-**Practice:** Learners follow a guided process with printed screens, test tools, testnet where suitable, or a very small amount. Mistakes should be safe and visible.
+**Practice:** You follow a guided process with printed screens, test tools, testnet where suitable, or a very small amount. Mistakes should be safe and visible.
 
-**Production:** Learners complete a defined task or explain a decision without step-by-step prompting. This shows whether the learning can transfer to a new situation.
+**Production:** You complete a defined task or explain a decision without step-by-step prompting. This helps show whether you can apply the learning in a new situation.
 
-A practical workshop may include:
+Your workshop may include:
 
 - identifying whether a wallet is custodial or self-custodial;
 - locating the receive screen without creating or exposing a real seed phrase;
@@ -1102,17 +1114,17 @@ A practical workshop may include:
 - designing a safe community donation flow;
 - mapping local resources or payment relationships.
 
-Before any live demonstration, confirm:
+Before any live demonstration, make sure you know:
 
 - the tool and instructions were checked recently;
-- the educator can explain the recovery and failure process;
-- learners know whether real funds are involved;
-- no learner is pressured to install software or disclose financial data;
-- the amount is small enough for a complete loss to remain a lesson, not a crisis;
-- an offline or no-funds alternative is available;
-- the class knows how to stop if the result differs from the plan.
+- how the educator will explain recovery and what happens if something fails;
+- whether real funds are involved;
+- that you will not be pressured to install software or disclose financial data;
+- that any amount is small enough for a complete loss to remain a lesson, not a crisis;
+- that an offline or no-funds alternative is available;
+- how the class will stop if the result differs from the plan.
 
-The result of a workshop should be an explanation or skill, not only a completed transaction.
+The result of your workshop should be an explanation or skill, not only a completed transaction.
 
 ### Local Bitcoin tools and resources
 
@@ -1365,7 +1377,7 @@ For each use case, define success in terms of the problem solved, not the number
 
 ### Local resource maps and community discovery
 
-Maps and community directories can help learners find merchants, educators, meetups, and circular economies. Listings can be incomplete or outdated. A place shown on a map may have stopped accepting Bitcoin, changed its wallet, or closed.
+[Maps and community directories](https://programs.myfirstbitcoin.org/resources/?search=map) can help learners find merchants, educators, meetups, and circular economies. Listings can be incomplete or outdated. A place shown on a map may have stopped accepting Bitcoin, changed its wallet, or closed.
 
 Use a resource map safely:
 
@@ -1410,7 +1422,7 @@ Complete this review individually, then compare your reasoning with your team or
 
 ## Next Steps
 
-### A short “What now?” next-steps list
+### Review your Learner Journey
 
 You now have a foundation. Protect it by moving slowly.
 
@@ -1424,6 +1436,8 @@ First, return to the answers you wrote before the course. Do not erase them. Rec
 | Who can create or control the money I use? |  |  |
 | What makes people accept or value it? |  |  |
 | Has its purchasing power changed? |  |  |
+
+### A Next Steps Checklist
 
 - [ ] **Review and research.** Revisit your opening answers and identify what you can now explain, compare, or do about money, control, value, and trust. Check one question against a reliable source.
 - [ ] **Practise or use one skill safely.** Repeat a concrete task such as identifying custody, checking an address, reading a transaction, recognizing a scam pattern, or comparing local pathways.
