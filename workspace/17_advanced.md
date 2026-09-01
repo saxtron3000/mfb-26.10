@@ -236,7 +236,7 @@ Migration summary for Advanced:
 
 | Destination | Legacy content signal | Redesign decision |
 |---|---|---|
-| Advanced | deeper psychology, detailed mining, mempool, detailed transactions, philosophy, future scenarios | Move into Advanced pathways or educator background. |
+| Advanced | deeper psychology, detailed mining, mempool, detailed transactions, philosophy, future scenarios | Move into Advanced Modules or educator background. |
 | Advanced | L1 UTXOs; L2 detailed monetary history, protocol mechanics, Lightning operation, and high-security custody | Preserve as module seeds; do not return them to the beginner Diploma. |
 
 Split decisions:

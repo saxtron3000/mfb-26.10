@@ -93,7 +93,7 @@ Detailed activities are available on the [Resources Hub](https://programs.myfirs
 | Certification prerequisite and governance questions | [`15_certification.md`](15_certification.md) |
 | Official Lexicon Entries | [`mfb-bd-lx.md`](../publish/mfb-bd-26.10/mfb-bd-lx.md) |
 | Collaborator and stakeholder overview | [`16_spec.md`](16_spec.md) |
-| Advanced pathways and parked legacy content | [`17_advanced.md`](17_advanced.md) |
+| Advanced Modules and parked legacy content | [`17_advanced.md`](17_advanced.md) |
 | Post-release horizon register | [`18_horizon.md`](18_horizon.md) |
 | Active release actions | [`review/review_todo.md`](../review/review_todo.md) |
 | Cross-project consistency decisions | [`review/review_consistency.md`](../review/review_consistency.md) |

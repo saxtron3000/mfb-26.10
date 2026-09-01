@@ -71,7 +71,7 @@ In this Diploma, a **learner** studies, discusses, practises, and provides obser
 - Flexible delivery models: one-day, four-day, or eight-day
 - In-person delivery or online delivery using low-tech, offline-capable print/PDF content where needed
 - What to cut when time is short
-- What to move to Advanced pathways
+- What to move to Advanced Modules
 - How to reserve time for required assessment
 
 ### Managing The 8-Hour Pathway

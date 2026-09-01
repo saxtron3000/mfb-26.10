@@ -55,7 +55,7 @@ The redesign responds to several needs:
 - less unnecessary cognitive load;
 - better educator support;
 - stronger practical learning;
-- clearer distinction between required Diploma competencies and Advanced content;
+- clearer distinction between required Diploma competencies and Advanced Module content;
 - better international and local adaptability;
 - stronger alignment between competencies, activities, and assessment.
 

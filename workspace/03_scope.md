@@ -371,7 +371,7 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 - Before / after comparison
 - 4-module visual brief
 - Public call-to-action language
-- Backup notes for assessment, certification, and Advanced pathways
+- Backup notes for assessment, certification, and Advanced Modules
 
 ### Completion Criteria
 

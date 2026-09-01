@@ -195,7 +195,7 @@ Migration summary:
 | Diploma Module 2 | decentralized currency search, Bitcoin origin, Bitcoin benefits | Keep beginner Bitcoin purpose and properties. |
 | Diploma Module 3 | wallet use, receiving, sending, verification, selected technical orientation | Keep practical use and safety material. |
 | Diploma Module 4: educator-curated Connect | daily-life Bitcoin use, local tools, Lightning payments, local spending | Move into educator-curated workshops and demonstrations within the Diploma. |
-| Advanced | deeper psychology, detailed mining, mempool, detailed transactions, philosophy, future scenarios | Move into Advanced pathways or educator background. |
+| Advanced | deeper psychology, detailed mining, mempool, detailed transactions, philosophy, future scenarios | Move into Advanced Modules or educator background. |
 
 Split decisions:
 
