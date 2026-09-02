@@ -21,7 +21,7 @@ The 2026.10 Bitcoin Diploma is a beginner course organized into four modules, wi
 
 The Diploma follows the **Problem → Solution → Action → Connect** learning arc. Modules 1 and 2 develop the Problem and Solution through explanation, comparison, and reasoning. Module 3 develops safe Action. Module 4 is the educator-curated Connect stage, required for Diploma completion: it links the shared learning to a local need or opportunity, a realistic alternative, safe practice, and a responsible next step.
 
-Teaching may be facilitated in person or online, and the first publication package remains low-tech and offline-capable through print/PDF materials. The My First Bitcoin app is optional in 2026.10 and may support recap, self-checks, discovery, and connection to future My First Bitcoin learning. Other delivery branches may include online PDF, online cohort, self-paced, web, and cross-modal formats, but every branch must preserve the required Diploma competency standards and educator-led assessment standard.
+Teaching may be facilitated in person or online. The October 2026 publication package includes low-tech, offline-capable print/PDF materials, an online PDF version, and a web version. All October public outputs are published through Sanity. The My First Bitcoin app is optional in 2026.10 and may support recap, self-checks, discovery, and connection to future My First Bitcoin learning. Future delivery branches may include online cohort, self-paced, optional app, and cross-modal formats, but every branch must preserve the required Diploma competency standards and educator-led assessment standard.
 
 ---
 
@@ -160,7 +160,7 @@ The 2026.10 Diploma package is expected to include:
 
 - Student Book;
 - offline print/PDF package;
-- online PDF package;
+- online PDF version, published through Sanity;
 - Educator Guide;
 - activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/);
 - Bitcoin in Your Community templates;
@@ -168,10 +168,13 @@ The 2026.10 Diploma package is expected to include:
 - optional My First Bitcoin app self-check, recap, and discovery package;
 - public stakeholder brief and keynote material;
 - translation-ready Markdown source files;
-- website-ready source files;
+- web version, published through Sanity;
+- Markdown source files prepared for Sanity publication;
 - future delivery-branch notes.
 
 The Student Book should carry the learner path. The Educator Guide should help teachers facilitate, pace, adapt, and protect learner safety. Activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) should provide modular exercises that educators can use inside the Diploma or as standalone learning experiences.
+
+After release, approved modifications must be made through the proofreading platform, GitHub, or, where required, directly in Sanity. Every change must keep the approved source material and the Sanity-published online PDF and web versions aligned.
 
 ---
 
@@ -217,7 +220,7 @@ The course is designed to work as:
 - eight 1-hour sessions;
 - another local schedule that preserves the four-module sequence.
 
-Future delivery branches may adapt pacing, media, learner support, and evidence of learning. They should not create separate competency standards.
+The October online PDF and web versions are delivery outputs, not future-branch preparation. Future delivery branches may adapt pacing, media, learner support, and evidence of learning. They should not create separate competency standards.
 
 ---
 

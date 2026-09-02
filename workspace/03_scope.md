@@ -59,7 +59,7 @@ The following assumptions affect project execution:
 - English-first drafting with multilingual and translation-ready source files.
 - English-source simplicity, tone, style, and translation-readiness review before translation or publication.
 - Sparse QR code use in print materials.
-- Future instructional branches should be documented without becoming current implementation requirements: online PDF, online cohort, self-paced, web, optional app self-assessment support, and cross-modal continuation.
+- The October 2026 release includes an online PDF version and a web version, both published through Sanity. Future instructional branches should be documented without becoming current implementation requirements: online cohort, self-paced, optional app self-assessment support, and cross-modal continuation.
 - `06_plan.md` is the active plan source of truth.
 - Combined assessment is in scope: educator-led theoretical assessment is 50% of the Diploma and educator-observed practical assessment is the remaining 50%. These are non-compensatory component balances, not a combined numerical grade.
 - Both assessment components are prerequisites for certification.
@@ -284,10 +284,10 @@ Clarify implementation expectations.
 - In-person delivery specification
 - Print/PDF usability guidance
 - Online adaptation guidance
-- Online PDF branch guidance
+- Online PDF delivery and publication guidance
 - Online cohort branch guidance
 - Self-paced adaptation guidance
-- Website branch guidance
+- Web-version delivery and publication guidance
 - Educator-led theory and practical evidence-recording requirements
 - Cross-modal continuation notes
 - Delivery-mode branch map showing what stays fixed and what can adapt
@@ -347,13 +347,17 @@ Prepare final publication-ready outputs.
 
 - Student Book PDF
 - Offline print/PDF package
-- Online PDF package
+- Sanity-published online PDF version
 - Educator Guide PDF
-- Website publication
-- GitHub Markdown source files
+- Sanity-published web version
+- Markdown source files prepared for Sanity publication
 - Translation-ready source files
 - QR-code placement and destination rules
 - Fact-checked, source-of-truth-aligned publication package
+
+All October public outputs are published through Sanity. Online cohort, self-paced, optional app, and cross-modal branches remain future work.
+
+After release, approved modifications must be made through the proofreading platform, GitHub, or, where required, directly in Sanity. Each change must preserve alignment between the source material and the Sanity-published outputs.
 
 ---
 
@@ -419,9 +423,10 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 
 ## Milestone 7 — Publishing
 
-- PDFs completed
-- Website completed
-- GitHub publication completed
+- Print/PDF package completed
+- Online PDF version published through Sanity
+- Web version published through Sanity
+- Markdown source prepared for Sanity publication
 
 ## Milestone 8 — Feedback & Iteration
 
@@ -462,8 +467,9 @@ The redesign is complete when:
 - Student Book is published.
 - Educator Guide is published.
 - Print/PDF QR code use is sparse and publication-safe.
-- Website version is published.
-- GitHub source files are published.
+- Online PDF version is published through Sanity.
+- Web version is published through Sanity.
+- Markdown source files are prepared for Sanity publication.
 - Translation-ready source files are published.
 - English source files pass simplicity, tone, style, terminology, and translation-readiness review before translation or publication.
 - Translated versions require language-specific review before publication.

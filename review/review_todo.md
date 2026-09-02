@@ -32,10 +32,6 @@ Remove an item when its acceptance condition is met, or move it to a dated archi
 
   - Acceptance: all authorities and public schedule claims use one rule.
 
-- [ ] **Decide the October delivery outputs.** Confirm whether online PDF and website-ready source are October deliverables or future-branch preparation only. Align `03_scope.md`, `04_design.md`, and `16_spec.md`.
-
-  - Acceptance: the scope, overview, and release criteria agree.
-
 - [ ] **Decide the 2026.10 certificate position.** Confirm whether certificated delivery will be offered once the blockers are complete, or whether the release is an assessment-ready teaching package with credential implementation deferred.
 
   - Acceptance: `15_certification.md`, public copy, and release criteria make the same promise.

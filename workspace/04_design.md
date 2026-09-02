@@ -68,7 +68,7 @@ The current working design direction is:
 - assessment built from assessed competencies and observable criteria, using an educator-led theoretical component worth 50% and an educator-observed practical component worth 50%;
 - certification based on both theoretical evidence and directly observed practical competence;
 - localization considered through adaptable examples, activities, and facilitation, not through changing required Diploma competency standards;
-- low-tech, offline-capable print/PDF content treated as the first publication mode for in-person facilitation or online facilitation, with future branches to online PDF, online cohort, self-paced, web, optional app self-assessment support, and cross-modal continuation;
+- low-tech, offline-capable print/PDF content retained as a required publication mode for in-person facilitation or online facilitation, alongside October online PDF and web versions published through Sanity; future branches are online cohort, self-paced, optional app self-assessment support, and cross-modal continuation;
 - print PDFs kept clean, with QR codes used sparingly for stable, high-value destinations;
 - shared Modules 1–2 core theory and required Diploma competency standards standardized globally, while practical delivery in Modules 3–4 is adapted by educators or local experts;
 - an internal "racecar" standard: every component should earn its place by improving clarity, completion, practice, educator usability, or learner safety.
@@ -90,7 +90,7 @@ The following rough design notes are clarified into stable design rules:
 | Practical skills | Treat practical learning as guided skill orientation: demonstration, practice, production, reflection, and safe next steps. |
 | Observable competencies | Let observable learner action control content decisions. If a competency cannot be taught, practised, and evidenced inside the beginner pathway, it should not be part of the Diploma. |
 | Include future ideas | Preserve future pathways in roadmaps, Advanced material, and publication planning without expanding the required beginner Diploma. |
-| Forking off modes | Design from low-tech, offline-capable print/PDF teaching toward clear future instructional branches: online PDF, online cohort, self-paced, web, optional app self-assessment support, and eventual cross-modal continuation, while preserving educator-led assessment. |
+| Forking off modes | Publish low-tech, offline-capable print/PDF, online PDF, and web versions in October through Sanity. Design future online-cohort, self-paced, optional app self-assessment, and cross-modal branches from the same source while preserving educator-led assessment. |
 | Don't put too many QR codes on PDF in print to start | Use QR codes sparingly in print. Prefer a few durable destinations over many fragile links that clutter pages or become stale. |
 | Shared core with educator-curated practice | Keep the shared Modules 1–2 core and required Diploma competency standards consistent globally. Let educators adapt Module 3 practice and curate Module 4's local Connect experience responsibly. |
 | 4 units - total 8hrs? | Use four modules, not old module labels, as the required structure. Plan from competencies, observable criteria, and required evidence: four two-hour sessions are one useful format, not a limit. |
@@ -272,15 +272,14 @@ Otherwise, technical depth should move to educator-curated Module 4 learning wit
 
 ## 4.10 Design For Delivery-Mode Branching
 
-The first content implementation should remain low-tech and offline-capable, with in-person and online facilitation supported. Certification has no app or connectivity requirement.
+The October publication set should include low-tech, offline-capable print/PDF, an online PDF version, and a web version. The online PDF and web versions should be published through Sanity and preserve the same learner-facing content, competency standards, and assessment safeguards. In-person and online facilitation are supported. Certification has no app or connectivity requirement.
 
-The design should also make future branches possible:
+After release, content modifications should follow a controlled route through the proofreading platform, GitHub, or, where required, directly in Sanity, so the published versions remain aligned with the approved source and required Diploma standards.
 
-- offline print or PDF;
-- online PDF;
+The design should also make these future branches possible:
+
 - online cohort;
 - self-paced course;
-- web version;
 - optional app self-assessment integration;
 - eventual cross-modal continuation across formats.
 
@@ -453,7 +452,7 @@ The redesigned Diploma should distinguish between fixed, adaptable, and flexible
 - legal, tax, privacy, and safety context;
 - depth of educator-curated Module 3–4 practice and Advanced material;
 - QR code use;
-- future online, web, app, or cross-modal publication branches.
+- future online-cohort, self-paced, app, or cross-modal publication branches.
 
 Adaptation should increase local relevance without weakening learning standards.
 
@@ -668,10 +667,10 @@ The retiring Bitcoin for Organizations pathway contains strong material for misc
 
 ## Delivery-Mode Questions
 
-- What is the minimum viable online PDF version?
+- How should the October online PDF and web versions present the shared learner path without creating a different curriculum?
 - What changes for an online cohort?
 - What evidence of learning works in a self-paced format?
-- What belongs on the web version?
+- Which additional web-only features, if any, remain consistent with the October learner path and low-tech alternative?
 - Which optional app self-check features would improve learner review without creating a hidden assessment requirement?
 - What should cross-modal continuation mean for a learner who moves between formats?
 

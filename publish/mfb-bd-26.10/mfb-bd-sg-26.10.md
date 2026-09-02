@@ -22,7 +22,7 @@ The project began with small in-person classes in El Salvador in 2021. The 90-mi
 
 In 2022, the first Bitcoin Diploma cohort began in one public school in San Marcos, El Salvador. The pilot developed into an open-source curriculum that independent educators could translate, adapt, and teach. It later spread through the [My First Bitcoin Education Network](https://myfirstbitcoin.org/about/network) to communities around the world.
 
-Our work is independent, community-driven, and Bitcoin-only. We focus on financial literacy, careful thinking, and practical safety—not trading, speculation, or promoting other tokens. We do not ask you to accept a belief. Instead, we provide concepts, questions, and practical knowledge so you can form your own conclusions.
+Our work is independent, community-driven, and Bitcoin-focussed. We focus on financial literacy, careful thinking, and practical safety—not trading, speculation, or promoting other tokens. We do not ask you to accept a belief. Instead, we provide concepts, questions, and practical knowledge so you can form your own conclusions.
 
 ### Our mission: independent, open-source Bitcoin education
 
@@ -38,7 +38,7 @@ This approach matters because money affects every person. People should be able 
 
 **Curiosity** means being willing to ask why, admit what you do not know, and investigate an unfamiliar answer before accepting or rejecting it.
 
-**Critical thinking** means asking clear questions, checking evidence, and comparing trade-offs. Bitcoin makes strong claims about money and ownership. These claims deserve careful study. During this course, distinguish facts from opinions and possibilities from guarantees.
+**Critical thinking** means asking clear questions, checking evidence, and comparing trade-offs. Bitcoin makes strong claims about money and ownership. These claims deserve careful study. During this course, distinguish facts from opinions, and possibilities from guarantees.
 
 **Community** means that education becomes more useful when people discuss ideas and connect them to local life. Your educator and classmates may have experiences that no global book can contain. Listen carefully, ask questions, and explain your reasoning with respect.
 
@@ -78,7 +78,7 @@ You can use the course to:
 - connect with a local learning community;
 - prepare for more advanced study.
 
-You do not need to buy bitcoin to complete this Diploma. You also do not need to install a Bitcoin wallet or use meaningful personal funds. Required practical skills may be assessed with a prepared wallet, simulation, testnet, or an educator-approved low-stakes environment. Knowledge comes before action.
+You do not need to buy bitcoin to complete this Diploma. You also do not need to install a Bitcoin wallet or use personal funds. Required practical skills may be assessed with a prepared wallet, simulation, testnet, or an educator-approved low-stakes environment. Knowledge comes before action.
 
 If you have limited time or would like a first touch point before getting to grips with Bitcoin, begin with [Introduction to Bitcoin (ITB)](https://programs.myfirstbitcoin.org/programs/introduction-to-bitcoin/). It is a shorter course that introduces the basics. After the Diploma, learners who want to teach can continue to the [Educator Training Program (ETP)](https://programs.myfirstbitcoin.org/programs/educator-training-program/). These are separate learning paths: ITB is a short primer, the Diploma builds a broader beginner foundation, and ETP develops teaching practice.
 
@@ -98,7 +98,7 @@ After completing this Diploma, you should be able to:
 - describe decentralization, finite supply, peer-to-peer transfer, and verification;
 - identify the roles of users, nodes, and miners;
 - explain wallets, addresses, private keys, seed phrases, and custody;
-- compare custodial and non-custodial use, and hot and cold wallets;
+- compare custodial and non-custodial use, as well as hot and cold wallets;
 - safely demonstrate required beginner wallet, receiving or sending, recovery-readiness, and transaction-verification actions under supported conditions;
 - distinguish on-chain and Lightning payments;
 - recognize common scams and basic safety practices;
@@ -141,6 +141,10 @@ During discussion:
 - do not pressure anyone to buy, sell, or reveal how much money they hold.
 
 Your educator will explain any required assessment activities. Theory is mainly developed in Modules 1 and 2, where your educator observes you explain, compare, justify, or apply an idea. A statement of confidence is not evidence by itself. Practical competency is mainly developed in Modules 3 and 4, where an educator observes the relevant actions under safe, supported conditions.
+
+You can view the [assessment grid your educator uses](mfb-bd-assessment-grid-26.10.md).
+
+
 
 To receive a certificate, you must meet the approved Diploma requirements. Attendance, app use, or completing a self-check quiz alone is not enough.
 
@@ -493,7 +497,7 @@ This dependence creates power and risk. An intermediary can delay a payment, cha
 
 For many years, computer scientists tried to create digital money that did not need a central issuer or payment company. The challenge was difficult. Digital information is easy to copy. If a digital coin could be copied and spent twice, it could not function as money. If one company prevented copying, the company became the point of control and failure.
 
-Bitcoin was created to solve this problem with a peer-to-peer network. Its design allows participants to agree on one transaction history without a central ledger keeper. It combines a public ledger, digital signatures, a network of validating nodes, proof of work, and economic incentives.
+Bitcoin was created to solve this problem with a peer-to-peer network. Its design allows participants to agree on one transaction history without a central ledger keeper. It combines a public ledger (blockchain), digital signatures, a network of validating nodes, proof of work, and economic incentives.
 
 Bitcoin does not remove trust from every part of life. It reduces the need to trust a central authority for the issuance and settlement of its native money.
 
