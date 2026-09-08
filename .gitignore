@@ -1,0 +1,11 @@
+# Operating-system files
+.DS_Store
+
+# Local editor settings
+*.code-workspace
+
+# Local AI assistant state
+/.claude/
+
+# Local archive alias
+/y_MFB-archive alias
