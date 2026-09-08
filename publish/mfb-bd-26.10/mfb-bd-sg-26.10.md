@@ -555,7 +555,7 @@ Scarcity is more credible when the rules are public, users can verify them indep
 
 ### The Blockchain - Bitcoin’s Public Ledger
 
-Unlike banks, who each have their own ledger of transactions and must coordinate with each other, Bitcoin is recorded and stored in a SINGLE, digital, decentralized, public ledger. This ledger is stored in a data format referred to as a “blockchain”. 
+Unlike banks, who each have their own ledger of transactions and must coordinate with each other, Bitcoin is recorded and stored in a SINGLE, digital, decentralized, public ledger. This ledger is stored in a data format referred to as a “blockchain”.
 
 A block contains a series of transactions (in order), and each block is like a page in a ledger. Transactions within each block are in precise, chronological order and blocks are also sequenced and “chained” together in chronological order.
 

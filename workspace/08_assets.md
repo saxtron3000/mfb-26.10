@@ -64,11 +64,13 @@ When inserting a completed visual into the manuscript:
 Recommended source marker:
 
 ```markdown
-<!-- VISUAL: BD-V-001 -->
-![Alt text that communicates the instructional meaning.](../assets/diploma/bd-v-001.svg)
+<!-- VISUAL: BD-V-001
+ALT: Alt text that communicates the instructional meaning.
+ASSET: assets/diploma/bd-v-001.svg
+-->
 ```
 
-Recommended filenames are `bd-v-001.svg`, `bd-v-002.svg`, and so on. Keep an editable SVG master. Export print and screen versions only during production.
+Replace the marker with a Markdown image reference only after the asset exists. Recommended filenames are `bd-v-001.svg`, `bd-v-002.svg`, and so on. Keep an editable SVG master. Export print and screen versions only during production.
 
 ---
 
