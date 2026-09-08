@@ -142,7 +142,7 @@ During discussion:
 
 Your educator will explain any required assessment activities. Theory is mainly developed in Modules 1 and 2, where your educator observes you explain, compare, justify, or apply an idea. A statement of confidence is not evidence by itself. Practical competency is mainly developed in Modules 3 and 4, where an educator observes the relevant actions under safe, supported conditions.
 
-You can view the [assessment grid your educator uses](mfb-bd-assessment-grid-26.10.md).
+Your educator uses an assessment grid to record this evidence.
 
 
 
