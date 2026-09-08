@@ -1,6 +1,6 @@
 # Bitcoin Diploma
 
-*Financial education for the Bitcoin era*
+Financial education for the Bitcoin era
 
 **My First Bitcoin — Edition 26.10**
 
@@ -240,8 +240,6 @@ I, ____________________, intend to take part with curiosity, care, and respect. 
 ---
 
 ## Module 1: Understanding Money
-
-**Learner promise:** You will explain the money problems Bitcoin responds to.
 
 ### Opening questions about money
 
@@ -486,8 +484,6 @@ The next module examines Bitcoin's attempt to create a different set of monetary
 ---
 
 ## Module 2: How Bitcoin Works
-
-**Learner promise:** You will explain why Bitcoin was created and what makes it different.
 
 ### Why Bitcoin was created
 
@@ -1042,8 +1038,6 @@ Imagine that a friend sends you a payment request while an unfamiliar support ac
 ---
 
 ## Module 4: Bitcoin in Your Community
-
-**Learner promise:** You will see how Bitcoin can function as money in your local context.
 
 This is the **Connect** stage of the Diploma. You will connect the money problem, Bitcoin response, and safe-use responsibility from Modules 1–3 to a local need or opportunity, a realistic alternative, and a safe practical task. You are not expected to adopt Bitcoin or conclude that it is the best option in every local situation.
 

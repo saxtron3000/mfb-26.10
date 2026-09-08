@@ -1,6 +1,10 @@
 # Bitcoin Diploma educator companion guide
 
-This guide is the teacher's companion to the 2026.10 Bitcoin Diploma. Use it with the [Student Guide](mfb-bd-sg-26.10.md), [Educator Assessment Grid](mfb-bd-assessment-grid-26.10.md), and the learning activities supplied for your course. The My First Bitcoin app may be offered as an optional self-check, recap, and discovery resource.
+Teaching the Bitcoin Diploma
+
+## About this guide
+
+This guide is the teacher's companion to the 2026.10 Bitcoin Diploma. Use it with the [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/), [Educator Assessment Grid](mfb-bd-assessment-grid-26.10.md), and the learning activities supplied for your course. The My First Bitcoin app may be offered as an optional self-check, recap, and discovery resource.
 
 The Student Guide gives learners the essential path. This companion helps a teacher turn that path into a complete learning experience through interaction, discussion, local context, guided practice, feedback, and assessment. You can teach directly from it: read the short preparation notes before a session, use the suggested words and questions during the session, and return to the evidence and safety notes afterwards.
 
@@ -2638,7 +2642,7 @@ Pay particular attention to:
 - KYC and no-KYC; and
 - trade-off, risk, and uncertainty.
 
-Use the definitions in the [Beginner Lexicon](mfb-bd-lx.md).
+Use the definitions in the [Beginner Lexicon](https://programs.myfirstbitcoin.org/lexicon/en/).
 
 My First Bitcoin prefers in-person Diploma sessions because direct educator contact and greater opportunity for practical activities can make learning more engaging and natural. This is a preference, not a requirement. Online delivery can be more affordable, scalable, and achievable for many people, so educators should support either mode appropriately.
 
@@ -3020,7 +3024,7 @@ If an activity exposes private information, risks funds, misstates a rule, or en
 
 ## 17. Quick terminology and misconception-sensitive distinctions
 
-Use the [Beginner Lexicon](mfb-bd-lx.md) for full definitions. Keep these distinctions consistent in speech, slides, activities, and assessment.
+Use the [Beginner Lexicon](https://programs.myfirstbitcoin.org/lexicon/en/) for full definitions. Keep these distinctions consistent in speech, slides, activities, and assessment.
 
 | Terms | Educator distinction |
 | --- | --- |
