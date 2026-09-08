@@ -31,7 +31,6 @@ Complete the totals in the comparison table.
 How does Bitcoin compare with other forms of money?
 ## Notes
 
-**Diploma assessment link:** May provide the individual-response context for [`T2` / `C4`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#assessed-competencies-criteria-and-educator-notes). Use the approved protocol, including a qualified judgement and required rule-and-role evidence; otherwise, this activity is formative.
+**Diploma assessment link:** May provide the individual-response context for [`T2` / `C4`](https://programs.myfirstbitcoin.org/programs/educator-guide/). Use the approved protocol, including a qualified judgement and required rule-and-role evidence; otherwise, this activity is formative.
 
 ## Additional Resources
-

@@ -156,7 +156,7 @@ Now that we have discussed Bitcoin in greater detail, let’s look at our money 
 
 ## Notes
 
-**Diploma assessment link:** May provide the individual-response context for [`T2` / `C3` and `C4`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#assessed-competencies-criteria-and-educator-notes). Use the approved protocol and record individual evidence; otherwise, this activity is formative.
+**Diploma assessment link:** May provide the individual-response context for [`T2` / `C3` and `C4`](https://programs.myfirstbitcoin.org/programs/educator-guide/). Use the approved protocol and record individual evidence; otherwise, this activity is formative.
 
 This activity has multiple rounds, each with multiple steps.
 

@@ -31,7 +31,7 @@ Select the best wallet based on the criteria discussed in class.
 Which wallet best meets the discussed criteria?
 ## Notes
 
-**Diploma assessment link:** May provide the individual-response context for [`T3` / `C6`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#assessed-competencies-criteria-and-educator-notes). Use the approved protocol; do not ask a learner to choose a real service, use personal funds, or disclose private information.
+**Diploma assessment link:** May provide the individual-response context for [`T3` / `C6`](https://programs.myfirstbitcoin.org/programs/educator-guide/). Use the approved protocol; do not ask a learner to choose a real service, use personal funds, or disclose private information.
 
 ## Additional Resources
 https://www.lopp.net/bitcoin-information.html

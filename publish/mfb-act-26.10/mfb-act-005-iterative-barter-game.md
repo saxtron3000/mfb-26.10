@@ -116,7 +116,7 @@ As before, after trading is done, allow the students to share what was diﬀeren
 
 ## Notes
 
-**Diploma assessment link:** May provide the individual-response context for [`T1` / `C1`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#assessed-competencies-criteria-and-educator-notes). Use the approved protocol and record an individual explanation and comparison; otherwise, this activity is formative.
+**Diploma assessment link:** May provide the individual-response context for [`T1` / `C1`](https://programs.myfirstbitcoin.org/programs/educator-guide/). Use the approved protocol and record an individual explanation and comparison; otherwise, this activity is formative.
 
 The minimum play time for this is 10 minutes per step or 3 * 10 = 30 minutes.
 

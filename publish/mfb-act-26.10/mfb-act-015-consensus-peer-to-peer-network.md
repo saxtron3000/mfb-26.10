@@ -31,7 +31,6 @@ Observe that students who interpreted the encrypted message correctly remain sti
 Why was consensus not achieved? How does this relate to the Byzantine Generals’ Problem and Bitcoin’s solution?
 ## Notes
 
-**Diploma assessment link:** May provide the individual-response context for [`T2` / `C3`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#assessed-competencies-criteria-and-educator-notes). Use the approved protocol and record an individual explanation of shared verification; otherwise, this activity is formative.
+**Diploma assessment link:** May provide the individual-response context for [`T2` / `C3`](https://programs.myfirstbitcoin.org/programs/educator-guide/). Use the approved protocol and record an individual explanation of shared verification; otherwise, this activity is formative.
 
 ## Additional Resources
-

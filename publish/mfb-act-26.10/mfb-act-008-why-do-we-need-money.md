@@ -31,7 +31,6 @@ Revisit the answers and questions at the end of the Bitcoin Diploma.
 Why do we need money?
 ## Notes
 
-**Diploma assessment link:** May provide the individual-response context for [`T1` / `C1`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#assessed-competencies-criteria-and-educator-notes). Use the approved protocol and record an individual explanation and comparison; otherwise, this activity is formative.
+**Diploma assessment link:** May provide the individual-response context for [`T1` / `C1`](https://programs.myfirstbitcoin.org/programs/educator-guide/). Use the approved protocol and record an individual explanation and comparison; otherwise, this activity is formative.
 
 ## Additional Resources
-

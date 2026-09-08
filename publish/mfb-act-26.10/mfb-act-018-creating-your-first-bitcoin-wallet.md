@@ -31,8 +31,7 @@ Never share a private key or recovery phrase. Loss of the recovery phrase can pr
 
 ## Notes
 
-**Diploma assessment link:** May support [`T3` / `C6`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#assessed-competencies-criteria-and-educator-notes), [`P9` / `C9`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#assessed-competencies-criteria-and-educator-notes), and the prepared restoration route for [`P10` / `C10`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#assessed-competencies-criteria-and-educator-notes). As written, it is not a certificated task: use an approved prepared simulation and never collect, view, or record a learner's recovery phrase, private key, password, balance, or personal wallet.
+**Diploma assessment link:** May support [`T3` / `C6`](https://programs.myfirstbitcoin.org/programs/educator-guide/), [`P9` / `C9`](https://programs.myfirstbitcoin.org/programs/educator-guide/), and the prepared restoration route for [`P10` / `C10`](https://programs.myfirstbitcoin.org/programs/educator-guide/). As written, it is not a certificated task: use an approved prepared simulation and never collect, view, or record a learner's recovery phrase, private key, password, balance, or personal wallet.
 
 Public addresses can be shared to receive bitcoin; private information should not be shared.
 ## Additional Resources
-

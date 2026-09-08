@@ -31,7 +31,6 @@ Once added to the blockchain, a transaction cannot be changed or reversed.
 What concepts did the class learn through the activity?
 ## Notes
 
-**Diploma assessment link:** May provide the individual-response context for [`T2` / `C3`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#assessed-competencies-criteria-and-educator-notes). Use the approved protocol and record an individual explanation of validation and double-spending; otherwise, this activity is formative.
+**Diploma assessment link:** May provide the individual-response context for [`T2` / `C3`](https://programs.myfirstbitcoin.org/programs/educator-guide/). Use the approved protocol and record an individual explanation of validation and double-spending; otherwise, this activity is formative.
 
 ## Additional Resources
-
