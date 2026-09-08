@@ -55,9 +55,9 @@ The redesign responds to several needs:
 - less unnecessary cognitive load;
 - better educator support;
 - stronger practical learning;
-- clearer distinction between core and advanced content;
+- clearer distinction between required Diploma competencies and Advanced Module content;
 - better international and local adaptability;
-- stronger alignment between objectives, activities, and assessment.
+- stronger alignment between competencies, activities, and assessment.
 
 The issue is not lack of value. The issue is helping more learners reach the value.
 
@@ -102,12 +102,12 @@ The current working design direction is:
 - in-person first;
 - approximately 8-hour maximum completion pathway;
 - 4 modules within an approximately 8-hour completion pathway, rather than fixed two-hour classes;
-- one Diploma with Core, Custom, and Advanced pathways;
+- locally selected learning and Advanced pathways;
 - substantially increased practical learning;
 - practical skills structured using PPP: Presentation, Practice, Production;
 - advanced technical content separated from the beginner pathway;
 - Educator Guide treated as a facilitation engine;
-- activities in the Resources Hub treated as part of the learning ecosystem;
+- Activity Bank treated as part of the learning ecosystem;
 - localization supported through adaptable examples, activities, and facilitation.
 
 The redesign should teach learners how to think, not what to think. Learners should leave with better questions, clearer reasoning, and more confidence.
@@ -123,7 +123,7 @@ Legacy content is being reorganized, not simply discarded. Foundational money an
 | Module 1 | Problem | Understanding Money |
 | Module 2 | Solution | How Bitcoin Works |
 | Module 3 | Action | Using Bitcoin Safely |
-| Module 4 | Custom | Bitcoin in Your Community |
+| Module 4 | Locally selected, required | Bitcoin in Your Community |
 
 ## Module 1: Understanding Money
 
@@ -136,9 +136,9 @@ Focus:
 - inflation and purchasing power;
 - why people look for alternatives.
 
-Learner outcome:
+Learner competency:
 
-Learners can explain why fiat money is the problem Bitcoin responds to.
+Learners can explain why people use money, compare forms of money, and use a guided scenario to explain a modern-money trade-off.
 
 ## Module 2: How Bitcoin Works
 
@@ -151,9 +151,9 @@ Focus:
 - users, nodes, and miners;
 - proof of work at a beginner level.
 
-Learner outcome:
+Learner competency:
 
-Learners can explain Bitcoin as the solution being introduced and how it differs from fiat money.
+Learners can explain why Bitcoin was created, explain key Bitcoin properties, and make guided comparisons.
 
 ## Module 3: Using Bitcoin Safely
 
@@ -167,9 +167,9 @@ Focus:
 - sending bitcoin;
 - verification and safety.
 
-Learner outcome:
+Learner competency:
 
-Learners can explain beginner self-custody concepts and identify basic safety practices.
+Learners can explain wallet and custody choices, identify safety boundaries, compare beginner pathways, and complete supported practical actions.
 
 ## Module 4: Bitcoin in Your Community
 
@@ -183,9 +183,9 @@ Focus:
 - merchant or community use cases;
 - Bitcoin as money in the local context.
 
-Learner outcome:
+Learner competency:
 
-Learners can identify beginner-appropriate ways Bitcoin can function as money in local daily life.
+Learners can complete and explain one approved locally relevant Bitcoin-as-money task.
 
 ---
 
@@ -202,15 +202,15 @@ Expected improvements:
 - more practical activities;
 - more confidence building;
 - stronger local relevance;
-- Custom and Advanced pathways for learners and educators who need more depth.
+- locally selected Module 4 learning and Advanced pathways for learners and educators who need more depth.
 
 | Current Challenge | Redesigned Response |
 |---|---|
 | Long or dense learning path | Approximately 8-hour completion pathway |
-| Advanced content too early | Core, Custom, and Advanced separation |
+| Advanced content too early | Diploma, locally selected Module 4, and Advanced separation |
 | Passive learning risk | Discussion-rich activities |
 | Practical skills inconsistent | PPP practical learning |
-| Local adaptation unclear | Adaptable examples with fixed outcomes |
+| Local adaptation unclear | Adaptable examples with fixed competencies |
 
 ---
 
@@ -233,7 +233,7 @@ The Educator Guide should function as a facilitation engine, not as a duplicate 
 
 The fourth module is educator-selected because educators are community leaders. They understand local situations, needs, risks, opportunities, and learner requirements better than a centralized curriculum can.
 
-The redesign should give educators modules and linked activity templates so they can complete the Diploma in a way that is locally meaningful while still protecting shared learning standards.
+The redesign should give educators a bank of modules and activity templates so they can complete the Diploma in a way that is locally meaningful while still protecting shared learning standards.
 
 ---
 
@@ -245,7 +245,7 @@ The redesigned Diploma should be understood as a learning ecosystem rather than 
 |---|---|
 | Student Book | Learner understanding, reflection, and key concepts |
 | Educator Guide | Facilitation, pacing, classroom decisions, discussion management, and adaptation support |
-| Activities in the Resources Hub | Participation, practice, local adaptation, review, and practical learning |
+| Activity Bank | Participation, practice, local adaptation, review, and practical learning |
 | Custom templates | Local workshops, demonstrations, and community-specific Bitcoin use cases |
 | My First Bitcoin app | Optional microlearning, learner-owned self-checks, feedback, recap, and discovery; never assessment evidence |
 | Educator-led assessment | Explanation, synthesis, simulations, role-plays, and direct observation of practical competence |
@@ -263,18 +263,18 @@ Possible supporting components:
 
 # Assessment And Certification Direction
 
-Assessment should connect every learning objective to evidence that matches it. The model has two parts:
+Assessment should connect every required competency to evidence that matches it. The model has two parts:
 
-1. A 50% theoretical component, evaluated by educators through approved, objective-aligned interactions with criteria and records.
+1. A 50% theoretical competency component, evaluated by educators through observable learner explanations, comparisons, applications, and other approved competency-aligned interactions with criteria and records.
 2. A 50% practical competency component, evaluated by educators through directly observed demonstrations, simulations, tests, and role-plays.
 
-Like a driving test, learners must show that they understand the relevant ideas and that they can perform the required skills. The optional app can help learners review, but it does not assess, record, or determine certification.
+Like a driving test, learners must show what they can explain, compare, apply, decide, and perform. The optional app can help learners review, but it does not assess, record, or determine certification.
 
 Assessment should align with:
 
-- learning objectives;
-- competencies;
-- learner outcomes;
+- assessed competencies;
+- observable competency criteria;
+- learner competencies;
 - practical activities;
 - delivery context.
 
@@ -302,7 +302,7 @@ Possible summative evidence:
 
 Important distinction:
 
-Modules 1 and 2 are knowledge-dominant, while Modules 3 and 4 are skills-dominant. The complete assessment is allocated 50% to educator-led theory and 50% to educator-observed practical competence.
+Modules 1 and 2 develop theoretical competencies through observable learner responses, while Modules 3 and 4 develop practical competencies through supported performance. The complete assessment is allocated 50% to educator-led theory and 50% to educator-observed practical competence.
 
 Participation, attendance, and app progress are not certification. A learner may receive a Diploma certificate only after both the theoretical component and the educator-led practical competency component meet the approved standard and are recorded. This protects a shared minimum standard across educators and communities.
 
@@ -316,8 +316,8 @@ The redesigned Diploma should support local relevance without weakening shared s
 
 Fixed:
 
-- learning objectives;
-- core outcomes;
+- assessed competencies;
+- required Diploma criteria;
 - competency expectations;
 - Bitcoin-only educational focus.
 
@@ -336,7 +336,7 @@ Flexible with guardrails:
 - delivery schedules that preserve the official module sequence;
 - delivery mode adaptations;
 - localization choices;
-- depth of Custom and Advanced material.
+- depth of locally selected Module 4 and Advanced material.
 
 Stakeholder message:
 
@@ -349,10 +349,10 @@ Local relevance should increase without weakening learning standards.
 | Risk | Safeguard |
 |---|---|
 | Modularization weakens coherence | Preserve conceptual progression and spiral review |
-| Shorter duration reduces depth | Separate Core, Custom, and Advanced content |
+| Shorter duration reduces depth | Separate required Diploma, locally selected Module 4, and Advanced content |
 | Educator workload increases | Build a strong Educator Guide |
 | Technology fails | Design for low-connectivity and offline contexts |
-| Local adaptation changes outcomes | Define fixed outcomes and adaptation guardrails |
+| Local adaptation changes competencies | Define fixed competencies and adaptation guardrails |
 | Practical learning becomes inconsistent | Use PPP: Presentation, Practice, Production |
 
 ---
@@ -363,11 +363,11 @@ Suggested release path:
 
 1. Confirm design direction.
 2. Finalize module structure.
-3. Define Core, Custom, and Advanced content.
+3. Define Diploma and Advanced content.
 4. Rewrite student materials.
 5. Build Educator Guide.
-6. Publish activities in the Resources Hub.
-7. Align objectives and assessment.
+6. Build Activity Bank.
+7. Align competencies and assessment.
 8. Review with educators.
 9. Pilot or field test.
 10. Complete final edits and publication.
@@ -428,8 +428,8 @@ This launch presentation tells the redesign story from its foundations through t
 | 5. What is changing | 3:00 | A leaner, clearer, approximately eight-hour completion pathway strengthens the learner experience. | Before / after contrast |
 | 6. The new learning story | 3:00 | Four modules move from money, to Bitcoin, to safe use, to local application. | Horizontal module journey |
 | 7. Practice with responsibility | 3:00 | Learners discuss, reason, practice, reflect, and identify safer next steps. | Presentation–Practice–Production loop |
-| 8. Educators complete the local story | 3:00 | Local educators select Module 4 practice within shared outcomes and safety boundaries. | Educator choosing from Custom module bank |
-| 9. The learning ecosystem | 3:00 | The Student Book, Educator Guide, activities in the Resources Hub, optional app, and Advanced pathways have distinct roles. | Ecosystem diagram |
+| 8. Educators complete the local story | 3:00 | Local educators select required Module 4 practice within shared competencies and safety boundaries. | Educator choosing from locally selected Module 4 options |
+| 9. The learning ecosystem | 3:00 | The Student Book, Educator Guide, Activity Bank, optional app, and Advanced pathways have distinct roles. | Ecosystem diagram |
 | 10. A certificate that means something | 2:30 | Certification requires educator-evaluated theory and educator-observed practical competence. | Two-part evidence pathway |
 | 11. From redesign to release | 2:00 | The work now moves through review, pilots, publication, and launch preparation. | Release path to October 2026 |
 | 12. What collaboration makes possible | 2:00 | Educators, communities, contributors, and supporters can help make the release useful and durable. | Four collaboration roles |
@@ -485,7 +485,7 @@ Time: 3 minutes
 
 Key message: The redesigned Diploma is shorter, clearer, more practical, and easier to teach.
 
-Speaker note: Introduce the approximately eight-hour completion pathway, including teaching, practice, assessment, feedback, and recording. Explain that four modules provide structure, not a mandatory set of two-hour classes. Core content is shared; Custom content makes room for local practice; Advanced content preserves depth without overloading beginners.
+Speaker note: Introduce the approximately eight-hour completion pathway, including teaching, practice, assessment, feedback, and recording. Explain that four modules provide structure, not a mandatory set of two-hour classes. Required Diploma competencies are shared; locally selected Module 4 learning makes room for local practice; Advanced content preserves depth without overloading beginners.
 
 Suggested visual: Before / after table.
 
@@ -497,7 +497,7 @@ Key message: The four modules create one coherent journey.
 
 Speaker note: Walk through the official sequence: Understanding Money, How Bitcoin Works, Using Bitcoin Safely, and Bitcoin in Your Community. Emphasize the progression from a monetary problem, to Bitcoin’s purpose and design, to personal responsibility and safety, to a locally meaningful application.
 
-Suggested visual: Horizontal four-module journey with the labels Problem, Understanding, Responsibility, and Local application.
+Suggested visual: Horizontal four-module journey with the labels Problem, Explanation, Responsibility, and Local application.
 
 ## Slide 7: Practice with responsibility
 
@@ -513,11 +513,11 @@ Suggested visual: Presentation → Practice → Production → Reflection loop.
 
 Time: 3 minutes
 
-Key message: Module 4 is locally selected because educators understand their communities best.
+Key message: Module 4 is locally selected because educators know their communities best.
 
-Speaker note: Educators can select beginner-appropriate Custom practice based on local tools, risks, opportunities, and learner needs. Examples may include a Lightning demonstration, merchant-payment scenario, remittance comparison, local resource map, or community use case. The learning objectives, Core outcomes, competency expectations, and Bitcoin-only focus remain shared.
+Speaker note: Educators can select beginner-appropriate Module 4 practice based on local tools, risks, opportunities, and learner needs. Examples may include a Lightning demonstration, merchant-payment scenario, remittance comparison, local resource map, or community use case. Required Diploma competencies, criteria, and Bitcoin-only focus remain shared.
 
-Suggested visual: An educator selects approved local examples from a Custom module bank for Module 4.
+Suggested visual: An educator selects approved local examples from a locally selected Module 4 option bank.
 
 ## Slide 9: The learning ecosystem
 
@@ -525,7 +525,7 @@ Time: 3 minutes
 
 Key message: The redesigned Diploma is a coordinated learning package, not a single book or an app.
 
-Speaker note: Give each component a distinct role. The Student Book carries learner understanding and reflection. The Educator Guide supports facilitation and adaptation. Activities hosted in the Resources Hub supply participation and practice, with the Diploma PDF linking to the appropriate activity page. The app is optional and learner-owned: it can support recap, self-checks, and discovery, but it does not assess or record certification evidence. Advanced pathways hold deeper study outside the beginner Core.
+Speaker note: Give each component a distinct role. The Student Book carries learner explanations, reflection, and key concepts. The Educator Guide supports facilitation and adaptation. The Activity Bank supplies participation and practice. The app is optional and learner-owned: it can support recap, self-checks, and discovery, but it does not assess or record certification evidence. Advanced pathways hold deeper study outside the Diploma.
 
 Suggested visual: Ecosystem diagram with educators and learners at the centre.
 
@@ -545,7 +545,7 @@ Time: 2 minutes
 
 Key message: The project is moving from architecture into review, field learning, publication, and launch readiness.
 
-Speaker note: Show the path: confirm and refine the design; complete learner and educator materials; align activities, objectives, and assessment; review with educators; pilot or field-test; prepare translation-ready and public materials; publish for the October 2026 target. Present the timing as a target, not a promise that bypasses quality review.
+Speaker note: Show the path: confirm and refine the design; complete learner and educator materials; align activities, competencies, and assessment; review with educators; pilot or field-test; prepare translation-ready and public materials; publish for the October 2026 target. Present the timing as a target, not a promise that bypasses quality review.
 
 Suggested visual: Simple release path with October 2026 as the final marker.
 
@@ -555,7 +555,7 @@ Time: 2 minutes
 
 Key message: The redesign is strongest when people who teach and use it help shape it.
 
-Speaker note: Invite educators to test Custom modules and practical tasks; communities to share local constraints and use cases; contributors to build activities, visuals, and translation-ready materials; and supporters to help publication, educator readiness, and distribution. Local examples and named services remain local choices, not global endorsements.
+Speaker note: Invite educators to test locally selected Module 4 variants and practical tasks; communities to share local constraints and use cases; contributors to build activities, visuals, and translation-ready materials; and supporters to help publication, educator readiness, and distribution. Local examples and named services remain local choices, not global endorsements.
 
 Suggested visual: Four collaboration roles around the Diploma.
 
@@ -579,7 +579,7 @@ Say:
 
 - The Diploma is being reorganized, not replaced.
 - It is becoming shorter, but not shallower.
-- Legacy content is moving into the right places: Core, Custom, or Advanced.
+- Legacy content is moving into the right places: the Diploma, locally selected Module 4, or Advanced.
 - The fourth module gives educators local choice within shared standards.
 - Practical workshops and demonstrations are becoming more central.
 - The app is optional and never certification evidence in 2026.10.
@@ -600,10 +600,10 @@ Avoid:
 | Before | 2026.10 redesign direction |
 |---|---|
 | Long or dense pathway | Approximately eight-hour completion pathway |
-| Beginner and advanced material mixed together | Core, Custom, and Advanced content boundaries |
-| Activities embedded inconsistently | Linked activities in the Resources Hub and guided practice |
+| Beginner and advanced material mixed together | Diploma, locally selected Module 4, and Advanced content boundaries |
+| Activities embedded inconsistently | Dedicated Activity Bank and guided practice |
 | Educator support uneven | Educator Guide as a facilitation engine |
-| Local adaptation unclear | Educator-selected Bitcoin in Your Community practice within shared outcomes |
+| Local adaptation unclear | Educator-selected Bitcoin in Your Community practice within shared competencies |
 | Attendance can be mistaken for completion | Recorded educator-evaluated theory and observed practical evidence required for certification |
 
 ---
@@ -650,7 +650,7 @@ Possible appendix materials:
 
 - four-module learning overview;
 - assessment and certification summary;
-- educator and activity overview;
+- educator and Activity Bank overview;
 - localization and offline-delivery summary;
 - glossary;
 - release-readiness and open-decision summary.

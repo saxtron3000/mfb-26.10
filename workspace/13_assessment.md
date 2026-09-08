@@ -1,296 +1,212 @@
-# Bitcoin Diploma Assessment Framework
+# Bitcoin Diploma Competency Assessment Framework
 
 ## Purpose
 
-This document defines how learning is evaluated in the redesigned Bitcoin Diploma and the minimum assessment standard required before a Diploma certificate can be issued.
+This document defines how the Bitcoin Diploma establishes and records learner competency.
 
-Assessment must measure the learning objectives in `05_objectives.md`. It must establish not only what a learner remembers, but what the learner can explain, compare, apply, and demonstrate.
+The Diploma does not assess private knowledge or a learner's self-description. It assesses what a learner can observably explain, compare, apply, decide, and do. Knowledge matters because it enables those actions; it is not, by itself, a certification result.
+
+The framework uses one simple competency code system:
+
+- `C1` through `C11` are the 11 required assessed competencies. Each receives one final result: **Meets standard** or **Not yet**.
+- Decimal codes such as `C1.1` and `C1.2` are required observable criteria within the related competency. They are educator look-fors, not separate certification rows.
+- `C12` and `C13` are formative competencies. They support learning and feedback but are not certificate gates.
+
+Every required criterion must have sufficient evidence before its parent competency can be recorded as **Meets standard**. A strength in one competency or criterion cannot compensate for an unmet, inaccurate, or unsafe requirement elsewhere.
 
 The 2026.10 Diploma uses two required, non-compensatory assessment components:
 
-1. **Theoretical assessment (50%)**: evaluated by the educator through check-ins, participation, discussion, learner explanations, and observation of the learner's understanding.
-2. **Practical competency assessment (50%)**: evaluated through direct observation of performance by an educator.
+1. **Theoretical competency (50%)** — educator-evaluated evidence of what a learner can explain, compare, reason through, or apply in a guided situation.
+2. **Practical competency (50%)** — direct educator observation of what a learner can safely perform, verify, and explain during an approved task.
 
-Educators should use simple, objective-aligned check-ins and concise records to distinguish meaningful understanding from attendance alone. Learners must meet both components; strength in one cannot compensate for failure in another.
+App progress, attendance, participation, enthusiasm, confidence, self-report, or completion of materials cannot establish competency. The My First Bitcoin app is optional and cannot provide formal assessment evidence.
 
-Content may be facilitated in person or online and remains usable through low-tech, offline-capable print/PDF materials. App access is not a minimum-technology requirement for learning, assessment, completion, or certification. The My First Bitcoin app may be offered as an optional self-check, recap, discovery, and connection resource. See `15_certification.md`. The optional app question-bank structure is maintained in `14_microlearning.md`.
-
----
-
-# 1. Status
-
-This is the working assessment design brief for an approximately 8-hour beginner Diploma. It reflects the 2026.10 policy that the app is learner-owned optional self-assessment and cannot provide formal assessment evidence.
-
-The assessment approach is comparable to a driving test: learners must show that they understand the relevant concepts and that they can apply required skills safely. Neither theoretical knowledge alone nor practical participation alone is sufficient.
-
-The same learning objectives and minimum competency standard apply across cohorts, educators, languages, and delivery modes. Practical evidence collection may be adapted for accessibility and local context, but the competency being assessed may not be removed or weakened. Low connectivity, lack of a device, or app access must not prevent learning, assessment, completion, or certification.
+The operational source is the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol). It contains the competency-to-evidence crosswalk, approved theory interactions, practical tasks, permitted support, safety-critical errors, equivalent routes, reassessment, calibration, and moderation procedures. The Assessment Grid is the cohort record; it is not a rubric.
 
 ---
 
-# 2. Assessment Philosophy
+# 1. Competency-led assessment
 
-Assessment should show whether learners can explain, compare, apply, and demonstrate beginner concepts and skills safely. It should confirm learning, not attendance, enthusiasm, mere app participation or completion without meeting the approved passing standard, or agreement with a slogan.
+## Observable theory
 
-The Diploma uses competency-based assessment. A learner may need to remember essential facts, but competence requires a further step. Depending on the objective, the learner must be able to explain an idea in their own words, compare alternatives, illustrate a relationship, reason through a scenario, make a safe decision, or perform an action.
+Theoretical competency is not a recall test. An educator must be able to see or hear the learner use knowledge through an observable response. Suitable evidence includes:
 
-The goal is not to certify advanced mastery. The goal is to confirm a shared beginner standard of:
+- an explanation in the learner's own words;
+- a comparison using stated criteria;
+- a concept illustration or relationship map;
+- a reasoned response to a guided scenario;
+- an identified risk and safe decision; or
+- a justified next step or limitation.
 
-- essential knowledge;
-- applied understanding and synthesis;
-- practical Bitcoin capability;
-- safety awareness;
-- independent reasoning; and
-- readiness for appropriate next steps.
+A multiple-choice answer may show recognition or recall. It cannot, by itself, establish that a learner can explain, compare, reason, apply, or make a safe decision.
 
-The reputation of the Bitcoin Diploma certificate depends on the robustness and consistency of this assessment. A reputable certificate must represent demonstrated achievement of the learning objectives, not simply exposure to course content.
+## Observable practice
 
----
+Practical competency requires direct observation by an educator. The educator must see the learner complete the approved sequence, make relevant checks, protect private information, explain important decisions, and recognize when to stop or seek help.
 
-# 3. Objective-First Assessment
+Use prepared wallets, simulations, testnet, or appropriately low-stakes activity where needed. No assessment may require a learner to expose a seed phrase, private key, wallet credential, balance, or unnecessary personal information.
 
-Every required assessment must map to one or more approved learning objectives.
+## Common standard
 
-For each objective, the assessment design must identify:
+The same required competencies, observable criteria, and minimum standard apply across cohorts, educators, languages, and delivery modes. Accessibility or local adaptation may change how evidence is collected, but it may not remove or weaken the competency being assessed.
 
-- the objective and measurable verb;
-- the evidence the learner must produce;
-- whether the evidence is knowledge-based, applied, practical, or a combination;
-- the assessment method;
-- who evaluates the evidence;
-- the minimum standard;
-- permitted support or prompting;
-- remediation and reassessment options; and
-- how completion is recorded.
-
-The assessment method must match the objective. For example:
-
-- **identify** may be assessed through a knowledge check or classification task;
-- **explain** requires the learner to express a concept in their own words;
-- **compare** requires relevant similarities, differences, or trade-offs;
-- **apply** requires use of knowledge in a new or realistic scenario;
-- **demonstrate** requires direct observation of performance.
-
-A multiple-choice answer may provide evidence of recognition or recall. It cannot, by itself, prove that a learner can explain a concept, synthesize ideas, make a safe decision, or perform a practical task.
+Low connectivity, lack of a device, or lack of app access must not prevent learning, assessment, completion, or certification.
 
 ---
 
-# 4. Two-Part Assessment Model
+# 2. Competency codes and records
 
-## 4.1 Theoretical Assessment
-
-Educators gather theoretical evidence through approved short, objective-aligned interactions from `10_activities.md`, including:
-
-- learner explanations;
-- guided discussions;
-- concept illustrations;
-- comparisons;
-- claim / evidence / trade-off responses;
-- scenario analysis;
-- simulations; and
-- role-plays.
-
-Rote memory has a limited but useful role for essential terms, safety rules, and foundational facts. Educator-evaluated theory evidence must use approved criteria and records; it cannot be based on participation, confidence, or personal agreement. A learner explanation may also be assessed within a practical task when it is an observable criterion of that performance. The theoretical and practical components each represent 50% of the complete assessment.
-
-The optional app may provide practice questions, self-evaluation, feedback, and review resources. Its results do not contribute to assessment in 2026.10.
-
-## 4.2 Directly Observed Practical Competency
-
-Practical competency assessment represents the remaining 50% and must be evaluated by an educator through direct observation.
-
-Suitable methods include:
-
-- practical tests;
-- live or prepared-wallet demonstrations;
-- simulations;
-- role-plays;
-- scenario-based evaluations;
-- observed troubleshooting or safety responses; and
-- structured learner explanations during performance.
-
-The educator must use an objective-aligned task and common rubric. The assessment should establish whether the learner can complete the required action in the correct sequence, make relevant safety checks, explain important decisions, and recognize when to stop or ask for help.
-
-The optional app may prepare learners, display instructions, provide checklists, or ask task-linked self-check questions. It is not assessment evidence. Learner self-report, tapping a checklist, watching a demonstration, completing an app simulation, or passing task-follow-up questions is not sufficient evidence that a practical competency has been achieved.
-
-Practical assessment should use testnet, prepared wallets, simulations, or appropriately low-stakes transactions when needed to protect learners. No assessment should require learners to expose a seed phrase, private key, wallet credential, or unnecessary personal financial information.
-
----
-
-# 5. Assessment Balance By Module
-
-| Module | Primary assessment emphasis | Required evidence pattern |
+| Code range | Meaning | Record rule |
 |---|---|---|
-| 1. Understanding Money | Theoretical assessment | Approved educator-led theoretical evidence. |
-| 2. How Bitcoin Works | Theoretical assessment | Approved educator-led theoretical evidence. |
-| 3. Using Bitcoin Safely | Theory and practical competence | Educator-led theory evidence and direct practical observation. |
-| 4. Bitcoin in Your Community | Theory where mapped and local practical competency | Educator-led theory evidence and direct practical observation. |
+| `C1`–`C8` | Theoretical competencies | Record one educator-evaluated result for each competency. |
+| `C9`–`C11` | Practical competencies | Record one directly observed result for each competency. |
+| Decimal `C` codes | Required observable criteria | Check as part of the parent competency; do not create separate certificate rows. |
+| `C12`, `C13` | Formative competencies | Use for feedback and reflection only. |
 
-Modules 1 and 2 are knowledge-dominant, while Modules 3 and 4 are skills-dominant. This describes where the evidence is taught and collected; certification still uses the 50% theoretical and 50% practical allocation across the complete Diploma.
-
----
-
-# 6. Required Assessment By Module
-
-## Module 1: Understanding Money
-
-The Module 1 learning and assessment package should include:
-
-- approved educator-evaluated learner explanations, comparisons, or concept illustrations in their own words about money functions and properties, barter limits, fiat-system basics, inflation, and purchasing power;
-- approved educator-evaluated discussion, simulation, or scenario activity, plus other formative support as needed; and
-- a formative local fiat-currency history or characteristics inquiry where appropriate.
-
-## Module 2: How Bitcoin Works
-
-The Module 2 learning and assessment package should include:
-
-- an approved educator-evaluated learner explanation or illustration of how Bitcoin responds to a relevant monetary or digital-money problem; and
-- an approved educator-evaluated comparison, role-play, discussion, or scenario activity, plus other formative support as needed.
-
-## Module 3: Using Bitcoin Safely
-
-Required Module 3 evidence should include:
-
-- approved educator-evaluated theory evidence on wallets, addresses, keys, seed phrases, custody trade-offs, confirmations, public-ledger privacy, on-chain and Lightning distinctions, and beginner risks;
-- direct observation by an educator of a learner safely setting up or opening and navigating an approved or prepared wallet environment;
-- direct observation of the distinct `B3.11` first-access pathway: the learner gains access to bitcoin in an approved low-stakes or simulated environment, receives it, and checks the relevant wallet and transaction information;
-- direct observation of the learner locating and checking receive information and completing or safely simulating a receive or send flow;
-- direct observation of address, invoice, amount, confirmation, or transaction-status verification as relevant to the task;
-- an observed recovery-readiness or seed-phrase protection scenario that never exposes real secrets;
-- an observed scam, error, or irreversible-transaction safety response; and
-- a learner explanation of what they are doing, why the checks matter, and when they should stop or seek help.
-
-## Module 4: Bitcoin in Your Community
-
-Required Module 4 evidence should include:
-
-- approved educator-evaluated theory evidence for any shared or selected theoretical objectives mapped to Module 4;
-- direct observation by an educator of at least one approved local task mapped to objectives `B4.1` and `B4.2`;
-- a local payment, receiving, remittance, merchant, donation, resource-discovery, or community-use task, simulation, or role-play as appropriate;
-- learner identification of relevant trade-offs, failure points, safety considerations, and realistic next steps; and
-- a short explanation connecting the practical task to the Diploma's Core objectives.
-
-Local tools and scenarios may differ. The use of a common objective, observable criteria, and minimum performance standard must remain fixed.
+An approved assessment task may collect evidence for several criteria within one competency. It may not combine criteria from different assessed competencies into one result unless each competency remains individually evidenced and recorded.
 
 ---
 
-# 7. Assessment Workflow
+# 3. Assessment components
 
-Each assessed competency should follow this sequence:
+## Theoretical competency — 50%
 
-1. **Teach:** Introduce the relevant concept or skill.
-2. **Practice:** Give the learner supported practice and feedback before evaluation.
-3. **Check theory:** An educator uses approved objective-aligned interactions and criteria to collect theoretical evidence.
-4. **Observe practical application:** An educator uses an approved simulation, role-play, or practical performance and common rubric to collect practical evidence.
-5. **Evaluate:** The educator records each component as **Meets standard** or **Not yet** against the approved criteria.
-6. **Remediate:** Direct the learner to relevant teaching, optional self-assessment, practice, or educator support.
-7. **Reassess:** Give a fair opportunity to demonstrate the same competency again.
-8. **Record:** Store the educator-evaluated theoretical result, educator-observed practical result, and the relevant evidence references in the approved completion record.
+Educators collect evidence through approved short interactions, including activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), such as learner explanations, guided comparisons, scenario analysis, concept illustrations, claim/evidence/trade-off responses, simulations, and role-plays.
 
-Assessment must not surprise learners. The learning objective, expected task, safety boundaries, and success criteria should be clear before evaluation.
+The evidence must match the competency verb. For example:
 
----
+- **Explain** requires the learner to express the relevant idea in their own words.
+- **Compare** requires relevant similarities, differences, or trade-offs using stated criteria.
+- **Apply** requires the learner to use knowledge in a new, guided, local, or realistic scenario.
+- **Identify and decide** requires the learner to recognize a relevant risk and state an appropriate action.
 
-# 8. Feedback-Informed Discussion Prompts
+Participation, agreement with a slogan, or an educator's impression is not enough. The educator uses approved criteria and concise records to establish the learner's demonstrated response.
 
-The following questions, drawn from stakeholder feedback, are useful starting points for educator-led discussion and formative assessment. They prioritize explanation, reasoning, safe judgment, and observable action over recall of isolated dates.
+## Practical competency — 50%
 
-Use a prompt only after learners have had an opportunity to learn and practise the relevant idea or skill. Listen for the learner's reasoning in their own words, ask a follow-up question where needed, and record formal evidence only through an approved objective-aligned task and rubric.
+Practical competency is evaluated through educator observation of approved demonstrations, simulations, role-plays, scenario-based evaluations, or prepared-wallet activity. A spoken explanation may be a criterion within a practical task, but it does not replace the required performance.
 
-| Feedback level | Potential question | What it can help assess |
-| --- | --- | --- |
-| 1 | Why did money come into existence? | `B1.1`: Whether the learner can explain the exchange and coordination problems money helps solve. |
-| 2 | Why does Bitcoin have a limited supply? | `B2.2` and `B2.3`: Whether the learner can connect the 21 million rule to public rules and node verification, rather than only repeat the number. |
-| 3 | How would you send a transaction? | `B3.6`: Whether the learner can safely describe or demonstrate the relevant receive information, address or invoice, amount, network, and confirmation or status checks. |
-| 3 | How would you recover a wallet? | `B3.7`: Whether the learner can describe or demonstrate safe recovery readiness with prepared materials while protecting recovery information. |
-| 4 | What would help you spot a scam? | `B3.4`: Whether the learner can identify relevant warning signs and state a safe response, including when to stop or seek help. |
-| 4 | How would you verify an address before sending? | `B3.6`: Whether the learner can identify the correct network and compare the destination on a trusted receiving screen before approval. |
-| 5 | Why does a node verify transactions? | `B2.2` and `B2.3`: Whether the learner can explain that independent verification enforces Bitcoin's rules, including valid signatures, no double spending, and the supply schedule. |
-
-For the two practical prompts, a spoken answer can prepare a learner but cannot replace direct observation by an educator of the required performance. Prompts that only ask learners to recall an event year or date should not be used as evidence of competence unless that date is necessary to explain the relevant concept or context.
+The optional app may prepare learners, provide checklists, or offer self-check questions. It is not practical evidence. Watching a demonstration, completing an app simulation, or reporting that an action was completed is not sufficient.
 
 ---
 
-# 9. Educator standard for practical assessment
+# 4. Competency balance by module
 
-Educators facilitate theory and assess practical competency. Anyone assessing practical competency needs explicit guidance, practice, and tools to evaluate consistently.
+| Module | Required competencies | Assessment emphasis | Required evidence pattern |
+|---|---|---|---|
+| 1. Understanding Money | `C1`, `C2` | Theoretical competency | Observable explanation, comparison, and guided scenario response. |
+| 2. How Bitcoin Works | `C3`, `C4`, `C5` | Theoretical competency | Observable explanation, relationship mapping, comparison, and reasoning. |
+| 3. Using Bitcoin Safely | `C6`, `C7`, `C8`, `C9`, `C10` | Theory and practical competency | Observable explanation and safety reasoning for `C6`–`C8`; direct observation for `C9`–`C10`. |
+| 4. Connect: Bitcoin in Your Community | `C11` | Local practical competency | Direct observation of a educator-curated task and its explanation. |
 
-The Educator Guide should provide:
-
-- an objective-to-practical-assessment blueprint;
-- required and optional practical assessment tasks;
-- practical test procedures;
-- simulation, role-play, and practical-performance guidance;
-- observable performance criteria;
-- common rubrics and sample evidence;
-- clear definitions of **Meets standard** and **Not yet**;
-- guidance on prompting and permitted support;
-- safety stop conditions;
-- feedback and reassessment procedures;
-- accessibility accommodations that preserve the objective;
-- educator calibration examples; and
-- moderation or audit procedures where needed to protect consistency.
-
-Educator judgment in practical assessment must be evidence-based. A learner should not pass the practical component because the educator assumes they understand, participated enthusiastically, attended every session, or completed an app self-check. The educator should be able to identify the observed evidence that satisfies each required practical objective. Educators evaluate both components using their stated criteria and common rubrics.
+The assessment follows the Diploma's **Problem → Solution → Action → Connect** arc. Modules 1 and 2 develop the Problem and Solution through observable learner responses. Educators may adapt the practical route in Module 3 while preserving its required evidence. Module 4 is the educator-curated Connect stage within the Diploma: it requires the learner to connect that foundation to a local need or opportunity, a realistic alternative, safe performance, and a responsible next step. The 50/50 allocation applies across the complete Diploma, not separately within every module.
 
 ---
 
-# 10. Completion Standard
+# 5. Required assessed competencies
+
+Each row below receives one final result. The decimal-code criteria are required within that result.
+
+The approved task or interaction IDs and their evidence routes are maintained in the Educator Guide's operational assessment protocol. An educator must plan a valid individual evidence route for every row before teaching starts.
+
+| Assessed competency | Required observable criteria | Approved evidence | Component |
+|---|---|---|---|
+| `C1` Explain why people use money and compare two forms of money using simple characteristics. | `C1.1` Explain why people use money.<br>`C1.2` Explain barter limits and the beginner evolution of money.<br>`C1.3` Use functions and properties of money.<br>`C1.4` Compare two forms of money using simple characteristics. | Own-words explanation, concept illustration, and guided comparison. | Theoretical |
+| `C2` Use a guided local or realistic scenario to explain one modern-money trade-off. | `C2.1` Explain an introductory inflation, purchasing-power, banking, or CBDC trade-off.<br>`C2.2` Connect the scenario to an observed, local, or realistic money experience without personal financial disclosure. | Guided explanation or scenario response. | Theoretical |
+| `C3` Explain the digital-copy and double-spend problem and how shared verification helps Bitcoin address it. | `C3.1` Explain why Bitcoin was created, including the digital-copy and double-spend problem. | Own-words explanation or concept illustration. | Theoretical |
+| `C4` Explain how Bitcoin's public rules and network roles support its key money properties. | `C4.1` Explain decentralization, credible finite supply, peer-to-peer transfer, verifiability, and the beginner meaning of “don't trust, verify.”<br>`C4.2` Explain the roles of users, nodes, miners, and developers, including proof of work, the 21 million limit, halving, and satoshis at beginner scope.<br>`C4.3` Make a guided sound-money judgment using relevant properties and a stated limit or trade-off. | Concept relationship, role map, or guided comparison and explanation. | Theoretical |
+| `C5` Compare Bitcoin with one other digital asset using guided criteria. | `C5.1` Compare using control, supply or issuance, verification, custody, or counterparty considerations.<br>`C5.2` Distinguish learning or responsible use from trading, token promotion, and speculation. | Guided comparison, discussion, or safety scenario. | Theoretical |
+| `C6` Explain what wallet information can be shared or must be protected, and describe one custody trade-off. | `C6.1` Explain wallets, addresses, keys, seed phrases, and custody, including what is public or secret.<br>`C6.2` Compare custodial and non-custodial approaches.<br>`C6.3` Describe hot and hardware wallets at beginner scope. | Explanation using essential terms and a guided custody scenario. | Theoretical |
+| `C7` Identify a scam, error, or high-risk request and state when to stop, verify, or seek help. | `C7.1` Identify a safe response to common beginner risks, such as secret exposure, address mistakes, impersonation, urgency, or too-good-to-be-true offers.<br>`C7.2` State the limits of beginner practical use and when to stop, verify, or seek help. | Safety scenario or applied safety judgment. | Theoretical |
+| `C8` Compare common ways to pay with or access bitcoin in guided scenarios. | `C8.1` Compare on-chain and Lightning distinctions and select an appropriate beginner pathway in a guided scenario.<br>`C8.2` Compare acquisition or exchange pathways, risks, and trade-offs without making recommendations or giving financial advice. | Guided scenario and comparison. | Theoretical |
+| `C9` Safely complete and verify a supported first-access wallet activity, including receipt of bitcoin or a safe simulated receipt, in an approved low-stakes or simulated setting. | `C9.1` Safely open or navigate a prepared wallet environment and locate receive information.<br>`C9.2` Complete or safely simulate a receive-or-send flow, including relevant address, invoice, amount, confirmation, or status checks.<br>`C9.3` Complete the supported first-access pathway, receive bitcoin or safely simulate receipt, and check relevant wallet or transaction information. | Direct observation of one approved, connected practical sequence. | Practical |
+| `C10` Demonstrate recovery readiness with prepared or simulated materials without exposing secrets. | `C10.1` Demonstrate recovery readiness and protection of recovery information using prepared or simulated materials. | Direct observation of a prepared or simulated recovery-readiness task. | Practical |
+| `C11` Safely complete one approved local Bitcoin-as-money task and connect it to its local purpose, realistic alternative, trade-offs, and next step. | `C11.1` Complete the safe task sequence and relevant verification behaviour.<br>`C11.2` Explain the local purpose, realistic alternative, trade-offs, failure points, safety considerations, and realistic next step. | Direct observation of the selected local task, simulation, role-play, or problem-solving performance, including the learner's explanation. | Practical |
+
+---
+
+# 6. Assessment workflow
+
+For each assessed competency:
+
+1. **Teach:** Introduce the relevant knowledge, action, and safety boundary.
+2. **Practise:** Give supported practice and feedback before evaluation.
+3. **Elicit evidence:** Use an approved theoretical interaction or observed practical task that lets the learner demonstrate the competency.
+4. **Check criteria:** Confirm every required decimal-code criterion against the approved rubric.
+5. **Record:** Mark the parent competency **Meets standard** or **Not yet** and retain concise evidence references.
+6. **Remediate and reassess:** Give focused practice and a fair opportunity to demonstrate the same competency again.
+
+Assessment must not surprise learners. Before evaluation, the learner should know the competency, expected action or response, relevant safety boundaries, and success criteria.
+
+---
+
+# 7. Completion standard
 
 A learner is **assessment-complete** only when both component statuses are complete:
 
-## A. Theoretical assessment complete
+## A. Theoretical competency complete
 
-- approved educator-evaluated theory interactions meet their criteria and are recorded.
+- the educator has recorded **Meets standard** for `C1` through `C8`; and
+- every required criterion within `C1` through `C8` has sufficient observable evidence.
 
-Informal educator theory learning and feedback remain formative only.
+## B. Practical competency complete
 
-## B. Practical-competence complete
+- the educator has directly observed and recorded **Meets standard** for `C9`, `C10`, and `C11`;
+- every required criterion within those competencies has been observed safely; and
+- `C9.3` includes the supported first-access pathway and receipt of bitcoin, or a safe simulated receipt.
 
-- the required Module 3 practical and safety competencies have been directly observed and passed by an educator;
-- the required selected Module 4 practical or applied competency has been directly observed and passed;
-- the educator's practical result and evidence reference have been recorded through the approved process.
-
-Direct observation by an educator supplies the full practical component.
-
-Passing only one required contribution or component is not assessment-complete.
-
-The intended completion rule is that every required objective meets its approved standard; a strong result in one objective or component cannot compensate for an unmet practical or safety-critical competency. The final objective-level thresholds and aggregation rules remain a release dependency in Section 13, so certification cannot operate until they are approved.
+Passing one component cannot compensate for an unmet requirement in the other. Passing one criterion cannot compensate for incomplete, inaccurate, unsafe, or overly prompted evidence for another required criterion.
 
 ---
 
-# 11. Competency Evidence Map
+# 8. Formative competencies
 
-| Competency | Objective-aligned evidence | Primary evaluator |
-|---|---|---|
-| Monetary foundations | Approved educator-evaluated explanation, comparison, or scenario evidence. | Educator |
-| Beginner economic reasoning | Approved educator-evaluated discussion, explanation, or trade-off response. | Educator |
-| Bitcoin fundamentals | Approved educator-evaluated concept relationship, comparison, or scenario evidence. | Educator |
-| Practical Bitcoin capability | Directly observed wallet, receiving or sending, verification, recovery-readiness, and safety performance using an approved task. | Educator |
-| Guided critical discussion | Formative spoken or written response using clear reasoning, evidence, and trade-off language. If retained as a certification objective, it requires an approved educator-theory interaction or practical-performance rubric. | Educator |
-| Social learning and course-ending reflection (`ALL.1`, `ALL.2`) | Formative listening, explanation, questioning, collaborative role-play, and reflection. These do not currently create certification gates. | Educator for formative support |
-| Local relevance | Directly observed Custom task, simulation, role-play, or problem-solving performance, including any explanation embedded in the practical rubric. | Educator |
+`C12` and `C13` support learning across the Diploma. They may guide educator feedback but do not create certification rows or alter the `C1`–`C11` completion rule.
+
+| Formative competency | Suggested evidence |
+|---|---|
+| `C12` Participate in guided discussion using clear explanations, relevant evidence, respectful listening, and basic reasoning. | Educator observation and feedback. |
+| `C13` Articulate a reason to continue learning about Bitcoin, or a reason for remaining uncertain, using course concepts and an observed, local, or realistic money experience without making an investment claim. | Reflection or guided conversation. |
 
 ---
 
-# 12. Delivery And Accessibility
+# 9. Educator standard
 
-All certificated delivery modes require both parts of the assessment.
+Educators assess both theoretical and practical competencies using approved tasks, observable criteria, common rubrics, concise evidence records, feedback, and fair reassessment.
 
-- In-person delivery, online delivery, and cohort delivery should integrate approved educator-evaluated theory interactions, formative educator support, and direct practical observation into module activities where appropriate.
-- Self-paced learning may support preparation, but learners must complete approved educator-led theoretical and live or remote practical assessment before certification.
-- Low-connectivity delivery may use offline-capable print/PDF content and educator-led assessment without any later app requirement.
-- Remote practical assessment may be used only when the educator can directly observe the required performance and protect learner privacy and safety.
-- Accessibility accommodations may change how a learner communicates or performs, but must preserve the objective and required level of competence.
+The [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) and approved activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) provide:
+
+- competency-to-task mappings;
+- required observable criteria for each competency;
+- approved theoretical prompts and practical tasks;
+- practical test, simulation, role-play, and safety guidance;
+- clear definitions of **Meets standard** and **Not yet**;
+- prompting and permitted-support rules;
+- accessibility variants that preserve the competency;
+- educator calibration examples; and
+- moderation or audit procedures where needed.
+
+An educator must not award a result because a learner attended, participated confidently, completed an app self-check, or appears familiar with the topic. The record must identify observable evidence for the competency and every required criterion.
 
 ---
 
-# 13. Implementation Questions To Resolve
+# 10. Delivery and accessibility
 
-- Final assessment blueprint mapping theoretical objectives to educator-evaluated evidence and practical objectives to observed tasks
-- How any reported numerical score will represent the fixed 50/50 allocation without allowing an average to compensate for an unmet required component or safety-critical competency
-- Required practical tasks and rubrics for Modules 3 and 4
-- Educator preparation, training, calibration, moderation, and online-observation rules
-- Accessibility and language parity across instructional materials and educator-led assessment
-- Privacy, consent, data retention, minors' access, audit trails, and result correction
-- How educator-led theoretical and practical results form one completion record, including permissions, corrections, and certificate issuance
-- Appeals, remediation, reassessment, suspected-misconduct, outage, and emergency-contingency procedures
-- Certificate issuance, identity verification, revocation, and public verification rules
+All certificated delivery modes require both assessment components.
+
+- In-person, online, and cohort delivery integrate documented educator-evaluated theory interactions, formative support, and direct practical observation into competency-led module activities.
+- Self-paced learning may support preparation, but certification requires educator-led theoretical and live or remote practical assessment.
+- Low-connectivity delivery may use offline-capable print/PDF materials and educator-led assessment without a later app requirement.
+- Remote practical assessment is permitted only when the educator can directly observe the required performance and protect learner privacy and safety.
+- Accessibility accommodations may change how a learner communicates or performs, but must preserve the assessed competency, its required criteria, and the required level of performance.
+
+---
+
+# 11. Implementation questions to resolve
+
+- Whether any numerical score will be reported alongside the two non-compensatory component statuses. Until a separate rule is approved, do not calculate or report a combined numerical grade.
+- The release-test evidence that the selected delivery route, cohort size, assessor ratio, accommodations, feedback, and reassessment can deliver the required individual evidence within its advertised schedule.
+- Privacy, consent, data retention, minors' access, audit trails, and result correction.
+- Certificate-record permissions, corrections, and issuance workflow.
+- Appeals, suspected-misconduct, outage, and emergency-contingency procedures.
+- Certificate issuance, identity verification, revocation, and public verification rules.

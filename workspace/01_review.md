@@ -15,11 +15,11 @@ It identifies:
 
 This is a diagnostic document.
 
-It does not define the new design, learning objectives, assessment system, certification model, project scope, milestones, or implementation plan.
+It does not define the new design, competency framework, assessment system, certification model, project scope, milestones, or implementation plan.
 
 For design principles, see `04_design.md`.
 
-For learning outcomes, see `05_objectives.md`.
+For assessed competencies and observable criteria, see `05_competencies.md`.
 
 For assessment, see `13_assessment.md`.
 
@@ -49,7 +49,7 @@ Its major weaknesses are:
 - unclear and excessive duration;
 - inconsistent pacing;
 - broad and sometimes vague scope;
-- weak measurable objectives;
+- weak measurable competencies;
 - weak competency mapping;
 - insufficient structured review;
 - educator support limitations;
@@ -59,11 +59,11 @@ Its major weaknesses are:
 - multilingual source-readiness gaps;
 - publication and link-fragility risks.
 
-The core conclusion:
+The central conclusion:
 
 The Diploma does not primarily suffer from a lack of content. It suffers from weak learning architecture, unclear boundaries, inconsistent timing, and inconsistent educator support.
 
-The review of the retiring Bitcoin for Organizations pathway reinforces this conclusion. Its strongest beginner contribution is not additional chapters, but sharper examples for CBDCs, digital scarcity, double spending, verification, public-ledger privacy, misconception discussion, and local payment scenarios. Most strategic, organizational, financial, policy, legal, and sector-specific material should remain outside the beginner Diploma and be preserved for Advanced pathways.
+The review of the retiring Bitcoin for Organizations pathway reinforces this conclusion. Its strongest beginner contribution is not additional chapters, but sharper examples for CBDCs, digital scarcity, double spending, verification, public-ledger privacy, misconception discussion, and local payment scenarios. Most strategic, organizational, financial, policy, legal, and sector-specific material should remain outside the beginner Diploma and be preserved for Advanced Modules.
 
 ---
 
@@ -143,7 +143,7 @@ This creates a stronger overall narrative than a disconnected set of lessons.
 
 The Diploma generally moves from foundational concepts toward more advanced concepts.
 
-This progression supports learner orientation and understanding.
+This progression supports learner orientation and demonstrated competency.
 
 ---
 
@@ -204,11 +204,11 @@ As a result, learners may struggle to distinguish between:
 - philosophical discussion;
 - practical instruction.
 
-## 3.5 Weak Learning Objectives
+## 3.5 Weak Learning Competencies
 
-Some learning objectives are not yet precise or measurable.
+Some learner competencies are not yet precise, observable, or measurable.
 
-This makes it harder to define what learners should know, understand, or be able to do by the end of a section.
+This makes it harder to define what learners should know, explain, or be able to do by the end of a section.
 
 ## 3.6 Weak Competency Mapping
 
@@ -217,7 +217,7 @@ There is not yet a strong visible relationship between:
 - lessons;
 - activities;
 - competencies;
-- learner outcomes.
+- observable learner actions.
 
 Assessment evidence is addressed separately in `13_assessment.md`.
 
@@ -228,23 +228,23 @@ The current decentralized delivery model does not yet provide enough common evid
 Risks include:
 
 - attendance or participation being treated as completion;
-- recall being mistaken for understanding;
+- recall being mistaken for demonstrated competency;
 - practical activities occurring without structured evaluation;
 - educators applying different standards;
 - app or checklist completion being treated as proof of practical ability; and
 - certificates communicating inconsistent levels of achievement.
 
-The redesign should connect every learning objective to appropriate evidence. The complete assessment should contain two separately passed components: a 50% educator-evaluated theoretical component and a 50% educator-observed practical component. The common framework, rubrics, educator preparation, and certification prerequisite belong in `10_activities.md`, `12_educator-draft.md`, `13_assessment.md`, and `15_certification.md`; optional learner self-checks belong in `14_microlearning.md`.
+The redesign should connect every assessed competency to appropriate evidence. The complete assessment should contain two separately passed components: a 50% educator-evaluated theoretical component and a 50% educator-observed practical component. The common framework belongs in `13_assessment.md`; the crosswalk, approved interactions and tasks, rubrics, educator calibration, and reassessment procedures belong in the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol); and certification eligibility belongs in `15_certification.md`. Optional learner self-checks belong in `14_microlearning-plan.md`.
 
-## 3.7 Lack of Measurable Outcomes
+## 3.7 Lack of Measurable Competencies
 
 The current Diploma makes it difficult to determine:
 
 - learner mastery;
 - learner progress;
-- outcome achievement.
+- competency achievement.
 
-A measurable outcomes framework belongs in `05_objectives.md` and `13_assessment.md`.
+A measurable competency framework belongs in `05_competencies.md` and `13_assessment.md`.
 
 ## 3.8 Limited Structured Review
 
@@ -323,7 +323,7 @@ Risks include:
 - unclear boundaries between translation and localization;
 - missing language notes for difficult Bitcoin, money, custody, and safety terms.
 
-Multilingual design belongs in `04_design.md`, `03_scope.md`, and `17_spec.md`.
+Multilingual design belongs in `04_design.md`, `03_scope.md`, and `16_spec.md`.
 
 ## 3.15 Publication And Link Fragility
 
@@ -331,7 +331,7 @@ Print and PDF materials can become cluttered or fragile if they depend on too ma
 
 The redesigned publication system should keep printed materials durable and offline-usable while reserving QR codes for stable, high-value destinations.
 
-The collaborator and stakeholder overview belongs in `17_spec.md`. Keep production checks separate from that overview.
+The collaborator and stakeholder overview belongs in `16_spec.md`. Keep production checks separate from that overview.
 
 ---
 
@@ -353,7 +353,7 @@ Its limitations lie in:
 
 - structure;
 - pacing;
-- measurable objectives;
+- measurable competencies;
 - competency mapping;
 - educator support;
 - review systems;
@@ -364,7 +364,7 @@ Its limitations lie in:
 
 The redesign process should preserve the strengths while solving the structural and pedagogical weaknesses in the appropriate documents.
 
-Organizations-derived material should be treated as a supporting source for this redesign, not as a replacement structure. Use it to strengthen beginner-safe explanation, educator misconception prompts, activities, and Module 4 local examples.
+Organizations-derived material should be treated as a supporting source for this redesign, not as a replacement structure. Use it to strengthen beginner-safe explanation, educator misconception prompts, activity scenarios, and Module 4 local examples.
 
 ---
 
@@ -381,10 +381,10 @@ Public before / after framing:
 | Current Friction | Redesign Response |
 |---|---|
 | Long and dense pathway | 8-hour 4-module beginner pathway |
-| Beginner and advanced material mixed together | Core / Custom / Advanced separation |
-| Activities embedded inconsistently | Linked activities in the Resources Hub |
+| Beginner and advanced material mixed together | four-module Diploma / educator-curated Module 4 within it / Advanced separation |
+| Activities embedded inconsistently | Activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) |
 | Educator support uneven | Educator Guide as facilitation engine |
-| Assessment and certificate meaning vary | Objective-aligned 50% educator-led theoretical and 50% educator-observed practical components, each separately passed |
+| Assessment and certificate meaning vary | Competency-aligned 50% educator-led theoretical and 50% educator-observed practical components, each separately passed |
 | Local adaptation unclear | Bitcoin in Your Community module |
 | English/PDF assumptions hidden | Translation-ready source files and clear delivery-mode branches |
 | Link-heavy print risk | Sparse QR codes tied to stable destinations |
@@ -402,9 +402,9 @@ This document intentionally does not include:
 - implementation milestones;
 - project workstreams;
 - detailed deliverables;
-- finalized learning objectives;
+- finalized assessed competencies and observable criteria;
 - assessment methods;
 - certification requirements;
 - publishing plans.
 
-Those belong in `04_design.md`, `05_objectives.md`, `13_assessment.md`, `15_certification.md`, and `03_scope.md`.
+Those belong in `04_design.md`, `05_competencies.md`, `13_assessment.md`, `15_certification.md`, and `03_scope.md`.
