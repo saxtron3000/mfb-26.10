@@ -12,13 +12,13 @@ This file records questions only. It is not a source of truth for the decisions 
 
 ## 1. Is eight hours a fixed Diploma boundary or a planning baseline?
 
-`05_competencies.md` treats eight hours as a design constraint for required Diploma learning. `03_scope.md`, `06_plan.md`, and `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` instead describe approximately eight hours as a baseline that may need additional time for valid evidence, feedback, and reassessment. `02_research.md` identifies this as an unresolved governance conflict.
+`05_competencies.md` treats eight hours as a design constraint for required Diploma learning. `03_scope.md`, `06_plan.md`, and the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) instead describe approximately eight hours as a baseline that may need additional time for valid evidence, feedback, and reassessment. `02_research.md` identifies this as an unresolved governance conflict.
 
 **A. Fixed boundary.** Keep eight hours as the maximum complete learner-contact time. Reduce, combine, or move competencies and required evidence until the complete course, including reassessment, fits.
 
 **B. Planning baseline.** Keep the present competency set and treat eight hours as the shortest planned route; require longer scheduled delivery where cohort size, access needs, practice, observation, or reassessment demand it.
 
-Affected: `05_competencies.md`, `03_scope.md`, `06_plan.md`, `02_research.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, `13_assessment.md`, `16_spec.md`.
+Affected: `05_competencies.md`, `03_scope.md`, `06_plan.md`, `02_research.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), `13_assessment.md`, `16_spec.md`.
 
 ## 2. Does “50% / 50%” describe a score or two completion gates?
 
@@ -32,7 +32,7 @@ Affected: `05_competencies.md`, `06_plan.md`, `13_assessment.md`, `15_certificat
 
 All source-of-truth and public documents must use this model. Do not describe Module 4 as optional or outside the Diploma.
 
-Affected: `00_index.md`, `04_design.md`, `05_competencies.md`, `06_plan.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, `13_assessment.md`, `15_certification.md`, `16_spec.md`.
+Affected: `00_index.md`, `04_design.md`, `05_competencies.md`, `06_plan.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), `13_assessment.md`, `15_certification.md`, `16_spec.md`.
 
 ## 4. What must the Module 3 learner promise say?
 
@@ -42,7 +42,7 @@ Affected: `00_index.md`, `04_design.md`, `05_competencies.md`, `06_plan.md`, `..
 
 **B. Identify and explain only.** Reframe Module 3 certification around observable explanation and safety judgment; move hands-on demonstrations out of required Diploma certification.
 
-Affected: `05_competencies.md`, `06_plan.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, `13_assessment.md`, `15_certification.md`, `16_spec.md`.
+Affected: `05_competencies.md`, `06_plan.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), `13_assessment.md`, `15_certification.md`, `16_spec.md`.
 
 ## 5. Is first access to bitcoin a required Module 3 competency?
 
@@ -52,7 +52,7 @@ Affected: `05_competencies.md`, `06_plan.md`, `../publish/mfb-bd-26.10/mfb-bd-sg
 
 **B. Optional first access.** Remove `C9.3` as a required competency criterion; certification requires safe wallet navigation and a receive/send simulation, but not access to bitcoin.
 
-Affected: `05_competencies.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, `13_assessment.md`, `15_certification.md`, and activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/).
+Affected: `05_competencies.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), `13_assessment.md`, `15_certification.md`, and activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/).
 
 ## 6. What is the required Diploma learning for Lightning?
 
@@ -62,7 +62,7 @@ Affected: `05_competencies.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, `.
 
 **B. Required supported use.** Every learner completes an approved Lightning receive/send exercise in Module 3; Module 4 may deepen or localize it.
 
-Affected: `05_competencies.md`, `06_plan.md`, `07_contents.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, `13_assessment.md`, `../publish/mfb-bd-26.10/mfb-bd-lx.md`, `16_spec.md`.
+Affected: `05_competencies.md`, `06_plan.md`, `07_contents.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), `13_assessment.md`, `../publish/mfb-bd-26.10/mfb-bd-lx.md`, `16_spec.md`.
 
 ## 7. Are online PDF, website-ready content, and future branches October deliverables?
 
@@ -72,7 +72,7 @@ Affected: `05_competencies.md`, `06_plan.md`, `07_contents.md`, `../publish/mfb-
 
 **B. Future branch preparation.** Release the complete low-tech print/PDF and educator-led pathway in October; retain only branch notes, source readiness, and design constraints for online/web formats.
 
-Affected: `03_scope.md`, `04_design.md`, `06_plan.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, `16_spec.md`, `18_horizon.md`.
+Affected: `03_scope.md`, `04_design.md`, `06_plan.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), `16_spec.md`, `18_horizon.md`.
 
 ## 8. How strict is the learner-facing “open-source wallet” guidance?
 
@@ -82,7 +82,7 @@ Affected: `03_scope.md`, `04_design.md`, `06_plan.md`, `../publish/mfb-bd-26.10/
 
 **B. Move it out of the learner Diploma.** Keep wallet open-source evaluation as educator/Advanced context and teach Diploma learners only the custody, recovery, verification, and safety criteria needed for beginner use.
 
-Affected: `06_plan.md`, `05_competencies.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, `../publish/mfb-bd-26.10/mfb-bd-lx.md`, `17_advanced.md`.
+Affected: `06_plan.md`, `05_competencies.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), `../publish/mfb-bd-26.10/mfb-bd-lx.md`, `17_advanced.md`.
 
 ## 9. Is named programme-pathway promotion part of the Student Guide?
 
@@ -92,7 +92,7 @@ The Student Guide directs learners to specific My First Bitcoin programmes and p
 
 **B. Keep the Student Guide programme-neutral.** Remove named pathways and live links from learner chapters; place changing programme navigation on a maintained update page or educator handout.
 
-Affected: `06_plan.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, `09_resources.md`, `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, `16_spec.md`.
+Affected: `06_plan.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, `09_resources.md`, the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), `16_spec.md`.
 
 ## 10. Which learner manuscript is the canonical file name?
 
@@ -102,7 +102,7 @@ The repository guidance assigns learner-facing prose to `workspace/../publish/mf
 
 **B. Standardize on `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`.** Rename or migrate the Student Guide to the repository-guideline filename and update the index and links.
 
-Affected: `AGENTS.md`, `00_index.md`, `06_plan.md`, `07_contents.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, `../publish/mfb-bd-26.10/mfb-bd-lx.md`, `16_spec.md`.
+Affected: `AGENTS.md`, `00_index.md`, `06_plan.md`, `07_contents.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), `../publish/mfb-bd-26.10/mfb-bd-lx.md`, `16_spec.md`.
 
 ## 11. Is a certificate a 2026.10 operational output or a governed future implementation?
 
@@ -112,7 +112,7 @@ The assessment and certification documents define a mandatory prerequisite and i
 
 **B. Assessment-complete is the October curriculum output.** Keep the certification prerequisite and public claim, but defer actual issuance and verification implementation until governed separately; do not imply that a credential service is already available.
 
-Affected: `03_scope.md`, `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, `13_assessment.md`, `15_certification.md`, `16_spec.md`, `18_horizon.md`, public materials.
+Affected: `03_scope.md`, the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), `13_assessment.md`, `15_certification.md`, `16_spec.md`, `18_horizon.md`, public materials.
 
 ## 12. Should the first release include timed, certification-complete activities?
 
@@ -122,13 +122,13 @@ The Educator Guide operational assessment protocol now supplies approved theory 
 
 **B. Release the curriculum framework first.** Publish the Student and Educator guides as a provisional teaching package; defer certification claims and assessment-complete status until the required activities are operational.
 
-Affected: `02_research.md`, `03_scope.md`, `05_competencies.md`, activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, `13_assessment.md`, `15_certification.md`, `16_spec.md`, `18_horizon.md`.
+Affected: `02_research.md`, `03_scope.md`, `05_competencies.md`, activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), `13_assessment.md`, `15_certification.md`, `16_spec.md`, `18_horizon.md`.
 
 ---
 
 ## Reconciliation order after decisions
 
 1. Update authorities: `06_plan.md`, `05_competencies.md`, `13_assessment.md`, and `15_certification.md`.
-2. Align delivery files: `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), and `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`.
+2. Align delivery files: `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), and the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md).
 3. Align planning and communication: `03_scope.md`, `04_design.md`, `07_contents.md`, `16_spec.md`, and `18_horizon.md`.
 4. Update the index, lexicon, resource register, and any public materials that repeat the resolved decision.

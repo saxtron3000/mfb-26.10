@@ -50,7 +50,7 @@ The protocol is now documented, but it is not evidence that a selected cohort ca
 4. Create and calibrate against one annotated `MS` and one annotated `NY` example for `T2`, `P9`, and the selected `P11` variant.
 5. Revise the route before advertising certification if the evidence cannot be observed, recorded, and reassessed safely within the promised schedule.
 
-**Primary files:** `publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`, `publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md`, `workspace/13_assessment.md`, `workspace/03_scope.md`.
+**Primary files:** [Educator Guide](publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), `publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md`, `workspace/13_assessment.md`, `workspace/03_scope.md`.
 
 ### 2. Approve minimum record and certificate governance
 
@@ -108,7 +108,7 @@ Also verify all named public programme, forms, case-study, network, leaderboard,
 
 Replace line locations with stable section anchors or claim IDs. Maintain separate reports for occurrence audits. For each shared claim that needs verification, record the claim or section, source type and authority, volatility, reviewer, date checked, next review date, and how it may appear in learner-facing prose. Keep genuinely local and changing facts in the Educator Guide's local verification record.
 
-**Primary files:** `workspace/09_resources.md`, `publish/mfb-bd-26.10/mfb-bd-lx.md`, `publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`.
+**Primary files:** `workspace/09_resources.md`, `publish/mfb-bd-26.10/mfb-bd-lx.md`, [Educator Guide](publish/mfb-bd-26.10/mfb-bd-eg-26.10.md).
 
 ### 6. Triage the remaining consistency decisions
 

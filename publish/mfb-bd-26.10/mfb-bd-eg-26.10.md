@@ -1,12 +1,12 @@
-# Bitcoin Diploma educator companion guide
+# Bitcoin Diploma Educator Guide
 
 Teaching the Bitcoin Diploma
 
 ## About this guide
 
-This guide is the teacher's companion to the 2026.10 Bitcoin Diploma. Use it with the [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/), [Educator Assessment Grid](mfb-bd-assessment-grid-26.10.md), and the learning activities supplied for your course. The My First Bitcoin app may be offered as an optional self-check, recap, and discovery resource.
+The Educator Guide supports teaching the 2026.10 Bitcoin Diploma. Use it with the [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/), [Educator Assessment Grid](mfb-bd-assessment-grid-26.10.md), and the learning activities supplied for your course. The My First Bitcoin app may be offered as an optional self-check, recap, and discovery resource.
 
-The Student Guide gives learners the essential path. This companion helps a teacher turn that path into a complete learning experience through interaction, discussion, local context, guided practice, feedback, and assessment. You can teach directly from it: read the short preparation notes before a session, use the suggested words and questions during the session, and return to the evidence and safety notes afterwards.
+The Student Guide gives learners the essential path. This Educator Guide helps a teacher turn that path into a complete learning experience through interaction, discussion, local context, guided practice, feedback, and assessment. You can teach directly from it: read the short preparation notes before a session, use the suggested words and questions during the session, and return to the evidence and safety notes afterwards.
 
 ---
 
@@ -175,7 +175,7 @@ You do not need to be a Bitcoin expert or an experienced teacher to begin. You d
 For your first delivery, use this route:
 
 1. Read **Quick start** and **The educator's role**.
-2. Read the relevant module companion only. You do not need to read the whole handbook before the first session.
+2. Read the relevant module guide only. You do not need to read the whole handbook before the first session.
 3. Complete the module's **Prepare before class** list.
 4. Choose one main activity and one backup activity. Do not try to use every option.
 5. Copy the session competency and safety rule onto your board or opening slide.
@@ -190,9 +190,9 @@ If you have only ten minutes to prepare, read the module's purpose, learner prom
 | When | Read first | Your immediate task |
 | --- | --- | --- |
 | Before your first course | Start here, Quick start, educator's role, safe practical teaching | Review the boundaries, choose the schedule, and prepare the room and materials. |
-| Before Module 1 or 2 | The relevant module companion, facilitation methods, local verification record | Choose the opening question, one activity, one backup, and the local examples to check. |
-| Before Module 3 | Safe practical teaching, Module 3 companion, practical evidence | Rehearse with a prepared or empty environment and define every stop condition. |
-| Before Module 4 | Module 4 companion, Module 4 planning record, local expert briefing | Start with a local need and verify the selected task, tool, and current context. |
+| Before Module 1 or 2 | The relevant module guide, facilitation methods, local verification record | Choose the opening question, one activity, one backup, and the local examples to check. |
+| Before Module 3 | Safe practical teaching, Module 3 guide, practical evidence | Rehearse with a prepared or empty environment and define every stop condition. |
+| Before Module 4 | Module 4 guide, Module 4 planning record, local expert briefing | Start with a local need and verify the selected task, tool, and current context. |
 | Before any formal assessment | Operational assessment protocol and Assessment Grid | Explain conditions, prepare evidence records, and confirm the task conditions. |
 | After each session | Review point, feedback and reassessment guidance, after-course reflection | Record what learners need next and update the following session. |
 
@@ -238,14 +238,14 @@ The guide does not replace educator judgment. It gives that judgment a shared pu
 Use the guide in three passes.
 
 1. **Before the course:** Read the course principles, preparation chapters, assessment model, and Module 4 selection guidance. Complete the preparation and local verification records.
-2. **Before each module:** Use the relevant module companion to choose a lesson flow, prepare questions and materials, anticipate misconceptions, and identify the evidence you need.
+2. **Before each module:** Use the relevant module guide to choose a lesson flow, prepare questions and materials, anticipate misconceptions, and identify the evidence you need.
 3. **During and after delivery:** Use the facilitation patterns, safety procedures, assessment process, feedback guidance, and record templates.
 
 Do not try to use every prompt or activity. Select the smallest combination that enables learners to demonstrate the assessed competencies and their competency criteria safely. Add time when the learning, practice, or assessment requires it.
 
 ### The page-by-page teaching rhythm
 
-When you open a module companion, follow the same order every time:
+When you open a module guide, follow the same order every time:
 
 1. **Purpose:** know why this module matters.
 2. **Learner promise:** tell learners what they should be able to do by the end.
@@ -805,7 +805,7 @@ When devices are shared:
 
 ---
 
-## 7. Module 1 companion: Understanding Money
+## 7. Module 1: Understanding Money
 
 ### Purpose of the module
 
@@ -1169,7 +1169,7 @@ Bridge:
 
 ---
 
-## 8. Module 2 companion: How Bitcoin Works
+## 8. Module 2: How Bitcoin Works
 
 ### Purpose of the module
 
@@ -1503,7 +1503,7 @@ Bridge:
 
 ---
 
-## 9. Module 3 companion: Using Bitcoin Safely
+## 9. Module 3: Using Bitcoin Safely
 
 ### Purpose of the module
 
@@ -2045,7 +2045,7 @@ Bridge:
 
 ---
 
-## 10. Module 4 companion: Bitcoin in Your Community
+## 10. Module 4: Bitcoin in Your Community
 
 ### Purpose of the module
 

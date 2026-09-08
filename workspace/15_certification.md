@@ -165,6 +165,6 @@ Use `05_competencies.md` for the competencies and observable criteria that asses
 
 Use the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) for competency-aligned educator-evaluated theory interactions, summative practical assessment tasks, rubrics, equivalent routes, and reassessment. Use the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) for formative activities and approved supporting practice.
 
-Use `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` for facilitation guidance and educator assessment procedures, rubrics, evidence, feedback, and reassessment guidance; use `12_educator-plan.md` as the supporting structure plan.
+Use the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) for facilitation guidance and educator assessment procedures, rubrics, evidence, feedback, and reassessment guidance; use `12_educator-plan.md` as the supporting structure plan.
 
 Use `13_assessment.md` for the complete two-part assessment model and completion standard.

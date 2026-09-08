@@ -12,7 +12,7 @@ Choose the route that matches your work:
 |---|---|
 | Review the curriculum design | [`workspace/00_index.md`](workspace/00_index.md) |
 | Read or edit the Student Guide | [`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`](publish/mfb-bd-26.10/mfb-bd-sg-26.10.md) |
-| Read or edit the Educator Companion Guide | [`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`](publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) |
+| Read or edit the Educator Guide | [`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`](publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) |
 | Use approved assessment interactions, tasks, and rubrics | [`Educator Guide: operational assessment protocol`](publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) |
 | Use the educator assessment record | [`publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md`](publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) |
 | Check a beginner definition | [`publish/mfb-bd-26.10/mfb-bd-lx.md`](publish/mfb-bd-26.10/mfb-bd-lx.md) |

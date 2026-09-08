@@ -12,7 +12,7 @@ It defines:
 - how in-class time should be used;
 - which documents own detailed implementation work.
 
-`10_activities.md` defines activity boundaries, quality requirements, and release priorities; detailed activities are available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/). Detailed facilitation guidance belongs in `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`; `12_educator-plan.md` is the supporting structure plan. The detailed competency framework and observable criteria belong in `05_competencies.md`. App question-bank structure belongs in `14_microlearning-plan.md`. Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use belong in `17_advanced.md`.
+`10_activities.md` defines activity boundaries, quality requirements, and release priorities; detailed activities are available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/). Detailed facilitation guidance belongs in the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md); `12_educator-plan.md` is the supporting structure plan. The detailed competency framework and observable criteria belong in `05_competencies.md`. App question-bank structure belongs in `14_microlearning-plan.md`. Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use belong in `17_advanced.md`.
 
 `06_plan.md` is the active plan source of truth. The older duplicated plan file has been archived at `../y_archive/y_13_plan_superseded.md`.
 
@@ -215,7 +215,7 @@ Beginner merge decision:
 
 - Do not import Organizations chapters into the Student Book.
 - Use Organizations material only where it improves existing beginner competencies or observable criteria.
-- Keep the Student Book lean; put misconception handling mostly in `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` and scenario practice mostly in activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) or educator-curated Module 3–4 templates.
+- Keep the Student Book lean; put misconception handling mostly in the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) and scenario practice mostly in activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) or educator-curated Module 3–4 templates.
 
 Organizations content may support:
 
@@ -391,7 +391,7 @@ Each module should follow a simple rhythm:
 
 Activities leave the main student-facing text and are available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/).
 
-Educator preparation, timing, adaptation, misconception support, and debrief guidance move to `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`.
+Educator preparation, timing, adaptation, misconception support, and debrief guidance move to the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md).
 
 ---
 
@@ -403,9 +403,9 @@ Educator preparation, timing, adaptation, misconception support, and debrief gui
 | Competency framework and observable criteria | `05_competencies.md` |
 | Activity boundaries, quality requirements, and release priorities | `10_activities.md` |
 | Activity categories and activity template | [Resources Hub](https://programs.myfirstbitcoin.org/resources/) |
-| Educator facilitation and Module 4 selection guidance | `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` |
+| Educator facilitation and Module 4 selection guidance | [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) |
 | Combined assessment, competency-aligned evidence, and passing requirements | `13_assessment.md` |
-| Assessment crosswalk, approved interactions and tasks, rubrics, and equivalent routes | `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol` |
+| Assessment crosswalk, approved interactions and tasks, rubrics, and equivalent routes | [Educator Guide: operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) |
 | App microlearning question-bank structure | `14_microlearning-plan.md` |
 | Two-part assessment prerequisite for certification and governance questions | `15_certification.md` |
 | Diploma overview for collaborators and stakeholders | `16_spec.md` |

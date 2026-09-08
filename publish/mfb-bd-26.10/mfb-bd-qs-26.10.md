@@ -7,7 +7,7 @@ Your first teaching route
 Welcome. The new Bitcoin Diploma keeps the mission that matters—open-source, community-led, Bitcoin-only education—while making it clearer, more practical, and easier to adapt responsibly. You do not need to be a perfect lecturer or know every answer. Your role is to help learners ask good questions, practise safely, and explain what they understand in their own words.
 
 1. Choose a delivery shape: one full day, four two-hour sessions, eight one-hour sessions, or another schedule that protects the complete learning and assessment experience.
-2. Read the relevant Student Guide module and its matching section in the [Educator Companion Guide](https://programs.myfirstbitcoin.org/programs/educator-guide/). Choose one main activity and one low-tech backup.
+2. Read the relevant Student Guide module and its matching section in the [Educator Guide](https://programs.myfirstbitcoin.org/programs/educator-guide/). Choose one main activity and one low-tech backup.
 3. Prepare a welcoming room, printed or PDF materials, and a way to record approved assessment evidence. Check local facts, examples, tools, and safety conditions before class.
 4. Teach the simple rhythm: **explain → ask → practise → debrief → check**. Give learners supported practice before any assessment.
 5. Close each session with a learner explanation, a next step, and a note about what you will revisit.
@@ -55,9 +55,9 @@ Attendance, enthusiasm, app progress, or an ordinary discussion alone are not ce
 ## Your first-course checklist
 
 - [ ] Set a schedule that includes teaching, practice, assessment, feedback, and recording—approximately eight hours in total.
-- [ ] Read the [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/), [Educator Companion Guide](https://programs.myfirstbitcoin.org/programs/educator-guide/), and relevant objectives.
+- [ ] Read the [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/), [Educator Guide](https://programs.myfirstbitcoin.org/programs/educator-guide/), and relevant objectives.
 - [ ] Select activities and prepare the assessment framework, approved tasks, rubrics, and records.
-- [ ] Plan a safe Module 4 task using the Companion Guide’s Custom-module builder; verify current local facts and tools.
+- [ ] Plan a safe Module 4 task using the Educator Guide’s Custom-module builder; verify current local facts and tools.
 - [ ] Prepare low-tech materials and a no-funds fallback; protect learner privacy and accessibility.
 - [ ] Invite questions, keep an Advanced follow-up list, and finish by asking learners what they can now explain or do.
 

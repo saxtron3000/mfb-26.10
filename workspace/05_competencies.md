@@ -341,7 +341,7 @@ Use:
 - 04_design.md for design principles and constraints;
 - 02_research.md for evidence validation;
 - the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) for activity design;
-- ../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md for educator facilitation;
+- [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) for educator facilitation;
 - 13_assessment.md for competency-based evidence and the two-part assessment model; and
-- `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol` for approved assessment interactions, tasks, rubrics, and equivalent routes;
+- [Educator Guide: operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) for approved assessment interactions, tasks, rubrics, and equivalent routes;
 - 15_certification.md for the two-part assessment prerequisite and governance questions.

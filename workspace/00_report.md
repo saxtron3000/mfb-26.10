@@ -208,7 +208,7 @@ There is also a grammatical defect at `15_certification.md:22–25`: the assessm
 
 The Guide is substantial. Avoid adding more explanations unless the objective crosswalk proves a gap. Prefer replacing or tightening existing text.
 
-### 5.2 Educator Companion Guide and Educator plan
+### 5.2 Educator Guide and Educator plan
 
 **Role judgment:** The plan understands the correct role: the Guide should be a facilitation engine rather than a second Student Book. The publication draft partially achieves this through scripts, flows, misconceptions, safety protocols, Custom-module design, and reusable appendices. It is nevertheless too close to an internal master manual to be called publication-ready.
 

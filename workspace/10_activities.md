@@ -102,9 +102,9 @@ Priority work is now:
 | Four-module architecture and content boundaries | `06_plan.md` |
 | Competencies and observable criteria | `05_competencies.md` |
 | Activity categories, full procedures, and task templates | [Resources Hub](https://programs.myfirstbitcoin.org/resources/) |
-| Educator facilitation, pacing, adaptation, and debrief guidance | `12_educator-plan.md` and `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` |
+| Educator facilitation, pacing, adaptation, and debrief guidance | `12_educator-plan.md` and the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) |
 | Assessment evidence, passing rules, and assessment standards | `13_assessment.md` |
-| Assessment crosswalk, approved tasks, rubrics, and equivalent routes | `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol` |
+| Assessment crosswalk, approved tasks, rubrics, and equivalent routes | [Educator Guide: operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) |
 | Certification prerequisite and governance questions | `15_certification.md` |
 | Optional app self-assessment | `14_microlearning-plan.md` and `../publish/mfb-ml-26.10/mfb-ml-26.10.md` |
 | Advanced activity seeds and source trails | `17_advanced.md` |

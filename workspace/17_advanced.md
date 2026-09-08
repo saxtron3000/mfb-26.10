@@ -72,7 +72,7 @@ The absence of a topic from `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md` does no
 | Beginner competency framework and criteria | `05_competencies.md` |
 | Beginner assessment | `13_assessment.md` |
 | Activity templates | [Resources Hub](https://programs.myfirstbitcoin.org/resources/) |
-| Educator facilitation guidance | `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md` |
+| Educator facilitation guidance | [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) |
 | Diploma overview | `16_spec.md` |
 
 `06_plan.md` remains the source of truth for the active beginner redesign structure, including the **Problem → Solution → Action → Connect** learning arc. The educator-curated Connect module completes the beginner Diploma; it is not a route for importing Advanced scope.
@@ -1069,7 +1069,7 @@ This catalog gives every module in the 24-module roadmap a home for the parked m
 
 | Roadmap module | Possible focus | Parked source material |
 |---|---|---|
-| 1. Bitcoin Education and Misconceptions | Teaching practice, concept maps, prerequisite chains, misconception handling, demonstration design, and educator-facing scenario workshops | `02_research.md`, activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`; Organizations misconceptions and risk-management sources |
+| 1. Bitcoin Education and Misconceptions | Teaching practice, concept maps, prerequisite chains, misconception handling, demonstration design, and educator-facing scenario workshops | `02_research.md`, activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md); Organizations misconceptions and risk-management sources |
 | 2. History of Bitcoin and Computer Science Foundations | Cypherpunks, digital-cash attempts, Satoshi, the whitepaper, Genesis Block, protocols, networks, peer-to-peer systems, hashes, and distributed-system foundations | Legacy chapters 4.3, 5.0, 5.1, 8 and 9; Organizations technical-history sources |
 | 3. Monetary Economics | Scarcity, time preference, opportunity cost, inflation, purchasing power, fractional-reserve banking, liquidity and solvency, debt, policy tools, the Cantillon effect, and risk/reward and capital-allocation reasoning | Legacy chapters 1.6, 3.2, 4.1, 4.2; Organizations investment-management material |
 | 4. History of Money (localisation) | Local money histories, commodity money, coinage, paper receipts, gold standards, Bretton Woods, Nixon Shock, and modern digital money | Legacy chapters 2 and 3; local educator input |
@@ -1157,7 +1157,7 @@ Use these source files when future Advanced module work begins.
 - `06_plan.md`: active beginner architecture and legacy migration rules.
 - `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`: official beginner Student Guide; useful for identifying what has been compressed or removed.
 - [Resources Hub](https://programs.myfirstbitcoin.org/resources/): activity template and activity categories.
-- `../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`: educator guidance on moving complex side topics to Advanced.
+- [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md): educator guidance on moving complex side topics to Advanced.
 - `16_spec.md`: Diploma overview and public communication context.
 
 ## Legacy Reference Sources
