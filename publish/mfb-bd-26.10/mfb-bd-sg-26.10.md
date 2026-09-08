@@ -1394,7 +1394,7 @@ Record your local resources:
 
 Good community discovery helps you find people who explain, verify, and respect your choices. It should not make you dependent on one leader.
 
-### Review: how do the problem, solution, and safe action connect to your community?
+### Review: connect this to your community
 
 Complete this review individually, then compare your reasoning with your team or cohort. Consider the local example you studied: what real need did it address, which function of money was involved, and was value moved on-chain, through Lightning, or both? Ask who controlled the keys, what the strongest benefit and most serious risk were, and how local law, infrastructure, language, or culture affected the result. A responsible next step is one that fits the local context, makes costs and custody clear, limits errors and scams, and can be evaluated against evidence.
 
