@@ -1,4 +1,4 @@
-# Bitcoin Diploma educator quick start
+# Bitcoin Diploma Educator Quick Start
 
 Welcome. The new Bitcoin Diploma keeps the mission that matters—open-source, community-led, Bitcoin-only education—while making it clearer, more practical, and easier to adapt responsibly. You do not need to be a perfect lecturer or know every answer. Your role is to help learners ask good questions, practise safely, and explain what they understand in their own words.
 
