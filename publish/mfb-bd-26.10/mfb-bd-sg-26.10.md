@@ -229,13 +229,6 @@ A topic is not unimportant because it is outside the Diploma. It may simply requ
 
 The four modules provide the required Problem → Solution → Action → Connect learning path, not a fixed class timetable. Modules 1 and 2 develop theory-based competencies through explanation, comparison, and reasoning. Module 3 develops safe practical action. Module 4 is educator-curated but required: it connects that shared learning to a local need, realistic alternative, safe task, and responsible next step. Four two-hour sessions are one possible format. Your educator may divide a module across more sessions, revisit an earlier idea, or change the order of individual sections when your cohort needs more time for discussion, practice, review, or assessment. The educator remains responsible for covering all required Diploma competencies and making the connections among the modules clear.
 
-### My engagement promise
-
-I, ____________________, intend to take part with curiosity, care, and respect. I will ask questions, think for myself, and use this learning responsibly.
-
-**My intention for this Diploma:** ____________________________________________
-
-**Signature:** ____________________  **Date:** ____________________
 
 ---
 
@@ -245,7 +238,7 @@ I, ____________________, intend to take part with curiosity, care, and respect. 
 
 **Opening reflection | Suggested time: 10 minutes | Individual writing, then cohort discussion**
 
-Money is familiar, but it is not simple. Before the course discussion begins, write a short answer to each question.
+Money shapes everyday choices about food, transport, work, saving, and helping people we care about. It is familiar, but it is not simple. Before the course discussion begins, write a short answer to each question.
 
 1. Why do people need money?
 2. What makes something money?

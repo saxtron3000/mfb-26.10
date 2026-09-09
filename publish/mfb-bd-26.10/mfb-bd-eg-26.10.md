@@ -865,6 +865,8 @@ If the course has more time, split the module into two parts: money foundations,
 
 ### Opening questions about money
 
+**Prepare:** Give each learner access to the Student Guide questions and a private place to write. Prepare a board, paper, or shared display for anonymous questions and contradictions that emerge. Make clear that this is a starting reflection, not an assessed task, and that learners should not disclose income, debt, savings, banking status, or holdings. Arrange translation, reading, or writing support before the session where needed.
+
 Ask learners to answer the five questions in the Student Guide before you explain the course position. The answers create a baseline, not a test.
 
 Facilitate in this order:
