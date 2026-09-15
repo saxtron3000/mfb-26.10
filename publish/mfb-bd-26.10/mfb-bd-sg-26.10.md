@@ -16,9 +16,9 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
 
 ### About Us
 
-My First Bitcoin is a nonprofit education organization founded by John Dennehy in El Salvador in 2021. We publish free and open-source Bitcoin education for learners and educators around the world.
+My First Bitcoin is a nonprofit education organization founded by John Dennehy in 2021. We publish free and open-source Bitcoin education for learners and educators around the world.
 
-The project began with small in-person classes in El Salvador in 2021. The 90-minute introduction moved from what money is to how Bitcoin works, then gave the learner practical experience sending and receiving sats with a Lightning wallet. Within two months, the project was teaching hundreds of learners each month. My First Bitcoin's [public history](https://myfirstbitcoin.org/about) records the project's milestones and organizational accountability.
+The project began with small in-person classes in El Salvador in 2021, after the country passed a bill making bitcoin legal tender. The 90-minute introduction moved from what money is to how Bitcoin works, then gave the learner practical experience sending and receiving sats with a Lightning wallet. Within two months, the project was teaching hundreds of learners each month. My First Bitcoin's [public history](https://myfirstbitcoin.org/about) records the project's milestones and organizational accountability.
 
 In 2022, the first Bitcoin Diploma cohort began in one public school in San Marcos, El Salvador. The pilot developed into an open-source curriculum that independent educators could translate, adapt, and teach. It later spread through the [My First Bitcoin Education Network](https://myfirstbitcoin.org/about/network) to communities around the world.
 
