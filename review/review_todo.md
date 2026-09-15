@@ -62,7 +62,7 @@ Remove an item when its acceptance condition is met, or move it to a dated archi
 
   - Acceptance: add the approved asset during visual production or replace the embedded image with a non-broken placeholder; rerun the local-link check.
 
-- [ ] **Control visual production scope.** Select the essential visual set before commissioning work. Track file, rights, alt text, source, and review status. Keep conditional QR-code and certificate-verification visuals out of production until their destinations and processes are approved.
+- [ ] **Control visual production scope.** Select the essential visual set before commissioning work. Track file, rights, alt text, source, and review status. Keep conditional QR code and certificate-verification visuals out of production until their destinations and processes are approved.
 
   - Acceptance: an approved essential-visual list and production tracker exist.
 

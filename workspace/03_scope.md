@@ -352,7 +352,7 @@ Prepare final publication-ready outputs.
 - Sanity-published web version
 - Markdown source files prepared for Sanity publication
 - Translation-ready source files
-- QR-code placement and destination rules
+- QR code placement and destination rules
 - Fact-checked, source-of-truth-aligned publication package
 
 All October public outputs are published through Sanity. Online cohort, self-paced, optional app, and cross-modal branches remain future work.
@@ -508,5 +508,5 @@ These may become future projects.
 - AI Localization
 - Advanced Pathway Design
 - Delivery-Mode Branch Roadmap
-- Print QR Code Policy
+- Print QR code Policy
 - Multilingual Glossary Readiness

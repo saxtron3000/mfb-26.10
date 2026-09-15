@@ -138,7 +138,7 @@ Complete the stated independent factual and editorial review of all 12 items. Te
 
 A local Markdown-link check found **162 local targets and one missing target**: `workspace/08_assets.md` embeds `../assets/diploma/bd-v-001.svg`, which is absent. Either add the approved Creative Commons mark when visual production begins or replace the embedded image with a non-broken production placeholder.
 
-`08_assets.md` is a design brief, not an existing-asset inventory. Before production, select a small essential visual set and establish file, rights, alt-text, source, and review tracking. Conditional QR-code and certificate-verification visuals must remain out of production until their real destinations and processes are approved.
+`08_assets.md` is a design brief, not an existing-asset inventory. Before production, select a small essential visual set and establish file, rights, alt-text, source, and review tracking. Conditional QR code and certificate-verification visuals must remain out of production until their real destinations and processes are approved.
 
 ## Recommended editing sequence
 

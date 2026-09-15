@@ -402,7 +402,7 @@ Only the combined **assessment-complete** status may unlock a certificate. Educa
 - Optional app recap, self-check, and discovery resources
 - Recording educator-led theoretical and practical evidence
 - Cross-modal branch notes
-- QR-code restraint for print and PDF delivery
+- QR code restraint for print and PDF delivery
 
 ## 7. Legacy Content Migration Guidance
 

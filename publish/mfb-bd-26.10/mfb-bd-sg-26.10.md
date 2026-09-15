@@ -22,7 +22,7 @@ The project began with small in-person classes in El Salvador in 2021, after the
 
 In 2022, the first Bitcoin Diploma cohort began in one public school in San Marcos, El Salvador. The pilot developed into an open-source curriculum that independent educators could translate, adapt, and teach. It later spread through the [My First Bitcoin Education Network](https://myfirstbitcoin.org/about/network) to communities around the world.
 
-Our work is independent, community-driven, and Bitcoin-focussed. We focus on financial literacy, careful thinking, and practical safety—not trading, speculation, or promoting other tokens. We do not ask you to accept a belief. Instead, we provide concepts, questions, and practical knowledge so you can form your own conclusions.
+Our work is independent, community-driven, and Bitcoin-focused. We focus on financial literacy, careful thinking, and practical safety—not trading, speculation, or promoting other tokens. We do not ask you to accept a belief. Instead, we provide concepts, questions, and practical knowledge so you can form your own conclusions.
 
 ### Our mission: independent, open-source Bitcoin education
 

@@ -58,7 +58,7 @@ The new version improves the Diploma by:
 - using selected Bitcoin for Organizations material only where it clarifies beginner concepts, educator misconception support, activity scenarios, or educator-curated Module 3–4 practice;
 - improving educator guidance, pacing, activities, and assessment support;
 - preparing English source files for translation and localization;
-- reducing fragile links, QR-code clutter, and named-service dependencies;
+- reducing fragile links, QR code clutter, and named-service dependencies;
 - keeping advanced technical, economic, and philosophical material outside the beginner pathway.
 
 The redesign does not remove the mission of the Diploma. It makes the mission easier to deliver.

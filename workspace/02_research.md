@@ -197,7 +197,7 @@ Do not scale a language and delivery-mode combination until every required compe
 - Use the Claude review as strong corroboration and practical synthesis. It marks some citations for direct verification and identifies search areas not covered.
 - Use the Gemini review for directional corroboration and implementation ideas. Verify Gemini-only claims before using them in curriculum governance or public materials because its verification trail is less transparent and some claims are more specific than the cited evidence appears to support.
 
-Confidence is highest where strong adjacent evidence converges: active participation, retrieval and spacing, novice guidance, competency-assessment alignment, direct evidence for practical skills, calibrated task-specific criteria, human-reviewed localisation, and offline-capable instruction. Confidence is lowest for Bitcoin-specific learning evidence, exact time and assessment allocations, educator-assessment reliability, QR-code learning effects, self-paced completion, and long-term behaviour change.
+Confidence is highest where strong adjacent evidence converges: active participation, retrieval and spacing, novice guidance, competency-assessment alignment, direct evidence for practical skills, calibrated task-specific criteria, human-reviewed localisation, and offline-capable instruction. Confidence is lowest for Bitcoin-specific learning evidence, exact time and assessment allocations, educator-assessment reliability, QR code learning effects, self-paced completion, and long-term behaviour change.
 
 ---
 
@@ -547,7 +547,7 @@ Return exactly:
 ```text
 You are conducting a rapid evidence review for My First Bitcoin's Bitcoin Diploma: a global, community-led, beginner, Bitcoin-only education programme. The proposed course is approximately eight hours and is delivered by community educators in varied languages, cultures, ages, and connectivity conditions. This is curriculum research, not financial, legal, tax, accounting, compliance, or investment advice. Do not recommend named commercial wallets, exchanges, or local services.
 
-Research question: Compare in-person delivery, online cohort, self-paced, offline print/PDF, online PDF, web/app, hybrid, and cross-modal delivery for beginner adult education. Which learner supports, pacing mechanisms, interactions, accessibility measures, and evidence of learning must change by delivery mode while required Diploma competency standards remain stable? Include low-connectivity and low-technology constraints. Also identify research, usability guidance, or accessibility standards that should govern QR-code use in printed learner resources: what must remain complete in print/PDF, when QR codes help, and how to avoid clutter, unstable destinations, or exclusion.
+Research question: Compare in-person delivery, online cohort, self-paced, offline print/PDF, online PDF, web/app, hybrid, and cross-modal delivery for beginner adult education. Which learner supports, pacing mechanisms, interactions, accessibility measures, and evidence of learning must change by delivery mode while required Diploma competency standards remain stable? Include low-connectivity and low-technology constraints. Also identify research, usability guidance, or accessibility standards that should govern QR code use in printed learner resources: what must remain complete in print/PDF, when QR codes help, and how to avoid clutter, unstable destinations, or exclusion.
 
 Approach: Prioritise systematic reviews, meta-analyses, peer-reviewed studies, established academic books, usability and accessibility standards, and university, government, or intergovernmental education bodies. Prefer research published since 2015, while including older foundational work if still influential. Separate direct evidence from reasonable design inference. Do not invent citations, DOIs, quotations, findings, or links.
 
@@ -604,7 +604,7 @@ Follow-up needed:
 
 # Section 17: Publication, Print, And QR Restraint
 
-Research on print, offline access, and QR-code restraint is included in prompt 5 above.
+Research on print, offline access, and QR code restraint is included in prompt 5 above.
 
 # Final Recommendations
 

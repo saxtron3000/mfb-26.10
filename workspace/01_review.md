@@ -360,7 +360,7 @@ Its limitations lie in:
 - beginner technical load;
 - delivery assumptions.
 - multilingual readiness;
-- publication and QR-code discipline.
+- publication and QR code discipline.
 
 The redesign process should preserve the strengths while solving the structural and pedagogical weaknesses in the appropriate documents.
 
