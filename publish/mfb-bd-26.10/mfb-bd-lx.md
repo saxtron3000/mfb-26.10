@@ -19,6 +19,8 @@ This lexicon lists Bitcoin and Bitcoin-adjacent terms that a beginner may need e
 | **Acceptability** | The willingness of other people to receive something in exchange. | First: **293**<br>Later: 475, 699 |
 | **Verifiability** | The ability to check that money is genuine or that a transaction follows the rules. | First: **294**<br>Later: 475, 698 |
 | **Recognizability / “likeness”** | How easily people can identify a form of money and recognize authentic or equivalent units. | Not present |
+| <a id="gold"></a>**Gold** | A scarce, durable metal used for jewelry, industry, and money. It has served as coins, backing for currencies, and a store of value. | First: **289**<br>Later: 337, 341, 343, 351, 415, 417, 429 |
+| <a id="paper-cash"></a>**Paper Cash** | Physical banknotes used to pay for goods and services in person. They represent stated currency amounts and can pass directly from one person to another. | First: **289**<br>Later: — |
 
 ### Barter and the double coincidence of wants
 

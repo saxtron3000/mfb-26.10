@@ -286,7 +286,7 @@ Useful money also tends to have several properties:
 | Acceptability | Will other people receive it in exchange? |
 | Verifiability | Can people check that it is genuine? |
 
-No form of money scores perfectly. Gold is durable and scarce but difficult to divide and transport for small payments. Paper cash is portable and accepted locally, but it can be damaged and its supply can expand. The best comparison depends on the purpose, place, and time.
+No form of money scores perfectly. [Gold](mfb-bd-lx.md#gold) is durable and scarce but difficult to divide and transport for small payments. [Paper cash](mfb-bd-lx.md#paper-cash) is portable and accepted locally, but it can be damaged and its supply can expand. The best comparison depends on the purpose, place, and time.
 
 **Think critically:** Name a time when you chose one type of money or asset over another. What was the purpose? Compare the properties of the options you could have used. Which properties mattered most to you, and why?
 
@@ -334,13 +334,13 @@ Money did not develop in one identical sequence everywhere. Different societies 
 
 **Direct exchange and local records:** People used barter, gifts, obligations, and written or remembered debts. These systems depended strongly on local relationships.
 
-**Commodity money:** Communities selected goods that were widely valued and easier to trade. Salt, beads, shells, livestock, copper, silver, and gold have served monetary roles in different places. A commodity has a use or value beyond an issuer's promise.
+**Commodity money:** Communities selected goods that were widely valued and easier to trade. Salt, beads, shells, livestock, copper, silver, and [gold](mfb-bd-lx.md#gold) have served monetary roles in different places. A commodity has a use or value beyond an issuer's promise.
 
 **Standard coins:** Authorities measured and stamped metal into standard units. Coins improved recognition and accounting. Authorities could also reduce the precious-metal content of these coins while keeping the same stated value. This is called debasement.
 
-**Representative paper:** Transporting and protecting metal was difficult. Depositories and banks issued paper claims that could be redeemed for a stated amount of metal. The paper was easier to move, but users had to trust the issuer to keep enough metal and honor redemption. Under different versions of a **gold standard**, a currency unit was legally connected to a stated amount of gold. The rules varied by place and period, and governments or banks sometimes suspended or ended convertibility.
+**Representative paper:** Transporting and protecting metal was difficult. Depositories and banks issued paper claims that could be redeemed for a stated amount of metal. The paper was easier to move, but users had to trust the issuer to keep enough metal and honor redemption. Under different versions of a **gold standard**, a currency unit was legally connected to a stated amount of [gold](mfb-bd-lx.md#gold). The rules varied by place and period, and governments or banks sometimes suspended or ended convertibility.
 
-**Bank and government money:** Banks issued more claims and credit. Governments created central banks and national currency systems. Money became increasingly based on institutional records and promises rather than direct possession of a commodity by the population. In many countries, national currency later became no longer redeemable for a physical asset such as gold. This separation from commodity backing is a defining feature of today’s **fiat money** (see below).
+**Bank and government money:** Banks issued more claims and credit. Governments created central banks and national currency systems. Money became increasingly based on institutional records and promises rather than direct possession of a commodity by the population. In many countries, national currency later became no longer redeemable for a physical asset such as [gold](mfb-bd-lx.md#gold). This separation from commodity backing is a defining feature of today’s **fiat money** (see below).
 
 **Digital money:** Much of today's money moves as digital records through banks and payment services. A card or phone does not create a new kind of money by itself. It is usually an interface to a bank deposit or another claim denominated in the national currency.
 
@@ -348,7 +348,7 @@ This history shows repeated trade-offs. Convenience increased, but users often b
 
 ### Fiat money
 
-**Fiat money** is currency issued under government authority, usually through a central bank, that is not redeemable for a fixed amount of a commodity such as gold. The word fiat is Latin for “let it be done,” often understood as “by decree.” A country’s laws typically designate its currency as legal tender and require it for the payment of taxes, although the exact rules for accepting payments and settling debts vary by jurisdiction.
+**Fiat money** is currency issued under government authority, usually through a central bank, that is not redeemable for a fixed amount of a commodity such as [gold](mfb-bd-lx.md#gold). The word fiat is Latin for “let it be done,” often understood as “by decree.” A country’s laws typically designate its currency as legal tender and require it for the payment of taxes, although the exact rules for accepting payments and settling debts vary by jurisdiction.
 
 Fiat money works because people, businesses, banks, and governments accept it. Network effects reinforce this acceptance: people want the currency because other people use it and prices are stated in it.
 
@@ -412,9 +412,9 @@ Then compare your item with an official inflation measure. Which goods and servi
 
 ### Why the US dollar is a world reserve currency
 
-A **reserve currency** is a currency that central banks and governments hold and use for international payments. Before the First World War, the British pound played this role most strongly. The war weakened European currencies and financial centres, while the United States supplied goods and accumulated gold. This increased international use of the dollar. After the Second World War, the United States had a large economy and much of its financial capacity intact. The 1944 Bretton Woods Agreement then organized a postwar system in which many currencies were linked to the dollar and the dollar was officially linked to gold, placing the dollar at the centre of international payments.
+A **reserve currency** is a currency that central banks and governments hold and use for international payments. Before the First World War, the British pound played this role most strongly. The war weakened European currencies and financial centres, while the United States supplied goods and accumulated [gold](mfb-bd-lx.md#gold). This increased international use of the dollar. After the Second World War, the United States had a large economy and much of its financial capacity intact. The 1944 Bretton Woods Agreement then organized a postwar system in which many currencies were linked to the dollar and the dollar was officially linked to [gold](mfb-bd-lx.md#gold), placing the dollar at the centre of international payments.
 
-In 1971, President Nixon ended the official exchange of dollars for gold by foreign governments and central banks, helping bring the Bretton Woods system to an end. The dollar nevertheless remained widely used because of its established role in trade and finance, the size of the U.S. economy, and the depth of U.S. financial markets. It remains the leading reserve currency today, although central banks also hold other currencies and its share can change over time.
+In 1971, President Nixon ended the official exchange of dollars for [gold](mfb-bd-lx.md#gold) by foreign governments and central banks, helping bring the Bretton Woods system to an end. The dollar nevertheless remained widely used because of its established role in trade and finance, the size of the U.S. economy, and the depth of U.S. financial markets. It remains the leading reserve currency today, although central banks also hold other currencies and its share can change over time.
 
 ### Why people look for alternatives
 
@@ -426,7 +426,7 @@ People often seek alternatives when they believe cash will lose purchasing power
 | Real estate | Useful physical asset, possible rent, limited desirable locations | High entry cost, maintenance, taxes, legal dependence, and low portability |
 | Stocks | Ownership in productive businesses, possible income and growth | Business risk, market volatility, custody through institutions, and need for financial knowledge |
 
-These assets are not identical to money. A home may store value but is not practical for buying food. A share may be easy to sell in one country but unavailable to someone without a brokerage account. Gold may cross long periods of history but be difficult to verify or divide during a small exchange.
+These assets are not identical to money. A home may store value but is not practical for buying food. A share may be easy to sell in one country but unavailable to someone without a brokerage account. [Gold](mfb-bd-lx.md#gold) may cross long periods of history but be difficult to verify or divide during a small exchange.
 
 People may also choose foreign currency, government bonds, private businesses, land, tools, education, or other assets. Every choice includes opportunity cost and risk. There is no asset that guarantees purchasing power in every period and situation.
 
