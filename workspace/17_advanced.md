@@ -229,8 +229,8 @@ These are pathway ideas, not final product names.
 Reading rule:
 
 - `ADVANCED` means old content becomes Advanced pathway material.
-- `OUT` does not mean deletion when the same item is assigned to an educator-curated Module 4 variant within the Diploma or Advanced learning.
-- No reviewed section should be treated as out-only deletion without checking whether the content belongs in an educator-curated Module 4 variant within the Diploma or Advanced learning.
+- `OUT` does not mean deletion when the same item is assigned to an educator-curated Module 4 variant within the Diploma or Advanced Learning.
+- No reviewed section should be treated as out-only deletion without checking whether the content belongs in an educator-curated Module 4 variant within the Diploma or Advanced Learning.
 
 Migration summary for Advanced:
 
@@ -246,7 +246,7 @@ Split decisions:
 - Transaction concepts stay in the Diploma only where needed for safe use and verification; detailed models move to Advanced.
 - CBDCs may appear briefly in Module 1 or locally in Module 4; policy and technical depth moves to Advanced.
 - Lightning distinctions may be introduced briefly, but wallet setup and payment practice normally belongs in Module 4.
-- Buying and selling bitcoin may appear in the Diploma as a conceptual risk map, but provider-specific practice belongs in an educator-curated Module 4 variant within the Diploma or Advanced learning.
+- Buying and selling bitcoin may appear in the Diploma as a conceptual risk map, but provider-specific practice belongs in an educator-curated Module 4 variant within the Diploma or Advanced Learning.
 - Named services, wallets, exchanges, peer-to-peer platforms, and local recommendations should not become global Student Book recommendations.
 
 ### L2 Module Seeds
@@ -479,7 +479,7 @@ Possible Advanced modules:
 
 Reason outside the Diploma:
 
-The Diploma may use CBDCs briefly as a fiat-system example. Detailed CBDC policy, surveillance, programmability, and country-specific status belong in Advanced learning or a educator-curated Module 4 variant.
+The Diploma may use CBDCs briefly as a fiat-system example. Detailed CBDC policy, surveillance, programmability, and country-specific status belong in Advanced Learning or a educator-curated Module 4 variant.
 
 Fact-check notes:
 
@@ -871,7 +871,7 @@ Possible Advanced modules:
 
 Reason outside the Diploma:
 
-The Diploma should distinguish on-chain and Lightning at a high-level overview. Detailed Lightning setup, channel management, routing, liquidity, and node operation belong in a educator-curated Module 4 variant or Advanced learning.
+The Diploma should distinguish on-chain and Lightning at a high-level overview. Detailed Lightning setup, channel management, routing, liquidity, and node operation belong in a educator-curated Module 4 variant or Advanced Learning.
 
 Fact-check notes:
 

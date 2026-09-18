@@ -4,9 +4,9 @@ Teaching the Bitcoin Diploma
 
 ## About this guide
 
-The Educator Guide supports teaching the 2026.10 Bitcoin Diploma. Linked terms open their definitions in the [Lexicon](mfb-bd-lx.md). Use it with the [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/), the Educator Assessment Grid, and the learning activities supplied for your course. The [My First Bitcoin App](https://myfirstbitcoin.app/) may be offered as an optional self-check, recap, and discovery resource.
+The Educator Guide supports teaching the 2026.10 Bitcoin Diploma. Linked terms open their definitions in the [Lexicon](mfb-bd-lx.md). Use it with the [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/), the Educator Assessment Grid, and the learning activities supplied for your course. The [My First Bitcoin App](https://myfirstbitcoin.app/) offers optional microlearning, self-checks, recap, and discovery. Learners can complete the course without using it.
 
-Download the [My First Bitcoin App](https://myfirstbitcoin.app/) for optional self-checks, recap, and more learning opportunities.
+Download the [My First Bitcoin App](https://myfirstbitcoin.app/) for optional microlearning, self-checks, recap, and more learning opportunities.
 
 <!-- VISUAL: BD-V-075 | App download QR: https://myfirstbitcoin.app/ | Include the readable URL and keep use optional. -->
 
@@ -357,18 +357,18 @@ Each part of the Diploma has a distinct function.
 
 Introduce the wider My First Bitcoin learning pathway at the start of the Diploma and revisit it when learners consider their next steps:
 
-**Introduction to Bitcoin → Bitcoin Diploma → Educator Training Program → Joining the Network**
+**[Introduction to Bitcoin](https://myfirstbitcoin.org/learn/programs#intro) → Bitcoin Diploma → [Educator Training Program](https://etp.myfirstbitcoin.org/) → Joining the [Bitcoin Education Network](https://leaderboard.myfirstbitcoin.org)**
 
-- **Introduction to Bitcoin** offers a short first introduction for people who want to explore the basics before the Diploma.
+- **[Introduction to Bitcoin](https://myfirstbitcoin.org/learn/programs#intro)** offers a short first introduction for people who want to explore the basics before the Diploma.
 - **Bitcoin Diploma** builds a broader beginner foundation through explanation, discussion, and safe practical learning.
-- **Educator Training Program** helps people who want to teach develop their facilitation and assessment practice.
-- **Joining the Network** connects educators with the My First Bitcoin Education Network to share experience, support one another, and contribute to community-led education.
+- **[Educator Training Program](https://etp.myfirstbitcoin.org/)** helps people who want to teach develop their facilitation and assessment practice.
+- **Joining the [Bitcoin Education Network](https://leaderboard.myfirstbitcoin.org)** connects educators with peers to share experience, support one another, and contribute to community-led education.
 
-Present this as an available progression. Learners may begin with the Diploma and choose whether to continue towards teaching or network participation. When someone wants to continue, help them find the relevant program or network information and check its entry or participation requirements.
+Present this as an available progression. Learners may begin with the Diploma and choose whether to continue towards teaching or network participation. Share the [student journey](https://journey.myfirstbitcoin.org/) landing page to help learners explore the pathway and choose their next step. When someone wants to continue, help them find the relevant program or network information and check its entry or participation requirements.
 
 ### Educator support
 
-You do not need to prepare or teach in isolation. The [Educator Training Program](https://programs.myfirstbitcoin.org/programs/educator-training-program/) supports prospective and active educators in developing their teaching and assessment practice and connecting with the wider education community.
+You do not need to prepare or teach in isolation. The [Educator Training Program](https://etp.myfirstbitcoin.org/) supports prospective and active educators in developing their teaching and assessment practice and connecting with the wider education community.
 
 Use local expert support when a module depends on knowledge you do not hold, especially current banking rules, legal or tax context, accessibility, translation, local payment tools, merchant operations, [community custody](mfb-bd-lx.md#term-community-custody), or safety conditions. An expert should support the learning competency, not use the class to promote a product, service, political position, or investment choice.
 
@@ -733,9 +733,21 @@ Correct misleading effects created by the activity. A token [bank-run](mfb-bd-lx
 
 Maintain a visible “Later / Advanced” list. Add the question, confirm why it matters, and state when learners can return to it. Do not answer a complex question with false simplicity. Do not let it displace the required beginner foundation.
 
+### Low-tech teaching: focus on interaction
+
+Successful Bitcoin education does not depend on complex technology. Start with your own knowledge, preparation, and teaching skills: explain an idea clearly, ask a useful question, listen, and help learners work through it together. Use the Student Guide as your foundation, and check anything you are unsure about.
+
+Simple materials can reduce setup time and distractions, leaving more room for conversation and practice. A drawing, paper cards, or a familiar local example can help learners explain ideas to one another and ask questions. Low-tech teaching can be your first choice, not just a backup when the internet fails.
+
+More tools can bring more complexity. Add a tool when it helps learners understand or practise something, and keep a simple alternative ready. Focus first on the quality of engagement: are learners participating, asking questions, explaining their thinking, and showing what they understand? Choose the approach that supports that learning.
+
 ### Media and tool fallbacks
 
+The Student Guide contains the definitions, comparisons, safety rules, and review questions needed for the Diploma. Supplementary learning links, QR codes, and the [My First Bitcoin App](https://myfirstbitcoin.app/) are optional. They may provide additional microlearning, updates, recap material, source files, or ways to connect. Learners can complete the course without using any of these supplementary resources.
+
 No required Diploma explanation, formative educator check, practice activity, or directly observed practical evidence should depend on a video, live website, named service, or learner-owned device when an approved equivalent path can preserve the competency.
+
+When a demonstration needs internet access, prepare an offline alternative where possible, such as printed wallet screens, a transaction scenario, a card exercise, or a step-by-step discussion. A failed connection should not stop teaching or preparation.
 
 | Live or online experience | Offline or low-tech equivalent |
 | --- | --- |
@@ -749,7 +761,9 @@ No required Diploma explanation, formative educator check, practice activity, or
 | Video | Narrated diagram, storyboard, or educator explanation |
 | Live transaction | Simulation, test environment, empty training wallet, or educator demonstration |
 
-Offline teaching and assessment are valid. Offer optional [My First Bitcoin App](https://myfirstbitcoin.app/) self-checks only when learners can access them safely and voluntarily.
+Offline teaching and assessment are valid. Use offline knowledge checks for preparation and approved practical assessment tasks when connectivity is limited. Offer optional [My First Bitcoin App](https://myfirstbitcoin.app/) self-checks only when learners can access them safely and voluntarily; these are not part of certification.
+
+The Student Guide explains lasting concepts. Verify current local details before presenting fees, laws, taxes, available services, wallet features, or merchant listings, and date the information you use.
 
 ---
 
@@ -852,7 +866,7 @@ Use guided discussions to develop and notice the formative competency `C12` acro
 ### Prepare before class
 
 - Read the **Module 1** Student Guide sections and identify which definitions need local-language support.
-- Prepare the five opening questions and a way for learners to keep their original answers.
+- Prepare the five opening questions for cohort discussion.
 - Select one money-properties activity and one modern-money activity.
 - Prepare locally familiar examples of a [medium of exchange](mfb-bd-lx.md#term-medium-of-exchange), [unit of account](mfb-bd-lx.md#term-unit-of-account), and [store of value](mfb-bd-lx.md#term-store-of-value).
 - Review the [currencies](mfb-bd-lx.md#term-currency) and payment methods learners encounter locally.
@@ -868,7 +882,7 @@ This is a minimum pathway. Extend it when the cohort needs more economic backgro
 
 | Time | Learning move | Suggested method |
 | ---: | --- | --- |
-| 0–12 min | Surface prior ideas | Individual opening questions, then pair comparison |
+| 0–12 min | Surface prior ideas | Opening questions in pairs, then cohort discussion |
 | 12–28 min | Why money exists | Exchange scenario and spot question |
 | 28–45 min | Functions and properties | Local examples plus money-properties comparison |
 | 45–58 min | [Barter](mfb-bd-lx.md#term-barter) and choice | Short double-coincidence role scenario; [scarcity](mfb-bd-lx.md#term-scarcity) and [opportunity-cost](mfb-bd-lx.md#term-opportunity-cost) debrief |
@@ -882,17 +896,16 @@ If the course has more time, split the module into two parts: money foundations,
 
 ### Opening questions about money
 
-**Prepare:** Give each learner access to the Student Guide questions and a private place to write. Prepare a board, paper, or shared display for anonymous questions and contradictions that emerge. Make clear that this is a starting reflection, not an assessed task, and that learners should not disclose income, debt, savings, banking status, or holdings. Arrange translation, reading, or writing support before the session where needed.
+**Prepare:** Give each learner access to the Student Guide questions. Prepare a board, paper, or shared display for anonymous questions and contradictions that emerge. Make clear that this is an opening discussion, not an assessed task, and that learners should not disclose income, debt, savings, banking status, or holdings. Arrange translation or reading support before the session where needed.
 
-Ask learners to answer the five questions in the Student Guide before you explain the course position. The answers create a baseline, not a test.
+Invite learners to discuss the five questions in the Student Guide before you explain the course position. Use their ideas to guide the discussion.
 
 Facilitate in this order:
 
-1. Give quiet writing time.
-2. Let learners choose one answer to discuss in pairs.
+1. Give quiet thinking time.
+2. Let learners choose one question to discuss in pairs.
 3. Ask the group which statements are factual and which are judgments.
 4. Record questions and contradictions without resolving all of them.
-5. Tell learners they will return to the same questions after **Module 4**.
 
 Listen for hidden definitions. If a learner says money is “anything valuable,” ask whether every valuable object is normally accepted, used for pricing, or carried into the future.
 
@@ -993,7 +1006,7 @@ If using the [gold standard](mfb-bd-lx.md#term-gold-standard), [Bretton Woods](m
 - state the location and historical scope;
 - present [Executive Order 6102](mfb-bd-lx.md#term-executive-order-6102) as a specific United States example;
 - present 1971 as an important marker in international dollar-to-gold [convertibility](mfb-bd-lx.md#term-convertibility), not the origin of all [fiat money](mfb-bd-lx.md#term-fiat-money); and
-- route detailed monetary history to Advanced learning.
+- route detailed monetary history to Advanced Learning.
 
 ### Fiat money and the local system
 
@@ -1075,7 +1088,7 @@ Avoid assigning every [price](mfb-bd-lx.md#term-price) change to one factor.
 
 #### Activity: purchasing-power investigation
 
-**Before class:** Choose one familiar item and find a reliable current and historical [price](mfb-bd-lx.md#term-price) if possible. Locate the official [inflation](mfb-bd-lx.md#term-inflation) measure and its basket or methodology.
+**Before class:** Choose one familiar item and find a reliable current and historical [price](mfb-bd-lx.md#term-price) if possible. Locate the official [inflation](mfb-bd-lx.md#term-inflation) measure and its basket or methodology. You can use the [Bitcoin Diploma AI assistant](https://ai.myfirstbitcoin.org) to develop questions about the methodology, then check the explanations and figures against the original statistical publication.
 
 **Learner task:** Compare the item's [price](mfb-bd-lx.md#term-price) across time, ask whether income changed similarly, and name other possible causes. Then compare the item with the official measure.
 
@@ -1968,7 +1981,7 @@ Use a comparison that separates payment path from [custody](mfb-bd-lx.md#term-cu
 | [Custody](mfb-bd-lx.md#term-custody) | Can be custodial or self-custodial | Can be custodial or self-custodial |
 | Main beginner check | Correct address, network, amount, fee, and [confirmation](mfb-bd-lx.md#term-confirmation) | Correct invoice or destination, amount, expiry, fee, and payment result |
 
-Lightning is not a separate coin. A successful Lightning payment does not prove the wallet is safe for a larger balance. Channel operation, routing infrastructure, and [liquidity](mfb-bd-lx.md#term-lightning-liquidity) management are Advanced learning outside the Diploma.
+Lightning is not a separate coin. A successful Lightning payment does not prove the wallet is safe for a larger balance. Channel operation, routing infrastructure, and [liquidity](mfb-bd-lx.md#term-lightning-liquidity) management are Advanced Learning outside the Diploma.
 
 ### Supported first access
 
@@ -2122,7 +2135,7 @@ Investigate:
 - legal, tax, accounting, consumer, and reporting context; and
 - available technical or community support.
 
-Do not ask learners to reveal personal financial details to complete this research. Use public information, voluntary community consultation, and invented cases.
+Do not ask learners to reveal personal financial details to complete this research. Use public information, voluntary community consultation, and invented cases. The [Bitcoin Diploma AI assistant](https://ai.myfirstbitcoin.org) can help you draft research questions and identify gaps to investigate. Verify local conditions through current primary sources and community consultation before using them in a lesson.
 
 #### 2. Define the local need or opportunity
 
@@ -2557,7 +2570,7 @@ Close with:
 
 ## 11. Offer the [My First Bitcoin App](https://myfirstbitcoin.app/) as an optional learning resource
 
-The [My First Bitcoin App](https://myfirstbitcoin.app/) is not part of assessment, completion, or certification in 2026.10. You may invite learners to use it for short self-checks, recap, discovery, and connection to My First Bitcoin updates.
+The [My First Bitcoin App](https://myfirstbitcoin.app/) offers additional microlearning and is optional in 2026.10. Learners do not need to use it to complete the course or receive a certificate. You may invite learners to use it for short learning activities, self-checks, recap, discovery, and connection to My First Bitcoin updates; these do not count as assessment.
 
 Do not assign [My First Bitcoin App](https://myfirstbitcoin.app/) work, collect [My First Bitcoin App](https://myfirstbitcoin.app/) results, use [My First Bitcoin App](https://myfirstbitcoin.app/) progress to judge a learner, or require a device, account, or connection. Continue teaching and assessing through the Student Guide, discussion, activities, and direct educator observation when appropriate.
 
@@ -2593,7 +2606,7 @@ Document material changes so another educator can see what was localized and why
 | [KYC](mfb-bd-lx.md#term-kyc) and [no-KYC](mfb-bd-lx.md#term-no-kyc) create different trade-offs | Current identity rules and legal requirements |
 | Map listings can become stale | Whether a local merchant accepts Bitcoin today |
 
-Date changing facts and tell learners what may change.
+Date changing facts and tell learners what may change. When preparing a local example, you can ask the [Bitcoin Diploma AI assistant](https://ai.myfirstbitcoin.org) to suggest which claims need checking and what evidence to seek. Open the original sources yourself, confirm that they support each claim, and record the source and date; an AI response is not evidence that a fact is current.
 
 ### Legal, tax, accounting, and regulatory context
 
@@ -2881,24 +2894,6 @@ Do not turn a qualified text claim into an absolute visual. A supply chart must 
 
 ## 15. Close the Diploma well
 
-### Return to the opening questions
-
-Ask learners to reread their original answers without changing them. Then answer the same five questions again:
-
-1. Why do people need money?
-2. What makes something money?
-3. Who can create or control the money you use?
-4. Why does the money you use have [value](mfb-bd-lx.md#term-value)?
-5. Does your money buy the same amount today as it did in the past?
-
-For each changed answer, ask:
-
-- Which course idea, activity, evidence, or experience affected your thinking?
-- Did the conclusion change, or did the explanation become more precise?
-- What remains uncertain?
-
-Do not frame unchanged views as failure. Better evidence, clearer definitions, and a more qualified conclusion are learning.
-
 ### Capstone discussion
 
 Use think–pair–share before whole-group discussion:
@@ -2936,7 +2931,7 @@ Examples:
 
 > I remain uncertain that Bitcoin improves local payments because most merchants here do not accept it and conversion adds cost. I want to compare the complete route with our existing mobile-money option.
 
-Do not require a commitment to acquire or use bitcoin.
+Keep this reflection conversational. Do not require an engagement promise, a written next-step commitment, or evidence of completing a post-course action. Do not require a commitment to acquire or use bitcoin.
 
 ### Confirm what the certificate means
 
@@ -2951,21 +2946,7 @@ Explain the distinction among:
 
 A learner who still has **Not yet** evidence should receive a clear, respectful reassessment plan. Do not create public “graduates” and “failures” inside the room.
 
-### Safe next steps
-
-Offer a menu rather than a prescription:
-
-- revisit a relevant Diploma section or optional [My First Bitcoin App](https://myfirstbitcoin.app/) self-check;
-- practise identifying [custody](mfb-bd-lx.md#term-custody) models;
-- rehearse address or invoice verification with samples;
-- read a prepared transaction;
-- write a personal safety or recovery-readiness checklist without recording secrets;
-- attend a trusted education session;
-- investigate a local payment path with current evidence;
-- contribute to translation or open-source curriculum review;
-- explore the My First Bitcoin Education Network;
-- take a suitable Advanced module when available; or
-- explore the Educator Training Program if teaching interests them.
+### Final safety reminders
 
 Remind learners:
 
@@ -3025,6 +3006,10 @@ Complete this review while the course is fresh:
 | Which accessibility or language adaptation should be retained? |  |
 | What will change before the next cohort? |  |
 
+### Share an educator testimonial
+
+You can [share an educator testimonial](https://forms.myfirstbitcoin.org/testimonial-educator) about your experience teaching the Bitcoin Diploma. Describe your teaching context, what worked, and what you learned as an educator. Sharing your story is optional.
+
 ### Maintain local content
 
 Before reusing a course plan:
@@ -3082,7 +3067,7 @@ Use the [Lexicon](mfb-bd-lx.md) for full definitions. Keep these distinctions co
 
 - [ ] I can explain the four-module narrative and learner promises.
 - [ ] I reviewed every required assessed competency, its competency criteria, and its evidence type.
-- [ ] I know that all four modules are required Diploma learning, how I may adapt **Module 3** and curate **Module 4**, and what belongs to Advanced learning.
+- [ ] I know that all four modules are required Diploma learning, how I may adapt **Module 3** and curate **Module 4**, and what belongs to Advanced Learning.
 - [ ] I selected activities for a clear competency rather than entertainment alone.
 - [ ] I prepared a review and bridge for every module.
 
@@ -3290,4 +3275,6 @@ A strong Diploma experience is not the one with the longest lecture, the most te
 
 ## Continue learning
 
-Download the [My First Bitcoin App](https://myfirstbitcoin.app/) for optional self-checks, recap, and more learning opportunities. It is not required for Diploma learning, assessment, or certification.
+Download the [My First Bitcoin App](https://myfirstbitcoin.app/) for optional microlearning, self-checks, recap, and more learning opportunities. It is not required for Diploma learning, assessment, or certification.
+
+Explore the [Bitcoin Diploma AI assistant](https://ai.myfirstbitcoin.org) for optional help reviewing concepts or developing explanations for a lesson. Check its responses against the course materials before using them with learners. Educators remain responsible for teaching and assessment; never enter learner records, seed phrases, or private keys.

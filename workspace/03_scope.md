@@ -53,7 +53,7 @@ The following assumptions affect project execution:
 - Working architecture: 4 modules—Problem: Understanding Money; Solution: How Bitcoin Works; Action: Using Bitcoin Safely; and Connect: Bitcoin in Your Community—delivered in a competency-preserving schedule rather than fixed two-hour classes. The educator-curated Connect module links the shared learning to a local need, comparison, safe task, and responsible next step.
 - Educator-facilitated delivery in person or online.
 - Low-tech, offline-capable print/PDF instructional materials, with no app access required for learning, assessment, completion, or certification.
-- One four-module Diploma. Advanced learning is outside the Diploma.
+- One four-module Diploma. Advanced Learning is outside the Diploma.
 - Four-module Diploma, educator-curated Modules 3–4, and Advanced boundary rules.
 - Shared core learning and competencies in Modules 1–2, with educator-adapted practical learning in Modules 3–4 and an educator-curated required Module 4 Connect experience.
 - English-first drafting with multilingual and translation-ready source files.
@@ -219,7 +219,7 @@ Reduce unnecessary cognitive load.
 
 ### Purpose
 
-Separate advanced learning from beginner learning.
+Separate Advanced Learning from beginner learning.
 
 ### Deliverables
 
@@ -357,7 +357,7 @@ Prepare final publication-ready outputs.
 
 All October public outputs are published through Sanity. Online cohort, self-paced, optional app, and cross-modal branches remain future work.
 
-After release, approved modifications must be made through the proofreading platform, GitHub, or, where required, directly in Sanity. Each change must preserve alignment between the source material and the Sanity-published outputs.
+After release, approved modifications must be made through the [proofreading platform](https://forms.myfirstbitcoin.org/proofread), GitHub, or, where required, directly in Sanity. Each change must preserve alignment between the source material and the Sanity-published outputs.
 
 ---
 

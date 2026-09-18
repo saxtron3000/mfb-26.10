@@ -1,15 +1,15 @@
-# **My First Bitcoin** Education Network Community Charter
+# Bitcoin Education Network Community Charter
 
 ## **Outline**
 
-I. Introduction to the Education Network  
+I. Introduction to the Bitcoin Education Network\
 II. Community Principles  
-III. Benefits of Joining the Education Network  
+III. Benefits of Joining the Bitcoin Education Network\
 IV. Sign the Charter
 
 ---
 
-# **I. Introduction to the Education Network**
+# **I. Introduction to the Bitcoin Education Network**
 
 ## **Our Mission**
 
@@ -19,21 +19,21 @@ We have made our curriculum fully open source so that anyone, anywhere can teach
 
 Whether you want to introduce Bitcoin education in a school, university, church or your local community, you are free to use, adapt, and translate our materials. Our goal is to make high-quality Bitcoin education as accessible as possible.
 
-Using our open source curriculum does not require joining the Education Network. If you choose to build independently, we sincerely wish you success. There are many ways to contribute to Bitcoin education, and we believe a diversity of approaches strengthens the movement. But, learning from other peers is an important part of developing ourselves. That’s why we’re building a global network of educational communities: **the Education Network**.
+Using our open source curriculum does not require joining the [Bitcoin Education Network](https://leaderboard.myfirstbitcoin.org). If you choose to build independently, we sincerely wish you success. There are many ways to contribute to Bitcoin education, and we believe a diversity of approaches strengthens the movement. But, learning from other peers is an important part of developing ourselves. That’s why we’re building a global network of educational communities: **the Bitcoin Education Network**.
 
 ## 
 
 ## **Building a Global Network for Bitcoin Education**
 
-The Education Network exists to connect independent Communities that share a common commitment to high-quality Bitcoin education.
+The Bitcoin Education Network exists to connect independent Communities that share a common commitment to high-quality Bitcoin education.
 
 My First Bitcoin started this initiative, but every Community in the network is autonomous. Each Community is responsible for its own leadership, operations, fundraising, and local strategy. The network exists to support Communities, not to control them.
 
 By sharing knowledge, best practices, and educational resources, we aim to accelerate Bitcoin education worldwide while preserving the independence of every Community.
 
-## **Joining the Network**
+## **Joining the Bitcoin Education Network**
 
-Communities that align with the Education Network's principles may apply to join the **My First Bitcoin Education Network**.
+Communities that align with the Bitcoin Education Network's principles may apply to join the **[Bitcoin Education Network](https://leaderboard.myfirstbitcoin.org)**.
 
 Joining the Leaderboard requires:
 
@@ -55,7 +55,7 @@ More information is available at:
 
 # **II. Community Principles**
 
-Every Community that joins the Education Network agrees to uphold the following six principles.
+Every Community that joins the [Bitcoin Education Network](https://leaderboard.myfirstbitcoin.org) agrees to uphold the following six principles.
 
 1. ### **Independent**
 
@@ -83,7 +83,7 @@ Every Community that joins the Education Network agrees to uphold the following 
 
 4. ### **Bitcoin-Only**
 
-   The Education Network focuses exclusively on Bitcoin education. 
+   The Bitcoin Education Network focuses exclusively on Bitcoin education.
 
    Some financial literacy is naturally included because understanding Bitcoin requires understanding money. While local discussions may occasionally reference other technologies or financial systems, the curriculum remains centered on Bitcoin.
 
@@ -103,9 +103,9 @@ Every Community that joins the Education Network agrees to uphold the following 
 
 ## 
 
-## **III. Benefits of Joining the Education Network**
+## **III. Benefits of Joining the Bitcoin Education Network**
 
-Joining the Education Network connects your Community with a global network of Bitcoin educators who share knowledge, collaborate on initiatives, and support one another in advancing Bitcoin education.
+Joining the [Bitcoin Education Network](https://leaderboard.myfirstbitcoin.org) connects your Community with a global network of Bitcoin educators who share knowledge, collaborate on initiatives, and support one another in advancing Bitcoin education.
 
 Communities on the **My First Bitcoin Leaderboard** may unlock additional resources and opportunities as they build reputation through consistent, high-quality work. Examples of these perks include:
 
@@ -129,7 +129,7 @@ The available perks, eligibility criteria, and Leaderboard structure may evolve 
 
 ## **IV. Sign the Charter**
 
-This Charter establishes the Community identified below, and the Education Network constructed by My First Bitcoin.
+This Charter establishes the Community identified below, and the Bitcoin Education Network constructed by My First Bitcoin.
 
 My First Bitcoin is a nonprofit organization dedicated to creating and maintaining open source Bitcoin education. The Community independently uses these educational materials to teach Bitcoin within its local context.
 
@@ -138,13 +138,13 @@ My First Bitcoin is a nonprofit organization dedicated to creating and maintaini
 * Maintain and improve the open source curriculum.  
 * Share educational resources and best practices.  
 * Provide onboarding guidance where appropriate.  
-* Foster collaboration among Communities in the Education Network.  
+* Foster collaboration among Communities in the Bitcoin Education Network.\
 * Maintain the My First Bitcoin Leaderboard and recognize Communities based on demonstrated work and reputation.
 
 ### **The Community commits to:**
 
 * Uphold the six Community Principles outlined in this document.  
-* Operate independently while remaining aligned with the mission of the Education Network.  
+* Operate independently while remaining aligned with the mission of the Bitcoin Education Network.\
 * Deliver honest, impartial, Bitcoin-only education.  
 * Represent its work truthfully.  
 * Continue actively educating people within its community.  

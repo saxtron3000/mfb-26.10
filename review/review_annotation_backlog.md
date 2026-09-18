@@ -44,7 +44,7 @@ Source: `input/PABLO/202602721_final_draft_notes.md`. Items marked `[x]` in the 
 #### Participation expectations
 - [-] Make educator assessment/evidence guidance explicit.
 - [-] Give “Basic reading and everyday arithmetic” a clear topic heading.
-- [o] Link required materials to the teacher/ETP checklist and resources.
+- [o] Link required materials to the teacher/[ETP](https://etp.myfirstbitcoin.org/) checklist and resources.
 - [o] Make device-practice rules a linked one-page checklist.
 - [-] Review example diversity; one annotated example was flagged as a male software engineer.
 

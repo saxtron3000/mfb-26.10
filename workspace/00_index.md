@@ -61,6 +61,8 @@ Read the working documents in this order when you need the full design context:
 | 16 | [`16_spec.md`](16_spec.md) | Read the standalone Diploma overview for collaborators and stakeholders. |
 | 17 | [`17_advanced.md`](17_advanced.md) | Review Advanced pathway ideas and parked legacy material. |
 | 18 | [`18_horizon.md`](18_horizon.md) | Review post-release candidates, programme boundaries, and future decision gates. |
+| 20a | [`20_links-internal.md`](20_links-internal.md) | Review links on myfirstbitcoin.org and its subdomains used in both guides. |
+| 20b | [`20_links-external.md`](20_links-external.md) | Review other web links and local document links used in both guides. |
 
 Detailed activities are available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/).
 

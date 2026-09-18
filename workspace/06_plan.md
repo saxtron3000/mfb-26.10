@@ -7,7 +7,7 @@ This is the source of truth for the current Bitcoin Diploma redesign structure.
 It defines:
 
 - the 4-module architecture;
-- what belongs in the complete four-module Diploma, how educators adapt Modules 3–4 within it, and what belongs in Advanced learning;
+- what belongs in the complete four-module Diploma, how educators adapt Modules 3–4 within it, and what belongs in Advanced Learning;
 - how legacy content is being migrated;
 - how in-class time should be used;
 - which documents own detailed implementation work.
@@ -28,7 +28,7 @@ Current design commitments:
 - low-tech, offline-capable print/PDF instructional content, with no app, device, or connectivity requirement for learning, assessment, completion, or certification;
 - an approximately 8-hour delivery pathway that includes required teaching, practice, assessment, feedback, and recording;
 - 4 modules that may be delivered in four two-hour sessions, eight one-hour sessions, or another schedule that preserves the learning sequence and required evidence;
-- all four required Diploma modules, with educator-adapted practical learning in Modules 3–4 and Advanced learning outside the Diploma;
+- all four required Diploma modules, with educator-adapted practical learning in Modules 3–4 and Advanced Learning outside the Diploma;
 - shared Modules 1–2 core learning, with educator-adapted Module 3 practice and educator-curated Module 4 Connect practice;
 - English-first drafting with simplicity, tone, style, terminology, and translation-readiness review before translation or publication;
 - practical learning in every module;

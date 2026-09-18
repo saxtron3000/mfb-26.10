@@ -174,7 +174,7 @@ The 2026.10 Diploma package is expected to include:
 
 The Student Book should carry the learner path. The Educator Guide should help teachers facilitate, pace, adapt, and protect learner safety. Activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) should provide modular exercises that educators can use inside the Diploma or as standalone learning experiences.
 
-After release, approved modifications must be made through the proofreading platform, GitHub, or, where required, directly in Sanity. Every change must keep the approved source material and the Sanity-published online PDF and web versions aligned.
+After release, approved modifications must be made through the [proofreading platform](https://forms.myfirstbitcoin.org/proofread), GitHub, or, where required, directly in Sanity. Every change must keep the approved source material and the Sanity-published online PDF and web versions aligned.
 
 ---
 

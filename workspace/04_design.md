@@ -274,7 +274,7 @@ Otherwise, technical depth should move to educator-curated Module 4 learning wit
 
 The October publication set should include low-tech, offline-capable print/PDF, an online PDF version, and a web version. The online PDF and web versions should be published through Sanity and preserve the same learner-facing content, competency standards, and assessment safeguards. In-person and online facilitation are supported. Certification has no app or connectivity requirement.
 
-After release, content modifications should follow a controlled route through the proofreading platform, GitHub, or, where required, directly in Sanity, so the published versions remain aligned with the approved source and required Diploma standards.
+After release, content modifications should follow a controlled route through the [proofreading platform](https://forms.myfirstbitcoin.org/proofread), GitHub, or, where required, directly in Sanity, so the published versions remain aligned with the approved source and required Diploma standards.
 
 The design should also make these future branches possible:
 

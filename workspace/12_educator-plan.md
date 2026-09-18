@@ -34,11 +34,11 @@ The guide should help educators:
 
 Content may be facilitated in person or online and taught with low-tech, offline-capable print/PDF materials. The My First Bitcoin app may be offered for voluntary recap, self-checks, discovery, and connection to future My First Bitcoin learning. It is not required for learning, assessment, completion, or certification in the 2026.10 release.
 
-### Educator support through the ETP
+### Educator support through the [ETP](https://etp.myfirstbitcoin.org/)
 
-You do not need to prepare or teach in isolation. My First Bitcoin supports educators through the [Educator Training Program (ETP)](https://programs.myfirstbitcoin.org/programs/educator-training-program/), which helps prospective and active educators develop their teaching practice and connect with the wider education community.
+You do not need to prepare or teach in isolation. My First Bitcoin supports educators through the [Educator Training Program (ETP)](https://etp.myfirstbitcoin.org/), which helps prospective and active educators develop their teaching practice and connect with the wider education community.
 
-**Ready for support?** Explore the [Educator Training Program](https://programs.myfirstbitcoin.org/programs/educator-training-program/) for current information and ways to get involved.
+**Ready for support?** Explore the [Educator Training Program](https://etp.myfirstbitcoin.org/) for current information and ways to get involved.
 
 ---
 
@@ -61,7 +61,7 @@ In this Diploma, a **learner** studies, discusses, practises, and provides obser
 ### General Teaching Tips
 
 - Educators should feel allowed to say "not yet" when a student question would pull the class into a complex side topic. This does not shut down curiosity. It protects the structure, timing, and competency criteria of the activity. A useful response is: "That is an important question, but it belongs later. We will come back to it when the timing is right." This helps avoid rabbit-holing students before they have the foundation to address the question safely.
-- If learner time, energy, or familiarity with the basics suggests a gentler start, educators may offer an initial [Introduction to Bitcoin (ITB)](https://programs.myfirstbitcoin.org/programs/introduction-to-bitcoin/) session or course before the Diploma. ITB is a shorter first touch point for getting to grips with Bitcoin; it can prepare learners for the Diploma but does not replace its assessed competencies or assessment.
+- If learner time, energy, or familiarity with the basics suggests a gentler start, educators may offer an initial [Introduction to Bitcoin (ITB)](https://myfirstbitcoin.org/learn/programs#intro) session or course before the Diploma. [ITB](https://myfirstbitcoin.org/learn/programs#intro) is a shorter first touch point for getting to grips with Bitcoin; it can prepare learners for the Diploma but does not replace its assessed competencies or assessment.
 
 ## 2. Pacing And Timing
 
@@ -217,7 +217,7 @@ Each misconception entry should include:
 - beginner-safe answer;
 - one discussion prompt;
 - what not to overclaim;
-- source trail for Advanced learning.
+- source trail for Advanced Learning.
 
 Recommended entries:
 
@@ -406,11 +406,11 @@ Only the combined **assessment-complete** status may unlock a certificate. Educa
 
 ## 7. Legacy Content Migration Guidance
 
-- Use the legacy table-of-contents migration notes in `06_plan.md` to decide whether old content belongs in the shared core, an educator-adapted Module 3 option, an educator-curated Module 4 option within the Diploma, or Advanced learning.
-- Use `17_advanced.md` to decide whether Organizations material supports the beginner Diploma, educator-adapted Module 3 practice, an educator-curated Module 4 option, activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), the Educator Guide, or Advanced learning, and to park deeper technical, economic, philosophical, or future-facing material for later Advanced modules.
+- Use the legacy table-of-contents migration notes in `06_plan.md` to decide whether old content belongs in the shared core, an educator-adapted Module 3 option, an educator-curated Module 4 option within the Diploma, or Advanced Learning.
+- Use `17_advanced.md` to decide whether Organizations material supports the beginner Diploma, educator-adapted Module 3 practice, an educator-curated Module 4 option, activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), the Educator Guide, or Advanced Learning, and to park deeper technical, economic, philosophical, or future-facing material for later Advanced modules.
 - Do not treat old `OUT` markings as deletion when the same item has an educator-curated Module 4 or Advanced destination.
 - Keep Module 3 technical material practical: use it only to support safer self-custody, verification, and transaction responsibility.
-- Split topics carefully when needed: beginner concepts may stay in the Diploma while deeper analysis moves to Advanced learning.
+- Split topics carefully when needed: beginner concepts may stay in the Diploma while deeper analysis moves to Advanced Learning.
 - Treat sats, wallet recovery, seed phrase testing, address verification, scam awareness, and beginner acquisition-pathway risk as clarified Diploma concepts.
 - Place daily-life Lightning wallet setup, local spending, and merchant scenarios in Bitcoin in Your Community unless the local delivery plan requires them earlier.
 - Use educator-curated Module 4 tasks for local money examples, local inequality or debt discussions, local resource maps, circular economies, and real tools used by the community.

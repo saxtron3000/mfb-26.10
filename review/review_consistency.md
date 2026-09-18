@@ -28,7 +28,7 @@ Affected: `05_competencies.md`, `06_plan.md`, `13_assessment.md`, `15_certificat
 
 ## 3. Is Module 4 part of the Diploma?
 
-**Resolved.** The Diploma consists of Modules 1–4. Modules 1 and 2 develop theory-based competencies through explanation, comparison, and reasoning; Modules 3 and 4 develop practical competencies through supported action. Module 4 is selected locally, but it is required for Diploma completion. Advanced learning is outside the Diploma.
+**Resolved.** The Diploma consists of Modules 1–4. Modules 1 and 2 develop theory-based competencies through explanation, comparison, and reasoning; Modules 3 and 4 develop practical competencies through supported action. Module 4 is selected locally, but it is required for Diploma completion. Advanced Learning is outside the Diploma.
 
 All source-of-truth and public documents must use this model. Do not describe Module 4 as optional or outside the Diploma.
 
