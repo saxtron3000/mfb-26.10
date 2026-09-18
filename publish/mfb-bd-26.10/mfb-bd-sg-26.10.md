@@ -974,7 +974,7 @@ Protect secrets by keeping seed phrases and private keys offline and out of view
 
 ### Acquiring and exchanging bitcoin
 
-#### Pathway awareness, not financial advice
+#### Awareness, not financial advice
 
 People may receive bitcoin through work, a community payment, a peer exchange, an ATM, or a service. Each pathway has different costs, custody, privacy, fraud, legal, and operational trade-offs. This Diploma does not recommend a provider or tell you which path to use.
 

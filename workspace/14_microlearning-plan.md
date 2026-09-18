@@ -439,7 +439,7 @@ Question-bank opportunities:
 - ordering: pause, verify independently, seek approved support;
 - reflection: “What would make you pause before acting online?”
 
-## BD-ML-B03-T10: Acquiring and exchanging bitcoin as pathway awareness
+## BD-ML-B03-T10: Acquiring and exchanging bitcoin: awareness, not financial advice
 
 Themes: possible pathways, custody, local variation, risks, and no financial advice.
 

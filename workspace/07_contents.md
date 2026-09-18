@@ -69,7 +69,7 @@
 - Sending bitcoin
 - Verification, confirmations, block explorers, public-ledger privacy, and irreversible transactions
 - Safety checklist
-- Acquiring and exchanging bitcoin as pathway awareness, not financial advice
+- Acquiring and exchanging bitcoin: awareness, not financial advice
 - On-chain and Lightning payments
 - Practical competency check observed by an educator
 - Review: what does self-custody responsibility mean?

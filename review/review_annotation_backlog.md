@@ -245,9 +245,9 @@ Source: `input/PABLO/202602721_final_draft_notes.md`. Items marked `[x]` in the 
 - [o] Turn scam scenarios into scaffolded role-play/advanced content rather than one dense list.
 - [-] Reduce Module 3 security overload and clarify learner choices.
 
-#### Acquiring and exchanging bitcoin as pathway awareness, not financial advice
+#### Acquiring and exchanging bitcoin: awareness, not financial advice
 - [-] Fix heading hierarchy (“sub-header, not header”).
-- [-] Distinguish financial advice from pathway awareness.
+- [-] Distinguish financial advice from awareness of ways to acquire and exchange bitcoin.
 - [o] Turn acquisition/exchange pathways into a one-page comparison activity.
 
 #### On-chain and Lightning payments

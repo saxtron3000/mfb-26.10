@@ -199,7 +199,7 @@ There is also a grammatical defect at `15_certification.md:22–25`: the assessm
 **Tune-ups:**
 
 - Correct `recieve` to `receive` at line 796.
-- Change the Module 3 `Pathway awareness` heading at line 1090 from `##` to `###`; it currently breaks the module hierarchy.
+- Change the Module 3 `Awareness, not financial advice` heading at line 1090 from `##` to `###`; it currently breaks the module hierarchy.
 - Replace production placeholders such as “Source or update page, if included” and “Optional donate / support QR” with final learner headings or remove the sections.
 - Add one short, learner-readable assessment explanation: two separate gates, examples of acceptable evidence, what `Not yet` means, and the right to feedback/reassessment.
 - Make certificate-verification wording conditional until the real system exists.
