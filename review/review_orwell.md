@@ -5,3 +5,5 @@
 5. Never use a foreign phrase, a scientific word or a jargon word if you can think of an everyday English equivalent.
 6. Break any of these rules sooner than say anything outright barbarous.
 Review every prose output against these rules before delivering.
+
+Do not use em dashes (U+2014). Replace them with commas, colons, parentheses, or separate sentences as appropriate.

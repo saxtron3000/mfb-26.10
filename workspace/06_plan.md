@@ -194,7 +194,7 @@ Migration summary:
 | Diploma Module 1 | money, money history, fiat, early problem framing | Keep beginner monetary foundations and fiat problem material. |
 | Diploma Module 2 | decentralized currency search, Bitcoin origin, Bitcoin benefits | Keep beginner Bitcoin purpose and properties. |
 | Diploma Module 3 | wallet use, receiving, sending, verification, selected technical orientation | Keep practical use and safety material. |
-| Diploma Module 4: educator-curated Connect | daily-life Bitcoin use, local tools, Lightning payments, local spending | Move into educator-curated workshops and demonstrations within the Diploma. |
+| Diploma **Module 4: educator-curated Connect** | daily-life Bitcoin use, local tools, Lightning payments, local spending | Move into educator-curated workshops and demonstrations within the Diploma. |
 | Advanced | deeper psychology, detailed mining, mempool, detailed transactions, philosophy, future scenarios | Move into Advanced Modules or educator background. |
 
 Split decisions:
@@ -219,10 +219,10 @@ Beginner merge decision:
 
 Organizations content may support:
 
-- Module 1: CBDCs as digital fiat and a trust/control comparison.
-- Module 2: digital scarcity, double spending, short technical lineage, credible scarcity, protocol/layers framing, and role boundaries among developers, miners, nodes, and users.
-- Module 3: confirmations, explorer orientation, public-ledger transparency, irreversible settlement, and privacy trade-offs.
-- Module 4: local merchant, remittance, nonprofit, underbanked-access, circular-economy, on-ramp, and off-ramp scenarios.
+- **Module 1: CBDCs as digital fiat and a trust/control comparison**.
+- **Module 2: digital scarcity, double spending, short technical lineage, credible scarcity, protocol/layers framing, and role boundaries among developers, miners, nodes, and users**.
+- **Module 3: confirmations, explorer orientation, public-ledger transparency, irreversible settlement, and privacy trade-offs**.
+- **Module 4: local merchant, remittance, nonprofit, underbanked-access, circular-economy, on-ramp, and off-ramp scenarios**.
 - Educator Guide: misconception prompts and claim/evidence/trade-off facilitation.
 - Activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/): ledger exploration, local payment path comparison, community donation scenarios, and local resource mapping.
 

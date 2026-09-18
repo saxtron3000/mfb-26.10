@@ -22,7 +22,7 @@ The project began with small in-person classes in El Salvador in 2021, after the
 
 In 2022, the first Bitcoin Diploma cohort began in one public school in San Marcos, El Salvador. The pilot developed into an open-source curriculum that independent educators could translate, adapt, and teach. It later spread through the [My First Bitcoin Education Network](https://myfirstbitcoin.org/about/network) to communities around the world.
 
-Our work is independent, community-driven, and Bitcoin-focused. We focus on financial literacy, careful thinking, and practical safety—not trading, speculation, or promoting other tokens. We do not ask you to accept a belief. Instead, we provide concepts, questions, and practical knowledge so you can form your own conclusions.
+Our work is independent, community-driven, and Bitcoin-focused. We focus on financial literacy, careful thinking, and practical safety - not trading, speculation, or promoting other tokens. We do not ask you to accept a belief. Instead, we provide concepts, questions, and practical knowledge so you can form your own conclusions.
 
 ### Our mission: independent, open-source Bitcoin education
 
@@ -44,9 +44,11 @@ This approach matters because money affects every person. People should be able 
 
 **Self-sovereignty** means having meaningful control over your own choices and resources. With Bitcoin, greater control can reduce dependence on institutions. It also creates greater personal responsibility. Control without knowledge can be dangerous, so practical safety is a central part of this Diploma.
 
-### Learn more with the My First Bitcoin app
+### Learn more with the [My First Bitcoin App](https://myfirstbitcoin.app/)
 
-The My First Bitcoin app is an optional resource. It can offer short self-check questions, recap material, and ways to discover more from My First Bitcoin. You are also able to use it to find a My First Bitcoin educator or Diploma learning opportunity near you. Availability depends on your location. The app is not required to take part in the Diploma, complete the learning, or receive a certificate. Your book, educator, and group activities provide the complete learning path.
+The [My First Bitcoin App](https://myfirstbitcoin.app/) is an optional resource for short self-checks, recap material, and finding more My First Bitcoin learning. It can also help you find an educator or Diploma learning opportunity near you, depending on your location. Its quizzes help you learn but do not count as assessment, and the [My First Bitcoin App](https://myfirstbitcoin.app/) is not a Bitcoin wallet. You can fully participate in the Diploma and receive a certificate without the [My First Bitcoin App](https://myfirstbitcoin.app/), a suitable device, or an internet connection. Your book, educator, and group activities provide the complete learning path.
+
+Download the [My First Bitcoin App](https://myfirstbitcoin.app/) for optional self-checks, recap, and more learning opportunities.
 
 ### Why this Diploma exists
 
@@ -99,7 +101,7 @@ After completing this Diploma, you should be able to:
 - identify the roles of users, nodes, and miners;
 - explain wallets, addresses, private keys, seed phrases, and custody;
 - compare custodial and non-custodial use, as well as hot and cold wallets;
-- safely demonstrate required beginner wallet, receiving or sending, recovery-readiness, and transaction-verification actions under supported conditions;
+- show that you can safely use a wallet with support: receive or send bitcoin, prepare to recover a wallet, and check transaction details;
 - distinguish on-chain and Lightning payments;
 - recognize common scams and basic safety practices;
 - identify different ways people may acquire or exchange bitcoin without treating one path as a recommendation;
@@ -140,17 +142,13 @@ During discussion:
 - do not photograph, record, or share another person's screen, work, or identifying information without permission;
 - do not pressure anyone to buy, sell, or reveal how much money they hold.
 
-Your educator will explain any required assessment activities. Theory is mainly developed in Modules 1 and 2, where your educator observes you explain, compare, justify, or apply an idea. A statement of confidence is not evidence by itself. Practical competency is mainly developed in Modules 3 and 4, where an educator observes the relevant actions under safe, supported conditions.
+Your educator will explain any required assessment activities. Theory is mainly developed in **Modules 1 and 2**, where your educator observes you explain, compare, justify, or apply an idea. A statement of confidence is not evidence by itself. Practical competency is mainly developed in **Modules 3 and 4**, where an educator observes the relevant actions under safe, supported conditions.
 
 Your educator uses an assessment grid to record this evidence.
 
 
 
-To receive a certificate, you must meet the approved Diploma requirements. Attendance, app use, or completing a self-check quiz alone is not enough.
-
-### Use the My First Bitcoin app if it helps you
-
-You may use the app for short self-checks, recap, or to find more My First Bitcoin learning. Its quiz is a learning aid, not an assessment or a Bitcoin wallet. If you do not have a suitable device or connection, you can still participate fully in the Diploma.
+To receive a certificate, you must meet the approved Diploma requirements. Attendance, [My First Bitcoin App](https://myfirstbitcoin.app/) use, or completing a self-check quiz alone is not enough.
 
 ### Required prior knowledge: none
 
@@ -167,7 +165,7 @@ For the Diploma, you need:
 - this book in print or PDF form;
 - a notebook and pen, or another way to record answers;
 - an educator or study group where available;
-- optional access to the My First Bitcoin app if you would like to use its self-check and recap resources;
+- optional access to the [My First Bitcoin App](https://myfirstbitcoin.app/) for self-checks, recap, and finding more learning opportunities;
 - time to discuss and reflect.
 
 A personal phone and continuous internet connection are not required for learning, practical preparation, assessment, or certification. Do not install a Bitcoin wallet or create a seed phrase only because another learner tells you to. Use practical tools only under clear guidance and only when the purpose and risk are clear.
@@ -180,15 +178,15 @@ For Bitcoin-wallet or other financial-tool practice on a device:
 - never use another person's real seed phrase;
 - never display a seed phrase to a class, camera, website, or message service.
 
-If you use the optional app on a managed, shared, or loaned device, follow the approved sign-in, privacy, sign-out, and account-security process. Never enter wallet secrets or personal financial information into the app.
+If you use the optional [My First Bitcoin App](https://myfirstbitcoin.app/) on a managed, shared, or loaned device, follow the approved sign-in, privacy, sign-out, and account-security process. Never enter wallet secrets or personal financial information into the [My First Bitcoin App](https://myfirstbitcoin.app/).
 
 ### How low-tech and offline content delivery works
 
-All definitions, comparisons, safety rules, and review questions needed for the Diploma are contained in this book. Supplementary learning links, QR codes, and the My First Bitcoin app are optional. They may provide updates, recap material, source files, or ways to connect, but they are not required to take part in or complete the course.
+All definitions, comparisons, safety rules, and review questions needed for the Diploma are contained in this book. Supplementary learning links, QR codes, and the [My First Bitcoin App](https://myfirstbitcoin.app/) are optional. They may provide updates, recap material, source files, or ways to connect, but they are not required to take part in or complete the course.
 
 When a demonstration needs internet access, your educator should provide an offline alternative when possible. This may be a printed wallet screen, a transaction scenario, a card exercise, or a step-by-step discussion. A failed connection should not stop teaching or preparation.
 
-An educator may use offline knowledge checks for preparation and approved practical assessment tasks when connectivity is limited. A learner may use the optional app later for recap or self-checks, but it is not part of the certification process.
+An educator may use offline knowledge checks for preparation and approved practical assessment tasks when connectivity is limited. A learner may use the optional [My First Bitcoin App](https://myfirstbitcoin.app/) later for recap or self-checks, but it is not part of the certification process.
 
 Some information changes over time. Fees, laws, taxes, available services, wallet features, and local merchant lists are examples. This book explains the lasting concepts. Your educator should verify current local details before presenting them.
 
@@ -210,7 +208,7 @@ Responsibility also includes knowing when to ask for help. Seek help before movi
 
 ### The four-module Diploma, educator-curated Module 4, and Advanced learning
 
-The Diploma consists of a four-stage learning arc: **Problem → Solution → Action → Connect**. All four modules are part of the Diploma. Modules 1 and 2 develop the shared Problem and Solution through explanation, comparison, and reasoning. Educators can adapt practical examples, tools, resources, and delivery in Modules 3 and 4 while preserving the required safety and competency standards. Module 4 is the educator-curated Connect stage, where learners link the shared learning to a local need or opportunity, a realistic alternative, safe practice, and a responsible next step.
+The Diploma consists of a four-stage learning arc: **Problem → Solution → Action → Connect**. All four modules are part of the Diploma. **Modules 1 and 2** develop the shared Problem and Solution through explanation, comparison, and reasoning. Educators can adapt practical examples, tools, resources, and delivery in **Modules 3 and 4** while preserving the required safety and competency standards. **Module 4** is the educator-curated Connect stage, where learners link the shared learning to a local need or opportunity, a realistic alternative, safe practice, and a responsible next step.
 
 **Module 4** is a required part of the Diploma, curated by the educator. Educators are the subject-matter experts on their students' local constraints, solutions, tools, resources, laws, language, infrastructure, and needs. The educator-curated Connect experience may include earning, saving, receiving, spending, Layer 2 solutions, local exchange pathways, merchants, or circular economies.
 
@@ -222,12 +220,14 @@ A topic is not unimportant because it is outside the Diploma. It may simply requ
 
 | Module | Role | Guiding question | Learner promise |
 | --- | --- | --- | --- |
-| Module 1: Understanding Money | **Problem** | How can money break? | You can explain the money **problems** Bitcoin responds to. |
-| Module 2: How Bitcoin Works | **Solution** | Why was Bitcoin created, and how does it respond? | You can explain Bitcoin's **purpose** and key properties. |
-| Module 3: Using Bitcoin Safely | **Action** | How do I use and secure Bitcoin responsibly? | You can explain beginner **custody and safety** concepts and act safely in supported practice. |
-| Module 4: Bitcoin in Your Community | **Connect** | How do the problem, solution, and safe action connect to this community? | You can connect the course learning to a local need, alternative, safe task, and responsible next step. |
+| **Module 1: Understanding Money** | **Problem** | How can money break? | You can explain the money **problems** Bitcoin responds to. |
+| **Module 2: How Bitcoin Works** | **Solution** | Why was Bitcoin created, and how does it respond? | You can explain Bitcoin's **purpose** and key properties. |
+| **Module 3: Using Bitcoin Safely** | **Action** | How do I use and secure Bitcoin responsibly? | You can explain beginner **custody and safety** concepts and act safely in supported practice. |
+| **Module 4: Bitcoin in Your Community** | **Connect** | How do the problem, solution, and safe action connect to this community? | You can connect the course learning to a local need, alternative, safe task, and responsible next step. |
 
-The four modules provide the required Problem → Solution → Action → Connect learning path, not a fixed class timetable. Modules 1 and 2 develop theory-based competencies through explanation, comparison, and reasoning. Module 3 develops safe practical action. Module 4 is educator-curated but required: it connects that shared learning to a local need, realistic alternative, safe task, and responsible next step. Four two-hour sessions are one possible format. Your educator may divide a module across more sessions, revisit an earlier idea, or change the order of individual sections when your cohort needs more time for discussion, practice, review, or assessment. The educator remains responsible for covering all required Diploma competencies and making the connections among the modules clear.
+The four modules provide the required Problem → Solution → Action → Connect learning path, not a fixed class timetable. **Modules 1 and 2** develop theory-based competencies through explanation, comparison, and reasoning. **Module 3** develops safe practical action. **Module 4** is educator-curated but required: it connects that shared learning to a local need, realistic alternative, safe task, and responsible next step.
+
+ Four two-hour sessions are one possible format. Your educator may divide a module across more sessions, revisit an earlier idea, or change the order of individual sections when your cohort needs more time for discussion, practice, review, or assessment. The educator remains responsible for covering all required Diploma competencies and making the connections among the modules clear.
 
 
 ---
@@ -256,7 +256,7 @@ People have different skills, resources, needs, and plans. Exchange allows them 
 
 Direct exchange is often difficult. The person who has what you need may not want what you offer. Money solves this coordination problem. It is an asset that people accept because they expect other people to accept it later.
 
-Money helps strangers cooperate across distance and time. It allows a worker to receive value today and use it next week or next year. It also creates a common way to record prices, debts, income, costs, and savings.
+Money helps strangers cooperate across time and distance, and at scale. For example, a worker can earn money today and spend it next year on a bicycle made in another country, paying for the work of many people they have never met. Money also creates a common way to record prices, debts, income, costs, and savings.
 
 Money is not the food, home, time, or skill that people value. It is a tool for measuring and exchanging claims on those things. Its usefulness depends on trust, rules, social acceptance, and its monetary properties.
 
@@ -992,7 +992,7 @@ Before comparing a path, ask:
 | Counterparty and safety | How can I verify the other party or service, and is an in-person exchange safe? |
 | Local context | Is the route lawful and appropriate where I live, and what records may matter? |
 
-No pathway is automatically best everywhere. Local examples and provider-specific guidance belong in Module 4. **Know your customer (KYC)** describes identity checks a regulated service may require. It can support account recovery or legal compliance, while also creating a record that connects identity and financial activity. Paths with less identity collection can involve different counterparty, legal, safety, cost, or complexity risks.
+No pathway is automatically best everywhere. Local examples and provider-specific guidance belong in **Module 4**. **Know your customer (KYC)** describes identity checks a regulated service may require. It can support account recovery or legal compliance, while also creating a record that connects identity and financial activity. Paths with less identity collection can involve different counterparty, legal, safety, cost, or complexity risks.
 
 ### On-chain and Lightning payments
 
@@ -1005,7 +1005,7 @@ Bitcoin has more than one payment path. **On-chain** payments are recorded in Bi
 | Common use | Base-layer settlement or less frequent transfer | Fast, smaller, or frequent payment |
 | Beginner checks | Correct address, network, amount, fee, and confirmation status | Correct invoice or request, amount, expiry, custody, and payment result |
 
-Which path does the recipient expect? Confirm whether they have provided an on-chain address or a Lightning invoice or request before paying. An on-chain wallet cannot directly pay every Lightning invoice, and a Lightning wallet may not support every on-chain action. Some applications support both paths but may add fees or service dependencies. Detailed Lightning setup, channels, routing, and liquidity are Advanced learning; live local practice belongs in Module 4 when it is safe and appropriate.
+Which path does the recipient expect? Confirm whether they have provided an on-chain address or a Lightning invoice or request before paying. An on-chain wallet cannot directly pay every Lightning invoice, and a Lightning wallet may not support every on-chain action. Some applications support both paths but may add fees or service dependencies. Detailed Lightning setup, channels, routing, and liquidity are Advanced learning; live local practice belongs in **Module 4** when it is safe and appropriate.
 
 Imagine that a prepared scenario offers both payment paths. Which request can the intended wallet use, and what would you check before approving it? The answer depends on the receiving request, the wallet, and the situation—not on a universal “best” path.
 
@@ -1032,15 +1032,15 @@ Imagine that a friend sends you a payment request while an unfamiliar support ac
 
 ## Module 4: Bitcoin in Your Community
 
-This is the **Connect** stage of the Diploma. You will connect the money problem, Bitcoin response, and safe-use responsibility from Modules 1–3 to a local need or opportunity, a realistic alternative, and a safe practical task. You are not expected to adopt Bitcoin or conclude that it is the best option in every local situation.
+This is the **Connect** stage of the Diploma. You will connect the money problem, Bitcoin response, and safe-use responsibility from **Modules 1–3** to a local need or opportunity, a realistic alternative, and a safe practical task. You are not expected to adopt Bitcoin or conclude that it is the best option in every local situation.
 
 Bitcoin is one global protocol, but people use it under different local conditions. Internet access, phones, laws, taxes, currencies, banks, merchants, fees, language, safety, and technical support all affect what is useful.
 
-Your educator selects the learning activities in this module. The goal is not to demonstrate every tool. It is to connect concepts from Modules 1–3 to real choices in your community. The educator may invite a local expert when specialized knowledge is needed.
+Your educator selects the learning activities in this module. The goal is not to demonstrate every tool. It is to connect concepts from **Modules 1–3** to real choices in your community. The educator may invite a local expert when specialized knowledge is needed.
 
-Use the Module 3 safety checklist throughout every local module. Using bitcoin or a named tool in a supervised exercise does not mean that My First Bitcoin or your educator recommends frequent, ongoing, or higher-value use. The purpose is to compare the option and its trade-offs well enough to make your own decision.
+Use the **Module 3** safety checklist throughout every local module. Using bitcoin or a named tool in a supervised exercise does not mean that My First Bitcoin or your educator recommends frequent, ongoing, or higher-value use. The purpose is to compare the option and its trade-offs well enough to make your own decision.
 
-Record the focus of your Module 4:
+Record the focus of your **Module 4**:
 
 | Local learning choice | Your notes |
 | --- | --- |
@@ -1054,13 +1054,13 @@ Record the focus of your Module 4:
 
 ### Your local Module 4
 
-In this module, you will apply an idea from Modules 1–3 to a real need or opportunity where you live. You may explore earning, saving, receiving, spending, merchant use, community resources, or another local use of Bitcoin as money.
+In this module, you will apply an idea from **Modules 1–3** to a real need or opportunity where you live. You may explore earning, saving, receiving, spending, merchant use, community resources, or another local use of Bitcoin as money.
 
 This matters because Bitcoin is experienced locally. You will better understand what is useful, what is not, and which conditions and risks shape a responsible choice. You will also become familiar with local Bitcoin tools, resources, and organisations without being expected to use or recommend them.
 
 Your educator will guide you because they understand the local context. They may invite a local expert to help you learn from experience and interact positively and respectfully with your community. The goal is to build informed connections and help foster community, not simply to complete a transaction.
 
-Your local Module 4 activity will help you:
+Your local **Module 4** activity will help you:
 
 1. **Connect:** Identify the money problem, Bitcoin response, and safe action that matter locally.
 2. **Compare:** Consider local conditions and compare Bitcoin with a realistic existing option.
@@ -1390,7 +1390,7 @@ Complete this review individually, then compare your reasoning with your team or
 #### Key takeaways
 
 - Bitcoin as money is local: the useful pathway depends on community needs, infrastructure, laws, costs, tools, language, and safety conditions.
-- An educator-curated Module 4 Connect activity should link the Problem, Solution, and Action learning to a real problem or opportunity, realistic alternative, safe practice, and evidence of learning.
+- An educator-curated **Module 4** Connect activity should link the Problem, Solution, and Action learning to a real problem or opportunity, realistic alternative, safe practice, and evidence of learning.
 - Local workshops should use a safe sequence: observe the process, practise with support, then explain or complete a defined task without exposing secrets.
 - Before using a local tool or service, check its purpose, custody model, source, recovery process, privacy, costs, compatibility, support, and current local rules.
 - On-chain and Lightning payments make different trade-offs in settlement, speed, fees, custody, and failure points; confirm which payment method a recipient expects.
@@ -1524,7 +1524,7 @@ A printed edition may place one official support QR code here. Before paying, co
 
 ### Certificate verification
 
-A certificate is issued only after you meet the approved theoretical and practical requirements through the Diploma’s educator-led assessment process. Optional app use does not affect certification. The certificate represents assessed beginner competence under supported conditions, not investment skill, professional financial competence, or readiness to manage high-value self-custody.
+A certificate is issued only after you meet the approved theoretical and practical requirements through the Diploma’s educator-led assessment process. Optional [My First Bitcoin App](https://myfirstbitcoin.app/) use does not affect certification. The certificate represents assessed beginner competence under supported conditions, not investment skill, professional financial competence, or readiness to manage high-value self-custody.
 
 If your Diploma certificate includes a verification code, link, QR code, digital signature, or timestamp, follow the instructions printed on that certificate. Verify that the destination belongs to My First Bitcoin or the clearly identified issuing organization.
 
@@ -1540,3 +1540,7 @@ When checking a certificate through the official verification process, confirm:
 Do not publish unnecessary personal information during verification. If no verification method is provided, contact the issuing educator through an independently verified channel.
 
 Your most important result is not the certificate. It is the ability to explain money and Bitcoin clearly, recognize risk, verify before acting, and continue learning independently.
+
+## Continue learning
+
+Download the [My First Bitcoin App](https://myfirstbitcoin.app/) for optional self-checks, recap, and more learning opportunities. It is not required for Diploma learning, assessment, or certification.

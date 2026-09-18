@@ -42,6 +42,10 @@ Remove an item when its acceptance condition is met, or move it to a dated archi
 
 ## Publication and maintenance actions
 
+- [ ] **Introduce teaching slides as visual support in the Educator Guide.** Provide a basic, editable slide set aligned with the curriculum and link it from the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md). Explain that My First Bitcoin recommends using the slides to give lessons structure, support visual learning, and reinforce key concepts. Encourage educators to adapt and personalise them for their learners, language, and local context while preserving required competencies and safety guidance.
+
+  - Acceptance: the Educator Guide introduces and links the slide set, explains its recommended use, and gives clear adaptation guidance. Slides support discussion and practical learning, and teaching remains possible without projection equipment.
+
 - [ ] **Finalize or remove conditional Student Guide back matter.** Resolve `Source or update page, if included`, `Optional donate / support QR`, and `Certificate verification`. Do not publish a QR, support destination, or certificate-verification explanation without a tested, approved destination or process.
 
   - Acceptance: every retained section has a learner-facing heading and a verified destination or governing process; unavailable sections are removed.

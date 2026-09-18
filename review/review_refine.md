@@ -28,7 +28,7 @@ A passionate educator who deeply believes in what they're doing — direct, warm
 * "The revolution is inside our own minds"
 * "Fiercely independent"
 * "Open source everything"
-* "Join the movement"
+* "Join the community"
 
 ### Channel-Specific Tone
 
