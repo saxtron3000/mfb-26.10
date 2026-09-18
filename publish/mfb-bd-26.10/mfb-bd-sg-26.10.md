@@ -212,7 +212,7 @@ The Diploma consists of a four-stage learning arc: **Problem → Solution → Ac
 
 **Module 4** is a required part of the Diploma, curated by the educator. Educators are the subject-matter experts on their students' local constraints, solutions, tools, resources, laws, language, infrastructure, and needs. The educator-curated Connect experience may include earning, saving, receiving, spending, Layer 2 solutions, local exchange pathways, merchants, or circular economies.
 
-**Advanced** learning is outside the Diploma. It may examine deeper economics, cryptography, mining, privacy, transaction structure, Lightning operations, business use, or security. Advanced material is kept separate so the beginner Diploma remains clear and safe.
+**Advanced** learning is outside the Diploma. It may examine deeper economics, cryptography, mining, [privacy](mfb-bd-lx.md#term-privacy), transaction structure, Lightning operations, business use, or security. Advanced material is kept separate so the beginner Diploma remains clear and safe.
 
 A topic is not unimportant because it is outside the Diploma. It may simply require more time or prior knowledge.
 
@@ -470,7 +470,7 @@ Pause and consider the money you use: what makes it useful in daily life, and wh
 - Barter is difficult at scale because both people must want what the other offers at the same time and in suitable amounts.
 - Money has developed in different ways across societies, often improving convenience while creating new trade-offs in trust, control, and access.
 - Fiat money can support convenient payments and flexible credit, but its supply and rules depend on institutions.
-- Inflation, fractional-reserve banking, and CBDC design can affect purchasing power, access, privacy, and the need to trust institutions.
+- Inflation, fractional-reserve banking, and CBDC design can affect purchasing power, access, [privacy](mfb-bd-lx.md#term-privacy), and the need to trust institutions.
 - Some people look to alternatives such as precious metals when they want different trade-offs around purchasing power, supply, or control; every alternative has limits and risks.
 
 The next module examines Bitcoin's attempt to create a different set of monetary rules.
@@ -495,7 +495,7 @@ In this book, **Bitcoin** with a capital B usually means the network, protocol, 
 
 ### The search for digital and decentralized money
 
-The growth of personal computers and the internet created new opportunities for communication. It also created new forms of surveillance and control. In the late twentieth century, a group of programmers, mathematicians, and activists known as **Cypherpunks** explored how cryptography could protect privacy and individual freedom in digital systems.
+The growth of personal computers and the internet created new opportunities for communication. It also created new forms of surveillance and control. In the late twentieth century, a group of programmers, mathematicians, and activists known as **Cypherpunks** explored how cryptography could protect [privacy](mfb-bd-lx.md#term-privacy) and individual freedom in digital systems.
 
 **Cryptography** is the use of mathematical methods to protect information and prove that an action is authentic. Encryption can keep a message private. **Digital signatures** can prove that a message or instruction came from the holder of a secret key without revealing that key.
 
@@ -831,7 +831,7 @@ A Bitcoin **address** is public receiving information for an on-chain payment. A
 
 If you want to receive an on-chain payment, where should the address come from? Open the intended wallet and use its receive screen. A sender can scan the QR code or copy the address. This avoids the mistakes that can happen when long strings are typed by hand.
 
-For every payment request, confirm the intended payment method. An on-chain address and a Lightning invoice are different. After scanning or copying, compare the destination with the trusted receiving screen before approving a payment. Why check after copying? Malicious software can replace copied address information. A new on-chain address for a new receipt can improve privacy.
+For every payment request, confirm the intended payment method. An on-chain address and a Lightning invoice are different. After scanning or copying, compare the destination with the trusted receiving screen before approving a payment. Why check after copying? Malicious software can replace copied address information. A new on-chain address for a new receipt can improve [privacy](mfb-bd-lx.md#term-privacy).
 
 When a payment matters, do not decide that an address is safe only because it looks familiar. Confirm the intended recipient, correct Bitcoin network, destination, and payment method. Use a small test first when the process or amount is unfamiliar.
 
@@ -988,7 +988,7 @@ Before comparing a path, ask:
 | --- | --- |
 | Costs | What price, spread, and service or withdrawal fees apply? |
 | Custody | Who controls the bitcoin before and after the exchange? |
-| Identity and privacy | What personal information is collected, stored, or shared? |
+| Identity and [privacy](mfb-bd-lx.md#term-privacy) | What personal information is collected, stored, or shared? |
 | Withdrawal and settlement | Can payment or withdrawal be delayed, limited, or reversed? |
 | Counterparty and safety | How can I verify the other party or service, and is an in-person exchange safe? |
 | Local context | Is the route lawful and appropriate where I live, and what records may matter? |
@@ -1119,7 +1119,7 @@ Use this comparison before adopting a tool:
 | Source | Who publishes it? Is the domain or application listing genuine? |
 | Code | Is it open source? Is it actively reviewed and maintained? |
 | Recovery | What happens if the device, service, or company disappears? |
-| Privacy | What identity, transaction, contact, or device data are collected? |
+| [Privacy](mfb-bd-lx.md#term-privacy) | What identity, transaction, contact, or device data are collected? |
 | Cost | What fees, exchange spreads, subscriptions, or hardware costs apply? |
 | Compatibility | Does it support the required wallet, network, address, or invoice? |
 | Support | Is safe local help available without sharing secrets? |
@@ -1180,7 +1180,7 @@ Bitcoin can function as money in several ways. Spending is only one of them.
 
 **Receiving:** A person accepts a gift, donation, refund, remittance, or repayment. The receiver must provide the correct payment request and verify settlement.
 
-**Sending:** A person transfers value to family, friends, a business, or an organization. They must compare payment path, speed, fee, privacy, and finality.
+**Sending:** A person transfers value to family, friends, a business, or an organization. They must compare payment path, speed, fee, [privacy](mfb-bd-lx.md#term-privacy), and finality.
 
 **Spending:** A person exchanges bitcoin for goods or services. They should identify the exchange rate, merchant policy, payment method, and local tax consequences that apply.
 
@@ -1268,7 +1268,7 @@ Local pathways may include:
 
 Compare the **complete route**, not only the first fee. A service may advertise a low purchase fee but use a poor exchange rate or charge for withdrawal. A peer-to-peer path may appear private but require time, trust, and physical safety.
 
-| Pathway | Total received | Time | Custody | Privacy | Reversal risk | Main failure point |
+| Pathway | Total received | Time | Custody | [Privacy](mfb-bd-lx.md#term-privacy) | Reversal risk | Main failure point |
 | --- | --- | --- | --- | --- | --- | --- |
 | Local option A |  |  |  |  |  |  |
 | Local option B |  |  |  |  |  |  |
@@ -1286,7 +1286,7 @@ A KYC service may request a legal name, identity document, address, photograph, 
 
 KYC also creates data risk. The service may store a permanent connection among identity, payment methods, and bitcoin transactions. A breach, legal request, internal misuse, or change in policy may expose or restrict that information.
 
-A no-KYC pathway may collect less identity information. This can improve financial privacy. It may also involve less regulated counterparties, lower liquidity, higher prices, reduced support, greater fraud risk, or legal restrictions.
+A no-KYC pathway may collect less identity information. This can improve financial [privacy](mfb-bd-lx.md#term-privacy). It may also involve less regulated counterparties, lower liquidity, higher prices, reduced support, greater fraud risk, or legal restrictions.
 
 Compare the real path:
 
@@ -1301,7 +1301,7 @@ Compare the real path:
 | What local law applies? |  |  |
 | What happens during a dispute? |  |  |
 
-Privacy is not secrecy from every risk. It is the ability to control information about yourself. Do not break local law or expose yourself to physical danger in pursuit of privacy. Seek current local guidance from a qualified person when the rules are unclear.
+[Privacy](mfb-bd-lx.md#term-privacy) is not secrecy from every risk. It is the ability to control information about yourself. Do not break local law or expose yourself to physical danger in pursuit of [privacy](mfb-bd-lx.md#term-privacy). Seek current local guidance from a qualified person when the rules are unclear.
 
 ### Circular economies
 
@@ -1393,7 +1393,7 @@ Complete this review individually, then compare your reasoning with your team or
 - Bitcoin as money is local: the useful pathway depends on community needs, infrastructure, laws, costs, tools, language, and safety conditions.
 - An educator-curated **Module 4** Connect activity should link the Problem, Solution, and Action learning to a real problem or opportunity, realistic alternative, safe practice, and evidence of learning.
 - Local workshops should use a safe sequence: observe the process, practise with support, then explain or complete a defined task without exposing secrets.
-- Before using a local tool or service, check its purpose, custody model, source, recovery process, privacy, costs, compatibility, support, and current local rules.
+- Before using a local tool or service, check its purpose, custody model, source, recovery process, [privacy](mfb-bd-lx.md#term-privacy), costs, compatibility, support, and current local rules.
 - On-chain and Lightning payments make different trade-offs in settlement, speed, fees, custody, and failure points; confirm which payment method a recipient expects.
 - Local exchange pathways, KYC choices, merchant flows, and community use cases should be compared through their full costs, custody, privacy, safety, and legal trade-offs.
 - A strong circular economy or community use case is voluntary, solves a real problem, protects participants, and does not make learners dependent on one service, organizer, or promise.
@@ -1421,7 +1421,7 @@ First, return to the answers you wrote before the course. Do not erase them. Rec
 
 - [ ] **Review and research.** Revisit your opening answers and identify what you can now explain, compare, or do about money, control, value, and trust. Check one question against a reliable source.
 - [ ] **Practise or use one skill safely.** Repeat a concrete task such as identifying custody, checking an address, reading a transaction, recognizing a scam pattern, or comparing local pathways.
-- [ ] **Prepare before taking on more risk.** Create a personal safety plan and learn more about self-custody, recovery, privacy, and inheritance before meaningful funds depend on your decisions.
+- [ ] **Prepare before taking on more risk.** Create a personal safety plan and learn more about self-custody, recovery, [privacy](mfb-bd-lx.md#term-privacy), and inheritance before meaningful funds depend on your decisions.
 - [ ] **Learn more.** Choose an advanced topic because it supports a real goal, not because online attention makes it feel urgent.
 - [ ] **Connect with a responsible community.** Look for educators who welcome questions, explain trade-offs, and never ask for secret information. You can also explore the My First Bitcoin Education Network.
 - [ ] **Explain Bitcoin to another person.** Use plain language and invite questions. A clear beginner explanation names the problem Bitcoin addresses, describes the network's basic response, and states an important trade-off or responsibility without hiding behind jargon.

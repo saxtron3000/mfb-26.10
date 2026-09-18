@@ -4,6 +4,8 @@ This lexicon lists Bitcoin and Bitcoin-adjacent terms that a beginner may need e
 
 Link a term only when it is used in a Bitcoin, economic, or computing sense and the linked definition explains that specific use. Leave ordinary English uses and incidental word matches unlinked; use the more specific entry when one exists, such as Lightning liquidity for channel capacity.
 
+For **privacy**, link only uses where the word is a noun in its own right (for example, `protect privacy` or `financial privacy`). Do not link attributive uses that modify another noun, including shared modifiers in lists (for example, `privacy risks` or `privacy and safety boundaries`).
+
 Line references are a snapshot of the current [Student Guide](mfb-bd-sg-26.10.md): **First** is the earliest matching term or listed alias; **Later** lists subsequent matching lines, including headings and regular plural forms. Longer listed phrases take precedence over terms within them. `Not present` means no matching form was found.
 
 The Educator Guide column links to the section containing the first linked use and counts linked mentions in body text and tables. Headings, existing links, and ordinary uses with a different meaning are not relinked; `No linked use` means there is no linked occurrence in those contexts.
@@ -235,6 +237,7 @@ The Educator Guide column links to the section containing the first linked use a
 | <a id="term-self-custody"></a>**Self-custody** | Control of your own Bitcoin keys rather than leaving them with a service. | First: **766**<br>Later: 768, 889, 1019, 1220, 1424, 1528 | [First linked use](mfb-bd-eg-26.10.md#the-diploma-purpose-and-your-responsibility); 9 linked mentions |
 | <a id="term-wallet-compatibility"></a>**Wallet compatibility** | The ability of a wallet, backup, address, or network to work with another system. | Not present | [First linked use](mfb-bd-eg-26.10.md#seed-phrases-and-recovery); 1 linked mention |
 | <a id="term-project-continuity"></a>**Project continuity** | The likelihood that wallet software will remain maintained and usable. | Not present | No linked use |
+| <a id="term-privacy"></a>**Privacy** | The ability to limit who can collect, see, use, or share information about you, such as your name, contact details, location, and financial activity. When using Bitcoin, this includes limiting how your identity is linked to addresses, balances, and payments. Bitcoin’s public transaction history means privacy is not automatic, and privacy does not mean that all activity is invisible. | First: **181**<br>Later: 215, 473, 498, 780, 834, 979, 991, 1122, 1183, 1271, 1289, 1304, 1396, 1398, 1424 | [First linked use](mfb-bd-eg-26.10.md#t2--bitcoin-explanation-rule-and-role-map-and-asset-comparison-c3-c4-c5); 26 linked mentions |
 | <a id="term-bitcoin-privacy"></a>**Bitcoin privacy** | Control over information about a person and their Bitcoin activity. | Not present | No linked use |
 | <a id="term-block-explorer-privacy"></a>**Block-explorer privacy** | The privacy implications of using a public tool to inspect addresses or transactions. | Not present | No linked use |
 

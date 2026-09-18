@@ -106,7 +106,7 @@ These interactions may be conducted across normal module teaching. They are not 
 
 **Meets standard:** The learner accurately explains digital copying/[double spending](mfb-bd-lx.md#term-double-spending); identifies the required Bitcoin roles and relevant properties at beginner scope; makes a qualified [sound-money](mfb-bd-lx.md#term-sound-money) judgement with a limit or trade-off; and makes a non-promotional comparison using relevant criteria.
 
-**Not yet:** The learner materially confuses roles, claims Bitcoin guarantees [price](mfb-bd-lx.md#term-price), privacy, or universal acceptance, presents another [asset](mfb-bd-lx.md#term-asset) as identical without comparison, or cannot distinguish education from speculation/promotion.
+**Not yet:** The learner materially confuses roles, claims Bitcoin guarantees [price](mfb-bd-lx.md#term-price), [privacy](mfb-bd-lx.md#term-privacy), or universal acceptance, presents another [asset](mfb-bd-lx.md#term-asset) as identical without comparison, or cannot distinguish education from speculation/promotion.
 
 **Low-tech/equivalent route:** Use a printed role-and-arrow map and comparison cards. The learner may point, arrange, sign, dictate, or explain through an approved communication aid.
 
@@ -134,7 +134,7 @@ These interactions may be conducted across normal module teaching. They are not 
 4. Complete the supported first-access pathway and receive bitcoin or a safe simulated receipt.
 5. Check the resulting wallet or transaction information and state one safety boundary.
 
-**Meets standard:** Completes all five steps in the approved sequence, makes the required checks, protects secrets and privacy, and gives an accurate brief explanation of the check made.
+**Meets standard:** Completes all five steps in the approved sequence, makes the required checks, protects secrets and [privacy](mfb-bd-lx.md#term-privacy), and gives an accurate brief explanation of the check made.
 
 **Permitted support:** Read the task, point to the prepared workspace, repeat a safety instruction, or reset a training environment. Do not indicate which payment detail is correct or complete a required step.
 
@@ -230,7 +230,7 @@ The Educator Guide is a practical teaching companion. It should help you:
 - select a meaningful Bitcoin in Your Community experience;
 - use competency-aligned evidence to support learning;
 - assess practical competency consistently and provide practical reassessment;
-- protect learner privacy, autonomy, and safety; and
+- protect learner [privacy](mfb-bd-lx.md#term-privacy), autonomy, and safety; and
 - connect learners with suitable next steps.
 
 This guide and the Diploma are educational resources. They do not provide financial, investment, legal, tax, accounting, compliance, or trading advice, and they should not be used to make individual decisions.
@@ -682,7 +682,7 @@ Write a claim where everyone can see it. Ask teams to complete:
 - **Trade-off:** Which cost, limitation, or alternative must be included?
 - **Uncertainty:** What is unknown, changing, or locally dependent?
 
-This pattern works for claims about [inflation](mfb-bd-lx.md#term-inflation), [decentralization](mfb-bd-lx.md#term-decentralization), energy, payment speed, privacy, adoption, [CBDCs](mfb-bd-lx.md#term-cbdc), and local tools.
+This pattern works for claims about [inflation](mfb-bd-lx.md#term-inflation), [decentralization](mfb-bd-lx.md#term-decentralization), energy, payment speed, [privacy](mfb-bd-lx.md#term-privacy), adoption, [CBDCs](mfb-bd-lx.md#term-cbdc), and local tools.
 
 ### Scenario analysis
 
@@ -1180,7 +1180,7 @@ Ask each learner to complete:
 
 > Money can break or become less useful when ________, because ________. One example is ________. The relevant trade-off is ________.
 
-Summarize that people may seek different monetary arrangements when they want different trade-offs around supply, access, control, settlement, privacy, and trust.
+Summarize that people may seek different monetary arrangements when they want different trade-offs around supply, access, control, settlement, [privacy](mfb-bd-lx.md#term-privacy), and trust.
 
 Bridge:
 
@@ -1257,7 +1257,7 @@ Clarify that the problem is not copying a picture of a coin. It is deciding whic
 
 ### Earlier digital-money context
 
-Keep [DigiCash](mfb-bd-lx.md#digicash), [Hashcash](mfb-bd-lx.md#hashcash), [Bit Gold](mfb-bd-lx.md#bit-gold), [B-money](mfb-bd-lx.md#b-money), [reusable proof of work](mfb-bd-lx.md#reusable-proof-of-work), and peer-to-peer systems brief. Their role is to show that Bitcoin emerged from earlier work on privacy, digital cash, costly computation, distributed networks, and [scarcity](mfb-bd-lx.md#term-scarcity).
+Keep [DigiCash](mfb-bd-lx.md#digicash), [Hashcash](mfb-bd-lx.md#hashcash), [Bit Gold](mfb-bd-lx.md#bit-gold), [B-money](mfb-bd-lx.md#b-money), [reusable proof of work](mfb-bd-lx.md#reusable-proof-of-work), and peer-to-peer systems brief. Their role is to show that Bitcoin emerged from earlier work on [privacy](mfb-bd-lx.md#term-privacy), digital cash, costly computation, distributed networks, and [scarcity](mfb-bd-lx.md#term-scarcity).
 
 Do not imply that every predecessor contributed code directly to Bitcoin. Do not turn **Module 2** into a technical timeline quiz.
 
@@ -1637,7 +1637,7 @@ When comparing wallets, use consistent criteria:
 - [custody](mfb-bd-lx.md#term-custody);
 - verified source and open-source status;
 - recovery and compatibility;
-- privacy and server dependence;
+- [privacy](mfb-bd-lx.md#term-privacy) and server dependence;
 - supported payment types;
 - continuity and maintenance;
 - cost and device fit; and
@@ -1687,7 +1687,7 @@ Debrief that “public on the protocol” does not mean “safe to associate wit
 
 ### Address history and reuse lookup
 
-This activity makes public-ledger privacy visible.
+This activity makes public-ledger [privacy](mfb-bd-lx.md#term-privacy) visible.
 
 **Purpose:** Show that address activity may be visible and that repeated address use can make transactions easier to link.
 
@@ -1703,7 +1703,7 @@ This activity makes public-ledger privacy visible.
 4. Ask whether the address appears to have received more than once.
 5. Discuss what an observer can infer and what they cannot know with certainty.
 6. Show that many wallets generate a fresh receiving address.
-7. Explain that old addresses may remain valid, but fresh addresses improve privacy by reducing easy linkage.
+7. Explain that old addresses may remain valid, but fresh addresses improve [privacy](mfb-bd-lx.md#term-privacy) by reducing easy linkage.
 
 **Debrief:**
 
@@ -1754,7 +1754,7 @@ Teach the consequences:
 
 #### Activity: recovery-readiness simulation
 
-**Presentation:** Show a complete recovery check using fake words or a disposable empty training wallet. Explain compatibility, privacy, expected result, and reset.
+**Presentation:** Show a complete recovery check using fake words or a disposable empty training wallet. Explain compatibility, [privacy](mfb-bd-lx.md#term-privacy), expected result, and reset.
 
 **Practice:** Learners sequence prepared cards or restore a disposable training wallet in a private, controlled environment. They must keep the material out of view and identify unsafe requests.
 
@@ -1998,7 +1998,7 @@ Use stations after learners have seen each process.
 | 3. Receive | Generate or locate a prepared request and identify its payment path | Share only receiving information |
 | 4. Send | Verify recipient, network, destination, amount, unit, fee, and final summary | Stop on any mismatch |
 | 5. Recovery | Sequence or perform a prepared recovery-readiness task | Work privately; no real funded seed |
-| 6. Explorer | Read prepared transaction status and public data | Recognize explorer privacy and limits |
+| 6. Explorer | Read prepared transaction status and public data | Recognize explorer [privacy](mfb-bd-lx.md#term-privacy) and limits |
 | 7. Scam | Respond to an urgent support or address-change request | Pause and verify independently |
 | 8. Pathway | Compare two local acquisition or payment paths | No endorsement or advice |
 
@@ -2009,7 +2009,7 @@ Do not use the stations as formal assessment unless the exact tasks, variants, c
 | Misconception | Beginner-safe correction | Check question |
 | --- | --- | --- |
 | Bitcoin is stored in the wallet app. | Bitcoin is recorded on the shared [ledger](mfb-bd-lx.md#term-ledger); the wallet manages keys and transaction information. | What would remain if the phone broke? |
-| An address is a secret password. | An address is public receiving information, though linking it to identity can reduce privacy. | Which information authorizes spending? |
+| An address is a secret password. | An address is public receiving information, though linking it to identity can reduce [privacy](mfb-bd-lx.md#term-privacy). | Which information authorizes spending? |
 | Any QR code is safe because the wallet scans it. | A QR code can encode the wrong destination or request. Verify recipient, payment path, amount, and final screen. | What would you compare after scanning? |
 | Sharing an address lets someone spend. | Spending normally requires the [private key](mfb-bd-lx.md#term-private-key). Sharing an address can still expose transaction relationships. | What privacy risk remains? |
 | A [seed phrase](mfb-bd-lx.md#term-seed-phrase) is an ordinary password. | For many wallets it is full recovery access. Anyone with it may recreate the keys. | Would legitimate support ever need it? |
@@ -2219,7 +2219,7 @@ Do not deliver a live module until every required answer is satisfactory.
 | Is the need real and relevant? | The educator can describe the local problem without relying on a product pitch. | Select a better need or use a comparative scenario. |
 | Is the competency clear? | The task maps to concepts from **Modules 1–3** and an approved `C11` variant, including `C11.1` and `C11.2`. | Do not use it for certification. |
 | Is the educator competent? | The educator can demonstrate, troubleshoot safely, and explain limitations. | Use a qualified expert, simulation, or different module. |
-| Is the tool verified? | Source, [custody](mfb-bd-lx.md#term-custody), recovery, fees, privacy, compatibility, and failure behavior were checked recently. | Use printed screens or remove the tool. |
+| Is the tool verified? | Source, [custody](mfb-bd-lx.md#term-custody), recovery, fees, [privacy](mfb-bd-lx.md#term-privacy), compatibility, and failure behavior were checked recently. | Use printed screens or remove the tool. |
 | Are local rules understood? | Relevant claims are supported by authoritative current guidance. | State uncertainty and avoid live action requiring that guidance. |
 | Is practice low-risk? | No real secrets are exposed and loss, privacy, or physical risk is controlled. | Use no funds, a simulation, or a prepared environment. |
 | Is access equitable? | Learners can participate despite device, language, disability, or connectivity constraints. | Prepare an equivalent accessible pathway. |
@@ -2259,9 +2259,9 @@ Complete this before delivery.
 | ---: | --- | --- |
 | 0–12 min | Local need | Present the problem and current path; invite learner experience without requiring disclosure. |
 | 12–28 min | Connect the learning | Identify the **Module 1** problem, **Module 2** response, **Module 3** safe action, money function, [custody](mfb-bd-lx.md#term-custody), payment rail, and realistic existing alternative. |
-| 28–48 min | Complete demonstration | Show both success and failure paths; explain costs, privacy, recovery, and stop conditions. |
+| 28–48 min | Complete demonstration | Show both success and failure paths; explain costs, [privacy](mfb-bd-lx.md#term-privacy), recovery, and stop conditions. |
 | 48–70 min | Supported practice | Learners rehearse in pairs or stations with educator feedback. |
-| 70–90 min | Comparison and local trade-offs | Compare the Bitcoin path with the current alternative through total received, time, fees, [custody](mfb-bd-lx.md#term-custody), privacy, reversibility, and failure. |
+| 70–90 min | Comparison and local trade-offs | Compare the Bitcoin path with the current alternative through total received, time, fees, [custody](mfb-bd-lx.md#term-custody), [privacy](mfb-bd-lx.md#term-privacy), reversibility, and failure. |
 | 90–110 min | Production or assessment | Observe the approved individual or team task while preserving identifiable evidence. |
 | 110–118 min | Explanation and peer question | Learner explains purpose, benefit, risk, failure point, and next step. |
 | 118–120 min | Course bridge | Prepare the final reflection and any reassessment. |
@@ -2279,7 +2279,7 @@ Do not demonstrate a tool simply because it is popular locally. Use this compari
 | Source | Who publishes it, and how was the genuine source verified? |
 | Code and maintenance | Is it open source, reviewed, maintained, and updated safely? |
 | Recovery | What happens when the device, service, or company disappears? |
-| Privacy | Which identity, contact, device, location, and transaction data are collected? |
+| [Privacy](mfb-bd-lx.md#term-privacy) | Which identity, contact, device, location, and transaction data are collected? |
 | Cost | Which visible fees, spreads, subscriptions, funding costs, and withdrawal costs apply? |
 | Compatibility | Which networks, [address types](mfb-bd-lx.md#term-address-type), invoices, backups, and devices work? |
 | Support | Can learners obtain help without sharing secrets? |
@@ -2321,7 +2321,7 @@ A successful small Lightning payment shows that the selected path worked once. I
 | Time and settlement expectation |  |  |  |
 | Fees and spread |  |  |  |
 | [Custody](mfb-bd-lx.md#term-custody) at each stage |  |  |  |
-| Identity and privacy |  |  |  |
+| Identity and [privacy](mfb-bd-lx.md#term-privacy) |  |  |  |
 | Reversal or refund |  |  |  |
 | Main failure point |  |  |  |
 | Local support or law |  |  |  |
@@ -2409,7 +2409,7 @@ Learners decide:
 - how a mistaken or fraudulent request is handled; and
 - what happens if the [custodian](mfb-bd-lx.md#term-custodian), device, or service fails.
 
-**Production:** Demonstrate a verified sample donation request and explain [custody](mfb-bd-lx.md#term-custody), transparency, privacy, and the main failure point.
+**Production:** Demonstrate a verified sample donation request and explain [custody](mfb-bd-lx.md#term-custody), transparency, [privacy](mfb-bd-lx.md#term-privacy), and the main failure point.
 
 **Safety:** Do not collect real donations during an assessment unless an approved organizational process, consent, records, and legal review already exist. A simulation usually serves the learning competency better.
 
@@ -2471,7 +2471,7 @@ If one person or group controls bitcoin for others, they are acting as a [custod
 - separation of duties;
 - backup and succession;
 - records and transparency;
-- privacy and access control;
+- [privacy](mfb-bd-lx.md#term-privacy) and access control;
 - dispute and loss handling;
 - legal status; and
 - concentration of trust.
@@ -2520,7 +2520,7 @@ The selected approved task must let the educator observe the `C11` competency cr
 - identify the local purpose;
 - complete the required action or simulation in the correct sequence;
 - verify the relevant recipient, address, invoice, amount, unit, fee, status, or resource;
-- preserve privacy and secrets;
+- preserve [privacy](mfb-bd-lx.md#term-privacy) and secrets;
 - respond safely to a failure or changed condition;
 - explain [custody](mfb-bd-lx.md#term-custody) and control;
 - compare the Bitcoin path with a realistic alternative;
@@ -2657,7 +2657,7 @@ Pay particular attention to:
 - address, invoice, and payment request;
 - [confirmation](mfb-bd-lx.md#term-confirmation) and finality;
 - on-chain and Lightning;
-- privacy and anonymity;
+- [privacy](mfb-bd-lx.md#term-privacy) and anonymity;
 - [KYC](mfb-bd-lx.md#term-kyc) and [no-KYC](mfb-bd-lx.md#term-no-kyc); and
 - trade-off, risk, and uncertainty.
 
@@ -2866,7 +2866,7 @@ Educator-useful visual areas include:
 - fiat issue / Bitcoin response / responsibility;
 - wallet, key, address, and seed relationships;
 - safe recovery and transaction checks;
-- [confirmations](mfb-bd-lx.md#term-confirmation), explorer privacy, and address reuse;
+- [confirmations](mfb-bd-lx.md#term-confirmation), explorer [privacy](mfb-bd-lx.md#term-privacy), and address reuse;
 - scam red flags;
 - on-chain and Lightning comparison;
 - Presentation → Practice → Production;
@@ -3070,7 +3070,7 @@ Use the [Lexicon](mfb-bd-lx.md) for full definitions. Keep these distinctions co
 | On-chain / Lightning | The distinction is payment path, not [custody](mfb-bd-lx.md#term-custody). |
 | Explorer / [node](mfb-bd-lx.md#term-node) | An explorer is a third-party interface; a [node](mfb-bd-lx.md#term-node) verifies rules independently. |
 | [Confirmation](mfb-bd-lx.md#term-confirmation) / correct payment | A [confirmation](mfb-bd-lx.md#term-confirmation) strengthens settlement history; it does not correct the recipient or validate the purpose. |
-| Privacy / secrecy | Privacy is control over information; it does not mean an activity has no public data or legal obligations. |
+| [Privacy](mfb-bd-lx.md#term-privacy) / secrecy | [Privacy](mfb-bd-lx.md#term-privacy) is control over information; it does not mean an activity has no public data or legal obligations. |
 | [KYC](mfb-bd-lx.md#term-kyc) / [no-KYC](mfb-bd-lx.md#term-no-kyc) | These paths collect different identity information and create different support, privacy, counterparty, fraud, and legal trade-offs. Use **[no-KYC](mfb-bd-lx.md#term-no-kyc)** throughout. |
 | Local example / recommendation | A checked local example supports learning; it is not a universal endorsement. |
 
@@ -3118,7 +3118,7 @@ Use the [Lexicon](mfb-bd-lx.md) for full definitions. Keep these distinctions co
 - [ ] I completed the operational assessment protocol capacity check for this cohort and selected a local `P11` variant.
 - [ ] Learners will receive supported practice before formal observation.
 - [ ] Observable criteria, permitted support, and safety failures are clear.
-- [ ] Evidence records protect privacy and distinguish assessment components.
+- [ ] Evidence records protect [privacy](mfb-bd-lx.md#term-privacy) and distinguish assessment components.
 - [ ] Educator calibration and moderation routes are prepared.
 - [ ] The certificate will not be issued before both components are complete.
 
@@ -3259,7 +3259,7 @@ This model commonly needs extra practical assessment time.
 | 3 | Digital-money problem, Bitcoin purpose, roles, and [decentralization](mfb-bd-lx.md#term-decentralization) |
 | 4 | [Proof of work](mfb-bd-lx.md#term-proof-of-work), supply, [sats](mfb-bd-lx.md#term-sat), [sound-money](mfb-bd-lx.md#term-sound-money) comparison, scope, and review |
 | 5 | Wallets, addresses, keys, [seed phrases](mfb-bd-lx.md#term-seed-phrase), [custody](mfb-bd-lx.md#term-custody), and recovery practice |
-| 6 | Receiving, sending, [confirmations](mfb-bd-lx.md#term-confirmation), explorers, privacy, scams, pathways, and practical assessment |
+| 6 | Receiving, sending, [confirmations](mfb-bd-lx.md#term-confirmation), explorers, [privacy](mfb-bd-lx.md#term-privacy), scams, pathways, and practical assessment |
 | 7 | Local need, tool/path comparison, presentation, and supported **Module 4** practice |
 | 8 | **Module 4** production, assessment, final reflection, remediation, and next steps |
 
