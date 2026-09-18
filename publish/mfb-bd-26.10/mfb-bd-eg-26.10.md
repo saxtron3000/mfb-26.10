@@ -622,7 +622,7 @@ Prepare according to the cohort and selected tasks:
 - paper, pens, cards, counters, sticky notes, or a board;
 - printed key tables, diagrams, and activity instructions;
 - prepared wallet screens or empty training wallets;
-- sample addresses, invoices, TXIDs, and explorer screenshots;
+- sample addresses, invoices, *txid*s, and explorer screenshots;
 - a visible **SAMPLE — DO NOT PAY** label for fictional payment information;
 - assessment criteria and private evidence records;
 - a timer and session plan;
@@ -1573,7 +1573,7 @@ Use smaller stations or additional approved assessors within the scheduled cours
 - Select the exact prepared wallet, simulation, test environment, or printed sequence.
 - Verify the tool's source, version, network, custody model, recovery process, and reset process.
 - Decide whether learners will use no funds, simulated funds, testnet, or an approved low-stakes amount.
-- Prepare sample on-chain addresses, Lightning invoices, TXIDs, QR codes, and screenshots marked **SAMPLE — DO NOT PAY**.
+- Prepare sample on-chain addresses, Lightning invoices, *txid*s, QR codes, and screenshots marked **SAMPLE — DO NOT PAY**.
 - Prepare public/secret sorting cards.
 - Prepare a deliberately public address or historical transaction for the address-history activity. Never use learner-linked data.
 - Prepare a fake seed phrase or disposable empty training wallet for recovery practice.
@@ -1669,7 +1669,7 @@ Prepare cards for:
 - on-chain address;
 - address QR code;
 - Lightning invoice;
-- TXID;
+- *txid*;
 - public key;
 - private key;
 - seed phrase;
@@ -1683,7 +1683,7 @@ Learners sort them into:
 - secret spending or access information; and
 - context-dependent information that may be public technically but private personally.
 
-Debrief that “public on the protocol” does not mean “safe to associate with a person's identity.” A TXID or address can reveal activity and relationships.
+Debrief that “public on the protocol” does not mean “safe to associate with a person's identity.” A *txid* or address can reveal activity and relationships.
 
 ### Address history and reuse lookup
 
@@ -1880,7 +1880,7 @@ There is no one confirmation count suitable for every value and risk. Teach the 
 
 A block explorer is an interface to public Bitcoin information, not an authority over Bitcoin's rules.
 
-Using a prepared TXID, show:
+Using a prepared *txid*, show:
 
 - transaction status;
 - inputs and outputs at beginner depth;

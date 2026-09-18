@@ -154,7 +154,7 @@ To receive a certificate, you must meet the approved Diploma requirements. Atten
 
 No prior knowledge is required. The course introduces each required term before using it in greater depth.
 
-Basic reading and everyday arithmetic are useful. The most important calculation is that one bitcoin can be divided into 100,000,000 smaller units called satoshis. A calculator may help, but advanced mathematics is not required.
+Basic reading and everyday arithmetic are useful. The most important calculation is that one bitcoin (BTC) can be divided into 100,000,000 smaller units called satoshis (sats). **BTC** is the common abbreviation used for amounts of bitcoin. A calculator may help, but advanced mathematics is not required.
 
 If you already use Bitcoin, support your educator, share your experience, and explain ideas to peers in plain language. Teaching others is one way to consolidate your own learning. If you enjoy supporting learners, contribute feedback or local community support, and explore the [Educator Training Program (ETP)](https://programs.myfirstbitcoin.org/programs/educator-training-program/) to develop teaching practice.
 
@@ -329,20 +329,19 @@ Scarcity alone does not guarantee value. An item may be rare and still have no d
 Money did not develop in one identical sequence everywhere. Different societies used different goods, records, and institutions. However, a broad pattern helps explain modern money.
 
 > “Money … is by no means the result of an agreement … but is the unintended product of historical development.”
->
 > — Carl Menger, “On the Origin of Money” (1892)
 
-**Direct exchange and local records:** People used barter, gifts, obligations, and written or remembered debts. These systems depended strongly on local relationships.
+- **Direct exchange and local records:** People used barter, gifts, obligations, and written or remembered debts. These systems depended strongly on local relationships.
 
-**Commodity money:** Communities selected goods that were widely valued and easier to trade. Salt, beads, shells, livestock, copper, silver, and [gold](mfb-bd-lx.md#gold) have served monetary roles in different places. A commodity has a use or value beyond an issuer's promise.
+- **Commodity money:** Communities selected goods that were widely valued and easier to trade. Salt, beads, shells, livestock, copper, silver, and [gold](mfb-bd-lx.md#gold) have served monetary roles in different places. A commodity has a use or value beyond an issuer's promise.
 
-**Standard coins:** Authorities measured and stamped metal into standard units. Coins improved recognition and accounting. Authorities could also reduce the precious-metal content of these coins while keeping the same stated value. This is called debasement.
+- **Standard coins:** Authorities measured and stamped metal into standard units. Coins improved recognition and accounting. Authorities could also reduce the precious-metal content of these coins while keeping the same stated value. This is called debasement.
 
-**Representative paper:** Transporting and protecting metal was difficult. Depositories and banks issued paper claims that could be redeemed for a stated amount of metal. The paper was easier to move, but users had to trust the issuer to keep enough metal and honor redemption. Under different versions of a **gold standard**, a currency unit was legally connected to a stated amount of [gold](mfb-bd-lx.md#gold). The rules varied by place and period, and governments or banks sometimes suspended or ended convertibility.
+- **Representative paper:** Transporting and protecting metal was difficult. Depositories and banks issued paper claims that could be redeemed for a stated amount of metal. The paper was easier to move, but users had to trust the issuer to keep enough metal and honor redemption. Under different versions of a **gold standard**, a currency unit was legally connected to a stated amount of [gold](mfb-bd-lx.md#gold). The rules varied by place and period, and governments or banks sometimes suspended or ended convertibility.
 
-**Bank and government money:** Banks issued more claims and credit. Governments created central banks and national currency systems. Money became increasingly based on institutional records and promises rather than direct possession of a commodity by the population. In many countries, national currency later became no longer redeemable for a physical asset such as [gold](mfb-bd-lx.md#gold). This separation from commodity backing is a defining feature of today’s **fiat money** (see below).
+- **Bank and government money:** Banks issued more claims and credit. Governments created central banks and national currency systems. Money became increasingly based on institutional records and promises rather than direct possession of a commodity by the population. In many countries, national currency later became no longer redeemable for a physical asset such as [gold](mfb-bd-lx.md#gold). This separation from commodity backing is a defining feature of today’s **fiat money** (see below).
 
-**Digital money:** Much of today's money moves as digital records through banks and payment services. A card or phone does not create a new kind of money by itself. It is usually an interface to a bank deposit or another claim denominated in the national currency.
+- **Digital money:** Much of today's money moves as digital records through banks and payment services. A card or phone does not create a new kind of money by itself. It is usually an interface to a bank deposit or another claim denominated in the national currency.
 
 This history shows repeated trade-offs. Convenience increased, but users often became more dependent on monetary policy, issuers, banks, and payment intermediaries.
 
@@ -412,7 +411,9 @@ Then compare your item with an official inflation measure. Which goods and servi
 
 ### Why the US dollar is a world reserve currency
 
-A **reserve currency** is a currency that central banks and governments hold and use for international payments. Before the First World War, the British pound played this role most strongly. The war weakened European currencies and financial centres, while the United States supplied goods and accumulated [gold](mfb-bd-lx.md#gold). This increased international use of the dollar. After the Second World War, the United States had a large economy and much of its financial capacity intact. The 1944 Bretton Woods Agreement then organized a postwar system in which many currencies were linked to the dollar and the dollar was officially linked to [gold](mfb-bd-lx.md#gold), placing the dollar at the centre of international payments.
+A **reserve currency** is a currency that central banks and governments hold and use for international payments. Before the First World War, the British pound played this role most strongly. The war weakened European currencies and financial centres, while the United States supplied goods and accumulated [gold](mfb-bd-lx.md#gold). This increased international use of the dollar.
+
+After the Second World War, the United States had a large economy and much of its financial capacity intact. The 1944 Bretton Woods Agreement then organized a postwar system in which many currencies were linked to the dollar and the dollar was officially linked to [gold](mfb-bd-lx.md#gold), placing the dollar at the centre of international payments.
 
 In 1971, President Nixon ended the official exchange of dollars for [gold](mfb-bd-lx.md#gold) by foreign governments and central banks, helping bring the Bretton Woods system to an end. The dollar nevertheless remained widely used because of its established role in trade and finance, the size of the U.S. economy, and the depth of U.S. financial markets. It remains the leading reserve currency today, although central banks also hold other currencies and its share can change over time.
 
@@ -490,7 +491,7 @@ Bitcoin was created to solve this problem with a peer-to-peer network. Its desig
 
 Bitcoin does not remove trust from every part of life. It reduces the need to trust a central authority for the issuance and settlement of its native money.
 
-In this book, **Bitcoin** with a capital B usually means the network, protocol, or wider system. **bitcoin** with a lowercase b means the monetary unit or asset. A wallet or exchange is a service that may connect to Bitcoin; it is not the Bitcoin network itself.
+In this book, **Bitcoin** with a capital B usually means the network, protocol, or wider system. And **bitcoin** with a lowercase b means the monetary unit or asset. **BTC** is the common abbreviation for an amount of bitcoin, especially when writing prices or specific quantities. A wallet or exchange is a service that may connect to Bitcoin; it is not the Bitcoin network itself.
 
 ### The search for digital and decentralized money
 
@@ -508,21 +509,21 @@ Bitcoin was built upon decades of work by many people. Its design joined earlier
 
 Bitcoin was not the first attempt at digital money. It was built on four decades of experimentation, drawing on ideas from many earlier projects that helped shape its successful design.
 
-**DigiCash** used cryptography to support private digital payments. It depended on a central company and banking relationships. When the company failed, the system could not continue as an independent money network.
+- [**DigiCash**](mfb-bd-lx.md#digicash) used cryptography to support private digital payments. It depended on a central company and banking relationships. When the company failed, the system could not continue as an independent money network.
 
-**Hashcash** used proof of work to make unwanted email costly. A sender's computer had to perform work before sending a message. The idea showed how computational cost could discourage abuse.
+- [**Hashcash**](mfb-bd-lx.md#hashcash) used proof of work to make unwanted email costly. A sender's computer had to perform work before sending a message. The idea showed how computational cost could discourage abuse.
 
-**Bit Gold** described a proposed system in which computational work could create scarce digital records. It was not launched as a complete decentralized money system, but it developed important ideas about digital scarcity and proof.
+- [**Bit Gold**](mfb-bd-lx.md#bit-gold) described a proposed system in which computational work could create scarce digital records. It was not launched as a complete decentralized money system, but it developed important ideas about digital scarcity and proof.
 
-**B-money** and **reusable proof of work** explored ways for participants to create or transfer scarce digital value without relying only on one central database. They were incomplete, but they helped clarify what a working system would need.
+- [**B-money**](mfb-bd-lx.md#b-money) and [**reusable proof of work (RPoW)**](mfb-bd-lx.md#reusable-proof-of-work) explored ways for participants to create or transfer scarce digital value without relying only on one central database. They were incomplete, but they helped clarify what a working system would need.
 
-**BitTorrent** was not money. It showed that a peer-to-peer network could let many independent computers share information without one central server controlling the whole system.
+- [**BitTorrent**](mfb-bd-lx.md#bittorrent) was not money. It showed that a peer-to-peer network could let many independent computers share information without one central server controlling the whole system.
 
 Together, these experiments showed useful pieces of the puzzle. They also clarified the remaining problem.
 
 The central problem was **double spending**. A paper note cannot be given to two people at the same time. However, digital data can be copied perfectly. A dishonest user could try to send the same digital unit to two recipients.
 
-Centralized systems prevent this by letting one trusted database decide which payment came first. On 31 October 2008, Satoshi Nakamoto's whitepaper, *Bitcoin: A Peer-to-Peer Electronic Cash System*, explained a different approach: a public system that could establish a shared payment history without a bank, company, or other central authority.
+Centralized systems prevent this by letting one trusted database decide which payment came first. On 31 October 2008, Satoshi Nakamoto's whitepaper, [*Bitcoin: A Peer-to-Peer Electronic Cash System*](https://bitcoin.org/bitcoin.pdf), explained a different approach: a public system that could establish a shared payment history without a bank, company, or other central authority.
 
 The whitepaper brought together the features needed for that approach:
 
@@ -592,13 +593,13 @@ Peer-to-peer transfer can be useful when people are in different places or use d
 
 Bitcoin works because different participants perform different roles.
 
-**Users** receive, hold, and send bitcoin. A user may control their own keys held in a wallet or use a custodian. Users give the network economic meaning by choosing whether to accept bitcoin and which rules or services they trust.
+- **Users** receive, hold, and send bitcoin. A user may control their own keys held in a wallet or use a custodian. Users give the network economic meaning by choosing whether to accept bitcoin and which rules or services they trust.
 
-**Nodes** run Bitcoin software and independently verify the rules. A full node checks that transactions have valid signatures, that bitcoin have not already been spent, that blocks satisfy proof of work, and that new bitcoin follow the issuance schedule. Nodes share valid data with peers and reject invalid data.
+- **Nodes** run Bitcoin software and independently verify the rules. A full node checks that transactions have valid signatures, that bitcoin have not already been spent, that blocks satisfy proof of work, and that new bitcoin follow the issuance schedule. Nodes share valid data with peers and reject invalid data.
 
-**Miners** gather pending transactions, build candidate blocks, and compete through proof of work. A successful miner broadcasts a block and may receive the allowed block subsidy and transaction fees. Miners help order transactions and make the ledger costly to rewrite.
+- **Miners** gather pending transactions, build candidate blocks, and compete through proof of work. A successful miner broadcasts a block and may receive the allowed block subsidy and transaction fees. Miners help order transactions and make the ledger costly to rewrite.
 
-**Developers** review, write, and propose software changes. They do not own Bitcoin's rules. A software change matters only if participants choose to run software that follows those rules.
+- **Developers** review, write, and propose software changes. They do not own Bitcoin's rules. A software change matters only if participants choose to run software that follows those rules.
 
 These roles limit one another:
 
@@ -615,7 +616,7 @@ Some people perform several roles. A miner can run a node and also be a user. A 
 
 **Proof of work** is the process miners use to compete for the right to propose the next block.
 
-A miner repeatedly changes data in a candidate block and passes it through a mathematical hash function. The result is unpredictable. The miner is searching for a result below a target set by the network's difficulty rule. There is no shortcut; miners must perform many attempts.
+A miner changes a small piece of data in a proposed block and runs it through a mathematical hash function, which produces a seemingly random result. The miner keeps trying until the result is below a target set by the network's difficulty rule. There is no shortcut, so miners may need to make many attempts.
 
 When a miner finds a valid result, it broadcasts the block. Nodes can check the proof quickly, even though finding it required significant computation and energy. If the block includes a transaction, that transaction receives its first **confirmation**. Each valid block added after it adds another confirmation, making the transaction's place in the blockchain more costly to rewrite. This difference is important: work is costly to produce and easy to verify.
 
@@ -632,18 +633,18 @@ Proof of work involves a real energy cost. Supporters argue that this cost is wh
 
 ### Finite supply
 
-Bitcoin's rules define a predictable issuance schedule and a maximum supply of 21 million bitcoin. New bitcoin enter circulation through the block subsidy paid to miners who produce valid blocks.
+Bitcoin's rules define a predictable issuance schedule and a maximum supply of 21 million bitcoin (21,000,000 BTC). New bitcoin enter circulation through the block subsidy paid to miners who produce valid blocks.
 
 Every 210,000 blocks, the subsidy is cut in half. This event is called a **halving**. Because blocks are produced approximately every ten minutes on average, a halving occurs roughly every four years. The exact calendar date is not fixed.
 
 | Halving year | Block height | Subsidy after halving |
 | --- | ---: | ---: |
-| 2012 | 210,000 | 25 bitcoin |
-| 2016 | 420,000 | 12.5 bitcoin |
-| 2020 | 630,000 | 6.25 bitcoin |
-| 2024 | 840,000 | 3.125 bitcoin |
+| 2012 | 210,000 | 25 BTC |
+| 2016 | 420,000 | 12.5 BTC |
+| 2020 | 630,000 | 6.25 BTC |
+| 2024 | 840,000 | 3.125 BTC |
 
-The subsidy began at 50 bitcoin per block. It falls by half in repeated steps until it becomes too small to continue. Miners also receive transaction fees. Over time, fees are expected to become a more important part of miner revenue.
+The subsidy began at 50 BTC per block. It falls by half in repeated steps until it becomes too small to continue. Miners also receive transaction fees. Over time, fees are expected to become a more important part of miner revenue.
 
 The 21 million limit is enforced by nodes. If a miner creates more bitcoin than the rules allow, validating nodes reject the block. A software developer can write different code, but cannot force other people to run it.
 
@@ -657,23 +658,23 @@ Finite supply does not guarantee a rising market price. Price depends on demand 
 
 ### Satoshis and unit bias
 
-One bitcoin can be divided into **100,000,000 satoshis**. A satoshi, often shortened to **sat**, is the smallest unit recorded on Bitcoin's base layer.
+One bitcoin (1 BTC) can be divided into **100,000,000 satoshis**. A satoshi, often shortened to **sat**, is the smallest unit recorded on Bitcoin's base layer.
 
 | Unit | Amount |
 | --- | ---: |
-| 1 bitcoin | 100,000,000 sats |
-| 0.1 bitcoin | 10,000,000 sats |
-| 0.01 bitcoin | 1,000,000 sats |
-| 0.001 bitcoin | 100,000 sats |
-| 0.00000001 bitcoin | 1 sat |
+| 1 BTC | 100,000,000 sats |
+| 0.1 BTC | 10,000,000 sats |
+| 0.01 BTC | 1,000,000 sats |
+| 0.001 BTC | 100,000 sats |
+| 0.00000001 BTC | 1 sat |
 
 **You do not need to buy or use a whole bitcoin.** Bitcoin software can display an amount in bitcoin or sats. Many people use sats for everyday amounts because whole numbers are easier to read.
 
-**Unit bias** is the mistaken feeling that a lower price per whole unit makes an asset cheaper or more accessible. The number of units is a design choice. Owning 100,000 sats and owning 0.001 bitcoin describe the same amount.
+**Unit bias** is the mistaken feeling that a lower price per whole unit makes an asset cheaper or more accessible. The number of units is a design choice. Owning 100,000 sats and owning 0.001 BTC describe the same amount.
 
 When comparing prices, focus on the share of the total supply, the amount of value involved, and the risks. Do not assume that an asset with many cheap-looking units offers better value than an asset divided into smaller units.
 
-**Show your understanding:** How many sats are in 0.01 bitcoin? Why does the price of one whole bitcoin not prevent a person from using a smaller amount?
+**Show your understanding:** How many sats are in 0.01 BTC? Why does the price of one whole bitcoin not prevent a person from using a smaller amount?
 
 ### Bitcoin as sound digital money
 
@@ -685,7 +686,7 @@ Bitcoin combines properties that did not previously exist together in one asset:
 | --- | --- |
 | Durability | The ledger is copied across many nodes. Access depends on preserving valid keys. |
 | Portability | A signed transaction can transfer value through a communications network. |
-| Divisibility | One bitcoin divides into 100,000,000 sats. |
+| Divisibility | One bitcoin (1 BTC) divides into 100,000,000 sats. |
 | Fungibility | Equal amounts are spendable under the same protocol rules, although public transaction history can affect how some services treat particular funds. |
 | Scarcity | Issuance follows public rules with a 21 million maximum. |
 | Verifiability | A node can verify supply, transaction rules, and ownership proofs. |
@@ -715,11 +716,11 @@ When comparing any digital asset, ask: Who controls issuance or changes? What ca
 
 The examples below identify commonly used names and tickers only. They are not endorsements, recommendations, or a claim that any example is safe, reliable, or suitable for you.
 
-**Bitcoin (`BTC`)** is a digital asset on the Bitcoin network. Its maximum supply and issuance schedule are public rules. People can hold bitcoin directly through keys and can independently verify Bitcoin rules by running suitable software. It can be sent globally without needing a central Bitcoin issuer to approve every transaction. Its market price can change sharply, and losing keys or recovery information can mean permanent loss; a mistaken payment is usually hard or impossible to reverse. Fees, confirmation time, electricity, communications, public transaction records, and local acceptance can also affect use. A wallet provider or exchange can add its own counterparty and custody risks.
+**bitcoin (BTC)** is a digital asset on the Bitcoin network. Its maximum supply and issuance schedule are public rules. People can hold bitcoin directly through keys and can independently verify Bitcoin rules by running suitable software. It can be sent globally without needing a central Bitcoin issuer to approve every transaction. Its market price can change sharply, and losing keys or recovery information can mean permanent loss; a mistaken payment is usually hard or impossible to reverse. Fees, confirmation time, electricity, communications, public transaction records, and local acceptance can also affect use. A wallet provider or exchange can add its own counterparty and custody risks.
 
-**Stablecoins**, such as USD Coin (`USDC`) and Tether (`USDT`), are digital tokens designed to track a reference value, often one unit of a national currency such as the U.S. dollar. Some may be useful for moving a token value between compatible services or networks. Their design, reserves, redemption rights, and controls vary substantially. A stablecoin can lose its intended value (“depeg”), and users may depend on an issuer, reserve custodian, bank, legal redemption process, blockchain operator, or bridge. Issuers or platforms may freeze tokens or restrict access where their rules or laws allow. Reserve quality, transparency, insolvency, regulation, smart-contract errors, scams, and network fees are additional risks.
+**Stablecoins**, such as USD Coin (USDC) and Tether (USDT), are digital tokens designed to track a reference value, often one unit of a national currency such as the U.S. dollar. Some may be useful for moving a token value between compatible services or networks. Their design, reserves, redemption rights, and controls vary substantially. A stablecoin can lose its intended value (“depeg”), and users may depend on an issuer, reserve custodian, bank, legal redemption process, blockchain operator, or bridge. Issuers or platforms may freeze tokens or restrict access where their rules or laws allow. Reserve quality, transparency, insolvency, regulation, smart-contract errors, scams, and network fees are additional risks.
 
-**Other crypto-assets**, such as Ether (`ETH`) and Solana (`SOL`), are a broad category of assets used by other networks or applications. Their rules may support functions such as paying network fees, staking, governance, or application use. Issuance, control, technical design, and what can be independently verified differ from one asset to another. Prices and liquidity can change rapidly, and developers, foundations, validators, administrators, or large holders may have significant influence, depending on the system. Rule changes, token issuance, smart-contract bugs, hacks, bridge failures, scams, platform failure, and unclear legal treatment can create loss or access risks. Holding a token does not automatically give a user ownership of a company, guaranteed income, or a right to redeem it for another asset.
+**Other crypto-assets**, such as Ether (ETH) and Solana (SOL), are a broad category of assets used by other networks or applications. Their rules may support functions such as paying network fees, staking, governance, or application use. Issuance, control, technical design, and what can be independently verified differ from one asset to another. Prices and liquidity can change rapidly, and developers, foundations, validators, administrators, or large holders may have significant influence, depending on the system. Rule changes, token issuance, smart-contract bugs, hacks, bridge failures, scams, platform failure, and unclear legal treatment can create loss or access risks. Holding a token does not automatically give a user ownership of a company, guaranteed income, or a right to redeem it for another asset.
 
 | Asset type | Similarity | Key difference |
 | --- | --- | --- |
@@ -744,7 +745,7 @@ Bitcoin appeared through a short series of public events.
 | 31 October 2008 | Satoshi Nakamoto published the whitepaper *Bitcoin: A Peer-to-Peer Electronic Cash System*. | The paper described direct online payments without a financial intermediary. |
 | 3 January 2009 | Satoshi created the Genesis Block, the first block in Bitcoin's chain. | The Bitcoin network began. The block included a newspaper headline about bank bailouts, placing the launch in the context of the financial crisis. |
 | 12 January 2009 | Satoshi sent bitcoin to Hal Finney in the first recorded person-to-person Bitcoin transaction. | The software moved value between two participants as designed. |
-| 22 May 2010 | A user paid 10,000 bitcoin for two pizzas. | The event showed bitcoin being exchanged for ordinary goods and is remembered as Bitcoin Pizza Day. |
+| 22 May 2010 | A user paid 10,000 BTC for two pizzas. | The event showed bitcoin being exchanged for ordinary goods and is remembered as Bitcoin Pizza Day. |
 
 Explore the source records: read the [Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf), inspect the [Genesis Block](https://mempool.space/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f) and the [first recorded person-to-person transaction](https://mempool.space/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16), and read the [original pizza request](https://bitcointalk.org/index.php?topic=137.0). A block explorer is a convenient interface to public data, not a primary authority over Bitcoin's rules.
 
@@ -758,7 +759,7 @@ At the end of this timeline is the event that made Bitcoin possible: in October 
 
 ### Participant empowerment, risk, and responsibility
 
-Bitcoin's public rules, peer-to-peer network, and digital signatures give participants meaningful roles. Users can choose to receive, hold, and send bitcoin; nodes can independently verify the rules; miners can propose blocks; and developers can propose software changes. No single role controls the network for everyone.
+Bitcoin's public rules, peer-to-peer network, and digital signatures give participants meaningful roles. Users can choose to **receive**, **hold**, and **send** bitcoin; nodes can independently verify the rules; miners can propose blocks; and developers can propose software changes. No single role controls the network for everyone.
 
 These properties can empower participants, but they also place more responsibility on them. Without a central authority to approve transactions, recover access, or reverse many errors, each person must be able to identify the role and risks they accept.
 
@@ -780,7 +781,7 @@ Pause and consider how Bitcoin changes the trust model: how do public rules, fin
 | Access depends on an institution | Anyone can use the protocol and control keys | The user must secure keys and backups. |
 | A central party orders digital payments | Proof of work orders transactions without a central operator | Mining requires equipment and energy. |
 
-**Key thought:** Based on what you have learned about Bitcoin in this module, does it have value to you? Does the current price of Bitcoin represent its value?
+**Key thought:** Based on what you have learned about Bitcoin in this module, does it have value to you? Does the current price of bitcoin represent its value?
 
 #### Key takeaways
 
@@ -788,8 +789,8 @@ Pause and consider how Bitcoin changes the trust model: how do public rules, fin
 - Its public ledger, digital signatures, peer-to-peer network, proof of work, and independent verification work together to maintain a shared transaction history.
 - Bitcoin is decentralized in the sense that no single participant can unilaterally change balances or the rules for everyone.
 - Users choose whether to hold or accept bitcoin; nodes verify the rules; miners propose blocks; and developers can propose, but not impose, software changes.
-- Bitcoin has a public supply schedule with a maximum of 21 million bitcoin, and nodes reject blocks that break this rule.
-- One bitcoin divides into 100,000,000 sats, so people can use smaller units without needing a whole bitcoin.
+- Bitcoin has a public supply schedule with a maximum of 21 million BTC, and nodes reject blocks that break this rule.
+- One bitcoin (1 BTC) divides into 100,000,000 sats, so people can use smaller units without needing a whole bitcoin.
 - Bitcoin can be evaluated as sound money using monetary properties, while still recognizing volatility, limited acceptance, irreversible errors, and personal responsibility.
 
 ---
@@ -877,7 +878,7 @@ Some wallets use additional passphrases, multiple keys, or other backup systems.
 
 In a **custodial** service, a company or another person controls the keys. Your displayed balance is a promise from the custodian. You usually sign in with an account and ask the service to process a withdrawal or payment.
 
-In a **non-custodial** or **self-custodial** wallet, you control the keys. The wallet signs transactions under your authority. There may still be software, hardware, server, or network dependencies, but no custodian must approve a valid on-chain spend.
+In a **non-custodial** or **self-custodial** wallet, YOU control the keys. The wallet signs transactions under your authority. There may still be software, hardware, server, or network dependencies, but no custodian must approve a valid on-chain spend.
 
 | Question | Custodial use | Self-custodial use |
 | --- | --- | --- |
@@ -953,11 +954,11 @@ If the destination changes unexpectedly, the request becomes urgent, or anyone a
 
 ### Verification, block explorers, and irreversible transactions
 
-A **transaction ID (TXID)** identifies an on-chain transaction. A **block explorer** shows public Bitcoin data, such as a transaction's status and confirmation count. It is a useful view, not an authority over Bitcoin and not proof of the recipient's identity or honesty.
+A **transaction ID** (*txid*) identifies an on-chain transaction. A **block explorer** shows public Bitcoin data, such as a transaction's status and confirmation count. It is a useful view, not an authority over Bitcoin and not proof of the recipient's identity or honesty.
 
 What can this public information show, and what can it not show? It can show a transaction's status, destination, amount, fee, and confirmation count; it cannot prove why a payment happened or whether a person is trustworthy. An on-chain transaction is unconfirmed after it is broadcast and gains its first confirmation when included in a valid block. Later blocks add confidence to its place in the record, but they do not fix a wrong destination or a scam. There is no universal confirmation count for every payment; the suitable check depends on the amount and risk.
 
-To inspect a prepared transaction, obtain its TXID, open a trusted explorer for the intended Bitcoin network, and check the status, destination, amount, fee, and confirmations. An explorer is only an interface. Searching an address or TXID may reveal to its operator that your device is interested in that information. For practice, use an educator-prepared transaction or printed screenshot. Do not search a learner's personal address or transaction on a public service.
+To inspect a prepared transaction, obtain its *txid*, open a trusted explorer for the intended Bitcoin network, and check the status, destination, amount, fee, and confirmations. An explorer is only an interface. Searching an address or *txid* may reveal to its operator that your device is interested in that information. For practice, use an educator-prepared transaction or printed screenshot. Do not search a learner's personal address or transaction on a public service.
 
 ### Safety checklist
 

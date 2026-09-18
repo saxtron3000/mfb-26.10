@@ -134,12 +134,12 @@ This lexicon lists Bitcoin and Bitcoin-adjacent terms that a beginner may need e
 
 | Word or phrase | Beginner definition | Bitcoin Diploma line(s) |
 | --- | --- | --- |
-| **DigiCash** | An early private-digital-payment system that depended on a central company. | First: **518**<br>Later: — |
-| **Hashcash** | An early proof-of-work system designed to make unwanted email computationally costly. | First: **520**<br>Later: — |
-| **Bit Gold** | An early proposal for scarce digital records created through computational work. | First: **522**<br>Later: — |
-| **B-money** | An early proposal for decentralized digital money. | First: **524**<br>Later: — |
-| **Reusable proof of work** | An early proposal for transferring scarce digital value without relying on one central database. | First: **524**<br>Later: — |
-| **BitTorrent** | A file-sharing system that demonstrated decentralized information sharing. | First: **526**<br>Later: — |
+| <a id="digicash"></a>**DigiCash** | An early private-digital-payment system that depended on a central company. | First: **512**<br>Later: — |
+| <a id="hashcash"></a>**Hashcash** | An early proof-of-work system designed to make unwanted email computationally costly. | First: **514**<br>Later: — |
+| <a id="bit-gold"></a>**Bit Gold** | An early proposal for scarce digital records created through computational work. | First: **516**<br>Later: — |
+| <a id="b-money"></a>**B-money** | An early proposal for decentralized digital money. | First: **518**<br>Later: — |
+| <a id="reusable-proof-of-work"></a>**Reusable proof of work** | An early proposal for transferring scarce digital value without relying on one central database. | First: **518**<br>Later: — |
+| <a id="bittorrent"></a>**BitTorrent** | A file-sharing system that demonstrated decentralized information sharing. | First: **520**<br>Later: — |
 | **Peer-to-peer network** | A network in which independent computers communicate directly rather than through one central server. | First: **496**<br>Later: 526, 536, 768, 795 |
 | **Double spending** | Trying to use the same digital unit in more than one payment. | First: **530**<br>Later: 764, 780, 794 |
 | **Double-spend problem** | The challenge of preventing a digital unit from being spent more than once. | First: **514**<br>Later: 542 |
@@ -270,7 +270,7 @@ This lexicon lists Bitcoin and Bitcoin-adjacent terms that a beginner may need e
 | **Block depth** | The number of blocks added after the block containing a transaction. | Not present |
 | **Transaction fee / miner fee** | A fee paid for an on-chain transaction to be included in a block. | First: **606**<br>Later: 653, 711, 1246 |
 | **Fee estimation** | A wallet’s attempt to choose an appropriate transaction fee. | Not present |
-| **Transaction ID / TXID** | A unique identifier used to find and discuss an on-chain Bitcoin transaction. | First: **963**<br>Later: 967 |
+| **Transaction ID** / *txid* | A unique identifier used to find and discuss an on-chain Bitcoin transaction. | First: **963**<br>Later: 967 |
 | **Block explorer** | A tool for viewing public Bitcoin data such as transactions, addresses, blocks, fees, and confirmations. | First: **756**<br>Later: 961, 963, 1097 |
 
 ### On-chain and Lightning payments
