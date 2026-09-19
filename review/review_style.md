@@ -4,9 +4,9 @@
 
 Act as a careful curriculum editor for the Bitcoin Diploma 2026.10. Improve clarity, readability, voice, and translation readiness while preserving meaning, required learning, safety, and approved policy. Run the prompts below in order on each review pass.
 
-Use this opening prompt: “Run this style review on the specified files, or on the Student Guide and Educator Guide if no scope is given. Inspect the current files, apply justified editorial improvements within the authorized scope, and report evidence. Record unresolved actions in [new-review_todo.md](new-review_todo.md).” If the user requests review only, report proposed changes without applying them.
+Use this opening prompt: “Run this style review on the specified files, or on the Student Guide and Educator Guide if no scope is given. Inspect the current files, apply justified editorial improvements within the authorized scope, and report evidence. Record unresolved actions in [review_todo.md](review_todo.md).” If the user requests review only, report proposed changes without applying them.
 
-Read [AGENTS.md](../AGENTS.md), the [source-of-truth map](../workspace/00_index.md), the [architecture](../workspace/06_plan.md), the [competencies](../workspace/05_competencies.md), the [lexicon](../publish/mfb-bd-26.10/mfb-bd-lx.md), and the [publication specification](../workspace/16_spec.md) as relevant to the selected text. Use [new-review_alignment.md](new-review_alignment.md) for questions about meaning, mission, scope, assessment, or policy.
+Read [AGENTS.md](../AGENTS.md), the [source-of-truth map](../workspace/00_index.md), the [architecture](../workspace/06_plan.md), the [competencies](../workspace/05_competencies.md), the [lexicon](../publish/mfb-bd-26.10/mfb-bd-lx.md), and the [publication specification](../workspace/16_spec.md) as relevant to the selected text. Use [review_alignment.md](review_alignment.md) for questions about meaning, mission, scope, assessment, or policy.
 
 ## Prompt 1: Establish the audience and evidence
 
@@ -18,15 +18,15 @@ Do not turn historical annotations, marketing phrases, or personal editorial pre
 
 ## Prompt 2: Apply the brand voice
 
-Write like a passionate educator: direct, warm, mission-driven, and confident about independence. Apply all five attributes:
+Write like a passionate educator who deeply believes in the work: direct, warm, mission-driven, and unapologetic about the importance of independence. Apply all five attributes:
 
 | Attribute | Editorial instruction |
 |---|---|
-| Bold | State supported positions clearly. Remove aggression, attacks, and combative wording. |
-| Empowering | Invite independent thought and participation. Remove preaching and pressure to care, buy, or adopt. |
-| Warm | Sound human, recognize effort and progress, and avoid cold corporate language. |
-| Clear | Assume no prior technical knowledge. Remove exclusionary language and explain necessary terms. |
-| Mission-driven | Connect relevant explanations to educational purpose. Remove self-promotion and transactional appeals from teaching. |
+| Bold | Take strong, supported positions with conviction. Remove aggression, attacks, and combative wording. |
+| Empowering | Invite independent thought and participation, as in “Join the movement.” Remove preaching such as “you should care about this” and pressure to buy or adopt. |
+| Warm | Sound like real people, celebrate wins, and recognize effort and progress. Avoid cold, corporate, or institutional language. |
+| Clear | Assume no prior knowledge. Avoid jargon and technical, exclusionary, or elitist language; explain necessary terms. |
+| Mission-driven | Tie communication back to why My First Bitcoin exists. Remove self-promotional or transactional framing from teaching. |
 
 Preserve this complete phrase bank from both voice sources. Use a phrase where it serves the audience and meaning; do not insert slogans mechanically into repeated lessons:
 
@@ -47,16 +47,16 @@ Adapt tone to channel: use punchier, direct statements for Twitter/X; deeper edu
 
 ## Prompt 3: Apply the plain-language rules
 
-Review every prose output against all six rules inherited from the Orwell checklist:
+Apply the original six rules without weakening them, and review every prose output against them before delivering:
 
-1. Replace familiar, overused metaphors, similes, and figures of speech with concrete language.
-2. Prefer a short word when it communicates as accurately as a long one.
-3. Remove words that add no meaning.
-4. Prefer active voice when it makes responsibility clearer.
-5. Replace foreign phrases, scientific terms, and jargon with everyday English when an accurate equivalent exists. Explain necessary technical terms.
-6. Break any of these rules before producing awkward, misleading, or inhumane prose. Accuracy and intelligibility come first.
+1. Never use a metaphor, simile or other figure of speech which you are used to seeing in print.
+2. Never use a long word where a short one will do.
+3. If it is possible to cut a word out, always cut it out.
+4. Never use the passive where you can use the active.
+5. Never use a foreign phrase, a scientific word or a jargon word if you can think of an everyday English equivalent.
+6. Break any of these rules sooner than say anything outright barbarous.
 
-Do not use em dashes. Use commas, colons, parentheses, or separate sentences. Keep sentences focused and paragraphs short. Remove redundant explanation without deleting prerequisites, qualifications, safety steps, or evidence requirements. Never simplify “demonstrate” into “identify” when observed performance is required.
+Do not use em dashes (U+2014). Use commas, colons, parentheses, or separate sentences. Keep sentences focused and paragraphs short. Explain necessary technical terms. Use rule 6 where following another rule would damage accuracy or intelligibility. Remove redundant explanation without deleting prerequisites, qualifications, safety steps, or evidence requirements. Never simplify “demonstrate” into “identify” when observed performance is required.
 
 ## Prompt 4: Review the learner journey and readability
 
@@ -77,6 +77,8 @@ Use literal, translation-ready English. Avoid culturally dependent jokes, idioms
 Keep definitions separate from editorial occurrence audits. Use stable heading anchors or claim IDs rather than mutable line numbers for maintained references.
 
 ## Prompt 6: Review structure, formatting, and visual support
+
+Use the [OpenStack Writing Style Guide](https://docs.openstack.org/doc-contrib-guide/writing-style.html) as a supporting reference for punctuation, capitalisation, headings, lists, and numbers where My First Bitcoin has no specific rule. Do not apply its general voice restrictions or software-specific conventions. My First Bitcoin’s brand voice, plain-language principles, approved terminology, and publication requirements take precedence. Preserve the warm, empowering educator voice established in Prompt 2 and the plain-language and translation-readiness rules in Prompts 3 and 5.
 
 Use one H1 title per Markdown document, descriptive sentence-case sections, and a consistent heading hierarchy. Use paragraphs for explanation, lists for steps or parallel items, and tables for useful comparisons. Ensure tables and checklists remain readable in print and on small screens. Keep educator notes visually distinguishable and outside learner prose where appropriate.
 
@@ -102,4 +104,4 @@ On repeated runs, evaluate the current text rather than replaying earlier edits.
 
 ## Source coverage
 
-This script consolidates [review_voice.md](review_voice.md) and [review_refine.md](review_refine.md), both attributed to the brand guidelines sync of 2026-06-01, including their different closing invitation phrases; all six rules and the punctuation rule in [review_orwell.md](review_orwell.md); and editorial, link, visual, and accessibility controls from [review_quality.md](review_quality.md), [review_report.md](review_report.md), and [review_todo.md](review_todo.md). Every individual historical annotation remains traceable in [new-review_todo.md](new-review_todo.md). Mission and policy tests belong in [new-review_alignment.md](new-review_alignment.md).
+This script consolidates the archived brand-voice, refinement, plain-language, quality, report, and action-register material, including the 2026-06-01 brand-guidelines sync and its different closing invitation phrases. The upstream sync path is provenance, not a claim that the source was accessed. Every individual historical annotation remains traceable in [review_todo.md](review_todo.md). Mission and policy tests belong in [review_alignment.md](review_alignment.md).

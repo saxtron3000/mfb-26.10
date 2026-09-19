@@ -4,9 +4,9 @@
 
 Act as an independent curriculum reviewer for the Bitcoin Diploma 2026.10. Test whether the project delivers open-source, community-led, Bitcoin-only education that helps beginners reason and act safely. Run the prompts below in order. Improve alignment through evidence and approved authorities, not through stronger promotional claims.
 
-Use this opening prompt: “Run this alignment review on the specified scope, or the current Diploma package if no scope is given. Compare the current authorities and publications, correct supported inconsistencies within the authorized scope, and record unresolved decisions and actions in [new-review_todo.md](new-review_todo.md). Preserve learner choice and do not invent approvals.” If asked for review only, report proposed changes without applying them.
+Use this opening prompt: “Run this alignment review on the specified scope, or the current Diploma package if no scope is given. Compare the current authorities and publications, correct supported inconsistencies within the authorized scope, and record unresolved decisions and actions in [review_todo.md](review_todo.md). Preserve learner choice and do not invent approvals.” If asked for review only, report proposed changes without applying them.
 
-Use [new-review_style.md](new-review_style.md) for prose editing. These scripts are repeatable instructions, not replacement curriculum authorities.
+Use [review_style.md](review_style.md) for prose editing. These scripts are repeatable instructions, not replacement curriculum authorities.
 
 ## Prompt 1: Establish authority and review scope
 
@@ -18,32 +18,33 @@ For each finding, distinguish implemented behavior, regression, publication deci
 
 ## Prompt 2: Test the mission and all six community principles
 
-Use the charter's mission, “Open source Bitcoin Education for the World,” as the test. Check that people can use, adapt, and translate the curriculum without permission or network membership, and that education is accessible across schools, universities, churches, and local communities. Respect independent work outside the network and the value of diverse approaches and peer learning.
+Use the charter's mission, “Open source Bitcoin Education for the World,” as the test. Check that anyone, anywhere can teach with the fully open-source curriculum and use, adapt, and translate it without permission or network membership, and that high-quality education is accessible across schools, universities, churches, and local communities. Preserve the charter's welcome and wish for success to those who build independently, and its recognition that diverse approaches and learning from peers strengthen Bitcoin education.
 
 Apply each principle separately:
 
 | Principle | Questions to apply to the content |
 |---|---|
-| Independent | Can sponsors be acknowledged without influencing instruction, materials, or curriculum? Does the text avoid promoting specific wallets, exchanges, products, or investment strategies? Does it teach how to think? |
+| Independent | Does all education remain independent of outside influence and free from commercial influence? Communities may accept and publicly acknowledge sponsors, but sponsors must never influence instruction, materials, or curriculum. Does the text avoid promoting specific wallets, exchanges, financial products, or investment strategies and focus on understanding Bitcoin and the monetary system? Does it teach how to think, not what to think? |
 | Impartial | Are evidence, interpretation, preference, and uncertainty distinguishable? Can learners reach a different conclusion, including choosing not to adopt Bitcoin? |
 | Community-based | Can autonomous communities choose leadership, operations, fundraising, local strategy, methods, events, and outreach? Does teaching respond to classroom and local needs rather than outside political or institutional pressure? |
 | Bitcoin-only | Does the curriculum center on Bitcoin, using financial literacy and comparisons with other systems only to aid understanding? Does it avoid turning into a general cryptocurrency course? |
-| Empowerment over profits | Does learning build agency, understanding of an open monetary network, and responsible sovereignty? Remove trading instruction, price predictions, investment strategies, and profit promises. |
-| Quality | Is the education accurate, engaging, useful, and supported by appropriate onboarding, guidance, review, and evidence of learning? |
+| Empowerment over profits | Does learning present Bitcoin as a tool for individual freedom and long-term empowerment, build understanding of an open monetary network, and explain how it can increase individual sovereignty? Remove trading instruction, price predictions, investment strategies, and profit promises. |
+| Quality | Does the education meet a commitment to educational excellence through accurate, engaging, and impactful teaching? Preserve onboarding and guidance from experienced network members for new communities to establish a strong foundation and maintain high standards, alongside review and evidence of learning. |
 
 Check both explicit claims and implied incentives. Bold mission language must not become coercion, predetermined conclusions, hostility, or an unsupported claim that Bitcoin solves every money problem.
 
 ## Prompt 3: Preserve the charter's organizational boundaries
 
-When reviewing descriptions of the Bitcoin Education Network, preserve these distinctions from [review_values.md](review_values.md):
+When reviewing descriptions of the Bitcoin Education Network, preserve these distinctions from the archived community charter source:
 
-- The network connects and supports independent communities; My First Bitcoin initiated it but does not run each community.
-- Joining is optional. Applying for the Leaderboard requires signing the six-principle charter, demonstrating active local Bitcoin education, and completing onboarding. Accepted communities are equal members; reputation reflects the quality and consistency of their demonstrated work.
-- Possible benefits include a public profile and directory listing; personalized onboarding and continuing support; website, social media, newsletter, and podcast features; fundraising resources, operational guides, and community-building tools; collaboration on initiatives, events, and conferences; additional educational, technical, and community support; and potential Board of Advisors participation alongside other communities and thought leaders.
+- The charter describes a relationship between the identified community and the Bitcoin Education Network initiated by My First Bitcoin, a nonprofit dedicated to creating and maintaining open-source Bitcoin education. The community uses the materials independently in its local context.
+- The network connects and supports independent communities; My First Bitcoin initiated it but does not run each community. Sharing knowledge, best practices, and resources aims to accelerate Bitcoin education worldwide while preserving each community's independence.
+- Joining is optional and communities aligned with the principles may apply. Applying for the Leaderboard requires signing the six-principle charter, demonstrating active local Bitcoin education, and completing onboarding. Accepted communities are equal members; reputation reflects the quality and consistency of their demonstrated work, is publicly reflected on the Leaderboard, and may unlock opportunities, support, or collaborations.
+- Possible benefits include a public profile and directory listing; personalized onboarding and continuing support from the My First Bitcoin team; website, social media, newsletter, and podcast features; fundraising resources, operational guides, and community-building tools; invitations to collaborate on initiatives, events, and conferences; eligibility for additional educational, technical, and community support as new programs become available; and potential My First Bitcoin Board of Advisors (BoA) participation alongside other top communities and thought leaders.
 - Benefits, eligibility, reputation rules, and Leaderboard structure may evolve. Do not promise them as automatic entitlements. Verify current claims against the [Leaderboard](https://leaderboard.myfirstbitcoin.org/) and [organization information](https://myfirstbitcoin.org/about) before publication.
 - My First Bitcoin's stated commitments are to maintain and improve the open-source curriculum, share resources and best practices, offer appropriate onboarding, encourage collaboration, maintain the Leaderboard, and recognize demonstrated work and reputation.
-- Community commitments are to uphold the six principles, operate independently within the mission, provide honest and impartial Bitcoin-only education, represent work truthfully, remain actively educational, and recognize that My First Bitcoin determines recognition and additional opportunities through contribution, reputation, and alignment.
-- The charter continues until either party ends participation. My First Bitcoin may also end participation for failure to uphold principles or when collaboration is no longer appropriate. The charter supersedes previous understandings about that relationship, and changes require written agreement by both parties.
+- Community commitments are to uphold the six principles, operate independently within the mission, provide honest and impartial Bitcoin-only education, represent work truthfully, continue actively educating people locally, and recognize that My First Bitcoin determines Leaderboard participation, recognition, and additional opportunities through demonstrated contribution, reputation, and alignment with the principles.
+- The charter continues until either party ends participation. My First Bitcoin may also end participation for failure to uphold principles or when collaboration is no longer appropriate. The charter reflects the full understanding between the parties, supersedes previous agreements or understandings about that relationship, and requires written agreement by both parties for changes.
 - The source's signature fields cover My First Bitcoin's representative, title, date, and signature, plus the community name, country/region, representative, title, date, and signature. Keep these in the charter workflow, not in course completion requirements.
 
 Do not rewrite charter terms or imply that a curriculum review grants network membership, legal approval, or organizational commitments. Preserve the source charter as the exact reference for relationship and signature wording.
@@ -80,7 +81,7 @@ Check that local adaptations preserve the learner action, safety boundary, suppo
 
 ## Prompt 7: Check delivery feasibility and certificate claims
 
-Do not equate a written protocol with validated delivery. Before claiming certificated readiness, require the selected local `P11` variant, training environment, low-tech and accessibility equivalents, assessors, contingency route, and capacity calculation for the actual cohort and assessor ratio. Include individual evidence, resets, transitions, feedback, reassessment, and records in timing.
+Do not equate a written protocol with validated delivery. Prioritize validating and simplifying the existing system rather than adding curriculum topics, as the report recommends. Before claiming certificated readiness, require the selected local `P11` variant, training environment, low-tech and accessibility equivalents, assessors, contingency route, and capacity calculation for the actual cohort and assessor ratio. Include individual evidence, resets, transitions, feedback, reassessment, and records in timing.
 
 Require a pilot with planned and actual time by module and evidence task, safety issues, access failures, misunderstandings, and reassessment demand. Require one annotated meets-standard (`MS`) and one not-yet (`NY`) example for `T2`, `P9`, and the selected `P11`, plus documented assessor calibration and resolution of disagreements.
 
@@ -106,4 +107,4 @@ End with the scope/date, changes, unresolved decisions, release blockers, valida
 
 ## Source coverage
 
-This script consolidates the full mission, six principles, network context, membership, benefits, commitments, termination/change rules, and signature context in [review_values.md](review_values.md); all policy areas and reconciliation order in [review_consistency.md](review_consistency.md); and assessment, delivery, publication, and quality requirements from [review_quality.md](review_quality.md), [review_report.md](review_report.md), and [review_todo.md](review_todo.md). The exact charter remains in its original file. All individual annotations and the full legacy decision alternatives are retained in [new-review_todo.md](new-review_todo.md), with provenance and status limits.
+This script consolidates the archived community charter, consistency decisions, quality checks, report findings, and action register. It preserves the mission, six principles, network context, membership, benefits, commitments, termination/change rules, signature context, policy questions, reconciliation order, assessment, delivery, publication, and quality requirements. The active source of truth is this script and [review_todo.md](review_todo.md), with historical provenance retained in the archive. All individual annotations and legacy decision alternatives are retained in [review_todo.md](review_todo.md), with provenance and status limits.

@@ -97,9 +97,9 @@ Detailed activities are available on the [Resources Hub](https://programs.myfirs
 | Collaborator and stakeholder overview | [`16_spec.md`](16_spec.md) |
 | Advanced Modules and parked legacy content | [`17_advanced.md`](17_advanced.md) |
 | Post-release horizon register | [`18_horizon.md`](18_horizon.md) |
-| Active release actions | [`review/review_todo.md`](../review/review_todo.md) |
-| Cross-project consistency decisions | [`review/review_consistency.md`](../review/review_consistency.md) |
-| Ongoing quality controls | [`review/review_quality.md`](../review/review_quality.md) |
+| Alignment review script | [`review_alignment.md`](../review/review_alignment.md) |
+| Style and readability review script | [`review_style.md`](../review/review_style.md) |
+| Consolidated review actions | [`review_todo.md`](../review/review_todo.md) |
 
 Use the published documents as the official curriculum. When a change is needed, use the relevant planning reference to develop and check it before updating the affected official document.
 
@@ -141,11 +141,9 @@ Cross-project review materials are maintained in [`review/`](../review/):
 
 | File | Use |
 |---|---|
-| [`00_todo.md`](../review/review_todo.md) | Current release actions and blockers. |
-| [`00_consistency.md`](../review/review_consistency.md) | A/B decisions needed to reconcile the project. |
-| [`00_quality.md`](../review/review_quality.md) | Repeatable quality-control checks. |
-| [`00_report.md`](../review/review_report.md) | Consolidated review findings and recommendations. |
-| [`00_annotation_backlog.md`](../review/review_annotation_backlog.md) | Archived imported annotations that are not active unless triaged into the to-do list. |
+| `review_alignment.md` | Repeatable mission and content-alignment review prompts. |
+| `review_style.md` | Repeatable style, readability, voice, and publication review prompts. |
+| `review_todo.md` | Consolidated actions, decisions, quality checks, and historical annotation triage. |
 
 Review findings should be converted into an approved decision or an action in `review/review_todo.md` before they change curriculum policy.
 

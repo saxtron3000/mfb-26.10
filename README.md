@@ -18,8 +18,9 @@ Choose the route that matches your work:
 | Check a beginner definition | [`publish/mfb-bd-26.10/mfb-bd-lx.md`](publish/mfb-bd-26.10/mfb-bd-lx.md) |
 | See Advanced-module availability | [`publish/mfb-adv-26.10/README.md`](publish/mfb-adv-26.10/README.md) |
 | Work on optional app self-assessment content | [`publish/mfb-ml-26.10/mfb-ml-26.10.md`](publish/mfb-ml-26.10/mfb-ml-26.10.md) |
-| Check current release actions | [`review/review_todo.md`](review/review_todo.md) |
-| Review unresolved consistency decisions | [`review/review_consistency.md`](review/review_consistency.md) |
+| Run the alignment review | [`review/review_alignment.md`](review/review_alignment.md) |
+| Run the style review | [`review/review_style.md`](review/review_style.md) |
+| Check current review actions | [`review/review_todo.md`](review/review_todo.md) |
 | Review the project in one document | [`workspace/16_spec.md`](workspace/16_spec.md) |
 
 ## Repository Structure
@@ -82,7 +83,7 @@ The complete reading order and ownership map are in [`workspace/00_index.md`](wo
 
 ## Review Workflow
 
-1. Check [`review/review_todo.md`](review/review_todo.md) before beginning release work.
+1. Check [`review/review_todo.md`](review/review_todo.md) before beginning review or release work.
 2. Use the applicable planning reference in `workspace/` to resolve design or policy questions.
 3. Apply the resulting changes to the relevant official document in `publish/`.
 4. Record new cross-project findings in the appropriate `review/` document.
