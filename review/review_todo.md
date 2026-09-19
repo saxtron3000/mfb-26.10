@@ -1,5 +1,22 @@
 # Consolidated review actions and decision register
 
+## Review dashboard
+
+| Area | Current status | Outstanding | Priority / next move |
+|---|---|---:|---|
+| Overall action register | 1 of 20 `ACT` items checked off | 19 | Treat the register as open; record status, owner, evidence, and dependencies as work proceeds. |
+| Release blockers | Open | 3 (`ACT-001`–`ACT-003`) | **Major issue:** validate the complete assessment route, calibrate assessors, and approve record/certificate governance before certificated delivery or a results-retaining pilot. |
+| Decisions blocking dependent copy | Open | 2 (`ACT-004`, `ACT-006`) | **Major issue:** settle duration and the policy for named programme links and wallet-software guidance. Certificate positioning is resolved; documentation remains in `ACT-020`. |
+| Cross-cutting release reconciliation | Open | 3 (`ACT-015`–`ACT-017`) | **Major issue:** reconcile publication outputs, the Lightning explanation/practice boundary, and the operational release promise across authorities and public materials. |
+| Quick wins / bounded editorial fixes | Open | 4 candidate items (`ACT-008`, `ACT-009`, `ACT-011`, `ACT-012`) | **Quick wins:** remove or finalize conditional back matter, verify public destinations, finish the bounded self-check review, and repair or replace the missing visual target. Confirm decisions and evidence before closing. |
+| Publication and maintenance work | Open | 5 (`ACT-007`, `ACT-010`, `ACT-013`, `ACT-019`, `ACT-020`) | **Minor-to-medium issues:** document the certification model, add slide support, stabilize source/lexicon references, control visual production, and run the final publication verification pass. |
+| Decision-register maintenance | Open | 1 (`ACT-014`) | **Medium issue:** triage `DEC-01`–`DEC-12`; close already-resolved questions with evidence and retain historical alternatives without reopening settled policy. |
+| Historical annotation triage | Not yet triaged | 242 `ANN` items | **Large workstream:** compare each note with current text and source evidence; preserve approvals, link approved actions, and flag unclear handwriting for clarification. |
+| Source-marker interpretation | Defined only as provenance | Original inventory: 166 `[-]`, 58 `[o]`, 18 `[ ]` markers | Do not treat these markers as current status or approval. Use the documented triage dispositions and evidence instead. |
+| Near-term sequence | Ready for triage | — | 1) Resolve blockers and decisions; 2) handle bounded publication fixes; 3) prepare governance/calibration and delivery evidence; 4) complete annotation and final publication checks. |
+
+**Dashboard reading:** “Open” means the item remains unchecked in this file, not that its underlying proposal is approved. “Quick win” describes limited scope, not automatic closure. The dashboard is a snapshot based on the consolidated register dated 2026-09-19.
+
 ## How to use this document
 
 Consolidated on 2026-09-19 from all nine original files in `review/`. This is the action companion to the repeatable [style script](review_style.md) and [alignment script](review_alignment.md). Original files are preserved for provenance. This consolidation does not certify that an older finding remains open or that an imported suggestion has been approved.
@@ -32,10 +49,12 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 - [ ] **ACT-001** **Validate the complete assessment route.**
 
-  - Select and record the local `P11` variant, training environment, low-tech route, accessibility equivalents, assessors, and contingency route.
-  - Run the Educator Guide capacity calculation for the intended cohort size and assessor ratio, including individual evidence, resets, feedback, reassessment, transitions, and record keeping.
-  - Pilot the complete route and record planned and actual time by module and evidence task, access failures, safety issues, common misunderstandings, and reassessment demand.
-  - Acceptance: a revised delivery route demonstrates that valid individual evidence can be observed, recorded, and reassessed safely within the advertised schedule.
+  - Define a simple, educator-led route in which activities are deliberately designed to elicit the required competencies. Successful activity performance may provide the evidence; the educator may use probing questions when understanding or safety is unclear.
+  - Permit in-person, online, low-tech, simulated, testnet, physical-token, and carefully structured low-stakes-funds routes, with accessibility adaptations that preserve the competency. Do not require significant personal funds or a particular tool.
+  - Give each learner a fair opportunity to ask for support and to demonstrate the competency. If a learner is `NY` (**Not Yet**), arrange another assessment opportunity during class, a break, an additional call, or a follow-up session.
+  - Consider cohort capacity and assessment time when planning delivery, including troubleshooting, extra assistance, feedback, reassessment, and follow-up. Use extended sessions or additional meetings where needed; no fixed educator-to-learner ratio is required.
+  - Treat piloting as an ideal quality-improvement activity, not a prerequisite for educators to issue certificates. The first cohort may be the first live validation of the route.
+  - Acceptance: the Educator Guide gives educators a practical, flexible assessment route that assesses every required competency, supports reassessment, accommodates access constraints, and makes time and follow-up planning explicit without imposing unnecessary recording or pilot requirements.
 
 - [ ] **ACT-002** **Prepare assessor calibration evidence.**
 
@@ -54,13 +73,19 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
   - Acceptance: all authorities and public schedule claims use one rule.
 
-- [ ] **ACT-005** **Decide the 2026.10 certificate position.** Confirm whether certificated delivery will be offered once the blockers are complete, or whether the release is an assessment-ready teaching package with credential implementation deferred.
+- [x] **ACT-005** **Decide the 2026.10 certificate position.** Educators may issue certificates in the 2026.10 release after assessing learners with the assessment grid. Certification is decentralized: the educator is responsible for the assessment decision, and My First Bitcoin does not centrally issue or guarantee the learner’s competency.
 
-  - Acceptance: `15_certification.md`, public copy, and release criteria make the same promise.
+  - Status: done | Owner: unassigned | Updated: 2026-09-19 | Evidence: user-approved certification policy recorded in this review discussion | Depends on: ACT-020
 
 - [ ] **ACT-006** **Approve a short publication policy for named programme links and general wallet-software guidance.** Define which optional My First Bitcoin pathways may appear in learner material, how often links are checked, and how general software-verification guidance is localized without becoming a global product recommendation.
 
   - Acceptance: the policy is recorded and Student Guide wording follows it.
+
+- [ ] **ACT-020** **Document the decentralized educator-issued certification model.** Define and publish the two certificate types: **participation** for attendance without a successful assessment, and **completion** for a learner who has passed the required assessment. State that any educator may issue the certificate; the educator must use the assessment grid as the minimum process, while retaining assessment traces during the cohort is advisable but not required. A completion certificate confirms that the educator judged the learner to have passed; it is not a competency guarantee or centrally verified certificate from My First Bitcoin.
+
+  - Use the current [Canva certificate template](https://canva.link/55s417wnb9ehdwo) as the present template reference. Use “My First Bitcoin Diploma” as the programme wording, and show an ETP-completion badge beside the educator’s name when applicable.
+  - Add the learner-facing explanation to the Student Guide, the full educator procedure and certificate distinction to the Educator Guide, a footnote to the assessment grid, and aligned guidance in the relevant `workspace/` authorities. Do not publish internal plans for future certification tooling or CRM integration.
+  - Acceptance: the two certificate types, educator responsibility, assessment-grid minimum, optional evidence retention, ETP badge treatment, and My First Bitcoin’s non-guarantee/non-central-issuer role are consistent across all listed materials.
 
 ### Publication and maintenance actions
 

@@ -23,24 +23,20 @@ The Student Guide gives learners the essential path. This Educator Guide helps a
 
 The 2026.10 Diploma uses an educator-led assessment model. Theoretical and practical competencies are both required, and optional [My First Bitcoin App](https://myfirstbitcoin.app/) use does not count as assessment evidence.
 
-Distinguish formal assessment from ordinary formative discussion. A formal theory interaction must be competency-aligned, use clear observable criteria, produce individual evidence, and be recorded.
+Assessment can happen naturally through well-designed activities, conversations, demonstrations, and practice. The educator's job is to notice whether each learner can explain, compare, make a safe decision, or complete a practical task. A separate exam is not needed for every competency.
 
-Theoretical evidence is observable learner action: the learner explains, compares, justifies, or applies an idea. Do not record a competency because a learner says they know, attends, or joins a discussion.
-
-The operational assessment protocol below gives the approved `T1`–`T3` theory interactions, `P9`–`P11` practical tasks, common support and safety rules, equivalent routes, reassessment steps, calibration, and moderation. Do not invent a certificated task or alter a required criterion during a cohort.
+The detailed assessment support below offers examples, prompts, safety guidance, accessibility ideas, and optional ways to keep notes. Use it as a helpful structure and adapt it to the learners, language, setting, and available tools while keeping the competency and safety standard.
 
 `C1`–`C11` are the recorded assessed competencies. Decimal `C` IDs are competency criteria and observable look-fors, not separate result rows. `C12` and `C13` are formative competencies only.
 
-For a new teacher, the model can be remembered as two components:
+For a new teacher, the model can be remembered as two completion gates:
 
-| What must be complete | Main source | Share within that component |
-| --- | --- | ---: |
-| Theoretical competencies (`C1`–`C8`) | Competency-aligned educator-led interaction | 50% |
-| Practical competencies (`C9`–`C11`) | Educator observation of the practical task | 50% |
+| What learners show | Main source | Completion gate |
+| --- | --- | --- |
+| Theoretical competencies (`C1`–`C8`) | Activities, conversations, and educator-led interaction | All theory competencies meet standard |
+| Practical competencies (`C9`–`C11`) | Educator observation of a practical activity | All practical competencies meet standard |
 
-These percentages describe the assessment evidence, not the amount of teaching time. A practical lesson may need substantial explanation and practice before the observation takes place.
-
-They are also not a combined numerical grade. Both components must be complete, and every required competency must meet its standard.
+These are not numerical grades. Both components need to be complete, and every required competency needs to meet its standard before a completion certificate is issued.
 
 <!-- VISUAL: BD-V-080
 ALT: Theory competencies C1–C8 and practical competencies C9–C11 must each meet standard before assessment completion. Not yet evidence returns to practice and reassessment; attendance, optional app review, and formative reflection do not replace either component.
@@ -50,24 +46,24 @@ USE: Educator-only diagram; see the asset index brief.
 
 ## Operational assessment protocol
 
-### Use and non-negotiable rules
+### A supportive assessment route
 
-Use this protocol with the Assessment Grid. It is the common minimum route for educator-evaluated theoretical evidence (`C1`–`C8`) and directly observed practical evidence (`C9`–`C11`). Local language, examples, communication methods, and approved practical variants may change. The required learner action, criteria, safety boundary, permitted support, and standard may not.
+Use this section with the Assessment Grid when you want more detail. It gives a shared structure for educator-evaluated theoretical evidence (`C1`–`C8`) and directly observed practical evidence (`C9`–`C11`). Local language, examples, communication methods, activity choices, and delivery routes may change. Keep the competency and safety boundary clear.
 
-- Record `MS` only when every criterion within the competency has sufficient individual evidence. Record `NY` when evidence is incomplete, materially inaccurate, unsafe, or more prompted than this protocol permits.
-- Attendance, confidence, group membership, [My First Bitcoin App](https://myfirstbitcoin.app/) result, worksheet completion, and self-report are never sufficient evidence.
-- Use prepared wallets, simulations, testnet, or appropriately low-stakes arrangements. Never require real funds, an account, a personal device, a [seed phrase](mfb-bd-lx.md#term-seed-phrase), [private key](mfb-bd-lx.md#term-private-key), password, balance, or unnecessary personal information.
-- Do not assess several learners at once when you cannot distinguish each learner's decisions and safety behaviour.
+- Mark `MS` when the learner has shown the competency sufficiently and safely. Mark `NY` when more teaching, practice, or another opportunity is needed.
+- Attendance, confidence, group membership, [My First Bitcoin App](https://myfirstbitcoin.app/) results, and self-report do not replace a learner showing the competency. Activity completion can provide evidence when the activity is designed to reveal the relevant understanding or action.
+- Use prepared wallets, simulations, testnet, physical tokens, or appropriately low-stakes arrangements. Learners should never be asked to risk significant funds or expose a [seed phrase](mfb-bd-lx.md#term-seed-phrase), [private key](mfb-bd-lx.md#term-private-key), password, balance, or unnecessary personal information.
+- When working as a group, make sure you can still notice each learner's relevant understanding, decisions, and safety behaviour. A friendly probing question is often enough.
 
-### Capacity and readiness check
+### Planning time and cohort capacity
 
-Before advertising certification, select the theory interactions and practical variants, then calculate whether individual evidence can be observed and recorded within the advertised route:
+Assessment takes time, especially when learners need help completing an activity. Before the cohort begins, consider whether the educator or educators will have enough time to notice learner progress, answer questions, offer feedback, and reassess anyone who needs another opportunity.
 
-`learners × estimated individual evidence minutes ÷ available approved assessors = minimum assessor minutes`
+Use a rough estimate if helpful: number of learners × likely support and observation time. This is planning guidance, not a fixed educator-to-learner ratio or an approval gate.
 
-Add time for setup, feedback, resets, accessibility accommodations, and reassessment. If the route cannot hold valid individual evidence, add stations or approved assessors, reduce the cohort, or redesign the scheduled course. Do not defer required assessment to an informal follow-up or issue a certificate without evidence.
+Allow time for setup, troubleshooting, feedback, accessibility accommodations, and reassessment. If learners need more time, extend the session, offer an after-class session, or return to the activity in a follow-up meeting. Adapt the route to the learners rather than rushing them.
 
-Record the chosen `C11` variant, practical environment, accessibility equivalents, assessor names, and contingency route before teaching begins.
+Choose a practical route that feels safe and manageable for the learners. Record the selected Module 4 activity and any accessibility or low-tech adaptations if that will help you teach.
 
 <!-- VISUAL: BD-V-081
 ALT: Learner numbers and individual evidence time determine observation workload. After allowing for setup, feedback, resets, access needs, and reassessment, the educator checks capacity and revises cohort size, assessor capacity, or the advertised schedule if needed.
@@ -77,24 +73,24 @@ USE: Educator-only diagram; see the asset index brief.
 
 ### Competency-to-evidence crosswalk
 
-| Code | Teach and practise | Approved interaction or task | Individual evidence and standard | Record | Planning time* |
+| Code | Teach and practise | Suggested activity or interaction | What to look for | Simple record | Planning guide* |
 |---|---|---|---|---|---:|
-| `C1` | Student Guide, **Module 1: money, [barter](mfb-bd-lx.md#term-barter), functions and properties** | `T1` Money comparison | Explains why money is used and [barter](mfb-bd-lx.md#term-barter) limits; applies functions/properties to compare two forms of money. | `C1 MS/NY`, `T1`, date | 3–4 min |
-| `C2` | Student Guide, **Module 1: modern-money trade-offs** | `T1` Local money scenario | Explains one beginner trade-off and connects it to a local, observed, or realistic experience without forced disclosure. | `C2 MS/NY`, `T1`, date | 2–3 min |
-| `C3` | Student Guide, **Module 2: digital copying and [double spending](mfb-bd-lx.md#term-double-spending)** | `T2` Digital-money explanation | Explains the problem and how shared verification helps address it. | `C3 MS/NY`, `T2`, date | 1–2 min |
-| `C4` | Student Guide, **Module 2: rules, roles, supply, and [sound-money](mfb-bd-lx.md#term-sound-money) reasoning** | `T2` Bitcoin rule-and-role map | Explains the required beginner properties and roles, then makes a qualified [sound-money](mfb-bd-lx.md#term-sound-money) judgement. | `C4 MS/NY`, `T2`, date | 3–4 min |
-| `C5` | Student Guide, **Module 2: digital-asset comparison** | `T2` Guided [asset](mfb-bd-lx.md#term-asset) comparison | Compares Bitcoin with another digital [asset](mfb-bd-lx.md#term-asset) using the stated criteria and distinguishes learning/responsible use from trading or promotion. | `C5 MS/NY`, `T2`, date | 2–3 min |
-| `C6` | Student Guide, **Module 3: wallets, keys, recovery, [custody](mfb-bd-lx.md#term-custody)** | `T3` [Custody](mfb-bd-lx.md#term-custody) and secrets scenario | Explains public versus secret information, a [custody](mfb-bd-lx.md#term-custody) trade-off, and hot/[hardware-wallet](mfb-bd-lx.md#term-hardware-wallet) scope. | `C6 MS/NY`, `T3`, date | 2–3 min |
-| `C7` | Student Guide, **Module 3: scams and safe limits** | `T3` Stop, verify, seek help | Identifies a risk and states a safe response and limit. | `C7 MS/NY`, `T3`, date | 1–2 min |
-| `C8` | Student Guide, **Module 3: payment and access pathways** | `T3` Payment-pathway choice | Compares on-chain and Lightning and evaluates a pathway without recommending a service or financial action. | `C8 MS/NY`, `T3`, date | 2–3 min |
-| `C9` | **Module 3** prepared practice circuit | `P9` Supported first access and receipt | Safely navigates a prepared environment, completes the required receive-or-send flow and checks, then receives bitcoin or a safe simulated receipt. | `C9 MS/NY`, `P9`, date, variant | 6–8 min |
-| `C10` | **Module 3** recovery-readiness practice | `P10` Recovery-readiness simulation | Demonstrates recovery readiness and protects recovery information using prepared or simulated materials. | `C10 MS/NY`, `P10`, date, variant | 4–5 min |
-| `C11` | **Module 4** selected local Connect practice | `P11` Approved Connect task | Completes the safe task sequence and explains local purpose, alternative, trade-offs, failure points, safety, and next step. | `C11 MS/NY`, `P11`, variant, date | 6–8 min |
+| `C1` | Student Guide, **Module 1: money, [barter](mfb-bd-lx.md#term-barter), functions and properties** | `T1` Money comparison | Explains why money is used and [barter](mfb-bd-lx.md#term-barter) limits; applies functions/properties to compare two forms of money. | `C1 MS/NY` | 3–4 min |
+| `C2` | Student Guide, **Module 1: modern-money trade-offs** | `T1` Local money scenario | Explains one beginner trade-off and connects it to a local, observed, or realistic experience without forced disclosure. | `C2 MS/NY` | 2–3 min |
+| `C3` | Student Guide, **Module 2: digital copying and [double spending](mfb-bd-lx.md#term-double-spending)** | `T2` Digital-money explanation | Explains the problem and how shared verification helps address it. | `C3 MS/NY` | 1–2 min |
+| `C4` | Student Guide, **Module 2: rules, roles, supply, and [sound-money](mfb-bd-lx.md#term-sound-money) reasoning** | `T2` Bitcoin rule-and-role map | Explains the required beginner properties and roles, then makes a qualified [sound-money](mfb-bd-lx.md#term-sound-money) judgement. | `C4 MS/NY` | 3–4 min |
+| `C5` | Student Guide, **Module 2: digital-asset comparison** | `T2` Guided [asset](mfb-bd-lx.md#term-asset) comparison | Compares Bitcoin with another digital [asset](mfb-bd-lx.md#term-asset) using the stated criteria and distinguishes learning/responsible use from trading or promotion. | `C5 MS/NY` | 2–3 min |
+| `C6` | Student Guide, **Module 3: wallets, keys, recovery, [custody](mfb-bd-lx.md#term-custody)** | `T3` [Custody](mfb-bd-lx.md#term-custody) and secrets scenario | Explains public versus secret information, a [custody](mfb-bd-lx.md#term-custody) trade-off, and hot/[hardware-wallet](mfb-bd-lx.md#term-hardware-wallet) scope. | `C6 MS/NY` | 2–3 min |
+| `C7` | Student Guide, **Module 3: scams and safe limits** | `T3` Stop, verify, seek help | Identifies a risk and states a safe response and limit. | `C7 MS/NY` | 1–2 min |
+| `C8` | Student Guide, **Module 3: payment and access pathways** | `T3` Payment-pathway choice | Compares on-chain and Lightning and evaluates a pathway without recommending a service or financial action. | `C8 MS/NY` | 2–3 min |
+| `C9` | **Module 3** prepared practice circuit | `P9` Supported first access and receipt | Safely navigates a prepared environment, completes the required receive-or-send flow and checks, then receives bitcoin or a safe simulated receipt. | `C9 MS/NY` | 6–8 min |
+| `C10` | **Module 3** recovery-readiness practice | `P10` Recovery-readiness simulation | Demonstrates recovery readiness and protects recovery information using prepared or simulated materials. | `C10 MS/NY` | 4–5 min |
+| `C11` | **Module 4** selected local Connect practice | `P11` Local Connect activity | Completes the safe task sequence and explains local purpose, alternative, trade-offs, failure points, safety, and next step. | `C11 MS/NY` | 6–8 min |
 
-\*Planning times are per learner evidence time, not the full teaching time. They are planning estimates, not a claim that every cohort fits an eight-hour route without a capacity check.
+\*Planning times are optional estimates to help you make the session comfortable. They are not a fixed schedule, cohort limit, or requirement to use a particular task.
 
 <!-- VISUAL: BD-V-082
-ALT: Three theory interactions cover C1–C8, and three practical tasks cover C9–C11. All required criteria within a competency support one Meets standard or Not yet result recorded with concise evidence metadata.
+ALT: Example theory interactions support C1–C8, and example practical routes support C9–C11. Each competency receives one Meets standard or Not yet result; brief evidence notes are optional.
 ASSET: assets/diploma/bd-v-082.svg
 USE: Educator-only diagram; see the asset index brief.
 -->
@@ -109,15 +105,15 @@ ASSET: assets/diploma/bd-v-083.svg
 USE: Educator-only diagram; see the asset index brief.
 -->
 
-**Safety-critical practical errors:** Record `NY` and stop the task if the learner reveals or attempts to share a [seed phrase](mfb-bd-lx.md#term-seed-phrase), [private key](mfb-bd-lx.md#term-private-key), password, or unapproved personal information; proceeds after a known address, invoice, amount, or recipient mismatch; accepts an obvious scam or urgent secret request; bypasses a required verification step; or uses real funds or a live account outside the approved boundary. Explain the reason privately, reset to a safe environment, practise, and reassess later.
+**Safety-critical practical errors:** Record `NY` and pause the task if the learner reveals or attempts to share a [seed phrase](mfb-bd-lx.md#term-seed-phrase), [private key](mfb-bd-lx.md#term-private-key), password, or unnecessary personal information; proceeds after a known address, invoice, amount, or recipient mismatch; accepts an obvious scam or urgent secret request; or bypasses a required verification step. Explain the reason kindly, reset to a safe environment, practise, and reassess later. If personal funds are used by choice, keep the amount genuinely low and make the risk of loss clear; no learner should need personal funds to complete the Diploma.
 
-**Accessibility and low-tech equivalence:** Use an approved communication method, translated prompt, large-print or tactile material, oral response, scribed response, prepared paper wallet screens, role-play, or offline simulation where it preserves the required action. An equivalent route may not reduce the criterion to recognition, group participation, or self-report.
+**Accessibility and low-tech equivalence:** Use the communication method, translated prompt, large-print or tactile material, oral response, scribed response, prepared paper wallet screens, role-play, or offline simulation that works for the learner while preserving the required action. An equivalent route should make the competency reachable; it should not reduce it to recognition, group participation, or self-report.
 
-**Concise evidence record:** For every `MS` or `NY`, record the competency, task or interaction ID, date, assessor, variant where applicable, and a short evidence reference. Record only minimum necessary learner information and keep it private under the approved records process.
+**Optional notes:** The Assessment Grid only requires one final `MS` or `NY` result per competency and learner. Brief notes can help you remember what you saw, plan follow-up, or support a reassessment, but task IDs and lengthy evidence records are not required by the grid. Record only minimum necessary learner information and keep it private.
 
-### Approved theoretical interactions
+### Example theoretical interactions
 
-These interactions may be conducted across normal module teaching. They are not a single written exam. Obtain an identifiable response from each learner and record each competency separately.
+These interactions may be woven into normal module teaching. They are examples, not a single written exam or the only valid route. Give each learner a chance to respond, then record each competency separately.
 
 #### `T1` — Money comparison and local scenario (`C1`, `C2`)
 
@@ -149,11 +145,11 @@ These interactions may be conducted across normal module teaching. They are not 
 
 **Low-tech/equivalent route:** Use printed scenario cards and payment-request cards. Do not use a learner's real wallet, address, or financial information.
 
-### Approved practical tasks
+### Example practical routes
 
 #### `P9` — Supported first access and receipt (`C9`)
 
-**Approved environment:** A prepared training wallet, testnet, no-value simulation, or an educator-controlled low-stakes setup approved before the cohort. No learner purchase or personal funds are required.
+**Possible environments:** A prepared training wallet, testnet, no-value simulation, physical-token activity, or an educator-controlled low-stakes setup. Personal funds are not required. If learners choose to use a small amount of their own funds, make the risk of loss clear and never make this the only route.
 
 **Learner task:**
 
@@ -163,11 +159,11 @@ These interactions may be conducted across normal module teaching. They are not 
 4. Complete the supported first-access pathway and receive bitcoin or a safe simulated receipt.
 5. Check the resulting wallet or transaction information and state one safety boundary.
 
-**Meets standard:** Completes all five steps in the approved sequence, makes the required checks, protects secrets and [privacy](mfb-bd-lx.md#term-privacy), and gives an accurate brief explanation of the check made.
+**Meets standard:** Completes the relevant steps safely, makes the important checks, protects secrets and [privacy](mfb-bd-lx.md#term-privacy), and gives an accurate brief explanation of the check made. The educator may adapt the sequence to the environment while preserving the competency.
 
 **Permitted support:** Read the task, point to the prepared workspace, repeat a safety instruction, or reset a training environment. Do not indicate which payment detail is correct or complete a required step.
 
-**Equivalent routes:** Printed wallet or payment screens with a transparent simulation; a role-play in which the learner selects and explains the required information; an approved remote observation route that lets the educator see the learner's decisions without recording secrets.
+**Equivalent routes:** Printed wallet or payment screens with a transparent simulation; a role-play in which the learner selects and explains the relevant information; or a remote observation route that lets the educator see the learner's decisions without recording secrets.
 
 #### `P10` — Recovery-readiness simulation (`C10`)
 
@@ -179,30 +175,30 @@ These interactions may be conducted across normal module teaching. They are not 
 
 **Equivalent routes:** Large-print, tactile, oral, signed, scribed, or role-play sequence using fake materials only.
 
-#### `P11` — Approved local Connect task (`C11`)
+#### `P11` — Local Connect activity (`C11`)
 
-**Variant approval:** Before delivery, select and record one approved variant: payment-path comparison, small-purchase simulation, work/remittance comparison, merchant/refund flow, community-donation simulation, pathway comparison, circular-economy/resource map, or another approved equivalent. The variant must preserve both `C11.1` and `C11.2`.
+**Choose a route:** Select a locally relevant activity such as a payment-path comparison, small-purchase simulation, work/remittance comparison, merchant/refund flow, community-donation simulation, pathway comparison, circular-economy/resource map, or another suitable equivalent. The activity should preserve the purpose of both `C11.1` and `C11.2`.
 
 **Learner task:** Complete the variant's safe sequence and relevant verification behaviour. During or immediately after it, explain the local purpose, realistic alternative, relevant trade-offs and failure points, safety considerations, and a realistic next step. “This is not suitable here” is an acceptable conclusion when well reasoned.
 
-**Meets standard:** Completes the defined sequence safely and accurately explains each required local connection. The response is individual even if preparation was collaborative.
+**Meets standard:** Completes the activity safely and accurately explains the important local connections. The response is individual even if preparation was collaborative.
 
-**Permitted support:** Read the task, clarify a non-assessed word, provide the approved scenario materials, and stop unsafe action. Do not supply the comparison, risk, or next step.
+**Helpful support:** Read or explain the activity, clarify a non-assessed word, provide scenario materials, and stop unsafe action. Do not supply the comparison, risk, or next step that the learner is expected to explain.
 
-**Equivalent routes:** Printed scenario and payment materials, local-language role-play, oral or aided explanation, or an approved simulation. A team presentation never replaces individual evidence.
+**Equivalent routes:** Printed scenario and payment materials, local-language role-play, oral or aided explanation, or a simulation. A team presentation can support learning, but each learner still needs an individual opportunity to show the competency.
 
-### Reassessment, calibration, and moderation
+### Reassessment and optional quality support
 
-**Reassessment:** For `NY`, identify the unmet criterion privately, provide focused practice, and reassess with the same or an approved equivalent task. Do not lower the standard, use attendance as a substitute, or force the learner to disclose personal information. Update the Assessment Grid only when the new evidence is sufficient.
+**Reassessment:** `NY` means **Not yet**, not “never.” Identify what the learner needs privately, provide focused practice, and arrange another opportunity during class, a break, an additional call, or a follow-up session. Use the same activity or a suitable equivalent. Do not lower the standard, use attendance as a substitute, or force the learner to disclose personal information. Update the Assessment Grid when the new evidence is sufficient.
 
-**Minimum educator calibration:** Before first certificated delivery, each assessor must review this protocol, score one annotated `MS` and one annotated `NY` example for `T2`, `P9`, and the selected `P11` variant, compare judgments with the lead educator, and resolve differences before assessment. Keep a short calibration record: date, educators, variants, disagreement, and agreed interpretation.
+**Optional educator support:** If educators are working together or feel uncertain, they can compare an `MS` and `NY` example, discuss the standard, or complete the recommended Educator Training Program. This support can build confidence but is not a prerequisite for issuing certificates.
 
-**Light moderation:** For each cohort, a lead educator or approved second reviewer checks the setup for every selected practical variant and samples completed records, including every disputed, reassessed, or safety-critical result. Moderation checks evidence sufficiency and record quality; it does not replace direct observation or silently change a learner's result. Corrections follow the approved record process.
+**Optional review:** A second educator can review a practical route, a difficult decision, or a reassessment when helpful. Review should support the educator's judgement, not replace direct observation or create extra paperwork for its own sake.
 
-Use only versioned, approved task cards. Review local tools, current facts, translation, accessibility route, and practical safety before every cohort. Record material changes and submit them for approval before treating them as certificated equivalents.
+Use the examples and activity materials that fit your cohort. Review local tools, current facts, translation, accessibility, and practical safety before delivery. When you adapt an activity, keep the competency and safety purpose clear.
 
 <!-- VISUAL: BD-V-084
-ALT: Learners receive private feedback, practise, and provide new evidence after Not yet. Educators calibrate judgments before delivery and moderate cohort records through the approved process; review never substitutes for observed performance.
+ALT: Learners receive private feedback, practise, and provide new evidence after Not yet. Educators may compare judgements or ask for a second review when helpful; review never substitutes for observed performance.
 ASSET: assets/diploma/bd-v-084.svg
 USE: Educator-only diagram; see the asset index brief.
 -->
@@ -232,7 +228,7 @@ If you have only ten minutes to prepare, read the module's purpose, learner prom
 | Before **Module 1 or 2** | The relevant module guide, facilitation methods, local verification record | Choose the opening question, one activity, one backup, and the local examples to check. |
 | Before **Module 3** | Safe practical teaching, **Module 3** guide, practical evidence | Rehearse with a prepared or empty environment and define every stop condition. |
 | Before **Module 4** | **Module 4** guide, **Module 4** planning record, local expert briefing | Start with a local need and verify the selected task, tool, and current context. |
-| Before any formal assessment | Operational assessment protocol and Assessment Grid | Explain conditions, prepare evidence records, and confirm the task conditions. |
+| Before using an activity for assessment | Assessment Grid and relevant assessment guidance | Explain the activity, prepare the learning environment, and decide what you will look for. |
 | After each session | Review point, feedback and reassessment guidance, after-course reflection | Record what learners need next and update the following session. |
 
 The rest of the handbook is a reference shelf. Read it when a learner asks a deeper question, when a local example needs checking, or when you are preparing a new delivery—not as compulsory pre-reading.
@@ -386,7 +382,7 @@ Each part of the Diploma has a distinct function.
 | [My First Bitcoin App](https://myfirstbitcoin.app/) | Optional self-checks, recap, discovery, feedback, and connection to future learning | Educator-led theoretical or practical assessment, certification records, or learner evaluation |
 | Educator Guide | Preparation, pacing, facilitation, localization, safety, and assessment support | Learner materials or assessment rubrics |
 | Activity collection | Modular interaction, formative checks, and practical practice | Competency definitions, [My First Bitcoin App](https://myfirstbitcoin.app/) scoring, or educator judgment |
-| Operational assessment protocol and Grid | Approved assessment interactions and tasks, observable criteria, rubrics, evidence records, and completion decisions | Teaching and supported practice |
+| Assessment guidance and Grid | Example interactions, observable criteria, safety guidance, optional notes, and completion decisions | Teaching and supported practice |
 
 <!-- VISUAL: BD-V-085
 ALT: The Student Guide supplies explanations, the Educator Guide supports teaching, and selected Resources Hub activities support practice. The operational protocol governs evidence collection and the Assessment Grid holds private results. Optional app self-checks support review only.
@@ -438,7 +434,7 @@ You may:
 - choose a suitable local wallet or payment scenario;
 - invite a qualified local expert;
 - adapt how a learner communicates or controls a device; and
-- use an approved equivalent assessment-task variant when needed for accessibility.
+- use a suitable equivalent activity when needed for accessibility.
 
 You may not:
 
@@ -448,11 +444,11 @@ You may not:
 - lower the passing or safety standard;
 - require learners to expose private financial information;
 - turn a local service into a global recommendation;
-- issue a certificate outside the approved completion process; or
+- issue a certificate of completion before all competencies have met standard; or
 - move advanced technical or professional content into the required Diploma at the cost of required learning.
 
 <!-- VISUAL: BD-V-086
-ALT: Local examples and teaching methods can change inside fixed competency, evidence, safety, and completion boundaries. Changes affecting assessment require an approved equivalent route.
+ALT: Local examples and teaching methods can change inside fixed competency, evidence, safety, and completion boundaries. Changes affecting assessment should preserve the same learner action and safety purpose.
 ASSET: assets/diploma/bd-v-086.svg
 USE: Educator-only diagram; see the asset index brief.
 -->
@@ -461,7 +457,7 @@ USE: Educator-only diagram; see the asset index brief.
 
 **The Diploma** follows the four-stage learning arc **Problem → Solution → Action → Connect**. **Modules 1–2** develop the Problem and Solution through explanation, comparison, and reasoning. **Module 3** develops safe Action. **Module 4** is the educator-curated Connect stage, where learners link the shared learning to a local need or opportunity, realistic alternative, safe performance, and responsible next step.
 
-**Module 4** is required Diploma learning, curated by educators as the local subject-matter experts. The scenario or tool may change, but every learner seeking certification must meet `C11` through an approved task that covers `C11.1` and `C11.2`.
+**Module 4** is required Diploma learning, curated by educators as the local subject-matter experts. The scenario or tool may change, but every learner seeking certification must meet `C11` through a local activity that covers the purpose of `C11.1` and `C11.2`.
 
 **Advanced** is optional follow-on learning beyond the Diploma. Detailed [mining](mfb-bd-lx.md#term-mining), transaction mechanics, Lightning operations, [multisignature](mfb-bd-lx.md#term-multisignature) design, institutional [custody](mfb-bd-lx.md#term-custody), organizational treasury, regulation, accounting, tax, compliance, investment analysis, policy, and deep technical topics do not belong in the required beginner experience.
 
@@ -594,9 +590,9 @@ Do not build the schedule around content coverage alone. Build it around explana
 
 ### The approximately eight-hour baseline
 
-The approximately eight-hour pathway includes teaching, practice, direct observation, feedback, recording, and planned reassessment. It is not an automatic certificate route. If a cohort needs a different schedule, redesign the whole course pathway before delivery; do not place required assessment in a separate follow-up after the advertised Diploma.
+The approximately eight-hour pathway includes teaching, practice, direct observation, feedback, and opportunities for reassessment. It is a planning baseline, not an automatic certificate route or a fixed limit. If a cohort needs more time, extend the session, offer an after-class session, or return to key activities in a follow-up meeting.
 
-Use the operational assessment protocol's capacity check before confirming the cohort. Estimate individual evidence minutes for the selected `T1`–`T3` and `P9`–`P11` tasks, multiply by learner numbers, and divide by the approved assessors who can directly observe the evidence. Add setup, feedback, resets, accommodations, and reassessment. If the route cannot carry that work, use more planned assessor capacity, a smaller cohort, or a different advertised schedule.
+Consider cohort capacity before confirming the schedule. Estimate the time needed for activities, questions, troubleshooting, feedback, observation, and reassessment. Use a smaller cohort, another educator, extra sessions, or a different schedule when helpful. A first cohort can also help the educator learn how much time the local route needs; a formal pilot is not required.
 
 Possible delivery models include:
 
@@ -621,7 +617,7 @@ Use this as a planning pattern, not a rigid script.
 | 55–65 min | Debrief | Connect the experience to the competency; correct what the activity could not show. |
 | 65–80 min | Second concept or demonstration | Add the next essential idea and model the complete process where relevant. |
 | 80–105 min | Practice and production | Learners apply, decide, explain, or perform with decreasing support. |
-| 105–115 min | Learning check or practical evidence | Gather formative feedback or a competency-aligned educator-theory interaction, or have an educator observe an approved practical skill. |
+| 105–115 min | Learning check or practical evidence | Gather formative feedback, invite a competency-aligned educator response, or observe a practical skill. |
 | 115–120 min | Review and bridge | Name key takeaways, unresolved questions, and the next module connection. |
 
 Practical observation often requires more time than this pattern allows. For **Module 3** and **Module 4**, plan stations, another educator, or smaller groups within the course schedule. Do not assess several learners at once when you cannot see each learner's decisions and safety behavior.
@@ -683,7 +679,7 @@ Prepare according to the cohort and selected tasks:
 - prepared wallet screens or empty training wallets;
 - sample addresses, invoices, *[txid](mfb-bd-lx.md#term-transaction-id)*s, and explorer screenshots;
 - a visible **SAMPLE — DO NOT PAY** label for fictional payment information;
-- assessment criteria and private evidence records;
+- the Assessment Grid and optional notes;
 - a timer and session plan;
 - accessibility aids; and
 - an offline fallback pack.
@@ -793,7 +789,7 @@ At the end of a section, ask learners to complete one of these:
 - “I would stop and verify if ___.”
 - “This connects to the next module because ___.”
 
-An exit response is usually formative feedback. It may contribute to the educator-led share of theoretical assessment when it is an approved competency-aligned touchpoint with a rubric, individual evidence, and a recorded result. It may contribute to practical evidence only when it is an observable criterion embedded in an approved practical task and rubric.
+An exit response is usually formative feedback. It may also help establish theoretical evidence when it gives the educator a clear view of the relevant competency. A practical activity may provide evidence when the educator can observe the learner's relevant action safely and individually.
 
 ### Debrief every activity
 
@@ -838,7 +834,7 @@ When a demonstration needs internet access, prepare an offline alternative where
 | Video | Narrated diagram, storyboard, or educator explanation |
 | Live transaction | Simulation, test environment, empty training wallet, or educator demonstration |
 
-Offline teaching and assessment are valid. Use offline knowledge checks for preparation and approved practical assessment tasks when connectivity is limited. Offer optional [My First Bitcoin App](https://myfirstbitcoin.app/) self-checks only when learners can access them safely and voluntarily; these are not part of certification.
+Offline teaching and assessment are valid. Use offline knowledge checks, printed activities, role-play, and simulations when connectivity is limited. Offer optional [My First Bitcoin App](https://myfirstbitcoin.app/) self-checks only when learners can access them safely and voluntarily; these are not part of certification.
 
 <!-- VISUAL: BD-V-088
 ALT: Live tools, paper simulations, and approved accessible routes can support the same competency when the learner still makes the required decisions and the educator can judge equivalent evidence. Without equivalence, prepare another route before certification.
@@ -1775,7 +1771,7 @@ Before class, estimate:
 - the number of educators or assessors; and
 - time for feedback and reassessment.
 
-Use smaller stations or additional approved assessors within the scheduled course route. Group practice is valuable, but one learner must not perform the task for the whole group when individual evidence is required. Do not move required certification assessment to an unplanned appointment after the advertised Diploma.
+Use smaller stations, another educator, or additional sessions when helpful. Group practice is valuable, but give each learner an individual opportunity to show the competency. A follow-up appointment or class is acceptable when a learner needs more time.
 
 ### Prepare before class
 
@@ -1789,7 +1785,7 @@ Use smaller stations or additional approved assessors within the scheduled cours
 - Prepare a fake [seed phrase](mfb-bd-lx.md#term-seed-phrase) or disposable empty training wallet for recovery practice.
 - Prepare scam and clipboard-replacement scenarios.
 - Prepare an acquisition-pathway comparison relevant to the location without naming a preferred provider.
-- Define the expected steps, permitted support, safety-critical failures, reset method, and evidence record for every formal task.
+- Define the helpful steps, support, safety boundaries, reset method, and any optional notes for each activity used for assessment.
 - Arrange a private space where learner screens and evidence cannot be observed unnecessarily.
 - Ensure every live task has a printed or no-funds equivalent.
 
@@ -2088,7 +2084,7 @@ Use printed screens or a training wallet. Ask learners to:
 - check the amount if present; and
 - state how receipt will be verified.
 
-For formal evidence, observe the learner individually under the approved task conditions.
+When using the activity for assessment, observe the learner individually enough to make a confident judgement.
 
 ### Sending bitcoin
 
@@ -2318,7 +2314,7 @@ USE: Educator-only diagram; see the asset index brief.
 
 ### Module 3 practical evidence
 
-Formal assessment must use approved tasks and direct observation. Across the required tasks, observe whether the learner can:
+For practical assessment, observe whether the learner can complete the relevant activity safely and can:
 
 - open or safely access the prepared environment;
 - navigate without exposing unrelated information;
@@ -2448,7 +2444,7 @@ Choose one primary task and, at most, one supporting task for a minimum module. 
 - local money-problem analysis; or
 - another approved locally relevant Bitcoin-as-money task.
 
-Every certification task must map to `C11`, including `C11.1` and `C11.2`, through an approved variant.
+Every certification activity must map to `C11` and preserve the purpose of `C11.1` and `C11.2` through a locally relevant activity.
 
 #### 4. Verify facts, tools, and expertise
 
@@ -2478,11 +2474,11 @@ Invite a qualified local expert when needed. Brief them on the competencies, no-
 
 **Production:** Learners complete the defined task or direct its decisions with only permitted support, then explain the relevant trade-offs.
 
-#### 6. Define safety and evidence
+#### 6. Make the assessment opportunity clear
 
 Before class, specify:
 
-- exact competency and approved variant;
+- competency and suitable activity;
 - observable action sequence;
 - required verification behavior;
 - required explanation;
@@ -2491,7 +2487,7 @@ Before class, specify:
 - safety-critical errors;
 - offline equivalent;
 - **Meets standard** and **Not yet**; and
-- evidence record and reassessment route.
+- optional notes and reassessment route.
 
 #### 7. Debrief and choose a safe next step
 
@@ -2851,7 +2847,7 @@ USE: Educator-only diagram; see the asset index brief.
 
 ### Module 4 evidence
 
-The selected approved task must let the educator observe the `C11` competency criteria as the learner:
+The selected local activity should let the educator notice the `C11` competency as the learner:
 
 - identify the local purpose;
 - complete the required action or simulation in the correct sequence;
@@ -3076,14 +3072,14 @@ Every activity should state whether it is:
 - learning and practice;
 - formative theory checking or feedback;
 - a competency-aligned educator-led theoretical touchpoint;
-- an approved practical assessment for certification; or
+- a practical activity that may also provide assessment evidence; or
 - an approved combination of formative learning and practical assessment.
 
-Activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) may supply competency-aligned educator-led theoretical touchpoints and practical assessment tasks. Their use does not make every activity an assessment. Do not score an engaging activity unless it is competency-aligned and has individual evidence, observable criteria, a passing standard, prompting rules, evidence recording, and—where practical—safety conditions and an approved equivalent-variant policy.
+Activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) may support learning, practice, and assessment. Their use does not make every activity an assessment. When you use an activity as evidence, make sure it gives each learner a fair opportunity to show the competency, keeps the safety boundary clear, and allows you to make a confident `MS` or `NY` judgement. You do not need to create lengthy evidence records or a separate test.
 
 ### Assessment activity crosswalk
 
-Use the linked activities below as the learning or individual-evidence context for the stated protocol task. They do **not** replace the [operational assessment protocol](#operational-assessment-protocol): collect an individual response or direct observation, apply every listed criterion, use only permitted support, and record the result in the Assessment Grid. An activity remains formative unless those conditions are met.
+Use the linked activities below as possible learning or individual-evidence contexts for the stated competency. An activity remains formative unless it gives the educator a fair opportunity to notice the relevant learner response or action. Adapt the activity when needed and record the result in the Assessment Grid.
 
 | Assessment Grid competency | Protocol task | Activities that can support the task | Required addition or limit |
 | --- | --- | --- | --- |
@@ -3111,8 +3107,8 @@ Before choosing an activity, ask:
 6. Can every learner participate accessibly?
 7. What private or financial information could appear?
 8. What happens without internet, video, or a personal device?
-9. Has the activity been piloted for this learner context?
-10. Is it approved for the intended assessment use?
+9. Would a small adaptation make the activity clearer or more accessible for this learner context?
+10. Can the activity give each learner a fair opportunity to show the competency safely?
 
 ### Required activity information
 
@@ -3120,7 +3116,7 @@ For any activity you develop or materially adapt, record:
 
 - title;
 - module, assessed competency, and competency criterion IDs;
-- learning, formative-theory, practical-practice, or approved practical-assessment use;
+- learning, formative-theory, practical-practice, or assessment-support use;
 - practical assessment component and educator, where applicable;
 - realistic time;
 - delivery mode;
@@ -3160,22 +3156,22 @@ Preserve:
 - the critical comparison or decision; and
 - the connection to the module competency.
 
-### Adapt a summative practical task
+### Adapt a practical activity for assessment
 
-Only use an approved equivalent practical variant. Educators may not adapt an activity into a scored theoretical substitute when it does not match the competency; a competency-aligned educator-theory interaction must use its own criteria and record. Preserve:
+Educators may adapt a practical activity to suit the learners and setting. Do not turn an activity into evidence for a competency it does not reveal. Preserve:
 
 - competency and measurable verb;
 - evidence type;
 - difficulty and independence;
 - required sequence and verification;
-- rubric and minimum standard;
+- minimum standard;
 - safety-critical errors; and
-- recording requirement.
+- optional notes and reassessment route.
 
 If equivalence is uncertain, use the adaptation for practice and select an assessment task whose evidence and standard clearly match the competency.
 
 <!-- VISUAL: BD-V-097
-ALT: Practice activities allow contextual and access adaptations. Formal theory or practical assessment must preserve the approved evidence, criteria, independence, safety, and record conditions. Uncertain equivalence returns the activity to practice and an approved assessment route.
+ALT: Practice activities allow contextual and access adaptations. Assessment activities should preserve the competency, learner action, independence, safety, and minimum standard. Uncertain equivalence can return the activity to practice while the educator chooses a clearer route.
 ASSET: assets/diploma/bd-v-097.svg
 USE: Educator-only diagram; see the asset index brief.
 -->
@@ -3270,16 +3266,14 @@ Keep this reflection conversational. Do not require an engagement promise, a wri
 
 ### Confirm what the certificate means
 
-Explain the distinction among:
+Explain the difference between the two certificate types:
 
-- participation;
-- [My First Bitcoin App](https://myfirstbitcoin.app/) progress;
-- theoretical assessment complete;
-- practical-competence complete;
-- assessment-complete; and
-- certification.
+- **Certificate of participation:** confirms that the learner attended or took part in the Diploma, without confirming that they passed the assessment.
+- **Certificate of completion:** confirms that the educator assessed the learner and judged that they passed all required competencies.
 
-A learner who still has **Not yet** evidence should receive a clear, respectful reassessment plan. Do not create public “graduates” and “failures” inside the room.
+The educator is responsible for the assessment decision and may issue either certificate. My First Bitcoin does not centrally issue or guarantee the learner's competency. The current certificate template uses the wording **My First Bitcoin Diploma**; an educator who has completed the Educator Training Program may show the ETP badge beside their name.
+
+[My First Bitcoin App](https://myfirstbitcoin.app/) progress, attendance, confidence, and activity participation do not by themselves establish completion. A learner who still has **Not yet** evidence should receive a clear, respectful opportunity for more practice and reassessment. Do not create public “graduates” and “failures” inside the room.
 
 ### Final safety reminders
 
@@ -3309,9 +3303,8 @@ USE: Shared Student Guide master.
 - Confirm that every required assessed competency in the Assessment Grid, including its required competency criteria, has evidence from its assigned component.
 - Contact learners privately about incomplete tasks.
 - Provide focused remediation and fair reassessment.
-- Transfer delayed practical records through the approved process.
-- Do not issue a certificate before assessment-complete status is confirmed.
-- Store and retain only approved minimum data.
+- Offer a participation certificate when the learner has participated but has not yet passed every competency; issue a completion certificate only when all competencies are `MS`.
+- Keep only the minimum information needed for the educator's records. Brief evidence notes are helpful but optional.
 
 ### Ask learners about the learning experience
 
@@ -3440,13 +3433,13 @@ Use the [Lexicon](mfb-bd-lx.md) for full definitions. Keep these distinctions co
 
 ### Assessment
 
-- [ ] Every formal task is selected, competency-aligned, and supported by clear criteria.
-- [ ] I completed the operational assessment protocol capacity check for this cohort and selected a local `P11` variant.
-- [ ] Learners will receive supported practice before formal observation.
-- [ ] Observable criteria, permitted support, and safety failures are clear.
-- [ ] Evidence records protect [privacy](mfb-bd-lx.md#term-privacy) and distinguish assessment components.
-- [ ] Educator calibration and moderation routes are prepared.
-- [ ] The certificate will not be issued before both components are complete.
+- [ ] Activities used for assessment give learners a clear and fair chance to show each competency.
+- [ ] I have considered cohort size, available time, questions, troubleshooting, feedback, and reassessment.
+- [ ] Learners will have supported practice before I make a final judgement.
+- [ ] I know what to look for, how to ask a helpful follow-up question, and when to mark `MS` or `NY`.
+- [ ] Online, low-tech, and accessibility routes are ready where needed.
+- [ ] Any notes protect [privacy](mfb-bd-lx.md#term-privacy) and are kept to the minimum useful information.
+- [ ] I know how to offer participation or completion certification appropriately.
 
 ---
 
