@@ -14,9 +14,29 @@ Read [AGENTS.md](../AGENTS.md) and the [workspace index](../workspace/00_index.m
 
 Compare those authorities with the [Student Guide](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md), [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), [Assessment Grid](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md), [lexicon](../publish/mfb-bd-26.10/mfb-bd-lx.md), [optional self-check](../publish/mfb-ml-26.10/mfb-ml-26.10.md), and affected public materials. Treat reference, feedback, and imported annotations as review inputs, not approved policy.
 
+Read the complete `workspace/` in ascending numerical filename order, starting with the `00_` documents and continuing through `20_`. Treat this as an evolution trace: compare each document's purpose, terminology, decisions, boundaries, ownership, learner or educator promises, assessment model, release position, and link policy with the relevant preceding and source-of-truth documents. Identify inconsistencies, unexplained reversals, duplicated or diverging ideas, stale assumptions, and gaps between an earlier decision and its later implementation. Do not flag an intentional difference when its authority and reason are clear; record the evidence that establishes the distinction instead.
+
+For each inconsistency found in this ordered pass, create or update a detailed `EVO-` entry in the [workspace and publication development findings log](review_todo.md#workspace-and-publication-development-findings-log) before changing dependent content. Include the review date and scope; the earlier and later file/heading; the conflicting or missing development; why it matters; the relevant authority or evidence; affected files; recommended next action; status; owner; and completion evidence required. Report all open, blocked, or needs-verification `EVO-` entries in the review result. Do not silently reconcile a policy, scope, safety, assessment, or publication conflict.
+
 For each finding, distinguish implemented behavior, regression, publication decision, release blocker, maintenance action, historical proposal, and unknown. Date the review and cite current file sections. Do not present the 2026-09-01 report or 2026-08-19 decision log as a fresh audit.
 
-## Prompt 2: Test the mission and all six community principles
+## Prompt 2: Review workspace development and consolidation
+
+Review every document in `workspace/` as one connected design system after completing the ordered evolution trace. Test whether the project is fully developed: each planned component has a clear purpose, owner, boundary, decision, dependency, and next implementation location; key ideas are defined once, developed to the needed level, and consolidated consistently across the relevant plans; and no essential idea remains only implied, duplicated without an authority, parked without a disposition, or dependent on a stale assumption, placeholder, or unresolved conflict.
+
+Trace each significant idea from its originating or authoritative workspace document through every relevant workspace document. Test, at minimum, the four-module pathway, competencies and evidence, safety boundaries, learner and educator roles, assessment and certification, activity and resource boundaries, optional self-check, publication formats, assets, link maintenance, localization, Advanced content, and release readiness. Confirm that an intentional difference has a recorded reason and owner; do not create content, policy, or approvals merely to make documents appear complete.
+
+Log every workspace-development gap, incomplete idea, missing consolidation, or unexplained inconsistency as a detailed `EVO-` entry in the [workspace and publication development findings log](review_todo.md#workspace-and-publication-development-findings-log). Include its source and affected workspace files/headings, evidence, learner or educator consequence, required decision or action, dependencies, status, owner, and completion evidence. Report all unresolved `EVO-` entries at the end of the review.
+
+## Prompt 3: Review publication implementation against workspace
+
+Review every document and publication data file in `publish/`. Compare each publication with the applicable workspace authorities, plans, specifications, asset and link registers, and source-of-truth map. Verify that the workspace design has been fully carried out in the publication: required learner content, educator guidance, assessment record, terminology, safety limits, module boundaries, optional-resource status, local adaptation rules, accessibility and low-tech routes, links, visual requirements, and release positioning must be reflected accurately in the correct publication without introducing unsupported promises or duplicating planning-only material.
+
+For every workspace-to-publication requirement, establish whether it is implemented, intentionally deferred, not applicable, or missing. Check that publications agree with one another where they share a learner promise, competency, safety instruction, link, or public claim. Do not treat a plan as implemented merely because it exists in `workspace/`; require visible, appropriate publication evidence or an approved deferral.
+
+Log every missing implementation, publication regression, divergence from an authority, unsupported claim, or unapproved deferral as a detailed `PUB-` entry in the [workspace and publication development findings log](review_todo.md#workspace-and-publication-development-findings-log). Include the governing workspace file/heading, affected publication file/heading, exact gap, impact, required action or decision, dependencies, status, owner, and completion evidence. Report all unresolved `PUB-` entries at the end of the review. Update workspace authorities before changing a publication when the gap is a policy or design decision rather than an implementation error.
+
+## Prompt 4: Test the mission and all six community principles
 
 Use the charter's mission, “Open source Bitcoin Education for the World,” as the test. Check that anyone, anywhere can teach with the fully open-source curriculum and use, adapt, and translate it without permission or network membership, and that high-quality education is accessible across schools, universities, churches, and local communities. Preserve the charter's welcome and wish for success to those who build independently, and its recognition that diverse approaches and learning from peers strengthen Bitcoin education.
 
@@ -33,7 +53,7 @@ Apply each principle separately:
 
 Check both explicit claims and implied incentives. Bold mission language must not become coercion, predetermined conclusions, hostility, or an unsupported claim that Bitcoin solves every money problem.
 
-## Prompt 3: Preserve the charter's organizational boundaries
+## Prompt 5: Preserve the charter's organizational boundaries
 
 When reviewing descriptions of the Bitcoin Education Network, preserve these distinctions from the archived community charter source:
 
@@ -49,7 +69,7 @@ When reviewing descriptions of the Bitcoin Education Network, preserve these dis
 
 Do not rewrite charter terms or imply that a curriculum review grants network membership, legal approval, or organizational commitments. Preserve the source charter as the exact reference for relationship and signature wording.
 
-## Prompt 4: Check architecture, scope, and content ownership
+## Prompt 6: Check architecture, scope, and content ownership
 
 Verify the four-stage Problem → Solution → Action → Connect sequence and all four required modules. **Module 4: Bitcoin in Your Community** is educator-selected and locally relevant, with required `C11` evidence. It connects prior learning to a real local need or opportunity, a realistic alternative, safe practice, and a responsible next step. Advanced Learning is outside the Diploma.
 
@@ -59,7 +79,7 @@ Keep the beginner pathway bounded. Move deeper economic, historical, technical, 
 
 Review all 12 consistency topics in the to-do decision register: duration, assessment meaning, four-module completion, supported practical promise, first access, Lightning boundaries, October outputs, wallet-software guidance, programme links, canonical manuscript, certificate position, and operational release readiness. Check current evidence before requesting a decision. The September consolidation found current scope and specification documents describing Sanity-published online PDF and web outputs while the architecture still included future-branch language; resolve the remaining inconsistency without assuming the old A/B question is untouched.
 
-## Prompt 5: Check facts, balance, and source maintenance
+## Prompt 7: Check facts, balance, and source maintenance
 
 Verify economic, banking, historical, Bitcoin, security, and technical claims against appropriate authoritative sources. Use qualified review for specialist uncertainties; do not claim an expert or legal review happened when it did not. Date and cite changing claims or replace them with evergreen explanations.
 
@@ -69,7 +89,7 @@ Keep the required Bitcoin, stablecoin, and other crypto-asset comparison educati
 
 Use the shared resource register for common claims, with claim/section, source type and authority, volatility, reviewer, check date, next review date, and publication treatment. Keep genuinely local facts in the educator local-verification record. Recheck tools, fees, laws, services, CBDCs, statistics, energy claims, transaction comparisons, merchants, providers, and adoption examples before publication or a cohort when relevant. Retain stable anchors or claim IDs rather than line-number maintenance.
 
-## Prompt 6: Check competencies and assessment integrity
+## Prompt 8: Check competencies and assessment integrity
 
 Map every required competency and decimal criterion to teaching, approved individual evidence, an assessment task, a rubric, and a record field. Verify the Educator Guide crosswalk and Assessment Grid agree.
 
@@ -79,7 +99,7 @@ Check `T1`–`T3` theory interactions and `P9`–`P11` practice, permitted suppo
 
 Check that local adaptations preserve the learner action, safety boundary, support limit, and evidence standard. Keep recovery practice private and within approved safe training conditions. Verify the required on-chain/Lightning distinction separately from any locally selected Lightning use.
 
-## Prompt 7: Check delivery feasibility and certificate claims
+## Prompt 9: Check delivery feasibility and certificate claims
 
 Do not equate a written protocol with validated delivery. Prioritize validating and simplifying the existing system rather than adding curriculum topics, as the report recommends. Before claiming certificated readiness, require the selected local `P11` variant, training environment, low-tech and accessibility equivalents, assessors, contingency route, and capacity calculation for the actual cohort and assessor ratio. Include individual evidence, resets, transitions, feedback, reassessment, and records in timing.
 
@@ -89,7 +109,7 @@ Before retaining competency evidence for a pilot or certification, require the a
 
 Distinguish teaching-package readiness, publication readiness, validated assessment delivery, and operational certificate issuance. Resolve duration and certificate promises in the authorities and public wording together.
 
-## Prompt 8: Check optional resources and publication promises
+## Prompt 10: Check optional resources and publication promises
 
 Keep the [My First Bitcoin App](https://myfirstbitcoin.app/) voluntary for self-check, recap, discovery, and future-learning connection. It supplies no assessment evidence and creates no certification gate. The 12-question check samples selected content from Modules 1–3; it does not establish Module 4 or practical competence. Keep result wording limited to that check. Do not introduce score tracking, thresholds, or educator access. Require independent factual/editorial review, small-phone testing, and screen-reader testing before release.
 
@@ -97,7 +117,11 @@ Keep named programme links and general wallet-software guidance within the appro
 
 Check teaching slides are editable, aligned, adaptable to learners, language, and local context, and supportive of discussion and practice. Teaching must remain possible without projection. Resolve conditional source/update, donation/support, and verification back matter before release. Verify destinations and processes before commissioning related QR or certificate visuals. Track essential visuals, rights, alt text, source, and review status.
 
-## Prompt 9: Reconcile findings and validate the result
+## Prompt 11: Reconcile findings and validate the result
+
+Before finalising the review, audit cross-references. Files in `workspace/` may link internally only to documents in `workspace/`, `review/`, or `publish/`. Files in `publish/` must never link to `workspace/`, `review/`, or any other repository-only document. Every document link in `publish/` must use a verified public HTML URL; replace a repository-only link with its public page, or remove it when no suitable public page exists. Recheck Markdown links, reference-style definitions, and inline HTML links after every publication edit.
+
+Treat link integrity as release-critical. Use and maintain the [external link review index](../workspace/20_links-external.md) and [internal link review index](../workspace/20_links-internal.md) in every alignment review and whenever a guide, publication URL, linked text, anchor, or destination changes. Update both indexes with the current snapshot date, complete source locations, destinations, and review status; do not leave a changed or newly added link absent from the appropriate index. Test every destination and its intended purpose before release. A broken, mistargeted, inaccessible, or unreviewed required link is a release blocker until it is corrected, removed, or explicitly recorded with an approved exception.
 
 For approved policy changes, update architecture, competencies, assessment, and certification authorities first; then delivery publications and activity specifications; then scope, design, content plan, overview, and horizon; then the index, lexicon, resource register, public communications, and published outputs as applicable. Do not silently choose between contradictory authorities.
 

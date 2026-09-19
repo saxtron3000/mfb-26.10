@@ -283,6 +283,14 @@ These are repeatable controls, not permanently completed tasks. Copy the relevan
 - Update learner, educator, and public materials when assessment, certification, or scope policy changes.
 - Inspect affected rendered outputs, translation readiness, phone readability, and screen-reader behavior when relevant; do not claim checks that were not run.
 
+### Workspace and publication development findings log
+
+When the alignment script finds an inconsistency in the development of workspace ideas or a gap between workspace design and publication implementation, record it here before changing dependent content. Use sequential `EVO-` IDs for workspace-development findings and `PUB-` IDs for workspace-to-publication findings. Retain resolved entries with their evidence so later reviews can distinguish a settled decision from a regression.
+
+For an `EVO-` entry, record: `Status: … | Owner: … | Updated: YYYY-MM-DD | Earlier file/heading: … | Later file/heading: … | Issue: … | Why it matters: … | Authority/evidence: … | Affected files: … | Recommended action: … | Completion evidence: …`.
+
+For a `PUB-` entry, record: `Status: … | Owner: … | Updated: YYYY-MM-DD | Governing workspace file/heading: … | Publication file/heading: … | Issue: … | Why it matters: … | Authority/evidence: … | Affected files: … | Recommended action: … | Depends on: … | Completion evidence: …`. Use the register statuses defined at the start of this document. Report every `EVO-` or `PUB-` entry that remains `needs-verification`, `open`, `in-progress`, or `blocked` at the end of the alignment review.
+
 ## Historical report baseline and verification limits
 
 The report is dated 2026-09-01. It assessed the design as coherent and suitable for continued editing and non-certificated teaching development, but not ready for certificated delivery until validation, calibration, local tasks, and governance were complete. That is a historical assessment to verify, not a new readiness determination.

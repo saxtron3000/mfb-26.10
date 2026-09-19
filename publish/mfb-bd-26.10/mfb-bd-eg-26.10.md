@@ -8,7 +8,12 @@ The Educator Guide supports teaching the 2026.10 Bitcoin Diploma. Linked terms o
 
 Download the [My First Bitcoin App](https://myfirstbitcoin.app/) for optional microlearning, self-checks, recap, and more learning opportunities.
 
-<!-- VISUAL: BD-V-075 | App download QR: https://myfirstbitcoin.app/ | Include the readable URL and keep use optional. -->
+<!-- VISUAL: BD-V-075
+ALT: Optional download QR code for the [My First Bitcoin App](https://myfirstbitcoin.app/), with the readable destination https://myfirstbitcoin.app/.
+ASSET: assets/diploma/bd-v-075.svg
+USE: Shared Student Guide master.
+-->
+
 
 The Student Guide gives learners the essential path. This Educator Guide helps a teacher turn that path into a complete learning experience through interaction, discussion, local context, guided practice, feedback, and assessment. You can teach directly from it: read the short preparation notes before a session, use the suggested words and questions during the session, and return to the evidence and safety notes afterwards.
 
@@ -37,6 +42,12 @@ These percentages describe the assessment evidence, not the amount of teaching t
 
 They are also not a combined numerical grade. Both components must be complete, and every required competency must meet its standard.
 
+<!-- VISUAL: BD-V-080
+ALT: Theory competencies C1–C8 and practical competencies C9–C11 must each meet standard before assessment completion. Not yet evidence returns to practice and reassessment; attendance, optional app review, and formative reflection do not replace either component.
+ASSET: assets/diploma/bd-v-080.svg
+USE: Educator-only diagram; see the asset index brief.
+-->
+
 ## Operational assessment protocol
 
 ### Use and non-negotiable rules
@@ -58,6 +69,12 @@ Add time for setup, feedback, resets, accessibility accommodations, and reassess
 
 Record the chosen `C11` variant, practical environment, accessibility equivalents, assessor names, and contingency route before teaching begins.
 
+<!-- VISUAL: BD-V-081
+ALT: Learner numbers and individual evidence time determine observation workload. After allowing for setup, feedback, resets, access needs, and reassessment, the educator checks capacity and revises cohort size, assessor capacity, or the advertised schedule if needed.
+ASSET: assets/diploma/bd-v-081.svg
+USE: Educator-only diagram; see the asset index brief.
+-->
+
 ### Competency-to-evidence crosswalk
 
 | Code | Teach and practise | Approved interaction or task | Individual evidence and standard | Record | Planning time* |
@@ -76,9 +93,21 @@ Record the chosen `C11` variant, practical environment, accessibility equivalent
 
 \*Planning times are per learner evidence time, not the full teaching time. They are planning estimates, not a claim that every cohort fits an eight-hour route without a capacity check.
 
+<!-- VISUAL: BD-V-082
+ALT: Three theory interactions cover C1–C8, and three practical tasks cover C9–C11. All required criteria within a competency support one Meets standard or Not yet result recorded with concise evidence metadata.
+ASSET: assets/diploma/bd-v-082.svg
+USE: Educator-only diagram; see the asset index brief.
+-->
+
 ### Common support, safety, and record rules
 
 **Permitted support:** Before evidence is gathered, you may read the prompt, repeat it once, provide an approved translation or communication accommodation, clarify a non-assessed word, and provide the prepared materials or environment. During practical work, you may give a safety stop instruction or reset a prepared simulation. You may not give the substantive answer, select the comparison criterion, identify the scam, tell the learner which button or payment detail to choose, complete a required practical step, or turn a group contribution into individual evidence without an individual response.
+
+<!-- VISUAL: BD-V-083
+ALT: An educator may provide the permitted preparation and access support and stop unsafe action. The learner must still supply the assessed explanation, select the relevant details, and perform or direct the required decisions.
+ASSET: assets/diploma/bd-v-083.svg
+USE: Educator-only diagram; see the asset index brief.
+-->
 
 **Safety-critical practical errors:** Record `NY` and stop the task if the learner reveals or attempts to share a [seed phrase](mfb-bd-lx.md#term-seed-phrase), [private key](mfb-bd-lx.md#term-private-key), password, or unapproved personal information; proceeds after a known address, invoice, amount, or recipient mismatch; accepts an obvious scam or urgent secret request; bypasses a required verification step; or uses real funds or a live account outside the approved boundary. Explain the reason privately, reset to a safe environment, practise, and reassess later.
 
@@ -171,6 +200,12 @@ These interactions may be conducted across normal module teaching. They are not 
 **Light moderation:** For each cohort, a lead educator or approved second reviewer checks the setup for every selected practical variant and samples completed records, including every disputed, reassessed, or safety-critical result. Moderation checks evidence sufficiency and record quality; it does not replace direct observation or silently change a learner's result. Corrections follow the approved record process.
 
 Use only versioned, approved task cards. Review local tools, current facts, translation, accessibility route, and practical safety before every cohort. Record material changes and submit them for approval before treating them as certificated equivalents.
+
+<!-- VISUAL: BD-V-084
+ALT: Learners receive private feedback, practise, and provide new evidence after Not yet. Educators calibrate judgments before delivery and moderate cohort records through the approved process; review never substitutes for observed performance.
+ASSET: assets/diploma/bd-v-084.svg
+USE: Educator-only diagram; see the asset index brief.
+-->
 
 ## Start here: your first teaching route
 
@@ -353,6 +388,12 @@ Each part of the Diploma has a distinct function.
 | Activity collection | Modular interaction, formative checks, and practical practice | Competency definitions, [My First Bitcoin App](https://myfirstbitcoin.app/) scoring, or educator judgment |
 | Operational assessment protocol and Grid | Approved assessment interactions and tasks, observable criteria, rubrics, evidence records, and completion decisions | Teaching and supported practice |
 
+<!-- VISUAL: BD-V-085
+ALT: The Student Guide supplies explanations, the Educator Guide supports teaching, and selected Resources Hub activities support practice. The operational protocol governs evidence collection and the Assessment Grid holds private results. Optional app self-checks support review only.
+ASSET: assets/diploma/bd-v-085.svg
+USE: Educator-only diagram; see the asset index brief.
+-->
+
 ### The pathway from learner to educator
 
 Introduce the wider My First Bitcoin learning pathway at the start of the Diploma and revisit it when learners consider their next steps:
@@ -365,6 +406,12 @@ Introduce the wider My First Bitcoin learning pathway at the start of the Diplom
 - **Joining the [Bitcoin Education Network](https://leaderboard.myfirstbitcoin.org)** connects educators with peers to share experience, support one another, and contribute to community-led education.
 
 Present this as an available progression. Learners may begin with the Diploma and choose whether to continue towards teaching or network participation. Share the [student journey](https://journey.myfirstbitcoin.org/) landing page to help learners explore the pathway and choose their next step. When someone wants to continue, help them find the relevant program or network information and check its entry or participation requirements.
+
+<!-- VISUAL: BD-V-076
+ALT: An optional pathway connects Introduction to Bitcoin, the Bitcoin Diploma, educator training, and education-network participation, without automatic eligibility or membership.
+ASSET: assets/diploma/bd-v-076.svg
+USE: Shared Student Guide master.
+-->
 
 ### Educator support
 
@@ -404,6 +451,12 @@ You may not:
 - issue a certificate outside the approved completion process; or
 - move advanced technical or professional content into the required Diploma at the cost of required learning.
 
+<!-- VISUAL: BD-V-086
+ALT: Local examples and teaching methods can change inside fixed competency, evidence, safety, and completion boundaries. Changes affecting assessment require an approved equivalent route.
+ASSET: assets/diploma/bd-v-086.svg
+USE: Educator-only diagram; see the asset index brief.
+-->
+
 ### Four-module Diploma and Advanced boundaries
 
 **The Diploma** follows the four-stage learning arc **Problem → Solution → Action → Connect**. **Modules 1–2** develop the Problem and Solution through explanation, comparison, and reasoning. **Module 3** develops safe Action. **Module 4** is the educator-curated Connect stage, where learners link the shared learning to a local need or opportunity, realistic alternative, safe performance, and responsible next step.
@@ -411,6 +464,12 @@ You may not:
 **Module 4** is required Diploma learning, curated by educators as the local subject-matter experts. The scenario or tool may change, but every learner seeking certification must meet `C11` through an approved task that covers `C11.1` and `C11.2`.
 
 **Advanced** is optional follow-on learning beyond the Diploma. Detailed [mining](mfb-bd-lx.md#term-mining), transaction mechanics, Lightning operations, [multisignature](mfb-bd-lx.md#term-multisignature) design, institutional [custody](mfb-bd-lx.md#term-custody), organizational treasury, regulation, accounting, tax, compliance, investment analysis, policy, and deep technical topics do not belong in the required beginner experience.
+
+<!-- VISUAL: BD-V-003
+ALT: All four Diploma modules form the required learning arc; locally selected Connect learning remains required and Advanced learning lies beyond the Diploma.
+ASSET: assets/diploma/bd-v-003.svg
+USE: Shared Student Guide master.
+-->
 
 When an interesting question would pull the group into advanced material, acknowledge it and protect the course sequence. A useful response is:
 
@@ -646,6 +705,12 @@ Complete one row for each changing fact, service, or resource used in class.
 
 Prefer authoritative primary sources for current rules. If the evidence is incomplete, say so. Do not convert uncertain local information into a universal claim.
 
+<!-- VISUAL: BD-V-098
+ALT: Educators distinguish stable concepts from changing details, verify current sources, record dates and limits, teach qualified examples, and recheck them before reuse. Uncertainty or change triggers a safer example or fallback.
+ASSET: assets/diploma/bd-v-098.svg
+USE: Educator-only diagram; see the asset index brief.
+-->
+
 ---
 
 ## 5. Facilitation methods that work across all modules
@@ -662,6 +727,12 @@ For most concepts, use this sequence:
 6. **Produce:** Ask learners to explain or perform with less support.
 7. **Debrief:** Name the evidence, limitation, safety point, and trade-off.
 8. **Connect:** Show how the idea prepares for the next part of the Diploma.
+
+<!-- VISUAL: BD-V-087
+ALT: The educator sets purpose, activates prior ideas, explains, checks, guides application, invites independent production, debriefs, and connects to the next concept. Unclear responses lead back to explanation or practice.
+ASSET: assets/diploma/bd-v-087.svg
+USE: Educator-only diagram; see the asset index brief.
+-->
 
 ### Think–pair–share
 
@@ -697,6 +768,12 @@ Use realistic invented characters and local conditions. Ask:
 7. What is the smallest safe next step?
 
 Change one condition after the first answer. For example: the internet fails, the address changes, the recipient wants local [currency](mfb-bd-lx.md#term-currency), the fee rises, or the learner notices an urgent support message. This tests whether the learner can transfer their reasoning.
+
+<!-- VISUAL: BD-V-100
+ALT: A fictional scenario moves from goal and verified facts to control, options, risks, and a safe next step. A changed connection, destination, recipient need, or fee sends reasoning back to the affected decision.
+ASSET: assets/diploma/bd-v-100.svg
+USE: Educator-only diagram; see the asset index brief.
+-->
 
 ### Misconception check
 
@@ -763,6 +840,12 @@ When a demonstration needs internet access, prepare an offline alternative where
 
 Offline teaching and assessment are valid. Use offline knowledge checks for preparation and approved practical assessment tasks when connectivity is limited. Offer optional [My First Bitcoin App](https://myfirstbitcoin.app/) self-checks only when learners can access them safely and voluntarily; these are not part of certification.
 
+<!-- VISUAL: BD-V-088
+ALT: Live tools, paper simulations, and approved accessible routes can support the same competency when the learner still makes the required decisions and the educator can judge equivalent evidence. Without equivalence, prepare another route before certification.
+ASSET: assets/diploma/bd-v-088.svg
+USE: Educator-only diagram; see the asset index brief.
+-->
+
 The Student Guide explains lasting concepts. Verify current local details before presenting fees, laws, taxes, available services, wallet features, or merchant listings, and date the information you use.
 
 ---
@@ -776,6 +859,12 @@ The Student Guide explains lasting concepts. Verify current local details before
 **Practice:** Learners follow a supported process using prepared materials, a simulation, test environment, empty training wallet, or an approved small value. Pause for checks and give feedback.
 
 **Production:** Learners complete a defined practical task or direct the decisions without step-by-step prompting. This stage can provide formal practical evidence when the task and rubric are approved and an educator observes it.
+
+<!-- VISUAL: BD-V-055
+ALT: Presentation models the process and risks, Practice provides safe guided rehearsal, and Production asks the learner to perform or explain independently, with offline options throughout.
+ASSET: assets/diploma/bd-v-055.svg
+USE: Shared Student Guide master.
+-->
 
 End with reflection:
 
@@ -816,6 +905,12 @@ Stop the activity immediately if:
 - the educator cannot explain what will happen next.
 
 Stopping is a successful safety behavior. Do not shame the learner who notices a problem.
+
+<!-- VISUAL: BD-V-089
+ALT: An unsafe or unexplained condition stops the activity. The educator protects people and secrets, verifies the issue, and uses a safe prepared route or postpones. A learner safety-critical assessment error is recorded Not yet under the protocol.
+ASSET: assets/diploma/bd-v-089.svg
+USE: Educator-only diagram; see the asset index brief.
+-->
 
 ### No real secrets in class
 
@@ -936,6 +1031,12 @@ Teach the difference explicitly:
 - A **function** describes what money does: [medium of exchange](mfb-bd-lx.md#term-medium-of-exchange), [unit of account](mfb-bd-lx.md#term-unit-of-account), or [store of value](mfb-bd-lx.md#term-store-of-value).
 - A **property** describes a quality that can make it useful: [durability](mfb-bd-lx.md#term-durability), [portability](mfb-bd-lx.md#term-portability), [divisibility](mfb-bd-lx.md#term-divisibility), [fungibility](mfb-bd-lx.md#term-fungibility), [scarcity](mfb-bd-lx.md#term-scarcity), [acceptability](mfb-bd-lx.md#term-acceptability), or [verifiability](mfb-bd-lx.md#term-verifiability).
 
+<!-- VISUAL: BD-V-008
+ALT: Three money functions describe what money does; seven properties describe qualities that support those functions, with trade-offs depending on purpose.
+ASSET: assets/diploma/bd-v-008.svg
+USE: Shared Student Guide master.
+-->
+
 Use different purposes. Ask which properties matter for:
 
 - buying food today;
@@ -962,6 +1063,12 @@ Then ask whether the same form of money performs equally well in every purpose a
 
 Use three people with mismatched goods and wants. Let the group attempt direct exchange, then introduce a commonly accepted medium.
 
+<!-- VISUAL: BD-V-009
+ALT: Amina, Luis, and Mei have mismatched goods and wants. A commonly accepted medium separates selling from buying without removing every exchange problem.
+ASSET: assets/diploma/bd-v-009.svg
+USE: Shared Student Guide master.
+-->
+
 Ask:
 
 - What made the first exchange difficult?
@@ -982,6 +1089,12 @@ Use one limited local resource to distinguish four ideas:
 - **[Time preference](mfb-bd-lx.md#term-time-preference):** circumstances affect how strongly a person prefers [value](mfb-bd-lx.md#term-value) now rather than later.
 - **Trade-off:** a choice gains one benefit while accepting a cost or giving up another.
 
+<!-- VISUAL: BD-V-011
+ALT: A limited resource forces a choice between uses; the chosen benefit, best alternative forgone, preference for now or later, and resulting trade-off are labelled.
+ASSET: assets/diploma/bd-v-011.svg
+USE: Shared Student Guide master.
+-->
+
 Ask learners to explain why rarity alone does not create [value](mfb-bd-lx.md#term-value). A rare item with no use or demand may remain unwanted.
 
 Avoid moral judgments about [time preference](mfb-bd-lx.md#term-time-preference). A person meeting an urgent need is not failing a lesson about saving.
@@ -997,6 +1110,12 @@ Build a layered or braided timeline rather than a single arrow of progress. Incl
 - bank and government money;
 - modern fiat arrangements; and
 - digital interfaces to fiat-denominated claims.
+
+<!-- VISUAL: BD-V-012
+ALT: Overlapping historical tracks show exchange and records, commodities, coins, representative paper, bank and government money, modern fiat, and digital interfaces coexisting.
+ASSET: assets/diploma/bd-v-012.svg
+USE: Shared Student Guide master.
+-->
 
 Invite local additions. Ask which forms coexisted rather than assuming one replaced another completely.
 
@@ -1023,6 +1142,12 @@ Ask learners to identify:
 5. the rules or institution supporting settlement; and
 6. what would make the payment harder if acceptance or trust broke down.
 
+<!-- VISUAL: BD-V-014
+ALT: A fiat-payment map distinguishes central-bank, commercial-bank, government, citizen, business, and payment-service roles, claims, instructions, and dependencies.
+ASSET: assets/diploma/bd-v-014.svg
+USE: Shared Student Guide master.
+-->
+
 Be ready to explain the local system. Name which details are general and which are specific to the jurisdiction. Invite multiple experiences, including cash-based and underbanked realities, without turning the discussion into a political conclusion.
 
 Avoid these shortcuts:
@@ -1042,12 +1167,24 @@ Draw a simplified balance sheet:
 - banks must manage [liquidity](mfb-bd-lx.md#term-liquidity), [capital](mfb-bd-lx.md#term-capital), funding, [credit risk](mfb-bd-lx.md#term-credit-risk), regulation, and settlement; and
 - exact rules vary by jurisdiction.
 
+<!-- VISUAL: BD-V-015
+ALT: A simplified bank loan creates a loan asset and matching deposit liability; transfer, settlement, and liquidity constraints remain.
+ASSET: assets/diploma/bd-v-015.svg
+USE: Shared Student Guide master.
+-->
+
 Do not use a repeated-physical-deposit “money multiplier” story as if it describes every modern banking system mechanically.
 
 Distinguish:
 
 - **[Liquidity risk](mfb-bd-lx.md#term-liquidity-risk):** the bank cannot meet payments or withdrawals when due even if its [assets](mfb-bd-lx.md#term-asset) may have long-term [value](mfb-bd-lx.md#term-value).
 - **[Solvency risk](mfb-bd-lx.md#term-solvency-risk):** the bank's [assets](mfb-bd-lx.md#term-asset) are insufficient to cover its obligations.
+
+<!-- VISUAL: BD-V-016
+ALT: Two fictional balance sheets distinguish insufficient immediately available funds from assets worth less than obligations.
+ASSET: assets/diploma/bd-v-016.svg
+USE: Shared Student Guide master.
+-->
 
 Ask:
 
@@ -1073,6 +1210,12 @@ Do not imply that every bank is fraudulent, every bank is about to fail, or regu
 ### Inflation and purchasing power
 
 Teach [price inflation](mfb-bd-lx.md#term-price-inflation) as a sustained rise in the general [price](mfb-bd-lx.md#term-price) level. One product becoming more expensive is not, by itself, proof of general [inflation](mfb-bd-lx.md#term-inflation).
+
+<!-- VISUAL: BD-V-017
+ALT: The same fixed currency amount buys a full basket at one illustrative date and less when the basket price rises; price level and purchasing power are distinct.
+ASSET: assets/diploma/bd-v-017.svg
+USE: Shared Student Guide master.
+-->
 
 Ask learners to identify possible causes of a [price](mfb-bd-lx.md#term-price) change:
 
@@ -1135,6 +1278,12 @@ Use five questions:
 5. Can users independently verify the system's rules and balances?
 
 Explain that a [CBDC](mfb-bd-lx.md#term-cbdc) is a central-bank [liability](mfb-bd-lx.md#term-liability) in digital form. “Digital” does not automatically mean decentralized, scarce, private, permissionless, or openly verifiable.
+
+<!-- VISUAL: BD-V-018
+ALT: Cash, bank deposits, a generic retail CBDC, and Bitcoin are compared by issuer, control, access, visibility, supply rules, and verification, with CBDC features marked design-dependent.
+ASSET: assets/diploma/bd-v-018.svg
+USE: Shared Student Guide master.
+-->
 
 [CBDC](mfb-bd-lx.md#term-cbdc) designs differ. Do not claim that every [CBDC](mfb-bd-lx.md#term-cbdc) has or lacks a feature. Separate confirmed local design, published proposal, commentary, and speculation.
 
@@ -1262,6 +1411,12 @@ Start with the goal: direct online payments without a central financial [interme
 
 A central digital-payment system can keep one authoritative [ledger](mfb-bd-lx.md#term-ledger) and reject a second spend. A decentralized system needs independent participants to agree on a valid history without trusting one database owner.
 
+<!-- VISUAL: BD-V-021
+ALT: Central ledger approval is compared with signed transactions, miner block proposals, and independent node verification, reducing some central dependence without eliminating trust.
+ASSET: assets/diploma/bd-v-021.svg
+USE: Shared Student Guide master.
+-->
+
 Ask:
 
 > If I can copy a digital file perfectly, what prevents me from sending the same digital unit to two people?
@@ -1290,6 +1445,12 @@ Use a five-part map:
 4. [Nodes](mfb-bd-lx.md#term-node) independently check transactions, blocks, [proof of work](mfb-bd-lx.md#term-proof-of-work), and issuance rules.
 5. Participants converge on the valid history with the most [accumulated work](mfb-bd-lx.md#term-accumulated-work).
 
+<!-- VISUAL: BD-V-023
+ALT: Signatures, peer-to-peer communication, blocks and mining, independent verification, and accumulated proof of work combine to reject conflicting second spends.
+ASSET: assets/diploma/bd-v-023.svg
+USE: Shared Student Guide master.
+-->
+
 No single part creates Bitcoin's credible [scarcity](mfb-bd-lx.md#term-scarcity) alone. Avoid saying “the [blockchain](mfb-bd-lx.md#term-blockchain) solves everything.”
 
 ### Digital signatures
@@ -1316,6 +1477,12 @@ Qualify the claim:
 
 Peer-to-peer does not mean only two computers communicate directly or that no infrastructure is used. It means a central Bitcoin account operator is not required to authorize a valid transfer.
 
+<!-- VISUAL: BD-V-025
+ALT: Users, nodes, miners, developers, and services have different powers and limits around a shared protocol; distributed enforcement does not imply equal influence.
+ASSET: assets/diploma/bd-v-025.svg
+USE: Shared Student Guide master.
+-->
+
 ### Users, nodes, miners, developers, and services
 
 Use these exact beginner boundaries:
@@ -1327,6 +1494,12 @@ Use these exact beginner boundaries:
 | [Miner](mfb-bd-lx.md#term-miner) | Builds [candidate blocks](mfb-bd-lx.md#term-candidate-block) and performs [proof of work](mfb-bd-lx.md#term-proof-of-work) to propose their order | Can make invalid issuance or transactions valid to honest [nodes](mfb-bd-lx.md#term-node) |
 | Developer | Reviews, writes, and proposes software | Can force participants to adopt a rule change |
 | [Bitcoin service](mfb-bd-lx.md#term-bitcoin-service) | Provides a wallet, exchange, explorer, payment, or other interface | Is the [Bitcoin protocol](mfb-bd-lx.md#term-bitcoin-protocol) itself |
+
+<!-- VISUAL: BD-V-030
+ALT: Users authorize or accept transactions, nodes verify, miners propose blocks, developers propose software, and services support customers; no single role controls the network.
+ASSET: assets/diploma/bd-v-030.svg
+USE: Shared Student Guide master.
+-->
 
 #### Activity: invalid block
 
@@ -1352,6 +1525,12 @@ Teach the relationship, not the mathematics:
 - [proof of work](mfb-bd-lx.md#term-proof-of-work) helps order transactions and makes history costly to rewrite; and
 - [difficulty](mfb-bd-lx.md#term-difficulty) adjusts so blocks arrive about every ten minutes on average, not exactly every ten minutes.
 
+<!-- VISUAL: BD-V-031
+ALT: Many computational attempts seek a result below the target; a miner broadcasts a candidate block and nodes verify its work and rules before accepting it.
+ASSET: assets/diploma/bd-v-031.svg
+USE: Shared Student Guide master.
+-->
+
 Avoid saying [miners](mfb-bd-lx.md#term-miner) solve useful outside equations. Avoid claiming the energy cost is automatically justified or automatically wasteful.
 
 Use claim, evidence, and trade-off:
@@ -1373,6 +1552,12 @@ Teach:
 - the maximum approaches 21 million bitcoin;
 - [nodes](mfb-bd-lx.md#term-node) reject blocks that create more than the rules allow; and
 - [transaction fees](mfb-bd-lx.md#term-transaction-fee) also compensate [miners](mfb-bd-lx.md#term-miner).
+
+<!-- VISUAL: BD-V-027
+ALT: Block subsidy falls in steps at halving heights while cumulative issuance approaches the supply limit; transaction fees are shown separately and no price forecast is implied.
+ASSET: assets/diploma/bd-v-027.svg
+USE: Shared Student Guide master.
+-->
 
 The limit is a public network rule, not a physical law. A person can write other software, but cannot force existing participants to adopt it. Incompatible adoption can create a different network rather than silently changing Bitcoin for everyone.
 
@@ -1396,6 +1581,12 @@ Use a few conversions:
 - 0.01 bitcoin = 1,000,000 [sats](mfb-bd-lx.md#term-sat);
 - 0.001 bitcoin = 100,000 [sats](mfb-bd-lx.md#term-sat); and
 - 1 [sat](mfb-bd-lx.md#term-sat) = 0.00000001 bitcoin.
+
+<!-- VISUAL: BD-V-028
+ALT: One bitcoin equals 100 million sats; the displayed fractional bitcoin and sat quantities describe equivalent amounts without changing the total supply.
+ASSET: assets/diploma/bd-v-028.svg
+USE: Shared Student Guide master.
+-->
 
 Ask why dividing one bitcoin into smaller units does not create more bitcoin. Compare cutting a measured quantity into smaller units without claiming the physical analogy explains the protocol.
 
@@ -1439,6 +1630,12 @@ Use a generic guided table rather than promoting named [assets](mfb-bd-lx.md#ter
 | What does the course recommend? | Study the Bitcoin-specific beginner competencies and safety practices | No acquisition or product recommendation | No acquisition, trading, or token promotion |
 
 Do not imply that every non-Bitcoin [asset](mfb-bd-lx.md#term-asset) has the same structure. The learner's task is to ask consistent questions about [issuer](mfb-bd-lx.md#term-issuer), control, supply, verification, [custody](mfb-bd-lx.md#term-custody), and counterparty dependence.
+
+<!-- VISUAL: BD-V-099
+ALT: Three generic asset models are compared through issuance, supply support, verification, and counterparties. Wallets and custodians form a separate dependency layer across all three; similar interfaces do not establish the same trust model.
+ASSET: assets/diploma/bd-v-099.svg
+USE: Educator-only diagram; see the asset index brief.
+-->
 
 ### Responsible learning versus speculation
 
@@ -1639,6 +1836,12 @@ Show the separation among:
 - the wallet's interface and network connection; and
 - any external service the wallet depends on.
 
+<!-- VISUAL: BD-V-034
+ALT: The shared ledger records bitcoin, a wallet manages keys and instructions, the user authorizes action, and the network verifies; bitcoin is not stored inside a device.
+ASSET: assets/diploma/bd-v-034.svg
+USE: Shared Student Guide master.
+-->
+
 Ask:
 
 - If the phone breaks, what still exists?
@@ -1727,6 +1930,12 @@ This activity makes public-ledger [privacy](mfb-bd-lx.md#term-privacy) visible.
 
 **Offline fallback:** Use a printed sequence showing one address used once and another reused across several receipts.
 
+<!-- VISUAL: BD-V-091
+ALT: Several fictional receipts share one reused address and are easily linked. Fresh receiving addresses reduce that direct link, but outside information and explorer searches can still reveal relationships. Public data does not by itself prove a person’s identity.
+ASSET: assets/diploma/bd-v-091.svg
+USE: Educator-only diagram; see the asset index brief.
+-->
+
 ### Keys and digital authorization
 
 Keep the practical rule central:
@@ -1744,6 +1953,12 @@ Do not use “the [private key](mfb-bd-lx.md#term-private-key) proves who you ar
 
 No legitimate educator, wallet company, exchange employee, developer, support worker, or public figure needs a learner's [private key](mfb-bd-lx.md#term-private-key) or [seed phrase](mfb-bd-lx.md#term-seed-phrase).
 
+<!-- VISUAL: BD-V-036
+ALT: A secret private key relates to public-key and receiving-address information and creates signatures that nodes can verify without learning the private key.
+ASSET: assets/diploma/bd-v-036.svg
+USE: Shared Student Guide master.
+-->
+
 ### Seed phrases and recovery
 
 A [seed phrase](mfb-bd-lx.md#term-seed-phrase), also called a [recovery phrase](mfb-bd-lx.md#term-seed-phrase), is one recovery method used by many wallets. It is an ordered list of words that can recreate the keys for compatible wallet designs. It is not a universal feature of every wallet and is more powerful than an ordinary account password.
@@ -1755,6 +1970,12 @@ Teach the consequences:
 - losing it can remove the recovery path;
 - [wallet compatibility](mfb-bd-lx.md#term-wallet-compatibility) matters; and
 - a seed that may have been exposed should be treated as compromised.
+
+<!-- VISUAL: BD-V-037
+ALT: A secret offline backup lets a compatible wallet recreate keys and restore expected addresses and transaction access; methods depend on wallet design.
+ASSET: assets/diploma/bd-v-037.svg
+USE: Shared Student Guide master.
+-->
 
 #### Never do this in class
 
@@ -1781,6 +2002,12 @@ Teach the consequences:
 6. clear the temporary device; and
 7. return the fictional material securely or destroy it as instructed.
 
+<!-- VISUAL: BD-V-090
+ALT: The learner follows seven prepared recovery-practice steps in a private area, checks the expected result, clears the device, and returns or destroys fictional material. The educator observes decisions and safe handling across a boundary that hides secret information.
+ASSET: assets/diploma/bd-v-090.svg
+USE: Educator-only diagram; see the asset index brief.
+-->
+
 **Required safety response:** If a real seed may have been exposed, stop using it as a safe backup, create a new trusted wallet with new recovery information, and move funds after carefully verifying the destination. The learner should seek help without revealing either phrase.
 
 Inheritance, [multisignature](mfb-bd-lx.md#term-multisignature) design, advanced passphrases, and high-value recovery planning may require advanced security and professional legal advice. They are outside required Diploma performance.
@@ -1803,6 +2030,12 @@ Use guided scenarios rather than identity labels. A learner should compare:
 
 Do not treat [self-custody](mfb-bd-lx.md#term-self-custody) as a moral test. A beginner may choose a small custodial balance while learning. The educational requirement is to recognize the trust model and risk.
 
+<!-- VISUAL: BD-V-038
+ALT: A custodial service controls spending keys and recovery, while a self-custodial user controls keys and backups; both routes have dependencies and failure risks.
+ASSET: assets/diploma/bd-v-038.svg
+USE: Shared Student Guide master.
+-->
+
 ### Hot, cold, hardware, and custodial are different dimensions
 
 Avoid a common category error:
@@ -1813,6 +2046,12 @@ Avoid a common category error:
 - **On-chain / Lightning** describes a payment path, not [custody](mfb-bd-lx.md#term-custody) by itself.
 
 A Lightning wallet can be custodial or self-custodial. A [hardware wallet](mfb-bd-lx.md#term-hardware-wallet) still needs a recovery process. A cold arrangement can be badly designed. A [hot wallet](mfb-bd-lx.md#term-hot-wallet) can be appropriate for small everyday use.
+
+<!-- VISUAL: BD-V-041
+ALT: A two-axis map separates custodial or self-custodial key control from hot or cold signing environments; hardware design and payment path do not determine custody alone.
+ASSET: assets/diploma/bd-v-041.svg
+USE: Shared Student Guide master.
+-->
 
 Ask learners to select a tool for an invented purpose, then require them to state the benefit and new risk. Do not ask them to choose for their real holdings.
 
@@ -1831,6 +2070,12 @@ Demonstrate:
 7. Interpret [confirmation](mfb-bd-lx.md#term-confirmation) or payment status appropriately.
 
 Explain that a message or screenshot saying “sent” is not proof of receipt. The receiver should verify within their own wallet or trusted view.
+
+<!-- VISUAL: BD-V-043
+ALT: A fictional receiving flow identifies the payment request, network, amount, verification, and pending or confirmed status; a sender screenshot is not proof of receipt.
+ASSET: assets/diploma/bd-v-043.svg
+USE: Shared Student Guide master.
+-->
 
 #### Practice: receive-screen walkthrough
 
@@ -1859,6 +2104,12 @@ Use a pause-and-check sequence:
 8. Use a small test when the process or amount is unfamiliar.
 9. Approve only after all information matches.
 10. Verify the result in the appropriate wallet or transaction view.
+
+<!-- VISUAL: BD-V-044
+ALT: Before approval, the sender verifies recipient, method, destination, amount, unit, fees and relevant expiry; mismatches lead to stopping, and the result is checked afterwards.
+ASSET: assets/diploma/bd-v-044.svg
+USE: Shared Student Guide master.
+-->
 
 Teach learners to stop if the recipient changes the destination unexpectedly, discourages verification, creates urgency, or asks for recovery information.
 
@@ -1901,6 +2152,12 @@ Using a prepared *[txid](mfb-bd-lx.md#term-transaction-id)*, show:
 - block inclusion and [confirmation](mfb-bd-lx.md#term-confirmation) count; and
 - information that becomes public.
 
+<!-- VISUAL: BD-V-045
+ALT: A fictional on-chain transaction moves from unconfirmed to first block inclusion and later confirmations beside an annotated explorer view and a privacy reminder.
+ASSET: assets/diploma/bd-v-045.svg
+USE: Shared Student Guide master.
+-->
+
 Then ask:
 
 - What can the explorer show?
@@ -1928,6 +2185,12 @@ Teach patterns rather than a list of brands:
 Use the default response:
 
 > Pause. Share nothing. Send nothing. Close the channel. Verify independently through a known source. Ask for help without revealing secrets.
+
+<!-- VISUAL: BD-V-046
+ALT: An invented message illustrates impersonation, urgency, recovery requests, and other scam signals with a stop-and-verify response and no functioning payment link.
+ASSET: assets/diploma/bd-v-046.svg
+USE: Shared Student Guide master.
+-->
 
 #### Activity: scam stations
 
@@ -1965,6 +2228,12 @@ For every route, ask:
 - What physical-safety risk exists?
 - Which local law, tax, or reporting rule may apply?
 
+<!-- VISUAL: BD-V-047
+ALT: Possible earning, exchange, service, and receipt pathways lead to custodial or self-custodial outcomes with cost, identity, withdrawal, counterparty, and local-context checks.
+ASSET: assets/diploma/bd-v-047.svg
+USE: Shared Student Guide master.
+-->
+
 Use **[no-KYC](mfb-bd-lx.md#term-no-kyc)** consistently for a path collecting less or no standard identity information. Do not imply that [no-KYC](mfb-bd-lx.md#term-no-kyc) removes fraud, legal, counterparty, or physical risk. Do not advise evasion of local law.
 
 ### On-chain and Lightning payments
@@ -1982,6 +2251,12 @@ Use a comparison that separates payment path from [custody](mfb-bd-lx.md#term-cu
 | Main beginner check | Correct address, network, amount, fee, and [confirmation](mfb-bd-lx.md#term-confirmation) | Correct invoice or destination, amount, expiry, fee, and payment result |
 
 Lightning is not a separate coin. A successful Lightning payment does not prove the wallet is safe for a larger balance. Channel operation, routing infrastructure, and [liquidity](mfb-bd-lx.md#term-lightning-liquidity) management are Advanced Learning outside the Diploma.
+
+<!-- VISUAL: BD-V-049
+ALT: Bitcoin base-layer settlement and Lightning are related payment paths with different requests, timing, fees, and failure conditions; either wallet path can involve custody.
+ASSET: assets/diploma/bd-v-049.svg
+USE: Shared Student Guide master.
+-->
 
 ### Supported first access
 
@@ -2016,6 +2291,12 @@ Use stations after learners have seen each process.
 | 8. Pathway | Compare two local acquisition or payment paths | No endorsement or advice |
 
 Do not use the stations as formal assessment unless the exact tasks, variants, criteria, and records are approved.
+
+<!-- VISUAL: BD-V-092
+ALT: Eight practice stations cover custody, public and secret information, receiving, sending, recovery, explorers, scams, and pathways. A separate approved observation route identifies each learner’s decisions; shared-device resets and private recovery space protect participants.
+ASSET: assets/diploma/bd-v-092.svg
+USE: Educator-only diagram; see the asset index brief.
+-->
 
 ### Common misconceptions and responses
 
@@ -2119,6 +2400,12 @@ Ask first:
 A valid conclusion may be that Bitcoin is not the best option for the case. The module assesses reasoning and safe performance, not adoption.
 
 ### The seven-step module builder
+
+<!-- VISUAL: BD-V-093
+ALT: Seven planning stages connect local context and need to a focused, verified task, safe teaching sequence, observable evidence, and debrief. The existing alternative stays in view, and unsuitable options return to planning.
+ASSET: assets/diploma/bd-v-093.svg
+USE: Educator-only diagram; see the asset index brief.
+-->
 
 #### 1. Learn the local context
 
@@ -2238,6 +2525,12 @@ Do not deliver a live module until every required answer is satisfactory.
 | Is access equitable? | Learners can participate despite device, language, disability, or connectivity constraints. | Prepare an equivalent accessible pathway. |
 | Can evidence be observed? | The educator can see the learner's decisions and hear the explanation. | Reduce group size or schedule individual assessment. |
 
+<!-- VISUAL: BD-V-094
+ALT: Eight checks cover purpose, competency, educator capability, tools, local rules, safety, access, and observation. Every check must be satisfactory for live delivery; a gap leads to a safer route or revised plan and another readiness review.
+ASSET: assets/diploma/bd-v-094.svg
+USE: Educator-only diagram; see the asset index brief.
+-->
+
 ### Module 4 planning record
 
 Complete this before delivery.
@@ -2318,6 +2611,12 @@ Before a Lightning workshop, verify and explain:
 - the offline simulation.
 
 A successful small Lightning payment shows that the selected path worked once. It does not prove that the wallet is safe for larger balances or that the same path will work in every place.
+
+<!-- VISUAL: BD-V-058
+ALT: A receiver creates a request, the sender scans and verifies, approval is followed by routing, and both wallets show a result; failure and custody remain visible.
+ASSET: assets/diploma/bd-v-058.svg
+USE: Shared Student Guide master.
+-->
 
 ### Module option A: local payment-path comparison
 
@@ -2402,6 +2701,12 @@ Cover:
 - internet or wallet failure; and
 - support and escalation.
 
+<!-- VISUAL: BD-V-065
+ALT: Merchant operations connect pricing, request, customer checks, merchant confirmation, records, custody or conversion, and verified refunds or exceptions.
+ASSET: assets/diploma/bd-v-065.svg
+USE: Shared Student Guide master.
+-->
+
 **Production:** The learner performs or directs a payment and refund scenario. They must authenticate the customer, request fresh return information, check the destination and amount, identify who pays any fee, and record the result without exposing unnecessary data.
 
 **Debrief:** Why is sending a refund automatically to an assumed original address unsafe? Who becomes responsible when several staff share one wallet?
@@ -2443,6 +2748,12 @@ Ask:
 - What support or dispute process exists?
 - Which local rule applies?
 
+<!-- VISUAL: BD-V-061
+ALT: A complete local route follows starting value through exchange, custody, transfer, receipt, and final use or conversion, exposing costs and failure points at every stage.
+ASSET: assets/diploma/bd-v-061.svg
+USE: Shared Student Guide master.
+-->
+
 **Production:** The learner chooses a path for an invented case, sequences the safe checks, and explains which risk is reduced and which is added.
 
 **Safety:** Do not facilitate an actual peer-to-peer cash trade as a default classroom exercise. Never direct learners to evade [KYC](mfb-bd-lx.md#term-kyc), tax, exchange, or other local rules.
@@ -2462,6 +2773,12 @@ Map:
 7. what happens when internet or electricity fails;
 8. what [price](mfb-bd-lx.md#term-price), [custody](mfb-bd-lx.md#term-custody), fraud, and privacy risks participants carry; and
 9. whether the loop depends on giveaways or one organizer.
+
+<!-- VISUAL: BD-V-064
+ALT: A local cycle links workers, customers, merchants, suppliers, support, and conversion points with distinct value, goods, and support arrows and visible dependencies.
+ASSET: assets/diploma/bd-v-064.svg
+USE: Shared Student Guide master.
+-->
 
 For resource discovery, verify:
 
@@ -2490,6 +2807,12 @@ If one person or group controls bitcoin for others, they are acting as a [custod
 - concentration of trust.
 
 Do not turn [community-custody](mfb-bd-lx.md#term-community-custody) design into a beginner implementation exercise. Use a scenario and seek appropriate legal and security review.
+
+<!-- VISUAL: BD-V-095
+ALT: Contributors depend on whoever controls shared funds. A role map separates key control, spending authority, records, and review and highlights concentrated trust, continuity, privacy, dispute, and legal questions.
+ASSET: assets/diploma/bd-v-095.svg
+USE: Educator-only diagram; see the asset index brief.
+-->
 
 ### Strong Module 4 discussion questions
 
@@ -2653,6 +2976,12 @@ Use this sequence:
 7. Test difficult safety instructions with learners.
 8. Confirm that competencies, task difficulty, rubrics, and stop conditions remain equivalent.
 9. Confirm that the language version preserves the competencies, safety instructions, and assessment standard before use.
+
+<!-- VISUAL: BD-V-096
+ALT: Clear source meaning and terminology lead to translation and authorized localization, then language and subject review, learner safety testing, and confirmation of equivalent competencies and assessment standards. Ambiguity returns to revision.
+ASSET: assets/diploma/bd-v-096.svg
+USE: Educator-only diagram; see the asset index brief.
+-->
 
 Avoid idioms and metaphors that cannot travel cleanly. If using an analogy, always state what it explains and what it does not.
 
@@ -2845,6 +3174,12 @@ Only use an approved equivalent practical variant. Educators may not adapt an ac
 
 If equivalence is uncertain, use the adaptation for practice and select an assessment task whose evidence and standard clearly match the competency.
 
+<!-- VISUAL: BD-V-097
+ALT: Practice activities allow contextual and access adaptations. Formal theory or practical assessment must preserve the approved evidence, criteria, independence, safety, and record conditions. Uncertain equivalence returns the activity to practice and an approved assessment route.
+ASSET: assets/diploma/bd-v-097.svg
+USE: Educator-only diagram; see the asset index brief.
+-->
+
 ---
 
 ## 14. Use visuals as teaching tools
@@ -2957,6 +3292,12 @@ Remind learners:
 - do not act under pressure;
 - seek help without surrendering control; and
 - accept that “not yet” or “not for this case” can be responsible conclusions.
+
+<!-- VISUAL: BD-V-071
+ALT: A final safety sequence asks learners to stop, verify the source and payment details, keep secrets private, start small, and proceed only when the process is understood.
+ASSET: assets/diploma/bd-v-071.svg
+USE: Shared Student Guide master.
+-->
 
 ---
 
@@ -3276,5 +3617,11 @@ A strong Diploma experience is not the one with the longest lecture, the most te
 ## Continue learning
 
 Download the [My First Bitcoin App](https://myfirstbitcoin.app/) for optional microlearning, self-checks, recap, and more learning opportunities. It is not required for Diploma learning, assessment, or certification.
+
+<!-- VISUAL: BD-V-075
+ALT: Optional download QR code for the [My First Bitcoin App](https://myfirstbitcoin.app/), with the readable destination https://myfirstbitcoin.app/.
+ASSET: assets/diploma/bd-v-075.svg
+USE: Shared Student Guide master.
+-->
 
 Explore the [Bitcoin Diploma AI assistant](https://ai.myfirstbitcoin.org) for optional help reviewing concepts or developing explanations for a lesson. Check its responses against the course materials before using them with learners. Educators remain responsible for teaching and assessment; never enter learner records, seed phrases, or private keys.
