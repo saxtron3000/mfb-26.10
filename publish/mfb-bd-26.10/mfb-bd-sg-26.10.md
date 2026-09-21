@@ -60,9 +60,9 @@ The [My First Bitcoin App](https://myfirstbitcoin.app/) offers optional microlea
 
 Download the [My First Bitcoin App](https://myfirstbitcoin.app/) for optional microlearning, self-checks, recap, and more learning opportunities.
 
-<!-- VISUAL: BD-V-075
+<!-- VISUAL: BD-V-076
 ALT: Optional download panel for the [My First Bitcoin App](https://myfirstbitcoin.app/) with a readable URL and QR code.
-ASSET: assets/diploma/bd-v-075.svg
+ASSET: assets/diploma/bd-v-076.svg
 -->
 
 ### Why this Diploma exists
@@ -99,9 +99,9 @@ You do not need to buy bitcoin to complete this Diploma. You also do not need to
 
 If you have limited time or would like a first touch point before getting to grips with Bitcoin, begin with [Introduction to Bitcoin (ITB)](https://myfirstbitcoin.org/learn/programs#intro). It is a shorter course that introduces the basics. After the Diploma, learners who want to teach can continue to the [Educator Training Program (ETP)](https://etp.myfirstbitcoin.org/). These are separate, optional learning paths beyond the Diploma: [ITB](https://myfirstbitcoin.org/learn/programs#intro) is a short primer, the Diploma builds a broader beginner foundation, and [ETP](https://etp.myfirstbitcoin.org/) develops teaching practice. None is required to complete the Diploma. For the Diploma, you need this Student Guide, an educator, and the materials and resources your educator specifies. Explore the [student journey](https://journey.myfirstbitcoin.org/) to see how these opportunities connect and choose your next step.
 
-<!-- VISUAL: BD-V-076
+<!-- VISUAL: BD-V-077
 ALT: Optional pathway from Introduction to Bitcoin through the Diploma and educator training to community participation.
-ASSET: assets/diploma/bd-v-076.svg
+ASSET: assets/diploma/bd-v-077.svg
 -->
 
 ---
@@ -336,12 +336,12 @@ No form of money scores perfectly. [Gold](mfb-bd-lx.md#gold) is durable and scar
 
 Imagine that Amina has rice and wants shoes. Luis has shoes but wants cooking oil, not rice. Mei has cooking oil and wants repair work. Amina may need several exchanges before she can obtain the shoes. Each exchange takes time and requires agreement about value.
 
-For barter to work directly, each person must want what the other person offers at the same time and in suitable amounts. Economists call this the **double coincidence of wants**.
-
 <!-- VISUAL: BD-V-009
-ALT: Three-person barter exchange with unmatched wants and money separating selling from buying.
+ALT: Amina has rice and wants shoes; Luis has shoes and wants cooking oil; Mei has cooking oil and wants repair work. Broken arrows show that their direct exchanges do not match.
 ASSET: assets/diploma/bd-v-009.svg
 -->
+
+For barter to work directly, each person must want what the other person offers at the same time and in suitable amounts. Economists call this the **double coincidence of wants**.
 
 Barter also creates other problems:
 
@@ -353,15 +353,20 @@ Barter also creates other problems:
 
 A commonly accepted money separates selling from buying. Amina can sell rice to one person for money and later use that money to buy shoes from someone else.
 
+<!-- VISUAL: BD-V-010
+ALT: Amina sells rice for a generic commonly accepted medium, then uses it to buy shoes from another person. Selling and buying are separate actions.
+ASSET: assets/diploma/bd-v-010.svg
+-->
+
 ### Scarcity, value, and exchange
 
 Resources are limited, while human wants are not. **Scarcity** means that choosing one use of a resource prevents another use. Time, land, energy, good health, tools, and money are all scarce.
 
 The value of a good is not contained inside the object. People value goods according to their needs, preferences, information, and circumstances. Clean water may be inexpensive near a safe public source and extremely valuable during a shortage.
 
-<!-- VISUAL: BD-V-010
+<!-- VISUAL: BD-V-011
 ALT: The same clean water shown as more available near a safe source and more valuable during a shortage.
-ASSET: assets/diploma/bd-v-010.svg
+ASSET: assets/diploma/bd-v-011.svg
 -->
 
 Exchange happens when both sides prefer what they receive to what they give up. They do not need to agree that the two items have the same personal value. They only need to agree to the terms.
@@ -372,9 +377,9 @@ Three ideas help explain everyday choices:
 - **Time preference** describes how strongly a person prefers value now instead of later. Urgent needs can create a high preference for the present. Saving for a future goal shows a greater willingness to wait.
 - **Trade-off** means gaining one benefit while accepting a cost or giving up another benefit.
 
-<!-- VISUAL: BD-V-011
+<!-- VISUAL: BD-V-012
 ALT: Everyday choice showing opportunity cost, time preference, and trade-off.
-ASSET: assets/diploma/bd-v-011.svg
+ASSET: assets/diploma/bd-v-012.svg
 -->
 
 Scarcity alone does not guarantee value. An item may be rare and still have no demand. A useful monetary asset combines limited supply with properties and demand that make people willing to hold or exchange it.
@@ -398,9 +403,9 @@ Money did not develop in one identical sequence everywhere. Different societies 
 
 - **Digital money:** Much of today's money moves as digital records through banks and payment services. A card or phone does not create a new kind of money by itself. It is usually an interface to a bank deposit or another claim denominated in the national currency.
 
-<!-- VISUAL: BD-V-012
+<!-- VISUAL: BD-V-013
 ALT: Non-linear history of money showing different forms coexisting through modern fiat and digital money.
-ASSET: assets/diploma/bd-v-012.svg
+ASSET: assets/diploma/bd-v-013.svg
 -->
 
 This history shows repeated trade-offs. Convenience increased, but users often became more dependent on monetary policy, issuers, banks, and payment intermediaries.
@@ -420,14 +425,14 @@ The fiat system has several main participants:
 | Government | Collects taxes, spends, borrows, creates laws, and usually defines the national unit of account. |
 | Citizens and businesses | Earn, save, borrow, invest, pay taxes, set prices, and exchange goods and services. |
 
-<!-- VISUAL: BD-V-014
+<!-- VISUAL: BD-V-015
 ALT: Fiat-system map showing participants, claims, rules, taxes, spending, and payment instructions.
-ASSET: assets/diploma/bd-v-014.svg
+ASSET: assets/diploma/bd-v-015.svg
 -->
 
-<!-- VISUAL: BD-V-013
+<!-- VISUAL: BD-V-014
 ALT: Comparison of the main fiat-system participants and their roles.
-ASSET: assets/diploma/bd-v-013.svg
+ASSET: assets/diploma/bd-v-014.svg
 -->
 
 **Local scenario:** Choose one ordinary payment in your community, such as buying transport, food, or phone credit; receiving wages; or paying a bill. Use a realistic invented scenario if you prefer. In three or four sentences, explain:
@@ -448,9 +453,9 @@ When you deposit cash in a bank, the bank records a liability to you: it owes yo
 
 When a commercial bank approves a loan, it usually creates a new deposit in the borrower's account. This expands the amount of bank deposit money. When the principal is repaid, that deposit money is reduced. Banks are limited by capital rules, liquidity needs, credit risk, regulation, the cost of funding, and demand from qualified borrowers.
 
-<!-- VISUAL: BD-V-015
+<!-- VISUAL: BD-V-016
 ALT: Simplified bank loan flow showing a loan asset matched by a deposit liability.
-ASSET: assets/diploma/bd-v-015.svg
+ASSET: assets/diploma/bd-v-016.svg
 -->
 
 Banks generally seek profit by earning interest and fees on loans and investments while paying their operating, funding, and regulatory costs and absorbing losses when borrowers do not repay. These activities and constraints differ by bank and jurisdiction.
@@ -462,9 +467,9 @@ This creates two important risks:
 - **Liquidity risk:** A bank may own long-term loans that are expected to be repaid but still lack enough cash for many withdrawals today.
 - **Solvency risk:** Failed loans or falling asset values may leave the bank's total assets worth less than what it owes.
 
-<!-- VISUAL: BD-V-016
+<!-- VISUAL: BD-V-017
 ALT: Side-by-side fictional examples distinguishing liquidity risk from solvency risk.
-ASSET: assets/diploma/bd-v-016.svg
+ASSET: assets/diploma/bd-v-017.svg
 -->
 
 A **bank run** happens when many depositors try to withdraw at the same time because they fear the bank may fail. Deposit insurance and central-bank lending can reduce panic, but insurance eligibility and coverage limits vary by jurisdiction. These protections depend on institutions and rules, and they can move some losses or risks from an individual bank to the wider system.
@@ -479,9 +484,9 @@ The central lesson is not that every bank is about to fail. It is that a bank ba
 
 **Purchasing power** is the amount of goods and services a unit of money can buy. If a basket of basic goods rises from 100 units of currency to 110, the same 100 units no longer buy the full basket. Its purchasing power in relation to that basket has fallen.
 
-<!-- VISUAL: BD-V-017
+<!-- VISUAL: BD-V-018
 ALT: Fixed amount of money buying a smaller basket after prices rise.
-ASSET: assets/diploma/bd-v-017.svg
+ASSET: assets/diploma/bd-v-018.svg
 -->
 
 Inflation can have several causes. These include an expansion of money and credit, supply disruptions, changes in demand, currency weakness, taxes, regulation, and changes in production costs. The causes and effects are often debated. Avoid explanations that assign every price change to one factor.
@@ -512,16 +517,16 @@ People often seek alternatives when they believe cash will lose purchasing power
 | Real estate | Useful physical asset, possible rent, limited desirable locations | High entry cost, maintenance, taxes, legal dependence, and low portability |
 | Stocks | Ownership in productive businesses, possible income and growth | Business risk, market volatility, custody through institutions, and need for financial knowledge |
 
-<!-- VISUAL: BD-V-019
+<!-- VISUAL: BD-V-020
 ALT: Non-ranked comparison of precious metals, real estate, and stocks with reasons to choose them and trade-offs.
-ASSET: assets/diploma/bd-v-019.svg
+ASSET: assets/diploma/bd-v-020.svg
 -->
 
 These assets are not identical to money. A home may store value but is not practical for buying food. A share may be easy to sell in one country but unavailable to someone without a brokerage account. [Gold](mfb-bd-lx.md#gold) may cross long periods of history but be difficult to verify or divide during a small exchange.
 
-<!-- VISUAL: BD-V-020
+<!-- VISUAL: BD-V-021
 ALT: Trade-off landscape comparing assets against payment, saving, portability, productive use, and direct-control needs.
-ASSET: assets/diploma/bd-v-020.svg
+ASSET: assets/diploma/bd-v-021.svg
 -->
 
 People may also choose foreign currency, government bonds, private businesses, land, tools, education, or other assets. Every choice includes opportunity cost and risk. There is no asset that guarantees purchasing power in every period and situation.
@@ -538,9 +543,9 @@ CBDC designs differ. Some are intended mainly for financial institutions. Others
 
 A CBDC does not create a fixed monetary supply or remove central control. It changes the technology and distribution of fiat money. The central bank remains the issuer and can still apply monetary policy.
 
-<!-- VISUAL: BD-V-018
+<!-- VISUAL: BD-V-019
 ALT: Comparison matrix distinguishing cash, bank deposits, a generic retail CBDC, and Bitcoin by control, access, visibility, supply, and verification.
-ASSET: assets/diploma/bd-v-018.svg
+ASSET: assets/diploma/bd-v-019.svg
 -->
 
 Digital does not automatically mean decentralized, scarce, private, or open to independent verification. A CBDC may use digital technology, but it is still fiat money if its issuer, supply rules, access rules, and payment permissions remain centrally managed.
@@ -589,9 +594,9 @@ For many years, computer scientists tried to create digital money that did not n
 
 Bitcoin was created to solve this problem with a peer-to-peer network. Its design allows participants to agree on one transaction history without a central ledger keeper. It combines a public ledger (blockchain), digital signatures, a network of validating nodes, proof of work, and economic incentives.
 
-<!-- VISUAL: BD-V-021
+<!-- VISUAL: BD-V-022
 ALT: Central intermediary model contrasted with Bitcoin’s distributed verification model.
-ASSET: assets/diploma/bd-v-021.svg
+ASSET: assets/diploma/bd-v-022.svg
 -->
 
 Bitcoin does not remove trust from every part of life. It reduces the need to trust a central authority for the issuance and settlement of its native money.
@@ -610,9 +615,9 @@ Their goal was not simply digital money. Bank deposits were already digital. The
 
 Bitcoin was built upon decades of work by many people. Its design joined earlier ideas in a new way and provided incentives for an open network to keep operating.
 
-<!-- VISUAL: BD-V-022
+<!-- VISUAL: BD-V-023
 ALT: Historical chain of ideas leading from cryptography and digital cash research toward decentralized digital money.
-ASSET: assets/diploma/bd-v-022.svg
+ASSET: assets/diploma/bd-v-023.svg
 -->
 
 ### Early digital-money attempts and the double-spend problem
@@ -643,9 +648,9 @@ The whitepaper brought together the features needed for that approach:
 4. **Independent verification:** nodes check transactions and blocks against Bitcoin's rules.
 5. **A shared history with accumulated proof of work:** participants recognize the valid chain of transactions with the most accumulated work as the shared record.
 
-<!-- VISUAL: BD-V-023
+<!-- VISUAL: BD-V-024
 ALT: Five-part Bitcoin response to double spending: peer-to-peer network, signatures, blocks, verification, and shared history.
-ASSET: assets/diploma/bd-v-023.svg
+ASSET: assets/diploma/bd-v-024.svg
 -->
 
 This module explains these concepts in more detail. Together, they gave a practical answer to the double-spend problem: the network can reject a second attempt to spend the same bitcoin without relying on a central authority. Bitcoin offered the missing combination that decades of digital-money experiments had been seeking.
@@ -658,9 +663,9 @@ Bitcoin creates digital scarcity by combining signatures, a public transaction h
 
 Scarcity is more credible when the rules are public, users can verify them independently, and no single issuer can quietly change the supply for everyone. This is why Bitcoin's supply limit must be studied together with decentralization and node verification.
 
-<!-- VISUAL: BD-V-026
+<!-- VISUAL: BD-V-027
 ALT: Digital scarcity explanation linking public rules, verification, double-spend prevention, and credible supply limits.
-ASSET: assets/diploma/bd-v-026.svg
+ASSET: assets/diploma/bd-v-027.svg
 -->
 
 ### The Blockchain - Bitcoin’s Public Ledger
@@ -689,9 +694,9 @@ Bitcoin's decentralization comes from several features:
 
 Decentralization is not the same as equal influence. Mining equipment, technical knowledge, money, internet access, and software development are not distributed equally. Large service providers can become points of dependence for their own users. Bitcoin's claim is narrower: no single participant has the authority to unilaterally change the ledger or monetary rules for everyone.
 
-<!-- VISUAL: BD-V-025
+<!-- VISUAL: BD-V-026
 ALT: Decentralization map showing users, nodes, miners, software, and voluntary rule adoption with limits on unilateral control.
-ASSET: assets/diploma/bd-v-025.svg
+ASSET: assets/diploma/bd-v-026.svg
 -->
 
 Decentralization also creates costs. Coordination can be slower. Users must verify information and take more responsibility. There is no central support desk for the Bitcoin network. These trade-offs are part of the design, not accidental defects that can be removed without changing the system.
@@ -708,9 +713,9 @@ This allows a person to control bitcoin without asking a bank or other central o
 
 Peer-to-peer does not always mean that only two computers communicate directly. A transaction may pass through wallets, internet providers, and many network nodes. The important point is that no central Bitcoin operator must approve the sender or recipient.
 
-<!-- VISUAL: BD-V-029
+<!-- VISUAL: BD-V-030
 ALT: Peer-to-peer transaction broadcast through multiple network participants without a central coordinator.
-ASSET: assets/diploma/bd-v-029.svg
+ASSET: assets/diploma/bd-v-030.svg
 -->
 
 Users can still choose intermediaries. An exchange may hold bitcoin for customers. A payment service may simplify an invoice. A hosted wallet may manage keys. These services can be convenient, but the user then depends on the service's rules and security.
@@ -731,9 +736,9 @@ Bitcoin works because different participants perform different roles.
 
 - **Developers** review, write, and propose software changes. They do not own Bitcoin's rules. A software change matters only if participants choose to run software that follows those rules.
 
-<!-- VISUAL: BD-V-030
+<!-- VISUAL: BD-V-031
 ALT: Roles of users, nodes, miners, developers, and services with arrows showing how they limit one another.
-ASSET: assets/diploma/bd-v-030.svg
+ASSET: assets/diploma/bd-v-031.svg
 -->
 
 These roles limit one another:
@@ -755,9 +760,9 @@ A miner changes a small piece of data in a proposed block and runs it through a 
 
 When a miner finds a valid result, it broadcasts the block. Nodes can check the proof quickly, even though finding it required significant computation and energy. If the block includes a transaction, that transaction receives its first **confirmation**. Each valid block added after it adds another confirmation, making the transaction's place in the blockchain more costly to rewrite. This difference is important: work is costly to produce and easy to verify.
 
-<!-- VISUAL: BD-V-031
+<!-- VISUAL: BD-V-032
 ALT: Proof-of-work process from candidate block through costly search, quick verification, and broadcast.
-ASSET: assets/diploma/bd-v-031.svg
+ASSET: assets/diploma/bd-v-032.svg
 -->
 
 Proof of work serves several purposes:
@@ -786,9 +791,9 @@ Every 210,000 blocks, the subsidy is cut in half. This event is called a **halvi
 
 The subsidy began at 50 BTC per block. It falls by half in repeated steps until it becomes too small to continue. Miners also receive transaction fees. Over time, fees are expected to become a more important part of miner revenue.
 
-<!-- VISUAL: BD-V-027
+<!-- VISUAL: BD-V-028
 ALT: Bitcoin issuance chart showing the 21 million supply, block subsidy, and halvings.
-ASSET: assets/diploma/bd-v-027.svg
+ASSET: assets/diploma/bd-v-028.svg
 -->
 
 The 21 million limit is enforced by nodes. If a miner creates more bitcoin than the rules allow, validating nodes reject the block. A software developer can write different code, but cannot force other people to run it.
@@ -813,9 +818,9 @@ One bitcoin (1 BTC) can be divided into **100,000,000 satoshis**. A satoshi, oft
 | 0.001 BTC | 100,000 sats |
 | 0.00000001 BTC | 1 sat |
 
-<!-- VISUAL: BD-V-028
+<!-- VISUAL: BD-V-029
 ALT: Bitcoin and satoshi denominations showing equivalent amounts at different unit scales.
-ASSET: assets/diploma/bd-v-028.svg
+ASSET: assets/diploma/bd-v-029.svg
 -->
 
 **You do not need to buy or use a whole bitcoin.** Bitcoin software can display an amount in bitcoin or sats. Many people use sats for everyday amounts because whole numbers are easier to read.
@@ -842,9 +847,9 @@ Bitcoin combines properties that did not previously exist together in one asset:
 | Verifiability | A node can verify supply, transaction rules, and ownership proofs. |
 | Acceptability | Acceptance is growing in some places but remains much lower than national currencies in many communities. |
 
-<!-- VISUAL: BD-V-032
+<!-- VISUAL: BD-V-033
 ALT: Bitcoin properties compared with plain-language explanations and their practical limits.
-ASSET: assets/diploma/bd-v-032.svg
+ASSET: assets/diploma/bd-v-033.svg
 -->
 
 Bitcoin can perform the three functions of money, but not equally in every place:
@@ -902,9 +907,9 @@ Bitcoin appeared through a short series of public events.
 | 12 January 2009 | Satoshi sent bitcoin to Hal Finney in the first recorded person-to-person Bitcoin transaction. | The software moved value between two participants as designed. |
 | 22 May 2010 | A user paid 10,000 BTC for two pizzas. | The event showed bitcoin being exchanged for ordinary goods and is remembered as Bitcoin Pizza Day. |
 
-<!-- VISUAL: BD-V-024
+<!-- VISUAL: BD-V-025
 ALT: Bitcoin origin timeline linking key dates, source material, and early network events.
-ASSET: assets/diploma/bd-v-024.svg
+ASSET: assets/diploma/bd-v-025.svg
 -->
 
 Explore the source records: read the [Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf), inspect the [Genesis Block](https://mempool.space/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f) and the [first recorded person-to-person transaction](https://mempool.space/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16), and read the [original pizza request](https://bitcointalk.org/index.php?topic=137.0). A block explorer is a convenient interface to public data, not a primary authority over Bitcoin's rules.
@@ -940,9 +945,9 @@ Pause and consider how Bitcoin changes the trust model: how do public rules, fin
 | A central ledger keeper controls records | Independent nodes share and verify a public ledger | Public records create privacy considerations. |
 | Access depends on an institution | Anyone can use the protocol and control keys | The user must secure keys and backups. |
 
-<!-- VISUAL: BD-V-033
+<!-- VISUAL: BD-V-034
 ALT: Comparison of fiat-system issues, Bitcoin responses, and new responsibilities or trade-offs.
-ASSET: assets/diploma/bd-v-033.svg
+ASSET: assets/diploma/bd-v-034.svg
 -->
 | A central party orders digital payments | Proof of work orders transactions without a central operator | Mining requires equipment and energy. |
 
@@ -988,9 +993,9 @@ A **Bitcoin wallet** is a tool that manages the information needed to receive an
 
 What would happen if your phone stopped working? The Bitcoin record would still exist, but access would depend on the keys and recovery method the wallet uses. A wallet helps create receiving information, show balances and transaction history, and authorize spending. It does not remove the need to understand who controls access.
 
-<!-- VISUAL: BD-V-034
+<!-- VISUAL: BD-V-035
 ALT: Wallet interface coordinating keys and transaction instructions while bitcoin remains recorded on the ledger.
-ASSET: assets/diploma/bd-v-034.svg
+ASSET: assets/diploma/bd-v-035.svg
 -->
 
 The first question about any wallet is: **who controls the keys?** Before using a tool, check who can authorize a payment, how access is recovered, and which payment methods it supports. Prefer well-established open-source wallet software where appropriate because publicly inspectable code can improve transparency.This is a judgment, not a rule or a guarantee: every wallet has trade-offs, and open source alone does not prove that a tool is safe, maintained, correctly installed, or suitable for your needs.
@@ -1001,18 +1006,18 @@ Your educator will help you compare custody, recovery, inspectability, compatibi
 
 A Bitcoin **address** is public receiving information for an on-chain payment. A wallet normally shows it as text and a QR code. It is not a password and cannot authorize spending by itself.
 
-<!-- VISUAL: BD-V-035
+<!-- VISUAL: BD-V-036
 ALT: My First Bitcoin test address shown as text beside a matching sample QR code, labelled SAMPLE — DO NOT PAY.
-ASSET: assets/diploma/bd-v-035.svg
+ASSET: assets/diploma/bd-v-036.svg
 -->
 
 If you want to receive an on-chain payment, where should the address come from? Open the intended wallet and use its receive screen. A sender can scan the QR code or copy the address. This avoids the mistakes that can happen when long strings are typed by hand.
 
 For every payment request, confirm the intended payment method. An on-chain address and a Lightning invoice are different. After scanning or copying, compare the destination with the trusted receiving screen before approving a payment. Why check after copying? Malicious software can replace copied address information. A new on-chain address for a new receipt can improve [privacy](mfb-bd-lx.md#term-privacy).
 
-<!-- VISUAL: BD-V-077
+<!-- VISUAL: BD-V-078
 ALT: My First Bitcoin test Lightning invoice and matching sample QR code with payment method, amount, recipient, and expiry.
-ASSET: assets/diploma/bd-v-077.svg
+ASSET: assets/diploma/bd-v-078.svg
 -->
 
 When a payment matters, do not decide that an address is safe only because it looks familiar. Confirm the intended recipient, correct Bitcoin network, destination, and payment method. Use a small test first when the process or amount is unfamiliar.
@@ -1037,9 +1042,9 @@ No legitimate educator, wallet company, exchange employee, technical-support wor
 
 **Try it:** Sort prepared examples into three groups: safe to share for receiving, secret spending information, and information that may be public but should still be kept private when linked to a person.
 
-<!-- VISUAL: BD-V-036
+<!-- VISUAL: BD-V-037
 ALT: Private key deriving public-key receiving information, with signing and verification and a warning never to share the private key.
-ASSET: assets/diploma/bd-v-036.svg
+ASSET: assets/diploma/bd-v-037.svg
 -->
 
 ### Seed phrases
@@ -1048,9 +1053,9 @@ A **seed phrase**, also called a recovery phrase, is an ordered list of words th
 
 The order and spelling of the words matter. If a person has the seed phrase, they can often restore the wallet on another compatible device and spend the funds. The seed phrase is therefore not only a backup. It is full access.
 
-<!-- VISUAL: BD-V-037
+<!-- VISUAL: BD-V-038
 ALT: Recovery relationship from a secret wallet backup to recreated keys, expected addresses, and transaction access.
-ASSET: assets/diploma/bd-v-037.svg
+ASSET: assets/diploma/bd-v-038.svg
 -->
 
 Protect a seed phrase with these rules:
@@ -1064,9 +1069,9 @@ Protect a seed phrase with these rules:
 
 Some wallets use additional passphrases, multiple keys, or other backup systems. These are Advanced Learning. Do not add complexity you cannot explain and recover from safely. If a seed phrase may have been seen, copied, entered online, or stored on an untrusted device, treat it as compromised: seek guidance without revealing it and use a new trusted recovery process.
 
-<!-- VISUAL: BD-V-078
+<!-- VISUAL: BD-V-079
 ALT: Person privately copying twelve numbered placeholder backup words onto paper, labelled as an invalid example and not to be shared.
-ASSET: assets/diploma/bd-v-078.svg
+ASSET: assets/diploma/bd-v-079.svg
 -->
 
 ### Custodial and non-custodial use
@@ -1077,9 +1082,9 @@ In a **custodial** service, a company or another person controls the keys. Your 
 
 In a **non-custodial** or **self-custodial** wallet, YOU control the keys. The wallet signs transactions under your authority. There may still be software, hardware, server, or network dependencies, but no custodian must approve a valid on-chain spend.
 
-<!-- VISUAL: BD-V-038
+<!-- VISUAL: BD-V-039
 ALT: Custody explanation showing who controls keys, recovery, and spending authority.
-ASSET: assets/diploma/bd-v-038.svg
+ASSET: assets/diploma/bd-v-039.svg
 -->
 
 | Question | Custodial use | Self-custodial use |
@@ -1088,9 +1093,9 @@ ASSET: assets/diploma/bd-v-038.svg
 | Who handles recovery? | Usually the service through an account process | The user through a backup process |
 | Main trade-off | Familiar support, with provider dependence | Direct control, with backup and error responsibility |
 
-<!-- VISUAL: BD-V-039
+<!-- VISUAL: BD-V-040
 ALT: Comparison of custodial and self-custodial use by key control, recovery, and trade-offs.
-ASSET: assets/diploma/bd-v-039.svg
+ASSET: assets/diploma/bd-v-040.svg
 -->
 
 Custody is not always obvious from the interface. If you cannot control the recovery method and need a company to approve a withdrawal, you are probably using a custodian. Self-custody is not a test of personal worth; the important step is to identify the trust and risk involved.
@@ -1103,9 +1108,9 @@ A **hot wallet** manages keys on a device connected to the internet, such as a p
 
 A **cold wallet** keeps the keys used for signing transactios away from an internet-connected general-purpose device. A **hardware wallet** is a dedicated device designed to generate, protect, and use keys while keeping them isolated from the connected computer or phone.
 
-<!-- VISUAL: BD-V-041
+<!-- VISUAL: BD-V-042
 ALT: Hot, cold, hardware, and custodial wallet dimensions compared without treating them as one scale.
-ASSET: assets/diploma/bd-v-041.svg
+ASSET: assets/diploma/bd-v-042.svg
 -->
 
 | Arrangement | Common strength | Responsibility to remember |
@@ -1114,9 +1119,9 @@ ASSET: assets/diploma/bd-v-041.svg
 | Hardware or cold wallet | More isolated signing keys. | The device, backup, and recovery process still need protection. |
 | Custodial account | Familiar login and available support. | A provider controls access and may impose limits. |
 
-<!-- VISUAL: BD-V-040
+<!-- VISUAL: BD-V-041
 ALT: Comparison of hot, hardware or cold, and custodial wallet arrangements with their responsibilities.
-ASSET: assets/diploma/bd-v-040.svg
+ASSET: assets/diploma/bd-v-041.svg
 -->
 
 **Try it:** For a small, fictional payment and a less-frequent fictional payment, explain which trade-off matters more. Do not choose a tool or amount for your own funds.
@@ -1136,9 +1141,9 @@ A safe recovery-readiness practice is simple:
 5. Confirm the expected receiving information or training history.
 6. Reset or clear the temporary training environment as instructed.
 
-<!-- VISUAL: BD-V-042
+<!-- VISUAL: BD-V-043
 ALT: Six-step safe wallet-recovery workflow using prepared materials without exposing recovery secrets.
-ASSET: assets/diploma/bd-v-042.svg
+ASSET: assets/diploma/bd-v-043.svg
 -->
 
 The point is not to make recovery feel easy. It is to understand the process before a device failure creates pressure.
@@ -1155,9 +1160,9 @@ Receiving does not authorize funds to leave your wallet, but it still needs care
 4. If an amount is shown, check it with the sender.
 5. Check the amount and status in your own wallet.
 
-<!-- VISUAL: BD-V-043
+<!-- VISUAL: BD-V-044
 ALT: Safe receiving flow showing wallet selection, payment method, public request, amount check, and receipt verification.
-ASSET: assets/diploma/bd-v-043.svg
+ASSET: assets/diploma/bd-v-044.svg
 -->
 
 A message or screenshot that says “sent” is not proof. What evidence can you see yourself? Check the receiving wallet or approved transaction view. For on-chain payments, a wallet may first show the transaction as pending. Confirmation status adds settlement confidence; it does not repair a wrong address or scam. A wallet may offer a fresh address for a new receipt; older addresses may still work, but fresh addresses can reduce easy links between payments.
@@ -1175,9 +1180,9 @@ Sending needs more care because a valid Bitcoin transaction is usually irreversi
 5. Use a small test when the process is unfamiliar.
 6. Approve only when every item matches; then check the payment result.
 
-<!-- VISUAL: BD-V-044
+<!-- VISUAL: BD-V-045
 ALT: Pre-send verification flow for recipient, payment method, destination, amount, fee or expiry, and result.
-ASSET: assets/diploma/bd-v-044.svg
+ASSET: assets/diploma/bd-v-045.svg
 -->
 
 For an on-chain payment, the **network fee** is paid for including the transaction in a block. It depends mainly on the transaction data and demand for block space, not simply on the amount being sent. Fee estimates and timing can change, so read the final summary rather than assuming that a low-value payment has a low fee.
@@ -1194,18 +1199,18 @@ To inspect a prepared transaction, obtain its *txid*, open a trusted explorer fo
 
 ### Safety checklist
 
-<!-- VISUAL: BD-V-045
+<!-- VISUAL: BD-V-046
 ALT: Confirmation timeline and generic block-explorer view showing public transaction status without proving identity.
-ASSET: assets/diploma/bd-v-045.svg
+ASSET: assets/diploma/bd-v-046.svg
 -->
 
 **Practice 3: spot a risk and stop safely**
 
 What would make you stop before a payment or installation? Treat these as red flags: someone impersonates support or an educator; creates urgency or secrecy; promises guaranteed returns; asks you to send bitcoin first; changes a destination; or asks for keys, recovery words, remote access, or an advance fee.
 
-<!-- VISUAL: BD-V-046
+<!-- VISUAL: BD-V-047
 ALT: Scam red flags including urgency, impersonation, changed destinations, guaranteed returns, and requests for secrets.
-ASSET: assets/diploma/bd-v-046.svg
+ASSET: assets/diploma/bd-v-047.svg
 -->
 
 The safe response is always: **Pause. Share nothing. Send nothing. Close the channel. Verify independently through a known source. Ask for help without revealing secrets.** A real opportunity can survive a careful check; a scam often depends on preventing one.
@@ -1226,9 +1231,9 @@ People may receive bitcoin through work, a community payment, a peer exchange, a
 
 Before comparing a path, ask:
 
-<!-- VISUAL: BD-V-047
+<!-- VISUAL: BD-V-048
 ALT: Neutral pathway map for acquiring or exchanging bitcoin, showing custody, fees, identity, safety, and settlement choices.
-ASSET: assets/diploma/bd-v-047.svg
+ASSET: assets/diploma/bd-v-048.svg
 -->
 
 | Risk area | Question to ask |
@@ -1240,18 +1245,18 @@ ASSET: assets/diploma/bd-v-047.svg
 | Counterparty and safety | How can I verify the other party or service, and is an in-person exchange safe? |
 | Local context | Is the route lawful and appropriate where I live, and what records may matter? |
 
-<!-- VISUAL: BD-V-048
+<!-- VISUAL: BD-V-049
 ALT: Risk areas and questions to ask before acquiring or exchanging bitcoin.
-ASSET: assets/diploma/bd-v-048.svg
+ASSET: assets/diploma/bd-v-049.svg
 -->
 
 No pathway is automatically best everywhere. Local examples and provider-specific guidance belong in **Module 4**. **Know Your Customer (KYC)** describes identity checks a regulated service may require. It can support account recovery or legal compliance, while also creating a record that connects identity and financial activity. Paths with less identity collection can involve different counterparty, legal, safety, cost, or complexity risks.
 
 ### On-chain and Lightning payments
 
-<!-- VISUAL: BD-V-049
+<!-- VISUAL: BD-V-050
 ALT: Comparison of on-chain and Lightning payment paths, including settlement, speed, fees, custody, and failure points.
-ASSET: assets/diploma/bd-v-049.svg
+ASSET: assets/diploma/bd-v-050.svg
 -->
 
 Bitcoin has more than one payment path. **On-chain** payments are recorded in Bitcoin's blockchain and gain confirmations. **Lightning** is a payment network built on Bitcoin that can support fast, frequent payments. A Lightning payment may complete quickly or fail, and its wallet can still be custodial or self-custodial.
@@ -1263,9 +1268,9 @@ Bitcoin has more than one payment path. **On-chain** payments are recorded in Bi
 | Common use | Base-layer settlement or less frequent transfer | Fast, smaller, or frequent payment |
 | Beginner checks | Correct address, network, amount, fee, and confirmation status | Correct invoice or request, amount, expiry, custody, and payment result |
 
-<!-- VISUAL: BD-V-050
+<!-- VISUAL: BD-V-051
 ALT: Accessible table comparing on-chain Bitcoin and Lightning payment questions and trade-offs.
-ASSET: assets/diploma/bd-v-050.svg
+ASSET: assets/diploma/bd-v-051.svg
 -->
 
 Which path does the recipient expect? Confirm whether they have provided an on-chain address or a Lightning invoice or request before paying. An on-chain wallet cannot directly pay every Lightning invoice, and a Lightning wallet may not support every on-chain action. Some applications support both paths but may add fees or service dependencies. Detailed Lightning setup, channels, routing, and liquidity are Advanced Learning; live local practice belongs in **Module 4** when it is safe and appropriate.
@@ -1280,14 +1285,14 @@ You will show that you can open or navigate the prepared wallet, complete an app
 
 ### Review: what does self-custody responsibility mean?
 
-<!-- VISUAL: BD-V-051
+<!-- VISUAL: BD-V-052
 ALT: Self-custody responsibility map connecting key control, verification, backups, errors, and support.
-ASSET: assets/diploma/bd-v-051.svg
+ASSET: assets/diploma/bd-v-052.svg
 -->
 
-<!-- VISUAL: BD-V-052
+<!-- VISUAL: BD-V-053
 ALT: Text-equivalent summary of self-custody responsibilities and safe decision points.
-ASSET: assets/diploma/bd-v-052.svg
+ASSET: assets/diploma/bd-v-053.svg
 -->
 
 Imagine that a friend sends you a payment request while an unfamiliar support account says you must act immediately. What could you check before doing anything? Can you protect a recovery plan, distinguish receiving information from secrets, and verify the person, payment method, destination, amount, and final screen before sending? Whether a service or you control the keys, the practical recap is the same: protect secrets, verify before approving, recognize scam signals, and keep mistakes small while learning.
@@ -1305,9 +1310,9 @@ Imagine that a friend sends you a payment request while an unfamiliar support ac
 
 ## Module 4: Bitcoin in Your Community
 
-<!-- VISUAL: BD-V-054
+<!-- VISUAL: BD-V-055
 ALT: Local learning choices and learner notes for the educator-curated Connect module.
-ASSET: assets/diploma/bd-v-054.svg
+ASSET: assets/diploma/bd-v-055.svg
 -->
 
 This is the **Connect** stage of the Diploma. You will connect the money problem, Bitcoin response, and safe-use responsibility from **Modules 1–3** to a local need or opportunity, a realistic alternative, and a safe practical task. You are not expected to adopt Bitcoin or conclude that it is the best option in every local situation.
@@ -1332,9 +1337,9 @@ Record the focus of your **Module 4**:
 
 ### Your local Module 4
 
-<!-- VISUAL: BD-V-053
+<!-- VISUAL: BD-V-054
 ALT: Connect-module sequence from a local need through an alternative, safe practice, and explanation.
-ASSET: assets/diploma/bd-v-053.svg
+ASSET: assets/diploma/bd-v-054.svg
 -->
 
 In this module, you will apply an idea from **Modules 1–3** to a real need or opportunity where you live. You may explore earning, saving, receiving, spending, merchant use, community resources, or another local use of Bitcoin as money.
@@ -1363,9 +1368,9 @@ A local example is not proof that the same method works everywhere. Explain what
 
 ### Practical workshops and demonstrations
 
-<!-- VISUAL: BD-V-055
+<!-- VISUAL: BD-V-056
 ALT: Presentation, Practice, and Production flow for a practical Bitcoin learning activity.
-ASSET: assets/diploma/bd-v-055.svg
+ASSET: assets/diploma/bd-v-056.svg
 -->
 
 You will move through three stages: **Presentation**, where your educator shows the process and its risks; **Practice**, where you follow a guided process using safe materials or a very small amount; and **Production**, where you complete a task or explain a decision independently.
@@ -1395,14 +1400,14 @@ The result of your workshop should be an explanation or skill, not only a comple
 
 ### Local Bitcoin tools and resources
 
-<!-- VISUAL: BD-V-056
+<!-- VISUAL: BD-V-057
 ALT: Verification questions for evaluating local Bitcoin tools and resources.
-ASSET: assets/diploma/bd-v-056.svg
+ASSET: assets/diploma/bd-v-057.svg
 -->
 
-<!-- VISUAL: BD-V-057
+<!-- VISUAL: BD-V-058
 ALT: Local tool record template for documenting purpose, verification, custody, privacy, costs, support, and current status.
-ASSET: assets/diploma/bd-v-057.svg
+ASSET: assets/diploma/bd-v-058.svg
 -->
 
 Local bitcoiners may use wallets, exchanges, peer-to-peer markets, merchant tools, maps, meetups, hardware devices, and education resources. Availability and quality can change quickly.
@@ -1439,14 +1444,14 @@ Named tools used in class are local examples, not endorsements by My First Bitco
 
 ### Lightning payments where locally appropriate
 
-<!-- VISUAL: BD-V-079
+<!-- VISUAL: BD-V-080
 ALT: Lightning address and payment-request distinction for a safe local payment practice.
-ASSET: assets/diploma/bd-v-079.svg
+ASSET: assets/diploma/bd-v-080.svg
 -->
 
-<!-- VISUAL: BD-V-058
+<!-- VISUAL: BD-V-059
 ALT: Six-step guided Lightning payment checklist for recipient, invoice, amount, expiry, confirmation, and safe completion.
-ASSET: assets/diploma/bd-v-058.svg
+ASSET: assets/diploma/bd-v-059.svg
 -->
 
 Lightning can make fast, small Bitcoin payments practical. It may be suitable for a merchant counter, repeated local payments, online services, or transfers where an on-chain fee would be too large in relation to the payment.
@@ -1479,9 +1484,9 @@ Do not assume that a successful Lightning payment proves the wallet is safe for 
 
 ### Daily-life Bitcoin use
 
-<!-- VISUAL: BD-V-059
+<!-- VISUAL: BD-V-060
 ALT: Seven everyday Bitcoin-use examples across earning, saving, receiving, sending, spending, and community use.
-ASSET: assets/diploma/bd-v-059.svg
+ASSET: assets/diploma/bd-v-060.svg
 -->
 
 Bitcoin can function as money in several ways. Spending is only one of them.
@@ -1510,9 +1515,9 @@ Avoid starting with the tool. Start with the need.
 
 ### Local spending and receiving scenarios
 
-<!-- VISUAL: BD-V-060
+<!-- VISUAL: BD-V-061
 ALT: Local spending and receiving scenario choices for comparing needs, payment paths, custody, and risks.
-ASSET: assets/diploma/bd-v-060.svg
+ASSET: assets/diploma/bd-v-061.svg
 -->
 
 Use locally familiar goods and services. The exact item does not matter; the payment reasoning does.
@@ -1571,14 +1576,14 @@ For a live practice, use a low-value item or a simulation. The learner should be
 
 ### Local on-ramp and off-ramp pathways
 
-<!-- VISUAL: BD-V-061
+<!-- VISUAL: BD-V-062
 ALT: Local on-ramp and off-ramp pathways with custody, KYC, privacy, cost, and safety trade-offs.
-ASSET: assets/diploma/bd-v-061.svg
+ASSET: assets/diploma/bd-v-062.svg
 -->
 
-<!-- VISUAL: BD-V-062
+<!-- VISUAL: BD-V-063
 ALT: Pathway comparison table for total received, time, custody, privacy, reversal risk, and failure points.
-ASSET: assets/diploma/bd-v-062.svg
+ASSET: assets/diploma/bd-v-063.svg
 -->
 
 An **on-ramp** is a path from local money, work, or another asset into bitcoin. An **off-ramp** is a path from bitcoin into local money, goods, or services. The same pathway may perform both roles.
@@ -1607,9 +1612,9 @@ For in-person exchange, use a public and appropriate location, avoid carrying un
 
 ### KYC and no-KYC trade-offs where locally appropriate
 
-<!-- VISUAL: BD-V-063
+<!-- VISUAL: BD-V-064
 ALT: Comparison questions for KYC and no-KYC pathways, including identity, custody, fraud, limits, fees, and local law.
-ASSET: assets/diploma/bd-v-063.svg
+ASSET: assets/diploma/bd-v-064.svg
 -->
 
 KYC and no-KYC pathways make different trade-offs. Neither label removes the need for careful evaluation.
@@ -1637,9 +1642,9 @@ Compare the real path:
 
 ### Circular economies
 
-<!-- VISUAL: BD-V-064
+<!-- VISUAL: BD-V-065
 ALT: Local circular-economy map connecting earners, users, merchants, exchange, support, and risks.
-ASSET: assets/diploma/bd-v-064.svg
+ASSET: assets/diploma/bd-v-065.svg
 -->
 
 A **Bitcoin circular economy** is a network in which people earn, spend, save, and exchange bitcoin within a community. Value circulates among workers, customers, merchants, producers, educators, and service providers instead of entering only through a one-time purchase and leaving through immediate conversion.
@@ -1664,9 +1669,9 @@ The strongest local loop solves a real problem for more than one participant. It
 
 ### Merchant or community use cases
 
-<!-- VISUAL: BD-V-065
+<!-- VISUAL: BD-V-066
 ALT: Merchant payment and community-use flow including pricing, confirmation, custody, refunds, and records.
-ASSET: assets/diploma/bd-v-065.svg
+ASSET: assets/diploma/bd-v-066.svg
 -->
 
 A merchant needs more than a receive button. The full payment process may include pricing, staff training, receipts, refunds, custody, conversion, accounting, taxes, device security, and support.
@@ -1701,14 +1706,14 @@ For each use case, define success in terms of the problem solved, not the number
 
 ### Local resource maps and community discovery
 
-<!-- VISUAL: BD-V-066
+<!-- VISUAL: BD-V-067
 ALT: Local resource-discovery map with verification dates, contacts, purposes, and safety notes.
-ASSET: assets/diploma/bd-v-066.svg
+ASSET: assets/diploma/bd-v-067.svg
 -->
 
-<!-- VISUAL: BD-V-067
+<!-- VISUAL: BD-V-068
 ALT: Local resource record table for education, merchants, technical support, exchanges, and legal or tax information.
-ASSET: assets/diploma/bd-v-067.svg
+ASSET: assets/diploma/bd-v-068.svg
 -->
 
 [Maps and community directories](https://programs.myfirstbitcoin.org/resources/?search=map) can help learners find merchants, educators, meetups, and circular economies. Listings can be incomplete or outdated. A place shown on a map may have stopped accepting Bitcoin, changed its wallet, or closed.
@@ -1738,14 +1743,14 @@ Good community discovery helps you find people who explain, verify, and respect 
 
 ### Review: connect this to your community
 
-<!-- VISUAL: BD-V-068
+<!-- VISUAL: BD-V-069
 ALT: Connect-module review linking local need, alternative, safe task, evidence, and responsible next step.
-ASSET: assets/diploma/bd-v-068.svg
+ASSET: assets/diploma/bd-v-069.svg
 -->
 
-<!-- VISUAL: BD-V-069
+<!-- VISUAL: BD-V-070
 ALT: Table alternative summarizing the Connect-module review and local decision questions.
-ASSET: assets/diploma/bd-v-069.svg
+ASSET: assets/diploma/bd-v-070.svg
 -->
 
 Complete this review individually, then compare your reasoning with your team or cohort. Consider the local example you studied: what real need did it address, which function of money was involved, and was value moved on-chain, through Lightning, or both? Ask who controlled the keys, what the strongest benefit and most serious risk were, and how local law, infrastructure, language, or culture affected the result. A responsible next step is one that fits the local context, makes costs and custody clear, limits errors and scams, and can be evaluated against evidence.
@@ -1784,18 +1789,18 @@ Use the official forms only. Do not include seed phrases, private keys, wallet b
 
 ### Join a learning community
 
-<!-- VISUAL: BD-V-070
+<!-- VISUAL: BD-V-071
 ALT: Optional next-step pathway from Diploma learning to the Bitcoin Education Network and educator training.
-ASSET: assets/diploma/bd-v-070.svg
+ASSET: assets/diploma/bd-v-071.svg
 -->
 
 The [Bitcoin Education Network](https://leaderboard.myfirstbitcoin.org/) connects independent educators and local learning communities. Find a community near you, or one whose work interests you, and contact it to ask how you can learn, volunteer, or contribute. Participation is optional and does not affect Diploma completion, assessment, or certification.
 
 ### A safety reminder
 
-<!-- VISUAL: BD-V-071
+<!-- VISUAL: BD-V-072
 ALT: Final safety reminder to protect secrets, verify payment details, use small tests, and stop under pressure.
-ASSET: assets/diploma/bd-v-071.svg
+ASSET: assets/diploma/bd-v-072.svg
 -->
 
 Remember these rules:
@@ -1815,9 +1820,9 @@ Education reduces risk but cannot remove it. If a situation is unclear, stop and
 
 ### Use and adapt this curriculum
 
-<!-- VISUAL: BD-V-072
+<!-- VISUAL: BD-V-073
 ALT: Source and contribution panel directing learners to the canonical curriculum source.
-ASSET: assets/diploma/bd-v-072.svg
+ASSET: assets/diploma/bd-v-073.svg
 -->
 
 The Bitcoin Diploma is a living open-source curriculum. Corrections and improvements can be reviewed publicly.
@@ -1840,9 +1845,9 @@ When adapting this work:
 
 ### Support My First Bitcoin
 
-<!-- VISUAL: BD-V-073
+<!-- VISUAL: BD-V-074
 ALT: Optional support QR panel beside the official donation link and payment-safety reminder.
-ASSET: assets/diploma/bd-v-073.svg
+ASSET: assets/diploma/bd-v-074.svg
 -->
 
 My First Bitcoin's educational resources are free and open source. Voluntary support helps maintain the curriculum, train educators, and expand access.
@@ -1870,9 +1875,9 @@ Your most important result is not the certificate. It is the ability to explain 
 
 ## Continue learning
 
-<!-- VISUAL: BD-V-075
+<!-- VISUAL: BD-V-076
 ALT: Optional download panel for the [My First Bitcoin App](https://myfirstbitcoin.app/) with a readable URL and QR code.
-ASSET: assets/diploma/bd-v-075.svg
+ASSET: assets/diploma/bd-v-076.svg
 -->
 
 Download the [My First Bitcoin App](https://myfirstbitcoin.app/) for optional microlearning, self-checks, recap, and more learning opportunities. It is not required for Diploma learning, assessment, or certification.

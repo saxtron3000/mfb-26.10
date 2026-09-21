@@ -65,6 +65,10 @@ Read the working documents in this order when you need the full design context:
 | 18 | [`18_horizon.md`](18_horizon.md) | Review post-release candidates, programme boundaries, and future decision gates. |
 | 20a | [`20_links-internal.md`](20_links-internal.md) | Review links on myfirstbitcoin.org and its subdomains used in both guides. |
 | 20b | [`20_links-external.md`](20_links-external.md) | Review other web links and local document links used in both guides. |
+| 22 | [`22_openai-reference-image-prompt.md`](22_openai-reference-image-prompt.md) | Attach to every ChatGPT reference-image request. |
+| 23 | [`23_claude-design-sanity-asset-prompt.md`](23_claude-design-sanity-asset-prompt.md) | Attach to every Claude Design production-asset request. |
+| 24 | [`24_codex-reference-image-prompt-checklist.md`](24_codex-reference-image-prompt-checklist.md) | Copy/paste queue and completion checklist for every Codex or ChatGPT reference image. |
+| 25 | [`25_claude-production-asset-prompt-checklist.md`](25_claude-production-asset-prompt-checklist.md) | Copy/paste queue and completion checklist for every Claude production asset. |
 
 Detailed activities are available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/).
 
