@@ -25,7 +25,11 @@ Work in this document for the new review workflow; do not maintain duplicate act
 
 Use the checkbox for completion of the stated task, not for agreement with a suggestion. Use statuses `needs-verification`, `open`, `in-progress`, `blocked`, `done`, `superseded`, and `rejected`. All imported release actions initially have status `needs-verification`; check the current target before doing the work. Record a named owner only when assigned, otherwise use `unassigned`.
 
-For each item being worked, add this compact record below it: `Status: … | Owner: … | Updated: YYYY-MM-DD | Evidence: relative file/section or approved record | Depends on: IDs or none`. Record the action taken, approval reference where required, and completion evidence. Mark `[x]` only when its acceptance condition is met. Keep completed IDs and evidence so later AI passes do not recreate the work. For rejected or superseded proposals, record the disposition and reason rather than implementing them.
+Every `ACT-`, `EVO-`, and `PUB-` item must have one structured record directly below it: `Status: … | Owner: … | Updated: YYYY-MM-DD | Severity: critical/high/medium/low | Release impact: certificated-delivery blocker/publication blocker/required before cohort/maintenance/none | Evidence: relative file/section, approved record, or pending verification | Depends on: IDs or none | Completion evidence: …`. Retain the record when an item is complete, rejected, or superseded. Historical `DEC-` and `ANN-` items keep their existing provenance format unless converted into an action.
+
+Use `critical` for a safety, legal-governance, or certificate-integrity risk; `high` for a release-blocking authority or publication problem; `medium` for material quality, delivery, or maintenance work; and `low` for bounded follow-up that does not affect release readiness. Record the actual release impact rather than inferring an approval from severity. Mark `[x]` only when its acceptance condition and structured record show completion. For rejected or superseded proposals, record the disposition and reason rather than implementing them.
+
+Create a dated run record for every review in `review/runs/`, using [runs/template.md](runs/template.md) and the filename `YYYY-MM-DD-<mode>-<scope>.md`. The run record holds the scope, source version, traceability matrix, verification prompts, completed checks, skipped checks, and links to every finding created or updated in this register.
 
 The original to-do allowed completed items to be removed or moved to a dated archive with evidence. In this consolidated workflow, retain their IDs and evidence here or in a linked dated archive, and remove them only from the active queue. This preserves completion history for repeated AI reviews. The annotation checkboxes have the separate triage completion rule described in their section.
 
@@ -49,6 +53,8 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 - [ ] **ACT-001** **Validate the complete assessment route.**
 
+  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: critical | Release impact: certificated-delivery blocker | Evidence: pending current validation | Depends on: none | Completion evidence: acceptance condition below.
+
   - Define a simple, educator-led route in which activities are deliberately designed to elicit the required competencies. Successful activity performance may provide the evidence; the educator may use probing questions when understanding or safety is unclear.
   - Permit in-person, online, low-tech, simulated, testnet, physical-token, and carefully structured low-stakes-funds routes, with accessibility adaptations that preserve the competency. Do not require significant personal funds or a particular tool.
   - Give each learner a fair opportunity to ask for support and to demonstrate the competency. If a learner is `NY` (**Not Yet**), arrange another assessment opportunity during class, a break, an additional call, or a follow-up session.
@@ -58,11 +64,15 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 - [ ] **ACT-002** **Prepare assessor calibration evidence.**
 
+  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: critical | Release impact: certificated-delivery blocker | Evidence: pending current verification | Depends on: ACT-001 | Completion evidence: acceptance condition below.
+
   - Create one annotated `MS` and one annotated `NY` example for `T2`, `P9`, and the selected `P11` variant.
   - Calibrate assessors, resolve scoring differences, and retain the date, assessors, variants, and agreed interpretation.
   - Acceptance: the selected delivery team has completed and recorded the Educator Guide's minimum calibration process.
 
 - [ ] **ACT-003** **Approve record and certificate governance.**
+
+  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: critical | Release impact: certificated-delivery blocker | Evidence: pending current verification | Depends on: none | Completion evidence: acceptance condition below.
 
   - Define issuer and approval authority; permitted data; consent or assent; access roles; retention and deletion; correction, appeal, incident, outage, and exceptional-case routes; assessor permissions, moderation, reconciliation, and audit trail; certificate issue, replacement, revocation, and verification; and rules for minors and safeguarding.
   - Acceptance: an approved, proportionate governance pack exists before competency evidence is retained for certification or a pilot.
@@ -71,17 +81,23 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 - [ ] **ACT-004** **Decide what “approximately eight hours” means.** Choose either a fixed complete-contact cap or a planning baseline that may expand when valid evidence requires it. Align `05_competencies.md`, `03_scope.md`, `06_plan.md`, the Educator Guide, Student Guide, and `16_spec.md`.
 
+  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: pending current authority review | Depends on: none | Completion evidence: acceptance condition below.
+
   - Acceptance: all authorities and public schedule claims use one rule.
 
 - [x] **ACT-005** **Decide the 2026.10 certificate position.** Educators may issue certificates in the 2026.10 release after assessing learners with the assessment grid. Certification is decentralized: the educator is responsible for the assessment decision, and My First Bitcoin does not centrally issue or guarantee the learner’s competency.
 
-  - Status: done | Owner: unassigned | Updated: 2026-09-19 | Evidence: user-approved certification policy recorded in this review discussion | Depends on: ACT-020
+  - Status: done | Owner: unassigned | Updated: 2026-09-19 | Severity: high | Release impact: publication blocker | Evidence: user-approved certification policy recorded in this review discussion | Depends on: ACT-020 | Completion evidence: approved certificate position recorded above.
 
 - [ ] **ACT-006** **Approve a short publication policy for named programme links and general wallet-software guidance.** Define which optional My First Bitcoin pathways may appear in learner material, how often links are checked, and how general software-verification guidance is localized without becoming a global product recommendation.
+
+  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: pending current policy review | Depends on: none | Completion evidence: acceptance condition below.
 
   - Acceptance: the policy is recorded and Student Guide wording follows it.
 
 - [ ] **ACT-020** **Document the decentralized educator-issued certification model.** Define and publish the two certificate types: **participation** for attendance without a successful assessment, and **completion** for a learner who has passed the required assessment. State that any educator may issue the certificate; the educator must use the assessment grid as the minimum process, while retaining assessment traces during the cohort is advisable but not required. A completion certificate confirms that the educator judged the learner to have passed; it is not a competency guarantee or centrally verified certificate from My First Bitcoin.
+
+  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: pending current implementation review | Depends on: ACT-005 | Completion evidence: acceptance condition below.
 
   - Use the current [Canva certificate template](https://canva.link/55s417wnb9ehdwo) as the present template reference. Use “My First Bitcoin Diploma” as the programme wording, and show an ETP-completion badge beside the educator’s name when applicable.
   - Add the learner-facing explanation to the Student Guide, the full educator procedure and certificate distinction to the Educator Guide, a footnote to the assessment grid, and aligned guidance in the relevant `workspace/` authorities. Do not publish internal plans for future certification tooling or CRM integration.
@@ -91,38 +107,54 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 - [ ] **ACT-007** **Introduce teaching slides as visual support in the Educator Guide.** Provide a basic, editable slide set aligned with the curriculum and link it from the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md). Explain that My First Bitcoin recommends using the slides to give lessons structure, support visual learning, and reinforce key concepts. Encourage educators to adapt and personalise them for their learners, language, and local context while preserving required competencies and safety guidance.
 
+  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: maintenance | Evidence: pending current publication review | Depends on: none | Completion evidence: acceptance condition below.
+
   - Acceptance: the Educator Guide introduces and links the slide set, explains its recommended use, and gives clear adaptation guidance. Slides support discussion and practical learning, and teaching remains possible without projection equipment.
 
 - [ ] **ACT-008** **Finalize or remove conditional Student Guide back matter.** Resolve `Source or update page, if included`, `Optional donate / support QR`, and `Certificate verification`. Do not publish a QR, support destination, or certificate-verification explanation without a tested, approved destination or process.
+
+  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: pending current publication review | Depends on: ACT-020 | Completion evidence: acceptance condition below.
 
   - The report requires a real, privacy-preserving certificate process before retaining the verification section. A live link alone is insufficient.
   - Acceptance: every retained section has a learner-facing heading and a verified destination or governing process; unavailable sections are removed.
 
 - [ ] **ACT-009** **Verify changing public destinations before publication.** Check every named programme, form, case-study, network, leaderboard, source, and support link in the Student Guide.
 
+  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: pending dated external verification | Depends on: ACT-006 | Completion evidence: acceptance condition below.
+
   - Acceptance: each retained destination is live, appropriate, and recorded as checked for the edition.
 
 - [ ] **ACT-010** **Replace mutable source and terminology locations.** Convert `09_resources.md` and the Lexicon from line-number locations to stable section anchors or claim IDs. Keep occurrence audits separate from learner-term definitions. Expand the shared-claim register with source authority, volatility, reviewer, check date, next review date, and publication treatment.
+
+  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: maintenance | Evidence: pending current source-maintenance review | Depends on: none | Completion evidence: acceptance condition below.
 
   - Preserve each claim or section, source type and authority, volatility, reviewer, date checked, next review date, and permitted learner-facing treatment. Keep genuinely local and changing facts in the Educator Guide's local verification record. Maintain the resource register and lexicon as versioned tools, with first/later occurrence audits in separate reports.
   - Acceptance: the source register and lexicon remain correct after a normal manuscript edit without manual line-number repair.
 
 - [ ] **ACT-011** **Complete the optional self-check review.** Replace “You have a strong foundation” with wording limited to the 12-question self-check. Independently review all 12 items for facts and editorial quality; test the all-questions-on-one-screen experience on a small phone and with a screen reader.
 
+  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: pending factual, small-phone, and screen-reader review | Depends on: none | Completion evidence: acceptance condition below.
+
   - The report identified that message at the 10–12 score band and suggested “You showed a strong result on this quick self-check.” Preserve item mappings to the Student Guide. The check samples selected content from Modules 1–3 and does not assess Module 4 or observed practical skills. This is a publication action, not a certification blocker; the example is historical evidence, not approval for a new pass threshold.
   - Acceptance: reviewed item metadata is complete, the result message does not imply Diploma competence, and no score tracking, threshold, or educator access is introduced.
 
 - [ ] **ACT-012** **Repair the missing local visual target.** `workspace/08_assets.md` references the absent `../assets/diploma/bd-v-001.svg` Creative Commons mark.
 
+  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: publication blocker | Evidence: pending local-link and visual review | Depends on: none | Completion evidence: acceptance condition below.
+
   - Acceptance: add the approved asset during visual production or replace the embedded image with a non-broken placeholder; rerun the local-link check.
 
 - [ ] **ACT-013** **Control visual production scope.** Select the essential visual set before commissioning work. Track file, rights, alt text, source, and review status. Keep conditional QR code and certificate-verification visuals out of production until their destinations and processes are approved.
+
+  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: maintenance | Evidence: pending visual-production review | Depends on: ACT-008 | Completion evidence: acceptance condition below.
 
   - Acceptance: an approved essential-visual list and production tracker exist.
 
 ### Review-register maintenance
 
 - [ ] **ACT-014** **Triage the consolidated decision register.** The original action targeted the archived consistency register; perform it on `DEC-01`–`DEC-12` here. Verify and mark questions 2, 3, 4, 5, and 10 as resolved, retaining their evidence and historical alternatives. Keep only questions that still require an owner response in the active decision queue.
+
+  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: maintenance | Evidence: pending current decision-register review | Depends on: none | Completion evidence: acceptance condition below.
 
   - Acceptance: the active decision queue contains no question whose implemented answer is already established in the active authorities. Historical alternatives remain clearly labeled and do not reopen settled policy. Do not maintain a second live queue in the original file.
 
@@ -131,21 +163,31 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 - [ ] **ACT-015: Reconcile October publication outputs.** The older report asks whether online PDF and web outputs belong to October. On 2026-09-19, `workspace/03_scope.md` and `workspace/16_spec.md` explicitly include both through Sanity, while `workspace/06_plan.md` still lists them among future branches. Verify the approved scope and reconcile remaining architecture/design/public wording. Keep online cohort, self-paced, optional app, and cross-modal instructional branches distinct from publication formats.
 
+  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: pending workspace authority review | Depends on: DEC-07 | Completion evidence: acceptance condition below.
+
   - Acceptance: release criteria and all affected authorities describe the same approved outputs, and source-to-Sanity maintenance is explicit. Link completion to `DEC-07`.
 
 - [ ] **ACT-016: Verify the required Lightning boundary.** Review `C8.1`, the architecture, Student Guide, assessment tasks, local `P11` variants, lexicon, and resource activities to distinguish required explanation from required use.
+
+  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: required before cohort | Evidence: pending workspace and assessment review | Depends on: DEC-06 | Completion evidence: acceptance condition below.
 
   - Acceptance: the current answer to `DEC-06` is evidenced and consistently reflected in teaching and assessment without imposing an unapproved practical requirement.
 
 - [ ] **ACT-017: Confirm operational release positioning.** Reconcile `DEC-11` and `DEC-12` with the governance and delivery blockers, distinguishing a provisional teaching package, assessment-ready materials, validated delivery, and actual certificate issuance.
 
+  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: critical | Release impact: certificated-delivery blocker | Evidence: pending workspace and publication review | Depends on: ACT-001, ACT-003, DEC-11, DEC-12 | Completion evidence: acceptance condition below.
+
   - Acceptance: scope, research, assessment, certification, overview, horizon, and public claims use the same release promise; no certificate readiness is inferred from a written protocol alone.
 
 - [ ] **ACT-018: Complete annotation triage.** Review every `ANN` item below against current text and retained approvals. Resolve ambiguous handwriting against the original annotated PDF where available; do not guess or assign the unclear reviewer handle.
 
+  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: maintenance | Evidence: pending annotation triage | Depends on: none | Completion evidence: acceptance condition below.
+
   - Acceptance: every annotation has a disposition and evidence. Approved work has an existing or new action ID with a concrete acceptance condition; duplicated notes link to the same action; unclear notes remain explicitly blocked on clarification.
 
 - [ ] **ACT-019: Complete the final publication verification pass.** Run the recurring checks below on the selected edition and capture evidence for external destinations, current claims, rendering, accessibility, and translation readiness as applicable.
+
+  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: pending dated full-release review | Depends on: ACT-008, ACT-009, ACT-011, ACT-012, ACT-013 | Completion evidence: acceptance condition below.
 
   - Acceptance: the edition has a dated verification record distinguishing passed checks, remaining blockers, and checks not performed. No historical audit count is presented as a fresh result.
 
@@ -312,9 +354,9 @@ These are repeatable controls, not permanently completed tasks. Copy the relevan
 
 When the alignment script finds an inconsistency in the development of workspace ideas or a gap between workspace design and publication implementation, record it here before changing dependent content. Use sequential `EVO-` IDs for workspace-development findings and `PUB-` IDs for workspace-to-publication findings. Retain resolved entries with their evidence so later reviews can distinguish a settled decision from a regression.
 
-For an `EVO-` entry, record: `Status: … | Owner: … | Updated: YYYY-MM-DD | Earlier file/heading: … | Later file/heading: … | Issue: … | Why it matters: … | Authority/evidence: … | Affected files: … | Recommended action: … | Completion evidence: …`.
+For an `EVO-` entry, start with the required structured record above, then record: `Earlier file/heading: … | Later file/heading: … | Issue: … | Why it matters: … | Authority/evidence: … | Affected files: … | Recommended action: …`.
 
-For a `PUB-` entry, record: `Status: … | Owner: … | Updated: YYYY-MM-DD | Governing workspace file/heading: … | Publication file/heading: … | Issue: … | Why it matters: … | Authority/evidence: … | Affected files: … | Recommended action: … | Depends on: … | Completion evidence: …`. Use the register statuses defined at the start of this document. Report every `EVO-` or `PUB-` entry that remains `needs-verification`, `open`, `in-progress`, or `blocked` at the end of the alignment review.
+For a `PUB-` entry, start with the required structured record above, then record: `Governing workspace file/heading: … | Publication file/heading: … | Issue: … | Why it matters: … | Authority/evidence: … | Affected files: … | Recommended action: …`. Use the register statuses defined at the start of this document. Report every `EVO-` or `PUB-` entry that remains `needs-verification`, `open`, `in-progress`, or `blocked` at the end of the alignment review.
 
 ## Historical report baseline and verification limits
 

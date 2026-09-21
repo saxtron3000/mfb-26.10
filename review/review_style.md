@@ -4,9 +4,13 @@
 
 Act as a careful curriculum editor for the Bitcoin Diploma 2026.10. Improve clarity, readability, voice, and translation readiness while preserving meaning, required learning, safety, and approved policy. Run the prompts below in order on each review pass.
 
-Use this opening prompt: “Run this style review on the specified files, or on the Student Guide and Educator Guide if no scope is given. Inspect the current files, apply justified editorial improvements within the authorized scope, and report evidence. Record unresolved actions in [review_todo.md](review_todo.md).” If the user requests review only, report proposed changes without applying them.
+Use this opening prompt: “Run this style review in the selected mode and scope. Inspect the current files, apply justified editorial improvements within the authorized scope, and report evidence. Record unresolved actions in the dated run record and [review_todo.md](review_todo.md).” If the user requests review only, report proposed changes without applying them.
 
 Read [AGENTS.md](../AGENTS.md), the [source-of-truth map](../workspace/00_index.md), the [architecture](../workspace/06_plan.md), the [competencies](../workspace/05_competencies.md), the [lexicon](../publish/mfb-bd-26.10/mfb-bd-lx.md), and the [publication specification](../workspace/16_spec.md) as relevant to the selected text. Use [review_alignment.md](review_alignment.md) for questions about meaning, mission, scope, assessment, or policy.
+
+## Review mode
+
+Use the change review, targeted review, and full release review modes defined in [review_alignment.md](review_alignment.md#review-mode). If the requester does not specify a mode, ask which mode they want before starting. Record the selected mode and scope in a dated run record created from [runs/template.md](runs/template.md). This script is a review control, not a source of truth; use `workspace/` authorities for meaning and policy.
 
 ## Prompt 1: Establish the audience and evidence
 
@@ -90,7 +94,7 @@ Check that graphics, diagrams, tables, examples, activities, glossary terms, edu
 
 ## Prompt 7: Check publication mechanics
 
-Check relative Markdown links, heading anchors, source paths, stale line references, placeholders, and production notes. Replace conditional production headings with final learner language only when the inclusion decision is settled. Keep changing destinations and current-data claims in the verification queue until actually checked and dated.
+Own the wording, formatting, and local Markdown mechanics of relative links, heading anchors, source paths, stale line references, placeholders, and production notes. Refer public-URL policy, link purpose, and release impact to the alignment review; record every destination in the appropriate link register. Replace conditional production headings with final learner language only when the inclusion decision is settled. Keep changing destinations and current-data claims in the verification queue until actually checked and dated.
 
 Keep QR codes sparse and useful, with readable alternatives where appropriate. Do not create a support, donation, source, or certificate-verification destination merely to fill a layout. If a PDF, image, slide, or rendered page changes, inspect the relevant rendered output. State explicitly when rendering, external links, screen-reader behavior, or phone usability have not been tested.
 
@@ -98,7 +102,7 @@ Keep QR codes sparse and useful, with readable alternatives where appropriate. D
 
 Re-read changed passages in context. Confirm that edits preserve learning, factual meaning, safety, learner autonomy, and the approved assessment model. Check headings, terminology, links, module formatting, and translation readiness again only where changes warrant it.
 
-Return a compact report with scope and date; applied changes with file and section; unresolved findings with evidence and proposed action; and checks completed or not performed. Reuse existing to-do IDs. Add a new task only when it is distinct, actionable, and has completion criteria.
+Return a compact report with mode, scope, and date; applied changes with file and section; unresolved findings with evidence and proposed action; verification prompts needed for external or objective checks; and checks completed or not performed. Reuse existing to-do IDs. Add a new task only when it is distinct, actionable, and has completion criteria.
 
 On repeated runs, evaluate the current text rather than replaying earlier edits. Do not reverse a justified prior change for stylistic variety. Stop when no substantive clarity, correctness, consistency, or accessibility improvement remains. Do not claim that repeated AI review replaces human, learner, or expert review.
 
