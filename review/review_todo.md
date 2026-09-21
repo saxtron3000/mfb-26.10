@@ -4,12 +4,12 @@ This is the working list for the 2026.10 review. Start with the open items below
 
 ## What needs attention
 
-**15 of 27 actions are still open.** Start with the safety and certificated-delivery work, then clear the publication blockers.
+**14 of 27 actions are still open.** Start with the safety and certificated-delivery work, then clear the publication blockers.
 
 | Do this first | Why it matters | Tasks |
 |---|---|---|
 | Make delivery safe and ready to certify | Do this before a certificated delivery. | `ACT-022` Remove the unsafe wallet exercise; `ACT-002` align assessor scoring; `ACT-003` agree record and certificate rules. |
-| Make the materials ready to publish | Do this before release. | `ACT-008`, `ACT-009`, `ACT-011`, `ACT-023`, `ACT-024`, and `ACT-019`. |
+| Make the materials ready to publish | Do this before release. | `ACT-009`, `ACT-011`, `ACT-023`, `ACT-024`, and `ACT-019`. |
 | Improve and maintain the materials | Important, but does not by itself block release. | `ACT-007`, `ACT-010`, `ACT-013`, `ACT-021`, `ACT-025`, and `ACT-026`. |
 
 `ACT` means a task. `DEC` is a past decision kept for reference. `ANN` is an old reviewer note; it is not an approval or a current task.
@@ -25,16 +25,15 @@ Use this table to find the task. The detailed entry below has the supporting lin
 | ACT-022 | Remove the unsafe wallet exercise | Open | publication | — |
 | ACT-002 | Align assessor scoring | In progress | certificated delivery | ACT-001 |
 | ACT-003 | Agree record and certificate rules | Blocked | certificated delivery | — |
-| ACT-008 | Finish or remove the Student Guide ending | Blocked | publication | — |
 | ACT-009 | Check public links | Needs checking | publication | ACT-006 |
 | ACT-011 | Review the optional self-check | Needs checking | publication | — |
 | ACT-023 | Make every activity usable | Open | publication | ACT-022 |
 | ACT-024 | Support claims in Activities 001 and 002 | Open | publication | — |
-| ACT-019 | Do the final publication check | Blocked | publication | ACT-008, ACT-009, ACT-011–ACT-013 |
+| ACT-019 | Do the final publication check | Blocked | publication | ACT-009, ACT-011, ACT-013 |
 | ACT-025 | Show an eight-hour route for a real class | Open | next cohort | ACT-001 |
 | ACT-007 | Add editable teaching slides | Open | ongoing maintenance | — |
 | ACT-010 | Stabilise source and lexicon references | Open | ongoing maintenance | — |
-| ACT-013 | Choose and track essential visuals | In progress | ongoing maintenance | ACT-008 |
+| ACT-013 | Choose and track essential visuals | In progress | ongoing maintenance | — |
 | ACT-021 | Reduce assessed competencies to seven | Open | ongoing maintenance | — |
 | ACT-026 | Remove repeated guide content and fix `BD-V-049` | In progress | ongoing maintenance | ACT-013 |
 
@@ -46,6 +45,7 @@ Use this table to find the task. The detailed entry below has the supporting lin
 | ACT-004 | Clarify the eight-hour minimum | project lead | — |
 | ACT-005 | Set the certificate position | unassigned | ACT-020 |
 | ACT-006 | Set link and wallet-guidance rules | project lead | DEC-09 |
+| ACT-008 | Finish and prioritize the Student Guide ending | unassigned | — |
 | ACT-012 | Fix the Creative Commons visual | unassigned | — |
 | ACT-014 | Sort the decision list | project lead | — |
 | ACT-015 | Confirm October outputs | project lead | — |
@@ -78,7 +78,7 @@ Do not invent an approval, an owner, a test result, or a completed review. For e
 ## Recommended work order
 
 1. Fix the safety and certificated-delivery blockers: `ACT-022`, `ACT-002`, and `ACT-003`.
-2. Finish the publication blockers: `ACT-008`, `ACT-009`, `ACT-011`, `ACT-023`, and `ACT-024`.
+2. Finish the publication blockers: `ACT-009`, `ACT-011`, `ACT-023`, and `ACT-024`.
 3. Test the eight-hour route for a real class (`ACT-025`).
 4. Complete the remaining maintenance work, then run `ACT-019` as the final check.
 
@@ -169,9 +169,9 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
   - Acceptance: the Educator Guide introduces and links the slide set, explains its recommended use, and gives clear adaptation guidance. Slides support discussion and practical learning, and teaching remains possible without projection equipment.
 
-- [ ] **ACT-008** **Finish or remove the unfinished Student Guide ending.** Decide on the source/update page and the optional support QR. The certificate section is already settled.
+- [x] **ACT-008** **Finish or remove the unfinished Student Guide ending.** Decide on the source/update page and the optional support QR. The certificate section is already settled.
 
-  - Status: blocked | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: conditional headings remain in the [Student Guide source/update section](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#source-or-update-page-if-included) and [support QR section](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#optional-donate--support-qr); [CYN-005](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings) also reports excessive, unprioritized named closing destinations. The [certificate section](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#certificate-meaning-and-issuer) now states the educator-issued model without implying a central verification service | Depends on: none | Completion evidence: the certificate subsection is resolved; source/update and donation destinations still need final verification or removal; retained next steps are few, clearly prioritized, and each has a distinct learner purpose.
+  - Status: done | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker resolved | Evidence: [Student Guide next steps](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#next-steps) now provides separate, prioritized purposes for proofreading and feedback, contributing, joining a learning community, adapting the curriculum, and supporting My First Bitcoin; user confirmation on 2026-09-21 records that retained links were checked with colleagues. The [certificate section](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#certificate-meaning-and-issuer) states the educator-issued model without implying a central verification service | Depends on: none | Completion evidence: conditional draft headings and duplicate calls to action are removed; retained destinations have learner-facing headings and distinct purposes; donation support is a standalone section.
 
   - The report requires a real, privacy-preserving certificate process before retaining the verification section. A live link alone is insufficient.
   - Acceptance: every retained section has a learner-facing heading and a verified destination or governing process; unavailable sections are removed.
@@ -210,7 +210,7 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 <a id="act-013-control-visual-production-scope"></a>
 
-  - Status: in-progress | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: maintenance | Evidence: [visual index:116](../workspace/08_assets.md:116#3-visual-index) records scope, rights, alt text, placement, and review requirements, but source publications still contain unproduced visual markers such as [BD-V-001:13](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:13) | Depends on: ACT-008 | Completion evidence: planning controls exist; essential asset selection and production verification remain incomplete.
+  - Status: in-progress | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: maintenance | Evidence: [visual index:116](../workspace/08_assets.md:116#3-visual-index) records scope, rights, alt text, placement, and review requirements, but source publications still contain unproduced visual markers such as [BD-V-001:13](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:13) | Depends on: none | Completion evidence: planning controls exist; essential asset selection and production verification remain incomplete.
 
   - Acceptance: an approved essential-visual list and production tracker exist.
 
@@ -255,7 +255,7 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 <a id="act-019-complete-the-final-publication-verification-pass"></a>
 
-  - Status: blocked | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: [full-release style run](runs/2026-09-21-full-release-style.md#findings-created-or-updated), [full-release to-do run](runs/2026-09-21-full-release-todo.md#findings-created-or-updated), and unresolved conditional back matter, external-link verification, accessibility/device tests, and missing visual targets under `ACT-008`, `ACT-009`, `ACT-011`, `ACT-012`, and `ACT-013` | Depends on: ACT-008, ACT-009, ACT-011, ACT-012, ACT-013 | Completion evidence: dependency checks remain incomplete.
+  - Status: blocked | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: [full-release style run](runs/2026-09-21-full-release-style.md#findings-created-or-updated), [full-release to-do run](runs/2026-09-21-full-release-todo.md#findings-created-or-updated), and remaining external-link-verification, accessibility/device-test, and visual-production work under `ACT-009`, `ACT-011`, and `ACT-013` | Depends on: ACT-009, ACT-011, ACT-013 | Completion evidence: dependency checks remain incomplete.
 
   - Acceptance: the edition has a dated verification record distinguishing passed checks, remaining blockers, and checks not performed. No historical audit count is presented as a fresh result.
 

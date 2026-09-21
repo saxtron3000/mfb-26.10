@@ -1768,50 +1768,28 @@ Complete this review individually, then compare your reasoning with your team or
 
 Every programme and opportunity in this section is optional further learning beyond the Diploma. You do not need to follow any of these links to complete the Diploma.
 
+### Help improve this guide
+
+Found an error, unclear wording, or a translation improvement? Use the official [proofreading form](https://forms.myfirstbitcoin.org/proofread) to report it. To share broader course feedback, use the [feedback form](https://forms.myfirstbitcoin.org/feedback). Do not include seed phrases, private keys, wallet balances, or other sensitive personal or security information.
+
 ### Contribute to My First Bitcoin and the Resources Hub
 
 Choose a way to help and use the relevant official form to get started:
 
-- **[Proofread](https://forms.myfirstbitcoin.org/proofread):** report unclear wording, errors, or translation improvements.
 - **[Volunteer](https://forms.myfirstbitcoin.org/volunteer):** offer time or skills to support the Diploma, educators, or local learning communities.
-- **[Share feedback](https://forms.myfirstbitcoin.org/feedback):** tell My First Bitcoin what worked, what was missing, or what could be safer or clearer.
-- **Contribute to the Resources Hub:** share a useful Bitcoin education resource, local learning resource, or improvement that other learners and educators can review and use.
-- **Explore the [Educator Training Program (ETP)](https://etp.myfirstbitcoin.org/):** learn how My First Bitcoin prepares people to teach the Bitcoin Diploma.
-
-[Volunteer](https://forms.myfirstbitcoin.org/volunteer)
-
-[Proofread](https://forms.myfirstbitcoin.org/proofread)
-
-[Share feedback](https://forms.myfirstbitcoin.org/feedback)
-
-[Contribute to the Resources Hub](https://forms.myfirstbitcoin.org/)
-
-[Explore the Educator Training Program](https://etp.myfirstbitcoin.org/)
+- **[Contribute to the Resources Hub](https://forms.myfirstbitcoin.org/):** share a useful Bitcoin education resource, local learning resource, or improvement that others can review and use.
+- **[Explore the Educator Training Program (ETP)](https://etp.myfirstbitcoin.org/):** learn how My First Bitcoin prepares people to teach the Bitcoin Diploma.
 
 Use the official forms only. Do not include seed phrases, private keys, wallet balances, or other sensitive personal or security information in a submission.
 
-### Share a student testimonial
-
-You can [share a student testimonial](https://forms.myfirstbitcoin.org/testimonial-student) about your experience with the Bitcoin Diploma. Describe what you learned, what helped you, and how the course affected your understanding. Sharing your story is optional.
-
-### Continue with the Bitcoin Education Network
+### Join a learning community
 
 <!-- VISUAL: BD-V-070
 ALT: Optional next-step pathway from Diploma learning to the Bitcoin Education Network and educator training.
 ASSET: assets/diploma/bd-v-070.svg
 -->
 
-Take your next step with the [Bitcoin Education Network](https://leaderboard.myfirstbitcoin.org), which connects independent educators and local learning communities. Visit the dashboard, find a community near you or one whose work interests you, and reach out to ask how you can learn, volunteer, or contribute. If you already lead a Bitcoin education community, explore how your community can join the network.
-
-If you want to teach, build on what you have learned by exploring the [Educator Training Program (ETP)](https://etp.myfirstbitcoin.org/). Visit the [ETP](https://etp.myfirstbitcoin.org/) website, check the current participation requirements and timing, and apply when you are ready to take the next step towards becoming an educator.
-
-### Learn from community case studies
-
-Real-world stories can show how different communities have used the Diploma, but they are examples, not promises of the same result elsewhere. Read the current [community case studies](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/en/back-matter/) and consider the local need, evidence, trade-offs, and safety practices behind each one.
-
-New case studies can help other communities learn. If you have a story or evidence that could become a responsible case study, submit it through the [official form](https://forms.myfirstbitcoin.org/). Do not include sensitive learner, financial, or security information.
-
-The [My First Bitcoin Leaderboard](https://leaderboard.myfirstbitcoin.org/) is a separate public destination for current community activities, recognition, or possible perks. Any available perks, eligibility rules, and participation requirements are determined there and may change. They are optional and do not affect Diploma completion, assessment, certification, or access to the Bitcoin Education Network.
+The [Bitcoin Education Network](https://leaderboard.myfirstbitcoin.org/) connects independent educators and local learning communities. Find a community near you, or one whose work interests you, and contact it to ask how you can learn, volunteer, or contribute. Participation is optional and does not affect Diploma completion, assessment, or certification.
 
 ### A safety reminder
 
@@ -1835,18 +1813,7 @@ Remember these rules:
 
 Education reduces risk but cannot remove it. If a situation is unclear, stop and learn more before acting.
 
-### Connect with My First Bitcoin
-
-My First Bitcoin provides open-source learning resources and supports independent educators and communities.
-
-- Website: [myfirstbitcoin.org](https://myfirstbitcoin.org/)
-- Bitcoin Diploma page: [programs.myfirstbitcoin.org/programs/bitcoin-diploma](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/)
-- Open-source organization: [github.com/MyFirstBitcoin](https://github.com/MyFirstBitcoin)
-- Curriculum source: [github.com/MyFirstBitcoin/mfb-curriculum](https://github.com/MyFirstBitcoin/mfb-curriculum)
-
-Use the official website to find current programs, educator information, community links, and contact details. Verify the domain before entering personal information or following a donation request.
-
-### Source or update page, if included
+### Use and adapt this curriculum
 
 <!-- VISUAL: BD-V-072
 ALT: Source and contribution panel directing learners to the canonical curriculum source.
@@ -1871,7 +1838,7 @@ When adapting this work:
 - attribute My First Bitcoin;
 - publish the adaptation under the required open-source license.
 
-### Optional donate / support QR
+### Support My First Bitcoin
 
 <!-- VISUAL: BD-V-073
 ALT: Optional support QR panel beside the official donation link and payment-safety reminder.
