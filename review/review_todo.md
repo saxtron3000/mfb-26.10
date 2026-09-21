@@ -4,18 +4,19 @@
 
 | Area | Current status | Outstanding | Priority / next move |
 |---|---|---:|---|
-| Overall action register | 1 of 20 `ACT` items checked off | 19 | Treat the register as open; record status, owner, evidence, and dependencies as work proceeds. |
+| Overall action register | 1 of 21 `ACT` items checked off | 20 | Treat the register as open; record status, owner, evidence, and dependencies as work proceeds. |
 | Release blockers | Open | 3 (`ACT-001`–`ACT-003`) | **Major issue:** validate the complete assessment route, calibrate assessors, and approve record/certificate governance before certificated delivery or a results-retaining pilot. |
 | Decisions blocking dependent copy | Open | 2 (`ACT-004`, `ACT-006`) | **Major issue:** settle duration and the policy for named programme links and wallet-software guidance. Certificate positioning is resolved; documentation remains in `ACT-020`. |
 | Cross-cutting release reconciliation | Open | 3 (`ACT-015`–`ACT-017`) | **Major issue:** reconcile publication outputs, the Lightning explanation/practice boundary, and the operational release promise across authorities and public materials. |
 | Quick wins / bounded editorial fixes | Open | 4 candidate items (`ACT-008`, `ACT-009`, `ACT-011`, `ACT-012`) | **Quick wins:** remove or finalize conditional back matter, verify public destinations, finish the bounded self-check review, and repair or replace the missing visual target. Confirm decisions and evidence before closing. |
 | Publication and maintenance work | Open | 5 (`ACT-007`, `ACT-010`, `ACT-013`, `ACT-019`, `ACT-020`) | **Minor-to-medium issues:** document the certification model, add slide support, stabilize source/lexicon references, control visual production, and run the final publication verification pass. |
 | Decision-register maintenance | Open | 1 (`ACT-014`) | **Medium issue:** triage `DEC-01`–`DEC-12`; close already-resolved questions with evidence and retain historical alternatives without reopening settled policy. |
+| Assessment simplification | Open | 1 (`ACT-021`) | Consolidate eleven assessed competencies into seven, with useful sub-points only; review the grid first, then align the guides and planning authorities. |
 | Historical annotation triage | Not yet triaged | 242 `ANN` items | **Large workstream:** compare each note with current text and source evidence; preserve approvals, link approved actions, and flag unclear handwriting for clarification. |
 | Source-marker interpretation | Defined only as provenance | Original inventory: 166 `[-]`, 58 `[o]`, 18 `[ ]` markers | Do not treat these markers as current status or approval. Use the documented triage dispositions and evidence instead. |
 | Near-term sequence | Ready for triage | — | 1) Resolve blockers and decisions; 2) handle bounded publication fixes; 3) prepare governance/calibration and delivery evidence; 4) complete annotation and final publication checks. |
 
-**Dashboard reading:** “Open” means the item remains unchecked in this file, not that its underlying proposal is approved. “Quick win” describes limited scope, not automatic closure. The dashboard is a snapshot based on the consolidated register dated 2026-09-19.
+**Dashboard reading:** “Open” means the item remains unchecked in this file, not that its underlying proposal is approved. “Quick win” describes limited scope, not automatic closure. The dashboard is based on the consolidated register dated 2026-09-19, with action counts updated on 2026-09-21 to include `ACT-021`.
 
 ## How to use this document
 
@@ -105,6 +106,27 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 ### Publication and maintenance actions
 
+- [ ] **ACT-021** **Consolidate assessed competencies from `C1`–`C11` into `C1`–`C7`.** Resume the seven-competency proposal discussed with the user, starting with the assessment grid. Earlier edits were rolled back; check the current files before implementing and do not treat prior drafts as completed work.
+
+  - Status: open | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: maintenance | Evidence: user instruction and consolidation mapping recorded in this item | Depends on: none | Completion evidence: pending implementation and consistency checks.
+
+  | New competency | Original competencies | Suggested assessment breakdown |
+  |---|---|---|
+  | `C1` Money and modern-money trade-offs | `C1` + `C2` | Up to three points: why money is used and its functions/properties; comparison of two forms of money; one local or realistic modern-money trade-off. |
+  | `C2` Bitcoin foundations and rules | `C3` + `C4` | Up to three points: digital copying and shared verification; beginner rules and network roles; money properties with a reasoned benefit or limitation. Keep technical depth achievable for beginners. |
+  | `C3` Bitcoin and digital-asset comparison | `C5` | One guided comparison statement, without numbered sub-points: compare Bitcoin with another digital asset using relevant criteria and a trade-off, and distinguish learning from speculation or promotion. Retain this competency and its title. |
+  | `C4` Wallets, custody, and safety | `C6` + `C7` | Up to three points: public/secret information and custody choices; wallet types; recognising a risk and knowing when to stop, verify, or seek help. |
+  | `C5` Payment and access pathways | `C8` | Two points where useful: compare on-chain and Lightning payments in a guided example; compare access or exchange pathways and their risks. |
+  | `C6` Safe access and recovery readiness | `C9` + `C10` | Two distinct practical points: supported wallet access and receipt with checks; recovery readiness using prepared or simulated materials. |
+  | `C7` Local Bitcoin-as-money task | `C11` | Two points where useful: safely perform a locally relevant task or simulation; explain its purpose, alternative, trade-offs, possible failure, and safe next step. |
+
+  - Use zero, one, two, or at most three numbered sub-points per competency only where they help an educator distinguish important skills or identify what needs further practice. Do not default to three or turn each sub-point into a separate exam or result. Use plain, inviting language and retain one `MS`/`NY` judgement per parent competency.
+  - Preserve required learning and safety through an explicit old-to-new criterion mapping. Consolidation alone does not remove content or reduce the standard. Flag any proposed scope reduction separately, including any decision to drop a criterion. Keep theory as new `C1`–`C5` and practice as new `C6`–`C7`; do not convert these into numerical weights.
+  - Make Page 2 usable on its own, with short competency descriptions and explanations of `MS`, `NY`, practical observation, and completion. Add a brief example of sufficient beginner performance per competency in the educator support material, especially for the broad `C2` and practical `C6`–`C7` groups.
+  - Review the proposed grid first, then align [competencies](../workspace/05_competencies.md), [assessment framework](../workspace/13_assessment.md), [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), [Student Guide](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md), and other active planning, assessment, certification, asset, and self-check mappings where affected. Check decimal criterion and task references explicitly; preserve historical codes as labelled provenance rather than globally replacing numbers. Keep formative competencies distinct from the seven completion requirements.
+  - Coordinate with `ACT-001` and `ACT-020` so consolidation preserves the agreed activity-based assessment, support and reassessment opportunities, and participation/completion distinction.
+  - Acceptance: seven clear parent competencies cover the mapped required learning; sub-points are selective and never exceed three per competency; Page 2 is self-contained; all active code, criterion, and completion references agree; the old-to-new mapping and verification evidence are retained. No rolled-back draft or untested delivery claim is presented as completed validation.
+
 - [ ] **ACT-007** **Introduce teaching slides as visual support in the Educator Guide.** Provide a basic, editable slide set aligned with the curriculum and link it from the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md). Explain that My First Bitcoin recommends using the slides to give lessons structure, support visual learning, and reinforce key concepts. Encourage educators to adapt and personalise them for their learners, language, and local context while preserving required competencies and safety guidance.
 
   - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: maintenance | Evidence: pending current publication review | Depends on: none | Completion evidence: acceptance condition below.
@@ -133,7 +155,7 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 - [ ] **ACT-011** **Complete the optional self-check review.** Replace “You have a strong foundation” with wording limited to the 12-question self-check. Independently review all 12 items for facts and editorial quality; test the all-questions-on-one-screen experience on a small phone and with a screen reader.
 
-  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: pending factual, small-phone, and screen-reader review | Depends on: none | Completion evidence: acceptance condition below.
+  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: score message updated in `publish/mfb-ml-26.10/mfb-ml-26.10.md`; factual, small-phone, and screen-reader review still pending | Depends on: none | Completion evidence: acceptance condition below.
 
   - The report identified that message at the 10–12 score band and suggested “You showed a strong result on this quick self-check.” Preserve item mappings to the Student Guide. The check samples selected content from Modules 1–3 and does not assess Module 4 or observed practical skills. This is a publication action, not a certification blocker; the example is historical evidence, not approval for a new pass threshold.
   - Acceptance: reviewed item metadata is complete, the result message does not imply Diploma competence, and no score tracking, threshold, or educator access is introduced.

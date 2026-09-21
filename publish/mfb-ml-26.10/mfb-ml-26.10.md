@@ -2,7 +2,7 @@
 
 ## Use
 
-This file is the developer handoff for the 12-question optional My First Bitcoin app self-test. It supports the 2026.10 Diploma and is not formal assessment; do not use it for educator tracking, certification, or a pass/fail decision.
+This file is the developer handoff for the 12-question optional [My First Bitcoin App](https://myfirstbitcoin.app/) self-test. It supports the 2026.10 Diploma and is not formal assessment; do not use it for educator tracking, certification, or a pass/fail decision.
 
 Each item has one correct answer and four plain-text options. After either answer outcome, show the item's shared plain-language explanation and review reference. The current app cannot show different correct and incorrect messages, rich text, media, links, or a multi-screen item flow. The review reference points to the learner's next reading in the Student Guide and should be displayed as text.
 
@@ -82,7 +82,7 @@ All source items are English, version 1.0, and require independent factual and e
 
 | Score out of 12 | Learner message |
 |---|---|
-| 10–12 | Great work. You have a strong foundation. Keep building your Bitcoin knowledge. |
+| 10–12 | You showed a strong result on this quick self-check. Keep building your Bitcoin knowledge. |
 | 6–9 | Good progress. Review the topics highlighted in your answers, then try again. |
 | 0–5 | Every question is a chance to learn. Revisit the suggested Diploma sections and try the quiz again. |
 

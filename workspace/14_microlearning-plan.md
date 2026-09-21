@@ -39,7 +39,7 @@ For the current Sanity quiz format, map the handoff record to `_key`, `prompt`, 
 
 Use supportive result messages such as:
 
-- “Great work. You have a strong foundation. Keep building your Bitcoin knowledge.”
+- “You showed a strong result on this quick self-check. Keep building your Bitcoin knowledge.”
 - “Good progress. Review the topics highlighted in your answers, then try again.”
 - “Every question is a chance to learn. Revisit the relevant Diploma sections and try the quiz again.”
 

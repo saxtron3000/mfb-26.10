@@ -73,7 +73,7 @@ Guide students through to the tracking board. Assign four students to be the own
 
 If you are using the physical method, hand out their respective color “wallets” (papers). Also give them the corresponding number of poker chips (or coins, or whatever you have decided to use for sats).
 
-Explain to the rest of the class they each represent miners or node runners. Their responsibility is to agree or not agree whether a transaction is valid.They decide to accept or reject transactions. For the game, select one of them to be responsible for updating the tracking board.
+Explain to the rest of the class that they each represent miners or node runners. Their responsibility is to agree or not agree whether a transaction is valid. They decide to accept or reject transactions. For the game, select one of them to be responsible for updating the tracking board.
 
 Now walk the class through the first transaction step by step. Tell them a
 story of how RED bought a coﬀee from BLUE for 5 sats.
