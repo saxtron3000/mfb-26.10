@@ -20,6 +20,13 @@ This index contains 28 destinations on `myfirstbitcoin.org` and its subdomains. 
 - Replace `Pending` with `Correct`, `Needs change`, or `Unable to verify`, and add reviewer initials and notes.
 - Local links require access to this repository. They are adjusted relative to this index so they remain clickable. Web URLs retain their exact spelling, including trailing slashes, query strings, and fragments.
 
+## Planned maintenance schedule
+
+- Run an automated link-health review weekly where operationally possible.
+- Let the bot or agent update check metadata and alert a human owner, but do not let it correct, replace, or remove links without human approval.
+- Treat a failed optional further-learning link as an important alert requiring a human-approved solution within 24 hours, not as a publication blocker.
+- Retain human review of audience, meaning, safety, language, and educational suitability; a successful HTTP response is not sufficient approval.
+
 ## My First Bitcoin website links
 
 | ID | Example linked text | Destination | Source lines | Review | Reviewer / correction |

@@ -6,6 +6,8 @@ Your first teaching route
 
 Welcome. The new Bitcoin Diploma keeps the mission that matters—open-source, community-led, Bitcoin-only education—while making it clearer, more practical, and easier to adapt responsibly. You do not need to be a perfect lecturer or know every answer. Your role is to help learners ask good questions, practise safely, and explain what they understand in their own words.
 
+The 2026.10 curriculum is a framework-first teaching package. Before offering completion certificates, prepare the selected tasks and local variants, observation capacity, accessibility routes, Assessment Grid, and proportionate local privacy, correction, and appeals arrangements. You assess the learner and issue the certificate; My First Bitcoin does not centrally evaluate, issue, verify, or guarantee learner competency.
+
 1. Choose a delivery shape: one full day, four two-hour sessions, eight one-hour sessions, or another schedule that protects the complete learning and assessment experience.
 2. Read the relevant Student Guide module and its matching section in the [Educator Guide](https://programs.myfirstbitcoin.org/programs/educator-guide/). Choose one main activity and one low-tech backup.
 3. Prepare a welcoming room, printed or PDF materials, and a way to record approved assessment evidence. Check local facts, examples, tools, and safety conditions before class.
@@ -29,7 +31,7 @@ Teach the sequence as a connected story: **money problem → Bitcoin response �
 
 **Keep fixed:** the four-module sequence; Core objectives; Bitcoin-only focus; safety boundaries; the two-part assessment; and the minimum completion standard.
 
-**Adapt thoughtfully:** examples, language, activities, pacing, grouping, accessibility support, local tools, and Module 4 scenarios. Treat named wallets, exchanges, merchants, maps, and services as dated local examples—not global recommendations. Verify current claims and local rules with authoritative sources; if you do not know, say so and check.
+**Adapt thoughtfully:** examples, language, activities, pacing, grouping, accessibility support, local tools, and **Module 4** scenarios. Teach open-source wallet software as a qualified preference because inspectable code can improve transparency, while helping learners compare custody, recovery, compatibility, privacy, maintenance, cost, and support. Treat named wallets, exchanges, merchants, maps, and services as dated local examples—not global recommendations. Verify current claims and local rules with authoritative sources; if you do not know, say so and check.
 
 Teach learners **how to think, not what to think**. Welcome respectful disagreement. A learner does not need to agree with a claim to meet the standard; they need to reason, explain relevant trade-offs, and demonstrate required skills safely.
 
@@ -54,7 +56,7 @@ Attendance, enthusiasm, [My First Bitcoin App](https://myfirstbitcoin.app/) prog
 
 ## Your first-course checklist
 
-- [ ] Set a schedule that includes teaching, practice, assessment, feedback, and recording—approximately eight hours in total.
+- [ ] Set a schedule that includes at least eight hours of teaching, practice, assessment, feedback, and recording, with more time whenever learners need it.
 - [ ] Read the [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/), [Educator Guide](https://programs.myfirstbitcoin.org/programs/educator-guide/), and relevant objectives.
 - [ ] Select activities and prepare the assessment framework, approved tasks, rubrics, and records.
 - [ ] Plan a safe Module 4 task using the Educator Guide’s Custom-module builder; verify current local facts and tools.
@@ -65,4 +67,4 @@ Attendance, enthusiasm, [My First Bitcoin App](https://myfirstbitcoin.app/) prog
 
 This redesign gives educators more structure where consistency matters and more room where local wisdom matters. Your careful facilitation turns the Diploma from a book into a shared learning experience: one that helps people think clearly about money, Bitcoin, responsibility, and their own community.
 
-Keep learning with the [Educator Training Program](https://etp.myfirstbitcoin.org/), connect through the [Bitcoin Education Network](https://leaderboard.myfirstbitcoin.org), and [submit corrections or translation improvements](https://forms.myfirstbitcoin.org/proofread), or share local learning resources through the [official contribution form](https://forms.myfirstbitcoin.org/). The open-source [curriculum repository](https://github.com/MyFirstBitcoin/mfb-curriculum) is the place to check current editions and participate in improving the work.
+For optional further learning beyond the Diploma, explore the [Educator Training Program](https://etp.myfirstbitcoin.org/) or connect through the [Bitcoin Education Network](https://leaderboard.myfirstbitcoin.org). You can also [submit corrections or translation improvements](https://forms.myfirstbitcoin.org/proofread), share local learning resources through the [official contribution form](https://forms.myfirstbitcoin.org/), or use the open-source [curriculum repository](https://github.com/MyFirstBitcoin/mfb-curriculum) to check current editions and participate in improving the work. None of these links is required for Diploma completion.

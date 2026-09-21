@@ -54,7 +54,7 @@ Internal purpose research clarifies that the Diploma should remain a structured,
 The current working design direction is:
 
 - educator-facilitated delivery in person or online;
-- minimum 8-hour delivery pathway, including required teaching and assessment, with additional time whenever learners need it;
+- minimum 8-hour delivery pathway, including required teaching and assessment, with additional time whenever learners need it and no upper limit;
 - working architecture of four modules—Understanding Money, How Bitcoin Works, Using Bitcoin Safely, and Bitcoin in Your Community—rather than fixed two-hour classes;
 - single four-module Diploma, with educator-curated local practice in Modules 3–4 and Advanced Modules outside the Diploma;
 - four-module Diploma / educator-curated Modules 3–4 / Advanced content boundaries;
@@ -319,7 +319,7 @@ QR codes should be used only for stable, high-value destinations such as:
 - a canonical update page;
 - educator resources;
 - donation or support pages;
-- certificate verification, if available.
+- educator or issuer-specific certificate verification, if available; never imply a central My First Bitcoin service.
 
 QR codes should not be scattered through the learner path as a substitute for essential printed content.
 
@@ -686,7 +686,7 @@ Use `05_competencies.md` for assessed competencies and observable criteria.
 
 Use `13_assessment.md` for how learning is evaluated.
 
-Use `15_certification.md` for the two-part assessment prerequisite and certification governance questions.
+Use `15_certification.md` for the two-part assessment prerequisite, decentralized educator-issued certification rule, and remaining local or optional verification controls.
 
 Use `03_scope.md` for workstreams, milestones, deliverables, publishing, and completion criteria.
 

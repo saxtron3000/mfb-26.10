@@ -24,7 +24,7 @@ The existing Diploma has valuable foundations. The update gives those foundation
 
 ## The learning pathway
 
-The Diploma is a four-module, approximately eight-hour pathway. The advertised route includes teaching, practice, assessment, feedback, and recording; it is not simply eight hours of classroom presentation.
+The Diploma is a four-module pathway that takes at least eight hours. Eight hours is the shortest planned route, not a maximum; educators take more time whenever learners need it. The advertised route includes teaching, practice, assessment, feedback, and recording.
 
 | Role | Module | Learner focus |
 |---|---|---|
@@ -40,8 +40,8 @@ The arc is **Problem → Solution → Action → Connect**. All four modules are
 - Practical learning in every module, using a clear explain → practise → apply → reflect rhythm.
 - A Student Guide, Educator Guide, assessment grid, and activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) with distinct roles.
 - Low-tech, offline-capable delivery: no app, personal device, or continuous connection is required for learning, assessment, completion, or certification.
-- An optional My First Bitcoin app for recap, self-checks, discovery, and connection to further learning—not assessment or certification evidence.
-- A two-part, non-compensatory assessment: 50% educator-evaluated theoretical evidence and 50% educator-observed practical evidence. A certificate requires all 11 assessed competencies to meet the required standard in both components.
+- The optional [My First Bitcoin App](https://myfirstbitcoin.app/) for recap, self-checks, discovery, and connection to further learning—not assessment or certification evidence.
+- A two-part, non-compensatory assessment: 50% educator-evaluated theoretical evidence and 50% educator-observed practical evidence. A certificate requires all 11 assessed competencies to meet the required standard in both components. The named educator assesses the learner and issues the certificate; My First Bitcoin does not centrally evaluate, issue, verify, or guarantee learner competency.
 - Wallet choice taught as a decision path: open-source software is preferred where appropriate for transparency, but every option has trade-offs and no wallet is the global recommendation.
 - Advanced technical and specialist topics kept outside the beginner Diploma, where they can be studied with the time and context they require.
 

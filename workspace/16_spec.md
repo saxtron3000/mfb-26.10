@@ -8,6 +8,8 @@ The Bitcoin Diploma is My First Bitcoin's flagship beginner education program. I
 
 The 2026.10 version is a redesign of the existing Diploma. It is being reorganized, not replaced. The redesign preserves the Diploma's open-source, community-led, Bitcoin-only identity while making the learning path shorter, clearer, more practical, easier to teach, and easier to adapt across communities.
 
+The edition is released framework first: the complete teaching package and assessment framework are published before claiming that every local route is ready for certificated delivery. An educator may issue certificates only after the selected tasks and local variants, capacity, accessibility routes, records, and proportionate local governance are operational.
+
 ---
 
 # Short Summary
@@ -21,7 +23,7 @@ The 2026.10 Bitcoin Diploma is a beginner course organized into four modules, wi
 
 The Diploma follows the **Problem → Solution → Action → Connect** learning arc. Modules 1 and 2 develop the Problem and Solution through explanation, comparison, and reasoning. Module 3 develops safe Action. Module 4 is the educator-curated Connect stage, required for Diploma completion: it links the shared learning to a local need or opportunity, a realistic alternative, safe practice, and a responsible next step.
 
-Teaching may be facilitated in person or online. The October 2026 publication package includes low-tech, offline-capable print/PDF materials, an online PDF version, and a web version. All October public outputs are published through Sanity. The My First Bitcoin app is optional in 2026.10 and may support recap, self-checks, discovery, and connection to future My First Bitcoin learning. Future delivery branches may include online cohort, self-paced, optional app, and cross-modal formats, but every branch must preserve the required Diploma competency standards and educator-led assessment standard.
+Teaching may be facilitated in person or online. The October 2026 publication package includes low-tech, offline-capable print/PDF materials, an online PDF version, and a web version. All October public outputs are published through Sanity. The [My First Bitcoin App](https://myfirstbitcoin.app/) is optional in 2026.10 and may support recap, self-checks, discovery, and connection to future My First Bitcoin learning. Future delivery branches may include online cohort, self-paced, optional app, and cross-modal formats, but every branch must preserve the required Diploma competency standards and educator-led assessment standard.
 
 ---
 
@@ -51,14 +53,14 @@ The redesign responds to problems found in the existing Diploma: unclear duratio
 
 The new version improves the Diploma by:
 
-- establishing a minimum 8-hour delivery pathway that includes the required learning and assessment work and expands whenever learner needs require more time;
+- establishing a minimum 8-hour delivery pathway that includes the required learning and assessment work and expands whenever learners need more time, while keeping valid competency evidence—not elapsed time—the basis for completion certification;
 - organizing the course into four clear modules;
 - keeping all four Diploma modules together, while keeping Advanced future learning outside the Diploma and allowing educators to adapt Modules 3–4 within it;
 - increasing practical learning, discussion, reflection, and learner explanation;
 - using selected Bitcoin for Organizations material only where it clarifies beginner concepts, educator misconception support, activity scenarios, or educator-curated Module 3–4 practice;
 - improving educator guidance, pacing, activities, and assessment support;
 - preparing English source files for translation and localization;
-- reducing fragile links, QR code clutter, and named-service dependencies;
+- reducing fragile links, QR code clutter, and named-service dependencies while retaining selected direct My First Bitcoin programme links as optional further learning beyond the Diploma;
 - keeping advanced technical, economic, and philosophical material outside the beginner pathway.
 
 The redesign does not remove the mission of the Diploma. It makes the mission easier to deliver.
@@ -125,7 +127,7 @@ Spending is one possible practice, but Module 4 is broader than spending. Bitcoi
 
 Guiding question:
 
-How can Bitcoin function as money in this community?
+How do the problem, solution, and safe action connect to this community?
 
 Observable learner competency:
 
@@ -156,7 +158,7 @@ Practical learning is included in every module, but practical tasks should remai
 
 # Materials And Outputs
 
-The 2026.10 Diploma package is expected to include:
+The 2026.10 framework-first package is expected to include:
 
 - Student Book;
 - offline print/PDF package;
@@ -165,7 +167,7 @@ The 2026.10 Diploma package is expected to include:
 - activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/);
 - Bitcoin in Your Community templates;
 - assessment framework, Educator Guide operational assessment protocol, and cohort assessment grid;
-- optional My First Bitcoin app self-check, recap, and discovery package;
+- optional [My First Bitcoin App](https://myfirstbitcoin.app/) self-check, recap, and discovery package;
 - public stakeholder brief and keynote material;
 - translation-ready Markdown source files;
 - web version, published through Sanity;
@@ -173,6 +175,8 @@ The 2026.10 Diploma package is expected to include:
 - future delivery-branch notes.
 
 The Student Book should carry the learner path. The Educator Guide should help teachers facilitate, pace, adapt, and protect learner safety. Activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) should provide modular exercises that educators can use inside the Diploma or as standalone learning experiences.
+
+The Student Book may link directly to selected My First Bitcoin programmes, and the Educator Guide should provide more detailed optional-pathway guidance. These links point beyond the Diploma. A learner needs the Student Book, an educator, and the materials and resources that educator specifies; no linked programme is required for Diploma completion.
 
 After release, approved modifications must be made through the [proofreading platform](https://forms.myfirstbitcoin.org/proofread), GitHub, or, where required, directly in Sanity. Every change must keep the approved source material and the Sanity-published online PDF and web versions aligned.
 
@@ -191,9 +195,9 @@ The percentages describe two equal-status, non-compensatory components; they do 
 
 The optional app cannot determine whether a learner can perform a practical skill. Its self-checks and recap do not contribute to assessment in 2026.10.
 
-No learner may receive a Bitcoin Diploma certificate until both assessment components meet the 11 assessed competencies at the required standard. Educators may adapt practical teaching in Modules 3–4 and curate Module 4 tasks, but required competencies, observable criteria, equivalent evidence, and passing standards may not be waived. Certificate governance, identity verification, credential infrastructure, and any on-chain verification remain implementation decisions.
+No learner may receive a Bitcoin Diploma certificate until both assessment components meet the 11 assessed competencies at the required standard. Educators may adapt practical teaching in **Modules 3–4** and curate **Module 4** tasks, but required competencies, observable criteria, equivalent evidence, and passing standards may not be waived. Certification is decentralized: the named educator assesses the learner, accredits the result, and distributes the certificate. The certificate records that educator's judgment; My First Bitcoin does not centrally issue, centrally verify, or guarantee learner competency. Optional future credential infrastructure, issuer-specific verification, and any on-chain timestamping must remain separate from the current educator-issued model unless approved.
 
-The Educator Guide's operational assessment protocol supplies the common competency-to-evidence crosswalk, approved theory interactions, practical tasks, rubrics, permitted support, safety-critical errors, equivalent routes, reassessment, calibration, and moderation. Every certificated cohort must pass its capacity check before delivery.
+The Educator Guide's operational assessment protocol supplies the common competency-to-evidence crosswalk, approved theory interactions, practical tasks, rubrics, permitted support, safety-critical errors, equivalent routes, reassessment, calibration, and moderation. Publication of the framework does not by itself establish local certification readiness. Every certificated cohort must pass its capacity check and have its selected task variants, accessibility routes, records, and proportionate local governance ready before delivery.
 
 ---
 

@@ -6,6 +6,8 @@
 
 This grid is a light-touch structure to help you see what learners are learning and record their progress. It is not a separate exam or a demand for lengthy paperwork. Use activities, conversations, demonstrations, and practice from the course to help learners show what they can do.
 
+The 2026.10 curriculum is a framework-first release. This grid does not by itself make a local route ready for certificated delivery. Before issuing completion certificates, prepare the selected tasks and local variants, observation capacity, accessibility routes, and proportionate local privacy, correction, and appeals arrangements. Certification is decentralized: the named educator assesses the learner and issues the certificate. My First Bitcoin does not centrally evaluate, issue, verify, or guarantee learner competency.
+
 Use one row per learner on Page 2. Record one result for each competency: `MS` = Meets standard; `NY` = Not yet; blank = not assessed. Decimal `C` identifiers are educator look-fors within the related competency, not separate results. If you are new to teaching or would like more support, the Educator Training Program is a recommended pathway, not a requirement.
 
 ### What learners can show
@@ -74,4 +76,4 @@ Use one row per learner on Page 2. Record one result for each competency: `MS` =
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-**Completion check:** When all 11 competency cells are `MS`, and you are satisfied that the learner has passed both the understanding and practical parts, you may issue a certificate of completion. If the learner attended but has not yet shown every competency, you may issue a certificate of participation and offer further learning or assessment opportunities. Brief private notes are helpful, but no task-ID record is required by this grid.
+**Completion check:** When all 11 competency cells are `MS`, both assessment components are complete, and your local certification route is ready, you may issue a certificate of completion in your name or that of your education organization. The certificate records your assessment judgment, not central My First Bitcoin certification. If the learner attended but has not yet shown every competency, you may issue a certificate of participation and offer further learning or assessment opportunities. Brief private notes are helpful, but no task-ID record is required by this grid.

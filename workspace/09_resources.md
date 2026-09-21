@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This file records external sources used to verify claims in the Diploma. Keep learner-facing prose free of external links unless a publication decision calls for a footnote or citation.
+This file records external sources used to verify claims in the Diploma. Keep learner-facing prose free of external links unless a publication decision calls for a footnote or citation. `DEC-09` permits a short set of direct My First Bitcoin programme links as clearly optional further learning beyond the Diploma; maintain those destinations through `20_links-internal.md` and `20_links-external.md` rather than treating them as evidence sources here.
 
 Line references identify the current source location in `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`. Recheck them, and revalidate time-sensitive sources, before publication.
 

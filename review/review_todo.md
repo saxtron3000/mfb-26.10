@@ -8,15 +8,15 @@
 - `ANN` = annotation: a historical reviewer note retained for triage; its original source marker is provenance, not current approval or status.
 - `DEC` = decision: a historical or current policy question with alternatives, affected files, and a recorded answer or verification step.
 
-The table below classifies all 21 `ACT` tasks in this register. **CRITICAL** and **MAJOR** remain release concerns; **MINOR** covers bounded maintenance or editorial work; **DONE** means the task is checked off with completion evidence.
+The table below classifies all 27 `ACT` tasks in this register. **CRITICAL** and **MAJOR** remain release concerns; **MINOR** covers bounded maintenance or editorial work; **DONE** means the task is checked off with completion evidence.
 
 | Category | Qualification | Tally | Tasks |
 |---|---|---:|---|
-| **CRITICAL** | Safety, governance, certificate-integrity, or certificated-delivery blocker. | **3** | `ACT-002`, `ACT-003`, `ACT-017` |
-| **MAJOR** | Release, publication, or required-before-cohort blocker that must be resolved before the affected delivery or publication claim. | **7** | `ACT-006`, `ACT-008`, `ACT-009`, `ACT-011`, `ACT-015`, `ACT-019`, `ACT-020` |
-| **MINOR** | Bounded editorial, maintenance, quality, or follow-up work that does not by itself block release readiness. | **6** | `ACT-007`, `ACT-010`, `ACT-012`, `ACT-013`, `ACT-014`, `ACT-021` |
-| **DONE** | Checked off and supported by completion evidence in the task record. | **5** | `ACT-001`, `ACT-004`, `ACT-005`, `ACT-016`, `ACT-018` |
-| **Total** | All consolidated `ACT` tasks. | **21** | — |
+| **CRITICAL** | Safety, governance, certificate-integrity, or certificated-delivery blocker. | **3** | `ACT-002`, `ACT-003`, `ACT-022` |
+| **MAJOR** | Release, publication, or required-before-cohort blocker that must be resolved before the affected delivery or publication claim. | **7** | `ACT-008`, `ACT-009`, `ACT-011`, `ACT-019`, `ACT-023`–`ACT-025` |
+| **MINOR** | Bounded editorial, maintenance, quality, or follow-up work that does not by itself block release readiness. | **5** | `ACT-007`, `ACT-010`, `ACT-013`, `ACT-021`, `ACT-026` |
+| **DONE** | Checked off and supported by completion evidence in the task record. | **12** | `ACT-001`, `ACT-004`–`ACT-006`, `ACT-014`–`ACT-018`, `ACT-020`, `ACT-027`, `ACT-012` |
+| **Total** | All consolidated `ACT` tasks. | **27** | — |
 
 The tables below apply the same qualification-and-tally approach to the historical annotations and decision questions. `ANN` source-marker counts describe provenance only; they do not qualify the notes as approved or rejected.
 
@@ -38,8 +38,8 @@ The tables below apply the same qualification-and-tally approach to the historic
 
 | Qualification | Meaning | Tally |
 |---|---|---:|
-| **Resolved** | The register records an answer as resolved; perform regression checks and retain the decision history. | **11** (`DEC-01`–`DEC-08`, `DEC-10`–`DEC-12`) |
-| **Deferred** | The owner has deliberately put the question on ice pending later clarification. | **1** (`DEC-09`) |
+| **Resolved** | The register records an answer as resolved; perform regression checks and retain the decision history. | **12** (`DEC-01`–`DEC-12`) |
+| **Deferred** | The owner has deliberately put the question on ice pending later clarification. | **0** |
 | **Total** | All decision questions retained in this register. | **12** |
 
 Classification follows the task’s current severity, release impact, status, and acceptance condition. A **MINOR** task is still required work unless its record is explicitly closed, rejected, or superseded.
@@ -48,19 +48,71 @@ Classification follows the task’s current severity, release impact, status, an
 
 | Area | Current status | Outstanding | Priority / next move |
 |---|---|---:|---|
-| Overall action register | 5 of 21 `ACT` items checked off | 16 | Treat the register as open; record status, owner, evidence, and dependencies as work proceeds. |
-| Release blockers | Open | 2 (`ACT-002`–`ACT-003`) | **Major issue:** calibrate assessors and approve record/certificate governance before certificated delivery or a results-retaining pilot. |
-| Decisions blocking dependent copy | Open | 1 (`ACT-006`) | **Major issue:** `DEC-08` settles wallet-software guidance, while the named programme-link policy in `DEC-09` is deliberately deferred. Certificate positioning is resolved; documentation remains in `ACT-020`. |
-| Cross-cutting release reconciliation | Open | 2 (`ACT-015`, `ACT-017`) | **Major issue:** reconcile publication outputs and the operational release promise across authorities and public materials. The Lightning boundary in `ACT-016` is aligned. |
-| Quick wins / bounded editorial fixes | Open | 4 candidate items (`ACT-008`, `ACT-009`, `ACT-011`, `ACT-012`) | **Quick wins:** remove or finalize conditional back matter, verify public destinations, finish the bounded self-check review, and repair or replace the missing visual target. Confirm decisions and evidence before closing. |
-| Publication and maintenance work | Open | 5 (`ACT-007`, `ACT-010`, `ACT-013`, `ACT-019`, `ACT-020`) | **Minor-to-medium issues:** document the certification model, add slide support, stabilize source/lexicon references, control visual production, and run the final publication verification pass. |
-| Decision-register maintenance | In progress | 1 (`ACT-014`) | **Medium issue:** eleven decisions are resolved; `DEC-09` remains explicitly deferred and retains its historical alternatives. |
+| Overall action register | 12 of 27 `ACT` items checked off | 15 | Treat the register as open; record status, owner, evidence, and dependencies as work proceeds. |
+| Release blockers | Open | 3 (`ACT-002`, `ACT-003`, `ACT-022`) | **Major issue:** remove the unsafe live-wallet route, calibrate assessors, and approve record/certificate governance before certificated delivery or a results-retaining pilot. |
+| Decisions blocking dependent copy | Complete | 0 | `DEC-08` and `DEC-09` are approved and reflected in the learner, educator, planning, and maintenance materials. |
+| Cross-cutting release reconciliation | Complete | 0 | `DEC-07`, `DEC-11`, and `DEC-12` are aligned across authorities and public materials; local certificated-delivery readiness remains governed by `ACT-002` and `ACT-003`. |
+| Quick wins / bounded editorial fixes | Open | 4 candidate items (`ACT-008`, `ACT-009`, `ACT-011`, `ACT-026`) | **Quick wins:** remove or finalize conditional back matter, verify public destinations, finish the bounded self-check review, and correct guide duplication. Confirm decisions and evidence before closing. |
+| Publication and maintenance work | Open | 7 (`ACT-007`, `ACT-010`, `ACT-013`, `ACT-019`, `ACT-023`, `ACT-024`, `ACT-026`) | **Minor-to-major issues:** complete the activity bank, remove unsupported activity claims, add slide support, stabilize source/lexicon references, control visual production, and run the final publication verification pass. |
+| Decision-register maintenance | Complete | 0 | All twelve decisions are resolved; historical alternatives remain for traceability. |
 | Assessment simplification | Open | 1 (`ACT-021`) | Consolidate eleven assessed competencies into seven, with useful sub-points only; review the grid first, then align the guides and planning authorities. |
 | Historical annotation triage | Complete | 0 pending; 242 triaged | Dispositions: 135 already addressed, 30 approved actions, 38 superseded, 19 preserved approvals, and 20 needing clarification. |
 | Source-marker interpretation | Defined only as provenance | Original inventory: 166 `[-]`, 58 `[o]`, 18 `[ ]` markers | Do not treat these markers as current status or approval. Use the documented triage dispositions and evidence instead. |
 | Near-term sequence | Ready for triage | — | 1) Resolve blockers and decisions; 2) handle bounded publication fixes; 3) prepare governance/calibration and delivery evidence; 4) complete annotation and final publication checks. |
 
 **Dashboard reading:** “Open” means the item remains unchecked in this file, not that its underlying proposal is approved. “Quick win” describes limited scope, not automatic closure. Snapshot reviewed on 2026-09-21.
+
+### Quick-read action register
+
+This is a table view of the unchanged detailed action records below. Follow an ID to read its complete evidence, acceptance condition, and history.
+
+#### Open, blocked, in-progress, or needs-verification actions
+
+| ID | Action | Status | Severity | Release impact | Owner | Depends on |
+|---|---|---|---|---|---|---|
+| [ACT-002](#act-002-prepare-assessor-calibration-evidence) | Prepare assessor calibration evidence | in-progress | critical | certificated-delivery blocker | unassigned | ACT-001 |
+| [ACT-003](#act-003-approve-record-and-certificate-governance) | Approve record and certificate governance | blocked | critical | certificated-delivery blocker | unassigned | none |
+| [ACT-007](#act-007-introduce-teaching-slides-as-visual-support-in-the-educator-guide) | Introduce teaching slides as visual support | open | medium | maintenance | unassigned | none |
+| [ACT-008](#act-008-finalize-or-remove-conditional-student-guide-back-matter) | Finalize or remove conditional Student Guide back matter | blocked | high | publication blocker | unassigned | none |
+| [ACT-009](#act-009-verify-changing-public-destinations-before-publication) | Verify changing public destinations | needs-verification | high | publication blocker | unassigned | ACT-006 |
+| [ACT-010](#act-010-replace-mutable-source-and-terminology-locations) | Replace mutable source and terminology locations | open | medium | maintenance | unassigned | none |
+| [ACT-011](#act-011-complete-the-optional-self-check-review) | Complete the optional self-check review | needs-verification | high | publication blocker | unassigned | none |
+| [ACT-013](#act-013-control-visual-production-scope) | Control visual production scope | in-progress | medium | maintenance | unassigned | ACT-008 |
+| [ACT-019](#act-019-complete-the-final-publication-verification-pass) | Complete the final publication verification pass | blocked | high | publication blocker | unassigned | ACT-008, ACT-009, ACT-011–ACT-013 |
+| [ACT-021](#act-021-consolidate-assessed-competencies-from-c1c11-into-c1c7) | Consolidate assessed competencies from `C1`–`C11` into `C1`–`C7` | open | medium | maintenance | unassigned | none |
+| [ACT-022](#act-022-remove-the-unsafe-live-wallet-route-from-activity-018) | Remove the unsafe live-wallet route from Activity 018 | open | critical | publication blocker | unassigned | none |
+| [ACT-023](#act-023-make-the-published-activity-bank-operationally-complete) | Make the published activity bank operationally complete | open | high | publication blocker | unassigned | ACT-022 |
+| [ACT-024](#act-024-replace-unsupported-or-polemical-claims-in-activities-001-and-002) | Replace unsupported or polemical activity claims | open | high | publication blocker | unassigned | none |
+| [ACT-025](#act-025-demonstrate-a-feasible-eight-hour-route-for-a-defined-cohort-and-assessor-model) | Demonstrate a feasible eight-hour route | open | high | required before cohort | unassigned | ACT-001 |
+| [ACT-026](#act-026-consolidate-duplicated-guide-architecture-and-repair-the-bd-v-049-marker) | Consolidate duplicated guide architecture and repair `BD-V-049` | open | medium | maintenance | unassigned | ACT-013 |
+
+#### Completed actions
+
+| ID | Action | Status | Severity | Release impact | Owner | Depends on |
+|---|---|---|---|---|---|---|
+| [ACT-001](#act-001-validate-the-complete-assessment-route) | Validate the complete assessment route | done | critical | certificated-delivery blocker | unassigned | none |
+| [ACT-004](#act-004-decide-what-approximately-eight-hours-means) | Decide what “approximately eight hours” means | done | high | publication blocker resolved | project lead | none |
+| [ACT-005](#act-005-decide-the-202610-certificate-position) | Decide the 2026.10 certificate position | done | high | publication blocker | unassigned | ACT-020 |
+| [ACT-006](#act-006-approve-a-short-publication-policy-for-named-programme-links-and-general-wallet-software-guidance) | Approve policy for named programme links and wallet-software guidance | done | high | publication blocker resolved | project lead | DEC-09 |
+| [ACT-012](#act-012-repair-the-missing-local-visual-target) | Repair the missing local visual target | done | medium | publication blocker resolved | unassigned | none |
+| [ACT-014](#act-014-triage-the-consolidated-decision-register) | Triage the consolidated decision register | done | medium | maintenance | project lead | none |
+| [ACT-015](#act-015-reconcile-october-publication-outputs) | Reconcile October publication outputs | done | high | publication blocker resolved | project lead | none |
+| [ACT-016](#act-016-verify-the-required-lightning-boundary) | Verify the required Lightning boundary | done | high | required before cohort | unassigned | DEC-06 |
+| [ACT-017](#act-017-confirm-operational-release-positioning) | Confirm operational release positioning | done | critical | positioning resolved; local readiness remains governed separately | project lead | none |
+| [ACT-018](#act-018-complete-annotation-triage) | Complete annotation triage | done | medium | maintenance | unassigned | none |
+| [ACT-020](#act-020-document-the-decentralized-educator-issued-certification-model) | Document the decentralized educator-issued certification model | done | high | publication blocker resolved | project lead | none |
+| [ACT-027](#act-027-align-the-published-module-guiding-questions) | Align the published module guiding questions | done | medium | maintenance | unassigned | none |
+
+### Review-run intake, 2026-09-21
+
+Each completed review run below is represented by a current action or finding in this register. A run record is review evidence, not an authority or completion claim.
+
+| Review control | Run record | Findings routed to the register |
+|---|---|---|
+| Alignment | [full-release alignment run](runs/2026-09-21-full-release-alignment.md#findings-created-or-updated) | `EVO-001`, `PUB-001`, `PUB-002`, and the existing release actions listed in the run. |
+| Cynical editor | [full-release cynical-editor run](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings) | `ACT-022`–`ACT-027`; `CYN-005` is also tracked by `ACT-008`, `CYN-006` by `ACT-011`, and `CYN-007` by `PUB-002`. |
+| Style | [full-release style run](runs/2026-09-21-full-release-style.md#findings-created-or-updated) | Existing `ACT-001`–`ACT-003`, `ACT-004`, `ACT-008`–`ACT-013`, and `ACT-015`–`ACT-019`; its completed editorial corrections remain recorded in that run. |
+| To-do control | [full-release to-do run](runs/2026-09-21-full-release-todo.md#findings-created-or-updated) | Existing `ACT-003`, `ACT-008`, `ACT-016`, `ACT-018`, and the register-wide status/evidence review. |
 
 ## How to use this document
 
@@ -83,7 +135,7 @@ Do not invent approvals, reviewer assignments, external verification, pilot resu
 ## Recommended work order
 
 1. Check current authorities and triage the 12 decisions below; retire implemented questions with evidence.
-2. Resolve remaining duration, output, certificate, wallet-guidance, and programme-link inconsistencies before changing dependent copy.
+2. Preserve the resolved duration, output, certificate, wallet-guidance, and programme-link policies while changing dependent copy.
 3. Prepare the local `P11` route, calibration examples, capacity model, and governance pack. Governance must precede any pilot that retains learner results.
 4. Pilot and revise the full learner/educator pathway using observed evidence.
 5. Finalize conditional back matter, public destinations, teaching slides, and bounded optional self-check language.
@@ -117,9 +169,9 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 - [ ] **ACT-003** **Approve record and certificate governance.**
 
-  - Status: blocked | Owner: unassigned | Updated: 2026-09-21 | Severity: critical | Release impact: certificated-delivery blocker | Evidence: [Certification framework:142](../workspace/15_certification.md:142#8-governance-and-verification-still-to-define) still lists issuer, privacy, retention, appeals, revocation, and verification as undefined | Depends on: none | Completion evidence: no approved governance pack found; human governance approval remains required.
+  - Status: blocked | Owner: unassigned | Updated: 2026-09-21 | Severity: critical | Release impact: certificated-delivery blocker | Evidence: [Certification framework current governance](../workspace/15_certification.md#8-current-governance-and-future-options) settles educator issuance but still requires proportionate local privacy, consent, records, correction, appeals, accessibility, and exceptional-case arrangements before certificated delivery | Depends on: none | Completion evidence: the issuer model is approved, but no complete local governance pack has been approved for a delivery context.
 
-  - Define issuer and approval authority; permitted data; consent or assent; access roles; retention and deletion; correction, appeal, incident, outage, and exceptional-case routes; assessor permissions, moderation, reconciliation, and audit trail; certificate issue, replacement, revocation, and verification; and rules for minors and safeguarding.
+  - Preserve the educator-issued model. Define permitted data; consent or assent; access roles; retention and deletion; correction, appeal, incident, outage, and exceptional-case routes; assessor permissions, moderation, reconciliation, and audit trail where used; educator-managed certificate correction, replacement, withdrawal, and optional verification; and rules for minors and safeguarding.
   - Acceptance: an approved, proportionate governance pack exists before competency evidence is retained for certification or a pilot.
 
 ### Decisions required before dependent copy is final
@@ -134,15 +186,15 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
   - Status: done | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: user-approved certification policy recorded in this review discussion and reflected in the [assessment-grid completion rule:77](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md:77) | Depends on: ACT-020 | Completion evidence: approved certificate position recorded above; publication reconciliation remains under `ACT-020`.
 
-- [ ] **ACT-006** **Approve a short publication policy for named programme links and general wallet-software guidance.** Define which optional My First Bitcoin pathways may appear in learner material, how often links are checked, and how general software-verification guidance is localized without becoming a global product recommendation.
+- [x] **ACT-006** **Approve a short publication policy for named programme links and general wallet-software guidance.** Define which optional My First Bitcoin pathways may appear in learner material, how often links are checked, and how general software-verification guidance is localized without becoming a global product recommendation.
 
-  - Status: blocked | Owner: project lead | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: `DEC-08` below approves the qualified open-source preference; [Student Guide wallet preference:996](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:996) already reflects part of it. Named pathways remain published at [Student Guide:100](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:100), while `DEC-09` is deferred | Depends on: DEC-09 | Completion evidence: wallet policy is decided, but the named programme-link policy remains on ice.
+  - Status: done | Owner: project lead | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker resolved | Evidence: `DEC-08` approves the qualified open-source preference; `DEC-09` approves direct, named, optional programme links; [Student Guide pathway](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md), [Educator Guide pathway](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), [specification](../workspace/16_spec.md), and [horizon maintenance policy](../workspace/18_horizon.md) reflect the policy | Depends on: DEC-09 | Completion evidence: named programmes are optional further learning beyond the Diploma; direct links are permitted; weekly automated checks are planned; only humans may approve link changes; and a failed optional pathway link triggers an important 24-hour resolution alert without becoming a publication blocker.
 
   - Acceptance: the policy is recorded and Student Guide wording follows it.
 
-- [ ] **ACT-020** **Document the decentralized educator-issued certification model.** Define and publish the two certificate types: **participation** for attendance without a successful assessment, and **completion** for a learner who has passed the required assessment. State that any educator may issue the certificate; the educator must use the assessment grid as the minimum process, while retaining assessment traces during the cohort is advisable but not required. A completion certificate confirms that the educator judged the learner to have passed; it is not a competency guarantee or centrally verified certificate from My First Bitcoin.
+- [x] **ACT-020** **Document the decentralized educator-issued certification model.** Define and publish the two certificate types: **participation** for attendance without a successful assessment, and **completion** for a learner who has passed the required assessment. State that any educator may issue the certificate; the educator must use the assessment grid as the minimum process, while retaining assessment traces during the cohort is advisable but not required. A completion certificate confirms that the educator judged the learner to have passed; it is not a competency guarantee or centrally verified certificate from My First Bitcoin.
 
-  - Status: in-progress | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: [Assessment Grid certificate distinction:77](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md:77) implements participation/completion, but [Student Guide certificate copy:1897](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1897) and [certification governance:142](../workspace/15_certification.md:142#8-governance-and-verification-still-to-define) do not yet implement the full decentralized model, ETP badge, and non-guarantee wording | Depends on: ACT-005 | Completion evidence: acceptance remains partially implemented.
+  - Status: done | Owner: project lead | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker resolved | Evidence: [Student Guide certificate meaning](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#certificate-meaning-and-issuer), [Educator Guide certificate procedure](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#confirm-what-the-certificate-means), [Assessment Grid issuer rule](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md), [assessment authority](../workspace/13_assessment.md#8-certification-meaning), and [certification authority](../workspace/15_certification.md#2-what-a-certificate-represents) | Depends on: none | Completion evidence: participation/completion, educator issuance, Assessment Grid minimum, ETP badge treatment, framework-first boundary, and My First Bitcoin's non-central/non-guarantee role are aligned.
 
   - Use the current [Canva certificate template](https://canva.link/55s417wnb9ehdwo) as the present template reference. Use “My First Bitcoin Diploma” as the programme wording, and show an ETP-completion badge beside the educator’s name when applicable.
   - Add the learner-facing explanation to the Student Guide, the full educator procedure and certificate distinction to the Educator Guide, a footnote to the assessment grid, and aligned guidance in the relevant `workspace/` authorities. Do not publish internal plans for future certification tooling or CRM integration.
@@ -177,9 +229,9 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
   - Acceptance: the Educator Guide introduces and links the slide set, explains its recommended use, and gives clear adaptation guidance. Slides support discussion and practical learning, and teaching remains possible without projection equipment.
 
-- [ ] **ACT-008** **Finalize or remove conditional Student Guide back matter.** Resolve `Source or update page, if included`, `Optional donate / support QR`, and `Certificate verification`. Do not publish a QR, support destination, or certificate-verification explanation without a tested, approved destination or process.
+- [ ] **ACT-008** **Finalize or remove conditional Student Guide back matter.** Resolve `Source or update page, if included` and `Optional donate / support QR`. The former `Certificate verification` section has been replaced with the approved educator-issued certificate explanation and no central verification asset.
 
-  - Status: blocked | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: conditional headings remain in the [Student Guide source/update section:1850](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1850), [support QR section:1875](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1875), and [certificate verification section:1890](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1890); the real verification process is still undefined in [certification governance:142](../workspace/15_certification.md:142) | Depends on: ACT-020 | Completion evidence: retained conditional content lacks a fully approved process.
+  - Status: blocked | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: conditional headings remain in the [Student Guide source/update section](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#source-or-update-page-if-included) and [support QR section](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#optional-donate--support-qr); [CYN-005](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings) also reports excessive, unprioritized named closing destinations. The [certificate section](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#certificate-meaning-and-issuer) now states the educator-issued model without implying a central verification service | Depends on: none | Completion evidence: the certificate subsection is resolved; source/update and donation destinations still need final verification or removal; retained next steps are few, clearly prioritized, and each has a distinct learner purpose.
 
   - The report requires a real, privacy-preserving certificate process before retaining the verification section. A live link alone is insufficient.
   - Acceptance: every retained section has a learner-facing heading and a verified destination or governing process; unavailable sections are removed.
@@ -188,7 +240,8 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
   - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: [internal-link register:1](../workspace/20_links-internal.md:1) and [external-link register:1](../workspace/20_links-external.md:1) inventory destinations, but no complete dated external check for this edition was found | Depends on: ACT-006 | Completion evidence: live destination verification remains external work.
 
-  - Acceptance: each retained destination is live, appropriate, and recorded as checked for the edition.
+  - A failed optional further-learning link does not by itself block publication. It raises an important alert requiring a human-approved solution within 24 hours. Required instructional or safety destinations retain their normal publication impact.
+  - Acceptance: each retained destination is live, appropriate, and recorded as checked for the edition; the weekly automated review and human-approval boundary are documented in both link registers.
 
 - [ ] **ACT-010** **Replace mutable source and terminology locations.** Convert `09_resources.md` and the Lexicon from line-number locations to stable section anchors or claim IDs. Keep occurrence audits separate from learner-term definitions. Expand the shared-claim register with source authority, volatility, reviewer, check date, next review date, and publication treatment.
 
@@ -199,18 +252,19 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 - [ ] **ACT-011** **Complete the optional self-check review.** Replace “You have a strong foundation” with wording limited to the 12-question self-check. Independently review all 12 items for facts and editorial quality; test the all-questions-on-one-screen experience on a small phone and with a screen reader.
 
-  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: the score wording was changed in [self-check source:52](../publish/mfb-ml-26.10/mfb-ml-26.10.md:52), but no dated independent editorial, small-phone, or screen-reader test record was found | Depends on: none | Completion evidence: required human/device/accessibility checks remain unrecorded.
+  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: the score wording was changed in [self-check source:52](../publish/mfb-ml-26.10/mfb-ml-26.10.md:52), but no dated independent editorial, small-phone, or screen-reader test record was found; [CYN-006](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings) reports that all 12 question pairs still declare independent factual and editorial review outstanding | Depends on: none | Completion evidence: required human/device/accessibility checks remain unrecorded, and approved Markdown content matches both CSV exports.
 
   - The report identified that message at the 10–12 score band and suggested “You showed a strong result on this quick self-check.” Preserve item mappings to the Student Guide. The check samples selected content from Modules 1–3 and does not assess Module 4 or observed practical skills. This is a publication action, not a certification blocker; the example is historical evidence, not approval for a new pass threshold.
   - Acceptance: reviewed item metadata is complete, the result message does not imply Diploma competence, and no score tracking, threshold, or educator access is introduced.
 
-- [ ] **ACT-012** **Repair the missing local visual target.** `workspace/08_assets.md` references the absent `../assets/diploma/bd-v-001.svg` Creative Commons mark.
 
-  - Status: open | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: publication blocker | Evidence: [Student Guide target:13](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:13) and [asset brief:159](../workspace/08_assets.md:159) reference `assets/diploma/bd-v-001.svg`; the target file is absent as of 2026-09-21 | Depends on: none | Completion evidence: file target still missing.
+- [x] **ACT-012** **Repair the missing local visual target.** `workspace/08_assets.md` references the absent `../assets/diploma/bd-v-001.svg` Creative Commons mark.
+
+  - Status: done | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: publication blocker resolved | Evidence: [Student Guide marker:13](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:13) and [asset brief:159](../workspace/08_assets.md:159) specify the Sanity-required official Creative Commons mark at the licence statement without a missing local-file reference | Depends on: none | Completion evidence: the broken local target was replaced with a clear Sanity production marker at the required Diploma location; Sanity production must upload the approved official mark and retain the stated alt text.
 
   - Acceptance: add the approved asset during visual production or replace the embedded image with a non-broken placeholder; rerun the local-link check.
 
-- [ ] **ACT-013** **Control visual production scope.** Select the essential visual set before commissioning work. Track file, rights, alt text, source, and review status. Keep conditional QR code and certificate-verification visuals out of production until their destinations and processes are approved.
+- [ ] **ACT-013** **Control visual production scope.** Select the essential visual set before commissioning work. Track file, rights, alt text, source, and review status. Keep conditional QR code visuals out of production until their destinations are approved; `BD-V-074` is explicitly deferred and has no 2026.10 placement.
 
   - Status: in-progress | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: maintenance | Evidence: [visual index:116](../workspace/08_assets.md:116#3-visual-index) records scope, rights, alt text, placement, and review requirements, but source publications still contain unproduced visual markers such as [BD-V-001:13](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:13) | Depends on: ACT-008 | Completion evidence: planning controls exist; essential asset selection and production verification remain incomplete.
 
@@ -218,18 +272,18 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 ### Review-register maintenance
 
-- [ ] **ACT-014** **Triage the consolidated decision register.** The original action targeted the archived consistency register; perform it on `DEC-01`–`DEC-12` here. Verify and mark questions 2, 3, 4, 5, and 10 as resolved, retaining their evidence and historical alternatives. Keep only questions that still require an owner response in the active decision queue.
+- [x] **ACT-014** **Triage the consolidated decision register.** The original action targeted the archived consistency register; perform it on `DEC-01`–`DEC-12` here. Verify and mark questions 2, 3, 4, 5, and 10 as resolved, retaining their evidence and historical alternatives. Keep only questions that still require an owner response in the active decision queue.
 
-  - Status: in-progress | Owner: project lead | Updated: 2026-09-21 | Severity: medium | Release impact: maintenance | Evidence: `DEC-01`–`DEC-08` and `DEC-10`–`DEC-12` now have approved answers below; `DEC-09` is deliberately deferred | Depends on: none | Completion evidence: approved questions were closed without deleting the one genuinely deferred decision or any historical alternatives.
+  - Status: done | Owner: project lead | Updated: 2026-09-21 | Severity: medium | Release impact: maintenance | Evidence: `DEC-01`–`DEC-12` have approved answers below | Depends on: none | Completion evidence: all approved questions were closed and propagated while retaining historical alternatives.
 
   - Acceptance: the active decision queue contains no question whose implemented answer is already established in the active authorities. Historical alternatives remain clearly labeled and do not reopen settled policy. Do not maintain a second live queue in the original file.
 
 
 ### Actions recovered from the report and decision log
 
-- [ ] **ACT-015: Reconcile October publication outputs.** The older report asks whether online PDF and web outputs belong to October. On 2026-09-19, `workspace/03_scope.md` and `workspace/16_spec.md` explicitly include both through Sanity, while `workspace/06_plan.md` still lists them among future branches. Verify the approved scope and reconcile remaining architecture/design/public wording. Keep online cohort, self-paced, optional app, and cross-modal instructional branches distinct from publication formats.
+- [x] **ACT-015: Reconcile October publication outputs.** The older report asks whether online PDF and web outputs belong to October. The approved October package includes the offline-capable print/PDF materials, online PDF, and website-ready content published through Sanity. Online cohort, self-paced, optional app, and cross-modal instructional branches remain future work.
 
-  - Status: in-progress | Owner: project lead | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: `DEC-07` below approves the online PDF package and website-ready source files as October deliverables; [Specification outputs:157](../workspace/16_spec.md:157#materials-and-outputs) and [delivery model:223](../workspace/16_spec.md:223) already include the Sanity outputs, while [plan open decisions:455](../workspace/06_plan.md:455) and [exact-format decision:464](../workspace/06_plan.md:464) still require reconciliation | Depends on: none | Completion evidence: the decision is settled, but affected authorities still conflict.
+  - Status: done | Owner: project lead | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker resolved | Evidence: [scope publishing system](../workspace/03_scope.md#15-publishing-system), [design publication model](../workspace/04_design.md), [plan October outputs](../workspace/06_plan.md#8-october-2026-output), [specification outputs](../workspace/16_spec.md#materials-and-outputs), [horizon boundary](../workspace/18_horizon.md#4-maintain-localize-and-extend-delivery-without-diploma-drift), and public [elevator release direction](../public/mfb-bd-elevator.md#release-direction) | Depends on: none | Completion evidence: all affected authorities and public wording distinguish October publication formats from future instructional branches and specify source-to-Sanity alignment.
 
   - Acceptance: release criteria and all affected authorities describe the same approved outputs, and source-to-Sanity maintenance is explicit. Link completion to `DEC-07`.
 
@@ -239,9 +293,9 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
   - Acceptance: the current answer to `DEC-06` is evidenced and consistently reflected in teaching and assessment without imposing an unapproved practical requirement.
 
-- [ ] **ACT-017: Confirm operational release positioning.** Reconcile `DEC-11` and `DEC-12` with the governance and delivery blockers, distinguishing a provisional teaching package, assessment-ready materials, validated delivery, and actual certificate issuance.
+- [x] **ACT-017: Confirm operational release positioning.** Reconcile `DEC-11` and `DEC-12` with the governance and delivery blockers, distinguishing a framework-first teaching package, assessment materials, locally ready certificated delivery, and actual educator-issued certificates.
 
-  - Status: blocked | Owner: project lead | Updated: 2026-09-21 | Severity: critical | Release impact: certificated-delivery blocker | Evidence: `DEC-11` approves decentralized educator-issued certification and `DEC-12` approves framework-first release; assessment materials are runnable at [Educator Guide:47](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:47), but [governance remains undefined:142](../workspace/15_certification.md:142) and [Student Guide verification copy:1899](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1899) still imply an unapproved process | Depends on: ACT-001, ACT-003, ACT-020 | Completion evidence: policy is decided, but the package and certification wording are not yet fully reconciled.
+  - Status: done | Owner: project lead | Updated: 2026-09-21 | Severity: critical | Release impact: positioning resolved; local readiness remains governed separately | Evidence: [Student Guide release and issuer boundary](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#certificate-meaning-and-issuer), [Educator Guide release status](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#about-this-guide), [certification release boundary](../workspace/15_certification.md#9-framework-first-release-boundary), [specification purpose](../workspace/16_spec.md#purpose), and public [keynote certificate direction](../public/mfb-bd-keynote.md#assessment-and-certification-direction) | Depends on: none | Completion evidence: project authorities and public materials now distinguish publication from local certification readiness and identify the educator as issuer without implying central My First Bitcoin evaluation or verification.
 
   - Acceptance: scope, research, assessment, certification, overview, horizon, and public claims use the same release promise; no certificate readiness is inferred from a written protocol alone.
 
@@ -253,9 +307,36 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 - [ ] **ACT-019: Complete the final publication verification pass.** Run the recurring checks below on the selected edition and capture evidence for external destinations, current claims, rendering, accessibility, and translation readiness as applicable.
 
-  - Status: blocked | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: unresolved conditional back matter, external-link verification, accessibility/device tests, and missing visual targets remain under `ACT-008`, `ACT-009`, `ACT-011`, `ACT-012`, and `ACT-013` | Depends on: ACT-008, ACT-009, ACT-011, ACT-012, ACT-013 | Completion evidence: dependency checks remain incomplete.
+  - Status: blocked | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: [full-release style run](runs/2026-09-21-full-release-style.md#findings-created-or-updated), [full-release to-do run](runs/2026-09-21-full-release-todo.md#findings-created-or-updated), and unresolved conditional back matter, external-link verification, accessibility/device tests, and missing visual targets under `ACT-008`, `ACT-009`, `ACT-011`, `ACT-012`, and `ACT-013` | Depends on: ACT-008, ACT-009, ACT-011, ACT-012, ACT-013 | Completion evidence: dependency checks remain incomplete.
 
   - Acceptance: the edition has a dated verification record distinguishing passed checks, remaining blockers, and checks not performed. No historical audit count is presented as a fresh result.
+
+### Review findings added from the cynical-editor run
+
+- [ ] **ACT-022: Remove the unsafe live-wallet route from Activity 018.** Reported 2026-09-21 in [CYN-001](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings). Rewrite or withdraw `mfb-act-018-creating-your-first-bitcoin-wallet.md` so no numbered step asks an educator or learner to fund a wallet, create or restore a live learner wallet, or view, enter, record, or share a real recovery phrase.
+
+  - Status: open | Owner: unassigned | Updated: 2026-09-21 | Severity: critical | Release impact: publication blocker | Evidence: [CYN-001](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings) identifies the unsafe published procedure and late safety note | Depends on: none | Completion evidence: a safety reviewer can follow every numbered step using only a fake, disposable, no-value environment; the prohibition on real secrets and funds appears before the first action; and no unsafe alternative remains in the activity.
+
+- [ ] **ACT-023: Make the published activity bank operationally complete.** Reported 2026-09-21 in [CYN-002](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings). Complete or remove empty operational sections across `publish/mfb-act-26.10/`; state the learner output and educator evidence; and provide a usable fallback for every device-, video-, website-, or live-tool dependency.
+
+  - Status: open | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: [CYN-002](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings) reports 130 empty H2 sections, including 19 Duration sections, across 30 published activities | Depends on: ACT-022 | Completion evidence: no released activity has an empty operational section; each activity states the learner output and educator evidence; and every dependency has a stated fallback that an educator can use without inventing missing steps.
+
+- [ ] **ACT-024: Replace unsupported or polemical claims in Activities 001 and 002.** Reported 2026-09-21 in [CYN-003](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings). Revise the auction and consensus activities to distinguish evidence-backed mechanisms from value judgements, bound causal claims, and give learners enough context to assess limitations or competing explanations.
+
+  - Status: open | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: [CYN-003](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings) identifies categorical, unsourced claims in `mfb-act-001-auction.md` and `mfb-act-002-consensus.md` | Depends on: none | Completion evidence: an independent factual reviewer can support every retained material claim, and the activities do not state universal historical, causal, or value claims beyond their evidence.
+
+- [ ] **ACT-025: Demonstrate a feasible eight-hour route for a defined cohort and assessor model.** Reported 2026-09-21 in [CYN-004](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings). State the maximum cohort size, assessor count, concurrent-observation assumptions, and protected assessment time for the minimum route, or qualify that route so it cannot be mistaken for a universally feasible schedule.
+
+  - Status: open | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: required before cohort | Evidence: [CYN-004](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings) calculates 32–45 observation minutes per learner against the 12-row grid and finds no stated cohort or staffing assumptions | Depends on: ACT-001 | Completion evidence: a complete schedule shows how teaching, practice, individual evidence, feedback, recording, and realistic reassessment fit the stated cohort and assessor assumptions; a field test records planned and actual timing before any certificated delivery.
+
+- [ ] **ACT-026: Consolidate duplicated guide architecture and repair the `BD-V-049` marker.** Reported 2026-09-21 in [CYN-008](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings). Retain only recaps with a distinct navigational or learning purpose, move educator-only detail out of learner front matter where appropriate, and delete the duplicate or mismatched `BD-V-049` visual marker and alt text.
+
+  - Status: open | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: maintenance | Evidence: [CYN-008](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings) reports repeated course-map material and consecutive `BD-V-049` markers with conflicting alt text | Depends on: ACT-013 | Completion evidence: every retained recap has a distinct purpose, no adjacent visual marker duplicates an ID, and each marker carries alt text for its own visual.
+
+
+- [x] **ACT-027: Align the published module guiding questions.** Reported 2026-09-21 in [CYN-009](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings). Choose one approved guiding question per module, or explicitly explain an intentional audience-specific variant, then align the Student Guide table, Educator Guide summary and module openings, and relevant assessment prompts.
+
+  - Status: done | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: maintenance | Evidence: [four-module architecture](../workspace/06_plan.md#2-four-module-architecture), [Student Guide learning path](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#learning-approach), [Educator Guide at-a-glance table](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#the-diploma-at-a-glance), [Educator Guide Module 3](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#9-module-3-using-bitcoin-safely), [Educator Guide Module 4](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#10-module-4-bitcoin-in-your-community), and [specification four-module path](../workspace/16_spec.md#four-module-learning-path) | Depends on: none | Completion evidence: the Student Guide, Educator Guide summary and module openings, canonical architecture, and active specification now use the same Module 3 and Module 4 questions; no differing assessment prompt was present.
 
 ## Decision register
 
@@ -271,7 +352,7 @@ The following register preserves all 12 questions, alternatives, affected-file l
 | DEC-06 | **Resolved: A.** Explanation/comparison is required; Lightning setup or payment practice is locally selected. |
 | DEC-07 | **Resolved: A.** The October release includes everything required to teach the Diploma, including the online PDF package and website-ready source files. |
 | DEC-08 | **Resolved: A.** Open source is a qualified preference and part of the learning process, not a universal wallet recommendation. |
-| DEC-09 | **Deferred.** The named programme-pathway question is on ice pending later clarification. |
+| DEC-09 | **Resolved: A.** Keep direct, named programme links as clearly optional further learning beyond the Diploma, with weekly automated checks where possible and human-approved corrections. |
 | DEC-10 | **Resolved: A.** The canonical learner manuscript is `publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`. |
 | DEC-11 | **Resolved.** The named educator assesses the learner, accredits the result, and distributes the certificate; it records that educator's judgment, not My First Bitcoin's direct evaluation. |
 | DEC-12 | **Resolved: B.** Release the curriculum framework first and defer certification-complete claims until the remaining operational requirements are ready. |
@@ -348,9 +429,9 @@ Affected: `05_competencies.md`, `06_plan.md`, `07_contents.md`, `../publish/mfb-
 
 ### DEC-07: Are online PDF, website-ready content, and future branches October deliverables?
 
-**Status: resolved (A) | Owner: project lead | Approved: 2026-09-21.** Everything required to teach the Diploma must be published in the 2026.10 timeframe. This includes the online PDF package and website-ready source files. Remaining file reconciliation is tracked under `ACT-015`.
+**Status: resolved and implemented (A) | Owner: project lead | Approved: 2026-09-21.** Everything required to teach the Diploma must be published in the 2026.10 timeframe. This includes the online PDF package and website-ready source files. Project-wide reconciliation is complete under `ACT-015`.
 
-`03_scope.md` and `04_design.md` treat online PDF, cohort, self-paced, web, and cross-modal formats as documented future branches, not current implementation requirements. `16_spec.md` lists an online PDF package and website-ready source files among expected 2026.10 outputs.
+The historical conflict grouped online PDF and web publication with future online-cohort, self-paced, optional-app, and cross-modal instructional branches. The current authorities now separate them: the PDF/web formats are October Sanity outputs, while the instructional branches remain future work.
 
 **A. October deliverables.** Include an online PDF package and website-ready source files in the release completion criteria, with the same competency requirements and assessment safeguards.
 
@@ -362,7 +443,7 @@ Affected: `03_scope.md`, `04_design.md`, `06_plan.md`, `../publish/mfb-bd-26.10/
 
 ### DEC-08: How strict is the learner-facing “open-source wallet” guidance?
 
-**Status: resolved (A) | Owner: project lead | Approved: 2026-09-21.** Open-source wallet software is a preference, not a universal recommendation or automatic answer. The educator helps learners navigate the decision, understand wallet trade-offs, and identify how transparent or inspectable the software is. The [Student Guide:996](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:996) already implements part of this position; remaining alignment belongs to `ACT-006`.
+**Status: resolved and implemented (A) | Owner: project lead | Approved: 2026-09-21.** Open-source wallet software is a preference, not a universal recommendation or automatic answer. The educator helps learners navigate the decision, understand wallet trade-offs, and identify how transparent or inspectable the software is. The policy is aligned in the Student Guide, Educator Guide, Quick Start, public materials, and affected wallet activities. The programme-link portion of `ACT-006` is also closed by resolved `DEC-09`.
 
 `06_plan.md` includes an “open-source wallet preference” in Diploma safety content. The workspace also prohibits global tool recommendations and places detailed wallet-design considerations in Advanced. A preference can sound like a universal recommendation unless its purpose and limit are defined.
 
@@ -376,13 +457,15 @@ Affected: `06_plan.md`, `05_competencies.md`, `../publish/mfb-bd-26.10/mfb-bd-sg
 
 ### DEC-09: Is named programme-pathway promotion part of the Student Guide?
 
-**Status: deferred | Owner: project lead | Deferred: 2026-09-21.** The owner needs to return to this question and has placed it on ice. Named optional pathways remain published at [Student Guide:100](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:100), but no approved selection, review-frequency, and offline-fallback policy has been established. Do not infer approval for either option while the decision is deferred.
+**Status: resolved and implemented (A) | Owner: project lead | Approved: 2026-09-21.** The Student Guide may retain direct links to selected My First Bitcoin programmes as clearly optional further learning beyond the Diploma. Learners do not need those programmes or links for completion; they need the Student Guide, an educator, and the materials and resources the educator specifies. The Educator Guide should provide a more detailed optional-pathways list, while placing it in a back appendix remains an editorial option rather than a requirement.
 
 The Student Guide directs learners to specific My First Bitcoin programmes and public webpages. The publication guardrails otherwise emphasize durable offline material, sparse QR codes, and avoiding fragile or named-service dependencies. This needs an explicit publication policy rather than an accidental exception.
 
 **A. Keep a short, curated pathways section.** Retain named My First Bitcoin next steps and links, but make them optional, date-checked, and available as a plain-text offline reference.
 
 **B. Keep the Student Guide programme-neutral.** Remove named pathways and live links from learner chapters; place changing programme navigation on a maintained update page or educator handout.
+
+**Approved answer: A.** Link directly to each selected programme rather than requiring one central landing page. Where operationally possible, a bot or agent checks the two link registers weekly, updates check metadata, and raises alerts; only a human may approve a correction, replacement, or removal. A failed optional further-learning link is not a publication blocker, but it requires an important alert and a human-approved solution within 24 hours. Learner-facing materials do not need to state ETP technology requirements beside every ETP link. The low-tech, offline-capable commitment applies to Diploma learners; educator training may require access to a mobile device, computer, and internet connection.
 
 Affected: `06_plan.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, `09_resources.md`, the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), `16_spec.md`.
 
@@ -400,7 +483,7 @@ Affected: `AGENTS.md`, `00_index.md`, `06_plan.md`, `07_contents.md`, `../publis
 
 ### DEC-11: Is a certificate a 2026.10 operational output or a governed future implementation?
 
-**Status: resolved | Owner: project lead | Approved: 2026-09-21.** The educator assesses the learner, accredits the result, and distributes the certificate. Because the My First Bitcoin Education Network is decentralized, My First Bitcoin does not evaluate the learner. A certificate represents certification by the named educator, not direct certification or a competency guarantee from My First Bitcoin. Dependent governance and publication reconciliation remain under `ACT-003`, `ACT-017`, and `ACT-020`.
+**Status: resolved and implemented | Owner: project lead | Approved: 2026-09-21.** The educator assesses the learner, accredits the result, and distributes the certificate. Because the My First Bitcoin Education Network is decentralized, My First Bitcoin does not evaluate the learner. A certificate represents certification by the named educator, not direct certification or a competency guarantee from My First Bitcoin. Project-wide publication reconciliation is complete under `ACT-017` and `ACT-020`; proportionate local record and safeguarding readiness remains tracked separately under `ACT-003`.
 
 The assessment and certification documents define a mandatory prerequisite and issuance workflow, while `03_scope.md` leaves certificate governance, identity, verification, and infrastructure out of scope. Public wording needs to avoid promising an operational credential system before its owner and controls exist.
 
@@ -414,7 +497,7 @@ Affected: `03_scope.md`, the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-
 
 ### DEC-12: Should the first release include timed, certification-complete activities?
 
-**Status: resolved (B) | Owner: project lead | Approved: 2026-09-21.** Release the curriculum framework first. The [operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:47) exists, but calibration and governance evidence remain incomplete under `ACT-002` and `ACT-003`; release-positioning reconciliation remains under `ACT-017`.
+**Status: resolved and implemented (B) | Owner: project lead | Approved: 2026-09-21.** Release the curriculum framework first. The [operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:47) exists, but calibration and local governance evidence remain incomplete under `ACT-002` and `ACT-003`. The project now distinguishes publication from readiness for certificated delivery under `ACT-017`.
 
 The Educator Guide operational assessment protocol now supplies approved theory interactions, direct observation tasks, rubrics, records, support rules, and equivalent routes for every competency. It still requires delivery validation, local `P11` variant approval, calibration examples, and record-governance controls before certificated delivery.
 
@@ -458,23 +541,23 @@ For an `EVO-` entry, start with the required structured record above, then recor
 
 For a `PUB-` entry, start with the required structured record above, then record: `Governing workspace file/heading: … | Publication file/heading: … | Issue: … | Why it matters: … | Authority/evidence: … | Affected files: … | Recommended action: …`. Use the register statuses defined at the start of this document. Report every `EVO-` or `PUB-` entry that remains `needs-verification`, `open`, `in-progress`, or `blocked` at the end of the alignment review.
 
-#### EVO-001: October publication-output scope is not consolidated
+#### EVO-001: October publication-output scope is consolidated
 
-Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: `workspace/03_scope.md` and `workspace/16_spec.md` describe October Sanity-published online PDF and web outputs; `workspace/06_plan.md` retains online PDF and web among future branches | Depends on: ACT-015, DEC-07 | Completion evidence: affected authority and public wording use one approved October output boundary.
+Status: done | Owner: project lead | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker resolved | Evidence: [full-release alignment run](runs/2026-09-21-full-release-alignment.md#findings-created-or-updated); `workspace/03_scope.md`, `workspace/04_design.md`, `workspace/06_plan.md`, `workspace/16_spec.md`, `workspace/18_horizon.md`, and public release wording now define the offline print/PDF package, online PDF, and website-ready Sanity content as October outputs while reserving online-cohort, self-paced, optional-app, and cross-modal instructional branches for future work | Depends on: none | Completion evidence: affected authority and public wording use one approved October output boundary.
 
-Earlier file/heading: `workspace/06_plan.md`, `## 3. Legacy Content Migration` and `## 8. October 2026 Output` | Later file/heading: `workspace/03_scope.md`, `## 15. Publishing System`; `workspace/16_spec.md`, `## Materials And Outputs` | Issue: current authorities disagree on whether online PDF and web outputs are October deliverables or future branches | Why it matters: publication ownership, release promises, and maintenance routes can diverge between educators, collaborators, and public users | Authority/evidence: `03_scope.md` and `16_spec.md` explicitly include October online PDF/web outputs through Sanity; `06_plan.md` uses future-branch wording; `review/review_todo.md` ACT-015/DEC-07 | Affected files: `workspace/06_plan.md`, `workspace/03_scope.md`, `workspace/04_design.md`, `workspace/16_spec.md`, `workspace/18_horizon.md`, `workspace/19_publication-coverage.md`, affected public wording | Recommended action: authorize and apply one reconciliation across the architecture and release documents, preserving the distinction between publication formats and future instructional branches.
+Earlier file/heading: `workspace/06_plan.md`, `## 3. Legacy Content Migration` and `## 8. October 2026 Output` | Later file/heading: `workspace/03_scope.md`, `## 15. Publishing System`; `workspace/16_spec.md`, `## Materials And Outputs` | Historical issue: authorities disagreed on whether online PDF and web outputs were October deliverables or future branches | Resolution: `DEC-07` makes them October publication outputs through Sanity, while online-cohort, self-paced, optional-app, and cross-modal instructional branches remain future work | Evidence: `ACT-015` and the aligned affected files above.
 
-#### PUB-001: Conditional certificate-verification instructions lack an approved process
+#### PUB-001: Certificate wording now reflects educator-issued certification
 
-Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: Student Guide retains `### Certificate verification` with instructions for codes, links, QR codes, signatures, timestamps, and a verification process; `workspace/15_certification.md`, `## Governance And Verification Still To Define`, leaves public verification undecided | Depends on: ACT-003, ACT-008, ACT-017 | Completion evidence: learner-facing wording is removed or aligned to an approved, tested, privacy-preserving process.
+Status: done | Owner: project lead | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker resolved | Evidence: [full-release alignment run](runs/2026-09-21-full-release-alignment.md#findings-created-or-updated); the Student Guide now uses `### Certificate meaning and issuer`; `workspace/15_certification.md` defines decentralized educator issuance and the framework-first boundary; `BD-V-074` is deferred with no 2026.10 placement | Depends on: none | Completion evidence: learner-facing wording no longer implies a central My First Bitcoin verification process.
 
-Governing workspace file/heading: `workspace/15_certification.md`, `## Governance And Verification Still To Define`; `workspace/16_spec.md`, `## Assessment And Certification` | Publication file/heading: `publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, `### Certificate verification` | Issue: conditional instructions still teach a future or issuer-dependent verification route without a settled public process | Why it matters: learners and educators may infer that a My First Bitcoin verification service exists, and a future QR or link could expose personal data or create an unsupported certificate promise | Authority/evidence: `15_certification.md` lists public certificate verification as an implementation decision; Student Guide text says to follow a process “when checking a certificate through the official verification process” but gives no approved destination | Affected files: Student Guide back matter, Educator Guide certificate guidance if shared, Assessment Grid footnotes if added, `workspace/08_assets.md` BD-V-074, `workspace/15_certification.md`, `workspace/16_spec.md` | Recommended action: resolve certificate governance first, then either remove the section or publish only approved issuer-specific instructions; do not commission or retain BD-V-074 as a functional verification visual until the process is tested.
+Governing workspace file/heading: `workspace/15_certification.md`, `## Current Governance And Future Options`; `workspace/16_spec.md`, `## Assessment And Certification` | Publication file/heading: `publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, `### Certificate meaning and issuer` | Historical issue: conditional instructions implied a future central verification route without an approved service | Resolution: the publication now explains educator issuance, My First Bitcoin's non-central role, and optional issuer-specific verification only; `BD-V-074` is not a current production asset | Evidence: `ACT-017`, `ACT-020`, and the aligned files above.
 
 #### PUB-002: Publication coverage omits non-beginner and quick-start files
 
-Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: publication blocker | Evidence: `publish/mfb-adv-26.10/mfb-adv-001` through `mfb-adv-008` and `publish/mfb-bd-26.10/mfb-bd-qs-26.10.md` exist but are absent from `workspace/19_publication-coverage.md` | Depends on: ACT-019 | Completion evidence: every file under `publish/` has an explicit current-release, deferred, or non-public status and appears in the coverage register where required.
+Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: publication blocker | Evidence: [full-release alignment run](runs/2026-09-21-full-release-alignment.md#findings-created-or-updated) and [CYN-007](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings); the Quick Start is now classified in `workspace/19_publication-coverage.md`, but `publish/mfb-adv-26.10/mfb-adv-001` through `mfb-adv-008` remain absent | Depends on: ACT-019 | Completion evidence: every file under `publish/` has an explicit current-release, deferred, or non-public status and appears in the coverage register where required.
 
-Governing workspace file/heading: `workspace/19_publication-coverage.md`, `## Diploma publication set` and `## Maintenance check`; `workspace/17_advanced.md`, `## 1. Status And Use` | Publication file/heading: `publish/mfb-adv-26.10/mfb-adv-001-history-of-money-localisation.md` through `mfb-adv-008-building-on-bitcoin.md`; `publish/mfb-bd-26.10/mfb-bd-qs-26.10.md` | Issue: publication inventory and actual files disagree; the Advanced README says Advanced modules are not current beginner publication, but individual Advanced files and the Quick Start are not explicitly classified in the coverage register | Why it matters: release tooling, reviewers, translators, and users may treat drafts or supporting material as approved publication, or fail to maintain files that are in scope | Authority/evidence: `workspace/19_publication-coverage.md` says every curriculum-content file in `publish/` must appear once; `publish/mfb-adv-26.10/README.md` says Advanced modules are future; Quick Start is an educator-facing publication file not listed | Affected files: `workspace/19_publication-coverage.md`, `workspace/00_index.md`, `workspace/17_advanced.md`, `publish/mfb-adv-26.10/README.md`, eight Advanced files, Quick Start | Recommended action: record explicit deferred/non-release status and owner for the Advanced files and Quick Start, or make an authorized scope decision about their location and publication role before release.
+Governing workspace file/heading: `workspace/19_publication-coverage.md`, `## Diploma publication set` and `## Maintenance check`; `workspace/17_advanced.md`, `## 1. Status And Use` | Publication file/heading: `publish/mfb-adv-26.10/mfb-adv-001-history-of-money-localisation.md` through `mfb-adv-008-building-on-bitcoin.md` | Issue: publication inventory and actual files still disagree for the eight Advanced files; the Quick Start omission is resolved | Why it matters: release tooling, reviewers, translators, and users may treat Advanced drafts as approved publication or fail to maintain files that are in scope | Authority/evidence: `workspace/19_publication-coverage.md` says every curriculum-content file in `publish/` must appear once; `publish/mfb-adv-26.10/README.md` says Advanced modules are future | Affected files: `workspace/19_publication-coverage.md`, `workspace/00_index.md`, `workspace/17_advanced.md`, `publish/mfb-adv-26.10/README.md`, and eight Advanced files | Recommended action: record explicit deferred/non-release status and owner for the Advanced files before release.
 
 ## Historical report baseline and verification limits
 
@@ -500,7 +583,7 @@ This map preserves all eight report action areas and their primary-file referenc
 |---|---|---|
 | 1. Validate certificated delivery | ACT-001, ACT-002 | [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), [Assessment Grid](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md), `workspace/13_assessment.md`, `workspace/03_scope.md`. |
 | 2. Approve minimum record and certificate governance | ACT-003, ACT-005, ACT-017 | `workspace/15_certification.md`, `workspace/13_assessment.md`, `workspace/03_scope.md`, Student Guide back matter. |
-| 3. Implement scope decisions and resolve the deferred link question | ACT-006, ACT-015, ACT-017 | Implement resolved `DEC-01`, `DEC-07`, `DEC-08`, `DEC-11`, and `DEC-12`; return to deferred `DEC-09`; include `workspace/04_design.md` and `workspace/16_spec.md` in output reconciliation. |
+| 3. Implement scope decisions and the programme-link policy | ACT-006, ACT-015, ACT-017 | Preserve resolved `DEC-01`, `DEC-07`–`DEC-09`, `DEC-11`, and `DEC-12`; include `workspace/04_design.md` and `workspace/16_spec.md` in output reconciliation. |
 | 4. Make Student Guide back matter publication-ready | ACT-008, ACT-009 | [Student Guide](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md), `workspace/07_contents.md`, `workspace/08_assets.md`, `workspace/15_certification.md`. |
 | 5. Repair source and terminology maintenance | ACT-010 | `workspace/09_resources.md`, [Lexicon](../publish/mfb-bd-26.10/mfb-bd-lx.md), Educator Guide local verification record. |
 | 6. Triage remaining consistency decisions | ACT-014 | This action list, decision register, and annotation inventory; formerly maintained in the archived review register. |

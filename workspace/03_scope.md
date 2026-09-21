@@ -49,7 +49,7 @@ The scope assumes the current working design direction described in `04_design.m
 
 The following assumptions affect project execution:
 
-- Target duration: a minimum 8-hour delivery pathway, including required teaching, practice, assessment, feedback, and recording. Eight hours is the shortest planned route, with no upper limit when learners need more time to explore, discuss, practise, or consolidate their learning.
+- Target duration: a minimum 8-hour delivery pathway, including required teaching, practice, assessment, feedback, and recording. Eight hours is the shortest planned route, with no upper limit when learners need more time to explore, discuss, practise, consolidate, or demonstrate their learning.
 - Working architecture: 4 modules—Problem: Understanding Money; Solution: How Bitcoin Works; Action: Using Bitcoin Safely; and Connect: Bitcoin in Your Community—delivered in a competency-preserving schedule rather than fixed two-hour classes. The educator-curated Connect module links the shared learning to a local need, comparison, safe task, and responsible next step.
 - Educator-facilitated delivery in person or online.
 - Low-tech, offline-capable print/PDF instructional materials, with no app access required for learning, assessment, completion, or certification.
@@ -63,7 +63,7 @@ The following assumptions affect project execution:
 - `06_plan.md` is the active plan source of truth.
 - Combined assessment is in scope: educator-led theoretical assessment is 50% of the Diploma and educator-observed practical assessment is the remaining 50%. These are non-compensatory component balances, not a combined numerical grade.
 - Both assessment components are prerequisites for certification.
-- Detailed certification governance and credential infrastructure remain to be defined.
+- Certification is decentralized and educator-issued: the named educator assesses the learner and issues the certificate, which records that educator's judgment rather than a central My First Bitcoin evaluation or guarantee. Optional central credential infrastructure and public verification are future work.
 - Localization preparation is in scope.
 - Localization implementation is out of scope.
 - Publishing is part of project completion.
@@ -253,7 +253,7 @@ Create a competency-aligned system with two required, non-compensatory component
 
 ### Note
 
-The operational assessment protocol is published in the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) and the cohort record in `../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md`. Both educator-evaluated assessment components are mandatory for certification. Optional app self-checks cannot evaluate, record, or replace either component. Certificate governance, identity verification, credential infrastructure, and on-chain verification decisions remain implementation questions.
+The operational assessment protocol is published in the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) and the cohort record in `../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md`. Both educator-evaluated assessment components are mandatory for certification. Optional app self-checks cannot evaluate, record, or replace either component. The educator assesses the learner, accredits the result, and distributes the certificate. My First Bitcoin does not centrally issue, centrally verify, or guarantee learner competency. Privacy, correction, appeals, optional issuer-specific verification, and any future credential infrastructure remain implementation work for certificated delivery.
 
 ---
 
@@ -462,7 +462,7 @@ The redesign is complete when:
 - Combined assessment framework, educator-educator guidance, and two-part certification prerequisite are completed.
 - Measurable competency criteria are defined.
 - Educator Guide is redesigned.
-- Required activities are operational and available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/).
+- Required teaching and assessment routes are documented in the published framework; each educator confirms that selected activities, local variants, accessibility routes, capacity, and records are operational before certificated delivery.
 - Review systems are integrated.
 - Student Book is published.
 - Educator Guide is published.
@@ -485,7 +485,7 @@ The redesign is complete when:
 
 The following items are intentionally excluded from the current redesign project:
 
-- Certificate governance, credential infrastructure, identity verification, and public verification implementation
+- Central credential infrastructure, central identity verification, and public verification services; certification remains educator-issued
 - A standalone Bitcoin for Organizations beginner pathway
 - Organizational treasury, accounting, legal, tax, investment, policy, compliance, or institutional custody instruction inside the beginner Diploma
 - Full localization implementation
@@ -504,7 +504,7 @@ These may become future projects.
 
 - Success Metrics
 - North Star Definition
-- Certificate Governance and Verification Design
+- Proportionate local certificate records, correction, appeals, privacy, and optional issuer-specific verification procedures
 - AI Localization
 - Advanced Pathway Design
 - Delivery-Mode Branch Roadmap

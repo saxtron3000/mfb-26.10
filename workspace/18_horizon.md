@@ -48,7 +48,7 @@ Future work may strengthen the system behind a meaningful certificate.
 - Review the 50/50 theoretical–practical allocation against validity, reliability, access, learner support, and actual delivery time. Retain the non-compensatory requirement unless a governed evidence review approves a change.
 - Version the competency-to-teaching-to-evidence crosswalk, task variants, rubrics, prompting limits, safety-critical errors, and completion record so revised content does not obscure what a certificate represented at the time it was issued.
 - Build an educator onboarding, preparation, calibration, moderation, audit, remediation, reassessment, correction, accessibility-accommodation, and appeals model.
-- Define certificate issuer authority, identity and learner-account approach, minimum data fields, consent, retention, deletion/recovery, replacement, revocation, and public verification. Consider on-chain timestamping only if it protects personal data and adds value beyond ordinary verification.
+- Preserve the settled educator-issued model while testing proportionate improvements to learner identification, minimum data fields, consent, retention, deletion or recovery, replacement, withdrawal, and optional issuer-specific verification. Consider shared or on-chain verification only if it protects personal data, adds value beyond ordinary educator verification, and does not imply central My First Bitcoin evaluation.
 - Design an Advanced certification approach only after individual Advanced modules and their practical evidence needs are defined. It must not be a single completion metric.
 
 ## 3. Grow optional app self-assessment and microlearning carefully
@@ -79,8 +79,18 @@ Future work may strengthen the system behind a meaningful certificate.
 - Replace fragile line-number references with stable IDs or anchors for claims, competencies, observable criteria, visuals, glossary terms, activities, and app items.
 - Review the released visual set for print, grayscale, narrow-screen, alt-text, translation, factual-source, rights, and editable-label quality before expanding it.
 - Move from localization preparation to approved translations only with language-specific terminology, meaning, tone, simplicity, and assessment-equivalence review. Treat a translation or mode conversion that changes safety or evidence meaning as a versioned curriculum change.
-- Decide, test, and govern distinct online PDF, online cohort, self-paced, web, and cross-modal continuation branches. Each must retain required competency standards, equivalent practice and evidence, accessibility, and a complete low-connectivity alternative where the competency does not require an interface.
+- Maintain the October online PDF and web outputs in alignment with the approved source. Decide, test, and govern future online-cohort, self-paced, app-supported, and cross-modal instructional branches. Each must retain required competency standards, equivalent practice and evidence, accessibility, and a complete low-connectivity alternative where the competency does not require an interface.
 - Consider a technical demonstration bank and educator scripts for hashing, blocks, proof of work, mining, mempool observation, block pace, and halving, with offline alternatives. Use live tools for observation, not as a required dependency or source of fixed claims.
+
+### Automated link review and optional learning pathways
+
+Build a weekly link-review process from `20_links-internal.md` and `20_links-external.md`, where operationally possible. A bot or agent should run the routine checks, update review metadata, and alert a human owner to broken, redirected, changed, or unverified destinations. The bot or agent must not correct, replace, or remove a link without human approval. A failed optional further-learning link does not block publication, but it requires an important alert and a human-approved solution within 24 hours. Before automation is enabled, define the responsible owner, status fields, notification route, audit history, retry and false-positive handling, and escalation path. Automated availability checks do not replace a human judgement that a destination still suits its linked text, audience, language, safety boundary, and educational purpose.
+
+Links to other My First Bitcoin programmes are optional further-learning pathways beyond the Diploma. They are not required instruction, practice, assessment evidence, or certification conditions. A learner needs the Student Guide, an educator, and the materials and resources that educator specifies for the chosen delivery route; an optional programme link must not become a hidden device or connectivity requirement.
+
+The learner-facing Diploma remains low-tech and offline-capable. This constraint does not mean that educator training must be device-free: participation in the Educator Training Program requires access to a mobile device, a computer, and an internet connection. The Educator Training Program is a more technology-dependent programme and must be presented as distinct from Diploma completion; learner-facing Diploma materials do not need to state those participation requirements beside every ETP link.
+
+The Student Guide may link directly to each selected programme rather than routing learners through a single landing page. The Educator Guide should also provide a more detailed optional-pathways list. Its placement at the back of the guide as an appendix remains an editorial option, not a settled requirement.
 
 ### Community-originated delivery candidates
 

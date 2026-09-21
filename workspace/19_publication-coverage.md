@@ -6,6 +6,8 @@ This register makes the relationship between the official curriculum-content fil
 
 This is an inventory and decision record, not a second copy of learner or educator prose. The linked planning document owns the curriculum decision; the linked publication file remains the official released text or data. Detailed activity procedures remain in their published activity files and may also be made available through the Resources Hub.
 
+The 2026.10 set is a framework-first publication. It includes the teaching and assessment framework without asserting that every educator or local route is ready for certificated delivery. Certification is decentralized and educator-issued; a certificate records the named educator's judgment and is not a centrally issued or verified guarantee from My First Bitcoin.
+
 ## Coverage rules
 
 - A published item may support more than one module, but its primary module or role must be stated.
@@ -21,6 +23,7 @@ This is an inventory and decision record, not a second copy of learner or educat
 | [`mfb-bd-sg-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md) | Learner-facing introduction, delivery and safety expectations, four-module pathway, Modules 1–4, next steps, and support or verification references. | `06_plan.md` owns architecture and boundaries; `07_contents.md` owns the learner-content structure; `05_competencies.md`, `08_assets.md`, `09_resources.md`, and `16_spec.md` supply the related planning controls. |
 | [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) | Educator preparation, four-module facilitation, safety, activity selection, localization, delivery adaptation, operational assessment protocol, templates, and course close-out. | `12_educator-plan.md` owns the guide structure; `13_assessment.md` and `15_certification.md` own assessment and certification policy; `10_activities.md` owns activity boundaries. |
 | [`mfb-bd-assessment-grid-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) | Competency reference, educator notes, and cohort-level assessment record. | `05_competencies.md` owns criteria; `13_assessment.md` owns evidence and passing rules; `15_certification.md` owns eligibility and governance. |
+| [`mfb-bd-qs-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-qs-26.10.md) | Educator Quick Start for minimum timing, facilitation, wallet guidance, assessment, framework-first release status, and decentralized educator-issued certification. | `12_educator-plan.md` owns educator structure; `13_assessment.md` and `15_certification.md` own assessment and certification policy; `16_spec.md` owns the release boundary. |
 | [`mfb-bd-lx.md`](../publish/mfb-bd-26.10/mfb-bd-lx.md) | Beginner definitions for Modules 1–4, including money, Bitcoin mechanics, safe use, and local-community terms. | `07_contents.md` owns learner-content coverage; `06_plan.md` owns module boundaries; `12_educator-plan.md` owns educator-facing terminology and misconception checks. |
 | [`README.md`](../publish/mfb-adv-26.10/README.md) | Advanced-modules publication placeholder. | `17_advanced.md` owns the advanced inventory, pathway ideas, parked content, and publication readiness. |
 

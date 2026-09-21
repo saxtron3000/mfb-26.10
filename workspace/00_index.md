@@ -32,6 +32,8 @@ The official 2026.10 Diploma documents are:
 
 The optional app self-assessment data is maintained in [`mfb-ml-26.10.md`](../publish/mfb-ml-26.10/mfb-ml-26.10.md). It is a voluntary review resource, not assessment evidence.
 
+The 2026.10 publication is a framework-first teaching package. It includes the assessment framework, but publication alone does not declare every local route ready for certificated delivery. Certificates are issued by the educator who assesses the learner; they record that educator's judgment and are not centrally issued, verified, or guaranteed by My First Bitcoin.
+
 Planning notes, unresolved questions, review commentary, and historical material should remain outside the official Diploma documents.
 
 ---

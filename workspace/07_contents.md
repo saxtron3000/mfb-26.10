@@ -100,4 +100,4 @@
 - Connect with My First Bitcoin
 - Source or update page, if included
 - Optional donate / support QR
-- Certificate verification
+- Certificate meaning, educator issuance, and optional issuer-specific verification

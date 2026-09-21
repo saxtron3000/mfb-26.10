@@ -36,7 +36,7 @@ Content may be facilitated in person or online and taught with low-tech, offline
 
 ### Educator support through the [ETP](https://etp.myfirstbitcoin.org/)
 
-You do not need to prepare or teach in isolation. My First Bitcoin supports educators through the [Educator Training Program (ETP)](https://etp.myfirstbitcoin.org/), which helps prospective and active educators develop their teaching practice and connect with the wider education community.
+You do not need to prepare or teach in isolation. My First Bitcoin supports educators through the [Educator Training Program (ETP)](https://etp.myfirstbitcoin.org/), which helps prospective and active educators develop their teaching practice and connect with the wider education community. ETP and other linked programmes are optional pathways beyond the Diploma, not learner completion requirements.
 
 **Ready for support?** Explore the [Educator Training Program](https://etp.myfirstbitcoin.org/) for current information and ways to get involved.
 
@@ -65,7 +65,7 @@ In this Diploma, a **learner** studies, discusses, practises, and provides obser
 
 ## 2. Pacing And Timing
 
-- Minimum 8-hour delivery pathway, including required assessment and additional time when learners need it
+- Minimum 8-hour delivery pathway, including required assessment and additional time whenever learners need it
 - Four two-hour sessions as one delivery model, not a fixed limit
 - Suggested timing per module
 - Flexible delivery models: one-day, four-day, or eight-day
@@ -74,9 +74,9 @@ In this Diploma, a **learner** studies, discusses, practises, and provides obser
 - What to move to Advanced Modules
 - How to reserve time for required assessment
 
-### Managing The 8-Hour Pathway
+### Managing The Minimum 8-Hour Pathway
 
-The Bitcoin Diploma has a minimum 8-hour delivery pathway. Eight hours is the shortest planned route, not a maximum, and includes teaching, practice, educator-led theory checks, direct practical observation, recording, feedback, and any planned reassessment. Educators should take additional time whenever learners need it to explore, discuss, practise, or consolidate their learning; there is no upper duration limit. Educators may use different time chunks depending on learner availability, venue constraints, travel time, energy level, device access, and local teaching context, but must not treat assessment as an extra follow-up outside the advertised Diploma. Optional app use must not become a barrier to participation.
+The Bitcoin Diploma has a minimum 8-hour delivery pathway. Eight hours is the shortest planned route, not a maximum, and includes teaching, practice, educator-led theory checks, direct practical observation, recording, feedback, and planned reassessment. Educators take additional time whenever learners need it to explore, discuss, practise, consolidate, or demonstrate their learning; there is no upper duration limit. Educators may use different time chunks depending on learner availability, venue constraints, travel time, energy level, device access, and local teaching context, but must not treat assessment as a hidden extra outside the advertised Diploma. Optional app use must not become a barrier to participation.
 
 The four-module sequence should remain the same:
 
@@ -89,17 +89,17 @@ Module 4 is the educator-curated **Connect** stage. It links the first three mod
 
 Educators should choose the schedule that gives learners enough time to discuss, practice, ask questions, and review without overloading them.
 
-Plan from the assessed competencies, observable criteria, required practice, and assessment evidence first. Do not cut or waive them merely to fit a fixed session length. If they do not fit, redesign the advertised course schedule before delivery so that teaching and assessment remain part of the same Diploma pathway. Educators may require learners to read the relevant Student Guide chapter before class when every learner can access it in an appropriate language and format. This pre-reading can preserve live class time for discussion, questions, local context, and selected activities, but it does not count toward the minimum eight hours or replace required educator-supported learning and assessment. Provide an equivalent supported route when pre-reading would create an access barrier.
+Plan from the assessed competencies, observable criteria, required practice, and assessment evidence first. Do not cut or waive them merely to fit a session length. If they do not fit, redesign the advertised course schedule before delivery so that teaching and assessment remain part of the same Diploma pathway. Educators may require learners to read the relevant Student Guide chapter before class when every learner can access it in an appropriate language and format. This pre-reading can preserve live class time for discussion, questions, local context, and selected activities, but it does not count toward the minimum eight hours or replace required educator-supported learning and assessment. Provide an equivalent supported route when pre-reading would create an access barrier.
 
 The course should feel lean and intentional. When time is tight, protect learner explanation, practice, safety, review, and required assessment before adding technical depth or extra examples. Required competencies, observable criteria, and certification assessments must not be cut. If they do not fit in the teaching session, the educator must redesign the course schedule before delivery rather than add an assessment-only follow-up or certify without evidence.
 
 | Delivery model | Example timing | Best use | Educator guidance |
 |---|---|---|---|
-| One-day intensive | At least 8 hours of Diploma learning plus suitable breaks, such as 9:00-18:00 | Conferences, weekend intensives, visiting educators, or learners who can only attend once | Keep explanations concise, protect discussion, practice, review, and assessment time, and avoid adding advanced topics. |
+| One-day intensive | At least 8 hours of Diploma learning plus suitable breaks, such as 9:00–18:00 | Conferences, weekend intensives, visiting educators, or learners who can only attend once | Use only when the cohort can learn and demonstrate the competencies without rushed discussion, practice, review, or assessment. |
 | Four-day course | Four 2-hour sessions | Community classes, schools, libraries, meetups, or evening programs | Teach one module per session. Begin each session with a short recap and end with an exit ticket or reflection. |
 | Eight-day course | Eight 1-hour sessions | Learners who benefit from slower pacing, translation, discussion, or repeated practice | Split each module across two sessions: one for the key idea and discussion, one for practice, review, and educator-curated Connect learning. |
 
-Breaks and lunch reduce live learning time. A one-day schedule such as 9:00-17:00 therefore does not provide the minimum eight hours of Diploma learning. Schedule a longer day or split the course across multiple days. Accessible pre-reading may preserve live time for activities and discussion, but it does not count toward the eight-hour minimum.
+Breaks and lunch reduce live learning time. A one-day schedule such as 9:00–17:00 therefore does not provide the minimum eight hours of Diploma learning. Schedule a longer day or split the course across multiple days. Accessible pre-reading may preserve live time for activities and discussion, but it does not count toward the eight-hour minimum or replace educator-supported learning and assessment.
 
 Educators may also combine models, such as two half-days or one weekend morning plus several evening sessions. The important decision is not the exact calendar format, but whether the chosen time chunks protect the learning rhythm of each module: introduce, discuss, practice, apply, and review.
 
@@ -380,7 +380,9 @@ The approved completion record must contain:
 - the selected and passed Module 4 competency; and
 - any required educator attestation or evidence reference.
 
-Only the combined **assessment-complete** status may unlock a certificate. Educator endorsement without structured evidence is insufficient, and direct practical assessment by an educator is mandatory.
+Only the combined **assessment-complete** status permits the named educator to issue a completion certificate. Educator endorsement without structured evidence is insufficient, and direct practical assessment by an educator is mandatory. My First Bitcoin does not centrally issue or verify the certificate or guarantee the learner's competency.
+
+The 2026.10 publication is framework first. Before certificated delivery, the educator confirms that the selected tasks and local variants, observation capacity, accessibility routes, Assessment Grid, and proportionate local privacy, correction, and appeals arrangements are ready.
 
 ## 6. Adaptation Guidance
 
@@ -393,10 +395,10 @@ Only the combined **assessment-complete** status may unlock a certificate. Educa
 - How to frame legal, tax, and privacy context without giving legal, tax, or financial advice
 - Low-connectivity delivery
 - Mobile-only delivery
-- Online PDF adaptation
+- Sanity-published online PDF presentation
 - Online cohort adaptation
 - Self-paced adaptation
-- Website branch adaptation
+- Sanity-published website presentation
 - Optional app recap, self-check, and discovery resources
 - Recording educator-led theoretical and practical evidence
 - Cross-modal branch notes

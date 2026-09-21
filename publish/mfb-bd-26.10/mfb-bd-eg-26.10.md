@@ -415,7 +415,7 @@ Introduce the wider My First Bitcoin learning pathway at the start of the Diplom
 - **[Educator Training Program](https://etp.myfirstbitcoin.org/)** helps people who want to teach develop their facilitation and assessment practice.
 - **Joining the [Bitcoin Education Network](https://leaderboard.myfirstbitcoin.org)** connects educators with peers to share experience, support one another, and contribute to community-led education.
 
-Present this as an available progression. Learners may begin with the Diploma and choose whether to continue towards teaching or network participation. Share the [student journey](https://journey.myfirstbitcoin.org/) landing page to help learners explore the pathway and choose their next step. When someone wants to continue, help them find the relevant program or network information and check its entry or participation requirements.
+Present this as an available progression beyond the Diploma, not as required instruction, practice, assessment, or certification. Learners need the Student Guide, an educator, and the materials and resources the educator specifies; they may begin with the Diploma and choose whether to continue towards teaching or network participation. Link directly to each relevant programme so learners can choose a next step; the [student journey](https://journey.myfirstbitcoin.org/) may remain as an additional overview rather than replacing those direct links. When someone wants to continue, help them find the relevant programme or network information and check its entry or participation requirements.
 
 <!-- VISUAL: BD-V-076
 ALT: An optional pathway connects Introduction to Bitcoin, the Bitcoin Diploma, educator training, and education-network participation, without automatic eligibility or membership.
@@ -602,11 +602,11 @@ Before choosing activities, answer:
 
 Do not build the schedule around content coverage alone. Build it around explanation, formative practice, educator-led theoretical evidence, directly observed practical evidence, and safe completion.
 
-### Competency-led timing
+### The minimum eight-hour pathway
 
-Use approximately eight hours as a planning baseline, not as a completion requirement or certification criterion. The pathway includes teaching, practice, direct observation, feedback, and opportunities for reassessment. Plan from the required competencies and the learning needs of the cohort, then take the time learners need to explore, discuss, practise, consolidate, and demonstrate their learning. Extend the session, add another session, or return to key activities whenever that produces a more appropriate learning experience.
+The Diploma takes no less than eight hours. Eight hours is the shortest planned route, not an automatic certificate route or a fixed limit, and there is no upper duration limit. The pathway includes teaching, practice, direct observation, feedback, and opportunities for reassessment. Plan from the required competencies and the learning needs of the cohort, then take the time learners need to explore, discuss, practise, consolidate, and demonstrate their learning. Extend the session, add another session, or return to key activities whenever learners need it.
 
-You may require learners to read the relevant Student Guide chapter before class when every learner can access it in an appropriate language and format. Pre-reading can preserve live class time for discussion, questions, local context, and selected activities, but it does not replace required educator-supported learning and assessment. Provide an equivalent supported route when pre-reading would create an access barrier.
+You may require learners to read the relevant Student Guide chapter before class when every learner can access it in an appropriate language and format. Pre-reading can preserve live class time for discussion, questions, local context, and selected activities, but it should not count toward the minimum eight hours or replace required educator-supported learning and assessment. Provide an equivalent supported route when pre-reading would create an access barrier.
 
 Consider cohort capacity before confirming the schedule. Estimate the time needed for activities, questions, troubleshooting, feedback, observation, and reassessment. Use a smaller cohort, another educator, extra sessions, or a different schedule when helpful. A first cohort can also help the educator learn how much time the local route needs; a formal pilot is not required.
 
@@ -2380,7 +2380,7 @@ It is the **Connect** stage of Problem → Solution → Action → Connect. The 
 
 Guiding question:
 
-> How can Bitcoin function as money in this community?
+> How do the problem, solution, and safe action connect to this community?
 
 Learner promise:
 

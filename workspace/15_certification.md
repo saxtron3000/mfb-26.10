@@ -39,7 +39,7 @@ This rule applies to every cohort, educator, delivery format, language, and loca
 
 # 2. What A Certificate Represents
 
-A Bitcoin Diploma certificate represents that the learner has demonstrated the approved beginner competencies through both theoretical and practical evidence.
+A Bitcoin Diploma certificate represents the named educator's judgment that the learner has demonstrated the approved beginner competencies through both theoretical and practical evidence. Certification is decentralized and educator-issued. My First Bitcoin does not centrally assess the learner, issue the certificate, verify it through a central service, or guarantee the learner's competency.
 
 The certificate confirms a shared beginner standard in:
 
@@ -68,7 +68,7 @@ Public communication must distinguish these terms:
 | Theoretical assessment complete | The learner passed educator-evaluated theoretical evidence for the 50% theoretical component. |
 | Practical-competence complete | The learner passed direct educator observation for the 50% practical component. |
 | Assessment-complete | Both assessment components are complete and recorded. |
-| Certification | A certificate issued only after assessment-complete status is verified. |
+| Certification | The named educator issues a certificate only after confirming assessment-complete status. It records that educator's judgment, not a central My First Bitcoin evaluation or guarantee. |
 
 Neither app progress nor either assessment component by itself may unlock certification.
 
@@ -80,7 +80,7 @@ Results are non-compensatory: strong theoretical evidence cannot offset an unmet
 
 ## The App
 
-In 2026.10, the My First Bitcoin app is optional. It may offer self-checks, recap, discovery, and connection to future My First Bitcoin learning. It does not evaluate or record certification evidence.
+In 2026.10, the [My First Bitcoin App](https://myfirstbitcoin.app/) is optional. It may offer self-checks, recap, discovery, and connection to future My First Bitcoin learning. It does not evaluate or record certification evidence.
 
 ## The educator
 
@@ -88,9 +88,11 @@ The educator evaluates the full theoretical competency component through compete
 
 The educator must use the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol), record evidence-based results in the Assessment Grid, provide remediation where needed, and reassess fairly. The educator may not replace required evidence with attendance, effort, familiarity, a learner's self-description, or personal discretion and may not set or override the theoretical pass result except through an explicitly governed correction process.
 
-## The Certification Process
+The educator is the certificate issuer. The educator assesses the learner, accredits the result, distributes the certificate, and remains responsible for any issuer-specific record, correction, replacement, or verification process they offer. The certificate must identify the educator or issuing education organization clearly and must not imply that My First Bitcoin directly evaluated the learner.
 
-The certification process verifies that both educator-led component statuses are complete before issuing a certificate. The approved completion record must distinguish theoretical and practical evidence.
+## The certification process
+
+The educator confirms that both educator-led component statuses are complete before issuing a certificate. The approved completion record must distinguish theoretical and practical evidence. No central My First Bitcoin approval or verification step is part of the current model.
 
 ---
 
@@ -115,8 +117,8 @@ Standardization does not mean every learner must use the same wallet or local sc
 3. An educator directly observes and records the required Module 3 and selected Module 4 practical competencies.
 4. Any unmet competency is marked **Not yet**, followed by feedback, further practice, and reassessment.
 5. The educator-led theoretical and practical results are recorded in the approved completion record.
-6. The system confirms assessment-complete status only when both components meet the standard.
-7. The certificate is issued only after that confirmation.
+6. The educator confirms assessment-complete status only when both components meet the standard.
+7. The named educator or educator's organization issues and distributes the certificate after that confirmation.
 
 ---
 
@@ -139,27 +141,31 @@ A strong assessment system makes the certificate meaningful. Weak, inconsistent,
 
 ---
 
-# 8. Governance And Verification Still To Define
+# 8. Current Governance And Future Options
 
-The two-part assessment prerequisite is a current design requirement. The following implementation and governance details still require definition:
+The current model is settled: certification is decentralized and educator-issued. Any educator using the Diploma may issue a participation or completion certificate under the published assessment requirements. My First Bitcoin does not centrally approve the result, issue the certificate, operate a public verification service, or guarantee learner competency.
 
-- certificate issuer and approval authority;
-- educator preparation and renewal;
-- educator calibration, moderation, and audit process;
-- assessment integrity and identity and learner-account verification appropriate to the context;
+Before certificated delivery, the educator establishes proportionate local arrangements for:
+
+- assessor preparation and any useful calibration or moderation;
+- assessment integrity and learner identification appropriate to the context;
 - accessibility and equivalent access, including language parity;
-- certificate format, data fields, privacy, consent, retention, and recovery rules;
-- appeals, corrections, accessibility accommodations, and exceptional-case workflow;
-- educator permissions, practical-result submission, record reconciliation, and evidence-record audit trail;
-- certificate revocation and replacement process;
-- public certificate-verification process; and
-- whether certificate records or hashes should ever be timestamped on-chain.
+- minimum certificate fields and clear identification of the educator or issuing organization;
+- privacy, consent, permitted records, retention, deletion, and secure recovery where records are kept;
+- result correction, appeals, accommodations, and exceptional cases; and
+- certificate correction, replacement, or withdrawal where the educator offers those processes.
 
-An on-chain timestamp, if adopted, must not expose learner personal information and must not replace either required assessment component.
+Future tools may support issuer-specific or shared verification, educator permissions, record reconciliation, audit trails, revocation, replacement, or privacy-preserving timestamps. They are optional future infrastructure, not part of the 2026.10 certificate promise, and must not convert an educator-issued certificate into a claim of central My First Bitcoin evaluation. Any future verification method must minimize personal data and must never replace either assessment component.
+
+# 9. Framework-First Release Boundary
+
+The 2026.10 curriculum is released as a complete teaching package and assessment framework first. Publication does not itself declare every educator, local task variant, cohort schedule, accessibility route, or record process ready for certificated delivery.
+
+An educator may begin certificated delivery only when the selected assessment tasks and local variants, capacity, accessibility routes, Assessment Grid, and proportionate local governance are ready. Until then, the materials may be used as a teaching package without making assessment-complete or certificate claims.
 
 ---
 
-# 9. Relationship To Other Documents
+# 10. Relationship To Other Documents
 
 Use `05_competencies.md` for the competencies and observable criteria that assessment must measure.
 

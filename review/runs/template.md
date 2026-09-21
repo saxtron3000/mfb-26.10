@@ -10,7 +10,7 @@
 | Reviewer | |
 | Source version | Commit, branch, or dated working-tree description |
 | Workspace authority version | Relevant workspace files and headings |
-| Scripts used | `review_alignment.md`, `review_style.md`, or both |
+| Scripts used | `review_alignment.md`, `review_style.md`, `review_cynical_editor.md`, or a combination |
 | Started / completed | |
 
 ## Traceability matrix

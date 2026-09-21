@@ -59,9 +59,11 @@ The beginner Diploma uses four modules:
 3. Using Bitcoin Safely
 4. Bitcoin in Your Community
 
-The current design uses an approximately eight-hour, educator-facilitated pathway with a complete low-tech and offline-capable option. Module 4 connects the shared learning to locally relevant Bitcoin use under approved safety and assessment guardrails.
+The current design uses a minimum eight-hour, educator-facilitated pathway with no upper limit and a complete low-tech and offline-capable option. Module 4 connects the shared learning to locally relevant Bitcoin use under approved safety and assessment guardrails.
 
 Assessment has two required, non-compensatory components: educator-evaluated theoretical competency demonstrated through observable learner responses, and educator-observed practical competency. The optional app supports learner-owned recap and self-assessment only; it is not required and does not provide certification evidence.
+
+The October 2026 framework-first package includes offline-capable print/PDF materials, an online PDF, and website-ready content published through Sanity. Certification is decentralized: the named educator assesses the learner and issues the certificate. My First Bitcoin does not centrally evaluate learners, issue certificates, provide a central verification service, or guarantee learner competency. Publication of the framework does not by itself declare every local route ready for certificated delivery.
 
 ## Planning references
 

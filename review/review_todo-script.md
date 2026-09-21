@@ -10,7 +10,7 @@ This script is a review control, not a curriculum authority. Do not treat a task
 
 Run this review in the current repository. Read [AGENTS.md](../AGENTS.md) and [review_todo.md](review_todo.md). Review every `ACT-`, `ANN-`, and `DEC-` item in ID order. For each item, inspect the current publications in `publish/` first, then consult the relevant authorities and supporting detail in `workspace/`. Update `review_todo.md` as evidence is found. Do not skip an item because it appears historical, repetitive, or likely resolved.
 
-Record the review date. If a dated run record is required by the user or the surrounding review workflow, create one in `review/runs/` from [runs/template.md](runs/template.md), and link the run record from updated items where useful.
+Record the review date. Create a dated run record in `review/runs/` from [runs/template.md](runs/template.md), and link the run record from every updated or newly created action. When current evidence reveals a distinct actionable gap that no existing `ACT-`, `EVO-`, or `PUB-` item covers, create the next sequential `ACT-` item with the required structured record, reported date, and run link. Do not leave actionable review findings only in the run report.
 
 ## Source order and authority
 
@@ -141,7 +141,7 @@ Before finishing:
 
 ## Completion report
 
-End with a short report containing:
+End the dated run report with `## Review report summary` as its final section. Under that exact heading, include:
 
 - files reviewed and review date;
 - counts before and after for `ACT`, `ANN`, and `DEC`;
@@ -150,3 +150,4 @@ End with a short report containing:
 - dashboard and tally updates made;
 - checks not performed or evidence that still requires human or external verification.
 
+State that the run record is not a source of truth. Do not place any section or content after this summary.

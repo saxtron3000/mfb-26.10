@@ -174,6 +174,8 @@ The educator must use the Assessment Grid as the minimum assessment process. Kee
 
 An educator who has completed the Educator Training Program may show the ETP badge beside their name on the certificate. The ETP is recommended support for educators who want more confidence; it is not required to issue a certificate.
 
+The 2026.10 curriculum is released framework first. Publication of the guides, protocol, and Assessment Grid does not by itself declare a local route ready for certificated delivery. Before issuing completion certificates, the educator must have the selected tasks and local variants, enough observation capacity, accessible equivalent routes, the Assessment Grid, and proportionate local privacy, correction, and appeals arrangements ready.
+
 ---
 
 # 9. Formative competencies

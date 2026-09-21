@@ -31,7 +31,7 @@ Key points:
 - The Diploma remains community driven.
 - The Diploma remains focused on Bitcoin education.
 - The learner pathway becomes shorter and more coherent.
-- The approximately eight-hour pathway includes teaching, practice, assessment, feedback, and recording.
+- The Diploma takes at least eight hours, including teaching, practice, assessment, feedback, and recording; eight hours is the shortest route, not a maximum.
 - The four required modules follow a Problem → Solution → Action → Connect learning arc.
 - Educators facilitate the Diploma in person or online, with low-tech and offline-capable routes available.
 - Practical learning, safety, and educator support are more intentional.
@@ -101,7 +101,7 @@ What stays the same:
 The 2026.10 design commitments are:
 
 - educator-facilitated delivery in person or online, with a preference for in-person learning where it supports discussion and practice;
-- an approximately eight-hour pathway that includes required teaching, practice, assessment, feedback, and recording;
+- a minimum eight-hour pathway that includes required teaching, practice, assessment, feedback, and recording, with no upper limit when learners need more time;
 - four required modules that preserve the learning sequence without requiring four fixed two-hour classes;
 - practical learning in every module, using an explain → practise → apply → reflect rhythm;
 - educator-adapted practical learning in Modules 3–4, including a required educator-curated Module 4 Connect task;
@@ -208,7 +208,7 @@ Expected improvements:
 
 | Current Challenge | Redesigned Response |
 |---|---|
-| Long or dense learning path | Approximately 8-hour completion pathway |
+| Long or dense learning path | Minimum 8-hour pathway with no upper limit |
 | Advanced content too early | Required Diploma learning with Advanced study kept outside the beginner pathway |
 | Passive learning risk | Discussion-rich activities |
 | Practical skills inconsistent | Practical learning and supported evidence in every module |
@@ -249,7 +249,7 @@ The redesigned Diploma should be understood as a learning ecosystem rather than 
 | Educator Guide | Facilitation, pacing, classroom decisions, discussion management, and adaptation support |
 | Resources Hub activities | Participation, practice, local adaptation, review, and practical learning |
 | Module 4 planning and task templates | Local workshops, demonstrations, and community-specific Bitcoin-as-money tasks |
-| My First Bitcoin app | Optional learner-owned recap, self-checks, discovery, and connection to further learning; never assessment evidence |
+| [My First Bitcoin App](https://myfirstbitcoin.app/) | Optional learner-owned recap, self-checks, discovery, and connection to further learning; never assessment evidence |
 | Educator-led assessment | Explanation, synthesis, simulations, role-plays, and direct observation of practical competence |
 | Future Advanced study | Deeper study without overloading the beginner pathway |
 
@@ -306,9 +306,9 @@ Important distinction:
 
 Modules 1 and 2 are knowledge-dominant; Modules 3 and 4 are skills-dominant and require direct observation of approved practical competencies. The two components are equal-status and non-compensatory: a combined score cannot substitute for unmet evidence in either one.
 
-Participation, attendance, and app progress are not certification. A learner may receive a Diploma certificate only after both components meet the required standard for all 11 assessed competencies and the evidence is recorded. This protects a shared minimum standard across educators and communities.
+Participation, attendance, and app progress are not certification. A learner may receive a Diploma certificate from the named educator only after both components meet the required standard for all 11 assessed competencies and the evidence is recorded. This protects a shared minimum standard across educators and communities.
 
-Certificate governance, identity verification, and public verification remain implementation decisions; they must not create a path to certification without both assessment components.
+Certification is decentralized and educator-issued. The educator assesses the learner, accredits the result, and distributes the certificate; it records that educator's judgment. My First Bitcoin does not centrally evaluate learners, issue certificates, operate a central verification service, or guarantee competency. Optional future credential or verification tools must preserve that boundary and cannot replace either assessment component.
 
 ---
 
@@ -421,7 +421,7 @@ This launch presentation tells the redesign story from its foundations through t
 | 2. The foundation we are carrying forward | 2:30 | The existing Diploma has enduring value and a clear mission. | Legacy-to-redesign bridge |
 | 3. Why evolve now? | 2:00 | The opportunity is to make that value easier to reach, teach, and adapt. | Learner and educator challenges |
 | 4. What stays non-negotiable | 2:00 | Open-source, community-led, Bitcoin-only education and independent reasoning remain. | Four preservation anchors |
-| 5. What is changing | 3:00 | A leaner, clearer, approximately eight-hour completion pathway strengthens the learner experience. | Before / after contrast |
+| 5. What is changing | 3:00 | A leaner, clearer pathway takes at least eight hours and expands whenever learners need more time. | Before / after contrast |
 | 6. The new learning story | 3:00 | Four modules move from money, to Bitcoin, to safe use, to local application. | Horizontal module journey |
 | 7. Practice with responsibility | 3:00 | Learners discuss, reason, practise, reflect, and identify safer next steps. | Explain → practise → apply → reflect loop |
 | 8. Educators complete the local story | 3:00 | Local educators curate the required Module 4 Connect task within shared competencies and safety boundaries. | Educator choosing from approved local task options |
@@ -481,7 +481,7 @@ Time: 3 minutes
 
 Key message: The redesigned Diploma is shorter, clearer, more practical, and easier to teach.
 
-Speaker note: Introduce the approximately eight-hour completion pathway, including teaching, practice, assessment, feedback, and recording. Explain that four modules provide structure, not a mandatory set of two-hour classes. All four modules are required. Educators adapt practical learning in Modules 3–4 and curate the required Module 4 Connect task within shared standards; future Advanced study preserves depth without overloading beginners.
+Speaker note: Introduce eight hours as the minimum and shortest planned route, including teaching, practice, assessment, feedback, and recording. Explain that there is no upper limit and educators take the time learners need. Four modules provide structure, not a mandatory set of two-hour classes. All four modules are required. Educators adapt practical learning in **Modules 3–4** and curate the required **Module 4: Connect** task within shared standards; future Advanced study preserves depth without overloading beginners.
 
 Suggested visual: Before / after table.
 
@@ -531,7 +531,7 @@ Time: 2 minutes 30 seconds
 
 Key message: A certificate represents demonstrated beginner learning, not attendance, app progress, or a financial recommendation.
 
-Speaker note: The assessment has two equal-status, non-compensatory components: 50% educator-evaluated theoretical evidence and 50% directly observed practical evidence. All 11 assessed competencies must meet the required standard and be recorded before certification. Participation, attendance, and app progress alone do not qualify a learner. Detailed certificate governance and verification remain implementation decisions, so do not promise them.
+Speaker note: The assessment has two equal-status, non-compensatory components: 50% educator-evaluated theoretical evidence and 50% directly observed practical evidence. All 11 assessed competencies must meet the required standard and be recorded before certification. Participation, attendance, and app progress alone do not qualify a learner. The named educator assesses the learner and issues the certificate; it is not central My First Bitcoin certification or a competency guarantee. The curriculum is released framework first, so certificated delivery begins only when the educator's selected tasks, local variants, capacity, accessibility routes, records, and proportionate local governance are ready.
 
 Suggested visual: Two equal evidence paths converging on “assessment-complete,” then certificate.
 
@@ -584,7 +584,7 @@ Avoid:
 
 - sounding like the earlier Diploma failed;
 - promising financial outcomes, adoption outcomes, or personal financial decisions;
-- promising certificate-governance details that have not yet been decided;
+- implying that My First Bitcoin centrally evaluates learners, issues certificates, or provides a central verification service;
 - presenting a named wallet, exchange, or local service as a global recommendation;
 - treating open-source status as a guarantee instead of one transparency factor in a contextual wallet decision;
 - overexplaining technical Bitcoin topics;
@@ -596,7 +596,7 @@ Avoid:
 
 | Before | 2026.10 redesign direction |
 |---|---|
-| Long or dense pathway | Approximately eight-hour completion pathway |
+| Long or dense pathway | Minimum eight-hour pathway with no upper limit |
 | Beginner and advanced material mixed together | Four required Diploma modules with future Advanced study kept outside the beginner pathway |
 | Activities embedded inconsistently | Resources Hub activities and guided practice |
 | Educator support uneven | Educator Guide as a practical facilitation companion |
@@ -630,7 +630,7 @@ Help make publication, translation, educator readiness, and the October 2026 rel
 Keep these topics available for questions, but do not make them central to the 30-minute talk:
 
 - the two-part assessment prerequisite for certification;
-- detailed assessment and certificate-governance decisions still in progress;
+- the decentralized educator-issued certificate model and the local readiness required before certificated delivery;
 - Advanced pathway details;
 - review, pilot, and publication process;
 - localization boundaries and translation readiness;

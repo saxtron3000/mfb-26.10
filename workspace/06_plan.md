@@ -27,7 +27,7 @@ Current design commitments:
 - educator-facilitated delivery in person or online;
 - low-tech, offline-capable print/PDF instructional content, with no app, device, or connectivity requirement for learning, assessment, completion, or certification;
 - a minimum 8-hour delivery pathway that includes required teaching, practice, assessment, feedback, and recording, with no upper limit when learners need more time;
-- 4 modules that may be delivered in four two-hour sessions, eight one-hour sessions, or another schedule that preserves the learning sequence and required evidence;
+- 4 modules that may be delivered in four two-hour sessions, eight one-hour sessions, or another schedule that gives learners appropriate time and preserves the learning sequence and required evidence;
 - all four required Diploma modules, with educator-adapted practical learning in Modules 3–4 and Advanced Learning outside the Diploma;
 - shared Modules 1–2 core learning, with educator-adapted Module 3 practice and educator-curated Module 4 Connect practice;
 - English-first drafting with simplicity, tone, style, terminology, and translation-readiness review before translation or publication;
@@ -42,7 +42,9 @@ Current design commitments:
 - practical assessment directly evaluated by an educator, with observation concentrated in Modules 3 and 4;
 - Advanced technical material outside the beginner pathway;
 - sparse QR code use in printed learner materials;
-- future instructional branches documented without changing required Diploma competency standards: online PDF, online cohort, self-paced, web, optional app self-assessment support, and cross-modal continuation. The app remains an optional self-assessment resource, not an assessment feature.
+- a short set of direct, named My First Bitcoin programme links as optional further learning, never as required Diploma instruction, practice, assessment, or certification;
+- October publication outputs that include the offline-capable print/PDF package, online PDF, and website-ready content published through Sanity;
+- future instructional branches documented without changing required Diploma competency standards: online cohort, self-paced, optional app self-assessment support, and cross-modal continuation. The app remains an optional self-assessment resource, not an assessment feature.
 
 The public explanation is simple:
 
@@ -251,7 +253,7 @@ Preserve the Diploma's conviction, clarity, and Bitcoin-only identity, but avoid
 
 Print QR rule:
 
-Printed PDFs should use QR codes sparingly. QR codes should point only to stable, high-value destinations such as the source repository, canonical update page, educator resources, support or donation page, or certificate verification if available.
+Printed PDFs should use QR codes sparingly. QR codes should point only to stable, high-value destinations such as the source repository, canonical update page, educator resources, support or donation page, or an approved educator or issuer-specific certificate-verification method if available. Do not imply a central My First Bitcoin verification service.
 
 Multilingual source rule:
 
@@ -259,7 +261,7 @@ Draft source material in English first. Before translation or publication, revie
 
 Delivery-branch rule:
 
-Low-tech, offline-capable print/PDF is the first content-publication mode and may support in-person facilitation or online facilitation. Online PDF, online cohort, self-paced, web, optional app self-assessment support, and cross-modal versions should branch from the same required Diploma competency standards rather than become separate curricula. The My First Bitcoin app is optional in 2026.10 and may be used for recap, self-checks, discovery, and updates.
+Low-tech, offline-capable print/PDF, an online PDF, and website-ready content are all October publication outputs. The online PDF and web version are published through Sanity and remain aligned with the same approved source. Future online-cohort, self-paced, optional app self-assessment, and cross-modal instructional branches should grow from the same required Diploma competency standards rather than become separate curricula. The [My First Bitcoin App](https://myfirstbitcoin.app/) is optional in 2026.10 and may be used for recap, self-checks, discovery, and updates.
 
 ---
 
@@ -420,15 +422,18 @@ Educator preparation, timing, adaptation, misconception support, and debrief gui
 The October 2026 redesign should produce:
 
 - a 4-module beginner Diploma;
-- a minimum 8-hour delivery path, with additional time whenever learners need it;
+- a minimum 8-hour delivery path, with additional time whenever learners need it and no upper limit;
 - clear assessed competencies and observable criteria;
 - Student Guide;
 - Educator Guide;
 - activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/);
 - educator-curated Module 4 templates;
 - educator-led theoretical and practical certification-prerequisite framework, with optional app recap and self-check resources;
-- publication-ready source files;
+- offline-capable print/PDF, online PDF, and website-ready outputs published through Sanity;
+- publication-ready and translation-ready source files;
 - public communication materials.
+
+This is a framework-first release. It publishes the complete teaching package and assessment framework without claiming that every local route is ready for certificated delivery. Before issuing certificates, an educator must have the selected tasks and local variants, capacity, accessibility routes, assessment records, and proportionate local governance ready.
 
 The Diploma should remain the entry point into a wider learning ecosystem, not the container for every valuable Bitcoin topic.
 
@@ -452,16 +457,15 @@ The redesign still needs decisions on:
 - which safety practices are required throughout the Diploma versus specific to educator-curated Module 3–4 variants;
 - which named tools or services may appear in published materials, and where;
 - final QR code destination list for print materials;
-- delivery-mode branch requirements for online PDF, online cohort, self-paced, web, optional app self-assessment support, and cross-modal continuation;
+- delivery-mode branch requirements for online cohort, self-paced, optional app self-assessment support, and cross-modal continuation;
 - multilingual glossary readiness;
 - ownership and approval criteria for English-source simplicity and translation-readiness review;
 - ownership and approval criteria for post-translation language review;
 - optional app self-assessment question-bank maintenance and learner-feedback requirements;
-- operational-assessment-protocol pilot evidence for task timing, records, calibration, moderation, accessibility equivalents, and educator capacity;
-- certificate governance and future verification options, including possible on-chain timestamping;
+- operational-assessment-protocol evidence for task timing, records, calibration, moderation, accessibility equivalents, and educator capacity before certificated delivery;
+- optional future certificate tooling and verification methods, including possible privacy-preserving on-chain timestamping, without changing educator-issued certification;
 - low-connectivity delivery assumptions;
 - pilot and educator review process;
-- exact publication formats;
 - Advanced module competencies and sequencing, tracked in `17_advanced.md`.
 
 ---

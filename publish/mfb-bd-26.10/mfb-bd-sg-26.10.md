@@ -11,8 +11,8 @@ This Diploma is an independent, open-source introduction to money and Bitcoin. I
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License unless stated otherwise. You may share and adapt it with attribution to My First Bitcoin, and you must use the same license for adaptations.
 
 <!-- VISUAL: BD-V-001
+SANITY: Required — add the approved official Creative Commons Attribution-ShareAlike 4.0 licence mark here during Sanity production.
 ALT: Creative Commons Attribution-ShareAlike 4.0 licence mark beside the written licence statement.
-ASSET: assets/diploma/bd-v-001.svg
 -->
 
 ---
@@ -61,7 +61,7 @@ The [My First Bitcoin App](https://myfirstbitcoin.app/) offers optional microlea
 Download the [My First Bitcoin App](https://myfirstbitcoin.app/) for optional microlearning, self-checks, recap, and more learning opportunities.
 
 <!-- VISUAL: BD-V-075
-ALT: Optional download panel for the My First Bitcoin App with a readable URL and QR code.
+ALT: Optional download panel for the [My First Bitcoin App](https://myfirstbitcoin.app/) with a readable URL and QR code.
 ASSET: assets/diploma/bd-v-075.svg
 -->
 
@@ -97,7 +97,7 @@ You can use the course to:
 
 You do not need to buy bitcoin to complete this Diploma. You also do not need to install a Bitcoin wallet or use personal funds. Required practical skills may be assessed with a prepared wallet, simulation, testnet, or an educator-approved low-stakes environment. Knowledge comes before action.
 
-If you have limited time or would like a first touch point before getting to grips with Bitcoin, begin with [Introduction to Bitcoin (ITB)](https://myfirstbitcoin.org/learn/programs#intro). It is a shorter course that introduces the basics. After the Diploma, learners who want to teach can continue to the [Educator Training Program (ETP)](https://etp.myfirstbitcoin.org/). These are separate learning paths: [ITB](https://myfirstbitcoin.org/learn/programs#intro) is a short primer, the Diploma builds a broader beginner foundation, and [ETP](https://etp.myfirstbitcoin.org/) develops teaching practice. Explore the [student journey](https://journey.myfirstbitcoin.org/) to see how these opportunities connect and choose your next step.
+If you have limited time or would like a first touch point before getting to grips with Bitcoin, begin with [Introduction to Bitcoin (ITB)](https://myfirstbitcoin.org/learn/programs#intro). It is a shorter course that introduces the basics. After the Diploma, learners who want to teach can continue to the [Educator Training Program (ETP)](https://etp.myfirstbitcoin.org/). These are separate, optional learning paths beyond the Diploma: [ITB](https://myfirstbitcoin.org/learn/programs#intro) is a short primer, the Diploma builds a broader beginner foundation, and [ETP](https://etp.myfirstbitcoin.org/) develops teaching practice. None is required to complete the Diploma. For the Diploma, you need this Student Guide, an educator, and the materials and resources your educator specifies. Explore the [student journey](https://journey.myfirstbitcoin.org/) to see how these opportunities connect and choose your next step.
 
 <!-- VISUAL: BD-V-076
 ALT: Optional pathway from Introduction to Bitcoin through the Diploma and educator training to community participation.
@@ -173,7 +173,7 @@ Your educator uses an assessment grid to record this evidence.
 
 
 
-To receive a certificate, you must meet the approved Diploma requirements. Attendance, [My First Bitcoin App](https://myfirstbitcoin.app/) use, or completing a self-check quiz alone is not enough.
+To receive a certificate of completion, you must meet the approved Diploma requirements through an educator whose local assessment route is ready. Attendance, [My First Bitcoin App](https://myfirstbitcoin.app/) use, or completing a self-check quiz alone is not enough. The named educator assesses you and issues the certificate; My First Bitcoin does not centrally evaluate learners, issue certificates, or guarantee competency.
 
 ### Required prior knowledge: none
 
@@ -247,7 +247,7 @@ ASSET: assets/diploma/bd-v-004.svg
 | --- | --- | --- | --- |
 | **Module 1: Understanding Money** | **Problem** | How can money break? | You can explain the money **problems** Bitcoin responds to. |
 | **Module 2: How Bitcoin Works** | **Solution** | Why was Bitcoin created, and how does it respond? | You can explain Bitcoin's **purpose** and key properties. |
-| **Module 3: Using Bitcoin Safely** | **Action** | How do I use and secure Bitcoin responsibly? | You can explain beginner **custody and safety** concepts and act safely in supported practice. |
+| **Module 3: Using Bitcoin Safely** | **Action** | How do I take responsibility for using and securing Bitcoin? | You can explain beginner **custody and safety** concepts and act safely in supported practice. |
 | **Module 4: Bitcoin in Your Community** | **Connect** | How do the problem, solution, and safe action connect to this community? | You can connect the course learning to a local need, alternative, safe task, and responsible next step. |
 
 <!-- VISUAL: BD-V-005
@@ -993,7 +993,9 @@ ALT: Wallet interface coordinating keys and transaction instructions while bitco
 ASSET: assets/diploma/bd-v-034.svg
 -->
 
-The first question about any wallet is: **who controls the keys?** Before using a tool, check who can authorize a payment, how access is recovered, and which payment methods it supports. Prefer well-established open-source wallet software where appropriate, while remembering that open source alone does not prove a tool is safe or suitable. Start with an educator's prepared environment; do not choose a tool because a stranger recommends it.
+The first question about any wallet is: **who controls the keys?** Before using a tool, check who can authorize a payment, how access is recovered, and which payment methods it supports. Prefer well-established open-source wallet software where appropriate because publicly inspectable code can improve transparency.This is a judgment, not a rule or a guarantee: every wallet has trade-offs, and open source alone does not prove that a tool is safe, maintained, correctly installed, or suitable for your needs.
+
+Your educator will help you compare custody, recovery, inspectability, compatibility, privacy, cost, maintenance, and available support without naming one wallet as the global choice. Start with an educator's prepared environment; do not choose a tool because a stranger recommends it.
 
 ### Addresses
 
@@ -1769,6 +1771,8 @@ Complete this review individually, then compare your reasoning with your team or
 
 ## Next Steps
 
+Every programme and opportunity in this section is optional further learning beyond the Diploma. You do not need to follow any of these links to complete the Diploma.
+
 ### Contribute to My First Bitcoin and the Resources Hub
 
 Choose a way to help and use the relevant official form to get started:
@@ -1887,34 +1891,25 @@ Visit the official donation page if you choose to contribute:
 
 A printed edition may place one official support QR code here. Before paying, confirm that the QR destination uses the official domain or an official payment page linked from it. Check the recipient and amount in your wallet. A donation is optional and is not required for course completion or certification.
 
-### Certificate verification
+### Certificate meaning and issuer
 
-<!-- VISUAL: BD-V-074
-ALT: Certificate-verification panel showing how to check course, issuer, date, status, and record changes.
-ASSET: assets/diploma/bd-v-074.svg
--->
+The 2026.10 curriculum is published as a teaching package and assessment framework first. Publication does not mean that every educator or local route is ready to issue completion certificates. An educator issues a certificate only after preparing the required tasks, accessible routes, assessment record, and appropriate local safeguards, and after assessing the learner against the approved theoretical and practical requirements.
 
-A certificate is issued only after you meet the approved theoretical and practical requirements through the Diploma’s educator-led assessment process. Optional [My First Bitcoin App](https://myfirstbitcoin.app/) use does not affect certification. The certificate represents assessed beginner competence under supported conditions, not investment skill, professional financial competence, or readiness to manage high-value self-custody.
+There are two certificate types:
 
-If your Diploma certificate includes a verification code, link, QR code, digital signature, or timestamp, follow the instructions printed on that certificate. Verify that the destination belongs to My First Bitcoin or the clearly identified issuing organization.
+- A **certificate of participation** confirms attendance or participation. It does not confirm that the learner passed the assessment.
+- A **certificate of completion** confirms that the named educator assessed the learner and judged that every required competency met the standard.
 
-When checking a certificate through the official verification process, confirm:
+The certificate is certification by the named educator or educator's organization. My First Bitcoin does not centrally evaluate the learner, issue the certificate, provide a central verification service, or guarantee the learner's competency. A completion certificate represents assessed beginner competence under supported conditions, not investment skill, professional financial competence, or readiness to manage high-value self-custody.
 
-- the learner name or identifier;
-- the course and edition;
-- the issuing organization and, where shown, the educator;
-- the completion date;
-- the verification status;
-- whether the record has been changed or revoked.
-
-Do not publish unnecessary personal information during verification. If no verification method is provided, contact the issuing educator through an independently verified channel.
+If the issuing educator provides a verification method, use only the instructions printed on the certificate or supplied through an independently confirmed educator channel. Check the course edition, educator or issuing organization, completion date, and status while sharing the minimum personal information necessary. A My First Bitcoin name or logo does not turn an educator-issued certificate into central My First Bitcoin certification.
 
 Your most important result is not the certificate. It is the ability to explain money and Bitcoin clearly, recognize risk, verify before acting, and continue learning independently.
 
 ## Continue learning
 
 <!-- VISUAL: BD-V-075
-ALT: Optional download panel for the My First Bitcoin App with a readable URL and QR code.
+ALT: Optional download panel for the [My First Bitcoin App](https://myfirstbitcoin.app/) with a readable URL and QR code.
 ASSET: assets/diploma/bd-v-075.svg
 -->
 

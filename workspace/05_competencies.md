@@ -19,7 +19,7 @@ This document does not define activities, task instructions, rubrics, certificat
 
 This is a working planning framework for a beginner Diploma.
 
-**Eight-hour minimum rule:** Eight hours is the shortest planned Diploma route, not a maximum. The advertised schedule must provide at least eight hours for the required teaching, practice, evidence, feedback, and planned reassessment. Educators should extend the route without an upper limit when their learners need more time to explore, discuss, practise, and consolidate the required learning. Competencies and evidence requirements must not be reduced merely to fit eight hours.
+**Eight-hour minimum rule:** Eight hours is the shortest planned Diploma route, not a maximum. The advertised schedule must provide at least eight hours for required teaching, practice, evidence, feedback, and planned reassessment. Educators extend the route without an upper limit when learners need more time to explore, discuss, practise, consolidate, or demonstrate the required learning. Completion certification depends on valid evidence that every required competency has been met, not on time attended. Competencies and evidence requirements must not be reduced merely to fit eight hours.
 
 **Observable-evidence rule:** No competency is awarded for private knowledge or self-description alone. A theoretical competency requires an educator to observe an individual learner explanation, comparison, justification, scenario response, illustration, or another approved learner action. A practical competency requires direct educator observation of the stated performance.
 
@@ -330,7 +330,7 @@ Before this framework is finalized, resolve:
 - release-test evidence that the selected cohort size and assessor ratio can support the required individual evidence within the advertised route;
 - privacy, consent, record correction, and appeals rules for certificated delivery;
 - online or self-paced observation safeguards, if those delivery modes remain in scope; and
-- certificate-governance decisions in `15_certification.md`.
+- local implementation of the decentralized educator-issued certification controls in `15_certification.md`.
 
 ## Relationship to other planning documents
 
