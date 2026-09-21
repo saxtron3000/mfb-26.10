@@ -1250,11 +1250,6 @@ No pathway is automatically best everywhere. Local examples and provider-specifi
 ### On-chain and Lightning payments
 
 <!-- VISUAL: BD-V-049
-ALT: Neutral pathway map for acquiring or exchanging bitcoin, showing custody, fees, identity, safety, and settlement choices.
-ASSET: assets/diploma/bd-v-049.svg
--->
-
-<!-- VISUAL: BD-V-049
 ALT: Comparison of on-chain and Lightning payment paths, including settlement, speed, fees, custody, and failure points.
 ASSET: assets/diploma/bd-v-049.svg
 -->
