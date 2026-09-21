@@ -55,7 +55,7 @@ Place it here with enough context to recover it later:
 - reason it was moved outside the Diploma;
 - notes for future use.
 
-The absence of a topic from `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md` does not mean the topic is unimportant. It may simply be too detailed, too local, too technical, too current-data-dependent, or too risky for an 8-hour beginner pathway.
+The absence of a topic from `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md` does not mean the topic is unimportant. It may simply be too detailed, too local, too technical, too current-data-dependent, or too risky for the beginner Diploma pathway.
 
 ---
 
@@ -113,7 +113,7 @@ Advanced content may include deeper:
 - communication networks;
 - Bitcoin education practice.
 
-Diploma learners should not be expected to master these topics inside the 8-hour beginner Diploma.
+Diploma learners should not be expected to master these topics inside the beginner Diploma.
 
 ---
 

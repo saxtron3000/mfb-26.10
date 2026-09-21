@@ -368,7 +368,7 @@ Suggested release path:
 3. Review with educators and local communities.
 4. Pilot or field-test where feasible, then incorporate approved findings.
 5. Complete translation-ready, public, and publication materials.
-6. Publish toward the October 2026 target.
+6. Publish the offline-capable print/PDF package, online PDF, and website-ready content through Sanity toward the October 2026 target.
 
 ---
 
@@ -541,7 +541,7 @@ Time: 2 minutes
 
 Key message: The project is moving from architecture into review, field learning, publication, and launch readiness.
 
-Speaker note: Show the path: align the Student Guide, Educator Guide, Resources Hub activities, and assessment materials; review with educators and communities; pilot or field-test where feasible; complete translation-ready and public materials; and publish toward the October 2026 target. Present the timing as a target, not a promise that bypasses quality review.
+Speaker note: Show the path: align the Student Guide, Educator Guide, Resources Hub activities, and assessment materials; review with educators and communities; pilot or field-test where feasible; complete the offline-capable print/PDF package, online PDF, website-ready Sanity content, and translation-ready source; and publish toward the October 2026 target. Explain that this is a framework-first release, not a claim that every local route is ready for certificated delivery. Present the timing as a target, not a promise that bypasses quality review.
 
 Suggested visual: Simple release path with October 2026 as the final marker.
 
@@ -586,6 +586,7 @@ Avoid:
 - promising financial outcomes, adoption outcomes, or personal financial decisions;
 - promising certificate-governance details that have not yet been decided;
 - presenting a named wallet, exchange, or local service as a global recommendation;
+- treating open-source status as a guarantee instead of one transparency factor in a contextual wallet decision;
 - overexplaining technical Bitcoin topics;
 - using internal planning terms when a plain contrast works better.
 

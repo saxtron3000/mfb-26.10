@@ -49,7 +49,7 @@ The scope assumes the current working design direction described in `04_design.m
 
 The following assumptions affect project execution:
 
-- Target duration: an approximately 8-hour delivery pathway, including required teaching, practice, assessment, feedback, and recording.
+- Target duration: a minimum 8-hour delivery pathway, including required teaching, practice, assessment, feedback, and recording. Eight hours is the shortest planned route, with no upper limit when learners need more time to explore, discuss, practise, or consolidate their learning.
 - Working architecture: 4 modules—Problem: Understanding Money; Solution: How Bitcoin Works; Action: Using Bitcoin Safely; and Connect: Bitcoin in Your Community—delivered in a competency-preserving schedule rather than fixed two-hour classes. The educator-curated Connect module links the shared learning to a local need, comparison, safe task, and responsible next step.
 - Educator-facilitated delivery in person or online.
 - Low-tech, offline-capable print/PDF instructional materials, with no app access required for learning, assessment, completion, or certification.
@@ -447,7 +447,7 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 
 The redesign is complete when:
 
-- Diploma has an approximately 8-hour planning baseline and is scheduled with additional time whenever required to meet the competency standard and assessment requirements.
+- Diploma has a minimum 8-hour pathway, with no upper limit, and is scheduled with additional time whenever learners need it to meet the competency standard and assessment requirements.
 - Diploma teaching content and educator-led assessment can be delivered from an offline-capable print or PDF package, with no app requirement for completion.
 - Observable learner competencies and criteria are clearly defined.
 - Competencies are mapped to modules, activities, and evidence.

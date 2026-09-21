@@ -9,7 +9,7 @@ It answers:
 - what every learner must visibly explain, compare, justify, respond to, or demonstrate after the four-module Diploma;
 - which detailed observable criteria sit within each assessed competency;
 - what every learner must demonstrate through an educator-curated Module 4 task;
-- what belongs outside the eight-hour beginner pathway;
+- what belongs outside the beginner Diploma pathway;
 - how competencies connect to the four-module structure; and
 - how the same competency requirement can be used across language and delivery-mode adaptations.
 
@@ -19,7 +19,7 @@ This document does not define activities, task instructions, rubrics, certificat
 
 This is a working planning framework for a beginner Diploma.
 
-**Eight-hour rule:** If a competency cannot be taught, practised, and evidenced safely inside the eight-hour scope, it is not a required Diploma competency.
+**Eight-hour minimum rule:** Eight hours is the shortest planned Diploma route, not a maximum. The advertised schedule must provide at least eight hours for the required teaching, practice, evidence, feedback, and planned reassessment. Educators should extend the route without an upper limit when their learners need more time to explore, discuss, practise, and consolidate the required learning. Competencies and evidence requirements must not be reduced merely to fit eight hours.
 
 **Observable-evidence rule:** No competency is awarded for private knowledge or self-description alone. A theoretical competency requires an educator to observe an individual learner explanation, comparison, justification, scenario response, illustration, or another approved learner action. A practical competency requires direct educator observation of the stated performance.
 
@@ -31,7 +31,7 @@ Detailed facts and terms belong in the relevant required criteria or supporting 
 
 ## Graduate capability profile
 
-A realistic graduate of the eight-hour beginner Diploma can:
+A realistic graduate of the beginner Diploma can:
 
 | Area | Realistic capability |
 |---|---|

@@ -26,7 +26,7 @@ Current design commitments:
 
 - educator-facilitated delivery in person or online;
 - low-tech, offline-capable print/PDF instructional content, with no app, device, or connectivity requirement for learning, assessment, completion, or certification;
-- an approximately 8-hour delivery pathway that includes required teaching, practice, assessment, feedback, and recording;
+- a minimum 8-hour delivery pathway that includes required teaching, practice, assessment, feedback, and recording, with no upper limit when learners need more time;
 - 4 modules that may be delivered in four two-hour sessions, eight one-hour sessions, or another schedule that preserves the learning sequence and required evidence;
 - all four required Diploma modules, with educator-adapted practical learning in Modules 3–4 and Advanced Learning outside the Diploma;
 - shared Modules 1–2 core learning, with educator-adapted Module 3 practice and educator-curated Module 4 Connect practice;
@@ -334,7 +334,7 @@ Advanced content should not overload the beginner pathway. It may later become o
 
 Class time should be used for learning that benefits from live facilitation.
 
-Begin time planning with the assessed competencies, observable criteria, required practice, and assessment evidence. Use the Educator Guide's operational assessment protocol capacity check before advertising certification. Do not shorten or waive required evidence merely to fit a one- or two-hour session, and do not treat assessment as an unplanned follow-up outside the advertised Diploma. Educators may invite learners to read the relevant Student Book chapter or use an optional app recap before class, but must not make pre-reading, a learner-owned device, app use, or continuous connectivity a condition for required Diploma instruction.
+Begin time planning with the assessed competencies, observable criteria, required practice, and assessment evidence. Use the Educator Guide's operational assessment protocol capacity check before advertising certification. Do not shorten or waive required evidence merely to fit a one- or two-hour session, and do not treat assessment as an unplanned follow-up outside the advertised Diploma. Educators may require learners to read the relevant Student Guide chapter before class when every learner has accessible language and format options. Pre-reading can preserve live time for activities and discussion, but it does not count toward the minimum eight hours or replace required educator-supported learning and assessment. A learner-owned device, app use, or continuous connectivity must not become a condition for required Diploma instruction.
 
 Prioritize:
 
@@ -420,7 +420,7 @@ Educator preparation, timing, adaptation, misconception support, and debrief gui
 The October 2026 redesign should produce:
 
 - a 4-module beginner Diploma;
-- an approximately 8-hour delivery path;
+- a minimum 8-hour delivery path, with additional time whenever learners need it;
 - clear assessed competencies and observable criteria;
 - Student Guide;
 - Educator Guide;

@@ -257,7 +257,7 @@ ASSET: assets/diploma/bd-v-005.svg
 
 The four modules provide the required Problem → Solution → Action → Connect learning path, not a fixed class timetable. **Modules 1 and 2** develop theory-based competencies through explanation, comparison, and reasoning. **Module 3** develops safe practical action. **Module 4** is educator-curated but required: it connects that shared learning to a local need, realistic alternative, safe task, and responsible next step.
 
- Four two-hour sessions are one possible format. Your educator may divide a module across more sessions, revisit an earlier idea, or change the order of individual sections when your cohort needs more time for discussion, practice, review, or assessment. The educator remains responsible for covering all required Diploma competencies and making the connections among the modules clear.
+The Diploma takes at least eight hours. Four two-hour sessions are the shortest planned format, not a time limit. Your educator may divide a module across more sessions, revisit an earlier idea, or change the order of individual sections when your cohort needs more time for discussion, practice, review, or assessment. There is no upper time limit: the educator remains responsible for giving learners the time they need, covering all required Diploma competencies, and making the connections among the modules clear.
 
 
 ---

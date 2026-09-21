@@ -54,7 +54,7 @@ Internal purpose research clarifies that the Diploma should remain a structured,
 The current working design direction is:
 
 - educator-facilitated delivery in person or online;
-- approximately 8-hour delivery pathway, including required teaching and assessment;
+- minimum 8-hour delivery pathway, including required teaching and assessment, with additional time whenever learners need it;
 - working architecture of four modules—Understanding Money, How Bitcoin Works, Using Bitcoin Safely, and Bitcoin in Your Community—rather than fixed two-hour classes;
 - single four-module Diploma, with educator-curated local practice in Modules 3–4 and Advanced Modules outside the Diploma;
 - four-module Diploma / educator-curated Modules 3–4 / Advanced content boundaries;

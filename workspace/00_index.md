@@ -118,7 +118,7 @@ All four modules together are the Diploma. Modules 1 and 2 provide the shared co
 
 The working assumptions are:
 
-- an approximately eight-hour beginner pathway that includes teaching, practice, assessment, feedback, and recording;
+- a minimum eight-hour beginner pathway that includes teaching, practice, assessment, feedback, and recording, with no upper limit when learners need more time;
 - educator-facilitated delivery in person or online;
 - a complete low-tech, offline-capable print/PDF route;
 - no app or connectivity requirement for learning, assessment, completion, or certification;

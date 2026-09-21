@@ -42,6 +42,7 @@ The arc is **Problem → Solution → Action → Connect**. All four modules are
 - Low-tech, offline-capable delivery: no app, personal device, or continuous connection is required for learning, assessment, completion, or certification.
 - An optional My First Bitcoin app for recap, self-checks, discovery, and connection to further learning—not assessment or certification evidence.
 - A two-part, non-compensatory assessment: 50% educator-evaluated theoretical evidence and 50% educator-observed practical evidence. A certificate requires all 11 assessed competencies to meet the required standard in both components.
+- Wallet choice taught as a decision path: open-source software is preferred where appropriate for transparency, but every option has trade-offs and no wallet is the global recommendation.
 - Advanced technical and specialist topics kept outside the beginner Diploma, where they can be studied with the time and context they require.
 
 ## The payoff
@@ -54,4 +55,4 @@ The Bitcoin Diploma is becoming shorter, but not shallower; more practical, but 
 
 ## Release direction
 
-The public publication target is October 2026. The work benefits from educator review, community input, pilot and field learning, translation support, contribution to activities and visuals, and publication support.
+The public publication target is October 2026. The publication package includes the offline-capable print/PDF materials, an online PDF, and website-ready content published through Sanity. This is a framework-first release: it publishes the teaching package and assessment framework without claiming that every local route is ready for certificated delivery. The work benefits from educator review, community input, pilot and field learning, translation support, contribution to activities and visuals, and publication support.

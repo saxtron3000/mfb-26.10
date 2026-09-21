@@ -29,7 +29,7 @@ It is a decision and discovery register, not a commitment, roadmap, product spec
 
 Build a privacy-minimised evaluation cycle that can guide future revisions without confusing reach or certificate counts with educational impact.
 
-- Field-test the approximately eight-hour baseline: planned and actual time, cohort size, educator-to-learner observation capacity, access failures, practice, feedback, reassessment, and implementation deviations.
+- Field-test the minimum eight-hour pathway: planned and actual time, cohort size, educator-to-learner observation capacity, access failures, practice, feedback, reassessment, and implementation deviations. Use the findings to improve scheduling and support, not to impose an upper limit.
 - Use equivalent pre-course and immediate post-course checks, an observed practical scenario with analytic criteria, and a delayed retrieval/safety-transfer check where feasible.
 - Track separate invitation, enrolment, start, completion, assessment-complete, and delayed-follow-up denominators. Report missing data, subgroup gaps, adverse findings, null findings, uncertainty, and limitations.
 - Test whether learners can access every required teach–practice–assess path across low-connectivity, disability, language, age, literacy, shared-device, and remote-delivery conditions.

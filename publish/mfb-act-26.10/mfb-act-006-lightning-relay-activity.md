@@ -28,9 +28,9 @@ This is a hands-on exercise where students send and receive real sats using the 
 
 ### Preparation Notes
 
-Research which Lightning wallet you are going to recommend to your students. Verify it is working correctly in your region. It will be frustrating for your students and embarrassing for you if there is an issue.
+Select a Lightning wallet only for the prepared local learning environment; do not present it as a global recommendation. Prefer a well-established open-source option where appropriate, and compare custody, recovery, inspectability, compatibility, privacy, cost, maintenance, and support before deciding. Verify that the selected tool works correctly in your region and prepare a simulation or no-wallet route.
 
-Research and decided upon a backup Lightning wallet. Verify it is also working in your region. Lastly, verify how current on-chain bitcoin transaction fees impact the wallets you are planning to use.
+Prepare a backup route and verify it in your region. A backup may be another checked wallet, a prepared educator-controlled environment, or a no-value simulation. Also verify how current on-chain transaction fees affect the tools used in the activity.
 
 ## Procedure
 
