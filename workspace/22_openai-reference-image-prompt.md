@@ -2,7 +2,7 @@
 
 ## Purpose
 
-**Attach** this file only to an OpenAI image-generation request for a Bitcoin Diploma asset whose section 7 reference specification has `illustration_need: light` or `scene`. An asset with `illustration_need: none` skips the image stage and goes straight to code.
+**Attach** this file to every OpenAI image-generation request for a Bitcoin Diploma asset. Every indexed asset requires a low-resolution JPG reference and a matching conformance report before coded production. The reference is never a publication asset.
 
 The section 7 specification is the contract. It settles element identity and count, composition, relationships, reading order, strings, prohibitions, safety, and localization before generation. The reference image contributes only spatial arrangement and visual treatment. It is not a final Diploma asset and does not authorize publication.
 
@@ -31,7 +31,7 @@ asset, brand asset, or asset to upload to Sanity.
 
 Read all supplied material before generating:
 - Asset ID: [BD-V-000]
-- Complete section 7 reference specification from workspace/08_assets.md:
+- Complete section 7 reference specification from workspace/08_assets.md (the classification record and complete incorporated section 3 asset entry):
   [paste specification]
 - Complete section 3 asset row from workspace/08_assets.md: [paste entry]
 - Relevant section 8 shared-register entries from workspace/08_assets.md:

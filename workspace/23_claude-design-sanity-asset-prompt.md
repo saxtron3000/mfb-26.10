@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Attach this file to every Claude Design request that turns a Bitcoin Diploma contract into a production asset. For an asset with `illustration_need: light` or `scene`, Claude also receives an approved reference JPG and its conformance report. For an asset with `illustration_need: none`, Claude skips the image stage and builds the asset directly from the specification. Claude must create the editable, accessible source and upload-ready deliverables; it must not publish a reference image.
+Attach this file to every Claude Design request that turns a Bitcoin Diploma contract into a production asset. Every asset receives an approved reference JPG and its conformance report. Claude must create the editable, accessible source and upload-ready deliverables; it must not publish a reference image.
 
 The complete entry in [08_assets.md](08_assets.md) is the instructional source of truth. The Claude Design System and its local authoring contract are the source of truth for brand and design-system choices. Where they conflict, stop and report the specific conflict for resolution.
 
@@ -47,10 +47,10 @@ reviewed and uploaded to Sanity through the approved publishing workflow.
 Read all supplied material before designing or coding:
 - Asset ID: [BD-V-000]
 - Complete asset entry from workspace/08_assets.md: [paste entry]
-- Complete section 7 reference specification from workspace/08_assets.md: [paste specification]
+- Complete section 7 reference specification from workspace/08_assets.md (the classification record and complete incorporated asset entry): [paste specification]
 - Relevant section 8 shared-register entries from workspace/08_assets.md: [paste entries, if any]
-- Approved low-resolution reference JPG, only for `illustration_need: light` or `scene`: [attach]
-- Matching conformance report, only for `illustration_need: light` or `scene`: [attach bd-v-000-ref.json]
+- Approved low-resolution reference JPG: [attach]
+- Matching conformance report: [attach bd-v-000-ref.json]
 - Optional adjacent guide text: [paste only when it clarifies the lesson]
 - Sanity asset/schema requirements, if supplied: [attach]
 
@@ -63,7 +63,7 @@ Source-of-truth order
 3. Relevant section 8 entries control reusable actor, prop, symbol, interface,
    and notation definitions. Do not merge roles that the register keeps
    distinct.
-4. For `light` or `scene` assets only, the approved reference JPG guides
+4. The approved reference JPG guides
    spatial arrangement and visual treatment. Its conformance report identifies
    placement and deviations, but self-reported conformance is not proof.
    Check it against the section 7 specification.
@@ -76,7 +76,7 @@ If these sources conflict, a section 7 `open` item blocks the required
 structure, or an essential factual detail is absent, identify the specific
 conflict or gap before implementing it. Do not invent facts, labels,
 numbers, providers, URLs, legal claims, or safety claims. Do not trace, embed,
-or publish the reference JPG. For a `light` or `scene` asset, reject or revise
+or publish the reference JPG. Reject or revise
 the reference before implementation when `textPresentInImage` is not empty or
 when `elementsAdded` is not empty and not justified.
 

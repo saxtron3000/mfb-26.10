@@ -4,7 +4,7 @@ This is the working list for the 2026.10 review. Start with the open items below
 
 ## What needs attention
 
-**14 of 27 actions are still open.** Start with the safety and certificated-delivery work, then clear the publication blockers.
+**17 of 30 actions are still open.** Start with the safety and certificated-delivery work, then clear the publication blockers.
 
 | Do this first | Why it matters | Tasks |
 |---|---|---|
@@ -36,6 +36,9 @@ Use this table to find the task. The detailed entry below has the supporting lin
 | ACT-013 | Choose and track essential visuals | In progress | ongoing maintenance | — |
 | ACT-021 | Reduce assessed competencies to seven | Open | ongoing maintenance | — |
 | ACT-026 | Remove repeated guide content and fix `BD-V-049` | In progress | ongoing maintenance | ACT-013 |
+| AST-001 | Supply the official test-network address and network label for `BD-V-036` | Open | asset production | My First Bitcoin confirmation |
+| AST-002 | Supply the official test Lightning invoice, amount, description, expiry, and network for `BD-V-078` | Open | asset production | My First Bitcoin confirmation |
+| AST-003 | Supply an approved active Lightning address for `BD-V-080` | Open | asset production | My First Bitcoin confirmation |
 
 #### Completed actions
 
@@ -497,9 +500,9 @@ Earlier file/heading: `workspace/06_plan.md`, `## 3. Legacy Content Migration` a
 
 #### PUB-001: Certificate wording now reflects educator-issued certification
 
-Status: done | Owner: project lead | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker resolved | Evidence: [full-release alignment run](runs/2026-09-21-full-release-alignment.md#findings-created-or-updated); the Student Guide now uses `### Certificate meaning and issuer`; `workspace/15_certification.md` defines decentralized educator issuance and the framework-first boundary; `BD-V-074` is deferred with no 2026.10 placement | Depends on: none | Completion evidence: learner-facing wording no longer implies a central My First Bitcoin verification process.
+Status: done | Owner: project lead | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker resolved | Evidence: [full-release alignment run](runs/2026-09-21-full-release-alignment.md#findings-created-or-updated); the Student Guide now uses `### Certificate meaning and issuer`; `workspace/15_certification.md` defines decentralized educator issuance and the framework-first boundary; `BD-V-075` is deferred with no 2026.10 placement | Depends on: none | Completion evidence: learner-facing wording no longer implies a central My First Bitcoin verification process.
 
-Governing workspace file/heading: `workspace/15_certification.md`, `## Current Governance And Future Options`; `workspace/16_spec.md`, `## Assessment And Certification` | Publication file/heading: `publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, `### Certificate meaning and issuer` | Historical issue: conditional instructions implied a future central verification route without an approved service | Resolution: the publication now explains educator issuance, My First Bitcoin's non-central role, and optional issuer-specific verification only; `BD-V-074` is not a current production asset | Evidence: `ACT-017`, `ACT-020`, and the aligned files above.
+Governing workspace file/heading: `workspace/15_certification.md`, `## Current Governance And Future Options`; `workspace/16_spec.md`, `## Assessment And Certification` | Publication file/heading: `publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, `### Certificate meaning and issuer` | Historical issue: conditional instructions implied a future central verification route without an approved service | Resolution: the publication now explains educator issuance, My First Bitcoin's non-central role, and optional issuer-specific verification only; `BD-V-075` is not a current production asset | Evidence: `ACT-017`, `ACT-020`, and the aligned files above.
 
 #### PUB-002: Publication coverage omits non-beginner and quick-start files
 

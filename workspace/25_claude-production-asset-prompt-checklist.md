@@ -2,9 +2,9 @@
 
 ## Purpose
 
-Use each item only after its matching Codex/ChatGPT reference JPG and JSON have passed review. Copy the entire prompt, attach those two reference files plus the relevant Claude Design System/Sanity schema, and build the editable production bundle. These prompts do not authorize a Sanity upload or publication.
+Use each item only after its matching Codex/ChatGPT reference JPG and JSON conformance report have passed review. Copy the entire prompt, attach the two reference files, the section 7 classification registry, and the relevant Claude Design System/Sanity schema, and build the editable production bundle. These prompts do not authorize a Sanity upload or publication.
 
-The checklist is generated from [08_assets.md](08_assets.md) and contains all 101 complete asset briefs. It complements [23_claude-design-sanity-asset-prompt.md](23_claude-design-sanity-asset-prompt.md): this file is the ready-to-paste production queue; document 23 is the deeper reusable implementation contract.
+The checklist is generated from [08_assets.md](08_assets.md) and contains all 101 complete asset briefs. The section 7 classification registry incorporates each complete asset brief as its structural contract and requires one approved reference for every ID. It complements [23_claude-design-sanity-asset-prompt.md](23_claude-design-sanity-asset-prompt.md): this file is the ready-to-paste production queue; document 23 is the deeper reusable implementation contract.
 
 ## Completion rules
 
@@ -28,7 +28,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-001-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-001-ref.json
+- Matching conformance report: assets-work/references/bd-v-001-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -41,7 +41,7 @@ Complete asset brief
 - Placement: At the Creative Commons Attribution-ShareAlike 4.0 licence statement near the front of `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, immediately after the licence paragraph and before the horizontal rule.
 - Source locator: 11
 - Text–visual link: Gives the open licence a recognisable visual marker while leaving the written licence terms primary.
-- Design brief: Upload the official Creative Commons BY-SA 4.0 mark or an approved official variant to Sanity, at small but legible size. Keep the written licence statement, attribution requirement, and adaptation condition beside or immediately above it. Do not redraw, recolour, distort, or use the logo as a replacement for the licence text or link.
+- Design brief: Use the official Creative Commons BY-SA 4.0 mark at small but legible size. Keep the written licence statement, attribution requirement, and adaptation condition beside or immediately above it. Do not redraw, recolour, distort, or use the logo as a replacement for the licence text or link.
 - Format: Official licence mark with short text lockup; small inline or corner placement.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -59,7 +59,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-002-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-002-ref.json
+- Matching conformance report: assets-work/references/bd-v-002-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -90,7 +90,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-076-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-076-ref.json
+- Matching conformance report: assets-work/references/bd-v-076-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -121,7 +121,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-077-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-077-ref.json
+- Matching conformance report: assets-work/references/bd-v-077-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -152,7 +152,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-006-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-006-ref.json
+- Matching conformance report: assets-work/references/bd-v-006-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -183,7 +183,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-003-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-003-ref.json
+- Matching conformance report: assets-work/references/bd-v-003-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -214,7 +214,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-004-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-004-ref.json
+- Matching conformance report: assets-work/references/bd-v-004-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -245,7 +245,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-005-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-005-ref.json
+- Matching conformance report: assets-work/references/bd-v-005-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -279,7 +279,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-007-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-007-ref.json
+- Matching conformance report: assets-work/references/bd-v-007-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -310,7 +310,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-008-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-008-ref.json
+- Matching conformance report: assets-work/references/bd-v-008-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -341,7 +341,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-009-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-009-ref.json
+- Matching conformance report: assets-work/references/bd-v-009-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -372,7 +372,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-010-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-010-ref.json
+- Matching conformance report: assets-work/references/bd-v-010-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -403,7 +403,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-011-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-011-ref.json
+- Matching conformance report: assets-work/references/bd-v-011-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -434,7 +434,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-012-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-012-ref.json
+- Matching conformance report: assets-work/references/bd-v-012-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -465,7 +465,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-013-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-013-ref.json
+- Matching conformance report: assets-work/references/bd-v-013-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -496,7 +496,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-014-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-014-ref.json
+- Matching conformance report: assets-work/references/bd-v-014-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -527,7 +527,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-015-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-015-ref.json
+- Matching conformance report: assets-work/references/bd-v-015-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -558,7 +558,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-016-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-016-ref.json
+- Matching conformance report: assets-work/references/bd-v-016-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -589,7 +589,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-017-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-017-ref.json
+- Matching conformance report: assets-work/references/bd-v-017-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -620,7 +620,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-018-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-018-ref.json
+- Matching conformance report: assets-work/references/bd-v-018-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -651,7 +651,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-020-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-020-ref.json
+- Matching conformance report: assets-work/references/bd-v-020-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -682,7 +682,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-021-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-021-ref.json
+- Matching conformance report: assets-work/references/bd-v-021-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -713,7 +713,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-019-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-019-ref.json
+- Matching conformance report: assets-work/references/bd-v-019-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -747,7 +747,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-022-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-022-ref.json
+- Matching conformance report: assets-work/references/bd-v-022-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -778,7 +778,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-023-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-023-ref.json
+- Matching conformance report: assets-work/references/bd-v-023-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -809,7 +809,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-024-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-024-ref.json
+- Matching conformance report: assets-work/references/bd-v-024-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -840,7 +840,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-027-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-027-ref.json
+- Matching conformance report: assets-work/references/bd-v-027-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -871,7 +871,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-026-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-026-ref.json
+- Matching conformance report: assets-work/references/bd-v-026-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -902,7 +902,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-030-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-030-ref.json
+- Matching conformance report: assets-work/references/bd-v-030-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -933,7 +933,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-031-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-031-ref.json
+- Matching conformance report: assets-work/references/bd-v-031-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -964,7 +964,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-032-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-032-ref.json
+- Matching conformance report: assets-work/references/bd-v-032-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -995,7 +995,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-028-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-028-ref.json
+- Matching conformance report: assets-work/references/bd-v-028-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1026,7 +1026,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-029-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-029-ref.json
+- Matching conformance report: assets-work/references/bd-v-029-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1057,7 +1057,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-033-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-033-ref.json
+- Matching conformance report: assets-work/references/bd-v-033-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1088,7 +1088,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-025-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-025-ref.json
+- Matching conformance report: assets-work/references/bd-v-025-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1119,7 +1119,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-034-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-034-ref.json
+- Matching conformance report: assets-work/references/bd-v-034-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1153,7 +1153,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-035-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-035-ref.json
+- Matching conformance report: assets-work/references/bd-v-035-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1184,7 +1184,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-036-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-036-ref.json
+- Matching conformance report: assets-work/references/bd-v-036-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1197,7 +1197,7 @@ Complete asset brief
 - Placement: Under `### Addresses` in the [Student Guide](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#addresses), immediately after the opening paragraph beginning “A Bitcoin **address** is public receiving information” and before “If you want to receive an on-chain payment”.
 - Source locator: 818
 - Text–visual link: Shows that the alphanumeric address and QR code represent the same public receiving information; neither is a private key or a recovery phrase.
-- Design brief: Show the full My First Bitcoin test address as readable, untruncated text beside a QR code encoding exactly that address, joined by the label `Same address, two formats`. Obtain the address and exact test-network name from My First Bitcoin before production; do not invent an address or substitute a live donation address. Label `My First Bitcoin test address`, the confirmed test network, and `SAMPLE — DO NOT PAY`. Explain briefly that the wallet creates the receiving address and that the sender checks the decoded destination against the trusted receive screen. Encode only the address, without an amount, URL, or Lightning invoice. Generate the QR from the supplied text and verify that scanning the final print and screen exports returns the identical full address. Keep the QR unobstructed with a clear border. Caption: `Scan or copy: both give the same receiving address. Check the destination before sending.` Alt text: `A My First Bitcoin test address shown as alphanumeric text beside a QR code containing the same address, labelled with its test network and SAMPLE — DO NOT PAY.` Save the editable master as `assets/diploma/bd-v-036.svg`.
+- Design brief: Show the full My First Bitcoin test address as readable, untruncated text beside a QR code encoding exactly that address, joined by the label `Same address, two formats`. Use [BLANK] for the official test address and [BLANK] for the exact test-network name until My First Bitcoin supplies and approves both values; do not generate a QR until TODO AST-001 is resolved. Do not invent an address or substitute a live donation address. Label `My First Bitcoin test address`, the confirmed test network, and `SAMPLE — DO NOT PAY`. Explain briefly that the wallet creates the receiving address and that the sender checks the decoded destination against the trusted receive screen. Encode only the address, without an amount, URL, or Lightning invoice. Generate the QR from the supplied text and verify that scanning the final print and screen exports returns the identical full address. Keep the QR unobstructed with a clear border. Caption: `Scan or copy: both give the same receiving address. Check the destination before sending.` Alt text: `A My First Bitcoin test address shown as alphanumeric text beside a QR code containing the same address, labelled with its test network and SAMPLE — DO NOT PAY.` Save the editable master as `assets/diploma/bd-v-036.svg`.
 - Format: Side-by-side text-to-QR diagram with editable labels; half to full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -1215,7 +1215,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-078-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-078-ref.json
+- Matching conformance report: assets-work/references/bd-v-078-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1228,7 +1228,7 @@ Complete asset brief
 - Placement: Under `### Addresses` in the [Student Guide](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#addresses), immediately after the paragraph beginning “For every payment request, confirm the intended payment method” and before “When a payment matters”.
 - Source locator: 822
 - Text–visual link: Shows how a Lightning invoice carries a payment request and how its readable details relate to the QR code; complements the on-chain address example in `BD-V-036`.
-- Design brief: Show a My First Bitcoin test Lightning invoice as a readable payment-request panel on the left and its matching QR code on the right, joined by `Same payment request, two formats`. Include recipient `My First Bitcoin — test`, payment method `Lightning`, confirmed test network, amount with an explicit unit, description, expiry, and the invoice string labelled `Lightning payment request`. Use the invoice string as the destination to scan or copy; do not label it as an on-chain address or imply that a Lightning invoice requires one. Distinguish the recipient display label from the encoded invoice details; a familiar name alone does not verify the recipient. Obtain the test invoice and network from My First Bitcoin before production and use its actual amount, description, and expiry. Mark `SAMPLE — DO NOT PAY`; explain that this is a fixed teaching example and may be expired. Encode the complete supplied invoice in the QR, not an address or a summary of the displayed fields. Verify that scanning the final print and screen exports returns the identical invoice and that a compatible test wallet displays matching payment details. Keep the QR unobstructed with a clear border, and keep the complete invoice available as selectable text. Do not show private keys, recovery phrases, or a live donation request. Caption: `Check the payment method, recipient, amount, and expiry after scanning.` Alt text: `A My First Bitcoin test Lightning invoice with its recipient, network, amount, description, expiry, and payment-request text beside a QR code encoding the same invoice, marked SAMPLE — DO NOT PAY.` Save the editable master as `assets/diploma/bd-v-078.svg`.
+- Design brief: Show a My First Bitcoin test Lightning invoice as a readable payment-request panel on the left and its matching QR code on the right, joined by `Same payment request, two formats`. Include recipient `My First Bitcoin — test`, payment method `Lightning`, confirmed test network, amount with an explicit unit, description, expiry, and the invoice string labelled `Lightning payment request`. Use the invoice string as the destination to scan or copy; do not label it as an on-chain address or imply that a Lightning invoice requires one. Distinguish the recipient display label from the encoded invoice details; a familiar name alone does not verify the recipient. Use [BLANK] for the official test invoice, network, amount, description, and expiry until My First Bitcoin supplies and approves them; do not generate a QR until TODO AST-002 is resolved. Mark `SAMPLE — DO NOT PAY`; explain that this is a fixed teaching example and may be expired. Encode the complete supplied invoice in the QR, not an address or a summary of the displayed fields. Verify that scanning the final print and screen exports returns the identical invoice and that a compatible test wallet displays matching payment details. Keep the QR unobstructed with a clear border, and keep the complete invoice available as selectable text. Do not show private keys, recovery phrases, or a live donation request. Caption: `Check the payment method, recipient, amount, and expiry after scanning.` Alt text: `A My First Bitcoin test Lightning invoice with its recipient, network, amount, description, expiry, and payment-request text beside a QR code encoding the same invoice, marked SAMPLE — DO NOT PAY.` Save the editable master as `assets/diploma/bd-v-078.svg`.
 - Format: Side-by-side invoice-and-QR diagram with editable labels; full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -1246,7 +1246,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-037-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-037-ref.json
+- Matching conformance report: assets-work/references/bd-v-037-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1277,7 +1277,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-038-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-038-ref.json
+- Matching conformance report: assets-work/references/bd-v-038-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1308,7 +1308,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-079-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-079-ref.json
+- Matching conformance report: assets-work/references/bd-v-079-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1339,7 +1339,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-039-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-039-ref.json
+- Matching conformance report: assets-work/references/bd-v-039-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1370,7 +1370,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-040-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-040-ref.json
+- Matching conformance report: assets-work/references/bd-v-040-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1401,7 +1401,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-042-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-042-ref.json
+- Matching conformance report: assets-work/references/bd-v-042-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1432,7 +1432,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-041-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-041-ref.json
+- Matching conformance report: assets-work/references/bd-v-041-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1463,7 +1463,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-043-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-043-ref.json
+- Matching conformance report: assets-work/references/bd-v-043-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1494,7 +1494,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-044-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-044-ref.json
+- Matching conformance report: assets-work/references/bd-v-044-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1525,7 +1525,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-045-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-045-ref.json
+- Matching conformance report: assets-work/references/bd-v-045-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1556,7 +1556,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-046-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-046-ref.json
+- Matching conformance report: assets-work/references/bd-v-046-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1587,7 +1587,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-047-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-047-ref.json
+- Matching conformance report: assets-work/references/bd-v-047-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1618,7 +1618,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-048-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-048-ref.json
+- Matching conformance report: assets-work/references/bd-v-048-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1649,7 +1649,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-049-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-049-ref.json
+- Matching conformance report: assets-work/references/bd-v-049-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1680,7 +1680,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-050-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-050-ref.json
+- Matching conformance report: assets-work/references/bd-v-050-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1711,7 +1711,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-051-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-051-ref.json
+- Matching conformance report: assets-work/references/bd-v-051-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1742,7 +1742,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-052-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-052-ref.json
+- Matching conformance report: assets-work/references/bd-v-052-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1773,7 +1773,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-053-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-053-ref.json
+- Matching conformance report: assets-work/references/bd-v-053-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1807,7 +1807,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-055-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-055-ref.json
+- Matching conformance report: assets-work/references/bd-v-055-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1838,7 +1838,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-054-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-054-ref.json
+- Matching conformance report: assets-work/references/bd-v-054-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1869,7 +1869,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-056-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-056-ref.json
+- Matching conformance report: assets-work/references/bd-v-056-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1900,14 +1900,14 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-057-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-057-ref.json
+- Matching conformance report: assets-work/references/bd-v-057-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
 Complete asset brief
 - Asset ID: BD-V-057
 - Suggested by: Pablo
-- Priority: Conditional
+- Priority: Supporting
 - Type: Table
 - Historical page/note: 41–42; create a reusable local-tool comparison and place local-tool guidance in the Module 4 Educator Guide.
 - Placement: Under `### Local Bitcoin tools and resources`, replace the existing `Area / What to verify` table visually while retaining an accessible text equivalent.
@@ -1931,7 +1931,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-058-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-058-ref.json
+- Matching conformance report: assets-work/references/bd-v-058-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1962,7 +1962,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-080-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-080-ref.json
+- Matching conformance report: assets-work/references/bd-v-080-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1975,7 +1975,7 @@ Complete asset brief
 - Placement: Under `### Lightning payments where locally appropriate` in the [Student Guide](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#lightning-payments-where-locally-appropriate), immediately after the paragraph beginning “A **Lightning address** is a human-readable identifier” and before “For a guided payment”.
 - Source locator: 1148
 - Text–visual link: Connects an email-like Lightning address with its scannable payment destination, while distinguishing it from an email account, an on-chain address, and a specific Lightning invoice.
-- Design brief: Show the full Lightning address as readable, selectable text beside a QR code for the same destination, joined by `Same Lightning address, two formats`. Use `donate@myfirstbitcoin.org` as the proposed example only; My First Bitcoin must confirm ownership, Lightning support, and the exact address before production. Do not treat the proposed address as verified or publish a working QR until its destination has been confirmed. Generate a wallet-compatible Lightning QR for the confirmed address, not a `mailto:` link, website link, on-chain address, or fixed invoice. Label `Lightning address` and `SAMPLE — DO NOT PAY`. Do not preset an amount or turn this teaching illustration into a donation call to action; the optional support panel is `BD-V-074`. Verify that scanning the final print and screen exports in a compatible Lightning wallet resolves to the confirmed recipient and allows the payment details to be reviewed before approval. Keep the QR unobstructed with a clear border. Caption: `This looks like an email address, but it is used to request a Lightning payment. Check the recipient and payment details before paying.` Alt text: `A confirmed My First Bitcoin Lightning address shown as readable text beside a QR code for the same payment destination, labelled Lightning address and SAMPLE — DO NOT PAY.` Replace the generic address description in the final alt text with the confirmed address. Save the editable master as `assets/diploma/bd-v-080.svg`.
+- Design brief: Show the full Lightning address as readable, selectable text beside a QR code for the same destination, joined by `Same Lightning address, two formats`. Use [BLANK] for the Lightning address until My First Bitcoin supplies and approves an active, controlled destination; do not publish a working QR until TODO AST-003 is resolved. Generate a wallet-compatible Lightning QR for the confirmed address, not a `mailto:` link, website link, on-chain address, or fixed invoice. Label `Lightning address` and `SAMPLE — DO NOT PAY`. Do not preset an amount or turn this teaching illustration into a donation call to action; the optional support panel is `BD-V-074`. Verify that scanning the final print and screen exports in a compatible Lightning wallet resolves to the confirmed recipient and allows the payment details to be reviewed before approval. Keep the QR unobstructed with a clear border. Caption: `This looks like an email address, but it is used to request a Lightning payment. Check the recipient and payment details before paying.` Alt text: `A confirmed My First Bitcoin Lightning address shown as readable text beside a QR code for the same payment destination, labelled Lightning address and SAMPLE — DO NOT PAY.` Replace the generic address description in the final alt text with the confirmed address. Save the editable master as `assets/diploma/bd-v-080.svg`.
 - Format: Side-by-side Lightning-address-and-QR diagram with editable labels; half width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -1993,14 +1993,14 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-059-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-059-ref.json
+- Matching conformance report: assets-work/references/bd-v-059-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
 Complete asset brief
 - Asset ID: BD-V-059
 - Suggested by: AI
-- Priority: Conditional
+- Priority: Supporting
 - Type: Diagram
 - Historical page/note: 36 and 43; explain Lightning trade-offs and provide a separate Lightning example page.
 - Placement: SG: Under `### Lightning payments where locally appropriate`, after the six guided-payment steps. EG: under `### Lightning module checklist`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor.
@@ -2024,7 +2024,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-060-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-060-ref.json
+- Matching conformance report: assets-work/references/bd-v-060-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2055,14 +2055,14 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-061-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-061-ref.json
+- Matching conformance report: assets-work/references/bd-v-061-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
 Complete asset brief
 - Asset ID: BD-V-061
 - Suggested by: AI
-- Priority: Conditional
+- Priority: Supporting
 - Type: Image
 - Historical page/note: 43–44; use separate payment examples and preserve the locally grounded scenario approach.
 - Placement: Under `### Local spending and receiving scenarios`, before Scenario 1.
@@ -2086,7 +2086,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-062-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-062-ref.json
+- Matching conformance report: assets-work/references/bd-v-062-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2117,7 +2117,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-063-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-063-ref.json
+- Matching conformance report: assets-work/references/bd-v-063-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2148,14 +2148,14 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-064-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-064-ref.json
+- Matching conformance report: assets-work/references/bd-v-064-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
 Complete asset brief
 - Asset ID: BD-V-064
 - Suggested by: AI
-- Priority: Conditional
+- Priority: Supporting
 - Type: Table
 - Historical page/note: 46; keep KYC/no-KYC trade-offs only where locally appropriate and fact-checked.
 - Placement: Under `### KYC and no-KYC trade-offs where locally appropriate`, replace the existing `Question / KYC path / No-KYC path` table visually while retaining an accessible text equivalent.
@@ -2179,7 +2179,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-065-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-065-ref.json
+- Matching conformance report: assets-work/references/bd-v-065-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2210,7 +2210,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-066-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-066-ref.json
+- Matching conformance report: assets-work/references/bd-v-066-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2241,14 +2241,14 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-067-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-067-ref.json
+- Matching conformance report: assets-work/references/bd-v-067-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
 Complete asset brief
 - Asset ID: BD-V-067
 - Suggested by: AI
-- Priority: Conditional
+- Priority: Supporting
 - Type: Diagram
 - Historical page/note: 39 and 48; help learners connect with the local ecosystem through practical field/community work.
 - Placement: Under `### Local resource maps and community discovery`, immediately before `Record your local resources`.
@@ -2272,7 +2272,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-068-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-068-ref.json
+- Matching conformance report: assets-work/references/bd-v-068-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2303,7 +2303,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-069-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-069-ref.json
+- Matching conformance report: assets-work/references/bd-v-069-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2334,7 +2334,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-070-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-070-ref.json
+- Matching conformance report: assets-work/references/bd-v-070-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2368,7 +2368,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-071-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-071-ref.json
+- Matching conformance report: assets-work/references/bd-v-071-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2399,7 +2399,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-072-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-072-ref.json
+- Matching conformance report: assets-work/references/bd-v-072-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2430,20 +2430,20 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-073-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-073-ref.json
+- Matching conformance report: assets-work/references/bd-v-073-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
 Complete asset brief
 - Asset ID: BD-V-073
 - Suggested by: Pablo
-- Priority: Conditional
+- Priority: Supporting
 - Type: Image
 - Historical page/note: 52; add a public GitHub contribution link or QR and verify official destinations.
 - Placement: Under `### Source or update page, if included`, after the canonical source link.
 - Source locator: 1469
 - Text–visual link: Provides one durable route to updates and contributions without filling the Diploma with fragile QR codes.
-- Design brief: Create one panel containing a tested QR code, printed short URL, destination name, edition or last-verified date, and plain-language purpose. The QR must resolve to the canonical maintained source or landing page. Keep donation and any future educator or issuer-specific certificate verification separate unless the landing page clearly distinguishes them. Do not imply a central My First Bitcoin certificate service.
+- Design brief: Create one panel containing a tested QR code, printed short URL, destination name, edition or last-verified date, and plain-language purpose. The QR must resolve to the canonical maintained source: `https://github.com/MyFirstBitcoin/mfb-curriculum`. Keep donation and any future educator or issuer-specific certificate verification separate unless the landing page clearly distinguishes them. Do not imply a central My First Bitcoin certificate service.
 - Format: QR and fallback-link panel; half page.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -2461,20 +2461,20 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-074-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-074-ref.json
+- Matching conformance report: assets-work/references/bd-v-074-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
 Complete asset brief
 - Asset ID: BD-V-074
 - Suggested by: Pablo
-- Priority: Conditional
+- Priority: Supporting
 - Type: Image
 - Historical page/note: 52; add separate on-chain and Lightning support QR codes with their payment text printed underneath.
 - Placement: Under `### Optional donate / support QR`, after the `Donate to My First Bitcoin` link and before the paragraph beginning “A printed edition may place one official support QR code here”.
 - Source locator: 1489
 - Text–visual link: Offers the single official support-page route described in the guide, with a readable fallback and voluntary participation.
-- Design brief: Create one optional support panel with a QR code linking to `https://donate.myfirstbitcoin.org/`, the readable matching URL, destination name, and last-verified date. Keep the adjacent donation-safety paragraph. Do not encode a payment address or invoice in this website QR or imply that a donation is required. Test the destination and final printed QR before publication. The historical two-payment-route proposal is not the current guide placement; separate live on-chain and Lightning QR codes would require official verified destinations and an aligned manuscript revision.
+- Design brief: Create one optional support panel with a QR code linking to the approved destination `https://donate.myfirstbitcoin.org/`, the readable matching URL, destination name, and last-verified date. Keep the adjacent donation-safety paragraph. Do not encode a payment address or invoice in this website QR or imply that a donation is required. Test the destination and final printed QR before publication. The historical two-payment-route proposal is not the current guide placement; separate live on-chain and Lightning QR codes would require official verified destinations and an aligned manuscript revision.
 - Format: Single support-page QR panel; half width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -2492,7 +2492,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-075-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-075-ref.json
+- Matching conformance report: assets-work/references/bd-v-075-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2526,7 +2526,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-081-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-081-ref.json
+- Matching conformance report: assets-work/references/bd-v-081-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2557,7 +2557,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-082-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-082-ref.json
+- Matching conformance report: assets-work/references/bd-v-082-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2588,7 +2588,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-083-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-083-ref.json
+- Matching conformance report: assets-work/references/bd-v-083-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2619,7 +2619,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-084-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-084-ref.json
+- Matching conformance report: assets-work/references/bd-v-084-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2650,7 +2650,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-085-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-085-ref.json
+- Matching conformance report: assets-work/references/bd-v-085-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2681,7 +2681,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-086-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-086-ref.json
+- Matching conformance report: assets-work/references/bd-v-086-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2712,7 +2712,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-087-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-087-ref.json
+- Matching conformance report: assets-work/references/bd-v-087-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2743,7 +2743,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-099-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-099-ref.json
+- Matching conformance report: assets-work/references/bd-v-099-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2774,7 +2774,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-088-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-088-ref.json
+- Matching conformance report: assets-work/references/bd-v-088-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2805,7 +2805,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-101-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-101-ref.json
+- Matching conformance report: assets-work/references/bd-v-101-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2836,7 +2836,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-089-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-089-ref.json
+- Matching conformance report: assets-work/references/bd-v-089-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2867,7 +2867,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-090-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-090-ref.json
+- Matching conformance report: assets-work/references/bd-v-090-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2898,7 +2898,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-100-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-100-ref.json
+- Matching conformance report: assets-work/references/bd-v-100-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2929,7 +2929,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-092-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-092-ref.json
+- Matching conformance report: assets-work/references/bd-v-092-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2960,7 +2960,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-091-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-091-ref.json
+- Matching conformance report: assets-work/references/bd-v-091-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2991,7 +2991,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-093-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-093-ref.json
+- Matching conformance report: assets-work/references/bd-v-093-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -3022,7 +3022,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-094-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-094-ref.json
+- Matching conformance report: assets-work/references/bd-v-094-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -3053,7 +3053,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-095-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-095-ref.json
+- Matching conformance report: assets-work/references/bd-v-095-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -3084,7 +3084,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-096-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-096-ref.json
+- Matching conformance report: assets-work/references/bd-v-096-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -3115,7 +3115,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-097-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-097-ref.json
+- Matching conformance report: assets-work/references/bd-v-097-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -3146,7 +3146,7 @@ Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-g
 
 Required inputs to attach
 - Approved reference JPG: assets-work/references/bd-v-098-ref.jpg
-- Matching reference specification: assets-work/references/bd-v-098-ref.json
+- Matching conformance report: assets-work/references/bd-v-098-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
