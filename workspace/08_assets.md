@@ -486,3 +486,289 @@ Before insertion, every visual must pass these questions:
 `Essential` means the concept is sufficiently relational, procedural, or misconception-prone that a visual should be planned into the Diploma. `Supporting` means the visual is useful if space and testing justify it. `Conditional` means it should be generated only after the local context, technical method, or publication decision is confirmed.
 
 This index should be revised whenever either guide changes materially. It should remain a map from text to visual meaning, not become the production tracker for the visual files themselves.
+
+---
+
+## 6. Intended AI-to-code workflow
+
+The initial guide visuals may be developed through an iterative AI-to-code workflow. The image-generation stage produces low-resolution JPG references for visual direction; it does not produce the final published asset.
+
+1. **Brief from this index.** Select an asset entry and use its learning intent, required elements, guardrails, caption, alt text, localization fields, and factual sources as the source brief.
+2. **Generate reference images.** Use OpenAI image generation or Gemini to explore composition, characters, symbols, visual metaphor, and overall tone. Save low-resolution JPG references in the ignored `assets-work/references/` directory. Save the prompt and relevant settings in `assets-work/prompts/`.
+3. **Review the reference.** Check instructional accuracy, beginner clarity, safety, cultural flexibility, and whether the concept can be reconstructed with editable code. Reject or revise concepts that depend on baked-in text, unverified claims, real private data, brand imitation, or decorative imagery without instructional purpose.
+4. **Code the selected concept.** Give Claude Design or Claude Code the selected asset ID, its complete `workspace/08_assets.md` entry, the approved JPG reference, and the adjacent guide text where useful. Treat the JPG as visual direction only. Recreate layout, shapes, icons, arrows, interface elements, and labels as editable code or vector elements wherever practical. Use the Claude Design System as the source of truth for brand and design decisions.
+5. **Localize and make accessible.** Keep instructional text outside the reference image. Put labels, captions, alt text, and localization-dependent content in editable data or content fields. Preserve reading order, responsive behavior, grayscale meaning, and a text equivalent for complex visuals.
+6. **Review the coded asset.** Render the project at desktop, phone, A4 or US Letter, print, and grayscale sizes. Check factual accuracy, text overflow, translation expansion, contrast, alt text, safe sample data, QR behavior where applicable, and alignment with the adjacent guide prose.
+7. **Prepare the Sanity project.** Save the approved implementation and its supporting metadata in a tracked `assets/diploma/` subfolder. Download or export the project as required for Sanity and verify that the published result matches the approved source.
+8. **Insert only after approval.** Replace the source marker or add the Markdown reference only when the coded asset has passed curriculum, technical, accessibility, and localization review. Update this index if the anchor, text, or visual meaning changes.
+
+The workflow is provisional and may change as the Sanity implementation develops. The source of truth for instructional content is the curriculum text and this visual index; the source of truth for brand and visual-system decisions is the Claude Design System; and the approved coded asset is the publication source. The generated JPG reference is not a source of truth.
+
+### OpenAI reference-image prompt
+
+Use the following prompt with OpenAI image generation to produce one basic, low-resolution JPG reference. Supply the selected asset ID and its complete entry from this index. This stage explores a useful visual idea for Claude Design; it does not create the final publishable asset or final brand implementation.
+
+```text
+Create one basic, low-resolution JPG reference image for a My First Bitcoin
+Diploma micrographic. It is a visual-direction reference for a later
+HTML/CSS/SVG implementation, not a final publication asset.
+
+Inputs you have been given:
+- Asset ID: [BD-V-000]
+- Asset brief: the complete matching entry from workspace/08_assets.md
+- Optional adjacent guide text: [paste only when it helps clarify the visual]
+
+Read the complete Asset brief before generating. The brief is the instructional
+source of truth. Follow its text–visual link, design brief, required elements,
+guardrails, format, and stated prohibitions. Preserve its qualifications and
+trade-offs. If the brief lacks information needed to depict a factual claim,
+use a neutral visual placeholder rather than inventing a fact, number, label,
+URL, or safety claim.
+
+Create a single clear composition that helps a beginner understand one primary
+idea. Make the visual interesting through hierarchy, comparison, sequence,
+scale, role relationships, or a concrete visual metaphor that matches the
+brief. Use a clean, restrained, high-contrast editorial-illustration style
+with clear separation between actors, meaningful contextual detail, and an
+obvious reading order. It must remain legible when later recreated for a narrow A5 book page
+(about 458px content width), in grayscale, and on a phone-width screen.
+
+Make the image suitable for an educational textbook. Give it sufficient visual
+detail, layered context, and considered composition to be appealing and worth
+studying, while keeping one primary idea and a clear reading order. Use details
+that help learners understand the situation, relationship, or process; do not
+add decorative complexity that competes with the learning purpose. Include
+readable labels, captions, URLs, interface details, numbers, charts, and other
+text when they help communicate the selected asset brief.
+
+The image will later be rebuilt by Claude Design or Claude Code. Do not reduce
+the reference to a simple diagram for that reason. Instead, make its visual
+structure explicit in the accompanying reference specification. The final coded
+asset will use the My First Bitcoin Design System for permanent brand styling.
+
+Use a real, verified QR code, URL, payable address, interface, transaction,
+balance, price, date, or other factual data only when the selected asset brief
+explicitly supplies or approves it. Preserve the brief's required label and
+verification instructions. If the brief does not supply the detail, use a
+clearly fictional example or a neutral placeholder; do not invent one.
+
+You may depict people when useful, but do not depict a recognizable real person
+without confirmed permission and image rights. Never show a real seed phrase,
+private key, or learner/private personal data. Use clearly nonfunctional
+placeholders for secret information. Do not imply price growth, guaranteed
+returns, universal legal or financial conclusions, risk-free self-custody, or
+inevitable adoption. Keep protocol, wallet, service, user, node, miner, and
+educator roles distinct when the asset brief requires them.
+
+Return these two outputs in this order:
+
+1. One modest-resolution JPG reference image, intended for review and
+   reconstruction rather than publication.
+2. One `bd-v-000-ref.json` code block. It must describe the image you made,
+   using this schema. Use percentage-based coordinates relative to the full
+   canvas, with 0,0 at the top left. Include every meaningful visual element,
+   every visible text string, and every connector or sequence relationship.
+
+{
+  "assetId": "BD-V-000",
+  "title": "short descriptive title",
+  "visualSummary": "plain-language description of the complete image",
+  "canvas": {
+    "aspectRatio": "for example 4:3 or 16:9",
+    "orientation": "landscape | portrait | square",
+    "suggestedWidthPx": 1024,
+    "background": "description"
+  },
+  "readingOrder": ["element-id-1", "element-id-2"],
+  "regions": [
+    {
+      "id": "region-id",
+      "role": "panel | scene | inset | legend | caption-area",
+      "boundsPercent": {"x": 0, "y": 0, "width": 100, "height": 100},
+      "purpose": "what this region teaches"
+    }
+  ],
+  "elements": [
+    {
+      "id": "element-id",
+      "type": "person | object | icon | panel | arrow | line | chart | interface | label | other",
+      "boundsPercent": {"x": 0, "y": 0, "width": 10, "height": 10},
+      "zIndex": 1,
+      "description": "appearance, content, and instructional role",
+      "visibleText": "exact text, or an empty string",
+      "translatable": true,
+      "dataStatus": "verified | fictional | placeholder | not-applicable",
+      "styleNotes": "shape, emphasis, pattern, or illustration notes"
+    }
+  ],
+  "connectors": [
+    {
+      "from": "element-id",
+      "to": "element-id",
+      "type": "arrow | line | containment | comparison | sequence",
+      "meaning": "what the relationship communicates"
+    }
+  ],
+  "visualTreatment": {
+    "mood": "educational editorial illustration",
+    "detailLevel": "describe the meaningful contextual detail",
+    "contrastAndGrayscaleCues": "how meaning survives without color"
+  },
+  "implementationNotes": [
+    "what Claude should preserve when rebuilding it in HTML/CSS/SVG"
+  ],
+  "safetyAndFactChecks": [
+    "brief-specific checks before publication"
+  ]
+}
+```
+
+Save the image as `assets-work/references/bd-v-000-ref.jpg`, the specification as `assets-work/references/bd-v-000-ref.json`, and the completed prompt, generation date, tool or model, and review note as `assets-work/prompts/bd-v-000-ref.txt`. Replace `bd-v-000` with the stable asset ID in lowercase. The `-ref` suffix identifies all three as reference materials, not final assets. A reviewer must confirm that the generated concept and reference specification preserve the complete asset brief before they are passed to Claude Design.
+
+### Claude Design implementation prompt
+
+Use the following prompt for the ref-JPG-to-coded-assets phase. Supply the selected asset ID, its complete index entry, the approved reference JPG, and the nearby guide text if needed. Claude Design must read the supplied index information before it designs or codes. Do not ask it to invent information that the index or approved source text does not supply.
+
+```text
+Build a My First Bitcoin graphic.
+
+Inputs you have been given:
+- Asset ID: [BD-V-000]
+- Asset brief: the complete matching entry from workspace/08_assets.md
+- Reference image: [attached low-resolution JPG or supplied image path]
+- Reference specification: [the matching bd-v-000-ref.json]
+- Optional adjacent guide text: [paste only when it helps clarify the visual]
+
+Work from the design system: read `micrographics/README.md` (the authoring
+contract and house CSS conventions) and `micrographics/tokens.css` first, then
+start from the closest existing bundle in `micrographics/` rather than a blank
+file. Where this prompt and the design system disagree, the design system wins.
+
+Before designing, read the complete Asset brief. It is the instructional source
+of truth. Extract and follow its placement, text–visual link, design brief,
+required elements, guardrails, format, caption, alt text, localization needs,
+and factual-source requirements. Preserve every required qualification and
+prohibition. If information is missing or conflicts, stop and identify the
+specific gap; do not invent a fact, label, number, URL, or safety claim.
+
+Use the attached reference image and reference specification for composition,
+visual metaphor, illustration direction, hierarchy, and reconstruction detail.
+Treat the JPG as visual direction only. Cross-check every visible label, data
+point, URL, QR code, interface detail, and factual claim against the Asset brief
+before using it. Rebuild the selected concept as editable HTML, CSS, and inline
+SVG, preserving the design system's tokens and conventions.
+
+First, choose two things for me and state them at the top of your reply:
+- a short, descriptive title (a few words, e.g. "The Bitcoin Halving");
+- a slug derived from the title — lowercase, words joined by single hyphens,
+  letters and digits only (e.g. the-halving). Use it everywhere <slug> appears.
+
+Then produce exactly these four files, named exactly like this:
+
+- `micrographic.html`: the fragment, in one root `<div class="mg-<slug>">`.
+- `micrographic.css`: every selector prefixed `.mg-<slug>`.
+- `meta.json`: `{"bundleVersion":1, "title":"…", "slug":"<slug>",
+  "altText":"one plain sentence describing the visual", "caption":""}`.
+- `preview.html`: self-contained, first line
+  `<!-- @dsCard group="Micrographics" -->`, inlining the tokens, the CSS, and
+  the fragment inside a 458px frame, with the IBM Plex Sans `@font-face` data
+  URI copied from an existing `preview.html` (font CDNs are blocked in Claude
+  Design).
+
+Follow these rules exactly:
+1. Wrap everything in a single root element <div class="mg-<slug>">, and
+   prefix EVERY CSS selector with .mg-<slug> so the styles can't leak
+   into the rest of the book.
+2. Tag every piece of translatable text with a data-t="key" attribute on the
+   element that directly contains it. Keys are short, lowercase, letters /
+   numbers / hyphens only, unique, and never nested inside each other. Do NOT
+   tag pure numbers or symbols that are the same in every language.
+3. Print-safe CSS only: use pt, mm, em, or % sizes; flexbox is fine with
+   explicit sizes. No CSS grid, no vh/vw, no rem, no position: fixed/sticky,
+   no @import, no JavaScript, no external images or fonts.
+4. Use the Claude Design System's My First Bitcoin tokens and components. Only
+   when an equivalent token is unavailable, use these fallbacks:
+   var(--color-purple, #422C70), var(--color-orange, #F7941F),
+   var(--color-text, #1a1a1a), var(--color-caption, #6C6C7D), and
+   font-family: var(--ts-font-family, "IBM Plex Sans"), sans-serif.
+5. Design for a narrow book page: the root should be width: 100% and look
+   good around 458px wide (A5 book content width).
+6. Inline SVG is allowed, but keep SVG attribute names correctly capitalized
+   (viewBox, not viewbox).
+7. Flag any judgment call you had to make, and anything the design system asked
+   for that this graphic could not satisfy.
+```
+
+The output must also preserve the selected entry's safety, accessibility, factual-source, caption, alt-text, and localization requirements. For a completed asset, save the four generated files in the selected `assets/diploma/<guide-or-shared>/bd-v-000/` project folder. Keep the initial JPG and its prompt in `assets-work/`; neither substitutes for the coded source.
+
+### Asset working structure
+
+Use this separation so exploratory material does not enter version control while approved source and implementation files remain reviewable:
+
+```text
+assets-work/                    # ignored working material
+├── references/                 # low-resolution OpenAI/Gemini JPG concepts
+├── prompts/                    # prompts, settings, and generation notes
+└── rejected/                   # rejected concepts retained temporarily
+
+assets/                         # tracked approved assets
+└── diploma/
+    ├── student-guide/          # Student Guide visual projects and exports
+    ├── educator-guide/         # Educator Guide visual projects and exports
+    └── shared/                 # assets reused by both guides
+```
+
+For an individual coded visual, keep the implementation together in its guide or shared folder using the stable asset ID, for example `bd-v-036/`, with the HTML/CSS/SVG source, approved exports, alt-text record, and a short README when needed. Preserve the flat `assets/diploma/bd-v-000.svg` naming convention in handoff examples only when the publication pipeline requires a direct asset path.
+
+### Reference-image and coded-asset rules
+
+- Treat AI-generated JPGs as low-resolution references, not final publication files.
+- Never bake essential instructional text, labels, captions, URLs, QR codes, prices, dates, or safety warnings into a generated reference image.
+- Recreate essential text as HTML or editable SVG text so it can be translated, corrected, resized, and checked for accessibility.
+- Use AI image generation primarily for composition, illustration, visual metaphor, and art direction. Use code or vector construction for diagrams, tables, timelines, interface mockups, QR codes, and any visual requiring exact text or geometry.
+- Keep people, places, names, currencies, prices, examples, and local scenarios replaceable through content fields or localization data.
+- Define responsive states for desktop, phone-width, and print layouts. Do not rely on a single fixed image crop to communicate the concept.
+- Preserve the index's safety rules in the coded output: no real seed phrases, private keys, payable addresses, learner balances, identities, or transactions; label fictional interfaces and QR codes clearly.
+- Preserve the index's teaching meaning. Do not make a visually attractive reference more authoritative, promotional, certain, or universal than the adjacent prose.
+- Use recurring symbols and visual grammar across related assets, while keeping protocol, wallet, service, user, node, miner, and educator roles distinct.
+- Design for grayscale and color-blind access. Color must not be the only carrier of meaning; use labels, patterns, line styles, position, or shape as well.
+- Keep implementation text translatable. Allow for longer translated strings, alternate line breaks, and future right-to-left layout without redrawing the visual.
+- Record the reference prompt, generation tool, generation date, factual sources, reviewer, and implementation status in the asset handoff or project README.
+
+### Brand and visual-direction requirements
+
+Before generating a production batch, maintain an approved visual-token reference covering:
+
+- colors and grayscale equivalents;
+- primary and fallback fonts;
+- heading, label, caption, and body-text hierarchy;
+- icon and illustration style;
+- line weights, corner radius, spacing, and arrow conventions;
+- preferred composition patterns such as comparison panels, timelines, process strips, and role maps;
+- examples of approved and rejected visual treatments.
+
+Until the approved My First Bitcoin visual system is available, use restrained, high-contrast, beginner-friendly design and do not invent permanent brand colors or logos. Avoid generic decorative Bitcoin imagery, price-promotion language, rockets, glowing network backgrounds, and other visual shortcuts that do not clarify the adjacent lesson.
+
+### Extended coded-asset handoff fields
+
+When the image-to-code workflow is used, extend the handoff object with:
+
+```yaml
+reference_image: assets-work/references/bd-v-000-ref.jpg
+reference_specification: assets-work/references/bd-v-000-ref.json
+reference_prompt: assets-work/prompts/bd-v-000-ref.txt
+reference_tool: OpenAI | Gemini
+reference_generated_at: YYYY-MM-DD
+implementation_type: html-css-svg
+implementation_source: assets/diploma/shared/bd-v-000/
+sanity_project: true
+published_asset: assets/diploma/shared/bd-v-000/visual.svg
+editable_text: true
+responsive_states:
+  - desktop
+  - phone
+  - print
+text_equivalent: assets/diploma/shared/bd-v-000/alt-text.md
+review_status: draft | review | approved | published
+reviewers: []
+```
