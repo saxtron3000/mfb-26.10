@@ -1,11 +1,25 @@
 # Consolidated review actions and decision register
 
+## To-do qualification and tally
+
+The table below classifies all 21 `ACT` tasks in this register. **CRITICAL** and **MAJOR** remain release concerns; **MINOR** covers bounded maintenance or editorial work; **DONE** means the task is checked off with completion evidence.
+
+| Category | Qualification | Tally | Tasks |
+|---|---|---:|---|
+| **CRITICAL** | Safety, governance, certificate-integrity, or certificated-delivery blocker. | **3** | `ACT-002`, `ACT-003`, `ACT-017` |
+| **MAJOR** | Release, publication, or required-before-cohort blocker that must be resolved before the affected delivery or publication claim. | **9** | `ACT-004`, `ACT-006`, `ACT-008`, `ACT-009`, `ACT-011`, `ACT-015`, `ACT-016`, `ACT-019`, `ACT-020` |
+| **MINOR** | Bounded editorial, maintenance, quality, or follow-up work that does not by itself block release readiness. | **7** | `ACT-007`, `ACT-010`, `ACT-012`, `ACT-013`, `ACT-014`, `ACT-018`, `ACT-021` |
+| **DONE** | Checked off and supported by completion evidence in the task record. | **2** | `ACT-001`, `ACT-005` |
+| **Total** | All consolidated `ACT` tasks. | **21** | — |
+
+Classification follows the task’s current severity, release impact, status, and acceptance condition. A **MINOR** task is still required work unless its record is explicitly closed, rejected, or superseded.
+
 ## Review dashboard
 
 | Area | Current status | Outstanding | Priority / next move |
 |---|---|---:|---|
-| Overall action register | 1 of 21 `ACT` items checked off | 20 | Treat the register as open; record status, owner, evidence, and dependencies as work proceeds. |
-| Release blockers | Open | 3 (`ACT-001`–`ACT-003`) | **Major issue:** validate the complete assessment route, calibrate assessors, and approve record/certificate governance before certificated delivery or a results-retaining pilot. |
+| Overall action register | 2 of 21 `ACT` items checked off | 19 | Treat the register as open; record status, owner, evidence, and dependencies as work proceeds. |
+| Release blockers | Open | 2 (`ACT-002`–`ACT-003`) | **Major issue:** calibrate assessors and approve record/certificate governance before certificated delivery or a results-retaining pilot. |
 | Decisions blocking dependent copy | Open | 2 (`ACT-004`, `ACT-006`) | **Major issue:** settle duration and the policy for named programme links and wallet-software guidance. Certificate positioning is resolved; documentation remains in `ACT-020`. |
 | Cross-cutting release reconciliation | Open | 3 (`ACT-015`–`ACT-017`) | **Major issue:** reconcile publication outputs, the Lightning explanation/practice boundary, and the operational release promise across authorities and public materials. |
 | Quick wins / bounded editorial fixes | Open | 4 candidate items (`ACT-008`, `ACT-009`, `ACT-011`, `ACT-012`) | **Quick wins:** remove or finalize conditional back matter, verify public destinations, finish the bounded self-check review, and repair or replace the missing visual target. Confirm decisions and evidence before closing. |
@@ -52,9 +66,9 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 ### Release blockers for certificated delivery
 
-- [ ] **ACT-001** **Validate the complete assessment route.**
+- [x] **ACT-001** **Validate the complete assessment route.**
 
-  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: critical | Release impact: certificated-delivery blocker | Evidence: pending current validation | Depends on: none | Completion evidence: acceptance condition below.
+  - Status: done | Owner: unassigned | Updated: 2026-09-21 | Severity: critical | Release impact: certificated-delivery blocker | Evidence: [Educator Guide assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol), [Assessment Grid assessment route](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#simple-way-to-use-this-grid), and [assessment framework](../workspace/13_assessment.md#6-assessment-workflow) reviewed on 2026-09-21 | Depends on: none | Completion evidence: the current materials define an educator-led activity-based route for every required competency; permit in-person, online, low-tech, simulated, testnet, physical-token, and carefully structured low-stakes routes; provide support and reassessment; preserve accessibility and safety; and require capacity planning for troubleshooting, feedback, and follow-up.
 
   - Define a simple, educator-led route in which activities are deliberately designed to elicit the required competencies. Successful activity performance may provide the evidence; the educator may use probing questions when understanding or safety is unclear.
   - Permit in-person, online, low-tech, simulated, testnet, physical-token, and carefully structured low-stakes-funds routes, with accessibility adaptations that preserve the competency. Do not require significant personal funds or a particular tool.
@@ -65,7 +79,7 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 - [ ] **ACT-002** **Prepare assessor calibration evidence.**
 
-  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: critical | Release impact: certificated-delivery blocker | Evidence: pending current verification | Depends on: ACT-001 | Completion evidence: acceptance condition below.
+  - Status: in-progress | Owner: unassigned | Updated: 2026-09-21 | Severity: critical | Release impact: certificated-delivery blocker | Evidence: [Educator Guide calibration examples](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#calibration-examples-for-assessor-discussion) added for `T2`, `P9`, and an example `P11` variant; assessor session record still pending | Depends on: ACT-001 | Completion evidence: pending independent scoring, discussion, and recorded agreement by the selected delivery team.
 
   - Create one annotated `MS` and one annotated `NY` example for `T2`, `P9`, and the selected `P11` variant.
   - Calibrate assessors, resolve scoring differences, and retain the date, assessors, variants, and agreed interpretation.

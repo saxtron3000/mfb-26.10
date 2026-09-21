@@ -195,6 +195,18 @@ These interactions may be woven into normal module teaching. They are examples, 
 
 **Optional review:** A second educator can review a practical route, a difficult decision, or a reassessment when helpful. Review should support the educator's judgement, not replace direct observation or create extra paperwork for its own sake.
 
+### Calibration examples for assessor discussion
+
+Use these examples to compare judgements before delivery. They are model evidence, not learner scripts. Two assessors should score each example independently, discuss any difference, and record the date, assessors, selected `P11` variant, and agreed interpretation.
+
+| Protocol | Annotated `MS` example | Annotated `NY` example |
+|---|---|---|
+| `T2` — Bitcoin explanation, rule-and-role map, and asset comparison | The learner explains that digital information can be copied and that shared verification helps prevent the same bitcoin from being accepted twice. They correctly distinguish users, nodes, miners, and developers; describe the supply rule and halving at beginner level; compare Bitcoin with a generic stablecoin using control and issuance; and state one limitation without promoting either asset. **Judgement: MS.** | The learner says miners can change any rule and that Bitcoin's fixed supply guarantees price. After permitted clarification, they cannot explain the copying problem or compare control and issuance. **Judgement: NY; practise roles, supply claims, and comparison criteria.** |
+| `P9` — Supported first access and receipt | In a prepared simulation, the learner checks the recipient, network, amount, and payment detail before proceeding, completes the receipt, protects all secrets, and explains that a mismatch is a reason to stop and verify. **Judgement: MS.** | The learner proceeds after being shown a recipient or amount mismatch, asks the educator which payment detail to choose, or exposes a recovery secret. **Judgement: NY; stop, reset the safe environment, practise verification, and reassess.** |
+| `P11` — Example variant: local payment-path comparison simulation | The learner completes the simulated payment sequence safely, checks the recipient and amount, and individually explains the local purpose, a realistic alternative, trade-offs, possible failure points, safety boundary, and next step. **Judgement: MS.** | The learner completes the sequence only through educator direction, skips a required check, or cannot explain the realistic alternative and safety response after permitted support. **Judgement: NY; provide focused practice and reassess the same or an equivalent variant.** |
+
+These examples do not replace direct observation, the Assessment Grid, or the selected local `P11` approval. Do not record real secrets, private keys, passwords, balances, or unnecessary personal information during calibration.
+
 Use the examples and activity materials that fit your cohort. Review local tools, current facts, translation, accessibility, and practical safety before delivery. When you adapt an activity, keep the competency and safety purpose clear.
 
 <!-- VISUAL: BD-V-084
