@@ -495,18 +495,20 @@ This index should be revised whenever either guide changes materially. It should
 
 ## 6. Intended AI-to-code workflow
 
-The initial guide visuals use an iterative reference-image-to-code workflow. Every indexed asset requires one low-resolution JPG reference image and a matching JSON conformance report before coded production begins. The reference is visual direction only; it does not produce the final published asset.
+The initial guide visuals use an iterative reference-image-to-code workflow. Every eligible asset requires one low-resolution transparent PNG reference, a white-background JPG preview of the same image, and a matching JSON conformance report before coded production begins. Generate the composition once and export the JPG from the PNG at the same dimensions. JPEG cannot preserve transparency. The references are visual direction only; they do not produce the final published asset.
+
+The current reference batch has 101 indexed items: 98 eligible and three deferred (`BD-V-001`, `BD-V-070`, and `BD-V-075`). `BD-V-001` remains an official licence-mark task for later production; do not generate an AI reference, redraw the mark, or replace its logo and text with invented elements. Its section 3 brief remains binding.
 
 1. **Specify the structure.** Select an asset entry and use its reference specification in section 7 as the source contract. It decides element counts, relationships, reading order, labels, localization, prohibitions, and safety requirements before any image is generated.
-2. **Generate a reference image.** Use OpenAI image generation or Gemini for every asset. Build exactly the specified composition and elements. Save a low-resolution JPG reference in the ignored `assets-work/references/` directory. Save the prompt and relevant settings in `assets-work/prompts/`.
-3. **Review the conformance report and reference.** Check instructional accuracy, beginner clarity, safety, cultural flexibility, and whether the concept can be reconstructed with editable code. Check the report against the specification, especially that `textPresentInImage` is empty and that `elementsAdded` is empty or justified. Reject or revise concepts that depend on baked-in text, unverified claims, real private data, brand imitation, or decorative imagery without instructional purpose.
-4. **Code the selected concept.** Give Claude Design or Claude Code the selected asset ID, its complete `workspace/08_assets.md` entry, the approved JPG reference, and the adjacent guide text where useful. Treat the JPG as visual direction only. Recreate layout, shapes, icons, arrows, interface elements, and labels as editable code or vector elements wherever practical. Use the Claude Design System as the source of truth for brand and design decisions.
+2. **Generate a reference image.** Use OpenAI image generation or Gemini for each eligible asset. Build exactly the specified composition and elements. Save a low-resolution transparent PNG reference and export its white-background (#FFFFFF) JPG preview in the ignored `assets-work/references/` directory. Save the prompt and relevant generation/export settings in `assets-work/prompts/`.
+3. **Review the conformance report and both images.** Check instructional accuracy, beginner clarity, safety, cultural flexibility, and whether the concept can be reconstructed with editable code. Verify actual transparent background pixels in the PNG, a solid white background in the JPG, and matching composition and dimensions; record the formats, backgrounds, and checks in the JSON. Check the report against the specification, especially that `textPresentInImage` is empty and that `elementsAdded` is empty or justified. Reject or revise concepts that depend on baked-in text, unverified claims, real private data, brand imitation, or decorative imagery without instructional purpose.
+4. **Code the selected concept.** Give Claude Design or Claude Code the selected asset ID, its complete `workspace/08_assets.md` entry, the approved PNG reference and JPG preview, and the adjacent guide text where useful. Treat both images as visual direction only. Recreate layout, shapes, icons, arrows, interface elements, and labels as editable code or vector elements wherever practical. Use the Claude Design System as the source of truth for brand and design decisions.
 5. **Localize and make accessible.** Keep instructional text outside the reference image. Put labels, captions, alt text, and localization-dependent content in editable data or content fields. Preserve reading order, responsive behavior, grayscale meaning, and a text equivalent for complex visuals.
 6. **Review the coded asset.** Render the project at desktop, phone, A4 or US Letter, print, and grayscale sizes. Check factual accuracy, text overflow, translation expansion, contrast, alt text, safe sample data, QR behavior where applicable, and alignment with the adjacent guide prose.
 7. **Prepare the Sanity project.** Save the approved implementation and its supporting metadata in a tracked `assets/diploma/` subfolder. Download or export the project as required for Sanity and verify that the published result matches the approved source.
 8. **Insert only after approval.** Replace the source marker or add the Markdown reference only when the coded asset has passed curriculum, technical, accessibility, and localization review. Update this index if the anchor, text, or visual meaning changes.
 
-The workflow is provisional and may change as the Sanity implementation develops. The source of truth for instructional content is the curriculum text and this visual index; the source of truth for brand and visual-system decisions is the Claude Design System; and the approved coded asset is the publication source. The generated JPG reference is not a source of truth.
+The workflow is provisional and may change as the Sanity implementation develops. The source of truth for instructional content is the curriculum text and this visual index; [27_assets-style.md](27_assets-style.md) controls reference-image styling, the Claude Design System controls coded production styling, and the approved coded asset is the publication source. The generated reference images are not sources of truth.
 
 ### Reusable prompt attachments
 
@@ -514,7 +516,7 @@ Attach [22_openai-reference-image-prompt.md](22_openai-reference-image-prompt.md
 
 Attach [23_claude-design-sanity-asset-prompt.md](23_claude-design-sanity-asset-prompt.md) to each Claude Design request. It directs Claude to rebuild—not publish—the reference as an editable, localized, accessible source bundle and to prepare only schema-compatible, upload-ready Sanity deliverables.
 
-Save the reference JPG as `assets-work/references/bd-v-000-ref.jpg`, its conformance report as `assets-work/references/bd-v-000-ref.json`, and the completed prompt, generation date, tool or model, and review note as `assets-work/prompts/bd-v-000-ref.txt`. Replace `bd-v-000` with the stable asset ID in lowercase. The `-ref` suffix identifies all three as reference materials, not final assets. Once structure is pre-specified, the only genuinely new information an image contributes is spatial arrangement and visual treatment. Element counts, relationships, labels, reading order, and prohibitions are already decided. The report therefore carries placement, treatment, and deviations only. Self-reported conformance is weak evidence: a model will tend to claim it complied. The report narrows what a human or Claude must check; it does not replace that check.
+Save the transparent PNG reference as `assets-work/references/bd-v-000-ref.png`, its white-background JPG preview as `assets-work/references/bd-v-000-ref.jpg`, their conformance report as `assets-work/references/bd-v-000-ref.json`, and the completed prompt, generation date, tool or model, generation/export settings, and review note as `assets-work/prompts/bd-v-000-ref.txt`. Replace `bd-v-000` with the stable asset ID in lowercase. The `-ref` suffix identifies all four as reference materials, not final assets. Mark a reference checklist item complete only after all four files exist and pass review. Once structure is pre-specified, the only genuinely new information an image contributes is spatial arrangement and visual treatment. Element counts, relationships, labels, reading order, and prohibitions are already decided. The report carries placement, treatment, export checks, and deviations. Self-reported conformance is weak evidence: a model will tend to claim it complied. The report narrows what a human or Claude must check; it does not replace that check.
 
 ### Asset working structure
 
@@ -522,7 +524,7 @@ Use this separation so exploratory material does not enter version control while
 
 ```text
 assets-work/                    # ignored working material
-├── references/                 # low-resolution OpenAI/Gemini JPG concepts
+├── references/                 # transparent PNG references, JPG previews, JSON reports
 ├── prompts/                    # prompts, settings, and generation notes
 └── rejected/                   # rejected concepts retained temporarily
 
@@ -537,7 +539,7 @@ For an individual coded visual, keep the implementation together in its guide or
 
 ### Reference-image and coded-asset rules
 
-- Treat AI-generated JPGs as low-resolution references, not final publication files.
+- Treat AI-generated PNGs and their JPG previews as low-resolution references, not final publication files.
 - Never place text, letters, or numerals anywhere in a generated reference image. Keep all strings in the specification and recreate them as live translatable nodes in code.
 - Recreate essential text as HTML or editable SVG text so it can be translated, corrected, resized, and checked for accessibility.
 - Use AI image generation primarily for composition, illustration, visual metaphor, and art direction. Use code or vector construction for diagrams, tables, timelines, interface mockups, QR codes, and any visual requiring exact text or geometry.
@@ -569,7 +571,8 @@ Use the approved My First Bitcoin visual system for brand and visual decisions. 
 When the image-to-code workflow is used, extend the handoff object with:
 
 ```yaml
-reference_image: assets-work/references/bd-v-000-ref.jpg
+reference_image: assets-work/references/bd-v-000-ref.png
+reference_preview: assets-work/references/bd-v-000-ref.jpg
 reference_specification: assets-work/references/bd-v-000-ref.json
 reference_prompt: assets-work/prompts/bd-v-000-ref.txt
 reference_tool: OpenAI | Gemini
@@ -984,15 +987,19 @@ open: []
 
 ### Complete reference classification registry
 
-Every currently indexed visual is classified `reference_required`. This registry applies to the complete, stable ID range `BD-V-001` through `BD-V-101`, inclusive. There are no `none`, `light`, or `scene` exceptions in the 2026.10 workflow.
+This registry applies to the complete, stable ID range `BD-V-001` through `BD-V-101`, inclusive. The current batch classifies 98 items as `reference_required` and defers `BD-V-001`, `BD-V-070`, and `BD-V-075`. Deferral leaves each checklist item unchecked and does not remove its brief or authorize production. `BD-V-001` is deferred only from AI reference generation: later production must use the official licence mark under its existing brief. There are no `none`, `light`, or `scene` generation tiers.
 
 For each ID, its complete section 3 asset-index entry is incorporated as the section 7 structural contract. It is therefore binding for the asset type, teaching relationship, placement, design brief, caption, alt text, factual and safety limits, required verification, localization, and format. The shared requirements in section 2 and relevant section 8 register entries are also incorporated. This avoids maintaining two divergent copies of the 101 detailed briefs.
 
 ```yaml
-specification_version: 2
+specification_version: 3
 applies_to: BD-V-001 through BD-V-101
-reference_required: true
-reference_format: low-resolution JPG plus JSON conformance report
+reference_required: true for eligible items
+batch_total: 101
+batch_eligible: 98
+batch_deferred: [BD-V-001, BD-V-070, BD-V-075]
+reference_format: low-resolution transparent PNG plus white-background JPG preview and JSON conformance report
+reference_export: Generate once; composite the PNG over solid white at the same dimensions for the JPG.
 contract_fields:
   composition: section 3 Design brief and Format
   elements_and_relationships: section 3 Design brief and Text–visual link
@@ -1001,7 +1008,7 @@ contract_fields:
   prohibitions_and_safety: section 2 requirements and section 3 Design brief
   shared_components: relevant section 8 register entries
   unresolved_decisions: every explicit pending, conditional, confirmation, or verification condition in section 3
-production_gate: The reference JPG and conformance report must pass review before production coding.
+production_gate: For eligible items, both reference images, the conformance report, and prompt record must exist and pass review before production coding. Deferred items are not released by this gate.
 ```
 
 The eight legacy per-asset records above remain useful examples of the contract shape. Their `illustration_need` value is superseded by this registry. Do not create a new per-asset structure contract outside the asset-index entry unless the entry is materially insufficient; if one is needed, add it here and update the generated execution checklists in the same revision.

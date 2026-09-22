@@ -2,14 +2,15 @@
 
 ## Purpose
 
-Use each item only after its matching Codex/ChatGPT reference JPG and JSON conformance report have passed review. Copy the entire prompt, attach the two reference files, the section 7 classification registry, and the relevant Claude Design System/Sanity schema, and build the editable production bundle. These prompts do not authorize a Sanity upload or publication.
+Use each item only after its matching transparent PNG reference, white-background JPG preview, and JSON conformance report have passed review. Copy the entire prompt, attach the three reference files, the section 7 classification registry, and the relevant Claude Design System/Sanity schema, and build the editable production bundle. These prompts do not authorize a Sanity upload or publication.
 
-The checklist is generated from [08_assets.md](08_assets.md) and contains all 101 complete asset briefs. The section 7 classification registry incorporates each complete asset brief as its structural contract and requires one approved reference for every ID. It complements [23_claude-design-sanity-asset-prompt.md](23_claude-design-sanity-asset-prompt.md): this file is the ready-to-paste production queue; document 23 is the deeper reusable implementation contract.
+The checklist is generated from [08_assets.md](08_assets.md) and contains all 101 complete asset briefs. The section 7 classification registry incorporates each complete asset brief as its structural contract and requires approved references for each eligible ID. The current batch defers `BD-V-001`, `BD-V-070`, and `BD-V-075`; this production checklist does not release them. It complements [23_claude-design-sanity-asset-prompt.md](23_claude-design-sanity-asset-prompt.md): this file is the ready-to-paste production queue; document 23 is the deeper reusable implementation contract.
 
 ## Completion rules
 
 - Change `[ ]` to `[X]` only when the editable bundle, preview, accessibility handoff, and documented visual checks exist and have passed review.
-- Attach the matching `assets-work/references/<asset-id-lowercase>-ref.jpg` and `.json` before using the prompt. Do not treat either as a production file.
+- Attach the matching `assets-work/references/<asset-id-lowercase>-ref.png`, `.jpg`, and `.json` before using an eligible prompt. Confirm that both images, the conformance report, and the prompt record passed reference review. Do not treat reference files as production files.
+- Keep deferred `BD-V-001`, `BD-V-070`, and `BD-V-075` unchecked. Later `BD-V-001` production must use the official licence mark under its existing brief, not an AI redraw.
 - Keep adjoining and related assets separate. A shared asset may serve both listed placements only when the same implementation is genuinely appropriate.
 - Conditional assets remain blocked until every verification or local/editorial decision named in the asset brief is resolved.
 
@@ -18,19 +19,7 @@ The checklist is generated from [08_assets.md](08_assets.md) and contains all 10
 ### [ ] BD-V-001 — Image
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
-
-Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
-
-Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
-
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
-
-Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-001-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-001-ref.json
-- Current Claude Design System authoring instructions and closest approved micrographic bundle
-- Current Sanity schema/publishing requirements, if available
+DEFERRED — this prompt does not release the item for production. Leave its checklist item unchecked. Its required official Creative Commons BY-SA 4.0 logo and adjacent text are prohibited in reference images. Keep the official mark for later production under the complete brief; do not redraw it or invent a substitute.
 
 Complete asset brief
 - Asset ID: BD-V-001
@@ -44,12 +33,12 @@ Complete asset brief
 - Design brief: Use the official Creative Commons BY-SA 4.0 mark at small but legible size. Keep the written licence statement, attribution requirement, and adaptation condition beside or immediately above it. Do not redraw, recolour, distort, or use the logo as a replacement for the licence text or link.
 - Format: Official licence mark with short text lockup; small inline or corner placement.
 
-Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
+Retain the complete brief for a later authorized production decision. Do not generate, upload, or publish an asset in the current batch.
 ```
 ### [ ] BD-V-002 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -58,7 +47,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-002-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-002-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-002-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-002-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -80,7 +70,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-076 — Image
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -89,7 +79,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-076-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-076-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-076-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-076-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -111,7 +102,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-077 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -120,7 +111,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-077-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-077-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-077-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-077-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -142,7 +134,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-006 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -151,7 +143,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-006-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-006-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-006-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-006-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -173,7 +166,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-003 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -182,7 +175,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-003-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-003-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-003-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-003-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -204,7 +198,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-004 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -213,7 +207,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-004-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-004-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-004-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-004-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -235,7 +230,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-005 — Table
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -244,7 +239,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-005-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-005-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-005-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-005-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -269,7 +265,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-007 — Table
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -278,7 +274,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-007-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-007-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-007-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-007-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -300,7 +297,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-008 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -309,7 +306,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-008-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-008-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-008-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-008-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -331,7 +329,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-009 — Image
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -340,7 +338,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-009-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-009-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-009-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-009-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -362,7 +361,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-010 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -371,7 +370,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-010-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-010-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-010-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-010-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -393,7 +393,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-011 — Image
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -402,7 +402,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-011-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-011-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-011-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-011-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -424,7 +425,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-012 — Image
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -433,7 +434,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-012-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-012-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-012-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-012-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -455,7 +457,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-013 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -464,7 +466,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-013-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-013-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-013-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-013-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -486,7 +489,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-014 — Table
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -495,7 +498,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-014-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-014-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-014-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-014-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -517,7 +521,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-015 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -526,7 +530,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-015-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-015-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-015-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-015-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -548,7 +553,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-016 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -557,7 +562,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-016-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-016-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-016-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-016-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -579,7 +585,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-017 — Table
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -588,7 +594,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-017-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-017-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-017-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-017-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -610,7 +617,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-018 — Image
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -619,7 +626,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-018-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-018-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-018-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-018-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -641,7 +649,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-020 — Table
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -650,7 +658,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-020-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-020-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-020-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-020-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -672,7 +681,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-021 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -681,7 +690,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-021-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-021-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-021-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-021-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -703,7 +713,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-019 — Table
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -712,7 +722,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-019-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-019-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-019-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-019-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -737,7 +748,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-022 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -746,7 +757,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-022-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-022-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-022-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-022-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -768,7 +780,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-023 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -777,7 +789,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-023-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-023-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-023-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-023-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -799,7 +812,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-024 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -808,7 +821,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-024-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-024-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-024-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-024-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -830,7 +844,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-027 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -839,7 +853,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-027-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-027-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-027-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-027-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -861,7 +876,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-026 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -870,7 +885,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-026-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-026-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-026-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-026-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -892,7 +908,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-030 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -901,7 +917,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-030-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-030-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-030-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-030-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -923,7 +940,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-031 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -932,7 +949,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-031-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-031-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-031-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-031-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -954,7 +972,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-032 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -963,7 +981,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-032-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-032-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-032-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-032-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -985,7 +1004,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-028 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -994,7 +1013,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-028-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-028-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-028-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-028-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1016,7 +1036,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-029 — Table
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1025,7 +1045,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-029-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-029-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-029-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-029-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1047,7 +1068,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-033 — Table
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1056,7 +1077,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-033-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-033-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-033-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-033-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1078,7 +1100,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-025 — Table
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1087,7 +1109,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-025-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-025-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-025-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-025-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1109,7 +1132,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-034 — Table
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1118,7 +1141,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-034-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-034-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-034-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-034-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1143,7 +1167,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-035 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1152,7 +1176,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-035-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-035-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-035-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-035-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1174,7 +1199,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-036 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1183,7 +1208,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-036-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-036-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-036-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-036-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1205,7 +1231,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-078 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1214,7 +1240,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-078-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-078-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-078-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-078-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1236,7 +1263,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-037 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1245,7 +1272,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-037-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-037-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-037-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-037-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1267,7 +1295,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-038 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1276,7 +1304,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-038-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-038-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-038-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-038-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1298,7 +1327,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-079 — Image
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1307,7 +1336,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-079-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-079-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-079-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-079-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1329,7 +1359,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-039 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1338,7 +1368,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-039-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-039-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-039-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-039-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1360,7 +1391,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-040 — Table
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1369,7 +1400,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-040-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-040-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-040-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-040-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1391,7 +1423,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-042 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1400,7 +1432,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-042-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-042-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-042-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-042-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1422,7 +1455,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-041 — Table
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1431,7 +1464,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-041-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-041-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-041-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-041-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1453,7 +1487,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-043 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1462,7 +1496,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-043-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-043-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-043-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-043-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1484,7 +1519,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-044 — Image
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1493,7 +1528,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-044-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-044-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-044-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-044-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1515,7 +1551,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-045 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1524,7 +1560,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-045-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-045-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-045-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-045-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1546,7 +1583,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-046 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1555,7 +1592,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-046-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-046-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-046-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-046-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1577,7 +1615,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-047 — Image
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1586,7 +1624,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-047-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-047-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-047-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-047-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1608,7 +1647,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-048 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1617,7 +1656,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-048-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-048-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-048-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-048-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1639,7 +1679,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-049 — Table
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1648,7 +1688,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-049-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-049-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-049-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-049-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1670,7 +1711,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-050 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1679,7 +1720,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-050-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-050-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-050-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-050-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1701,7 +1743,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-051 — Table
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1710,7 +1752,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-051-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-051-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-051-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-051-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1732,7 +1775,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-052 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1741,7 +1784,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-052-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-052-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-052-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-052-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1763,7 +1807,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-053 — Table
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1772,7 +1816,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-053-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-053-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-053-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-053-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1797,7 +1842,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-055 — Table
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1806,7 +1851,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-055-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-055-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-055-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-055-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1828,7 +1874,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-054 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1837,7 +1883,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-054-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-054-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-054-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-054-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1859,7 +1906,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-056 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1868,7 +1915,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-056-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-056-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-056-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-056-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1890,7 +1938,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-057 — Table
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1899,7 +1947,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-057-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-057-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-057-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-057-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1921,7 +1970,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-058 — Table
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1930,7 +1979,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-058-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-058-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-058-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-058-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1952,7 +2002,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-080 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1961,7 +2011,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-080-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-080-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-080-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-080-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -1983,7 +2034,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-059 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -1992,7 +2043,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-059-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-059-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-059-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-059-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2014,7 +2066,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-060 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2023,7 +2075,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-060-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-060-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-060-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-060-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2045,7 +2098,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-061 — Image
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2054,7 +2107,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-061-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-061-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-061-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-061-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2076,7 +2130,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-062 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2085,7 +2139,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-062-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-062-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-062-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-062-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2107,7 +2162,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-063 — Table
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2116,7 +2171,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-063-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-063-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-063-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-063-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2138,7 +2194,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-064 — Table
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2147,7 +2203,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-064-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-064-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-064-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-064-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2169,7 +2226,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-065 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2178,7 +2235,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-065-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-065-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-065-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-065-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2200,7 +2258,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-066 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2209,7 +2267,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-066-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-066-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-066-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-066-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2231,7 +2290,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-067 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2240,7 +2299,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-067-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-067-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-067-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-067-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2262,7 +2322,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-068 — Table
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2271,7 +2331,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-068-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-068-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-068-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-068-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2293,7 +2354,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-069 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2302,7 +2363,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-069-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-069-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-069-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-069-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2324,19 +2386,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-070 — Table
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
-
-Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
-
-Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
-
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
-
-Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-070-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-070-ref.json
-- Current Claude Design System authoring instructions and closest approved micrographic bundle
-- Current Sanity schema/publishing requirements, if available
+DEFERRED — this prompt does not release the item for production. Leave its checklist item unchecked. The batch selects BD-V-069 for the community review; this optional table alternative remains deferred.
 
 Complete asset brief
 - Asset ID: BD-V-070
@@ -2350,7 +2400,7 @@ Complete asset brief
 - Design brief: If a table is clearer than `BD-V-069`, summarize the current review using rows for local need, function of money, realistic alternative, payment path, key control, benefit and risk, local conditions, and responsible next step. Use editable prompts rather than inventing a required test or assessment record. Keep any learner response space optional; formal evidence belongs in the educator assessment process.
 - Format: Optional community-review summary table; full width.
 
-Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
+Retain the complete brief for a later authorized production decision. Do not generate, upload, or publish an asset in the current batch.
 ```
 
 ## 3.6 Back of Diploma
@@ -2358,7 +2408,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-071 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2367,7 +2417,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-071-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-071-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-071-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-071-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2389,7 +2440,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-072 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2398,7 +2449,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-072-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-072-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-072-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-072-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2420,7 +2472,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-073 — Image
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2429,7 +2481,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-073-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-073-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-073-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-073-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2451,7 +2504,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-074 — Image
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2460,7 +2513,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-074-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-074-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-074-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-074-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2482,19 +2536,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-075 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
-
-Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
-
-Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
-
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
-
-Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-075-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-075-ref.json
-- Current Claude Design System authoring instructions and closest approved micrographic bundle
-- Current Sanity schema/publishing requirements, if available
+DEFERRED — this prompt does not release the item for production. Leave its checklist item unchecked. DEC-11 defers this verification concept for 2026.10; no current placement or central My First Bitcoin verification service is authorized.
 
 Complete asset brief
 - Asset ID: BD-V-075
@@ -2508,7 +2550,7 @@ Complete asset brief
 - Design brief: Do not produce for 2026.10. Certification is educator-issued and My First Bitcoin does not operate a central verification service. A future separately governed issuer-specific method may revive this brief only after its real destination, privacy controls, correction and withdrawal rules, and minimum data display are approved and tested. It must identify the actual educator or issuing organization and must not imply central My First Bitcoin evaluation.
 - Format: Deferred verification flow; no current asset.
 
-Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
+Retain the complete brief for a later authorized production decision. Do not generate, upload, or publish an asset in the current batch.
 ```
 
 ## 3.9 Educator-only asset briefs
@@ -2516,7 +2558,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-081 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2525,7 +2567,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-081-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-081-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-081-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-081-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2547,7 +2590,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-082 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2556,7 +2599,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-082-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-082-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-082-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-082-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2578,7 +2622,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-083 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2587,7 +2631,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-083-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-083-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-083-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-083-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2609,7 +2654,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-084 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2618,7 +2663,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-084-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-084-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-084-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-084-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2640,7 +2686,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-085 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2649,7 +2695,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-085-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-085-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-085-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-085-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2671,7 +2718,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-086 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2680,7 +2727,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-086-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-086-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-086-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-086-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2702,7 +2750,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-087 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2711,7 +2759,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-087-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-087-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-087-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-087-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2733,7 +2782,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-099 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2742,7 +2791,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-099-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-099-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-099-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-099-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2764,7 +2814,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-088 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2773,7 +2823,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-088-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-088-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-088-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-088-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2795,7 +2846,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-101 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2804,7 +2855,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-101-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-101-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-101-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-101-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2826,7 +2878,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-089 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2835,7 +2887,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-089-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-089-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-089-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-089-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2857,7 +2910,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-090 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2866,7 +2919,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-090-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-090-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-090-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-090-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2888,7 +2942,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-100 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2897,7 +2951,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-100-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-100-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-100-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-100-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2919,7 +2974,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-092 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2928,7 +2983,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-092-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-092-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-092-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-092-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2950,7 +3006,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-091 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2959,7 +3015,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-091-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-091-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-091-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-091-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -2981,7 +3038,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-093 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -2990,7 +3047,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-093-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-093-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-093-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-093-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -3012,7 +3070,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-094 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -3021,7 +3079,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-094-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-094-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-094-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-094-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -3043,7 +3102,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-095 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -3052,7 +3111,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-095-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-095-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-095-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-095-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -3074,7 +3134,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-096 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -3083,7 +3143,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-096-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-096-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-096-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-096-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -3105,7 +3166,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-097 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -3114,7 +3175,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-097-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-097-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-097-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-097-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
@@ -3136,7 +3198,7 @@ Use the exact heading and insertion direction in Placement as the target placeme
 ### [ ] BD-V-098 — Diagram
 
 ```text
-You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved reference JPG and its JSON specification. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
+You are building one production-ready, accessible My First Bitcoin Bitcoin Diploma visual from a supplied approved transparent PNG reference, its white-background JPG preview, and their JSON conformance report. Read the complete brief below before acting. The asset brief is the source of truth for lesson intent, content, safety, caption, alt text, placement, and localization. The reference image guides composition only. If it conflicts with the brief, the brief wins; report any unresolved factual or design-system gap before implementing.
 
 Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline SVG. Apply the supplied Claude Design System rather than the reference's provisional styling. Keep all essential geometry, arrows, labels, warnings, icons, and data editable. Preserve one clear teaching relationship, a decisive reading order, cultural replaceability, grayscale meaning, narrow-page responsiveness, phone and desktop usability, A4/US-Letter printing, expandable translated text, and future RTL adaptation.
 
@@ -3145,7 +3207,8 @@ Never invent facts, labels, numbers, providers, URLs, legal claims, safety claim
 Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved reference JPG: assets-work/references/bd-v-098-ref.jpg
+- Approved transparent PNG reference: assets-work/references/bd-v-098-ref.png
+- Matching white-background JPG preview: assets-work/references/bd-v-098-ref.jpg
 - Matching conformance report: assets-work/references/bd-v-098-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
