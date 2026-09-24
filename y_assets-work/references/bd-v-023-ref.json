@@ -1,0 +1,192 @@
+{
+  "assetId": "BD-V-023",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-023-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-023-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "digicash",
+      "boundsPercent": {
+        "x": 19,
+        "y": 8,
+        "width": 12,
+        "height": 25
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "hashcash",
+      "boundsPercent": {
+        "x": 36,
+        "y": 8,
+        "width": 12,
+        "height": 25
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "bit-gold",
+      "boundsPercent": {
+        "x": 19,
+        "y": 37,
+        "width": 12,
+        "height": 25
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "b-money",
+      "boundsPercent": {
+        "x": 36,
+        "y": 37,
+        "width": 12,
+        "height": 25
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "reusable-proof-of-work",
+      "boundsPercent": {
+        "x": 19,
+        "y": 66,
+        "width": 12,
+        "height": 25
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "peer-to-peer-file-sharing",
+      "boundsPercent": {
+        "x": 36,
+        "y": 66,
+        "width": 12,
+        "height": 25
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "bitcoin-synthesis",
+      "boundsPercent": {
+        "x": 66,
+        "y": 33,
+        "width": 20,
+        "height": 34
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "digicash",
+      "hashcash",
+      "bit-gold",
+      "b-money",
+      "reusable-proof-of-work",
+      "peer-to-peer-file-sharing",
+      "bitcoin-synthesis"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 13,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-023` | AI | Supporting | Diagram | 17 | attribute the earlier contributors and ideas on which Bitcoin was built. | Under `### The search for digital and decentralized money`, after the paragraph beginning “Bitcoin was built upon decades of work by many people.” | 494 | Shows that Bitcoin combined prior ideas rather than appearing without context. | Create an idea lineage with DigiCash, Hashcash, Bit Gold, B-money, reusable proof of work, and peer-to-peer file sharing feeding distinct contributions toward Bitcoin. Label contributions carefully; do not imply that every project directly supplied code or that Bitcoin has one intellectual predecessor. | Converging idea timeline; full width. |",
+      "sourcePlacement": "Under `### The search for digital and decentralized money`, after the paragraph beginning “Bitcoin was built upon decades of work by many people.”",
+      "sourceLocator": "494",
+      "instructionalRelationship": "Shows that Bitcoin combined prior ideas rather than appearing without context.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Create an idea lineage with DigiCash, Hashcash, Bit Gold, B-money, reusable proof of work, and peer-to-peer file sharing feeding distinct contributions toward Bitcoin. Label contributions carefully; do not imply that every project directly supplied code or that Bitcoin has one intellectual predecessor.",
+      "format": "Converging idea timeline; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "",
+      "adjacentGuideText": "### The search for digital and decentralized money\n\nThe growth of personal computers and the internet created new opportunities for communication. It also created new forms of surveillance and control. In the late twentieth century, a group of programmers, mathematicians, and activists known as **Cypherpunks** explored how cryptography could protect [privacy](mfb-bd-lx.md#term-privacy) and individual freedom in digital systems.\n\n**Cryptography** is the use of mathematical methods to protect information and prove that an action is authentic. Encryption can keep a message private. **Digital signatures** can prove that a message or instruction came from the holder of a secret key without revealing that key.\n\nThe Cypherpunks understood that private communication was not enough. People also needed a way to exchange value online. If every digital payment required a bank or company, that intermediary could observe, permit, or prevent the exchange.\n\nTheir goal was not simply digital money. Bank deposits were already digital. The harder goal was **decentralized digital money**: a system with no single issuer, server, or administrator that participants had to trust.\n\nBitcoin was built upon decades of work by many people. Its design joined earlier ideas in a new way and provided incentives for an open network to keep operating.\n\n<!-- VISUAL: BD-V-023\nALT: Historical chain of ideas leading from cryptography and digital cash research toward decentralized digital money.\nASSET: y_assets (archived)/diploma/bd-v-023.svg\n-->\n\n"
+    },
+    "deferredLabels": [
+      "DigiCash",
+      "Hashcash",
+      "Bit Gold",
+      "B-money",
+      "Reusable proof of work",
+      "Peer-to-peer file sharing",
+      "Bitcoin"
+    ],
+    "deferredConnectors": [
+      "Six separate idea/contribution paths toward Bitcoin; these are influences, not assertions of direct code contribution."
+    ],
+    "deferredContributionSource": "Current Student Guide, Early digital-money attempts and the double-spend problem: DigiCash/private digital payments; Hashcash/computational cost; Bit Gold/proposed scarce computational-work records; B-money and RPoW/experiments in creating or transferring scarce digital value; BitTorrent/peer-to-peer information sharing.",
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 263803,
+      "partialAlphaPixels": 66234,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Six identical blank source-document anchors face one synthesis anchor across an empty convergence gap. No source is visually singled out as the sole predecessor; the circle carries no Bitcoin glyph. Names, contribution distinctions, and convergence lines remain editable. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": [
+    "The supplied guide groups B-money and RPoW together. Distinct, carefully attributed contribution captions and timeline dates need editorial verification before editable production; do not infer that every source directly supplied Bitcoin code."
+  ]
+}

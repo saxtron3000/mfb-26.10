@@ -1,0 +1,345 @@
+{
+  "assetId": "BD-V-063",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-063-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-063-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "local-option-a-pathway",
+      "boundsPercent": {
+        "x": 2.5,
+        "y": 31,
+        "width": 22.4,
+        "height": 11.6
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "local-option-a-total-received",
+      "boundsPercent": {
+        "x": 25.4,
+        "y": 31,
+        "width": 11.6,
+        "height": 11.6
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "local-option-a-time",
+      "boundsPercent": {
+        "x": 37.55,
+        "y": 31,
+        "width": 11.6,
+        "height": 11.6
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "local-option-a-custody",
+      "boundsPercent": {
+        "x": 49.7,
+        "y": 31,
+        "width": 11.6,
+        "height": 11.6
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "local-option-a-privacy",
+      "boundsPercent": {
+        "x": 61.85,
+        "y": 31,
+        "width": 11.6,
+        "height": 11.6
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "local-option-a-reversal-risk",
+      "boundsPercent": {
+        "x": 74,
+        "y": 31,
+        "width": 11.6,
+        "height": 11.6
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "local-option-a-main-failure-point",
+      "boundsPercent": {
+        "x": 86.15,
+        "y": 31,
+        "width": 11.6,
+        "height": 11.6
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "local-option-b-pathway",
+      "boundsPercent": {
+        "x": 2.5,
+        "y": 43.9,
+        "width": 22.4,
+        "height": 11.6
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "local-option-b-total-received",
+      "boundsPercent": {
+        "x": 25.4,
+        "y": 43.9,
+        "width": 11.6,
+        "height": 11.6
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "local-option-b-time",
+      "boundsPercent": {
+        "x": 37.55,
+        "y": 43.9,
+        "width": 11.6,
+        "height": 11.6
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "local-option-b-custody",
+      "boundsPercent": {
+        "x": 49.7,
+        "y": 43.9,
+        "width": 11.6,
+        "height": 11.6
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "local-option-b-privacy",
+      "boundsPercent": {
+        "x": 61.85,
+        "y": 43.9,
+        "width": 11.6,
+        "height": 11.6
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "local-option-b-reversal-risk",
+      "boundsPercent": {
+        "x": 74,
+        "y": 43.9,
+        "width": 11.6,
+        "height": 11.6
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "local-option-b-main-failure-point",
+      "boundsPercent": {
+        "x": 86.15,
+        "y": 43.9,
+        "width": 11.6,
+        "height": 11.6
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "existing-non-bitcoin-option-pathway",
+      "boundsPercent": {
+        "x": 2.5,
+        "y": 56.8,
+        "width": 22.4,
+        "height": 11.6
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "existing-non-bitcoin-option-total-received",
+      "boundsPercent": {
+        "x": 25.4,
+        "y": 56.8,
+        "width": 11.6,
+        "height": 11.6
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "existing-non-bitcoin-option-time",
+      "boundsPercent": {
+        "x": 37.55,
+        "y": 56.8,
+        "width": 11.6,
+        "height": 11.6
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "existing-non-bitcoin-option-custody",
+      "boundsPercent": {
+        "x": 49.7,
+        "y": 56.8,
+        "width": 11.6,
+        "height": 11.6
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "existing-non-bitcoin-option-privacy",
+      "boundsPercent": {
+        "x": 61.85,
+        "y": 56.8,
+        "width": 11.6,
+        "height": 11.6
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "existing-non-bitcoin-option-reversal-risk",
+      "boundsPercent": {
+        "x": 74,
+        "y": 56.8,
+        "width": 11.6,
+        "height": 11.6
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "existing-non-bitcoin-option-main-failure-point",
+      "boundsPercent": {
+        "x": 86.15,
+        "y": 56.8,
+        "width": 11.6,
+        "height": 11.6
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "local-option-a-pathway",
+      "local-option-a-total-received",
+      "local-option-a-time",
+      "local-option-a-custody",
+      "local-option-a-privacy",
+      "local-option-a-reversal-risk",
+      "local-option-a-main-failure-point",
+      "local-option-b-pathway",
+      "local-option-b-total-received",
+      "local-option-b-time",
+      "local-option-b-custody",
+      "local-option-b-privacy",
+      "local-option-b-reversal-risk",
+      "local-option-b-main-failure-point",
+      "existing-non-bitcoin-option-pathway",
+      "existing-non-bitcoin-option-total-received",
+      "existing-non-bitcoin-option-time",
+      "existing-non-bitcoin-option-custody",
+      "existing-non-bitcoin-option-privacy",
+      "existing-non-bitcoin-option-reversal-risk",
+      "existing-non-bitcoin-option-main-failure-point"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 21,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-063` | AI | Supporting | Table | 45 | provide a local pathway-comparison table that considers the complete route. | Under `### Local on-ramp and off-ramp pathways`, replace the existing pathway comparison table visually while retaining an accessible text equivalent. | 1259 | Helps learners compare received value, time, custody, privacy, reversal risk, and failure points across local options. | Preserve the editable rows for local option A, local option B, and an existing non-Bitcoin option, plus all comparison columns. Do not pre-fill services, rates, or legal claims. | Editable pathway-comparison table; full width. |",
+      "sourcePlacement": "Under `### Local on-ramp and off-ramp pathways`, replace the existing pathway comparison table visually while retaining an accessible text equivalent.",
+      "sourceLocator": "1259",
+      "instructionalRelationship": "Helps learners compare received value, time, custody, privacy, reversal risk, and failure points across local options.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Preserve the editable rows for local option A, local option B, and an existing non-Bitcoin option, plus all comparison columns. Do not pre-fill services, rates, or legal claims.",
+      "format": "Editable pathway-comparison table; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "- id: payment-pathway-symbols\n  kind: symbol\n  appears_in: [BD-V-048, BD-V-049, BD-V-058, BD-V-062, BD-V-063, BD-V-064]\n  description: Reusable symbols for the stages and dependencies in an acquisition, exchange, payment, or conversion pathway. They keep local options editable and distinguish routes from recommendations.\n  distinct_from: [investment-chart, provider-endorsement, universal-service-map]",
+      "adjacentGuideText": "### Local on-ramp and off-ramp pathways\n\n<!-- VISUAL: BD-V-062\nALT: Local on-ramp and off-ramp pathways with custody, KYC, privacy, cost, and safety trade-offs.\nASSET: y_assets (archived)/diploma/bd-v-062.svg\n-->\n\n<!-- VISUAL: BD-V-063\nALT: Pathway comparison table for total received, time, custody, privacy, reversal risk, and failure points.\nASSET: y_assets (archived)/diploma/bd-v-063.svg\n-->\n\nAn **on-ramp** is a path from local money, work, or another asset into bitcoin. An **off-ramp** is a path from bitcoin into local money, goods, or services. The same pathway may perform both roles.\n\nLocal pathways may include:\n\n- earning bitcoin;\n- buying or selling directly with another person;\n- using an exchange or broker;\n- using an ATM or kiosk;\n- accepting or spending with a merchant;\n- using a payment service that converts between bitcoin and fiat;\n- participating in a local circular economy.\n\nCompare the **complete route**, not only the first fee. A service may advertise a low purchase fee but use a poor exchange rate or charge for withdrawal. A peer-to-peer path may appear private but require time, trust, and physical safety.\n\n| Pathway | Total received | Time | Custody | [Privacy](mfb-bd-lx.md#term-privacy) | Reversal risk | Main failure point |\n| --- | --- | --- | --- | --- | --- | --- |\n| Local option A |  |  |  |  |  |  |\n| Local option B |  |  |  |  |  |  |\n| Existing non-Bitcoin option |  |  |  |  |  |  |\n\nCheck whether the path allows withdrawal to a wallet you control. A displayed bitcoin balance inside a closed service may be an internal claim rather than an on-chain balance under your keys.\n\nFor in-person exchange, use a public and appropriate location, avoid carrying unnecessary cash, bring a trusted person where suitable, verify payment before leaving, and follow local law. Do not reveal where you store bitcoin or how much you own.\n\n"
+    },
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 222296,
+      "partialAlphaPixels": 104868,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Exactly3rows7columns, first column wider, equalweight alternatives and no prefilled facts. All comparison columns preserved. Blank space above supports headings, no raster table borders. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

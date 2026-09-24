@@ -1,0 +1,41 @@
+{
+  "assetId": "BD-V-045",
+  "specVersion": 2,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "All reference-image elements: no image was generated. See the complete incorporated asset brief in deferredForEditableCoding."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Preflight blocked by the mutually incompatible JPEG and transparency requirements; no image exists, no coordinates are asserted, and visual conformance has not been assessed.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "reviewStatus": "blocked-before-generation",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "canvasNote": "Landscape and 1024px are requested defaults only. Actual dimensions and aspect ratio are unset because no image exists; the asset brief takes precedence on resumption.",
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-045` | AI | Essential | Diagram | 32 | make sending, address, and network checks visual and explain how to perform them. | SG: Under `### Sending bitcoin`, after the pre-send steps. EG: under `### Sending bitcoin`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor. | SG: 937; EG: 2106 | Makes verification happen before approval and separates recipient checks from fee and timing decisions. | Show independently verified recipient and purpose → payment method → scan or copy and compare destination → check amount, unit, fee or expiry, and final summary → small test when unfamiliar → approve only if all checks match → check the result. Branch to stop and verify if anything differs. For on-chain payments, show pending/confirmation status and a sample txid; for Lightning, show success or failure without implying an on-chain txid for each payment. Mark approval as the point after which a valid payment is usually irreversible. | Preflight-to-settlement flow; full width. |",
+      "sourcePlacement": "SG: Under `### Sending bitcoin`, after the pre-send steps. EG: under `### Sending bitcoin`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor.",
+      "sourceLocator": "SG: 937; EG: 2106",
+      "instructionalRelationship": "Makes verification happen before approval and separates recipient checks from fee and timing decisions.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Show independently verified recipient and purpose → payment method → scan or copy and compare destination → check amount, unit, fee or expiry, and final summary → small test when unfamiliar → approve only if all checks match → check the result. Branch to stop and verify if anything differs. For on-chain payments, show pending/confirmation status and a sample txid; for Lightning, show success or failure without implying an on-chain txid for each payment. Mark approval as the point after which a valid payment is usually irreversible.",
+      "format": "Preflight-to-settlement flow; full width.",
+      "existingStructuralRecord": null,
+      "relevantSharedRegister": "- id: generic-interface-family\n  kind: interface\n  appears_in: [BD-V-036, BD-V-044, BD-V-045, BD-V-046]\n  description: A generic, nonfunctional wallet or explorer interface with empty or clearly sample fields. It uses no real learner data and preserves a consistent screen structure across receiving, sending, and verification.\n  distinct_from: [wallet, ledger, payment-service, real-payment-interface]\n- id: learner\n  kind: actor\n  appears_in: [BD-V-006, BD-V-012, BD-V-043, BD-V-044, BD-V-045, BD-V-047, BD-V-052, BD-V-054, BD-V-061, BD-V-069, BD-V-072, BD-V-091, BD-V-093]\n  description: A generic person who learns, practises, makes decisions, or handles prepared material. The learner is not an educator, service, node, miner, or protocol component.\n  distinct_from: [educator, service, wallet, node, miner, protocol]\n- id: generic-wallet\n  kind: prop\n  appears_in: [BD-V-035, BD-V-036, BD-V-038, BD-V-039, BD-V-040, BD-V-041, BD-V-042, BD-V-043, BD-V-044, BD-V-045, BD-V-052, BD-V-059, BD-V-091]\n  description: A wallet interface or signing environment, shown as a tool for receiving, sending, or key control. It never depicts bitcoin as physically stored inside it.\n  distinct_from: [ledger, bitcoin-network, custodian, private-key, seed-phrase]\n- id: safety-stop\n  kind: symbol\n  appears_in: [BD-V-045, BD-V-047, BD-V-052, BD-V-072, BD-V-090, BD-V-095]\n  description: A distinct stop marker for a mismatch, uncertainty, unsafe condition, or incomplete check. It means pause and verify, not failure or automatic loss.\n  distinct_from: [warning-only, assessment-result, payment-failure]\n- id: payment-request-qr\n  kind: prop\n  appears_in: [BD-V-036, BD-V-044, BD-V-045, BD-V-050, BD-V-059, BD-V-066, BD-V-074, BD-V-076]\n  description: A QR-shaped payment or download request shown only when the brief requires it. It is clearly sample or points to the stated tested destination, as applicable.\n  distinct_from: [private-key, seed-phrase, payable-learner-address, generic-square-pattern]",
+      "note": "These are verbatim source requirements, not generated-image observations or newly approved production specifications. No text, connector, QR, or placement has been rendered. Missing exact guide strings must be retrieved before image generation when needed."
+    }
+  },
+  "unresolved": [
+    "FORMAT-001: The required .jpg file must have a transparent background, but JPEG cannot encode alpha transparency. A transparent PNG plus a white-background JPG, or a PNG replacement, requires a change to the requested output contract. No format change has been authorized. No image was generated or visually reviewed."
+  ]
+}

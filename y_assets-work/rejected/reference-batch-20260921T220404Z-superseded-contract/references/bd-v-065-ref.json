@@ -1,0 +1,41 @@
+{
+  "assetId": "BD-V-065",
+  "specVersion": 2,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "All reference-image elements: no image was generated. See the complete incorporated asset brief in deferredForEditableCoding."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Preflight blocked by the mutually incompatible JPEG and transparency requirements; no image exists, no coordinates are asserted, and visual conformance has not been assessed.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "reviewStatus": "blocked-before-generation",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "canvasNote": "Landscape and 1024px are requested defaults only. Actual dimensions and aspect ratio are unset because no image exists; the asset brief takes precedence on resumption.",
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-065` | AI | Essential | Diagram | 46–47 | preserve the conclusion and add a stronger balanced circular-economy graphic. | SG: Under `### Circular economies`, after the seven mapping questions. EG: under `### Module option G: circular economy and local resource map`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor. | SG: 1310; EG: 2775 | Shows value circulating among participants and reveals where the loop depends on outside services or support. | Map workers, customers, merchants, suppliers, educators or support, and exchange or on/off-ramp points. Use separate arrows for value, goods or services, and support. Mark custody, volatility, connectivity, and conversion dependencies. Include broken-loop examples such as immediate conversion or one organizer processing everything. | Editable local network map; full width. |",
+      "sourcePlacement": "SG: Under `### Circular economies`, after the seven mapping questions. EG: under `### Module option G: circular economy and local resource map`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor.",
+      "sourceLocator": "SG: 1310; EG: 2775",
+      "instructionalRelationship": "Shows value circulating among participants and reveals where the loop depends on outside services or support.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Map workers, customers, merchants, suppliers, educators or support, and exchange or on/off-ramp points. Use separate arrows for value, goods or services, and support. Mark custody, volatility, connectivity, and conversion dependencies. Include broken-loop examples such as immediate conversion or one organizer processing everything.",
+      "format": "Editable local network map; full width.",
+      "existingStructuralRecord": null,
+      "relevantSharedRegister": "- id: educator\n  kind: actor\n  appears_in: [BD-V-056, BD-V-065, BD-V-066, BD-V-067, BD-V-089, BD-V-090, BD-V-091, BD-V-093, BD-V-094, BD-V-095, BD-V-097, BD-V-098]\n  description: A generic person who facilitates, observes, prepares a safe route, or plans a module. The educator does not act as a node, miner, wallet, or payment service.\n  distinct_from: [learner, service, wallet, node, miner, protocol]\n- id: local-resource-map-symbols\n  kind: symbol\n  appears_in: [BD-V-057, BD-V-065, BD-V-067, BD-V-068, BD-V-071]\n  description: Editable map symbols for merchants, educators, meetups, technical support, exchange information, and missing support. A listing records verification, not trustworthiness.\n  distinct_from: [provider-endorsement, personal-location, verified-safety-claim]\n- id: circular-economy-actors\n  kind: actor\n  appears_in: [BD-V-060, BD-V-065, BD-V-066, BD-V-096]\n  description: Generic workers, customers, merchants, suppliers, educators or support, and conversion points used to map local value and responsibility. They are roles, not named local people or services.\n  distinct_from: [bitcoin-protocol-roles, verified-local-provider, real-person]",
+      "note": "These are verbatim source requirements, not generated-image observations or newly approved production specifications. No text, connector, QR, or placement has been rendered. Missing exact guide strings must be retrieved before image generation when needed."
+    }
+  },
+  "unresolved": [
+    "FORMAT-001: The required .jpg file must have a transparent background, but JPEG cannot encode alpha transparency. A transparent PNG plus a white-background JPG, or a PNG replacement, requires a change to the requested output contract. No format change has been authorized. No image was generated or visually reviewed."
+  ]
+}

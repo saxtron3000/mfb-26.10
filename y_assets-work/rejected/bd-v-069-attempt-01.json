@@ -1,0 +1,51 @@
+{
+  "assetId": "BD-V-069",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024,
+    "reference": {
+      "fileName": "bd-v-069-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-069-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    }
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "Not generated or reviewed yet."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Generation and visual review pending.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "pngTransparencyVerified": false,
+    "jpgWhiteBackgroundVerified": false,
+    "exportsMatch": false,
+    "reviewStatus": "pending",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-069` | AI | Supporting | Diagram | 49–50 | frame the review around the learner's community and a specific local need. | Under `### Review: connect this to your community`, after the paragraph beginning `**Module 4 answer:**` and before `#### Key takeaways`. The former final test table is no longer present. | 1379 | Summarizes the community review as a sequence that begins with a need and ends with evidence and a responsible next step. | Show the decision path `real need → Bitcoin fit → payment method → custody → total cost and trade-offs → safety and local conditions → evidence of success`. Add a return arrow when Bitcoin is not the best available fit. | Decision path; full width. |",
+      "sourcePlacement": "Under `### Review: connect this to your community`, after the paragraph beginning `**Module 4 answer:**` and before `#### Key takeaways`. The former final test table is no longer present.",
+      "sourceLocator": "1379",
+      "instructionalRelationship": "Summarizes the community review as a sequence that begins with a need and ends with evidence and a responsible next step.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Show the decision path `real need → Bitcoin fit → payment method → custody → total cost and trade-offs → safety and local conditions → evidence of success`. Add a return arrow when Bitcoin is not the best available fit.",
+      "format": "Decision path; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "- id: learner\n  kind: actor\n  appears_in: [BD-V-006, BD-V-012, BD-V-043, BD-V-044, BD-V-045, BD-V-047, BD-V-052, BD-V-054, BD-V-061, BD-V-069, BD-V-072, BD-V-091, BD-V-093]\n  description: A generic person who learns, practises, makes decisions, or handles prepared material. The learner is not an educator, service, node, miner, or protocol component.\n  distinct_from: [educator, service, wallet, node, miner, protocol]",
+      "adjacentGuideText": "### Review: connect this to your community\n\n<!-- VISUAL: BD-V-069\nALT: Connect-module review linking local need, alternative, safe task, evidence, and responsible next step.\nASSET: y_assets (archived)/diploma/bd-v-069.svg\n-->\n\n<!-- VISUAL: BD-V-070\nALT: Table alternative summarizing the Connect-module review and local decision questions.\nASSET: y_assets (archived)/diploma/bd-v-070.svg\n-->\n\nComplete this review individually, then compare your reasoning with your team or cohort. Consider the local example you studied: what real need did it address, which function of money was involved, and was value moved on-chain, through Lightning, or both? Ask who controlled the keys, what the strongest benefit and most serious risk were, and how local law, infrastructure, language, or culture affected the result. A responsible next step is one that fits the local context, makes costs and custody clear, limits errors and scams, and can be evaluated against evidence.\n\n**Module 4 answer:** Bitcoin can function as money when people voluntarily use it to earn, save, receive, send, spend, price, or settle value. The Connect stage begins with a real need, compares a realistic alternative, makes custody and costs clear, respects local law and safety, and gives learners enough knowledge to choose freely.\n\n"
+    }
+  },
+  "unresolved": []
+}

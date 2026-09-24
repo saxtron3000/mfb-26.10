@@ -1,0 +1,223 @@
+{
+  "assetId": "BD-V-098",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-098-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-098-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "intended-use",
+      "boundsPercent": {
+        "x": 39,
+        "y": 4,
+        "width": 22,
+        "height": 24
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "learning-formative-practice",
+      "boundsPercent": {
+        "x": 4,
+        "y": 30,
+        "width": 42,
+        "height": 19
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "preserve-concept",
+      "boundsPercent": {
+        "x": 4,
+        "y": 52,
+        "width": 9,
+        "height": 16
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "preserve-action",
+      "boundsPercent": {
+        "x": 14.6,
+        "y": 52,
+        "width": 9,
+        "height": 16
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "preserve-safety",
+      "boundsPercent": {
+        "x": 25.2,
+        "y": 52,
+        "width": 9,
+        "height": 16
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "preserve-comparison",
+      "boundsPercent": {
+        "x": 35.8,
+        "y": 52,
+        "width": 9,
+        "height": 16
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "formal-assessment",
+      "boundsPercent": {
+        "x": 54,
+        "y": 30,
+        "width": 42,
+        "height": 19
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "approved-theory",
+      "boundsPercent": {
+        "x": 54,
+        "y": 52,
+        "width": 19,
+        "height": 16
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "approved-practical-variant",
+      "boundsPercent": {
+        "x": 74,
+        "y": 52,
+        "width": 22,
+        "height": 16
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "missing-condition-fallback",
+      "boundsPercent": {
+        "x": 32,
+        "y": 76,
+        "width": 36,
+        "height": 18
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "intended-use",
+      "learning-formative-practice",
+      "preserve-concept",
+      "preserve-action",
+      "preserve-safety",
+      "preserve-comparison",
+      "formal-assessment",
+      "approved-theory",
+      "approved-practical-variant",
+      "missing-condition-fallback"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 10,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-098` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### Adapt a summative practical task`, after the line beginning `If equivalence is uncertain, use the adaptation for practice and select an assessment task whos…`. Replace the `BD-V-098` marker at EG line 3177. | EG: 3175 | Distinguishes freedom to adapt practice from the conditions required for certificated evidence. | **Learning activity or approved assessment?.** Branch from intended use into learning/formative practice and formal assessment. Practice may adapt names, roles, medium, timing, and scaffolding while preserving concept, learner action, safety, and key comparison. Formal theory needs the approved competency-aligned interaction and record; practical assessment needs an approved equivalent variant preserving sequence, verification, independence, rubric, safety errors, and record. A missing condition leads to practice and selection of an approved task, not automatic certification. Keep this as educator planning guidance; do not create an approval authority or modify approved tasks. Caption: `An engaging activity becomes assessment only under the approved evidence conditions.` Alt text: `Practice activities allow contextual and access adaptations. Formal theory or practical assessment must preserve the approved evidence, criteria, independence, safety, and record conditions. Uncertain equivalence returns the activity to practice and an approved assessment route.` Master: `y_assets (archived)/diploma/bd-v-098.svg`. | Two-branch activity-selection decision diagram; full width. |",
+      "sourcePlacement": "EG only: under `### Adapt a summative practical task`, after the line beginning `If equivalence is uncertain, use the adaptation for practice and select an assessment task whos…`. Replace the `BD-V-098` marker at EG line 3177.",
+      "sourceLocator": "EG: 3175",
+      "instructionalRelationship": "Distinguishes freedom to adapt practice from the conditions required for certificated evidence.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "**Learning activity or approved assessment?.** Branch from intended use into learning/formative practice and formal assessment. Practice may adapt names, roles, medium, timing, and scaffolding while preserving concept, learner action, safety, and key comparison. Formal theory needs the approved competency-aligned interaction and record; practical assessment needs an approved equivalent variant preserving sequence, verification, independence, rubric, safety errors, and record. A missing condition leads to practice and selection of an approved task, not automatic certification. Keep this as educator planning guidance; do not create an approval authority or modify approved tasks. Caption: `An engaging activity becomes assessment only under the approved evidence conditions.` Alt text: `Practice activities allow contextual and access adaptations. Formal theory or practical assessment must preserve the approved evidence, criteria, independence, safety, and record conditions. Uncertain equivalence returns the activity to practice and an approved assessment route.` Master: `y_assets (archived)/diploma/bd-v-098.svg`.",
+      "format": "Two-branch activity-selection decision diagram; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "- id: educator\n  kind: actor\n  appears_in: [BD-V-056, BD-V-065, BD-V-066, BD-V-067, BD-V-089, BD-V-090, BD-V-091, BD-V-093, BD-V-094, BD-V-095, BD-V-097, BD-V-098]\n  description: A generic person who facilitates, observes, prepares a safe route, or plans a module. The educator does not act as a node, miner, wallet, or payment service.\n  distinct_from: [learner, service, wallet, node, miner, protocol]"
+    },
+    "deferredLabels": [
+      "Practice may adapt names, roles, medium, timing, scaffolding while preserving concept, learner action, safety and key comparison.",
+      "Formal theory: approved competency-aligned interaction and record.",
+      "Formal practical: approved equivalent variant preserving sequence, verification, independence, rubric, safety errors and record.",
+      "Planning guidance only; does not create authority or modify approved tasks."
+    ],
+    "deferredConnectors": [
+      "Intended use→practice or formal assessment.",
+      "Formal→approved theory or practical route only under required evidence conditions.",
+      "Missing condition/uncertain equivalence→practice plus selection of approved assessment task, never automatic certification."
+    ],
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 209145,
+      "partialAlphaPixels": 119323,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Intended-use gate branches into equal practice/formal areas. Practice preserves four conditions; formal separates theory and practical requirements. Missing-condition fallback separate below. All shapes blank and unbordered; no certificate or approval-authority invention. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

@@ -1,0 +1,41 @@
+{
+  "assetId": "BD-V-038",
+  "specVersion": 2,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "All reference-image elements: no image was generated. See the complete incorporated asset brief in deferredForEditableCoding."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Preflight blocked by the mutually incompatible JPEG and transparency requirements; no image exists, no coordinates are asserted, and visual conformance has not been assessed.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "reviewStatus": "blocked-before-generation",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "canvasNote": "Landscape and 1024px are requested defaults only. Actual dimensions and aspect ratio are unset because no image exists; the asset brief takes precedence on resumption.",
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-038` | AI | Essential | Diagram | 27 and 30 | show recovery language without implying every wallet uses an identical method. | SG: Under `### Seed phrases`, after the explanation of what a seed phrase does. EG: under `### Seed phrases and recovery`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor. | SG: 850; EG: 1972 | Places the seed phrase correctly in the recovery chain without teaching that every wallet uses an identical recovery method. | Show seed or wallet backup → wallet recreates keys → expected addresses and transaction access return. Mark the backup as secret and offline. Add `method and compatibility depend on the wallet`. Do not show actual words, screenshots of recovery entry, or educator access. | Recovery relationship diagram; half to full width. |",
+      "sourcePlacement": "SG: Under `### Seed phrases`, after the explanation of what a seed phrase does. EG: under `### Seed phrases and recovery`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor.",
+      "sourceLocator": "SG: 850; EG: 1972",
+      "instructionalRelationship": "Places the seed phrase correctly in the recovery chain without teaching that every wallet uses an identical recovery method.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Show seed or wallet backup → wallet recreates keys → expected addresses and transaction access return. Mark the backup as secret and offline. Add `method and compatibility depend on the wallet`. Do not show actual words, screenshots of recovery entry, or educator access.",
+      "format": "Recovery relationship diagram; half to full width.",
+      "existingStructuralRecord": null,
+      "relevantSharedRegister": "- id: generic-wallet\n  kind: prop\n  appears_in: [BD-V-035, BD-V-036, BD-V-038, BD-V-039, BD-V-040, BD-V-041, BD-V-042, BD-V-043, BD-V-044, BD-V-045, BD-V-052, BD-V-059, BD-V-091]\n  description: A wallet interface or signing environment, shown as a tool for receiving, sending, or key control. It never depicts bitcoin as physically stored inside it.\n  distinct_from: [ledger, bitcoin-network, custodian, private-key, seed-phrase]\n- id: private-material-boundary\n  kind: notation\n  appears_in: [BD-V-037, BD-V-038, BD-V-043, BD-V-091]\n  description: A clear boundary that contains private keys, recovery material, or private learner actions. It makes visible what an educator or observer must not see.\n  distinct_from: [public-address, payment-request, explorer-result]",
+      "note": "These are verbatim source requirements, not generated-image observations or newly approved production specifications. No text, connector, QR, or placement has been rendered. Missing exact guide strings must be retrieved before image generation when needed."
+    }
+  },
+  "unresolved": [
+    "FORMAT-001: The required .jpg file must have a transparent background, but JPEG cannot encode alpha transparency. A transparent PNG plus a white-background JPG, or a PNG replacement, requires a change to the requested output contract. No format change has been authorized. No image was generated or visually reviewed."
+  ]
+}

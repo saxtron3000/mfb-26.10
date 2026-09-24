@@ -1,0 +1,196 @@
+{
+  "assetId": "BD-V-027",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-027-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-027-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "issuer-website-claim",
+      "boundsPercent": {
+        "x": 3,
+        "y": 42,
+        "width": 35,
+        "height": 34
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "signatures",
+      "boundsPercent": {
+        "x": 45,
+        "y": 26,
+        "width": 11,
+        "height": 20
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "transaction-history",
+      "boundsPercent": {
+        "x": 57,
+        "y": 28,
+        "width": 11,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "proof-of-work",
+      "boundsPercent": {
+        "x": 69,
+        "y": 30,
+        "width": 13,
+        "height": 14
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "public-rules",
+      "boundsPercent": {
+        "x": 84,
+        "y": 29,
+        "width": 14,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "independent-node-a",
+      "boundsPercent": {
+        "x": 44,
+        "y": 47,
+        "width": 18,
+        "height": 28
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "independent-node-b",
+      "boundsPercent": {
+        "x": 62,
+        "y": 47,
+        "width": 18,
+        "height": 28
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "independent-node-c",
+      "boundsPercent": {
+        "x": 80,
+        "y": 47,
+        "width": 18,
+        "height": 28
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "issuer-website-claim",
+      "signatures",
+      "transaction-history",
+      "proof-of-work",
+      "public-rules",
+      "independent-node-a",
+      "independent-node-b",
+      "independent-node-c"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 42,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-027` | AI | Supporting | Diagram | 19 | distinguish supply claims, subsidy, and node-enforced issuance facts. | Under `### Digital scarcity and credible scarcity`, after the final paragraph beginning “Scarcity is more credible”. | 532 | Distinguishes a written supply claim from a supply rule independently enforced in practice. | Compare `claim on a website or issuer database` with `public rule checked by many independent nodes`. Show that signatures, transaction history, proof of work, and node verification jointly prevent invalid creation or double spending. Avoid saying that scarcity alone creates value. | Credibility comparison diagram; half to full width. |",
+      "sourcePlacement": "Under `### Digital scarcity and credible scarcity`, after the final paragraph beginning “Scarcity is more credible”.",
+      "sourceLocator": "532",
+      "instructionalRelationship": "Distinguishes a written supply claim from a supply rule independently enforced in practice.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Compare `claim on a website or issuer database` with `public rule checked by many independent nodes`. Show that signatures, transaction history, proof of work, and node verification jointly prevent invalid creation or double spending. Avoid saying that scarcity alone creates value.",
+      "format": "Credibility comparison diagram; half to full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "",
+      "adjacentGuideText": "### Digital scarcity and credible scarcity\n\nDigital information is normally easy to copy. Digital scarcity means that the system can distinguish a valid unit from an invalid copy and can prevent the same unit from being spent twice.\n\nBitcoin creates digital scarcity by combining signatures, a public transaction history, proof of work, and independent rule verification. A bitcoin can be transferred, but the network rejects an attempt to spend the same bitcoin again.\n\nScarcity is more credible when the rules are public, users can verify them independently, and no single issuer can quietly change the supply for everyone. This is why Bitcoin's supply limit must be studied together with decentralization and node verification.\n\n<!-- VISUAL: BD-V-027\nALT: Digital scarcity explanation linking public rules, verification, double-spend prevention, and credible supply limits.\nASSET: y_assets (archived)/diploma/bd-v-027.svg\n-->\n\n"
+    },
+    "deferredLabels": [
+      "Claim on a website or issuer database",
+      "Public rule checked by many independent nodes",
+      "Signatures, transaction history, proof of work, and node verification jointly prevent invalid creation or double spending.",
+      "Scarcity alone does not create value."
+    ],
+    "deferredConnectors": "Relate all four mechanisms to independent node verification; do not show any one mechanism alone as sufficient.",
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 239952,
+      "partialAlphaPixels": 87458,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. A single issuer/website claim is separated from three equal independent verifiers with four supporting mechanisms. Block and mining props are now flat. No value, price or credibility claim is rendered as a slogan or rating. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

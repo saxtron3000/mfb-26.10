@@ -1,0 +1,152 @@
+{
+  "assetId": "BD-V-047",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "4:3",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-047-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-047-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 576
+  },
+  "placement": [
+    {
+      "elementId": "red-flag",
+      "boundsPercent": {
+        "x": 12,
+        "y": 8,
+        "width": 40,
+        "height": 80
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "generic-message-device",
+      "boundsPercent": {
+        "x": 53,
+        "y": 14,
+        "width": 35,
+        "height": 74
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "editable-scam-cues",
+      "boundsPercent": {
+        "x": 58,
+        "y": 23,
+        "width": 26,
+        "height": 55
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "editable-safe-action",
+      "boundsPercent": {
+        "x": 9,
+        "y": 90,
+        "width": 82,
+        "height": 8
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "red-flag",
+      "generic-message-device",
+      "editable-scam-cues",
+      "editable-safe-action"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 10,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-047` | Pablo | Supporting | Image | 33–34 | add a red-flag image for a potential scam. | SG: Under `### Safety checklist`, before the red-flag examples. EG: under `### Scam recognition and safe response`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor. | SG: 955; EG: 2187 | Gives learners an immediate visual cue to pause when a message or offer shows scam signals. | Show a prominent red flag beside a generic, nonfunctional message or offer. Add concise warning cues for impersonation, urgency, guaranteed returns, giveaway or recovery requests, fake applications, phishing, relationship manipulation, and too-good-to-be-true claims. Include the action `stop, verify independently, and never share a seed phrase or private key`. Do not use a real brand, address, payment request, or a realistic phishing link. | Red-flag scam-warning illustration; half width. |",
+      "sourcePlacement": "SG: Under `### Safety checklist`, before the red-flag examples. EG: under `### Scam recognition and safe response`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor.",
+      "sourceLocator": "SG: 955; EG: 2187",
+      "instructionalRelationship": "Gives learners an immediate visual cue to pause when a message or offer shows scam signals.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Show a prominent red flag beside a generic, nonfunctional message or offer. Add concise warning cues for impersonation, urgency, guaranteed returns, giveaway or recovery requests, fake applications, phishing, relationship manipulation, and too-good-to-be-true claims. Include the action `stop, verify independently, and never share a seed phrase or private key`. Do not use a real brand, address, payment request, or a realistic phishing link.",
+      "format": "Red-flag scam-warning illustration; half width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "- id: learner\n  kind: actor\n  appears_in: [BD-V-006, BD-V-012, BD-V-043, BD-V-044, BD-V-045, BD-V-047, BD-V-052, BD-V-054, BD-V-061, BD-V-069, BD-V-072, BD-V-091, BD-V-093]\n  description: A generic person who learns, practises, makes decisions, or handles prepared material. The learner is not an educator, service, node, miner, or protocol component.\n  distinct_from: [educator, service, wallet, node, miner, protocol]\n- id: safety-stop\n  kind: symbol\n  appears_in: [BD-V-045, BD-V-047, BD-V-052, BD-V-072, BD-V-090, BD-V-095]\n  description: A distinct stop marker for a mismatch, uncertainty, unsafe condition, or incomplete check. It means pause and verify, not failure or automatic loss.\n  distinct_from: [warning-only, assessment-result, payment-failure]",
+      "adjacentGuideText": "### Safety checklist\n\n<!-- VISUAL: BD-V-046\nALT: Confirmation timeline and generic block-explorer view showing public transaction status without proving identity.\nASSET: y_assets (archived)/diploma/bd-v-046.svg\n-->\n\n**Practice 3: spot a risk and stop safely**\n\nWhat would make you stop before a payment or installation? Treat these as red flags: someone impersonates support or an educator; creates urgency or secrecy; promises guaranteed returns; asks you to send bitcoin first; changes a destination; or asks for keys, recovery words, remote access, or an advance fee.\n\n<!-- VISUAL: BD-V-047\nALT: Scam red flags including urgency, impersonation, changed destinations, guaranteed returns, and requests for secrets.\nASSET: y_assets (archived)/diploma/bd-v-047.svg\n-->\n\nThe safe response is always: **Pause. Share nothing. Send nothing. Close the channel. Verify independently through a known source. Ask for help without revealing secrets.** A real opportunity can survive a careful check; a scam often depends on preventing one.\n\nProtect secrets by keeping seed phrases and private keys offline and out of view. Verify destinations by checking the payment method, recipient, address or invoice, amount, and final screen after copying or scanning. Use official instructions and a verified source for any wallet or service; be cautious with sponsored search results, direct-message links, and look-alike sites. If the process differs from the demonstrated process, pause rather than trying to solve it under pressure. Start with safe practice, a simulation, or a small approved amount; never borrow money to experiment.\n\n**Try it:** In a prepared message or payment screen, identify the warning sign, what could be lost, and the first safe action.\n\n"
+    },
+    "deferredLabels": [
+      "Impersonation",
+      "Urgency",
+      "Guaranteed returns",
+      "Giveaway or recovery requests",
+      "Fake applications",
+      "Phishing",
+      "Relationship manipulation",
+      "Too-good-to-be-true claims",
+      "Stop, verify independently, and never share a seed phrase or private key."
+    ],
+    "exportVerification": {
+      "width": 768,
+      "height": 576,
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "transparentPixels": 275748,
+      "partialAlphaPixels": 164750,
+      "totalPixels": 442368,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Prominent plain red flag beside completely blank generic phone. No functional message, brand, link, pay request or secret. Warning cues fit phone content region; action below. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

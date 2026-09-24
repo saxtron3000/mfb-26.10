@@ -1,0 +1,13 @@
+{
+  "assetId": "BD-V-028",
+  "attempt": 1,
+  "status": "rejected",
+  "reviewedAt": "2026-09-21T23:06:08.670038+00:00",
+  "reason": "The descending plateaus do not halve consistently; the final step is too tall. Redraw the subsidy silhouette with successive heights in the exact 16:8:4:2:1 ratio.",
+  "files": [
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-028-attempt-01.png",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-028-attempt-01.jpg",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-028-attempt-01.json",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-028-attempt-01.txt"
+  ]
+}

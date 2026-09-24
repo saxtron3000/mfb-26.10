@@ -1,0 +1,51 @@
+{
+  "assetId": "BD-V-054",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024,
+    "reference": {
+      "fileName": "bd-v-054-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-054-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    }
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "Not generated or reviewed yet."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Generation and visual review pending.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "pngTransparencyVerified": false,
+    "jpgWhiteBackgroundVerified": false,
+    "exportsMatch": false,
+    "reviewStatus": "pending",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-054` | AI | Essential | Diagram | 38–39 | define MFB versus educator responsibilities in the educator-curated Connect module. | Under `### Your local Module 4`, after the four-item list beginning “Connect” and ending “Explain”. | 1057 | Connects the four learner actions to local purpose, educator support, and safe choice. | Show the four learner actions `Connect → Compare → Practise safely → Explain`. Link shared earlier learning to a local need and realistic alternative, educator-selected safe practice, and a responsible next step. Show the educator and, where needed, a local expert supporting the learner. Keep required competencies and safety boundaries fixed. Detailed educator planning and verification remain in the Educator Guide. | Four-stage local-learning diagram; full width. |",
+      "sourcePlacement": "Under `### Your local Module 4`, after the four-item list beginning “Connect” and ending “Explain”.",
+      "sourceLocator": "1057",
+      "instructionalRelationship": "Connects the four learner actions to local purpose, educator support, and safe choice.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Show the four learner actions `Connect → Compare → Practise safely → Explain`. Link shared earlier learning to a local need and realistic alternative, educator-selected safe practice, and a responsible next step. Show the educator and, where needed, a local expert supporting the learner. Keep required competencies and safety boundaries fixed. Detailed educator planning and verification remain in the Educator Guide.",
+      "format": "Four-stage local-learning diagram; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "- id: learner\n  kind: actor\n  appears_in: [BD-V-006, BD-V-012, BD-V-043, BD-V-044, BD-V-045, BD-V-047, BD-V-052, BD-V-054, BD-V-061, BD-V-069, BD-V-072, BD-V-091, BD-V-093]\n  description: A generic person who learns, practises, makes decisions, or handles prepared material. The learner is not an educator, service, node, miner, or protocol component.\n  distinct_from: [educator, service, wallet, node, miner, protocol]",
+      "adjacentGuideText": "### Your local Module 4\n\n<!-- VISUAL: BD-V-054\nALT: Connect-module sequence from a local need through an alternative, safe practice, and explanation.\nASSET: y_assets (archived)/diploma/bd-v-054.svg\n-->\n\nIn this module, you will apply an idea from **Modules 1–3** to a real need or opportunity where you live. You may explore earning, saving, receiving, spending, merchant use, community resources, or another local use of Bitcoin as money.\n\nThis matters because Bitcoin is experienced locally. You will better understand what is useful, what is not, and which conditions and risks shape a responsible choice. You will also become familiar with local Bitcoin tools, resources, and organisations without being expected to use or recommend them.\n\nYour educator will guide you because they understand the local context. They may invite a local expert to help you learn from experience and interact positively and respectfully with your community. The goal is to build informed connections and help foster community, not simply to complete a transaction.\n\nYour local **Module 4** activity will help you:\n\n1. **Connect:** Identify the money problem, Bitcoin response, and safe action that matter locally.\n2. **Compare:** Consider local conditions and compare Bitcoin with a realistic existing option.\n3. **Practise safely:** Observe, compare, or try a defined task with guidance.\n4. **Explain:** Identify risks, show what you learned, and name a responsible next step, if any.\n\nYour activity may explore questions such as:\n\n- Can a local worker receive bitcoin for a service?\n- Can a family compare a remittance path with an existing local method?\n- Can a merchant accept payment without holding a large bitcoin balance?\n- Can a community group receive support while keeping custody and records clear?\n- Can you identify reliable Bitcoin support in the community?\n- Can saving in sats address a local problem, and what new risk does it create?\n\nA local example is not proof that the same method works everywhere. Explain what is specific to your community.\n\n"
+    }
+  },
+  "unresolved": []
+}

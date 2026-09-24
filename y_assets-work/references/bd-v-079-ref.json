@@ -1,0 +1,320 @@
+{
+  "assetId": "BD-V-079",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-079-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-079-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "single-person-hands",
+      "boundsPercent": {
+        "x": 6,
+        "y": 30,
+        "width": 88,
+        "height": 66
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "wallet-backup-screen",
+      "boundsPercent": {
+        "x": 24,
+        "y": 12,
+        "width": 22,
+        "height": 61
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "offline-paper",
+      "boundsPercent": {
+        "x": 48,
+        "y": 19,
+        "width": 25,
+        "height": 59
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "final-entry-pen",
+      "boundsPercent": {
+        "x": 64,
+        "y": 53,
+        "width": 22,
+        "height": 22
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "single-person-hands",
+      "wallet-backup-screen",
+      "offline-paper",
+      "final-entry-pen"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 59,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-079` | User | Essential | Image | — | Show a 12-word seed phrase being copied onto paper after the seed-phrase section. | At the end of `### Seed phrases` in the [Student Guide](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#seed-phrases), immediately after the paragraph beginning “Some wallets use additional passphrases” and before `### Custodial and non-custodial use`. | 861 | Makes writing a private, offline backup concrete and reinforces preserving word order and spelling. Complements the recovery relationship in `BD-V-038`. | Show one person privately copying a 12-word seed phrase from a generic wallet backup screen onto paper with a pen. Show twelve clearly numbered positions on both screen and paper, in the same reading order, using matching placeholders `WORD 01` through `WORD 12` rather than an actual recovery phrase. Depict the hand completing the final entry; use a simple directional cue from screen to paper and a callout `Check every word and its number`. Label the illustration `EXAMPLE ONLY — NOT A VALID RECOVERY PHRASE`. Add a prominent warning: `Never share your seed phrase. Never photograph it or save it online.` Show no camera, cloud backup, messaging, website entry, or second person viewing the phrase. Use a generic interface without wallet branding. Note `12-word example; follow your wallet’s backup instructions` so the illustration does not imply that all wallets use twelve words. Caption: `Copy each word in order onto paper. Check it privately and store it securely offline.` Alt text: `A person uses a pen to copy twelve numbered placeholder words from a wallet backup screen onto paper in the same order. Labels remind the learner to check every word, keep the backup offline, and never share or photograph a seed phrase. The example is not a valid recovery phrase.` Save the editable master as `y_assets (archived)/diploma/bd-v-079.svg`. | Screen-to-paper illustration with numbered placeholders, editable labels, and a prominent safety warning; half to full width. |",
+      "sourcePlacement": "At the end of `### Seed phrases` in the [Student Guide](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#seed-phrases), immediately after the paragraph beginning “Some wallets use additional passphrases” and before `### Custodial and non-custodial use`.",
+      "sourceLocator": "861",
+      "instructionalRelationship": "Makes writing a private, offline backup concrete and reinforces preserving word order and spelling. Complements the recovery relationship in `BD-V-038`.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Show one person privately copying a 12-word seed phrase from a generic wallet backup screen onto paper with a pen. Show twelve clearly numbered positions on both screen and paper, in the same reading order, using matching placeholders `WORD 01` through `WORD 12` rather than an actual recovery phrase. Depict the hand completing the final entry; use a simple directional cue from screen to paper and a callout `Check every word and its number`. Label the illustration `EXAMPLE ONLY — NOT A VALID RECOVERY PHRASE`. Add a prominent warning: `Never share your seed phrase. Never photograph it or save it online.` Show no camera, cloud backup, messaging, website entry, or second person viewing the phrase. Use a generic interface without wallet branding. Note `12-word example; follow your wallet’s backup instructions` so the illustration does not imply that all wallets use twelve words. Caption: `Copy each word in order onto paper. Check it privately and store it securely offline.` Alt text: `A person uses a pen to copy twelve numbered placeholder words from a wallet backup screen onto paper in the same order. Labels remind the learner to check every word, keep the backup offline, and never share or photograph a seed phrase. The example is not a valid recovery phrase.` Save the editable master as `y_assets (archived)/diploma/bd-v-079.svg`.",
+      "format": "Screen-to-paper illustration with numbered placeholders, editable labels, and a prominent safety warning; half to full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "",
+      "adjacentGuideText": "### Seed phrases\n\nA **seed phrase**, also called a recovery phrase, is an ordered list of words that many wallets use to back up the information needed to recreate their keys. Common lengths are 12 or 24 words, although wallet designs differ.\n\nThe order and spelling of the words matter. If a person has the seed phrase, they can often restore the wallet on another compatible device and spend the funds. The seed phrase is therefore not only a backup. It is full access.\n\n<!-- VISUAL: BD-V-038\nALT: Recovery relationship from a secret wallet backup to recreated keys, expected addresses, and transaction access.\nASSET: y_assets (archived)/diploma/bd-v-038.svg\n-->\n\nProtect a seed phrase with these rules:\n\n- write it down privately and accurately during wallet creation;\n- follow the wallet's official backup instructions;\n- keep it offline;\n- never photograph it, store it in cloud notes, email it, or send it in a message;\n- never type it into a website or ordinary computer form;\n- keep it out of cameras, microphones, other people's view, and places where it may be damaged, lost, or found.\n\nSome wallets use additional passphrases, multiple keys, or other backup systems. These are Advanced Learning. Do not add complexity you cannot explain and recover from safely. If a seed phrase may have been seen, copied, entered online, or stored on an untrusted device, treat it as compromised: seek guidance without revealing it and use a new trusted recovery process.\n\n<!-- VISUAL: BD-V-079\nALT: Person privately copying twelve numbered placeholder backup words onto paper, labelled as an invalid example and not to be shared.\nASSET: y_assets (archived)/diploma/bd-v-079.svg\n-->\n\n"
+    },
+    "placeholderLayout": [
+      {
+        "position": 1,
+        "text": "WORD 01",
+        "row": 1,
+        "column": 1,
+        "screenCenterPercent": {
+          "x": 30.3,
+          "y": 24.3
+        },
+        "paperCenterPercent": {
+          "x": 54.4,
+          "y": 28.5
+        }
+      },
+      {
+        "position": 2,
+        "text": "WORD 02",
+        "row": 1,
+        "column": 2,
+        "screenCenterPercent": {
+          "x": 37.7,
+          "y": 24.3
+        },
+        "paperCenterPercent": {
+          "x": 62.4,
+          "y": 28.5
+        }
+      },
+      {
+        "position": 3,
+        "text": "WORD 03",
+        "row": 2,
+        "column": 1,
+        "screenCenterPercent": {
+          "x": 30.3,
+          "y": 32.2
+        },
+        "paperCenterPercent": {
+          "x": 54.4,
+          "y": 36.1
+        }
+      },
+      {
+        "position": 4,
+        "text": "WORD 04",
+        "row": 2,
+        "column": 2,
+        "screenCenterPercent": {
+          "x": 37.7,
+          "y": 32.2
+        },
+        "paperCenterPercent": {
+          "x": 62.4,
+          "y": 36.1
+        }
+      },
+      {
+        "position": 5,
+        "text": "WORD 05",
+        "row": 3,
+        "column": 1,
+        "screenCenterPercent": {
+          "x": 30.3,
+          "y": 40.1
+        },
+        "paperCenterPercent": {
+          "x": 54.4,
+          "y": 43.7
+        }
+      },
+      {
+        "position": 6,
+        "text": "WORD 06",
+        "row": 3,
+        "column": 2,
+        "screenCenterPercent": {
+          "x": 37.7,
+          "y": 40.1
+        },
+        "paperCenterPercent": {
+          "x": 62.4,
+          "y": 43.7
+        }
+      },
+      {
+        "position": 7,
+        "text": "WORD 07",
+        "row": 4,
+        "column": 1,
+        "screenCenterPercent": {
+          "x": 30.3,
+          "y": 48
+        },
+        "paperCenterPercent": {
+          "x": 54.4,
+          "y": 51.3
+        }
+      },
+      {
+        "position": 8,
+        "text": "WORD 08",
+        "row": 4,
+        "column": 2,
+        "screenCenterPercent": {
+          "x": 37.7,
+          "y": 48
+        },
+        "paperCenterPercent": {
+          "x": 62.4,
+          "y": 51.3
+        }
+      },
+      {
+        "position": 9,
+        "text": "WORD 09",
+        "row": 5,
+        "column": 1,
+        "screenCenterPercent": {
+          "x": 30.3,
+          "y": 55.900000000000006
+        },
+        "paperCenterPercent": {
+          "x": 54.4,
+          "y": 58.9
+        }
+      },
+      {
+        "position": 10,
+        "text": "WORD 10",
+        "row": 5,
+        "column": 2,
+        "screenCenterPercent": {
+          "x": 37.7,
+          "y": 55.900000000000006
+        },
+        "paperCenterPercent": {
+          "x": 62.4,
+          "y": 58.9
+        }
+      },
+      {
+        "position": 11,
+        "text": "WORD 11",
+        "row": 6,
+        "column": 1,
+        "screenCenterPercent": {
+          "x": 30.3,
+          "y": 63.8
+        },
+        "paperCenterPercent": {
+          "x": 54.4,
+          "y": 66.5
+        }
+      },
+      {
+        "position": 12,
+        "text": "WORD 12",
+        "row": 6,
+        "column": 2,
+        "screenCenterPercent": {
+          "x": 37.7,
+          "y": 63.8
+        },
+        "paperCenterPercent": {
+          "x": 62.4,
+          "y": 66.5
+        }
+      }
+    ],
+    "deferredLabels": [
+      "Check every word and its number",
+      "EXAMPLE ONLY — NOT A VALID RECOVERY PHRASE",
+      "Never share your seed phrase. Never photograph it or save it online.",
+      "12-word example; follow your wallet’s backup instructions",
+      "Copy each word in order onto paper. Check it privately and store it securely offline."
+    ],
+    "deferredConnectors": "One simple editable directional cue from phone screen to paper; do not add cameras, cloud storage or another viewer.",
+    "deferredSafetyTreatment": "The matching WORD 01–WORD 12 text is a non-secret placeholder set, not a usable seed phrase. Keep all warnings prominent in editable production.",
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 207392,
+      "partialAlphaPixels": 121963,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. One person's hands copy from a generic phone to paper, with twelve blank positions in the same two-column/six-row order on each. The pen points to the final lower-right entry. No actual words, numbers, secret material, camera, online-storage imagery or second viewer appears. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

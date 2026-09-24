@@ -1,0 +1,211 @@
+{
+  "assetId": "BD-V-101",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-101-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-101-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "goal",
+      "boundsPercent": {
+        "x": 3,
+        "y": 16,
+        "width": 17.5,
+        "height": 20
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "known-facts-unknowns",
+      "boundsPercent": {
+        "x": 22.3,
+        "y": 16,
+        "width": 17.5,
+        "height": 20
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "control",
+      "boundsPercent": {
+        "x": 41.6,
+        "y": 16,
+        "width": 17.5,
+        "height": 20
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "options-failure-points",
+      "boundsPercent": {
+        "x": 60.900000000000006,
+        "y": 16,
+        "width": 17.5,
+        "height": 20
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "smallest-safe-next-step",
+      "boundsPercent": {
+        "x": 80.2,
+        "y": 16,
+        "width": 17.5,
+        "height": 20
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "changed-condition",
+      "boundsPercent": {
+        "x": 41,
+        "y": 40,
+        "width": 18,
+        "height": 26
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "stop",
+      "boundsPercent": {
+        "x": 30,
+        "y": 69,
+        "width": 18,
+        "height": 16
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "decline",
+      "boundsPercent": {
+        "x": 52,
+        "y": 69,
+        "width": 18,
+        "height": 16
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "fictional-connection-failure",
+      "boundsPercent": {
+        "x": 5,
+        "y": 68,
+        "width": 17,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "goal",
+      "known-facts-unknowns",
+      "control",
+      "options-failure-points",
+      "smallest-safe-next-step",
+      "changed-condition",
+      "stop",
+      "decline",
+      "fictional-connection-failure"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 13,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-101` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### Scenario analysis`, after the line beginning `Change one condition after the first answer. For example: the internet fails, the address chang…`. Replace the `BD-V-101` marker at EG line 772. | EG: 770 | Makes the educator’s use of changed conditions visible as a test of transferable reasoning. | **Scenario reasoning when a condition changes.** Trace goal → known facts/unknowns to verify → control of money/keys/records/rules → options and failure points → smallest safe next step. Then change one condition: connection fails, destination changes, recipient needs local currency, or fee rises. Loop to the affected fact, control, or option rather than automatically repeating the original action. Show stopping or declining a path as valid where justified. Use one fictional scenario, no personal financial disclosures or live payment instructions. This is facilitation, not a newly approved assessment task. Caption: `Change one condition and ask the learner to reconsider the decision.` Alt text: `A fictional scenario moves from goal and verified facts to control, options, risks, and a safe next step. A changed connection, destination, recipient need, or fee sends reasoning back to the affected decision.` Master: `y_assets (archived)/diploma/bd-v-101.svg`. | Decision path with a changed-condition return loop; full width. |",
+      "sourcePlacement": "EG only: under `### Scenario analysis`, after the line beginning `Change one condition after the first answer. For example: the internet fails, the address chang…`. Replace the `BD-V-101` marker at EG line 772.",
+      "sourceLocator": "EG: 770",
+      "instructionalRelationship": "Makes the educator’s use of changed conditions visible as a test of transferable reasoning.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "**Scenario reasoning when a condition changes.** Trace goal → known facts/unknowns to verify → control of money/keys/records/rules → options and failure points → smallest safe next step. Then change one condition: connection fails, destination changes, recipient needs local currency, or fee rises. Loop to the affected fact, control, or option rather than automatically repeating the original action. Show stopping or declining a path as valid where justified. Use one fictional scenario, no personal financial disclosures or live payment instructions. This is facilitation, not a newly approved assessment task. Caption: `Change one condition and ask the learner to reconsider the decision.` Alt text: `A fictional scenario moves from goal and verified facts to control, options, risks, and a safe next step. A changed connection, destination, recipient need, or fee sends reasoning back to the affected decision.` Master: `y_assets (archived)/diploma/bd-v-101.svg`.",
+      "format": "Decision path with a changed-condition return loop; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "",
+      "adjacentGuideText": "### Scenario analysis\n\nUse realistic invented characters and local conditions. Ask:\n\n1. What is the person's goal?\n2. Which facts are known?\n3. Which facts must be verified?\n4. Who controls the money, keys, records, and rules?\n5. Which options exist?\n6. What could fail?\n7. What is the smallest safe next step?\n\nChange one condition after the first answer. For example: the internet fails, the address changes, the recipient wants local [currency](mfb-bd-lx.md#term-currency), the fee rises, or the learner notices an urgent support message. This tests whether the learner can transfer their reasoning.\n\n<!-- VISUAL: BD-V-101\nALT: A fictional scenario moves from goal and verified facts to control, options, risks, and a safe next step. A changed connection, destination, recipient need, or fee sends reasoning back to the affected decision.\nASSET: y_assets (archived)/diploma/bd-v-101.svg\nUSE: Educator-only diagram; see the asset index brief.\n-->\n\n"
+    },
+    "deferredLabels": [
+      "Fictional scenario: a prepared practice action loses its connection; stop and reverify before selecting a safe route.",
+      "Alternative changed-condition examples from source: destination changes, recipient needs local currency, fee rises.",
+      "Facilitation only; not newly approved assessment."
+    ],
+    "deferredConnectors": [
+      "Goal→known facts/unknowns→control of money/keys/records/rules→options/failure points→smallest safe next step.",
+      "Changed condition returns to affected fact/control/option, never automatically repeats original action.",
+      "Stop or decline valid when justified."
+    ],
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 236549,
+      "partialAlphaPixels": 92166,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Five ordered decision nodes plus separate changed-condition gate and two valid stop/decline outcomes. Blank phone and empty warning triangle denote fictional connection failure only; no payment details or new assessment task. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

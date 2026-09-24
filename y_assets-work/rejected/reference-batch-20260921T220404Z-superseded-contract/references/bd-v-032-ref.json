@@ -1,0 +1,41 @@
+{
+  "assetId": "BD-V-032",
+  "specVersion": 2,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "All reference-image elements: no image was generated. See the complete incorporated asset brief in deferredForEditableCoding."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Preflight blocked by the mutually incompatible JPEG and transparency requirements; no image exists, no coordinates are asserted, and visual conformance has not been assessed.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "reviewStatus": "blocked-before-generation",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "canvasNote": "Landscape and 1024px are requested defaults only. Actual dimensions and aspect ratio are unset because no image exists; the asset brief takes precedence on resumption.",
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-032` | Pablo | Essential | Diagram | 22 | demonstrate proof of work and difficulty, and diagram proof of work's purposes. | SG: Under `### Proof of work`, after the paragraph beginning “When a miner finds a valid result” EG: under `### Proof of work`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor. | SG: 609; EG: 1526 | Makes costly-to-produce and easy-to-verify work visible. | Show candidate block data entering repeated hash attempts; many results miss the target; one result meets it; the miner broadcasts the block; nodes quickly verify proof and all other rules; accepted blocks add accumulated work. Include difficulty adjustment as a small feedback loop. Do not depict mining as solving an externally useful puzzle. | Sequential process diagram; full width. |",
+      "sourcePlacement": "SG: Under `### Proof of work`, after the paragraph beginning “When a miner finds a valid result” EG: under `### Proof of work`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor.",
+      "sourceLocator": "SG: 609; EG: 1526",
+      "instructionalRelationship": "Makes costly-to-produce and easy-to-verify work visible.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Show candidate block data entering repeated hash attempts; many results miss the target; one result meets it; the miner broadcasts the block; nodes quickly verify proof and all other rules; accepted blocks add accumulated work. Include difficulty adjustment as a small feedback loop. Do not depict mining as solving an externally useful puzzle.",
+      "format": "Sequential process diagram; full width.",
+      "existingStructuralRecord": null,
+      "relevantSharedRegister": "- id: protocol-node-symbol\n  kind: symbol\n  appears_in: [BD-V-024, BD-V-026, BD-V-030, BD-V-031, BD-V-032, BD-V-100]\n  description: A neutral network participant symbol used for independent verification and node-enforced rules. It is not a wallet, miner, service, or central controller.\n  distinct_from: [miner, wallet, payment-service, central-authority]\n- id: miner-symbol\n  kind: symbol\n  appears_in: [BD-V-026, BD-V-031, BD-V-032, BD-V-033]\n  description: A distinct network-role symbol for proof-of-work block production. It never approves Bitcoin's rules or controls the network.\n  distinct_from: [node, protocol, wallet, payment-service]",
+      "note": "These are verbatim source requirements, not generated-image observations or newly approved production specifications. No text, connector, QR, or placement has been rendered. Missing exact guide strings must be retrieved before image generation when needed."
+    }
+  },
+  "unresolved": [
+    "FORMAT-001: The required .jpg file must have a transparent background, but JPEG cannot encode alpha transparency. A transparent PNG plus a white-background JPG, or a PNG replacement, requires a change to the requested output contract. No format change has been authorized. No image was generated or visually reviewed."
+  ]
+}

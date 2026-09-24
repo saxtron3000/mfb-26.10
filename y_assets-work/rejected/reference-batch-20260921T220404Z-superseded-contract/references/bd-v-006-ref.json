@@ -1,0 +1,41 @@
+{
+  "assetId": "BD-V-006",
+  "specVersion": 2,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "All reference-image elements: no image was generated. See the complete incorporated asset brief in deferredForEditableCoding."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Preflight blocked by the mutually incompatible JPEG and transparency requirements; no image exists, no coordinates are asserted, and visual conformance has not been assessed.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "reviewStatus": "blocked-before-generation",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "canvasNote": "Landscape and 1024px are requested defaults only. Actual dimensions and aspect ratio are unset because no image exists; the asset brief takes precedence on resumption.",
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-006` | AI | Supporting | Diagram | 4 | apply the five-step learning rhythm consistently. | Under `### Flexible learning: in person, online, or through low-tech delivery`, after the five-item list beginning “Learn a key idea”. | 124 | Shows how a learner moves through a typical concept rather than only reading it. | Use the five stages in the current list: `Learn a key idea → Show what you can explain or apply → Apply the idea → Explain in your own words → Review the connection to the next module`. Keep discussion, safe practice, and offline participation available throughout. Do not turn this learning rhythm into an assessment score or imply that self-report proves competency. | Five-step rhythm strip; half to full width. |",
+      "sourcePlacement": "Under `### Flexible learning: in person, online, or through low-tech delivery`, after the five-item list beginning “Learn a key idea”.",
+      "sourceLocator": "124",
+      "instructionalRelationship": "Shows how a learner moves through a typical concept rather than only reading it.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Use the five stages in the current list: `Learn a key idea → Show what you can explain or apply → Apply the idea → Explain in your own words → Review the connection to the next module`. Keep discussion, safe practice, and offline participation available throughout. Do not turn this learning rhythm into an assessment score or imply that self-report proves competency.",
+      "format": "Five-step rhythm strip; half to full width.",
+      "existingStructuralRecord": "```yaml\nid: BD-V-006\nspec_version: 1\ntype: Diagram\nillustration_need: reference_required\ncomposition: left-to-right sequence of five stages, single row\nelements:\n  - id: learn-key-idea\n    what: key idea stage\n    instructional_role: introduces the concept\n  - id: show-explanation-or-application\n    what: demonstration stage\n    instructional_role: shows possible understanding\n  - id: apply-idea\n    what: application stage\n    instructional_role: uses the concept\n  - id: explain-own-words\n    what: explanation stage\n    instructional_role: checks personal understanding\n  - id: review-next-connection\n    what: review stage\n    instructional_role: links to next module\nrelationships:\n  - learn-key-idea -> show-explanation-or-application: learning rhythm\n  - show-explanation-or-application -> apply-idea: learning rhythm\n  - apply-idea -> explain-own-words: learning rhythm\n  - explain-own-words -> review-next-connection: learning rhythm\nreading_order: [learn-key-idea, show-explanation-or-application, apply-idea, explain-own-words, review-next-connection]\ntext_layer:\n  total_count: 5\n  learn-key-idea: \"Learn a key idea\"\n  show-explanation-or-application: \"Show what you can explain or apply\"\n  apply-idea: \"Apply the idea\"\n  explain-own-words: \"Explain in your own words\"\n  review-next-connection: \"Review the connection to the next module\"\nfixed_text: []\nlocalizable: [learn-key-idea, show-explanation-or-application, apply-idea, explain-own-words, review-next-connection]\nmust_not:\n  - Do not turn this learning rhythm into an assessment score.\n  - Do not imply that self-report proves competency.\nsafety: Keep discussion, safe practice, and offline participation available throughout.\ngreyscale_carrier: left-to-right position and stage number\nopen: []\n```",
+      "relevantSharedRegister": "- id: learner\n  kind: actor\n  appears_in: [BD-V-006, BD-V-012, BD-V-043, BD-V-044, BD-V-045, BD-V-047, BD-V-052, BD-V-054, BD-V-061, BD-V-069, BD-V-072, BD-V-091, BD-V-093]\n  description: A generic person who learns, practises, makes decisions, or handles prepared material. The learner is not an educator, service, node, miner, or protocol component.\n  distinct_from: [educator, service, wallet, node, miner, protocol]",
+      "note": "These are verbatim source requirements, not generated-image observations or newly approved production specifications. No text, connector, QR, or placement has been rendered. Missing exact guide strings must be retrieved before image generation when needed."
+    }
+  },
+  "unresolved": [
+    "FORMAT-001: The required .jpg file must have a transparent background, but JPEG cannot encode alpha transparency. A transparent PNG plus a white-background JPG, or a PNG replacement, requires a change to the requested output contract. No format change has been authorized. No image was generated or visually reviewed."
+  ]
+}

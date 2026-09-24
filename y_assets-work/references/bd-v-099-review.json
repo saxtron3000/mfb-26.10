@@ -1,0 +1,197 @@
+{
+  "accepted": true,
+  "generationDate": "2026-09-22",
+  "outputHint": "Generated images are saved to /Users/saxtron3000/.codex/generated_images/01a0c5fb-bad1-7240-9370-82da60495420 as /Users/saxtron3000/.codex/generated_images/01a0c5fb-bad1-7240-9370-82da60495420/exec-4a85fccb-f305-4538-8779-1a48bde95d4f.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "toolInput": {},
+  "export": {
+    "width": 768,
+    "height": 432,
+    "sourceWidth": 1672,
+    "sourceHeight": 941,
+    "transparentPixels": 163978,
+    "partialAlphaPixels": 163661,
+    "totalPixels": 331776,
+    "jpegCornerRGBA": [
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ]
+    ],
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+  },
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "identify-claim",
+      "boundsPercent": {
+        "x": 6,
+        "y": 8,
+        "width": 28,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "stable-or-changing",
+      "boundsPercent": {
+        "x": 36,
+        "y": 8,
+        "width": 28,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "verify-authority",
+      "boundsPercent": {
+        "x": 66,
+        "y": 8,
+        "width": 28,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "record-source-date-version-limitation",
+      "boundsPercent": {
+        "x": 6,
+        "y": 31.5,
+        "width": 28,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "qualified-wording",
+      "boundsPercent": {
+        "x": 36,
+        "y": 31.5,
+        "width": 28,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "recheck-before-reuse",
+      "boundsPercent": {
+        "x": 66,
+        "y": 31.5,
+        "width": 28,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "state-uncertainty",
+      "boundsPercent": {
+        "x": 18.5,
+        "y": 58,
+        "width": 20,
+        "height": 14
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "hypothetical-example",
+      "boundsPercent": {
+        "x": 40.5,
+        "y": 58,
+        "width": 20,
+        "height": 14
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "prepared-safe-fallback",
+      "boundsPercent": {
+        "x": 62.5,
+        "y": 58,
+        "width": 20,
+        "height": 14
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "generic-changing-detail-examples",
+      "boundsPercent": {
+        "x": 6,
+        "y": 76,
+        "width": 38,
+        "height": 19
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "identify-claim",
+      "stable-or-changing",
+      "verify-authority",
+      "record-source-date-version-limitation",
+      "qualified-wording",
+      "recheck-before-reuse",
+      "state-uncertainty",
+      "hypothetical-example",
+      "prepared-safe-fallback",
+      "generic-changing-detail-examples"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 25,
+    "deferredConnectors": [
+      "Main six nodes sequential; recheck loops to distinguish/verify.",
+      "Unverified or changed detail branches to state uncertainty, clearly hypothetical example, or prepared safe fallback.",
+      "Live action must never depend on unverified safety-critical claim."
+    ],
+    "deferredLabels": [
+      "Examples: wallet version, fee, local rule, merchant listing.",
+      "Use existing local verification record table; source/date/version/limitations remain editable."
+    ]
+  },
+  "unresolved": [],
+  "reviewNote": "Visually reviewed both PNG and JPG. Exactly six lifecycle nodes in two rows, separate three-option uncertainty band and four generic source-example props. Empty phone/paper/storefront and abstract fee cue include no current facts or second record form. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+}

@@ -1,0 +1,164 @@
+{
+  "assetId": "BD-V-044",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-044-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-044-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "receiver-request",
+      "boundsPercent": {
+        "x": 0,
+        "y": 24,
+        "width": 24,
+        "height": 51
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "sender-verification",
+      "boundsPercent": {
+        "x": 25,
+        "y": 21,
+        "width": 24,
+        "height": 51
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "pending",
+      "boundsPercent": {
+        "x": 50,
+        "y": 24,
+        "width": 21,
+        "height": 48
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "confirmation-ledger",
+      "boundsPercent": {
+        "x": 72,
+        "y": 37,
+        "width": 10,
+        "height": 32
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "receiver-result",
+      "boundsPercent": {
+        "x": 80,
+        "y": 27,
+        "width": 20,
+        "height": 46
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "receiver-request",
+      "sender-verification",
+      "pending",
+      "confirmation-ledger",
+      "receiver-result"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 57,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-044` | AI | Essential | Image | 31 | add a visual receiving activity and receive-screen competency exercise without real funds. | SG: Under `### Receiving bitcoin`, after the receive steps. EG: under `### Receiving bitcoin`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor. | SG: 922; EG: 2072 | Lets a learner identify the elements of a receive request before live practice. | Show receiver device, sample address or QR, sender verification, broadcast or pending status, and confirmation. Annotate amount, unit, network, address, and status. Use fictional data and mark the whole visual non-payable. | Annotated receiving flow; full width. |",
+      "sourcePlacement": "SG: Under `### Receiving bitcoin`, after the receive steps. EG: under `### Receiving bitcoin`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor.",
+      "sourceLocator": "SG: 922; EG: 2072",
+      "instructionalRelationship": "Lets a learner identify the elements of a receive request before live practice.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Show receiver device, sample address or QR, sender verification, broadcast or pending status, and confirmation. Annotate amount, unit, network, address, and status. Use fictional data and mark the whole visual non-payable.",
+      "format": "Annotated receiving flow; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "- id: generic-interface-family\n  kind: interface\n  appears_in: [BD-V-036, BD-V-044, BD-V-045, BD-V-046]\n  description: A generic, nonfunctional wallet or explorer interface with empty or clearly sample fields. It uses no real learner data and preserves a consistent screen structure across receiving, sending, and verification.\n  distinct_from: [wallet, ledger, payment-service, real-payment-interface]\n- id: learner\n  kind: actor\n  appears_in: [BD-V-006, BD-V-012, BD-V-043, BD-V-044, BD-V-045, BD-V-047, BD-V-052, BD-V-054, BD-V-061, BD-V-069, BD-V-072, BD-V-091, BD-V-093]\n  description: A generic person who learns, practises, makes decisions, or handles prepared material. The learner is not an educator, service, node, miner, or protocol component.\n  distinct_from: [educator, service, wallet, node, miner, protocol]\n- id: generic-wallet\n  kind: prop\n  appears_in: [BD-V-035, BD-V-036, BD-V-038, BD-V-039, BD-V-040, BD-V-041, BD-V-042, BD-V-043, BD-V-044, BD-V-045, BD-V-052, BD-V-059, BD-V-091]\n  description: A wallet interface or signing environment, shown as a tool for receiving, sending, or key control. It never depicts bitcoin as physically stored inside it.\n  distinct_from: [ledger, bitcoin-network, custodian, private-key, seed-phrase]\n- id: payment-request-qr\n  kind: prop\n  appears_in: [BD-V-036, BD-V-044, BD-V-045, BD-V-050, BD-V-059, BD-V-066, BD-V-074, BD-V-076]\n  description: A QR-shaped payment or download request shown only when the brief requires it. It is clearly sample or points to the stated tested destination, as applicable.\n  distinct_from: [private-key, seed-phrase, payable-learner-address, generic-square-pattern]",
+      "adjacentGuideText": "### Receiving bitcoin\n\n**Practice 1: receive safely**\n\nReceiving does not authorize funds to leave your wallet, but it still needs careful checking. Begin by asking: am I using the intended wallet and the intended payment method?\n\n1. Open the prepared wallet and choose **Receive**.\n2. Identify whether the request is on-chain or Lightning.\n3. Share only the address, QR code, or payment request.\n4. If an amount is shown, check it with the sender.\n5. Check the amount and status in your own wallet.\n\n<!-- VISUAL: BD-V-044\nALT: Safe receiving flow showing wallet selection, payment method, public request, amount check, and receipt verification.\nASSET: y_assets (archived)/diploma/bd-v-044.svg\n-->\n\nA message or screenshot that says “sent” is not proof. What evidence can you see yourself? Check the receiving wallet or approved transaction view. For on-chain payments, a wallet may first show the transaction as pending. Confirmation status adds settlement confidence; it does not repair a wrong address or scam. A wallet may offer a fresh address for a new receipt; older addresses may still work, but fresh addresses can reduce easy links between payments.\n\n"
+    },
+    "deferredLabels": [
+      "NON-PAYABLE FICTIONAL EXAMPLE",
+      "Amount / unit / network / destination / status",
+      "Verify receiving information independently.",
+      "Pending or broadcast is not confirmation; a sent screenshot is not proof of receipt."
+    ],
+    "deferredConnectors": [
+      "receiver request -> sender verification -> pending/broadcast -> receiver checks confirmation"
+    ],
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 217498,
+      "partialAlphaPixels": 111211,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Receiving request and final phone are blank, sender visibly inspects, clock distinguishes pending and separated ledger blocks anchor confirmation. No badges, writing, QR, destination or connectors. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": [
+    "Fictional amount, network, address and transaction values are not specified in the source brief. Select and safety-validate non-payable values for editable production; none invented or rendered."
+  ]
+}

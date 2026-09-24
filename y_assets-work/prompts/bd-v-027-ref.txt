@@ -1,0 +1,398 @@
+REFERENCE PROMPT RECORD
+
+{
+  "assetId": "BD-V-027",
+  "status": "passed",
+  "preparedAt": "2026-09-21T22:57:23.559778+00:00",
+  "generationDate": "2026-09-21",
+  "tool": "image_gen.imagegen",
+  "model": null,
+  "sourceBriefRevision": {
+    "gitHead": "f896d9f89d6e1f97bd369e5ccfc9bef62a3b7eca",
+    "sha256": {
+      "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/workspace/08_assets.md": "ed49409b70640506dff18256207d2fd62b64c2ddcb9c4d87efd6ff5393a5a07b",
+      "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/workspace/22_openai-reference-image-prompt.md": "86a4bba3d97f3caf84542a503fddd62d28114bc037bf71ca3dbc329adb6ae1a9",
+      "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/workspace/24_codex-reference-image-prompt-checklist.md": "976f100e425a3ba4d213ec324a98cee39afdae8202f0b204d5afe51a11976406",
+      "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/workspace/26_codex-reference-image-batch-prompt.md": "058db91724894074d85093958a04ee20a1b0071a46c1b7c34508e2a04d4a5162",
+      "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/workspace/27_assets-style.md": "87ebc8b68b876cd05ab64454ea2d53a2e163a6731aa151c15017cefb15fe2039"
+    }
+  },
+  "settings": {
+    "requestedFormat": "PNG",
+    "requestedBackground": "transparent",
+    "requestedResolution": "low",
+    "previewFormat": "JPEG",
+    "previewBackground": "#FFFFFF",
+    "sameDimensions": true
+  },
+  "promptSubmitted": true,
+  "promptSha256": "7efbcaacad0355223b31d1c4575a4116d2aa552abf793aa401220a8ac3bd04a0",
+  "reviewNote": "Visually reviewed both PNG and JPG. A single issuer/website claim is separated from three equal independent verifiers with four supporting mechanisms. Block and mining props are now flat. No value, price or credibility claim is rendered as a slogan or rating. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG.",
+  "unresolved": [],
+  "adjacentGuideSource": {
+    "path": "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/publish/mfb-bd-26.10/mfb-bd-sg-26.10.md",
+    "heading": "### Digital scarcity and credible scarcity",
+    "excerptSha256": "04403494064fd673ce5e3346a2248beaea6c27c8d3ccc79cd0a4fdfe9ae631f8"
+  },
+  "attemptStartedAt": "2026-09-21T22:57:23.738084+00:00",
+  "generatorOutputHint": "Generated images are saved to /Users/saxtron3000/.codex/generated_images/01a0c5fb-bad1-7240-9370-82da60495420 as /Users/saxtron3000/.codex/generated_images/01a0c5fb-bad1-7240-9370-82da60495420/exec-f3e74292-5166-4dc8-960b-b3b982b679d8.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "exportSettingsAndChecks": {
+    "width": 768,
+    "height": 432,
+    "sourceWidth": 1672,
+    "sourceHeight": 941,
+    "transparentPixels": 239952,
+    "partialAlphaPixels": 87458,
+    "totalPixels": 331776,
+    "jpegCornerRGBA": [
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ]
+    ],
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+  },
+  "toolInput": {
+    "referenced_image_paths": [
+      "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-027-attempt-01.png"
+    ]
+  }
+}
+
+===== EXACT ASSEMBLED PROMPT =====
+Create exactly ONE image for BD-V-027. Return the transparent PNG; its JPG preview is a local export from that same composition. STRICT PIXEL RESTRICTIONS: no letters, numerals, pseudo-writing, placeholder text strokes, page writing, logos, QR patterns, arrows, connectors, frames, borders, decorative rays, sparkles, stars, floating marks, or unrelated icons. All book pages and screens must be unmarked. Flat opaque fills only, no gradients, shading, highlights, shadows, texture, or grain. Front-facing orthographic forms without perspective or depth. Only the specified instructional objects, with transparent empty space around them.
+
+COMPLETE CHECKLIST PROMPT
+You are creating a working reference image—not a publication asset—for My First Bitcoin's Bitcoin Diploma. Read the entire brief below before acting. The image must clarify exactly one primary instructional relationship. The brief is binding: preserve every qualification, prohibition, caption, alt-text, verification, localization, editable-text, and related-asset instruction.
+
+Create one low-resolution landscape transparent PNG reference (4:3 or 16:9 unless the brief specifies otherwise) that a production designer can rebuild as editable HTML, CSS, and inline SVG. Generate the composition once, then composite the PNG over solid white (#FFFFFF) to export a JPG preview at the same dimensions. Keep actual background pixels transparent in the PNG; do not render a checkerboard. JPEG does not store transparency. Make the intended reading order, panels, objects, and hierarchy unambiguous; record any required arrows or connectors only in the JSON conformance report for later editable implementation. Use calm, high-contrast, culturally flexible editorial-vector direction: restrained geometric forms, clear spatial relationships, simple role icons, modest contextual detail, and ample whitespace. Make the concept survive grayscale through layout, shape, line style, and contrast—not color alone. Follow workspace/27_assets-style.md as the binding reference style; the complete asset brief wins for instructional, safety, and structural requirements. Record any such conflict in unresolved.
+
+Do not make a finished page or brand asset. Do not invent permanent brand colors, logos, fonts, data, dates, quantities, sources, services, legal claims, prices, interfaces, URLs, or factual labels. Render zero text, letters, numerals, placeholder bars, logos, URLs, QR codes, captions, warnings, arrows, connectors, bubbles, frames, borders, or decorative characters anywhere in either image. Preserve every string and every required connector only in the JSON conformance report and later editable coding stage. Never show a real seed phrase, private key, payable address, learner identity, learner balance, or personal transaction. Avoid decorative bitcoin coins, rockets, price charts, wealth claims, cyberpunk imagery, and any implication of returns, inevitability, safety without trade-offs, or a global recommendation.
+
+Each asset ID is independently placeable. Do not combine it with an adjoining, related, or adjacent asset; use the brief's related-asset distinction where supplied. If a requirement needs verification or an external decision, represent it as a neutral placeholder and flag it—do not guess.
+
+Return, in this order: (1) the transparent PNG reference; (2) its white-background JPG preview; (3) a JSON code block called [asset-id-lowercase]-ref.json using the document 22 conformance-report schema: assetId, specVersion, canvas, placement, conformance, and unresolved. Use the current section 7 specification version. The JSON must match both actual images and record their formats, background treatments, PNG transparency check, JPG white-background check, and matching composition and dimensions.
+
+Complete asset brief
+- Asset ID: BD-V-027
+- Suggested by: AI
+- Priority: Supporting
+- Type: Diagram
+- Historical page/note: 19; distinguish supply claims, subsidy, and node-enforced issuance facts.
+- Placement: Under `### Digital scarcity and credible scarcity`, after the final paragraph beginning “Scarcity is more credible”.
+- Source locator: 532
+- Text–visual link: Distinguishes a written supply claim from a supply rule independently enforced in practice.
+- Design brief: Compare `claim on a website or issuer database` with `public rule checked by many independent nodes`. Show that signatures, transaction history, proof of work, and node verification jointly prevent invalid creation or double spending. Avoid saying that scarcity alone creates value.
+- Format: Credibility comparison diagram; half to full width.
+
+Save the transparent reference as y_assets-work (archived)/references/bd-v-027-ref.png, its white-background preview as y_assets-work (archived)/references/bd-v-027-ref.jpg, and their conformance report as y_assets-work (archived)/references/bd-v-027-ref.json. Save this exact completed prompt, the model/tool and generation/export settings, generation date, source-brief revision, and review note as y_assets-work (archived)/prompts/bd-v-027-ref.txt. Review both images and verify real PNG background transparency, a white JPG background, and matching composition and dimensions. Mark this item complete only when both images, the JSON, and the prompt record exist and pass review. Reject and regenerate if the relationship is unclear, text is invented or unreadable, arrows are ambiguous, the result cannot be rebuilt as editable components, or any part breaches this brief.
+
+COMPLETED SHARED CONTRACT
+# OpenAI reference-image prompt
+
+## Purpose
+
+**Attach** this file to every OpenAI image-generation request for a Bitcoin Diploma asset. Every eligible asset requires a low-resolution transparent PNG reference, a white-background JPG preview of the same image, and a matching conformance report before coded production. The reference and preview are never publication assets.
+
+The current batch contains 101 indexed assets: 98 eligible and three deferred (`BD-V-001`, `BD-V-070`, and `BD-V-075`). Do not generate references for deferred items. `BD-V-001` retains its official licence-mark brief for later production; an AI redraw or an empty reference would not meet that brief.
+
+The section 7 specification is the contract. It settles element identity and count, composition, relationships, reading order, strings, prohibitions, safety, and localization before generation. The reference image contributes only spatial arrangement and visual treatment. It is not a final Diploma asset and does not authorize publication.
+
+The curriculum text and [08_assets.md](08_assets.md) are the instructional source of truth. [27_assets-style.md](27_assets-style.md) is the binding reference-image style authority. If its visual treatment conflicts with an instructional, safety, or structural requirement, the asset brief wins; record the conflict in `unresolved`.
+
+## Folder routing
+
+ChatGPT creates working reference material only. It must never treat its PNG, JPG, or JSON as a production asset, place them in `assets/`, or propose a direct manuscript insertion. Store outputs in the ignored local-work area:
+
+```text
+y_assets-work (archived)/
+├── references/bd-v-027-ref.png
+├── references/bd-v-027-ref.jpg
+├── references/bd-v-027-ref.json
+└── prompts/bd-v-027-ref.txt
+```
+
+Replace `bd-v-027` with the lowercase stable asset ID. The later Claude implementation belongs in the tracked `y_assets (archived)/diploma/` tree. This separation keeps experiments out of version control and makes approved, editable source reviewable.
+
+## Complete prompt
+
+```text
+Create one low-resolution transparent PNG reference image and a white-background
+JPG preview of that same image for a My First Bitcoin Bitcoin Diploma visual.
+Generate the composition once. Preserve real alpha transparency in the PNG;
+composite that PNG over solid white (#FFFFFF) to export the JPG at the same
+dimensions, without changing the composition. JPEG does not store transparency.
+Do not substitute a checkerboard pattern for transparent pixels.
+These are private working references for a later Claude
+implementation in editable HTML, CSS, and inline SVG. It is not a publication
+asset, brand asset, or asset to upload to Sanity.
+
+Read all supplied material before generating:
+- Asset ID: BD-V-027
+- Complete section 7 reference specification from workspace/08_assets.md (the classification record and complete incorporated section 3 asset entry):
+  This registry applies to the complete, stable ID range `BD-V-001` through `BD-V-101`, inclusive. The current batch classifies 98 items as `reference_required` and defers `BD-V-001`, `BD-V-070`, and `BD-V-075`. Deferral leaves each checklist item unchecked and does not remove its brief or authorize production. `BD-V-001` is deferred only from AI reference generation: later production must use the official licence mark under its existing brief. There are no `none`, `light`, or `scene` generation tiers.
+
+For each ID, its complete section 3 asset-index entry is incorporated as the section 7 structural contract. It is therefore binding for the asset type, teaching relationship, placement, design brief, caption, alt text, factual and safety limits, required verification, localization, and format. The shared requirements in section 2 and relevant section 8 register entries are also incorporated. This avoids maintaining two divergent copies of the 101 detailed briefs.
+
+```yaml
+specification_version: 3
+applies_to: BD-V-001 through BD-V-101
+reference_required: true for eligible items
+batch_total: 101
+batch_eligible: 98
+batch_deferred: [BD-V-001, BD-V-070, BD-V-075]
+reference_format: low-resolution transparent PNG plus white-background JPG preview and JSON conformance report
+reference_export: Generate once; composite the PNG over solid white at the same dimensions for the JPG.
+contract_fields:
+  composition: section 3 Design brief and Format
+  elements_and_relationships: section 3 Design brief and Text–visual link
+  reading_order: section 3 Text–visual link, Design brief, and Format
+  text_and_localization: section 3 Design brief, caption, alt text, and section 2 requirements
+  prohibitions_and_safety: section 2 requirements and section 3 Design brief
+  shared_components: relevant section 8 register entries
+  unresolved_decisions: every explicit pending, conditional, confirmation, or verification condition in section 3
+production_gate: For eligible items, both reference images, the conformance report, and prompt record must exist and pass review before production coding. Deferred items are not released by this gate.
+```
+
+The eight legacy per-asset records above remain useful examples of the contract shape. Their `illustration_need` value is superseded by this registry. Do not create a new per-asset structure contract outside the asset-index entry unless the entry is materially insufficient; if one is needed, add it here and update the generated execution checklists in the same revision.
+
+---
+
+Complete incorporated section 3 entry:
+| `BD-V-027` | AI | Supporting | Diagram | 19 | distinguish supply claims, subsidy, and node-enforced issuance facts. | Under `### Digital scarcity and credible scarcity`, after the final paragraph beginning “Scarcity is more credible”. | 532 | Distinguishes a written supply claim from a supply rule independently enforced in practice. | Compare `claim on a website or issuer database` with `public rule checked by many independent nodes`. Show that signatures, transaction history, proof of work, and node verification jointly prevent invalid creation or double spending. Avoid saying that scarcity alone creates value. | Credibility comparison diagram; half to full width. |
+
+Shared section 2 requirements:
+These requirements apply to every entry in the index.
+
+### Instructional function
+
+- The visual must explain an idea from the adjacent text. It must not be decorative filler.
+- One visual should communicate one primary idea. Related sub-points may support it, but should not compete with it.
+- Each asset ID is one independently placeable graphic. Do not combine two self-contained diagrams, scenes, or processes into side-by-side panels under one ID. A comparison, sequence, map, or chart may contain multiple elements only when they work together to explain one relationship and cannot usefully stand alone. When adjacent prose introduces a second relationship, give it a separate asset ID and placement.
+- Captions should state what the learner should notice, not merely repeat the title.
+- Visuals must preserve nuance and trade-offs. Do not turn qualified text into absolute promotional claims.
+
+### Beginner clarity
+
+- Prefer familiar actors, arrows, sequences, comparisons, and concrete quantities.
+- Define or avoid symbols that require technical knowledge.
+- Keep protocol, wallet, service, and user roles visually distinct.
+- Do not imply that bitcoin is physically stored inside a wallet, that a miner approves Bitcoin's rules, or that a central actor controls the network.
+
+### Safety
+
+- Never display a real seed phrase, private key, payable address, invoice, balance, identity, or transaction associated with a learner.
+- Interface examples and QR codes must be clearly marked `SAMPLE — DO NOT PAY` where relevant.
+- Do not visually imply guaranteed returns, inevitable adoption, risk-free self-custody, or a universal legal or financial conclusion.
+- Locally variable tools, laws, prices, fees, and services must be presented as dated examples, not global facts or endorsements.
+
+### Accessibility, translation, and production
+
+- Design for grayscale printing as well as color. Never use color as the only carrier of meaning.
+- Use high contrast, readable type, clear reading order, and patterns or labels that remain visible to color-blind readers.
+- Keep text inside graphics short and editable. Avoid idioms, wordplay, flags, and culturally narrow metaphors.
+- Prefer vector shapes and live text. Avoid rasterized labels.
+- Provide alt text and a text-equivalent explanation for complex diagrams.
+- Keep essential detail legible on an A4 or US Letter page and on a phone-width PDF.
+- Use the approved My First Bitcoin visual system as the source of truth for brand and visual decisions. The curriculum text and this index remain the source of truth for instructional content.
+
+---
+- Complete section 3 asset row from workspace/08_assets.md: | `BD-V-027` | AI | Supporting | Diagram | 19 | distinguish supply claims, subsidy, and node-enforced issuance facts. | Under `### Digital scarcity and credible scarcity`, after the final paragraph beginning “Scarcity is more credible”. | 532 | Distinguishes a written supply claim from a supply rule independently enforced in practice. | Compare `claim on a website or issuer database` with `public rule checked by many independent nodes`. Show that signatures, transaction history, proof of work, and node verification jointly prevent invalid creation or double spending. Avoid saying that scarcity alone creates value. | Credibility comparison diagram; half to full width. |
+- Relevant section 8 shared-register entries from workspace/08_assets.md:
+  No section 8 entry explicitly lists this asset.
+- Optional adjacent guide text: ### Digital scarcity and credible scarcity
+
+Digital information is normally easy to copy. Digital scarcity means that the system can distinguish a valid unit from an invalid copy and can prevent the same unit from being spent twice.
+
+Bitcoin creates digital scarcity by combining signatures, a public transaction history, proof of work, and independent rule verification. A bitcoin can be transferred, but the network rejects an attempt to spend the same bitcoin again.
+
+Scarcity is more credible when the rules are public, users can verify them independently, and no single issuer can quietly change the supply for everyone. This is why Bitcoin's supply limit must be studied together with decentralization and node verification.
+
+<!-- VISUAL: BD-V-027
+ALT: Digital scarcity explanation linking public rules, verification, double-spend prevention, and credible supply limits.
+ASSET: y_assets (archived)/diploma/bd-v-027.svg
+-->
+
+
+- Binding reference-image style: workspace/27_assets-style.md [attach]
+
+Contract
+The section 7 specification is the complete structural contract. Build exactly
+the elements in `elements`, in the stated `composition`, with the stated
+`relationships`, and in the stated `reading_order`. Add nothing that is not
+listed. Follow every `must_not` item and every safety requirement exactly. Stop
+and report in `unresolved` rather than invent when the specification is missing
+something the image needs. Carry every unresolved `open` item from the
+specification into `unresolved`. If an open item prevents the required
+structure, do not generate the image.
+
+When relevant section 8 shared-register entries are supplied, reuse those
+actor, prop, symbol, interface, and notation definitions exactly. Do not merge
+roles that the register marks as distinct.
+
+Render zero text, letters, or numerals anywhere in either image. Do not render
+labels, placeholder bars, punctuation, logos, URLs, QR codes, captions,
+warnings, data, or decorative characters. Every string belongs only in the
+live, translatable coding stage.
+
+Visual construction
+Apply workspace/27_assets-style.md. Use flat vector-style artwork on a
+transparent PNG canvas, with a white-background JPG preview. Draw front-on,
+orthographic forms with no perspective or depth. Use one uniform outline
+weight, rounded corners, soft joins, and solid flat fills.
+Use no gradients, shading, shadows, texture, or grain. Restrict shapes to
+rectangles, rounded rectangles, circles, ellipses, triangles, trapezoids, and simple arcs. Keep to
+a hard budget of 24 closed shapes for each prop and 60 for each person.
+
+Use the purple-led palette, soft violet, white, and restrained warm orange
+accents specified in workspace/27_assets-style.md. Use orange sparingly.
+Keep negative space transparent in the PNG; white/off-white fills may be used
+inside specified objects. The JPG preview background is solid white.
+
+Draw no arrows, connectors, bubbles, frames, borders, or scenery. The Claude
+implementation adds those separate design-system elements in code.
+
+Safety and factual boundaries
+Never show a real seed phrase, private key, payable address, learner identity,
+learner balance, or private personal data. Do not depict an unverified real
+QR code, URL, address, interface, transaction, price, date, or factual datum.
+Do not imply guaranteed returns, risk-free self-custody, inevitable adoption,
+a universal local or legal conclusion, or a recommendation of a wallet,
+exchange, service, or provider. Keep protocol, wallet, service, user, node,
+miner, and educator roles distinct whenever relevant. Preserve every supplied
+qualification and trade-off.
+
+Return these outputs in this order:
+1. One transparent PNG reference image.
+2. One white-background JPG preview of the same composition and dimensions.
+3. One JSON code block named bd-v-027-ref.json. It is a
+   conformance report, not a description of the image.
+
+Use this schema:
+{
+  "assetId": "BD-V-027",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape | portrait | square",
+    "suggestedWidthPx": 1024,
+    "reference": {
+      "fileName": "bd-v-027-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-027-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    }
+  },
+  "placement": [
+    {
+      "elementId": "must match an id from the specification",
+      "boundsPercent": {"x": 0, "y": 0, "width": 0, "height": 0},
+      "zIndex": 1,
+      "treatmentNotes": "shape, posture, emphasis, hatch, orientation"
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [],
+    "elementsAdded": [{"description": "", "why": ""}],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true
+  },
+  "unresolved": [
+    "anything the specification did not settle that the image had to resolve arbitrarily"
+  ]
+}
+```
+
+## Save and review
+
+Save the transparent PNG as `y_assets-work (archived)/references/bd-v-027-ref.png`, the white-background JPG preview as `y_assets-work (archived)/references/bd-v-027-ref.jpg`, their conformance report as `y_assets-work (archived)/references/bd-v-027-ref.json`, and the completed prompt, model or tool, settings (including the JPG export), generation date, source-brief revision, and review note as `y_assets-work (archived)/prompts/bd-v-027-ref.txt`. Replace `bd-v-027` with the lowercase stable asset ID.
+
+Review both images against the brief. Verify actual transparent background pixels in the PNG, a solid white background in the JPG, matching dimensions and composition, and no prohibited visible content in either file. Record actual formats and background treatments in `canvas`; set the three export-verification flags to true only after checking the files. An alpha channel containing only opaque pixels does not satisfy transparency. Change a checklist item to `[X]` only after all four files exist and pass review; deferred and blocked items remain unchecked.
+
+The report is deliberately smaller than the earlier descriptive schema. Element identity, relationships, reading order, labels, and prohibitions live in the specification, so the report carries only placement, treatment, and deviations. At review, `textPresentInImage` must be empty. `elementsAdded` must be empty or justified.
+
+Self-reported conformance is weak evidence. A model will tend to claim it complied. The report narrows what a human or Claude must check. It does not replace the check.
+
+
+BINDING VISUAL STYLE
+****# My First Bitcoin illustration style guide
+
+Apply a consistent My First Bitcoin illustration style.
+
+The illustration should look like it belongs to one unified educational series created by the same human illustrator. Prioritize brand consistency, clarity, warmth, and simplicity over visual complexity.
+
+## Visual identity
+
+Use a clean, minimal, modern educational illustration style inspired by My First Bitcoin’s brand system. The image should feel approachable, trustworthy, open-source, community-based, and beginner-friendly. It should support learning without feeling childish, corporate, futuristic, or decorative.
+
+## Line work
+
+Use simple vector-style line art with consistent line weight throughout the image. Lines should feel intentional, smooth, and hand-guided, with rounded corners and soft joins. Avoid sketchiness, scratchy outlines, hyper-detailed rendering, or inconsistent AI-generated line weights.
+
+## Shapes
+
+Use simplified geometric forms, soft curves, rounded rectangles, circles, and clean silhouettes. Keep objects readable at small sizes. Avoid excessive detail, visual noise, tiny decorations, or unnecessary background elements.
+
+## Color
+
+Use the My First Bitcoin brand palette as the foundation, especially purple, white, soft violet, and restrained warm orange accents. Purple should carry the main identity. White or off-white should provide breathing room. Orange should be used sparingly for emphasis, especially for Bitcoin-related focus points. Do not overuse orange.
+
+## Composition
+
+Keep the image calm, spacious, and balanced. Use one clear focal point. Maintain generous negative space. The illustration should be easy to understand quickly and should work in a student guide, educator guide, slide deck, or worksheet.
+
+## Human tone
+
+If people are included, make them simple, friendly, diverse, and grounded. Use posture and gesture more than facial detail. Avoid exaggerated cartoon expressions, corporate avatar clichés, or overly polished stock characters.
+
+## Bitcoin tone
+
+Treat Bitcoin as education, empowerment, savings, self-custody, community, and open-source learning. Avoid price hype, trading culture, luxury imagery, rockets, cyberpunk visuals, speculative finance, memes, or aggressive tech aesthetics.
+
+## AI avoidance
+
+Avoid common generic AI illustration traits: glowing circuits, random floating icons, fake interface text, excessive gradients, shiny 3D objects, unrealistic hands, cluttered symbolism, meaningless futuristic backgrounds, and overproduced lighting. The image should feel intentionally designed, not automatically generated.
+
+## Overall result
+
+A minimal, friendly, purple-led My First Bitcoin educational illustration that looks consistent with the rest of the series and suitable for beginner Bitcoin education.
+
+
+ASSET-SPECIFIC COMPOSITION FOR THIS ATTEMPT
+Preserve the entire supplied comparison layout. Replace the three small 3D cubes above the right computers with THREE plain solid purple SQUARES, with no interior line, no facets, no outline, no cube perspective. Replace the mining box beside them with a single flat front-facing rectangle with two circular fan openings; remove ALL visible top and side faces. Keep the blank document, pen, blank book and three equal blank computer screens. No text, labels, arrows, connectors, writing, numerals, symbols, logos, borders around groups or decorations. Transparent background, uniform flat fills.
+===== END EXACT ASSEMBLED PROMPT =====

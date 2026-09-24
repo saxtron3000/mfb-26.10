@@ -1,0 +1,13 @@
+{
+  "assetId": "BD-V-051",
+  "attempt": 2,
+  "status": "rejected",
+  "reviewedAt": "2026-09-21T23:40:11.488475+00:00",
+  "reason": "Revision lost one header block and retained white fragments around cells. Regenerate a simpler twelve-cell structure with no header props and larger transparent gaps.",
+  "files": [
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-051-attempt-02.png",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-051-attempt-02.jpg",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-051-attempt-02.json",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-051-attempt-02.txt"
+  ]
+}

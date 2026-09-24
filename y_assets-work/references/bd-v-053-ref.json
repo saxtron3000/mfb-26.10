@@ -1,0 +1,309 @@
+{
+  "assetId": "BD-V-053",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-053-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-053-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "backup-task",
+      "boundsPercent": {
+        "x": 10,
+        "y": 17,
+        "width": 16,
+        "height": 9.3
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "backup-protect-check",
+      "boundsPercent": {
+        "x": 27,
+        "y": 17,
+        "width": 31,
+        "height": 9.3
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "backup-consequence",
+      "boundsPercent": {
+        "x": 59,
+        "y": 17,
+        "width": 31,
+        "height": 9.3
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "receiving-task",
+      "boundsPercent": {
+        "x": 10,
+        "y": 27.7,
+        "width": 16,
+        "height": 9.3
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "receiving-protect-check",
+      "boundsPercent": {
+        "x": 27,
+        "y": 27.7,
+        "width": 31,
+        "height": 9.3
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "receiving-consequence",
+      "boundsPercent": {
+        "x": 59,
+        "y": 27.7,
+        "width": 31,
+        "height": 9.3
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "sending-task",
+      "boundsPercent": {
+        "x": 10,
+        "y": 38.4,
+        "width": 16,
+        "height": 9.3
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "sending-protect-check",
+      "boundsPercent": {
+        "x": 27,
+        "y": 38.4,
+        "width": 31,
+        "height": 9.3
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "sending-consequence",
+      "boundsPercent": {
+        "x": 59,
+        "y": 38.4,
+        "width": 31,
+        "height": 9.3
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "custody-task",
+      "boundsPercent": {
+        "x": 10,
+        "y": 49.099999999999994,
+        "width": 16,
+        "height": 9.3
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "custody-protect-check",
+      "boundsPercent": {
+        "x": 27,
+        "y": 49.099999999999994,
+        "width": 31,
+        "height": 9.3
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "custody-consequence",
+      "boundsPercent": {
+        "x": 59,
+        "y": 49.099999999999994,
+        "width": 31,
+        "height": 9.3
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "tool-choice-task",
+      "boundsPercent": {
+        "x": 10,
+        "y": 59.8,
+        "width": 16,
+        "height": 9.3
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "tool-choice-protect-check",
+      "boundsPercent": {
+        "x": 27,
+        "y": 59.8,
+        "width": 31,
+        "height": 9.3
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "tool-choice-consequence",
+      "boundsPercent": {
+        "x": 59,
+        "y": 59.8,
+        "width": 31,
+        "height": 9.3
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "acquisition-task",
+      "boundsPercent": {
+        "x": 10,
+        "y": 70.5,
+        "width": 16,
+        "height": 9.3
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "acquisition-protect-check",
+      "boundsPercent": {
+        "x": 27,
+        "y": 70.5,
+        "width": 31,
+        "height": 9.3
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "acquisition-consequence",
+      "boundsPercent": {
+        "x": 59,
+        "y": 70.5,
+        "width": 31,
+        "height": 9.3
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "backup-task",
+      "backup-protect-check",
+      "backup-consequence",
+      "receiving-task",
+      "receiving-protect-check",
+      "receiving-consequence",
+      "sending-task",
+      "sending-protect-check",
+      "sending-consequence",
+      "custody-task",
+      "custody-protect-check",
+      "custody-consequence",
+      "tool-choice-task",
+      "tool-choice-protect-check",
+      "tool-choice-consequence",
+      "acquisition-task",
+      "acquisition-protect-check",
+      "acquisition-consequence"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 18,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-053` | AI | Supporting | Table | 38 | make the responsibility map usable as a structured learner reference. | Under `### Review: what does self-custody responsibility mean?`, immediately before `#### Key takeaways`, as a text-equivalent alternative to `BD-V-052`, not an additional recap. | 1011 | Connects each task with what must be protected or checked and the consequence of failure. | Use rows for backup, receiving, sending, custody, tool choice, and acquisition. Keep language practical and non-alarmist. | Responsibility reference table; full width. |",
+      "sourcePlacement": "Under `### Review: what does self-custody responsibility mean?`, immediately before `#### Key takeaways`, as a text-equivalent alternative to `BD-V-052`, not an additional recap.",
+      "sourceLocator": "1011",
+      "instructionalRelationship": "Connects each task with what must be protected or checked and the consequence of failure.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Use rows for backup, receiving, sending, custody, tool choice, and acquisition. Keep language practical and non-alarmist.",
+      "format": "Responsibility reference table; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "",
+      "adjacentGuideText": "### Review: what does self-custody responsibility mean?\n\n<!-- VISUAL: BD-V-052\nALT: Self-custody responsibility map connecting key control, verification, backups, errors, and support.\nASSET: y_assets (archived)/diploma/bd-v-052.svg\n-->\n\n<!-- VISUAL: BD-V-053\nALT: Text-equivalent summary of self-custody responsibilities and safe decision points.\nASSET: y_assets (archived)/diploma/bd-v-053.svg\n-->\n\nImagine that a friend sends you a payment request while an unfamiliar support account says you must act immediately. What could you check before doing anything? Can you protect a recovery plan, distinguish receiving information from secrets, and verify the person, payment method, destination, amount, and final screen before sending? Whether a service or you control the keys, the practical recap is the same: protect secrets, verify before approving, recognize scam signals, and keep mistakes small while learning.\n\n"
+    },
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 182087,
+      "partialAlphaPixels": 143292,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Exactly six rows and three blank-cell columns. Clear repeated alignment supports accessible editable equivalent. No additional recap graphics, labels or characters. Preserve as alternative to map052, not extra recap. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

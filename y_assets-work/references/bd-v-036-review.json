@@ -1,0 +1,129 @@
+{
+  "accepted": true,
+  "generationDate": "2026-09-21",
+  "outputHint": "Generated images are saved to /Users/saxtron3000/.codex/generated_images/01a0c5fb-bad1-7240-9370-82da60495420 as /Users/saxtron3000/.codex/generated_images/01a0c5fb-bad1-7240-9370-82da60495420/exec-a1d50a12-d9c2-4c65-97fa-8239f19a979a.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "toolInput": {},
+  "export": {
+    "width": 768,
+    "height": 576,
+    "sourceWidth": 1448,
+    "sourceHeight": 1086,
+    "transparentPixels": 341187,
+    "partialAlphaPixels": 99356,
+    "totalPixels": 442368,
+    "jpegCornerRGBA": [
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ]
+    ],
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+  },
+  "canvas": {
+    "aspectRatio": "4:3",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "actualWidthPx": 768,
+    "actualHeightPx": 576
+  },
+  "placement": [
+    {
+      "elementId": "test-address-text-area",
+      "boundsPercent": {
+        "x": 8,
+        "y": 36,
+        "width": 51,
+        "height": 29
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "future-approved-qr-area",
+      "boundsPercent": {
+        "x": 66,
+        "y": 33,
+        "width": 27,
+        "height": 34
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "same-address-label-position",
+      "boundsPercent": {
+        "x": 40,
+        "y": 22,
+        "width": 35,
+        "height": 10
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Editable label only; no visible connector."
+    },
+    {
+      "elementId": "sample-warning-position",
+      "boundsPercent": {
+        "x": 8,
+        "y": 72,
+        "width": 85,
+        "height": 10
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Editable SAMPLE — DO NOT PAY and confirmed-network labels."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "test-address-text-area",
+      "future-approved-qr-area"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 2,
+    "deferredLabels": [
+      "My First Bitcoin test address",
+      "[BLANK] official test address",
+      "[BLANK] confirmed test network",
+      "Same address, two formats",
+      "SAMPLE — DO NOT PAY",
+      "Scan or copy: both give the same receiving address. Check the destination before sending."
+    ],
+    "deferredConnectors": "Editable relationship between full test address and QR only after AST-001 approval; QR encodes exactly the address, without amount, URL, or Lightning invoice.",
+    "paymentSafety": {
+      "structuralOnly": true,
+      "qrGenerated": false,
+      "destinationInvented": false,
+      "productionValidation": "Scan final print and screen exports; decoded address must equal the full supplied address. Keep QR unobstructed with a proper clear border in later production."
+    }
+  },
+  "unresolved": [],
+  "reviewNote": "Visually reviewed both PNG and JPG. Special structural-only reference contains two unmarked filled regions and no QR pattern, address, network, amount or implied payment destination. Blank values are preserved under AST-001. Matching QR and full address must be supplied and verified only after approval. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+}

@@ -1,0 +1,154 @@
+{
+  "assetId": "BD-V-028",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-028-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-028-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "block-subsidy-step-chart",
+      "boundsPercent": {
+        "x": 6,
+        "y": 20,
+        "width": 42,
+        "height": 38
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "cumulative-issuance-chart",
+      "boundsPercent": {
+        "x": 52,
+        "y": 25,
+        "width": 43,
+        "height": 33
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "transaction-fees-separate",
+      "boundsPercent": {
+        "x": 36,
+        "y": 63,
+        "width": 29,
+        "height": 29
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "block-subsidy-step-chart",
+      "cumulative-issuance-chart",
+      "transaction-fees-separate"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 6,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-028` | Pablo | Essential | Diagram | 19 | add a finite-supply and halving graphic with block-based timing. | SG: Under `### Finite supply`, after the paragraph beginning “The subsidy began at 50 BTC per block”, following the halving table. EG: under `### Finite supply and halving`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor. | SG: 635; EG: 1554 | Separates maximum supply, issuance, block subsidy, halving, and miner fees. | Show a descending step chart for block subsidy by halving era and a rising cumulative issuance curve approaching 21 million. Mark halvings by block height or era and `roughly four years`, not guaranteed calendar dates. Show transaction fees separately from new issuance. Include no price curve or adoption prediction. | Paired issuance chart; full width. |",
+      "sourcePlacement": "SG: Under `### Finite supply`, after the paragraph beginning “The subsidy began at 50 BTC per block”, following the halving table. EG: under `### Finite supply and halving`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor.",
+      "sourceLocator": "SG: 635; EG: 1554",
+      "instructionalRelationship": "Separates maximum supply, issuance, block subsidy, halving, and miner fees.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Show a descending step chart for block subsidy by halving era and a rising cumulative issuance curve approaching 21 million. Mark halvings by block height or era and `roughly four years`, not guaranteed calendar dates. Show transaction fees separately from new issuance. Include no price curve or adoption prediction.",
+      "format": "Paired issuance chart; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "",
+      "adjacentGuideText": "### Finite supply\n\nBitcoin's rules define a predictable issuance schedule and a maximum supply of 21 million bitcoin (21,000,000 BTC). New bitcoin enter circulation through the block subsidy paid to miners who produce valid blocks.\n\nEvery 210,000 blocks, the subsidy is cut in half. This event is called a **halving**. Because blocks are produced approximately every ten minutes on average, a halving occurs roughly every four years. The exact calendar date is not fixed.\n\n| Halving year | Block height | Subsidy after halving |\n| --- | ---: | ---: |\n| 2012 | 210,000 | 25 BTC |\n| 2016 | 420,000 | 12.5 BTC |\n| 2020 | 630,000 | 6.25 BTC |\n| 2024 | 840,000 | 3.125 BTC |\n\nThe subsidy began at 50 BTC per block. It falls by half in repeated steps until it becomes too small to continue. Miners also receive transaction fees. Over time, fees are expected to become a more important part of miner revenue.\n\n<!-- VISUAL: BD-V-028\nALT: Bitcoin issuance chart showing the 21 million supply, block subsidy, and halvings.\nASSET: y_assets (archived)/diploma/bd-v-028.svg\n-->\n\nThe 21 million limit is enforced by nodes. If a miner creates more bitcoin than the rules allow, validating nodes reject the block. A software developer can write different code, but cannot force other people to run it.\n\nBitcoin's supply rule is credible because it is public, easy to verify with a node, and difficult for one party to change. It is not a physical law. It is a network rule that remains effective while participants continue to enforce it.\n\nMany digital assets can claim a limited supply. The beginner question is whether the limit is credible in practice, not only whether it is written in a document or displayed on a website.\n\n**Spot question:** What are the advantages of Bitcoin having a limited supply? What would be the effect of increasing the supply of Bitcoin on purchasing power? Who would reject an increase in supply?\n\nFinite supply does not guarantee a rising market price. Price depends on demand as well as supply. It also does not mean every bitcoin is available for sale; some may be held long term or become inaccessible because keys were lost.\n\n"
+    },
+    "deferredChartData": {
+      "subsidyBTC": [
+        50,
+        25,
+        12.5,
+        6.25,
+        3.125
+      ],
+      "eraStartBlockHeight": [
+        0,
+        210000,
+        420000,
+        630000,
+        840000
+      ],
+      "blocksPerHalving": 210000,
+      "maximumSupplyBTC": 21000000,
+      "timingCaption": "Roughly four years; exact calendar dates are not fixed."
+    },
+    "deferredLabels": [
+      "Block subsidy by halving era",
+      "Cumulative issuance approaching 21 million",
+      "Transaction fees: separate from new issuance"
+    ],
+    "deferredQualification": "No price curve, adoption forecast, or claim that scarcity guarantees value. Use mathematical issuance data when rebuilding the approximate reference silhouettes.",
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 259492,
+      "partialAlphaPixels": 70434,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Five descending plateaus now visually halve, the cumulative area flattens toward a finite ceiling, and the fee group is detached below both charts. Filled areas have no axes, labels or connecting strokes. Raster geometry is approximate; editable plots must use the exact supplied values. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

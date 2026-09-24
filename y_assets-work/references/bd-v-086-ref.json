@@ -1,0 +1,237 @@
+{
+  "assetId": "BD-V-086",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-086-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-086-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "student-guide",
+      "boundsPercent": {
+        "x": 6,
+        "y": 7,
+        "width": 16,
+        "height": 32
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "educator-guide",
+      "boundsPercent": {
+        "x": 25,
+        "y": 7,
+        "width": 15,
+        "height": 32
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "resources-hub-activities",
+      "boundsPercent": {
+        "x": 43,
+        "y": 9,
+        "width": 15,
+        "height": 30
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "operational-protocol",
+      "boundsPercent": {
+        "x": 61,
+        "y": 5,
+        "width": 14,
+        "height": 34
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "assessment-grid",
+      "boundsPercent": {
+        "x": 78,
+        "y": 12,
+        "width": 18,
+        "height": 27
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "teaching",
+      "boundsPercent": {
+        "x": 17,
+        "y": 42,
+        "width": 14,
+        "height": 10
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "practice",
+      "boundsPercent": {
+        "x": 34.3,
+        "y": 42,
+        "width": 14,
+        "height": 10
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "observation",
+      "boundsPercent": {
+        "x": 51.6,
+        "y": 42,
+        "width": 14,
+        "height": 10
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "records",
+      "boundsPercent": {
+        "x": 68.9,
+        "y": 42,
+        "width": 14,
+        "height": 10
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "educator",
+      "boundsPercent": {
+        "x": 38,
+        "y": 52,
+        "width": 24,
+        "height": 45
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "optional-app-review",
+      "boundsPercent": {
+        "x": 7,
+        "y": 63,
+        "width": 10,
+        "height": 31
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "student-guide",
+      "educator-guide",
+      "resources-hub-activities",
+      "operational-protocol",
+      "assessment-grid",
+      "teaching",
+      "practice",
+      "observation",
+      "records",
+      "educator",
+      "optional-app-review"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 75,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-086` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### The learning ecosystem`, after the line beginning `&#124; Operational assessment protocol and Grid &#124; Approved assessment interactions and tasks, observ…`. Replace the `BD-V-086` marker at EG line 391. | EG: 389 | Makes resource ownership and the route from teaching to recorded evidence visible. | **How the learning resources work together.** Map Student Guide → learner explanations; Educator Guide → preparation, facilitation, safety; Resources Hub → selected activities; operational protocol → approved tasks and standards; Assessment Grid → private competency results. Show the educator connecting teaching, practice, observation, and records. Place optional app self-checks on a separate review branch without a certification-evidence arrow. Any app name must use the required hyperlink. Keep the existing table as the detailed text equivalent. Caption: `Use each resource for its job in the learning and evidence process.` Alt text: `The Student Guide supplies explanations, the Educator Guide supports teaching, and selected Resources Hub activities support practice. The operational protocol governs evidence collection and the Assessment Grid holds private results. Optional app self-checks support review only.` Master: `y_assets (archived)/diploma/bd-v-086.svg`. | Resource relationship map; full width. |",
+      "sourcePlacement": "EG only: under `### The learning ecosystem`, after the line beginning `&#124; Operational assessment protocol and Grid &#124; Approved assessment interactions and tasks, observ…`. Replace the `BD-V-086` marker at EG line 391.",
+      "sourceLocator": "EG: 389",
+      "instructionalRelationship": "Makes resource ownership and the route from teaching to recorded evidence visible.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "**How the learning resources work together.** Map Student Guide → learner explanations; Educator Guide → preparation, facilitation, safety; Resources Hub → selected activities; operational protocol → approved tasks and standards; Assessment Grid → private competency results. Show the educator connecting teaching, practice, observation, and records. Place optional app self-checks on a separate review branch without a certification-evidence arrow. Any app name must use the required hyperlink. Keep the existing table as the detailed text equivalent. Caption: `Use each resource for its job in the learning and evidence process.` Alt text: `The Student Guide supplies explanations, the Educator Guide supports teaching, and selected Resources Hub activities support practice. The operational protocol governs evidence collection and the Assessment Grid holds private results. Optional app self-checks support review only.` Master: `y_assets (archived)/diploma/bd-v-086.svg`.",
+      "format": "Resource relationship map; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "",
+      "adjacentGuideText": "### The learning ecosystem\n\nEach part of the Diploma has a distinct function.\n\n| Component | Primary function | What it cannot replace |\n| --- | --- | --- |\n| Student Guide | Essential learner explanations, reflection, review, and reference | Live facilitation, local verification, supported practice, or observed assessment |\n| [My First Bitcoin App](https://myfirstbitcoin.app/) | Optional self-checks, recap, discovery, feedback, and connection to future learning | Educator-led theoretical or practical assessment, certification records, or learner evaluation |\n| Educator Guide | Preparation, pacing, facilitation, localization, safety, and assessment support | Learner materials or assessment rubrics |\n| Activity collection | Modular interaction, formative checks, and practical practice | Competency definitions, [My First Bitcoin App](https://myfirstbitcoin.app/) scoring, or educator judgment |\n| Assessment guidance and Grid | Example interactions, observable criteria, safety guidance, optional notes, and completion decisions | Teaching and supported practice |\n\n<!-- VISUAL: BD-V-086\nALT: The Student Guide supplies explanations, the Educator Guide supports teaching, and selected Resources Hub activities support practice. The operational protocol governs evidence collection and the Assessment Grid holds private results. Optional app self-checks support review only.\nASSET: y_assets (archived)/diploma/bd-v-086.svg\nUSE: Educator-only diagram; see the asset index brief.\n-->\n\n"
+    },
+    "deferredLabels": [
+      "Student Guide → learner explanations",
+      "Educator Guide → preparation, facilitation, safety",
+      "Resources Hub → selected activities",
+      "Operational protocol → approved tasks and standards",
+      "Assessment Grid → private competency results",
+      "Optional [My First Bitcoin App](https://myfirstbitcoin.app/) self-checks: review only"
+    ],
+    "deferredConnectors": [
+      "Educator connects teaching, practice, observation and records using resource ownership above.",
+      "Optional app branch may connect to review only; never certification evidence."
+    ],
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 207445,
+      "partialAlphaPixels": 120346,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Five distinct blank resource props above four unbordered process nodes; educator below; optional blank phone isolated left with no certification connection. All screens/pages empty and no forbidden graphics. Corrected stage borders. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

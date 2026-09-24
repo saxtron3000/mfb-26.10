@@ -1,0 +1,51 @@
+{
+  "assetId": "BD-V-022",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024,
+    "reference": {
+      "fileName": "bd-v-022-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-022-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    }
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "Not generated or reviewed yet."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Generation and visual review pending.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "pngTransparencyVerified": false,
+    "jpgWhiteBackgroundVerified": false,
+    "exportsMatch": false,
+    "reviewStatus": "pending",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-022` | AI | Essential | Diagram | 16 | make intermediary power and risk concrete and define digital signatures. | SG: Under `### Why Bitcoin was created`, after the paragraph beginning “Bitcoin was created to solve this problem” EG: under `### Why Bitcoin was created`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor. | SG: 478; EG: 1412 | Contrasts a central ledger keeper with Bitcoin's distributed verification model. | Left panel: sender and receiver depend on one intermediary that keeps and approves the ledger. Right panel: signed transactions propagate to independent nodes; miners propose blocks; nodes verify the same public rules. Emphasize reduced dependence on a central settlement authority, not removal of all trust. | Two-system comparison diagram; full width. |",
+      "sourcePlacement": "SG: Under `### Why Bitcoin was created`, after the paragraph beginning “Bitcoin was created to solve this problem” EG: under `### Why Bitcoin was created`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor.",
+      "sourceLocator": "SG: 478; EG: 1412",
+      "instructionalRelationship": "Contrasts a central ledger keeper with Bitcoin's distributed verification model.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Left panel: sender and receiver depend on one intermediary that keeps and approves the ledger. Right panel: signed transactions propagate to independent nodes; miners propose blocks; nodes verify the same public rules. Emphasize reduced dependence on a central settlement authority, not removal of all trust.",
+      "format": "Two-system comparison diagram; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "",
+      "adjacentGuideText": "### Why Bitcoin was created\n\nDigital payments existed before Bitcoin. People could send money through banks, card networks, and online payment companies. These systems made commerce easier, but each depended on a trusted organization to keep the ledger, approve accounts, settle transfers, and resolve disputes.\n\nThis dependence creates power and risk. An intermediary can delay a payment, charge a fee, collect  and misuse personal data, restrict an account, reverse a transfer, or fail. The issuer of the currency can also change its supply.\n\nFor many years, computer scientists tried to create digital money that did not need a central issuer or payment company. The challenge was difficult. Digital information is easy to copy. If a digital coin could be copied and spent twice, it could not function as money. If one company prevented copying, the company became the point of control and failure.\n\nBitcoin was created to solve this problem with a peer-to-peer network. Its design allows participants to agree on one transaction history without a central ledger keeper. It combines a public ledger (blockchain), digital signatures, a network of validating nodes, proof of work, and economic incentives.\n\n<!-- VISUAL: BD-V-022\nALT: Central intermediary model contrasted with Bitcoin’s distributed verification model.\nASSET: y_assets (archived)/diploma/bd-v-022.svg\n-->\n\nBitcoin does not remove trust from every part of life. It reduces the need to trust a central authority for the issuance and settlement of its native money.\n\nIn this book, **Bitcoin** with a capital B usually means the network, protocol, or wider system. And **bitcoin** with a lowercase b means the monetary unit or asset. **BTC** is the common abbreviation for an amount of bitcoin, especially when writing prices or specific quantities. A wallet or exchange is a service that may connect to Bitcoin; it is not the Bitcoin network itself.\n\n"
+    }
+  },
+  "unresolved": []
+}

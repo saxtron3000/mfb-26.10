@@ -1,0 +1,145 @@
+{
+  "assetId": "BD-V-012",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "4:3",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-012-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-012-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 576
+  },
+  "placement": [
+    {
+      "elementId": "decision-maker",
+      "boundsPercent": {
+        "x": 21,
+        "y": 44,
+        "width": 45,
+        "height": 49
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "chosen-present-benefit",
+      "boundsPercent": {
+        "x": 2,
+        "y": 11,
+        "width": 40,
+        "height": 41
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "best-alternative-forgone",
+      "boundsPercent": {
+        "x": 59,
+        "y": 12,
+        "width": 39,
+        "height": 40
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "decision-maker",
+      "chosen-present-benefit",
+      "best-alternative-forgone"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 68,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-012` | Pablo | Supporting | Image | 10 | expand opportunity cost, time preference, and trade-offs with examples and graphics. | SG: Under `### Scarcity, value, and exchange`, after the definitions of opportunity cost, time preference, and trade-off. EG: under `### Scarcity, value, and exchange`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor. | SG: 311; EG: 1090 | Connects three abstract choice concepts to one everyday decision. | Show one person choosing between two uses of limited money or time. Label the chosen benefit, the best alternative forgone, the present-versus-future preference, and the resulting trade-off. Do not moralize the learner's choice or imply one time preference is always correct. | Branching choice illustration; half page. |",
+      "sourcePlacement": "SG: Under `### Scarcity, value, and exchange`, after the definitions of opportunity cost, time preference, and trade-off. EG: under `### Scarcity, value, and exchange`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor.",
+      "sourceLocator": "SG: 311; EG: 1090",
+      "instructionalRelationship": "Connects three abstract choice concepts to one everyday decision.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Show one person choosing between two uses of limited money or time. Label the chosen benefit, the best alternative forgone, the present-versus-future preference, and the resulting trade-off. Do not moralize the learner's choice or imply one time preference is always correct.",
+      "format": "Branching choice illustration; half page.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "- id: learner\n  kind: actor\n  appears_in: [BD-V-006, BD-V-012, BD-V-043, BD-V-044, BD-V-045, BD-V-047, BD-V-052, BD-V-054, BD-V-061, BD-V-069, BD-V-072, BD-V-091, BD-V-093]\n  description: A generic person who learns, practises, makes decisions, or handles prepared material. The learner is not an educator, service, node, miner, or protocol component.\n  distinct_from: [educator, service, wallet, node, miner, protocol]",
+      "adjacentGuideText": "### Scarcity, value, and exchange\n\nResources are limited, while human wants are not. **Scarcity** means that choosing one use of a resource prevents another use. Time, land, energy, good health, tools, and money are all scarce.\n\nThe value of a good is not contained inside the object. People value goods according to their needs, preferences, information, and circumstances. Clean water may be inexpensive near a safe public source and extremely valuable during a shortage.\n\n<!-- VISUAL: BD-V-011\nALT: The same clean water shown as more available near a safe source and more valuable during a shortage.\nASSET: y_assets (archived)/diploma/bd-v-011.svg\n-->\n\nExchange happens when both sides prefer what they receive to what they give up. They do not need to agree that the two items have the same personal value. They only need to agree to the terms.\n\nThree ideas help explain everyday choices:\n\n- **Opportunity cost** is the best alternative you give up when you make a choice. Money spent on transport cannot also be spent on food.\n- **Time preference** describes how strongly a person prefers value now instead of later. Urgent needs can create a high preference for the present. Saving for a future goal shows a greater willingness to wait.\n- **Trade-off** means gaining one benefit while accepting a cost or giving up another benefit.\n\n<!-- VISUAL: BD-V-012\nALT: Everyday choice showing opportunity cost, time preference, and trade-off.\nASSET: y_assets (archived)/diploma/bd-v-012.svg\n-->\n\nScarcity alone does not guarantee value. An item may be rare and still have no demand. A useful monetary asset combines limited supply with properties and demand that make people willing to hold or exchange it.\n\n"
+    },
+    "deferredConnectors": [
+      {
+        "from": "decision-maker",
+        "to": "chosen-present-benefit",
+        "label": "Chosen benefit"
+      },
+      {
+        "from": "decision-maker",
+        "to": "best-alternative-forgone",
+        "label": "Best alternative forgone"
+      }
+    ],
+    "deferredLabels": [
+      "Present-versus-future preference",
+      "Resulting trade-off"
+    ],
+    "exportVerification": {
+      "width": 768,
+      "height": 576,
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "transparentPixels": 310172,
+      "partialAlphaPixels": 130089,
+      "totalPixels": 442368,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. One learner holds limited resources and gestures toward the learning-now option; the alternative combines learning and saved resources. The two options have equal visual weight and neither is ranked morally. No labels or branch connectors are rasterized. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

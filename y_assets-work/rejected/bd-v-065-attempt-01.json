@@ -1,0 +1,51 @@
+{
+  "assetId": "BD-V-065",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024,
+    "reference": {
+      "fileName": "bd-v-065-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-065-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    }
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "Not generated or reviewed yet."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Generation and visual review pending.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "pngTransparencyVerified": false,
+    "jpgWhiteBackgroundVerified": false,
+    "exportsMatch": false,
+    "reviewStatus": "pending",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-065` | AI | Essential | Diagram | 46–47 | preserve the conclusion and add a stronger balanced circular-economy graphic. | SG: Under `### Circular economies`, after the seven mapping questions. EG: under `### Module option G: circular economy and local resource map`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor. | SG: 1310; EG: 2775 | Shows value circulating among participants and reveals where the loop depends on outside services or support. | Map workers, customers, merchants, suppliers, educators or support, and exchange or on/off-ramp points. Use separate arrows for value, goods or services, and support. Mark custody, volatility, connectivity, and conversion dependencies. Include broken-loop examples such as immediate conversion or one organizer processing everything. | Editable local network map; full width. |",
+      "sourcePlacement": "SG: Under `### Circular economies`, after the seven mapping questions. EG: under `### Module option G: circular economy and local resource map`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor.",
+      "sourceLocator": "SG: 1310; EG: 2775",
+      "instructionalRelationship": "Shows value circulating among participants and reveals where the loop depends on outside services or support.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Map workers, customers, merchants, suppliers, educators or support, and exchange or on/off-ramp points. Use separate arrows for value, goods or services, and support. Mark custody, volatility, connectivity, and conversion dependencies. Include broken-loop examples such as immediate conversion or one organizer processing everything.",
+      "format": "Editable local network map; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "- id: educator\n  kind: actor\n  appears_in: [BD-V-056, BD-V-065, BD-V-066, BD-V-067, BD-V-089, BD-V-090, BD-V-091, BD-V-093, BD-V-094, BD-V-095, BD-V-097, BD-V-098]\n  description: A generic person who facilitates, observes, prepares a safe route, or plans a module. The educator does not act as a node, miner, wallet, or payment service.\n  distinct_from: [learner, service, wallet, node, miner, protocol]\n- id: local-resource-map-symbols\n  kind: symbol\n  appears_in: [BD-V-057, BD-V-065, BD-V-067, BD-V-068, BD-V-071]\n  description: Editable map symbols for merchants, educators, meetups, technical support, exchange information, and missing support. A listing records verification, not trustworthiness.\n  distinct_from: [provider-endorsement, personal-location, verified-safety-claim]\n- id: circular-economy-actors\n  kind: actor\n  appears_in: [BD-V-060, BD-V-065, BD-V-066, BD-V-096]\n  description: Generic workers, customers, merchants, suppliers, educators or support, and conversion points used to map local value and responsibility. They are roles, not named local people or services.\n  distinct_from: [bitcoin-protocol-roles, verified-local-provider, real-person]",
+      "adjacentGuideText": "### Circular economies\n\n<!-- VISUAL: BD-V-065\nALT: Local circular-economy map connecting earners, users, merchants, exchange, support, and risks.\nASSET: y_assets (archived)/diploma/bd-v-065.svg\n-->\n\nA **Bitcoin circular economy** is a network in which people earn, spend, save, and exchange bitcoin within a community. Value circulates among workers, customers, merchants, producers, educators, and service providers instead of entering only through a one-time purchase and leaving through immediate conversion.\n\nMy First Bitcoin supports Bitcoin circular economies, and many are part of the Bitcoin Education Network. Explore these communities on the [My First Bitcoin dashboard](https://leaderboard.myfirstbitcoin.org/?min10merchants=1).\n\nA circular economy can reduce dependence on distant financial services and create direct local relationships. It can also fail if there is little demand, poor education, unreliable tools, weak security, or pressure to use bitcoin without a real need.\n\nMap a simple local cycle:\n\n1. Who can earn bitcoin?\n2. Where can they spend or use it?\n3. Which merchants can pay a supplier or worker in bitcoin?\n4. Which participants need to exchange to or from fiat?\n5. Who provides education and technical support?\n6. What happens when internet access fails?\n7. What custody and price risks does each participant carry?\n\nA healthy circular economy depends on voluntary participation. Merchants and workers should be able to identify the payment, pricing, custody, accounting, and volatility risks. Adoption numbers alone do not show whether the network is useful.\n\nThe strongest local loop solves a real problem for more than one participant. It should not depend permanently on giveaways or on one organizer processing every payment.\n\n"
+    }
+  },
+  "unresolved": []
+}

@@ -1,0 +1,112 @@
+{
+  "accepted": true,
+  "generationDate": "2026-09-22",
+  "outputHint": "Generated images are saved to /Users/saxtron3000/.codex/generated_images/01a0c5fb-bad1-7240-9370-82da60495420 as /Users/saxtron3000/.codex/generated_images/01a0c5fb-bad1-7240-9370-82da60495420/exec-a8899e73-5d75-4882-9a9f-12760b10008e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "toolInput": {},
+  "export": {
+    "width": 768,
+    "height": 432,
+    "sourceWidth": 1672,
+    "sourceHeight": 941,
+    "transparentPixels": 195728,
+    "partialAlphaPixels": 134565,
+    "totalPixels": 331776,
+    "jpegCornerRGBA": [
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ]
+    ],
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+  },
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "reserved-app-qr-area",
+      "boundsPercent": {
+        "x": 8,
+        "y": 27,
+        "width": 28,
+        "height": 50
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Blank structural area only; no QR generated. Later QR uses approved app destination with quiet zone."
+    },
+    {
+      "elementId": "editable-download-cta-url-optional-note",
+      "boundsPercent": {
+        "x": 38,
+        "y": 27,
+        "width": 54,
+        "height": 50
+      },
+      "zIndex": 1,
+      "treatmentNotes": "CTA top; readable URL middle; optional-use statement below. All text editable later."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "reserved-app-qr-area",
+      "editable-download-cta-url-optional-note"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 2,
+    "structuralReferenceOnly": true,
+    "approvedDestination": "https://myfirstbitcoin.app/",
+    "deferredLabels": [
+      "Download the [My First Bitcoin App](https://myfirstbitcoin.app/)",
+      "https://myfirstbitcoin.app/",
+      "Use is optional."
+    ],
+    "deferredConnectors": [],
+    "productionPlacementLimits": [
+      "Student Guide: after download call under introduction’s Learn more with the [My First Bitcoin App](https://myfirstbitcoin.app/)",
+      "Student Guide: after download call under Continue learning",
+      "Educator Guide: after download call under About this guide",
+      "Educator Guide: after download call under Continue learning"
+    ],
+    "productionRestrictions": [
+      "Exactly four download CTA placements, two per guide; no other app QR placement or publication.",
+      "Every other app mention remains required text hyperlink."
+    ]
+  },
+  "unresolved": [
+    "Production verification pending: test approved app destination and printed QR at final export size before publication; QR and editable text intentionally absent from structural reference."
+  ],
+  "reviewNote": "Visually reviewed both PNG and JPG. Two blank regions form compact reusable download-panel structure, left square and wider right text region. No QR pattern, URL, app logo or text rendered. Prior blocked interpretation resolved by reserving prohibited content for later editable production, consistent with other structural link panels. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+}

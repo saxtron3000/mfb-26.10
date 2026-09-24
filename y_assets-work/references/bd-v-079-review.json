@@ -1,0 +1,295 @@
+{
+  "accepted": true,
+  "generationDate": "2026-09-21",
+  "outputHint": "Generated images are saved to /Users/saxtron3000/.codex/generated_images/01a0c5fb-bad1-7240-9370-82da60495420 as /Users/saxtron3000/.codex/generated_images/01a0c5fb-bad1-7240-9370-82da60495420/exec-cff0f78f-33b8-4b9d-bcda-410e36c3570d.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "toolInput": {},
+  "export": {
+    "width": 768,
+    "height": 432,
+    "sourceWidth": 1672,
+    "sourceHeight": 941,
+    "transparentPixels": 207392,
+    "partialAlphaPixels": 121963,
+    "totalPixels": 331776,
+    "jpegCornerRGBA": [
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ]
+    ],
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+  },
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "single-person-hands",
+      "boundsPercent": {
+        "x": 6,
+        "y": 30,
+        "width": 88,
+        "height": 66
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "wallet-backup-screen",
+      "boundsPercent": {
+        "x": 24,
+        "y": 12,
+        "width": 22,
+        "height": 61
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "offline-paper",
+      "boundsPercent": {
+        "x": 48,
+        "y": 19,
+        "width": 25,
+        "height": 59
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "final-entry-pen",
+      "boundsPercent": {
+        "x": 64,
+        "y": 53,
+        "width": 22,
+        "height": 22
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "single-person-hands",
+      "wallet-backup-screen",
+      "offline-paper",
+      "final-entry-pen"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 59,
+    "placeholderLayout": [
+      {
+        "position": 1,
+        "text": "WORD 01",
+        "row": 1,
+        "column": 1,
+        "screenCenterPercent": {
+          "x": 30.3,
+          "y": 24.3
+        },
+        "paperCenterPercent": {
+          "x": 54.4,
+          "y": 28.5
+        }
+      },
+      {
+        "position": 2,
+        "text": "WORD 02",
+        "row": 1,
+        "column": 2,
+        "screenCenterPercent": {
+          "x": 37.7,
+          "y": 24.3
+        },
+        "paperCenterPercent": {
+          "x": 62.4,
+          "y": 28.5
+        }
+      },
+      {
+        "position": 3,
+        "text": "WORD 03",
+        "row": 2,
+        "column": 1,
+        "screenCenterPercent": {
+          "x": 30.3,
+          "y": 32.2
+        },
+        "paperCenterPercent": {
+          "x": 54.4,
+          "y": 36.1
+        }
+      },
+      {
+        "position": 4,
+        "text": "WORD 04",
+        "row": 2,
+        "column": 2,
+        "screenCenterPercent": {
+          "x": 37.7,
+          "y": 32.2
+        },
+        "paperCenterPercent": {
+          "x": 62.4,
+          "y": 36.1
+        }
+      },
+      {
+        "position": 5,
+        "text": "WORD 05",
+        "row": 3,
+        "column": 1,
+        "screenCenterPercent": {
+          "x": 30.3,
+          "y": 40.1
+        },
+        "paperCenterPercent": {
+          "x": 54.4,
+          "y": 43.7
+        }
+      },
+      {
+        "position": 6,
+        "text": "WORD 06",
+        "row": 3,
+        "column": 2,
+        "screenCenterPercent": {
+          "x": 37.7,
+          "y": 40.1
+        },
+        "paperCenterPercent": {
+          "x": 62.4,
+          "y": 43.7
+        }
+      },
+      {
+        "position": 7,
+        "text": "WORD 07",
+        "row": 4,
+        "column": 1,
+        "screenCenterPercent": {
+          "x": 30.3,
+          "y": 48
+        },
+        "paperCenterPercent": {
+          "x": 54.4,
+          "y": 51.3
+        }
+      },
+      {
+        "position": 8,
+        "text": "WORD 08",
+        "row": 4,
+        "column": 2,
+        "screenCenterPercent": {
+          "x": 37.7,
+          "y": 48
+        },
+        "paperCenterPercent": {
+          "x": 62.4,
+          "y": 51.3
+        }
+      },
+      {
+        "position": 9,
+        "text": "WORD 09",
+        "row": 5,
+        "column": 1,
+        "screenCenterPercent": {
+          "x": 30.3,
+          "y": 55.900000000000006
+        },
+        "paperCenterPercent": {
+          "x": 54.4,
+          "y": 58.9
+        }
+      },
+      {
+        "position": 10,
+        "text": "WORD 10",
+        "row": 5,
+        "column": 2,
+        "screenCenterPercent": {
+          "x": 37.7,
+          "y": 55.900000000000006
+        },
+        "paperCenterPercent": {
+          "x": 62.4,
+          "y": 58.9
+        }
+      },
+      {
+        "position": 11,
+        "text": "WORD 11",
+        "row": 6,
+        "column": 1,
+        "screenCenterPercent": {
+          "x": 30.3,
+          "y": 63.8
+        },
+        "paperCenterPercent": {
+          "x": 54.4,
+          "y": 66.5
+        }
+      },
+      {
+        "position": 12,
+        "text": "WORD 12",
+        "row": 6,
+        "column": 2,
+        "screenCenterPercent": {
+          "x": 37.7,
+          "y": 63.8
+        },
+        "paperCenterPercent": {
+          "x": 62.4,
+          "y": 66.5
+        }
+      }
+    ],
+    "deferredLabels": [
+      "Check every word and its number",
+      "EXAMPLE ONLY — NOT A VALID RECOVERY PHRASE",
+      "Never share your seed phrase. Never photograph it or save it online.",
+      "12-word example; follow your wallet’s backup instructions",
+      "Copy each word in order onto paper. Check it privately and store it securely offline."
+    ],
+    "deferredConnectors": "One simple editable directional cue from phone screen to paper; do not add cameras, cloud storage or another viewer.",
+    "deferredSafetyTreatment": "The matching WORD 01–WORD 12 text is a non-secret placeholder set, not a usable seed phrase. Keep all warnings prominent in editable production."
+  },
+  "unresolved": [],
+  "reviewNote": "Visually reviewed both PNG and JPG. One person's hands copy from a generic phone to paper, with twelve blank positions in the same two-column/six-row order on each. The pen points to the final lower-right entry. No actual words, numbers, secret material, camera, online-storage imagery or second viewer appears. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+}

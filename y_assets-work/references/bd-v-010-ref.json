@@ -1,0 +1,124 @@
+{
+  "assetId": "BD-V-010",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-010-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-010-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "sale-rice",
+      "boundsPercent": {
+        "x": 1,
+        "y": 20,
+        "width": 45,
+        "height": 56
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "same-seller-buys-shoes",
+      "boundsPercent": {
+        "x": 53,
+        "y": 20,
+        "width": 45,
+        "height": 56
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "sale-rice",
+      "same-seller-buys-shoes"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 150,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-010` | User | Essential | Diagram | 9 | separate the money-mediated exchange explanation from the barter-mismatch graphic. | SG: Under `### Barter and the double coincidence of wants`, after the paragraph beginning `A commonly accepted money separates selling from buying`. EG: under `### Barter and the double coincidence of wants`, after the sentence beginning `Then introduce a commonly accepted medium`. See section 3.8 for the exact anchor. | SG: 354; EG: 1084 | Shows that a commonly accepted medium lets a person sell to one party and buy from another. | Show Amina selling rice to one person for a generic commonly accepted medium, then using that medium to buy shoes from another person. Use a simple two-step sequence with distinct arrows for selling and buying. Keep names, goods, and the generic medium editable for localization. Do not use a specific currency, price, brand, wallet, QR code, or claim that money removes every exchange problem. | Single money-mediated exchange flow; half to full width. |",
+      "sourcePlacement": "SG: Under `### Barter and the double coincidence of wants`, after the paragraph beginning `A commonly accepted money separates selling from buying`. EG: under `### Barter and the double coincidence of wants`, after the sentence beginning `Then introduce a commonly accepted medium`. See section 3.8 for the exact anchor.",
+      "sourceLocator": "SG: 354; EG: 1084",
+      "instructionalRelationship": "Shows that a commonly accepted medium lets a person sell to one party and buy from another.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Show Amina selling rice to one person for a generic commonly accepted medium, then using that medium to buy shoes from another person. Use a simple two-step sequence with distinct arrows for selling and buying. Keep names, goods, and the generic medium editable for localization. Do not use a specific currency, price, brand, wallet, QR code, or claim that money removes every exchange problem.",
+      "format": "Single money-mediated exchange flow; half to full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "",
+      "adjacentGuideText": "### Barter and the double coincidence of wants\n\n**Barter** is the direct exchange of one good or service for another. It can work well in a small exchange. It becomes difficult when many people and products are involved.\n\nImagine that Amina has rice and wants shoes. Luis has shoes but wants cooking oil, not rice. Mei has cooking oil and wants repair work. Amina may need several exchanges before she can obtain the shoes. Each exchange takes time and requires agreement about value.\n\n<!-- VISUAL: BD-V-009\nALT: Amina has rice and wants shoes; Luis has shoes and wants cooking oil; Mei has cooking oil and wants repair work. Broken arrows show that their direct exchanges do not match.\nASSET: y_assets (archived)/diploma/bd-v-009.svg\n-->\n\nFor barter to work directly, each person must want what the other person offers at the same time and in suitable amounts. Economists call this the **double coincidence of wants**.\n\nBarter also creates other problems:\n\n- some goods cannot be divided without destroying their value;\n- some goods spoil before they can be exchanged;\n- there is no common unit for comparing prices;\n- saving large amounts can be difficult;\n- delayed payment and accounting become complex.\n\nA commonly accepted money separates selling from buying. Amina can sell rice to one person for money and later use that money to buy shoes from someone else.\n\n<!-- VISUAL: BD-V-010\nALT: Amina sells rice for a generic commonly accepted medium, then uses it to buy shoes from another person. Selling and buying are separate actions.\nASSET: y_assets (archived)/diploma/bd-v-010.svg\n-->\n\n"
+    },
+    "deferredConnectors": [
+      {
+        "from": "sale-rice",
+        "to": "same-seller-buys-shoes",
+        "meaning": "Amina sells rice, then uses the shared medium to buy shoes."
+      }
+    ],
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 247862,
+      "partialAlphaPixels": 81824,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Two separate exchanges show the same curly-haired person selling rice for an unmarked token, then using the medium to buy shoes. Buyer and shoe seller are distinct. No arrows, writing, prices, or brand marks. Gestures and goods establish each relationship without labels. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

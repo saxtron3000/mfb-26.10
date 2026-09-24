@@ -1,0 +1,177 @@
+{
+  "assetId": "BD-V-073",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "4:3",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-073-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-073-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 576
+  },
+  "placement": [
+    {
+      "elementId": "future-source-qr",
+      "boundsPercent": {
+        "x": 3,
+        "y": 29,
+        "width": 30,
+        "height": 40
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "future-source-content",
+      "boundsPercent": {
+        "x": 35.5,
+        "y": 29,
+        "width": 62,
+        "height": 40
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "destination-name",
+      "boundsPercent": {
+        "x": 39,
+        "y": 33,
+        "width": 54,
+        "height": 7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "readable-fallback-url",
+      "boundsPercent": {
+        "x": 39,
+        "y": 43,
+        "width": 54,
+        "height": 8
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "edition-last-verified",
+      "boundsPercent": {
+        "x": 39,
+        "y": 54,
+        "width": 54,
+        "height": 5
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "plain-language-purpose",
+      "boundsPercent": {
+        "x": 39,
+        "y": 61,
+        "width": 54,
+        "height": 6
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "future-source-qr",
+      "future-source-content",
+      "destination-name",
+      "readable-fallback-url",
+      "edition-last-verified",
+      "plain-language-purpose"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 2,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-073` | Pablo | Supporting | Image | 52 | add a public GitHub contribution link or QR and verify official destinations. | Under `### Source or update page, if included`, after the canonical source link. | 1469 | Provides one durable route to updates and contributions without filling the Diploma with fragile QR codes. | Create one panel containing a tested QR code, printed short URL, destination name, edition or last-verified date, and plain-language purpose. The QR must resolve to the canonical maintained source: `https://github.com/MyFirstBitcoin/mfb-curriculum`. Keep donation and any future educator or issuer-specific certificate verification separate unless the landing page clearly distinguishes them. Do not imply a central My First Bitcoin certificate service. | QR and fallback-link panel; half page. |",
+      "sourcePlacement": "Under `### Source or update page, if included`, after the canonical source link.",
+      "sourceLocator": "1469",
+      "instructionalRelationship": "Provides one durable route to updates and contributions without filling the Diploma with fragile QR codes.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Create one panel containing a tested QR code, printed short URL, destination name, edition or last-verified date, and plain-language purpose. The QR must resolve to the canonical maintained source: `https://github.com/MyFirstBitcoin/mfb-curriculum`. Keep donation and any future educator or issuer-specific certificate verification separate unless the landing page clearly distinguishes them. Do not imply a central My First Bitcoin certificate service.",
+      "format": "QR and fallback-link panel; half page.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": ""
+    },
+    "approvedDestination": "https://github.com/MyFirstBitcoin/mfb-curriculum",
+    "deferredLabels": [
+      "Bitcoin Diploma source and updates",
+      "https://github.com/MyFirstBitcoin/mfb-curriculum",
+      "Edition:2026.10; last-verified date to be recorded after production verification",
+      "Find maintained source, updates and contribution routes."
+    ],
+    "productionGates": [
+      "Test canonical destination and final printed QR.",
+      "Keep donation and any certificate verification separate; no central certificate service implied."
+    ],
+    "exportVerification": {
+      "width": 768,
+      "height": 576,
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "transparentPixels": 280265,
+      "partialAlphaPixels": 160652,
+      "totalPixels": 442368,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Two blank structural regions only, square QR target and wider content area. No QR, URL, logo, donation or certificate-service implication. Canonical destination preserved only in JSON. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": [
+    "Production verification remains: test canonical destination and QR in final print/screen exports, then record actual last-verified date. No QR exists at reference stage."
+  ]
+}

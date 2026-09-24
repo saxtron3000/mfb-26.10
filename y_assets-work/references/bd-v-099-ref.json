@@ -1,0 +1,222 @@
+{
+  "assetId": "BD-V-099",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-099-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-099-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "identify-claim",
+      "boundsPercent": {
+        "x": 6,
+        "y": 8,
+        "width": 28,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "stable-or-changing",
+      "boundsPercent": {
+        "x": 36,
+        "y": 8,
+        "width": 28,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "verify-authority",
+      "boundsPercent": {
+        "x": 66,
+        "y": 8,
+        "width": 28,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "record-source-date-version-limitation",
+      "boundsPercent": {
+        "x": 6,
+        "y": 31.5,
+        "width": 28,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "qualified-wording",
+      "boundsPercent": {
+        "x": 36,
+        "y": 31.5,
+        "width": 28,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "recheck-before-reuse",
+      "boundsPercent": {
+        "x": 66,
+        "y": 31.5,
+        "width": 28,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "state-uncertainty",
+      "boundsPercent": {
+        "x": 18.5,
+        "y": 58,
+        "width": 20,
+        "height": 14
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "hypothetical-example",
+      "boundsPercent": {
+        "x": 40.5,
+        "y": 58,
+        "width": 20,
+        "height": 14
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "prepared-safe-fallback",
+      "boundsPercent": {
+        "x": 62.5,
+        "y": 58,
+        "width": 20,
+        "height": 14
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "generic-changing-detail-examples",
+      "boundsPercent": {
+        "x": 6,
+        "y": 76,
+        "width": 38,
+        "height": 19
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "identify-claim",
+      "stable-or-changing",
+      "verify-authority",
+      "record-source-date-version-limitation",
+      "qualified-wording",
+      "recheck-before-reuse",
+      "state-uncertainty",
+      "hypothetical-example",
+      "prepared-safe-fallback",
+      "generic-changing-detail-examples"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 25,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-099` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### Local verification record`, after the line beginning `Prefer authoritative primary sources for current rules. If the evidence is incomplete, say so. …`. Replace the `BD-V-099` marker at EG line 708. | EG: 706 | Connects changing local claims to dated sources, classroom wording, and a fallback. | **Verify, date, teach, and recheck local information.** Show identify claim → distinguish stable concept/changing detail → check authoritative primary source or qualified local expertise → record source, date, version, and limitation → use qualified classroom wording → recheck before reuse. Unverified or changed details branch to state uncertainty, a clearly hypothetical example, or a prepared safe fallback; live action must not depend on an unverified safety-critical claim. Include generic wallet-version, fee, rule, and merchant-listing examples without filling in current facts. Link to the existing record table rather than creating a second form. Caption: `A local example needs a source, a date, and a plan for change.` Alt text: `Educators distinguish stable concepts from changing details, verify current sources, record dates and limits, teach qualified examples, and recheck them before reuse. Uncertainty or change triggers a safer example or fallback.` Master: `y_assets (archived)/diploma/bd-v-099.svg`. | Verification lifecycle with an uncertainty branch; full width. |",
+      "sourcePlacement": "EG only: under `### Local verification record`, after the line beginning `Prefer authoritative primary sources for current rules. If the evidence is incomplete, say so. …`. Replace the `BD-V-099` marker at EG line 708.",
+      "sourceLocator": "EG: 706",
+      "instructionalRelationship": "Connects changing local claims to dated sources, classroom wording, and a fallback.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "**Verify, date, teach, and recheck local information.** Show identify claim → distinguish stable concept/changing detail → check authoritative primary source or qualified local expertise → record source, date, version, and limitation → use qualified classroom wording → recheck before reuse. Unverified or changed details branch to state uncertainty, a clearly hypothetical example, or a prepared safe fallback; live action must not depend on an unverified safety-critical claim. Include generic wallet-version, fee, rule, and merchant-listing examples without filling in current facts. Link to the existing record table rather than creating a second form. Caption: `A local example needs a source, a date, and a plan for change.` Alt text: `Educators distinguish stable concepts from changing details, verify current sources, record dates and limits, teach qualified examples, and recheck them before reuse. Uncertainty or change triggers a safer example or fallback.` Master: `y_assets (archived)/diploma/bd-v-099.svg`.",
+      "format": "Verification lifecycle with an uncertainty branch; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "",
+      "adjacentGuideText": "### Local verification record\n\nComplete one row for each changing fact, service, or resource used in class.\n\n| Item | Why it matters | Source or local expert | Date checked | What may change | Classroom wording or fallback |\n| --- | --- | --- | --- | --- | --- |\n| Local [currency](mfb-bd-lx.md#term-currency) and payment rules | **Module 1** discussion |  |  |  |  |\n| Banking regulation and deposit protection | Fractional-reserve section |  |  |  |  |\n| Official [inflation](mfb-bd-lx.md#term-inflation) measure and basket | [Purchasing-power](mfb-bd-lx.md#term-purchasing-power) activity |  |  |  |  |\n| [CBDC](mfb-bd-lx.md#term-cbdc) status or design | Optional local comparison |  |  |  |  |\n| Wallet or payment tool | **Module 3 or 4** practice |  |  |  |  |\n| Fees, spreads, and limits | Local pathway comparison |  |  |  |  |\n| Legal, tax, privacy, or reporting context | Local module |  |  |  |  |\n| Merchant, map, meetup, or support resource | Community discovery |  |  |  |  |\n\nPrefer authoritative primary sources for current rules. If the evidence is incomplete, say so. Do not convert uncertain local information into a universal claim.\n\n<!-- VISUAL: BD-V-099\nALT: Educators distinguish stable concepts from changing details, verify current sources, record dates and limits, teach qualified examples, and recheck them before reuse. Uncertainty or change triggers a safer example or fallback.\nASSET: y_assets (archived)/diploma/bd-v-099.svg\nUSE: Educator-only diagram; see the asset index brief.\n-->\n\n---\n\n"
+    },
+    "deferredConnectors": [
+      "Main six nodes sequential; recheck loops to distinguish/verify.",
+      "Unverified or changed detail branches to state uncertainty, clearly hypothetical example, or prepared safe fallback.",
+      "Live action must never depend on unverified safety-critical claim."
+    ],
+    "deferredLabels": [
+      "Examples: wallet version, fee, local rule, merchant listing.",
+      "Use existing local verification record table; source/date/version/limitations remain editable."
+    ],
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 163978,
+      "partialAlphaPixels": 163661,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Exactly six lifecycle nodes in two rows, separate three-option uncertainty band and four generic source-example props. Empty phone/paper/storefront and abstract fee cue include no current facts or second record form. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

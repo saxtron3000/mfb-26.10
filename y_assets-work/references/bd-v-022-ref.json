@@ -1,0 +1,266 @@
+{
+  "assetId": "BD-V-022",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-022-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-022-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "central-system-sender",
+      "boundsPercent": {
+        "x": 3,
+        "y": 45,
+        "width": 12,
+        "height": 39
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "central-ledger-keeper",
+      "boundsPercent": {
+        "x": 14,
+        "y": 19,
+        "width": 20,
+        "height": 29
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "central-ledger",
+      "boundsPercent": {
+        "x": 16,
+        "y": 50,
+        "width": 16,
+        "height": 18
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "central-system-recipient",
+      "boundsPercent": {
+        "x": 33,
+        "y": 47,
+        "width": 11,
+        "height": 37
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "peer-system-sender",
+      "boundsPercent": {
+        "x": 56,
+        "y": 46,
+        "width": 14,
+        "height": 40
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "signed-transaction",
+      "boundsPercent": {
+        "x": 64,
+        "y": 64,
+        "width": 7,
+        "height": 13
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "independent-node-a",
+      "boundsPercent": {
+        "x": 71,
+        "y": 20,
+        "width": 12,
+        "height": 16
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "independent-node-b",
+      "boundsPercent": {
+        "x": 64,
+        "y": 36,
+        "width": 12,
+        "height": 15
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "independent-node-c",
+      "boundsPercent": {
+        "x": 79,
+        "y": 36,
+        "width": 12,
+        "height": 15
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "miner",
+      "boundsPercent": {
+        "x": 72,
+        "y": 65,
+        "width": 12,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "peer-system-recipient",
+      "boundsPercent": {
+        "x": 87,
+        "y": 47,
+        "width": 10,
+        "height": 39
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "central-system-sender",
+      "central-ledger-keeper",
+      "central-ledger",
+      "central-system-recipient",
+      "peer-system-sender",
+      "signed-transaction",
+      "independent-node-a",
+      "independent-node-b",
+      "independent-node-c",
+      "miner",
+      "peer-system-recipient"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 185,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-022` | AI | Essential | Diagram | 16 | make intermediary power and risk concrete and define digital signatures. | SG: Under `### Why Bitcoin was created`, after the paragraph beginning “Bitcoin was created to solve this problem” EG: under `### Why Bitcoin was created`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor. | SG: 478; EG: 1412 | Contrasts a central ledger keeper with Bitcoin's distributed verification model. | Left panel: sender and receiver depend on one intermediary that keeps and approves the ledger. Right panel: signed transactions propagate to independent nodes; miners propose blocks; nodes verify the same public rules. Emphasize reduced dependence on a central settlement authority, not removal of all trust. | Two-system comparison diagram; full width. |",
+      "sourcePlacement": "SG: Under `### Why Bitcoin was created`, after the paragraph beginning “Bitcoin was created to solve this problem” EG: under `### Why Bitcoin was created`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor.",
+      "sourceLocator": "SG: 478; EG: 1412",
+      "instructionalRelationship": "Contrasts a central ledger keeper with Bitcoin's distributed verification model.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Left panel: sender and receiver depend on one intermediary that keeps and approves the ledger. Right panel: signed transactions propagate to independent nodes; miners propose blocks; nodes verify the same public rules. Emphasize reduced dependence on a central settlement authority, not removal of all trust.",
+      "format": "Two-system comparison diagram; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "",
+      "adjacentGuideText": "### Why Bitcoin was created\n\nDigital payments existed before Bitcoin. People could send money through banks, card networks, and online payment companies. These systems made commerce easier, but each depended on a trusted organization to keep the ledger, approve accounts, settle transfers, and resolve disputes.\n\nThis dependence creates power and risk. An intermediary can delay a payment, charge a fee, collect  and misuse personal data, restrict an account, reverse a transfer, or fail. The issuer of the currency can also change its supply.\n\nFor many years, computer scientists tried to create digital money that did not need a central issuer or payment company. The challenge was difficult. Digital information is easy to copy. If a digital coin could be copied and spent twice, it could not function as money. If one company prevented copying, the company became the point of control and failure.\n\nBitcoin was created to solve this problem with a peer-to-peer network. Its design allows participants to agree on one transaction history without a central ledger keeper. It combines a public ledger (blockchain), digital signatures, a network of validating nodes, proof of work, and economic incentives.\n\n<!-- VISUAL: BD-V-022\nALT: Central intermediary model contrasted with Bitcoin’s distributed verification model.\nASSET: y_assets (archived)/diploma/bd-v-022.svg\n-->\n\nBitcoin does not remove trust from every part of life. It reduces the need to trust a central authority for the issuance and settlement of its native money.\n\nIn this book, **Bitcoin** with a capital B usually means the network, protocol, or wider system. And **bitcoin** with a lowercase b means the monetary unit or asset. **BTC** is the common abbreviation for an amount of bitcoin, especially when writing prices or specific quantities. A wallet or exchange is a service that may connect to Bitcoin; it is not the Bitcoin network itself.\n\n"
+    },
+    "deferredConnectors": [
+      {
+        "from": "central-system-sender",
+        "to": "central-ledger-keeper",
+        "label": "Payment instruction"
+      },
+      {
+        "from": "central-ledger-keeper",
+        "to": "central-ledger",
+        "label": "Keeps and approves ledger"
+      },
+      {
+        "from": "central-ledger-keeper",
+        "to": "central-system-recipient",
+        "label": "Intermediary approval"
+      },
+      {
+        "from": "signed-transaction",
+        "to": "independent-node-b",
+        "label": "Signed transaction propagates"
+      },
+      {
+        "from": "miner",
+        "to": "independent-node-c",
+        "label": "Proposes block; does not decide validity"
+      },
+      {
+        "from": "independent-node-a",
+        "to": "independent-node-b",
+        "label": "Independent verification and relay"
+      },
+      {
+        "from": "independent-node-c",
+        "to": "peer-system-recipient",
+        "label": "Verify same public rules"
+      }
+    ],
+    "deferredLabels": [
+      "Reduced dependence on a central settlement authority; not removal of all trust.",
+      "Digital signatures demonstrate authorization without revealing the private key."
+    ],
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 250621,
+      "partialAlphaPixels": 77491,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. The left uses one intermediary and ledger; the right separates wallet users, three equal verifying computers, transaction sheet and a flat mining unit. No central settlement authority is added on the right. Connections and signature explanation remain editable. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

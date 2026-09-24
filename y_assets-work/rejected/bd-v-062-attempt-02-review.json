@@ -1,0 +1,13 @@
+{
+  "assetId": "BD-V-062",
+  "attempt": 2,
+  "status": "rejected",
+  "reviewedAt": "2026-09-21T23:57:29.315794+00:00",
+  "reason": "Two transfer blocks retain dark framing strokes despite solid-fill requirement. Remove these diagram borders.",
+  "files": [
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-062-attempt-02.png",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-062-attempt-02.jpg",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-062-attempt-02.json",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-062-attempt-02.txt"
+  ]
+}

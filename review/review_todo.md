@@ -522,7 +522,7 @@ It recorded these implemented points: all four modules and required `C11`; educa
 
 The report found six registered sources and mutable occurrence/line references against a then 1,549-line Student Guide. Those are historical counts explaining the source-maintenance task, not current measurements. Expand economic, historical, technical, security, and current-context source coverage; keep shared claims distinct from local verification.
 
-Its local-link audit across `workspace/`, `publish/`, `review/`, and `README.md` found 162 targets and one missing Creative Commons visual, `assets/diploma/bd-v-001.svg`. The asset register was a design brief, not an inventory of produced assets. It confirmed the operational protocol, digital-asset comparison, removal of educator app-scoring/assessment claims, and separate microlearning index roles. It did not validate external links, current claims, rendered output, screen-reader behavior, or real-cohort delivery.
+Its local-link audit across `workspace/`, `publish/`, `review/`, and `README.md` found 162 targets and one missing Creative Commons visual, `y_assets (archived)/diploma/bd-v-001.svg`. The asset register was a design brief, not an inventory of produced assets. It confirmed the operational protocol, digital-asset comparison, removal of educator app-scoring/assessment claims, and separate microlearning index roles. It did not validate external links, current claims, rendered output, screen-reader behavior, or real-cohort delivery.
 
 The report replaced a mixed 19 August snapshot and implementation update that had continued to show completed or superseded findings as active. It retired earlier findings about missing `C5` content, needing to build the crosswalk/protocol, app-scoring and certification regressions, optional Module 4 wording, duplicated microlearning roles, former broken-link counts/deleted filenames, and mixed historical audit/author-question tables. Do not reactivate those findings without a current regression. The old report deliberately excluded untriaged handwritten notes from active work.
 
@@ -539,7 +539,7 @@ This map preserves all eight report action areas and their primary-file referenc
 | 5. Repair source and terminology maintenance | ACT-010 | `workspace/09_resources.md`, [Lexicon](../publish/mfb-bd-26.10/mfb-bd-lx.md), Educator Guide local verification record. |
 | 6. Triage remaining consistency decisions | ACT-014 | This action list, decision register, and annotation inventory; formerly maintained in the archived review register. |
 | 7. Finish the optional self-check | ACT-011 | [Published self-check](../publish/mfb-ml-26.10/mfb-ml-26.10.md), `workspace/14_microlearning-plan.md`. |
-| 8. Fix local-link failure and control visuals | ACT-012, ACT-013 | `workspace/08_assets.md`, `assets/diploma/bd-v-001.svg`, essential-visual production tracker. |
+| 8. Fix local-link failure and control visuals | ACT-012, ACT-013 | `workspace/08_assets.md`, `y_assets (archived)/diploma/bd-v-001.svg`, essential-visual production tracker. |
 
 ## Complete historical annotation inventory
 

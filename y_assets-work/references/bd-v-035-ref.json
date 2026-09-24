@@ -1,0 +1,207 @@
+{
+  "assetId": "BD-V-035",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-035-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-035-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "user-authorization",
+      "boundsPercent": {
+        "x": 1,
+        "y": 30,
+        "width": 22,
+        "height": 40
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "wallet-interface",
+      "boundsPercent": {
+        "x": 27,
+        "y": 31,
+        "width": 13,
+        "height": 35
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "wallet-key-management",
+      "boundsPercent": {
+        "x": 24,
+        "y": 50,
+        "width": 6,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "transaction-instructions",
+      "boundsPercent": {
+        "x": 40,
+        "y": 43,
+        "width": 9,
+        "height": 25
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "network-verification",
+      "boundsPercent": {
+        "x": 51,
+        "y": 33,
+        "width": 24,
+        "height": 36
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "public-ledger",
+      "boundsPercent": {
+        "x": 76,
+        "y": 34,
+        "width": 23,
+        "height": 26
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "spendable-output-records",
+      "boundsPercent": {
+        "x": 78,
+        "y": 60,
+        "width": 20,
+        "height": 10
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "user-authorization",
+      "wallet-interface",
+      "wallet-key-management",
+      "transaction-instructions",
+      "network-verification",
+      "public-ledger",
+      "spendable-output-records"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 65,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-035` | AI | Essential | Diagram | 25 | clarify that wallets coordinate keys and instructions while bitcoin remains on the ledger. | SG: Under `### Wallets`, after the paragraph explaining that bitcoin is not stored inside the wallet. EG: under `### Wallets are interfaces`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor. | SG: 810; EG: 1837 | Corrects the most important beginner wallet misconception. | Show the Bitcoin ledger as the record of spendable outputs; the wallet holding or managing keys and constructing instructions; the user authorizing an action; and the network verifying it. Do not draw coins sitting inside a phone or hardware device. | Conceptual layer diagram; full width. |",
+      "sourcePlacement": "SG: Under `### Wallets`, after the paragraph explaining that bitcoin is not stored inside the wallet. EG: under `### Wallets are interfaces`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor.",
+      "sourceLocator": "SG: 810; EG: 1837",
+      "instructionalRelationship": "Corrects the most important beginner wallet misconception.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Show the Bitcoin ledger as the record of spendable outputs; the wallet holding or managing keys and constructing instructions; the user authorizing an action; and the network verifying it. Do not draw coins sitting inside a phone or hardware device.",
+      "format": "Conceptual layer diagram; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "- id: generic-wallet\n  kind: prop\n  appears_in: [BD-V-035, BD-V-036, BD-V-038, BD-V-039, BD-V-040, BD-V-041, BD-V-042, BD-V-043, BD-V-044, BD-V-045, BD-V-052, BD-V-059, BD-V-091]\n  description: A wallet interface or signing environment, shown as a tool for receiving, sending, or key control. It never depicts bitcoin as physically stored inside it.\n  distinct_from: [ledger, bitcoin-network, custodian, private-key, seed-phrase]",
+      "adjacentGuideText": "### Wallets\n\nA **Bitcoin wallet** is a tool that manages the information needed to receive and authorize Bitcoin transactions. It may be an app, a dedicated device, or a service. Bitcoin is recorded on the shared ledger; it is not stored inside a phone.\n\nWhat would happen if your phone stopped working? The Bitcoin record would still exist, but access would depend on the keys and recovery method the wallet uses. A wallet helps create receiving information, show balances and transaction history, and authorize spending. It does not remove the need to understand who controls access.\n\n<!-- VISUAL: BD-V-035\nALT: Wallet interface coordinating keys and transaction instructions while bitcoin remains recorded on the ledger.\nASSET: y_assets (archived)/diploma/bd-v-035.svg\n-->\n\nThe first question about any wallet is: **who controls the keys?** Before using a tool, check who can authorize a payment, how access is recovered, and which payment methods it supports. Prefer well-established open-source wallet software where appropriate because publicly inspectable code can improve transparency.This is a judgment, not a rule or a guarantee: every wallet has trade-offs, and open source alone does not prove that a tool is safe, maintained, correctly installed, or suitable for your needs.\n\nYour educator will help you compare custody, recovery, inspectability, compatibility, privacy, cost, maintenance, and available support without naming one wallet as the global choice. Start with an educator's prepared environment; do not choose a tool because a stranger recommends it.\n\n"
+    },
+    "deferredConnectors": [
+      {
+        "from": "user-authorization",
+        "to": "wallet-interface",
+        "label": "Authorizes action"
+      },
+      {
+        "from": "wallet-key-management",
+        "to": "transaction-instructions",
+        "label": "Manages keys and constructs instructions"
+      },
+      {
+        "from": "transaction-instructions",
+        "to": "network-verification",
+        "label": "Network verifies"
+      },
+      {
+        "from": "network-verification",
+        "to": "public-ledger",
+        "label": "Records valid transaction"
+      },
+      {
+        "from": "public-ledger",
+        "to": "spendable-output-records",
+        "label": "Record of spendable outputs"
+      }
+    ],
+    "deferredLabels": [
+      "Bitcoin is not stored inside the wallet device."
+    ],
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 258017,
+      "partialAlphaPixels": 70174,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. User authorization, wallet-managed key/instructions, independent network verification, and ledger outputs are separate. The phone contains no coins or balances. Placeholder writing and node connector lines were removed; the key is only a conceptual silhouette with no secret material. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

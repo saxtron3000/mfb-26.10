@@ -1,0 +1,51 @@
+{
+  "assetId": "BD-V-060",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024,
+    "reference": {
+      "fileName": "bd-v-060-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-060-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    }
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "Not generated or reviewed yet."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Generation and visual review pending.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "pngTransparencyVerified": false,
+    "jpgWhiteBackgroundVerified": false,
+    "exportsMatch": false,
+    "reviewStatus": "pending",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-060` | Pablo | Supporting | Diagram | 43 | add seven simple icons for the daily uses of Bitcoin. | Under `### Daily-life Bitcoin use`, after the seven use descriptions and before the three evaluation questions. | 1177 | Makes the seven distinct ways Bitcoin may be used in daily life quick to identify without suggesting that every learner should use it in every way. | Create seven equally weighted illustrative icons, each clearly labelled: earning, saving, receiving, sending, spending, pricing and accounting, and donating. Arrange them in a clear row, grid, or gentle sequence; do not make the icons form a compulsory circular process. Use familiar, culturally adaptable symbols and no provider branding. | Seven-icon daily-use illustration; full width. |",
+      "sourcePlacement": "Under `### Daily-life Bitcoin use`, after the seven use descriptions and before the three evaluation questions.",
+      "sourceLocator": "1177",
+      "instructionalRelationship": "Makes the seven distinct ways Bitcoin may be used in daily life quick to identify without suggesting that every learner should use it in every way.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Create seven equally weighted illustrative icons, each clearly labelled: earning, saving, receiving, sending, spending, pricing and accounting, and donating. Arrange them in a clear row, grid, or gentle sequence; do not make the icons form a compulsory circular process. Use familiar, culturally adaptable symbols and no provider branding.",
+      "format": "Seven-icon daily-use illustration; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "- id: circular-economy-actors\n  kind: actor\n  appears_in: [BD-V-060, BD-V-065, BD-V-066, BD-V-096]\n  description: Generic workers, customers, merchants, suppliers, educators or support, and conversion points used to map local value and responsibility. They are roles, not named local people or services.\n  distinct_from: [bitcoin-protocol-roles, verified-local-provider, real-person]",
+      "adjacentGuideText": "### Daily-life Bitcoin use\n\n<!-- VISUAL: BD-V-060\nALT: Seven everyday Bitcoin-use examples across earning, saving, receiving, sending, spending, and community use.\nASSET: y_assets (archived)/diploma/bd-v-060.svg\n-->\n\nBitcoin can function as money in several ways. Spending is only one of them.\n\n**Earning:** A worker, creator, business, or community member receives bitcoin for value provided. Earning can avoid a separate purchase process, but the receiver must agree on pricing, volatility, records, and custody.\n\n**Saving:** A person holds bitcoin for future use. Predictable supply may be attractive, but the fiat exchange value can fall sharply and key security becomes important.\n\n**Receiving:** A person accepts a gift, donation, refund, remittance, or repayment. The receiver must provide the correct payment request and verify settlement.\n\n**Sending:** A person transfers value to family, friends, a business, or an organization. They must compare payment path, speed, fee, [privacy](mfb-bd-lx.md#term-privacy), and finality.\n\n**Spending:** A person exchanges bitcoin for goods or services. They should identify the exchange rate, merchant policy, payment method, and local tax consequences that apply.\n\n**Pricing and accounting:** A person or business records value in bitcoin or sats. In many places, the fiat value at the time of payment is still needed for accounts or taxes.\n\n**Donating:** A person supports an organization or individual directly. They should verify the recipient's payment request through a trusted source.\n\nFor any use, ask three questions:\n\n1. What existing problem does Bitcoin address here?\n2. Is Bitcoin better than the available alternative for this case?\n3. What new responsibility or risk does Bitcoin create?\n\nAvoid starting with the tool. Start with the need.\n\n"
+    }
+  },
+  "unresolved": []
+}

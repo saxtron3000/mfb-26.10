@@ -15,14 +15,14 @@ The curriculum text and [08_assets.md](08_assets.md) are the instructional sourc
 ChatGPT creates working reference material only. It must never treat its PNG, JPG, or JSON as a production asset, place them in `assets/`, or propose a direct manuscript insertion. Store outputs in the ignored local-work area:
 
 ```text
-assets-work/
+y_assets-work (archived)/
 ├── references/bd-v-000-ref.png
 ├── references/bd-v-000-ref.jpg
 ├── references/bd-v-000-ref.json
 └── prompts/bd-v-000-ref.txt
 ```
 
-Replace `bd-v-000` with the lowercase stable asset ID. The later Claude implementation belongs in the tracked `assets/diploma/` tree. This separation keeps experiments out of version control and makes approved, editable source reviewable.
+Replace `bd-v-000` with the lowercase stable asset ID. The later Claude implementation belongs in the tracked `y_assets (archived)/diploma/` tree. This separation keeps experiments out of version control and makes approved, editable source reviewable.
 
 ## Complete prompt
 
@@ -148,7 +148,7 @@ Use this schema:
 
 ## Save and review
 
-Save the transparent PNG as `assets-work/references/bd-v-000-ref.png`, the white-background JPG preview as `assets-work/references/bd-v-000-ref.jpg`, their conformance report as `assets-work/references/bd-v-000-ref.json`, and the completed prompt, model or tool, settings (including the JPG export), generation date, source-brief revision, and review note as `assets-work/prompts/bd-v-000-ref.txt`. Replace `bd-v-000` with the lowercase stable asset ID.
+Save the transparent PNG as `y_assets-work (archived)/references/bd-v-000-ref.png`, the white-background JPG preview as `y_assets-work (archived)/references/bd-v-000-ref.jpg`, their conformance report as `y_assets-work (archived)/references/bd-v-000-ref.json`, and the completed prompt, model or tool, settings (including the JPG export), generation date, source-brief revision, and review note as `y_assets-work (archived)/prompts/bd-v-000-ref.txt`. Replace `bd-v-000` with the lowercase stable asset ID.
 
 Review both images against the brief. Verify actual transparent background pixels in the PNG, a solid white background in the JPG, matching dimensions and composition, and no prohibited visible content in either file. Record actual formats and background treatments in `canvas`; set the three export-verification flags to true only after checking the files. An alpha channel containing only opaque pixels does not satisfy transparency. Change a checklist item to `[X]` only after all four files exist and pass review; deferred and blocked items remain unchecked.
 

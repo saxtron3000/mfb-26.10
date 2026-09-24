@@ -1,0 +1,178 @@
+{
+  "assetId": "BD-V-054",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-054-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-054-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "connect",
+      "boundsPercent": {
+        "x": 0,
+        "y": 19,
+        "width": 25,
+        "height": 37
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "compare",
+      "boundsPercent": {
+        "x": 27,
+        "y": 20,
+        "width": 19,
+        "height": 35
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "practise-safely",
+      "boundsPercent": {
+        "x": 49,
+        "y": 17,
+        "width": 20,
+        "height": 39
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "explain",
+      "boundsPercent": {
+        "x": 70,
+        "y": 17,
+        "width": 29,
+        "height": 40
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "educator-support",
+      "boundsPercent": {
+        "x": 31,
+        "y": 56,
+        "width": 20,
+        "height": 36
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "optional-local-expert",
+      "boundsPercent": {
+        "x": 50,
+        "y": 56,
+        "width": 20,
+        "height": 36
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "connect",
+      "compare",
+      "practise-safely",
+      "explain",
+      "educator-support",
+      "optional-local-expert"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 150,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-054` | AI | Essential | Diagram | 38–39 | define MFB versus educator responsibilities in the educator-curated Connect module. | Under `### Your local Module 4`, after the four-item list beginning “Connect” and ending “Explain”. | 1057 | Connects the four learner actions to local purpose, educator support, and safe choice. | Show the four learner actions `Connect → Compare → Practise safely → Explain`. Link shared earlier learning to a local need and realistic alternative, educator-selected safe practice, and a responsible next step. Show the educator and, where needed, a local expert supporting the learner. Keep required competencies and safety boundaries fixed. Detailed educator planning and verification remain in the Educator Guide. | Four-stage local-learning diagram; full width. |",
+      "sourcePlacement": "Under `### Your local Module 4`, after the four-item list beginning “Connect” and ending “Explain”.",
+      "sourceLocator": "1057",
+      "instructionalRelationship": "Connects the four learner actions to local purpose, educator support, and safe choice.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Show the four learner actions `Connect → Compare → Practise safely → Explain`. Link shared earlier learning to a local need and realistic alternative, educator-selected safe practice, and a responsible next step. Show the educator and, where needed, a local expert supporting the learner. Keep required competencies and safety boundaries fixed. Detailed educator planning and verification remain in the Educator Guide.",
+      "format": "Four-stage local-learning diagram; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "- id: learner\n  kind: actor\n  appears_in: [BD-V-006, BD-V-012, BD-V-043, BD-V-044, BD-V-045, BD-V-047, BD-V-052, BD-V-054, BD-V-061, BD-V-069, BD-V-072, BD-V-091, BD-V-093]\n  description: A generic person who learns, practises, makes decisions, or handles prepared material. The learner is not an educator, service, node, miner, or protocol component.\n  distinct_from: [educator, service, wallet, node, miner, protocol]",
+      "adjacentGuideText": "### Your local Module 4\n\n<!-- VISUAL: BD-V-054\nALT: Connect-module sequence from a local need through an alternative, safe practice, and explanation.\nASSET: y_assets (archived)/diploma/bd-v-054.svg\n-->\n\nIn this module, you will apply an idea from **Modules 1–3** to a real need or opportunity where you live. You may explore earning, saving, receiving, spending, merchant use, community resources, or another local use of Bitcoin as money.\n\nThis matters because Bitcoin is experienced locally. You will better understand what is useful, what is not, and which conditions and risks shape a responsible choice. You will also become familiar with local Bitcoin tools, resources, and organisations without being expected to use or recommend them.\n\nYour educator will guide you because they understand the local context. They may invite a local expert to help you learn from experience and interact positively and respectfully with your community. The goal is to build informed connections and help foster community, not simply to complete a transaction.\n\nYour local **Module 4** activity will help you:\n\n1. **Connect:** Identify the money problem, Bitcoin response, and safe action that matter locally.\n2. **Compare:** Consider local conditions and compare Bitcoin with a realistic existing option.\n3. **Practise safely:** Observe, compare, or try a defined task with guidance.\n4. **Explain:** Identify risks, show what you learned, and name a responsible next step, if any.\n\nYour activity may explore questions such as:\n\n- Can a local worker receive bitcoin for a service?\n- Can a family compare a remittance path with an existing local method?\n- Can a merchant accept payment without holding a large bitcoin balance?\n- Can a community group receive support while keeping custody and records clear?\n- Can you identify reliable Bitcoin support in the community?\n- Can saving in sats address a local problem, and what new risk does it create?\n\nA local example is not proof that the same method works everywhere. Explain what is specific to your community.\n\n"
+    },
+    "deferredLabels": [
+      "Connect -> Compare -> Practise safely -> Explain",
+      "Earlier learning and real local need",
+      "Compare realistic alternative",
+      "Educator-selected safe practice",
+      "Evidence and responsible next step",
+      "Educator support; local expert where needed",
+      "Required competencies and safety boundaries remain fixed; detailed planning/verification stays in Educator Guide."
+    ],
+    "deferredConnectors": [
+      "Connect -> Compare -> Practise safely -> Explain",
+      "Educator and optional local expert support learner stages without changing fixed safety boundaries."
+    ],
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 233683,
+      "partialAlphaPixels": 94488,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Four learner actions across, two distinct support figures below. Correct two-handed comparison and blank props. House gives local purpose without location/brand. Support figures same visual scale as learners; role qualification must be labelled. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

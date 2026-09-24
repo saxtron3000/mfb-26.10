@@ -1,0 +1,236 @@
+{
+  "accepted": true,
+  "generationDate": "2026-09-21",
+  "outputHint": "Generated images are saved to /Users/saxtron3000/.codex/generated_images/01a0c5fb-bad1-7240-9370-82da60495420 as /Users/saxtron3000/.codex/generated_images/01a0c5fb-bad1-7240-9370-82da60495420/exec-6528c324-0eff-4398-9d55-9b2290f9b2fa.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "toolInput": {},
+  "export": {
+    "width": 768,
+    "height": 576,
+    "sourceWidth": 1448,
+    "sourceHeight": 1086,
+    "transparentPixels": 191888,
+    "partialAlphaPixels": 243734,
+    "totalPixels": 442368,
+    "jpegCornerRGBA": [
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ]
+    ],
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+  },
+  "canvas": {
+    "aspectRatio": "4:3",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "actualWidthPx": 768,
+    "actualHeightPx": 576
+  },
+  "placement": [
+    {
+      "elementId": "module-focus-prompt",
+      "boundsPercent": {
+        "x": 7.5,
+        "y": 10,
+        "width": 26,
+        "height": 9.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "module-focus-notes",
+      "boundsPercent": {
+        "x": 35.7,
+        "y": 10,
+        "width": 57,
+        "height": 9.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "local-problem-prompt",
+      "boundsPercent": {
+        "x": 7.5,
+        "y": 21.6,
+        "width": 26,
+        "height": 9.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "local-problem-notes",
+      "boundsPercent": {
+        "x": 35.7,
+        "y": 21.6,
+        "width": 57,
+        "height": 9.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "tool-scenario-prompt",
+      "boundsPercent": {
+        "x": 7.5,
+        "y": 33.2,
+        "width": 26,
+        "height": 9.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "tool-scenario-notes",
+      "boundsPercent": {
+        "x": 35.7,
+        "y": 33.2,
+        "width": 57,
+        "height": 9.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "benefit-prompt",
+      "boundsPercent": {
+        "x": 7.5,
+        "y": 44.8,
+        "width": 26,
+        "height": 9.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "benefit-notes",
+      "boundsPercent": {
+        "x": 35.7,
+        "y": 44.8,
+        "width": 57,
+        "height": 9.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "risk-prompt",
+      "boundsPercent": {
+        "x": 7.5,
+        "y": 56.4,
+        "width": 26,
+        "height": 9.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "risk-notes",
+      "boundsPercent": {
+        "x": 35.7,
+        "y": 56.4,
+        "width": 57,
+        "height": 9.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "evidence-prompt",
+      "boundsPercent": {
+        "x": 7.5,
+        "y": 68,
+        "width": 26,
+        "height": 9.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "evidence-notes",
+      "boundsPercent": {
+        "x": 35.7,
+        "y": 68,
+        "width": 57,
+        "height": 9.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "safe-next-step-prompt",
+      "boundsPercent": {
+        "x": 7.5,
+        "y": 79.6,
+        "width": 26,
+        "height": 9.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "safe-next-step-notes",
+      "boundsPercent": {
+        "x": 35.7,
+        "y": 79.6,
+        "width": 57,
+        "height": 9.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "module-focus-prompt",
+      "module-focus-notes",
+      "local-problem-prompt",
+      "local-problem-notes",
+      "tool-scenario-prompt",
+      "tool-scenario-notes",
+      "benefit-prompt",
+      "benefit-notes",
+      "risk-prompt",
+      "risk-notes",
+      "evidence-prompt",
+      "evidence-notes",
+      "safe-next-step-prompt",
+      "safe-next-step-notes"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 14
+  },
+  "unresolved": [],
+  "reviewNote": "Visually reviewed both PNG and JPG. Exactly seven blank prompt/notes rows, notes over twice prompt width. No provider or conclusions prefilled. Actual guide prompts preserved for later editable/printable record. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+}

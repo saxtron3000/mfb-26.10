@@ -1,0 +1,11 @@
+{
+  "assetId": "BD-V-002",
+  "attempt": 1,
+  "status": "rejected",
+  "reviewedAt": "2026-09-21T22:14:29.242482+00:00",
+  "tool": "image_gen.imagegen",
+  "model": null,
+  "reason": "Six checkpoints and the cycle layout are present, with no text or connectors, but the fills contain gradients contrary to the flat-fill/no-shading contract. Regenerate with solid fills.",
+  "originalGeneratorPath": "/Users/saxtron3000/.codex/generated_images/01a0c5fb-bad1-7240-9370-82da60495420/exec-2bdf78e6-65a6-4d15-a465-b56f2637aa18.png",
+  "localImage": "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-002-attempt-01.png"
+}

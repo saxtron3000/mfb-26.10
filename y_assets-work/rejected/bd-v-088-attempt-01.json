@@ -1,0 +1,51 @@
+{
+  "assetId": "BD-V-088",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024,
+    "reference": {
+      "fileName": "bd-v-088-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-088-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    }
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "Not generated or reviewed yet."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Generation and visual review pending.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "pngTransparencyVerified": false,
+    "jpgWhiteBackgroundVerified": false,
+    "exportsMatch": false,
+    "reviewStatus": "pending",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-088` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### The learning rhythm`, after the line beginning `8. **Connect:** Show how the idea prepares for the next part of the Diploma.`. Replace the `BD-V-088` marker at EG line 731. | EG: 729 | Makes the educator’s eight-step teaching cycle quick to follow and repeat. | **The educator facilitation rhythm.** Show Purpose → Activate → Explain → Check → Apply → Produce → Debrief → Connect. Use short role labels and a return arrow from Check or Debrief to explanation or practice when needed. Identify Check as feedback unless the approved formal evidence conditions are met. Keep the learner doing the explaining or performing at Produce. This is a separate educator graphic: do not overwrite the five-stage SG rhythm in BD-V-006. Caption: `Move from a clear purpose to learner action, debrief, and connection.` Alt text: `The educator sets purpose, activates prior ideas, explains, checks, guides application, invites independent production, debriefs, and connects to the next concept. Unclear responses lead back to explanation or practice.` Master: `y_assets (archived)/diploma/bd-v-088.svg`. | Eight-stage cycle in two readable rows; full width. |",
+      "sourcePlacement": "EG only: under `### The learning rhythm`, after the line beginning `8. **Connect:** Show how the idea prepares for the next part of the Diploma.`. Replace the `BD-V-088` marker at EG line 731.",
+      "sourceLocator": "EG: 729",
+      "instructionalRelationship": "Makes the educator’s eight-step teaching cycle quick to follow and repeat.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "**The educator facilitation rhythm.** Show Purpose → Activate → Explain → Check → Apply → Produce → Debrief → Connect. Use short role labels and a return arrow from Check or Debrief to explanation or practice when needed. Identify Check as feedback unless the approved formal evidence conditions are met. Keep the learner doing the explaining or performing at Produce. This is a separate educator graphic: do not overwrite the five-stage SG rhythm in BD-V-006. Caption: `Move from a clear purpose to learner action, debrief, and connection.` Alt text: `The educator sets purpose, activates prior ideas, explains, checks, guides application, invites independent production, debriefs, and connects to the next concept. Unclear responses lead back to explanation or practice.` Master: `y_assets (archived)/diploma/bd-v-088.svg`.",
+      "format": "Eight-stage cycle in two readable rows; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "",
+      "adjacentGuideText": "### The learning rhythm\n\nFor most concepts, use this sequence:\n\n1. **Purpose:** Tell learners why the idea matters.\n2. **Activate:** Ask what they already think or have observed.\n3. **Explain:** Give the shortest accurate explanation that unlocks the competency.\n4. **Check:** Ask a quick question that reveals what the learner can explain or apply, not only recall.\n5. **Apply:** Use a comparison, activity, scenario, demonstration, or decision.\n6. **Produce:** Ask learners to explain or perform with less support.\n7. **Debrief:** Name the evidence, limitation, safety point, and trade-off.\n8. **Connect:** Show how the idea prepares for the next part of the Diploma.\n\n<!-- VISUAL: BD-V-088\nALT: The educator sets purpose, activates prior ideas, explains, checks, guides application, invites independent production, debriefs, and connects to the next concept. Unclear responses lead back to explanation or practice.\nASSET: y_assets (archived)/diploma/bd-v-088.svg\nUSE: Educator-only diagram; see the asset index brief.\n-->\n\n"
+    }
+  },
+  "unresolved": []
+}

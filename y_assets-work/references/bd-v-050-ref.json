@@ -1,0 +1,164 @@
+{
+  "assetId": "BD-V-050",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-050-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-050-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "lightning-channel-endpoints",
+      "boundsPercent": {
+        "x": 6,
+        "y": 24,
+        "width": 42,
+        "height": 27
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "small-payment-example",
+      "boundsPercent": {
+        "x": 28,
+        "y": 32,
+        "width": 6,
+        "height": 10
+      },
+      "zIndex": 2,
+      "treatmentNotes": "Illustrative bitcoin payment, not a different coin."
+    },
+    {
+      "elementId": "base-layer-settlement",
+      "boundsPercent": {
+        "x": 5,
+        "y": 57,
+        "width": 45,
+        "height": 22
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "final-settlement-example",
+      "boundsPercent": {
+        "x": 8,
+        "y": 63,
+        "width": 6,
+        "height": 11
+      },
+      "zIndex": 2,
+      "treatmentNotes": "Transaction included at base layer."
+    },
+    {
+      "elementId": "editable-comparison",
+      "boundsPercent": {
+        "x": 54,
+        "y": 15,
+        "width": 40,
+        "height": 70
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "lightning-channel-endpoints",
+      "small-payment-example",
+      "base-layer-settlement",
+      "final-settlement-example",
+      "editable-comparison"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 21,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-050` | Pablo | Essential | Diagram | 33 and 36–37 | distinguish destinations, add examples and trade-offs, and route deeper mechanics to Advanced. | SG: Under `### On-chain and Lightning payments`, after the introductory comparison. EG: under `### On-chain and Lightning payments`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor. | SG: 988; EG: 2253 | Makes the layer relationship and appropriate-use distinction visible. | Show Bitcoin base-layer settlement beneath Lightning payment channels. Compare payment request, route, timing, fee conditions, custody variability, and failure modes. Use one small-payment and one final-settlement example. Do not imply that Lightning is a separate coin or that all Lightning wallets are self-custodial. | Layer diagram plus concise comparison; full width. |",
+      "sourcePlacement": "SG: Under `### On-chain and Lightning payments`, after the introductory comparison. EG: under `### On-chain and Lightning payments`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor.",
+      "sourceLocator": "SG: 988; EG: 2253",
+      "instructionalRelationship": "Makes the layer relationship and appropriate-use distinction visible.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Show Bitcoin base-layer settlement beneath Lightning payment channels. Compare payment request, route, timing, fee conditions, custody variability, and failure modes. Use one small-payment and one final-settlement example. Do not imply that Lightning is a separate coin or that all Lightning wallets are self-custodial.",
+      "format": "Layer diagram plus concise comparison; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "- id: payment-request-qr\n  kind: prop\n  appears_in: [BD-V-036, BD-V-044, BD-V-045, BD-V-050, BD-V-059, BD-V-066, BD-V-074, BD-V-076]\n  description: A QR-shaped payment or download request shown only when the brief requires it. It is clearly sample or points to the stated tested destination, as applicable.\n  distinct_from: [private-key, seed-phrase, payable-learner-address, generic-square-pattern]\n- id: on-chain-lightning-layer-notation\n  kind: notation\n  appears_in: [BD-V-050, BD-V-051, BD-V-059, BD-V-066]\n  description: A shared distinction between on-chain and Lightning payment layers, requests, results, and failure risks. It does not stand for wallet custody.\n  distinct_from: [custody-labels, wallet-interface, payment-service]",
+      "adjacentGuideText": "### On-chain and Lightning payments\n\n<!-- VISUAL: BD-V-050\nALT: Comparison of on-chain and Lightning payment paths, including settlement, speed, fees, custody, and failure points.\nASSET: y_assets (archived)/diploma/bd-v-050.svg\n-->\n\nBitcoin has more than one payment path. **On-chain** payments are recorded in Bitcoin's blockchain and gain confirmations. **Lightning** is a payment network built on Bitcoin that can support fast, frequent payments. A Lightning payment may complete quickly or fail, and its wallet can still be custodial or self-custodial.\n\n| Question | On-chain Bitcoin | Lightning |\n| --- | --- | --- |\n| Receiving information | Bitcoin address or on-chain payment request | Lightning invoice, offer, or supported Lightning address |\n| Payment result | Broadcast first, then confirmations | Usually completes or fails quickly |\n| Common use | Base-layer settlement or less frequent transfer | Fast, smaller, or frequent payment |\n| Beginner checks | Correct address, network, amount, fee, and confirmation status | Correct invoice or request, amount, expiry, custody, and payment result |\n\n<!-- VISUAL: BD-V-051\nALT: Accessible table comparing on-chain Bitcoin and Lightning payment questions and trade-offs.\nASSET: y_assets (archived)/diploma/bd-v-051.svg\n-->\n\nWhich path does the recipient expect? Confirm whether they have provided an on-chain address or a Lightning invoice or request before paying. An on-chain wallet cannot directly pay every Lightning invoice, and a Lightning wallet may not support every on-chain action. Some applications support both paths but may add fees or service dependencies. Detailed Lightning setup, channels, routing, and liquidity are Advanced Learning; live local practice belongs in **Module 4** when it is safe and appropriate.\n\nImagine that a prepared scenario offers both payment paths. Which request can the intended wallet use, and what would you check before approving it? The answer depends on the receiving request, the wallet, and the situation — not on a universal “best” path.\n\n"
+    },
+    "deferredLabels": [
+      "Lightning payment channels above Bitcoin base-layer settlement",
+      "Payment request / route / timing / fee conditions / custody variability / failure modes",
+      "Small-payment example / final-settlement example",
+      "Lightning is not a separate coin. Custody varies; a successful payment does not prove self-custody."
+    ],
+    "deferredConnectors": [
+      "Editable upper channel routes between phones",
+      "Editable base-layer sequence between blocks",
+      "Editable layer relationship from channels to base-layer settlement"
+    ],
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 278843,
+      "partialAlphaPixels": 51276,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Blank endpoint phones above three separate flat base-layer blocks. Same orange emphasis links payment and settlement conceptually; no separate coin logo, channel connectors or text. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

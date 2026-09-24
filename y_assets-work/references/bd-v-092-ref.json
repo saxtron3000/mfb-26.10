@@ -1,0 +1,199 @@
+{
+  "assetId": "BD-V-092",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-092-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-092-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "reused-three-receipts",
+      "boundsPercent": {
+        "x": 6,
+        "y": 11,
+        "width": 38,
+        "height": 26
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "reused-one-address",
+      "boundsPercent": {
+        "x": 20,
+        "y": 39,
+        "width": 11,
+        "height": 18
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "fresh-three-receipts",
+      "boundsPercent": {
+        "x": 56,
+        "y": 11,
+        "width": 38,
+        "height": 26
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "fresh-three-addresses",
+      "boundsPercent": {
+        "x": 57,
+        "y": 39,
+        "width": 36,
+        "height": 18
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "observer",
+      "boundsPercent": {
+        "x": 4,
+        "y": 59,
+        "width": 23,
+        "height": 34
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "uncertain-external-information",
+      "boundsPercent": {
+        "x": 27,
+        "y": 71,
+        "width": 18,
+        "height": 16
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "explorer-search-device",
+      "boundsPercent": {
+        "x": 58,
+        "y": 64,
+        "width": 11,
+        "height": 28
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "explorer-service",
+      "boundsPercent": {
+        "x": 71,
+        "y": 64,
+        "width": 25,
+        "height": 26
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "reused-three-receipts",
+      "reused-one-address",
+      "fresh-three-receipts",
+      "fresh-three-addresses",
+      "observer",
+      "uncertain-external-information",
+      "explorer-search-device",
+      "explorer-service"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 47,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-092` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### Address history and reuse lookup`, after the line beginning `**Offline fallback:** Use a printed sequence showing one address used once and another reused a…`. Replace the `BD-V-092` marker at EG line 1933. | EG: 1931 | Makes address reuse and the limits of public-data inference visible without exposing anyone’s transactions. | **Address reuse and information linkage.** Use fictional non-address labels A/B/C, arrows, and invented receipts. Compare multiple receipts to one address with separate fresh receiving addresses. Show an observer linking reused receipts, plus a dotted uncertain link from external identifying information. Add a separate explorer-search arrow showing that a service may learn which address interests a device. State that an address alone does not prove legal identity and fresh addresses do not guarantee anonymity. No real addresses, txids, amounts belonging to people, or scannable QR codes. Related BD-V-046 concerns confirmations, not identity linkage. Caption: `Fresh addresses reduce easy linkage; they do not guarantee anonymity.` Alt text: `Several fictional receipts share one reused address and are easily linked. Fresh receiving addresses reduce that direct link, but outside information and explorer searches can still reveal relationships. Public data does not by itself prove a person’s identity.` Master: `y_assets (archived)/diploma/bd-v-092.svg`. | Two-panel linkage diagram with an explorer privacy inset; full width. |",
+      "sourcePlacement": "EG only: under `### Address history and reuse lookup`, after the line beginning `**Offline fallback:** Use a printed sequence showing one address used once and another reused a…`. Replace the `BD-V-092` marker at EG line 1933.",
+      "sourceLocator": "EG: 1931",
+      "instructionalRelationship": "Makes address reuse and the limits of public-data inference visible without exposing anyone’s transactions.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "**Address reuse and information linkage.** Use fictional non-address labels A/B/C, arrows, and invented receipts. Compare multiple receipts to one address with separate fresh receiving addresses. Show an observer linking reused receipts, plus a dotted uncertain link from external identifying information. Add a separate explorer-search arrow showing that a service may learn which address interests a device. State that an address alone does not prove legal identity and fresh addresses do not guarantee anonymity. No real addresses, txids, amounts belonging to people, or scannable QR codes. Related BD-V-046 concerns confirmations, not identity linkage. Caption: `Fresh addresses reduce easy linkage; they do not guarantee anonymity.` Alt text: `Several fictional receipts share one reused address and are easily linked. Fresh receiving addresses reduce that direct link, but outside information and explorer searches can still reveal relationships. Public data does not by itself prove a person’s identity.` Master: `y_assets (archived)/diploma/bd-v-092.svg`.",
+      "format": "Two-panel linkage diagram with an explorer privacy inset; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "",
+      "adjacentGuideText": "### Address history and reuse lookup\n\nThis activity makes public-ledger [privacy](mfb-bd-lx.md#term-privacy) visible.\n\n**Purpose:** Show that address activity may be visible and that repeated address use can make transactions easier to link.\n\n**Materials:** A deliberately public, educator-prepared address or transaction; a local-node interface, optional explorer, or dated printed screenshots; privacy questions.\n\n**Safety boundary:** Never ask learners to search, display, or share an address or transaction belonging to them, a classmate, a private individual, or an unconsenting organization. Searching an address through a third-party explorer can itself reveal interest in that address.\n\n**Facilitation:**\n\n1. State why the example is safe and public.\n2. Ask learners what they expect an observer can see.\n3. Identify transactions, amounts, timing, or reuse visible in the prepared example.\n4. Ask whether the address appears to have received more than once.\n5. Discuss what an observer can infer and what they cannot know with certainty.\n6. Show that many wallets generate a fresh receiving address.\n7. Explain that old addresses may remain valid, but fresh addresses improve [privacy](mfb-bd-lx.md#term-privacy) by reducing easy linkage.\n\n**Debrief:**\n\n- Does an address reveal a legal identity by itself?\n- How could combining public data with other information change the answer?\n- Does using a fresh address make Bitcoin private in every respect?\n- Why should an educator avoid searching a learner's address on a public website?\n\n**Offline fallback:** Use a printed sequence showing one address used once and another reused across several receipts.\n\n<!-- VISUAL: BD-V-092\nALT: Several fictional receipts share one reused address and are easily linked. Fresh receiving addresses reduce that direct link, but outside information and explorer searches can still reveal relationships. Public data does not by itself prove a person’s identity.\nASSET: y_assets (archived)/diploma/bd-v-092.svg\nUSE: Educator-only diagram; see the asset index brief.\n-->\n\n"
+    },
+    "deferredLabels": [
+      "Fictional non-address labels A/B/C only in editable production.",
+      "Address alone does not prove legal identity.",
+      "Fresh addresses reduce easy linkage; do not guarantee anonymity."
+    ],
+    "deferredConnectors": [
+      "Reuse receipts→one address; fresh receipts→separate receiving addresses.",
+      "Observer links reused receipts; external identity link dotted/explicitly uncertain.",
+      "Separate device→explorer service search arrow: service may learn which address interests device."
+    ],
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 195601,
+      "partialAlphaPixels": 132031,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Reuse panel exactly three blank receipts over one address node, fresh panel three receipts over three nodes. Observer and blank external-information card separate from blank explorer device/service inset. Corrected pseudo-writing and matte fragments. No real addresses, amounts, txids or QR. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

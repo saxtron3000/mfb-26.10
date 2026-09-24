@@ -1,0 +1,223 @@
+{
+  "accepted": true,
+  "generationDate": "2026-09-22",
+  "outputHint": "Generated images are saved to /Users/saxtron3000/.codex/generated_images/01a0c5fb-bad1-7240-9370-82da60495420 as /Users/saxtron3000/.codex/generated_images/01a0c5fb-bad1-7240-9370-82da60495420/exec-e46918c1-2a23-455b-b523-875bad0ae452.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "toolInput": {},
+  "export": {
+    "width": 768,
+    "height": 432,
+    "sourceWidth": 1672,
+    "sourceHeight": 941,
+    "transparentPixels": 243462,
+    "partialAlphaPixels": 84988,
+    "totalPixels": 331776,
+    "jpegCornerRGBA": [
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ]
+    ],
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+  },
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "local-context",
+      "boundsPercent": {
+        "x": 3,
+        "y": 28,
+        "width": 13,
+        "height": 19
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "need-opportunity",
+      "boundsPercent": {
+        "x": 16.6,
+        "y": 28,
+        "width": 13,
+        "height": 19
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "focused-module",
+      "boundsPercent": {
+        "x": 30.2,
+        "y": 28,
+        "width": 13,
+        "height": 19
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "verify-facts-tools-expertise",
+      "boundsPercent": {
+        "x": 43.8,
+        "y": 28,
+        "width": 13,
+        "height": 19
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "design-PPP",
+      "boundsPercent": {
+        "x": 57.4,
+        "y": 28,
+        "width": 13,
+        "height": 19
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "safety-evidence-C11",
+      "boundsPercent": {
+        "x": 71,
+        "y": 28,
+        "width": 13,
+        "height": 19
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "debrief-next-step",
+      "boundsPercent": {
+        "x": 84.6,
+        "y": 28,
+        "width": 13,
+        "height": 19
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "PPP-three-stages",
+      "boundsPercent": {
+        "x": 58,
+        "y": 35,
+        "width": 11,
+        "height": 7
+      },
+      "zIndex": 2,
+      "treatmentNotes": "Presentation, Practice, Production nested in design stage"
+    },
+    {
+      "elementId": "C11-two-preserved-requirements",
+      "boundsPercent": {
+        "x": 73,
+        "y": 35,
+        "width": 9,
+        "height": 7
+      },
+      "zIndex": 2,
+      "treatmentNotes": "C11.1 sequence and C11.2 explanation; not result rows"
+    },
+    {
+      "elementId": "existing-non-bitcoin-alternative",
+      "boundsPercent": {
+        "x": 17,
+        "y": 49,
+        "width": 80,
+        "height": 8
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "readiness-gate",
+      "boundsPercent": {
+        "x": 45,
+        "y": 59,
+        "width": 10,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "not-suitable-here",
+      "boundsPercent": {
+        "x": 86,
+        "y": 62,
+        "width": 11,
+        "height": 11
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "local-context",
+      "need-opportunity",
+      "focused-module",
+      "verify-facts-tools-expertise",
+      "design-PPP",
+      "safety-evidence-C11",
+      "debrief-next-step",
+      "PPP-three-stages",
+      "C11-two-preserved-requirements",
+      "existing-non-bitcoin-alternative",
+      "readiness-gate",
+      "not-suitable-here"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 15,
+    "deferredConnectors": [
+      "Seven-step sequence in source order.",
+      "Failed verification→focused-task selection.",
+      "Existing non-Bitcoin alternative carried from need to debrief.",
+      "PPP relates BD-V-056; readiness gate relates BD-V-095.",
+      "Not suitable here is legitimate conclusion, not failure."
+    ],
+    "deferredLabels": [
+      "C11.1 safe sequence; C11.2 explanation remain one competency result.",
+      "Begin with local need, not named product."
+    ]
+  },
+  "unresolved": [],
+  "reviewNote": "Visually reviewed both PNG and JPG. Seven planning steps in order, three PPP components nested in design and two C11 requirements nested in safety/evidence. Alternative spans need through debrief; readiness gate and valid not-suitable conclusion separate. Blank filled nodes no text/lines. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+}

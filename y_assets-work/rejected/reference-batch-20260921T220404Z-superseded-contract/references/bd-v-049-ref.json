@@ -1,0 +1,41 @@
+{
+  "assetId": "BD-V-049",
+  "specVersion": 2,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "All reference-image elements: no image was generated. See the complete incorporated asset brief in deferredForEditableCoding."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Preflight blocked by the mutually incompatible JPEG and transparency requirements; no image exists, no coordinates are asserted, and visual conformance has not been assessed.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "reviewStatus": "blocked-before-generation",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "canvasNote": "Landscape and 1024px are requested defaults only. Actual dimensions and aspect ratio are unset because no image exists; the asset brief takes precedence on resumption.",
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-049` | Pablo | Essential | Table | 35 | make the acquisition-pathway questions practical and easy to scan. | Under `### Acquiring and exchanging bitcoin`, replace the existing `Risk area / Question to ask` table visually while retaining an accessible text equivalent. | 975 | Helps learners assess a complete acquisition or exchange route instead of focusing only on price. | Preserve the six existing risk-area rows and their questions: costs; custody; identity and privacy; withdrawal and settlement; counterparty and safety; local context. Keep each question editable, neutral, and locally verifiable. Include no provider names, rankings, or legal conclusions. | Icon-supported risk-check table; full width. |",
+      "sourcePlacement": "Under `### Acquiring and exchanging bitcoin`, replace the existing `Risk area / Question to ask` table visually while retaining an accessible text equivalent.",
+      "sourceLocator": "975",
+      "instructionalRelationship": "Helps learners assess a complete acquisition or exchange route instead of focusing only on price.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Preserve the six existing risk-area rows and their questions: costs; custody; identity and privacy; withdrawal and settlement; counterparty and safety; local context. Keep each question editable, neutral, and locally verifiable. Include no provider names, rankings, or legal conclusions.",
+      "format": "Icon-supported risk-check table; full width.",
+      "existingStructuralRecord": null,
+      "relevantSharedRegister": "- id: payment-pathway-symbols\n  kind: symbol\n  appears_in: [BD-V-048, BD-V-049, BD-V-058, BD-V-062, BD-V-063, BD-V-064]\n  description: Reusable symbols for the stages and dependencies in an acquisition, exchange, payment, or conversion pathway. They keep local options editable and distinguish routes from recommendations.\n  distinct_from: [investment-chart, provider-endorsement, universal-service-map]",
+      "note": "These are verbatim source requirements, not generated-image observations or newly approved production specifications. No text, connector, QR, or placement has been rendered. Missing exact guide strings must be retrieved before image generation when needed."
+    }
+  },
+  "unresolved": [
+    "FORMAT-001: The required .jpg file must have a transparent background, but JPEG cannot encode alpha transparency. A transparent PNG plus a white-background JPG, or a PNG replacement, requires a change to the requested output contract. No format change has been authorized. No image was generated or visually reviewed."
+  ]
+}

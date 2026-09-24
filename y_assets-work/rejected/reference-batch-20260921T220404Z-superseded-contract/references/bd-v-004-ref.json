@@ -1,0 +1,41 @@
+{
+  "assetId": "BD-V-004",
+  "specVersion": 2,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "All reference-image elements: no image was generated. See the complete incorporated asset brief in deferredForEditableCoding."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Preflight blocked by the mutually incompatible JPEG and transparency requirements; no image exists, no coordinates are asserted, and visual conformance has not been assessed.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "reviewStatus": "blocked-before-generation",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "canvasNote": "Landscape and 1024px are requested defaults only. Actual dimensions and aspect ratio are unset because no image exists; the asset brief takes precedence on resumption.",
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-004` | AI | Essential | Diagram | 6–7 | clarify the Problem → Solution → Action → Connect module structure and show timing as adaptable. | Under `### How the 4-module learning path is organized`, immediately before the existing four-row table. | 211 | Gives learners a mental map of the Diploma before they enter Module 1. | Show one connected sequence: `1 Problem: Understanding Money → 2 Solution: How Bitcoin Works → 3 Action: Using Bitcoin Safely → 4 Connect: Bitcoin in Your Community`. Mark Modules 1–3 as shared learning and Module 4 as educator-curated, locally relevant, and required. Show that Connect links the first three stages to a local need, realistic alternative, safe task, and next step. Include each module's guiding question in short editable text. The final module must not be reduced to spending. | Four-stage roadmap; full width. |",
+      "sourcePlacement": "Under `### How the 4-module learning path is organized`, immediately before the existing four-row table.",
+      "sourceLocator": "211",
+      "instructionalRelationship": "Gives learners a mental map of the Diploma before they enter Module 1.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Show one connected sequence: `1 Problem: Understanding Money → 2 Solution: How Bitcoin Works → 3 Action: Using Bitcoin Safely → 4 Connect: Bitcoin in Your Community`. Mark Modules 1–3 as shared learning and Module 4 as educator-curated, locally relevant, and required. Show that Connect links the first three stages to a local need, realistic alternative, safe task, and next step. Include each module's guiding question in short editable text. The final module must not be reduced to spending.",
+      "format": "Four-stage roadmap; full width.",
+      "existingStructuralRecord": "```yaml\nid: BD-V-004\nspec_version: 1\ntype: Diagram\nillustration_need: reference_required\ncomposition: left-to-right sequence of four stages, single row\nelements:\n  - id: problem\n    what: Problem stage\n    instructional_role: frames understanding money\n  - id: solution\n    what: Solution stage\n    instructional_role: frames how Bitcoin works\n  - id: action\n    what: Action stage\n    instructional_role: frames using Bitcoin safely\n  - id: connect\n    what: Connect stage\n    instructional_role: frames local community learning\n  - id: local-need\n    what: local need\n    instructional_role: grounds Connect in context\n  - id: realistic-alternative\n    what: realistic alternative\n    instructional_role: preserves comparison in Connect\n  - id: safe-task\n    what: safe task\n    instructional_role: applies earlier learning safely\n  - id: next-step\n    what: next step\n    instructional_role: carries learning onward\nrelationships:\n  - problem -> solution: learning progression\n  - solution -> action: learning progression\n  - action -> connect: learning progression\n  - connect -> local-need: local application\n  - connect -> realistic-alternative: local comparison\n  - connect -> safe-task: safe application\n  - connect -> next-step: onward action\nreading_order: [problem, solution, action, connect, local-need, realistic-alternative, safe-task, next-step]\ntext_layer:\n  total_count: 7\n  problem: \"1 Problem: Understanding Money\"\n  solution: \"2 Solution: How Bitcoin Works\"\n  action: \"3 Action: Using Bitcoin Safely\"\n  connect: \"4 Connect: Bitcoin in Your Community\"\n  shared-learning: \"Modules 1–3: shared learning\"\n  connect-status: \"Module 4: educator-curated, locally relevant, and required\"\n  guiding-question: STRING-TODO\n  note: Supply each module's existing guiding question from the adjacent course text.\nfixed_text: [\"1\", \"2\", \"3\", \"4\"]\nlocalizable: [problem, solution, action, connect, shared-learning, connect-status, guiding-question]\nmust_not:\n  - Do not reduce the final module to spending.\nsafety: []\ngreyscale_carrier: left-to-right position, stage number, and distinct stage patterns\nopen: []\n```",
+      "relevantSharedRegister": "",
+      "note": "These are verbatim source requirements, not generated-image observations or newly approved production specifications. No text, connector, QR, or placement has been rendered. Missing exact guide strings must be retrieved before image generation when needed."
+    }
+  },
+  "unresolved": [
+    "FORMAT-001: The required .jpg file must have a transparent background, but JPEG cannot encode alpha transparency. A transparent PNG plus a white-background JPG, or a PNG replacement, requires a change to the requested output contract. No format change has been authorized. No image was generated or visually reviewed."
+  ]
+}

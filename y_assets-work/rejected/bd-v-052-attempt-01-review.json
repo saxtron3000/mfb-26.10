@@ -1,0 +1,13 @@
+{
+  "assetId": "BD-V-052",
+  "attempt": 1,
+  "status": "rejected",
+  "reviewedAt": "2026-09-21T23:41:46.723985+00:00",
+  "reason": "Phone screens contain prohibited arrows. Recovery and tool props resemble USB storage, risking an unintended recommendation to store a seed digitally. Replace with blank training/signing devices.",
+  "files": [
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-052-attempt-01.png",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-052-attempt-01.jpg",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-052-attempt-01.json",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-052-attempt-01.txt"
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "assetId": "BD-V-011",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "4:3",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-011-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-011-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 576
+  },
+  "placement": [
+    {
+      "elementId": "safe-source",
+      "boundsPercent": {
+        "x": 4,
+        "y": 17,
+        "width": 32,
+        "height": 65
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "clean-water-available",
+      "boundsPercent": {
+        "x": 20,
+        "y": 57,
+        "width": 16,
+        "height": 26
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "shortage-source",
+      "boundsPercent": {
+        "x": 51,
+        "y": 17,
+        "width": 32,
+        "height": 65
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "same-clean-water-shortage",
+      "boundsPercent": {
+        "x": 59,
+        "y": 57,
+        "width": 16,
+        "height": 26
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "empty-access-container",
+      "boundsPercent": {
+        "x": 77,
+        "y": 45,
+        "width": 21,
+        "height": 37
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "safe-source",
+      "clean-water-available",
+      "shortage-source",
+      "same-clean-water-shortage",
+      "empty-access-container"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 30,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-011` | Pablo | Essential | Image | 10 | compare clean water in two contexts to show context-dependent value and price. | Under `### Scarcity, value, and exchange`, immediately after the sentence “Clean water may be inexpensive near a safe public source and extremely valuable during a shortage.” | 303 | Makes the same good's changing value and price clear through a concrete example. | Use two parallel images of the same quantity of clean water. Panel 1: near a safe public source, readily available, with an illustrative lower-price label. Panel 2: during a shortage, limited access and urgent need, with an illustrative higher-price label. State clearly that availability, need, and circumstances change value and price; do not imply that water scarcity or high prices are ethically acceptable. Keep people, setting, language, and price units editable for localization. | Two-panel contextual-value illustration; half to full width. |",
+      "sourcePlacement": "Under `### Scarcity, value, and exchange`, immediately after the sentence “Clean water may be inexpensive near a safe public source and extremely valuable during a shortage.”",
+      "sourceLocator": "303",
+      "instructionalRelationship": "Makes the same good's changing value and price clear through a concrete example.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Use two parallel images of the same quantity of clean water. Panel 1: near a safe public source, readily available, with an illustrative lower-price label. Panel 2: during a shortage, limited access and urgent need, with an illustrative higher-price label. State clearly that availability, need, and circumstances change value and price; do not imply that water scarcity or high prices are ethically acceptable. Keep people, setting, language, and price units editable for localization.",
+      "format": "Two-panel contextual-value illustration; half to full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "",
+      "adjacentGuideText": "### Scarcity, value, and exchange\n\nResources are limited, while human wants are not. **Scarcity** means that choosing one use of a resource prevents another use. Time, land, energy, good health, tools, and money are all scarce.\n\nThe value of a good is not contained inside the object. People value goods according to their needs, preferences, information, and circumstances. Clean water may be inexpensive near a safe public source and extremely valuable during a shortage.\n\n<!-- VISUAL: BD-V-011\nALT: The same clean water shown as more available near a safe source and more valuable during a shortage.\nASSET: y_assets (archived)/diploma/bd-v-011.svg\n-->\n\nExchange happens when both sides prefer what they receive to what they give up. They do not need to agree that the two items have the same personal value. They only need to agree to the terms.\n\nThree ideas help explain everyday choices:\n\n- **Opportunity cost** is the best alternative you give up when you make a choice. Money spent on transport cannot also be spent on food.\n- **Time preference** describes how strongly a person prefers value now instead of later. Urgent needs can create a high preference for the present. Saving for a future goal shows a greater willingness to wait.\n- **Trade-off** means gaining one benefit while accepting a cost or giving up another benefit.\n\n<!-- VISUAL: BD-V-012\nALT: Everyday choice showing opportunity cost, time preference, and trade-off.\nASSET: y_assets (archived)/diploma/bd-v-012.svg\n-->\n\nScarcity alone does not guarantee value. An item may be rare and still have no demand. A useful monetary asset combines limited supply with properties and demand that make people willing to hold or exchange it.\n\n"
+    },
+    "exportVerification": {
+      "width": 768,
+      "height": 576,
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "transparentPixels": 330764,
+      "partialAlphaPixels": 108129,
+      "totalPixels": 442368,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Matched glasses contain the same amount of clean water; the left source flows and the right source is dry beside an empty unmarked container. No pseudo-writing remains. The equal quantities and contrasting access are clear. The public-source context, urgent need, relative price labels and ethical qualification require editable text. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": [
+    "Editable price amounts and localized price units were not supplied. Preserve illustrative lower/higher-price labels and the qualification that scarcity and high prices are not ethically endorsed; do not present invented prices as data."
+  ]
+}

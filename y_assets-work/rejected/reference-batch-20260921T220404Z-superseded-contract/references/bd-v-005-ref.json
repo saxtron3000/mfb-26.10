@@ -1,0 +1,41 @@
+{
+  "assetId": "BD-V-005",
+  "specVersion": 2,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "All reference-image elements: no image was generated. See the complete incorporated asset brief in deferredForEditableCoding."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Preflight blocked by the mutually incompatible JPEG and transparency requirements; no image exists, no coordinates are asserted, and visual conformance has not been assessed.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "reviewStatus": "blocked-before-generation",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "canvasNote": "Landscape and 1024px are requested defaults only. Actual dimensions and aspect ratio are unset because no image exists; the asset brief takes precedence on resumption.",
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-005` | AI | Supporting | Table | 6–7 | turn the Problem → Solution → Action → Connect learning-path table into a clear visual reference. | Under `### How the 4-module learning path is organized`, replace the existing four-row table visually while retaining an accessible text equivalent. | 211 | Lets learners compare each Diploma module's role, guiding question, and promise at a glance. | Preserve the columns `Module`, `Role`, `Guiding question`, and `Learner promise`. Use four clearly separated, editable rows for Problem: Understanding Money, Solution: How Bitcoin Works, Action: Using Bitcoin Safely, and Connect: Bitcoin in Your Community. Mark Modules 1–3 as shared learning and Module 4 as educator-curated, locally relevant, and required for Diploma completion. | Four-module reference table; full width. |",
+      "sourcePlacement": "Under `### How the 4-module learning path is organized`, replace the existing four-row table visually while retaining an accessible text equivalent.",
+      "sourceLocator": "211",
+      "instructionalRelationship": "Lets learners compare each Diploma module's role, guiding question, and promise at a glance.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Preserve the columns `Module`, `Role`, `Guiding question`, and `Learner promise`. Use four clearly separated, editable rows for Problem: Understanding Money, Solution: How Bitcoin Works, Action: Using Bitcoin Safely, and Connect: Bitcoin in Your Community. Mark Modules 1–3 as shared learning and Module 4 as educator-curated, locally relevant, and required for Diploma completion.",
+      "format": "Four-module reference table; full width.",
+      "existingStructuralRecord": "```yaml\nid: BD-V-005\nspec_version: 1\ntype: Table\nillustration_need: reference_required\ncomposition: one four-row reference table with four columns\nelements:\n  - id: module-column\n    what: Module column\n    instructional_role: names each course module\n  - id: role-column\n    what: Role column\n    instructional_role: states each module purpose\n  - id: guiding-question-column\n    what: Guiding question column\n    instructional_role: prompts learner inquiry\n  - id: learner-promise-column\n    what: Learner promise column\n    instructional_role: states learner outcome\n  - id: problem-row\n    what: Problem row\n    instructional_role: records first module\n  - id: solution-row\n    what: Solution row\n    instructional_role: records second module\n  - id: action-row\n    what: Action row\n    instructional_role: records third module\n  - id: connect-row\n    what: Connect row\n    instructional_role: records required local module\nrelationships:\n  - module-column -> problem-row: identifies first module\n  - module-column -> solution-row: identifies second module\n  - module-column -> action-row: identifies third module\n  - module-column -> connect-row: identifies fourth module\nreading_order: [module-column, role-column, guiding-question-column, learner-promise-column, problem-row, solution-row, action-row, connect-row]\ntext_layer:\n  total_count: 11\n  module: \"Module\"\n  role: \"Role\"\n  guiding-question: \"Guiding question\"\n  learner-promise: \"Learner promise\"\n  problem: \"Problem: Understanding Money\"\n  solution: \"Solution: How Bitcoin Works\"\n  action: \"Action: Using Bitcoin Safely\"\n  connect: \"Connect: Bitcoin in Your Community\"\n  shared-learning: \"Modules 1–3: shared learning\"\n  connect-status: \"Module 4: educator-curated, locally relevant, and required for Diploma completion\"\n  row-content: STRING-TODO\n  note: Copy each existing role, guiding question, and learner promise from the replaced table.\nfixed_text: []\nlocalizable: [module, role, guiding-question, learner-promise, problem, solution, action, connect, shared-learning, connect-status, row-content]\nmust_not: []\nsafety: []\ngreyscale_carrier: table position, row rules, and column headings\nopen: []\n```",
+      "relevantSharedRegister": "",
+      "note": "These are verbatim source requirements, not generated-image observations or newly approved production specifications. No text, connector, QR, or placement has been rendered. Missing exact guide strings must be retrieved before image generation when needed."
+    }
+  },
+  "unresolved": [
+    "FORMAT-001: The required .jpg file must have a transparent background, but JPEG cannot encode alpha transparency. A transparent PNG plus a white-background JPG, or a PNG replacement, requires a change to the requested output contract. No format change has been authorized. No image was generated or visually reviewed."
+  ]
+}

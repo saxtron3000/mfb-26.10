@@ -1,0 +1,51 @@
+{
+  "assetId": "BD-V-008",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024,
+    "reference": {
+      "fileName": "bd-v-008-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-008-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    }
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "Not generated or reviewed yet."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Generation and visual review pending.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "pngTransparencyVerified": false,
+    "jpgWhiteBackgroundVerified": false,
+    "exportsMatch": false,
+    "reviewStatus": "pending",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-008` | Pablo | Essential | Diagram | 8 | illustrate the functions and properties of money. | SG: Under `### Functions and properties of money`, after the properties table and before “No form of money scores perfectly.” EG: under `### Functions and properties of money`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor. | SG: 275; EG: 1032 | Separates what money does from the qualities that make it useful. | Use two linked layers. Layer 1 shows the three functions with small, simple icons: exchange arrows for medium of exchange; a price tag or measuring symbol for unit of account; and a clock with protected value for store of value. Layer 2 shows the seven properties: durability, portability, divisibility, fungibility, scarcity, acceptability, verifiability. Use cash, gold, and a generic digital monetary asset only as examples; do not assign a universal winner or a simplistic total score. | Icon-led two-layer diagram; full width. |",
+      "sourcePlacement": "SG: Under `### Functions and properties of money`, after the properties table and before “No form of money scores perfectly.” EG: under `### Functions and properties of money`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor.",
+      "sourceLocator": "SG: 275; EG: 1032",
+      "instructionalRelationship": "Separates what money does from the qualities that make it useful.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Use two linked layers. Layer 1 shows the three functions with small, simple icons: exchange arrows for medium of exchange; a price tag or measuring symbol for unit of account; and a clock with protected value for store of value. Layer 2 shows the seven properties: durability, portability, divisibility, fungibility, scarcity, acceptability, verifiability. Use cash, gold, and a generic digital monetary asset only as examples; do not assign a universal winner or a simplistic total score.",
+      "format": "Icon-led two-layer diagram; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "",
+      "adjacentGuideText": "### Functions and properties of money\n\nMoney usually performs three main functions.\n\n**Medium of exchange:** People accept it in payment for goods and services. This reduces the need for direct barter.\n\n**Unit of account:** Prices are expressed in a shared unit. This allows people to compare the cost of different goods and keep financial records.\n\n**Store of value:** Value can be moved from the present into the future. No money stores value perfectly, but some forms lose purchasing power more slowly than others.\n\nAn item can perform one function better than another. A national currency may be widely accepted for daily payments while another asset may be chosen for long-term saving.\n\nUseful money also tends to have several properties:\n\n| Property | Question to ask |\n| --- | --- |\n| Durability | Can it remain usable over time? |\n| Portability | Can people move or transfer it without excessive difficulty? |\n| Divisibility | Can it represent both small and large amounts? |\n| Fungibility | Are equal units normally interchangeable? |\n| Scarcity | Is its supply difficult to increase without limit? |\n| Acceptability | Will other people receive it in exchange? |\n| Verifiability | Can people check that it is genuine? |\n\n<!-- VISUAL: BD-V-007\nALT: Money properties paired with questions for comparison.\nASSET: y_assets (archived)/diploma/bd-v-007.svg\n-->\n \nNo form of money scores perfectly.\n\n<!-- VISUAL: BD-V-008\nALT: Linked diagram of money’s three functions and seven useful properties.\nASSET: y_assets (archived)/diploma/bd-v-008.svg\n-->\n\nNo form of money scores perfectly. [Gold](mfb-bd-lx.md#gold) is durable and scarce but difficult to divide and transport for small payments. [Paper cash](mfb-bd-lx.md#paper-cash) is portable and accepted locally, but it can be damaged and its supply can expand. The best comparison depends on the purpose, place, and time.\n\n**Think critically:** Name a time when you chose one type of money or asset over another. What was the purpose? Compare the properties of the options you could have used. Which properties mattered most to you, and why?\n\n"
+    }
+  },
+  "unresolved": []
+}

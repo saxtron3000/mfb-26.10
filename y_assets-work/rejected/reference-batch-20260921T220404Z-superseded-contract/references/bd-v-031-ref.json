@@ -1,0 +1,41 @@
+{
+  "assetId": "BD-V-031",
+  "specVersion": 2,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "All reference-image elements: no image was generated. See the complete incorporated asset brief in deferredForEditableCoding."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Preflight blocked by the mutually incompatible JPEG and transparency requirements; no image exists, no coordinates are asserted, and visual conformance has not been assessed.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "reviewStatus": "blocked-before-generation",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "canvasNote": "Landscape and 1024px are requested defaults only. Actual dimensions and aspect ratio are unset because no image exists; the asset brief takes precedence on resumption.",
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-031` | AI | Essential | Diagram | 21 | clarify users, wallet clients, full nodes, and developer proposals. | SG: Under `### Users, nodes, and miners`, after the paragraph on developers and before “These roles limit one another.” EG: under `### Users, nodes, miners, developers, and services`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor. | SG: 590; EG: 1496 | Gives beginners a durable model of who does what in Bitcoin. | Show users signing or accepting transactions; nodes validating and relaying; miners assembling candidate blocks and performing proof of work; developers proposing software; services serving customers. Then show the checks among roles. Do not label all wallet users as nodes or developers as rule-makers. | Participant role map; full width. |",
+      "sourcePlacement": "SG: Under `### Users, nodes, and miners`, after the paragraph on developers and before “These roles limit one another.” EG: under `### Users, nodes, miners, developers, and services`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor.",
+      "sourceLocator": "SG: 590; EG: 1496",
+      "instructionalRelationship": "Gives beginners a durable model of who does what in Bitcoin.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Show users signing or accepting transactions; nodes validating and relaying; miners assembling candidate blocks and performing proof of work; developers proposing software; services serving customers. Then show the checks among roles. Do not label all wallet users as nodes or developers as rule-makers.",
+      "format": "Participant role map; full width.",
+      "existingStructuralRecord": null,
+      "relevantSharedRegister": "- id: protocol-node-symbol\n  kind: symbol\n  appears_in: [BD-V-024, BD-V-026, BD-V-030, BD-V-031, BD-V-032, BD-V-100]\n  description: A neutral network participant symbol used for independent verification and node-enforced rules. It is not a wallet, miner, service, or central controller.\n  distinct_from: [miner, wallet, payment-service, central-authority]\n- id: miner-symbol\n  kind: symbol\n  appears_in: [BD-V-026, BD-V-031, BD-V-032, BD-V-033]\n  description: A distinct network-role symbol for proof-of-work block production. It never approves Bitcoin's rules or controls the network.\n  distinct_from: [node, protocol, wallet, payment-service]",
+      "note": "These are verbatim source requirements, not generated-image observations or newly approved production specifications. No text, connector, QR, or placement has been rendered. Missing exact guide strings must be retrieved before image generation when needed."
+    }
+  },
+  "unresolved": [
+    "FORMAT-001: The required .jpg file must have a transparent background, but JPEG cannot encode alpha transparency. A transparent PNG plus a white-background JPG, or a PNG replacement, requires a change to the requested output contract. No format change has been authorized. No image was generated or visually reviewed."
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "assetId": "BD-V-030",
+  "specVersion": 2,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "All reference-image elements: no image was generated. See the complete incorporated asset brief in deferredForEditableCoding."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Preflight blocked by the mutually incompatible JPEG and transparency requirements; no image exists, no coordinates are asserted, and visual conformance has not been assessed.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "reviewStatus": "blocked-before-generation",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "canvasNote": "Landscape and 1024px are requested defaults only. Actual dimensions and aspect ratio are unset because no image exists; the asset brief takes precedence on resumption.",
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-030` | AI | Supporting | Diagram | 21 | distinguish the Bitcoin network from services and intermediaries. | Under `### Peer-to-peer transfer`, after the paragraph explaining that peer-to-peer does not always mean only two computers communicate. | 572 | Separates direct settlement rules from the communications and service infrastructure a transaction may pass through. | Show sender wallet → network peers → recipient wallet, with optional exchange, hosted wallet, payment service, and internet provider around the path. Use different line styles for transaction propagation, custody, and communications. The presence of network infrastructure must not be mistaken for central approval. | Layered transfer-path diagram; full width. |",
+      "sourcePlacement": "Under `### Peer-to-peer transfer`, after the paragraph explaining that peer-to-peer does not always mean only two computers communicate.",
+      "sourceLocator": "572",
+      "instructionalRelationship": "Separates direct settlement rules from the communications and service infrastructure a transaction may pass through.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Show sender wallet → network peers → recipient wallet, with optional exchange, hosted wallet, payment service, and internet provider around the path. Use different line styles for transaction propagation, custody, and communications. The presence of network infrastructure must not be mistaken for central approval.",
+      "format": "Layered transfer-path diagram; full width.",
+      "existingStructuralRecord": null,
+      "relevantSharedRegister": "- id: protocol-node-symbol\n  kind: symbol\n  appears_in: [BD-V-024, BD-V-026, BD-V-030, BD-V-031, BD-V-032, BD-V-100]\n  description: A neutral network participant symbol used for independent verification and node-enforced rules. It is not a wallet, miner, service, or central controller.\n  distinct_from: [miner, wallet, payment-service, central-authority]",
+      "note": "These are verbatim source requirements, not generated-image observations or newly approved production specifications. No text, connector, QR, or placement has been rendered. Missing exact guide strings must be retrieved before image generation when needed."
+    }
+  },
+  "unresolved": [
+    "FORMAT-001: The required .jpg file must have a transparent background, but JPEG cannot encode alpha transparency. A transparent PNG plus a white-background JPG, or a PNG replacement, requires a change to the requested output contract. No format change has been authorized. No image was generated or visually reviewed."
+  ]
+}

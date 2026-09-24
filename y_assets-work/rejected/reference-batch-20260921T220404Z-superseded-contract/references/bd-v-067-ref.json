@@ -1,0 +1,41 @@
+{
+  "assetId": "BD-V-067",
+  "specVersion": 2,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "All reference-image elements: no image was generated. See the complete incorporated asset brief in deferredForEditableCoding."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Preflight blocked by the mutually incompatible JPEG and transparency requirements; no image exists, no coordinates are asserted, and visual conformance has not been assessed.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "reviewStatus": "blocked-before-generation",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "canvasNote": "Landscape and 1024px are requested defaults only. Actual dimensions and aspect ratio are unset because no image exists; the asset brief takes precedence on resumption.",
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-067` | AI | Supporting | Diagram | 39 and 48 | help learners connect with the local ecosystem through practical field/community work. | Under `### Local resource maps and community discovery`, immediately before `Record your local resources`. | 1363 | Connects community discovery with verification and privacy rather than treating a map listing as proof. | Provide an editable neighborhood or regional map template with merchant, educator, meetup, technical support, exchange information, legal or tax information, and missing-support markers. Every listing includes `date verified` and a safety note. Do not include real personal locations without consent. | Local resource-map template; full width. |",
+      "sourcePlacement": "Under `### Local resource maps and community discovery`, immediately before `Record your local resources`.",
+      "sourceLocator": "1363",
+      "instructionalRelationship": "Connects community discovery with verification and privacy rather than treating a map listing as proof.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Provide an editable neighborhood or regional map template with merchant, educator, meetup, technical support, exchange information, legal or tax information, and missing-support markers. Every listing includes `date verified` and a safety note. Do not include real personal locations without consent.",
+      "format": "Local resource-map template; full width.",
+      "existingStructuralRecord": null,
+      "relevantSharedRegister": "- id: educator\n  kind: actor\n  appears_in: [BD-V-056, BD-V-065, BD-V-066, BD-V-067, BD-V-089, BD-V-090, BD-V-091, BD-V-093, BD-V-094, BD-V-095, BD-V-097, BD-V-098]\n  description: A generic person who facilitates, observes, prepares a safe route, or plans a module. The educator does not act as a node, miner, wallet, or payment service.\n  distinct_from: [learner, service, wallet, node, miner, protocol]\n- id: local-resource-map-symbols\n  kind: symbol\n  appears_in: [BD-V-057, BD-V-065, BD-V-067, BD-V-068, BD-V-071]\n  description: Editable map symbols for merchants, educators, meetups, technical support, exchange information, and missing support. A listing records verification, not trustworthiness.\n  distinct_from: [provider-endorsement, personal-location, verified-safety-claim]",
+      "note": "These are verbatim source requirements, not generated-image observations or newly approved production specifications. No text, connector, QR, or placement has been rendered. Missing exact guide strings must be retrieved before image generation when needed."
+    }
+  },
+  "unresolved": [
+    "FORMAT-001: The required .jpg file must have a transparent background, but JPEG cannot encode alpha transparency. A transparent PNG plus a white-background JPG, or a PNG replacement, requires a change to the requested output contract. No format change has been authorized. No image was generated or visually reviewed."
+  ]
+}

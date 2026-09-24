@@ -1,0 +1,147 @@
+{
+  "assetId": "BD-V-041",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "4:3",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-041-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-041-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 576
+  },
+  "placement": [
+    {
+      "elementId": "hot-wallet",
+      "boundsPercent": {
+        "x": 7,
+        "y": 9,
+        "width": 25,
+        "height": 32
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "hardware-cold",
+      "boundsPercent": {
+        "x": 7,
+        "y": 46,
+        "width": 25,
+        "height": 15
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "custodial-account",
+      "boundsPercent": {
+        "x": 7,
+        "y": 66,
+        "width": 25,
+        "height": 26
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "editable-comparison-columns",
+      "boundsPercent": {
+        "x": 35,
+        "y": 9,
+        "width": 60,
+        "height": 84
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "hot-wallet",
+      "hardware-cold",
+      "custodial-account",
+      "editable-comparison-columns"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 24,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-041` | AI | Supporting | Table | 29 | make hot, cold, hardware, and custody distinctions easy to scan. | Under `### Hot and cold wallets`, replace the existing `Arrangement / Common strength / Responsibility to remember` table visually while retaining an accessible text equivalent. | 887 | Prevents learners from treating custody and connectivity as one scale. | Preserve the current columns and the rows for hot wallet, hardware or cold wallet, and custodial account. Distinguish key control from signing environment; use the qualifications in `BD-V-042` to prevent treating custody and connectivity as one scale. Preserve one common strength and one responsibility for each arrangement. | Wallet-use comparison table; full width. |",
+      "sourcePlacement": "Under `### Hot and cold wallets`, replace the existing `Arrangement / Common strength / Responsibility to remember` table visually while retaining an accessible text equivalent.",
+      "sourceLocator": "887",
+      "instructionalRelationship": "Prevents learners from treating custody and connectivity as one scale.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Preserve the current columns and the rows for hot wallet, hardware or cold wallet, and custodial account. Distinguish key control from signing environment; use the qualifications in `BD-V-042` to prevent treating custody and connectivity as one scale. Preserve one common strength and one responsibility for each arrangement.",
+      "format": "Wallet-use comparison table; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "- id: generic-wallet\n  kind: prop\n  appears_in: [BD-V-035, BD-V-036, BD-V-038, BD-V-039, BD-V-040, BD-V-041, BD-V-042, BD-V-043, BD-V-044, BD-V-045, BD-V-052, BD-V-059, BD-V-091]\n  description: A wallet interface or signing environment, shown as a tool for receiving, sending, or key control. It never depicts bitcoin as physically stored inside it.\n  distinct_from: [ledger, bitcoin-network, custodian, private-key, seed-phrase]\n- id: custody-labels\n  kind: notation\n  appears_in: [BD-V-039, BD-V-040, BD-V-041, BD-V-042, BD-V-052, BD-V-096]\n  description: The shared labels and visual distinction for custodial and self-custodial use, centred on who controls keys and recovery responsibility. They do not rank one arrangement as universally correct.\n  distinct_from: [hot-cold-environment, hardware-device, wallet-interface]",
+      "adjacentGuideText": "### Hot and cold wallets\n\nA **hot wallet** manages keys on a device connected to the internet, such as a phone or computer. It is convenient for regular payments. It also has a larger attack surface because malicious software, insecure updates, phishing, physical access, or device compromise may expose the wallet.\n\nA **cold wallet** keeps the keys used for signing transactios away from an internet-connected general-purpose device. A **hardware wallet** is a dedicated device designed to generate, protect, and use keys while keeping them isolated from the connected computer or phone.\n\n<!-- VISUAL: BD-V-042\nALT: Hot, cold, hardware, and custodial wallet dimensions compared without treating them as one scale.\nASSET: y_assets (archived)/diploma/bd-v-042.svg\n-->\n\n| Arrangement | Common strength | Responsibility to remember |\n| --- | --- | --- |\n| Hot wallet | Convenient access for regular payments. | An internet-connected device can face malware, phishing, or loss. |\n| Hardware or cold wallet | More isolated signing keys. | The device, backup, and recovery process still need protection. |\n| Custodial account | Familiar login and available support. | A provider controls access and may impose limits. |\n\n<!-- VISUAL: BD-V-041\nALT: Comparison of hot, hardware or cold, and custodial wallet arrangements with their responsibilities.\nASSET: y_assets (archived)/diploma/bd-v-041.svg\n-->\n\n**Try it:** For a small, fictional payment and a less-frequent fictional payment, explain which trade-off matters more. Do not choose a tool or amount for your own funds.\n\n"
+    },
+    "deferredLabels": [
+      "Arrangement / Common strength / Responsibility to remember",
+      "Hot wallet: convenient for regular payments; exposed to malware, phishing, and device loss.",
+      "Hardware or cold setup: keeps keys more isolated; requires device, backup, and recovery protection.",
+      "Custodial account: familiar login and support; provider controls access and may impose limits."
+    ],
+    "exportVerification": {
+      "width": 768,
+      "height": 576,
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "transparentPixels": 385740,
+      "partialAlphaPixels": 55252,
+      "totalPixels": 442368,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Three blank arrangement icons align vertically with two clear text-column spaces. The provider holds the conceptual key. No rankings, labels or secrets are visible. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

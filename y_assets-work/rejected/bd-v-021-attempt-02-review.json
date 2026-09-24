@@ -1,0 +1,13 @@
+{
+  "assetId": "BD-V-021",
+  "attempt": 2,
+  "status": "rejected",
+  "reviewedAt": "2026-09-21T22:50:49.541996+00:00",
+  "reason": "The edit removed the seal but added circular borders to all five central need disks. Remove those borders; the centers must be plain filled shapes.",
+  "files": [
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-021-attempt-02.png",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-021-attempt-02.jpg",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-021-attempt-02.json",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-021-attempt-02.txt"
+  ]
+}

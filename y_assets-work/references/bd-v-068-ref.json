@@ -1,0 +1,393 @@
+{
+  "assetId": "BD-V-068",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-068-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-068-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "education-group-resource",
+      "boundsPercent": {
+        "x": 3.6,
+        "y": 19,
+        "width": 27.2,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "education-group-purpose",
+      "boundsPercent": {
+        "x": 31.3,
+        "y": 19,
+        "width": 15.8,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "education-group-verification-date",
+      "boundsPercent": {
+        "x": 47.650000000000006,
+        "y": 19,
+        "width": 15.8,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "education-group-contact-location",
+      "boundsPercent": {
+        "x": 64,
+        "y": 19,
+        "width": 15.8,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "education-group-safety-note",
+      "boundsPercent": {
+        "x": 80.35000000000001,
+        "y": 19,
+        "width": 15.8,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "merchant-directory-resource",
+      "boundsPercent": {
+        "x": 3.6,
+        "y": 31.9,
+        "width": 27.2,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "merchant-directory-purpose",
+      "boundsPercent": {
+        "x": 31.3,
+        "y": 31.9,
+        "width": 15.8,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "merchant-directory-verification-date",
+      "boundsPercent": {
+        "x": 47.650000000000006,
+        "y": 31.9,
+        "width": 15.8,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "merchant-directory-contact-location",
+      "boundsPercent": {
+        "x": 64,
+        "y": 31.9,
+        "width": 15.8,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "merchant-directory-safety-note",
+      "boundsPercent": {
+        "x": 80.35000000000001,
+        "y": 31.9,
+        "width": 15.8,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "technical-support-resource",
+      "boundsPercent": {
+        "x": 3.6,
+        "y": 44.8,
+        "width": 27.2,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "technical-support-purpose",
+      "boundsPercent": {
+        "x": 31.3,
+        "y": 44.8,
+        "width": 15.8,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "technical-support-verification-date",
+      "boundsPercent": {
+        "x": 47.650000000000006,
+        "y": 44.8,
+        "width": 15.8,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "technical-support-contact-location",
+      "boundsPercent": {
+        "x": 64,
+        "y": 44.8,
+        "width": 15.8,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "technical-support-safety-note",
+      "boundsPercent": {
+        "x": 80.35000000000001,
+        "y": 44.8,
+        "width": 15.8,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "local-exchange-resource",
+      "boundsPercent": {
+        "x": 3.6,
+        "y": 57.7,
+        "width": 27.2,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "local-exchange-purpose",
+      "boundsPercent": {
+        "x": 31.3,
+        "y": 57.7,
+        "width": 15.8,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "local-exchange-verification-date",
+      "boundsPercent": {
+        "x": 47.650000000000006,
+        "y": 57.7,
+        "width": 15.8,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "local-exchange-contact-location",
+      "boundsPercent": {
+        "x": 64,
+        "y": 57.7,
+        "width": 15.8,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "local-exchange-safety-note",
+      "boundsPercent": {
+        "x": 80.35000000000001,
+        "y": 57.7,
+        "width": 15.8,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "legal-tax-info-resource",
+      "boundsPercent": {
+        "x": 3.6,
+        "y": 70.6,
+        "width": 27.2,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "legal-tax-info-purpose",
+      "boundsPercent": {
+        "x": 31.3,
+        "y": 70.6,
+        "width": 15.8,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "legal-tax-info-verification-date",
+      "boundsPercent": {
+        "x": 47.650000000000006,
+        "y": 70.6,
+        "width": 15.8,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "legal-tax-info-contact-location",
+      "boundsPercent": {
+        "x": 64,
+        "y": 70.6,
+        "width": 15.8,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "legal-tax-info-safety-note",
+      "boundsPercent": {
+        "x": 80.35000000000001,
+        "y": 70.6,
+        "width": 15.8,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "education-group-resource",
+      "education-group-purpose",
+      "education-group-verification-date",
+      "education-group-contact-location",
+      "education-group-safety-note",
+      "merchant-directory-resource",
+      "merchant-directory-purpose",
+      "merchant-directory-verification-date",
+      "merchant-directory-contact-location",
+      "merchant-directory-safety-note",
+      "technical-support-resource",
+      "technical-support-purpose",
+      "technical-support-verification-date",
+      "technical-support-contact-location",
+      "technical-support-safety-note",
+      "local-exchange-resource",
+      "local-exchange-purpose",
+      "local-exchange-verification-date",
+      "local-exchange-contact-location",
+      "local-exchange-safety-note",
+      "legal-tax-info-resource",
+      "legal-tax-info-purpose",
+      "legal-tax-info-verification-date",
+      "legal-tax-info-contact-location",
+      "legal-tax-info-safety-note"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 25,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-068` | AI | Supporting | Table | 48 | provide a printable local-resource record with built-in verification and safety prompts. | Under `### Local resource maps and community discovery`, replace the existing `Record your local resources` table visually while retaining an accessible text equivalent. | 1365 | Helps learners document useful local support while recording when information was checked. | Preserve rows for education group, merchant directory, technical support, local exchange information, and legal or tax information, with purpose, verification date, contact or location, and safety note columns. Do not pre-fill personal locations or imply trustworthiness from a listing. | Editable local-resource record table; full width. |",
+      "sourcePlacement": "Under `### Local resource maps and community discovery`, replace the existing `Record your local resources` table visually while retaining an accessible text equivalent.",
+      "sourceLocator": "1365",
+      "instructionalRelationship": "Helps learners document useful local support while recording when information was checked.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Preserve rows for education group, merchant directory, technical support, local exchange information, and legal or tax information, with purpose, verification date, contact or location, and safety note columns. Do not pre-fill personal locations or imply trustworthiness from a listing.",
+      "format": "Editable local-resource record table; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "- id: local-resource-map-symbols\n  kind: symbol\n  appears_in: [BD-V-057, BD-V-065, BD-V-067, BD-V-068, BD-V-071]\n  description: Editable map symbols for merchants, educators, meetups, technical support, exchange information, and missing support. A listing records verification, not trustworthiness.\n  distinct_from: [provider-endorsement, personal-location, verified-safety-claim]",
+      "adjacentGuideText": "### Local resource maps and community discovery\n\n<!-- VISUAL: BD-V-067\nALT: Local resource-discovery map with verification dates, contacts, purposes, and safety notes.\nASSET: y_assets (archived)/diploma/bd-v-067.svg\n-->\n\n<!-- VISUAL: BD-V-068\nALT: Local resource record table for education, merchants, technical support, exchanges, and legal or tax information.\nASSET: y_assets (archived)/diploma/bd-v-068.svg\n-->\n\n[Maps and community directories](https://programs.myfirstbitcoin.org/resources/?search=map) can help learners find merchants, educators, meetups, and circular economies. Listings can be incomplete or outdated. A place shown on a map may have stopped accepting Bitcoin, changed its wallet, or closed.\n\nUse a resource map safely:\n\n1. Check when the listing was last verified.\n2. Contact the merchant or organizer before making a special journey.\n3. Ask which payment method is accepted.\n4. Bring an alternative way to pay.\n5. Do not publish another person's location or details without permission.\n6. Submit corrections only when the information has been checked.\n\nA local community can provide practical support, but membership is not proof of trustworthiness. Do not reveal seed phrases, balances, home addresses, or security arrangements at a meetup. Be cautious when a new contact offers investment management, private exchange, guaranteed returns, or urgent help.\n\nRecord your local resources:\n\n| Resource | Purpose | Date verified | Contact or location | Safety note |\n| --- | --- | --- | --- | --- |\n| Education group |  |  |  |  |\n| Merchant directory |  |  |  |  |\n| Technical support |  |  |  |  |\n| Local exchange information |  |  |  |  |\n| Legal or tax information |  |  |  |  |\n\nGood community discovery helps you find people who explain, verify, and respect your choices. It should not make you dependent on one leader.\n\n"
+    },
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 148022,
+      "partialAlphaPixels": 176807,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Exactly5rows5columns, wider resource-name column and editable purpose/date/contact/safety fields. Blank entries preserve privacy and avoid implying trustworthiness. No lines or rastertext. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

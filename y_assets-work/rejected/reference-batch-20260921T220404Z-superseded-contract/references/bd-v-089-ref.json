@@ -1,0 +1,41 @@
+{
+  "assetId": "BD-V-089",
+  "specVersion": 2,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "All reference-image elements: no image was generated. See the complete incorporated asset brief in deferredForEditableCoding."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Preflight blocked by the mutually incompatible JPEG and transparency requirements; no image exists, no coordinates are asserted, and visual conformance has not been assessed.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "reviewStatus": "blocked-before-generation",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "canvasNote": "Landscape and 1024px are requested defaults only. Actual dimensions and aspect ratio are unset because no image exists; the asset brief takes precedence on resumption.",
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-089` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### Media and tool fallbacks`, after the line beginning `Offline teaching and assessment are valid. Use offline knowledge checks for preparation and app…`. Replace the `BD-V-089` marker at EG line 843. | EG: 841 | Shows why changing the medium must preserve the learner’s action and observed evidence. | **Equivalent learning and evidence across delivery modes.** Branch from one competency into prepared live tool, printed screens/cards, and an approved accessible communication or control route. Reconverge at the same learner decision/action, required verification, educator observation, and standard. Show barriers such as device, connection, language, or access needs leading to a prepared equivalent, not to lower criteria. Include a no valid equivalent branch returning to preparation/practice without certification. Draw examples from the adjacent table but retain its full list. Do not turn watching a video or another learner’s performance into evidence. Caption: `Change the medium, preserve the action and evidence.` Alt text: `Live tools, paper simulations, and approved accessible routes can support the same competency when the learner still makes the required decisions and the educator can judge equivalent evidence. Without equivalence, prepare another route before certification.` Master: `y_assets (archived)/diploma/bd-v-089.svg`. | Branch-and-rejoin equivalence diagram; full width. |",
+      "sourcePlacement": "EG only: under `### Media and tool fallbacks`, after the line beginning `Offline teaching and assessment are valid. Use offline knowledge checks for preparation and app…`. Replace the `BD-V-089` marker at EG line 843.",
+      "sourceLocator": "EG: 841",
+      "instructionalRelationship": "Shows why changing the medium must preserve the learner’s action and observed evidence.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "**Equivalent learning and evidence across delivery modes.** Branch from one competency into prepared live tool, printed screens/cards, and an approved accessible communication or control route. Reconverge at the same learner decision/action, required verification, educator observation, and standard. Show barriers such as device, connection, language, or access needs leading to a prepared equivalent, not to lower criteria. Include a no valid equivalent branch returning to preparation/practice without certification. Draw examples from the adjacent table but retain its full list. Do not turn watching a video or another learner’s performance into evidence. Caption: `Change the medium, preserve the action and evidence.` Alt text: `Live tools, paper simulations, and approved accessible routes can support the same competency when the learner still makes the required decisions and the educator can judge equivalent evidence. Without equivalence, prepare another route before certification.` Master: `y_assets (archived)/diploma/bd-v-089.svg`.",
+      "format": "Branch-and-rejoin equivalence diagram; full width.",
+      "existingStructuralRecord": null,
+      "relevantSharedRegister": "- id: educator\n  kind: actor\n  appears_in: [BD-V-056, BD-V-065, BD-V-066, BD-V-067, BD-V-089, BD-V-090, BD-V-091, BD-V-093, BD-V-094, BD-V-095, BD-V-097, BD-V-098]\n  description: A generic person who facilitates, observes, prepares a safe route, or plans a module. The educator does not act as a node, miner, wallet, or payment service.\n  distinct_from: [learner, service, wallet, node, miner, protocol]",
+      "note": "These are verbatim source requirements, not generated-image observations or newly approved production specifications. No text, connector, QR, or placement has been rendered. Missing exact guide strings must be retrieved before image generation when needed."
+    }
+  },
+  "unresolved": [
+    "FORMAT-001: The required .jpg file must have a transparent background, but JPEG cannot encode alpha transparency. A transparent PNG plus a white-background JPG, or a PNG replacement, requires a change to the requested output contract. No format change has been authorized. No image was generated or visually reviewed."
+  ]
+}

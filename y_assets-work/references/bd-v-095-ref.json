@@ -1,0 +1,271 @@
+{
+  "assetId": "BD-V-095",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-095-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-095-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "real-need",
+      "boundsPercent": {
+        "x": 3,
+        "y": 28,
+        "width": 12,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "clear-competency-approved-task",
+      "boundsPercent": {
+        "x": 16.3,
+        "y": 28,
+        "width": 12,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "educator-capability",
+      "boundsPercent": {
+        "x": 29.6,
+        "y": 28,
+        "width": 12,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "verified-tool",
+      "boundsPercent": {
+        "x": 42.900000000000006,
+        "y": 28,
+        "width": 12,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "understood-local-rules",
+      "boundsPercent": {
+        "x": 3,
+        "y": 51.5,
+        "width": 12,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "low-risk",
+      "boundsPercent": {
+        "x": 16.3,
+        "y": 51.5,
+        "width": 12,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "equitable-access",
+      "boundsPercent": {
+        "x": 29.6,
+        "y": 51.5,
+        "width": 12,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "observable-evidence",
+      "boundsPercent": {
+        "x": 42.900000000000006,
+        "y": 51.5,
+        "width": 12,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "all-satisfactory-gate",
+      "boundsPercent": {
+        "x": 57,
+        "y": 37,
+        "width": 15,
+        "height": 26
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "planned-live-delivery",
+      "boundsPercent": {
+        "x": 74,
+        "y": 28,
+        "width": 23,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "simulation",
+      "boundsPercent": {
+        "x": 74,
+        "y": 51,
+        "width": 11,
+        "height": 10
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "expert-support",
+      "boundsPercent": {
+        "x": 86,
+        "y": 51,
+        "width": 11,
+        "height": 10
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "accessible-equivalent",
+      "boundsPercent": {
+        "x": 74,
+        "y": 63,
+        "width": 11,
+        "height": 10
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "revised-observation-capacity",
+      "boundsPercent": {
+        "x": 86,
+        "y": 63,
+        "width": 11,
+        "height": 10
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "real-need",
+      "clear-competency-approved-task",
+      "educator-capability",
+      "verified-tool",
+      "understood-local-rules",
+      "low-risk",
+      "equitable-access",
+      "observable-evidence",
+      "all-satisfactory-gate",
+      "planned-live-delivery",
+      "simulation",
+      "expert-support",
+      "accessible-equivalent",
+      "revised-observation-capacity"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 14,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-095` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### Module 4 readiness gate`, after the line beginning `&#124; Can evidence be observed? &#124; The educator can see the learner's decisions and hear the explana…`. Replace the `BD-V-095` marker at EG line 2528. | EG: 2526 | Shows that every readiness condition must be satisfied before live delivery. | **Readiness before live local practice.** Use eight labelled checks in the source order: real need, clear competency/approved task, educator capability, verified tool, understood local rules, low risk, equitable access, observable evidence. All satisfactory leads to planned live delivery; any gap branches to the corresponding source-table remedy, such as simulation, expert support, accessible equivalent, or revised observation capacity. Feed the remedy back into readiness review. Preserve the full table as the detailed text equivalent. No aggregate readiness score; seven out of eight is not sufficient. Simulation may be the chosen first route. Caption: `Resolve each readiness gap before live delivery.` Alt text: `Eight checks cover purpose, competency, educator capability, tools, local rules, safety, access, and observation. Every check must be satisfactory for live delivery; a gap leads to a safer route or revised plan and another readiness review.` Master: `y_assets (archived)/diploma/bd-v-095.svg`. | Flow diagram; full width. |",
+      "sourcePlacement": "EG only: under `### Module 4 readiness gate`, after the line beginning `&#124; Can evidence be observed? &#124; The educator can see the learner's decisions and hear the explana…`. Replace the `BD-V-095` marker at EG line 2528.",
+      "sourceLocator": "EG: 2526",
+      "instructionalRelationship": "Shows that every readiness condition must be satisfied before live delivery.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "**Readiness before live local practice.** Use eight labelled checks in the source order: real need, clear competency/approved task, educator capability, verified tool, understood local rules, low risk, equitable access, observable evidence. All satisfactory leads to planned live delivery; any gap branches to the corresponding source-table remedy, such as simulation, expert support, accessible equivalent, or revised observation capacity. Feed the remedy back into readiness review. Preserve the full table as the detailed text equivalent. No aggregate readiness score; seven out of eight is not sufficient. Simulation may be the chosen first route. Caption: `Resolve each readiness gap before live delivery.` Alt text: `Eight checks cover purpose, competency, educator capability, tools, local rules, safety, access, and observation. Every check must be satisfactory for live delivery; a gap leads to a safer route or revised plan and another readiness review.` Master: `y_assets (archived)/diploma/bd-v-095.svg`.",
+      "format": "Flow diagram; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "- id: educator\n  kind: actor\n  appears_in: [BD-V-056, BD-V-065, BD-V-066, BD-V-067, BD-V-089, BD-V-090, BD-V-091, BD-V-093, BD-V-094, BD-V-095, BD-V-097, BD-V-098]\n  description: A generic person who facilitates, observes, prepares a safe route, or plans a module. The educator does not act as a node, miner, wallet, or payment service.\n  distinct_from: [learner, service, wallet, node, miner, protocol]\n- id: safety-stop\n  kind: symbol\n  appears_in: [BD-V-045, BD-V-047, BD-V-052, BD-V-072, BD-V-090, BD-V-095]\n  description: A distinct stop marker for a mismatch, uncertainty, unsafe condition, or incomplete check. It means pause and verify, not failure or automatic loss.\n  distinct_from: [warning-only, assessment-result, payment-failure]",
+      "adjacentGuideText": "### Module 4 readiness gate\n\nDo not deliver a live module until every required answer is satisfactory.\n\n| Readiness question | Ready when | If not ready |\n| --- | --- | --- |\n| Is the need real and relevant? | The educator can describe the local problem without relying on a product pitch. | Select a better need or use a comparative scenario. |\n| Is the competency clear? | The task maps to concepts from **Modules 1–3** and an approved `C11` variant, including `C11.1` and `C11.2`. | Do not use it for certification. |\n| Is the educator competent? | The educator can demonstrate, troubleshoot safely, and explain limitations. | Use a qualified expert, simulation, or different module. |\n| Is the tool verified? | Source, [custody](mfb-bd-lx.md#term-custody), recovery, fees, [privacy](mfb-bd-lx.md#term-privacy), compatibility, and failure behavior were checked recently. | Use printed screens or remove the tool. |\n| Are local rules understood? | Relevant claims are supported by authoritative current guidance. | State uncertainty and avoid live action requiring that guidance. |\n| Is practice low-risk? | No real secrets are exposed and loss, privacy, or physical risk is controlled. | Use no funds, a simulation, or a prepared environment. |\n| Is access equitable? | Learners can participate despite device, language, disability, or connectivity constraints. | Prepare an equivalent accessible pathway. |\n| Can evidence be observed? | The educator can see the learner's decisions and hear the explanation. | Reduce group size or schedule individual assessment. |\n\n<!-- VISUAL: BD-V-095\nALT: Eight checks cover purpose, competency, educator capability, tools, local rules, safety, access, and observation. Every check must be satisfactory for live delivery; a gap leads to a safer route or revised plan and another readiness review.\nASSET: y_assets (archived)/diploma/bd-v-095.svg\nUSE: Educator-only diagram; see the asset index brief.\n-->\n\n"
+    },
+    "deferredLabels": [
+      "All eight must be satisfactory before planned live delivery.",
+      "Any gap→corresponding source-table remedy→readiness review.",
+      "Simulation may be chosen first; seven out of eight is not sufficient."
+    ],
+    "deferredConnectors": [
+      "All eight checks→ALL gate→planned live only if every condition satisfied.",
+      "Any gap→source-specific remedy; remedy→readiness review.",
+      "Preserve full source table, not a new aggregate score."
+    ],
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 228455,
+      "partialAlphaPixels": 99625,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Exactly eight equally weighted checks, all-conditions gate, planned-live outcome and separate four remedy-category nodes. No score/checkmarks, ranking or partial-credit implication. Full source-table condition/remedy mapping retained for editable labels. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

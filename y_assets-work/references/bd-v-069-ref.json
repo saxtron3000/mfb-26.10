@@ -1,0 +1,203 @@
+{
+  "assetId": "BD-V-069",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-069-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-069-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "real-need",
+      "boundsPercent": {
+        "x": 1,
+        "y": 37,
+        "width": 18,
+        "height": 22
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "bitcoin-fit",
+      "boundsPercent": {
+        "x": 20,
+        "y": 39,
+        "width": 16,
+        "height": 18
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "payment-method",
+      "boundsPercent": {
+        "x": 38,
+        "y": 37,
+        "width": 7,
+        "height": 23
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "custody",
+      "boundsPercent": {
+        "x": 46,
+        "y": 37,
+        "width": 7,
+        "height": 23
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "cost-tradeoffs",
+      "boundsPercent": {
+        "x": 56,
+        "y": 39,
+        "width": 15,
+        "height": 20
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "safety-local-conditions",
+      "boundsPercent": {
+        "x": 71,
+        "y": 39,
+        "width": 16,
+        "height": 19
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "evidence-success",
+      "boundsPercent": {
+        "x": 88,
+        "y": 37,
+        "width": 11,
+        "height": 23
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "editable-return-to-alternative",
+      "boundsPercent": {
+        "x": 20,
+        "y": 66,
+        "width": 18,
+        "height": 13
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "real-need",
+      "bitcoin-fit",
+      "payment-method",
+      "custody",
+      "cost-tradeoffs",
+      "safety-local-conditions",
+      "evidence-success",
+      "editable-return-to-alternative"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 52,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-069` | AI | Supporting | Diagram | 49–50 | frame the review around the learner's community and a specific local need. | Under `### Review: connect this to your community`, after the paragraph beginning `**Module 4 answer:**` and before `#### Key takeaways`. The former final test table is no longer present. | 1379 | Summarizes the community review as a sequence that begins with a need and ends with evidence and a responsible next step. | Show the decision path `real need → Bitcoin fit → payment method → custody → total cost and trade-offs → safety and local conditions → evidence of success`. Add a return arrow when Bitcoin is not the best available fit. | Decision path; full width. |",
+      "sourcePlacement": "Under `### Review: connect this to your community`, after the paragraph beginning `**Module 4 answer:**` and before `#### Key takeaways`. The former final test table is no longer present.",
+      "sourceLocator": "1379",
+      "instructionalRelationship": "Summarizes the community review as a sequence that begins with a need and ends with evidence and a responsible next step.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Show the decision path `real need → Bitcoin fit → payment method → custody → total cost and trade-offs → safety and local conditions → evidence of success`. Add a return arrow when Bitcoin is not the best available fit.",
+      "format": "Decision path; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "- id: learner\n  kind: actor\n  appears_in: [BD-V-006, BD-V-012, BD-V-043, BD-V-044, BD-V-045, BD-V-047, BD-V-052, BD-V-054, BD-V-061, BD-V-069, BD-V-072, BD-V-091, BD-V-093]\n  description: A generic person who learns, practises, makes decisions, or handles prepared material. The learner is not an educator, service, node, miner, or protocol component.\n  distinct_from: [educator, service, wallet, node, miner, protocol]",
+      "adjacentGuideText": "### Review: connect this to your community\n\n<!-- VISUAL: BD-V-069\nALT: Connect-module review linking local need, alternative, safe task, evidence, and responsible next step.\nASSET: y_assets (archived)/diploma/bd-v-069.svg\n-->\n\n<!-- VISUAL: BD-V-070\nALT: Table alternative summarizing the Connect-module review and local decision questions.\nASSET: y_assets (archived)/diploma/bd-v-070.svg\n-->\n\nComplete this review individually, then compare your reasoning with your team or cohort. Consider the local example you studied: what real need did it address, which function of money was involved, and was value moved on-chain, through Lightning, or both? Ask who controlled the keys, what the strongest benefit and most serious risk were, and how local law, infrastructure, language, or culture affected the result. A responsible next step is one that fits the local context, makes costs and custody clear, limits errors and scams, and can be evaluated against evidence.\n\n**Module 4 answer:** Bitcoin can function as money when people voluntarily use it to earn, save, receive, send, spend, price, or settle value. The Connect stage begins with a real need, compares a realistic alternative, makes custody and costs clear, respects local law and safety, and gives learners enough knowledge to choose freely.\n\n"
+    },
+    "deferredLabels": [
+      "Real need",
+      "Bitcoin fit",
+      "Payment method",
+      "Custody",
+      "Total cost and trade-offs",
+      "Safety and local conditions",
+      "Evidence of success",
+      "If Bitcoin is not the best available fit, return to the existing alternative."
+    ],
+    "deferredConnectors": [
+      "Seven decisions in source order",
+      "Bitcoin fit -> return to real need / better available alternative when not suitable; editable return arrow below path."
+    ],
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 286510,
+      "partialAlphaPixels": 43465,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Seven spaced decision groups in exact order. No warning character or perspective coins. Return route reserved in blank space under fit decision; branch rectangle removed in revision but whitespace remains clear for editable return arrow and text. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

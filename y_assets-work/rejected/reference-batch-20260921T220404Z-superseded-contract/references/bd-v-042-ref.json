@@ -1,0 +1,41 @@
+{
+  "assetId": "BD-V-042",
+  "specVersion": 2,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "All reference-image elements: no image was generated. See the complete incorporated asset brief in deferredForEditableCoding."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Preflight blocked by the mutually incompatible JPEG and transparency requirements; no image exists, no coordinates are asserted, and visual conformance has not been assessed.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "reviewStatus": "blocked-before-generation",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "canvasNote": "Landscape and 1024px are requested defaults only. Actual dimensions and aspect ratio are unset because no image exists; the asset brief takes precedence on resumption.",
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-042` | Pablo | Supporting | Diagram | 29 | add a graphic comparing hot, hardware/cold, and custodial wallets or accounts. | SG: Under `### Hot and cold wallets`, after the introductory explanation. EG: under `### Hot, cold, hardware, and custodial are different dimensions`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor. | SG: 885; EG: 2048 | Connects wallet type to exposure and use rather than treating `hot`, `cold`, and `custodial` as one scale. | Use two axes or layers: key control (`custodial` versus `self-custodial`) and connectivity or signing environment (`hot` versus `cold or hardware`). Place common use patterns and threat examples in the correct areas. Explicitly show that a custodial account is not a type of self-custodial wallet. | Two-axis classification graphic; full width. |",
+      "sourcePlacement": "SG: Under `### Hot and cold wallets`, after the introductory explanation. EG: under `### Hot, cold, hardware, and custodial are different dimensions`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor.",
+      "sourceLocator": "SG: 885; EG: 2048",
+      "instructionalRelationship": "Connects wallet type to exposure and use rather than treating `hot`, `cold`, and `custodial` as one scale.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Use two axes or layers: key control (`custodial` versus `self-custodial`) and connectivity or signing environment (`hot` versus `cold or hardware`). Place common use patterns and threat examples in the correct areas. Explicitly show that a custodial account is not a type of self-custodial wallet.",
+      "format": "Two-axis classification graphic; full width.",
+      "existingStructuralRecord": null,
+      "relevantSharedRegister": "- id: generic-wallet\n  kind: prop\n  appears_in: [BD-V-035, BD-V-036, BD-V-038, BD-V-039, BD-V-040, BD-V-041, BD-V-042, BD-V-043, BD-V-044, BD-V-045, BD-V-052, BD-V-059, BD-V-091]\n  description: A wallet interface or signing environment, shown as a tool for receiving, sending, or key control. It never depicts bitcoin as physically stored inside it.\n  distinct_from: [ledger, bitcoin-network, custodian, private-key, seed-phrase]\n- id: custody-labels\n  kind: notation\n  appears_in: [BD-V-039, BD-V-040, BD-V-041, BD-V-042, BD-V-052, BD-V-096]\n  description: The shared labels and visual distinction for custodial and self-custodial use, centred on who controls keys and recovery responsibility. They do not rank one arrangement as universally correct.\n  distinct_from: [hot-cold-environment, hardware-device, wallet-interface]",
+      "note": "These are verbatim source requirements, not generated-image observations or newly approved production specifications. No text, connector, QR, or placement has been rendered. Missing exact guide strings must be retrieved before image generation when needed."
+    }
+  },
+  "unresolved": [
+    "FORMAT-001: The required .jpg file must have a transparent background, but JPEG cannot encode alpha transparency. A transparent PNG plus a white-background JPG, or a PNG replacement, requires a change to the requested output contract. No format change has been authorized. No image was generated or visually reviewed."
+  ]
+}

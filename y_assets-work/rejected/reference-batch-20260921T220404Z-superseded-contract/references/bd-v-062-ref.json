@@ -1,0 +1,41 @@
+{
+  "assetId": "BD-V-062",
+  "specVersion": 2,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "All reference-image elements: no image was generated. See the complete incorporated asset brief in deferredForEditableCoding."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Preflight blocked by the mutually incompatible JPEG and transparency requirements; no image exists, no coordinates are asserted, and visual conformance has not been assessed.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "reviewStatus": "blocked-before-generation",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "canvasNote": "Landscape and 1024px are requested defaults only. Actual dimensions and aspect ratio are unset because no image exists; the asset brief takes precedence on resumption.",
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-062` | AI | Essential | Diagram | 45 | preserve but simplify the strongly approved on/off-ramp pathway comparison. | SG: Under `### Local on-ramp and off-ramp pathways`, after the definition and pathway list and before the pathway comparison table. EG: under `### Module option F: on-ramp, off-ramp, KYC, and no-KYC comparison`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor. | SG: 1257; EG: 2749 | Forces comparison of the complete route rather than only the advertised first fee. | Show local money, work, goods, or services entering through possible routes; custody and identity checkpoints; on-chain or Lightning transfer; self-custody or service balance; and final use, holding, or conversion. Label spread, fees, time, reversal, withdrawal, counterparty, privacy, support, and law along the route. | End-to-end pathway map; full width. |",
+      "sourcePlacement": "SG: Under `### Local on-ramp and off-ramp pathways`, after the definition and pathway list and before the pathway comparison table. EG: under `### Module option F: on-ramp, off-ramp, KYC, and no-KYC comparison`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor.",
+      "sourceLocator": "SG: 1257; EG: 2749",
+      "instructionalRelationship": "Forces comparison of the complete route rather than only the advertised first fee.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Show local money, work, goods, or services entering through possible routes; custody and identity checkpoints; on-chain or Lightning transfer; self-custody or service balance; and final use, holding, or conversion. Label spread, fees, time, reversal, withdrawal, counterparty, privacy, support, and law along the route.",
+      "format": "End-to-end pathway map; full width.",
+      "existingStructuralRecord": null,
+      "relevantSharedRegister": "- id: payment-pathway-symbols\n  kind: symbol\n  appears_in: [BD-V-048, BD-V-049, BD-V-058, BD-V-062, BD-V-063, BD-V-064]\n  description: Reusable symbols for the stages and dependencies in an acquisition, exchange, payment, or conversion pathway. They keep local options editable and distinguish routes from recommendations.\n  distinct_from: [investment-chart, provider-endorsement, universal-service-map]",
+      "note": "These are verbatim source requirements, not generated-image observations or newly approved production specifications. No text, connector, QR, or placement has been rendered. Missing exact guide strings must be retrieved before image generation when needed."
+    }
+  },
+  "unresolved": [
+    "FORMAT-001: The required .jpg file must have a transparent background, but JPEG cannot encode alpha transparency. A transparent PNG plus a white-background JPG, or a PNG replacement, requires a change to the requested output contract. No format change has been authorized. No image was generated or visually reviewed."
+  ]
+}

@@ -1,0 +1,896 @@
+{
+  "auditedAt": "2026-09-22T00:49:34.099738+00:00",
+  "totalItems": 101,
+  "completed": 98,
+  "deferred": [
+    "BD-V-001",
+    "BD-V-070",
+    "BD-V-075"
+  ],
+  "problems": [],
+  "images": [
+    {
+      "assetId": "BD-V-002",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 341676,
+      "sampledPreviewMeanAbsoluteError": 0.3099,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-076",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 195728,
+      "sampledPreviewMeanAbsoluteError": 0.4681,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-077",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 267793,
+      "sampledPreviewMeanAbsoluteError": 0.4162,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-006",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 243058,
+      "sampledPreviewMeanAbsoluteError": 0.7821,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-003",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 267907,
+      "sampledPreviewMeanAbsoluteError": 0.2524,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-004",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 225303,
+      "sampledPreviewMeanAbsoluteError": 0.4918,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-005",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 193453,
+      "sampledPreviewMeanAbsoluteError": 0.4762,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-007",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 414111,
+      "sampledPreviewMeanAbsoluteError": 0.1777,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-008",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 224415,
+      "sampledPreviewMeanAbsoluteError": 0.7666,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-009",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 228595,
+      "sampledPreviewMeanAbsoluteError": 0.9369,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-010",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 247862,
+      "sampledPreviewMeanAbsoluteError": 0.7873,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-011",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 330764,
+      "sampledPreviewMeanAbsoluteError": 0.555,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-012",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 310172,
+      "sampledPreviewMeanAbsoluteError": 0.6782,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-013",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 304132,
+      "sampledPreviewMeanAbsoluteError": 0.8714,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-014",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 378876,
+      "sampledPreviewMeanAbsoluteError": 0.3957,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-015",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 303918,
+      "sampledPreviewMeanAbsoluteError": 0.727,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-016",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 261939,
+      "sampledPreviewMeanAbsoluteError": 0.4289,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-017",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 323956,
+      "sampledPreviewMeanAbsoluteError": 0.3038,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-018",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 200121,
+      "sampledPreviewMeanAbsoluteError": 0.7436,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-020",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 390932,
+      "sampledPreviewMeanAbsoluteError": 0.197,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-021",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 290507,
+      "sampledPreviewMeanAbsoluteError": 0.7612,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-019",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 371252,
+      "sampledPreviewMeanAbsoluteError": 0.3554,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-022",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 250621,
+      "sampledPreviewMeanAbsoluteError": 0.6261,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-023",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 263803,
+      "sampledPreviewMeanAbsoluteError": 0.2466,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-024",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 301526,
+      "sampledPreviewMeanAbsoluteError": 0.2129,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-027",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 239952,
+      "sampledPreviewMeanAbsoluteError": 0.5282,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-026",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 213373,
+      "sampledPreviewMeanAbsoluteError": 0.8501,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-030",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 261774,
+      "sampledPreviewMeanAbsoluteError": 0.4115,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-031",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 202654,
+      "sampledPreviewMeanAbsoluteError": 0.8399,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-032",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 274962,
+      "sampledPreviewMeanAbsoluteError": 0.3399,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-028",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 259492,
+      "sampledPreviewMeanAbsoluteError": 0.2911,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-029",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 248847,
+      "sampledPreviewMeanAbsoluteError": 0.5445,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-033",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 409064,
+      "sampledPreviewMeanAbsoluteError": 0.1912,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-025",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 382334,
+      "sampledPreviewMeanAbsoluteError": 0.3356,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-034",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 363581,
+      "sampledPreviewMeanAbsoluteError": 0.2555,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-035",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 258017,
+      "sampledPreviewMeanAbsoluteError": 0.4116,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-036",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 341187,
+      "sampledPreviewMeanAbsoluteError": 0.1683,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-078",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 262911,
+      "sampledPreviewMeanAbsoluteError": 0.2712,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-037",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 205061,
+      "sampledPreviewMeanAbsoluteError": 0.6083,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-038",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 220788,
+      "sampledPreviewMeanAbsoluteError": 0.4555,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-079",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 207392,
+      "sampledPreviewMeanAbsoluteError": 0.6239,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-039",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 242842,
+      "sampledPreviewMeanAbsoluteError": 0.6705,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-040",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 380904,
+      "sampledPreviewMeanAbsoluteError": 0.3356,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-042",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 292978,
+      "sampledPreviewMeanAbsoluteError": 0.7839,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-041",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 385740,
+      "sampledPreviewMeanAbsoluteError": 0.2137,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-043",
+      "width": 768,
+      "height": 288,
+      "transparentPixels": 173308,
+      "sampledPreviewMeanAbsoluteError": 0.4109,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-044",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 217498,
+      "sampledPreviewMeanAbsoluteError": 0.8512,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-045",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 285427,
+      "sampledPreviewMeanAbsoluteError": 0.4039,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-046",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 191924,
+      "sampledPreviewMeanAbsoluteError": 0.5153,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-047",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 275748,
+      "sampledPreviewMeanAbsoluteError": 0.3903,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-048",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 272278,
+      "sampledPreviewMeanAbsoluteError": 0.5625,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-049",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 404099,
+      "sampledPreviewMeanAbsoluteError": 0.2196,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-050",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 278843,
+      "sampledPreviewMeanAbsoluteError": 0.3136,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-051",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 165953,
+      "sampledPreviewMeanAbsoluteError": 0.5804,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-052",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 329115,
+      "sampledPreviewMeanAbsoluteError": 0.6088,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-053",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 182087,
+      "sampledPreviewMeanAbsoluteError": 0.6392,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-055",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 191888,
+      "sampledPreviewMeanAbsoluteError": 0.8296,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-054",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 233683,
+      "sampledPreviewMeanAbsoluteError": 1.0608,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-056",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 227488,
+      "sampledPreviewMeanAbsoluteError": 0.7925,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-057",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 249419,
+      "sampledPreviewMeanAbsoluteError": 0.6004,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-058",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 196153,
+      "sampledPreviewMeanAbsoluteError": 0.7534,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-080",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 314843,
+      "sampledPreviewMeanAbsoluteError": 0.2418,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-059",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 270915,
+      "sampledPreviewMeanAbsoluteError": 0.6071,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-060",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 215455,
+      "sampledPreviewMeanAbsoluteError": 0.9315,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-061",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 265523,
+      "sampledPreviewMeanAbsoluteError": 0.4954,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-062",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 230850,
+      "sampledPreviewMeanAbsoluteError": 0.7621,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-063",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 222296,
+      "sampledPreviewMeanAbsoluteError": 0.4555,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-064",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 204269,
+      "sampledPreviewMeanAbsoluteError": 0.5827,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-065",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 205066,
+      "sampledPreviewMeanAbsoluteError": 1.1609,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-066",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 275394,
+      "sampledPreviewMeanAbsoluteError": 0.5422,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-067",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 239436,
+      "sampledPreviewMeanAbsoluteError": 0.7673,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-068",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 148022,
+      "sampledPreviewMeanAbsoluteError": 0.6302,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-069",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 286510,
+      "sampledPreviewMeanAbsoluteError": 0.4646,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-071",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 279294,
+      "sampledPreviewMeanAbsoluteError": 0.5033,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-072",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 251409,
+      "sampledPreviewMeanAbsoluteError": 0.661,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-073",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 280265,
+      "sampledPreviewMeanAbsoluteError": 0.2833,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-074",
+      "width": 768,
+      "height": 576,
+      "transparentPixels": 279147,
+      "sampledPreviewMeanAbsoluteError": 0.2328,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-081",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 243480,
+      "sampledPreviewMeanAbsoluteError": 0.8387,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-082",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 261210,
+      "sampledPreviewMeanAbsoluteError": 0.6396,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-083",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 227651,
+      "sampledPreviewMeanAbsoluteError": 0.4445,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-084",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 220289,
+      "sampledPreviewMeanAbsoluteError": 1.0012,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-085",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 251237,
+      "sampledPreviewMeanAbsoluteError": 0.3538,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-086",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 207445,
+      "sampledPreviewMeanAbsoluteError": 0.6786,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-087",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 217766,
+      "sampledPreviewMeanAbsoluteError": 0.4036,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-099",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 163978,
+      "sampledPreviewMeanAbsoluteError": 0.7291,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-088",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 217030,
+      "sampledPreviewMeanAbsoluteError": 1.2252,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-101",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 236549,
+      "sampledPreviewMeanAbsoluteError": 0.3886,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-089",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 246583,
+      "sampledPreviewMeanAbsoluteError": 0.4315,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-090",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 254429,
+      "sampledPreviewMeanAbsoluteError": 0.4941,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-100",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 129589,
+      "sampledPreviewMeanAbsoluteError": 0.6811,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-092",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 195601,
+      "sampledPreviewMeanAbsoluteError": 0.5955,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-091",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 260501,
+      "sampledPreviewMeanAbsoluteError": 0.6112,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-093",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 223788,
+      "sampledPreviewMeanAbsoluteError": 0.7525,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-094",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 243462,
+      "sampledPreviewMeanAbsoluteError": 0.4469,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-095",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 228455,
+      "sampledPreviewMeanAbsoluteError": 0.3939,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-096",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 235330,
+      "sampledPreviewMeanAbsoluteError": 0.7336,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-097",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 204176,
+      "sampledPreviewMeanAbsoluteError": 0.7589,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    },
+    {
+      "assetId": "BD-V-098",
+      "width": 768,
+      "height": 432,
+      "transparentPixels": 209145,
+      "sampledPreviewMeanAbsoluteError": 0.4775,
+      "promptHashVerified": true,
+      "schemaAndFilesVerified": true
+    }
+  ],
+  "scope": "File, schema, exact-prompt hash, full-brief inclusion, checklist, current source hashes, image decode, alpha, dimensions, white corners, sampled PNG-white/JPG composition check. Per-asset visual reviews recorded separately."
+}

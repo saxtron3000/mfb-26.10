@@ -1,0 +1,13 @@
+{
+  "assetId": "BD-V-071",
+  "attempt": 1,
+  "status": "rejected",
+  "reviewedAt": "2026-09-22T00:10:46.630557+00:00",
+  "reason": "Contribution sheet contains three prohibited pseudo-writing bars. Remove all marks from page.",
+  "files": [
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-071-attempt-01.png",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-071-attempt-01.jpg",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-071-attempt-01.json",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-071-attempt-01.txt"
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "assetId": "BD-V-037",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-037-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-037-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "secret-boundary",
+      "boundsPercent": {
+        "x": 6,
+        "y": 6,
+        "width": 28,
+        "height": 56
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Solid protective fill; no border stroke; private-key icon fully contained."
+    },
+    {
+      "elementId": "private-key",
+      "boundsPercent": {
+        "x": 13,
+        "y": 18,
+        "width": 12,
+        "height": 37
+      },
+      "zIndex": 2,
+      "treatmentNotes": "Conceptual icon only, never a real or realistic secret."
+    },
+    {
+      "elementId": "public-key",
+      "boundsPercent": {
+        "x": 44,
+        "y": 19,
+        "width": 13,
+        "height": 38
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "receiving-address-information",
+      "boundsPercent": {
+        "x": 64,
+        "y": 18,
+        "width": 29,
+        "height": 36
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "private-key-warning",
+      "boundsPercent": {
+        "x": 11,
+        "y": 64,
+        "width": 16,
+        "height": 23
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Functional warning triangle, no glyph; add prominent editable text beside it."
+    },
+    {
+      "elementId": "digital-signature",
+      "boundsPercent": {
+        "x": 28,
+        "y": 61,
+        "width": 17,
+        "height": 32
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "independent-public-verification",
+      "boundsPercent": {
+        "x": 47,
+        "y": 63,
+        "width": 49,
+        "height": 27
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "secret-boundary",
+      "private-key",
+      "public-key",
+      "receiving-address-information",
+      "private-key-warning",
+      "digital-signature",
+      "independent-public-verification"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 22,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-037` | Pablo; User | Essential | Diagram | 27 | Pablo: add a public/private-key image and optional physical teaching tool. User: place a public/private-key relationship diagram after this section with an explicit warning never to share a private key. | SG: At the end of `### Keys` in the [Student Guide](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#keys), after the `Try it` sorting prompt and immediately before `### Seed phrases`. EG: under `### Keys and digital authorization`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor. | SG: 844; EG: 1954 | Reinforces the rule “Public receiving information can be shared. Private spending information must remain secret” by showing how public information relates to a secret private key. | Show `Private key → Public key → Receiving address`, with the first arrow labelled `Derived from` and the address step labelled `Created from public-key information`. Place the private key inside a clearly marked secret boundary. Add a prominent warning beside it: `Never share your private key. Anyone with it can spend your bitcoin.` Use a warning symbol and readable text so the warning works in grayscale. Label the receiving address `Public receiving information`. Add a small signing branch: the private key creates a digital signature; nodes use the public key to verify it without seeing the private key. Keep the private key inside the secret boundary throughout. Do not imply that a public key or address can reveal the private key, that an address and public key are identical, or that a signature contains the private key. Use conceptual symbols only, never real or realistic private-key strings, recovery phrases, or scannable secrets. Caption: `Public information supports receiving and verification. The private key authorizes spending and must stay secret.` Alt text: `A private key kept inside a secret boundary derives a public key, from which receiving-address information is created. A separate branch shows signing and public verification without revealing the private key. Warning: never share your private key; anyone with it can spend your bitcoin.` Save the editable master as `y_assets (archived)/diploma/bd-v-037.svg`. | One-way key-relationship diagram with a prominent private-key warning and a supporting signing branch; full width. |",
+      "sourcePlacement": "SG: At the end of `### Keys` in the [Student Guide](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#keys), after the `Try it` sorting prompt and immediately before `### Seed phrases`. EG: under `### Keys and digital authorization`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor.",
+      "sourceLocator": "SG: 844; EG: 1954",
+      "instructionalRelationship": "Reinforces the rule “Public receiving information can be shared. Private spending information must remain secret” by showing how public information relates to a secret private key.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Show `Private key → Public key → Receiving address`, with the first arrow labelled `Derived from` and the address step labelled `Created from public-key information`. Place the private key inside a clearly marked secret boundary. Add a prominent warning beside it: `Never share your private key. Anyone with it can spend your bitcoin.` Use a warning symbol and readable text so the warning works in grayscale. Label the receiving address `Public receiving information`. Add a small signing branch: the private key creates a digital signature; nodes use the public key to verify it without seeing the private key. Keep the private key inside the secret boundary throughout. Do not imply that a public key or address can reveal the private key, that an address and public key are identical, or that a signature contains the private key. Use conceptual symbols only, never real or realistic private-key strings, recovery phrases, or scannable secrets. Caption: `Public information supports receiving and verification. The private key authorizes spending and must stay secret.` Alt text: `A private key kept inside a secret boundary derives a public key, from which receiving-address information is created. A separate branch shows signing and public verification without revealing the private key. Warning: never share your private key; anyone with it can spend your bitcoin.` Save the editable master as `y_assets (archived)/diploma/bd-v-037.svg`.",
+      "format": "One-way key-relationship diagram with a prominent private-key warning and a supporting signing branch; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "- id: private-material-boundary\n  kind: notation\n  appears_in: [BD-V-037, BD-V-038, BD-V-043, BD-V-091]\n  description: A clear boundary that contains private keys, recovery material, or private learner actions. It makes visible what an educator or observer must not see.\n  distinct_from: [public-address, payment-request, explorer-result]",
+      "adjacentGuideText": "### Keys\n\nBitcoin ownership is enforced through cryptographic keys.\n\nA **private key** is secret information that allows a wallet to create a valid digital signature. That signature authorizes the spending of bitcoin controlled by the corresponding key. Anyone who obtains the private key can usually spend those funds.\n\nA **public key** is mathematically related to the private key. It helps verify a signature without revealing the private key. Addresses are created from public-key information.\n\nThe essential rule is simple:\n\n**Public receiving information can be shared. Private spending information must remain secret.**\n\nA digital signature proves that the required private key authorized a transaction. It does not place the private key inside the transaction. Nodes verify the signature before accepting the spend.\n\nModern wallets manage many keys automatically. Beginners should not copy or handle individual private-key strings. Protect the wallet's approved backup and follow its recovery procedure.\n\nNo legitimate educator, wallet company, exchange employee, technical-support worker, or Bitcoin developer needs your private key or seed phrase. Anyone who asks for it should be treated as a threat.\n\n**Try it:** Sort prepared examples into three groups: safe to share for receiving, secret spending information, and information that may be public but should still be kept private when linked to a person.\n\n<!-- VISUAL: BD-V-037\nALT: Private key deriving public-key receiving information, with signing and verification and a warning never to share the private key.\nASSET: y_assets (archived)/diploma/bd-v-037.svg\n-->\n\n"
+    },
+    "deferredLabels": [
+      "Private key",
+      "Secret",
+      "Public key",
+      "Receiving address",
+      "Public receiving information",
+      "Never share your private key. Anyone with it can spend your bitcoin.",
+      "Public information supports receiving and verification. The private key authorizes spending and must stay secret."
+    ],
+    "deferredConnectors": [
+      {
+        "from": "private-key",
+        "to": "public-key",
+        "label": "Derived from",
+        "direction": "one-way only"
+      },
+      {
+        "from": "public-key",
+        "to": "receiving-address-information",
+        "label": "Created from public-key information",
+        "direction": "one-way only"
+      },
+      {
+        "from": "private-key",
+        "to": "digital-signature",
+        "label": "Creates digital signature; private key remains inside secret area"
+      },
+      {
+        "from": "public-key",
+        "to": "independent-public-verification",
+        "label": "Used to verify signature"
+      },
+      {
+        "from": "digital-signature",
+        "to": "independent-public-verification",
+        "label": "Verification without seeing private key"
+      }
+    ],
+    "deferredSafetyTreatment": "Use prominent warning text beside the triangle so warning works in grayscale. Never imply public information reveals private key, address equals public key, or signature contains private key.",
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 205061,
+      "partialAlphaPixels": 123955,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. The private-key symbol stays wholly within its protective fill. Public key, blank receiving information and separate signing/verification branch remain distinct. The misleading wallet pictogram is removed; no key strings, recovery words, addresses or signatures are exposed. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

@@ -1,0 +1,41 @@
+{
+  "assetId": "BD-V-092",
+  "specVersion": 2,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "All reference-image elements: no image was generated. See the complete incorporated asset brief in deferredForEditableCoding."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Preflight blocked by the mutually incompatible JPEG and transparency requirements; no image exists, no coordinates are asserted, and visual conformance has not been assessed.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "reviewStatus": "blocked-before-generation",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "canvasNote": "Landscape and 1024px are requested defaults only. Actual dimensions and aspect ratio are unset because no image exists; the asset brief takes precedence on resumption.",
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-092` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### Address history and reuse lookup`, after the line beginning `**Offline fallback:** Use a printed sequence showing one address used once and another reused a…`. Replace the `BD-V-092` marker at EG line 1933. | EG: 1931 | Makes address reuse and the limits of public-data inference visible without exposing anyone’s transactions. | **Address reuse and information linkage.** Use fictional non-address labels A/B/C, arrows, and invented receipts. Compare multiple receipts to one address with separate fresh receiving addresses. Show an observer linking reused receipts, plus a dotted uncertain link from external identifying information. Add a separate explorer-search arrow showing that a service may learn which address interests a device. State that an address alone does not prove legal identity and fresh addresses do not guarantee anonymity. No real addresses, txids, amounts belonging to people, or scannable QR codes. Related BD-V-046 concerns confirmations, not identity linkage. Caption: `Fresh addresses reduce easy linkage; they do not guarantee anonymity.` Alt text: `Several fictional receipts share one reused address and are easily linked. Fresh receiving addresses reduce that direct link, but outside information and explorer searches can still reveal relationships. Public data does not by itself prove a person’s identity.` Master: `y_assets (archived)/diploma/bd-v-092.svg`. | Two-panel linkage diagram with an explorer privacy inset; full width. |",
+      "sourcePlacement": "EG only: under `### Address history and reuse lookup`, after the line beginning `**Offline fallback:** Use a printed sequence showing one address used once and another reused a…`. Replace the `BD-V-092` marker at EG line 1933.",
+      "sourceLocator": "EG: 1931",
+      "instructionalRelationship": "Makes address reuse and the limits of public-data inference visible without exposing anyone’s transactions.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "**Address reuse and information linkage.** Use fictional non-address labels A/B/C, arrows, and invented receipts. Compare multiple receipts to one address with separate fresh receiving addresses. Show an observer linking reused receipts, plus a dotted uncertain link from external identifying information. Add a separate explorer-search arrow showing that a service may learn which address interests a device. State that an address alone does not prove legal identity and fresh addresses do not guarantee anonymity. No real addresses, txids, amounts belonging to people, or scannable QR codes. Related BD-V-046 concerns confirmations, not identity linkage. Caption: `Fresh addresses reduce easy linkage; they do not guarantee anonymity.` Alt text: `Several fictional receipts share one reused address and are easily linked. Fresh receiving addresses reduce that direct link, but outside information and explorer searches can still reveal relationships. Public data does not by itself prove a person’s identity.` Master: `y_assets (archived)/diploma/bd-v-092.svg`.",
+      "format": "Two-panel linkage diagram with an explorer privacy inset; full width.",
+      "existingStructuralRecord": null,
+      "relevantSharedRegister": "",
+      "note": "These are verbatim source requirements, not generated-image observations or newly approved production specifications. No text, connector, QR, or placement has been rendered. Missing exact guide strings must be retrieved before image generation when needed."
+    }
+  },
+  "unresolved": [
+    "FORMAT-001: The required .jpg file must have a transparent background, but JPEG cannot encode alpha transparency. A transparent PNG plus a white-background JPG, or a PNG replacement, requires a change to the requested output contract. No format change has been authorized. No image was generated or visually reviewed."
+  ]
+}

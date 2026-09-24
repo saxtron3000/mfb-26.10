@@ -1,0 +1,179 @@
+{
+  "assetId": "BD-V-017",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "4:3",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-017-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-017-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 576
+  },
+  "placement": [
+    {
+      "elementId": "liquidity-bank",
+      "boundsPercent": {
+        "x": 16,
+        "y": 15,
+        "width": 24,
+        "height": 25
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "liquidity-total-assets",
+      "boundsPercent": {
+        "x": 12,
+        "y": 43,
+        "width": 14,
+        "height": 42
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "liquidity-immediately-available",
+      "boundsPercent": {
+        "x": 12,
+        "y": 78,
+        "width": 14,
+        "height": 7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "liquidity-liabilities",
+      "boundsPercent": {
+        "x": 29,
+        "y": 48,
+        "width": 15,
+        "height": 37
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "solvency-bank",
+      "boundsPercent": {
+        "x": 61,
+        "y": 15,
+        "width": 24,
+        "height": 25
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "solvency-assets",
+      "boundsPercent": {
+        "x": 56,
+        "y": 59,
+        "width": 15,
+        "height": 26
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "solvency-liabilities",
+      "boundsPercent": {
+        "x": 73,
+        "y": 44,
+        "width": 15,
+        "height": 41
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "liquidity-bank",
+      "liquidity-total-assets",
+      "liquidity-immediately-available",
+      "liquidity-liabilities",
+      "solvency-bank",
+      "solvency-assets",
+      "solvency-liabilities"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 21,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-017` | Pablo | Essential | Table | 12 | add liquidity-versus-solvency examples. | SG: Under `### Fractional reserve banking`, after the liquidity-risk and solvency-risk definitions. EG: under `### Fractional-reserve banking, liquidity, and solvency`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor. | SG: 376; EG: 1181 | Prevents learners from treating liquidity and solvency as the same problem. | Show two parallel simplified bank snapshots. In the liquidity case, assets exceed liabilities but too little is immediately available. In the solvency case, asset value is below liabilities. Use small round example numbers and label them as fictional. | Side-by-side balance-sheet comparison; half to full width. |",
+      "sourcePlacement": "SG: Under `### Fractional reserve banking`, after the liquidity-risk and solvency-risk definitions. EG: under `### Fractional-reserve banking, liquidity, and solvency`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor.",
+      "sourceLocator": "SG: 376; EG: 1181",
+      "instructionalRelationship": "Prevents learners from treating liquidity and solvency as the same problem.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Show two parallel simplified bank snapshots. In the liquidity case, assets exceed liabilities but too little is immediately available. In the solvency case, asset value is below liabilities. Use small round example numbers and label them as fictional.",
+      "format": "Side-by-side balance-sheet comparison; half to full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "- id: fiat-system-actors\n  kind: actor\n  appears_in: [BD-V-014, BD-V-015, BD-V-016, BD-V-017, BD-V-019]\n  description: A consistent set of central bank, commercial bank, government, citizens or businesses, and payment-service symbols. Each role remains separate because institutions and rules vary by country.\n  distinct_from: [bitcoin-node, miner, wallet, universal-institution-model]",
+      "adjacentGuideText": "### Fractional reserve banking\n\nWhen you deposit cash in a bank, the bank records a liability to you: it owes you the account balance. The bank does not normally keep every unit of every deposit as physical cash. It holds liquid reserves and uses its balance sheet to make loans and other investments.\n\nWhen a commercial bank approves a loan, it usually creates a new deposit in the borrower's account. This expands the amount of bank deposit money. When the principal is repaid, that deposit money is reduced. Banks are limited by capital rules, liquidity needs, credit risk, regulation, the cost of funding, and demand from qualified borrowers.\n\n<!-- VISUAL: BD-V-016\nALT: Simplified bank loan flow showing a loan asset matched by a deposit liability.\nASSET: y_assets (archived)/diploma/bd-v-016.svg\n-->\n\nBanks generally seek profit by earning interest and fees on loans and investments while paying their operating, funding, and regulatory costs and absorbing losses when borrowers do not repay. These activities and constraints differ by bank and jurisdiction.\n\n**Fractional reserve banking** is the broad idea that banks keep only a fraction of their deposit obligations available as immediately accessible reserves. Exact rules differ between countries and can change over time.\n\nThis creates two important risks:\n\n- **Liquidity risk:** A bank may own long-term loans that are expected to be repaid but still lack enough cash for many withdrawals today.\n- **Solvency risk:** Failed loans or falling asset values may leave the bank's total assets worth less than what it owes.\n\n<!-- VISUAL: BD-V-017\nALT: Side-by-side fictional examples distinguishing liquidity risk from solvency risk.\nASSET: y_assets (archived)/diploma/bd-v-017.svg\n-->\n\nA **bank run** happens when many depositors try to withdraw at the same time because they fear the bank may fail. Deposit insurance and central-bank lending can reduce panic, but insurance eligibility and coverage limits vary by jurisdiction. These protections depend on institutions and rules, and they can move some losses or risks from an individual bank to the wider system.\n\nRegulation and oversight can reduce risk, but they cannot prevent every case of fraud, poor management, political abuse, or simple error. These failures are possibilities to evaluate, not outcomes of every banking system.\n\nThe central lesson is not that every bank is about to fail. It is that a bank balance is the bank's promise to pay you. It is not the same as holding the settlement asset directly.\n\n"
+    },
+    "exportVerification": {
+      "width": 768,
+      "height": 576,
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "transparentPixels": 323956,
+      "partialAlphaPixels": 115107,
+      "totalPixels": 442368,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. The left total assets exceed liabilities while only a small included segment is immediately available; on the right assets are below liabilities. Borderless columns and aligned bases distinguish the two conditions. Shapes express qualitative relationships, not a numeric scale. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": [
+    "Small round fictional example amounts are required in editable production but no exact amounts were supplied. Choose and label the fictional values before coding; do not treat these qualitative column heights as measured data."
+  ]
+}

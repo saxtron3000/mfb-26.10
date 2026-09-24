@@ -1,0 +1,41 @@
+{
+  "assetId": "BD-V-034",
+  "specVersion": 2,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "All reference-image elements: no image was generated. See the complete incorporated asset brief in deferredForEditableCoding."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Preflight blocked by the mutually incompatible JPEG and transparency requirements; no image exists, no coordinates are asserted, and visual conformance has not been assessed.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "reviewStatus": "blocked-before-generation",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "canvasNote": "Landscape and 1024px are requested defaults only. Actual dimensions and aspect ratio are unset because no image exists; the asset brief takes precedence on resumption.",
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-034` | Pablo | Essential | Table | 24 | add graphics to the Module 2 comparison and make the Module 3 transition explicit. | Under `### Review: how does Bitcoin respond to fiat problems?`, replace the existing `Fiat-system issue / Bitcoin's response / New responsibility or trade-off` table visually while retaining an accessible text equivalent. | 764 | Reconnects the entire Module 2 explanation to the Module 1 problems and the new responsibilities introduced by Bitcoin. | Preserve the three current columns and all five rows: supply policy; intermediary dependence; central ledger control; institutional access; and ordering digital payments. Retain the corresponding responsibilities for rule verification, irreversible errors, privacy, key protection, and mining equipment and energy. Do not label the middle column `perfect solution` or add unsupported promises. | Bridge diagram or visual table; full width. |",
+      "sourcePlacement": "Under `### Review: how does Bitcoin respond to fiat problems?`, replace the existing `Fiat-system issue / Bitcoin's response / New responsibility or trade-off` table visually while retaining an accessible text equivalent.",
+      "sourceLocator": "764",
+      "instructionalRelationship": "Reconnects the entire Module 2 explanation to the Module 1 problems and the new responsibilities introduced by Bitcoin.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Preserve the three current columns and all five rows: supply policy; intermediary dependence; central ledger control; institutional access; and ordering digital payments. Retain the corresponding responsibilities for rule verification, irreversible errors, privacy, key protection, and mining equipment and energy. Do not label the middle column `perfect solution` or add unsupported promises.",
+      "format": "Bridge diagram or visual table; full width.",
+      "existingStructuralRecord": null,
+      "relevantSharedRegister": "",
+      "note": "These are verbatim source requirements, not generated-image observations or newly approved production specifications. No text, connector, QR, or placement has been rendered. Missing exact guide strings must be retrieved before image generation when needed."
+    }
+  },
+  "unresolved": [
+    "FORMAT-001: The required .jpg file must have a transparent background, but JPEG cannot encode alpha transparency. A transparent PNG plus a white-background JPG, or a PNG replacement, requires a change to the requested output contract. No format change has been authorized. No image was generated or visually reviewed."
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "assetId": "BD-V-016",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-016-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-016-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "loan-approval",
+      "boundsPercent": {
+        "x": 3,
+        "y": 29,
+        "width": 28,
+        "height": 42
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "bank-loan-asset",
+      "boundsPercent": {
+        "x": 35,
+        "y": 33,
+        "width": 9,
+        "height": 15
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "bank-deposit-liability",
+      "boundsPercent": {
+        "x": 45,
+        "y": 33,
+        "width": 9,
+        "height": 15
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "borrower-deposit-asset",
+      "boundsPercent": {
+        "x": 35,
+        "y": 49,
+        "width": 9,
+        "height": 16
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "borrower-loan-liability",
+      "boundsPercent": {
+        "x": 45,
+        "y": 49,
+        "width": 9,
+        "height": 16
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "borrower-transfer",
+      "boundsPercent": {
+        "x": 57,
+        "y": 29,
+        "width": 16,
+        "height": 42
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "settlement-and-liquidity",
+      "boundsPercent": {
+        "x": 75,
+        "y": 32,
+        "width": 24,
+        "height": 37
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "loan-approval",
+      "bank-loan-asset",
+      "bank-deposit-liability",
+      "borrower-deposit-asset",
+      "borrower-loan-liability",
+      "borrower-transfer",
+      "settlement-and-liquidity"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 95,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-016` | Pablo | Essential | Diagram | 12 | explain deposit-money creation, define liability, and diagram fractional-reserve banking. | SG: Under `### Fractional reserve banking`, after the paragraph beginning “When a commercial bank approves a loan” and before the definition of fractional reserve banking. EG: under `### Fractional-reserve banking, liquidity, and solvency`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor. | SG: 367; EG: 1168 | Makes deposit creation and the bank balance sheet clear without relying on a misleading money-multiplier story. | Trace a simplified loan: bank approves loan; bank records a loan asset and a matching deposit liability; borrower can transfer the deposit; settlement and liquidity requirements remain. Label assets and liabilities on both sides. State `simplified example; exact rules vary`. Do not show banks lending out the same physical deposit repeatedly. | Numbered balance-sheet flow; full width. |",
+      "sourcePlacement": "SG: Under `### Fractional reserve banking`, after the paragraph beginning “When a commercial bank approves a loan” and before the definition of fractional reserve banking. EG: under `### Fractional-reserve banking, liquidity, and solvency`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor.",
+      "sourceLocator": "SG: 367; EG: 1168",
+      "instructionalRelationship": "Makes deposit creation and the bank balance sheet clear without relying on a misleading money-multiplier story.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Trace a simplified loan: bank approves loan; bank records a loan asset and a matching deposit liability; borrower can transfer the deposit; settlement and liquidity requirements remain. Label assets and liabilities on both sides. State `simplified example; exact rules vary`. Do not show banks lending out the same physical deposit repeatedly.",
+      "format": "Numbered balance-sheet flow; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "- id: fiat-system-actors\n  kind: actor\n  appears_in: [BD-V-014, BD-V-015, BD-V-016, BD-V-017, BD-V-019]\n  description: A consistent set of central bank, commercial bank, government, citizens or businesses, and payment-service symbols. Each role remains separate because institutions and rules vary by country.\n  distinct_from: [bitcoin-node, miner, wallet, universal-institution-model]",
+      "adjacentGuideText": "### Fractional reserve banking\n\nWhen you deposit cash in a bank, the bank records a liability to you: it owes you the account balance. The bank does not normally keep every unit of every deposit as physical cash. It holds liquid reserves and uses its balance sheet to make loans and other investments.\n\nWhen a commercial bank approves a loan, it usually creates a new deposit in the borrower's account. This expands the amount of bank deposit money. When the principal is repaid, that deposit money is reduced. Banks are limited by capital rules, liquidity needs, credit risk, regulation, the cost of funding, and demand from qualified borrowers.\n\n<!-- VISUAL: BD-V-016\nALT: Simplified bank loan flow showing a loan asset matched by a deposit liability.\nASSET: y_assets (archived)/diploma/bd-v-016.svg\n-->\n\nBanks generally seek profit by earning interest and fees on loans and investments while paying their operating, funding, and regulatory costs and absorbing losses when borrowers do not repay. These activities and constraints differ by bank and jurisdiction.\n\n**Fractional reserve banking** is the broad idea that banks keep only a fraction of their deposit obligations available as immediately accessible reserves. Exact rules differ between countries and can change over time.\n\nThis creates two important risks:\n\n- **Liquidity risk:** A bank may own long-term loans that are expected to be repaid but still lack enough cash for many withdrawals today.\n- **Solvency risk:** Failed loans or falling asset values may leave the bank's total assets worth less than what it owes.\n\n<!-- VISUAL: BD-V-017\nALT: Side-by-side fictional examples distinguishing liquidity risk from solvency risk.\nASSET: y_assets (archived)/diploma/bd-v-017.svg\n-->\n\nA **bank run** happens when many depositors try to withdraw at the same time because they fear the bank may fail. Deposit insurance and central-bank lending can reduce panic, but insurance eligibility and coverage limits vary by jurisdiction. These protections depend on institutions and rules, and they can move some losses or risks from an individual bank to the wider system.\n\nRegulation and oversight can reduce risk, but they cannot prevent every case of fraud, poor management, political abuse, or simple error. These failures are possibilities to evaluate, not outcomes of every banking system.\n\nThe central lesson is not that every bank is about to fail. It is that a bank balance is the bank's promise to pay you. It is not the same as holding the settlement asset directly.\n\n"
+    },
+    "deferredLabels": [
+      "1. Bank approves loan",
+      "2. Loan asset and matching deposit liability",
+      "Bank: assets / liabilities",
+      "Borrower: assets / liabilities",
+      "3. Borrower can transfer deposit",
+      "4. Settlement and liquidity requirements remain",
+      "Simplified example; exact rules vary"
+    ],
+    "deferredConnectors": [
+      {
+        "from": "loan-approval",
+        "to": "bank-loan-asset"
+      },
+      {
+        "from": "bank-deposit-liability",
+        "to": "borrower-transfer"
+      },
+      {
+        "from": "borrower-transfer",
+        "to": "settlement-and-liquidity"
+      }
+    ],
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 261939,
+      "partialAlphaPixels": 67417,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Four separated stages show approval, matching record entries, borrower transfer, and continuing settlement/liquidity needs. Both equal-area ledger pairs remain unmarked. No physical cash or multiplier loop is shown. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

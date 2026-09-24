@@ -1,0 +1,167 @@
+{
+  "accepted": true,
+  "generationDate": "2026-09-22",
+  "outputHint": "Generated images are saved to /Users/saxtron3000/.codex/generated_images/01a0c5fb-bad1-7240-9370-82da60495420 as /Users/saxtron3000/.codex/generated_images/01a0c5fb-bad1-7240-9370-82da60495420/exec-d29a6a3c-16f2-420f-b942-caf24654fd95.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "toolInput": {},
+  "export": {
+    "width": 768,
+    "height": 432,
+    "sourceWidth": 1672,
+    "sourceHeight": 941,
+    "transparentPixels": 243480,
+    "partialAlphaPixels": 84652,
+    "totalPixels": 331776,
+    "jpegCornerRGBA": [
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ]
+    ],
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+  },
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "theory-lane",
+      "boundsPercent": {
+        "x": 5,
+        "y": 14,
+        "width": 30,
+        "height": 33
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "practice-lane",
+      "boundsPercent": {
+        "x": 5,
+        "y": 48,
+        "width": 30,
+        "height": 33
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "and-completion-gate",
+      "boundsPercent": {
+        "x": 40,
+        "y": 34,
+        "width": 18,
+        "height": 29
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "assessment-complete-record",
+      "boundsPercent": {
+        "x": 60,
+        "y": 39,
+        "width": 10,
+        "height": 22
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "educator-issued-certification",
+      "boundsPercent": {
+        "x": 71,
+        "y": 31,
+        "width": 27,
+        "height": 36
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "not-yet-practice-return",
+      "boundsPercent": {
+        "x": 38,
+        "y": 65,
+        "width": 24,
+        "height": 30
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "outside-formative-review",
+      "boundsPercent": {
+        "x": 39,
+        "y": 6,
+        "width": 19,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "theory-lane",
+      "practice-lane",
+      "and-completion-gate",
+      "assessment-complete-record",
+      "educator-issued-certification",
+      "not-yet-practice-return",
+      "outside-formative-review"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 121,
+    "deferredLabels": [
+      "Educator-evaluated theory C1–C8 (50%)",
+      "Directly observed practice C9–C11 (50%)",
+      "AND: every required competency meets standard",
+      "Assessment complete",
+      "Educator-issued certification",
+      "Not yet: practice and reassessment",
+      "C12/C13 formative; optional app review outside gate",
+      "Percentages are neither teaching time nor a combined numerical grade."
+    ],
+    "deferredConnectors": [
+      "Theory AND practice -> completion gate -> assessment complete -> educator-issued certification",
+      "Not yet evidence -> focused practice -> reassessment; no compensating one component with other",
+      "No evidence arrow from C12/C13 or optional appreview to completiongate"
+    ]
+  },
+  "unresolved": [],
+  "reviewNote": "Visually reviewed both PNG and JPG. Two equal allocated input lanes meet central blank gate region; completionrecord and educator handoff separate. NotYet practice below and formative/optionalreview above are clearly outside requiredinputlanes. No reallearner data,grade,percentages,seals,automaticissuing or centralverification imagery. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+}

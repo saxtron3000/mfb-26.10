@@ -1,0 +1,220 @@
+{
+  "accepted": true,
+  "generationDate": "2026-09-21",
+  "outputHint": "Generated images are saved to /Users/saxtron3000/.codex/generated_images/01a0c5fb-bad1-7240-9370-82da60495420 as /Users/saxtron3000/.codex/generated_images/01a0c5fb-bad1-7240-9370-82da60495420/exec-908e5426-8a9e-4c9f-9938-dca70b7420b6.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "toolInput": {},
+  "export": {
+    "width": 768,
+    "height": 432,
+    "sourceWidth": 1672,
+    "sourceHeight": 941,
+    "transparentPixels": 165953,
+    "partialAlphaPixels": 160985,
+    "totalPixels": 331776,
+    "jpegCornerRGBA": [
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ]
+    ],
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+  },
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "receiving-information-question",
+      "boundsPercent": {
+        "x": 11.5,
+        "y": 11,
+        "width": 19.4,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "receiving-information-onchain",
+      "boundsPercent": {
+        "x": 32.8,
+        "y": 11,
+        "width": 27.6,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "receiving-information-lightning",
+      "boundsPercent": {
+        "x": 62.3,
+        "y": 11,
+        "width": 26.3,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "payment-result-question",
+      "boundsPercent": {
+        "x": 11.5,
+        "y": 31.5,
+        "width": 19.4,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "payment-result-onchain",
+      "boundsPercent": {
+        "x": 32.8,
+        "y": 31.5,
+        "width": 27.6,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "payment-result-lightning",
+      "boundsPercent": {
+        "x": 62.3,
+        "y": 31.5,
+        "width": 26.3,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "common-use-question",
+      "boundsPercent": {
+        "x": 11.5,
+        "y": 52,
+        "width": 19.4,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "common-use-onchain",
+      "boundsPercent": {
+        "x": 32.8,
+        "y": 52,
+        "width": 27.6,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "common-use-lightning",
+      "boundsPercent": {
+        "x": 62.3,
+        "y": 52,
+        "width": 26.3,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "beginner-checks-question",
+      "boundsPercent": {
+        "x": 11.5,
+        "y": 72.5,
+        "width": 19.4,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "beginner-checks-onchain",
+      "boundsPercent": {
+        "x": 32.8,
+        "y": 72.5,
+        "width": 27.6,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "beginner-checks-lightning",
+      "boundsPercent": {
+        "x": 62.3,
+        "y": 72.5,
+        "width": 26.3,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "receiving-information-question",
+      "receiving-information-onchain",
+      "receiving-information-lightning",
+      "payment-result-question",
+      "payment-result-onchain",
+      "payment-result-lightning",
+      "common-use-question",
+      "common-use-onchain",
+      "common-use-lightning",
+      "beginner-checks-question",
+      "beginner-checks-onchain",
+      "beginner-checks-lightning"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 12,
+    "deferredLabels": [
+      "Question / On-chain Bitcoin / Lightning",
+      "Receiving information",
+      "Payment result",
+      "Common use",
+      "Beginner checks",
+      "Retain invoice, offer, supported Lightning-address wording, expiry and payment-result checks; custody and fees vary."
+    ]
+  },
+  "unresolved": [],
+  "reviewNote": "Visually reviewed both PNG and JPG. Exactly twelve blank filled cells in four rows and three columns; clean transparent gutters. Equal comparison emphasis, no ranking symbols or header props. Guide's full four-row text and adjacent qualifications preserved. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+}

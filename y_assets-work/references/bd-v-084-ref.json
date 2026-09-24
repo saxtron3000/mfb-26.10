@@ -1,0 +1,211 @@
+{
+  "assetId": "BD-V-084",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-084-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-084-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "before-prompt-and-repeat",
+      "boundsPercent": {
+        "x": 2,
+        "y": 15,
+        "width": 30,
+        "height": 35
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "before-approved-language-support",
+      "boundsPercent": {
+        "x": 28,
+        "y": 15,
+        "width": 19,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "before-materials",
+      "boundsPercent": {
+        "x": 31,
+        "y": 38,
+        "width": 12,
+        "height": 12
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "before-non-assessed-word",
+      "boundsPercent": {
+        "x": 43,
+        "y": 23,
+        "width": 12,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "during-safety-stop-reset",
+      "boundsPercent": {
+        "x": 2,
+        "y": 55,
+        "width": 45,
+        "height": 34
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "learner-owned-decisions",
+      "boundsPercent": {
+        "x": 51,
+        "y": 30,
+        "width": 24,
+        "height": 53
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "outside-permitted-lane-answer",
+      "boundsPercent": {
+        "x": 80,
+        "y": 18,
+        "width": 19,
+        "height": 16
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "outside-permitted-lane-select-payment",
+      "boundsPercent": {
+        "x": 83,
+        "y": 41,
+        "width": 16,
+        "height": 30
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "outside-permitted-lane-perform-step",
+      "boundsPercent": {
+        "x": 83,
+        "y": 68,
+        "width": 16,
+        "height": 19
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "before-prompt-and-repeat",
+      "before-approved-language-support",
+      "before-materials",
+      "before-non-assessed-word",
+      "during-safety-stop-reset",
+      "learner-owned-decisions",
+      "outside-permitted-lane-answer",
+      "outside-permitted-lane-select-payment",
+      "outside-permitted-lane-perform-step"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 165,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-084` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### Common support, safety, and record rules`, after the line beginning `**Permitted support:** Before evidence is gathered, you may read the prompt, repeat it once, pr…`. Replace the `BD-V-084` marker at EG line 106. | EG: 104 | Separates access support and safety intervention from prompting that supplies the answer. | **Support without supplying the assessed decision.** Use two time bands: before evidence and during practical observation. Before: read the prompt, repeat once, provide approved translation or communication accommodation, clarify a non-assessed word, prepare materials. During: safety stop or reset as permitted. Draw a clear boundary around the learner-owned explanation, comparison, verification, and action. Outside the permitted lane show supplying an answer, selecting a payment detail, or performing a required step. Use a conceptual example, not a new rubric. Read with each task’s specific permitted-support rules. Caption: `Support access and safety while the learner makes the assessed decisions.` Alt text: `An educator may provide the permitted preparation and access support and stop unsafe action. The learner must still supply the assessed explanation, select the relevant details, and perform or direct the required decisions.` Master: `y_assets (archived)/diploma/bd-v-084.svg`. | Two-stage support-boundary diagram; half to full width. |",
+      "sourcePlacement": "EG only: under `### Common support, safety, and record rules`, after the line beginning `**Permitted support:** Before evidence is gathered, you may read the prompt, repeat it once, pr…`. Replace the `BD-V-084` marker at EG line 106.",
+      "sourceLocator": "EG: 104",
+      "instructionalRelationship": "Separates access support and safety intervention from prompting that supplies the answer.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "**Support without supplying the assessed decision.** Use two time bands: before evidence and during practical observation. Before: read the prompt, repeat once, provide approved translation or communication accommodation, clarify a non-assessed word, prepare materials. During: safety stop or reset as permitted. Draw a clear boundary around the learner-owned explanation, comparison, verification, and action. Outside the permitted lane show supplying an answer, selecting a payment detail, or performing a required step. Use a conceptual example, not a new rubric. Read with each task’s specific permitted-support rules. Caption: `Support access and safety while the learner makes the assessed decisions.` Alt text: `An educator may provide the permitted preparation and access support and stop unsafe action. The learner must still supply the assessed explanation, select the relevant details, and perform or direct the required decisions.` Master: `y_assets (archived)/diploma/bd-v-084.svg`.",
+      "format": "Two-stage support-boundary diagram; half to full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "",
+      "adjacentGuideText": "### Common support, safety, and record rules\n\n**Permitted support:** Before evidence is gathered, you may read the prompt, repeat it once, provide an approved translation or communication accommodation, clarify a non-assessed word, and provide the prepared materials or environment. During practical work, you may give a safety stop instruction or reset a prepared simulation. You may not give the substantive answer, select the comparison criterion, identify the scam, tell the learner which button or payment detail to choose, complete a required practical step, or turn a group contribution into individual evidence without an individual response.\n\n<!-- VISUAL: BD-V-084\nALT: An educator may provide the permitted preparation and access support and stop unsafe action. The learner must still supply the assessed explanation, select the relevant details, and perform or direct the required decisions.\nASSET: y_assets (archived)/diploma/bd-v-084.svg\nUSE: Educator-only diagram; see the asset index brief.\n-->\n\n**Safety-critical practical errors:** Record `NY` and pause the task if the learner reveals or attempts to share a [seed phrase](mfb-bd-lx.md#term-seed-phrase), [private key](mfb-bd-lx.md#term-private-key), password, or unnecessary personal information; proceeds after a known address, invoice, amount, or recipient mismatch; accepts an obvious scam or urgent secret request; or bypasses a required verification step. Explain the reason kindly, reset to a safe environment, practise, and reassess later. If personal funds are used by choice, keep the amount genuinely low and make the risk of loss clear; no learner should need personal funds to complete the Diploma.\n\n**Accessibility and low-tech equivalence:** Use the communication method, translated prompt, large-print or tactile material, oral response, scribed response, prepared paper wallet screens, role-play, or offline simulation that works for the learner while preserving the required action. An equivalent route should make the competency reachable; it should not reduce it to recognition, group participation, or self-report.\n\n**Optional notes:** The Assessment Grid only requires one final `MS` or `NY` result per competency and learner. Brief notes can help you remember what you saw, plan follow-up, or support a reassessment, but task IDs and lengthy evidence records are not required by the grid. Record only minimum necessary learner information and keep it private.\n\n"
+    },
+    "deferredLabels": [
+      "Before evidence: read prompt; repeat once; approved translation or communication accommodation; clarify non-assessed word; prepare materials.",
+      "During practical observation: safety stop or reset as permitted.",
+      "Learner owns explanation, comparison, verification and action.",
+      "Outside permitted support: supplying answer; selecting payment detail; performing required step.",
+      "Read each task’s specific permitted-support rules."
+    ],
+    "deferredConnectors": [
+      "Editable learner-owned boundary uses central moat; time-band and forbidden-lane headings in reserved spaces."
+    ],
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 220289,
+      "partialAlphaPixels": 107624,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Final audit correction reviewed: two blank front-facing language-support cards replace all speech bubbles. Preparation, learner-owned decisions, safety and forbidden-substitution regions remain clear. No bubbles, writing, arrows, or connectors. All earlier source-specific deferred labels and permissions preserved. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

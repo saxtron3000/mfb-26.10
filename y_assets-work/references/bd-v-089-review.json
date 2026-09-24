@@ -1,0 +1,201 @@
+{
+  "accepted": true,
+  "generationDate": "2026-09-22",
+  "outputHint": "Generated images are saved to /Users/saxtron3000/.codex/generated_images/01a0c5fb-bad1-7240-9370-82da60495420 as /Users/saxtron3000/.codex/generated_images/01a0c5fb-bad1-7240-9370-82da60495420/exec-beb1582e-ae4f-4aa4-93d1-2e1fdac04c58.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "toolInput": {
+    "referenced_image_paths": [
+      "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-089-attempt-02.png"
+    ]
+  },
+  "export": {
+    "width": 768,
+    "height": 432,
+    "sourceWidth": 1672,
+    "sourceHeight": 941,
+    "transparentPixels": 246583,
+    "partialAlphaPixels": 82487,
+    "totalPixels": 331776,
+    "jpegCornerRGBA": [
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ]
+    ],
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+  },
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "one-competency",
+      "boundsPercent": {
+        "x": 14,
+        "y": 30,
+        "width": 18,
+        "height": 30
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "prepared-live-tool",
+      "boundsPercent": {
+        "x": 35,
+        "y": 9,
+        "width": 16,
+        "height": 19
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "printed-screens-cards",
+      "boundsPercent": {
+        "x": 37,
+        "y": 30,
+        "width": 12,
+        "height": 23
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "accessible-communication-control",
+      "boundsPercent": {
+        "x": 36,
+        "y": 54,
+        "width": 20,
+        "height": 24
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "same-learner-decision-action",
+      "boundsPercent": {
+        "x": 66,
+        "y": 13,
+        "width": 17,
+        "height": 13
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "required-verification",
+      "boundsPercent": {
+        "x": 66,
+        "y": 29,
+        "width": 17,
+        "height": 13
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "educator-observation",
+      "boundsPercent": {
+        "x": 66,
+        "y": 45,
+        "width": 17,
+        "height": 13
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "same-standard",
+      "boundsPercent": {
+        "x": 66,
+        "y": 61,
+        "width": 17,
+        "height": 13
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "barrier-equivalence-gate",
+      "boundsPercent": {
+        "x": 26,
+        "y": 78,
+        "width": 11,
+        "height": 18
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "no-equivalent-practice-preparation",
+      "boundsPercent": {
+        "x": 45,
+        "y": 80,
+        "width": 26,
+        "height": 14
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "one-competency",
+      "prepared-live-tool",
+      "printed-screens-cards",
+      "accessible-communication-control",
+      "same-learner-decision-action",
+      "required-verification",
+      "educator-observation",
+      "same-standard",
+      "barrier-equivalence-gate",
+      "no-equivalent-practice-preparation"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 30,
+    "deferredConnectors": [
+      "Competency branches to prepared live tool, printed screens/cards, approved accessible communication/control route; each reconverges through same action, verification, observation, standard.",
+      "Device/connection/language/access barriers→prepared equivalent.",
+      "No valid equivalent→preparation/practice without certification."
+    ],
+    "deferredLabels": [
+      "Watching video or another learner is not evidence.",
+      "Retain adjacent source table’s full examples."
+    ]
+  },
+  "unresolved": [],
+  "reviewNote": "Visually reviewed both PNG and JPG. Final audit correction reviewed: speech bubble removed completely. The three delivery routes remain clear as live tool, paper screens and learner communication/control; four shared conditions and no-equivalent fallback unchanged. No bubbles/text/arrows/connectors; all source qualifications preserved. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+}

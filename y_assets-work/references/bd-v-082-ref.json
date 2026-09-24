@@ -1,0 +1,188 @@
+{
+  "assetId": "BD-V-082",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-082-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-082-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "learners-evidence-minutes",
+      "boundsPercent": {
+        "x": 2,
+        "y": 27,
+        "width": 31,
+        "height": 25
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "available-approved-assessors",
+      "boundsPercent": {
+        "x": 33,
+        "y": 24,
+        "width": 22,
+        "height": 32
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "additional-allowances",
+      "boundsPercent": {
+        "x": 56,
+        "y": 32,
+        "width": 26,
+        "height": 20
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "fits-planned-route",
+      "boundsPercent": {
+        "x": 83,
+        "y": 29,
+        "width": 15,
+        "height": 26
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "smaller-cohort",
+      "boundsPercent": {
+        "x": 57,
+        "y": 64,
+        "width": 14,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "more-approved-capacity",
+      "boundsPercent": {
+        "x": 72,
+        "y": 56,
+        "width": 11,
+        "height": 28
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "redesigned-schedule",
+      "boundsPercent": {
+        "x": 84,
+        "y": 60,
+        "width": 13,
+        "height": 22
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "learners-evidence-minutes",
+      "available-approved-assessors",
+      "additional-allowances",
+      "fits-planned-route",
+      "smaller-cohort",
+      "more-approved-capacity",
+      "redesigned-schedule"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 105,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-082` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### Capacity and readiness check`, after the line beginning `Record the chosen C11 variant, practical environment, accessibility equivalents, assessor nam…`. Replace the `BD-V-082` marker at EG line 72. | EG: 70 | Connects cohort size, observation time, assessor capacity, and the advertised course route. | **Observation capacity before scheduling.** Show learner count multiplied by estimated individual evidence minutes, distributed across available approved assessors. Label the quotient minimum observation time per assessor under balanced allocation, not total staff labour saved. Add setup, feedback, resets, accommodations, and reassessment before a fits the planned route decision. If no, loop to a smaller cohort, more approved assessor capacity, or a redesigned advertised schedule. Do not imply several learners can be observed simultaneously without identifiable evidence. Use symbols or clearly fictional numbers only; preserve the source formula as prose. Caption: `Plan enough time to observe each learner before confirming the course schedule.` Alt text: `Learner numbers and individual evidence time determine observation workload. After allowing for setup, feedback, resets, access needs, and reassessment, the educator checks capacity and revises cohort size, assessor capacity, or the advertised schedule if needed.` Master: `y_assets (archived)/diploma/bd-v-082.svg`. | Flow diagram; full width. |",
+      "sourcePlacement": "EG only: under `### Capacity and readiness check`, after the line beginning `Record the chosen C11 variant, practical environment, accessibility equivalents, assessor nam…`. Replace the `BD-V-082` marker at EG line 72.",
+      "sourceLocator": "EG: 70",
+      "instructionalRelationship": "Connects cohort size, observation time, assessor capacity, and the advertised course route.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "**Observation capacity before scheduling.** Show learner count multiplied by estimated individual evidence minutes, distributed across available approved assessors. Label the quotient minimum observation time per assessor under balanced allocation, not total staff labour saved. Add setup, feedback, resets, accommodations, and reassessment before a fits the planned route decision. If no, loop to a smaller cohort, more approved assessor capacity, or a redesigned advertised schedule. Do not imply several learners can be observed simultaneously without identifiable evidence. Use symbols or clearly fictional numbers only; preserve the source formula as prose. Caption: `Plan enough time to observe each learner before confirming the course schedule.` Alt text: `Learner numbers and individual evidence time determine observation workload. After allowing for setup, feedback, resets, access needs, and reassessment, the educator checks capacity and revises cohort size, assessor capacity, or the advertised schedule if needed.` Master: `y_assets (archived)/diploma/bd-v-082.svg`.",
+      "format": "Flow diagram; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": ""
+    },
+    "deferredLabels": [
+      "Learner count × estimated individual evidence minutes ÷ available approved assessors",
+      "Minimum observation time per assessor under balanced allocation; not total staff labour saved.",
+      "Add setup, feedback, resets, accommodations and reassessment.",
+      "Fits planned route?",
+      "If no: smaller cohort / more approved assessors / redesigned advertised schedule"
+    ],
+    "deferredConnectors": [
+      "Workload -> balanced assessor allocation -> allowances -> route fit decision",
+      "No -> suitable remedy -> recompute capacity; yes -> confirm planned schedule"
+    ],
+    "illustrativeCounts": "Threelearner/twoassessor/twolearner icons are not asserted cohort or staffing numbers.",
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 261210,
+      "partialAlphaPixels": 67486,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Learner workload, assessor allocation, additionalallowances and route decision separated. Three remedies below. No numericvalues or simultaneousassessment inference; illustrated peoplecounts are generic, not planning data. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

@@ -1,0 +1,51 @@
+{
+  "assetId": "BD-V-038",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024,
+    "reference": {
+      "fileName": "bd-v-038-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-038-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    }
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "Not generated or reviewed yet."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Generation and visual review pending.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "pngTransparencyVerified": false,
+    "jpgWhiteBackgroundVerified": false,
+    "exportsMatch": false,
+    "reviewStatus": "pending",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-038` | AI | Essential | Diagram | 27 and 30 | show recovery language without implying every wallet uses an identical method. | SG: Under `### Seed phrases`, after the explanation of what a seed phrase does. EG: under `### Seed phrases and recovery`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor. | SG: 850; EG: 1972 | Places the seed phrase correctly in the recovery chain without teaching that every wallet uses an identical recovery method. | Show seed or wallet backup → wallet recreates keys → expected addresses and transaction access return. Mark the backup as secret and offline. Add `method and compatibility depend on the wallet`. Do not show actual words, screenshots of recovery entry, or educator access. | Recovery relationship diagram; half to full width. |",
+      "sourcePlacement": "SG: Under `### Seed phrases`, after the explanation of what a seed phrase does. EG: under `### Seed phrases and recovery`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor.",
+      "sourceLocator": "SG: 850; EG: 1972",
+      "instructionalRelationship": "Places the seed phrase correctly in the recovery chain without teaching that every wallet uses an identical recovery method.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Show seed or wallet backup → wallet recreates keys → expected addresses and transaction access return. Mark the backup as secret and offline. Add `method and compatibility depend on the wallet`. Do not show actual words, screenshots of recovery entry, or educator access.",
+      "format": "Recovery relationship diagram; half to full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "- id: generic-wallet\n  kind: prop\n  appears_in: [BD-V-035, BD-V-036, BD-V-038, BD-V-039, BD-V-040, BD-V-041, BD-V-042, BD-V-043, BD-V-044, BD-V-045, BD-V-052, BD-V-059, BD-V-091]\n  description: A wallet interface or signing environment, shown as a tool for receiving, sending, or key control. It never depicts bitcoin as physically stored inside it.\n  distinct_from: [ledger, bitcoin-network, custodian, private-key, seed-phrase]\n- id: private-material-boundary\n  kind: notation\n  appears_in: [BD-V-037, BD-V-038, BD-V-043, BD-V-091]\n  description: A clear boundary that contains private keys, recovery material, or private learner actions. It makes visible what an educator or observer must not see.\n  distinct_from: [public-address, payment-request, explorer-result]",
+      "adjacentGuideText": "### Seed phrases\n\nA **seed phrase**, also called a recovery phrase, is an ordered list of words that many wallets use to back up the information needed to recreate their keys. Common lengths are 12 or 24 words, although wallet designs differ.\n\nThe order and spelling of the words matter. If a person has the seed phrase, they can often restore the wallet on another compatible device and spend the funds. The seed phrase is therefore not only a backup. It is full access.\n\n<!-- VISUAL: BD-V-038\nALT: Recovery relationship from a secret wallet backup to recreated keys, expected addresses, and transaction access.\nASSET: y_assets (archived)/diploma/bd-v-038.svg\n-->\n\nProtect a seed phrase with these rules:\n\n- write it down privately and accurately during wallet creation;\n- follow the wallet's official backup instructions;\n- keep it offline;\n- never photograph it, store it in cloud notes, email it, or send it in a message;\n- never type it into a website or ordinary computer form;\n- keep it out of cameras, microphones, other people's view, and places where it may be damaged, lost, or found.\n\nSome wallets use additional passphrases, multiple keys, or other backup systems. These are Advanced Learning. Do not add complexity you cannot explain and recover from safely. If a seed phrase may have been seen, copied, entered online, or stored on an untrusted device, treat it as compromised: seek guidance without revealing it and use a new trusted recovery process.\n\n<!-- VISUAL: BD-V-079\nALT: Person privately copying twelve numbered placeholder backup words onto paper, labelled as an invalid example and not to be shared.\nASSET: y_assets (archived)/diploma/bd-v-079.svg\n-->\n\n"
+    }
+  },
+  "unresolved": []
+}

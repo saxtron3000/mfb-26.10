@@ -1,0 +1,197 @@
+{
+  "assetId": "BD-V-088",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-088-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-088-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "purpose",
+      "boundsPercent": {
+        "x": 6,
+        "y": 17,
+        "width": 16,
+        "height": 34
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "activate",
+      "boundsPercent": {
+        "x": 27,
+        "y": 11,
+        "width": 20,
+        "height": 41
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "explain",
+      "boundsPercent": {
+        "x": 50,
+        "y": 16,
+        "width": 22,
+        "height": 35
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "check",
+      "boundsPercent": {
+        "x": 73,
+        "y": 17,
+        "width": 25,
+        "height": 34
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "apply",
+      "boundsPercent": {
+        "x": 3,
+        "y": 58,
+        "width": 20,
+        "height": 34
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "produce",
+      "boundsPercent": {
+        "x": 25,
+        "y": 57,
+        "width": 23,
+        "height": 36
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "debrief",
+      "boundsPercent": {
+        "x": 48,
+        "y": 55,
+        "width": 28,
+        "height": 37
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "connect",
+      "boundsPercent": {
+        "x": 80,
+        "y": 59,
+        "width": 17,
+        "height": 31
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "purpose",
+      "activate",
+      "explain",
+      "check",
+      "apply",
+      "produce",
+      "debrief",
+      "connect"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 250,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-088` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### The learning rhythm`, after the line beginning `8. **Connect:** Show how the idea prepares for the next part of the Diploma.`. Replace the `BD-V-088` marker at EG line 731. | EG: 729 | Makes the educator’s eight-step teaching cycle quick to follow and repeat. | **The educator facilitation rhythm.** Show Purpose → Activate → Explain → Check → Apply → Produce → Debrief → Connect. Use short role labels and a return arrow from Check or Debrief to explanation or practice when needed. Identify Check as feedback unless the approved formal evidence conditions are met. Keep the learner doing the explaining or performing at Produce. This is a separate educator graphic: do not overwrite the five-stage SG rhythm in BD-V-006. Caption: `Move from a clear purpose to learner action, debrief, and connection.` Alt text: `The educator sets purpose, activates prior ideas, explains, checks, guides application, invites independent production, debriefs, and connects to the next concept. Unclear responses lead back to explanation or practice.` Master: `y_assets (archived)/diploma/bd-v-088.svg`. | Eight-stage cycle in two readable rows; full width. |",
+      "sourcePlacement": "EG only: under `### The learning rhythm`, after the line beginning `8. **Connect:** Show how the idea prepares for the next part of the Diploma.`. Replace the `BD-V-088` marker at EG line 731.",
+      "sourceLocator": "EG: 729",
+      "instructionalRelationship": "Makes the educator’s eight-step teaching cycle quick to follow and repeat.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "**The educator facilitation rhythm.** Show Purpose → Activate → Explain → Check → Apply → Produce → Debrief → Connect. Use short role labels and a return arrow from Check or Debrief to explanation or practice when needed. Identify Check as feedback unless the approved formal evidence conditions are met. Keep the learner doing the explaining or performing at Produce. This is a separate educator graphic: do not overwrite the five-stage SG rhythm in BD-V-006. Caption: `Move from a clear purpose to learner action, debrief, and connection.` Alt text: `The educator sets purpose, activates prior ideas, explains, checks, guides application, invites independent production, debriefs, and connects to the next concept. Unclear responses lead back to explanation or practice.` Master: `y_assets (archived)/diploma/bd-v-088.svg`.",
+      "format": "Eight-stage cycle in two readable rows; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "",
+      "adjacentGuideText": "### The learning rhythm\n\nFor most concepts, use this sequence:\n\n1. **Purpose:** Tell learners why the idea matters.\n2. **Activate:** Ask what they already think or have observed.\n3. **Explain:** Give the shortest accurate explanation that unlocks the competency.\n4. **Check:** Ask a quick question that reveals what the learner can explain or apply, not only recall.\n5. **Apply:** Use a comparison, activity, scenario, demonstration, or decision.\n6. **Produce:** Ask learners to explain or perform with less support.\n7. **Debrief:** Name the evidence, limitation, safety point, and trade-off.\n8. **Connect:** Show how the idea prepares for the next part of the Diploma.\n\n<!-- VISUAL: BD-V-088\nALT: The educator sets purpose, activates prior ideas, explains, checks, guides application, invites independent production, debriefs, and connects to the next concept. Unclear responses lead back to explanation or practice.\nASSET: y_assets (archived)/diploma/bd-v-088.svg\nUSE: Educator-only diagram; see the asset index brief.\n-->\n\n"
+    },
+    "deferredLabels": [
+      "Purpose → Activate → Explain → Check → Apply → Produce → Debrief → Connect",
+      "Check is feedback unless approved formal-evidence conditions are met."
+    ],
+    "deferredConnectors": [
+      "Sequential eight-stage route in source order.",
+      "Check or Debrief → Explain or Apply when responses unclear."
+    ],
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 215588,
+      "partialAlphaPixels": 112391,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Eight distinct stages in two rows of four. Learner independently uses blank phone at Apply and presents own blank work at Produce. Check/debrief show listening. Goal flag and flat cover pair replace arrow pointer and dimensional books; no text, diagrams frames or connectors. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

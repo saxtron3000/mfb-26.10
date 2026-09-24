@@ -1,0 +1,176 @@
+{
+  "assetId": "BD-V-072",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-072-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-072-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "secrecy-boundary",
+      "boundsPercent": {
+        "x": 37,
+        "y": 13,
+        "width": 27,
+        "height": 36
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "stop",
+      "boundsPercent": {
+        "x": 4,
+        "y": 56,
+        "width": 14,
+        "height": 28
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "verify-source-recipient",
+      "boundsPercent": {
+        "x": 19,
+        "y": 56,
+        "width": 23,
+        "height": 28
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "verify-payment-details",
+      "boundsPercent": {
+        "x": 43,
+        "y": 57,
+        "width": 19,
+        "height": 27
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "start-small",
+      "boundsPercent": {
+        "x": 63,
+        "y": 58,
+        "width": 15,
+        "height": 26
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "proceed-understood",
+      "boundsPercent": {
+        "x": 80,
+        "y": 54,
+        "width": 18,
+        "height": 30
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "secrecy-boundary",
+      "stop",
+      "verify-source-recipient",
+      "verify-payment-details",
+      "start-small",
+      "proceed-understood"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 49,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-072` | Pablo | Essential | Diagram | 51 | make the safety reminder scannable and define practical safety tasks precisely. | SG: Under `### A safety reminder`, immediately before the reminder list. EG: under `### Final safety reminders`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor. | SG: 1439; EG: 3294 | Makes the minimum stop-and-check behavior memorable at the point of course completion. | Show `stop → verify source and recipient → verify custody, network, destination, amount, and fee → start small → proceed only when understood`. Put seed or private-key secrecy above the whole sequence as a non-negotiable boundary. | Compact safety strip; half to full width. |",
+      "sourcePlacement": "SG: Under `### A safety reminder`, immediately before the reminder list. EG: under `### Final safety reminders`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor.",
+      "sourceLocator": "SG: 1439; EG: 3294",
+      "instructionalRelationship": "Makes the minimum stop-and-check behavior memorable at the point of course completion.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Show `stop → verify source and recipient → verify custody, network, destination, amount, and fee → start small → proceed only when understood`. Put seed or private-key secrecy above the whole sequence as a non-negotiable boundary.",
+      "format": "Compact safety strip; half to full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "- id: learner\n  kind: actor\n  appears_in: [BD-V-006, BD-V-012, BD-V-043, BD-V-044, BD-V-045, BD-V-047, BD-V-052, BD-V-054, BD-V-061, BD-V-069, BD-V-072, BD-V-091, BD-V-093]\n  description: A generic person who learns, practises, makes decisions, or handles prepared material. The learner is not an educator, service, node, miner, or protocol component.\n  distinct_from: [educator, service, wallet, node, miner, protocol]\n- id: safety-stop\n  kind: symbol\n  appears_in: [BD-V-045, BD-V-047, BD-V-052, BD-V-072, BD-V-090, BD-V-095]\n  description: A distinct stop marker for a mismatch, uncertainty, unsafe condition, or incomplete check. It means pause and verify, not failure or automatic loss.\n  distinct_from: [warning-only, assessment-result, payment-failure]",
+      "adjacentGuideText": "### A safety reminder\n\n<!-- VISUAL: BD-V-072\nALT: Final safety reminder to protect secrets, verify payment details, use small tests, and stop under pressure.\nASSET: y_assets (archived)/diploma/bd-v-072.svg\n-->\n\nRemember these rules:\n\n- A seed phrase or private key gives control of funds. Never share it.\n- Verify the recipient, network, address or invoice, amount, and fee before sending.\n- Bitcoin transactions are usually irreversible.\n- Use a small test when the process is new.\n- Do not act under pressure, fear, or promises of guaranteed profit.\n- Verify wallet software and support contacts through independent sources.\n- Identify who holds the keys.\n- Test recovery safely before meaningful funds depend on it.\n- Keep financial balances and security arrangements private.\n- Laws, taxes, fees, and services change. Check current local information.\n\nEducation reduces risk but cannot remove it. If a situation is unclear, stop and learn more before acting.\n\n"
+    },
+    "deferredLabels": [
+      "Keep seed phrases and private keys secret — applies to entire sequence.",
+      "Stop",
+      "Verify source and recipient",
+      "Verify custody, network, destination, amount, fee",
+      "Start small",
+      "Proceed only when understood"
+    ],
+    "deferredConnectors": [
+      "Stop -> verify source/recipient -> verify payment details -> start small -> proceed only when understood"
+    ],
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 251409,
+      "partialAlphaPixels": 77734,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Secrecy group visibly above all five safety steps. Plain conceptual keys and blankpaper, no seedwords or paymentdetails. Correctflatdisk, no arrows or visible characters. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

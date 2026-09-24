@@ -1,0 +1,41 @@
+{
+  "assetId": "BD-V-081",
+  "specVersion": 2,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "All reference-image elements: no image was generated. See the complete incorporated asset brief in deferredForEditableCoding."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Preflight blocked by the mutually incompatible JPEG and transparency requirements; no image exists, no coordinates are asserted, and visual conformance has not been assessed.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "reviewStatus": "blocked-before-generation",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "canvasNote": "Landscape and 1024px are requested defaults only. Actual dimensions and aspect ratio are unset because no image exists; the asset brief takes precedence on resumption.",
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-081` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `## Assessment at a glance`, after the line beginning `They are also not a combined numerical grade. Both components must be complete, and every requi…`. Replace the `BD-V-081` marker at EG line 45. | EG: 43 | Makes the two separately required evidence components and their joint completion condition unmistakable. | **Two evidence components and the completion gate.** Use two equal lanes: educator-evaluated theory, C1–C8 (50%); directly observed practice, C9–C11 (50%). Both feed an AND gate labelled every required competency meets standard, then assessment-complete and educator-issued certification. Show a Not yet branch returning to practice and reassessment. Keep C12/C13 formative and optional app review outside the gate. State that percentages are neither teaching time nor a combined numerical grade. Do not invent a pass percentage, automatic certificate-issuing system, or central My First Bitcoin verification service. Caption: `Both evidence components must be complete; one cannot compensate for the other.` Alt text: `Theory competencies C1–C8 and practical competencies C9–C11 must each meet standard before assessment completion. Not yet evidence returns to practice and reassessment; attendance, optional app review, and formative reflection do not replace either component.` Master: `y_assets (archived)/diploma/bd-v-081.svg`. | Flow diagram; full width. |",
+      "sourcePlacement": "EG only: under `## Assessment at a glance`, after the line beginning `They are also not a combined numerical grade. Both components must be complete, and every requi…`. Replace the `BD-V-081` marker at EG line 45.",
+      "sourceLocator": "EG: 43",
+      "instructionalRelationship": "Makes the two separately required evidence components and their joint completion condition unmistakable.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "**Two evidence components and the completion gate.** Use two equal lanes: educator-evaluated theory, C1–C8 (50%); directly observed practice, C9–C11 (50%). Both feed an AND gate labelled every required competency meets standard, then assessment-complete and educator-issued certification. Show a Not yet branch returning to practice and reassessment. Keep C12/C13 formative and optional app review outside the gate. State that percentages are neither teaching time nor a combined numerical grade. Do not invent a pass percentage, automatic certificate-issuing system, or central My First Bitcoin verification service. Caption: `Both evidence components must be complete; one cannot compensate for the other.` Alt text: `Theory competencies C1–C8 and practical competencies C9–C11 must each meet standard before assessment completion. Not yet evidence returns to practice and reassessment; attendance, optional app review, and formative reflection do not replace either component.` Master: `y_assets (archived)/diploma/bd-v-081.svg`.",
+      "format": "Flow diagram; full width.",
+      "existingStructuralRecord": null,
+      "relevantSharedRegister": "",
+      "note": "These are verbatim source requirements, not generated-image observations or newly approved production specifications. No text, connector, QR, or placement has been rendered. Missing exact guide strings must be retrieved before image generation when needed."
+    }
+  },
+  "unresolved": [
+    "FORMAT-001: The required .jpg file must have a transparent background, but JPEG cannot encode alpha transparency. A transparent PNG plus a white-background JPG, or a PNG replacement, requires a change to the requested output contract. No format change has been authorized. No image was generated or visually reviewed."
+  ]
+}

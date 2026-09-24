@@ -1,0 +1,41 @@
+{
+  "assetId": "BD-V-084",
+  "specVersion": 2,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "All reference-image elements: no image was generated. See the complete incorporated asset brief in deferredForEditableCoding."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Preflight blocked by the mutually incompatible JPEG and transparency requirements; no image exists, no coordinates are asserted, and visual conformance has not been assessed.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "reviewStatus": "blocked-before-generation",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "canvasNote": "Landscape and 1024px are requested defaults only. Actual dimensions and aspect ratio are unset because no image exists; the asset brief takes precedence on resumption.",
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-084` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### Common support, safety, and record rules`, after the line beginning `**Permitted support:** Before evidence is gathered, you may read the prompt, repeat it once, pr…`. Replace the `BD-V-084` marker at EG line 106. | EG: 104 | Separates access support and safety intervention from prompting that supplies the answer. | **Support without supplying the assessed decision.** Use two time bands: before evidence and during practical observation. Before: read the prompt, repeat once, provide approved translation or communication accommodation, clarify a non-assessed word, prepare materials. During: safety stop or reset as permitted. Draw a clear boundary around the learner-owned explanation, comparison, verification, and action. Outside the permitted lane show supplying an answer, selecting a payment detail, or performing a required step. Use a conceptual example, not a new rubric. Read with each task’s specific permitted-support rules. Caption: `Support access and safety while the learner makes the assessed decisions.` Alt text: `An educator may provide the permitted preparation and access support and stop unsafe action. The learner must still supply the assessed explanation, select the relevant details, and perform or direct the required decisions.` Master: `y_assets (archived)/diploma/bd-v-084.svg`. | Two-stage support-boundary diagram; half to full width. |",
+      "sourcePlacement": "EG only: under `### Common support, safety, and record rules`, after the line beginning `**Permitted support:** Before evidence is gathered, you may read the prompt, repeat it once, pr…`. Replace the `BD-V-084` marker at EG line 106.",
+      "sourceLocator": "EG: 104",
+      "instructionalRelationship": "Separates access support and safety intervention from prompting that supplies the answer.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "**Support without supplying the assessed decision.** Use two time bands: before evidence and during practical observation. Before: read the prompt, repeat once, provide approved translation or communication accommodation, clarify a non-assessed word, prepare materials. During: safety stop or reset as permitted. Draw a clear boundary around the learner-owned explanation, comparison, verification, and action. Outside the permitted lane show supplying an answer, selecting a payment detail, or performing a required step. Use a conceptual example, not a new rubric. Read with each task’s specific permitted-support rules. Caption: `Support access and safety while the learner makes the assessed decisions.` Alt text: `An educator may provide the permitted preparation and access support and stop unsafe action. The learner must still supply the assessed explanation, select the relevant details, and perform or direct the required decisions.` Master: `y_assets (archived)/diploma/bd-v-084.svg`.",
+      "format": "Two-stage support-boundary diagram; half to full width.",
+      "existingStructuralRecord": null,
+      "relevantSharedRegister": "",
+      "note": "These are verbatim source requirements, not generated-image observations or newly approved production specifications. No text, connector, QR, or placement has been rendered. Missing exact guide strings must be retrieved before image generation when needed."
+    }
+  },
+  "unresolved": [
+    "FORMAT-001: The required .jpg file must have a transparent background, but JPEG cannot encode alpha transparency. A transparent PNG plus a white-background JPG, or a PNG replacement, requires a change to the requested output contract. No format change has been authorized. No image was generated or visually reviewed."
+  ]
+}

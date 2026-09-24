@@ -1,0 +1,51 @@
+{
+  "assetId": "BD-V-084",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024,
+    "reference": {
+      "fileName": "bd-v-084-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-084-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    }
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "Not generated or reviewed yet."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Generation and visual review pending.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "pngTransparencyVerified": false,
+    "jpgWhiteBackgroundVerified": false,
+    "exportsMatch": false,
+    "reviewStatus": "pending",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-084` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### Common support, safety, and record rules`, after the line beginning `**Permitted support:** Before evidence is gathered, you may read the prompt, repeat it once, pr…`. Replace the `BD-V-084` marker at EG line 106. | EG: 104 | Separates access support and safety intervention from prompting that supplies the answer. | **Support without supplying the assessed decision.** Use two time bands: before evidence and during practical observation. Before: read the prompt, repeat once, provide approved translation or communication accommodation, clarify a non-assessed word, prepare materials. During: safety stop or reset as permitted. Draw a clear boundary around the learner-owned explanation, comparison, verification, and action. Outside the permitted lane show supplying an answer, selecting a payment detail, or performing a required step. Use a conceptual example, not a new rubric. Read with each task’s specific permitted-support rules. Caption: `Support access and safety while the learner makes the assessed decisions.` Alt text: `An educator may provide the permitted preparation and access support and stop unsafe action. The learner must still supply the assessed explanation, select the relevant details, and perform or direct the required decisions.` Master: `y_assets (archived)/diploma/bd-v-084.svg`. | Two-stage support-boundary diagram; half to full width. |",
+      "sourcePlacement": "EG only: under `### Common support, safety, and record rules`, after the line beginning `**Permitted support:** Before evidence is gathered, you may read the prompt, repeat it once, pr…`. Replace the `BD-V-084` marker at EG line 106.",
+      "sourceLocator": "EG: 104",
+      "instructionalRelationship": "Separates access support and safety intervention from prompting that supplies the answer.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "**Support without supplying the assessed decision.** Use two time bands: before evidence and during practical observation. Before: read the prompt, repeat once, provide approved translation or communication accommodation, clarify a non-assessed word, prepare materials. During: safety stop or reset as permitted. Draw a clear boundary around the learner-owned explanation, comparison, verification, and action. Outside the permitted lane show supplying an answer, selecting a payment detail, or performing a required step. Use a conceptual example, not a new rubric. Read with each task’s specific permitted-support rules. Caption: `Support access and safety while the learner makes the assessed decisions.` Alt text: `An educator may provide the permitted preparation and access support and stop unsafe action. The learner must still supply the assessed explanation, select the relevant details, and perform or direct the required decisions.` Master: `y_assets (archived)/diploma/bd-v-084.svg`.",
+      "format": "Two-stage support-boundary diagram; half to full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "",
+      "adjacentGuideText": "### Common support, safety, and record rules\n\n**Permitted support:** Before evidence is gathered, you may read the prompt, repeat it once, provide an approved translation or communication accommodation, clarify a non-assessed word, and provide the prepared materials or environment. During practical work, you may give a safety stop instruction or reset a prepared simulation. You may not give the substantive answer, select the comparison criterion, identify the scam, tell the learner which button or payment detail to choose, complete a required practical step, or turn a group contribution into individual evidence without an individual response.\n\n<!-- VISUAL: BD-V-084\nALT: An educator may provide the permitted preparation and access support and stop unsafe action. The learner must still supply the assessed explanation, select the relevant details, and perform or direct the required decisions.\nASSET: y_assets (archived)/diploma/bd-v-084.svg\nUSE: Educator-only diagram; see the asset index brief.\n-->\n\n**Safety-critical practical errors:** Record `NY` and pause the task if the learner reveals or attempts to share a [seed phrase](mfb-bd-lx.md#term-seed-phrase), [private key](mfb-bd-lx.md#term-private-key), password, or unnecessary personal information; proceeds after a known address, invoice, amount, or recipient mismatch; accepts an obvious scam or urgent secret request; or bypasses a required verification step. Explain the reason kindly, reset to a safe environment, practise, and reassess later. If personal funds are used by choice, keep the amount genuinely low and make the risk of loss clear; no learner should need personal funds to complete the Diploma.\n\n**Accessibility and low-tech equivalence:** Use the communication method, translated prompt, large-print or tactile material, oral response, scribed response, prepared paper wallet screens, role-play, or offline simulation that works for the learner while preserving the required action. An equivalent route should make the competency reachable; it should not reduce it to recognition, group participation, or self-report.\n\n**Optional notes:** The Assessment Grid only requires one final `MS` or `NY` result per competency and learner. Brief notes can help you remember what you saw, plan follow-up, or support a reassessment, but task IDs and lengthy evidence records are not required by the grid. Record only minimum necessary learner information and keep it private.\n\n"
+    }
+  },
+  "unresolved": []
+}

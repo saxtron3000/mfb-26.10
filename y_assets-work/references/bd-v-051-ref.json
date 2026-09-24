@@ -1,0 +1,245 @@
+{
+  "assetId": "BD-V-051",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-051-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-051-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "receiving-information-question",
+      "boundsPercent": {
+        "x": 11.5,
+        "y": 11,
+        "width": 19.4,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "receiving-information-onchain",
+      "boundsPercent": {
+        "x": 32.8,
+        "y": 11,
+        "width": 27.6,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "receiving-information-lightning",
+      "boundsPercent": {
+        "x": 62.3,
+        "y": 11,
+        "width": 26.3,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "payment-result-question",
+      "boundsPercent": {
+        "x": 11.5,
+        "y": 31.5,
+        "width": 19.4,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "payment-result-onchain",
+      "boundsPercent": {
+        "x": 32.8,
+        "y": 31.5,
+        "width": 27.6,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "payment-result-lightning",
+      "boundsPercent": {
+        "x": 62.3,
+        "y": 31.5,
+        "width": 26.3,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "common-use-question",
+      "boundsPercent": {
+        "x": 11.5,
+        "y": 52,
+        "width": 19.4,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "common-use-onchain",
+      "boundsPercent": {
+        "x": 32.8,
+        "y": 52,
+        "width": 27.6,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "common-use-lightning",
+      "boundsPercent": {
+        "x": 62.3,
+        "y": 52,
+        "width": 26.3,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "beginner-checks-question",
+      "boundsPercent": {
+        "x": 11.5,
+        "y": 72.5,
+        "width": 19.4,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "beginner-checks-onchain",
+      "boundsPercent": {
+        "x": 32.8,
+        "y": 72.5,
+        "width": 27.6,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "beginner-checks-lightning",
+      "boundsPercent": {
+        "x": 62.3,
+        "y": 72.5,
+        "width": 26.3,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "receiving-information-question",
+      "receiving-information-onchain",
+      "receiving-information-lightning",
+      "payment-result-question",
+      "payment-result-onchain",
+      "payment-result-lightning",
+      "common-use-question",
+      "common-use-onchain",
+      "common-use-lightning",
+      "beginner-checks-question",
+      "beginner-checks-onchain",
+      "beginner-checks-lightning"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 12,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-051` | AI | Supporting | Table | 33 and 36–37 | provide an on-chain-versus-Lightning learner reference. | Under `### On-chain and Lightning payments`, replace the existing `Question / On-chain Bitcoin / Lightning` table visually while retaining an accessible text equivalent. | 990 | Lets learners compare payment requests, settlement, timing, fees, typical use, and introductory risks across the two paths. | Preserve the four current rows: receiving information, payment result, common use, and beginner checks. Keep invoice, offer, and supported Lightning-address wording, plus expiry and payment-result checks. Retain custody and fee qualifications from the adjacent prose. Do not imply that Lightning is a separate coin or that either path is universally better. | Payment-path comparison table; full width. |",
+      "sourcePlacement": "Under `### On-chain and Lightning payments`, replace the existing `Question / On-chain Bitcoin / Lightning` table visually while retaining an accessible text equivalent.",
+      "sourceLocator": "990",
+      "instructionalRelationship": "Lets learners compare payment requests, settlement, timing, fees, typical use, and introductory risks across the two paths.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Preserve the four current rows: receiving information, payment result, common use, and beginner checks. Keep invoice, offer, and supported Lightning-address wording, plus expiry and payment-result checks. Retain custody and fee qualifications from the adjacent prose. Do not imply that Lightning is a separate coin or that either path is universally better.",
+      "format": "Payment-path comparison table; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "- id: on-chain-lightning-layer-notation\n  kind: notation\n  appears_in: [BD-V-050, BD-V-051, BD-V-059, BD-V-066]\n  description: A shared distinction between on-chain and Lightning payment layers, requests, results, and failure risks. It does not stand for wallet custody.\n  distinct_from: [custody-labels, wallet-interface, payment-service]",
+      "adjacentGuideText": "### On-chain and Lightning payments\n\n<!-- VISUAL: BD-V-050\nALT: Comparison of on-chain and Lightning payment paths, including settlement, speed, fees, custody, and failure points.\nASSET: y_assets (archived)/diploma/bd-v-050.svg\n-->\n\nBitcoin has more than one payment path. **On-chain** payments are recorded in Bitcoin's blockchain and gain confirmations. **Lightning** is a payment network built on Bitcoin that can support fast, frequent payments. A Lightning payment may complete quickly or fail, and its wallet can still be custodial or self-custodial.\n\n| Question | On-chain Bitcoin | Lightning |\n| --- | --- | --- |\n| Receiving information | Bitcoin address or on-chain payment request | Lightning invoice, offer, or supported Lightning address |\n| Payment result | Broadcast first, then confirmations | Usually completes or fails quickly |\n| Common use | Base-layer settlement or less frequent transfer | Fast, smaller, or frequent payment |\n| Beginner checks | Correct address, network, amount, fee, and confirmation status | Correct invoice or request, amount, expiry, custody, and payment result |\n\n<!-- VISUAL: BD-V-051\nALT: Accessible table comparing on-chain Bitcoin and Lightning payment questions and trade-offs.\nASSET: y_assets (archived)/diploma/bd-v-051.svg\n-->\n\nWhich path does the recipient expect? Confirm whether they have provided an on-chain address or a Lightning invoice or request before paying. An on-chain wallet cannot directly pay every Lightning invoice, and a Lightning wallet may not support every on-chain action. Some applications support both paths but may add fees or service dependencies. Detailed Lightning setup, channels, routing, and liquidity are Advanced Learning; live local practice belongs in **Module 4** when it is safe and appropriate.\n\nImagine that a prepared scenario offers both payment paths. Which request can the intended wallet use, and what would you check before approving it? The answer depends on the receiving request, the wallet, and the situation — not on a universal “best” path.\n\n"
+    },
+    "deferredLabels": [
+      "Question / On-chain Bitcoin / Lightning",
+      "Receiving information",
+      "Payment result",
+      "Common use",
+      "Beginner checks",
+      "Retain invoice, offer, supported Lightning-address wording, expiry and payment-result checks; custody and fees vary."
+    ],
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 165953,
+      "partialAlphaPixels": 160985,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Exactly twelve blank filled cells in four rows and three columns; clean transparent gutters. Equal comparison emphasis, no ranking symbols or header props. Guide's full four-row text and adjacent qualifications preserved. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

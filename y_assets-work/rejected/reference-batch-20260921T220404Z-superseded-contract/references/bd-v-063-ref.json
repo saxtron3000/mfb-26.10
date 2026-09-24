@@ -1,0 +1,41 @@
+{
+  "assetId": "BD-V-063",
+  "specVersion": 2,
+  "canvas": {
+    "aspectRatio": "",
+    "orientation": "landscape",
+    "suggestedWidthPx": 1024
+  },
+  "placement": [],
+  "conformance": {
+    "elementsRendered": [],
+    "elementsMissing": [
+      "All reference-image elements: no image was generated. See the complete incorporated asset brief in deferredForEditableCoding."
+    ],
+    "elementsAdded": [],
+    "compositionFollowed": false,
+    "compositionDeviation": "Preflight blocked by the mutually incompatible JPEG and transparency requirements; no image exists, no coordinates are asserted, and visual conformance has not been assessed.",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 0,
+    "reviewStatus": "blocked-before-generation",
+    "imageGenerated": false,
+    "visualReviewPerformed": false,
+    "canvasNote": "Landscape and 1024px are requested defaults only. Actual dimensions and aspect ratio are unset because no image exists; the asset brief takes precedence on resumption.",
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-063` | AI | Supporting | Table | 45 | provide a local pathway-comparison table that considers the complete route. | Under `### Local on-ramp and off-ramp pathways`, replace the existing pathway comparison table visually while retaining an accessible text equivalent. | 1259 | Helps learners compare received value, time, custody, privacy, reversal risk, and failure points across local options. | Preserve the editable rows for local option A, local option B, and an existing non-Bitcoin option, plus all comparison columns. Do not pre-fill services, rates, or legal claims. | Editable pathway-comparison table; full width. |",
+      "sourcePlacement": "Under `### Local on-ramp and off-ramp pathways`, replace the existing pathway comparison table visually while retaining an accessible text equivalent.",
+      "sourceLocator": "1259",
+      "instructionalRelationship": "Helps learners compare received value, time, custody, privacy, reversal risk, and failure points across local options.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Preserve the editable rows for local option A, local option B, and an existing non-Bitcoin option, plus all comparison columns. Do not pre-fill services, rates, or legal claims.",
+      "format": "Editable pathway-comparison table; full width.",
+      "existingStructuralRecord": null,
+      "relevantSharedRegister": "- id: payment-pathway-symbols\n  kind: symbol\n  appears_in: [BD-V-048, BD-V-049, BD-V-058, BD-V-062, BD-V-063, BD-V-064]\n  description: Reusable symbols for the stages and dependencies in an acquisition, exchange, payment, or conversion pathway. They keep local options editable and distinguish routes from recommendations.\n  distinct_from: [investment-chart, provider-endorsement, universal-service-map]",
+      "note": "These are verbatim source requirements, not generated-image observations or newly approved production specifications. No text, connector, QR, or placement has been rendered. Missing exact guide strings must be retrieved before image generation when needed."
+    }
+  },
+  "unresolved": [
+    "FORMAT-001: The required .jpg file must have a transparent background, but JPEG cannot encode alpha transparency. A transparent PNG plus a white-background JPG, or a PNG replacement, requires a change to the requested output contract. No format change has been authorized. No image was generated or visually reviewed."
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "assetId": "BD-V-100",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "16:9",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-100-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-100-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 432
+  },
+  "placement": [
+    {
+      "elementId": "bitcoin-model",
+      "boundsPercent": {
+        "x": 3,
+        "y": 16,
+        "width": 18,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "bitcoin-issuance-control",
+      "boundsPercent": {
+        "x": 22.2,
+        "y": 16,
+        "width": 18,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "bitcoin-supply-support",
+      "boundsPercent": {
+        "x": 41.4,
+        "y": 16,
+        "width": 18,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "bitcoin-independent-verification",
+      "boundsPercent": {
+        "x": 60.599999999999994,
+        "y": 16,
+        "width": 18,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "bitcoin-counterparties",
+      "boundsPercent": {
+        "x": 79.8,
+        "y": 16,
+        "width": 18,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "generic-stablecoin-model",
+      "boundsPercent": {
+        "x": 3,
+        "y": 34.8,
+        "width": 18,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "generic-stablecoin-issuance-control",
+      "boundsPercent": {
+        "x": 22.2,
+        "y": 34.8,
+        "width": 18,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "generic-stablecoin-supply-support",
+      "boundsPercent": {
+        "x": 41.4,
+        "y": 34.8,
+        "width": 18,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "generic-stablecoin-independent-verification",
+      "boundsPercent": {
+        "x": 60.599999999999994,
+        "y": 34.8,
+        "width": 18,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "generic-stablecoin-counterparties",
+      "boundsPercent": {
+        "x": 79.8,
+        "y": 34.8,
+        "width": 18,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "generic-other-asset-model",
+      "boundsPercent": {
+        "x": 3,
+        "y": 53.6,
+        "width": 18,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "generic-other-asset-issuance-control",
+      "boundsPercent": {
+        "x": 22.2,
+        "y": 53.6,
+        "width": 18,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "generic-other-asset-supply-support",
+      "boundsPercent": {
+        "x": 41.4,
+        "y": 53.6,
+        "width": 18,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "generic-other-asset-independent-verification",
+      "boundsPercent": {
+        "x": 60.599999999999994,
+        "y": 53.6,
+        "width": 18,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "generic-other-asset-counterparties",
+      "boundsPercent": {
+        "x": 79.8,
+        "y": 53.6,
+        "width": 18,
+        "height": 17
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "shared-service-custody-layer",
+      "boundsPercent": {
+        "x": 3,
+        "y": 74,
+        "width": 94,
+        "height": 13
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "bitcoin-model",
+      "bitcoin-issuance-control",
+      "bitcoin-supply-support",
+      "bitcoin-independent-verification",
+      "bitcoin-counterparties",
+      "generic-stablecoin-model",
+      "generic-stablecoin-issuance-control",
+      "generic-stablecoin-supply-support",
+      "generic-stablecoin-independent-verification",
+      "generic-stablecoin-counterparties",
+      "generic-other-asset-model",
+      "generic-other-asset-issuance-control",
+      "generic-other-asset-supply-support",
+      "generic-other-asset-independent-verification",
+      "generic-other-asset-counterparties",
+      "shared-service-custody-layer"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 16,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-100` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### Bitcoin, stablecoins, and other crypto-assets`, after the line beginning `Do not imply that every non-Bitcoin [asset](mfb-bd-lx.md#term-asset) has the same structure. Th…`. Replace the `BD-V-100` marker at EG line 1634. | EG: 1632 | Helps educators explain similar-looking interfaces backed by different control and verification relationships. | **Compare digital-asset trust dependencies.** Use three lanes for Bitcoin, a generic stablecoin model, and a generic other-asset model. Apply the same questions about issuance/control, supply support, independent verification, and counterparties. Show public node-enforced rules for Bitcoin; design-dependent reserves/redemption or other mechanisms for stablecoins; varying project rules/governance for other assets. Add a separate service/custody layer across all lanes so Bitcoin service risk remains visible. Keep every design qualification from the existing table. No brands, tickers, logos, prices, rankings, recommendations, or suggestion every model works alike. Preserve the table as detailed reference. Caption: `Compare who controls the rules and which claims can be verified.` Alt text: `Three generic asset models are compared through issuance, supply support, verification, and counterparties. Wallets and custodians form a separate dependency layer across all three; similar interfaces do not establish the same trust model.` Master: `y_assets (archived)/diploma/bd-v-100.svg`. | Three-lane dependency diagram; full width. |",
+      "sourcePlacement": "EG only: under `### Bitcoin, stablecoins, and other crypto-assets`, after the line beginning `Do not imply that every non-Bitcoin [asset](mfb-bd-lx.md#term-asset) has the same structure. Th…`. Replace the `BD-V-100` marker at EG line 1634.",
+      "sourceLocator": "EG: 1632",
+      "instructionalRelationship": "Helps educators explain similar-looking interfaces backed by different control and verification relationships.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "**Compare digital-asset trust dependencies.** Use three lanes for Bitcoin, a generic stablecoin model, and a generic other-asset model. Apply the same questions about issuance/control, supply support, independent verification, and counterparties. Show public node-enforced rules for Bitcoin; design-dependent reserves/redemption or other mechanisms for stablecoins; varying project rules/governance for other assets. Add a separate service/custody layer across all lanes so Bitcoin service risk remains visible. Keep every design qualification from the existing table. No brands, tickers, logos, prices, rankings, recommendations, or suggestion every model works alike. Preserve the table as detailed reference. Caption: `Compare who controls the rules and which claims can be verified.` Alt text: `Three generic asset models are compared through issuance, supply support, verification, and counterparties. Wallets and custodians form a separate dependency layer across all three; similar interfaces do not establish the same trust model.` Master: `y_assets (archived)/diploma/bd-v-100.svg`.",
+      "format": "Three-lane dependency diagram; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "- id: protocol-node-symbol\n  kind: symbol\n  appears_in: [BD-V-024, BD-V-026, BD-V-030, BD-V-031, BD-V-032, BD-V-100]\n  description: A neutral network participant symbol used for independent verification and node-enforced rules. It is not a wallet, miner, service, or central controller.\n  distinct_from: [miner, wallet, payment-service, central-authority]",
+      "adjacentGuideText": "### Bitcoin, stablecoins, and other crypto-assets\n\nThe Diploma remains Bitcoin-only. A short comparison supports `C5` and helps learners recognize why a similar-looking digital token may have a different trust model.\n\nUse a generic guided table rather than promoting named [assets](mfb-bd-lx.md#term-asset):\n\n| Question | Bitcoin | Stablecoin model | Other crypto-asset model |\n| --- | --- | --- | --- |\n| Who issues or controls supply? | Public rules enforced by participating [nodes](mfb-bd-lx.md#term-node); no central [issuer](mfb-bd-lx.md#term-issuer) | Often an [issuer](mfb-bd-lx.md#term-issuer), reserve manager, governance group, or protocol tied to an external reference [asset](mfb-bd-lx.md#term-asset) | Varies; may involve founders, foundations, companies, validators, governance holders, or a protocol |\n| What supports the supply claim? | Independently verifiable issuance rules and history | Reserves, redemption promises, collateral, algorithms, legal claims, or a combination | Project-specific rules and governance |\n| What counterparty risk exists? | Services can add counterparty risk, but the base [asset](mfb-bd-lx.md#term-asset) has no redeeming [issuer](mfb-bd-lx.md#term-issuer) | [Issuer](mfb-bd-lx.md#term-issuer), [custodian](mfb-bd-lx.md#term-custodian), bank, collateral, oracle, bridge, or redemption risk may exist | Project, governance, bridge, [custodian](mfb-bd-lx.md#term-custodian), or operator risk may exist |\n| What can the learner verify independently? | Protocol rules and history with a [node](mfb-bd-lx.md#term-node) | Depends on reserve evidence, legal rights, code, network, and service | Depends on design and access to verification |\n| What does the course recommend? | Study the Bitcoin-specific beginner competencies and safety practices | No acquisition or product recommendation | No acquisition, trading, or token promotion |\n\nDo not imply that every non-Bitcoin [asset](mfb-bd-lx.md#term-asset) has the same structure. The learner's task is to ask consistent questions about [issuer](mfb-bd-lx.md#term-issuer), control, supply, verification, [custody](mfb-bd-lx.md#term-custody), and counterparty dependence.\n\n<!-- VISUAL: BD-V-100\nALT: Three generic asset models are compared through issuance, supply support, verification, and counterparties. Wallets and custodians form a separate dependency layer across all three; similar interfaces do not establish the same trust model.\nASSET: y_assets (archived)/diploma/bd-v-100.svg\nUSE: Educator-only diagram; see the asset index brief.\n-->\n\n"
+    },
+    "deferredLabels": [
+      "Bitcoin: public node-enforced rules.",
+      "Stablecoin: design-dependent reserves/redemption or other mechanisms.",
+      "Other assets: varying project rules/governance.",
+      "Service and custody dependencies apply across all three; Bitcoin service risk remains visible.",
+      "Preserve every design qualification in existing source table; similar interfaces do not establish same trust model."
+    ],
+    "deferredConnectors": [
+      "Service/custody layer connects across all three generic models without ranking."
+    ],
+    "exportVerification": {
+      "width": 768,
+      "height": 432,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "transparentPixels": 129589,
+      "partialAlphaPixels": 196447,
+      "totalPixels": 331776,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Three equally weighted lanes, each model plus same four questions, above separate custody/service layer spanning all models. No brands/logos/tickers/price/rankings or invented factual claims. Blank cells preserve detailed-table qualifications for editable text. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

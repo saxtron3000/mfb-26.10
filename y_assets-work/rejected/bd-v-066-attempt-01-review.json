@@ -1,0 +1,13 @@
+{
+  "assetId": "BD-V-066",
+  "attempt": 1,
+  "status": "rejected",
+  "reviewedAt": "2026-09-22T00:03:42.042645+00:00",
+  "reason": "Custody/conversion disks rendered as 3D cylinders and record book uses perspective page stack. Flatten these props.",
+  "files": [
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-066-attempt-01.png",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-066-attempt-01.jpg",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-066-attempt-01.json",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-066-attempt-01.txt"
+  ]
+}

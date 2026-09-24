@@ -9,7 +9,7 @@ The checklist is generated from [08_assets.md](08_assets.md) and contains all 10
 ## Completion rules
 
 - Change `[ ]` to `[X]` only when the editable bundle, preview, accessibility handoff, and documented visual checks exist and have passed review.
-- Attach the matching `assets-work/references/<asset-id-lowercase>-ref.png`, `.jpg`, and `.json` before using an eligible prompt. Confirm that both images, the conformance report, and the prompt record passed reference review. Do not treat reference files as production files.
+- Attach the matching `y_assets-work (archived)/references/<asset-id-lowercase>-ref.png`, `.jpg`, and `.json` before using an eligible prompt. Confirm that both images, the conformance report, and the prompt record passed reference review. Do not treat reference files as production files.
 - Keep deferred `BD-V-001`, `BD-V-070`, and `BD-V-075` unchecked. Later `BD-V-001` production must use the official licence mark under its existing brief, not an AI redraw.
 - Keep adjoining and related assets separate. A shared asset may serve both listed placements only when the same implementation is genuinely appropriate.
 - Conditional assets remain blocked until every verification or local/editorial decision named in the asset brief is resolved.
@@ -44,12 +44,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-002-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-002-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-002-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-002-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-002-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-002-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -76,12 +76,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-076-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-076-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-076-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-076-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-076-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-076-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -108,12 +108,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-077-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-077-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-077-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-077-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-077-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-077-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -140,12 +140,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-006-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-006-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-006-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-006-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-006-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-006-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -172,12 +172,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-003-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-003-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-003-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-003-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-003-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-003-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -204,12 +204,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-004-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-004-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-004-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-004-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-004-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-004-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -236,12 +236,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-005-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-005-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-005-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-005-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-005-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-005-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -271,12 +271,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-007-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-007-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-007-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-007-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-007-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-007-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -303,12 +303,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-008-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-008-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-008-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-008-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-008-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-008-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -335,12 +335,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-009-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-009-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-009-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-009-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-009-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-009-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -367,12 +367,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-010-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-010-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-010-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-010-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-010-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-010-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -399,12 +399,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-011-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-011-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-011-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-011-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-011-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-011-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -431,12 +431,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-012-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-012-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-012-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-012-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-012-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-012-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -463,12 +463,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-013-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-013-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-013-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-013-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-013-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-013-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -495,12 +495,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-014-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-014-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-014-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-014-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-014-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-014-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -527,12 +527,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-015-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-015-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-015-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-015-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-015-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-015-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -559,12 +559,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-016-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-016-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-016-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-016-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-016-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-016-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -591,12 +591,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-017-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-017-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-017-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-017-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-017-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-017-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -623,12 +623,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-018-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-018-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-018-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-018-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-018-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-018-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -655,12 +655,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-020-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-020-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-020-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-020-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-020-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-020-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -687,12 +687,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-021-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-021-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-021-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-021-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-021-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-021-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -719,12 +719,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-019-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-019-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-019-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-019-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-019-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-019-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -754,12 +754,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-022-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-022-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-022-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-022-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-022-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-022-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -786,12 +786,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-023-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-023-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-023-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-023-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-023-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-023-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -818,12 +818,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-024-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-024-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-024-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-024-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-024-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-024-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -850,12 +850,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-027-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-027-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-027-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-027-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-027-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-027-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -882,12 +882,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-026-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-026-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-026-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-026-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-026-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-026-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -914,12 +914,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-030-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-030-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-030-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-030-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-030-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-030-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -946,12 +946,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-031-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-031-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-031-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-031-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-031-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-031-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -978,12 +978,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-032-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-032-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-032-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-032-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-032-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-032-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1010,12 +1010,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-028-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-028-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-028-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-028-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-028-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-028-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1042,12 +1042,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-029-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-029-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-029-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-029-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-029-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-029-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1074,12 +1074,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-033-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-033-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-033-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-033-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-033-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-033-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1106,12 +1106,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-025-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-025-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-025-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-025-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-025-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-025-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1138,12 +1138,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-034-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-034-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-034-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-034-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-034-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-034-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1173,12 +1173,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-035-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-035-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-035-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-035-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-035-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-035-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1205,12 +1205,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-036-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-036-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-036-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-036-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-036-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-036-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1223,7 +1223,7 @@ Complete asset brief
 - Placement: Under `### Addresses` in the [Student Guide](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#addresses), immediately after the opening paragraph beginning “A Bitcoin **address** is public receiving information” and before “If you want to receive an on-chain payment”.
 - Source locator: 818
 - Text–visual link: Shows that the alphanumeric address and QR code represent the same public receiving information; neither is a private key or a recovery phrase.
-- Design brief: Show the full My First Bitcoin test address as readable, untruncated text beside a QR code encoding exactly that address, joined by the label `Same address, two formats`. Use [BLANK] for the official test address and [BLANK] for the exact test-network name until My First Bitcoin supplies and approves both values; do not generate a QR until TODO AST-001 is resolved. Do not invent an address or substitute a live donation address. Label `My First Bitcoin test address`, the confirmed test network, and `SAMPLE — DO NOT PAY`. Explain briefly that the wallet creates the receiving address and that the sender checks the decoded destination against the trusted receive screen. Encode only the address, without an amount, URL, or Lightning invoice. Generate the QR from the supplied text and verify that scanning the final print and screen exports returns the identical full address. Keep the QR unobstructed with a clear border. Caption: `Scan or copy: both give the same receiving address. Check the destination before sending.` Alt text: `A My First Bitcoin test address shown as alphanumeric text beside a QR code containing the same address, labelled with its test network and SAMPLE — DO NOT PAY.` Save the editable master as `assets/diploma/bd-v-036.svg`.
+- Design brief: Show the full My First Bitcoin test address as readable, untruncated text beside a QR code encoding exactly that address, joined by the label `Same address, two formats`. Use [BLANK] for the official test address and [BLANK] for the exact test-network name until My First Bitcoin supplies and approves both values; do not generate a QR until TODO AST-001 is resolved. Do not invent an address or substitute a live donation address. Label `My First Bitcoin test address`, the confirmed test network, and `SAMPLE — DO NOT PAY`. Explain briefly that the wallet creates the receiving address and that the sender checks the decoded destination against the trusted receive screen. Encode only the address, without an amount, URL, or Lightning invoice. Generate the QR from the supplied text and verify that scanning the final print and screen exports returns the identical full address. Keep the QR unobstructed with a clear border. Caption: `Scan or copy: both give the same receiving address. Check the destination before sending.` Alt text: `A My First Bitcoin test address shown as alphanumeric text beside a QR code containing the same address, labelled with its test network and SAMPLE — DO NOT PAY.` Save the editable master as `y_assets (archived)/diploma/bd-v-036.svg`.
 - Format: Side-by-side text-to-QR diagram with editable labels; half to full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -1237,12 +1237,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-078-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-078-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-078-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-078-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-078-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-078-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1255,7 +1255,7 @@ Complete asset brief
 - Placement: Under `### Addresses` in the [Student Guide](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#addresses), immediately after the paragraph beginning “For every payment request, confirm the intended payment method” and before “When a payment matters”.
 - Source locator: 822
 - Text–visual link: Shows how a Lightning invoice carries a payment request and how its readable details relate to the QR code; complements the on-chain address example in `BD-V-036`.
-- Design brief: Show a My First Bitcoin test Lightning invoice as a readable payment-request panel on the left and its matching QR code on the right, joined by `Same payment request, two formats`. Include recipient `My First Bitcoin — test`, payment method `Lightning`, confirmed test network, amount with an explicit unit, description, expiry, and the invoice string labelled `Lightning payment request`. Use the invoice string as the destination to scan or copy; do not label it as an on-chain address or imply that a Lightning invoice requires one. Distinguish the recipient display label from the encoded invoice details; a familiar name alone does not verify the recipient. Use [BLANK] for the official test invoice, network, amount, description, and expiry until My First Bitcoin supplies and approves them; do not generate a QR until TODO AST-002 is resolved. Mark `SAMPLE — DO NOT PAY`; explain that this is a fixed teaching example and may be expired. Encode the complete supplied invoice in the QR, not an address or a summary of the displayed fields. Verify that scanning the final print and screen exports returns the identical invoice and that a compatible test wallet displays matching payment details. Keep the QR unobstructed with a clear border, and keep the complete invoice available as selectable text. Do not show private keys, recovery phrases, or a live donation request. Caption: `Check the payment method, recipient, amount, and expiry after scanning.` Alt text: `A My First Bitcoin test Lightning invoice with its recipient, network, amount, description, expiry, and payment-request text beside a QR code encoding the same invoice, marked SAMPLE — DO NOT PAY.` Save the editable master as `assets/diploma/bd-v-078.svg`.
+- Design brief: Show a My First Bitcoin test Lightning invoice as a readable payment-request panel on the left and its matching QR code on the right, joined by `Same payment request, two formats`. Include recipient `My First Bitcoin — test`, payment method `Lightning`, confirmed test network, amount with an explicit unit, description, expiry, and the invoice string labelled `Lightning payment request`. Use the invoice string as the destination to scan or copy; do not label it as an on-chain address or imply that a Lightning invoice requires one. Distinguish the recipient display label from the encoded invoice details; a familiar name alone does not verify the recipient. Use [BLANK] for the official test invoice, network, amount, description, and expiry until My First Bitcoin supplies and approves them; do not generate a QR until TODO AST-002 is resolved. Mark `SAMPLE — DO NOT PAY`; explain that this is a fixed teaching example and may be expired. Encode the complete supplied invoice in the QR, not an address or a summary of the displayed fields. Verify that scanning the final print and screen exports returns the identical invoice and that a compatible test wallet displays matching payment details. Keep the QR unobstructed with a clear border, and keep the complete invoice available as selectable text. Do not show private keys, recovery phrases, or a live donation request. Caption: `Check the payment method, recipient, amount, and expiry after scanning.` Alt text: `A My First Bitcoin test Lightning invoice with its recipient, network, amount, description, expiry, and payment-request text beside a QR code encoding the same invoice, marked SAMPLE — DO NOT PAY.` Save the editable master as `y_assets (archived)/diploma/bd-v-078.svg`.
 - Format: Side-by-side invoice-and-QR diagram with editable labels; full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -1269,12 +1269,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-037-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-037-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-037-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-037-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-037-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-037-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1287,7 +1287,7 @@ Complete asset brief
 - Placement: SG: At the end of `### Keys` in the [Student Guide](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#keys), after the `Try it` sorting prompt and immediately before `### Seed phrases`. EG: under `### Keys and digital authorization`, replace the matching marker after the source text at the listed EG line. See section 3.8 for the exact anchor.
 - Source locator: SG: 844; EG: 1954
 - Text–visual link: Reinforces the rule “Public receiving information can be shared. Private spending information must remain secret” by showing how public information relates to a secret private key.
-- Design brief: Show `Private key → Public key → Receiving address`, with the first arrow labelled `Derived from` and the address step labelled `Created from public-key information`. Place the private key inside a clearly marked secret boundary. Add a prominent warning beside it: `Never share your private key. Anyone with it can spend your bitcoin.` Use a warning symbol and readable text so the warning works in grayscale. Label the receiving address `Public receiving information`. Add a small signing branch: the private key creates a digital signature; nodes use the public key to verify it without seeing the private key. Keep the private key inside the secret boundary throughout. Do not imply that a public key or address can reveal the private key, that an address and public key are identical, or that a signature contains the private key. Use conceptual symbols only, never real or realistic private-key strings, recovery phrases, or scannable secrets. Caption: `Public information supports receiving and verification. The private key authorizes spending and must stay secret.` Alt text: `A private key kept inside a secret boundary derives a public key, from which receiving-address information is created. A separate branch shows signing and public verification without revealing the private key. Warning: never share your private key; anyone with it can spend your bitcoin.` Save the editable master as `assets/diploma/bd-v-037.svg`.
+- Design brief: Show `Private key → Public key → Receiving address`, with the first arrow labelled `Derived from` and the address step labelled `Created from public-key information`. Place the private key inside a clearly marked secret boundary. Add a prominent warning beside it: `Never share your private key. Anyone with it can spend your bitcoin.` Use a warning symbol and readable text so the warning works in grayscale. Label the receiving address `Public receiving information`. Add a small signing branch: the private key creates a digital signature; nodes use the public key to verify it without seeing the private key. Keep the private key inside the secret boundary throughout. Do not imply that a public key or address can reveal the private key, that an address and public key are identical, or that a signature contains the private key. Use conceptual symbols only, never real or realistic private-key strings, recovery phrases, or scannable secrets. Caption: `Public information supports receiving and verification. The private key authorizes spending and must stay secret.` Alt text: `A private key kept inside a secret boundary derives a public key, from which receiving-address information is created. A separate branch shows signing and public verification without revealing the private key. Warning: never share your private key; anyone with it can spend your bitcoin.` Save the editable master as `y_assets (archived)/diploma/bd-v-037.svg`.
 - Format: One-way key-relationship diagram with a prominent private-key warning and a supporting signing branch; full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -1301,12 +1301,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-038-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-038-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-038-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-038-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-038-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-038-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1333,12 +1333,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-079-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-079-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-079-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-079-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-079-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-079-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1351,7 +1351,7 @@ Complete asset brief
 - Placement: At the end of `### Seed phrases` in the [Student Guide](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#seed-phrases), immediately after the paragraph beginning “Some wallets use additional passphrases” and before `### Custodial and non-custodial use`.
 - Source locator: 861
 - Text–visual link: Makes writing a private, offline backup concrete and reinforces preserving word order and spelling. Complements the recovery relationship in `BD-V-038`.
-- Design brief: Show one person privately copying a 12-word seed phrase from a generic wallet backup screen onto paper with a pen. Show twelve clearly numbered positions on both screen and paper, in the same reading order, using matching placeholders `WORD 01` through `WORD 12` rather than an actual recovery phrase. Depict the hand completing the final entry; use a simple directional cue from screen to paper and a callout `Check every word and its number`. Label the illustration `EXAMPLE ONLY — NOT A VALID RECOVERY PHRASE`. Add a prominent warning: `Never share your seed phrase. Never photograph it or save it online.` Show no camera, cloud backup, messaging, website entry, or second person viewing the phrase. Use a generic interface without wallet branding. Note `12-word example; follow your wallet’s backup instructions` so the illustration does not imply that all wallets use twelve words. Caption: `Copy each word in order onto paper. Check it privately and store it securely offline.` Alt text: `A person uses a pen to copy twelve numbered placeholder words from a wallet backup screen onto paper in the same order. Labels remind the learner to check every word, keep the backup offline, and never share or photograph a seed phrase. The example is not a valid recovery phrase.` Save the editable master as `assets/diploma/bd-v-079.svg`.
+- Design brief: Show one person privately copying a 12-word seed phrase from a generic wallet backup screen onto paper with a pen. Show twelve clearly numbered positions on both screen and paper, in the same reading order, using matching placeholders `WORD 01` through `WORD 12` rather than an actual recovery phrase. Depict the hand completing the final entry; use a simple directional cue from screen to paper and a callout `Check every word and its number`. Label the illustration `EXAMPLE ONLY — NOT A VALID RECOVERY PHRASE`. Add a prominent warning: `Never share your seed phrase. Never photograph it or save it online.` Show no camera, cloud backup, messaging, website entry, or second person viewing the phrase. Use a generic interface without wallet branding. Note `12-word example; follow your wallet’s backup instructions` so the illustration does not imply that all wallets use twelve words. Caption: `Copy each word in order onto paper. Check it privately and store it securely offline.` Alt text: `A person uses a pen to copy twelve numbered placeholder words from a wallet backup screen onto paper in the same order. Labels remind the learner to check every word, keep the backup offline, and never share or photograph a seed phrase. The example is not a valid recovery phrase.` Save the editable master as `y_assets (archived)/diploma/bd-v-079.svg`.
 - Format: Screen-to-paper illustration with numbered placeholders, editable labels, and a prominent safety warning; half to full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -1365,12 +1365,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-039-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-039-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-039-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-039-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-039-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-039-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1397,12 +1397,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-040-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-040-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-040-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-040-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-040-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-040-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1429,12 +1429,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-042-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-042-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-042-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-042-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-042-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-042-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1461,12 +1461,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-041-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-041-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-041-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-041-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-041-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-041-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1493,12 +1493,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-043-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-043-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-043-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-043-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-043-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-043-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1525,12 +1525,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-044-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-044-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-044-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-044-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-044-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-044-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1557,12 +1557,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-045-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-045-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-045-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-045-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-045-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-045-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1589,12 +1589,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-046-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-046-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-046-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-046-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-046-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-046-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1621,12 +1621,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-047-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-047-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-047-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-047-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-047-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-047-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1653,12 +1653,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-048-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-048-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-048-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-048-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-048-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-048-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1685,12 +1685,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-049-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-049-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-049-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-049-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-049-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-049-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1717,12 +1717,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-050-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-050-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-050-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-050-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-050-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-050-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1749,12 +1749,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-051-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-051-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-051-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-051-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-051-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-051-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1781,12 +1781,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-052-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-052-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-052-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-052-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-052-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-052-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1813,12 +1813,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-053-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-053-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-053-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-053-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-053-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-053-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1848,12 +1848,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-055-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-055-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-055-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-055-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-055-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-055-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1880,12 +1880,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-054-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-054-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-054-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-054-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-054-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-054-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1912,12 +1912,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-056-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-056-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-056-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-056-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-056-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-056-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1944,12 +1944,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-057-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-057-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-057-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-057-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-057-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-057-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -1976,12 +1976,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-058-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-058-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-058-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-058-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-058-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-058-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2008,12 +2008,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-080-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-080-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-080-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-080-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-080-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-080-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2026,7 +2026,7 @@ Complete asset brief
 - Placement: Under `### Lightning payments where locally appropriate` in the [Student Guide](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#lightning-payments-where-locally-appropriate), immediately after the paragraph beginning “A **Lightning address** is a human-readable identifier” and before “For a guided payment”.
 - Source locator: 1148
 - Text–visual link: Connects an email-like Lightning address with its scannable payment destination, while distinguishing it from an email account, an on-chain address, and a specific Lightning invoice.
-- Design brief: Show the full Lightning address as readable, selectable text beside a QR code for the same destination, joined by `Same Lightning address, two formats`. Use [BLANK] for the Lightning address until My First Bitcoin supplies and approves an active, controlled destination; do not publish a working QR until TODO AST-003 is resolved. Generate a wallet-compatible Lightning QR for the confirmed address, not a `mailto:` link, website link, on-chain address, or fixed invoice. Label `Lightning address` and `SAMPLE — DO NOT PAY`. Do not preset an amount or turn this teaching illustration into a donation call to action; the optional support panel is `BD-V-074`. Verify that scanning the final print and screen exports in a compatible Lightning wallet resolves to the confirmed recipient and allows the payment details to be reviewed before approval. Keep the QR unobstructed with a clear border. Caption: `This looks like an email address, but it is used to request a Lightning payment. Check the recipient and payment details before paying.` Alt text: `A confirmed My First Bitcoin Lightning address shown as readable text beside a QR code for the same payment destination, labelled Lightning address and SAMPLE — DO NOT PAY.` Replace the generic address description in the final alt text with the confirmed address. Save the editable master as `assets/diploma/bd-v-080.svg`.
+- Design brief: Show the full Lightning address as readable, selectable text beside a QR code for the same destination, joined by `Same Lightning address, two formats`. Use [BLANK] for the Lightning address until My First Bitcoin supplies and approves an active, controlled destination; do not publish a working QR until TODO AST-003 is resolved. Generate a wallet-compatible Lightning QR for the confirmed address, not a `mailto:` link, website link, on-chain address, or fixed invoice. Label `Lightning address` and `SAMPLE — DO NOT PAY`. Do not preset an amount or turn this teaching illustration into a donation call to action; the optional support panel is `BD-V-074`. Verify that scanning the final print and screen exports in a compatible Lightning wallet resolves to the confirmed recipient and allows the payment details to be reviewed before approval. Keep the QR unobstructed with a clear border. Caption: `This looks like an email address, but it is used to request a Lightning payment. Check the recipient and payment details before paying.` Alt text: `A confirmed My First Bitcoin Lightning address shown as readable text beside a QR code for the same payment destination, labelled Lightning address and SAMPLE — DO NOT PAY.` Replace the generic address description in the final alt text with the confirmed address. Save the editable master as `y_assets (archived)/diploma/bd-v-080.svg`.
 - Format: Side-by-side Lightning-address-and-QR diagram with editable labels; half width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -2040,12 +2040,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-059-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-059-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-059-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-059-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-059-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-059-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2072,12 +2072,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-060-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-060-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-060-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-060-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-060-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-060-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2104,12 +2104,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-061-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-061-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-061-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-061-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-061-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-061-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2136,12 +2136,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-062-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-062-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-062-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-062-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-062-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-062-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2168,12 +2168,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-063-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-063-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-063-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-063-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-063-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-063-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2200,12 +2200,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-064-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-064-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-064-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-064-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-064-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-064-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2232,12 +2232,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-065-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-065-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-065-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-065-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-065-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-065-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2264,12 +2264,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-066-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-066-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-066-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-066-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-066-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-066-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2296,12 +2296,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-067-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-067-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-067-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-067-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-067-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-067-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2328,12 +2328,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-068-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-068-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-068-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-068-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-068-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-068-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2360,12 +2360,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-069-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-069-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-069-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-069-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-069-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-069-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2414,12 +2414,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-071-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-071-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-071-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-071-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-071-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-071-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2446,12 +2446,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-072-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-072-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-072-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-072-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-072-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-072-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2478,12 +2478,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-073-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-073-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-073-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-073-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-073-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-073-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2510,12 +2510,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-074-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-074-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-074-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-074-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-074-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-074-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2564,12 +2564,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-081-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-081-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-081-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-081-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-081-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-081-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2582,7 +2582,7 @@ Complete asset brief
 - Placement: EG only: under `## Assessment at a glance`, after the line beginning `They are also not a combined numerical grade. Both components must be complete, and every requi…`. Replace the `BD-V-081` marker at EG line 45.
 - Source locator: EG: 43
 - Text–visual link: Makes the two separately required evidence components and their joint completion condition unmistakable.
-- Design brief: **Two evidence components and the completion gate.** Use two equal lanes: educator-evaluated theory, C1–C8 (50%); directly observed practice, C9–C11 (50%). Both feed an AND gate labelled every required competency meets standard, then assessment-complete and educator-issued certification. Show a Not yet branch returning to practice and reassessment. Keep C12/C13 formative and optional app review outside the gate. State that percentages are neither teaching time nor a combined numerical grade. Do not invent a pass percentage, automatic certificate-issuing system, or central My First Bitcoin verification service. Caption: `Both evidence components must be complete; one cannot compensate for the other.` Alt text: `Theory competencies C1–C8 and practical competencies C9–C11 must each meet standard before assessment completion. Not yet evidence returns to practice and reassessment; attendance, optional app review, and formative reflection do not replace either component.` Master: `assets/diploma/bd-v-081.svg`.
+- Design brief: **Two evidence components and the completion gate.** Use two equal lanes: educator-evaluated theory, C1–C8 (50%); directly observed practice, C9–C11 (50%). Both feed an AND gate labelled every required competency meets standard, then assessment-complete and educator-issued certification. Show a Not yet branch returning to practice and reassessment. Keep C12/C13 formative and optional app review outside the gate. State that percentages are neither teaching time nor a combined numerical grade. Do not invent a pass percentage, automatic certificate-issuing system, or central My First Bitcoin verification service. Caption: `Both evidence components must be complete; one cannot compensate for the other.` Alt text: `Theory competencies C1–C8 and practical competencies C9–C11 must each meet standard before assessment completion. Not yet evidence returns to practice and reassessment; attendance, optional app review, and formative reflection do not replace either component.` Master: `y_assets (archived)/diploma/bd-v-081.svg`.
 - Format: Flow diagram; full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -2596,12 +2596,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-082-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-082-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-082-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-082-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-082-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-082-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2614,7 +2614,7 @@ Complete asset brief
 - Placement: EG only: under `### Capacity and readiness check`, after the line beginning `Record the chosen C11 variant, practical environment, accessibility equivalents, assessor nam…`. Replace the `BD-V-082` marker at EG line 72.
 - Source locator: EG: 70
 - Text–visual link: Connects cohort size, observation time, assessor capacity, and the advertised course route.
-- Design brief: **Observation capacity before scheduling.** Show learner count multiplied by estimated individual evidence minutes, distributed across available approved assessors. Label the quotient minimum observation time per assessor under balanced allocation, not total staff labour saved. Add setup, feedback, resets, accommodations, and reassessment before a fits the planned route decision. If no, loop to a smaller cohort, more approved assessor capacity, or a redesigned advertised schedule. Do not imply several learners can be observed simultaneously without identifiable evidence. Use symbols or clearly fictional numbers only; preserve the source formula as prose. Caption: `Plan enough time to observe each learner before confirming the course schedule.` Alt text: `Learner numbers and individual evidence time determine observation workload. After allowing for setup, feedback, resets, access needs, and reassessment, the educator checks capacity and revises cohort size, assessor capacity, or the advertised schedule if needed.` Master: `assets/diploma/bd-v-082.svg`.
+- Design brief: **Observation capacity before scheduling.** Show learner count multiplied by estimated individual evidence minutes, distributed across available approved assessors. Label the quotient minimum observation time per assessor under balanced allocation, not total staff labour saved. Add setup, feedback, resets, accommodations, and reassessment before a fits the planned route decision. If no, loop to a smaller cohort, more approved assessor capacity, or a redesigned advertised schedule. Do not imply several learners can be observed simultaneously without identifiable evidence. Use symbols or clearly fictional numbers only; preserve the source formula as prose. Caption: `Plan enough time to observe each learner before confirming the course schedule.` Alt text: `Learner numbers and individual evidence time determine observation workload. After allowing for setup, feedback, resets, access needs, and reassessment, the educator checks capacity and revises cohort size, assessor capacity, or the advertised schedule if needed.` Master: `y_assets (archived)/diploma/bd-v-082.svg`.
 - Format: Flow diagram; full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -2628,12 +2628,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-083-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-083-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-083-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-083-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-083-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-083-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2646,7 +2646,7 @@ Complete asset brief
 - Placement: EG only: under `### Competency-to-evidence crosswalk`, after the line beginning `\*Planning times are per learner evidence time, not the full teaching time. They are planning e…`. Replace the `BD-V-083` marker at EG line 96.
 - Source locator: EG: 94
 - Text–visual link: Explains the relationship among task IDs, competency IDs, decimal criteria, and the Assessment Grid.
-- Design brief: **Competencies, tasks, criteria, and records.** Map T1 to C1–C2, T2 to C3–C5, T3 to C6–C8; P9 to C9, P10 to C10, P11 to C11. Connect each competency to its required criteria and one final MS/NY record. Use C11.1 and C11.2 nested under C11 as the example of criteria that are not separate result rows. Expand MS as Meets standard and NY as Not yet. Include task, date, assessor, variant where applicable, and concise evidence reference as record metadata. No real learner data. Keep the detailed crosswalk table intact. Caption: `Tasks produce evidence for competencies; criteria support each competency decision.` Alt text: `Three theory interactions cover C1–C8, and three practical tasks cover C9–C11. All required criteria within a competency support one Meets standard or Not yet result recorded with concise evidence metadata.` Master: `assets/diploma/bd-v-083.svg`.
+- Design brief: **Competencies, tasks, criteria, and records.** Map T1 to C1–C2, T2 to C3–C5, T3 to C6–C8; P9 to C9, P10 to C10, P11 to C11. Connect each competency to its required criteria and one final MS/NY record. Use C11.1 and C11.2 nested under C11 as the example of criteria that are not separate result rows. Expand MS as Meets standard and NY as Not yet. Include task, date, assessor, variant where applicable, and concise evidence reference as record metadata. No real learner data. Keep the detailed crosswalk table intact. Caption: `Tasks produce evidence for competencies; criteria support each competency decision.` Alt text: `Three theory interactions cover C1–C8, and three practical tasks cover C9–C11. All required criteria within a competency support one Meets standard or Not yet result recorded with concise evidence metadata.` Master: `y_assets (archived)/diploma/bd-v-083.svg`.
 - Format: Task-to-competency map with one nested criterion example; full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -2660,12 +2660,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-084-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-084-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-084-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-084-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-084-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-084-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2678,7 +2678,7 @@ Complete asset brief
 - Placement: EG only: under `### Common support, safety, and record rules`, after the line beginning `**Permitted support:** Before evidence is gathered, you may read the prompt, repeat it once, pr…`. Replace the `BD-V-084` marker at EG line 106.
 - Source locator: EG: 104
 - Text–visual link: Separates access support and safety intervention from prompting that supplies the answer.
-- Design brief: **Support without supplying the assessed decision.** Use two time bands: before evidence and during practical observation. Before: read the prompt, repeat once, provide approved translation or communication accommodation, clarify a non-assessed word, prepare materials. During: safety stop or reset as permitted. Draw a clear boundary around the learner-owned explanation, comparison, verification, and action. Outside the permitted lane show supplying an answer, selecting a payment detail, or performing a required step. Use a conceptual example, not a new rubric. Read with each task’s specific permitted-support rules. Caption: `Support access and safety while the learner makes the assessed decisions.` Alt text: `An educator may provide the permitted preparation and access support and stop unsafe action. The learner must still supply the assessed explanation, select the relevant details, and perform or direct the required decisions.` Master: `assets/diploma/bd-v-084.svg`.
+- Design brief: **Support without supplying the assessed decision.** Use two time bands: before evidence and during practical observation. Before: read the prompt, repeat once, provide approved translation or communication accommodation, clarify a non-assessed word, prepare materials. During: safety stop or reset as permitted. Draw a clear boundary around the learner-owned explanation, comparison, verification, and action. Outside the permitted lane show supplying an answer, selecting a payment detail, or performing a required step. Use a conceptual example, not a new rubric. Read with each task’s specific permitted-support rules. Caption: `Support access and safety while the learner makes the assessed decisions.` Alt text: `An educator may provide the permitted preparation and access support and stop unsafe action. The learner must still supply the assessed explanation, select the relevant details, and perform or direct the required decisions.` Master: `y_assets (archived)/diploma/bd-v-084.svg`.
 - Format: Two-stage support-boundary diagram; half to full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -2692,12 +2692,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-085-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-085-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-085-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-085-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-085-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-085-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2710,7 +2710,7 @@ Complete asset brief
 - Placement: EG only: under `### Reassessment, calibration, and moderation`, after the line beginning `Use only versioned, approved task cards. Review local tools, current facts, translation, access…`. Replace the `BD-V-085` marker at EG line 204.
 - Source locator: EG: 202
 - Text–visual link: Distinguishes the learner reassessment loop from assessor calibration and cohort moderation.
-- Design brief: **Reassessment and educator quality review.** Show three labelled lanes. Learner: Not yet → private criterion-specific feedback → focused practice → same or approved equivalent task → new evidence → update Grid only when sufficient; incomplete evidence loops back. Assessor before delivery: score annotated MS/NY examples for T2, P9, selected P11 → compare judgments → resolve differences → retain calibration record. Cohort: lead or approved second reviewer checks each variant setup and samples records including disputed, reassessed, and safety-critical cases → corrections through approved record process. No automatic promotion from Not yet, public rankings, lowered standards, or replacement of direct observation. Caption: `Improve evidence and consistency without lowering the standard.` Alt text: `Learners receive private feedback, practise, and provide new evidence after Not yet. Educators calibrate judgments before delivery and moderate cohort records through the approved process; review never substitutes for observed performance.` Master: `assets/diploma/bd-v-085.svg`.
+- Design brief: **Reassessment and educator quality review.** Show three labelled lanes. Learner: Not yet → private criterion-specific feedback → focused practice → same or approved equivalent task → new evidence → update Grid only when sufficient; incomplete evidence loops back. Assessor before delivery: score annotated MS/NY examples for T2, P9, selected P11 → compare judgments → resolve differences → retain calibration record. Cohort: lead or approved second reviewer checks each variant setup and samples records including disputed, reassessed, and safety-critical cases → corrections through approved record process. No automatic promotion from Not yet, public rankings, lowered standards, or replacement of direct observation. Caption: `Improve evidence and consistency without lowering the standard.` Alt text: `Learners receive private feedback, practise, and provide new evidence after Not yet. Educators calibrate judgments before delivery and moderate cohort records through the approved process; review never substitutes for observed performance.` Master: `y_assets (archived)/diploma/bd-v-085.svg`.
 - Format: Three-lane process diagram; full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -2724,12 +2724,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-086-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-086-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-086-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-086-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-086-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-086-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2742,7 +2742,7 @@ Complete asset brief
 - Placement: EG only: under `### The learning ecosystem`, after the line beginning `&#124; Operational assessment protocol and Grid &#124; Approved assessment interactions and tasks, observ…`. Replace the `BD-V-086` marker at EG line 391.
 - Source locator: EG: 389
 - Text–visual link: Makes resource ownership and the route from teaching to recorded evidence visible.
-- Design brief: **How the learning resources work together.** Map Student Guide → learner explanations; Educator Guide → preparation, facilitation, safety; Resources Hub → selected activities; operational protocol → approved tasks and standards; Assessment Grid → private competency results. Show the educator connecting teaching, practice, observation, and records. Place optional app self-checks on a separate review branch without a certification-evidence arrow. Any app name must use the required hyperlink. Keep the existing table as the detailed text equivalent. Caption: `Use each resource for its job in the learning and evidence process.` Alt text: `The Student Guide supplies explanations, the Educator Guide supports teaching, and selected Resources Hub activities support practice. The operational protocol governs evidence collection and the Assessment Grid holds private results. Optional app self-checks support review only.` Master: `assets/diploma/bd-v-086.svg`.
+- Design brief: **How the learning resources work together.** Map Student Guide → learner explanations; Educator Guide → preparation, facilitation, safety; Resources Hub → selected activities; operational protocol → approved tasks and standards; Assessment Grid → private competency results. Show the educator connecting teaching, practice, observation, and records. Place optional app self-checks on a separate review branch without a certification-evidence arrow. Any app name must use the required hyperlink. Keep the existing table as the detailed text equivalent. Caption: `Use each resource for its job in the learning and evidence process.` Alt text: `The Student Guide supplies explanations, the Educator Guide supports teaching, and selected Resources Hub activities support practice. The operational protocol governs evidence collection and the Assessment Grid holds private results. Optional app self-checks support review only.` Master: `y_assets (archived)/diploma/bd-v-086.svg`.
 - Format: Resource relationship map; full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -2756,12 +2756,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-087-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-087-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-087-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-087-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-087-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-087-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2774,7 +2774,7 @@ Complete asset brief
 - Placement: EG only: under `## 2. What stays fixed and what can change`, after the line beginning `- move advanced technical or professional content into the required Diploma at the cost of requ…`. Replace the `BD-V-087` marker at EG line 454.
 - Source locator: EG: 452
 - Text–visual link: Shows what educators can adapt while preserving the same Diploma standard.
-- Design brief: **Fixed standards and local adaptation.** Use three labelled regions matching the source table: fixed, adaptable, flexible with guardrails. Keep required competencies, learner actions, safety, evidence, and passing standard inside a fixed boundary. Put examples, language, grouping, tools, and environment in the adaptable area. Route assessment or delivery changes through an equivalence check before use; if uncertain, use for practice and select an approved assessment route. Do not infer that any local change is an approved certificated variant. Preserve the existing table and both may/may-not lists. Caption: `Localize the route while preserving the required learner action and standard.` Alt text: `Local examples and teaching methods can change inside fixed competency, evidence, safety, and completion boundaries. Changes affecting assessment require an approved equivalent route.` Master: `assets/diploma/bd-v-087.svg`.
+- Design brief: **Fixed standards and local adaptation.** Use three labelled regions matching the source table: fixed, adaptable, flexible with guardrails. Keep required competencies, learner actions, safety, evidence, and passing standard inside a fixed boundary. Put examples, language, grouping, tools, and environment in the adaptable area. Route assessment or delivery changes through an equivalence check before use; if uncertain, use for practice and select an approved assessment route. Do not infer that any local change is an approved certificated variant. Preserve the existing table and both may/may-not lists. Caption: `Localize the route while preserving the required learner action and standard.` Alt text: `Local examples and teaching methods can change inside fixed competency, evidence, safety, and completion boundaries. Changes affecting assessment require an approved equivalent route.` Master: `y_assets (archived)/diploma/bd-v-087.svg`.
 - Format: Three-region boundary diagram with an equivalence gate; full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -2788,12 +2788,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-099-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-099-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-099-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-099-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-099-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-099-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2806,7 +2806,7 @@ Complete asset brief
 - Placement: EG only: under `### Local verification record`, after the line beginning `Prefer authoritative primary sources for current rules. If the evidence is incomplete, say so. …`. Replace the `BD-V-099` marker at EG line 708.
 - Source locator: EG: 706
 - Text–visual link: Connects changing local claims to dated sources, classroom wording, and a fallback.
-- Design brief: **Verify, date, teach, and recheck local information.** Show identify claim → distinguish stable concept/changing detail → check authoritative primary source or qualified local expertise → record source, date, version, and limitation → use qualified classroom wording → recheck before reuse. Unverified or changed details branch to state uncertainty, a clearly hypothetical example, or a prepared safe fallback; live action must not depend on an unverified safety-critical claim. Include generic wallet-version, fee, rule, and merchant-listing examples without filling in current facts. Link to the existing record table rather than creating a second form. Caption: `A local example needs a source, a date, and a plan for change.` Alt text: `Educators distinguish stable concepts from changing details, verify current sources, record dates and limits, teach qualified examples, and recheck them before reuse. Uncertainty or change triggers a safer example or fallback.` Master: `assets/diploma/bd-v-099.svg`.
+- Design brief: **Verify, date, teach, and recheck local information.** Show identify claim → distinguish stable concept/changing detail → check authoritative primary source or qualified local expertise → record source, date, version, and limitation → use qualified classroom wording → recheck before reuse. Unverified or changed details branch to state uncertainty, a clearly hypothetical example, or a prepared safe fallback; live action must not depend on an unverified safety-critical claim. Include generic wallet-version, fee, rule, and merchant-listing examples without filling in current facts. Link to the existing record table rather than creating a second form. Caption: `A local example needs a source, a date, and a plan for change.` Alt text: `Educators distinguish stable concepts from changing details, verify current sources, record dates and limits, teach qualified examples, and recheck them before reuse. Uncertainty or change triggers a safer example or fallback.` Master: `y_assets (archived)/diploma/bd-v-099.svg`.
 - Format: Verification lifecycle with an uncertainty branch; full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -2820,12 +2820,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-088-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-088-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-088-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-088-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-088-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-088-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2838,7 +2838,7 @@ Complete asset brief
 - Placement: EG only: under `### The learning rhythm`, after the line beginning `8. **Connect:** Show how the idea prepares for the next part of the Diploma.`. Replace the `BD-V-088` marker at EG line 731.
 - Source locator: EG: 729
 - Text–visual link: Makes the educator’s eight-step teaching cycle quick to follow and repeat.
-- Design brief: **The educator facilitation rhythm.** Show Purpose → Activate → Explain → Check → Apply → Produce → Debrief → Connect. Use short role labels and a return arrow from Check or Debrief to explanation or practice when needed. Identify Check as feedback unless the approved formal evidence conditions are met. Keep the learner doing the explaining or performing at Produce. This is a separate educator graphic: do not overwrite the five-stage SG rhythm in BD-V-006. Caption: `Move from a clear purpose to learner action, debrief, and connection.` Alt text: `The educator sets purpose, activates prior ideas, explains, checks, guides application, invites independent production, debriefs, and connects to the next concept. Unclear responses lead back to explanation or practice.` Master: `assets/diploma/bd-v-088.svg`.
+- Design brief: **The educator facilitation rhythm.** Show Purpose → Activate → Explain → Check → Apply → Produce → Debrief → Connect. Use short role labels and a return arrow from Check or Debrief to explanation or practice when needed. Identify Check as feedback unless the approved formal evidence conditions are met. Keep the learner doing the explaining or performing at Produce. This is a separate educator graphic: do not overwrite the five-stage SG rhythm in BD-V-006. Caption: `Move from a clear purpose to learner action, debrief, and connection.` Alt text: `The educator sets purpose, activates prior ideas, explains, checks, guides application, invites independent production, debriefs, and connects to the next concept. Unclear responses lead back to explanation or practice.` Master: `y_assets (archived)/diploma/bd-v-088.svg`.
 - Format: Eight-stage cycle in two readable rows; full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -2852,12 +2852,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-101-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-101-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-101-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-101-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-101-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-101-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2870,7 +2870,7 @@ Complete asset brief
 - Placement: EG only: under `### Scenario analysis`, after the line beginning `Change one condition after the first answer. For example: the internet fails, the address chang…`. Replace the `BD-V-101` marker at EG line 772.
 - Source locator: EG: 770
 - Text–visual link: Makes the educator’s use of changed conditions visible as a test of transferable reasoning.
-- Design brief: **Scenario reasoning when a condition changes.** Trace goal → known facts/unknowns to verify → control of money/keys/records/rules → options and failure points → smallest safe next step. Then change one condition: connection fails, destination changes, recipient needs local currency, or fee rises. Loop to the affected fact, control, or option rather than automatically repeating the original action. Show stopping or declining a path as valid where justified. Use one fictional scenario, no personal financial disclosures or live payment instructions. This is facilitation, not a newly approved assessment task. Caption: `Change one condition and ask the learner to reconsider the decision.` Alt text: `A fictional scenario moves from goal and verified facts to control, options, risks, and a safe next step. A changed connection, destination, recipient need, or fee sends reasoning back to the affected decision.` Master: `assets/diploma/bd-v-101.svg`.
+- Design brief: **Scenario reasoning when a condition changes.** Trace goal → known facts/unknowns to verify → control of money/keys/records/rules → options and failure points → smallest safe next step. Then change one condition: connection fails, destination changes, recipient needs local currency, or fee rises. Loop to the affected fact, control, or option rather than automatically repeating the original action. Show stopping or declining a path as valid where justified. Use one fictional scenario, no personal financial disclosures or live payment instructions. This is facilitation, not a newly approved assessment task. Caption: `Change one condition and ask the learner to reconsider the decision.` Alt text: `A fictional scenario moves from goal and verified facts to control, options, risks, and a safe next step. A changed connection, destination, recipient need, or fee sends reasoning back to the affected decision.` Master: `y_assets (archived)/diploma/bd-v-101.svg`.
 - Format: Decision path with a changed-condition return loop; full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -2884,12 +2884,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-089-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-089-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-089-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-089-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-089-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-089-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2902,7 +2902,7 @@ Complete asset brief
 - Placement: EG only: under `### Media and tool fallbacks`, after the line beginning `Offline teaching and assessment are valid. Use offline knowledge checks for preparation and app…`. Replace the `BD-V-089` marker at EG line 843.
 - Source locator: EG: 841
 - Text–visual link: Shows why changing the medium must preserve the learner’s action and observed evidence.
-- Design brief: **Equivalent learning and evidence across delivery modes.** Branch from one competency into prepared live tool, printed screens/cards, and an approved accessible communication or control route. Reconverge at the same learner decision/action, required verification, educator observation, and standard. Show barriers such as device, connection, language, or access needs leading to a prepared equivalent, not to lower criteria. Include a no valid equivalent branch returning to preparation/practice without certification. Draw examples from the adjacent table but retain its full list. Do not turn watching a video or another learner’s performance into evidence. Caption: `Change the medium, preserve the action and evidence.` Alt text: `Live tools, paper simulations, and approved accessible routes can support the same competency when the learner still makes the required decisions and the educator can judge equivalent evidence. Without equivalence, prepare another route before certification.` Master: `assets/diploma/bd-v-089.svg`.
+- Design brief: **Equivalent learning and evidence across delivery modes.** Branch from one competency into prepared live tool, printed screens/cards, and an approved accessible communication or control route. Reconverge at the same learner decision/action, required verification, educator observation, and standard. Show barriers such as device, connection, language, or access needs leading to a prepared equivalent, not to lower criteria. Include a no valid equivalent branch returning to preparation/practice without certification. Draw examples from the adjacent table but retain its full list. Do not turn watching a video or another learner’s performance into evidence. Caption: `Change the medium, preserve the action and evidence.` Alt text: `Live tools, paper simulations, and approved accessible routes can support the same competency when the learner still makes the required decisions and the educator can judge equivalent evidence. Without equivalence, prepare another route before certification.` Master: `y_assets (archived)/diploma/bd-v-089.svg`.
 - Format: Branch-and-rejoin equivalence diagram; full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -2916,12 +2916,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-090-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-090-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-090-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-090-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-090-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-090-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2934,7 +2934,7 @@ Complete asset brief
 - Placement: EG only: under `### Universal stop conditions`, after the line beginning `Stopping is a successful safety behavior. Do not shame the learner who notices a problem.`. Replace the `BD-V-090` marker at EG line 909.
 - Source locator: EG: 907
 - Text–visual link: Turns the safety triggers into an educator response rather than a list to memorize.
-- Design brief: **Stop, protect, verify, and choose a safe route.** Feed source triggers into STOP: secret exposure, mismatch, unverified source, urgency, changed behaviour, uncertain funds, privacy exposure, failed safety check, or educator uncertainty. Then protect people and information → verify independently without collecting secrets → choose a prepared safe equivalent or postpone. Resume only when the relevant safety checks can be satisfied. Add a distinct formal-assessment branch: a safety-critical error produces NY under the protocol, followed by feedback, practice, and reassessment. Do not label every device failure a learner failure or offer an improvised funds-recovery procedure. Caption: `Stopping protects learning; resume through a verified safe route.` Alt text: `An unsafe or unexplained condition stops the activity. The educator protects people and secrets, verifies the issue, and uses a safe prepared route or postpones. A learner safety-critical assessment error is recorded Not yet under the protocol.` Master: `assets/diploma/bd-v-090.svg`.
+- Design brief: **Stop, protect, verify, and choose a safe route.** Feed source triggers into STOP: secret exposure, mismatch, unverified source, urgency, changed behaviour, uncertain funds, privacy exposure, failed safety check, or educator uncertainty. Then protect people and information → verify independently without collecting secrets → choose a prepared safe equivalent or postpone. Resume only when the relevant safety checks can be satisfied. Add a distinct formal-assessment branch: a safety-critical error produces NY under the protocol, followed by feedback, practice, and reassessment. Do not label every device failure a learner failure or offer an improvised funds-recovery procedure. Caption: `Stopping protects learning; resume through a verified safe route.` Alt text: `An unsafe or unexplained condition stops the activity. The educator protects people and secrets, verifies the issue, and uses a safe prepared route or postpones. A learner safety-critical assessment error is recorded Not yet under the protocol.` Master: `y_assets (archived)/diploma/bd-v-090.svg`.
 - Format: Flow diagram; full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -2948,12 +2948,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-100-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-100-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-100-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-100-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-100-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-100-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2966,7 +2966,7 @@ Complete asset brief
 - Placement: EG only: under `### Bitcoin, stablecoins, and other crypto-assets`, after the line beginning `Do not imply that every non-Bitcoin [asset](mfb-bd-lx.md#term-asset) has the same structure. Th…`. Replace the `BD-V-100` marker at EG line 1634.
 - Source locator: EG: 1632
 - Text–visual link: Helps educators explain similar-looking interfaces backed by different control and verification relationships.
-- Design brief: **Compare digital-asset trust dependencies.** Use three lanes for Bitcoin, a generic stablecoin model, and a generic other-asset model. Apply the same questions about issuance/control, supply support, independent verification, and counterparties. Show public node-enforced rules for Bitcoin; design-dependent reserves/redemption or other mechanisms for stablecoins; varying project rules/governance for other assets. Add a separate service/custody layer across all lanes so Bitcoin service risk remains visible. Keep every design qualification from the existing table. No brands, tickers, logos, prices, rankings, recommendations, or suggestion every model works alike. Preserve the table as detailed reference. Caption: `Compare who controls the rules and which claims can be verified.` Alt text: `Three generic asset models are compared through issuance, supply support, verification, and counterparties. Wallets and custodians form a separate dependency layer across all three; similar interfaces do not establish the same trust model.` Master: `assets/diploma/bd-v-100.svg`.
+- Design brief: **Compare digital-asset trust dependencies.** Use three lanes for Bitcoin, a generic stablecoin model, and a generic other-asset model. Apply the same questions about issuance/control, supply support, independent verification, and counterparties. Show public node-enforced rules for Bitcoin; design-dependent reserves/redemption or other mechanisms for stablecoins; varying project rules/governance for other assets. Add a separate service/custody layer across all lanes so Bitcoin service risk remains visible. Keep every design qualification from the existing table. No brands, tickers, logos, prices, rankings, recommendations, or suggestion every model works alike. Preserve the table as detailed reference. Caption: `Compare who controls the rules and which claims can be verified.` Alt text: `Three generic asset models are compared through issuance, supply support, verification, and counterparties. Wallets and custodians form a separate dependency layer across all three; similar interfaces do not establish the same trust model.` Master: `y_assets (archived)/diploma/bd-v-100.svg`.
 - Format: Three-lane dependency diagram; full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -2980,12 +2980,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-092-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-092-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-092-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-092-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-092-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-092-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -2998,7 +2998,7 @@ Complete asset brief
 - Placement: EG only: under `### Address history and reuse lookup`, after the line beginning `**Offline fallback:** Use a printed sequence showing one address used once and another reused a…`. Replace the `BD-V-092` marker at EG line 1933.
 - Source locator: EG: 1931
 - Text–visual link: Makes address reuse and the limits of public-data inference visible without exposing anyone’s transactions.
-- Design brief: **Address reuse and information linkage.** Use fictional non-address labels A/B/C, arrows, and invented receipts. Compare multiple receipts to one address with separate fresh receiving addresses. Show an observer linking reused receipts, plus a dotted uncertain link from external identifying information. Add a separate explorer-search arrow showing that a service may learn which address interests a device. State that an address alone does not prove legal identity and fresh addresses do not guarantee anonymity. No real addresses, txids, amounts belonging to people, or scannable QR codes. Related BD-V-046 concerns confirmations, not identity linkage. Caption: `Fresh addresses reduce easy linkage; they do not guarantee anonymity.` Alt text: `Several fictional receipts share one reused address and are easily linked. Fresh receiving addresses reduce that direct link, but outside information and explorer searches can still reveal relationships. Public data does not by itself prove a person’s identity.` Master: `assets/diploma/bd-v-092.svg`.
+- Design brief: **Address reuse and information linkage.** Use fictional non-address labels A/B/C, arrows, and invented receipts. Compare multiple receipts to one address with separate fresh receiving addresses. Show an observer linking reused receipts, plus a dotted uncertain link from external identifying information. Add a separate explorer-search arrow showing that a service may learn which address interests a device. State that an address alone does not prove legal identity and fresh addresses do not guarantee anonymity. No real addresses, txids, amounts belonging to people, or scannable QR codes. Related BD-V-046 concerns confirmations, not identity linkage. Caption: `Fresh addresses reduce easy linkage; they do not guarantee anonymity.` Alt text: `Several fictional receipts share one reused address and are easily linked. Fresh receiving addresses reduce that direct link, but outside information and explorer searches can still reveal relationships. Public data does not by itself prove a person’s identity.` Master: `y_assets (archived)/diploma/bd-v-092.svg`.
 - Format: Two-panel linkage diagram with an explorer privacy inset; full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -3012,12 +3012,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-091-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-091-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-091-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-091-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-091-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-091-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -3030,7 +3030,7 @@ Complete asset brief
 - Placement: EG only: under `#### Activity: recovery-readiness simulation`, after the line beginning `7. return the fictional material securely or destroy it as instructed.`. Replace the `BD-V-091` marker at EG line 2005.
 - Source locator: EG: 2003
 - Text–visual link: Separates what the learner controls from what the educator may observe during recovery practice.
-- Design brief: **Recovery practice without observing secrets.** Use learner and educator lanes around a private-material boundary. Preserve the seven EG production steps: official instructions, compatibility, private work, approved backup-check/recovery method, expected receiving information or history, clear temporary device, return or destroy fictional material as instructed. The educator observes sequence, decisions, and safe handling without seeing real recovery words. Use placeholders only and no recovery-entry screenshot. Label prepared fake material or disposable empty training wallet. Related BD-V-043 supplies the SG six-step overview; this asset adds educator visibility boundaries and the EG material-return step. Do not represent this diagram as the P10 rubric. Caption: `Observe the recovery process without observing a learner’s secrets.` Alt text: `The learner follows seven prepared recovery-practice steps in a private area, checks the expected result, clears the device, and returns or destroys fictional material. The educator observes decisions and safe handling across a boundary that hides secret information.` Master: `assets/diploma/bd-v-091.svg`.
+- Design brief: **Recovery practice without observing secrets.** Use learner and educator lanes around a private-material boundary. Preserve the seven EG production steps: official instructions, compatibility, private work, approved backup-check/recovery method, expected receiving information or history, clear temporary device, return or destroy fictional material as instructed. The educator observes sequence, decisions, and safe handling without seeing real recovery words. Use placeholders only and no recovery-entry screenshot. Label prepared fake material or disposable empty training wallet. Related BD-V-043 supplies the SG six-step overview; this asset adds educator visibility boundaries and the EG material-return step. Do not represent this diagram as the P10 rubric. Caption: `Observe the recovery process without observing a learner’s secrets.` Alt text: `The learner follows seven prepared recovery-practice steps in a private area, checks the expected result, clears the device, and returns or destroys fictional material. The educator observes decisions and safe handling across a boundary that hides secret information.` Master: `y_assets (archived)/diploma/bd-v-091.svg`.
 - Format: Two-lane privacy-boundary workflow; full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -3044,12 +3044,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-093-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-093-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-093-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-093-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-093-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-093-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -3062,7 +3062,7 @@ Complete asset brief
 - Placement: EG only: under `### Integrated Module 3 practice circuit`, after the line beginning `Do not use the stations as formal assessment unless the exact tasks, variants, criteria, and re…`. Replace the `BD-V-093` marker at EG line 2295.
 - Source locator: EG: 2293
 - Text–visual link: Shows how station rotation supports practice without confusing group participation with assessment.
-- Design brief: **Practice stations and individual observation.** Arrange the eight current stations in a suggested rotation: wallet/custody, public or secret, receive, send, recovery, explorer, scam, pathway. Mark a private recovery zone, prepared materials, device reset between learners, and a separate individual-observation lane. Label stations practice unless exact approved task, variant, criteria, and records are in place. Show one learner making or directing decisions; peers may support practice but cannot supply another learner’s assessed performance. Keep the original station table and avoid implying all stations fit a fixed two-hour session. Caption: `Use groups for practice and preserve individual evidence for assessment.` Alt text: `Eight practice stations cover custody, public and secret information, receiving, sending, recovery, explorers, scams, and pathways. A separate approved observation route identifies each learner’s decisions; shared-device resets and private recovery space protect participants.` Master: `assets/diploma/bd-v-093.svg`.
+- Design brief: **Practice stations and individual observation.** Arrange the eight current stations in a suggested rotation: wallet/custody, public or secret, receive, send, recovery, explorer, scam, pathway. Mark a private recovery zone, prepared materials, device reset between learners, and a separate individual-observation lane. Label stations practice unless exact approved task, variant, criteria, and records are in place. Show one learner making or directing decisions; peers may support practice but cannot supply another learner’s assessed performance. Keep the original station table and avoid implying all stations fit a fixed two-hour session. Caption: `Use groups for practice and preserve individual evidence for assessment.` Alt text: `Eight practice stations cover custody, public and secret information, receiving, sending, recovery, explorers, scams, and pathways. A separate approved observation route identifies each learner’s decisions; shared-device resets and private recovery space protect participants.` Master: `y_assets (archived)/diploma/bd-v-093.svg`.
 - Format: Station layout and separate observation lane; full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -3076,12 +3076,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-094-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-094-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-094-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-094-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-094-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-094-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -3094,7 +3094,7 @@ Complete asset brief
 - Placement: EG only: under `### The seven-step module builder`, before the line beginning `#### 1. Learn the local context`. Replace the `BD-V-094` marker at EG line 2404.
 - Source locator: EG: 2410
 - Text–visual link: Gives educators a map of the seven-step planning process before its detailed subsections.
-- Design brief: **Build a local Connect lesson.** Show the exact seven steps: learn local context; define need/opportunity; select focused module; verify facts/tools/expertise; design Presentation → Practice → Production; define safety/evidence; debrief and choose a safe next step. Carry the existing non-Bitcoin alternative from need to debrief. Mark C11.1 safe sequence and C11.2 explanation as preserved requirements, not new result rows. Use a loop from failed verification to task selection, and a legitimate conclusion of not suitable here. Link visually to BD-V-056 and the readiness gate BD-V-095. Do not make a named product the starting point. Caption: `Begin with a local need and finish with evidence and a responsible next step.` Alt text: `Seven planning stages connect local context and need to a focused, verified task, safe teaching sequence, observable evidence, and debrief. The existing alternative stays in view, and unsuitable options return to planning.` Master: `assets/diploma/bd-v-094.svg`.
+- Design brief: **Build a local Connect lesson.** Show the exact seven steps: learn local context; define need/opportunity; select focused module; verify facts/tools/expertise; design Presentation → Practice → Production; define safety/evidence; debrief and choose a safe next step. Carry the existing non-Bitcoin alternative from need to debrief. Mark C11.1 safe sequence and C11.2 explanation as preserved requirements, not new result rows. Use a loop from failed verification to task selection, and a legitimate conclusion of not suitable here. Link visually to BD-V-056 and the readiness gate BD-V-095. Do not make a named product the starting point. Caption: `Begin with a local need and finish with evidence and a responsible next step.` Alt text: `Seven planning stages connect local context and need to a focused, verified task, safe teaching sequence, observable evidence, and debrief. The existing alternative stays in view, and unsuitable options return to planning.` Master: `y_assets (archived)/diploma/bd-v-094.svg`.
 - Format: Seven-stage planning map; full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -3108,12 +3108,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-095-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-095-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-095-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-095-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-095-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-095-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -3126,7 +3126,7 @@ Complete asset brief
 - Placement: EG only: under `### Module 4 readiness gate`, after the line beginning `&#124; Can evidence be observed? &#124; The educator can see the learner's decisions and hear the explana…`. Replace the `BD-V-095` marker at EG line 2528.
 - Source locator: EG: 2526
 - Text–visual link: Shows that every readiness condition must be satisfied before live delivery.
-- Design brief: **Readiness before live local practice.** Use eight labelled checks in the source order: real need, clear competency/approved task, educator capability, verified tool, understood local rules, low risk, equitable access, observable evidence. All satisfactory leads to planned live delivery; any gap branches to the corresponding source-table remedy, such as simulation, expert support, accessible equivalent, or revised observation capacity. Feed the remedy back into readiness review. Preserve the full table as the detailed text equivalent. No aggregate readiness score; seven out of eight is not sufficient. Simulation may be the chosen first route. Caption: `Resolve each readiness gap before live delivery.` Alt text: `Eight checks cover purpose, competency, educator capability, tools, local rules, safety, access, and observation. Every check must be satisfactory for live delivery; a gap leads to a safer route or revised plan and another readiness review.` Master: `assets/diploma/bd-v-095.svg`.
+- Design brief: **Readiness before live local practice.** Use eight labelled checks in the source order: real need, clear competency/approved task, educator capability, verified tool, understood local rules, low risk, equitable access, observable evidence. All satisfactory leads to planned live delivery; any gap branches to the corresponding source-table remedy, such as simulation, expert support, accessible equivalent, or revised observation capacity. Feed the remedy back into readiness review. Preserve the full table as the detailed text equivalent. No aggregate readiness score; seven out of eight is not sufficient. Simulation may be the chosen first route. Caption: `Resolve each readiness gap before live delivery.` Alt text: `Eight checks cover purpose, competency, educator capability, tools, local rules, safety, access, and observation. Every check must be satisfactory for live delivery; a gap leads to a safer route or revised plan and another readiness review.` Master: `y_assets (archived)/diploma/bd-v-095.svg`.
 - Format: Flow diagram; full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -3140,12 +3140,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-096-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-096-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-096-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-096-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-096-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-096-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -3158,7 +3158,7 @@ Complete asset brief
 - Placement: EG only: under `### Community custody and shared funds`, after the line beginning `Do not turn [community-custody](mfb-bd-lx.md#term-community-custody) design into a beginner imp…`. Replace the `BD-V-096` marker at EG line 2811.
 - Source locator: EG: 2809
 - Text–visual link: Reveals who controls shared funds and which responsibilities remain separate.
-- Design brief: **Community funds and concentrated responsibility.** Map fictional contributors/beneficiaries, key controller or custodian, payment authorization, and records/review. Use distinct arrows for value, authority, and information. Flag concentration when one organizer controls every function. Surround the map with backup/succession, privacy, disputes/loss, legal context, and transparency questions from the prose. Treat separation of duties as a question to examine, not a prescribed implementation. No actual funds, addresses, wallet configuration, multisignature setup, legal conclusions, or assumption that community reputation guarantees safety. Related BD-V-065 maps circulation; this maps control. Caption: `Community purpose does not remove custody risk.` Alt text: `Contributors depend on whoever controls shared funds. A role map separates key control, spending authority, records, and review and highlights concentrated trust, continuity, privacy, dispute, and legal questions.` Master: `assets/diploma/bd-v-096.svg`.
+- Design brief: **Community funds and concentrated responsibility.** Map fictional contributors/beneficiaries, key controller or custodian, payment authorization, and records/review. Use distinct arrows for value, authority, and information. Flag concentration when one organizer controls every function. Surround the map with backup/succession, privacy, disputes/loss, legal context, and transparency questions from the prose. Treat separation of duties as a question to examine, not a prescribed implementation. No actual funds, addresses, wallet configuration, multisignature setup, legal conclusions, or assumption that community reputation guarantees safety. Related BD-V-065 maps circulation; this maps control. Caption: `Community purpose does not remove custody risk.` Alt text: `Contributors depend on whoever controls shared funds. A role map separates key control, spending authority, records, and review and highlights concentrated trust, continuity, privacy, dispute, and legal questions.` Master: `y_assets (archived)/diploma/bd-v-096.svg`.
 - Format: Role-and-responsibility map with distinct arrow types; full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -3172,12 +3172,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-097-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-097-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-097-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-097-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-097-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-097-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -3190,7 +3190,7 @@ Complete asset brief
 - Placement: EG only: under `### Translation workflow`, after the line beginning `9. Confirm that the language version preserves the competencies, safety instructions, and asses…`. Replace the `BD-V-097` marker at EG line 2980.
 - Source locator: EG: 2978
 - Text–visual link: Shows translation as a review-and-test process, not a one-way text conversion.
-- Design brief: **Translation with meaning and safety checks.** Preserve all nine steps as compact numbered labels grouped into prepare meaning (1–3), translate/localize (4–5), and review/test/confirm equivalence (6–9). Show language specialist and subject-matter educator at review; difficult safety instructions return to wording when learner testing exposes ambiguity. Preserve competency, task difficulty, rubric, and stop conditions. Do not imply machine translation or a language review alone approves assessment equivalence. Keep the existing numbered list as the text equivalent. Caption: `Translate the meaning and test that the same safe action is understood.` Alt text: `Clear source meaning and terminology lead to translation and authorized localization, then language and subject review, learner safety testing, and confirmation of equivalent competencies and assessment standards. Ambiguity returns to revision.` Master: `assets/diploma/bd-v-097.svg`.
+- Design brief: **Translation with meaning and safety checks.** Preserve all nine steps as compact numbered labels grouped into prepare meaning (1–3), translate/localize (4–5), and review/test/confirm equivalence (6–9). Show language specialist and subject-matter educator at review; difficult safety instructions return to wording when learner testing exposes ambiguity. Preserve competency, task difficulty, rubric, and stop conditions. Do not imply machine translation or a language review alone approves assessment equivalence. Keep the existing numbered list as the text equivalent. Caption: `Translate the meaning and test that the same safe action is understood.` Alt text: `Clear source meaning and terminology lead to translation and authorized localization, then language and subject review, learner safety testing, and confirmation of equivalent competencies and assessment standards. Ambiguity returns to revision.` Master: `y_assets (archived)/diploma/bd-v-097.svg`.
 - Format: Flow diagram; full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.
@@ -3204,12 +3204,12 @@ Rebuild—not trace or embed—the reference as editable HTML, CSS, and inline S
 
 Never invent facts, labels, numbers, providers, URLs, legal claims, safety claims, or brand choices. Preserve every prohibition and qualification in the brief. Do not include real seed phrases, private keys, payable addresses, private learner data, balances, or transactions. Use a verified QR, address, URL, interface, date, or fact only when the brief explicitly authorizes it and it has been checked. Do not imply investment returns, guaranteed outcomes, risk-free self-custody, inevitable adoption, or universal local conclusions. Do not turn a named service into a recommendation.
 
-Produce a bundle in the guide-specific `assets/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
+Produce a bundle in the guide-specific `y_assets (archived)/diploma/<student-guide|educator-guide|shared>/<asset-id-lowercase>/` folder selected from the placement. Include `micrographic.html`, `micrographic.css`, `meta.json`, `preview.html` in a 458px review frame, `alt-text.md`, `README.md`, and `sanity-asset.json`. Prefix CSS selectors with a unique `.mg-<slug>` root; tag all translatable text with non-nested `data-t` keys; use no JavaScript, external assets, external fonts, CSS grid, vh/vw, rem, fixed/sticky positioning, or `@import`. Do not upload or publish to Sanity. Before declaring completion, report visual checks at 458px, phone, desktop, A4/US Letter, and grayscale.
 
 Required inputs to attach
-- Approved transparent PNG reference: assets-work/references/bd-v-098-ref.png
-- Matching white-background JPG preview: assets-work/references/bd-v-098-ref.jpg
-- Matching conformance report: assets-work/references/bd-v-098-ref.json
+- Approved transparent PNG reference: y_assets-work (archived)/references/bd-v-098-ref.png
+- Matching white-background JPG preview: y_assets-work (archived)/references/bd-v-098-ref.jpg
+- Matching conformance report: y_assets-work (archived)/references/bd-v-098-ref.json
 - Current Claude Design System authoring instructions and closest approved micrographic bundle
 - Current Sanity schema/publishing requirements, if available
 
@@ -3222,7 +3222,7 @@ Complete asset brief
 - Placement: EG only: under `### Adapt a summative practical task`, after the line beginning `If equivalence is uncertain, use the adaptation for practice and select an assessment task whos…`. Replace the `BD-V-098` marker at EG line 3177.
 - Source locator: EG: 3175
 - Text–visual link: Distinguishes freedom to adapt practice from the conditions required for certificated evidence.
-- Design brief: **Learning activity or approved assessment?.** Branch from intended use into learning/formative practice and formal assessment. Practice may adapt names, roles, medium, timing, and scaffolding while preserving concept, learner action, safety, and key comparison. Formal theory needs the approved competency-aligned interaction and record; practical assessment needs an approved equivalent variant preserving sequence, verification, independence, rubric, safety errors, and record. A missing condition leads to practice and selection of an approved task, not automatic certification. Keep this as educator planning guidance; do not create an approval authority or modify approved tasks. Caption: `An engaging activity becomes assessment only under the approved evidence conditions.` Alt text: `Practice activities allow contextual and access adaptations. Formal theory or practical assessment must preserve the approved evidence, criteria, independence, safety, and record conditions. Uncertain equivalence returns the activity to practice and an approved assessment route.` Master: `assets/diploma/bd-v-098.svg`.
+- Design brief: **Learning activity or approved assessment?.** Branch from intended use into learning/formative practice and formal assessment. Practice may adapt names, roles, medium, timing, and scaffolding while preserving concept, learner action, safety, and key comparison. Formal theory needs the approved competency-aligned interaction and record; practical assessment needs an approved equivalent variant preserving sequence, verification, independence, rubric, safety errors, and record. A missing condition leads to practice and selection of an approved task, not automatic certification. Keep this as educator planning guidance; do not create an approval authority or modify approved tasks. Caption: `An engaging activity becomes assessment only under the approved evidence conditions.` Alt text: `Practice activities allow contextual and access adaptations. Formal theory or practical assessment must preserve the approved evidence, criteria, independence, safety, and record conditions. Uncertain equivalence returns the activity to practice and an approved assessment route.` Master: `y_assets (archived)/diploma/bd-v-098.svg`.
 - Format: Two-branch activity-selection decision diagram; full width.
 
 Use the exact heading and insertion direction in Placement as the target placement. Preserve all listed placements in metadata. Include source-brief revision, reference paths, factual sources, production date, reviewer status, checks, and unresolved judgments in README.md. Set `reviewStatus` to draft or review unless an authorized reviewer has approved it.

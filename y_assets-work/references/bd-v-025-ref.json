@@ -1,0 +1,164 @@
+{
+  "assetId": "BD-V-025",
+  "specVersion": 3,
+  "canvas": {
+    "aspectRatio": "4:3",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "reference": {
+      "fileName": "bd-v-025-ref.png",
+      "format": "PNG",
+      "background": "transparent"
+    },
+    "preview": {
+      "fileName": "bd-v-025-ref.jpg",
+      "format": "JPEG",
+      "background": "#FFFFFF"
+    },
+    "actualWidthPx": 768,
+    "actualHeightPx": 576
+  },
+  "placement": [
+    {
+      "elementId": "whitepaper",
+      "boundsPercent": {
+        "x": 12,
+        "y": 6,
+        "width": 17,
+        "height": 25
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "genesis-block",
+      "boundsPercent": {
+        "x": 12,
+        "y": 33,
+        "width": 17,
+        "height": 21
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "first-person-to-person-transaction",
+      "boundsPercent": {
+        "x": 4,
+        "y": 55,
+        "width": 36,
+        "height": 15
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "pizza-day",
+      "boundsPercent": {
+        "x": 9,
+        "y": 70,
+        "width": 23,
+        "height": 26
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "whitepaper",
+      "genesis-block",
+      "first-person-to-person-transaction",
+      "pizza-day"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 26,
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "reviewStatus": "passed",
+    "imageGenerated": true,
+    "visualReviewPerformed": true,
+    "deferredForEditableCoding": {
+      "completeSourceBrief": "| `BD-V-025` | Pablo | Essential | Table | 18 | add images or links for the whitepaper, Genesis Block, first transaction, and Pizza Day. | Under `### Bitcoin origin timeline`, replace the current date/event table visually while retaining an accessible text equivalent. | 731 | Connects the four historical events to why each matters. | Show 31 Oct 2008 whitepaper; 3 Jan 2009 Genesis Block; 12 Jan 2009 first recorded person-to-person transaction; 22 May 2010 Pizza Day. Pair each event with a short significance line. Use document-style illustrations or rights-cleared source images only; avoid portraits or identity speculation for Satoshi. | Illustrated four-milestone reference table; full width. |",
+      "sourcePlacement": "Under `### Bitcoin origin timeline`, replace the current date/event table visually while retaining an accessible text equivalent.",
+      "sourceLocator": "731",
+      "instructionalRelationship": "Connects the four historical events to why each matters.",
+      "allRequiredTextConnectorsAndPlacementInstructions": "Show 31 Oct 2008 whitepaper; 3 Jan 2009 Genesis Block; 12 Jan 2009 first recorded person-to-person transaction; 22 May 2010 Pizza Day. Pair each event with a short significance line. Use document-style illustrations or rights-cleared source images only; avoid portraits or identity speculation for Satoshi.",
+      "format": "Illustrated four-milestone reference table; full width.",
+      "existingStructuralRecord": "",
+      "relevantSharedRegister": "",
+      "adjacentGuideText": "### Bitcoin origin timeline\n\nBitcoin appeared through a short series of public events.\n\n| Date | Event | Why it matters |\n| --- | --- | --- |\n| 31 October 2008 | Satoshi Nakamoto published the whitepaper *Bitcoin: A Peer-to-Peer Electronic Cash System*. | The paper described direct online payments without a financial intermediary. |\n| 3 January 2009 | Satoshi created the Genesis Block, the first block in Bitcoin's chain. | The Bitcoin network began. The block included a newspaper headline about bank bailouts, placing the launch in the context of the financial crisis. |\n| 12 January 2009 | Satoshi sent bitcoin to Hal Finney in the first recorded person-to-person Bitcoin transaction. | The software moved value between two participants as designed. |\n| 22 May 2010 | A user paid 10,000 BTC for two pizzas. | The event showed bitcoin being exchanged for ordinary goods and is remembered as Bitcoin Pizza Day. |\n\n<!-- VISUAL: BD-V-025\nALT: Bitcoin origin timeline linking key dates, source material, and early network events.\nASSET: y_assets (archived)/diploma/bd-v-025.svg\n-->\n\nExplore the source records: read the [Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf), inspect the [Genesis Block](https://mempool.space/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f) and the [first recorded person-to-person transaction](https://mempool.space/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16), and read the [original pizza request](https://bitcointalk.org/index.php?topic=137.0). A block explorer is a convenient interface to public data, not a primary authority over Bitcoin's rules.\n\n**Satoshi Nakamoto** is the name used by Bitcoin's creator or creators. Satoshi communicated online, released the software as open source, and later stopped participating. Satoshi's real-world identity remains unknown.\n\nNo central company owns Bitcoin. The software and rules continued because other people chose to run, review, and develop them. This origin matters: the creator did not remain as a permanent leader who could issue more coins or approve transactions.\n\nThe Genesis Block and the 2008 financial crisis give Bitcoin important historical context. However, evaluate Bitcoin by its design and operation, not only by a story about its creator.\n\nAt the end of this timeline is the event that made Bitcoin possible: in October 2008, Satoshi Nakamoto announced the Bitcoin whitepaper. It proposed a practical solution to a problem that had challenged digital-money designers for decades—how to make online payments directly between people while preventing double spending without putting a central intermediary in control.\n\n"
+    },
+    "deferredMilestones": [
+      {
+        "date": "31 October 2008",
+        "event": "Whitepaper",
+        "significance": "Described direct online payments without a financial intermediary."
+      },
+      {
+        "date": "3 January 2009",
+        "event": "Genesis Block",
+        "significance": "The Bitcoin network began; the embedded newspaper headline provides financial-crisis context."
+      },
+      {
+        "date": "12 January 2009",
+        "event": "First recorded person-to-person Bitcoin transaction",
+        "significance": "Software moved value between two participants as designed."
+      },
+      {
+        "date": "22 May 2010",
+        "event": "Pizza Day",
+        "significance": "10,000 BTC exchanged for two pizzas; bitcoin used for ordinary goods."
+      }
+    ],
+    "deferredSourceLinks": "Exact source-record links are preserved in the incorporated Student Guide excerpt; no links or QR patterns rendered.",
+    "exportVerification": {
+      "width": 768,
+      "height": 576,
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "transparentPixels": 382334,
+      "partialAlphaPixels": 58690,
+      "totalPixels": 442368,
+      "jpegCornerRGBA": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "pngTransparencyVerified": true,
+      "jpgWhiteBackgroundVerified": true,
+      "exportsMatch": true,
+      "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+    },
+    "reviewNote": "Visually reviewed both PNG and JPG. Four neutral milestone icons leave the text area empty. There are no portraits, identities, dates, amounts or brand marks in the raster. The pizza is an event icon, not a depiction of the historical quantity; the source's two-pizza amount remains in editable text. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+  },
+  "unresolved": []
+}

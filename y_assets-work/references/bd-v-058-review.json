@@ -1,0 +1,260 @@
+{
+  "accepted": true,
+  "generationDate": "2026-09-21",
+  "outputHint": "Generated images are saved to /Users/saxtron3000/.codex/generated_images/01a0c5fb-bad1-7240-9370-82da60495420 as /Users/saxtron3000/.codex/generated_images/01a0c5fb-bad1-7240-9370-82da60495420/exec-94c751d5-de62-423c-8b0a-499fe988695f.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "toolInput": {},
+  "export": {
+    "width": 768,
+    "height": 576,
+    "sourceWidth": 1448,
+    "sourceHeight": 1086,
+    "transparentPixels": 196153,
+    "partialAlphaPixels": 239073,
+    "totalPixels": 442368,
+    "jpegCornerRGBA": [
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ],
+      [
+        255,
+        255,
+        255,
+        255
+      ]
+    ],
+    "pngTransparencyVerified": true,
+    "jpgWhiteBackgroundVerified": true,
+    "exportsMatch": true,
+    "exportTool": "macOS CoreGraphics/ImageIO through Python ctypes; high-quality resize; white composite; native JPEG encoder defaults"
+  },
+  "canvas": {
+    "aspectRatio": "4:3",
+    "orientation": "landscape",
+    "suggestedWidthPx": 768,
+    "actualWidthPx": 768,
+    "actualHeightPx": 576
+  },
+  "placement": [
+    {
+      "elementId": "tool-version-field",
+      "boundsPercent": {
+        "x": 6.3,
+        "y": 13.2,
+        "width": 25.7,
+        "height": 7.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "tool-version-record",
+      "boundsPercent": {
+        "x": 33,
+        "y": 13.2,
+        "width": 60.7,
+        "height": 7.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "date-checked-field",
+      "boundsPercent": {
+        "x": 6.3,
+        "y": 22,
+        "width": 25.7,
+        "height": 7.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "date-checked-record",
+      "boundsPercent": {
+        "x": 33,
+        "y": 22,
+        "width": 60.7,
+        "height": 7.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "custody-model-field",
+      "boundsPercent": {
+        "x": 6.3,
+        "y": 30.8,
+        "width": 25.7,
+        "height": 7.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "custody-model-record",
+      "boundsPercent": {
+        "x": 33,
+        "y": 30.8,
+        "width": 60.7,
+        "height": 7.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "main-use-field",
+      "boundsPercent": {
+        "x": 6.3,
+        "y": 39.6,
+        "width": 25.7,
+        "height": 7.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "main-use-record",
+      "boundsPercent": {
+        "x": 33,
+        "y": 39.6,
+        "width": 60.7,
+        "height": 7.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "benefit-field",
+      "boundsPercent": {
+        "x": 6.3,
+        "y": 53.7,
+        "width": 25.7,
+        "height": 7.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "benefit-record",
+      "boundsPercent": {
+        "x": 33,
+        "y": 53.7,
+        "width": 60.7,
+        "height": 7.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "risk-field",
+      "boundsPercent": {
+        "x": 6.3,
+        "y": 62.5,
+        "width": 25.7,
+        "height": 7.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "risk-record",
+      "boundsPercent": {
+        "x": 33,
+        "y": 62.5,
+        "width": 60.7,
+        "height": 7.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "recovery-method-field",
+      "boundsPercent": {
+        "x": 6.3,
+        "y": 71.30000000000001,
+        "width": 25.7,
+        "height": 7.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "recovery-method-record",
+      "boundsPercent": {
+        "x": 33,
+        "y": 71.30000000000001,
+        "width": 60.7,
+        "height": 7.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "alternative-field",
+      "boundsPercent": {
+        "x": 6.3,
+        "y": 80.10000000000001,
+        "width": 25.7,
+        "height": 7.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    },
+    {
+      "elementId": "alternative-record",
+      "boundsPercent": {
+        "x": 33,
+        "y": 80.10000000000001,
+        "width": 60.7,
+        "height": 7.7
+      },
+      "zIndex": 1,
+      "treatmentNotes": "Specified instructional element; labels and connections deferred to editable coding."
+    }
+  ],
+  "conformance": {
+    "elementsRendered": [
+      "tool-version-field",
+      "tool-version-record",
+      "date-checked-field",
+      "date-checked-record",
+      "custody-model-field",
+      "custody-model-record",
+      "main-use-field",
+      "main-use-record",
+      "benefit-field",
+      "benefit-record",
+      "risk-field",
+      "risk-record",
+      "recovery-method-field",
+      "recovery-method-record",
+      "alternative-field",
+      "alternative-record"
+    ],
+    "elementsMissing": [],
+    "elementsAdded": [],
+    "compositionFollowed": true,
+    "compositionDeviation": "",
+    "countDeviations": [],
+    "mustNotViolations": [],
+    "textPresentInImage": [],
+    "shapeBudgetEstimate": 16
+  },
+  "unresolved": [],
+  "reviewNote": "Visually reviewed both PNG and JPG. Eight paired blank rows, four plus four, preserve full local-tool record. Tool/version and date remain empty, no endorsement or ranking. Exact labels and date requirement preserved for editable production. All required strings, qualifications, and relationships are preserved in the incorporated source brief and any attached guide text. Reference can be rebuilt as editable HTML/CSS/inline SVG."
+}
