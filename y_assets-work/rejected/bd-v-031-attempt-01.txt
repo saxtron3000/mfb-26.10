@@ -63,7 +63,7 @@ Complete asset brief
 - Design brief: Show users signing or accepting transactions; nodes validating and relaying; miners assembling candidate blocks and performing proof of work; developers proposing software; services serving customers. Then show the checks among roles. Do not label all wallet users as nodes or developers as rule-makers.
 - Format: Participant role map; full width.
 
-Save the transparent reference as y_assets-work (archived)/references/bd-v-031-ref.png, its white-background preview as y_assets-work (archived)/references/bd-v-031-ref.jpg, and their conformance report as y_assets-work (archived)/references/bd-v-031-ref.json. Save this exact completed prompt, the model/tool and generation/export settings, generation date, source-brief revision, and review note as y_assets-work (archived)/prompts/bd-v-031-ref.txt. Review both images and verify real PNG background transparency, a white JPG background, and matching composition and dimensions. Mark this item complete only when both images, the JSON, and the prompt record exist and pass review. Reject and regenerate if the relationship is unclear, text is invented or unreadable, arrows are ambiguous, the result cannot be rebuilt as editable components, or any part breaches this brief.
+Save the transparent reference as Assets/Reference/bd-v-031-ref.jpg, its white-background preview as Assets/Reference/bd-v-031-ref.jpg, and their conformance report as Assets/Reference/bd-v-031-ref.json. Save this exact completed prompt, the model/tool and generation/export settings, generation date, source-brief revision, and review note as Assets/Prompts/prompt-codex.md Review both images and verify real PNG background transparency, a white JPG background, and matching composition and dimensions. Mark this item complete only when both images, the JSON, and the prompt record exist and pass review. Reject and regenerate if the relationship is unclear, text is invented or unreadable, arrows are ambiguous, the result cannot be rebuilt as editable components, or any part breaches this brief.
 
 COMPLETED SHARED CONTRACT
 # OpenAI reference-image prompt
@@ -83,14 +83,14 @@ The curriculum text and [08_assets.md](08_assets.md) are the instructional sourc
 ChatGPT creates working reference material only. It must never treat its PNG, JPG, or JSON as a production asset, place them in `assets/`, or propose a direct manuscript insertion. Store outputs in the ignored local-work area:
 
 ```text
-y_assets-work (archived)/
+Assets/
 ├── references/bd-v-031-ref.png
 ├── references/bd-v-031-ref.jpg
 ├── references/bd-v-031-ref.json
 └── prompts/bd-v-031-ref.txt
 ```
 
-Replace `bd-v-031` with the lowercase stable asset ID. The later Claude implementation belongs in the tracked `y_assets (archived)/diploma/` tree. This separation keeps experiments out of version control and makes approved, editable source reviewable.
+Replace `bd-v-031` with the lowercase stable asset ID. The later Claude implementation belongs in the tracked `Assets/diploma/` tree. This separation keeps experiments out of version control and makes approved, editable source reviewable.
 
 ## Complete prompt
 
@@ -201,7 +201,7 @@ Bitcoin works because different participants perform different roles.
 
 <!-- VISUAL: BD-V-031
 ALT: Roles of users, nodes, miners, developers, and services with arrows showing how they limit one another.
-ASSET: y_assets (archived)/diploma/bd-v-031.svg
+ASSET: Assets/Briefs/bd-v-031-brief.md
 -->
 
 These roles limit one another:
@@ -319,7 +319,7 @@ Use this schema:
 
 ## Save and review
 
-Save the transparent PNG as `y_assets-work (archived)/references/bd-v-031-ref.png`, the white-background JPG preview as `y_assets-work (archived)/references/bd-v-031-ref.jpg`, their conformance report as `y_assets-work (archived)/references/bd-v-031-ref.json`, and the completed prompt, model or tool, settings (including the JPG export), generation date, source-brief revision, and review note as `y_assets-work (archived)/prompts/bd-v-031-ref.txt`. Replace `bd-v-031` with the lowercase stable asset ID.
+Save the transparent PNG as `Assets/Reference/bd-v-031-ref.jpg`, the white-background JPG preview as `Assets/Reference/bd-v-031-ref.jpg`, their conformance report as `Assets/Reference/bd-v-031-ref.json`, and the completed prompt, model or tool, settings (including the JPG export), generation date, source-brief revision, and review note as `Assets/Prompts/prompt-codex.md Replace `bd-v-031` with the lowercase stable asset ID.
 
 Review both images against the brief. Verify actual transparent background pixels in the PNG, a solid white background in the JPG, matching dimensions and composition, and no prohibited visible content in either file. Record actual formats and background treatments in `canvas`; set the three export-verification flags to true only after checking the files. An alpha channel containing only opaque pixels does not satisfy transparency. Change a checklist item to `[X]` only after all four files exist and pass review; deferred and blocked items remain unchecked.
 

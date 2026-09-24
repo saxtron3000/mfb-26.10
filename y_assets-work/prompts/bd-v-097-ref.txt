@@ -77,7 +77,7 @@ REFERENCE PROMPT RECORD
   },
   "toolInput": {
     "referenced_image_paths": [
-      "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-097-attempt-01.png"
+      "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-097-attempt-01.png"
     ]
   }
 }
@@ -105,10 +105,10 @@ Complete asset brief
 - Placement: EG only: under `### Translation workflow`, after the line beginning `9. Confirm that the language version preserves the competencies, safety instructions, and asses…`. Replace the `BD-V-097` marker at EG line 2980.
 - Source locator: EG: 2978
 - Text–visual link: Shows translation as a review-and-test process, not a one-way text conversion.
-- Design brief: **Translation with meaning and safety checks.** Preserve all nine steps as compact numbered labels grouped into prepare meaning (1–3), translate/localize (4–5), and review/test/confirm equivalence (6–9). Show language specialist and subject-matter educator at review; difficult safety instructions return to wording when learner testing exposes ambiguity. Preserve competency, task difficulty, rubric, and stop conditions. Do not imply machine translation or a language review alone approves assessment equivalence. Keep the existing numbered list as the text equivalent. Caption: `Translate the meaning and test that the same safe action is understood.` Alt text: `Clear source meaning and terminology lead to translation and authorized localization, then language and subject review, learner safety testing, and confirmation of equivalent competencies and assessment standards. Ambiguity returns to revision.` Master: `y_assets (archived)/diploma/bd-v-097.svg`.
+- Design brief: **Translation with meaning and safety checks.** Preserve all nine steps as compact numbered labels grouped into prepare meaning (1–3), translate/localize (4–5), and review/test/confirm equivalence (6–9). Show language specialist and subject-matter educator at review; difficult safety instructions return to wording when learner testing exposes ambiguity. Preserve competency, task difficulty, rubric, and stop conditions. Do not imply machine translation or a language review alone approves assessment equivalence. Keep the existing numbered list as the text equivalent. Caption: `Translate the meaning and test that the same safe action is understood.` Alt text: `Clear source meaning and terminology lead to translation and authorized localization, then language and subject review, learner safety testing, and confirmation of equivalent competencies and assessment standards. Ambiguity returns to revision.` Master: `Assets/Briefs/bd-v-097-brief.md`.
 - Format: Flow diagram; full width.
 
-Save the transparent reference as y_assets-work (archived)/references/bd-v-097-ref.png, its white-background preview as y_assets-work (archived)/references/bd-v-097-ref.jpg, and their conformance report as y_assets-work (archived)/references/bd-v-097-ref.json. Save this exact completed prompt, the model/tool and generation/export settings, generation date, source-brief revision, and review note as y_assets-work (archived)/prompts/bd-v-097-ref.txt. Review both images and verify real PNG background transparency, a white JPG background, and matching composition and dimensions. Mark this item complete only when both images, the JSON, and the prompt record exist and pass review. Reject and regenerate if the relationship is unclear, text is invented or unreadable, arrows are ambiguous, the result cannot be rebuilt as editable components, or any part breaches this brief.
+Save the transparent reference as Assets/Reference/bd-v-097-ref.jpg, its white-background preview as Assets/Reference/bd-v-097-ref.jpg, and their conformance report as Assets/Reference/bd-v-097-ref.json. Save this exact completed prompt, the model/tool and generation/export settings, generation date, source-brief revision, and review note as Assets/Prompts/prompt-codex.md Review both images and verify real PNG background transparency, a white JPG background, and matching composition and dimensions. Mark this item complete only when both images, the JSON, and the prompt record exist and pass review. Reject and regenerate if the relationship is unclear, text is invented or unreadable, arrows are ambiguous, the result cannot be rebuilt as editable components, or any part breaches this brief.
 
 COMPLETED SHARED CONTRACT
 # OpenAI reference-image prompt
@@ -128,14 +128,14 @@ The curriculum text and [08_assets.md](08_assets.md) are the instructional sourc
 ChatGPT creates working reference material only. It must never treat its PNG, JPG, or JSON as a production asset, place them in `assets/`, or propose a direct manuscript insertion. Store outputs in the ignored local-work area:
 
 ```text
-y_assets-work (archived)/
+Assets/
 ├── references/bd-v-097-ref.png
 ├── references/bd-v-097-ref.jpg
 ├── references/bd-v-097-ref.json
 └── prompts/bd-v-097-ref.txt
 ```
 
-Replace `bd-v-097` with the lowercase stable asset ID. The later Claude implementation belongs in the tracked `y_assets (archived)/diploma/` tree. This separation keeps experiments out of version control and makes approved, editable source reviewable.
+Replace `bd-v-097` with the lowercase stable asset ID. The later Claude implementation belongs in the tracked `Assets/diploma/` tree. This separation keeps experiments out of version control and makes approved, editable source reviewable.
 
 ## Complete prompt
 
@@ -182,7 +182,7 @@ The eight legacy per-asset records above remain useful examples of the contract 
 ---
 
 Complete incorporated section 3 entry:
-| `BD-V-097` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### Translation workflow`, after the line beginning `9. Confirm that the language version preserves the competencies, safety instructions, and asses…`. Replace the `BD-V-097` marker at EG line 2980. | EG: 2978 | Shows translation as a review-and-test process, not a one-way text conversion. | **Translation with meaning and safety checks.** Preserve all nine steps as compact numbered labels grouped into prepare meaning (1–3), translate/localize (4–5), and review/test/confirm equivalence (6–9). Show language specialist and subject-matter educator at review; difficult safety instructions return to wording when learner testing exposes ambiguity. Preserve competency, task difficulty, rubric, and stop conditions. Do not imply machine translation or a language review alone approves assessment equivalence. Keep the existing numbered list as the text equivalent. Caption: `Translate the meaning and test that the same safe action is understood.` Alt text: `Clear source meaning and terminology lead to translation and authorized localization, then language and subject review, learner safety testing, and confirmation of equivalent competencies and assessment standards. Ambiguity returns to revision.` Master: `y_assets (archived)/diploma/bd-v-097.svg`. | Flow diagram; full width. |
+| `BD-V-097` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### Translation workflow`, after the line beginning `9. Confirm that the language version preserves the competencies, safety instructions, and asses…`. Replace the `BD-V-097` marker at EG line 2980. | EG: 2978 | Shows translation as a review-and-test process, not a one-way text conversion. | **Translation with meaning and safety checks.** Preserve all nine steps as compact numbered labels grouped into prepare meaning (1–3), translate/localize (4–5), and review/test/confirm equivalence (6–9). Show language specialist and subject-matter educator at review; difficult safety instructions return to wording when learner testing exposes ambiguity. Preserve competency, task difficulty, rubric, and stop conditions. Do not imply machine translation or a language review alone approves assessment equivalence. Keep the existing numbered list as the text equivalent. Caption: `Translate the meaning and test that the same safe action is understood.` Alt text: `Clear source meaning and terminology lead to translation and authorized localization, then language and subject review, learner safety testing, and confirmation of equivalent competencies and assessment standards. Ambiguity returns to revision.` Master: `Assets/Briefs/bd-v-097-brief.md`. | Flow diagram; full width. |
 
 Shared section 2 requirements:
 These requirements apply to every entry in the index.
@@ -220,7 +220,7 @@ These requirements apply to every entry in the index.
 - Use the approved My First Bitcoin visual system as the source of truth for brand and visual decisions. The curriculum text and this index remain the source of truth for instructional content.
 
 ---
-- Complete section 3 asset row from workspace/08_assets.md: | `BD-V-097` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### Translation workflow`, after the line beginning `9. Confirm that the language version preserves the competencies, safety instructions, and asses…`. Replace the `BD-V-097` marker at EG line 2980. | EG: 2978 | Shows translation as a review-and-test process, not a one-way text conversion. | **Translation with meaning and safety checks.** Preserve all nine steps as compact numbered labels grouped into prepare meaning (1–3), translate/localize (4–5), and review/test/confirm equivalence (6–9). Show language specialist and subject-matter educator at review; difficult safety instructions return to wording when learner testing exposes ambiguity. Preserve competency, task difficulty, rubric, and stop conditions. Do not imply machine translation or a language review alone approves assessment equivalence. Keep the existing numbered list as the text equivalent. Caption: `Translate the meaning and test that the same safe action is understood.` Alt text: `Clear source meaning and terminology lead to translation and authorized localization, then language and subject review, learner safety testing, and confirmation of equivalent competencies and assessment standards. Ambiguity returns to revision.` Master: `y_assets (archived)/diploma/bd-v-097.svg`. | Flow diagram; full width. |
+- Complete section 3 asset row from workspace/08_assets.md: | `BD-V-097` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### Translation workflow`, after the line beginning `9. Confirm that the language version preserves the competencies, safety instructions, and asses…`. Replace the `BD-V-097` marker at EG line 2980. | EG: 2978 | Shows translation as a review-and-test process, not a one-way text conversion. | **Translation with meaning and safety checks.** Preserve all nine steps as compact numbered labels grouped into prepare meaning (1–3), translate/localize (4–5), and review/test/confirm equivalence (6–9). Show language specialist and subject-matter educator at review; difficult safety instructions return to wording when learner testing exposes ambiguity. Preserve competency, task difficulty, rubric, and stop conditions. Do not imply machine translation or a language review alone approves assessment equivalence. Keep the existing numbered list as the text equivalent. Caption: `Translate the meaning and test that the same safe action is understood.` Alt text: `Clear source meaning and terminology lead to translation and authorized localization, then language and subject review, learner safety testing, and confirmation of equivalent competencies and assessment standards. Ambiguity returns to revision.` Master: `Assets/Briefs/bd-v-097-brief.md`. | Flow diagram; full width. |
 - Relevant section 8 shared-register entries from workspace/08_assets.md:
   - id: educator
   kind: actor
@@ -243,7 +243,7 @@ Use this sequence:
 
 <!-- VISUAL: BD-V-097
 ALT: Clear source meaning and terminology lead to translation and authorized localization, then language and subject review, learner safety testing, and confirmation of equivalent competencies and assessment standards. Ambiguity returns to revision.
-ASSET: y_assets (archived)/diploma/bd-v-097.svg
+ASSET: Assets/Briefs/bd-v-097-brief.md
 USE: Educator-only diagram; see the asset index brief.
 -->
 
@@ -353,7 +353,7 @@ Use this schema:
 
 ## Save and review
 
-Save the transparent PNG as `y_assets-work (archived)/references/bd-v-097-ref.png`, the white-background JPG preview as `y_assets-work (archived)/references/bd-v-097-ref.jpg`, their conformance report as `y_assets-work (archived)/references/bd-v-097-ref.json`, and the completed prompt, model or tool, settings (including the JPG export), generation date, source-brief revision, and review note as `y_assets-work (archived)/prompts/bd-v-097-ref.txt`. Replace `bd-v-097` with the lowercase stable asset ID.
+Save the transparent PNG as `Assets/Reference/bd-v-097-ref.jpg`, the white-background JPG preview as `Assets/Reference/bd-v-097-ref.jpg`, their conformance report as `Assets/Reference/bd-v-097-ref.json`, and the completed prompt, model or tool, settings (including the JPG export), generation date, source-brief revision, and review note as `Assets/Prompts/prompt-codex.md Replace `bd-v-097` with the lowercase stable asset ID.
 
 Review both images against the brief. Verify actual transparent background pixels in the PNG, a solid white background in the JPG, matching dimensions and composition, and no prohibited visible content in either file. Record actual formats and background treatments in `canvas`; set the three export-verification flags to true only after checking the files. An alpha channel containing only opaque pixels does not satisfy transparency. Change a checklist item to `[X]` only after all four files exist and pass review; deferred and blocked items remain unchecked.
 

@@ -77,7 +77,7 @@ REFERENCE PROMPT RECORD
   },
   "toolInput": {
     "referenced_image_paths": [
-      "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-084-attempt-01.png"
+      "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-084-attempt-01.png"
     ]
   }
 }
@@ -105,10 +105,10 @@ Complete asset brief
 - Placement: EG only: under `### Common support, safety, and record rules`, after the line beginning `**Permitted support:** Before evidence is gathered, you may read the prompt, repeat it once, pr…`. Replace the `BD-V-084` marker at EG line 106.
 - Source locator: EG: 104
 - Text–visual link: Separates access support and safety intervention from prompting that supplies the answer.
-- Design brief: **Support without supplying the assessed decision.** Use two time bands: before evidence and during practical observation. Before: read the prompt, repeat once, provide approved translation or communication accommodation, clarify a non-assessed word, prepare materials. During: safety stop or reset as permitted. Draw a clear boundary around the learner-owned explanation, comparison, verification, and action. Outside the permitted lane show supplying an answer, selecting a payment detail, or performing a required step. Use a conceptual example, not a new rubric. Read with each task’s specific permitted-support rules. Caption: `Support access and safety while the learner makes the assessed decisions.` Alt text: `An educator may provide the permitted preparation and access support and stop unsafe action. The learner must still supply the assessed explanation, select the relevant details, and perform or direct the required decisions.` Master: `y_assets (archived)/diploma/bd-v-084.svg`.
+- Design brief: **Support without supplying the assessed decision.** Use two time bands: before evidence and during practical observation. Before: read the prompt, repeat once, provide approved translation or communication accommodation, clarify a non-assessed word, prepare materials. During: safety stop or reset as permitted. Draw a clear boundary around the learner-owned explanation, comparison, verification, and action. Outside the permitted lane show supplying an answer, selecting a payment detail, or performing a required step. Use a conceptual example, not a new rubric. Read with each task’s specific permitted-support rules. Caption: `Support access and safety while the learner makes the assessed decisions.` Alt text: `An educator may provide the permitted preparation and access support and stop unsafe action. The learner must still supply the assessed explanation, select the relevant details, and perform or direct the required decisions.` Master: `Assets/Briefs/bd-v-084-brief.md`.
 - Format: Two-stage support-boundary diagram; half to full width.
 
-Save the transparent reference as y_assets-work (archived)/references/bd-v-084-ref.png, its white-background preview as y_assets-work (archived)/references/bd-v-084-ref.jpg, and their conformance report as y_assets-work (archived)/references/bd-v-084-ref.json. Save this exact completed prompt, the model/tool and generation/export settings, generation date, source-brief revision, and review note as y_assets-work (archived)/prompts/bd-v-084-ref.txt. Review both images and verify real PNG background transparency, a white JPG background, and matching composition and dimensions. Mark this item complete only when both images, the JSON, and the prompt record exist and pass review. Reject and regenerate if the relationship is unclear, text is invented or unreadable, arrows are ambiguous, the result cannot be rebuilt as editable components, or any part breaches this brief.
+Save the transparent reference as Assets/Reference/bd-v-084-ref.jpg, its white-background preview as Assets/Reference/bd-v-084-ref.jpg, and their conformance report as Assets/Reference/bd-v-084-ref.json. Save this exact completed prompt, the model/tool and generation/export settings, generation date, source-brief revision, and review note as Assets/Prompts/prompt-codex.md Review both images and verify real PNG background transparency, a white JPG background, and matching composition and dimensions. Mark this item complete only when both images, the JSON, and the prompt record exist and pass review. Reject and regenerate if the relationship is unclear, text is invented or unreadable, arrows are ambiguous, the result cannot be rebuilt as editable components, or any part breaches this brief.
 
 COMPLETED SHARED CONTRACT
 # OpenAI reference-image prompt
@@ -128,14 +128,14 @@ The curriculum text and [08_assets.md](08_assets.md) are the instructional sourc
 ChatGPT creates working reference material only. It must never treat its PNG, JPG, or JSON as a production asset, place them in `assets/`, or propose a direct manuscript insertion. Store outputs in the ignored local-work area:
 
 ```text
-y_assets-work (archived)/
+Assets/
 ├── references/bd-v-084-ref.png
 ├── references/bd-v-084-ref.jpg
 ├── references/bd-v-084-ref.json
 └── prompts/bd-v-084-ref.txt
 ```
 
-Replace `bd-v-084` with the lowercase stable asset ID. The later Claude implementation belongs in the tracked `y_assets (archived)/diploma/` tree. This separation keeps experiments out of version control and makes approved, editable source reviewable.
+Replace `bd-v-084` with the lowercase stable asset ID. The later Claude implementation belongs in the tracked `Assets/diploma/` tree. This separation keeps experiments out of version control and makes approved, editable source reviewable.
 
 ## Complete prompt
 
@@ -182,7 +182,7 @@ The eight legacy per-asset records above remain useful examples of the contract 
 ---
 
 Complete incorporated section 3 entry:
-| `BD-V-084` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### Common support, safety, and record rules`, after the line beginning `**Permitted support:** Before evidence is gathered, you may read the prompt, repeat it once, pr…`. Replace the `BD-V-084` marker at EG line 106. | EG: 104 | Separates access support and safety intervention from prompting that supplies the answer. | **Support without supplying the assessed decision.** Use two time bands: before evidence and during practical observation. Before: read the prompt, repeat once, provide approved translation or communication accommodation, clarify a non-assessed word, prepare materials. During: safety stop or reset as permitted. Draw a clear boundary around the learner-owned explanation, comparison, verification, and action. Outside the permitted lane show supplying an answer, selecting a payment detail, or performing a required step. Use a conceptual example, not a new rubric. Read with each task’s specific permitted-support rules. Caption: `Support access and safety while the learner makes the assessed decisions.` Alt text: `An educator may provide the permitted preparation and access support and stop unsafe action. The learner must still supply the assessed explanation, select the relevant details, and perform or direct the required decisions.` Master: `y_assets (archived)/diploma/bd-v-084.svg`. | Two-stage support-boundary diagram; half to full width. |
+| `BD-V-084` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### Common support, safety, and record rules`, after the line beginning `**Permitted support:** Before evidence is gathered, you may read the prompt, repeat it once, pr…`. Replace the `BD-V-084` marker at EG line 106. | EG: 104 | Separates access support and safety intervention from prompting that supplies the answer. | **Support without supplying the assessed decision.** Use two time bands: before evidence and during practical observation. Before: read the prompt, repeat once, provide approved translation or communication accommodation, clarify a non-assessed word, prepare materials. During: safety stop or reset as permitted. Draw a clear boundary around the learner-owned explanation, comparison, verification, and action. Outside the permitted lane show supplying an answer, selecting a payment detail, or performing a required step. Use a conceptual example, not a new rubric. Read with each task’s specific permitted-support rules. Caption: `Support access and safety while the learner makes the assessed decisions.` Alt text: `An educator may provide the permitted preparation and access support and stop unsafe action. The learner must still supply the assessed explanation, select the relevant details, and perform or direct the required decisions.` Master: `Assets/Briefs/bd-v-084-brief.md`. | Two-stage support-boundary diagram; half to full width. |
 
 Shared section 2 requirements:
 These requirements apply to every entry in the index.
@@ -220,7 +220,7 @@ These requirements apply to every entry in the index.
 - Use the approved My First Bitcoin visual system as the source of truth for brand and visual decisions. The curriculum text and this index remain the source of truth for instructional content.
 
 ---
-- Complete section 3 asset row from workspace/08_assets.md: | `BD-V-084` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### Common support, safety, and record rules`, after the line beginning `**Permitted support:** Before evidence is gathered, you may read the prompt, repeat it once, pr…`. Replace the `BD-V-084` marker at EG line 106. | EG: 104 | Separates access support and safety intervention from prompting that supplies the answer. | **Support without supplying the assessed decision.** Use two time bands: before evidence and during practical observation. Before: read the prompt, repeat once, provide approved translation or communication accommodation, clarify a non-assessed word, prepare materials. During: safety stop or reset as permitted. Draw a clear boundary around the learner-owned explanation, comparison, verification, and action. Outside the permitted lane show supplying an answer, selecting a payment detail, or performing a required step. Use a conceptual example, not a new rubric. Read with each task’s specific permitted-support rules. Caption: `Support access and safety while the learner makes the assessed decisions.` Alt text: `An educator may provide the permitted preparation and access support and stop unsafe action. The learner must still supply the assessed explanation, select the relevant details, and perform or direct the required decisions.` Master: `y_assets (archived)/diploma/bd-v-084.svg`. | Two-stage support-boundary diagram; half to full width. |
+- Complete section 3 asset row from workspace/08_assets.md: | `BD-V-084` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### Common support, safety, and record rules`, after the line beginning `**Permitted support:** Before evidence is gathered, you may read the prompt, repeat it once, pr…`. Replace the `BD-V-084` marker at EG line 106. | EG: 104 | Separates access support and safety intervention from prompting that supplies the answer. | **Support without supplying the assessed decision.** Use two time bands: before evidence and during practical observation. Before: read the prompt, repeat once, provide approved translation or communication accommodation, clarify a non-assessed word, prepare materials. During: safety stop or reset as permitted. Draw a clear boundary around the learner-owned explanation, comparison, verification, and action. Outside the permitted lane show supplying an answer, selecting a payment detail, or performing a required step. Use a conceptual example, not a new rubric. Read with each task’s specific permitted-support rules. Caption: `Support access and safety while the learner makes the assessed decisions.` Alt text: `An educator may provide the permitted preparation and access support and stop unsafe action. The learner must still supply the assessed explanation, select the relevant details, and perform or direct the required decisions.` Master: `Assets/Briefs/bd-v-084-brief.md`. | Two-stage support-boundary diagram; half to full width. |
 - Relevant section 8 shared-register entries from workspace/08_assets.md:
   No section 8 entry explicitly lists this asset.
 - Optional adjacent guide text: ### Common support, safety, and record rules
@@ -229,7 +229,7 @@ These requirements apply to every entry in the index.
 
 <!-- VISUAL: BD-V-084
 ALT: An educator may provide the permitted preparation and access support and stop unsafe action. The learner must still supply the assessed explanation, select the relevant details, and perform or direct the required decisions.
-ASSET: y_assets (archived)/diploma/bd-v-084.svg
+ASSET: Assets/Briefs/bd-v-084-brief.md
 USE: Educator-only diagram; see the asset index brief.
 -->
 
@@ -343,7 +343,7 @@ Use this schema:
 
 ## Save and review
 
-Save the transparent PNG as `y_assets-work (archived)/references/bd-v-084-ref.png`, the white-background JPG preview as `y_assets-work (archived)/references/bd-v-084-ref.jpg`, their conformance report as `y_assets-work (archived)/references/bd-v-084-ref.json`, and the completed prompt, model or tool, settings (including the JPG export), generation date, source-brief revision, and review note as `y_assets-work (archived)/prompts/bd-v-084-ref.txt`. Replace `bd-v-084` with the lowercase stable asset ID.
+Save the transparent PNG as `Assets/Reference/bd-v-084-ref.jpg`, the white-background JPG preview as `Assets/Reference/bd-v-084-ref.jpg`, their conformance report as `Assets/Reference/bd-v-084-ref.json`, and the completed prompt, model or tool, settings (including the JPG export), generation date, source-brief revision, and review note as `Assets/Prompts/prompt-codex.md Replace `bd-v-084` with the lowercase stable asset ID.
 
 Review both images against the brief. Verify actual transparent background pixels in the PNG, a solid white background in the JPG, matching dimensions and composition, and no prohibited visible content in either file. Record actual formats and background treatments in `canvas`; set the three export-verification flags to true only after checking the files. An alpha channel containing only opaque pixels does not satisfy transparency. Change a checklist item to `[X]` only after all four files exist and pass review; deferred and blocked items remain unchecked.
 

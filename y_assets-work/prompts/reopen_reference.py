@@ -13,7 +13,7 @@ assert item['status'] == 'completed'
 assert not any(i['status'] == 'generating' for i in state['items'])
 review = Path(item['expectedFiles']['json'].replace('-ref.json', '-review.json'))
 number = len(item.get('rejections', [])) + 1
-archive = b.ROOT / 'y_assets-work (archived)/rejected' / (aid.lower() + '-attempt-' + str(number).zfill(2) + '-prior-acceptance.json')
+archive = b.ROOT / 'Assets/rejected' / (aid.lower() + '-attempt-' + str(number).zfill(2) + '-prior-acceptance.json')
 shutil.copy2(review, archive)
 item.setdefault('rejectedFiles', []).append(str(archive))
 item.setdefault('finalAuditCorrections', []).append(reason)

@@ -5,9 +5,9 @@
   "reviewedAt": "2026-09-21T23:39:37.890541+00:00",
   "reason": "Header blocks contain prohibited connector strokes; PNG gutters have opaque white remnants. Require separate blocks and clean transparent gutters.",
   "files": [
-    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-051-attempt-01.png",
-    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-051-attempt-01.jpg",
-    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-051-attempt-01.json",
-    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-051-attempt-01.txt"
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-051-attempt-01.png",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-051-attempt-01.jpg",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-051-attempt-01.json",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-051-attempt-01.txt"
   ]
 }

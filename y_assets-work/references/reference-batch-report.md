@@ -136,1029 +136,1029 @@ This inventory includes accepted references, review records, prompts, queue util
 
 1021 file paths:
 
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-002-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-003-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-004-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-005-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-006-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-007-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-008-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-009-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-010-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-011-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-012-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-013-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-014-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-015-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-016-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-017-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-018-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-019-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-020-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-021-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-022-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-023-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-024-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-025-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-026-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-027-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-028-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-029-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-030-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-031-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-032-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-033-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-034-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-035-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-036-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-037-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-038-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-039-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-040-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-041-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-042-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-043-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-044-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-045-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-046-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-047-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-048-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-049-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-050-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-051-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-052-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-053-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-054-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-055-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-056-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-057-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-058-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-059-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-060-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-061-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-062-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-063-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-064-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-065-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-066-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-067-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-068-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-069-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-071-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-072-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-073-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-074-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-076-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-077-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-078-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-079-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-080-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-081-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-082-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-083-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-084-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-085-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-086-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-087-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-088-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-089-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-090-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-091-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-092-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-093-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-094-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-095-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-096-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-097-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-098-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-099-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-100-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-101-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/export_reference.py`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/reference_batch.py`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/reopen_reference.py`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-002-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-002-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-002-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-002-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-003-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-003-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-003-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-003-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-004-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-004-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-004-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-004-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-005-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-005-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-005-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-005-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-006-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-006-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-006-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-006-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-007-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-007-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-007-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-007-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-008-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-008-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-008-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-008-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-009-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-009-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-009-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-009-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-010-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-010-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-010-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-010-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-011-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-011-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-011-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-011-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-012-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-012-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-012-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-012-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-013-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-013-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-013-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-013-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-014-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-014-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-014-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-014-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-015-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-015-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-015-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-015-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-016-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-016-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-016-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-016-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-017-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-017-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-017-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-017-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-018-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-018-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-018-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-018-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-019-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-019-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-019-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-019-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-020-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-020-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-020-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-020-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-021-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-021-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-021-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-021-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-022-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-022-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-022-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-022-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-023-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-023-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-023-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-023-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-024-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-024-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-024-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-024-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-025-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-025-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-025-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-025-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-026-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-026-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-026-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-026-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-027-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-027-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-027-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-027-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-028-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-028-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-028-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-028-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-029-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-029-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-029-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-029-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-030-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-030-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-030-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-030-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-031-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-031-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-031-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-031-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-032-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-032-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-032-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-032-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-033-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-033-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-033-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-033-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-034-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-034-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-034-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-034-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-035-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-035-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-035-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-035-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-036-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-036-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-036-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-036-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-037-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-037-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-037-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-037-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-038-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-038-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-038-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-038-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-039-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-039-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-039-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-039-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-040-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-040-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-040-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-040-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-041-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-041-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-041-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-041-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-042-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-042-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-042-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-042-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-043-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-043-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-043-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-043-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-044-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-044-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-044-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-044-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-045-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-045-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-045-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-045-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-046-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-046-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-046-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-046-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-047-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-047-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-047-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-047-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-048-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-048-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-048-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-048-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-049-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-049-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-049-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-049-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-050-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-050-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-050-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-050-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-051-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-051-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-051-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-051-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-052-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-052-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-052-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-052-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-053-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-053-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-053-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-053-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-054-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-054-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-054-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-054-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-055-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-055-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-055-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-055-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-056-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-056-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-056-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-056-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-057-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-057-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-057-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-057-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-058-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-058-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-058-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-058-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-059-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-059-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-059-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-059-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-060-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-060-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-060-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-060-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-061-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-061-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-061-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-061-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-062-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-062-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-062-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-062-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-063-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-063-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-063-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-063-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-064-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-064-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-064-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-064-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-065-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-065-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-065-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-065-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-066-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-066-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-066-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-066-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-067-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-067-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-067-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-067-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-068-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-068-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-068-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-068-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-069-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-069-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-069-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-069-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-071-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-071-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-071-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-071-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-072-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-072-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-072-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-072-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-073-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-073-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-073-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-073-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-074-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-074-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-074-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-074-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-076-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-076-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-076-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-076-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-077-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-077-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-077-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-077-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-078-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-078-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-078-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-078-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-079-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-079-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-079-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-079-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-080-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-080-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-080-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-080-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-081-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-081-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-081-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-081-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-082-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-082-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-082-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-082-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-083-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-083-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-083-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-083-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-084-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-084-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-084-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-084-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-085-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-085-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-085-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-085-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-086-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-086-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-086-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-086-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-087-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-087-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-087-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-087-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-088-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-088-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-088-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-088-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-089-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-089-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-089-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-089-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-090-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-090-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-090-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-090-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-091-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-091-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-091-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-091-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-092-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-092-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-092-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-092-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-093-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-093-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-093-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-093-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-094-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-094-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-094-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-094-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-095-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-095-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-095-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-095-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-096-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-096-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-096-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-096-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-097-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-097-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-097-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-097-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-098-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-098-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-098-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-098-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-099-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-099-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-099-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-099-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-100-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-100-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-100-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-100-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-101-ref.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-101-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-101-ref.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-101-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/reference-batch-audit.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/reference-batch-completion-log.jsonl`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/reference-batch-report.md`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/reference-batch-state.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-002-attempt-01-export.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-002-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-002-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-002-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-002-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-008-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-008-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-008-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-008-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-008-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-011-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-011-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-011-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-011-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-011-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-013-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-013-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-013-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-013-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-013-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-015-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-015-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-015-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-015-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-015-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-017-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-017-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-017-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-017-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-017-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-018-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-018-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-018-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-018-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-018-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-019-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-019-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-019-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-019-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-019-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-021-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-021-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-021-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-021-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-021-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-021-attempt-02-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-021-attempt-02.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-021-attempt-02.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-021-attempt-02.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-021-attempt-02.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-022-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-022-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-022-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-022-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-022-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-026-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-026-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-026-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-026-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-026-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-026-attempt-02-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-026-attempt-02.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-026-attempt-02.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-026-attempt-02.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-026-attempt-02.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-027-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-027-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-027-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-027-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-027-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-028-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-028-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-028-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-028-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-028-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-031-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-031-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-031-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-031-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-031-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-034-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-034-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-034-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-034-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-034-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-035-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-035-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-035-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-035-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-035-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-037-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-037-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-037-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-037-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-037-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-038-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-038-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-038-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-038-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-038-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-039-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-039-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-039-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-039-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-039-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-043-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-043-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-043-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-043-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-043-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-044-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-044-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-044-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-044-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-044-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-045-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-045-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-045-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-045-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-045-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-046-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-046-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-046-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-046-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-046-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-049-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-049-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-049-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-049-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-049-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-050-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-050-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-050-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-050-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-050-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-051-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-051-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-051-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-051-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-051-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-051-attempt-02-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-051-attempt-02.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-051-attempt-02.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-051-attempt-02.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-051-attempt-02.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-052-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-052-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-052-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-052-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-052-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-054-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-054-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-054-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-054-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-054-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-055-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-055-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-055-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-055-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-055-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-057-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-057-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-057-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-057-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-057-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-059-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-059-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-059-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-059-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-059-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-060-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-060-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-060-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-060-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-060-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-061-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-061-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-061-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-061-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-061-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-062-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-062-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-062-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-062-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-062-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-062-attempt-02-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-062-attempt-02.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-062-attempt-02.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-062-attempt-02.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-062-attempt-02.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-065-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-065-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-065-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-065-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-065-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-065-attempt-02-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-065-attempt-02.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-065-attempt-02.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-065-attempt-02.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-065-attempt-02.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-066-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-066-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-066-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-066-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-066-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-067-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-067-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-067-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-067-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-067-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-069-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-069-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-069-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-069-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-069-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-069-attempt-02-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-069-attempt-02.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-069-attempt-02.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-069-attempt-02.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-069-attempt-02.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-071-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-071-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-071-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-071-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-071-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-072-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-072-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-072-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-072-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-072-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-077-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-077-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-077-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-077-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-077-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-077-attempt-02-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-077-attempt-02.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-077-attempt-02.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-077-attempt-02.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-077-attempt-02.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-082-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-082-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-082-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-082-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-082-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-083-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-083-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-083-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-083-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-083-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-084-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-084-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-084-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-084-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-084-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-084-attempt-02-prior-acceptance.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-084-attempt-02-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-084-attempt-02.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-084-attempt-02.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-084-attempt-02.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-084-attempt-02.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-085-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-085-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-085-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-085-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-085-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-086-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-086-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-086-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-086-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-086-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-088-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-088-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-088-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-088-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-088-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-088-attempt-02-prior-acceptance.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-088-attempt-02-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-088-attempt-02.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-088-attempt-02.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-088-attempt-02.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-088-attempt-02.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-089-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-089-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-089-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-089-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-089-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-089-attempt-02-prior-acceptance.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-089-attempt-02-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-089-attempt-02.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-089-attempt-02.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-089-attempt-02.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-089-attempt-02.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-091-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-091-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-091-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-091-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-091-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-092-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-092-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-092-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-092-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-092-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-093-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-093-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-093-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-093-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-093-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-093-attempt-02-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-093-attempt-02.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-093-attempt-02.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-093-attempt-02.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-093-attempt-02.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-096-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-096-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-096-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-096-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-096-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-097-attempt-01-review.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-097-attempt-01.jpg`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-097-attempt-01.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-097-attempt-01.png`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-097-attempt-01.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-001-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-002-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-003-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-004-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-005-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-006-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-007-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-008-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-009-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-010-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-011-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-012-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-013-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-014-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-015-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-016-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-017-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-018-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-019-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-020-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-021-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-022-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-023-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-024-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-025-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-026-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-027-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-028-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-029-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-030-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-031-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-032-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-033-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-034-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-035-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-036-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-037-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-038-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-039-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-040-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-041-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-042-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-043-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-044-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-045-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-046-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-047-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-048-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-049-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-050-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-051-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-052-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-053-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-054-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-055-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-056-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-057-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-058-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-059-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-060-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-061-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-062-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-063-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-064-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-065-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-066-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-067-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-068-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-069-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-071-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-072-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-073-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-074-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-076-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-077-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-078-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-079-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-080-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-081-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-082-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-083-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-084-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-085-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-086-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-087-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-088-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-089-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-090-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-091-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-092-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-093-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-094-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-095-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-096-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-097-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-098-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-099-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-100-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-101-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-001-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-002-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-003-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-004-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-005-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-006-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-007-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-008-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-009-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-010-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-011-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-012-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-013-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-014-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-015-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-016-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-017-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-018-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-019-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-020-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-021-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-022-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-023-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-024-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-025-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-026-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-027-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-028-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-029-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-030-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-031-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-032-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-033-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-034-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-035-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-036-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-037-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-038-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-039-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-040-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-041-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-042-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-043-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-044-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-045-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-046-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-047-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-048-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-049-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-050-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-051-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-052-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-053-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-054-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-055-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-056-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-057-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-058-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-059-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-060-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-061-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-062-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-063-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-064-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-065-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-066-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-067-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-068-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-069-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-071-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-072-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-073-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-074-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-076-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-077-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-078-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-079-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-080-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-081-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-082-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-083-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-084-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-085-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-086-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-087-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-088-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-089-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-090-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-091-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-092-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-093-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-094-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-095-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-096-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-097-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-098-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-099-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-100-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-101-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/reference-batch-completion-log.jsonl`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/reference-batch-report.md`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract/references/reference-batch-state.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-002-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-002-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-002-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-002-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-003-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-003-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-003-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-003-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-004-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-004-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-004-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-004-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-005-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-005-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-005-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-005-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-006-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-006-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-006-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-006-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-007-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-007-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-007-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-007-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-008-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-008-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-008-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-008-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-009-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-009-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-009-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-009-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-010-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-010-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-010-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-010-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-011-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-011-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-011-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-011-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-012-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-012-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-012-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-012-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-013-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-013-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-013-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-013-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-014-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-014-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-014-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-014-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-015-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-015-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-015-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-015-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-016-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-016-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-016-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-016-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-017-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-017-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-017-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-017-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-018-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-018-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-018-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-018-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-019-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-019-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-019-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-019-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-020-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-020-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-020-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-020-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-021-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-021-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-021-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-021-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-022-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-022-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-022-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-022-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-023-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-023-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-023-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-023-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-024-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-024-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-024-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-024-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-025-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-025-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-025-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-025-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-026-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-026-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-026-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-026-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-027-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-027-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-027-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-027-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-028-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-028-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-028-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-028-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-029-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-029-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-029-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-029-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-030-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-030-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-030-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-030-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-031-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-031-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-031-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-031-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-032-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-032-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-032-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-032-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-033-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-033-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-033-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-033-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-034-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-034-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-034-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-034-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-035-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-035-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-035-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-035-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-036-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-036-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-036-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-036-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-037-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-037-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-037-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-037-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-038-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-038-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-038-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-038-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-039-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-039-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-039-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-039-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-040-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-040-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-040-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-040-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-041-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-041-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-041-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-041-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-042-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-042-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-042-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-042-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-043-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-043-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-043-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-043-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-044-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-044-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-044-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-044-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-045-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-045-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-045-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-045-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-046-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-046-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-046-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-046-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-047-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-047-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-047-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-047-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-048-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-048-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-048-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-048-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-049-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-049-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-049-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-049-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-050-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-050-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-050-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-050-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-051-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-051-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-051-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-051-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-052-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-052-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-052-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-052-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-053-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-053-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-053-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-053-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-054-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-054-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-054-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-054-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-055-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-055-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-055-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-055-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-056-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-056-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-056-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-056-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-057-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-057-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-057-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-057-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-058-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-058-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-058-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-058-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-059-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-059-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-059-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-059-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-060-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-060-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-060-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-060-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-061-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-061-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-061-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-061-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-062-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-062-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-062-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-062-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-063-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-063-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-063-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-063-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-064-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-064-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-064-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-064-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-065-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-065-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-065-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-065-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-066-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-066-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-066-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-066-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-067-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-067-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-067-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-067-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-068-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-068-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-068-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-068-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-069-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-069-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-069-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-069-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-071-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-071-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-071-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-071-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-072-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-072-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-072-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-072-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-073-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-073-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-073-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-073-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-074-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-074-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-074-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-074-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-076-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-076-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-076-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-076-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-077-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-077-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-077-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-077-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-078-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-078-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-078-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-078-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-079-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-079-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-079-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-079-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-080-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-080-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-080-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-080-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-081-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-081-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-081-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-081-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-082-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-082-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-082-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-082-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-083-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-083-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-083-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-083-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-084-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-084-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-084-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-084-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-085-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-085-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-085-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-085-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-086-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-086-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-086-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-086-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-087-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-087-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-087-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-087-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-088-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-088-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-088-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-088-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-089-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-089-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-089-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-089-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-090-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-090-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-090-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-090-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-091-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-091-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-091-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-091-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-092-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-092-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-092-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-092-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-093-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-093-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-093-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-093-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-094-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-094-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-094-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-094-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-095-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-095-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-095-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-095-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-096-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-096-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-096-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-096-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-097-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-097-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-097-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-097-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-098-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-098-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-098-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-098-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-099-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-099-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-099-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-099-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-100-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-100-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-100-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-100-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-101-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-101-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-101-ref.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-101-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/reference-batch-audit.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/reference-batch-completion-log.jsonl`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/reference-batch-report.md`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/reference-batch-state.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-002-attempt-01-export.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-002-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-002-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-002-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-002-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-008-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-008-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-008-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-008-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-008-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-011-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-011-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-011-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-011-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-011-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-013-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-013-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-013-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-013-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-013-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-015-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-015-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-015-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-015-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-015-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-017-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-017-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-017-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-017-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-017-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-018-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-018-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-018-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-018-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-018-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-019-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-019-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-019-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-019-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-019-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-021-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-021-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-021-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-021-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-021-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-021-attempt-02-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-021-attempt-02.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-021-attempt-02.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-021-attempt-02.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-021-attempt-02.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-022-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-022-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-022-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-022-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-022-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-026-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-026-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-026-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-026-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-026-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-026-attempt-02-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-026-attempt-02.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-026-attempt-02.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-026-attempt-02.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-026-attempt-02.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-027-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-027-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-027-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-027-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-027-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-028-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-028-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-028-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-028-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-028-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-031-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-031-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-031-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-031-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-031-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-034-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-034-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-034-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-034-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-034-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-035-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-035-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-035-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-035-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-035-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-037-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-037-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-037-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-037-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-037-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-038-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-038-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-038-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-038-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-038-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-039-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-039-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-039-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-039-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-039-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-043-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-043-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-043-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-043-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-043-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-044-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-044-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-044-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-044-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-044-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-045-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-045-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-045-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-045-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-045-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-046-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-046-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-046-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-046-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-046-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-049-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-049-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-049-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-049-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-049-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-050-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-050-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-050-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-050-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-050-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-051-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-051-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-051-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-051-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-051-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-051-attempt-02-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-051-attempt-02.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-051-attempt-02.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-051-attempt-02.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-051-attempt-02.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-052-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-052-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-052-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-052-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-052-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-054-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-054-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-054-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-054-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-054-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-055-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-055-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-055-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-055-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-055-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-057-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-057-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-057-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-057-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-057-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-059-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-059-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-059-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-059-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-059-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-060-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-060-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-060-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-060-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-060-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-061-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-061-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-061-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-061-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-061-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-062-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-062-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-062-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-062-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-062-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-062-attempt-02-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-062-attempt-02.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-062-attempt-02.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-062-attempt-02.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-062-attempt-02.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-065-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-065-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-065-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-065-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-065-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-065-attempt-02-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-065-attempt-02.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-065-attempt-02.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-065-attempt-02.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-065-attempt-02.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-066-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-066-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-066-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-066-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-066-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-067-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-067-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-067-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-067-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-067-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-069-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-069-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-069-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-069-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-069-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-069-attempt-02-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-069-attempt-02.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-069-attempt-02.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-069-attempt-02.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-069-attempt-02.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-071-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-071-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-071-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-071-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-071-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-072-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-072-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-072-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-072-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-072-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-077-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-077-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-077-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-077-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-077-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-077-attempt-02-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-077-attempt-02.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-077-attempt-02.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-077-attempt-02.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-077-attempt-02.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-082-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-082-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-082-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-082-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-082-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-083-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-083-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-083-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-083-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-083-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-084-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-084-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-084-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-084-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-084-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-084-attempt-02-prior-acceptance.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-084-attempt-02-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-084-attempt-02.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-084-attempt-02.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-084-attempt-02.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-084-attempt-02.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-085-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-085-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-085-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-085-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-085-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-086-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-086-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-086-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-086-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-086-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-088-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-088-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-088-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-088-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-088-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-088-attempt-02-prior-acceptance.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-088-attempt-02-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-088-attempt-02.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-088-attempt-02.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-088-attempt-02.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-088-attempt-02.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-089-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-089-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-089-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-089-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-089-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-089-attempt-02-prior-acceptance.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-089-attempt-02-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-089-attempt-02.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-089-attempt-02.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-089-attempt-02.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-089-attempt-02.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-091-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-091-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-091-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-091-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-091-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-092-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-092-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-092-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-092-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-092-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-093-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-093-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-093-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-093-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-093-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-093-attempt-02-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-093-attempt-02.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-093-attempt-02.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-093-attempt-02.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-093-attempt-02.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-096-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-096-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-096-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-096-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-096-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-097-attempt-01-review.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-097-attempt-01.jpg`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-097-attempt-01.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-097-attempt-01.png`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-097-attempt-01.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-001-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-002-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-003-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-004-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-005-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-006-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-007-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-008-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-009-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-010-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-011-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-012-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-013-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-014-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-015-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-016-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-017-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-018-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-019-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-020-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-021-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-022-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-023-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-024-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-025-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-026-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-027-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-028-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-029-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-030-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-031-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-032-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-033-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-034-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-035-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-036-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-037-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-038-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-039-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-040-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-041-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-042-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-043-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-044-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-045-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-046-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-047-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-048-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-049-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-050-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-051-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-052-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-053-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-054-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-055-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-056-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-057-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-058-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-059-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-060-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-061-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-062-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-063-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-064-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-065-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-066-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-067-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-068-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-069-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-071-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-072-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-073-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-074-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-076-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-077-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-078-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-079-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-080-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-081-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-082-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-083-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-084-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-085-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-086-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-087-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-088-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-089-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-090-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-091-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-092-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-093-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-094-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-095-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-096-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-097-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-098-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-099-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-100-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/prompts/bd-v-101-ref.txt`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-001-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-002-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-003-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-004-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-005-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-006-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-007-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-008-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-009-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-010-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-011-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-012-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-013-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-014-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-015-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-016-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-017-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-018-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-019-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-020-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-021-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-022-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-023-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-024-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-025-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-026-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-027-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-028-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-029-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-030-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-031-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-032-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-033-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-034-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-035-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-036-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-037-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-038-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-039-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-040-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-041-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-042-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-043-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-044-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-045-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-046-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-047-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-048-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-049-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-050-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-051-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-052-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-053-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-054-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-055-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-056-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-057-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-058-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-059-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-060-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-061-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-062-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-063-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-064-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-065-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-066-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-067-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-068-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-069-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-071-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-072-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-073-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-074-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-076-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-077-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-078-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-079-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-080-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-081-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-082-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-083-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-084-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-085-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-086-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-087-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-088-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-089-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-090-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-091-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-092-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-093-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-094-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-095-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-096-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-097-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-098-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-099-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-100-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/bd-v-101-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/reference-batch-completion-log.jsonl`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/reference-batch-report.md`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract/references/reference-batch-state.json`
 
-Prior blocked records and unsubmitted prompts are archived at `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/reference-batch-20260921T220404Z-superseded-contract`.
+Prior blocked records and unsubmitted prompts are archived at `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/reference-batch-20260921T220404Z-superseded-contract`.
 
 ## Validation and handoff limits
 
@@ -1171,7 +1171,7 @@ Prior blocked records and unsubmitted prompts are archived at `/Users/saxtron300
 - Final audit corrected prohibited bubbles in BD-V-084, BD-V-088 and BD-V-089. Earlier accepted versions are archived and superseded.
 - BD-V-076 was revisited after the main queue: a blank structural download-panel reference resolves its earlier interpretation blocker. The final report retains only its production verification requirement.
 - Structural payment/link panels contain no QR, destination text or payment instructions. TODO AST-001, AST-002 and AST-003 remain unresolved for production.
-- References and all working records remain in ignored y_assets-work (archived)/. No production code, manuscript insertion, Sanity upload or publication was performed.
+- References and all working records remain in ignored Assets/. No production code, manuscript insertion, Sanity upload or publication was performed.
 - Generation calls: 163; distinct generated images reviewed: 162. One BD-V-077 tool call failed on an inaccessible edit-source path and returned no image; the retry used its workspace copy.
 
 Final validation: 98 image pairs and prompt/report sets verified with zero audit failures; 98 checked and three deferred checklist items; git diff --check passed. All complete section 3 briefs remain unchanged.

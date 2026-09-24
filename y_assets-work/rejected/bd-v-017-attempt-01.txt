@@ -63,7 +63,7 @@ Complete asset brief
 - Design brief: Show two parallel simplified bank snapshots. In the liquidity case, assets exceed liabilities but too little is immediately available. In the solvency case, asset value is below liabilities. Use small round example numbers and label them as fictional.
 - Format: Side-by-side balance-sheet comparison; half to full width.
 
-Save the transparent reference as y_assets-work (archived)/references/bd-v-017-ref.png, its white-background preview as y_assets-work (archived)/references/bd-v-017-ref.jpg, and their conformance report as y_assets-work (archived)/references/bd-v-017-ref.json. Save this exact completed prompt, the model/tool and generation/export settings, generation date, source-brief revision, and review note as y_assets-work (archived)/prompts/bd-v-017-ref.txt. Review both images and verify real PNG background transparency, a white JPG background, and matching composition and dimensions. Mark this item complete only when both images, the JSON, and the prompt record exist and pass review. Reject and regenerate if the relationship is unclear, text is invented or unreadable, arrows are ambiguous, the result cannot be rebuilt as editable components, or any part breaches this brief.
+Save the transparent reference as Assets/Reference/bd-v-017-ref.jpg, its white-background preview as Assets/Reference/bd-v-017-ref.jpg, and their conformance report as Assets/Reference/bd-v-017-ref.json. Save this exact completed prompt, the model/tool and generation/export settings, generation date, source-brief revision, and review note as Assets/Prompts/prompt-codex.md Review both images and verify real PNG background transparency, a white JPG background, and matching composition and dimensions. Mark this item complete only when both images, the JSON, and the prompt record exist and pass review. Reject and regenerate if the relationship is unclear, text is invented or unreadable, arrows are ambiguous, the result cannot be rebuilt as editable components, or any part breaches this brief.
 
 COMPLETED SHARED CONTRACT
 # OpenAI reference-image prompt
@@ -83,14 +83,14 @@ The curriculum text and [08_assets.md](08_assets.md) are the instructional sourc
 ChatGPT creates working reference material only. It must never treat its PNG, JPG, or JSON as a production asset, place them in `assets/`, or propose a direct manuscript insertion. Store outputs in the ignored local-work area:
 
 ```text
-y_assets-work (archived)/
+Assets/
 ├── references/bd-v-017-ref.png
 ├── references/bd-v-017-ref.jpg
 ├── references/bd-v-017-ref.json
 └── prompts/bd-v-017-ref.txt
 ```
 
-Replace `bd-v-017` with the lowercase stable asset ID. The later Claude implementation belongs in the tracked `y_assets (archived)/diploma/` tree. This separation keeps experiments out of version control and makes approved, editable source reviewable.
+Replace `bd-v-017` with the lowercase stable asset ID. The later Claude implementation belongs in the tracked `Assets/diploma/` tree. This separation keeps experiments out of version control and makes approved, editable source reviewable.
 
 ## Complete prompt
 
@@ -190,7 +190,7 @@ When a commercial bank approves a loan, it usually creates a new deposit in the 
 
 <!-- VISUAL: BD-V-016
 ALT: Simplified bank loan flow showing a loan asset matched by a deposit liability.
-ASSET: y_assets (archived)/diploma/bd-v-016.svg
+ASSET: Assets/Briefs/bd-v-016-brief.md
 -->
 
 Banks generally seek profit by earning interest and fees on loans and investments while paying their operating, funding, and regulatory costs and absorbing losses when borrowers do not repay. These activities and constraints differ by bank and jurisdiction.
@@ -204,7 +204,7 @@ This creates two important risks:
 
 <!-- VISUAL: BD-V-017
 ALT: Side-by-side fictional examples distinguishing liquidity risk from solvency risk.
-ASSET: y_assets (archived)/diploma/bd-v-017.svg
+ASSET: Assets/Briefs/bd-v-017-brief.md
 -->
 
 A **bank run** happens when many depositors try to withdraw at the same time because they fear the bank may fail. Deposit insurance and central-bank lending can reduce panic, but insurance eligibility and coverage limits vary by jurisdiction. These protections depend on institutions and rules, and they can move some losses or risks from an individual bank to the wider system.
@@ -317,7 +317,7 @@ Use this schema:
 
 ## Save and review
 
-Save the transparent PNG as `y_assets-work (archived)/references/bd-v-017-ref.png`, the white-background JPG preview as `y_assets-work (archived)/references/bd-v-017-ref.jpg`, their conformance report as `y_assets-work (archived)/references/bd-v-017-ref.json`, and the completed prompt, model or tool, settings (including the JPG export), generation date, source-brief revision, and review note as `y_assets-work (archived)/prompts/bd-v-017-ref.txt`. Replace `bd-v-017` with the lowercase stable asset ID.
+Save the transparent PNG as `Assets/Reference/bd-v-017-ref.jpg`, the white-background JPG preview as `Assets/Reference/bd-v-017-ref.jpg`, their conformance report as `Assets/Reference/bd-v-017-ref.json`, and the completed prompt, model or tool, settings (including the JPG export), generation date, source-brief revision, and review note as `Assets/Prompts/prompt-codex.md Replace `bd-v-017` with the lowercase stable asset ID.
 
 Review both images against the brief. Verify actual transparent background pixels in the PNG, a solid white background in the JPG, matching dimensions and composition, and no prohibited visible content in either file. Record actual formats and background treatments in `canvas`; set the three export-verification flags to true only after checking the files. An alpha channel containing only opaque pixels does not satisfy transparency. Change a checklist item to `[X]` only after all four files exist and pass review; deferred and blocked items remain unchecked.
 

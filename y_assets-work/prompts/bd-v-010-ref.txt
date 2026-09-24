@@ -104,7 +104,7 @@ Complete asset brief
 - Design brief: Show Amina selling rice to one person for a generic commonly accepted medium, then using that medium to buy shoes from another person. Use a simple two-step sequence with distinct arrows for selling and buying. Keep names, goods, and the generic medium editable for localization. Do not use a specific currency, price, brand, wallet, QR code, or claim that money removes every exchange problem.
 - Format: Single money-mediated exchange flow; half to full width.
 
-Save the transparent reference as y_assets-work (archived)/references/bd-v-010-ref.png, its white-background preview as y_assets-work (archived)/references/bd-v-010-ref.jpg, and their conformance report as y_assets-work (archived)/references/bd-v-010-ref.json. Save this exact completed prompt, the model/tool and generation/export settings, generation date, source-brief revision, and review note as y_assets-work (archived)/prompts/bd-v-010-ref.txt. Review both images and verify real PNG background transparency, a white JPG background, and matching composition and dimensions. Mark this item complete only when both images, the JSON, and the prompt record exist and pass review. Reject and regenerate if the relationship is unclear, text is invented or unreadable, arrows are ambiguous, the result cannot be rebuilt as editable components, or any part breaches this brief.
+Save the transparent reference as Assets/Reference/bd-v-010-ref.jpg, its white-background preview as Assets/Reference/bd-v-010-ref.jpg, and their conformance report as Assets/Reference/bd-v-010-ref.json. Save this exact completed prompt, the model/tool and generation/export settings, generation date, source-brief revision, and review note as Assets/Prompts/prompt-codex.md Review both images and verify real PNG background transparency, a white JPG background, and matching composition and dimensions. Mark this item complete only when both images, the JSON, and the prompt record exist and pass review. Reject and regenerate if the relationship is unclear, text is invented or unreadable, arrows are ambiguous, the result cannot be rebuilt as editable components, or any part breaches this brief.
 
 COMPLETED SHARED CONTRACT
 # OpenAI reference-image prompt
@@ -124,14 +124,14 @@ The curriculum text and [08_assets.md](08_assets.md) are the instructional sourc
 ChatGPT creates working reference material only. It must never treat its PNG, JPG, or JSON as a production asset, place them in `assets/`, or propose a direct manuscript insertion. Store outputs in the ignored local-work area:
 
 ```text
-y_assets-work (archived)/
+Assets/
 ├── references/bd-v-010-ref.png
 ├── references/bd-v-010-ref.jpg
 ├── references/bd-v-010-ref.json
 └── prompts/bd-v-010-ref.txt
 ```
 
-Replace `bd-v-010` with the lowercase stable asset ID. The later Claude implementation belongs in the tracked `y_assets (archived)/diploma/` tree. This separation keeps experiments out of version control and makes approved, editable source reviewable.
+Replace `bd-v-010` with the lowercase stable asset ID. The later Claude implementation belongs in the tracked `Assets/diploma/` tree. This separation keeps experiments out of version control and makes approved, editable source reviewable.
 
 ## Complete prompt
 
@@ -227,7 +227,7 @@ Imagine that Amina has rice and wants shoes. Luis has shoes but wants cooking oi
 
 <!-- VISUAL: BD-V-009
 ALT: Amina has rice and wants shoes; Luis has shoes and wants cooking oil; Mei has cooking oil and wants repair work. Broken arrows show that their direct exchanges do not match.
-ASSET: y_assets (archived)/diploma/bd-v-009.svg
+ASSET: Assets/Briefs/bd-v-009-brief.md
 -->
 
 For barter to work directly, each person must want what the other person offers at the same time and in suitable amounts. Economists call this the **double coincidence of wants**.
@@ -244,7 +244,7 @@ A commonly accepted money separates selling from buying. Amina can sell rice to 
 
 <!-- VISUAL: BD-V-010
 ALT: Amina sells rice for a generic commonly accepted medium, then uses it to buy shoes from another person. Selling and buying are separate actions.
-ASSET: y_assets (archived)/diploma/bd-v-010.svg
+ASSET: Assets/Briefs/bd-v-010-brief.md
 -->
 
 
@@ -351,7 +351,7 @@ Use this schema:
 
 ## Save and review
 
-Save the transparent PNG as `y_assets-work (archived)/references/bd-v-010-ref.png`, the white-background JPG preview as `y_assets-work (archived)/references/bd-v-010-ref.jpg`, their conformance report as `y_assets-work (archived)/references/bd-v-010-ref.json`, and the completed prompt, model or tool, settings (including the JPG export), generation date, source-brief revision, and review note as `y_assets-work (archived)/prompts/bd-v-010-ref.txt`. Replace `bd-v-010` with the lowercase stable asset ID.
+Save the transparent PNG as `Assets/Reference/bd-v-010-ref.jpg`, the white-background JPG preview as `Assets/Reference/bd-v-010-ref.jpg`, their conformance report as `Assets/Reference/bd-v-010-ref.json`, and the completed prompt, model or tool, settings (including the JPG export), generation date, source-brief revision, and review note as `Assets/Prompts/prompt-codex.md Replace `bd-v-010` with the lowercase stable asset ID.
 
 Review both images against the brief. Verify actual transparent background pixels in the PNG, a solid white background in the JPG, matching dimensions and composition, and no prohibited visible content in either file. Record actual formats and background treatments in `canvas`; set the three export-verification flags to true only after checking the files. An alpha channel containing only opaque pixels does not satisfy transparency. Change a checklist item to `[X]` only after all four files exist and pass review; deferred and blocked items remain unchecked.
 

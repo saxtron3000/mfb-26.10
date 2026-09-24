@@ -7,7 +7,7 @@ import re
 import sys
 
 ROOT = Path(__file__).resolve().parents[2]
-REFS = ROOT / 'y_assets-work (archived)/references'
+REFS = ROOT / 'Assets/references'
 STATE = REFS / 'reference-batch-state.json'
 LOG = REFS / 'reference-batch-completion-log.jsonl'
 
@@ -52,7 +52,7 @@ def report(state):
     for item in state['items']:
         lines.extend('- ' + item['assetId'] + ': ' + reason for reason in item['unresolved'])
     lines += ['', '## All created file paths', '']
-    paths = sorted(str(p.resolve()) for p in (ROOT / 'y_assets-work (archived)').rglob('*') if p.is_file() and p.suffix not in ['.env', '.pyc'])
+    paths = sorted(str(p.resolve()) for p in (ROOT / 'Assets').rglob('*') if p.is_file() and p.suffix not in ['.env', '.pyc'])
     lines += ['This inventory includes accepted references, review records, prompts, queue utilities, rejected attempts, and the preserved superseded run. All are local working files.', '', str(len(paths)) + ' file paths:', '']
     lines.extend('- `' + p + '`' for p in paths)
     lines += ['', 'Prior blocked records and unsubmitted prompts are archived at `' + state['previousRunArchive'] + '`.', '', '## Validation and handoff limits', '',
@@ -65,7 +65,7 @@ def report(state):
               '- Final audit corrected prohibited bubbles in BD-V-084, BD-V-088 and BD-V-089. Earlier accepted versions are archived and superseded.',
               '- BD-V-076 was revisited after the main queue: a blank structural download-panel reference resolves its earlier interpretation blocker. The final report retains only its production verification requirement.',
               '- Structural payment/link panels contain no QR, destination text or payment instructions. TODO AST-001, AST-002 and AST-003 remain unresolved for production.',
-              '- References and all working records remain in ignored y_assets-work (archived)/. No production code, manuscript insertion, Sanity upload or publication was performed.',
+              '- References and all working records remain in ignored Assets/. No production code, manuscript insertion, Sanity upload or publication was performed.',
               '- Generation calls: ' + str(state['generationCalls']) + '; distinct generated images reviewed: ' + str(state['reviewedImages']) + '. One BD-V-077 tool call failed on an inaccessible edit-source path and returned no image; the retry used its workspace copy.', '']
     if state.get('finalValidation'):
         lines += ['Final validation: ' + state['finalValidation'], '']
@@ -150,7 +150,7 @@ def block(state, item, reason):
 def reject(state, item, reason):
     assert item['status'] == 'generating'
     number = len(item.get('rejections', [])) + 1
-    prefix = ROOT / 'y_assets-work (archived)/rejected' / (item['assetId'].lower() + '-attempt-' + str(number).zfill(2))
+    prefix = ROOT / 'Assets/rejected' / (item['assetId'].lower() + '-attempt-' + str(number).zfill(2))
     import shutil
     saved = []
     for kind, source in item['expectedFiles'].items():

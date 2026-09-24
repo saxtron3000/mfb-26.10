@@ -1,0 +1,5 @@
+# BD-V-070 brief
+
+This brief is maintained from the corresponding asset-index entry in `workspace/08_assets.md`.
+
+| `BD-V-070` | AI | Conditional | Table | 49–50 | make the final local-use test a concise decision and reflection table. | Under `### Review: connect this to your community`, after the paragraph beginning `**Module 4 answer:**` and before `#### Key takeaways`, only as a table alternative to `BD-V-069`. This is a proposed summary, not a replacement for an existing table. | 1379 | Offers a concise optional text equivalent for the community-review decision path. | If a table is clearer than `BD-V-069`, summarize the current review using rows for local need, function of money, realistic alternative, payment path, key control, benefit and risk, local conditions, and responsible next step. Use editable prompts rather than inventing a required test or assessment record. Keep any learner response space optional; formal evidence belongs in the educator assessment process. | Optional community-review summary table; full width. | |

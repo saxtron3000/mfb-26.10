@@ -5,9 +5,9 @@
   "reviewedAt": "2026-09-21T22:57:23.411165+00:00",
   "reason": "The history blocks and mining device are perspective objects. Flatten these props to front-facing shapes; preserve the claim-versus-independent-verification arrangement.",
   "files": [
-    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-027-attempt-01.png",
-    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-027-attempt-01.jpg",
-    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-027-attempt-01.json",
-    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-027-attempt-01.txt"
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-027-attempt-01.png",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-027-attempt-01.jpg",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-027-attempt-01.json",
+    "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-027-attempt-01.txt"
   ]
 }

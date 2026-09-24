@@ -77,7 +77,7 @@ REFERENCE PROMPT RECORD
   },
   "toolInput": {
     "referenced_image_paths": [
-      "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-089-attempt-02.png"
+      "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-089-attempt-02.png"
     ]
   }
 }
@@ -105,10 +105,10 @@ Complete asset brief
 - Placement: EG only: under `### Media and tool fallbacks`, after the line beginning `Offline teaching and assessment are valid. Use offline knowledge checks for preparation and app…`. Replace the `BD-V-089` marker at EG line 843.
 - Source locator: EG: 841
 - Text–visual link: Shows why changing the medium must preserve the learner’s action and observed evidence.
-- Design brief: **Equivalent learning and evidence across delivery modes.** Branch from one competency into prepared live tool, printed screens/cards, and an approved accessible communication or control route. Reconverge at the same learner decision/action, required verification, educator observation, and standard. Show barriers such as device, connection, language, or access needs leading to a prepared equivalent, not to lower criteria. Include a no valid equivalent branch returning to preparation/practice without certification. Draw examples from the adjacent table but retain its full list. Do not turn watching a video or another learner’s performance into evidence. Caption: `Change the medium, preserve the action and evidence.` Alt text: `Live tools, paper simulations, and approved accessible routes can support the same competency when the learner still makes the required decisions and the educator can judge equivalent evidence. Without equivalence, prepare another route before certification.` Master: `y_assets (archived)/diploma/bd-v-089.svg`.
+- Design brief: **Equivalent learning and evidence across delivery modes.** Branch from one competency into prepared live tool, printed screens/cards, and an approved accessible communication or control route. Reconverge at the same learner decision/action, required verification, educator observation, and standard. Show barriers such as device, connection, language, or access needs leading to a prepared equivalent, not to lower criteria. Include a no valid equivalent branch returning to preparation/practice without certification. Draw examples from the adjacent table but retain its full list. Do not turn watching a video or another learner’s performance into evidence. Caption: `Change the medium, preserve the action and evidence.` Alt text: `Live tools, paper simulations, and approved accessible routes can support the same competency when the learner still makes the required decisions and the educator can judge equivalent evidence. Without equivalence, prepare another route before certification.` Master: `Assets/Briefs/bd-v-089-brief.md`.
 - Format: Branch-and-rejoin equivalence diagram; full width.
 
-Save the transparent reference as y_assets-work (archived)/references/bd-v-089-ref.png, its white-background preview as y_assets-work (archived)/references/bd-v-089-ref.jpg, and their conformance report as y_assets-work (archived)/references/bd-v-089-ref.json. Save this exact completed prompt, the model/tool and generation/export settings, generation date, source-brief revision, and review note as y_assets-work (archived)/prompts/bd-v-089-ref.txt. Review both images and verify real PNG background transparency, a white JPG background, and matching composition and dimensions. Mark this item complete only when both images, the JSON, and the prompt record exist and pass review. Reject and regenerate if the relationship is unclear, text is invented or unreadable, arrows are ambiguous, the result cannot be rebuilt as editable components, or any part breaches this brief.
+Save the transparent reference as Assets/Reference/bd-v-089-ref.jpg, its white-background preview as Assets/Reference/bd-v-089-ref.jpg, and their conformance report as Assets/Reference/bd-v-089-ref.json. Save this exact completed prompt, the model/tool and generation/export settings, generation date, source-brief revision, and review note as Assets/Prompts/prompt-codex.md Review both images and verify real PNG background transparency, a white JPG background, and matching composition and dimensions. Mark this item complete only when both images, the JSON, and the prompt record exist and pass review. Reject and regenerate if the relationship is unclear, text is invented or unreadable, arrows are ambiguous, the result cannot be rebuilt as editable components, or any part breaches this brief.
 
 COMPLETED SHARED CONTRACT
 # OpenAI reference-image prompt
@@ -128,14 +128,14 @@ The curriculum text and [08_assets.md](08_assets.md) are the instructional sourc
 ChatGPT creates working reference material only. It must never treat its PNG, JPG, or JSON as a production asset, place them in `assets/`, or propose a direct manuscript insertion. Store outputs in the ignored local-work area:
 
 ```text
-y_assets-work (archived)/
+Assets/
 ├── references/bd-v-089-ref.png
 ├── references/bd-v-089-ref.jpg
 ├── references/bd-v-089-ref.json
 └── prompts/bd-v-089-ref.txt
 ```
 
-Replace `bd-v-089` with the lowercase stable asset ID. The later Claude implementation belongs in the tracked `y_assets (archived)/diploma/` tree. This separation keeps experiments out of version control and makes approved, editable source reviewable.
+Replace `bd-v-089` with the lowercase stable asset ID. The later Claude implementation belongs in the tracked `Assets/diploma/` tree. This separation keeps experiments out of version control and makes approved, editable source reviewable.
 
 ## Complete prompt
 
@@ -182,7 +182,7 @@ The eight legacy per-asset records above remain useful examples of the contract 
 ---
 
 Complete incorporated section 3 entry:
-| `BD-V-089` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### Media and tool fallbacks`, after the line beginning `Offline teaching and assessment are valid. Use offline knowledge checks for preparation and app…`. Replace the `BD-V-089` marker at EG line 843. | EG: 841 | Shows why changing the medium must preserve the learner’s action and observed evidence. | **Equivalent learning and evidence across delivery modes.** Branch from one competency into prepared live tool, printed screens/cards, and an approved accessible communication or control route. Reconverge at the same learner decision/action, required verification, educator observation, and standard. Show barriers such as device, connection, language, or access needs leading to a prepared equivalent, not to lower criteria. Include a no valid equivalent branch returning to preparation/practice without certification. Draw examples from the adjacent table but retain its full list. Do not turn watching a video or another learner’s performance into evidence. Caption: `Change the medium, preserve the action and evidence.` Alt text: `Live tools, paper simulations, and approved accessible routes can support the same competency when the learner still makes the required decisions and the educator can judge equivalent evidence. Without equivalence, prepare another route before certification.` Master: `y_assets (archived)/diploma/bd-v-089.svg`. | Branch-and-rejoin equivalence diagram; full width. |
+| `BD-V-089` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### Media and tool fallbacks`, after the line beginning `Offline teaching and assessment are valid. Use offline knowledge checks for preparation and app…`. Replace the `BD-V-089` marker at EG line 843. | EG: 841 | Shows why changing the medium must preserve the learner’s action and observed evidence. | **Equivalent learning and evidence across delivery modes.** Branch from one competency into prepared live tool, printed screens/cards, and an approved accessible communication or control route. Reconverge at the same learner decision/action, required verification, educator observation, and standard. Show barriers such as device, connection, language, or access needs leading to a prepared equivalent, not to lower criteria. Include a no valid equivalent branch returning to preparation/practice without certification. Draw examples from the adjacent table but retain its full list. Do not turn watching a video or another learner’s performance into evidence. Caption: `Change the medium, preserve the action and evidence.` Alt text: `Live tools, paper simulations, and approved accessible routes can support the same competency when the learner still makes the required decisions and the educator can judge equivalent evidence. Without equivalence, prepare another route before certification.` Master: `Assets/Briefs/bd-v-089-brief.md`. | Branch-and-rejoin equivalence diagram; full width. |
 
 Shared section 2 requirements:
 These requirements apply to every entry in the index.
@@ -220,7 +220,7 @@ These requirements apply to every entry in the index.
 - Use the approved My First Bitcoin visual system as the source of truth for brand and visual decisions. The curriculum text and this index remain the source of truth for instructional content.
 
 ---
-- Complete section 3 asset row from workspace/08_assets.md: | `BD-V-089` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### Media and tool fallbacks`, after the line beginning `Offline teaching and assessment are valid. Use offline knowledge checks for preparation and app…`. Replace the `BD-V-089` marker at EG line 843. | EG: 841 | Shows why changing the medium must preserve the learner’s action and observed evidence. | **Equivalent learning and evidence across delivery modes.** Branch from one competency into prepared live tool, printed screens/cards, and an approved accessible communication or control route. Reconverge at the same learner decision/action, required verification, educator observation, and standard. Show barriers such as device, connection, language, or access needs leading to a prepared equivalent, not to lower criteria. Include a no valid equivalent branch returning to preparation/practice without certification. Draw examples from the adjacent table but retain its full list. Do not turn watching a video or another learner’s performance into evidence. Caption: `Change the medium, preserve the action and evidence.` Alt text: `Live tools, paper simulations, and approved accessible routes can support the same competency when the learner still makes the required decisions and the educator can judge equivalent evidence. Without equivalence, prepare another route before certification.` Master: `y_assets (archived)/diploma/bd-v-089.svg`. | Branch-and-rejoin equivalence diagram; full width. |
+- Complete section 3 asset row from workspace/08_assets.md: | `BD-V-089` | AI | Essential | Diagram | — | Proposed in response to the request for educator diagrams. | EG only: under `### Media and tool fallbacks`, after the line beginning `Offline teaching and assessment are valid. Use offline knowledge checks for preparation and app…`. Replace the `BD-V-089` marker at EG line 843. | EG: 841 | Shows why changing the medium must preserve the learner’s action and observed evidence. | **Equivalent learning and evidence across delivery modes.** Branch from one competency into prepared live tool, printed screens/cards, and an approved accessible communication or control route. Reconverge at the same learner decision/action, required verification, educator observation, and standard. Show barriers such as device, connection, language, or access needs leading to a prepared equivalent, not to lower criteria. Include a no valid equivalent branch returning to preparation/practice without certification. Draw examples from the adjacent table but retain its full list. Do not turn watching a video or another learner’s performance into evidence. Caption: `Change the medium, preserve the action and evidence.` Alt text: `Live tools, paper simulations, and approved accessible routes can support the same competency when the learner still makes the required decisions and the educator can judge equivalent evidence. Without equivalence, prepare another route before certification.` Master: `Assets/Briefs/bd-v-089-brief.md`. | Branch-and-rejoin equivalence diagram; full width. |
 - Relevant section 8 shared-register entries from workspace/08_assets.md:
   - id: educator
   kind: actor
@@ -251,7 +251,7 @@ Offline teaching and assessment are valid. Use offline knowledge checks, printed
 
 <!-- VISUAL: BD-V-089
 ALT: Live tools, paper simulations, and approved accessible routes can support the same competency when the learner still makes the required decisions and the educator can judge equivalent evidence. Without equivalence, prepare another route before certification.
-ASSET: y_assets (archived)/diploma/bd-v-089.svg
+ASSET: Assets/Briefs/bd-v-089-brief.md
 USE: Educator-only diagram; see the asset index brief.
 -->
 
@@ -363,7 +363,7 @@ Use this schema:
 
 ## Save and review
 
-Save the transparent PNG as `y_assets-work (archived)/references/bd-v-089-ref.png`, the white-background JPG preview as `y_assets-work (archived)/references/bd-v-089-ref.jpg`, their conformance report as `y_assets-work (archived)/references/bd-v-089-ref.json`, and the completed prompt, model or tool, settings (including the JPG export), generation date, source-brief revision, and review note as `y_assets-work (archived)/prompts/bd-v-089-ref.txt`. Replace `bd-v-089` with the lowercase stable asset ID.
+Save the transparent PNG as `Assets/Reference/bd-v-089-ref.jpg`, the white-background JPG preview as `Assets/Reference/bd-v-089-ref.jpg`, their conformance report as `Assets/Reference/bd-v-089-ref.json`, and the completed prompt, model or tool, settings (including the JPG export), generation date, source-brief revision, and review note as `Assets/Prompts/prompt-codex.md Replace `bd-v-089` with the lowercase stable asset ID.
 
 Review both images against the brief. Verify actual transparent background pixels in the PNG, a solid white background in the JPG, matching dimensions and composition, and no prohibited visible content in either file. Record actual formats and background treatments in `canvas`; set the three export-verification flags to true only after checking the files. An alpha channel containing only opaque pixels does not satisfy transparency. Change a checklist item to `[X]` only after all four files exist and pass review; deferred and blocked items remain unchecked.
 

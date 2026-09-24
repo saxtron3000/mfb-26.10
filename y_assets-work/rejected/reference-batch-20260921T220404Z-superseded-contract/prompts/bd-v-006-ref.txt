@@ -64,7 +64,7 @@ Complete asset brief
 - Design brief: Use the five stages in the current list: `Learn a key idea → Show what you can explain or apply → Apply the idea → Explain in your own words → Review the connection to the next module`. Keep discussion, safe practice, and offline participation available throughout. Do not turn this learning rhythm into an assessment score or imply that self-report proves competency.
 - Format: Five-step rhythm strip; half to full width.
 
-Save the completed reference as y_assets-work (archived)/references/bd-v-006-ref.jpg and bd-v-006-ref.json. Save this exact completed prompt, the model/tool and settings, generation date, source-brief revision, and review note as y_assets-work (archived)/prompts/bd-v-006-ref.txt. Reject and regenerate if the relationship is unclear, text is invented or unreadable, arrows are ambiguous, the result cannot be rebuilt as editable components, or any part breaches this brief.
+Save the completed reference as Assets/Reference/bd-v-006-ref.jpg and bd-v-006-ref.json. Save this exact completed prompt, the model/tool and settings, generation date, source-brief revision, and review note as Assets/Prompts/prompt-codex.md Reject and regenerate if the relationship is unclear, text is invented or unreadable, arrows are ambiguous, the result cannot be rebuilt as editable components, or any part breaches this brief.
 
 COMPLETED SHARED CONTRACT FROM DOCUMENT 22
 # OpenAI reference-image prompt
@@ -82,13 +82,13 @@ The curriculum text and [08_assets.md](08_assets.md) are the instructional sourc
 ChatGPT creates working reference material only. It must never treat its JPG or JSON as a production asset, place either in `assets/`, or propose a direct manuscript insertion. Store outputs in the ignored local-work area:
 
 ```text
-y_assets-work (archived)/
+Assets/
 ├── references/bd-v-000-ref.jpg
 ├── references/bd-v-000-ref.json
 └── prompts/bd-v-000-ref.txt
 ```
 
-Replace `bd-v-000` with the lowercase stable asset ID. The later Claude implementation belongs in the tracked `y_assets (archived)/diploma/` tree. This separation keeps experiments out of version control and makes approved, editable source reviewable.
+Replace `bd-v-000` with the lowercase stable asset ID. The later Claude implementation belongs in the tracked `Assets/diploma/` tree. This separation keeps experiments out of version control and makes approved, editable source reviewable.
 
 ## Complete prompt
 
@@ -309,7 +309,7 @@ Use this schema:
 
 ## Save and review
 
-Save the JPG as `y_assets-work (archived)/references/bd-v-000-ref.jpg`, its conformance report as `y_assets-work (archived)/references/bd-v-000-ref.json`, and the completed prompt, model or tool, settings, generation date, source-brief revision, and review note as `y_assets-work (archived)/prompts/bd-v-000-ref.txt`. Replace `bd-v-000` with the lowercase stable asset ID.
+Save the JPG as `Assets/Reference/bd-v-000-ref.jpg`, its conformance report as `Assets/Reference/bd-v-000-ref.json`, and the completed prompt, model or tool, settings, generation date, source-brief revision, and review note as `Assets/Prompts/prompt-codex.md Replace `bd-v-000` with the lowercase stable asset ID.
 
 The report is deliberately smaller than the earlier descriptive schema. Element identity, relationships, reading order, labels, and prohibitions live in the specification, so the report carries only placement, treatment, and deviations. At review, `textPresentInImage` must be empty. `elementsAdded` must be empty or justified.
 

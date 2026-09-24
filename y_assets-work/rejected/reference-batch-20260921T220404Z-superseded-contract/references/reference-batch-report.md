@@ -137,207 +137,207 @@ Every complete source brief, including qualifications, verification duties, capt
 
 ## All created file paths
 
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-001-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-001-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-002-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-002-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-076-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-076-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-077-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-077-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-006-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-006-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-003-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-003-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-004-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-004-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-005-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-005-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-007-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-007-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-008-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-008-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-009-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-009-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-010-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-010-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-011-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-011-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-012-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-012-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-013-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-013-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-014-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-014-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-015-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-015-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-016-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-016-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-017-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-017-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-018-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-018-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-020-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-020-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-021-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-021-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-019-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-019-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-022-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-022-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-023-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-023-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-024-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-024-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-027-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-027-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-026-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-026-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-030-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-030-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-031-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-031-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-032-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-032-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-028-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-028-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-029-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-029-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-033-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-033-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-025-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-025-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-034-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-034-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-035-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-035-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-036-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-036-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-078-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-078-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-037-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-037-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-038-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-038-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-079-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-079-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-039-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-039-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-040-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-040-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-042-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-042-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-041-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-041-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-043-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-043-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-044-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-044-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-045-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-045-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-046-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-046-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-047-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-047-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-048-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-048-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-049-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-049-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-050-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-050-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-051-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-051-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-052-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-052-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-053-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-053-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-055-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-055-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-054-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-054-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-056-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-056-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-057-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-057-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-058-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-058-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-080-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-080-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-059-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-059-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-060-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-060-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-061-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-061-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-062-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-062-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-063-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-063-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-064-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-064-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-065-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-065-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-066-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-066-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-067-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-067-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-068-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-068-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-069-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-069-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-071-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-071-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-072-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-072-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-073-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-073-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-074-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-074-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-081-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-081-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-082-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-082-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-083-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-083-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-084-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-084-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-085-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-085-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-086-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-086-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-087-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-087-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-099-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-099-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-088-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-088-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-101-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-101-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-089-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-089-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-090-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-090-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-100-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-100-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-092-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-092-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-091-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-091-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-093-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-093-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-094-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-094-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-095-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-095-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-096-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-096-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-097-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-097-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/bd-v-098-ref.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/prompts/bd-v-098-ref.txt`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/reference-batch-completion-log.jsonl`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/reference-batch-state.json`
-- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/references/reference-batch-report.md`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-001-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-002-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-076-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-077-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-006-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-003-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-004-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-005-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-007-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-008-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-009-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-010-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-011-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-012-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-013-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-014-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-015-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-016-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-017-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-018-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-020-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-021-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-019-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-022-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-023-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-024-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-027-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-026-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-030-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-031-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-032-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-028-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-029-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-033-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-025-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-034-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-035-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-036-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-078-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-037-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-038-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-079-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-039-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-040-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-042-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-041-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-043-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-044-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-045-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-046-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-047-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-048-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-049-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-050-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-051-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-052-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-053-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-055-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-054-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-056-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-057-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-058-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-080-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-059-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-060-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-061-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-062-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-063-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-064-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-065-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-066-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-067-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-068-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-069-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-071-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-072-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-073-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-074-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-081-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-082-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-083-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-084-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-085-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-086-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-087-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-099-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-088-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-101-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-089-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-090-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-100-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-092-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-091-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-093-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-094-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-095-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-096-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-097-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/bd-v-098-ref.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/reference-batch-completion-log.jsonl`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/reference-batch-state.json`
+- `/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/reference-batch-report.md`
 
 ## Resume
 

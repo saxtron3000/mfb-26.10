@@ -79,7 +79,7 @@ REFERENCE PROMPT RECORD
   },
   "toolInput": {
     "referenced_image_paths": [
-      "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-011-attempt-01.png"
+      "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-011-attempt-01.png"
     ]
   }
 }
@@ -110,7 +110,7 @@ Complete asset brief
 - Design brief: Use two parallel images of the same quantity of clean water. Panel 1: near a safe public source, readily available, with an illustrative lower-price label. Panel 2: during a shortage, limited access and urgent need, with an illustrative higher-price label. State clearly that availability, need, and circumstances change value and price; do not imply that water scarcity or high prices are ethically acceptable. Keep people, setting, language, and price units editable for localization.
 - Format: Two-panel contextual-value illustration; half to full width.
 
-Save the transparent reference as y_assets-work (archived)/references/bd-v-011-ref.png, its white-background preview as y_assets-work (archived)/references/bd-v-011-ref.jpg, and their conformance report as y_assets-work (archived)/references/bd-v-011-ref.json. Save this exact completed prompt, the model/tool and generation/export settings, generation date, source-brief revision, and review note as y_assets-work (archived)/prompts/bd-v-011-ref.txt. Review both images and verify real PNG background transparency, a white JPG background, and matching composition and dimensions. Mark this item complete only when both images, the JSON, and the prompt record exist and pass review. Reject and regenerate if the relationship is unclear, text is invented or unreadable, arrows are ambiguous, the result cannot be rebuilt as editable components, or any part breaches this brief.
+Save the transparent reference as Assets/Reference/bd-v-011-ref.jpg, its white-background preview as Assets/Reference/bd-v-011-ref.jpg, and their conformance report as Assets/Reference/bd-v-011-ref.json. Save this exact completed prompt, the model/tool and generation/export settings, generation date, source-brief revision, and review note as Assets/Prompts/prompt-codex.md Review both images and verify real PNG background transparency, a white JPG background, and matching composition and dimensions. Mark this item complete only when both images, the JSON, and the prompt record exist and pass review. Reject and regenerate if the relationship is unclear, text is invented or unreadable, arrows are ambiguous, the result cannot be rebuilt as editable components, or any part breaches this brief.
 
 COMPLETED SHARED CONTRACT
 # OpenAI reference-image prompt
@@ -130,14 +130,14 @@ The curriculum text and [08_assets.md](08_assets.md) are the instructional sourc
 ChatGPT creates working reference material only. It must never treat its PNG, JPG, or JSON as a production asset, place them in `assets/`, or propose a direct manuscript insertion. Store outputs in the ignored local-work area:
 
 ```text
-y_assets-work (archived)/
+Assets/
 ├── references/bd-v-011-ref.png
 ├── references/bd-v-011-ref.jpg
 ├── references/bd-v-011-ref.json
 └── prompts/bd-v-011-ref.txt
 ```
 
-Replace `bd-v-011` with the lowercase stable asset ID. The later Claude implementation belongs in the tracked `y_assets (archived)/diploma/` tree. This separation keeps experiments out of version control and makes approved, editable source reviewable.
+Replace `bd-v-011` with the lowercase stable asset ID. The later Claude implementation belongs in the tracked `Assets/diploma/` tree. This separation keeps experiments out of version control and makes approved, editable source reviewable.
 
 ## Complete prompt
 
@@ -233,7 +233,7 @@ The value of a good is not contained inside the object. People value goods accor
 
 <!-- VISUAL: BD-V-011
 ALT: The same clean water shown as more available near a safe source and more valuable during a shortage.
-ASSET: y_assets (archived)/diploma/bd-v-011.svg
+ASSET: Assets/Briefs/bd-v-011-brief.md
 -->
 
 Exchange happens when both sides prefer what they receive to what they give up. They do not need to agree that the two items have the same personal value. They only need to agree to the terms.
@@ -246,7 +246,7 @@ Three ideas help explain everyday choices:
 
 <!-- VISUAL: BD-V-012
 ALT: Everyday choice showing opportunity cost, time preference, and trade-off.
-ASSET: y_assets (archived)/diploma/bd-v-012.svg
+ASSET: Assets/Briefs/bd-v-012-brief.md
 -->
 
 Scarcity alone does not guarantee value. An item may be rare and still have no demand. A useful monetary asset combines limited supply with properties and demand that make people willing to hold or exchange it.
@@ -355,7 +355,7 @@ Use this schema:
 
 ## Save and review
 
-Save the transparent PNG as `y_assets-work (archived)/references/bd-v-011-ref.png`, the white-background JPG preview as `y_assets-work (archived)/references/bd-v-011-ref.jpg`, their conformance report as `y_assets-work (archived)/references/bd-v-011-ref.json`, and the completed prompt, model or tool, settings (including the JPG export), generation date, source-brief revision, and review note as `y_assets-work (archived)/prompts/bd-v-011-ref.txt`. Replace `bd-v-011` with the lowercase stable asset ID.
+Save the transparent PNG as `Assets/Reference/bd-v-011-ref.jpg`, the white-background JPG preview as `Assets/Reference/bd-v-011-ref.jpg`, their conformance report as `Assets/Reference/bd-v-011-ref.json`, and the completed prompt, model or tool, settings (including the JPG export), generation date, source-brief revision, and review note as `Assets/Prompts/prompt-codex.md Replace `bd-v-011` with the lowercase stable asset ID.
 
 Review both images against the brief. Verify actual transparent background pixels in the PNG, a solid white background in the JPG, matching dimensions and composition, and no prohibited visible content in either file. Record actual formats and background treatments in `canvas`; set the three export-verification flags to true only after checking the files. An alpha channel containing only opaque pixels does not satisfy transparency. Change a checklist item to `[X]` only after all four files exist and pass review; deferred and blocked items remain unchecked.
 

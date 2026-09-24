@@ -77,7 +77,7 @@ REFERENCE PROMPT RECORD
   },
   "toolInput": {
     "referenced_image_paths": [
-      "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/y_assets-work (archived)/rejected/bd-v-035-attempt-01.png"
+      "/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/rejected/bd-v-035-attempt-01.png"
     ]
   }
 }
@@ -108,7 +108,7 @@ Complete asset brief
 - Design brief: Show the Bitcoin ledger as the record of spendable outputs; the wallet holding or managing keys and constructing instructions; the user authorizing an action; and the network verifying it. Do not draw coins sitting inside a phone or hardware device.
 - Format: Conceptual layer diagram; full width.
 
-Save the transparent reference as y_assets-work (archived)/references/bd-v-035-ref.png, its white-background preview as y_assets-work (archived)/references/bd-v-035-ref.jpg, and their conformance report as y_assets-work (archived)/references/bd-v-035-ref.json. Save this exact completed prompt, the model/tool and generation/export settings, generation date, source-brief revision, and review note as y_assets-work (archived)/prompts/bd-v-035-ref.txt. Review both images and verify real PNG background transparency, a white JPG background, and matching composition and dimensions. Mark this item complete only when both images, the JSON, and the prompt record exist and pass review. Reject and regenerate if the relationship is unclear, text is invented or unreadable, arrows are ambiguous, the result cannot be rebuilt as editable components, or any part breaches this brief.
+Save the transparent reference as Assets/Reference/bd-v-035-ref.jpg, its white-background preview as Assets/Reference/bd-v-035-ref.jpg, and their conformance report as Assets/Reference/bd-v-035-ref.json. Save this exact completed prompt, the model/tool and generation/export settings, generation date, source-brief revision, and review note as Assets/Prompts/prompt-codex.md Review both images and verify real PNG background transparency, a white JPG background, and matching composition and dimensions. Mark this item complete only when both images, the JSON, and the prompt record exist and pass review. Reject and regenerate if the relationship is unclear, text is invented or unreadable, arrows are ambiguous, the result cannot be rebuilt as editable components, or any part breaches this brief.
 
 COMPLETED SHARED CONTRACT
 # OpenAI reference-image prompt
@@ -128,14 +128,14 @@ The curriculum text and [08_assets.md](08_assets.md) are the instructional sourc
 ChatGPT creates working reference material only. It must never treat its PNG, JPG, or JSON as a production asset, place them in `assets/`, or propose a direct manuscript insertion. Store outputs in the ignored local-work area:
 
 ```text
-y_assets-work (archived)/
+Assets/
 ├── references/bd-v-035-ref.png
 ├── references/bd-v-035-ref.jpg
 ├── references/bd-v-035-ref.json
 └── prompts/bd-v-035-ref.txt
 ```
 
-Replace `bd-v-035` with the lowercase stable asset ID. The later Claude implementation belongs in the tracked `y_assets (archived)/diploma/` tree. This separation keeps experiments out of version control and makes approved, editable source reviewable.
+Replace `bd-v-035` with the lowercase stable asset ID. The later Claude implementation belongs in the tracked `Assets/diploma/` tree. This separation keeps experiments out of version control and makes approved, editable source reviewable.
 
 ## Complete prompt
 
@@ -235,7 +235,7 @@ What would happen if your phone stopped working? The Bitcoin record would still 
 
 <!-- VISUAL: BD-V-035
 ALT: Wallet interface coordinating keys and transaction instructions while bitcoin remains recorded on the ledger.
-ASSET: y_assets (archived)/diploma/bd-v-035.svg
+ASSET: Assets/Briefs/bd-v-035-brief.md
 -->
 
 The first question about any wallet is: **who controls the keys?** Before using a tool, check who can authorize a payment, how access is recovered, and which payment methods it supports. Prefer well-established open-source wallet software where appropriate because publicly inspectable code can improve transparency.This is a judgment, not a rule or a guarantee: every wallet has trade-offs, and open source alone does not prove that a tool is safe, maintained, correctly installed, or suitable for your needs.
@@ -346,7 +346,7 @@ Use this schema:
 
 ## Save and review
 
-Save the transparent PNG as `y_assets-work (archived)/references/bd-v-035-ref.png`, the white-background JPG preview as `y_assets-work (archived)/references/bd-v-035-ref.jpg`, their conformance report as `y_assets-work (archived)/references/bd-v-035-ref.json`, and the completed prompt, model or tool, settings (including the JPG export), generation date, source-brief revision, and review note as `y_assets-work (archived)/prompts/bd-v-035-ref.txt`. Replace `bd-v-035` with the lowercase stable asset ID.
+Save the transparent PNG as `Assets/Reference/bd-v-035-ref.jpg`, the white-background JPG preview as `Assets/Reference/bd-v-035-ref.jpg`, their conformance report as `Assets/Reference/bd-v-035-ref.json`, and the completed prompt, model or tool, settings (including the JPG export), generation date, source-brief revision, and review note as `Assets/Prompts/prompt-codex.md Replace `bd-v-035` with the lowercase stable asset ID.
 
 Review both images against the brief. Verify actual transparent background pixels in the PNG, a solid white background in the JPG, matching dimensions and composition, and no prohibited visible content in either file. Record actual formats and background treatments in `canvas`; set the three export-verification flags to true only after checking the files. An alpha channel containing only opaque pixels does not satisfy transparency. Change a checklist item to `[X]` only after all four files exist and pass review; deferred and blocked items remain unchecked.
 
