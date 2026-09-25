@@ -9,11 +9,11 @@ Create one complete, production-ready design brief for every `BD-V-###` asset in
 Read these sources before writing any brief:
 
 1. `workspace/08_assets.md` — authoritative asset register, shared rules, asset rows, placement rules, and workflow.
-2. `Assets/style/STYLE.md` — required visual system, palette, type, geometry, patterns, production constraints, and pre-flight checks.
-3. `Assets/style/CHARACTERS.md` — required cast identity and permitted people/prop usage, when people are relevant.
-4. `Assets/style/layouts/README.md` — required layout skeleton selection and surface constraints.
+2. `assets/style/STYLE.md` — required visual system, palette, type, geometry, patterns, production constraints, and pre-flight checks.
+3. `assets/style/CHARACTERS.md` — required cast identity and permitted people/prop usage, when people are relevant.
+4. `assets/style/layouts/README.md` — required layout skeleton selection and surface constraints.
 5. The current Student and Educator Guide files named in `workspace/08_assets.md` — use these only to capture the exact heading and nearby placement-marker text for every listed placement.
-6. `Assets/assets-list.md` — existing production log and the required location to record each successfully created brief.
+6. `assets/assets-list.md` — existing production log and the required location to record each successfully created brief.
 
 Treat `workspace/08_assets.md` as the instructional authority. Style references govern visual treatment and must not change the asset’s approved purpose, required content, safety limits, or placement. If sources conflict, preserve the asset-index requirement, document the conflict in the brief, and do not invent a resolution that changes the curriculum.
 
@@ -22,7 +22,7 @@ Treat `workspace/08_assets.md` as the instructional authority. Style references 
 1. Extract every actual asset row whose ID exactly matches `BD-V-###` from the visual index. Ignore section-heading rows and examples.
 2. Sort IDs by their three-digit number, not by visual-index position, guide section, filename order, or priority.
 3. Process one asset completely before beginning the next. Re-run safely: inspect the destination first and update an existing brief rather than creating a duplicate.
-4. Write each result to `Assets/briefs/bd-v-###-brief.md`, using the lowercase, zero-padded ID. Create no per-asset folders or prompts.
+4. Write each result to `assets/briefs/bd-v-###-brief.md`, using the lowercase, zero-padded ID. Create no per-asset folders or prompts.
 5. A deferred, conditional, supporting, or non-production asset still needs a brief. State its status and its exact production restriction; never silently omit it.
 
 ## Required brief content
@@ -81,7 +81,7 @@ The heading and nearby text above are the placement authority; register line num
 
 ## Required visual treatment
 
-[Apply only the relevant requirements from `Assets/style/`. Name the chosen pattern and layout, palette roles, typography/copy treatment, 13° geometry and connector/icon rules, emphasis treatment, table/data rules when applicable, and character IDs/poses/props when people appear. Use the character bible only when people are required. Include no decorative styling that does not teach the stated point.]
+[Apply only the relevant requirements from `assets/style/`. Name the chosen pattern and layout, palette roles, typography/copy treatment, 13° geometry and connector/icon rules, emphasis treatment, table/data rules when applicable, and character IDs/poses/props when people appear. Use the character bible only when people are required. Include no decorative styling that does not teach the stated point.]
 
 ## Safety, exclusions, and qualifications
 
@@ -123,8 +123,8 @@ Apply the style guide concretely, rather than inserting a generic “follow styl
 After writing and reviewing each brief:
 
 1. Verify the filename, H1 ID, source-row ID, and asset-list row match exactly.
-2. Update that asset’s `Brief` cell in `Assets/assets-list.md` to `Created — \`Assets/briefs/bd-v-###-brief.md\``. Replace only the brief-status text; preserve the row’s other workflow columns.
+2. Update that asset’s `Brief` cell in `assets/assets-list.md` to `Created — \`assets/briefs/bd-v-###-brief.md\``. Replace only the brief-status text; preserve the row’s other workflow columns.
 3. Recalculate the `Design briefs: N created` total to equal the number of asset-list rows marked created with an existing matching brief file. Do not claim a file is created until it exists and passes the completion criteria.
 4. At batch end, confirm that every indexed ID has exactly one matching brief, there are no unlogged newly created briefs, the log paths exist, and the files were processed in numeric order. Report any deferred or blocked IDs separately, with their reason.
 
-Do not modify `workspace/08_assets.md`, guide content, style sources, JSON references, generated images, VM status, or MG-package status while performing this task. If filesystem writes are unavailable, return the completed brief(s) and the exact `Assets/assets-list.md` changes required, but do not claim they were saved.
+Do not modify `workspace/08_assets.md`, guide content, style sources, JSON references, generated images, VM status, or MG-package status while performing this task. If filesystem writes are unavailable, return the completed brief(s) and the exact `assets/assets-list.md` changes required, but do not claim they were saved.

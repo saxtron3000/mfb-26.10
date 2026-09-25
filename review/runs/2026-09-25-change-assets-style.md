@@ -17,7 +17,7 @@
 
 | ID | Status | Severity | Release impact | Summary | Evidence | Run follow-up |
 | --- | --- | --- | --- | --- | --- | --- |
-| ACT-028 | `open` | `high` | `publication blocker` | The new brief-path marker syntax makes a generic template look like a finished visual reference. | Both changed guides, `ASSET` lines; `Assets/assets-list.md`. | Use a clear production status and a final asset reference only after approval. |
+| ACT-028 | `open` | `high` | `publication blocker` | The new brief-path marker syntax makes a generic template look like a finished visual reference. | Both changed guides, `ASSET` lines; `assets/assets-list.md`. | Use a clear production status and a final asset reference only after approval. |
 | ACT-029 | `open` | `medium` | `maintenance` | Four new source-map labels point to absent workspace documents, so the reading path is not usable. | `workspace/00_index.md`, `## Recommended reading order`. | Repair the paths or add the approved documents. |
 | ACT-030 | `open` | `low` | `maintenance` | `workspace/27_assets-style.md` begins with stray formatting characters before its H1. | File opening line. | Repair its Markdown heading and clarify its authority status. |
 

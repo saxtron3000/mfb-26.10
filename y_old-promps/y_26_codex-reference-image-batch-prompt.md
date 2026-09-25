@@ -19,7 +19,7 @@ The following source files must be available to Codex before starting:
 Codex must write all batch outputs inside:
 
 ```text
-/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/
+/Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/assets/
 ├── references/
 ├── prompts/
 └── rejected/
@@ -61,15 +61,15 @@ For each asset:
    Render no text, letters, numerals, labels, QR codes, logos, arrows,
    connectors, borders, or decorative characters in either image. Record all required text,
    connectors, and placements in the JSON report for later editable coding.
-3. Save the PNG as /Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/<asset-id-lowercase>-ref.png
-   and the JPG preview as /Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/<asset-id-lowercase>-ref.jpg.
+3. Save the PNG as /Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/assets/reference/<asset-id-lowercase>-ref.png
+   and the JPG preview as /Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/assets/reference/<asset-id-lowercase>-ref.jpg.
 4. Save the JSON conformance report as
-   /Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Reference/<asset-id-lowercase>-ref.json. It must use the
+   /Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/assets/reference/<asset-id-lowercase>-ref.json. It must use the
    schema in 22: assetId, specVersion, canvas, placement, conformance, and
    unresolved. Record both file formats and background treatments in canvas.
 5. Save the exact completed prompt, model/tool, generation and JPG export settings, generation date,
    source-brief revision, and review note as
-   /Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/Assets/Prompts/prompt-codex.md
+   /Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/assets/prompts/prompt-codex.md
 6. Review both images against the brief. Verify actual PNG background
    transparency, a solid white JPG background, and matching dimensions and
    composition. Record these checks in the JSON conformance report.

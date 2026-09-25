@@ -8,16 +8,16 @@ The complete entry in [08_assets.md](08_assets.md) is the instructional source o
 
 ## Folder routing
 
-Claude consumes the approved reference materials from the ignored `Assets/` area, but must create its editable production bundle only in the tracked `Assets/diploma/` tree. Choose the destination from the asset entry's placement(s):
+Claude consumes the approved reference materials from the ignored `assets/` area, but must create its editable production bundle only in the tracked `assets/diploma/` tree. Choose the destination from the asset entry's placement(s):
 
 ```text
-Assets/diploma/
+assets/diploma/
 ├── student-guide/bd-v-000/  # Student Guide only
 ├── educator-guide/bd-v-000/ # Educator Guide only
 └── shared/bd-v-000/         # reused by both guides
 ```
 
-Use `shared/` only when the same approved implementation serves both guides. Keep reference PNGs, JPG previews, JSON conformance reports, prompts, model settings, and rejected concepts in `Assets/`; they are references, not production deliverables. Do not create a final source bundle at `Assets/diploma/bd-v-000/`: flat paths are handoff examples for publication pipelines, not the canonical editable-project location.
+Use `shared/` only when the same approved implementation serves both guides. Keep reference PNGs, JPG previews, JSON conformance reports, prompts, model settings, and rejected concepts in `assets/`; they are references, not production deliverables. Do not create a final source bundle at `assets/diploma/bd-v-000/`: flat paths are handoff examples for publication pipelines, not the canonical editable-project location.
 
 ## How to read the asset entry
 
@@ -156,7 +156,7 @@ Implementation rules
 
 Sanity-ready deliverables
 Create the source bundle in the appropriate tracked project folder:
-`Assets/diploma/<student-guide|educator-guide|shared>/bd-v-000/`.
+`assets/diploma/<student-guide|educator-guide|shared>/bd-v-000/`.
 
 Read the supplied asset entry before choosing this folder. If it has placements in both guides, use `shared/`; otherwise use the guide named in its placement. Do not move or copy the working reference files into the production bundle.
 

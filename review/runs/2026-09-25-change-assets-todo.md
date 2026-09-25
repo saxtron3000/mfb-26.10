@@ -17,7 +17,7 @@
 
 | ID | Status | Severity | Release impact | Summary | Evidence | Run follow-up |
 | --- | --- | --- | --- | --- | --- | --- |
-| ACT-013 | `in-progress` | `medium` | `maintenance` | Planning controls now have a generic brief inventory, but no final assets. | [asset production log](../../Assets/assets-list.md) | Kept open and refreshed evidence. |
+| ACT-013 | `in-progress` | `medium` | `maintenance` | Planning controls now have a generic brief inventory, but no final assets. | [asset production log](../../assets/assets-list.md) | Kept open and refreshed evidence. |
 | ACT-019 | `blocked` | `high` | `publication blocker` | Final verification now also depends on resolving the new visual-production blocker. | [ACT-028](../review_todo.md#act-028-produce-or-explicitly-defer-every-guide-visual) | Dependency list refreshed. |
 | ACT-028 | `open` | `high` | `publication blocker` | The new guide marker paths reference generic briefs, not approved final visuals. | [alignment run](2026-09-25-change-assets-alignment.md#findings-created-or-updated) | Produce or explicitly defer visuals. |
 | ACT-029 | `open` | `medium` | `maintenance` | The source map adds four paths that do not exist. | [alignment run](2026-09-25-change-assets-alignment.md#findings-created-or-updated) | Repair the map or restore authoritative documents. |

@@ -65,10 +65,10 @@ Read the working documents in this order when you need the full design context:
 | 18 | [`18_horizon.md`](18_horizon.md) | Review post-release candidates, programme boundaries, and future decision gates. |
 | 20a | [`20_links-internal.md`](20_links-internal.md) | Review links on myfirstbitcoin.org and its subdomains used in both guides. |
 | 20b | [`20_links-external.md`](20_links-external.md) | Review other web links and local document links used in both guides. |
-| 22 | [`prompt-00-brief.md`](../Assets/prompts/prompt-00-brief.md) | Create or revise a production-ready design brief for an asset. |
-| 23 | [`prompt-01-json.md`](../Assets/prompts/prompt-01-json.md) | Create and review the structured JSON reference record for an asset. |
-| 24 | [`prompt-02-jpg.md`](../Assets/prompts/prompt-02-jpg.md) | Create and review the JPEG reference image for an asset. |
-| 25 | [`prompt-03-mg.md`](../Assets/prompts/prompt-03-mg.md) | Build the editable Claude Design and Sanity production asset from its approved inputs. |
+| 22 | [`prompt-00-brief.md`](../assets/prompts/prompt-00-brief.md) | Create or revise a production-ready design brief for an asset. |
+| 23 | [`prompt-01-json.md`](../assets/prompts/prompt-01-json.md) | Create and review the structured JSON reference record for an asset. |
+| 24 | [`prompt-02-jpg.md`](../assets/prompts/prompt-02-jpg.md) | Create and review the JPEG reference image for an asset. |
+| 25 | [`prompt-03-mg.md`](../assets/prompts/prompt-03-mg.md) | Build the editable Claude Design and Sanity production asset from its approved inputs. |
 
 Detailed activities are available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/).
 

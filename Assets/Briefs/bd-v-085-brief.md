@@ -5,9 +5,9 @@ This neutral template intentionally contains no asset-specific source data. Popu
 ## Source of truth
 
 - Use `workspace/08_assets.md` for the approved asset definition, purpose, required format, description, placement, notes, and safety boundaries.
-- Use `Assets/style/STYLE.md`, `Assets/style/CHARACTERS.md` when people appear, and `Assets/style/layouts/README.md` for the applicable visual treatment.
+- Use `assets/style/STYLE.md`, `assets/style/CHARACTERS.md` when people appear, and `assets/style/layouts/README.md` for the applicable visual treatment.
 - Use the relevant Student Guide and Educator Guide text to confirm placement headings and nearby markers.
-- Record a completed brief location in `Assets/assets-list.md` only after the brief has been reviewed and saved.
+- Record a completed brief location in `assets/assets-list.md` only after the brief has been reviewed and saved.
 
 ## Required content when populated
 
@@ -32,4 +32,4 @@ This neutral template intentionally contains no asset-specific source data. Popu
 
 ## Review and logging
 
-Before marking a brief complete, verify that it faithfully reflects the current asset-index record and applicable style sources, includes all placement and safety requirements, and has meaningful alt text and production checks. Then record its exact path in the matching `Brief` cell of `Assets/assets-list.md` and reconcile the design-brief total.
+Before marking a brief complete, verify that it faithfully reflects the current asset-index record and applicable style sources, includes all placement and safety requirements, and has meaningful alt text and production checks. Then record its exact path in the matching `Brief` cell of `assets/assets-list.md` and reconcile the design-brief total.

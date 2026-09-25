@@ -8,19 +8,19 @@ Create one JPEG reference image for a later editable micrographic implementation
 
 For one asset, read:
 
-1. `Assets/briefs/bd-v-###-brief.md`
-2. `Assets/reference/bd-v-###-ref.json`
+1. `assets/briefs/bd-v-###-brief.md`
+2. `assets/reference/bd-v-###-ref.json`
 
 The brief controls instructional intent, required content, safety, exclusions, and localization. The JSON record controls the resolved composition, reading order, elements, and visual treatment. If they conflict, are incomplete, or leave a visual decision unclear, consult `workspace/08_assets.md` and follow its relevant asset entry.
 
-Consult `Assets/style/` only when the inputs or asset index require additional visual clarification. Use only the needed source: `STYLE.md` for overall visual direction; `CHARACTERS.md` and its bible for named people; and `layouts/README.md` for a specified layout pattern. Style must not override the brief or asset index.
+Consult `assets/style/` only when the inputs or asset index require additional visual clarification. Use only the needed source: `STYLE.md` for overall visual direction; `CHARACTERS.md` and its bible for named people; and `layouts/README.md` for a specified layout pattern. Style must not override the brief or asset index.
 
 ## Generation prompt
 
 ```text
 Create one JPG reference image for a My First Bitcoin Bitcoin Diploma micrographic.
 
-Read the attached asset brief and JSON reference record before generating. Follow the brief for required meaning, safety, exclusions, and localization; use the JSON for the exact composition, elements, relationships, reading order, and visual treatment. If they conflict or are incomplete, consult the relevant entry in workspace/08_assets.md. Use Assets/style/ only when needed to clarify visual direction.
+Read the attached asset brief and JSON reference record before generating. Follow the brief for required meaning, safety, exclusions, and localization; use the JSON for the exact composition, elements, relationships, reading order, and visual treatment. If they conflict or are incomplete, consult the relevant entry in workspace/08_assets.md. Use assets/style/ only when needed to clarify visual direction.
 
 Create exactly one low-resolution JPG at the aspect ratio and orientation in the JSON. Use a solid white (#FFFFFF) background. The JPG is a private visual reference for a later editable micrographic, not a production or Sanity asset.
 
@@ -35,11 +35,11 @@ Never show a real or plausible seed phrase, private key, payable address, learne
 
 ## Save and log
 
-Save the reviewed file as `Assets/reference/bd-v-###-ref.jpg`, using the lowercase three-digit asset ID. Do not create a PNG, a second preview, a conformance report, a per-asset prompt, or any production/Sanity file.
+Save the reviewed file as `assets/reference/bd-v-###-ref.jpg`, using the lowercase three-digit asset ID. Do not create a PNG, a second preview, a conformance report, a per-asset prompt, or any production/Sanity file.
 
 After confirming that the JPG exists, has a white background, matches the brief and JSON, and contains no prohibited visible content:
 
-1. Change that asset’s `JPEG reference` cell in `Assets/assets-list.md` to `Created — \`Assets/reference/bd-v-###-ref.jpg\``.
+1. Change that asset’s `JPEG reference` cell in `assets/assets-list.md` to `Created — \`assets/reference/bd-v-###-ref.jpg\``.
 2. Update the JPEG-reference total so it equals the number of created JPEG-reference rows.
 
 If generation is blocked, do not mark the JPEG as created. Record `Blocked — [short reason]` in that asset’s JPEG-reference cell and leave the total unchanged.

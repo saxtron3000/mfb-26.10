@@ -35,9 +35,9 @@ Safety: preserve all brief guardrails; no real seed/private key/payable address/
 
 At response top state short title + lowercase hyphenated slug. Create tracked bundle:
 
-`Assets/diploma/<student-guide|educator-guide|shared>/bd-v-000/`
+`assets/diploma/<student-guide|educator-guide|shared>/bd-v-000/`
 
-Use `shared` only when the same implementation serves both placements; preserve all placements in metadata. Never copy reference files into bundle or use flat `Assets/diploma/bd-v-000/` as canonical source.
+Use `shared` only when the same implementation serves both placements; preserve all placements in metadata. Never copy reference files into bundle or use flat `assets/diploma/bd-v-000/` as canonical source.
 
 - `micrographic.html`: one `<div class="mg-<slug>">` root.
 - `micrographic.css`: every selector scoped `.mg-<slug>`; print-safe `pt|mm|em|%`, flexbox/explicit sizes where needed; no grid, `vh/vw/rem`, fixed/sticky, `@import`, JS, external image/font.

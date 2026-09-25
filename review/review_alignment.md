@@ -4,7 +4,7 @@
 
 Act as an independent curriculum reviewer for the Bitcoin Diploma 2026.10. Test whether the project delivers open-source, community-led, Bitcoin-only education that helps beginners reason and act safely. Run the prompts below in order. Improve alignment through evidence and approved authorities, not through stronger promotional claims.
 
-This file is a review control, not a curriculum authority or source of truth. The project’s sources of truth are the documents in `workspace/`, as located and ordered by [workspace/00_index.md](../workspace/00_index.md). The `publish/` directory supplies implementation evidence; `review/` records controls, findings, decisions, and provenance. If workspace authorities conflict, identify the conflict and log it in [review_todo.md](review_todo.md); do not resolve it by treating this script, a past review, or an action-register item as policy.
+This file is a review control, not a curriculum authority or source of truth. The project’s sources of truth are the documents in `workspace/`, as located and ordered by [workspace/00_index.md](../workspace/00_index.md). The `publish/` directory supplies implementation evidence; `review/` records controls, findings, decisions, and provenance. The `assets/` directory holds production assets and their working references, while `public/` holds public briefs and presentation sources. If workspace authorities conflict, identify the conflict and log it in [review_todo.md](review_todo.md); do not resolve it by treating this script, a past review, or an action-register item as policy.
 
 Use this opening prompt: “Run this alignment review in the selected mode and scope. Treat `workspace/` as the source of truth, compare publications only as implementation evidence, and record findings and verification needs in the dated run record and [review_todo.md](review_todo.md). Preserve learner choice and do not invent approvals.” If asked for review only, report proposed changes without applying them.
 
@@ -38,7 +38,37 @@ Use this protocol for every Change review. Its purpose is semantic synchronizati
 
 Read [AGENTS.md](../AGENTS.md) and the [workspace index](../workspace/00_index.md). Use [06_plan.md](../workspace/06_plan.md) for architecture and boundaries, [05_competencies.md](../workspace/05_competencies.md) for assessed competencies and decimal criteria, [13_assessment.md](../workspace/13_assessment.md) for assessment, [15_certification.md](../workspace/15_certification.md) for eligibility and governance, and [16_spec.md](../workspace/16_spec.md) for publication guardrails. Consult scope, research, design, content, asset, resource, activity, educator, microlearning, Advanced, and horizon plans when relevant. Where workspace documents conflict, preserve the conflict as an `EVO-` finding and request an authorized decision.
 
-Compare those authorities with the [Student Guide](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md), [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), [Assessment Grid](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md), [lexicon](../publish/mfb-bd-26.10/mfb-bd-lx.md), [optional self-check](../publish/mfb-ml-26.10/mfb-ml-26.10.md), and affected public materials. Treat reference, feedback, and imported annotations as review inputs, not approved policy.
+Compare those authorities with the [Student Guide](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md), [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), [Assessment Grid](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md), [lexicon](../publish/mfb-bd-26.10/mfb-bd-lx.md), [optional self-check](../publish/mfb-ml-26.10/mfb-ml-26.10.md), and affected public materials. Treat material in `assets/reference/`, `assets/briefs/`, `y_old-promps/`, and imported annotations as review inputs, not approved policy.
+
+### Folder-name and repository-scope check
+
+At the start of every review, inventory directories from the repository root and record the date and result in the run record. Use each directory name exactly as it exists, including hyphens, underscores, plural forms, edition suffixes, and the intentionally retained name `y_old-promps/`; do not substitute nonexistent names such as `ref/` or `feedback/`. Treat a missing expected directory, a stale path, a wrongly cased path, or a reference that assigns a folder the wrong role as a maintenance finding. Re-run the inventory after a move, rename, or structural change and before a Full release review conclusion.
+
+The following is the repository inventory verified on 2026-09-25. It includes every directory below the repository root at that time; `.` denotes the root itself.
+
+| Exact directory path | Review treatment |
+| --- | --- |
+| `.` | Repository root; resolve all repository-relative paths from here. |
+| `.claude/` | Local Claude configuration; exclude from curriculum and publication evidence unless the review specifically concerns local agent configuration. |
+| `.codex-git-tmp/`, `.codex-tmp/`, `.tmp/` | Tool-managed temporary directories; exclude from curriculum, publication, and source-of-truth evidence. Do not create durable references to them. |
+| `assets/` | Asset-production materials; inspect when visuals, rights, alt text, asset IDs, or production workflow are in scope. |
+| `assets/briefs/` | Asset briefs; working production input, not an approved curriculum authority. |
+| `assets/prompts/` | Asset-production prompt contracts; working input, not an approved curriculum authority. |
+| `assets/reference/` | Asset reference material; review input, not approved curriculum policy. |
+| `assets/style/` | Active visual-style sources for asset production and review. |
+| `assets/style/bible/`, `assets/style/layouts/` | Character-reference boards and layout studies used with `assets/style/` when reviewing visuals. |
+| `public/`, `public/assets/` | Public briefs, presentation sources, and their public asset location; inspect affected materials and paths when public claims or releases are in scope. |
+| `publish/` | Publication implementation evidence; never treat it as the authority when it conflicts with `workspace/`. |
+| `publish/mfb-act-26.10/` | Activity publications. |
+| `publish/mfb-adv-26.10/` | Advanced Learning publications, outside the required Diploma pathway. |
+| `publish/mfb-bd-26.10/` | Bitcoin Diploma publications, including the Student Guide, Educator Guide, Assessment Grid, lexicon, and question set. |
+| `publish/mfb-ml-26.10/` | Optional microlearning self-check publication and question data. |
+| `review/`, `review/runs/` | Review controls, findings, provenance, and dated run records; neither is a curriculum authority. |
+| `workspace/` | Active planning and source-of-truth documents. |
+| `y_branding/`, `y_branding/design-system/` | Brand reference and design-system material; consult when an in-scope visual or brand decision requires it, without elevating it above a governing workspace authority. |
+| `y_old-promps/` | Archived prompt material; retain the existing spelling and treat it as historical input, not current authority. |
+
+In a Change or Targeted review, check the names and roles of every directory touched by the scope and the complete inventory for stale references. In a Full release review, check the existence, spelling, and role of every directory in this table. Update this table only after recording the structural change and verifying the new tree; do not infer a rename from a broken reference.
 
 For a Full release review, read the complete `workspace/` in ascending numerical filename order, starting with the `00_` documents and continuing through `20_`. For a Change review, read every changed document, its governing authorities, every dependent document identified through the recent-change synchronization protocol, and enough surrounding evolution context to establish the change's meaning; still search the whole repository for affected propositions and stale variants. Treat the ordered pass as an evolution trace: compare each in-scope document's purpose, terminology, decisions, boundaries, ownership, learner or educator promises, assessment model, release position, and link policy with the relevant preceding and source-of-truth documents. Identify inconsistencies, unexplained reversals, duplicated or diverging ideas, stale assumptions, and gaps between an earlier decision and its later implementation. Do not flag an intentional difference when its authority and reason are clear; record the evidence that establishes the distinction instead.
 
@@ -149,7 +179,7 @@ Check teaching slides are editable, aligned, adaptable to learners, language, an
 
 ## Prompt 11: Reconcile findings and validate the result
 
-Before finalising the review, audit cross-references. Files in `workspace/` may link internally only to documents in `workspace/`, `review/`, or `publish/`. Files in `publish/` must never link to `workspace/`, `review/`, or any other repository-only document. Every document link in `publish/` must use a verified public HTML URL; replace a repository-only link with its public page, or remove it when no suitable public page exists. Recheck Markdown links, reference-style definitions, and inline HTML links after every publication edit.
+Before finalising the review, audit cross-references. Files in `workspace/` may link internally only to active material in `workspace/`, `review/`, `publish/`, or `assets/`; treat a link to a tool-managed, archived, or branding directory as an exception that needs an explicit review purpose. Files in `publish/` must never link to `workspace/`, `review/`, `assets/`, or any other repository-only document. Every document link in `publish/` must use a verified public HTML URL; replace a repository-only link with its public page, or remove it when no suitable public page exists. Recheck Markdown links, reference-style definitions, and inline HTML links after every publication edit.
 
 Treat link integrity as release-critical. Use and maintain the [external link review index](../workspace/20_links-external.md) and [internal link review index](../workspace/20_links-internal.md) in every alignment review and whenever a guide, publication URL, linked text, anchor, or destination changes. Update both indexes with the current snapshot date, complete source locations, destinations, and review status; do not leave a changed or newly added link absent from the appropriate index. Test every destination and its intended purpose before release. A broken, mistargeted, inaccessible, or unreviewed required link is a release blocker until it is corrected, removed, or explicitly recorded with an approved exception.
 
