@@ -1,12 +1,37 @@
 # Bitcoin Diploma Asset Index
 
-## 1. Purpose
+## Table of contents
+
+- [Bitcoin Diploma Asset Index](#bitcoin-diploma-asset-index)
+  - [Table of contents](#table-of-contents)
+  - [Purpose](#purpose)
+  - [How to use this index](#how-to-use-this-index)
+  - [Asset types](#asset-types)
+  - [Folder Structure and Naming Coventions](#folder-structure-and-naming-coventions)
+  - [1. Rules](#1-rules)
+    - [Asset rules](#asset-rules)
+    - [Formatting rules](#formatting-rules)
+    - [Design rules](#design-rules)
+  - [2. Visual index](#2-visual-index)
+    - [Visual index by guide section](#visual-index-by-guide-section)
+  - [3. Style and branding](#3-style-and-branding)
+    - [My First Bitcoin branding](#my-first-bitcoin-branding)
+    - [Visual style](#visual-style)
+    - [Guidelines](#guidelines)
+  - [4. Placement](#4-placement)
+    - [Assets that replace existing guide elements](#assets-that-replace-existing-guide-elements)
+  - [5. AI Production Workflow \& Handoff](#5-ai-production-workflow--handoff)
+    - [Make and review](#make-and-review)
+    - [Reuse rules](#reuse-rules)
+  - [6. Asset workflow](#6-asset-workflow)
+
+## Purpose
 
 An asset is a standalone visual in the Bitcoin Diploma. It can be a diagram, table, illustration, image, QR panel, or interface example.
 
 Use an asset when a visual explains an idea, process, comparison, or safety step better than prose alone. Do not use assets as decoration.
 
-## 2. How to use this index
+## How to use this index
 
 1. Find the asset in the visual index.
 2. Read the adjacent guide text.
@@ -16,7 +41,7 @@ Use an asset when a visual explains an idea, process, comparison, or safety step
 
 `SG` means Student Guide. `EG` means Educator Guide. Line numbers are quick finders, not permanent anchors.
 
-## 3. Asset types
+## Asset types
 
 | Type | Use it for |
 |---|---|
@@ -27,55 +52,77 @@ Use an asset when a visual explains an idea, process, comparison, or safety step
 
 A **stand-alone table** adds a new visual reference and keeps the adjacent guide text. A **replacement table** takes the place of an existing guide table. The asset row must state which type it is.
 
-## 4. Asset rules
+## Folder Structure and Naming Coventions
 
-Assets should:
-
-- Teach one main idea.
-- Use plain labels, familiar objects, and clear reading order.
-- Use editable, translatable text.
-- Work in color, grayscale, print, and on a phone.
-- Include useful alt text.
-- Use fictional data for interfaces and examples.
-- Date local facts. Do not endorse tools or services.
-
-Assets should not:
-
-- Decorate a page without teaching something.
-- Show real seed phrases, private keys, payment details, learner data, or balances.
-- Present Bitcoin as guaranteed, risk-free, or legally the same everywhere.
-- Show bitcoin stored inside a wallet, miners making the rules, or one actor controlling Bitcoin.
-- Use color as the only way to show meaning.
-- Add the My First Bitcoin App QR panel outside its two specified calls to action in each guide.
-
-Mark fictional payment screens and QR codes: `SAMPLE — DO NOT PAY`.
-
-## 5. Style and Branding
-
-### My First Bitcoin branding
-
-### Visual style
-
-### Guidelines
-
-## 6. AI workflow
-
-1. Read the index row and adjacent guide text.
-2. Use AI for composition or illustration direction only.
-3. Build labels, tables, diagrams, and QR codes as editable vector or code.
-4. Check accuracy, safety, contrast, translation, alt text, print, and phone layout.
-5. Test every QR code and link.
-6. Insert the approved asset.
 
 Store each asset here:
 
 ```text
-Assets/Briefs/bd-v-###-brief.md
-Assets/Reference/bd-v-###-ref.jpg
-Assets/Reference/bd-v-###-ref.json
+workspace/
+└── 08_assets.md                 # master asset document
+
+Assets/
+├── assets-list.md               # required asset filenames
+├── Prompts/
+│   ├── prompt-codex.md          # prompt used by Codex
+│   └── prompt-claude.md         # prompt used by Claude
+├── Briefs/
+│   └── bd-v-###-brief.md        # one brief for each required asset
+└── Reference/
+    ├── bd-v-###-ref.json        # Codex reference record
+    └── bd-v-###-ref.jpg         # Codex-generated JPEG reference
 ```
 
-## 7. Visual index
+Use lowercase names and three digits: `bd-v-###-brief.md`, `bd-v-###-ref.json`, and `bd-v-###-ref.jpg`.
+
+Keep one brief per asset. Use the shared prompt files. Do not create extra asset folders or per-asset prompts.
+
+This file covers guide visuals only. Put activity visuals on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/). Keep ordinary tables and forms in the guide unless this index calls for a separate visual.
+
+---
+
+## 1. Rules
+
+### Asset rules
+
+- Teach one idea with plain labels, familiar objects, clear reading order, editable/translatable text, and useful alt text; it must work in color, grayscale, print, and on a phone.
+- Use fictional interface/example data; label fictional payment screens and QR codes `SAMPLE — DO NOT PAY`.
+- Date local facts and do not endorse tools or services.
+- Do not add decoration without instruction, real secrets or personal/payment data, or live balances.
+- Do not imply guaranteed, risk-free, or universally legal Bitcoin; do not show bitcoin in a wallet, miners making rules, or a single controller.
+- Do not rely on color alone or place the My First Bitcoin App QR panel outside its two specified calls to action in each guide.
+
+### Formatting rules
+
+- Use SG for learner visuals and EG for educator visuals; use the exact heading and text anchor, not line numbers.
+- Keep adjacent text unless the entry says to replace it. An EG marker reserves its whole location until an approved visual replaces it.
+- Write useful alt text, never a filename, and update this index if an anchor or visual meaning changes.
+- `BD-V-076` appears twice in each guide only; do not place its QR panel elsewhere.
+
+Use this source marker:
+
+```markdown
+<!-- VISUAL: BD-V-001
+SANITY: Required — add the approved official Creative Commons Attribution-ShareAlike 4.0 licence mark here during Sanity production.
+ALT: Alt text that communicates the instructional meaning.
+-->
+```
+
+Replace the marker only after approval. Use names such as `bd-v-001.svg` and keep an editable SVG master.
+
+---
+
+### Design rules
+
+- Teach one idea, not decoration, using familiar people, objects, arrows, and comparisons; keep protocol, wallet, service, and person roles separate.
+- Do not show bitcoin in a wallet, miners making rules, or one actor controlling Bitcoin; never show real secrets, payment details, learner data, or live balances.
+- Mark fictional payment screens and QR codes `SAMPLE — DO NOT PAY`; do not promise returns, safety, adoption, or legal outcomes, and date local facts without endorsing tools or services.
+- Use short, editable, translatable text. Work in color and grayscale, using labels, shapes, or patterns in addition to color.
+- Check print and phone use, reading order, contrast, and alt text; follow the approved My First Bitcoin visual system.
+
+---
+
+## 2. Visual index
 
 ### Visual index by guide section
 
@@ -190,3 +237,107 @@ Assets/Reference/bd-v-###-ref.json
 | `BD-V-096` | Diagram | AI | Essential |  | 2809 | Reveals who controls shared funds and which responsibilities remain separate. | Role-and-responsibility map with distinct arrow types; full width. | Map contributors, beneficiaries, key control, payment approval, records, and review. Flag concentrated control. Do not show real funds or setup. | — |
 | `BD-V-097` | Diagram | AI | Essential |  | 2978 | Shows translation as a review-and-test process, not a one-way text conversion. | Flow diagram; full width. | Show prepare → translate → review → learner test → confirm. Return to wording when safety instructions are unclear. | — |
 | `BD-V-098` | Diagram | AI | Essential |  | 3175 | Distinguishes freedom to adapt practice from the conditions required for certificated evidence. | Two-branch activity-selection decision diagram; full width. | Split learning practice from formal assessment. Formal assessment needs approved evidence, criteria, safety, independence, and records. | — |
+
+## 3. Style and branding
+
+### My First Bitcoin branding
+
+### Visual style
+
+### Guidelines
+
+## 4. Placement
+
+Each index row identifies an SG or EG location by guide heading and nearby text. Most assets are additions to the [Student Guide](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md) or [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) and leave adjacent content unchanged. The assets below replace an existing Student Guide table and retain an accessible text equivalent.
+
+### Assets that replace existing guide elements
+
+| Asset | Type | Guide | Element to replace |
+|---|---|---|---|
+| `BD-V-005` | Table | SG | The four-row table under `### How the 4-module learning path is organized` |
+| `BD-V-007` | Table | SG | The `Property / Question to ask` table under `### Functions and properties of money` |
+| `BD-V-014` | Table | SG | The `Participant / Main role` table under `### Fiat money` |
+| `BD-V-020` | Table | SG | The comparison table under `### Why people look for alternatives` |
+| `BD-V-029` | Table | SG | The unit table under `### Satoshis and unit bias` |
+| `BD-V-033` | Table | SG | The property table under `### Bitcoin as sound digital money` |
+| `BD-V-025` | Table | SG | The date/event table under `### Bitcoin origin timeline` |
+| `BD-V-034` | Table | SG | The `Fiat-system issue / Bitcoin's response / New responsibility or trade-off` table under `### Review: how does Bitcoin respond to fiat problems?` |
+| `BD-V-040` | Table | SG | The `Question / Custodial use / Self-custodial use` table under `### Custodial and non-custodial use` |
+| `BD-V-041` | Table | SG | The `Arrangement / Common strength / Responsibility to remember` table under `### Hot and cold wallets` |
+| `BD-V-049` | Table | SG | The `Risk area / Question to ask` table under `### Acquiring and exchanging bitcoin` |
+| `BD-V-051` | Table | SG | The `Question / On-chain Bitcoin / Lightning` table under `### On-chain and Lightning payments` |
+| `BD-V-055` | Table | SG | The `Local learning choice / Your notes` table under `## Module 4: Bitcoin in Your Community` |
+| `BD-V-057` | Table | SG | The `Area / What to verify` table under `### Local Bitcoin tools and resources` |
+| `BD-V-058` | Table | SG | The `Local tool record` table under `### Local Bitcoin tools and resources` |
+| `BD-V-063` | Table | SG | The pathway-comparison table under `### Local on-ramp and off-ramp pathways` |
+| `BD-V-064` | Table | SG | The `Question / KYC path / No-KYC path` table under `### KYC and no-KYC trade-offs where locally appropriate` |
+| `BD-V-068` | Table | SG | The `Record your local resources` table under `### Local resource maps and community discovery` |
+
+A source marker is a non-rendered HTML comment in a guide source file. It records the asset ID, production note, alt text, and reserved visual location. For example:
+
+```markdown
+<!-- VISUAL: BD-V-001
+SANITY: Required — add the approved official Creative Commons Attribution-ShareAlike 4.0 licence mark here during Sanity production.
+ALT: Official Creative Commons Attribution-ShareAlike 4.0 licence mark beside the written licence statement.
+-->
+```
+
+The final Markdown or production asset reference replaces the complete marker after approval. The index row's heading, nearby text, and insertion direction remain the placement authority; line numbers are finders only.
+
+
+
+
+
+## 5. AI Production Workflow & Handoff
+
+For each approved asset, create:
+
+```yaml
+id: BD-V-000
+brief: Assets/Briefs/bd-v-000-brief.md
+reference: Assets/Reference/bd-v-000-ref.jpg
+record: Assets/Reference/bd-v-000-ref.json
+placement: exact guide heading and text anchor
+alt_text: short text equivalent
+status: draft | review | approved | published
+```
+
+Use the asset row as the brief. Write a separate brief only when the row is not enough.
+
+### Make and review
+
+1. Read the asset row and adjacent guide text.
+2. Create a reference image only for layout or illustration direction.
+3. Build diagrams, tables, text, and QR codes as editable vector or code.
+4. Review the asset before insertion.
+5. Replace the marker or add the Markdown image after approval.
+
+Check these points:
+
+- It teaches the stated idea.
+- It matches the guide text and anchor.
+- Labels are short, editable, and translatable.
+- It is safe and factually accurate.
+- It has alt text.
+- It works in grayscale, print, and on a phone.
+- QR codes and links work when used.
+
+### Reuse rules
+
+- Reuse one interface style for receiving, sending, and explorer visuals.
+- Reuse custody labels. Do not treat custody and hot/cold storage as the same thing.
+- Reuse on-chain and Lightning labels. Do not treat Lightning as a separate coin.
+- Make local maps, tools, and scenarios editable.
+- Keep separate concepts separate: keys versus wallets, supply versus price, payment layers versus custody, and QR panels versus diagrams.
+
+## 6. Asset workflow
+
+1. Gather visual-asset definitions, styling, guidelines, and scope in `workspace/08_assets.md`.
+2. Record each asset’s key information, index, description, and progress in `Assets/assets-list.md`.
+3. Create one design brief per asset, including a precise generation prompt: `Assets/Briefs/bd-v-###-brief.md`.
+4. Generate an asset JSON file using `Assets/Prompts/prompt-01-json.md` and the relevant design brief.
+5. Repeat until every asset in `Assets/assets-list.md` has a JSON file in `Assets/Reference/bd-v-###-ref.json`.
+6. Use the asset brief, JSON reference file, and `Assets/Prompts/prompt-02-jpg.md` to generate the JPEG reference file: `Assets/Reference/bd-v-###-ref.jpg`.
+7. Upload the JPEG (`Assets/Reference/bd-v-###-ref.jpg`), JSON (`Assets/Reference/bd-v-###-ref.json`), and asset brief (`Assets/Briefs/bd-v-###-brief.md`) to the My First Bitcoin Virtual Machine.
+8. Use `Assets/Prompts/prompt-03-mg.md` with Claude Design or Claude Code to produce an HTML/CSS ZIP package.
+9. Manually upload the ZIP package to Sanity.
