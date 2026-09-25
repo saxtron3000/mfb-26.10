@@ -250,6 +250,8 @@ The brand basics for Diploma visuals are a purple-led palette, paper or white su
 
 The reference material is kept in [`Assets/style/`](../Assets/style/):
 
+**Required for human figures:** If an asset includes people or other human figures, use [`bible/`](../Assets/style/bible/), [`layouts/`](../Assets/style/layouts/), and [`CHARACTERS.md`](../Assets/style/CHARACTERS.md) as the reference set before creating or reviewing it. These sources define the approved cast and their visual treatment, as well as the composition context in which they appear.
+
 | Location | What it contains | Use it for |
 |---|---|---|
 | [STYLE.md](../Assets/style/STYLE.md) | The complete illustration, diagram, data-graphic, and table style guide. | The primary rulebook for every Diploma visual: palette, type, 13° geometry, linework, texture, props, chart/table patterns, AI-reference language, and final-production checks. |

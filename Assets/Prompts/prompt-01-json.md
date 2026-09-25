@@ -1,154 +1,132 @@
-# Reference-image generation contract
+# Asset JSON-reference contract
 
-## Role
+## Purpose
 
-You are a constrained reference-image generator and conformance reporter for My First Bitcoin Bitcoin Diploma visual assets. Produce working references only. Do not produce, recommend, publish, upload, or describe a final production asset.
-
-## Objective
-
-For one eligible asset ID, create exactly one composition and return:
-
-1. A low-resolution PNG with genuine transparent pixels.
-2. A JPEG preview created by compositing that same PNG over `#FFFFFF`, at identical pixel dimensions, with no compositional change.
-3. A JSON conformance report for those two files.
-
-The PNG, JPEG, JSON, and completed prompt record are private inputs to later editable HTML, CSS, and inline-SVG production. They are not publication, brand, manuscript, Sanity, or `Assets/diploma/` assets.
+Create the first production record for one My First Bitcoin Bitcoin Diploma asset. The record is a structured visual specification that a later asset-creation step can use. It is not an asset, a publication file, a Sanity upload, or a production implementation.
 
 ## Inputs
 
-Read every supplied input before deciding whether generation is possible. Treat the first four as mandatory unless explicitly marked absent.
+Read these files before creating the record:
 
-- `asset_id`: stable ID in the form `BD-V-###`.
-- `section_7_specification`: complete classification record and its incorporated complete section 3 asset entry from `workspace/08_assets.md`.
-- `section_3_asset_row`: complete source row from `workspace/08_assets.md`.
-- `shared_register_entries`: relevant section 8 entries from `workspace/08_assets.md`; use `none` only when none apply.
-- `adjacent_guide_text`: optional; use only to clarify the lesson, never to override the specification.
-- `style_authority`: `workspace/27_assets-style.md`.
+1. The relevant design brief: `Assets/briefs/bd-v-###-brief.md`. This is the complete authority for the asset's instructional content, construction, safety boundaries, placement, and visual specification.
+2. This contract: `Assets/prompts/prompt-01-json.md`.
+3. Consult the applicable style references in `Assets/style/` only if the brief conflicts with itself or with an approved source, or if they are needed to clarify an ambiguity the brief does not resolve:
+   - `STYLE.md` for visual direction, palette, typography, geometry, and reusable graphic patterns.
+   - `CHARACTERS.md` and the character bible when people appear.
+   - `layouts/README.md` and the latest suitable layout study when the asset needs a layout pattern.
+   - `brand-spec.md` and `brand.css` when a precise brand token is needed.
 
-Input precedence, highest first:
+Replace `###` with the three-digit asset number. The asset ID in the brief, output filename, and record must match exactly.
 
-1. Asset-specific instructional, structural, safety, localization, and prohibition requirements in `section_7_specification`.
-2. Relevant `shared_register_entries`.
-3. `section_3_asset_row` and `adjacent_guide_text`.
-4. `style_authority`.
+## Source precedence
 
-If a lower-priority input conflicts with a higher-priority input, follow the higher-priority input and record the conflict in `unresolved`. Never resolve an unspecified requirement by inventing a concept, fact, element, role, or text.
+The brief must contain all information needed to create the JSON record. Do not browse `Assets/style/` as a normal input or to add detail not required by the brief.
 
-## Eligibility gate
+Use sources in this order when consultation is necessary:
 
-Do not generate an image for `BD-V-001`, `BD-V-070`, or `BD-V-075`, or for any asset identified as deferred or blocked by the supplied specification. Return only a JSON report with `generationStatus` set to `deferred` or `blocked`, an empty `placement` array, and the exact reason in `unresolved`.
+1. The relevant design brief for every record field.
+2. `Assets/style/` only to resolve a conflict or clarify an ambiguity. The brief remains authoritative; do not let style references override it.
 
-If a required structural decision is open or missing and prevents faithful construction, return only a JSON report with `generationStatus` set to `blocked`. Do not guess and do not create partial imagery.
+Do not read `workspace/08_assets.md` during normal JSON creation. Consult it only when the brief is incomplete or internally inconsistent, or when an approved source conflicts with the brief. Record the exact conflict or ambiguity, consulted source, and resolution in `unresolved`. Do not invent a fact, label, role, relationship, visual element, or local conclusion that the sources do not support.
 
 ## Process
 
-1. Parse the specification into an internal checklist: element IDs and counts; composition; relationships; reading order; `must_not`; safety requirements; open items; and applicable shared-register definitions.
-2. Carry every supplied open item into `unresolved` verbatim or with an exact, lossless reference. Treat unresolved items as blockers only when they prevent required structure.
-3. Create only the listed elements, with the specified counts, positions, relationships, hierarchy, and reading order. Do not add an element, role, prop, symbol, interface, decoration, scene, or implication not required by the specification.
-4. When a shared-register entry applies, reuse its defined actor, prop, symbol, interface, and notation exactly. Never merge roles that the register defines as distinct.
-5. Render the composition once as a transparent PNG. Export the JPEG from that PNG over solid white. Do not independently regenerate, reframe, crop, resize, recolor, or alter either export.
-6. Inspect both exported files before producing the report. Report observed facts only; never claim verification that was not performed.
+1. Read the design brief and extract the asset ID, asset type, educational purpose, required content and relationships, prohibitions, placement, single teaching point, composition, reading order, editable-content needs, and open decisions.
+2. Use the brief's specified visual pattern, layout, and treatment. Consult `Assets/style/` only to resolve a documented conflict or ambiguity.
+3. If style consultation was necessary, apply only the specific clarification needed; do not add visual details beyond the brief.
+4. Create one valid JSON record at `Assets/reference/bd-v-###-ref.json`.
+5. Review the record against the design brief. When style references were consulted, also confirm that the recorded clarification faithfully resolves the documented issue. Correct it before marking it complete.
+6. Only when the JSON record exists and passes every review check, update the corresponding row in `Assets/assets-list.md` from `Not created` to `Created — \`Assets/reference/bd-v-###-ref.json\``. Update the JSON-reference total so it equals the number of asset-specific JSON records marked created.
 
-## Image constraints
+If a required source is absent or an essential design decision is unresolved, do not update `Assets/assets-list.md`. Create a record with `status` set to `blocked` and explain the exact issue in `unresolved`. Consult `workspace/08_assets.md` only if this is a brief conflict or incompleteness that it can resolve.
 
-Apply the binding style authority, subject to the input precedence above.
+## Content and safety rules
 
-- Flat vector-style artwork only.
-- Front-on orthographic forms only; no perspective, depth, or foreshortening.
-- Uniform outline weight; rounded corners and soft joins; solid flat fills.
-- No gradients, shading, shadows, texture, grain, glow, photorealism, or 3D effects.
-- Permitted primitives: rectangle, rounded rectangle, circle, ellipse, triangle, trapezoid, and simple arc.
-- Maximum 24 closed shapes per prop and 60 closed shapes per person.
-- Use the specified purple-led palette, soft violet, white, and restrained warm-orange accents. Use orange sparingly.
-- Preserve negative space as transparent pixels in the PNG. White or off-white may appear only inside required objects.
-- JPEG background must be solid `#FFFFFF`.
-- Do not draw arrows, connectors, bubbles, frames, borders, scenery, or decorative background. Later coded production supplies separate design-system elements where required.
+- Represent only the elements and relationships required by the brief.
+- Preserve qualifications, trade-offs, and role distinctions. Do not turn educational content into financial, legal, tax, accounting, compliance, or investment advice.
+- Do not recommend a wallet, exchange, provider, service, or local solution unless the approved source explicitly requires naming it.
+- Do not include real private keys, seed phrases, payable addresses, learner identities, balances, personal data, unverified QR data, or unverified factual claims.
+- For text that must be editable or translated later, describe its purpose and source in `contentRequirements`; do not manufacture final wording.
+- Use the approved recurring cast only when people are required. Identify each selected character by the name specified in the brief; consult `Assets/style/CHARACTERS.md` only if that identity needs clarification.
+- Keep the record specific enough to construct one clear asset, but do not prescribe production technology or add unapproved decoration.
 
-## Absolute prohibitions
+## Required JSON schema
 
-Render no visible text or text-like content anywhere: no letters, numerals, words, labels, placeholder bars, punctuation, logos, URLs, QR codes, captions, warnings, data, or decorative characters.
+Write valid JSON only. Do not add properties. Select one value wherever the schema gives alternatives separated by `|`; do not copy the alternatives literally. Use `[]` only when no item applies and `""` only when the field is explicitly not applicable.
 
-Do not depict or imply:
-
-- A real seed phrase, private key, payable address, learner identity, learner balance, or private personal data.
-- An unverified real QR code, URL, address, interface, transaction, price, date, or factual datum.
-- Guaranteed returns, risk-free self-custody, inevitable adoption, a universal legal or local conclusion, or a recommendation of a wallet, exchange, service, or provider.
-- Conflation of protocol, wallet, service, user, node, miner, and educator roles when those distinctions are relevant.
-
-Follow every asset-specific `must_not` requirement in addition to this list.
-
-## Output contract
-
-Return outputs in this exact order:
-
-1. Transparent PNG: `Assets/references/<asset-id-lowercase>-ref.png`.
-2. White-background JPEG: `Assets/references/<asset-id-lowercase>-ref.jpg`.
-3. One fenced `json` block representing `Assets/references/<asset-id-lowercase>-ref.json`.
-4. Completed prompt record: `Assets/prompts/<asset-id-lowercase>-ref.txt`, including the exact supplied inputs, model/tool, settings, export procedure, generation date, source-brief revision, and review note.
-
-Use lowercase asset IDs in filenames, for example `bd-v-023-ref.png`. Return no narrative outside the required files and JSON block.
-
-The JSON report must conform exactly to this schema. Use `[]` for empty arrays, `""` for no applicable string, and `null` only where the schema permits it. Do not add properties.
+For a `completed` record, every string must be non-empty except `placement.educatorGuide`, `placement.studentGuide`, and `review.notes` when they do not apply. Arrays may be empty only when no corresponding source requirement exists. `sourceFiles.styleReferences` must cite every style file consulted and may be empty when no consultation was needed. A `blocked` record may leave fields empty only when the missing information is identified in `unresolved`.
 
 ```json
 {
   "assetId": "BD-V-000",
-  "generationStatus": "completed | deferred | blocked",
-  "specVersion": 3,
-  "canvas": {
-    "widthPx": 1024,
-    "heightPx": 0,
-    "aspectRatio": "",
-    "orientation": "landscape | portrait | square",
-    "reference": {
-      "fileName": "bd-v-000-ref.png",
-      "format": "PNG",
-      "background": "transparent"
-    },
-    "preview": {
-      "fileName": "bd-v-000-ref.jpg",
-      "format": "JPEG",
-      "background": "#FFFFFF"
-    }
+  "schemaVersion": 1,
+  "status": "completed",
+  "assetType": "Diagram",
+  "recordDate": "YYYY-MM-DD",
+  "sourceFiles": {
+    "brief": "Assets/briefs/bd-v-000-brief.md",
+    "briefRevision": "revision, date, or file state stated in the brief; otherwise undated",
+    "styleReferences": [
+      "Assets/style/STYLE.md"
+    ]
   },
-  "placement": [
+  "educationalPurpose": "",
+  "placement": {
+    "studentGuide": "",
+    "educatorGuide": "",
+    "guideAnchor": "exact guide heading and nearby text anchor from the brief",
+    "format": ""
+  },
+  "teachingPoint": "",
+  "visualPattern": "",
+  "composition": {
+    "orientation": "landscape",
+    "targetAspectRatio": "",
+    "readingOrder": [],
+    "elements": [
+      {
+        "id": "",
+        "role": "",
+        "required": true,
+        "relationship": "",
+        "position": "",
+        "treatment": ""
+      }
+    ]
+  },
+  "contentRequirements": [
     {
-      "elementId": "exact ID from section_7_specification",
-      "boundsPercent": {"x": 0, "y": 0, "width": 0, "height": 0},
-      "zIndex": 1,
-      "treatmentNotes": "shape, posture, emphasis, hatch, orientation"
+      "content": "exact approved wording, value, label, or content requirement",
+      "source": "brief section",
+      "editable": true
     }
   ],
-  "conformance": {
-    "elementsRendered": [],
-    "elementsMissing": [],
-    "elementsAdded": [{"description": "", "why": ""}],
-    "compositionFollowed": true,
-    "compositionDeviation": "",
-    "countDeviations": [],
-    "mustNotViolations": [],
-    "textPresentInImage": [],
-    "shapeBudgetEstimate": {"propsMax": 24, "peopleMax": 60, "compliant": true},
-    "pngTransparencyVerified": true,
-    "jpgWhiteBackgroundVerified": true,
-    "exportsMatch": true
+  "style": {
+    "layoutReference": "",
+    "palette": [],
+    "typography": "",
+    "shapeAndLineRules": "",
+    "geometry": "",
+    "emphasis": "",
+    "characters": [],
+    "propsAndIcons": []
+  },
+  "prohibitions": [],
+  "review": {
+    "briefCompliant": true,
+    "assetRegisterCompliant": true,
+    "styleCompliant": true,
+    "openDecisionsPreventCreation": false,
+    "notes": ""
   },
   "unresolved": []
 }
 ```
 
-## Review and decision rules
+## Completion rules
 
-Before returning `generationStatus: completed`, verify all of the following from the actual files:
+Set `status` to `completed` only when all required fields are supported by the brief, any cited style references resolve a documented conflict or ambiguity, all three compliance fields are `true`, and `openDecisionsPreventCreation` is `false`. Use exact approved wording, values, labels, and content requirements from their cited source wherever later creation depends on them.
 
-- PNG has transparent background pixels; an alpha channel with only opaque pixels fails.
-- JPEG has a solid white `#FFFFFF` background.
-- PNG and JPEG have identical width, height, crop, and composition.
-- The image exactly implements specified elements, counts, composition, relationships, reading order, and shared-register definitions.
-- Neither image contains visible text or any prohibited content.
-- The visual is instructional, safe, culturally flexible, and feasible to rebuild in editable HTML, CSS, and inline SVG.
-- JSON values match the actual exports and the supplied specification.
+Set `status` to `blocked` when a missing or unresolved requirement prevents creation. State the exact source, requirement, and consequence in `unresolved`; set the affected review field to `false`; and do not mark the asset’s JSON reference as created in `Assets/assets-list.md`.
 
-Set an export-verification flag to `true` only after that condition has been checked. Set `compositionFollowed` to `false` and state the exact deviation if any required composition detail differs. `elementsAdded` must be empty or each addition must have a necessary, explicit justification; an unjustified addition requires `generationStatus: blocked` or regeneration. `textPresentInImage` must be empty for a completed asset.
-
-Reject and regenerate any image that is unclear, structurally nonconformant, unsafe, ambiguous, text-bearing, unjustifiably additive, visually dependent on baked-in text, or not feasible to rebuild as editable code. Do not claim publication readiness.
+When filesystem access is available, create or update only the JSON reference and, for a completed record, the matching status entry in `Assets/assets-list.md`. Without filesystem access, return only the completed JSON in a fenced `json` block and state neither that a file nor the asset-list entry was updated.
