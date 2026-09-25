@@ -1,78 +1,81 @@
 # Bitcoin Diploma Asset Index
 
-## Purpose
+## 1. Purpose
 
-This is the source of truth for Diploma visuals. Use it to decide what to make, where to place it, and what it must teach.
+An asset is a standalone visual in the Bitcoin Diploma. It can be a diagram, table, illustration, image, QR panel, or interface example.
 
-## Asset directory and naming standard
+Use an asset when a visual explains an idea, process, comparison, or safety step better than prose alone. Do not use assets as decoration.
 
-This file assigns stable asset IDs. Use the ID in every asset filename.
+## 2. How to use this index
+
+1. Find the asset in the visual index.
+2. Read the adjacent guide text.
+3. Make the asset described in the row.
+4. Place it at the listed guide location. Use the exact heading and nearby text as the final anchor.
+5. Add clear alt text. Update this index when the asset or its placement changes.
+
+`SG` means Student Guide. `EG` means Educator Guide. Line numbers are quick finders, not permanent anchors.
+
+## 3. Asset types
+
+| Type | Use it for |
+|---|---|
+| Diagram | A process, relationship, map, timeline, or system. |
+| Table | A comparison, checklist, or editable record. Tables are either **stand-alone** or **replacement**. |
+| Illustration | A concrete scene or everyday example. |
+| Image | A logo, QR panel, or other simple graphic. |
+
+A **stand-alone table** adds a new visual reference and keeps the adjacent guide text. A **replacement table** takes the place of an existing guide table. The asset row must state which type it is.
+
+## 4. Asset rules
+
+Assets should:
+
+- Teach one main idea.
+- Use plain labels, familiar objects, and clear reading order.
+- Use editable, translatable text.
+- Work in color, grayscale, print, and on a phone.
+- Include useful alt text.
+- Use fictional data for interfaces and examples.
+- Date local facts. Do not endorse tools or services.
+
+Assets should not:
+
+- Decorate a page without teaching something.
+- Show real seed phrases, private keys, payment details, learner data, or balances.
+- Present Bitcoin as guaranteed, risk-free, or legally the same everywhere.
+- Show bitcoin stored inside a wallet, miners making the rules, or one actor controlling Bitcoin.
+- Use color as the only way to show meaning.
+- Add the My First Bitcoin App QR panel outside its two specified calls to action in each guide.
+
+Mark fictional payment screens and QR codes: `SAMPLE — DO NOT PAY`.
+
+## 5. Style and Branding
+
+### My First Bitcoin branding
+
+### Visual style
+
+### Guidelines
+
+## 6. AI workflow
+
+1. Read the index row and adjacent guide text.
+2. Use AI for composition or illustration direction only.
+3. Build labels, tables, diagrams, and QR codes as editable vector or code.
+4. Check accuracy, safety, contrast, translation, alt text, print, and phone layout.
+5. Test every QR code and link.
+6. Insert the approved asset.
+
+Store each asset here:
 
 ```text
-workspace/
-└── 08_assets.md                 # master asset document
-
-Assets/
-├── assets-list.md               # required asset filenames
-├── Prompts/
-│   ├── prompt-codex.md          # prompt used by Codex
-│   └── prompt-claude.md         # prompt used by Claude
-├── Briefs/
-│   └── bd-v-###-brief.md        # one brief for each required asset
-└── Reference/
-    ├── bd-v-###-ref.json        # Codex reference record
-    └── bd-v-###-ref.jpg         # Codex-generated JPEG reference
+Assets/Briefs/bd-v-###-brief.md
+Assets/Reference/bd-v-###-ref.jpg
+Assets/Reference/bd-v-###-ref.json
 ```
 
-Use lowercase names and three digits: `bd-v-###-brief.md`, `bd-v-###-ref.json`, and `bd-v-###-ref.jpg`.
-
-Keep one brief per asset. Use the shared prompt files. Do not create extra asset folders or per-asset prompts.
-
-This file covers guide visuals only. Put activity visuals on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/). Keep ordinary tables and forms in the guide unless this index calls for a separate visual.
-
----
-
-## 1. Rules
-
-- SG is the source for learner visuals. EG is the source for educator visuals.
-- Use the exact heading and text anchor. Line numbers are only a quick finder.
-- Keep the adjacent text unless the entry says to replace it.
-- Add useful alt text. Never use the filename as alt text.
-- Update this index when an anchor or visual meaning changes.
-- `BD-V-076` appears twice in each guide only. Do not add its QR panel anywhere else.
-- An EG marker reserves a location. Replace the whole marker only with an approved visual.
-
-Use this source marker:
-
-```markdown
-<!-- VISUAL: BD-V-001
-SANITY: Required — add the approved official Creative Commons Attribution-ShareAlike 4.0 licence mark here during Sanity production.
-ALT: Alt text that communicates the instructional meaning.
--->
-```
-
-Replace the marker only after approval. Use names such as `bd-v-001.svg`. Keep an editable SVG master.
-
----
-
-## 2. Design rules
-
-- Teach one main idea. Do not add decoration.
-- Use familiar people, objects, arrows, and comparisons.
-- Keep protocol, wallet, service, and person roles separate.
-- Do not show bitcoin inside a wallet. Miners do not make the rules. No one actor controls Bitcoin.
-- Never show real secrets, payment details, learner data, or live balances.
-- Mark fictional payment screens and QR codes `SAMPLE — DO NOT PAY`.
-- Do not promise returns, safety, adoption, or legal outcomes.
-- Date local facts. Do not endorse tools or services.
-- Use live, editable text. Keep it short and translatable.
-- Work in color and grayscale. Use labels, shapes, or patterns as well as color.
-- Check print, phone, reading order, contrast, and alt text.
-- Follow the approved My First Bitcoin visual system.
-
----
-
-## 3. Visual index
+## 7. Visual index
 
 ### Visual index by guide section
 
@@ -187,176 +190,3 @@ Replace the marker only after approval. Use names such as `bd-v-001.svg`. Keep a
 | `BD-V-096` | Diagram | AI | Essential |  | 2809 | Reveals who controls shared funds and which responsibilities remain separate. | Role-and-responsibility map with distinct arrow types; full width. | Map contributors, beneficiaries, key control, payment approval, records, and review. Flag concentrated control. Do not show real funds or setup. | — |
 | `BD-V-097` | Diagram | AI | Essential |  | 2978 | Shows translation as a review-and-test process, not a one-way text conversion. | Flow diagram; full width. | Show prepare → translate → review → learner test → confirm. Return to wording when safety instructions are unclear. | — |
 | `BD-V-098` | Diagram | AI | Essential |  | 3175 | Distinguishes freedom to adapt practice from the conditions required for certificated evidence. | Two-branch activity-selection decision diagram; full width. | Split learning practice from formal assessment. Formal assessment needs approved evidence, criteria, safety, independence, and records. | — |
-
-## 4. Placement
-
-### 4.1 Educator Guide use crosswalk
-
-The original SG assets are mapped below to teaching guidance or an explicit SG-only restriction. Educator-only assets are specified separately in section 4.3. `EG heading line` identifies the heading, not an insertion point. Educators may refer to the SG visual while teaching; these references do not require extra copies in EG. Preserve the full educator instructions, approved assessment tasks, and private evidence records. Selected shared visuals now have explicit EG insertion placements in section 4.2. The crosswalk alone is not an insertion instruction. The four app-download locations remain restricted to `BD-V-076`.
-
-| Asset IDs | Exact EG section | EG heading line | Use and boundary |
-|---|---|---|---|
-| `BD-V-001` | `### Translation workflow` | 2966 | Keep attribution and licence terms with adaptations; the licence mark itself remains at the SG front matter. |
-| `BD-V-002` | `### Teach how to think, not what to think` | 501 | Use the claim/evidence/trade-off loop to support discussion and revision. |
-| `BD-V-003` | `### Four-module Diploma and Advanced boundaries` | 460 | Explain the required Diploma and the separate Advanced scope. EG insertion specified in section 4.2 for `BD-V-003`. |
-| `BD-V-004`, `BD-V-005` | `## The Diploma at a glance` | 330 | Reuse the roadmap or reference table to introduce the four-stage arc. |
-| `BD-V-006` | `### The learning rhythm` | 718 | Use the SG five-stage learner view alongside the educator facilitation rhythm; do not replace the EG teaching sequence. |
-| `BD-V-007`, `BD-V-008` | `### Functions and properties of money` | 1027 | Separate functions from properties and apply the comparison questions. EG insertion specified in section 4.2 for `BD-V-008`. |
-| `BD-V-009`, `BD-V-010` | `### Barter and the double coincidence of wants` | 1074 | Use the barter-mismatch graphic before introducing money, then the money-mediated exchange graphic. EG insertions are specified in section 4.2. |
-| `BD-V-011`, `BD-V-012` | `### Scarcity, value, and exchange` | 1083 | Use familiar examples of context, choice, and trade-offs. EG insertion specified in section 4.2 for `BD-V-012`. |
-| `BD-V-013` | `### Beginner monetary history` | 1102 | Show overlapping forms of money, not a universal progress sequence. EG insertion specified in section 4.2 for `BD-V-013`. |
-| `BD-V-014`, `BD-V-015` | `### Fiat money and the local system` | 1130 | Keep institutional roles and local variation visible. EG insertion specified in section 4.2 for `BD-V-015`. |
-| `BD-V-016`, `BD-V-017` | `### Fractional-reserve banking, liquidity, and solvency` | 1160 | Distinguish deposit creation, liquidity, and solvency. EG insertion specified in section 4.2 for `BD-V-016`, `BD-V-017`. |
-| `BD-V-018` | `### Inflation and purchasing power` | 1210 | Compare the same fixed amount and basket using fictional or dated values. EG insertion specified in section 4.2 for `BD-V-018`. |
-| `BD-V-019` | `### CBDCs as digital fiat` | 1270 | Compare control, issuer, and verification without assuming one CBDC design. EG insertion specified in section 4.2 for `BD-V-019`. |
-| `BD-V-020`, `BD-V-021` | `### Why people look for alternatives` | 1258 | Compare purpose and trade-offs without ranking investments. |
-| `BD-V-022` | `### Why Bitcoin was created` | 1408 | Explain the change in dependence on a central ledger keeper. EG insertion specified in section 4.2 for `BD-V-022`. |
-| `BD-V-023`, `BD-V-025` | `### Earlier digital-money context` | 1426 | Use the idea lineage and origin milestones as historical context. |
-| `BD-V-024`, `BD-V-027` | `### Explain the combined response` | 1438 | Show how the features work together to address double spending and digital scarcity. EG insertion specified in section 4.2 for `BD-V-024`. |
-| `BD-V-026`, `BD-V-030` | `### Decentralization and peer-to-peer transfer` | 1467 | Separate network roles from intermediaries and communications dependencies. EG insertion specified in section 4.2 for `BD-V-026`. |
-| `BD-V-028` | `### Finite supply and halving` | 1546 | Keep supply, subsidy, fees, and price distinct. EG insertion specified in section 4.2 for `BD-V-028`. |
-| `BD-V-029` | `### Sats and unit bias` | 1572 | Practise reading equivalent BTC and sat amounts. EG insertion specified in section 4.2 for `BD-V-029`. |
-| `BD-V-031` | `### Users, nodes, miners, developers, and services` | 1486 | Ask learners to explain each role and its limits. EG insertion specified in section 4.2 for `BD-V-031`. |
-| `BD-V-032` | `### Proof of work` | 1518 | Distinguish costly production from independent verification. EG insertion specified in section 4.2 for `BD-V-032`. |
-| `BD-V-033` | `### Bitcoin as sound digital money` | 1595 | Use the same comparison criteria and retain qualifications. |
-| `BD-V-034` | `### Review and bridge to Module 3` | 1716 | Connect each response to a remaining trade-off or new responsibility. |
-| `BD-V-035` | `### Wallets are interfaces` | 1826 | Keep keys and wallet interfaces separate from the ledger. EG insertion specified in section 4.2 for `BD-V-035`. |
-| `BD-V-036`, `BD-V-078` | `### Addresses and payment requests` | 1864 | Compare prepared on-chain and Lightning receiving information and matching QR formats. |
-| `BD-V-037` | `### Keys and digital authorization` | 1939 | Keep the private key inside the secret boundary when explaining signatures. EG insertion specified in section 4.2 for `BD-V-037`. |
-| `BD-V-038`, `BD-V-079` | `### Seed phrases and recovery` | 1962 | Use conceptual or placeholder examples only; never expose learner recovery material. EG insertion specified in section 4.2 for `BD-V-038`. |
-| `BD-V-039`, `BD-V-040` | `### Custodial and self-custodial use` | 2015 | Compare key control and recovery responsibility. EG insertion specified in section 4.2 for `BD-V-039`. |
-| `BD-V-041`, `BD-V-042` | `### Hot, cold, hardware, and custodial are different dimensions` | 2039 | Distinguish custody from signing environment. EG insertion specified in section 4.2 for `BD-V-042`. |
-| `BD-V-043` | `#### Activity: recovery-readiness simulation` | 1989 | Use the safe workflow as teaching support; it does not replace the approved practical task. |
-| `BD-V-044` | `### Receiving bitcoin` | 2058 | Use prepared screens to identify receiving information and check results. EG insertion specified in section 4.2 for `BD-V-044`. |
-| `BD-V-045` | `### Sending bitcoin` | 2093 | Rehearse verification before approval and stop on mismatches. EG insertion specified in section 4.2 for `BD-V-045`. |
-| `BD-V-046` | `### Block explorers and verification` | 2143 | Connect confirmation status to evidence and explorer privacy limits. EG insertion specified in section 4.2 for `BD-V-046`. |
-| `BD-V-047` | `### Scam recognition and safe response` | 2170 | Ask learners to identify the red flag and first safe action. EG insertion specified in section 4.2 for `BD-V-047`. |
-| `BD-V-048`, `BD-V-049` | `### Acquiring and exchanging: awareness, not financial advice` | 2207 | Compare pathways without recommending providers or financial action. EG insertion specified in section 4.2 for `BD-V-048`. |
-| `BD-V-050`, `BD-V-051` | `### On-chain and Lightning payments` | 2239 | Compare requests, payment result, custody, and failure risks. EG insertion specified in section 4.2 for `BD-V-050`. |
-| `BD-V-052`, `BD-V-053` | `### Review and bridge to Module 4` | 2339 | Select the responsibility map or its text equivalent for recap. |
-| `BD-V-054` | `### Begin with a need, not a tool` | 2387 | Use the learner Connect/Compare/Practise/Explain view; detailed planning stays in the seven-step module builder. |
-| `BD-V-055` | `### Module 4 planning record` | 2534 | The SG learner record complements this educator planning record; do not substitute it for planning or assessment evidence. |
-| `BD-V-056` | `### Use Presentation → Practice → Production` | 855 | Use the same safe learning progression for local workshops. EG insertion specified in section 4.2 for `BD-V-056`. |
-| `BD-V-057`, `BD-V-058` | `### Local Bitcoin tool review` | 2577 | Support a dated local review; retain the fuller educator verification requirements. |
-| `BD-V-059`, `BD-V-080` | `### Lightning module checklist` | 2599 | Use only when locally appropriate and prepared; explain request type, custody, result, and failure. EG insertion specified in section 4.2 for `BD-V-059`. |
-| `BD-V-060` | `### Module option A: local payment-path comparison` | 2621 | Use the daily-use icons to identify a purpose before selecting a payment path. |
-| `BD-V-061` | `### Module option B: small purchase` | 2647 | Reuse the storyboard for the selected scenario; the following module options provide work, remittance, refund, and donation variants. |
-| `BD-V-062`, `BD-V-063`, `BD-V-064` | `### Module option F: on-ramp, off-ramp, KYC, and no-KYC comparison` | 2734 | Compare the complete local route with a realistic alternative and current local conditions. EG insertion specified in section 4.2 for `BD-V-062`. |
-| `BD-V-065`, `BD-V-067`, `BD-V-068` | `### Module option G: circular economy and local resource map` | 2761 | Use editable maps and dated records without exposing personal locations. EG insertion specified in section 4.2 for `BD-V-065`. |
-| `BD-V-066` | `### Module option D: merchant payment and refund flow` | 2686 | Trace verification, records, custody, failure, and refund handling. EG insertion specified in section 4.2 for `BD-V-066`. |
-| `BD-V-069`, `BD-V-070` | `### Review and course bridge` | 2869 | Choose one community-review format; neither creates a new certification gate. |
-| `BD-V-071`, `BD-V-077` | `### The pathway from learner to educator` | 397 | Introduce and revisit voluntary learning, contribution, teaching, and network pathways. EG insertion specified in section 4.2 for `BD-V-077`. |
-| `BD-V-072` | `### Final safety reminders` | 3284 | Use the final stop-and-check strip for closure. EG insertion specified in section 4.2 for `BD-V-072`. |
-| `BD-V-073` | `### Maintain local content` | 3354 | Use the SG source/update route when checking editions and preparing corrections. |
-| `BD-V-075` | `### Confirm what the certificate means` | 3271 | Deferred for 2026.10. Explain educator-issued certification in text; do not show or imply a central My First Bitcoin verification system. |
-| `BD-V-074` | — | — | SG only. EG has no matching optional-support call to action; do not insert a donation QR into an educator teaching example. |
-| `BD-V-076` | `## About this guide`; `## Continue learning` | 5; 3617 | Two EG download panels after lines 9 and 3619; the two SG panels remain after lines 51 and 1514. See section 4.2 for marker locations. No other app QR placements. |
-
-
-### 4.2 Shared assets inserted in the Educator Guide
-
-Reuse the existing Student Guide master and brief for the placements below. Keep the full educator explanation, activity instructions, and existing tables. These visuals clarify the adjacent concepts; they do not replace approved assessment materials or change permitted support during formal evidence collection. Conditional assets remain conditional on the verified local context. A marker reserves a production location and does not mean the SVG already exists.
-
-`EG source line` identifies the text before or after which the marker is placed. `EG marker line` identifies the opening comment to replace at production. Recalculate both after guide edits. A same-ID graphic uses the same meaning and labels in both guides; a materially different educator graphic gets its own ID in section 4.3.
-
-| Asset | Exact EG heading | Position and text anchor | EG source line | EG marker line |
-|---|---|---|---|---|
-| `BD-V-076` | `## About this guide` | After the line beginning `Download the [My First Bitcoin App](https://myfirstbitcoin.app/) for optional microlearning, se…`; replace the marker. | 9 | 11 |
-| `BD-V-077` | `### The pathway from learner to educator` | After the line beginning `Present this as an available progression. Learners may begin with the Diploma and choose whethe…`; replace the marker. | 408 | 410 |
-| `BD-V-003` | `### Four-module Diploma and Advanced boundaries` | After the line beginning `**Advanced** is optional follow-on learning beyond the Diploma. Detailed [mining](mfb-bd-lx.md#…`; replace the marker. | 466 | 468 |
-| `BD-V-056` | `### Use Presentation → Practice → Production` | After the line beginning `**Production:** Learners complete a defined practical task or direct the decisions without step…`; replace the marker. | 861 | 863 |
-| `BD-V-008` | `### Functions and properties of money` | After the line beginning `- A **property** describes a quality that can make it useful: [durability](mfb-bd-lx.md#term-du…`; replace the marker. | 1032 | 1034 |
-| `BD-V-009` | `### Barter and the double coincidence of wants` | After the sentence beginning `First, let the group attempt direct exchange`; replace the marker. | 1076 | 1078 |
-| `BD-V-010` | `### Barter and the double coincidence of wants` | After the sentence beginning `Then introduce a commonly accepted medium`; replace the marker. | 1084 | 1086 |
-| `BD-V-012` | `### Scarcity, value, and exchange` | After the line beginning `- **Trade-off:** a choice gains one benefit while accepting a cost or giving up another.`; replace the marker. | 1090 | 1092 |
-| `BD-V-013` | `### Beginner monetary history` | After the line beginning `- digital interfaces to fiat-denominated claims.`; replace the marker. | 1112 | 1114 |
-| `BD-V-015` | `### Fiat money and the local system` | After the line beginning `6. what would make the payment harder if acceptance or trust broke down.`; replace the marker. | 1143 | 1145 |
-| `BD-V-016` | `### Fractional-reserve banking, liquidity, and solvency` | After the line beginning `- exact rules vary by jurisdiction.`; replace the marker. | 1168 | 1170 |
-| `BD-V-017` | `### Fractional-reserve banking, liquidity, and solvency` | After the line beginning `- **[Solvency risk](mfb-bd-lx.md#term-solvency-risk):** the bank's [assets](mfb-bd-lx.md#term-a…`; replace the marker. | 1181 | 1183 |
-| `BD-V-018` | `### Inflation and purchasing power` | After the line beginning `Teach [price inflation](mfb-bd-lx.md#term-price-inflation) as a sustained rise in the general […`; replace the marker. | 1212 | 1214 |
-| `BD-V-019` | `### CBDCs as digital fiat` | After the line beginning `Explain that a [CBDC](mfb-bd-lx.md#term-cbdc) is a central-bank [liability](mfb-bd-lx.md#term-l…`; replace the marker. | 1280 | 1282 |
-| `BD-V-022` | `### Why Bitcoin was created` | After the line beginning `A central digital-payment system can keep one authoritative [ledger](mfb-bd-lx.md#term-ledger) …`; replace the marker. | 1412 | 1414 |
-| `BD-V-024` | `### Explain the combined response` | After the line beginning `5. Participants converge on the valid history with the most [accumulated work](mfb-bd-lx.md#ter…`; replace the marker. | 1446 | 1448 |
-| `BD-V-026` | `### Decentralization and peer-to-peer transfer` | After the line beginning `Peer-to-peer does not mean only two computers communicate directly or that no infrastructure is…`; replace the marker. | 1478 | 1480 |
-| `BD-V-031` | `### Users, nodes, miners, developers, and services` | After the line beginning `&#124; [Bitcoin service](mfb-bd-lx.md#term-bitcoin-service) &#124; Provides a wallet, exchange, explorer,…`; replace the marker. | 1496 | 1498 |
-| `BD-V-032` | `### Proof of work` | After the line beginning `- [difficulty](mfb-bd-lx.md#term-difficulty) adjusts so blocks arrive about every ten minutes o…`; replace the marker. | 1526 | 1528 |
-| `BD-V-028` | `### Finite supply and halving` | After the line beginning `- [transaction fees](mfb-bd-lx.md#term-transaction-fee) also compensate [miners](mfb-bd-lx.md#t…`; replace the marker. | 1554 | 1556 |
-| `BD-V-029` | `### Sats and unit bias` | After the line beginning `- 1 [sat](mfb-bd-lx.md#term-sat) = 0.00000001 bitcoin.`; replace the marker. | 1583 | 1585 |
-| `BD-V-035` | `### Wallets are interfaces` | After the line beginning `- any external service the wallet depends on.`; replace the marker. | 1837 | 1839 |
-| `BD-V-037` | `### Keys and digital authorization` | After the line beginning `No legitimate educator, wallet company, exchange employee, developer, support worker, or public…`; replace the marker. | 1954 | 1956 |
-| `BD-V-038` | `### Seed phrases and recovery` | After the line beginning `- a seed that may have been exposed should be treated as compromised.`; replace the marker. | 1972 | 1974 |
-| `BD-V-039` | `### Custodial and self-custodial use` | After the line beginning `Do not treat [self-custody](mfb-bd-lx.md#term-self-custody) as a moral test. A beginner may cho…`; replace the marker. | 2031 | 2033 |
-| `BD-V-042` | `### Hot, cold, hardware, and custodial are different dimensions` | After the line beginning `A Lightning wallet can be custodial or self-custodial. A [hardware wallet](mfb-bd-lx.md#term-ha…`; replace the marker. | 2048 | 2050 |
-| `BD-V-044` | `### Receiving bitcoin` | After the line beginning `Explain that a message or screenshot saying “sent” is not proof of receipt. The receiver should…`; replace the marker. | 2072 | 2074 |
-| `BD-V-045` | `### Sending bitcoin` | After the line beginning `10. Verify the result in the appropriate wallet or transaction view.`; replace the marker. | 2106 | 2108 |
-| `BD-V-046` | `### Block explorers and verification` | After the line beginning `- information that becomes public.`; replace the marker. | 2153 | 2155 |
-| `BD-V-047` | `### Scam recognition and safe response` | After the line beginning `> Pause. Share nothing. Send nothing. Close the channel. Verify independently through a known s…`; replace the marker. | 2187 | 2189 |
-| `BD-V-048` | `### Acquiring and exchanging: awareness, not financial advice` | After the line beginning `- Which local law, tax, or reporting rule may apply?`; replace the marker. | 2229 | 2231 |
-| `BD-V-050` | `### On-chain and Lightning payments` | After the line beginning `Lightning is not a separate coin. A successful Lightning payment does not prove the wallet is s…`; replace the marker. | 2253 | 2255 |
-| `BD-V-059` | `### Lightning module checklist` | After the line beginning `A successful small Lightning payment shows that the selected path worked once. It does not prov…`; replace the marker. | 2613 | 2615 |
-| `BD-V-066` | `### Module option D: merchant payment and refund flow` | After the line beginning `- support and escalation.`; replace the marker. | 2702 | 2704 |
-| `BD-V-062` | `### Module option F: on-ramp, off-ramp, KYC, and no-KYC comparison` | After the line beginning `- Which local rule applies?`; replace the marker. | 2749 | 2751 |
-| `BD-V-065` | `### Module option G: circular economy and local resource map` | After the line beginning `9. whether the loop depends on giveaways or one organizer.`; replace the marker. | 2775 | 2777 |
-| `BD-V-072` | `### Final safety reminders` | After the line beginning `- accept that “not yet” or “not for this case” can be responsible conclusions.`; replace the marker. | 3294 | 3296 |
-| `BD-V-076` | `## Continue learning` | After the line beginning `Download the [My First Bitcoin App](https://myfirstbitcoin.app/) for optional microlearning, se…`; replace the marker. | 3619 | 3621 |
-
-
-## 5. Production handoff
-
-For each approved asset, create:
-
-```yaml
-id: BD-V-000
-brief: Assets/Briefs/bd-v-000-brief.md
-reference: Assets/Reference/bd-v-000-ref.jpg
-record: Assets/Reference/bd-v-000-ref.json
-placement: exact guide heading and text anchor
-alt_text: short text equivalent
-status: draft | review | approved | published
-```
-
-Use the asset row as the brief. Write a separate brief only when the row is not enough.
-
-### Make and review
-
-1. Read the asset row and adjacent guide text.
-2. Create a reference image only for layout or illustration direction.
-3. Build diagrams, tables, text, and QR codes as editable vector or code.
-4. Review the asset before insertion.
-5. Replace the marker or add the Markdown image after approval.
-
-Check these points:
-
-- It teaches the stated idea.
-- It matches the guide text and anchor.
-- Labels are short, editable, and translatable.
-- It is safe and factually accurate.
-- It has alt text.
-- It works in grayscale, print, and on a phone.
-- QR codes and links work when used.
-
-### Reuse rules
-
-- Reuse one interface style for receiving, sending, and explorer visuals.
-- Reuse custody labels. Do not treat custody and hot/cold storage as the same thing.
-- Reuse on-chain and Lightning labels. Do not treat Lightning as a separate coin.
-- Make local maps, tools, and scenarios editable.
-- Keep separate concepts separate: keys versus wallets, supply versus price, payment layers versus custody, and QR panels versus diagrams.
-
-### Shared visual items
-
-| Item | Use |
-|---|---|
-| Generic interface | Use fictional, nonfunctional wallet and explorer screens. |
-| Learner and educator | Use generic people. Keep their roles clear. |
-| Generic wallet | Show a tool for keys and signing. Do not show bitcoin stored inside it. |
-| Safety stop | Means pause and verify. It does not mean automatic failure. |
-| QR code | Use only when the brief gives a tested destination. |
-| Custody labels | Show who controls keys and recovery. Do not rank options. |
-| Payment-path symbols | Show routes and dependencies, not provider recommendations. |
-| On-chain / Lightning labels | Show payment layer, request, result, and failure risk. |
-| Node and miner symbols | Keep their roles separate. Nodes enforce rules; miners produce blocks. |
-| Local map symbols | A listing is information, not a trust claim. |
-| Private-material boundary | Show what an educator or observer must not see. |
-
-This index is not a production tracker. Update it when the curriculum or a visual decision changes.
