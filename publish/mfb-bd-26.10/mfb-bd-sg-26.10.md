@@ -326,7 +326,7 @@ ALT: Linked diagram of money’s three functions and seven useful properties.
 ASSET: Assets/Briefs/bd-v-008-brief.md
 -->
 
-No form of money scores perfectly. [Gold](mfb-bd-lx.md#gold) is durable and scarce but difficult to divide and transport for small payments. [Paper cash](mfb-bd-lx.md#paper-cash) is portable and accepted locally, but it can be damaged and its supply can expand. The best comparison depends on the purpose, place, and time.
+[Gold](mfb-bd-lx.md#gold) is durable and scarce but difficult to divide and transport for small payments. [Paper cash](mfb-bd-lx.md#paper-cash) is portable and accepted locally, but it can be damaged and its supply can expand. The best comparison depends on the purpose, place, and time.
 
 **Think critically:** Name a time when you chose one type of money or asset over another. What was the purpose? Compare the properties of the options you could have used. Which properties mattered most to you, and why?
 
