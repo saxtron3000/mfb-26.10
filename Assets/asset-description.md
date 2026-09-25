@@ -52,8 +52,8 @@
 
 **## BD-V-009**
 **Type:** Illustration
-**Purpose:**
-**Description:**
+**Purpose:** 
+**Description:** Create a clear, full-width editorial illustration of a three-person barter mismatch, using a warm, approachable, contemporary flat-vector style with clean shapes, generous white space, and high contrast. Arrange three equally prominent people in a loose triangle: Amina holds a bag of rice and has a clear want cue for shoes; Luis holds a pair of shoes and has a clear want cue for cooking oil; Mei holds a bottle or container of cooking oil and has a clear want cue for repair work, represented by simple repair tools. Between every possible pair, use visibly broken, interrupted, or mismatched directional arrows so the viewer immediately sees that no direct trade fulfills both sides' wants. Make each person's offered good and desired good distinct at a glance, with small editable label areas or easily replaceable visual tokens for localization; names and objects must not be baked into decorative typography. The image should communicate friction and incompleteness, not conflict or poverty: expressions are thoughtful and mildly puzzled, never distressed. Do not include money, coins, Bitcoin symbols, currency signs, prices, wallets, phones, QR codes, a successful exchange, or any solution; BD-V-010 alone depicts money-mediated exchange. Avoid stereotypes, national flags, brands, dense text, background clutter, and ambiguous arrows. Deliver a single self-contained failed-direct-exchange scene, suitable for print and screen, that supports the concept of double coincidence of wants without requiring a caption.
 
 **## BD-V-010**
 **Type:** Diagram
