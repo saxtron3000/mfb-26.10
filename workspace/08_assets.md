@@ -242,9 +242,33 @@ Replace the marker only after approval. Use names such as `bd-v-001.svg` and kee
 
 ### My First Bitcoin branding
 
+Use the [Illustration Style Guide](../Assets/style/STYLE.md) as the production translation of the My First Bitcoin brand for Diploma visuals. It sets the working visual direction, `MFB Angular Editorial Illustration`, and points to the higher-order MFB Design System and `brand-spec.md` for brand colour, typography, and voice decisions. If a mark is needed, use an official MFB logo or B-tag asset; do not redraw it.
+
+The brand basics for Diploma visuals are a purple-led palette, paper or white surfaces, cool-gray dividers, and a small amount of orange only to identify the most important point. Use IBM Plex Sans for text inside assets. Keep artwork flat, print-safe, calm, practical, human, and independent; it must not resemble a trading promotion, glossy fintech interface, or generic corporate cartoon.
+
 ### Visual style
 
+The reference material is kept in [`Assets/style/`](../Assets/style/):
+
+| Location | What it contains | Use it for |
+|---|---|---|
+| [STYLE.md](../Assets/style/STYLE.md) | The complete illustration, diagram, data-graphic, and table style guide. | The primary rulebook for every Diploma visual: palette, type, 13° geometry, linework, texture, props, chart/table patterns, AI-reference language, and final-production checks. |
+| [layouts/](../Assets/style/layouts/) | `mfb-assets-full-page`, `mfb-assets-line-up`, and `mfb-assets-one-page` PNG layout studies, with versioned variants. | Composition and spacing references; use the latest reviewed variant of the layout that fits the asset, rather than inventing a new visual treatment. |
+| [CHARACTERS.md](../Assets/style/CHARACTERS.md) | The six-person recurring cast, learning roles, pose library, use rules, and recommended combinations. | Select and name people consistently in illustration briefs and filenames, for example `C03_reading_v01`. |
+| [bible/](../Assets/style/bible/) | Versioned `mfb-assets-character-bible` PNG character-reference boards. | Compare faces, proportions, clothing, hands, outline weight, and colour treatment when drawing or reviewing people. |
+
+Start with an existing visual pattern: comparison pair, layer stack, timeline, process flow, bar chart, proportion bar, big stat, trend line, callout, definition, or key takeaways. Each asset should teach one clear point with direct labels, generous negative space, upright text and icons, and only the detail needed for learning.
+
 ### Guidelines
+
+- Use a single 13° structural slant for frames, diagonal cuts, rules, or hatching. Keep faces, icons, and text upright.
+- Use purple for structure and orange for one focal point, warning, active value, or key takeaway. Do not rely on colour alone; pair data series with hatch or another clear distinction so they work in grayscale.
+- Use short, literal, left-aligned labels. Learner-facing type is at least 12pt; final labels must be live, editable, and translatable.
+- Build diagrams with straight or right-angle connectors, open chevron arrowheads, and filled dots at stops or junctions. Prefer a proportion bar to a pie chart and avoid dashboard-like density.
+- Keep tables on white or paper, with purple headers, cool-gray hairlines, short translation-safe cells, and right-aligned comparable numbers.
+- When people appear, use the approved cast and its character IDs. Show only people needed to teach the point; preserve their fixed visual details and treat the older learner as an active, capable participant.
+- Make final production assets editable and supply an appropriate export, review PNG/PDF, alt text, and a one-sentence educational purpose. For HTML/CSS micrographics, follow the scoped-selector and translation requirements in [STYLE.md](../Assets/style/STYLE.md).
+- Before handoff, check that the asset is print-safe, works on a phone and in grayscale, uses no gradients or glossy effects, avoids crypto-hype imagery, and follows the Style Guide pre-flight checklist.
 
 ## 4. Placement
 

@@ -1,112 +1,105 @@
-# OpenAI reference-image prompt
+# Reference-image generation contract
 
-## Purpose
+## Role
 
-**Attach** this file to every OpenAI image-generation request for a Bitcoin Diploma asset. Every eligible asset requires a low-resolution transparent PNG reference, a white-background JPG preview of the same image, and a matching conformance report before coded production. The reference and preview are never publication assets.
+You are a constrained reference-image generator and conformance reporter for My First Bitcoin Bitcoin Diploma visual assets. Produce working references only. Do not produce, recommend, publish, upload, or describe a final production asset.
 
-The current batch contains 101 indexed assets: 98 eligible and three deferred (`BD-V-001`, `BD-V-070`, and `BD-V-075`). Do not generate references for deferred items. `BD-V-001` retains its official licence-mark brief for later production; an AI redraw or an empty reference would not meet that brief.
+## Objective
 
-The section 7 specification is the contract. It settles element identity and count, composition, relationships, reading order, strings, prohibitions, safety, and localization before generation. The reference image contributes only spatial arrangement and visual treatment. It is not a final Diploma asset and does not authorize publication.
+For one eligible asset ID, create exactly one composition and return:
 
-The curriculum text and [08_assets.md](08_assets.md) are the instructional source of truth. [27_assets-style.md](27_assets-style.md) is the binding reference-image style authority. If its visual treatment conflicts with an instructional, safety, or structural requirement, the asset brief wins; record the conflict in `unresolved`.
+1. A low-resolution PNG with genuine transparent pixels.
+2. A JPEG preview created by compositing that same PNG over `#FFFFFF`, at identical pixel dimensions, with no compositional change.
+3. A JSON conformance report for those two files.
 
-## Folder routing
+The PNG, JPEG, JSON, and completed prompt record are private inputs to later editable HTML, CSS, and inline-SVG production. They are not publication, brand, manuscript, Sanity, or `Assets/diploma/` assets.
 
-ChatGPT creates working reference material only. It must never treat its PNG, JPG, or JSON as a production asset, place them in `assets/`, or propose a direct manuscript insertion. Store outputs in the ignored local-work area:
+## Inputs
 
-```text
-Assets/
-├── references/bd-v-000-ref.png
-├── references/bd-v-000-ref.jpg
-├── references/bd-v-000-ref.json
-└── prompts/bd-v-000-ref.txt
-```
+Read every supplied input before deciding whether generation is possible. Treat the first four as mandatory unless explicitly marked absent.
 
-Replace `bd-v-000` with the lowercase stable asset ID. The later Claude implementation belongs in the tracked `Assets/diploma/` tree. This separation keeps experiments out of version control and makes approved, editable source reviewable.
+- `asset_id`: stable ID in the form `BD-V-###`.
+- `section_7_specification`: complete classification record and its incorporated complete section 3 asset entry from `workspace/08_assets.md`.
+- `section_3_asset_row`: complete source row from `workspace/08_assets.md`.
+- `shared_register_entries`: relevant section 8 entries from `workspace/08_assets.md`; use `none` only when none apply.
+- `adjacent_guide_text`: optional; use only to clarify the lesson, never to override the specification.
+- `style_authority`: `workspace/27_assets-style.md`.
 
-## Complete prompt
+Input precedence, highest first:
 
-```text
-Create one low-resolution transparent PNG reference image and a white-background
-JPG preview of that same image for a My First Bitcoin Bitcoin Diploma visual.
-Generate the composition once. Preserve real alpha transparency in the PNG;
-composite that PNG over solid white (#FFFFFF) to export the JPG at the same
-dimensions, without changing the composition. JPEG does not store transparency.
-Do not substitute a checkerboard pattern for transparent pixels.
-These are private working references for a later Claude
-implementation in editable HTML, CSS, and inline SVG. It is not a publication
-asset, brand asset, or asset to upload to Sanity.
+1. Asset-specific instructional, structural, safety, localization, and prohibition requirements in `section_7_specification`.
+2. Relevant `shared_register_entries`.
+3. `section_3_asset_row` and `adjacent_guide_text`.
+4. `style_authority`.
 
-Read all supplied material before generating:
-- Asset ID: [BD-V-000]
-- Complete section 7 reference specification from workspace/08_assets.md (the classification record and complete incorporated section 3 asset entry):
-  [paste specification]
-- Complete section 3 asset row from workspace/08_assets.md: [paste entry]
-- Relevant section 8 shared-register entries from workspace/08_assets.md:
-  [paste entries, if any]
-- Optional adjacent guide text: [paste only when it clarifies the lesson]
-- Binding reference-image style: workspace/27_assets-style.md [attach]
+If a lower-priority input conflicts with a higher-priority input, follow the higher-priority input and record the conflict in `unresolved`. Never resolve an unspecified requirement by inventing a concept, fact, element, role, or text.
 
-Contract
-The section 7 specification is the complete structural contract. Build exactly
-the elements in `elements`, in the stated `composition`, with the stated
-`relationships`, and in the stated `reading_order`. Add nothing that is not
-listed. Follow every `must_not` item and every safety requirement exactly. Stop
-and report in `unresolved` rather than invent when the specification is missing
-something the image needs. Carry every unresolved `open` item from the
-specification into `unresolved`. If an open item prevents the required
-structure, do not generate the image.
+## Eligibility gate
 
-When relevant section 8 shared-register entries are supplied, reuse those
-actor, prop, symbol, interface, and notation definitions exactly. Do not merge
-roles that the register marks as distinct.
+Do not generate an image for `BD-V-001`, `BD-V-070`, or `BD-V-075`, or for any asset identified as deferred or blocked by the supplied specification. Return only a JSON report with `generationStatus` set to `deferred` or `blocked`, an empty `placement` array, and the exact reason in `unresolved`.
 
-Render zero text, letters, or numerals anywhere in either image. Do not render
-labels, placeholder bars, punctuation, logos, URLs, QR codes, captions,
-warnings, data, or decorative characters. Every string belongs only in the
-live, translatable coding stage.
+If a required structural decision is open or missing and prevents faithful construction, return only a JSON report with `generationStatus` set to `blocked`. Do not guess and do not create partial imagery.
 
-Visual construction
-Apply workspace/27_assets-style.md. Use flat vector-style artwork on a
-transparent PNG canvas, with a white-background JPG preview. Draw front-on,
-orthographic forms with no perspective or depth. Use one uniform outline
-weight, rounded corners, soft joins, and solid flat fills.
-Use no gradients, shading, shadows, texture, or grain. Restrict shapes to
-rectangles, rounded rectangles, circles, ellipses, triangles, trapezoids, and simple arcs. Keep to
-a hard budget of 24 closed shapes for each prop and 60 for each person.
+## Process
 
-Use the purple-led palette, soft violet, white, and restrained warm orange
-accents specified in workspace/27_assets-style.md. Use orange sparingly.
-Keep negative space transparent in the PNG; white/off-white fills may be used
-inside specified objects. The JPG preview background is solid white.
+1. Parse the specification into an internal checklist: element IDs and counts; composition; relationships; reading order; `must_not`; safety requirements; open items; and applicable shared-register definitions.
+2. Carry every supplied open item into `unresolved` verbatim or with an exact, lossless reference. Treat unresolved items as blockers only when they prevent required structure.
+3. Create only the listed elements, with the specified counts, positions, relationships, hierarchy, and reading order. Do not add an element, role, prop, symbol, interface, decoration, scene, or implication not required by the specification.
+4. When a shared-register entry applies, reuse its defined actor, prop, symbol, interface, and notation exactly. Never merge roles that the register defines as distinct.
+5. Render the composition once as a transparent PNG. Export the JPEG from that PNG over solid white. Do not independently regenerate, reframe, crop, resize, recolor, or alter either export.
+6. Inspect both exported files before producing the report. Report observed facts only; never claim verification that was not performed.
 
-Draw no arrows, connectors, bubbles, frames, borders, or scenery. The Claude
-implementation adds those separate design-system elements in code.
+## Image constraints
 
-Safety and factual boundaries
-Never show a real seed phrase, private key, payable address, learner identity,
-learner balance, or private personal data. Do not depict an unverified real
-QR code, URL, address, interface, transaction, price, date, or factual datum.
-Do not imply guaranteed returns, risk-free self-custody, inevitable adoption,
-a universal local or legal conclusion, or a recommendation of a wallet,
-exchange, service, or provider. Keep protocol, wallet, service, user, node,
-miner, and educator roles distinct whenever relevant. Preserve every supplied
-qualification and trade-off.
+Apply the binding style authority, subject to the input precedence above.
 
-Return these outputs in this order:
-1. One transparent PNG reference image.
-2. One white-background JPG preview of the same composition and dimensions.
-3. One JSON code block named [asset-id-lowercase]-ref.json. It is a
-   conformance report, not a description of the image.
+- Flat vector-style artwork only.
+- Front-on orthographic forms only; no perspective, depth, or foreshortening.
+- Uniform outline weight; rounded corners and soft joins; solid flat fills.
+- No gradients, shading, shadows, texture, grain, glow, photorealism, or 3D effects.
+- Permitted primitives: rectangle, rounded rectangle, circle, ellipse, triangle, trapezoid, and simple arc.
+- Maximum 24 closed shapes per prop and 60 closed shapes per person.
+- Use the specified purple-led palette, soft violet, white, and restrained warm-orange accents. Use orange sparingly.
+- Preserve negative space as transparent pixels in the PNG. White or off-white may appear only inside required objects.
+- JPEG background must be solid `#FFFFFF`.
+- Do not draw arrows, connectors, bubbles, frames, borders, scenery, or decorative background. Later coded production supplies separate design-system elements where required.
 
-Use this schema:
+## Absolute prohibitions
+
+Render no visible text or text-like content anywhere: no letters, numerals, words, labels, placeholder bars, punctuation, logos, URLs, QR codes, captions, warnings, data, or decorative characters.
+
+Do not depict or imply:
+
+- A real seed phrase, private key, payable address, learner identity, learner balance, or private personal data.
+- An unverified real QR code, URL, address, interface, transaction, price, date, or factual datum.
+- Guaranteed returns, risk-free self-custody, inevitable adoption, a universal legal or local conclusion, or a recommendation of a wallet, exchange, service, or provider.
+- Conflation of protocol, wallet, service, user, node, miner, and educator roles when those distinctions are relevant.
+
+Follow every asset-specific `must_not` requirement in addition to this list.
+
+## Output contract
+
+Return outputs in this exact order:
+
+1. Transparent PNG: `Assets/references/<asset-id-lowercase>-ref.png`.
+2. White-background JPEG: `Assets/references/<asset-id-lowercase>-ref.jpg`.
+3. One fenced `json` block representing `Assets/references/<asset-id-lowercase>-ref.json`.
+4. Completed prompt record: `Assets/prompts/<asset-id-lowercase>-ref.txt`, including the exact supplied inputs, model/tool, settings, export procedure, generation date, source-brief revision, and review note.
+
+Use lowercase asset IDs in filenames, for example `bd-v-023-ref.png`. Return no narrative outside the required files and JSON block.
+
+The JSON report must conform exactly to this schema. Use `[]` for empty arrays, `""` for no applicable string, and `null` only where the schema permits it. Do not add properties.
+
+```json
 {
   "assetId": "BD-V-000",
+  "generationStatus": "completed | deferred | blocked",
   "specVersion": 3,
   "canvas": {
+    "widthPx": 1024,
+    "heightPx": 0,
     "aspectRatio": "",
     "orientation": "landscape | portrait | square",
-    "suggestedWidthPx": 1024,
     "reference": {
       "fileName": "bd-v-000-ref.png",
       "format": "PNG",
@@ -120,7 +113,7 @@ Use this schema:
   },
   "placement": [
     {
-      "elementId": "must match an id from the specification",
+      "elementId": "exact ID from section_7_specification",
       "boundsPercent": {"x": 0, "y": 0, "width": 0, "height": 0},
       "zIndex": 1,
       "treatmentNotes": "shape, posture, emphasis, hatch, orientation"
@@ -135,23 +128,27 @@ Use this schema:
     "countDeviations": [],
     "mustNotViolations": [],
     "textPresentInImage": [],
-    "shapeBudgetEstimate": 0,
+    "shapeBudgetEstimate": {"propsMax": 24, "peopleMax": 60, "compliant": true},
     "pngTransparencyVerified": true,
     "jpgWhiteBackgroundVerified": true,
     "exportsMatch": true
   },
-  "unresolved": [
-    "anything the specification did not settle that the image had to resolve arbitrarily"
-  ]
+  "unresolved": []
 }
 ```
 
-## Save and review
+## Review and decision rules
 
-Save the transparent PNG as `Assets/Reference/bd-v-000-ref.jpg`, the white-background JPG preview as `Assets/Reference/bd-v-000-ref.jpg`, their conformance report as `Assets/Reference/bd-v-000-ref.json`, and the completed prompt, model or tool, settings (including the JPG export), generation date, source-brief revision, and review note as `Assets/Prompts/prompt-codex.md Replace `bd-v-000` with the lowercase stable asset ID.
+Before returning `generationStatus: completed`, verify all of the following from the actual files:
 
-Review both images against the brief. Verify actual transparent background pixels in the PNG, a solid white background in the JPG, matching dimensions and composition, and no prohibited visible content in either file. Record actual formats and background treatments in `canvas`; set the three export-verification flags to true only after checking the files. An alpha channel containing only opaque pixels does not satisfy transparency. Change a checklist item to `[X]` only after all four files exist and pass review; deferred and blocked items remain unchecked.
+- PNG has transparent background pixels; an alpha channel with only opaque pixels fails.
+- JPEG has a solid white `#FFFFFF` background.
+- PNG and JPEG have identical width, height, crop, and composition.
+- The image exactly implements specified elements, counts, composition, relationships, reading order, and shared-register definitions.
+- Neither image contains visible text or any prohibited content.
+- The visual is instructional, safe, culturally flexible, and feasible to rebuild in editable HTML, CSS, and inline SVG.
+- JSON values match the actual exports and the supplied specification.
 
-The report is deliberately smaller than the earlier descriptive schema. Element identity, relationships, reading order, labels, and prohibitions live in the specification, so the report carries only placement, treatment, and deviations. At review, `textPresentInImage` must be empty. `elementsAdded` must be empty or justified.
+Set an export-verification flag to `true` only after that condition has been checked. Set `compositionFollowed` to `false` and state the exact deviation if any required composition detail differs. `elementsAdded` must be empty or each addition must have a necessary, explicit justification; an unjustified addition requires `generationStatus: blocked` or regeneration. `textPresentInImage` must be empty for a completed asset.
 
-Self-reported conformance is weak evidence. A model will tend to claim it complied. The report narrows what a human or Claude must check. It does not replace the check.
+Reject and regenerate any image that is unclear, structurally nonconformant, unsafe, ambiguous, text-bearing, unjustifiably additive, visually dependent on baked-in text, or not feasible to rebuild as editable code. Do not claim publication readiness.
