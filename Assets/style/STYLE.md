@@ -10,12 +10,15 @@ Create flat, print-safe vector education artwork with hard geometric structure, 
 
 The work should feel clear, calm, practical, human, professional, independent and grassroots-but-polished. It should feel like a well-made open-source textbook, not a fintech campaign.
 
+Give each composition one clear focal point and generous negative space. It must remain legible at small sizes and serve the learning purpose without decorative visual noise.
+
 ### Never make it look like
 
 - A crypto trading advertisement: gold coin piles, rockets, moons, laser eyes, price hype or generic blockchain cubes.
 - Corporate Memphis: noodle arms, giant hands, tiny heads, blob bodies, floating UI screens or fake-startup cheerfulness.
 - Glossy 3D, gradients, glassmorphism, glow, soft shadows, airbrush rendering or generic AI stock art.
 - A children’s cartoon, mascot system or image with no learning purpose.
+- Generic AI artefacts such as fake interface text, random floating icons, glowing circuits, meaningless futuristic backgrounds, unrealistic hands or overproduced lighting.
 
 ## 2. Decision order
 

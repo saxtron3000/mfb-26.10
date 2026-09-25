@@ -4,12 +4,12 @@ This is the working list for the 2026.10 review. Start with the open items below
 
 ## What needs attention
 
-**17 of 30 actions are still open.** Start with the safety and certificated-delivery work, then clear the publication blockers.
+**18 of 33 actions are still open.** Start with the safety and certificated-delivery work, then clear the publication blockers.
 
 | Do this first | Why it matters | Tasks |
 |---|---|---|
 | Make delivery safe and ready to certify | Do this before a certificated delivery. | `ACT-022` Remove the unsafe wallet exercise; `ACT-002` align assessor scoring; `ACT-003` agree record and certificate rules. |
-| Make the materials ready to publish | Do this before release. | `ACT-009`, `ACT-011`, `ACT-023`, `ACT-024`, and `ACT-019`. |
+| Make the materials ready to publish | Do this before release. | `ACT-009`, `ACT-011`, `ACT-023`, `ACT-024`, `ACT-028`, and `ACT-019`. |
 | Improve and maintain the materials | Important, but does not by itself block release. | `ACT-007`, `ACT-010`, `ACT-013`, `ACT-021`, `ACT-025`, and `ACT-026`. |
 
 `ACT` means a task. `DEC` is a past decision kept for reference. `ANN` is an old reviewer note; it is not an approval or a current task.
@@ -29,6 +29,7 @@ Use this table to find the task. The detailed entry below has the supporting lin
 | ACT-011 | Review the optional self-check | Needs checking | publication | — |
 | ACT-023 | Make every activity usable | Open | publication | ACT-022 |
 | ACT-024 | Support claims in Activities 001 and 002 | Open | publication | — |
+| ACT-028 | Produce or explicitly defer every guide visual | Open | publication | ACT-013, EVO-002 for the app panel |
 | ACT-019 | Do the final publication check | Blocked | publication | ACT-009, ACT-011, ACT-013 |
 | ACT-025 | Show an eight-hour route for a real class | Open | next cohort | ACT-001 |
 | ACT-007 | Add editable teaching slides | Open | ongoing maintenance | — |
@@ -36,6 +37,8 @@ Use this table to find the task. The detailed entry below has the supporting lin
 | ACT-013 | Choose and track essential visuals | In progress | ongoing maintenance | — |
 | ACT-021 | Reduce assessed competencies to seven | Open | ongoing maintenance | — |
 | ACT-026 | Remove repeated guide content and fix `BD-V-049` | In progress | ongoing maintenance | ACT-013 |
+| ACT-029 | Repair the source-of-truth map links | Done | ongoing maintenance | — |
+| ACT-030 | Retire the duplicate asset style guide | Done | ongoing maintenance | — |
 | AST-001 | Supply the official test-network address and network label for `BD-V-036` | Open | asset production | My First Bitcoin confirmation |
 | AST-002 | Supply the official test Lightning invoice, amount, description, expiry, and network for `BD-V-078` | Open | asset production | My First Bitcoin confirmation |
 | AST-003 | Supply an approved active Lightning address for `BD-V-080` | Open | asset production | My First Bitcoin confirmation |
@@ -58,7 +61,7 @@ Use this table to find the task. The detailed entry below has the supporting lin
 | ACT-020 | Explain educator-issued certificates | project lead | — |
 | ACT-027 | Align module guiding questions | unassigned | — |
 
-### Review-run intake, 2026-09-21
+### Review-run intake, 2026-09-25
 
 Each completed review run below is represented by a current action or finding in this register. A run record is review evidence, not an authority or completion claim.
 
@@ -69,6 +72,9 @@ Each completed review run below is represented by a current action or finding in
 | Cynical editor | [full-release cynical-editor run](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings) | `ACT-022`–`ACT-027`; `CYN-005` is also tracked by `ACT-008`, `CYN-006` by `ACT-011`, and `CYN-007` by `PUB-002`. |
 | Style | [full-release style run](runs/2026-09-21-full-release-style.md#findings-created-or-updated) | Existing `ACT-001`–`ACT-003`, `ACT-004`, `ACT-008`–`ACT-013`, and `ACT-015`–`ACT-019`; its completed editorial corrections remain recorded in that run. |
 | To-do control | [full-release to-do run](runs/2026-09-21-full-release-todo.md#findings-created-or-updated) | Existing `ACT-003`, `ACT-008`, `ACT-016`, `ACT-018`, and the register-wide status/evidence review. |
+| Alignment | [asset-migration change review](runs/2026-09-25-change-assets-alignment.md#findings-created-or-updated) | `ACT-028`, `EVO-002`, and `ACT-029`. |
+| Cynical editor | [asset-migration change review](runs/2026-09-25-change-assets-cynical.md#cynical-editor-findings) | `CYN-001`, routed to `ACT-028`. |
+| Style | [asset-migration change review](runs/2026-09-25-change-assets-style.md#findings-created-or-updated) | Confirms `ACT-028`, `ACT-029`, and `ACT-030`; no prose change applied. |
 
 ## How to use this list
 
@@ -81,7 +87,7 @@ Do not invent an approval, an owner, a test result, or a completed review. For e
 ## Recommended work order
 
 1. Fix the safety and certificated-delivery blockers: `ACT-022`, `ACT-002`, and `ACT-003`.
-2. Finish the publication blockers: `ACT-009`, `ACT-011`, `ACT-023`, and `ACT-024`.
+2. Finish the publication blockers: `ACT-009`, `ACT-011`, `ACT-023`, `ACT-024`, and `ACT-028`.
 3. Test the eight-hour route for a real class (`ACT-025`).
 4. Complete the remaining maintenance work, then run `ACT-019` as the final check.
 
@@ -213,7 +219,7 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 <a id="act-013-control-visual-production-scope"></a>
 
-  - Status: in-progress | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: maintenance | Evidence: [visual index:116](../workspace/08_assets.md:116#3-visual-index) records scope, rights, alt text, placement, and review requirements, but source publications still contain unproduced visual markers such as [BD-V-001:13](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:13) | Depends on: none | Completion evidence: planning controls exist; essential asset selection and production verification remain incomplete.
+  - Status: in-progress | Owner: unassigned | Updated: 2026-09-25 | Severity: medium | Release impact: maintenance | Evidence: [visual index](../workspace/08_assets.md#2-visual-index) records scope, rights, alt text, placement, and review requirements; [asset production log](../Assets/assets-list.md) records 101 generic briefs but zero asset-specific reference images, uploads, or production packages; [asset-migration alignment run](runs/2026-09-25-change-assets-alignment.md#findings-created-or-updated) | Depends on: none | Completion evidence: planning controls exist; essential asset selection and production verification remain incomplete.
 
   - Acceptance: an approved essential-visual list and production tracker exist.
 
@@ -258,7 +264,7 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 <a id="act-019-complete-the-final-publication-verification-pass"></a>
 
-  - Status: blocked | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: [full-release style run](runs/2026-09-21-full-release-style.md#findings-created-or-updated), [full-release to-do run](runs/2026-09-21-full-release-todo.md#findings-created-or-updated), and remaining external-link-verification, accessibility/device-test, and visual-production work under `ACT-009`, `ACT-011`, and `ACT-013` | Depends on: ACT-009, ACT-011, ACT-013 | Completion evidence: dependency checks remain incomplete.
+  - Status: blocked | Owner: unassigned | Updated: 2026-09-25 | Severity: high | Release impact: publication blocker | Evidence: [full-release style run](runs/2026-09-21-full-release-style.md#findings-created-or-updated), [full-release to-do run](runs/2026-09-21-full-release-todo.md#findings-created-or-updated), and remaining external-link-verification, accessibility/device-test, and visual-production work under `ACT-009`, `ACT-011`, `ACT-013`, and [ACT-028](#act-028-produce-or-explicitly-defer-every-guide-visual) | Depends on: ACT-009, ACT-011, ACT-013, ACT-028 | Completion evidence: dependency checks remain incomplete.
 
   - Acceptance: the edition has a dated verification record distinguishing passed checks, remaining blockers, and checks not performed. No historical audit count is presented as a fresh result.
 
@@ -283,6 +289,20 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 - [ ] **ACT-026: Remove repeated guide content and fix `BD-V-049`.** Keep only useful recaps, move educator-only detail out of learner front matter, and remove the duplicate or mismatched visual marker and alt text.
 
   - Status: in-progress | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: maintenance | Evidence: [Student Guide on-chain and Lightning marker](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#on-chain-and-lightning-payments) now has one `BD-V-049` marker with payment-path alt text; [CYN-008](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings) retains the broader guide-architecture finding | Depends on: ACT-013 | Completion evidence: the duplicate and mismatched adjacent `BD-V-049` marker is removed; recap consolidation and the visual-production dependency remain open.
+
+- [ ] **ACT-028: Produce or explicitly defer every guide visual.** Do not treat a generic design-brief template as a finished visual asset.
+
+  - Status: open | Owner: unassigned | Reported: 2026-09-25 | Severity: high | Release impact: publication blocker | Evidence: [asset-migration alignment run](runs/2026-09-25-change-assets-alignment.md#findings-created-or-updated), [asset-migration cynical run](runs/2026-09-25-change-assets-cynical.md#cynical-editor-findings), and [asset production log](../Assets/assets-list.md) show 101 generic briefs but no asset-specific references, uploads, or production packages; the guides contain 138 `ASSET` references to those brief templates | Depends on: ACT-013 and `EVO-002` for the [My First Bitcoin App](https://myfirstbitcoin.app/) QR panel | Completion evidence: every retained visual marker resolves to an approved, rendered production asset with its required alt text, rights/source record, and placement check; each deliberately deferred location is visibly marked as deferred and does not imply a finished visual.
+
+  - Populate each retained brief from its current asset-index row, produce and review the final editable asset and export, then replace the marker only after approval. Do not produce the app QR until the identifier conflict in `EVO-002` is resolved.
+
+- [x] **ACT-029: Repair the source-of-truth map links.** The map must not name workspace documents that do not exist.
+
+  - Status: done | Owner: unassigned | Reported: 2026-09-25 | Completed: 2026-09-25 | Severity: medium | Release impact: maintenance | Evidence: [workspace index reading order](../workspace/00_index.md#recommended-reading-order) now links entries 22–25 to the existing [design-brief](../Assets/prompts/prompt-00-brief.md), [JSON-reference](../Assets/prompts/prompt-01-json.md), [JPEG-reference](../Assets/prompts/prompt-02-jpg.md), and [production-asset](../Assets/prompts/prompt-03-mg.md) workflow contracts; the four stale `workspace/22_`–`25_` links were removed. [Asset workflow](../workspace/08_assets.md#6-asset-workflow) confirms the JSON, JPEG, and production-contract sequence. | Depends on: none | Completion evidence: each listed entry opens the approved current document, or the index is corrected to the authoritative existing path with no stale map entry.
+
+- [x] **ACT-030: Retire the duplicate asset style guide.** Preserve compatible guidance in the active production and review controls, then remove the obsolete working note.
+
+  - Status: done | Owner: unassigned | Reported: 2026-09-25 | Completed: 2026-09-25 | Severity: low | Release impact: maintenance | Evidence: the obsolete `workspace/27_assets-style.md` was removed; the active [Illustration Style Guide](../Assets/style/STYLE.md#1-visual-direction) now requires a clear focal point, generous negative space, and rejection of the retained note’s generic-AI artefacts; [style review control](review_style.md#prompt-6-review-structure-formatting-and-visual-support) now checks those points. [Asset-migration style run](runs/2026-09-25-change-assets-style.md#findings-created-or-updated) remains the historical finding. | Depends on: none | Completion evidence: compatible guidance is held in active controls, and no duplicate workspace style guide remains.
 
 
 - [x] **ACT-027: Use the same guiding question for each module everywhere.** Align the Student Guide, Educator Guide, and relevant assessment prompts, unless a different audience version is clearly intentional.
@@ -497,6 +517,12 @@ For a `PUB-` entry, start with the required structured record above, then record
 Status: done | Owner: project lead | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker resolved | Evidence: [full-release alignment run](runs/2026-09-21-full-release-alignment.md#findings-created-or-updated); `workspace/03_scope.md`, `workspace/04_design.md`, `workspace/06_plan.md`, `workspace/16_spec.md`, `workspace/18_horizon.md`, and public release wording now define the offline print/PDF package, online PDF, and website-ready Sanity content as October outputs while reserving online-cohort, self-paced, optional-app, and cross-modal instructional branches for future work | Depends on: none | Completion evidence: affected authority and public wording use one approved October output boundary.
 
 Earlier file/heading: `workspace/06_plan.md`, `## 3. Legacy Content Migration` and `## 8. October 2026 Output` | Later file/heading: `workspace/03_scope.md`, `## 15. Publishing System`; `workspace/16_spec.md`, `## Materials And Outputs` | Historical issue: authorities disagreed on whether online PDF and web outputs were October deliverables or future branches | Resolution: `DEC-07` makes them October publication outputs through Sanity, while online-cohort, self-paced, optional-app, and cross-modal instructional branches remain future work | Evidence: `ACT-015` and the aligned affected files above.
+
+#### EVO-002: The [My First Bitcoin App](https://myfirstbitcoin.app/) QR asset identifier conflicts
+
+Status: open | Owner: unassigned | Reported: 2026-09-25 | Severity: high | Release impact: publication blocker | Evidence: [repository guidance](../AGENTS.md), which requires `BD-V-075` for the [My First Bitcoin App](https://myfirstbitcoin.app/) QR; [asset index](../workspace/08_assets.md#2-visual-index), which assigns that QR to `BD-V-076` and defers `BD-V-075`; and [asset-migration alignment run](runs/2026-09-25-change-assets-alignment.md#findings-created-or-updated) | Depends on: none | Completion evidence: one authorized asset ID and placement rule is recorded in every governing source, and every guide marker, brief, production record, and related reference uses it consistently.
+
+Earlier file/heading: repository guidance, [My First Bitcoin App](https://myfirstbitcoin.app/) QR rule | Later file/heading: `workspace/08_assets.md`, `## 2. Visual index`, `BD-V-075` and `BD-V-076` | Issue: the higher-priority repository rule requires `BD-V-075` for the app QR, but the new asset index reserves that ID for a deferred certificate-verification concept and changes the active QR to `BD-V-076` | Why it matters: production can create, place, or verify the wrong QR asset and violate the publication guardrail | Authority/evidence: the sources above conflict directly | Affected files: `workspace/08_assets.md`, both guides, `Assets/Briefs/bd-v-075-brief.md`, `Assets/Briefs/bd-v-076-brief.md`, and `Assets/assets-list.md` | Recommended action: obtain an authorized reconciliation, update the governing source first, then update all dependent markers and production records through `ACT-028`.
 
 #### PUB-001: Certificate wording now reflects educator-issued certification
 

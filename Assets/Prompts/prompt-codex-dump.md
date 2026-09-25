@@ -6,11 +6,11 @@ Create reviewed working references only, per eligible Bitcoin Diploma asset: tra
 
 ## Inputs
 
-Read before batch: `workspace/08_assets.md`, `workspace/22_openai-reference-image-prompt.md`, `workspace/24_codex-reference-image-prompt-checklist.md`, `workspace/26_codex-reference-image-batch-prompt.md`, `workspace/27_assets-style.md`.
+Read before batch: `workspace/08_assets.md`, `workspace/22_openai-reference-image-prompt.md`, `workspace/24_codex-reference-image-prompt-checklist.md`, `workspace/26_codex-reference-image-batch-prompt.md`, `Assets/style/STYLE.md`.
 
 Per ID: complete section-3 brief as incorporated by section-7 classification record; relevant section-8 shared-register entries; adjacent guide excerpt only if it clarifies the lesson. The source files, rather than a copied queue here, contain all 101 briefs and checklist states.
 
-Authority: asset brief/section 7 = instructional/structural contract (elements, counts, composition, relationships, reading order, strings, exclusions, safety, localization, caption/alt text, verification, editable-text needs, related-asset boundary, placement). `08_assets.md`/curriculum = instructional truth. Section 8 = reusable definitions; do not merge distinct roles. `27_assets-style.md` = reference visual style. Brief wins over style; record conflict in `unresolved`.
+Authority: asset brief/section 7 = instructional/structural contract (elements, counts, composition, relationships, reading order, strings, exclusions, safety, localization, caption/alt text, verification, editable-text needs, related-asset boundary, placement). `08_assets.md`/curriculum = instructional truth. Section 8 = reusable definitions; do not merge distinct roles. `Assets/style/STYLE.md` = reference visual style. Brief wins over style; record conflict in `unresolved`.
 
 Interpret index fields: `ID` stable; `Suggested by`, historic `Page`/`Note`, and source locator = provenance only; `Priority` = planning only, never lower review; `Placement`, `Text–visual link`, `Design brief`, `Format` = binding. Every ID is independently placeable; never combine adjacent/related assets.
 

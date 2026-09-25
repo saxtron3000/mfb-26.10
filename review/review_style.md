@@ -96,6 +96,8 @@ Write every mention of the [My First Bitcoin App](https://myfirstbitcoin.app/) w
 
 Check that graphics, diagrams, tables, examples, activities, glossary terms, educator guidance, and Advanced references have a coherent visual treatment. Recommend a graphic only when it improves understanding. Preserve room for learner responses. Verify alt text, rights, source, file, and review status for retained assets. Keep exact source headings aligned with the asset index. Do not mistake an asset brief for a produced asset.
 
+For visual briefs and produced assets, check that each composition has one clear focal point, generous negative space, and a visible teaching purpose at small sizes. Reject decorative visual noise and generic AI artefacts, including fake interface text, random floating icons, glowing circuits, meaningless futuristic backgrounds, unrealistic hands, and overproduced lighting. Apply the current [Illustration Style Guide](../Assets/style/STYLE.md) for production direction.
+
 ## Prompt 7: Check publication mechanics
 
 Own the wording, formatting, and local Markdown mechanics of relative links, heading anchors, source paths, stale line references, placeholders, and production notes. Refer public-URL policy, link purpose, and release impact to the alignment review; record every destination in the appropriate link register. Replace conditional production headings with final learner language only when the inclusion decision is settled. Keep changing destinations and current-data claims in the verification queue until actually checked and dated.

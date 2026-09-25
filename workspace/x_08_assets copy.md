@@ -544,7 +544,7 @@ The current reference batch has 101 indexed items: 98 eligible and three deferre
 7. **Prepare the Sanity project.** Save the approved implementation and its supporting metadata in a tracked `Assets/diploma/` subfolder. Download or export the project as required for Sanity and verify that the published result matches the approved source.
 8. **Insert only after approval.** Replace the source marker or add the Markdown reference only when the coded asset has passed curriculum, technical, accessibility, and localization review. Update this index if the anchor, text, or visual meaning changes.
 
-The workflow is provisional and may change as the Sanity implementation develops. The source of truth for instructional content is the curriculum text and this visual index; [27_assets-style.md](27_assets-style.md) controls reference-image styling, the Claude Design System controls coded production styling, and the approved coded asset is the publication source. The generated reference images are not sources of truth.
+The workflow is provisional and may change as the Sanity implementation develops. The source of truth for instructional content is the curriculum text and this visual index; [Illustration Style Guide](../Assets/style/STYLE.md) controls reference-image styling, the Claude Design System controls coded production styling, and the approved coded asset is the publication source. The generated reference images are not sources of truth.
 
 ### Reusable prompt attachments
 
