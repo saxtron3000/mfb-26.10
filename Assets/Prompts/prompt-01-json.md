@@ -38,6 +38,8 @@ Do not read `workspace/08_assets.md` during normal JSON creation. Consult it onl
 5. Review the record against the design brief. When style references were consulted, also confirm that the recorded clarification faithfully resolves the documented issue. Correct it before marking it complete.
 6. Only when the JSON record exists and passes every review check, update the corresponding row in `Assets/assets-list.md` from `Not created` to `Created — \`Assets/reference/bd-v-###-ref.json\``. Update the JSON-reference total so it equals the number of asset-specific JSON records marked created.
 
+Carry every open decision in the brief into `unresolved`, including decisions that do not prevent creation. State the decision, its source, and its production consequence; do not silently resolve or omit it.
+
 If a required source is absent or an essential design decision is unresolved, do not update `Assets/assets-list.md`. Create a record with `status` set to `blocked` and explain the exact issue in `unresolved`. Consult `workspace/08_assets.md` only if this is a brief conflict or incompleteness that it can resolve.
 
 ## Content and safety rules

@@ -2,6 +2,22 @@ Build a My First Bitcoin Diploma micrographic.
 
 What it should show: [describe the content, the pieces, and any exact numbers or labels]
 
+Use the supplied asset brief as the binding content contract. Preserve its
+required elements, reading order, exact strings, exclusions, safety guidance,
+localization needs, caption, and alt-text requirements. If an essential fact,
+label, number, URL, or requirement is missing or conflicts with another
+supplied source, identify the gap rather than inventing it.
+
+Make every essential visual element editable HTML, CSS, or inline SVG; do not
+use raster images as diagram content. Do not rely on colour alone—also use
+shape, position, line style, pattern, or text—and allow translated text to
+grow. Never include a real seed phrase, private key, payable address, private
+learner data, balance, or transaction. Do not imply investment returns,
+guaranteed outcomes, risk-free self-custody, or universal legal conclusions.
+
+Before returning, verify the required elements and relationships, factual
+accuracy, readable 458px layout, print safety, and grayscale legibility.
+
 First, choose two things for me and state them at the top of your reply:
 - a short, descriptive title (a few words, e.g. "The Bitcoin Halving");
 - a slug derived from the title — lowercase, words joined by single hyphens,
@@ -9,7 +25,8 @@ First, choose two things for me and state them at the top of your reply:
 
 Then produce four files: micrographic.html, micrographic.css, a meta.json
 ({"bundleVersion":1, "title":"…", "slug":"<slug>", "altText":"one plain
-sentence describing the visual", "caption":""}), and a self-contained preview.html.
+sentence describing the visual", "caption":"", "editableText":true}), and a
+self-contained preview.html.
 
 Follow these rules exactly:
 1. Wrap everything in a single root element <div class="mg-<slug>">, and
