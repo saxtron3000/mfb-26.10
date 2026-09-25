@@ -21,7 +21,7 @@ Authority order:
 
 Conflict, essential missing fact, or section-7 `open` item blocking structure: stop and report exact issue; do not invent labels, numbers, providers, URLs, legal/safety claims, facts, values, QR destinations, or schema fields/endpoints. Reject/revise reference before use if it contains text or unjustified additions.
 
-Interpret asset-index fields: stable `ID`; `Suggested by`/historic `Page`/`Note` provenance only; `Priority` never lowers review; `Type` visual family; `Placement` authoritative guide/heading/insertion and folder choice; `Line` stale locator only; `Text–visual link` single teaching relationship; `Design brief` binding contract; `Format` responsive/print role. Preserve every qualifier, prohibition, related-asset boundary, accessibility/localization/editability requirement.
+Interpret asset-index fields: stable `ID`; `Suggested by`/historic `Page`/`Note` provenance only; `Priority` never lowers review; `Type` visual family and, for a table, whether it is a stand-alone addition or a replacement; `Placement` authoritative guide/heading/insertion and folder choice; `Line` stale locator only; `Text–visual link` single teaching relationship; `Design brief` binding contract; `Format` responsive/print role. Preserve every qualifier, prohibition, related-asset boundary, accessibility/localization/editability requirement.
 
 ## Process
 

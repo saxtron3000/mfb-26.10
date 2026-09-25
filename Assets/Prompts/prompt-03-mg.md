@@ -28,7 +28,7 @@ Every request supplies one complete row from [08_assets.md](08_assets.md). Claud
 | `ID` | Stable asset identifier. Use its lowercase form for the project directory and metadata; do not rename it. |
 | `Suggested by` | Provenance only. It is not a design instruction, factual source, or approval state. |
 | `Priority` | Planning importance (`Essential`, `Supporting`, or `Conditional`), not authorization to publish or lower review standards. A `Conditional` asset waits for its stated decision or verification. |
-| `Type` | Required visual family: a structured comparison/template (`Table`), relationship/process/map/timeline (`Diagram`), or illustration/source/interface representation (`Image`). |
+| `Type` | Required visual family: a new structured comparison/template that keeps adjacent guide text (`Table (Standalone)`); a structured comparison/template that replaces an existing guide table (`Table (Replacement)`); relationship/process/map/timeline (`Diagram`); or illustration/source/interface representation (`Image`). |
 | `Page` and `Note` | Historic annotated-draft provenance. Do not use them as a current page layout, placement, or factual source. |
 | `Placement` | Authoritative intended insertion: the guide, exact heading, and before/after/replace instruction. Use it to choose `student-guide`, `educator-guide`, or `shared`; preserve all listed placements in metadata. |
 | `Line` | A one-based location snapshot only. Re-find the anchor through the named heading and nearby described text if it has shifted. |
@@ -83,7 +83,7 @@ when `elementsAdded` is not empty and not justified.
 
 Interpret every asset-index field before implementation: `ID` is the stable
 identifier; `Suggested by` is provenance only; `Priority` signals planning
-importance but never reduces review; `Type` selects the visual family; `Page`
+importance but never reduces review; `Type` selects the visual family and, for a table, whether it is stand-alone or a replacement; `Page`
 and `Note` are historical provenance only; `Placement` is the current guide,
 heading, and insertion authority; `Line` is only a potentially stale locator;
 `Text–visual link` defines the one relationship to make clear; `Design brief`
