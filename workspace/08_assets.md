@@ -71,10 +71,11 @@ assets/
 │   └── bd-v-###-brief.md        # one brief for each required asset
 └── Reference/
     ├── bd-v-###-ref.json        # Codex reference record
-    └── bd-v-###-ref.jpg         # Codex-generated JPEG reference
+    ├── bd-v-###-ref.svg         # Codex-generated SVG reference
+    └── bd-v-###-ref.png         # Codex-generated PNG rendering
 ```
 
-Use lowercase names and three digits: `bd-v-###-brief.md`, `bd-v-###-ref.json`, and `bd-v-###-ref.jpg`.
+Use lowercase names and three digits: `bd-v-###-brief.md`, `bd-v-###-ref.json`, `bd-v-###-ref.svg`, and `bd-v-###-ref.png`.
 
 Keep one brief per asset. Use the shared prompt files. Do not create extra asset folders or per-asset prompts.
 
@@ -322,7 +323,8 @@ For each approved asset, create:
 ```yaml
 id: BD-V-000
 brief: assets/briefs/bd-v-000-brief.md
-reference: assets/reference/bd-v-000-ref.jpg
+reference_svg: assets/reference/bd-v-000-ref.svg
+reference_png: assets/reference/bd-v-000-ref.png
 record: assets/reference/bd-v-000-ref.json
 placement: exact guide heading and text anchor
 alt_text: short text equivalent
@@ -364,7 +366,7 @@ Check these points:
 3. Create one design brief per asset, including a precise generation prompt: `assets/briefs/bd-v-###-brief.md`.
 4. Generate an asset JSON file using `assets/prompts/prompt-01-json.md` and the relevant design brief.
 5. Repeat until every asset in `assets/assets-list.md` has a JSON file in `assets/reference/bd-v-###-ref.json`.
-6. Use the asset brief, JSON reference file, and `assets/prompts/prompt-02-jpg.md` to generate the JPEG reference file: `assets/reference/bd-v-###-ref.jpg`.
-7. Upload the JPEG (`assets/reference/bd-v-###-ref.jpg`), JSON (`assets/reference/bd-v-###-ref.json`), and asset brief (`assets/briefs/bd-v-###-brief.md`) to the My First Bitcoin Virtual Machine.
+6. Use the asset brief, JSON reference file, and `assets/prompts/prompt-02-svg-png.md` to have Codex generate the SVG reference and matching PNG rendering: `assets/reference/bd-v-###-ref.svg` and `assets/reference/bd-v-###-ref.png`.
+7. Upload the SVG (`assets/reference/bd-v-###-ref.svg`), PNG (`assets/reference/bd-v-###-ref.png`), JSON (`assets/reference/bd-v-###-ref.json`), and asset brief (`assets/briefs/bd-v-###-brief.md`) to the My First Bitcoin Virtual Machine.
 8. Use `assets/prompts/prompt-03-mg.md` with Claude Design or Claude Code to produce an HTML/CSS ZIP package.
 9. Manually upload the ZIP package to Sanity.

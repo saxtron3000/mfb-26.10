@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Attach this file to every Claude Design request that turns a Bitcoin Diploma contract into a production asset. Each eligible asset receives an approved transparent PNG reference, its white-background JPG preview, and their conformance report. Claude must create the editable, accessible source and upload-ready deliverables; it must not publish a reference image. The current reference batch defers `BD-V-001`, `BD-V-070`, and `BD-V-075`; these prompts do not release deferred items. For later `BD-V-001` production, use the official licence mark under its existing brief, not an AI redraw.
+Attach this file to every Claude Design request that turns a Bitcoin Diploma contract into a production asset. Each eligible asset receives an approved Codex-generated SVG reference, its matching PNG rendering, and its conformance report. Claude must create the editable, accessible source and upload-ready deliverables; it must not publish a reference image. The current reference batch defers `BD-V-001`, `BD-V-070`, and `BD-V-075`; these prompts do not release deferred items. For later `BD-V-001` production, use the official licence mark under its existing brief, not an AI redraw.
 
 The complete entry in [08_assets.md](08_assets.md) is the instructional source of truth. The Claude Design System and its local authoring contract are the source of truth for brand and design-system choices. Where they conflict, stop and report the specific conflict for resolution.
 
@@ -17,7 +17,7 @@ assets/diploma/
 └── shared/bd-v-000/         # reused by both guides
 ```
 
-Use `shared/` only when the same approved implementation serves both guides. Keep reference PNGs, JPG previews, JSON conformance reports, prompts, model settings, and rejected concepts in `assets/`; they are references, not production deliverables. Do not create a final source bundle at `assets/diploma/bd-v-000/`: flat paths are handoff examples for publication pipelines, not the canonical editable-project location.
+Use `shared/` only when the same approved implementation serves both guides. Keep reference SVGs, PNG renderings, JSON conformance reports, prompts, model settings, and rejected concepts in `assets/`; they are references, not production deliverables. Do not create a final source bundle at `assets/diploma/bd-v-000/`: flat paths are handoff examples for publication pipelines, not the canonical editable-project location.
 
 ## How to read the asset entry
 
@@ -49,8 +49,8 @@ Read all supplied material before designing or coding:
 - Complete asset entry from workspace/08_assets.md: [paste entry]
 - Complete section 7 reference specification from workspace/08_assets.md (the classification record and complete incorporated asset entry): [paste specification]
 - Relevant section 8 shared-register entries from workspace/08_assets.md: [paste entries, if any]
-- Approved low-resolution transparent PNG reference: [attach bd-v-000-ref.png]
-- Matching white-background JPG preview: [attach bd-v-000-ref.jpg]
+- Approved Codex-generated SVG reference: [attach bd-v-000-ref.svg]
+- Matching PNG rendering: [attach bd-v-000-ref.png]
 - Matching conformance report: [attach bd-v-000-ref.json]
 - Optional adjacent guide text: [paste only when it clarifies the lesson]
 - Sanity asset/schema requirements, if supplied: [attach]
@@ -64,7 +64,7 @@ Source-of-truth order
 3. Relevant section 8 entries control reusable actor, prop, symbol, interface,
    and notation definitions. Do not merge roles that the register keeps
    distinct.
-4. The approved PNG reference and its JPG preview guide
+4. The approved SVG reference and its PNG rendering guide
    spatial arrangement and visual treatment. Its conformance report identifies
    placement and deviations, but self-reported conformance is not proof.
    Check it against the section 7 specification.

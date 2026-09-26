@@ -1,0 +1,153 @@
+{
+  "assetId": "BD-V-009",
+  "schemaVersion": 1,
+  "status": "completed",
+  "assetType": "Illustration",
+  "recordDate": "2026-09-25",
+  "sourceFiles": {
+    "brief": "assets/briefs/bd-v-009-brief.md",
+    "briefRevision": "production-ready",
+    "styleReferences": []
+  },
+  "educationalPurpose": "Make the failed direct-exchange relationships in the barter example visible.",
+  "placement": {
+    "studentGuide": "### Barter and the double coincidence of wants; after \"Imagine that Amina has rice and wants shoes. Luis has shoes but wants cooking oil, not rice. Mei has cooking oil and wants repair work. Amina may need several exchanges before she can obtain the shoes. Each exchange takes time and requires agreement about value.\" and before \"For barter to work directly, each person must want what the other person offers at the same time and in suitable amounts.\"",
+    "educatorGuide": "### Barter and the double coincidence of wants; after \"Use three people with mismatched goods and wants. First, let the group attempt direct exchange.\" and before \"Then introduce a commonly accepted medium.\"",
+    "guideAnchor": "Place at the BD-V-009 visual marker in each guide; use the Shared Student Guide master for the Educator Guide.",
+    "format": "Single three-role barter-mismatch illustration; full width."
+  },
+  "teachingPoint": "Direct barter requires both people in an exchange to want what the other offers; none of these three proposed direct exchanges satisfies both people's wants.",
+  "visualPattern": "Human educational scene recipe with a reusable triangular barter-mismatch variant of the Tier 3 Process flow pattern in the teaching-page print skeleton.",
+  "composition": {
+    "orientation": "landscape",
+    "targetAspectRatio": "full-width teaching-page landscape",
+    "readingOrder": [
+      "Amina's has/wants pair at left",
+      "Luis's has/wants pair at upper right",
+      "Mei's has/wants pair at lower right",
+      "the three failed attempted-exchange paths clockwise"
+    ],
+    "elements": [
+      {
+        "id": "amina",
+        "role": "C02 as Amina, an upright capable participant holding rice at torso level",
+        "required": true,
+        "relationship": "Has rice and wants shoes; her thought bubble is directly above her.",
+        "position": "left",
+        "treatment": "Three-quarter or useful-action pose with live person, Has, and Wants labels."
+      },
+      {
+        "id": "luis",
+        "role": "C04 as Luis, an upright capable participant holding shoes at torso level",
+        "required": true,
+        "relationship": "Has shoes and wants cooking oil, not rice; his thought bubble is directly above him.",
+        "position": "upper right",
+        "treatment": "Three-quarter or useful-action pose with live person, Has, and Wants labels."
+      },
+      {
+        "id": "mei",
+        "role": "C03 as Mei, an upright capable participant holding cooking oil at torso level",
+        "required": true,
+        "relationship": "Has cooking oil and wants repair work; her thought bubble is directly above her.",
+        "position": "lower right",
+        "treatment": "Three-quarter or useful-action pose with live person, Has, and Wants labels."
+      },
+      {
+        "id": "attempted-exchanges",
+        "role": "Three directional attempted-exchange paths",
+        "required": true,
+        "relationship": "Connect Amina-to-Luis, Luis-to-Mei, and Mei-to-Amina; every path is interrupted and crossed because no direct exchange matches both people's wants.",
+        "position": "around the triangular three-role pattern",
+        "treatment": "Straight or right-angle monoline paths with a broken segment, small crossed failure cue, and open-chevron arrowhead on each path."
+      },
+      {
+        "id": "structural-accent",
+        "role": "Restrained framing or section accent",
+        "required": true,
+        "relationship": "Frames the three-role mismatch without adding a next step or solution.",
+        "position": "within the full-width paper-ground composition",
+        "treatment": "One 13° parallelogram accent with counter-skewed upright contents and generous negative space."
+      }
+    ]
+  },
+  "contentRequirements": [
+    {
+      "content": "Amina; Has: rice; Wants: shoes",
+      "source": "Detailed visual specification — Content and live text",
+      "editable": true
+    },
+    {
+      "content": "Luis; Has: shoes; Wants: cooking oil",
+      "source": "Detailed visual specification — Content and live text",
+      "editable": true
+    },
+    {
+      "content": "Mei; Has: cooking oil; Wants: repair work",
+      "source": "Detailed visual specification — Content and live text",
+      "editable": true
+    },
+    {
+      "content": "Rice, shoes, cooking oil, and a simple repair-work cue are direct recognizable representations and remain individually editable.",
+      "source": "Detailed visual specification — Content and live text",
+      "editable": true
+    },
+    {
+      "content": "Each attempted-exchange path has an editable crossed failure cue; use an editable localized short label such as No direct match only if needed.",
+      "source": "Detailed visual specification — Content and live text",
+      "editable": true
+    },
+    {
+      "content": "Alt text: Amina has rice and wants shoes; Luis has shoes and wants cooking oil; Mei has cooking oil and wants repair work. Broken crossed arrows show that none of their direct exchanges matches both people’s wants.",
+      "source": "Detailed visual specification — Accessibility and production handoff",
+      "editable": true
+    },
+    {
+      "content": "Deliver layered vector source with separately editable characters, held goods, thought bubbles, labels, arrow segments, crossed failure cues, and structural accents. All visible wording is live IBM Plex Sans text and translation-ready.",
+      "source": "Detailed visual specification — Accessibility and production handoff",
+      "editable": true
+    }
+  ],
+  "style": {
+    "layoutReference": "teaching-page print skeleton",
+    "palette": [
+      "paper or white ground (#F6F6F8 or white)",
+      "primary purple (#422C70) for restrained structural frame, labels, and attempted-exchange connectors",
+      "cool divider (#D8D8E7) for quiet separation",
+      "body neutral (#25252B) for ordinary text and object outlines",
+      "controlled orange (#F7941F) only for a failure interruption or one key mismatch cue"
+    ],
+    "typography": "IBM Plex Sans only; short left-aligned live labels; learner-facing type at least 12pt.",
+    "shapeAndLineRules": "Keep people, goods, thought bubbles, icons, and labels upright. Use straight or 90° elbow monoline connectors with butt caps, miter joins, and open-chevron arrowheads. Pair each orange cue with a broken connector and cross so colour is not its only meaning.",
+    "geometry": "Flat, print-safe MFB Angular Editorial Illustration using one restrained 13° parallelogram framing or section accent and counter-skewed upright contents.",
+    "emphasis": "Use controlled orange only to focus attention on the failure interruption or one key mismatch cue; crossed marks communicate mismatch rather than danger, prohibition, or judgment.",
+    "characters": [
+      "C02 as Amina",
+      "C04 as Luis",
+      "C03 as Mei"
+    ],
+    "propsAndIcons": [
+      "direct rice representation",
+      "direct shoes representation",
+      "direct cooking-oil container representation",
+      "simple repair-work cue such as a hand tool",
+      "approved first-party icons only if icons are used"
+    ]
+  },
+  "prohibitions": [
+    "Do not show money, Bitcoin, currency, wallets, payment interfaces, QR codes, prices, balances, successful trade, a solution, or a next step.",
+    "Do not imply that barter never works; show only this particular three-person mismatch.",
+    "Do not add a final explanatory headline, quantities, currencies, additional example copy, advice, claims of returns or safety, real identities, or personal/payment data.",
+    "Do not use gradients, glossy or 3D effects, shadows, gold coins, crypto imagery, generic blockchain symbols, corporate-cartoon proportions, redrawn MFB marks, unrelated background scenes, or decorative clutter."
+  ],
+  "review": {
+    "briefCompliant": true,
+    "assetRegisterCompliant": true,
+    "styleCompliant": true,
+    "openDecisionsPreventCreation": false,
+    "notes": "The record preserves the approved Amina, Luis, and Mei names and the complete asset-index scenario stated in the brief."
+  },
+  "unresolved": [
+    "Source conflict — assets/asset-description.md uses Louis/May and refers to three different objects; the brief's Source conflicts or unresolved decisions section states that the approved asset-index row, Student Guide, and Educator Guide require Luis and Mei. Production consequence: use Luis and Mei in this asset; revise the auxiliary description separately if it needs alignment.",
+    "Production review — the brief's Required visual treatment section requires Character Bible review before the new rice, shoes, cooking-oil container, and repair-work props are reused. Production consequence: confirm those props before reuse; this does not prevent creation of this JSON reference."
+  ]
+}

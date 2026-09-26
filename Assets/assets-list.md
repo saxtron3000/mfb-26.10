@@ -3,14 +3,14 @@
 This log records the file-production status required by the asset workflow in [workspace/08_assets.md](../workspace/08_assets.md). It is an inventory snapshot dated 2026-09-25.
 
 - Design briefs: 101 created
-- JSON references: 0 created
-- JPEG references: 0 created
+- JSON references: 1 created
+- SVG/PNG references: 0 created; PNG-only references: 1 created
 - VM uploads: 0 recorded
 - MG packages: 0 created
 
 “MG package” means the HTML/CSS ZIP package produced in workflow step 8. The workflow does not prescribe a package filename or folder, so this column records whether that deliverable exists rather than inferring a path. The JSON template `assets/reference/bd-v-###-ref.json` is not counted as an asset-specific JSON reference.
 
-| Asset ID | Brief | JSON reference | JPEG reference | Uploaded to VM | MG package |
+| Asset ID | Brief | JSON reference | SVG/PNG reference | Uploaded to VM | MG package |
 |---|---|---|---|---|---|
 | BD-V-001 | Created — `assets/briefs/bd-v-001-brief.md` | Not created | Not created | Not recorded | Not created |
 | BD-V-002 | Created — `assets/briefs/bd-v-002-brief.md` | Not created | Not created | Not recorded | Not created |
@@ -20,7 +20,7 @@ This log records the file-production status required by the asset workflow in [w
 | BD-V-006 | Created — `assets/briefs/bd-v-006-brief.md` | Not created | Not created | Not recorded | Not created |
 | BD-V-007 | Created — `assets/briefs/bd-v-007-brief.md` | Not created | Not created | Not recorded | Not created |
 | BD-V-008 | Created — `assets/briefs/bd-v-008-brief.md` | Not created | Not created | Not recorded | Not created |
-| BD-V-009 | Created — `assets/briefs/bd-v-009-brief.md` | Not created | Not created | Not recorded | Not created |
+| BD-V-009 | Created — `assets/briefs/bd-v-009-brief.md` | Created — `assets/reference/bd-v-009-ref.json` | Incomplete — `assets/reference/bd-v-009-ref.png` exists; SVG not created | Not recorded | Not created |
 | BD-V-010 | Created — `assets/briefs/bd-v-010-brief.md` | Not created | Not created | Not recorded | Not created |
 | BD-V-011 | Created — `assets/briefs/bd-v-011-brief.md` | Not created | Not created | Not recorded | Not created |
 | BD-V-012 | Created — `assets/briefs/bd-v-012-brief.md` | Not created | Not created | Not recorded | Not created |

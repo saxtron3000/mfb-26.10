@@ -77,6 +77,7 @@ The heading and nearby text above are the placement authority; register line num
 
 - Alt text: [a concise description that communicates the instructional meaning].
 - Editable source: [state the live-label/editable-source requirement appropriate to the type].
+- Reference image output: [Codex must provide `assets/reference/bd-v-###-ref.svg` and a matching `assets/reference/bd-v-###-ref.png`; do not request or accept a JPG reference].
 - Use in colour, grayscale, print, and on a phone: [specific checks for this asset].
 
 ## Required visual treatment

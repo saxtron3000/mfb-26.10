@@ -15,6 +15,7 @@ This neutral template intentionally contains no asset-specific source data. Popu
 - State the educational purpose, required format, detailed construction, elements, relationships, reading order, and qualifications.
 - Record exact placement anchors for each applicable guide.
 - Specify editable and translation-ready live text, meaningful alt text, source-editability needs, and colour, grayscale, print, and phone checks.
+- Require Codex to provide the reference image as `assets/reference/bd-v-###-ref.svg` and a matching `assets/reference/bd-v-###-ref.png`; do not use JPG.
 - Name the applicable reusable visual pattern, layout skeleton, palette roles, typography, geometry, connectors, icons, tables/data treatment, and character IDs, poses, and props where relevant.
 - Record asset-specific safety restrictions, exclusions, production conditions, source conflicts, unresolved decisions, and completion criteria.
 

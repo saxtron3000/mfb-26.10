@@ -1,8 +1,8 @@
-# JPEG reference-image prompt
+# SVG and PNG reference-image prompt
 
 ## Purpose
 
-Create one JPEG reference image for a later editable micrographic implementation in Sanity. Its only purpose is to show the approved composition and visual direction. It is not a production asset, upload, or substitute for editable text, diagrams, tables, QR codes, or interfaces.
+Have Codex create one SVG reference image and its matching PNG rendering for a later editable micrographic implementation in Sanity. Their only purpose is to show the approved composition and visual direction. They are not production assets, uploads, or substitutes for editable text, diagrams, tables, QR codes, or interfaces.
 
 ## Inputs and precedence
 
@@ -18,11 +18,11 @@ Consult `assets/style/` only when the inputs or asset index require additional v
 ## Generation prompt
 
 ```text
-Create one JPG reference image for a My First Bitcoin Bitcoin Diploma micrographic.
+Create one SVG reference image and one matching PNG rendering for a My First Bitcoin Bitcoin Diploma micrographic.
 
 Read the attached asset brief and JSON reference record before generating. Follow the brief for required meaning, safety, exclusions, and localization; use the JSON for the exact composition, elements, relationships, reading order, and visual treatment. If they conflict or are incomplete, consult the relevant entry in workspace/08_assets.md. Use assets/style/ only when needed to clarify visual direction.
 
-Create exactly one low-resolution JPG at the aspect ratio and orientation in the JSON. Use a solid white (#FFFFFF) background. The JPG is a private visual reference for a later editable micrographic, not a production or Sanity asset.
+Create exactly one SVG at the aspect ratio and orientation in the JSON, with a solid white (`#FFFFFF`) background. Use real SVG geometry, paths, and shapes; do not embed a raster image in the SVG. Render that exact SVG as one matching low-resolution PNG. The SVG and PNG are private visual references for a later editable micrographic, not production or Sanity assets. Do not create a JPG.
 
 Show only the required visual elements and relationships. Preserve required role distinctions, counts, qualifications, and trade-offs. Do not add decorative people, props, scenery, labels, arrows, connectors, frames, logos, QR codes, URLs, data, or other elements unless the brief or JSON explicitly requires them.
 
@@ -35,13 +35,13 @@ Never show a real or plausible seed phrase, private key, payable address, learne
 
 ## Save and log
 
-Save the reviewed file as `assets/reference/bd-v-###-ref.jpg`, using the lowercase three-digit asset ID. Do not create a PNG, a second preview, a conformance report, a per-asset prompt, or any production/Sanity file.
+Save the reviewed files as `assets/reference/bd-v-###-ref.svg` and `assets/reference/bd-v-###-ref.png`, using the lowercase three-digit asset ID. The PNG must be rendered from the saved SVG. Do not create a JPG, a second preview, a conformance report, a per-asset prompt, or any production/Sanity file.
 
-After confirming that the JPG exists, has a white background, matches the brief and JSON, and contains no prohibited visible content:
+After confirming that both files exist, the SVG contains no embedded raster image, the PNG matches the SVG, both have a white background, and they match the brief and JSON without prohibited visible content:
 
-1. Change that asset’s `JPEG reference` cell in `assets/assets-list.md` to `Created — \`assets/reference/bd-v-###-ref.jpg\``.
-2. Update the JPEG-reference total so it equals the number of created JPEG-reference rows.
+1. Change that asset’s `SVG/PNG reference` cell in `assets/assets-list.md` to `Created — \`assets/reference/bd-v-###-ref.svg\`; \`assets/reference/bd-v-###-ref.png\``.
+2. Update the SVG/PNG-reference total so it equals the number of created SVG/PNG-reference rows.
 
-If generation is blocked, do not mark the JPEG as created. Record `Blocked — [short reason]` in that asset’s JPEG-reference cell and leave the total unchanged.
+If generation is blocked, do not mark the SVG/PNG reference as created. Record `Blocked — [short reason]` in that asset’s SVG/PNG-reference cell and leave the total unchanged.
 
 If the brief or JSON is incomplete or leaves a required visual decision unclear, first consult the relevant entry in `workspace/08_assets.md`. If it remains blocked after that consultation, do not generate a best-guess image; record it as blocked using the rule above.
