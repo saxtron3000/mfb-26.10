@@ -14,19 +14,15 @@ Use one row per learner on Page 2. Record one result for each competency: `MS` =
 
 | Competency | A learner can show | Part of the Diploma |
 |---|---|---|
-| `C1` Money and comparison | Explains why money is used and compares forms of money. | Theory |
-| `C2` Modern-money trade-off | Explains a modern-money trade-off using a local or realistic example. | Theory |
-| `C3` Digital double spending | Explains the digital-copy problem and the role of shared verification. | Theory |
-| `C4` Bitcoin rules and money properties | Explains Bitcoin's rules, roles, money properties, and relevant trade-offs. | Theory |
-| `C5` Guided digital-asset comparison | Compares Bitcoin with another digital asset and distinguishes learning from speculation or promotion. | Theory |
-| `C6` Wallet information and custody | Explains public and secret information, custody choices, and wallet types. | Theory |
-| `C7` Safe response to risk | Identifies a risk and explains when to stop, verify, or seek help. | Theory |
-| `C8` Payment and access pathways | Explains payment and access pathways, including relevant risks and trade-offs. | Theory |
-| `C9` Supported first access and receipt | Safely completes or simulates a supported wallet, access, and receipt activity. | Practice |
-| `C10` Recovery readiness | Demonstrates recovery readiness using prepared or simulated materials without exposing secrets. | Practice |
-| `C11` Connect: local Bitcoin-as-money task | Completes a safe local task and explains its purpose, alternatives, trade-offs, safety, and next step. | Practice |
+| `C1` Money and modern-money trade-offs | Explains why money is used, compares two forms, and explains a local or realistic trade-off. | Theory |
+| `C2` Bitcoin foundations and rules | Explains digital copying, shared verification, beginner rules and roles, and a qualified money-property judgment. | Theory |
+| `C3` Bitcoin and digital-asset comparison | Compares Bitcoin with another digital asset and distinguishes learning from speculation or promotion. | Theory |
+| `C4` Wallets, custody, and safety | Explains public and secret information, custody choices, wallet types, and a safe response to risk. | Theory |
+| `C5` Payment and access pathways | Compares on-chain and Lightning payments and access or exchange pathways with their risks. | Theory |
+| `C6` Safe access and recovery readiness | Safely completes or simulates supported wallet access and receipt, then demonstrates recovery readiness with prepared materials. | Practice |
+| `C7` Local Bitcoin-as-money task | Completes a safe local task and explains its purpose, alternatives, trade-offs, possible failure, and next step. | Practice |
 
-`C11` is the educator-curated **Connect** stage of the Diploma's Problem → Solution → Action → Connect learning arc. Detailed criteria and approved activity examples are in the [Educator Guide](https://programs.myfirstbitcoin.org/programs/educator-guide/).
+`C7` is the educator-curated **Connect** stage of the Diploma's Problem → Solution → Action → Connect learning arc. Detailed criteria and approved activity examples are in the [Educator Guide](https://programs.myfirstbitcoin.org/programs/educator-guide/).
 
 ### A simple way to use this grid
 
@@ -34,10 +30,10 @@ Use one row per learner on Page 2. Record one result for each competency: `MS` =
 - As learners work, listen and watch for the relevant understanding or action. If you are unsure, ask a friendly follow-up question or invite the learner to show the step again.
 - Mark `MS` when the learner has shown the competency sufficiently and safely. Mark `NY` when they need more practice, support, or another opportunity to show it. `NY` is a pause, not a final judgement.
 - Arrange another assessment opportunity during class, a break, an additional call, or a follow-up session. Learners should have a clear and fair chance to succeed.
-- Observe `C9`–`C11` directly. Online observation, simulation, testnet, physical tokens, or carefully structured low-stakes funds may be used when appropriate. Learners should never be asked to risk significant funds or expose secrets.
+- Observe `C6` and `C7` directly. Online observation, simulation, testnet, physical tokens, or carefully structured low-stakes funds may be used when appropriate. Learners should never be asked to risk significant funds or expose secrets.
 - Use accessibility adaptations and low-tech routes when they preserve the competency. Plan a little extra time for troubleshooting, questions, feedback, and follow-up where needed.
 - One final result per learner is the only required grid record. Brief notes are helpful but optional. Never record seed phrases, private keys, credentials, balances, or unnecessary personal information.
-- Theory and practice are two parts of the same Diploma: theory is `C1`–`C8`; practice is `C9`–`C11`.
+- Theory and practice are two parts of the same Diploma: theory is `C1`–`C5`; practice is `C6`–`C7`.
 - Use the [Educator Guide](https://programs.myfirstbitcoin.org/programs/educator-guide/) for examples, detailed criteria, safety guidance, and additional support.
 
 <div style="break-after: page; page-break-after: always;"></div>
@@ -52,28 +48,28 @@ Use one row per learner on Page 2. Record one result for each competency: `MS` =
 
 | Code | Learner can show | Code | Learner can show |
 |---|---|---|---|
-| `C1` | Why money is used; compare forms of money. | `C7` | Recognise a risk and know when to stop, verify, or seek help. |
-| `C2` | Explain a modern-money trade-off with a local or realistic example. | `C8` | Explain payment and access pathways, risks, and trade-offs. |
-| `C3` | Explain digital copies, double spending, and shared verification. | `C9` | Safely complete or simulate supported wallet access and receipt. |
-| `C4` | Explain Bitcoin's rules, roles, money properties, and trade-offs. | `C10` | Show recovery readiness without exposing secrets. |
-| `C5` | Compare Bitcoin with another digital asset and distinguish learning from speculation. | `C11` | Complete a safe local task and explain its purpose, alternatives, trade-offs, and next step. |
-| `C6` | Explain public and secret information, custody, and wallet types. |  |  |
+| `C1` | Why money is used; compare forms and explain one modern-money trade-off. | `C5` | Compare payment and access pathways with their risks. |
+| `C2` | Explain digital copying, verification, rules, roles, and a qualified money-property judgment. | `C6†` | Safely complete or simulate wallet access and receipt; show recovery readiness without exposing secrets. |
+| `C3` | Compare Bitcoin with another digital asset and distinguish learning from speculation. | `C7†` | Complete a safe local task and explain purpose, alternative, trade-offs, possible failure, and next step. |
+| `C4` | Explain public and secret information, custody and wallet types; respond safely to a risk. |  |  |
 
 **Key:** blank = not assessed · `MS` = Meets standard · `NY` = Not yet · `†` = direct observation required
 
-| Learner name | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 | C9† | C10† | C11† | Complete | Notes / date (optional) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+Use activities and conversation for `C1`–`C5`; directly observe both parts of `C6` and the selected `C7` task. A good-enough beginner example for each result: `C1` explains a barter limit, compares two money forms, and names a realistic trade-off; `C2` explains digital copying, who verifies Bitcoin's rules, and one qualified property judgment; `C3` compares Bitcoin with a generic stablecoin and names a trade-off without promotion; `C4` protects a secret, compares custody options and wallet types, and stops at a scam request; `C5` compares on-chain with Lightning and explains one access risk; `C6` safely completes a prepared receipt with checks and shows recovery readiness using fake materials; `C7` performs the selected local task safely and explains its alternative, risks, and next step. Mark `NY` for an unmet or unsafe required part, then provide practice and another opportunity.
 
-**Completion check:** When all 11 competency cells are `MS`, both assessment components are complete, and your local certification route is ready, you may issue a certificate of completion in your name or that of your education organization. The certificate records your assessment judgment, not central My First Bitcoin certification. If the learner attended but has not yet shown every competency, you may issue a certificate of participation and offer further learning or assessment opportunities. Brief private notes are helpful, but no task-ID record is required by this grid.
+| Learner name | C1 | C2 | C3 | C4 | C5 | C6† | C7† | Complete | Notes / date (optional) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+
+**Completion check:** When all seven competency cells are `MS`, both assessment components are complete, and your local certification route is ready, you may issue a certificate of completion in your name or that of your education organization. The certificate records your assessment judgment, not central My First Bitcoin certification. If the learner attended but has not yet shown every competency, you may issue a certificate of participation and offer further learning or assessment opportunities. Brief private notes are helpful, but no task-ID record is required by this grid.

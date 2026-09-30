@@ -8,13 +8,13 @@ Class exercise
 ## Duration
 
 ## Description
-Participants follow a guided new-wallet or prepared restoration route to see how a Bitcoin wallet is created, secured, or restored. They identify the role of a [Bitcoin address](../mfb-bd-26.10/mfb-bd-lx.md#term-bitcoin-address), private key, and recovery phrase while using an approved simulation and observing the rule that private recovery information must never be shared, collected, or recorded by the educator.
+Participants follow a guided new-wallet or prepared restoration route to see how a Bitcoin wallet is created, secured, or restored. They identify the role of a [Bitcoin address](../mfb-lx-26.10.md#term-bitcoin-address), private key, and recovery phrase while using an approved simulation and observing the rule that private recovery information must never be shared, collected, or recorded by the educator.
 ## Objectives
 
 - Participants practice the steps of creating or restoring a Bitcoin wallet while protecting private recovery information.
 
 ## Materials
-Phones or teacher-provided phones; Bitcoin wallet app; recovery phrase sheets for the restore option; [satoshis](../mfb-bd-26.10/mfb-bd-lx.md#term-sat) for the restore option.
+Phones or teacher-provided phones; Bitcoin wallet app; recovery phrase sheets for the restore option; [satoshis](../mfb-lx-26.10.md#term-sat) for the restore option.
 ## Preparation
 If participants do not have cell phones, provide one for each student to borrow. For the restore option, download a wallet and add satoshis for each student.
 ## Procedure
@@ -33,7 +33,7 @@ Never share a private key or recovery phrase. Loss of the recovery phrase can pr
 
 ## Notes
 
-**Diploma assessment link:** May support [`T3` / `C6`](https://programs.myfirstbitcoin.org/programs/educator-guide/), [`P9` / `C9`](https://programs.myfirstbitcoin.org/programs/educator-guide/), and the prepared restoration route for [`P10` / `C10`](https://programs.myfirstbitcoin.org/programs/educator-guide/). As written, it is not a certificated task: use an approved prepared simulation and never collect, view, or record a learner's recovery phrase, private key, password, balance, or personal wallet.
+**Diploma assessment link:** May support [`T3` / `C4`](https://programs.myfirstbitcoin.org/programs/educator-guide/), [`P6a` / `C6`](https://programs.myfirstbitcoin.org/programs/educator-guide/), and the prepared restoration route for [`P6b` / `C6`](https://programs.myfirstbitcoin.org/programs/educator-guide/). As written, it is not a certificated task: use an approved prepared simulation and never collect, view, or record a learner's recovery phrase, private key, password, balance, or personal wallet.
 
 Public addresses can be shared to receive bitcoin; private information should not be shared.
 ## Additional Resources

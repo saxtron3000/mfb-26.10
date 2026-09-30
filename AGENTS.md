@@ -38,7 +38,7 @@ Across the project, when a module reference in body text or a table includes its
 
 ## Testing Guidelines
 
-There is no test framework or coverage requirement. Validate edits manually for factual consistency, working relative links, consistent terminology with `publish/mfb-bd-26.10/mfb-bd-lx.md`, alignment with `workspace/05_competencies.md`, and compliance with publication guardrails in `workspace/16_spec.md`. Current-data claims should be dated and cited.
+There is no test framework or coverage requirement. Validate edits manually for factual consistency, working relative links, consistent terminology with `publish/mfb-lx-26.10.md`, alignment with `workspace/05_competencies.md`, and compliance with publication guardrails in `workspace/16_spec.md`. Current-data claims should be dated and cited.
 
 ## Commit & Pull Request Guidelines
 

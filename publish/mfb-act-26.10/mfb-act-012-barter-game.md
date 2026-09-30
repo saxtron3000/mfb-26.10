@@ -8,7 +8,7 @@ Class exercise
 ## Duration
 5 minutes for the barter round
 ## Description
-Participants trade paper cards showing goods they have and goods they want, attempting to find matching exchange partners before time expires. They repeat the activity with macaroni as a common [medium of exchange](../mfb-bd-26.10/mfb-bd-lx.md#term-medium-of-exchange), then compare the ease of trade and the limitations of using a commodity as money.
+Participants trade paper cards showing goods they have and goods they want, attempting to find matching exchange partners before time expires. They repeat the activity with macaroni as a common [medium of exchange](../mfb-lx-26.10.md#term-medium-of-exchange), then compare the ease of trade and the limitations of using a commodity as money.
 ## Objectives
 
 - Participants experience and compare direct barter with exchange using a commodity as money.

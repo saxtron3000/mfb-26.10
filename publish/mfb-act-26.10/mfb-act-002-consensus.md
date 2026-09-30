@@ -14,7 +14,7 @@
 
 ## Description
 
-Participants first track a simple set of transactions, then compare a bank-controlled [ledger](../mfb-bd-26.10/mfb-bd-lx.md#term-ledger) with a ledger independently maintained by every student. The banker’s ability to create money for a favored participant shows why shared verification matters, and the final discussion connects classroom agreement to Bitcoin’s [decentralized](../mfb-bd-26.10/mfb-bd-lx.md#term-decentralization) consensus process.
+Participants first track a simple set of transactions, then compare a bank-controlled [ledger](../mfb-lx-26.10.md#term-ledger) with a ledger independently maintained by every student. The banker’s ability to create money for a favored participant shows why shared verification matters, and the final discussion connects classroom agreement to Bitcoin’s [decentralized](../mfb-lx-26.10.md#term-decentralization) consensus process.
 
 ## Objectives
 
@@ -126,7 +126,7 @@ At the point where the BANKER does not have enough money to help their friend BL
 
 **Explain that with Bitcoin, everyone has their own ledger.**
 
-There are thousands of [Node Runners](../mfb-bd-26.10/mfb-bd-lx.md#term-node), people who run Bitcoin on their own computers and keep their own copy of the ledger, also called the [blockchain](../mfb-bd-26.10/mfb-bd-lx.md#term-blockchain). Instead of one central bank keeping track, it is tens of thousands of Bitcoiners keeping the decentralized ledger in sync.
+There are thousands of [Node Runners](../mfb-lx-26.10.md#term-node), people who run Bitcoin on their own computers and keep their own copy of the ledger, also called the [blockchain](../mfb-lx-26.10.md#term-blockchain). Instead of one central bank keeping track, it is tens of thousands of Bitcoiners keeping the decentralized ledger in sync.
 
 **CONSENSUS means the network agrees the protocol was followed correctly and disregards transactions that do not follow the protocol,** such as the creation of extra bitcoin the BANKER did in this classroom example.
 
@@ -135,8 +135,8 @@ There are thousands of [Node Runners](../mfb-bd-26.10/mfb-bd-lx.md#term-node), p
 ### Key Points
 
 1. **Consensus = agreement.**
-2. One big diﬀerence between a group with centralized control and one without is the question of trust. Decentralized groups like [peer-to-peer networks](../mfb-bd-26.10/mfb-bd-lx.md#term-peer-to-peer-network) do not have a leader and participants do not trust each other. They require a diﬀerent way to coordinate.
-3. For developers of peer-to-peer networks, this is known as the Byzantine Generals Problem. Bitcoin solves this challenge with math and [proof-of-work](../mfb-bd-26.10/mfb-bd-lx.md#term-proof-of-work) mining.
+2. One big diﬀerence between a group with centralized control and one without is the question of trust. Decentralized groups like [peer-to-peer networks](../mfb-lx-26.10.md#term-peer-to-peer-network) do not have a leader and participants do not trust each other. They require a diﬀerent way to coordinate.
+3. For developers of peer-to-peer networks, this is known as the Byzantine Generals Problem. Bitcoin solves this challenge with math and [proof-of-work](../mfb-lx-26.10.md#term-proof-of-work) mining.
 4. Bitcoin being decentralized is critical to its value. Historically, human leaders have always succumbed to the temptation to debase money over the long term.
 5. The Nakamoto Consensus is named after the creator of Bitcoin, Satoshi Nakamoto. **This consensus (agreement) mechanism is how thousands of strangers who do not trust each other have maintained the Bitcoin ledger since 2009.**
 
@@ -154,11 +154,11 @@ Now that we have discussed Bitcoin in greater detail, let’s look at our money 
 | Divisible |  |  |  |  |  |
 | Total |  |  |  |  |  |
 
-**Guide the class to [scarcity](../mfb-bd-26.10/mfb-bd-lx.md#term-scarcity) if they struggle. If central planners can help their buddies through money printing, money is not scarce.**
+**Guide the class to [scarcity](../mfb-lx-26.10.md#term-scarcity) if they struggle. If central planners can help their buddies through money printing, money is not scarce.**
 
 ## Notes
 
-**Diploma assessment link:** May provide the individual-response context for [`T2` / `C3` and `C4`](https://programs.myfirstbitcoin.org/programs/educator-guide/). Use the approved protocol and record individual evidence; otherwise, this activity is formative.
+**Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](https://programs.myfirstbitcoin.org/programs/educator-guide/). Use the approved protocol and record individual evidence for copying, shared verification, rules, and roles; otherwise, this activity is formative.
 
 This activity has multiple rounds, each with multiple steps.
 

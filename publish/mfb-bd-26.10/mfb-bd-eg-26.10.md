@@ -4,7 +4,7 @@ Teaching the Bitcoin Diploma
 
 ## About this guide
 
-The Educator Guide supports teaching the 2026.10 Bitcoin Diploma. Linked terms open their definitions in the [Lexicon](mfb-bd-lx.md). Use it with the [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/), the Educator Assessment Grid, and the learning activities supplied for your course. The [My First Bitcoin App](https://myfirstbitcoin.app/) offers optional microlearning, self-checks, recap, and discovery. Learners can complete the course without using it.
+The Educator Guide supports teaching the 2026.10 Bitcoin Diploma. Linked terms open their definitions in the [Lexicon](../mfb-lx-26.10.md). Use it with the [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/), the Educator Assessment Grid, and the learning activities supplied for your course. The [My First Bitcoin App](https://myfirstbitcoin.app/) offers optional microlearning, self-checks, recap, and discovery. Learners can complete the course without using it.
 
 Download the [My First Bitcoin App](https://myfirstbitcoin.app/) for optional microlearning, self-checks, recap, and more learning opportunities.
 
@@ -29,19 +29,19 @@ Assessment can happen naturally through well-designed activities, conversations,
 
 The detailed assessment support below offers examples, prompts, safety guidance, accessibility ideas, and optional ways to keep notes. Use it as a helpful structure and adapt it to the learners, language, setting, and available tools while keeping the competency and safety standard.
 
-`C1`–`C11` are the recorded assessed competencies. Decimal `C` IDs are competency criteria and observable look-fors, not separate result rows. `C12` and `C13` are formative competencies only.
+`C1`–`C7` are the recorded assessed competencies. Decimal `C` IDs are competency criteria and observable look-fors, not separate result rows. `F1` and `F2` are formative competencies only.
 
 For a new teacher, the model can be remembered as two completion gates:
 
 | What learners show | Main source | Completion gate |
 | --- | --- | --- |
-| Theoretical competencies (`C1`–`C8`) | Activities, conversations, and educator-led interaction | All theory competencies meet standard |
-| Practical competencies (`C9`–`C11`) | Educator observation of a practical activity | All practical competencies meet standard |
+| Theoretical competencies (`C1`–`C5`) | Activities, conversations, and educator-led interaction | All five theory competencies meet standard |
+| Practical competencies (`C6`–`C7`) | Direct educator observation of both `C6` performances and the `C7` local task | Both practical competencies meet standard |
 
 These are not numerical grades. Both components need to be complete, and every required competency needs to meet its standard before a completion certificate is issued.
 
 <!-- VISUAL: BD-V-081
-ALT: Theory competencies C1–C8 and practical competencies C9–C11 must each meet standard before assessment completion. Not yet evidence returns to practice and reassessment; attendance, optional app review, and formative reflection do not replace either component.
+ALT: Theory competencies C1–C5 and practical competencies C6–C7 must each meet standard before assessment completion. Not yet evidence returns to practice and reassessment; attendance, optional app review, and formative reflection do not replace either component.
 ASSET: assets/briefs/bd-v-081-brief.md
 USE: Educator-only diagram; see the asset index brief.
 -->
@@ -50,11 +50,23 @@ USE: Educator-only diagram; see the asset index brief.
 
 ### A supportive assessment route
 
-Use this section with the Assessment Grid when you want more detail. It gives a shared structure for educator-evaluated theoretical evidence (`C1`–`C8`) and directly observed practical evidence (`C9`–`C11`). Local language, examples, communication methods, activity choices, and delivery routes may change. Keep the competency and safety boundary clear.
+This protocol is the source of truth for the Diploma's seven assessed competencies and their required look-fors. Use it with the Assessment Grid. Educator-evaluated theory is `C1`–`C5`; directly observed practice is `C6`–`C7`. Local language, examples, communication methods, activity choices, and delivery routes may change. Keep the competency and safety boundary clear.
+
+| Competency | Required look-fors | Evidence |
+|---|---|---|
+| `C1` Money and modern-money trade-offs | `C1.1` Explain why people use money, barter limits, the beginner evolution of money, and its functions and properties.<br>`C1.2` Compare two forms of money using relevant characteristics.<br>`C1.3` Explain one modern-money trade-off through a local, observed, or realistic example without personal financial disclosure. | Individual explanation, comparison, and scenario response. |
+| `C2` Bitcoin foundations and rules | `C2.1` Explain digital copying or double spending and how shared verification helps.<br>`C2.2` Explain beginner Bitcoin rules and roles, including users, nodes, miners, developers, proof of work, the 21 million supply limit, halving, and satoshis at beginner scope.<br>`C2.3` Relate decentralization, finite supply, peer-to-peer transfer, and verifiability to a reasoned money-property benefit or limitation, including “don't trust, verify.” | Individual explanation, role map, and qualified judgment. |
+| `C3` Bitcoin and digital-asset comparison | Compare Bitcoin with another digital asset, such as a generic stablecoin, using relevant control, issuance, verification, custody, or counterparty criteria; state a trade-off and distinguish learning and responsible use from speculation or promotion. | One individual guided comparison; no numbered sub-points. |
+| `C4` Wallets, custody, and safety | `C4.1` Explain wallets, addresses, keys, seed phrases, public versus secret information, and a custodial versus non-custodial trade-off.<br>`C4.2` Distinguish hot and hardware wallets, including why people use the latter, at beginner scope.<br>`C4.3` Recognize a scam, error, or high-risk request, including secret exposure, address mistakes, impersonation, or urgency, and explain when to stop, verify, or seek help. | Individual explanation and safety scenario. |
+| `C5` Payment and access pathways | `C5.1` Compare on-chain and Lightning payments and choose a suitable beginner pathway in a guided example.<br>`C5.2` Compare access or exchange pathways and risks without recommending a provider or financial action. | Individual guided pathway comparison. |
+| `C6` Safe access and recovery readiness | `C6.1` In an approved low-stakes or simulated setting, navigate a prepared wallet, complete or safely simulate a receive-or-send flow and supported first access or receipt, and verify the relevant destination, amount, network, and status.<br>`C6.2` Demonstrate recovery readiness using prepared or simulated materials while protecting all real secrets. | Direct observation of both distinct practical performances; one final result. |
+| `C7` Local Bitcoin-as-money task | `C7.1` Safely perform one educator-selected locally relevant task or simulation, including required checks.<br>`C7.2` Explain its local purpose, realistic alternative, trade-offs, possible failure points, safety considerations, and realistic next step. | Direct observation of individual performance and explanation. |
+
+Record one `MS` or `NY` for each parent competency. Every required look-for must be evidenced. A teaching activity may support several look-fors without becoming a separate test. `F1` (reasoned discussion) and `F2` (course reflection) are formative, not certificate gates.
 
 - Mark `MS` when the learner has shown the competency sufficiently and safely. Mark `NY` when more teaching, practice, or another opportunity is needed.
 - Attendance, confidence, group membership, [My First Bitcoin App](https://myfirstbitcoin.app/) results, and self-report do not replace a learner showing the competency. Activity completion can provide evidence when the activity is designed to reveal the relevant understanding or action.
-- Use prepared wallets, simulations, testnet, physical tokens, or appropriately low-stakes arrangements. Learners should never be asked to risk significant funds or expose a [seed phrase](mfb-bd-lx.md#term-seed-phrase), [private key](mfb-bd-lx.md#term-private-key), password, balance, or unnecessary personal information.
+- Use prepared wallets, simulations, testnet, physical tokens, or appropriately low-stakes arrangements. Learners should never be asked to risk significant funds or expose a [seed phrase](../mfb-lx-26.10.md#term-seed-phrase), [private key](../mfb-lx-26.10.md#term-private-key), password, balance, or unnecessary personal information.
 - When working as a group, make sure you can still notice each learner's relevant understanding, decisions, and safety behaviour. A friendly probing question is often enough.
 
 ### Planning time and cohort capacity
@@ -77,22 +89,18 @@ USE: Educator-only diagram; see the asset index brief.
 
 | Code | Teach and practise | Suggested activity or interaction | What to look for | Simple record | Planning guide* |
 |---|---|---|---|---|---:|
-| `C1` | Student Guide, **Module 1: money, [barter](mfb-bd-lx.md#term-barter), functions and properties** | `T1` Money comparison | Explains why money is used and [barter](mfb-bd-lx.md#term-barter) limits; applies functions/properties to compare two forms of money. | `C1 MS/NY` | 3–4 min |
-| `C2` | Student Guide, **Module 1: modern-money trade-offs** | `T1` Local money scenario | Explains one beginner trade-off and connects it to a local, observed, or realistic experience without forced disclosure. | `C2 MS/NY` | 2–3 min |
-| `C3` | Student Guide, **Module 2: digital copying and [double spending](mfb-bd-lx.md#term-double-spending)** | `T2` Digital-money explanation | Explains the problem and how shared verification helps address it. | `C3 MS/NY` | 1–2 min |
-| `C4` | Student Guide, **Module 2: rules, roles, supply, and [sound-money](mfb-bd-lx.md#term-sound-money) reasoning** | `T2` Bitcoin rule-and-role map | Explains the required beginner properties and roles, then makes a qualified [sound-money](mfb-bd-lx.md#term-sound-money) judgement. | `C4 MS/NY` | 3–4 min |
-| `C5` | Student Guide, **Module 2: digital-asset comparison** | `T2` Guided [asset](mfb-bd-lx.md#term-asset) comparison | Compares Bitcoin with another digital [asset](mfb-bd-lx.md#term-asset) using the stated criteria and distinguishes learning/responsible use from trading or promotion. | `C5 MS/NY` | 2–3 min |
-| `C6` | Student Guide, **Module 3: wallets, keys, recovery, [custody](mfb-bd-lx.md#term-custody)** | `T3` [Custody](mfb-bd-lx.md#term-custody) and secrets scenario | Explains public versus secret information, a [custody](mfb-bd-lx.md#term-custody) trade-off, and hot/[hardware-wallet](mfb-bd-lx.md#term-hardware-wallet) scope. | `C6 MS/NY` | 2–3 min |
-| `C7` | Student Guide, **Module 3: scams and safe limits** | `T3` Stop, verify, seek help | Identifies a risk and states a safe response and limit. | `C7 MS/NY` | 1–2 min |
-| `C8` | Student Guide, **Module 3: payment and access pathways** | `T3` Payment-pathway choice | Compares on-chain and Lightning and evaluates a pathway without recommending a service or financial action. | `C8 MS/NY` | 2–3 min |
-| `C9` | **Module 3** prepared practice circuit | `P9` Supported first access and receipt | Safely navigates a prepared environment, completes the required receive-or-send flow and checks, then receives bitcoin or a safe simulated receipt. | `C9 MS/NY` | 6–8 min |
-| `C10` | **Module 3** recovery-readiness practice | `P10` Recovery-readiness simulation | Demonstrates recovery readiness and protects recovery information using prepared or simulated materials. | `C10 MS/NY` | 4–5 min |
-| `C11` | **Module 4** selected local Connect practice | `P11` Local Connect activity | Completes the safe task sequence and explains local purpose, alternative, trade-offs, failure points, safety, and next step. | `C11 MS/NY` | 6–8 min |
+| `C1` | Student Guide, **Module 1: money and modern-money trade-offs** | `T1` Money comparison and local scenario | Explains why money is used, compares two forms, and explains one realistic modern-money trade-off. | `C1 MS/NY` | 5–7 min |
+| `C2` | Student Guide, **Module 2: Bitcoin foundations and rules** | `T2` Digital-money explanation and role map | Explains copying and shared verification, rules and roles, and a qualified money-property judgment. | `C2 MS/NY` | 4–6 min |
+| `C3` | Student Guide, **Module 2: digital-asset comparison** | `T2` Guided comparison | Compares Bitcoin with another digital asset and distinguishes learning from speculation or promotion. | `C3 MS/NY` | 2–3 min |
+| `C4` | Student Guide, **Module 3: wallets, custody, and safety** | `T3` Custody and safety scenario | Explains public and secret information, custody and wallet types, and a safe response to risk. | `C4 MS/NY` | 3–5 min |
+| `C5` | Student Guide, **Module 3: payment and access pathways** | `T3` Payment-pathway choice | Compares on-chain and Lightning payments plus an access or exchange trade-off. | `C5 MS/NY` | 2–3 min |
+| `C6` | **Module 3** prepared practice circuit | `P6a` First access and receipt; `P6b` recovery readiness | Observes both practical performances and all safety checks before one result. | `C6 MS/NY` | 10–13 min |
+| `C7` | **Module 4** selected local Connect practice | `P7` Local Connect activity | Completes the safe task and explains local purpose, alternative, trade-offs, failure points, safety, and next step. | `C7 MS/NY` | 6–8 min |
 
 \*Planning times are optional estimates to help you make the session comfortable. They are not a fixed schedule, cohort limit, or requirement to use a particular task.
 
 <!-- VISUAL: BD-V-083
-ALT: Example theory interactions support C1–C8, and example practical routes support C9–C11. Each competency receives one Meets standard or Not yet result; brief evidence notes are optional.
+ALT: Example theory interactions support C1–C5, and example practical routes support C6–C7. Each competency receives one Meets standard or Not yet result; brief evidence notes are optional.
 ASSET: assets/briefs/bd-v-083-brief.md
 USE: Educator-only diagram; see the asset index brief.
 -->
@@ -107,7 +115,7 @@ ASSET: assets/briefs/bd-v-084-brief.md
 USE: Educator-only diagram; see the asset index brief.
 -->
 
-**Safety-critical practical errors:** Record `NY` and pause the task if the learner reveals or attempts to share a [seed phrase](mfb-bd-lx.md#term-seed-phrase), [private key](mfb-bd-lx.md#term-private-key), password, or unnecessary personal information; proceeds after a known address, invoice, amount, or recipient mismatch; accepts an obvious scam or urgent secret request; or bypasses a required verification step. Explain the reason kindly, reset to a safe environment, practise, and reassess later. If personal funds are used by choice, keep the amount genuinely low and make the risk of loss clear; no learner should need personal funds to complete the Diploma.
+**Safety-critical practical errors:** Record `NY` and pause the task if the learner reveals or attempts to share a [seed phrase](../mfb-lx-26.10.md#term-seed-phrase), [private key](../mfb-lx-26.10.md#term-private-key), password, or unnecessary personal information; proceeds after a known address, invoice, amount, or recipient mismatch; accepts an obvious scam or urgent secret request; or bypasses a required verification step. Explain the reason kindly, reset to a safe environment, practise, and reassess later. If personal funds are used by choice, keep the amount genuinely low and make the risk of loss clear; no learner should need personal funds to complete the Diploma.
 
 **Accessibility and low-tech equivalence:** Use the communication method, translated prompt, large-print or tactile material, oral response, scribed response, prepared paper wallet screens, role-play, or offline simulation that works for the learner while preserving the required action. An equivalent route should make the competency reachable; it should not reduce it to recognition, group participation, or self-report.
 
@@ -117,31 +125,31 @@ USE: Educator-only diagram; see the asset index brief.
 
 These interactions may be woven into normal module teaching. They are examples, not a single written exam or the only valid route. Give each learner a chance to respond, then record each competency separately.
 
-#### `T1` — Money comparison and local scenario (`C1`, `C2`)
+#### `T1` — Money comparison and local scenario (`C1`)
 
-**Prompt:** “Choose two familiar ways people hold or exchange value. Explain why people use money, why direct [barter](mfb-bd-lx.md#term-barter) can be difficult, and how shared money changes that problem. Compare the two using at least two money functions or properties. Then choose one realistic money situation and explain one trade-off it creates.”
+**Prompt:** “Choose two familiar ways people hold or exchange value. Explain why people use money, why direct [barter](../mfb-lx-26.10.md#term-barter) can be difficult, and how shared money changes that problem. Compare the two using at least two money functions or properties. Then choose one realistic money situation and explain one trade-off it creates.”
 
 **Meets standard:** The learner gives a coherent beginner explanation, uses relevant comparison criteria rather than preference alone, and identifies a plausible trade-off without needing to disclose private finances.
 
-**Not yet:** The learner only names terms, cannot explain the [barter](mfb-bd-lx.md#term-barter) or money issue, makes an unsupported comparison, or cannot state a trade-off after permitted clarification.
+**Not yet:** The learner only names terms, cannot explain the [barter](../mfb-lx-26.10.md#term-barter) or money issue, makes an unsupported comparison, or cannot state a trade-off after permitted clarification.
 
 **Low-tech/equivalent route:** Use two printed picture or word cards and an oral, signed, scribed, or aided response.
 
-#### `T2` — Bitcoin explanation, rule-and-role map, and asset comparison (`C3`, `C4`, `C5`)
+#### `T2` — Bitcoin explanation, rule-and-role map, and asset comparison (`C2`, `C3`)
 
-**Prompt:** “A digital unit is copied and sent to two people. Explain the problem and how shared verification helps. Use this map to explain peer-to-peer transfer, [decentralization](mfb-bd-lx.md#term-decentralization), users, [nodes](mfb-bd-lx.md#term-node), [miners](mfb-bd-lx.md#term-miner), developers, [proof of work](mfb-bd-lx.md#term-proof-of-work), public supply rules, the 21 million limit, [halving](mfb-bd-lx.md#term-halving), [satoshis](mfb-bd-lx.md#term-sat), and the beginner meaning of ‘don’t trust, verify.’ Then make a [sound-money](mfb-bd-lx.md#term-sound-money) judgement with one limit or trade-off. Compare Bitcoin with a generic stablecoin or another crypto-asset using control, issuance, verification, [custody](mfb-bd-lx.md#term-custody), or counterparty. Why is learning this different from trading or promoting it?”
+**Prompt:** “A digital unit is copied and sent to two people. Explain the problem and how shared verification helps. Use this map to explain peer-to-peer transfer, [decentralization](../mfb-lx-26.10.md#term-decentralization), users, [nodes](../mfb-lx-26.10.md#term-node), [miners](../mfb-lx-26.10.md#term-miner), developers, [proof of work](../mfb-lx-26.10.md#term-proof-of-work), public supply rules, the 21 million limit, [halving](../mfb-lx-26.10.md#term-halving), [satoshis](../mfb-lx-26.10.md#term-sat), and the beginner meaning of ‘don’t trust, verify.’ Then make a [sound-money](../mfb-lx-26.10.md#term-sound-money) judgement with one limit or trade-off. Compare Bitcoin with a generic stablecoin or another crypto-asset using control, issuance, verification, [custody](../mfb-lx-26.10.md#term-custody), or counterparty. Why is learning this different from trading or promoting it?”
 
-**Meets standard:** The learner accurately explains digital copying/[double spending](mfb-bd-lx.md#term-double-spending); identifies the required Bitcoin roles and relevant properties at beginner scope; makes a qualified [sound-money](mfb-bd-lx.md#term-sound-money) judgement with a limit or trade-off; and makes a non-promotional comparison using relevant criteria.
+**Meets standard:** The learner accurately explains digital copying/[double spending](../mfb-lx-26.10.md#term-double-spending); identifies the required Bitcoin roles and relevant properties at beginner scope; makes a qualified [sound-money](../mfb-lx-26.10.md#term-sound-money) judgement with a limit or trade-off; and makes a non-promotional comparison using relevant criteria.
 
-**Not yet:** The learner materially confuses roles, claims Bitcoin guarantees [price](mfb-bd-lx.md#term-price), [privacy](mfb-bd-lx.md#term-privacy), or universal acceptance, presents another [asset](mfb-bd-lx.md#term-asset) as identical without comparison, or cannot distinguish education from speculation/promotion.
+**Not yet:** The learner materially confuses roles, claims Bitcoin guarantees [price](../mfb-lx-26.10.md#term-price), [privacy](../mfb-lx-26.10.md#term-privacy), or universal acceptance, presents another [asset](../mfb-lx-26.10.md#term-asset) as identical without comparison, or cannot distinguish education from speculation/promotion.
 
 **Low-tech/equivalent route:** Use a printed role-and-arrow map and comparison cards. The learner may point, arrange, sign, dictate, or explain through an approved communication aid.
 
-#### `T3` — Custody, safety, and pathway decision (`C6`, `C7`, `C8`)
+#### `T3` — Custody, safety, and pathway decision (`C4`, `C5`)
 
-**Prompt:** “A person receives a message asking for their recovery words, and also wants to receive a small payment. Explain what information may be shared and what must remain secret. Compare a custodial and non-custodial option, and explain the beginner difference between a hot and [hardware wallet](mfb-bd-lx.md#term-hardware-wallet). What should the person do about the message, and when should they stop or seek help? Finally, choose an on-chain or Lightning path for a guided example and explain one relevant access or exchange trade-off.”
+**Prompt:** “A person receives a message asking for their recovery words, and also wants to receive a small payment. Explain what information may be shared and what must remain secret. Compare a custodial and non-custodial option, and explain the beginner difference between a hot and [hardware wallet](../mfb-lx-26.10.md#term-hardware-wallet). What should the person do about the message, and when should they stop or seek help? Finally, choose an on-chain or Lightning path for a guided example and explain one relevant access or exchange trade-off.”
 
-**Meets standard:** The learner distinguishes public receiving information from secrets, explains a [custody](mfb-bd-lx.md#term-custody) trade-off and hot/[hardware-wallet](mfb-bd-lx.md#term-hardware-wallet) scope, identifies a safe stop/verify/help response and beginner practical limit, and makes a pathway comparison without making a provider or investment recommendation.
+**Meets standard:** The learner distinguishes public receiving information from secrets, explains a [custody](../mfb-lx-26.10.md#term-custody) trade-off and hot/[hardware-wallet](../mfb-lx-26.10.md#term-hardware-wallet) scope, identifies a safe stop/verify/help response and beginner practical limit, and makes a pathway comparison without making a provider or investment recommendation.
 
 **Not yet:** The learner would share a secret, treats a wallet as holding bitcoin inside the device, proceeds with an obvious scam, or selects a pathway without relevant reasoning.
 
@@ -149,25 +157,25 @@ These interactions may be woven into normal module teaching. They are examples, 
 
 ### Example practical routes
 
-#### `P9` — Supported first access and receipt (`C9`)
+#### `P6a` — Supported first access and receipt (`C6`)
 
 **Possible environments:** A prepared training wallet, testnet, no-value simulation, physical-token activity, or an educator-controlled low-stakes setup. Personal funds are not required. If learners choose to use a small amount of their own funds, make the risk of loss clear and never make this the only route.
 
 **Learner task:**
 
 1. Open or navigate the prepared environment and locate the correct receiving information.
-2. Check the relevant address, invoice, amount, network, recipient, status, or [confirmation](mfb-bd-lx.md#term-confirmation) detail before proceeding.
+2. Check the relevant address, invoice, amount, network, recipient, status, or [confirmation](../mfb-lx-26.10.md#term-confirmation) detail before proceeding.
 3. Complete or safely simulate a receive-or-send flow.
 4. Complete the supported first-access pathway and receive bitcoin or a safe simulated receipt.
 5. Check the resulting wallet or transaction information and state one safety boundary.
 
-**Meets standard:** Completes the relevant steps safely, makes the important checks, protects secrets and [privacy](mfb-bd-lx.md#term-privacy), and gives an accurate brief explanation of the check made. The educator may adapt the sequence to the environment while preserving the competency.
+**Meets standard:** Completes the relevant steps safely, makes the important checks, protects secrets and [privacy](../mfb-lx-26.10.md#term-privacy), and gives an accurate brief explanation of the check made. The educator may adapt the sequence to the environment while preserving the competency.
 
 **Permitted support:** Read the task, point to the prepared workspace, repeat a safety instruction, or reset a training environment. Do not indicate which payment detail is correct or complete a required step.
 
 **Equivalent routes:** Printed wallet or payment screens with a transparent simulation; a role-play in which the learner selects and explains the relevant information; or a remote observation route that lets the educator see the learner's decisions without recording secrets.
 
-#### `P10` — Recovery-readiness simulation (`C10`)
+#### `P6b` — Recovery-readiness simulation (`C6`)
 
 **Learner task:** Using educator-provided fake words, cards, or a disposable empty training wallet, explain which material must remain secret, arrange the recovery process in a safe order, identify one unsafe storage or sharing request, and state when to stop and seek help.
 
@@ -177,9 +185,9 @@ These interactions may be woven into normal module teaching. They are examples, 
 
 **Equivalent routes:** Large-print, tactile, oral, signed, scribed, or role-play sequence using fake materials only.
 
-#### `P11` — Local Connect activity (`C11`)
+#### `P7` — Local Connect activity (`C7`)
 
-**Choose a route:** Select a locally relevant activity such as a payment-path comparison, small-purchase simulation, work/remittance comparison, merchant/refund flow, community-donation simulation, pathway comparison, circular-economy/resource map, or another suitable equivalent. The activity should preserve the purpose of both `C11.1` and `C11.2`.
+**Choose a route:** Select a locally relevant activity such as a payment-path comparison, small-purchase simulation, work/remittance comparison, merchant/refund flow, community-donation simulation, pathway comparison, circular-economy/resource map, or another suitable equivalent. The activity should preserve the purpose of both `C7.1` and `C7.2`.
 
 **Learner task:** Complete the variant's safe sequence and relevant verification behaviour. During or immediately after it, explain the local purpose, realistic alternative, relevant trade-offs and failure points, safety considerations, and a realistic next step. “This is not suitable here” is an acceptable conclusion when well reasoned.
 
@@ -199,15 +207,15 @@ These interactions may be woven into normal module teaching. They are examples, 
 
 ### Calibration examples for assessor discussion
 
-Use these examples to compare judgements before delivery. They are model evidence, not learner scripts. Two assessors should score each example independently, discuss any difference, and record the date, assessors, selected `P11` variant, and agreed interpretation.
+Use these examples to compare judgements before delivery. They are model evidence, not learner scripts. Two assessors should score each example independently, discuss any difference, and record the date, assessors, selected `P7` variant, and agreed interpretation.
 
 | Protocol | Annotated `MS` example | Annotated `NY` example |
 |---|---|---|
 | `T2` — Bitcoin explanation, rule-and-role map, and asset comparison | The learner explains that digital information can be copied and that shared verification helps prevent the same bitcoin from being accepted twice. They correctly distinguish users, nodes, miners, and developers; describe the supply rule and halving at beginner level; compare Bitcoin with a generic stablecoin using control and issuance; and state one limitation without promoting either asset. **Judgement: MS.** | The learner says miners can change any rule and that Bitcoin's fixed supply guarantees price. After permitted clarification, they cannot explain the copying problem or compare control and issuance. **Judgement: NY; practise roles, supply claims, and comparison criteria.** |
-| `P9` — Supported first access and receipt | In a prepared simulation, the learner checks the recipient, network, amount, and payment detail before proceeding, completes the receipt, protects all secrets, and explains that a mismatch is a reason to stop and verify. **Judgement: MS.** | The learner proceeds after being shown a recipient or amount mismatch, asks the educator which payment detail to choose, or exposes a recovery secret. **Judgement: NY; stop, reset the safe environment, practise verification, and reassess.** |
-| `P11` — Example variant: local payment-path comparison simulation | The learner completes the simulated payment sequence safely, checks the recipient and amount, and individually explains the local purpose, a realistic alternative, trade-offs, possible failure points, safety boundary, and next step. **Judgement: MS.** | The learner completes the sequence only through educator direction, skips a required check, or cannot explain the realistic alternative and safety response after permitted support. **Judgement: NY; provide focused practice and reassess the same or an equivalent variant.** |
+| `P6a` — Supported first access and receipt | In a prepared simulation, the learner checks the recipient, network, amount, and payment detail before proceeding, completes the receipt, protects all secrets, and explains that a mismatch is a reason to stop and verify. **Judgement: MS.** | The learner proceeds after being shown a recipient or amount mismatch, asks the educator which payment detail to choose, or exposes a recovery secret. **Judgement: NY; stop, reset the safe environment, practise verification, and reassess.** |
+| `P7` — Example variant: local payment-path comparison simulation | The learner completes the simulated payment sequence safely, checks the recipient and amount, and individually explains the local purpose, a realistic alternative, trade-offs, possible failure points, safety boundary, and next step. **Judgement: MS.** | The learner completes the sequence only through educator direction, skips a required check, or cannot explain the realistic alternative and safety response after permitted support. **Judgement: NY; provide focused practice and reassess the same or an equivalent variant.** |
 
-These examples do not replace direct observation, the Assessment Grid, or the selected local `P11` approval. Do not record real secrets, private keys, passwords, balances, or unnecessary personal information during calibration.
+These examples do not replace direct observation, the Assessment Grid, or the selected local `P7` approval. Do not record real secrets, private keys, passwords, balances, or unnecessary personal information during calibration.
 
 Use the examples and activity materials that fit your cohort. Review local tools, current facts, translation, accessibility, and practical safety before delivery. When you adapt an activity, keep the competency and safety purpose clear.
 
@@ -275,7 +283,7 @@ The Educator Guide is a practical teaching companion. It should help you:
 - select a meaningful Bitcoin in Your Community experience;
 - use competency-aligned evidence to support learning;
 - assess practical competency consistently and provide practical reassessment;
-- protect learner [privacy](mfb-bd-lx.md#term-privacy), autonomy, and safety; and
+- protect learner [privacy](../mfb-lx-26.10.md#term-privacy), autonomy, and safety; and
 - connect learners with suitable next steps.
 
 This guide and the Diploma are educational resources. They do not provide financial, investment, legal, tax, accounting, compliance, or trading advice, and they should not be used to make individual decisions.
@@ -331,7 +339,7 @@ These are guardrails, not a test. Keep this list open while you prepare. You do 
 3. Preserve the required competencies, evidence requirements, safety boundaries, and passing standard in every language and delivery mode.
 4. Conduct competency-aligned educator-led theory interactions and direct practical observation. Offer the [My First Bitcoin App](https://myfirstbitcoin.app/) only as an optional recap, self-check, or discovery resource.
 5. Give supported practice before assessment. For practical learning, use Presentation → Practice → Production.
-6. Never ask to see, handle, photograph, copy, record, or store a learner's real [seed phrase](mfb-bd-lx.md#term-seed-phrase), [private key](mfb-bd-lx.md#term-private-key), credential, balance, or unnecessary transaction information.
+6. Never ask to see, handle, photograph, copy, record, or store a learner's real [seed phrase](../mfb-lx-26.10.md#term-seed-phrase), [private key](../mfb-lx-26.10.md#term-private-key), credential, balance, or unnecessary transaction information.
 7. Use prepared wallets, simulations, test environments, printed screens, or appropriately low-stakes practice. Always prepare a no-funds or offline fallback.
 8. Do not give financial, investment, legal, tax, accounting, compliance, or trading advice. Do not pressure learners to acquire or use bitcoin.
 9. Treat named wallets, exchanges, services, maps, merchants, and community resources as dated local examples, not global recommendations.
@@ -343,8 +351,8 @@ These are guardrails, not a test. Keep this list open while you prepare. You do 
 | --- | --- | --- | --- | --- |
 | 1. Problem: Understanding Money | How can money break? | Explain why money exists, compare forms of money, and connect modern-money problems to a local or realistic experience. | Draw out existing ideas, facilitate comparison, add checked local fiat context, and assess competency-aligned theory interactions. | Educator-led theoretical evidence. |
 | 2. Solution: How Bitcoin Works | Why was Bitcoin created, and how does it respond? | Explain Bitcoin's purpose, key properties, participant roles, benefits, limits, and new responsibilities. | Make technical relationships visible, correct role confusion, test claims through evidence and trade-offs, and assess competency-aligned theory interactions. | Educator-led theoretical evidence. |
-| 3. Action: Using Bitcoin Safely | How do I take responsibility for using and securing Bitcoin? | Explain [custody](mfb-bd-lx.md#term-custody) and safety concepts and demonstrate required beginner wallet, recovery-readiness, transaction, and verification skills. | Demonstrate safe process, supervise practice, protect secrets, observe performance, and give corrective feedback. | Educator-led theory evidence and direct practical observation. |
-| 4. Connect: Bitcoin in Your Community | How do the problem, solution, and safe action connect to this community? | Complete one locally relevant Bitcoin-as-money task safely and connect it to its local purpose, realistic alternative, trade-offs, safety considerations, and next steps. | Research local reality, select and validate the module, facilitate safe practice, and assess the required evidence. | Direct practical observation for `C11`, including `C11.1` and `C11.2` competency criteria. |
+| 3. Action: Using Bitcoin Safely | How do I take responsibility for using and securing Bitcoin? | Explain [custody](../mfb-lx-26.10.md#term-custody) and safety concepts and demonstrate required beginner wallet, recovery-readiness, transaction, and verification skills. | Demonstrate safe process, supervise practice, protect secrets, observe performance, and give corrective feedback. | Educator-led theory evidence and direct practical observation. |
+| 4. Connect: Bitcoin in Your Community | How do the problem, solution, and safe action connect to this community? | Complete one locally relevant Bitcoin-as-money task safely and connect it to its local purpose, realistic alternative, trade-offs, safety considerations, and next steps. | Research local reality, select and validate the module, facilitate safe practice, and assess the required evidence. | Direct practical observation for `C7`, including `C7.1` and `C7.2` competency criteria. |
 
 The narrative should remain connected:
 
@@ -377,7 +385,7 @@ You are responsible for helping learners:
 - demonstrate what they can explain and do; and
 - identify an appropriate next step or a reason to remain uncertain.
 
-You are not responsible for making learners agree with you. A learner can meet the Diploma standard while remaining critical of Bitcoin, fiat systems, [self-custody](mfb-bd-lx.md#term-self-custody), or a local Bitcoin use case, provided they can explain the concepts, use relevant evidence, explain trade-offs, and demonstrate the required safety competencies.
+You are not responsible for making learners agree with you. A learner can meet the Diploma standard while remaining critical of Bitcoin, fiat systems, [self-custody](../mfb-lx-26.10.md#term-self-custody), or a local Bitcoin use case, provided they can explain the concepts, use relevant evidence, explain trade-offs, and demonstrate the required safety competencies.
 
 ### Course roles
 
@@ -427,7 +435,7 @@ USE: Shared Student Guide master.
 
 You do not need to prepare or teach in isolation. The [Educator Training Program](https://etp.myfirstbitcoin.org/) supports prospective and active educators in developing their teaching and assessment practice and connecting with the wider education community.
 
-Use local expert support when a module depends on knowledge you do not hold, especially current banking rules, legal or tax context, accessibility, translation, local payment tools, merchant operations, [community custody](mfb-bd-lx.md#term-community-custody), or safety conditions. An expert should support the learning competency, not use the class to promote a product, service, political position, or investment choice.
+Use local expert support when a module depends on knowledge you do not hold, especially current banking rules, legal or tax context, accessibility, translation, local payment tools, merchant operations, [community custody](../mfb-lx-26.10.md#term-community-custody), or safety conditions. An expert should support the learning competency, not use the class to promote a product, service, political position, or investment choice.
 
 ---
 
@@ -471,9 +479,9 @@ USE: Educator-only diagram; see the asset index brief.
 
 **The Diploma** follows the four-stage learning arc **Problem → Solution → Action → Connect**. **Modules 1–2** develop the Problem and Solution through explanation, comparison, and reasoning. **Module 3** develops safe Action. **Module 4** is the educator-curated Connect stage, where learners link the shared learning to a local need or opportunity, realistic alternative, safe performance, and responsible next step.
 
-**Module 4** is required Diploma learning, curated by educators as the local subject-matter experts. The scenario or tool may change, but every learner seeking certification must meet `C11` through a local activity that covers the purpose of `C11.1` and `C11.2`.
+**Module 4** is required Diploma learning, curated by educators as the local subject-matter experts. The scenario or tool may change, but every learner seeking certification must meet `C7` through a local activity that covers the purpose of `C7.1` and `C7.2`.
 
-**Advanced** is optional follow-on learning beyond the Diploma. Detailed [mining](mfb-bd-lx.md#term-mining), transaction mechanics, Lightning operations, [multisignature](mfb-bd-lx.md#term-multisignature) design, institutional [custody](mfb-bd-lx.md#term-custody), organizational treasury, regulation, accounting, tax, compliance, investment analysis, policy, and deep technical topics do not belong in the required beginner experience.
+**Advanced** is optional follow-on learning beyond the Diploma. Detailed [mining](../mfb-lx-26.10.md#term-mining), transaction mechanics, Lightning operations, [multisignature](../mfb-lx-26.10.md#term-multisignature) design, institutional [custody](../mfb-lx-26.10.md#term-custody), organizational treasury, regulation, accounting, tax, compliance, investment analysis, policy, and deep technical topics do not belong in the required beginner experience.
 
 <!-- VISUAL: BD-V-003
 ALT: All four Diploma modules form the required learning arc; locally selected Connect learning remains required and Advanced learning lies beyond the Diploma.
@@ -491,7 +499,7 @@ When an interesting question would pull the group into advanced material, acknow
 
 ### Open the course with clear expectations
 
-Explain that the Diploma is educational. It does not recommend buying, selling, borrowing against, or holding bitcoin. It does not promise [price](mfb-bd-lx.md#term-price) appreciation or teach trading. Learners do not need to own bitcoin or reveal whether they do.
+Explain that the Diploma is educational. It does not recommend buying, selling, borrowing against, or holding bitcoin. It does not promise [price](../mfb-lx-26.10.md#term-price) appreciation or teach trading. Learners do not need to own bitcoin or reveal whether they do.
 
 Establish these participation agreements:
 
@@ -505,7 +513,7 @@ Establish these participation agreements:
 - use an invented scenario when a personal example would feel private;
 - do not ask anyone how much money or bitcoin they hold;
 - do not photograph, record, or share another learner's work or screen without permission;
-- never reveal a [seed phrase](mfb-bd-lx.md#term-seed-phrase), [private key](mfb-bd-lx.md#term-private-key), password, or security arrangement; and
+- never reveal a [seed phrase](../mfb-lx-26.10.md#term-seed-phrase), [private key](../mfb-lx-26.10.md#term-private-key), password, or security arrangement; and
 - stop practical work when something differs from the demonstrated process.
 
 ### Teach how to think, not what to think
@@ -575,7 +583,7 @@ For teaching and assessment, an accommodation may change how instructions are re
 - reduced noise or a private assessment space; or
 - breaking a task into clearly signposted stages.
 
-The accommodation must preserve the measurable competency. If the competency is to explain, the learner must still communicate the explanation. If it is to verify a [payment destination](mfb-bd-lx.md#term-payment-destination), the learner must still make or direct that verification. If it is to demonstrate a sequence, the educator must still observe the learner controlling the decisions in that sequence.
+The accommodation must preserve the measurable competency. If the competency is to explain, the learner must still communicate the explanation. If it is to verify a [payment destination](../mfb-lx-26.10.md#term-payment-destination), the learner must still make or direct that verification. If it is to demonstrate a sequence, the educator must still observe the learner controlling the decisions in that sequence.
 
 Accommodations for educator-led theoretical touchpoints or educator-observed practical evidence must preserve their purpose, competency, evidence, and standard. If an equivalent assessment cannot be established, provide further supported practice rather than certify the competency. Optional [My First Bitcoin App](https://myfirstbitcoin.app/) use must never be a required accommodation route.
 
@@ -661,7 +669,7 @@ Move optional history, extra analogies, extended debates, detailed mechanics, an
 - Confirm the cohort, language, accessibility, safeguarding, venue, and schedule.
 - Read the relevant Student Guide sections and competency map.
 - Select the **Module 4** module and any local expert.
-- Verify local banking, [inflation](mfb-bd-lx.md#term-inflation), payment, legal, tax, privacy, and tool information that will be used.
+- Verify local banking, [inflation](../mfb-lx-26.10.md#term-inflation), payment, legal, tax, privacy, and tool information that will be used.
 - Select activities and assessment tasks.
 - Plan practical environments, amounts, roles, stop conditions, and reset procedures.
 - Prepare offline alternatives and print materials.
@@ -693,7 +701,7 @@ Prepare according to the cohort and selected tasks:
 - paper, pens, cards, counters, sticky notes, or a board;
 - printed key tables, diagrams, and activity instructions;
 - prepared wallet screens or empty training wallets;
-- sample addresses, invoices, *[txid](mfb-bd-lx.md#term-transaction-id)*s, and explorer screenshots;
+- sample addresses, invoices, *[txid](../mfb-lx-26.10.md#term-transaction-id)*s, and explorer screenshots;
 - a visible **SAMPLE — DO NOT PAY** label for fictional payment information;
 - the Assessment Grid and optional notes;
 - a timer and session plan;
@@ -706,10 +714,10 @@ Complete one row for each changing fact, service, or resource used in class.
 
 | Item | Why it matters | Source or local expert | Date checked | What may change | Classroom wording or fallback |
 | --- | --- | --- | --- | --- | --- |
-| Local [currency](mfb-bd-lx.md#term-currency) and payment rules | **Module 1** discussion |  |  |  |  |
+| Local [currency](../mfb-lx-26.10.md#term-currency) and payment rules | **Module 1** discussion |  |  |  |  |
 | Banking regulation and deposit protection | Fractional-reserve section |  |  |  |  |
-| Official [inflation](mfb-bd-lx.md#term-inflation) measure and basket | [Purchasing-power](mfb-bd-lx.md#term-purchasing-power) activity |  |  |  |  |
-| [CBDC](mfb-bd-lx.md#term-cbdc) status or design | Optional local comparison |  |  |  |  |
+| Official [inflation](../mfb-lx-26.10.md#term-inflation) measure and basket | [Purchasing-power](../mfb-lx-26.10.md#term-purchasing-power) activity |  |  |  |  |
+| [CBDC](../mfb-lx-26.10.md#term-cbdc) status or design | Optional local comparison |  |  |  |  |
 | Wallet or payment tool | **Module 3 or 4** practice |  |  |  |  |
 | Fees, spreads, and limits | Local pathway comparison |  |  |  |  |
 | Legal, tax, privacy, or reporting context | Local module |  |  |  |  |
@@ -765,7 +773,7 @@ Write a claim where everyone can see it. Ask teams to complete:
 - **Trade-off:** Which cost, limitation, or alternative must be included?
 - **Uncertainty:** What is unknown, changing, or locally dependent?
 
-This pattern works for claims about [inflation](mfb-bd-lx.md#term-inflation), [decentralization](mfb-bd-lx.md#term-decentralization), energy, payment speed, [privacy](mfb-bd-lx.md#term-privacy), adoption, [CBDCs](mfb-bd-lx.md#term-cbdc), and local tools.
+This pattern works for claims about [inflation](../mfb-lx-26.10.md#term-inflation), [decentralization](../mfb-lx-26.10.md#term-decentralization), energy, payment speed, [privacy](../mfb-lx-26.10.md#term-privacy), adoption, [CBDCs](../mfb-lx-26.10.md#term-cbdc), and local tools.
 
 ### Scenario analysis
 
@@ -779,7 +787,7 @@ Use realistic invented characters and local conditions. Ask:
 6. What could fail?
 7. What is the smallest safe next step?
 
-Change one condition after the first answer. For example: the internet fails, the address changes, the recipient wants local [currency](mfb-bd-lx.md#term-currency), the fee rises, or the learner notices an urgent support message. This tests whether the learner can transfer their reasoning.
+Change one condition after the first answer. For example: the internet fails, the address changes, the recipient wants local [currency](../mfb-lx-26.10.md#term-currency), the fee rises, or the learner notices an urgent support message. This tests whether the learner can transfer their reasoning.
 
 <!-- VISUAL: BD-V-101
 ALT: A fictional scenario moves from goal and verified facts to control, options, risks, and a safe next step. A changed connection, destination, recipient need, or fee sends reasoning back to the affected decision.
@@ -816,7 +824,7 @@ An activity does not teach itself. Debrief with four questions:
 3. What did the activity simplify or fail to show?
 4. Where would this matter in a real or local situation?
 
-Correct misleading effects created by the activity. A token [bank-run](mfb-bd-lx.md#term-bank-run) game, for example, does not reproduce a real bank balance sheet or local regulation. A miner-and-node role-play does not simulate the network's full technical operation.
+Correct misleading effects created by the activity. A token [bank-run](../mfb-lx-26.10.md#term-bank-run) game, for example, does not reproduce a real bank balance sheet or local regulation. A miner-and-node role-play does not simulate the network's full technical operation.
 
 ### Handle rabbit holes
 
@@ -843,8 +851,8 @@ When a demonstration needs internet access, prepare an offline alternative where
 | Wallet navigation | Sequenced printed wallet screens or a projected recording with prediction pauses |
 | Sending and receiving | Address or invoice cards, amount cards, and a paper transaction flow |
 | QR scanning | Printed sample payment information and visual comparison |
-| [Block explorer](mfb-bd-lx.md#term-block-explorer) | Dated screenshots of a prepared public transaction |
-| Live [price](mfb-bd-lx.md#term-price), fee, or [inflation](mfb-bd-lx.md#term-inflation) data | Dated prepared snapshot with source and limitations |
+| [Block explorer](../mfb-lx-26.10.md#term-block-explorer) | Dated screenshots of a prepared public transaction |
+| Live [price](../mfb-lx-26.10.md#term-price), fee, or [inflation](../mfb-lx-26.10.md#term-inflation) data | Dated prepared snapshot with source and limitations |
 | Merchant or community map | Printed local map and verified sample listings |
 | Lightning payment | Invoice cards and a routed-payment scenario |
 | Video | Narrated diagram, storyboard, or educator explanation |
@@ -890,7 +898,7 @@ End with reflection:
 
 Before a live tool demonstration:
 
-1. Confirm the exact tool, version, source, network, [custody](mfb-bd-lx.md#term-custody) model, and recovery method.
+1. Confirm the exact tool, version, source, network, [custody](../mfb-lx-26.10.md#term-custody) model, and recovery method.
 2. Run the full process privately on the same device and connection.
 3. Decide whether funds are required. Prefer no funds; otherwise use an amount whose complete loss would remain a lesson, not a crisis.
 4. Prepare the expected state and a recovery or reset process.
@@ -905,7 +913,7 @@ Before a live tool demonstration:
 
 Stop the activity immediately if:
 
-- a real [seed phrase](mfb-bd-lx.md#term-seed-phrase), [private key](mfb-bd-lx.md#term-private-key), password, or credential appears;
+- a real [seed phrase](../mfb-lx-26.10.md#term-seed-phrase), [private key](../mfb-lx-26.10.md#term-private-key), password, or credential appears;
 - someone asks a learner to reveal or enter recovery information;
 - an address, invoice, recipient, network, amount, or unit does not match;
 - a wallet or website is not the verified source;
@@ -928,7 +936,7 @@ USE: Educator-only diagram; see the asset index brief.
 
 Use fake words, clearly marked training material, or an empty disposable wallet for recovery practice. Never create a classroom process in which another person can observe a learner's lasting recovery information.
 
-Do not ask learners to prove [self-custody](mfb-bd-lx.md#term-self-custody) by showing a [seed phrase](mfb-bd-lx.md#term-seed-phrase). Proof of competence is safe handling and explanation, not disclosure.
+Do not ask learners to prove [self-custody](../mfb-lx-26.10.md#term-self-custody) by showing a [seed phrase](../mfb-lx-26.10.md#term-seed-phrase). Proof of competence is safe handling and explanation, not disclosure.
 
 ### Shared devices
 
@@ -965,22 +973,21 @@ Record each assessed competency. Decimal `C` IDs are competency criteria and rub
 
 | Assessed competency | Learner must be able to | Competency criteria to cover | Useful educator evidence |
 | --- | --- | --- | --- |
-| `C1` | Explain why people use money and compare two forms of money using simple characteristics. | `C1.1` Money and its purpose.<br>`C1.2` [Barter](mfb-bd-lx.md#term-barter) and the evolution of money.<br>`C1.3` Functions and properties.<br>`C1.4` Comparison using monetary characteristics. | Own-words explanation and a comparison using consistent criteria and one trade-off. |
-| `C2` | Use a guided local or realistic scenario to explain one modern-money trade-off. | `C2.1` [Inflation](mfb-bd-lx.md#term-inflation), [purchasing power](mfb-bd-lx.md#term-purchasing-power), banking, or [CBDC](mfb-bd-lx.md#term-cbdc) trade-offs.<br>`C2.2` Local, observed, or realistic money experience without personal disclosure. | Scenario explanation without one-cause or universal claims. |
+| `C1` | Explain why people use money, compare two forms, and explain one modern-money trade-off. | `C1.1` Money's purpose, [barter](../mfb-lx-26.10.md#term-barter) limits, functions, and properties.<br>`C1.2` Comparison using relevant characteristics.<br>`C1.3` Local, observed, or realistic trade-off, such as [inflation](../mfb-lx-26.10.md#term-inflation), banking, or [CBDC](../mfb-lx-26.10.md#term-cbdc), without personal disclosure. | Own-words explanation, comparison, and scenario response. |
 
-Use guided discussions to develop and notice the formative competency `C12` across the course. Do not infer it from attendance or confidence; notice clear explanation, relevant evidence, respectful listening, and basic reasoning. `C12` is not a certification gate.
+Use guided discussions to develop and notice the formative competency `F1` across the course. Do not infer it from attendance or confidence; notice clear explanation, relevant evidence, respectful listening, and basic reasoning. `F1` is not a certification gate.
 
 ### Prepare before class
 
 - Read the **Module 1** Student Guide sections and identify which definitions need local-language support.
 - Prepare the five opening questions for cohort discussion.
 - Select one money-properties activity and one modern-money activity.
-- Prepare locally familiar examples of a [medium of exchange](mfb-bd-lx.md#term-medium-of-exchange), [unit of account](mfb-bd-lx.md#term-unit-of-account), and [store of value](mfb-bd-lx.md#term-store-of-value).
-- Review the [currencies](mfb-bd-lx.md#term-currency) and payment methods learners encounter locally.
+- Prepare locally familiar examples of a [medium of exchange](../mfb-lx-26.10.md#term-medium-of-exchange), [unit of account](../mfb-lx-26.10.md#term-unit-of-account), and [store of value](../mfb-lx-26.10.md#term-store-of-value).
+- Review the [currencies](../mfb-lx-26.10.md#term-currency) and payment methods learners encounter locally.
 - Be ready to facilitate the local fiat-system scenario. Identify the relevant central bank, commercial banks, payment providers, government roles, and settlement arrangements.
-- Verify current local banking rules relevant to the discussion, including reserve or [liquidity](mfb-bd-lx.md#term-liquidity) arrangements, [capital](mfb-bd-lx.md#term-capital) supervision, deposit protection, withdrawal rules, account-access rules, and consumer protection. Explain only what you have verified and do not provide legal or financial advice.
-- Locate the official [inflation](mfb-bd-lx.md#term-inflation) measure, current publication date, basket description, and methodology. Prepare one local item with a dated [price](mfb-bd-lx.md#term-price) comparison.
-- Check whether a local [CBDC](mfb-bd-lx.md#term-cbdc) exists, is proposed, or is only hypothetical. Do not teach a generic [CBDC](mfb-bd-lx.md#term-cbdc) feature as a confirmed local fact.
+- Verify current local banking rules relevant to the discussion, including reserve or [liquidity](../mfb-lx-26.10.md#term-liquidity) arrangements, [capital](../mfb-lx-26.10.md#term-capital) supervision, deposit protection, withdrawal rules, account-access rules, and consumer protection. Explain only what you have verified and do not provide legal or financial advice.
+- Locate the official [inflation](../mfb-lx-26.10.md#term-inflation) measure, current publication date, basket description, and methodology. Prepare one local item with a dated [price](../mfb-lx-26.10.md#term-price) comparison.
+- Check whether a local [CBDC](../mfb-lx-26.10.md#term-cbdc) exists, is proposed, or is only hypothetical. Do not teach a generic [CBDC](../mfb-lx-26.10.md#term-cbdc) feature as a confirmed local fact.
 - Prepare an offline role map, balance-sheet sketch, price-basket example, and activity fallback.
 
 ### Suggested two-hour flow
@@ -992,11 +999,11 @@ This is a minimum pathway. Extend it when the cohort needs more economic backgro
 | 0–12 min | Surface prior ideas | Opening questions in pairs, then cohort discussion |
 | 12–28 min | Why money exists | Exchange scenario and spot question |
 | 28–45 min | Functions and properties | Local examples plus money-properties comparison |
-| 45–58 min | [Barter](mfb-bd-lx.md#term-barter) and choice | Short double-coincidence role scenario; [scarcity](mfb-bd-lx.md#term-scarcity) and [opportunity-cost](mfb-bd-lx.md#term-opportunity-cost) debrief |
+| 45–58 min | [Barter](../mfb-lx-26.10.md#term-barter) and choice | Short double-coincidence role scenario; [scarcity](../mfb-lx-26.10.md#term-scarcity) and [opportunity-cost](../mfb-lx-26.10.md#term-opportunity-cost) debrief |
 | 58–70 min | Monetary history | Non-linear timeline with local additions |
 | 70–92 min | Fiat-system roles | Local payment trace and institution map |
-| 92–105 min | Banking | Balance-sheet sketch or [liquidity](mfb-bd-lx.md#term-liquidity)/[solvency](mfb-bd-lx.md#term-solvency) scenario |
-| 105–115 min | [Inflation](mfb-bd-lx.md#term-inflation), [purchasing power](mfb-bd-lx.md#term-purchasing-power), and [CBDC](mfb-bd-lx.md#term-cbdc) | Dated local evidence discussion |
+| 92–105 min | Banking | Balance-sheet sketch or [liquidity](../mfb-lx-26.10.md#term-liquidity)/[solvency](../mfb-lx-26.10.md#term-solvency) scenario |
+| 105–115 min | [Inflation](../mfb-lx-26.10.md#term-inflation), [purchasing power](../mfb-lx-26.10.md#term-purchasing-power), and [CBDC](../mfb-lx-26.10.md#term-cbdc) | Dated local evidence discussion |
 | 115–120 min | Review and bridge | “Money can break when…” explanation |
 
 If the course has more time, split the module into two parts: money foundations, then modern-money trade-offs.
@@ -1026,7 +1033,7 @@ Keep the explanation grounded in coordination:
 - direct exchange requires matching wants;
 - commonly accepted money separates selling from buying;
 - a shared unit helps people compare and record value; and
-- money can move [purchasing power](mfb-bd-lx.md#term-purchasing-power) across time.
+- money can move [purchasing power](../mfb-lx-26.10.md#term-purchasing-power) across time.
 
 Ask:
 
@@ -1040,8 +1047,8 @@ Avoid saying all money began through one historical process. The course presents
 
 Teach the difference explicitly:
 
-- A **function** describes what money does: [medium of exchange](mfb-bd-lx.md#term-medium-of-exchange), [unit of account](mfb-bd-lx.md#term-unit-of-account), or [store of value](mfb-bd-lx.md#term-store-of-value).
-- A **property** describes a quality that can make it useful: [durability](mfb-bd-lx.md#term-durability), [portability](mfb-bd-lx.md#term-portability), [divisibility](mfb-bd-lx.md#term-divisibility), [fungibility](mfb-bd-lx.md#term-fungibility), [scarcity](mfb-bd-lx.md#term-scarcity), [acceptability](mfb-bd-lx.md#term-acceptability), or [verifiability](mfb-bd-lx.md#term-verifiability).
+- A **function** describes what money does: [medium of exchange](../mfb-lx-26.10.md#term-medium-of-exchange), [unit of account](../mfb-lx-26.10.md#term-unit-of-account), or [store of value](../mfb-lx-26.10.md#term-store-of-value).
+- A **property** describes a quality that can make it useful: [durability](../mfb-lx-26.10.md#term-durability), [portability](../mfb-lx-26.10.md#term-portability), [divisibility](../mfb-lx-26.10.md#term-divisibility), [fungibility](../mfb-lx-26.10.md#term-fungibility), [scarcity](../mfb-lx-26.10.md#term-scarcity), [acceptability](../mfb-lx-26.10.md#term-acceptability), or [verifiability](../mfb-lx-26.10.md#term-verifiability).
 
 <!-- VISUAL: BD-V-008
 ALT: Three money functions describe what money does; seven properties describe qualities that support those functions, with trade-offs depending on purpose.
@@ -1055,7 +1062,7 @@ Use different purposes. Ask which properties matter for:
 - saving for one year;
 - paying someone far away;
 - keeping an emergency reserve; and
-- recording business [prices](mfb-bd-lx.md#term-price).
+- recording business [prices](../mfb-lx-26.10.md#term-price).
 
 Then ask whether the same form of money performs equally well in every purpose and place.
 
@@ -1063,7 +1070,7 @@ Then ask whether the same form of money performs equally well in every purpose a
 
 **Purpose:** Prepare the criteria learners will reuse for Bitcoin in **Module 2**.
 
-**Setup:** Select three or four familiar forms, such as local cash, a bank balance, a useful commodity, a precious metal, or another locally relevant [asset](mfb-bd-lx.md#term-asset). Do not pre-label a winner.
+**Setup:** Select three or four familiar forms, such as local cash, a bank balance, a useful commodity, a precious metal, or another locally relevant [asset](../mfb-lx-26.10.md#term-asset). Do not pre-label a winner.
 
 **Task:** Teams compare each form against the seven properties. Every judgment must include a reason, condition, or example.
 
@@ -1092,11 +1099,11 @@ USE: Shared Student Guide master.
 Ask:
 
 - What made the first exchange difficult?
-- Did [barter](mfb-bd-lx.md#term-barter) fail because the goods had no [value](mfb-bd-lx.md#term-value)?
+- Did [barter](../mfb-lx-26.10.md#term-barter) fail because the goods had no [value](../mfb-lx-26.10.md#term-value)?
 - What changed when selling and buying became separate actions?
 - Which problems remain even after money is introduced?
 
-Clarify that [barter](mfb-bd-lx.md#term-barter) can work in particular settings. The point is that it becomes difficult to coordinate at scale.
+Clarify that [barter](../mfb-lx-26.10.md#term-barter) can work in particular settings. The point is that it becomes difficult to coordinate at scale.
 
 If using a game, debrief its simplifications. Real exchange includes relationships, credit, gifts, obligations, bargaining, law, and repeated interaction.
 
@@ -1104,9 +1111,9 @@ If using a game, debrief its simplifications. Real exchange includes relationshi
 
 Use one limited local resource to distinguish four ideas:
 
-- **[Scarcity](mfb-bd-lx.md#term-scarcity):** not every desired use can be satisfied.
-- **[Opportunity cost](mfb-bd-lx.md#term-opportunity-cost):** choosing one option gives up the best available alternative.
-- **[Time preference](mfb-bd-lx.md#term-time-preference):** circumstances affect how strongly a person prefers [value](mfb-bd-lx.md#term-value) now rather than later.
+- **[Scarcity](../mfb-lx-26.10.md#term-scarcity):** not every desired use can be satisfied.
+- **[Opportunity cost](../mfb-lx-26.10.md#term-opportunity-cost):** choosing one option gives up the best available alternative.
+- **[Time preference](../mfb-lx-26.10.md#term-time-preference):** circumstances affect how strongly a person prefers [value](../mfb-lx-26.10.md#term-value) now rather than later.
 - **Trade-off:** a choice gains one benefit while accepting a cost or giving up another.
 
 <!-- VISUAL: BD-V-012
@@ -1115,18 +1122,18 @@ ASSET: assets/briefs/bd-v-012-brief.md
 USE: Shared Student Guide master.
 -->
 
-Ask learners to explain why rarity alone does not create [value](mfb-bd-lx.md#term-value). A rare item with no use or demand may remain unwanted.
+Ask learners to explain why rarity alone does not create [value](../mfb-lx-26.10.md#term-value). A rare item with no use or demand may remain unwanted.
 
-Avoid moral judgments about [time preference](mfb-bd-lx.md#term-time-preference). A person meeting an urgent need is not failing a lesson about saving.
+Avoid moral judgments about [time preference](../mfb-lx-26.10.md#term-time-preference). A person meeting an urgent need is not failing a lesson about saving.
 
 ### Beginner monetary history
 
 Build a layered or braided timeline rather than a single arrow of progress. Include:
 
 - direct exchange, gifts, obligations, and records;
-- [commodity money](mfb-bd-lx.md#term-commodity-money);
-- standardized coins and [debasement](mfb-bd-lx.md#term-debasement);
-- [representative paper](mfb-bd-lx.md#term-representative-paper) and [convertibility](mfb-bd-lx.md#term-convertibility);
+- [commodity money](../mfb-lx-26.10.md#term-commodity-money);
+- standardized coins and [debasement](../mfb-lx-26.10.md#term-debasement);
+- [representative paper](../mfb-lx-26.10.md#term-representative-paper) and [convertibility](../mfb-lx-26.10.md#term-convertibility);
 - bank and government money;
 - modern fiat arrangements; and
 - digital interfaces to fiat-denominated claims.
@@ -1139,23 +1146,23 @@ USE: Shared Student Guide master.
 
 Invite local additions. Ask which forms coexisted rather than assuming one replaced another completely.
 
-If using the [gold standard](mfb-bd-lx.md#term-gold-standard), [Bretton Woods](mfb-bd-lx.md#term-bretton-woods), the [Nixon Shock](mfb-bd-lx.md#term-nixon-shock), or [Executive Order 6102](mfb-bd-lx.md#term-executive-order-6102):
+If using the [gold standard](../mfb-lx-26.10.md#term-gold-standard), [Bretton Woods](../mfb-lx-26.10.md#term-bretton-woods), the [Nixon Shock](../mfb-lx-26.10.md#term-nixon-shock), or [Executive Order 6102](../mfb-lx-26.10.md#term-executive-order-6102):
 
 - keep the explanation brief and relevant to the module;
 - state the location and historical scope;
-- present [Executive Order 6102](mfb-bd-lx.md#term-executive-order-6102) as a specific United States example;
-- present 1971 as an important marker in international dollar-to-gold [convertibility](mfb-bd-lx.md#term-convertibility), not the origin of all [fiat money](mfb-bd-lx.md#term-fiat-money); and
+- present [Executive Order 6102](../mfb-lx-26.10.md#term-executive-order-6102) as a specific United States example;
+- present 1971 as an important marker in international dollar-to-gold [convertibility](../mfb-lx-26.10.md#term-convertibility), not the origin of all [fiat money](../mfb-lx-26.10.md#term-fiat-money); and
 - route detailed monetary history to Advanced Learning.
 
 ### Fiat money and the local system
 
-Begin with the stable definition: [fiat money](mfb-bd-lx.md#term-fiat-money) is issued under government authority and is not redeemable for a fixed quantity of a commodity such as [gold](mfb-bd-lx.md#gold).
+Begin with the stable definition: [fiat money](../mfb-lx-26.10.md#term-fiat-money) is issued under government authority and is not redeemable for a fixed quantity of a commodity such as [gold](../mfb-lx-26.10.md#gold).
 
 Then trace one ordinary local payment. Use a realistic invented case such as transport, food, wages, phone credit, or a bill.
 
 Ask learners to identify:
 
-1. the [unit of account](mfb-bd-lx.md#term-unit-of-account);
+1. the [unit of account](../mfb-lx-26.10.md#term-unit-of-account);
 2. why the recipient accepts it;
 3. the records or payment instruction used;
 4. the bank, payment provider, or cash infrastructure involved;
@@ -1172,8 +1179,8 @@ Be ready to explain the local system. Name which details are general and which a
 
 Avoid these shortcuts:
 
-- “Fiat has [value](mfb-bd-lx.md#term-value) only because government forces it.” Legal tender and taxes matter, but acceptance, production, habits, networks, credit, and institutions also matter.
-- “Digital money is a new [currency](mfb-bd-lx.md#term-currency).” A phone or card is often an interface to an existing fiat claim.
+- “Fiat has [value](../mfb-lx-26.10.md#term-value) only because government forces it.” Legal tender and taxes matter, but acceptance, production, habits, networks, credit, and institutions also matter.
+- “Digital money is a new [currency](../mfb-lx-26.10.md#term-currency).” A phone or card is often an interface to an existing fiat claim.
 - “Every fiat system works the same way.” Institutions and laws vary.
 - “Fiat always fails immediately.” The relevant lesson is changing rules, dependence, and trade-offs, not an inevitable date prediction.
 
@@ -1181,10 +1188,10 @@ Avoid these shortcuts:
 
 Draw a simplified balance sheet:
 
-- the customer deposit is a [liability](mfb-bd-lx.md#term-liability) the bank owes;
-- a bank loan is an [asset](mfb-bd-lx.md#term-asset) to the bank and a [liability](mfb-bd-lx.md#term-liability) to the borrower;
+- the customer deposit is a [liability](../mfb-lx-26.10.md#term-liability) the bank owes;
+- a bank loan is an [asset](../mfb-lx-26.10.md#term-asset) to the bank and a [liability](../mfb-lx-26.10.md#term-liability) to the borrower;
 - approving a loan commonly creates a matching deposit;
-- banks must manage [liquidity](mfb-bd-lx.md#term-liquidity), [capital](mfb-bd-lx.md#term-capital), funding, [credit risk](mfb-bd-lx.md#term-credit-risk), regulation, and settlement; and
+- banks must manage [liquidity](../mfb-lx-26.10.md#term-liquidity), [capital](../mfb-lx-26.10.md#term-capital), funding, [credit risk](../mfb-lx-26.10.md#term-credit-risk), regulation, and settlement; and
 - exact rules vary by jurisdiction.
 
 <!-- VISUAL: BD-V-016
@@ -1197,8 +1204,8 @@ Do not use a repeated-physical-deposit “money multiplier” story as if it des
 
 Distinguish:
 
-- **[Liquidity risk](mfb-bd-lx.md#term-liquidity-risk):** the bank cannot meet payments or withdrawals when due even if its [assets](mfb-bd-lx.md#term-asset) may have long-term [value](mfb-bd-lx.md#term-value).
-- **[Solvency risk](mfb-bd-lx.md#term-solvency-risk):** the bank's [assets](mfb-bd-lx.md#term-asset) are insufficient to cover its obligations.
+- **[Liquidity risk](../mfb-lx-26.10.md#term-liquidity-risk):** the bank cannot meet payments or withdrawals when due even if its [assets](../mfb-lx-26.10.md#term-asset) may have long-term [value](../mfb-lx-26.10.md#term-value).
+- **[Solvency risk](../mfb-lx-26.10.md#term-solvency-risk):** the bank's [assets](../mfb-lx-26.10.md#term-asset) are insufficient to cover its obligations.
 
 <!-- VISUAL: BD-V-017
 ALT: Two fictional balance sheets distinguish insufficient immediately available funds from assets worth less than obligations.
@@ -1216,8 +1223,8 @@ Prepare to explain relevant local rules and institutions, such as:
 
 - who supervises commercial banks;
 - whether a reserve requirement exists and what it means;
-- [liquidity](mfb-bd-lx.md#term-liquidity) and [capital](mfb-bd-lx.md#term-capital) requirements at a beginner level;
-- [deposit-insurance](mfb-bd-lx.md#term-deposit-insurance) eligibility and limits;
+- [liquidity](../mfb-lx-26.10.md#term-liquidity) and [capital](../mfb-lx-26.10.md#term-capital) requirements at a beginner level;
+- [deposit-insurance](../mfb-lx-26.10.md#term-deposit-insurance) eligibility and limits;
 - withdrawal or transfer limits;
 - the central bank's lender-of-last-resort role;
 - account-access and identity rules; and
@@ -1229,7 +1236,7 @@ Do not imply that every bank is fraudulent, every bank is about to fail, or regu
 
 ### Inflation and purchasing power
 
-Teach [price inflation](mfb-bd-lx.md#term-price-inflation) as a sustained rise in the general [price](mfb-bd-lx.md#term-price) level. One product becoming more expensive is not, by itself, proof of general [inflation](mfb-bd-lx.md#term-inflation).
+Teach [price inflation](../mfb-lx-26.10.md#term-price-inflation) as a sustained rise in the general [price](../mfb-lx-26.10.md#term-price) level. One product becoming more expensive is not, by itself, proof of general [inflation](../mfb-lx-26.10.md#term-inflation).
 
 <!-- VISUAL: BD-V-018
 ALT: The same fixed currency amount buys a full basket at one illustrative date and less when the basket price rises; price level and purchasing power are distinct.
@@ -1237,23 +1244,23 @@ ASSET: assets/briefs/bd-v-018-brief.md
 USE: Shared Student Guide master.
 -->
 
-Ask learners to identify possible causes of a [price](mfb-bd-lx.md#term-price) change:
+Ask learners to identify possible causes of a [price](../mfb-lx-26.10.md#term-price) change:
 
 - money and credit conditions;
 - supply disruption;
 - changes in demand;
-- [currency](mfb-bd-lx.md#term-currency) weakness;
+- [currency](../mfb-lx-26.10.md#term-currency) weakness;
 - taxes or regulation;
 - changes in wages, transport, energy, or production costs; and
 - local shortage or quality change.
 
-Avoid assigning every [price](mfb-bd-lx.md#term-price) change to one factor.
+Avoid assigning every [price](../mfb-lx-26.10.md#term-price) change to one factor.
 
 #### Activity: purchasing-power investigation
 
-**Before class:** Choose one familiar item and find a reliable current and historical [price](mfb-bd-lx.md#term-price) if possible. Locate the official [inflation](mfb-bd-lx.md#term-inflation) measure and its basket or methodology. You can use the [Bitcoin Diploma AI assistant](https://ai.myfirstbitcoin.org) to develop questions about the methodology, then check the explanations and figures against the original statistical publication.
+**Before class:** Choose one familiar item and find a reliable current and historical [price](../mfb-lx-26.10.md#term-price) if possible. Locate the official [inflation](../mfb-lx-26.10.md#term-inflation) measure and its basket or methodology. You can use the [Bitcoin Diploma AI assistant](https://ai.myfirstbitcoin.org) to develop questions about the methodology, then check the explanations and figures against the original statistical publication.
 
-**Learner task:** Compare the item's [price](mfb-bd-lx.md#term-price) across time, ask whether income changed similarly, and name other possible causes. Then compare the item with the official measure.
+**Learner task:** Compare the item's [price](../mfb-lx-26.10.md#term-price) across time, ask whether income changed similarly, and name other possible causes. Then compare the item with the official measure.
 
 **Discussion:**
 
@@ -1267,23 +1274,23 @@ Prepare for this discussion. Review the local official measure well enough to ex
 
 ### Why the US dollar is a reserve currency
 
-Keep this section proportionate. Explain reserve [currency](mfb-bd-lx.md#term-currency), the historical role of the pound, the postwar position of the United States, [Bretton Woods](mfb-bd-lx.md#term-bretton-woods), the 1971 end of official international dollar-gold [convertibility](mfb-bd-lx.md#term-convertibility), and continuing network and market effects.
+Keep this section proportionate. Explain reserve [currency](../mfb-lx-26.10.md#term-currency), the historical role of the pound, the postwar position of the United States, [Bretton Woods](../mfb-lx-26.10.md#term-bretton-woods), the 1971 end of official international dollar-gold [convertibility](../mfb-lx-26.10.md#term-convertibility), and continuing network and market effects.
 
-Be ready to facilitate discussion, not only present the timeline. Prepare learners to ask why reserve-currency use can persist, what institutions and [network effects](mfb-bd-lx.md#term-network-effect) support it, what has changed over time, and which claims require current evidence.
+Be ready to facilitate discussion, not only present the timeline. Prepare learners to ask why reserve-currency use can persist, what institutions and [network effects](../mfb-lx-26.10.md#term-network-effect) support it, what has changed over time, and which claims require current evidence.
 
 Treat claims about the dollar's current reserve share as time-sensitive. Verify and date them before use. Do not turn the topic into a prediction of imminent collapse or permanent dominance.
 
-Ask learners whether a [currency](mfb-bd-lx.md#term-currency) can remain widely used after one part of its original arrangement changes. This helps prepare the concept of [network effects](mfb-bd-lx.md#term-network-effect).
+Ask learners whether a [currency](../mfb-lx-26.10.md#term-currency) can remain widely used after one part of its original arrangement changes. This helps prepare the concept of [network effects](../mfb-lx-26.10.md#term-network-effect).
 
 ### Why people look for alternatives
 
-Compare cash with locally relevant alternatives through the same criteria. Include benefits and risks for precious metals, real estate, stocks, education, land, tools, foreign [currency](mfb-bd-lx.md#term-currency), or another appropriate example.
+Compare cash with locally relevant alternatives through the same criteria. Include benefits and risks for precious metals, real estate, stocks, education, land, tools, foreign [currency](../mfb-lx-26.10.md#term-currency), or another appropriate example.
 
-Do not recommend an [asset](mfb-bd-lx.md#term-asset). Do not imply that any option guarantees [purchasing power](mfb-bd-lx.md#term-purchasing-power). Ask:
+Do not recommend an [asset](../mfb-lx-26.10.md#term-asset). Do not imply that any option guarantees [purchasing power](../mfb-lx-26.10.md#term-purchasing-power). Ask:
 
 - Which money function is the person trying to improve?
-- What [opportunity cost](mfb-bd-lx.md#term-opportunity-cost) appears?
-- What new storage, access, [liquidity](mfb-bd-lx.md#term-liquidity), knowledge, legal, or [price](mfb-bd-lx.md#term-price) risk appears?
+- What [opportunity cost](../mfb-lx-26.10.md#term-opportunity-cost) appears?
+- What new storage, access, [liquidity](../mfb-lx-26.10.md#term-liquidity), knowledge, legal, or [price](../mfb-lx-26.10.md#term-price) risk appears?
 
 This section prepares learners to evaluate Bitcoin by the same standard rather than treating it as exempt from trade-offs.
 
@@ -1297,7 +1304,7 @@ Use five questions:
 4. What transaction or identity information is visible to whom?
 5. Can users independently verify the system's rules and balances?
 
-Explain that a [CBDC](mfb-bd-lx.md#term-cbdc) is a central-bank [liability](mfb-bd-lx.md#term-liability) in digital form. “Digital” does not automatically mean decentralized, scarce, private, permissionless, or openly verifiable.
+Explain that a [CBDC](../mfb-lx-26.10.md#term-cbdc) is a central-bank [liability](../mfb-lx-26.10.md#term-liability) in digital form. “Digital” does not automatically mean decentralized, scarce, private, permissionless, or openly verifiable.
 
 <!-- VISUAL: BD-V-019
 ALT: Cash, bank deposits, a generic retail CBDC, and Bitcoin are compared by issuer, control, access, visibility, supply rules, and verification, with CBDC features marked design-dependent.
@@ -1305,20 +1312,20 @@ ASSET: assets/briefs/bd-v-019-brief.md
 USE: Shared Student Guide master.
 -->
 
-[CBDC](mfb-bd-lx.md#term-cbdc) designs differ. Do not claim that every [CBDC](mfb-bd-lx.md#term-cbdc) has or lacks a feature. Separate confirmed local design, published proposal, commentary, and speculation.
+[CBDC](../mfb-lx-26.10.md#term-cbdc) designs differ. Do not claim that every [CBDC](../mfb-lx-26.10.md#term-cbdc) has or lacks a feature. Separate confirmed local design, published proposal, commentary, and speculation.
 
 ### Strong Module 1 questions
 
 - Why did money come into existence?
 - Can something perform one money function well and another poorly?
 - Which monetary property matters most for this particular purpose?
-- Does [scarcity](mfb-bd-lx.md#term-scarcity) alone create [value](mfb-bd-lx.md#term-value)?
+- Does [scarcity](../mfb-lx-26.10.md#term-scarcity) alone create [value](../mfb-lx-26.10.md#term-value)?
 - Which people, records, and rules make an ordinary local payment work?
 - What does a bank owe a depositor?
-- How are [liquidity](mfb-bd-lx.md#term-liquidity) and [solvency](mfb-bd-lx.md#term-solvency) different?
-- Why might personal [purchasing-power](mfb-bd-lx.md#term-purchasing-power) experience differ from an official measure?
-- Which evidence would support a claim about local [inflation](mfb-bd-lx.md#term-inflation)?
-- How is a [CBDC](mfb-bd-lx.md#term-cbdc) similar to and different from [bank deposits](mfb-bd-lx.md#term-bank-deposit), cash, and Bitcoin?
+- How are [liquidity](../mfb-lx-26.10.md#term-liquidity) and [solvency](../mfb-lx-26.10.md#term-solvency) different?
+- Why might personal [purchasing-power](../mfb-lx-26.10.md#term-purchasing-power) experience differ from an official measure?
+- Which evidence would support a claim about local [inflation](../mfb-lx-26.10.md#term-inflation)?
+- How is a [CBDC](../mfb-lx-26.10.md#term-cbdc) similar to and different from [bank deposits](../mfb-lx-26.10.md#term-bank-deposit), cash, and Bitcoin?
 - Why might someone seek an alternative to cash, and which new risk appears?
 
 ### Common misconceptions and responses
@@ -1326,15 +1333,15 @@ USE: Shared Student Guide master.
 | Misconception | Beginner-safe correction | Follow-up question |
 | --- | --- | --- |
 | Money and wealth are the same. | Money helps measure and exchange claims on useful goods, services, time, and resources; it is not identical to all wealth. | Can a useful home be wealth without being convenient money? |
-| A [store of value](mfb-bd-lx.md#term-store-of-value) never loses [value](mfb-bd-lx.md#term-value). | [Store of value](mfb-bd-lx.md#term-store-of-value) is a function, not a guarantee. Every option has a time period and risk. | What could weaken this function for cash, [gold](mfb-bd-lx.md#gold), or another [asset](mfb-bd-lx.md#term-asset)? |
-| [Barter](mfb-bd-lx.md#term-barter) never works. | [Barter](mfb-bd-lx.md#term-barter) can work, but matching wants, quantities, timing, storage, and pricing becomes difficult at scale. | What makes [barter](mfb-bd-lx.md#term-barter) easier in a repeated local relationship? |
-| Rare means valuable. | [Value](mfb-bd-lx.md#term-value) also depends on usefulness, demand, information, and circumstances. | Name something rare that people may not want. |
-| Fiat is simply fake money. | Fiat is a real monetary arrangement supported by government authority, institutions, law, acceptance, and [network effects](mfb-bd-lx.md#term-network-effect). Its rules and trade-offs can be evaluated. | Which local payment would fail if the fiat records or institutions failed? |
-| Banks lend only existing customer cash. | Modern bank lending commonly creates a matching deposit, within [capital](mfb-bd-lx.md#term-capital), [liquidity](mfb-bd-lx.md#term-liquidity), regulatory, funding, risk, and demand constraints. | What appears on the bank's [assets](mfb-bd-lx.md#term-asset) and [liabilities](mfb-bd-lx.md#term-liability) after a loan? |
-| Fractional reserve means the bank keeps the same fixed fraction everywhere. | Reserve, [liquidity](mfb-bd-lx.md#term-liquidity), and [capital](mfb-bd-lx.md#term-capital) arrangements differ across countries and can change. | Which local rule needs checking? |
-| Every higher [price](mfb-bd-lx.md#term-price) is [inflation](mfb-bd-lx.md#term-inflation) caused by money printing. | General [inflation](mfb-bd-lx.md#term-inflation) is an average and [price](mfb-bd-lx.md#term-price) changes can have several interacting causes. | What other cause could change this item's [price](mfb-bd-lx.md#term-price)? |
+| A [store of value](../mfb-lx-26.10.md#term-store-of-value) never loses [value](../mfb-lx-26.10.md#term-value). | [Store of value](../mfb-lx-26.10.md#term-store-of-value) is a function, not a guarantee. Every option has a time period and risk. | What could weaken this function for cash, [gold](../mfb-lx-26.10.md#gold), or another [asset](../mfb-lx-26.10.md#term-asset)? |
+| [Barter](../mfb-lx-26.10.md#term-barter) never works. | [Barter](../mfb-lx-26.10.md#term-barter) can work, but matching wants, quantities, timing, storage, and pricing becomes difficult at scale. | What makes [barter](../mfb-lx-26.10.md#term-barter) easier in a repeated local relationship? |
+| Rare means valuable. | [Value](../mfb-lx-26.10.md#term-value) also depends on usefulness, demand, information, and circumstances. | Name something rare that people may not want. |
+| Fiat is simply fake money. | Fiat is a real monetary arrangement supported by government authority, institutions, law, acceptance, and [network effects](../mfb-lx-26.10.md#term-network-effect). Its rules and trade-offs can be evaluated. | Which local payment would fail if the fiat records or institutions failed? |
+| Banks lend only existing customer cash. | Modern bank lending commonly creates a matching deposit, within [capital](../mfb-lx-26.10.md#term-capital), [liquidity](../mfb-lx-26.10.md#term-liquidity), regulatory, funding, risk, and demand constraints. | What appears on the bank's [assets](../mfb-lx-26.10.md#term-asset) and [liabilities](../mfb-lx-26.10.md#term-liability) after a loan? |
+| Fractional reserve means the bank keeps the same fixed fraction everywhere. | Reserve, [liquidity](../mfb-lx-26.10.md#term-liquidity), and [capital](../mfb-lx-26.10.md#term-capital) arrangements differ across countries and can change. | Which local rule needs checking? |
+| Every higher [price](../mfb-lx-26.10.md#term-price) is [inflation](../mfb-lx-26.10.md#term-inflation) caused by money printing. | General [inflation](../mfb-lx-26.10.md#term-inflation) is an average and [price](../mfb-lx-26.10.md#term-price) changes can have several interacting causes. | What other cause could change this item's [price](../mfb-lx-26.10.md#term-price)? |
 | The official basket should match every person's experience. | The measure is an average; household spending patterns differ. | Which category matters more in your invented household? |
-| Every [CBDC](mfb-bd-lx.md#term-cbdc) has identical surveillance or control. | Features depend on design, law, infrastructure, and implementation. | Which feature is confirmed by a primary source? |
+| Every [CBDC](../mfb-lx-26.10.md#term-cbdc) has identical surveillance or control. | Features depend on design, law, infrastructure, and implementation. | Which feature is confirmed by a primary source? |
 
 ### Module 1 educator-led theoretical touchpoint
 
@@ -1342,7 +1349,7 @@ Use an approved short task that requires connection rather than definition alone
 
 - an own-words explanation of why money exists;
 - comparison of two forms of money through at least two relevant properties;
-- one local or realistic fiat-system, banking, [inflation](mfb-bd-lx.md#term-inflation), or [CBDC](mfb-bd-lx.md#term-cbdc) scenario; and
+- one local or realistic fiat-system, banking, [inflation](../mfb-lx-26.10.md#term-inflation), or [CBDC](../mfb-lx-26.10.md#term-cbdc) scenario; and
 - one benefit, risk, or trade-off.
 
 Listen for:
@@ -1350,11 +1357,11 @@ Listen for:
 - accurate use of functions and properties;
 - a realistic coordination or exchange explanation;
 - awareness that monetary history and banking rules vary;
-- no one-cause [inflation](mfb-bd-lx.md#term-inflation) claim;
+- no one-cause [inflation](../mfb-lx-26.10.md#term-inflation) claim;
 - a clear connection between the example and the concept; and
 - uncertainty stated where evidence is incomplete.
 
-Do not treat the learner's preference for [fiat money](mfb-bd-lx.md#term-fiat-money) or Bitcoin as evidence of learning. Apply the approved theoretical-touchpoint rubric, record individually identifiable evidence, give feedback, and offer reassessment where needed. If the task has not been approved for assessment, use it only formatively.
+Do not treat the learner's preference for [fiat money](../mfb-lx-26.10.md#term-fiat-money) or Bitcoin as evidence of learning. Apply the approved theoretical-touchpoint rubric, record individually identifiable evidence, give feedback, and offer reassessment where needed. If the task has not been approved for assessment, use it only formatively.
 
 ### Review and bridge to Module 2
 
@@ -1362,11 +1369,11 @@ Ask each learner to complete:
 
 > Money can break or become less useful when ________, because ________. One example is ________. The relevant trade-off is ________.
 
-Summarize that people may seek different monetary arrangements when they want different trade-offs around supply, access, control, settlement, [privacy](mfb-bd-lx.md#term-privacy), and trust.
+Summarize that people may seek different monetary arrangements when they want different trade-offs around supply, access, control, settlement, [privacy](../mfb-lx-26.10.md#term-privacy), and trust.
 
 Bridge:
 
-> The next module asks whether decentralized digital money can offer a different arrangement without recreating the [double-spend problem](mfb-bd-lx.md#term-double-spend-problem).
+> The next module asks whether decentralized digital money can offer a different arrangement without recreating the [double-spend problem](../mfb-lx-26.10.md#term-double-spend-problem).
 
 ---
 
@@ -1374,7 +1381,7 @@ Bridge:
 
 ### Purpose of the module
 
-**Module 2** explains why Bitcoin was created and how its parts work together at beginner depth. Avoid teaching a list of impressive features. Learners should connect the problem of decentralized digital money to Bitcoin's public rules, signatures, shared history, [proof of work](mfb-bd-lx.md#term-proof-of-work), and independent verification.
+**Module 2** explains why Bitcoin was created and how its parts work together at beginner depth. Avoid teaching a list of impressive features. Learners should connect the problem of decentralized digital money to Bitcoin's public rules, signatures, shared history, [proof of work](../mfb-lx-26.10.md#term-proof-of-work), and independent verification.
 
 Guiding question:
 
@@ -1384,7 +1391,7 @@ Learner promise:
 
 > I can explain Bitcoin's purpose, key properties, limits, and new responsibilities.
 
-**If this is your first time teaching Module 2:** Keep the central story visible: a digital payment can be copied, Bitcoin proposes a shared rule system, and independent participants verify those rules. Use the role cards before introducing technical detail. If the group gets lost, return to the [double-spend problem](mfb-bd-lx.md#term-double-spend-problem) and the [miner](mfb-bd-lx.md#term-miner)/[node](mfb-bd-lx.md#term-node) distinction.
+**If this is your first time teaching Module 2:** Keep the central story visible: a digital payment can be copied, Bitcoin proposes a shared rule system, and independent participants verify those rules. Use the role cards before introducing technical detail. If the group gets lost, return to the [double-spend problem](../mfb-lx-26.10.md#term-double-spend-problem) and the [miner](../mfb-lx-26.10.md#term-miner)/[node](../mfb-lx-26.10.md#term-node) distinction.
 
 ### Assessed competencies and competency criteria
 
@@ -1392,23 +1399,22 @@ Record one result for each assessed competency. Decimal `C` IDs are competency c
 
 | Assessed competency | Learner must be able to | Competency criteria to cover | Useful educator evidence |
 | --- | --- | --- | --- |
-| `C3` | Explain the digital-copy and [double-spend problem](mfb-bd-lx.md#term-double-spend-problem) and how shared verification helps Bitcoin address it. | `C3.1` Why Bitcoin was created, including digital copying and [double spending](mfb-bd-lx.md#term-double-spending). | Own-words problem-and-response explanation. |
-| `C4` | Explain how Bitcoin's public rules and network roles support its key money properties. | `C4.1` Key properties and “don't trust, verify.”<br>`C4.2` Roles, [proof of work](mfb-bd-lx.md#term-proof-of-work), supply, [halving](mfb-bd-lx.md#term-halving), and [sats](mfb-bd-lx.md#term-sat).<br>`C4.3` [Sound-money](mfb-bd-lx.md#term-sound-money) reasoning and limits. | Connected explanation, role map, or guided comparison. |
-| `C5` | Compare Bitcoin with one other digital [asset](mfb-bd-lx.md#term-asset) using guided criteria. | `C5.1` Comparison using control, supply, verification, [custody](mfb-bd-lx.md#term-custody), or counterparty considerations.<br>`C5.2` Risks and course boundaries. | Guided, Bitcoin-only comparison scenario without token promotion. |
+| `C2` | Explain Bitcoin foundations and rules at beginner scope. | `C2.1` Digital copying, [double spending](../mfb-lx-26.10.md#term-double-spending), and shared verification.<br>`C2.2` Roles, [proof of work](../mfb-lx-26.10.md#term-proof-of-work), supply, [halving](../mfb-lx-26.10.md#term-halving), and [sats](../mfb-lx-26.10.md#term-sat).<br>`C2.3` Key money properties, “don't trust, verify,” and a reasoned benefit or limitation. | Connected explanation, role map, and qualified judgment. |
+| `C3` | Compare Bitcoin with one other digital [asset](../mfb-lx-26.10.md#term-asset) using guided criteria. | One comparison using control, issuance, verification, [custody](../mfb-lx-26.10.md#term-custody), or counterparty risk; state a trade-off and distinguish learning from speculation or promotion. | Individual Bitcoin-only comparison without token promotion. |
 
-Use guided discussions to develop and notice the formative competency `C12` across the course. Do not infer it from attendance or confidence; listen for clear explanation, relevant evidence, respectful listening, and basic reasoning. `C12` is not a certification gate.
+Use guided discussions to develop and notice the formative competency `F1` across the course. Do not infer it from attendance or confidence; listen for clear explanation, relevant evidence, respectful listening, and basic reasoning. `F1` is not a certification gate.
 
 ### Prepare before class
 
 - Reuse the monetary-properties comparison from **Module 1**.
 - Prepare a plain-language double-spend scenario.
-- Prepare role cards for user, [node](mfb-bd-lx.md#term-node), [miner](mfb-bd-lx.md#term-miner), developer, and optional service provider.
-- Prepare a [node](mfb-bd-lx.md#term-node) rule card that includes valid signature, no double spend, valid [proof of work](mfb-bd-lx.md#term-proof-of-work), and allowed issuance.
-- Prepare a [halving](mfb-bd-lx.md#term-halving) or issuance visual without a [price](mfb-bd-lx.md#term-price) chart.
-- Prepare [sat](mfb-bd-lx.md#term-sat) conversion examples that do not require current market [prices](mfb-bd-lx.md#term-price).
+- Prepare role cards for user, [node](../mfb-lx-26.10.md#term-node), [miner](../mfb-lx-26.10.md#term-miner), developer, and optional service provider.
+- Prepare a [node](../mfb-lx-26.10.md#term-node) rule card that includes valid signature, no double spend, valid [proof of work](../mfb-lx-26.10.md#term-proof-of-work), and allowed issuance.
+- Prepare a [halving](../mfb-lx-26.10.md#term-halving) or issuance visual without a [price](../mfb-lx-26.10.md#term-price) chart.
+- Prepare [sat](../mfb-lx-26.10.md#term-sat) conversion examples that do not require current market [prices](../mfb-lx-26.10.md#term-price).
 - Select a historical transaction or dated explorer screenshot if showing public data.
 - Review the FAQ and misconception tables below.
-- Prepare a brief guided comparison for Bitcoin, a generic stablecoin model, and another issuer-controlled digital [asset](mfb-bd-lx.md#term-asset). Do not browse or promote particular tokens during class.
+- Prepare a brief guided comparison for Bitcoin, a generic stablecoin model, and another issuer-controlled digital [asset](../mfb-lx-26.10.md#term-asset). Do not browse or promote particular tokens during class.
 - Decide which technical questions belong on the Advanced list.
 
 ### Suggested two-hour flow
@@ -1417,19 +1423,19 @@ Use guided discussions to develop and notice the formative competency `C12` acro
 | ---: | --- | --- |
 | 0–10 min | Retrieve **Module 1** | Name one money problem and the trade-off it creates |
 | 10–27 min | Why decentralized digital money was difficult | Digital-copy and double-spend scenario |
-| 27–42 min | Bitcoin's combined response | Process map: authorize, [broadcast](mfb-bd-lx.md#term-broadcast), mine, verify, share history |
-| 42–62 min | Roles and [decentralization](mfb-bd-lx.md#term-decentralization) | User/[node](mfb-bd-lx.md#term-node)/[miner](mfb-bd-lx.md#term-miner)/developer role task |
-| 62–77 min | [Proof of work](mfb-bd-lx.md#term-proof-of-work) | Costly-to-produce, quick-to-check demonstration |
-| 77–92 min | Supply, [halving](mfb-bd-lx.md#term-halving), and [sats](mfb-bd-lx.md#term-sat) | Issuance model and unit-bias check |
-| 92–110 min | [Sound-money](mfb-bd-lx.md#term-sound-money) comparison | Reuse **Module 1** properties; add benefits and trade-offs |
-| 110–117 min | Scope and responsibility | Bitcoin vs stablecoin/other [assets](mfb-bd-lx.md#term-asset); learning vs speculation |
+| 27–42 min | Bitcoin's combined response | Process map: authorize, [broadcast](../mfb-lx-26.10.md#term-broadcast), mine, verify, share history |
+| 42–62 min | Roles and [decentralization](../mfb-lx-26.10.md#term-decentralization) | User/[node](../mfb-lx-26.10.md#term-node)/[miner](../mfb-lx-26.10.md#term-miner)/developer role task |
+| 62–77 min | [Proof of work](../mfb-lx-26.10.md#term-proof-of-work) | Costly-to-produce, quick-to-check demonstration |
+| 77–92 min | Supply, [halving](../mfb-lx-26.10.md#term-halving), and [sats](../mfb-lx-26.10.md#term-sat) | Issuance model and unit-bias check |
+| 92–110 min | [Sound-money](../mfb-lx-26.10.md#term-sound-money) comparison | Reuse **Module 1** properties; add benefits and trade-offs |
+| 110–117 min | Scope and responsibility | Bitcoin vs stablecoin/other [assets](../mfb-lx-26.10.md#term-asset); learning vs speculation |
 | 117–120 min | Review and bridge | Fiat issue → Bitcoin response → new responsibility |
 
 ### Why Bitcoin was created
 
-Start with the goal: direct online payments without a central financial [intermediary](mfb-bd-lx.md#term-intermediary). Then ask what makes that difficult.
+Start with the goal: direct online payments without a central financial [intermediary](../mfb-lx-26.10.md#term-intermediary). Then ask what makes that difficult.
 
-A central digital-payment system can keep one authoritative [ledger](mfb-bd-lx.md#term-ledger) and reject a second spend. A decentralized system needs independent participants to agree on a valid history without trusting one database owner.
+A central digital-payment system can keep one authoritative [ledger](../mfb-lx-26.10.md#term-ledger) and reject a second spend. A decentralized system needs independent participants to agree on a valid history without trusting one database owner.
 
 <!-- VISUAL: BD-V-022
 ALT: Central ledger approval is compared with signed transactions, miner block proposals, and independent node verification, reducing some central dependence without eliminating trust.
@@ -1445,7 +1451,7 @@ Clarify that the problem is not copying a picture of a coin. It is deciding whic
 
 ### Earlier digital-money context
 
-Keep [DigiCash](mfb-bd-lx.md#digicash), [Hashcash](mfb-bd-lx.md#hashcash), [Bit Gold](mfb-bd-lx.md#bit-gold), [B-money](mfb-bd-lx.md#b-money), [reusable proof of work](mfb-bd-lx.md#reusable-proof-of-work), and peer-to-peer systems brief. Their role is to show that Bitcoin emerged from earlier work on [privacy](mfb-bd-lx.md#term-privacy), digital cash, costly computation, distributed networks, and [scarcity](mfb-bd-lx.md#term-scarcity).
+Keep [DigiCash](../mfb-lx-26.10.md#digicash), [Hashcash](../mfb-lx-26.10.md#hashcash), [Bit Gold](../mfb-lx-26.10.md#bit-gold), [B-money](../mfb-lx-26.10.md#b-money), [reusable proof of work](../mfb-lx-26.10.md#reusable-proof-of-work), and peer-to-peer systems brief. Their role is to show that Bitcoin emerged from earlier work on [privacy](../mfb-lx-26.10.md#term-privacy), digital cash, costly computation, distributed networks, and [scarcity](../mfb-lx-26.10.md#term-scarcity).
 
 Do not imply that every predecessor contributed code directly to Bitcoin. Do not turn **Module 2** into a technical timeline quiz.
 
@@ -1459,11 +1465,11 @@ Ask:
 
 Use a five-part map:
 
-1. A wallet uses a [private key](mfb-bd-lx.md#term-private-key) to authorize a transaction with a [digital signature](mfb-bd-lx.md#term-digital-signature).
-2. The transaction is [broadcast](mfb-bd-lx.md#term-broadcast) through a [peer-to-peer network](mfb-bd-lx.md#term-peer-to-peer-network).
-3. [Miners](mfb-bd-lx.md#term-miner) collect transactions and use [proof of work](mfb-bd-lx.md#term-proof-of-work) to propose blocks.
-4. [Nodes](mfb-bd-lx.md#term-node) independently check transactions, blocks, [proof of work](mfb-bd-lx.md#term-proof-of-work), and issuance rules.
-5. Participants converge on the valid history with the most [accumulated work](mfb-bd-lx.md#term-accumulated-work).
+1. A wallet uses a [private key](../mfb-lx-26.10.md#term-private-key) to authorize a transaction with a [digital signature](../mfb-lx-26.10.md#term-digital-signature).
+2. The transaction is [broadcast](../mfb-lx-26.10.md#term-broadcast) through a [peer-to-peer network](../mfb-lx-26.10.md#term-peer-to-peer-network).
+3. [Miners](../mfb-lx-26.10.md#term-miner) collect transactions and use [proof of work](../mfb-lx-26.10.md#term-proof-of-work) to propose blocks.
+4. [Nodes](../mfb-lx-26.10.md#term-node) independently check transactions, blocks, [proof of work](../mfb-lx-26.10.md#term-proof-of-work), and issuance rules.
+5. Participants converge on the valid history with the most [accumulated work](../mfb-lx-26.10.md#term-accumulated-work).
 
 <!-- VISUAL: BD-V-024
 ALT: Signatures, peer-to-peer communication, blocks and mining, independent verification, and accumulated proof of work combine to reject conflicting second spends.
@@ -1471,26 +1477,26 @@ ASSET: assets/briefs/bd-v-024-brief.md
 USE: Shared Student Guide master.
 -->
 
-No single part creates Bitcoin's credible [scarcity](mfb-bd-lx.md#term-scarcity) alone. Avoid saying “the [blockchain](mfb-bd-lx.md#term-blockchain) solves everything.”
+No single part creates Bitcoin's credible [scarcity](../mfb-lx-26.10.md#term-scarcity) alone. Avoid saying “the [blockchain](../mfb-lx-26.10.md#term-blockchain) solves everything.”
 
 ### Digital signatures
 
 At beginner level, teach:
 
-- the [private key](mfb-bd-lx.md#term-private-key) authorizes;
-- the signature can be verified without revealing the [private key](mfb-bd-lx.md#term-private-key);
+- the [private key](../mfb-lx-26.10.md#term-private-key) authorizes;
+- the signature can be verified without revealing the [private key](../mfb-lx-26.10.md#term-private-key);
 - the signature does not encrypt the transaction; and
-- control of the [private key](mfb-bd-lx.md#term-private-key) creates both authority and responsibility.
+- control of the [private key](../mfb-lx-26.10.md#term-private-key) creates both authority and responsibility.
 
-Do not demonstrate or calculate [cryptography](mfb-bd-lx.md#term-cryptography). The practical consequences belong in **Module 3**.
+Do not demonstrate or calculate [cryptography](../mfb-lx-26.10.md#term-cryptography). The practical consequences belong in **Module 3**.
 
 ### Decentralization and peer-to-peer transfer
 
-Define [decentralization](mfb-bd-lx.md#term-decentralization) narrowly: control and rule enforcement are distributed among independent participants; no central Bitcoin office can unilaterally create accounts, rewrite valid balances, or change the monetary rules for everyone.
+Define [decentralization](../mfb-lx-26.10.md#term-decentralization) narrowly: control and rule enforcement are distributed among independent participants; no central Bitcoin office can unilaterally create accounts, rewrite valid balances, or change the monetary rules for everyone.
 
 Qualify the claim:
 
-- knowledge, wealth, infrastructure, [mining](mfb-bd-lx.md#term-mining) equipment, connectivity, and influence are unevenly distributed;
+- knowledge, wealth, infrastructure, [mining](../mfb-lx-26.10.md#term-mining) equipment, connectivity, and influence are unevenly distributed;
 - users may still choose centralized services;
 - large services create dependency for their customers; and
 - coordination can be slower and responsibility can be higher.
@@ -1510,10 +1516,10 @@ Use these exact beginner boundaries:
 | Role | Main beginner function | Does not mean |
 | --- | --- | --- |
 | User | Chooses to receive, hold, send, verify, and accept bitcoin, directly or through services | Automatically runs every part of the network |
-| [Node](mfb-bd-lx.md#term-node) | Independently checks transactions and blocks against its rules and relays valid data | Creates new blocks or dictates rules to everyone |
-| [Miner](mfb-bd-lx.md#term-miner) | Builds [candidate blocks](mfb-bd-lx.md#term-candidate-block) and performs [proof of work](mfb-bd-lx.md#term-proof-of-work) to propose their order | Can make invalid issuance or transactions valid to honest [nodes](mfb-bd-lx.md#term-node) |
+| [Node](../mfb-lx-26.10.md#term-node) | Independently checks transactions and blocks against its rules and relays valid data | Creates new blocks or dictates rules to everyone |
+| [Miner](../mfb-lx-26.10.md#term-miner) | Builds [candidate blocks](../mfb-lx-26.10.md#term-candidate-block) and performs [proof of work](../mfb-lx-26.10.md#term-proof-of-work) to propose their order | Can make invalid issuance or transactions valid to honest [nodes](../mfb-lx-26.10.md#term-node) |
 | Developer | Reviews, writes, and proposes software | Can force participants to adopt a rule change |
-| [Bitcoin service](mfb-bd-lx.md#term-bitcoin-service) | Provides a wallet, exchange, explorer, payment, or other interface | Is the [Bitcoin protocol](mfb-bd-lx.md#term-bitcoin-protocol) itself |
+| [Bitcoin service](../mfb-lx-26.10.md#term-bitcoin-service) | Provides a wallet, exchange, explorer, payment, or other interface | Is the [Bitcoin protocol](../mfb-lx-26.10.md#term-bitcoin-protocol) itself |
 
 <!-- VISUAL: BD-V-031
 ALT: Users authorize or accept transactions, nodes verify, miners propose blocks, developers propose software, and services support customers; no single role controls the network.
@@ -1523,27 +1529,27 @@ USE: Shared Student Guide master.
 
 #### Activity: invalid block
 
-Give one learner acting as a [miner](mfb-bd-lx.md#term-miner) a [candidate block](mfb-bd-lx.md#term-candidate-block) that creates more subsidy than the [node](mfb-bd-lx.md#term-node) rule card allows. Learners acting as [nodes](mfb-bd-lx.md#term-node) check it and reject it.
+Give one learner acting as a [miner](../mfb-lx-26.10.md#term-miner) a [candidate block](../mfb-lx-26.10.md#term-candidate-block) that creates more subsidy than the [node](../mfb-lx-26.10.md#term-node) rule card allows. Learners acting as [nodes](../mfb-lx-26.10.md#term-node) check it and reject it.
 
 Debrief:
 
-- The [miner](mfb-bd-lx.md#term-miner) did real work but still did not gain permission to break the rules.
-- [Nodes](mfb-bd-lx.md#term-node) independently apply rules, but the real network is software and communication, not a classroom vote.
+- The [miner](../mfb-lx-26.10.md#term-miner) did real work but still did not gain permission to break the rules.
+- [Nodes](../mfb-lx-26.10.md#term-node) independently apply rules, but the real network is software and communication, not a classroom vote.
 - A developer can write other rules, but adoption is voluntary and incompatible rules may create a separate network.
 
 Ask:
 
-> Why does a [node](mfb-bd-lx.md#term-node) verify transactions? Name at least one rule it checks.
+> Why does a [node](../mfb-lx-26.10.md#term-node) verify transactions? Name at least one rule it checks.
 
 ### Proof of work
 
 Teach the relationship, not the mathematics:
 
-- [miners](mfb-bd-lx.md#term-miner) make many attempts to find a result below a network [target](mfb-bd-lx.md#term-target);
+- [miners](../mfb-lx-26.10.md#term-miner) make many attempts to find a result below a network [target](../mfb-lx-26.10.md#term-target);
 - finding a result requires real computation and energy;
-- [nodes](mfb-bd-lx.md#term-node) check the result quickly;
-- [proof of work](mfb-bd-lx.md#term-proof-of-work) helps order transactions and makes history costly to rewrite; and
-- [difficulty](mfb-bd-lx.md#term-difficulty) adjusts so blocks arrive about every ten minutes on average, not exactly every ten minutes.
+- [nodes](../mfb-lx-26.10.md#term-node) check the result quickly;
+- [proof of work](../mfb-lx-26.10.md#term-proof-of-work) helps order transactions and makes history costly to rewrite; and
+- [difficulty](../mfb-lx-26.10.md#term-difficulty) adjusts so blocks arrive about every ten minutes on average, not exactly every ten minutes.
 
 <!-- VISUAL: BD-V-032
 ALT: Many computational attempts seek a result below the target; a miner broadcasts a candidate block and nodes verify its work and rules before accepting it.
@@ -1551,7 +1557,7 @@ ASSET: assets/briefs/bd-v-032-brief.md
 USE: Shared Student Guide master.
 -->
 
-Avoid saying [miners](mfb-bd-lx.md#term-miner) solve useful outside equations. Avoid claiming the energy cost is automatically justified or automatically wasteful.
+Avoid saying [miners](../mfb-lx-26.10.md#term-miner) solve useful outside equations. Avoid claiming the energy cost is automatically justified or automatically wasteful.
 
 Use claim, evidence, and trade-off:
 
@@ -1561,17 +1567,17 @@ Use claim, evidence, and trade-off:
 - Which alternative system is being compared?
 - Which facts are current and need dated evidence?
 
-Detailed energy statistics and [mining](mfb-bd-lx.md#term-mining) economics are not required Diploma content. Use them only when the educator has verified current sources and the discussion supports a competency.
+Detailed energy statistics and [mining](../mfb-lx-26.10.md#term-mining) economics are not required Diploma content. Use them only when the educator has verified current sources and the discussion supports a competency.
 
 ### Finite supply and halving
 
 Teach:
 
-- new bitcoin enter through the allowed [block subsidy](mfb-bd-lx.md#term-block-subsidy);
+- new bitcoin enter through the allowed [block subsidy](../mfb-lx-26.10.md#term-block-subsidy);
 - the subsidy halves every 210,000 blocks;
 - the maximum approaches 21 million bitcoin;
-- [nodes](mfb-bd-lx.md#term-node) reject blocks that create more than the rules allow; and
-- [transaction fees](mfb-bd-lx.md#term-transaction-fee) also compensate [miners](mfb-bd-lx.md#term-miner).
+- [nodes](../mfb-lx-26.10.md#term-node) reject blocks that create more than the rules allow; and
+- [transaction fees](../mfb-lx-26.10.md#term-transaction-fee) also compensate [miners](../mfb-lx-26.10.md#term-miner).
 
 <!-- VISUAL: BD-V-028
 ALT: Block subsidy falls in steps at halving heights while cumulative issuance approaches the supply limit; transaction fees are shown separately and no price forecast is implied.
@@ -1581,26 +1587,26 @@ USE: Shared Student Guide master.
 
 The limit is a public network rule, not a physical law. A person can write other software, but cannot force existing participants to adopt it. Incompatible adoption can create a different network rather than silently changing Bitcoin for everyone.
 
-Do not connect a [halving](mfb-bd-lx.md#term-halving) or limited supply to a promised [price](mfb-bd-lx.md#term-price) increase. Supply is only one part of [price](mfb-bd-lx.md#term-price); demand and market conditions matter.
+Do not connect a [halving](../mfb-lx-26.10.md#term-halving) or limited supply to a promised [price](../mfb-lx-26.10.md#term-price) increase. Supply is only one part of [price](../mfb-lx-26.10.md#term-price); demand and market conditions matter.
 
 #### Activity: issuance rounds
 
 Use a fixed set of counters and release a decreasing number each round. Have node-role learners check whether the issued amount matches the rule card.
 
-Debrief what the model misses: exact supply is software-enforced, [halvings](mfb-bd-lx.md#term-halving) occur at block heights, [miners](mfb-bd-lx.md#term-miner) compete, fees exist, and counters do not reproduce Bitcoin's network.
+Debrief what the model misses: exact supply is software-enforced, [halvings](../mfb-lx-26.10.md#term-halving) occur at block heights, [miners](../mfb-lx-26.10.md#term-miner) compete, fees exist, and counters do not reproduce Bitcoin's network.
 
 ### Sats and unit bias
 
 Every learner should know:
 
-> 1 bitcoin = 100,000,000 [sats](mfb-bd-lx.md#term-sat)
+> 1 bitcoin = 100,000,000 [sats](../mfb-lx-26.10.md#term-sat)
 
 Use a few conversions:
 
-- 0.1 bitcoin = 10,000,000 [sats](mfb-bd-lx.md#term-sat);
-- 0.01 bitcoin = 1,000,000 [sats](mfb-bd-lx.md#term-sat);
-- 0.001 bitcoin = 100,000 [sats](mfb-bd-lx.md#term-sat); and
-- 1 [sat](mfb-bd-lx.md#term-sat) = 0.00000001 bitcoin.
+- 0.1 bitcoin = 10,000,000 [sats](../mfb-lx-26.10.md#term-sat);
+- 0.01 bitcoin = 1,000,000 [sats](../mfb-lx-26.10.md#term-sat);
+- 0.001 bitcoin = 100,000 [sats](../mfb-lx-26.10.md#term-sat); and
+- 1 [sat](../mfb-lx-26.10.md#term-sat) = 0.00000001 bitcoin.
 
 <!-- VISUAL: BD-V-029
 ALT: One bitcoin equals 100 million sats; the displayed fractional bitcoin and sat quantities describe equivalent amounts without changing the total supply.
@@ -1610,7 +1616,7 @@ USE: Shared Student Guide master.
 
 Ask why dividing one bitcoin into smaller units does not create more bitcoin. Compare cutting a measured quantity into smaller units without claiming the physical analogy explains the protocol.
 
-Unit bias is the mistaken impression that a cheaper-looking whole unit is automatically better [value](mfb-bd-lx.md#term-value). Do not use current token [prices](mfb-bd-lx.md#term-price) as the teaching route.
+Unit bias is the mistaken impression that a cheaper-looking whole unit is automatically better [value](../mfb-lx-26.10.md#term-value). Do not use current token [prices](../mfb-lx-26.10.md#term-price) as the teaching route.
 
 ### Bitcoin as sound digital money
 
@@ -1618,38 +1624,38 @@ Return to the exact money properties used in **Module 1**. Require evidence and 
 
 | Property | Useful educator question | Important qualification |
 | --- | --- | --- |
-| [Durability](mfb-bd-lx.md#term-durability) | What survives if one device fails? | Access still depends on valid keys and recovery. |
-| [Portability](mfb-bd-lx.md#term-portability) | What is required to transfer value? | Devices, communication, correct details, fees, and recipient capability still matter. |
-| [Divisibility](mfb-bd-lx.md#term-divisibility) | How do [sats](mfb-bd-lx.md#term-sat) support small amounts? | Small units do not guarantee that every payment rail is economical. |
-| [Fungibility](mfb-bd-lx.md#term-fungibility) | Are equal protocol units spendable under the same rules? | Public transaction history can affect how services treat particular funds. |
-| [Scarcity](mfb-bd-lx.md#term-scarcity) | Who checks the issuance limit? | Limited supply does not guarantee demand or [price](mfb-bd-lx.md#term-price). |
-| [Verifiability](mfb-bd-lx.md#term-verifiability) | What can a [node](mfb-bd-lx.md#term-node) check independently? | Many beginners still depend on wallet or explorer interfaces. |
-| [Acceptability](mfb-bd-lx.md#term-acceptability) | Where can bitcoin actually be used? | Acceptance varies greatly by community. |
+| [Durability](../mfb-lx-26.10.md#term-durability) | What survives if one device fails? | Access still depends on valid keys and recovery. |
+| [Portability](../mfb-lx-26.10.md#term-portability) | What is required to transfer value? | Devices, communication, correct details, fees, and recipient capability still matter. |
+| [Divisibility](../mfb-lx-26.10.md#term-divisibility) | How do [sats](../mfb-lx-26.10.md#term-sat) support small amounts? | Small units do not guarantee that every payment rail is economical. |
+| [Fungibility](../mfb-lx-26.10.md#term-fungibility) | Are equal protocol units spendable under the same rules? | Public transaction history can affect how services treat particular funds. |
+| [Scarcity](../mfb-lx-26.10.md#term-scarcity) | Who checks the issuance limit? | Limited supply does not guarantee demand or [price](../mfb-lx-26.10.md#term-price). |
+| [Verifiability](../mfb-lx-26.10.md#term-verifiability) | What can a [node](../mfb-lx-26.10.md#term-node) check independently? | Many beginners still depend on wallet or explorer interfaces. |
+| [Acceptability](../mfb-lx-26.10.md#term-acceptability) | Where can bitcoin actually be used? | Acceptance varies greatly by community. |
 
-Treat **[sound money](mfb-bd-lx.md#term-sound-money)** as a conclusion based on criteria. A learner may conclude that Bitcoin meets some criteria strongly and others weakly in their context.
+Treat **[sound money](../mfb-lx-26.10.md#term-sound-money)** as a conclusion based on criteria. A learner may conclude that Bitcoin meets some criteria strongly and others weakly in their context.
 
 Separate:
 
-- observed market [price](mfb-bd-lx.md#term-price);
+- observed market [price](../mfb-lx-26.10.md#term-price);
 - local usefulness or acceptance;
-- a person's [subjective value](mfb-bd-lx.md#term-subjective-value); and
+- a person's [subjective value](../mfb-lx-26.10.md#term-subjective-value); and
 - personal approval.
 
 ### Bitcoin, stablecoins, and other crypto-assets
 
-The Diploma remains Bitcoin-only. A short comparison supports `C5` and helps learners recognize why a similar-looking digital token may have a different trust model.
+The Diploma remains Bitcoin-only. A short comparison supports `C3` and helps learners recognize why a similar-looking digital token may have a different trust model.
 
-Use a generic guided table rather than promoting named [assets](mfb-bd-lx.md#term-asset):
+Use a generic guided table rather than promoting named [assets](../mfb-lx-26.10.md#term-asset):
 
 | Question | Bitcoin | Stablecoin model | Other crypto-asset model |
 | --- | --- | --- | --- |
-| Who issues or controls supply? | Public rules enforced by participating [nodes](mfb-bd-lx.md#term-node); no central [issuer](mfb-bd-lx.md#term-issuer) | Often an [issuer](mfb-bd-lx.md#term-issuer), reserve manager, governance group, or protocol tied to an external reference [asset](mfb-bd-lx.md#term-asset) | Varies; may involve founders, foundations, companies, validators, governance holders, or a protocol |
+| Who issues or controls supply? | Public rules enforced by participating [nodes](../mfb-lx-26.10.md#term-node); no central [issuer](../mfb-lx-26.10.md#term-issuer) | Often an [issuer](../mfb-lx-26.10.md#term-issuer), reserve manager, governance group, or protocol tied to an external reference [asset](../mfb-lx-26.10.md#term-asset) | Varies; may involve founders, foundations, companies, validators, governance holders, or a protocol |
 | What supports the supply claim? | Independently verifiable issuance rules and history | Reserves, redemption promises, collateral, algorithms, legal claims, or a combination | Project-specific rules and governance |
-| What counterparty risk exists? | Services can add counterparty risk, but the base [asset](mfb-bd-lx.md#term-asset) has no redeeming [issuer](mfb-bd-lx.md#term-issuer) | [Issuer](mfb-bd-lx.md#term-issuer), [custodian](mfb-bd-lx.md#term-custodian), bank, collateral, oracle, bridge, or redemption risk may exist | Project, governance, bridge, [custodian](mfb-bd-lx.md#term-custodian), or operator risk may exist |
-| What can the learner verify independently? | Protocol rules and history with a [node](mfb-bd-lx.md#term-node) | Depends on reserve evidence, legal rights, code, network, and service | Depends on design and access to verification |
+| What counterparty risk exists? | Services can add counterparty risk, but the base [asset](../mfb-lx-26.10.md#term-asset) has no redeeming [issuer](../mfb-lx-26.10.md#term-issuer) | [Issuer](../mfb-lx-26.10.md#term-issuer), [custodian](../mfb-lx-26.10.md#term-custodian), bank, collateral, oracle, bridge, or redemption risk may exist | Project, governance, bridge, [custodian](../mfb-lx-26.10.md#term-custodian), or operator risk may exist |
+| What can the learner verify independently? | Protocol rules and history with a [node](../mfb-lx-26.10.md#term-node) | Depends on reserve evidence, legal rights, code, network, and service | Depends on design and access to verification |
 | What does the course recommend? | Study the Bitcoin-specific beginner competencies and safety practices | No acquisition or product recommendation | No acquisition, trading, or token promotion |
 
-Do not imply that every non-Bitcoin [asset](mfb-bd-lx.md#term-asset) has the same structure. The learner's task is to ask consistent questions about [issuer](mfb-bd-lx.md#term-issuer), control, supply, verification, [custody](mfb-bd-lx.md#term-custody), and counterparty dependence.
+Do not imply that every non-Bitcoin [asset](../mfb-lx-26.10.md#term-asset) has the same structure. The learner's task is to ask consistent questions about [issuer](../mfb-lx-26.10.md#term-issuer), control, supply, verification, [custody](../mfb-lx-26.10.md#term-custody), and counterparty dependence.
 
 <!-- VISUAL: BD-V-100
 ALT: Three generic asset models are compared through issuance, supply support, verification, and counterparties. Wallets and custodians form a separate dependency layer across all three; similar interfaces do not establish the same trust model.
@@ -1662,28 +1668,28 @@ USE: Educator-only diagram; see the asset index brief.
 Explain the boundary:
 
 - Education asks how the system works, what can be verified, what risks exist, and what the learner can safely demonstrate.
-- Responsible use begins with purpose, [custody](mfb-bd-lx.md#term-custody), verification, small tests, and informed choice.
-- Trading attempts to profit from [price](mfb-bd-lx.md#term-price) changes and may involve leverage, rapid decisions, platform risk, and loss.
+- Responsible use begins with purpose, [custody](../mfb-lx-26.10.md#term-custody), verification, small tests, and informed choice.
+- Trading attempts to profit from [price](../mfb-lx-26.10.md#term-price) changes and may involve leverage, rapid decisions, platform risk, and loss.
 - Token promotion creates conflicts of interest and may reward persuasion over clear reasoning.
-- Speculation can cause learners to confuse [price](mfb-bd-lx.md#term-price) movement with technical or social [value](mfb-bd-lx.md#term-value).
+- Speculation can cause learners to confuse [price](../mfb-lx-26.10.md#term-price) movement with technical or social [value](../mfb-lx-26.10.md#term-value).
 
-The Diploma does not teach or assess [price](mfb-bd-lx.md#term-price) prediction, portfolio construction, trading, investment returns, or token selection.
+The Diploma does not teach or assess [price](../mfb-lx-26.10.md#term-price) prediction, portfolio construction, trading, investment returns, or token selection.
 
 ### Bitcoin-properties FAQs
 
 | Property | Learner question | Beginner-safe response |
 | --- | --- | --- |
-| [Scarcity](mfb-bd-lx.md#term-scarcity) | “Can't someone just make more than 21 million bitcoin?” | Someone can write different software, but participants do not have to run it. [Nodes](mfb-bd-lx.md#term-node) following Bitcoin's rules reject excess issuance. Broad adoption of incompatible rules could produce a separate network; no founder, [miner](mfb-bd-lx.md#term-miner), developer, company, or government can quietly create extra valid bitcoin for everyone. |
-| [Scarcity](mfb-bd-lx.md#term-scarcity) | “Does the limited supply mean the [price](mfb-bd-lx.md#term-price) must rise?” | No. [Price](mfb-bd-lx.md#term-price) depends on demand as well as supply, and demand can fall. Finite supply is a monetary property, not a return guarantee. |
-| [Divisibility](mfb-bd-lx.md#term-divisibility) | “If there are only 21 million, is there enough for everyone?” | One bitcoin divides into 100,000,000 [sats](mfb-bd-lx.md#term-sat). Smaller units let people represent small amounts without increasing the total supply. |
-| [Divisibility](mfb-bd-lx.md#term-divisibility) | “Do I need to buy a whole bitcoin?” | No. A learner can explain or use [sats](mfb-bd-lx.md#term-sat) without owning a whole bitcoin, and ownership is not required for the Diploma. |
-| [Durability](mfb-bd-lx.md#term-durability) | “What if my phone breaks?” | Bitcoin is not stored inside the phone. The network record continues, but access depends on safe keys and recovery. Device loss may be recoverable; lost or exposed recovery information can cause permanent loss. |
-| [Portability](mfb-bd-lx.md#term-portability) | “Can I send it anywhere with no conditions?” | A valid transfer does not need approval from a central Bitcoin operator, but it still needs a suitable wallet, communication, correct payment information, fees, and a recipient who can receive it. Local laws and services may add constraints. |
-| [Fungibility](mfb-bd-lx.md#term-fungibility) | “Is every [sat](mfb-bd-lx.md#term-sat) exactly the same?” | Equal amounts follow the same protocol spending rules, but public transaction history can influence how some services or people treat particular funds. |
-| [Verifiability](mfb-bd-lx.md#term-verifiability) | “Do I have to trust a website?” | An explorer is a convenient third-party interface. A [node](mfb-bd-lx.md#term-node) allows stronger independent verification, while beginners may still rely on wallet or service information and should identify that dependency. |
-| [Acceptability](mfb-bd-lx.md#term-acceptability) | “If Bitcoin is useful, why can't I spend it everywhere?” | Technical capability does not create universal acceptance. Local habits, tools, costs, regulation, volatility, education, and merchant demand affect use. |
-| [Decentralization](mfb-bd-lx.md#term-decentralization) | “Is Bitcoin completely decentralized?” | Influence and infrastructure are not equally distributed. The narrower claim is that no single participant can unilaterally alter valid balances or rules for everyone. |
-| Credible [scarcity](mfb-bd-lx.md#term-scarcity) | “Why not copy the code and make another coin?” | Copying code or writing a supply cap is possible. Credible enforcement, independent verification, security, history, network adoption, and resistance to unilateral change are separate questions. |
+| [Scarcity](../mfb-lx-26.10.md#term-scarcity) | “Can't someone just make more than 21 million bitcoin?” | Someone can write different software, but participants do not have to run it. [Nodes](../mfb-lx-26.10.md#term-node) following Bitcoin's rules reject excess issuance. Broad adoption of incompatible rules could produce a separate network; no founder, [miner](../mfb-lx-26.10.md#term-miner), developer, company, or government can quietly create extra valid bitcoin for everyone. |
+| [Scarcity](../mfb-lx-26.10.md#term-scarcity) | “Does the limited supply mean the [price](../mfb-lx-26.10.md#term-price) must rise?” | No. [Price](../mfb-lx-26.10.md#term-price) depends on demand as well as supply, and demand can fall. Finite supply is a monetary property, not a return guarantee. |
+| [Divisibility](../mfb-lx-26.10.md#term-divisibility) | “If there are only 21 million, is there enough for everyone?” | One bitcoin divides into 100,000,000 [sats](../mfb-lx-26.10.md#term-sat). Smaller units let people represent small amounts without increasing the total supply. |
+| [Divisibility](../mfb-lx-26.10.md#term-divisibility) | “Do I need to buy a whole bitcoin?” | No. A learner can explain or use [sats](../mfb-lx-26.10.md#term-sat) without owning a whole bitcoin, and ownership is not required for the Diploma. |
+| [Durability](../mfb-lx-26.10.md#term-durability) | “What if my phone breaks?” | Bitcoin is not stored inside the phone. The network record continues, but access depends on safe keys and recovery. Device loss may be recoverable; lost or exposed recovery information can cause permanent loss. |
+| [Portability](../mfb-lx-26.10.md#term-portability) | “Can I send it anywhere with no conditions?” | A valid transfer does not need approval from a central Bitcoin operator, but it still needs a suitable wallet, communication, correct payment information, fees, and a recipient who can receive it. Local laws and services may add constraints. |
+| [Fungibility](../mfb-lx-26.10.md#term-fungibility) | “Is every [sat](../mfb-lx-26.10.md#term-sat) exactly the same?” | Equal amounts follow the same protocol spending rules, but public transaction history can influence how some services or people treat particular funds. |
+| [Verifiability](../mfb-lx-26.10.md#term-verifiability) | “Do I have to trust a website?” | An explorer is a convenient third-party interface. A [node](../mfb-lx-26.10.md#term-node) allows stronger independent verification, while beginners may still rely on wallet or service information and should identify that dependency. |
+| [Acceptability](../mfb-lx-26.10.md#term-acceptability) | “If Bitcoin is useful, why can't I spend it everywhere?” | Technical capability does not create universal acceptance. Local habits, tools, costs, regulation, volatility, education, and merchant demand affect use. |
+| [Decentralization](../mfb-lx-26.10.md#term-decentralization) | “Is Bitcoin completely decentralized?” | Influence and infrastructure are not equally distributed. The narrower claim is that no single participant can unilaterally alter valid balances or rules for everyone. |
+| Credible [scarcity](../mfb-lx-26.10.md#term-scarcity) | “Why not copy the code and make another coin?” | Copying code or writing a supply cap is possible. Credible enforcement, independent verification, security, history, network adoption, and resistance to unilateral change are separate questions. |
 
 ### Misconception bank
 
@@ -1691,16 +1697,16 @@ Use these answers as educator preparation, not as speeches. First discover the l
 
 | Learner claim or question | Beginner-safe response | Discussion prompt | Do not overclaim |
 | --- | --- | --- | --- |
-| “Bitcoin has no intrinsic [value](mfb-bd-lx.md#term-value).” | [Value](mfb-bd-lx.md#term-value) depends on needs, preferences, properties, and context. Bitcoin has a market [price](mfb-bd-lx.md#term-price) and particular monetary capabilities, but usefulness and personal [value](mfb-bd-lx.md#term-value) vary. | Which observable properties or uses would be relevant to a value judgment? | Do not claim [price](mfb-bd-lx.md#term-price) proves social [value](mfb-bd-lx.md#term-value) or that [value](mfb-bd-lx.md#term-value) must rise. |
-| “Bitcoin uses too much energy.” | [Proof of work](mfb-bd-lx.md#term-proof-of-work) deliberately consumes resources to make block production costly. A fair evaluation examines quantity, source, location, security function, and alternatives. | What comparison and current evidence would be needed? | Do not use outdated statistics or claim all energy is clean, wasted, or beneficial. |
-| “Bitcoin is too slow.” | Base-layer blocks arrive about every ten minutes on average and settlement confidence grows with [confirmations](mfb-bd-lx.md#term-confirmation). Lightning can support faster small payments, with different dependencies and failure points. | Too slow for which purpose and compared with which full settlement path? | Do not promise instant or guaranteed settlement. |
-| “Nothing is being built on Bitcoin.” | Wallets, payment tools, Lightning, [node](mfb-bd-lx.md#term-node) software, [custody](mfb-bd-lx.md#term-custody) tools, and other services continue to develop. | Which layer or use is the learner asking about? | Do not turn changing projects into permanent global recommendations. |
-| “Governments will ban Bitcoin.” | Governments can regulate people, businesses, services, [mining](mfb-bd-lx.md#term-mining), banking links, and internet access. Rules differ and can change. A government does not have a single switch that edits every independent copy of Bitcoin's [ledger](mfb-bd-lx.md#term-ledger). | What action, jurisdiction, and enforcement mechanism does the claim mean? | Do not promise legal immunity or tell learners to evade law. |
-| “There are thousands of other coins, so Bitcoin is obsolete.” | A large number of tokens does not answer questions about [issuer](mfb-bd-lx.md#term-issuer), control, supply credibility, verification, security, history, or purpose. | Compare two systems using the same five criteria. | Do not dismiss without explaining the relevant distinction. |
-| “Bitcoin is controlled by [miners](mfb-bd-lx.md#term-miner).” | [Miners](mfb-bd-lx.md#term-miner) propose blocks. [Nodes](mfb-bd-lx.md#term-node) reject blocks that violate the rules they enforce; users and services make economic choices; developers propose software. | What happens when a [miner](mfb-bd-lx.md#term-miner) creates an invalid block? | Do not imply that every role has equal influence. |
-| “It is not widely used, so it cannot be money.” | [Acceptability](mfb-bd-lx.md#term-acceptability) is one monetary property and varies by place. Bitcoin can perform money functions without performing them equally well everywhere. | Where is it accepted, for which purpose, and with what trade-offs? | Do not claim inevitable adoption. |
-| “[CBDCs](mfb-bd-lx.md#term-cbdc) will replace Bitcoin.” | A [CBDC](mfb-bd-lx.md#term-cbdc) and Bitcoin have different [issuers](mfb-bd-lx.md#term-issuer), supply rules, permissions, and verification models. Whether one affects demand for another is a prediction, not a beginner fact. | Which problem is each system designed to solve? | Do not predict policy or markets as certainty. |
-| “A better technology will overtake Bitcoin.” | “Better” requires criteria. Speed, programmability, [decentralization](mfb-bd-lx.md#term-decentralization), security, monetary policy, verification, and adoption can trade off against one another. | Better for which purpose, and what is sacrificed? | Do not claim Bitcoin can never be displaced or improved. |
+| “Bitcoin has no intrinsic [value](../mfb-lx-26.10.md#term-value).” | [Value](../mfb-lx-26.10.md#term-value) depends on needs, preferences, properties, and context. Bitcoin has a market [price](../mfb-lx-26.10.md#term-price) and particular monetary capabilities, but usefulness and personal [value](../mfb-lx-26.10.md#term-value) vary. | Which observable properties or uses would be relevant to a value judgment? | Do not claim [price](../mfb-lx-26.10.md#term-price) proves social [value](../mfb-lx-26.10.md#term-value) or that [value](../mfb-lx-26.10.md#term-value) must rise. |
+| “Bitcoin uses too much energy.” | [Proof of work](../mfb-lx-26.10.md#term-proof-of-work) deliberately consumes resources to make block production costly. A fair evaluation examines quantity, source, location, security function, and alternatives. | What comparison and current evidence would be needed? | Do not use outdated statistics or claim all energy is clean, wasted, or beneficial. |
+| “Bitcoin is too slow.” | Base-layer blocks arrive about every ten minutes on average and settlement confidence grows with [confirmations](../mfb-lx-26.10.md#term-confirmation). Lightning can support faster small payments, with different dependencies and failure points. | Too slow for which purpose and compared with which full settlement path? | Do not promise instant or guaranteed settlement. |
+| “Nothing is being built on Bitcoin.” | Wallets, payment tools, Lightning, [node](../mfb-lx-26.10.md#term-node) software, [custody](../mfb-lx-26.10.md#term-custody) tools, and other services continue to develop. | Which layer or use is the learner asking about? | Do not turn changing projects into permanent global recommendations. |
+| “Governments will ban Bitcoin.” | Governments can regulate people, businesses, services, [mining](../mfb-lx-26.10.md#term-mining), banking links, and internet access. Rules differ and can change. A government does not have a single switch that edits every independent copy of Bitcoin's [ledger](../mfb-lx-26.10.md#term-ledger). | What action, jurisdiction, and enforcement mechanism does the claim mean? | Do not promise legal immunity or tell learners to evade law. |
+| “There are thousands of other coins, so Bitcoin is obsolete.” | A large number of tokens does not answer questions about [issuer](../mfb-lx-26.10.md#term-issuer), control, supply credibility, verification, security, history, or purpose. | Compare two systems using the same five criteria. | Do not dismiss without explaining the relevant distinction. |
+| “Bitcoin is controlled by [miners](../mfb-lx-26.10.md#term-miner).” | [Miners](../mfb-lx-26.10.md#term-miner) propose blocks. [Nodes](../mfb-lx-26.10.md#term-node) reject blocks that violate the rules they enforce; users and services make economic choices; developers propose software. | What happens when a [miner](../mfb-lx-26.10.md#term-miner) creates an invalid block? | Do not imply that every role has equal influence. |
+| “It is not widely used, so it cannot be money.” | [Acceptability](../mfb-lx-26.10.md#term-acceptability) is one monetary property and varies by place. Bitcoin can perform money functions without performing them equally well everywhere. | Where is it accepted, for which purpose, and with what trade-offs? | Do not claim inevitable adoption. |
+| “[CBDCs](../mfb-lx-26.10.md#term-cbdc) will replace Bitcoin.” | A [CBDC](../mfb-lx-26.10.md#term-cbdc) and Bitcoin have different [issuers](../mfb-lx-26.10.md#term-issuer), supply rules, permissions, and verification models. Whether one affects demand for another is a prediction, not a beginner fact. | Which problem is each system designed to solve? | Do not predict policy or markets as certainty. |
+| “A better technology will overtake Bitcoin.” | “Better” requires criteria. Speed, programmability, [decentralization](../mfb-lx-26.10.md#term-decentralization), security, monetary policy, verification, and adoption can trade off against one another. | Better for which purpose, and what is sacrificed? | Do not claim Bitcoin can never be displaced or improved. |
 
 ### Strong Module 2 activities
 
@@ -1708,10 +1714,10 @@ Choose two or three, not all:
 
 - double-spend scenario;
 - centralized versus decentralized payment map;
-- user/[node](mfb-bd-lx.md#term-node)/[miner](mfb-bd-lx.md#term-miner)/developer role cards;
+- user/[node](../mfb-lx-26.10.md#term-node)/[miner](../mfb-lx-26.10.md#term-miner)/developer role cards;
 - invalid-block rule check;
-- finite-supply and [halving](mfb-bd-lx.md#term-halving) model;
-- [sats](mfb-bd-lx.md#term-sat) and unit-bias check;
+- finite-supply and [halving](../mfb-lx-26.10.md#term-halving) model;
+- [sats](../mfb-lx-26.10.md#term-sat) and unit-bias check;
 - Bitcoin-properties comparison using the **Module 1** table;
 - fiat issue / Bitcoin response / new responsibility map;
 - Bitcoin origin timeline;
@@ -1724,12 +1730,12 @@ Use consensus games, hashing activities, videos, and role-plays only when their 
 
 Use a short task that asks the learner to connect at least three elements. It supplies educator-led theoretical evidence. For example:
 
-- explain the [double-spend problem](mfb-bd-lx.md#term-double-spend-problem);
-- distinguish the roles of a [miner](mfb-bd-lx.md#term-miner) and [node](mfb-bd-lx.md#term-node);
-- explain how [node](mfb-bd-lx.md#term-node) verification supports credible supply; and
+- explain the [double-spend problem](../mfb-lx-26.10.md#term-double-spend-problem);
+- distinguish the roles of a [miner](../mfb-lx-26.10.md#term-miner) and [node](../mfb-lx-26.10.md#term-node);
+- explain how [node](../mfb-lx-26.10.md#term-node) verification supports credible supply; and
 - apply monetary properties to one benefit and one trade-off.
 
-For `C5`, use a short guided scenario that asks who controls issuance, what can be verified, which counterparty risk exists, and why [price](mfb-bd-lx.md#term-price) speculation is outside the Diploma's responsible-learning purpose.
+For `C3`, use a short guided scenario that asks who controls issuance, what can be verified, which counterparty risk exists, and why [price](../mfb-lx-26.10.md#term-price) speculation is outside the Diploma's responsible-learning purpose.
 
 Listen for the learner's own words. A fluent repetition of “21 million” or “decentralized” is not enough without the mechanism or qualification.
 
@@ -1740,11 +1746,11 @@ Ask learners to complete:
 | Fiat-system issue | Bitcoin response | New responsibility or trade-off |
 | --- | --- | --- |
 | Supply can change through policy |  |  |
-| Payments depend on [intermediaries](mfb-bd-lx.md#term-intermediary) |  |  |
-| One [ledger](mfb-bd-lx.md#term-ledger) keeper controls records |  |  |
+| Payments depend on [intermediaries](../mfb-lx-26.10.md#term-intermediary) |  |  |
+| One [ledger](../mfb-lx-26.10.md#term-ledger) keeper controls records |  |  |
 | Access depends on an institution |  |  |
 
-Require a clear explanation of why [nodes](mfb-bd-lx.md#term-node) and [miners](mfb-bd-lx.md#term-miner) have different roles.
+Require a clear explanation of why [nodes](../mfb-lx-26.10.md#term-node) and [miners](../mfb-lx-26.10.md#term-miner) have different roles.
 
 Bridge:
 
@@ -1756,7 +1762,7 @@ Bridge:
 
 ### Purpose of the module
 
-**Module 3** moves from explanation into safe beginner performance. It does not make every learner ready for high-value [self-custody](mfb-bd-lx.md#term-self-custody). It helps learners distinguish public information from secrets, compare [custody](mfb-bd-lx.md#term-custody) choices, practise recovery readiness, verify payment details, recognize unsafe conditions, and demonstrate required actions under approved support conditions.
+**Module 3** moves from explanation into safe beginner performance. It does not make every learner ready for high-value [self-custody](../mfb-lx-26.10.md#term-self-custody). It helps learners distinguish public information from secrets, compare [custody](../mfb-lx-26.10.md#term-custody) choices, practise recovery readiness, verify payment details, recognize unsafe conditions, and demonstrate required actions under approved support conditions.
 
 Guiding question:
 
@@ -1764,7 +1770,7 @@ Guiding question:
 
 Learner promise:
 
-> I can explain beginner [custody](mfb-bd-lx.md#term-custody) and safety concepts and demonstrate the required actions safely under supported conditions.
+> I can explain beginner [custody](../mfb-lx-26.10.md#term-custody) and safety concepts and demonstrate the required actions safely under supported conditions.
 
 **If this is your first time teaching Module 3:** Practise the complete safe process yourself before class. Use an empty training wallet, printed screens, or a simulation. Never learn a new wallet or recovery procedure at the same time as learners, and never ask learners to show real secrets. Slow, visible checking is more important than completing a live transaction.
 
@@ -1774,13 +1780,11 @@ Record one result for each assessed competency. Decimal `C` IDs are competency c
 
 | Assessed competency | Learner must be able to | Competency criteria to cover | Evidence emphasis |
 | --- | --- | --- | --- |
-| `C6` | Explain what wallet information can be shared or must be protected, and describe one [custody](mfb-bd-lx.md#term-custody) trade-off. | `C6.1` Wallets, addresses, keys, [seed phrases](mfb-bd-lx.md#term-seed-phrase), and [custody](mfb-bd-lx.md#term-custody).<br>`C6.2` Custodial and non-custodial approaches.<br>`C6.3` [Hardware-wallet](mfb-bd-lx.md#term-hardware-wallet) and [hot-wallet](mfb-bd-lx.md#term-hot-wallet) overview. | Educator-led explanation or guided scenario. |
-| `C7` | Identify a scam, error, or high-risk request and state when to stop, verify, or seek help. | `C7.1` Safe responses to common beginner risks.<br>`C7.2` Beginner limits and when to stop or seek help. | Educator-led safety scenario. |
-| `C8` | Compare common ways to pay with or access bitcoin in guided scenarios. | `C8.1` On-chain and Lightning distinctions and pathway selection.<br>`C8.2` Acquisition or exchange pathways and relevant risks. | Educator-led comparison scenario. |
-| `C9` | Safely complete and verify a supported first-access wallet activity, including receipt of bitcoin or a safe simulated receipt, in an approved low-stakes or simulated setting. | `C9.1` Wallet setup or opening, navigation, and receive information.<br>`C9.2` Receive-or-send flow and verification.<br>`C9.3` Supported first access, receipt or safe simulated receipt, and information check. | Direct observation by an educator. |
-| `C10` | Demonstrate recovery readiness with prepared or simulated materials without exposing secrets. | `C10.1` Recovery readiness and protection of recovery information. | Direct observation by an educator without real secrets. |
+| `C4` | Explain wallets, custody, and a safe response to risk. | `C4.1` Wallets, addresses, keys, [seed phrases](../mfb-lx-26.10.md#term-seed-phrase), public versus secret information, and custody choices.<br>`C4.2` [Hardware-wallet](../mfb-lx-26.10.md#term-hardware-wallet) and [hot-wallet](../mfb-lx-26.10.md#term-hot-wallet) overview.<br>`C4.3` Recognize a risk and know when to stop, verify, or seek help. | Individual explanation and safety scenario. |
+| `C5` | Compare common ways to pay with or access bitcoin in guided scenarios. | `C5.1` On-chain and Lightning distinctions and pathway selection.<br>`C5.2` Acquisition or exchange pathways and relevant risks. | Educator-led comparison scenario. |
+| `C6` | Safely complete supported first access and demonstrate recovery readiness. | `C6.1` Navigate a prepared wallet, complete or simulate receive or send and supported first access or receipt, and check destination, amount, network, and status.<br>`C6.2` Demonstrate recovery readiness with prepared or simulated materials without exposing secrets. | Direct educator observation of both performances; one result. |
 
-Use guided discussions to develop and notice the formative competency `C12` through clear explanation, relevant evidence, respectful listening, and basic reasoning. `C12` is not a certification gate.
+Use guided discussions to develop and notice the formative competency `F1` through clear explanation, relevant evidence, respectful listening, and basic reasoning. `F1` is not a certification gate.
 
 ### Time and educator capacity
 
@@ -1801,12 +1805,12 @@ Use smaller stations, another educator, or additional sessions when helpful. Gro
 
 - Read the **Module 3** Student Guide and practise every demonstration.
 - Select the exact prepared wallet, simulation, test environment, or printed sequence.
-- Verify the tool's source, version, network, [custody](mfb-bd-lx.md#term-custody) model, recovery process, and reset process.
+- Verify the tool's source, version, network, [custody](../mfb-lx-26.10.md#term-custody) model, recovery process, and reset process.
 - Decide whether learners will use no funds, simulated funds, testnet, or an approved low-stakes amount.
-- Prepare sample on-chain addresses, [Lightning invoices](mfb-bd-lx.md#term-lightning-invoice), *[txid](mfb-bd-lx.md#term-transaction-id)*s, QR codes, and screenshots marked **SAMPLE — DO NOT PAY**.
+- Prepare sample on-chain addresses, [Lightning invoices](../mfb-lx-26.10.md#term-lightning-invoice), *[txid](../mfb-lx-26.10.md#term-transaction-id)*s, QR codes, and screenshots marked **SAMPLE — DO NOT PAY**.
 - Prepare public/secret sorting cards.
 - Prepare a deliberately public address or historical transaction for the address-history activity. Never use learner-linked data.
-- Prepare a fake [seed phrase](mfb-bd-lx.md#term-seed-phrase) or disposable empty training wallet for recovery practice.
+- Prepare a fake [seed phrase](../mfb-lx-26.10.md#term-seed-phrase) or disposable empty training wallet for recovery practice.
 - Prepare scam and clipboard-replacement scenarios.
 - Prepare an acquisition-pathway comparison relevant to the location without naming a preferred provider.
 - Define the helpful steps, support, safety boundaries, reset method, and any optional notes for each activity used for assessment.
@@ -1822,8 +1826,8 @@ When possible, use two learning parts and a separate assessment window.
 | Time | Learning move | Suggested method |
 | ---: | --- | --- |
 | 0–10 min | Set the safety contract | Public versus secret opening check |
-| 10–25 min | Wallets and [custody](mfb-bd-lx.md#term-custody) | Wallet-is-an-interface demonstration |
-| 25–40 min | Addresses, keys, and [seed phrases](mfb-bd-lx.md#term-seed-phrase) | Card sort and explanation |
+| 10–25 min | Wallets and [custody](../mfb-lx-26.10.md#term-custody) | Wallet-is-an-interface demonstration |
+| 25–40 min | Addresses, keys, and [seed phrases](../mfb-lx-26.10.md#term-seed-phrase) | Card sort and explanation |
 | 40–58 min | Custodial, self-custodial, hot, cold, and hardware | Scenario comparison |
 | 58–80 min | Recovery readiness | Educator presentation, guided simulation, debrief |
 | 80–105 min | Receiving | Receive-screen walkthrough and learner practice |
@@ -1833,9 +1837,9 @@ When possible, use two learning parts and a separate assessment window.
 
 | Time | Learning move | Suggested method |
 | ---: | --- | --- |
-| 0–15 min | Retrieve [custody](mfb-bd-lx.md#term-custody) rules | Safety scenario |
+| 0–15 min | Retrieve [custody](../mfb-lx-26.10.md#term-custody) rules | Safety scenario |
 | 15–40 min | Sending and verification | Educator demonstration with prediction |
-| 40–58 min | [Confirmations](mfb-bd-lx.md#term-confirmation) and explorers | Prepared transaction lookup |
+| 40–58 min | [Confirmations](../mfb-lx-26.10.md#term-confirmation) and explorers | Prepared transaction lookup |
 | 58–73 min | Address history and reuse | Prepared public-address activity |
 | 73–93 min | Scams and irreversible error | Scenario stations |
 | 93–108 min | Acquisition pathways | Risk-map comparison |
@@ -1847,11 +1851,11 @@ Schedule formal observation only after supported practice.
 
 Use the sentence:
 
-> A [Bitcoin wallet](mfb-bd-lx.md#term-bitcoin-wallet) manages keys and transaction information. It does not store bitcoin inside the phone or device.
+> A [Bitcoin wallet](../mfb-lx-26.10.md#term-bitcoin-wallet) manages keys and transaction information. It does not store bitcoin inside the phone or device.
 
 Show the separation among:
 
-- the shared Bitcoin [ledger](mfb-bd-lx.md#term-ledger);
+- the shared Bitcoin [ledger](../mfb-lx-26.10.md#term-ledger);
 - the wallet's keys and signing function;
 - the wallet's interface and network connection; and
 - any external service the wallet depends on.
@@ -1870,10 +1874,10 @@ Ask:
 
 When comparing wallets, use consistent criteria:
 
-- [custody](mfb-bd-lx.md#term-custody);
+- [custody](../mfb-lx-26.10.md#term-custody);
 - verified source and open-source status;
 - recovery and compatibility;
-- [privacy](mfb-bd-lx.md#term-privacy) and server dependence;
+- [privacy](../mfb-lx-26.10.md#term-privacy) and server dependence;
 - supported payment types;
 - continuity and maintenance;
 - cost and device fit; and
@@ -1883,13 +1887,13 @@ Prefer well-established open-source wallet software where it fits the learner's 
 
 ### Addresses and payment requests
 
-Teach an on-chain [Bitcoin address](mfb-bd-lx.md#term-bitcoin-address) as public receiving information generated from wallet keys. It is not a password, account login, or proof that the person requesting payment is trustworthy.
+Teach an on-chain [Bitcoin address](../mfb-lx-26.10.md#term-bitcoin-address) as public receiving information generated from wallet keys. It is not a password, account login, or proof that the person requesting payment is trustworthy.
 
 Good beginner behavior includes:
 
 - obtain the address from the intended receiving wallet;
 - confirm Bitcoin and the correct network;
-- distinguish an on-chain address from a [Lightning invoice](mfb-bd-lx.md#term-lightning-invoice) or address;
+- distinguish an on-chain address from a [Lightning invoice](../mfb-lx-26.10.md#term-lightning-invoice) or address;
 - copy or scan rather than type manually;
 - compare after copying;
 - verify the full address on a trusted display for important payments;
@@ -1904,26 +1908,26 @@ Prepare cards for:
 
 - on-chain address;
 - address QR code;
-- [Lightning invoice](mfb-bd-lx.md#term-lightning-invoice);
-- *[txid](mfb-bd-lx.md#term-transaction-id)*;
-- [public key](mfb-bd-lx.md#term-public-key);
-- [private key](mfb-bd-lx.md#term-private-key);
-- [seed phrase](mfb-bd-lx.md#term-seed-phrase);
+- [Lightning invoice](../mfb-lx-26.10.md#term-lightning-invoice);
+- *[txid](../mfb-lx-26.10.md#term-transaction-id)*;
+- [public key](../mfb-lx-26.10.md#term-public-key);
+- [private key](../mfb-lx-26.10.md#term-private-key);
+- [seed phrase](../mfb-lx-26.10.md#term-seed-phrase);
 - wallet password or PIN;
 - balance screenshot; and
 - security or recovery plan.
 
 Learners sort them into:
 
-- public receiving or [ledger](mfb-bd-lx.md#term-ledger) information;
+- public receiving or [ledger](../mfb-lx-26.10.md#term-ledger) information;
 - secret spending or access information; and
 - context-dependent information that may be public technically but private personally.
 
-Debrief that “public on the protocol” does not mean “safe to associate with a person's identity.” A *[txid](mfb-bd-lx.md#term-transaction-id)* or address can reveal activity and relationships.
+Debrief that “public on the protocol” does not mean “safe to associate with a person's identity.” A *[txid](../mfb-lx-26.10.md#term-transaction-id)* or address can reveal activity and relationships.
 
 ### Address history and reuse lookup
 
-This activity makes public-ledger [privacy](mfb-bd-lx.md#term-privacy) visible.
+This activity makes public-ledger [privacy](../mfb-lx-26.10.md#term-privacy) visible.
 
 **Purpose:** Show that address activity may be visible and that repeated address use can make transactions easier to link.
 
@@ -1939,7 +1943,7 @@ This activity makes public-ledger [privacy](mfb-bd-lx.md#term-privacy) visible.
 4. Ask whether the address appears to have received more than once.
 5. Discuss what an observer can infer and what they cannot know with certainty.
 6. Show that many wallets generate a fresh receiving address.
-7. Explain that old addresses may remain valid, but fresh addresses improve [privacy](mfb-bd-lx.md#term-privacy) by reducing easy linkage.
+7. Explain that old addresses may remain valid, but fresh addresses improve [privacy](../mfb-lx-26.10.md#term-privacy) by reducing easy linkage.
 
 **Debrief:**
 
@@ -1964,14 +1968,14 @@ Keep the practical rule central:
 
 Teach:
 
-- a [private key](mfb-bd-lx.md#term-private-key) authorizes spending through a [digital signature](mfb-bd-lx.md#term-digital-signature);
-- a [public key](mfb-bd-lx.md#term-public-key) supports verification without revealing the [private key](mfb-bd-lx.md#term-private-key);
+- a [private key](../mfb-lx-26.10.md#term-private-key) authorizes spending through a [digital signature](../mfb-lx-26.10.md#term-digital-signature);
+- a [public key](../mfb-lx-26.10.md#term-public-key) supports verification without revealing the [private key](../mfb-lx-26.10.md#term-private-key);
 - modern wallets manage many keys automatically; and
-- beginners should not copy or handle raw [private-key](mfb-bd-lx.md#term-private-key) strings.
+- beginners should not copy or handle raw [private-key](../mfb-lx-26.10.md#term-private-key) strings.
 
-Do not use “the [private key](mfb-bd-lx.md#term-private-key) proves who you are.” It proves authorization by the key, not a legal identity.
+Do not use “the [private key](../mfb-lx-26.10.md#term-private-key) proves who you are.” It proves authorization by the key, not a legal identity.
 
-No legitimate educator, wallet company, exchange employee, developer, support worker, or public figure needs a learner's [private key](mfb-bd-lx.md#term-private-key) or [seed phrase](mfb-bd-lx.md#term-seed-phrase).
+No legitimate educator, wallet company, exchange employee, developer, support worker, or public figure needs a learner's [private key](../mfb-lx-26.10.md#term-private-key) or [seed phrase](../mfb-lx-26.10.md#term-seed-phrase).
 
 <!-- VISUAL: BD-V-037
 ALT: A secret private key relates to public-key and receiving-address information and creates signatures that nodes can verify without learning the private key.
@@ -1981,14 +1985,14 @@ USE: Shared Student Guide master.
 
 ### Seed phrases and recovery
 
-A [seed phrase](mfb-bd-lx.md#term-seed-phrase), also called a [recovery phrase](mfb-bd-lx.md#term-seed-phrase), is one recovery method used by many wallets. It is an ordered list of words that can recreate the keys for compatible wallet designs. It is not a universal feature of every wallet and is more powerful than an ordinary account password.
+A [seed phrase](../mfb-lx-26.10.md#term-seed-phrase), also called a [recovery phrase](../mfb-lx-26.10.md#term-seed-phrase), is one recovery method used by many wallets. It is an ordered list of words that can recreate the keys for compatible wallet designs. It is not a universal feature of every wallet and is more powerful than an ordinary account password.
 
 Teach the consequences:
 
 - correct words in the correct order can restore control;
 - anyone who obtains the phrase may gain control;
 - losing it can remove the recovery path;
-- [wallet compatibility](mfb-bd-lx.md#term-wallet-compatibility) matters; and
+- [wallet compatibility](../mfb-lx-26.10.md#term-wallet-compatibility) matters; and
 - a seed that may have been exposed should be treated as compromised.
 
 <!-- VISUAL: BD-V-038
@@ -2003,12 +2007,12 @@ USE: Shared Student Guide master.
 - Do not walk around while learners record real words.
 - Do not let learners photograph, message, email, print, cloud-store, or submit a phrase.
 - Do not use one learner's real funded wallet for a public recovery demonstration.
-- Do not enter a [hardware-wallet](mfb-bd-lx.md#term-hardware-wallet) phrase into a website or ordinary computer form.
+- Do not enter a [hardware-wallet](../mfb-lx-26.10.md#term-hardware-wallet) phrase into a website or ordinary computer form.
 - Do not retain training phrases that later protect learner funds.
 
 #### Activity: recovery-readiness simulation
 
-**Presentation:** Show a complete recovery check using fake words or a disposable empty training wallet. Explain compatibility, [privacy](mfb-bd-lx.md#term-privacy), expected result, and reset.
+**Presentation:** Show a complete recovery check using fake words or a disposable empty training wallet. Explain compatibility, [privacy](../mfb-lx-26.10.md#term-privacy), expected result, and reset.
 
 **Practice:** Learners sequence prepared cards or restore a disposable training wallet in a private, controlled environment. They must keep the material out of view and identify unsafe requests.
 
@@ -2030,11 +2034,11 @@ USE: Educator-only diagram; see the asset index brief.
 
 **Required safety response:** If a real seed may have been exposed, stop using it as a safe backup, create a new trusted wallet with new recovery information, and move funds after carefully verifying the destination. The learner should seek help without revealing either phrase.
 
-Inheritance, [multisignature](mfb-bd-lx.md#term-multisignature) design, advanced passphrases, and high-value recovery planning may require advanced security and professional legal advice. They are outside required Diploma performance.
+Inheritance, [multisignature](../mfb-lx-26.10.md#term-multisignature) design, advanced passphrases, and high-value recovery planning may require advanced security and professional legal advice. They are outside required Diploma performance.
 
 ### Custodial and self-custodial use
 
-[Custody](mfb-bd-lx.md#term-custody) asks one question:
+[Custody](../mfb-lx-26.10.md#term-custody) asks one question:
 
 > Who controls the keys required to spend the bitcoin?
 
@@ -2048,7 +2052,7 @@ Use guided scenarios rather than identity labels. A learner should compare:
 - which privacy or identity data are held; and
 - when convenience creates counterparty dependence.
 
-Do not treat [self-custody](mfb-bd-lx.md#term-self-custody) as a moral test. A beginner may choose a small custodial balance while learning. The educational requirement is to recognize the trust model and risk.
+Do not treat [self-custody](../mfb-lx-26.10.md#term-self-custody) as a moral test. A beginner may choose a small custodial balance while learning. The educational requirement is to recognize the trust model and risk.
 
 <!-- VISUAL: BD-V-039
 ALT: A custodial service controls spending keys and recovery, while a self-custodial user controls keys and backups; both routes have dependencies and failure risks.
@@ -2062,10 +2066,10 @@ Avoid a common category error:
 
 - **Custodial / self-custodial** describes who controls the keys.
 - **Hot / cold** describes whether signing keys are exposed to an internet-connected general-purpose environment.
-- **[Hardware wallet](mfb-bd-lx.md#term-hardware-wallet)** describes a dedicated device design.
-- **On-chain / Lightning** describes a payment path, not [custody](mfb-bd-lx.md#term-custody) by itself.
+- **[Hardware wallet](../mfb-lx-26.10.md#term-hardware-wallet)** describes a dedicated device design.
+- **On-chain / Lightning** describes a payment path, not [custody](../mfb-lx-26.10.md#term-custody) by itself.
 
-A Lightning wallet can be custodial or self-custodial. A [hardware wallet](mfb-bd-lx.md#term-hardware-wallet) still needs a recovery process. A cold arrangement can be badly designed. A [hot wallet](mfb-bd-lx.md#term-hot-wallet) can be appropriate for small everyday use.
+A Lightning wallet can be custodial or self-custodial. A [hardware wallet](../mfb-lx-26.10.md#term-hardware-wallet) still needs a recovery process. A cold arrangement can be badly designed. A [hot wallet](../mfb-lx-26.10.md#term-hot-wallet) can be appropriate for small everyday use.
 
 <!-- VISUAL: BD-V-042
 ALT: A two-axis map separates custodial or self-custodial key control from hot or cold signing environments; hardware design and payment path do not determine custody alone.
@@ -2087,7 +2091,7 @@ Demonstrate:
 4. Display or copy only the payment request.
 5. Confirm the amount and any relevant fee arrangement.
 6. Verify the pending payment in the receiving wallet or trusted view.
-7. Interpret [confirmation](mfb-bd-lx.md#term-confirmation) or payment status appropriately.
+7. Interpret [confirmation](../mfb-lx-26.10.md#term-confirmation) or payment status appropriately.
 
 Explain that a message or screenshot saying “sent” is not proof of receipt. The receiver should verify within their own wallet or trusted view.
 
@@ -2148,28 +2152,28 @@ Ask what independent channel can verify the destination.
 
 ### Fees, confirmations, and finality
 
-Explain that an on-chain fee is based mainly on transaction data and demand for [block space](mfb-bd-lx.md#term-block-space), not simply the value sent. Wallet estimates can be inaccurate or become stale.
+Explain that an on-chain fee is based mainly on transaction data and demand for [block space](../mfb-lx-26.10.md#term-block-space), not simply the value sent. Wallet estimates can be inaccurate or become stale.
 
 A transaction:
 
-- is **unconfirmed** after [broadcast](mfb-bd-lx.md#term-broadcast) and before inclusion in a valid block;
-- receives its first **[confirmation](mfb-bd-lx.md#term-confirmation)** when included in a valid block; and
+- is **unconfirmed** after [broadcast](../mfb-lx-26.10.md#term-broadcast) and before inclusion in a valid block;
+- receives its first **[confirmation](../mfb-lx-26.10.md#term-confirmation)** when included in a valid block; and
 - gains more settlement confidence as additional valid blocks build on that history.
 
-[Confirmations](mfb-bd-lx.md#term-confirmation) do not repair an incorrect destination, reverse a scam, prove the recipient's identity, or make an unwanted purchase appropriate.
+[Confirmations](../mfb-lx-26.10.md#term-confirmation) do not repair an incorrect destination, reverse a scam, prove the recipient's identity, or make an unwanted purchase appropriate.
 
-There is no one [confirmation](mfb-bd-lx.md#term-confirmation) count suitable for every value and risk. Teach the reasoning rather than a universal number.
+There is no one [confirmation](../mfb-lx-26.10.md#term-confirmation) count suitable for every value and risk. Teach the reasoning rather than a universal number.
 
 ### Block explorers and verification
 
-A [block explorer](mfb-bd-lx.md#term-block-explorer) is an interface to public Bitcoin information, not an authority over Bitcoin's rules.
+A [block explorer](../mfb-lx-26.10.md#term-block-explorer) is an interface to public Bitcoin information, not an authority over Bitcoin's rules.
 
-Using a prepared *[txid](mfb-bd-lx.md#term-transaction-id)*, show:
+Using a prepared *[txid](../mfb-lx-26.10.md#term-transaction-id)*, show:
 
 - transaction status;
 - inputs and outputs at beginner depth;
 - amount and fee display;
-- block inclusion and [confirmation](mfb-bd-lx.md#term-confirmation) count; and
+- block inclusion and [confirmation](../mfb-lx-26.10.md#term-confirmation) count; and
 - information that becomes public.
 
 <!-- VISUAL: BD-V-046
@@ -2183,7 +2187,7 @@ Then ask:
 - What can the explorer show?
 - What can it not prove about legal identity, purpose, honesty, or ownership?
 - What information does the explorer operator learn from the search?
-- How does a local [node](mfb-bd-lx.md#term-node) change the trust and privacy relationship?
+- How does a local [node](../mfb-lx-26.10.md#term-node) change the trust and privacy relationship?
 
 Avoid live searches containing learner-linked data.
 
@@ -2239,11 +2243,11 @@ Compare:
 
 For every route, ask:
 
-- What total amount is received after [price](mfb-bd-lx.md#term-price), spread, and fees?
+- What total amount is received after [price](../mfb-lx-26.10.md#term-price), spread, and fees?
 - Who controls the bitcoin before and after the exchange?
 - What identity data are collected?
 - Can the fiat side be reversed?
-- Can the bitcoin be withdrawn to [self-custody](mfb-bd-lx.md#term-self-custody)?
+- Can the bitcoin be withdrawn to [self-custody](../mfb-lx-26.10.md#term-self-custody)?
 - What counterparty and fraud risk exists?
 - What physical-safety risk exists?
 - Which local law, tax, or reporting rule may apply?
@@ -2254,23 +2258,23 @@ ASSET: assets/briefs/bd-v-048-brief.md
 USE: Shared Student Guide master.
 -->
 
-Use **[no-KYC](mfb-bd-lx.md#term-no-kyc)** consistently for a path collecting less or no standard identity information. Do not imply that [no-KYC](mfb-bd-lx.md#term-no-kyc) removes fraud, legal, counterparty, or physical risk. Do not advise evasion of local law.
+Use **[no-KYC](../mfb-lx-26.10.md#term-no-kyc)** consistently for a path collecting less or no standard identity information. Do not imply that [no-KYC](../mfb-lx-26.10.md#term-no-kyc) removes fraud, legal, counterparty, or physical risk. Do not advise evasion of local law.
 
 ### On-chain and Lightning payments
 
-Use a comparison that separates payment path from [custody](mfb-bd-lx.md#term-custody).
+Use a comparison that separates payment path from [custody](../mfb-lx-26.10.md#term-custody).
 
 | Question | On-chain | Lightning |
 | --- | --- | --- |
-| Where is settlement recorded? | Directly in Bitcoin's [blockchain](mfb-bd-lx.md#term-blockchain) | Payment updates occur through a network built above Bitcoin; channels ultimately depend on Bitcoin |
-| Common beginner receiving information | On-chain address | Invoice, supported [Lightning address](mfb-bd-lx.md#term-lightning-address), or another approved request type |
-| Typical use | [Base-layer settlement](mfb-bd-lx.md#term-base-layer-settlement), often larger or less frequent transfers | Often small or frequent payments where local tools and [liquidity](mfb-bd-lx.md#term-lightning-liquidity) support them |
-| Timing | [First confirmation](mfb-bd-lx.md#term-first-confirmation) depends on block inclusion | Often rapid, but payments can fail |
-| Fees and capacity | Depend on transaction data and [block-space](mfb-bd-lx.md#term-block-space) demand | Depend on wallet, route, [liquidity](mfb-bd-lx.md#term-lightning-liquidity), service, and payment conditions |
-| [Custody](mfb-bd-lx.md#term-custody) | Can be custodial or self-custodial | Can be custodial or self-custodial |
-| Main beginner check | Correct address, network, amount, fee, and [confirmation](mfb-bd-lx.md#term-confirmation) | Correct invoice or destination, amount, expiry, fee, and payment result |
+| Where is settlement recorded? | Directly in Bitcoin's [blockchain](../mfb-lx-26.10.md#term-blockchain) | Payment updates occur through a network built above Bitcoin; channels ultimately depend on Bitcoin |
+| Common beginner receiving information | On-chain address | Invoice, supported [Lightning address](../mfb-lx-26.10.md#term-lightning-address), or another approved request type |
+| Typical use | [Base-layer settlement](../mfb-lx-26.10.md#term-base-layer-settlement), often larger or less frequent transfers | Often small or frequent payments where local tools and [liquidity](../mfb-lx-26.10.md#term-lightning-liquidity) support them |
+| Timing | [First confirmation](../mfb-lx-26.10.md#term-first-confirmation) depends on block inclusion | Often rapid, but payments can fail |
+| Fees and capacity | Depend on transaction data and [block-space](../mfb-lx-26.10.md#term-block-space) demand | Depend on wallet, route, [liquidity](../mfb-lx-26.10.md#term-lightning-liquidity), service, and payment conditions |
+| [Custody](../mfb-lx-26.10.md#term-custody) | Can be custodial or self-custodial | Can be custodial or self-custodial |
+| Main beginner check | Correct address, network, amount, fee, and [confirmation](../mfb-lx-26.10.md#term-confirmation) | Correct invoice or destination, amount, expiry, fee, and payment result |
 
-Lightning is not a separate coin. A successful Lightning payment does not prove the wallet is safe for a larger balance. Channel operation, routing infrastructure, and [liquidity](mfb-bd-lx.md#term-lightning-liquidity) management are Advanced Learning outside the Diploma.
+Lightning is not a separate coin. A successful Lightning payment does not prove the wallet is safe for a larger balance. Channel operation, routing infrastructure, and [liquidity](../mfb-lx-26.10.md#term-lightning-liquidity) management are Advanced Learning outside the Diploma.
 
 <!-- VISUAL: BD-V-050
 ALT: Bitcoin base-layer settlement and Lightning are related payment paths with different requests, timing, fees, and failure conditions; either wallet path can involve custody.
@@ -2280,7 +2284,7 @@ USE: Shared Student Guide master.
 
 ### Supported first access
 
-`C9.3` is a competency criterion within `C9`. The learner gains access to bitcoin in an approved low-stakes or simulated environment, receives it or safely simulates receipt, and checks the relevant information as part of the observed wallet, payment, and verification performance.
+`C6.1` is a competency criterion within `C6`. The learner gains access to bitcoin in an approved low-stakes or simulated environment, receives it or safely simulates receipt, and checks the relevant information as part of the observed wallet, payment, and verification performance.
 
 Plan the route carefully:
 
@@ -2301,12 +2305,12 @@ Use stations after learners have seen each process.
 
 | Station | Learner task | Safety focus |
 | --- | --- | --- |
-| 1. Wallet and [custody](mfb-bd-lx.md#term-custody) | Identify who controls the keys and locate the receive function | Do not infer [custody](mfb-bd-lx.md#term-custody) from the word “wallet” |
+| 1. Wallet and [custody](../mfb-lx-26.10.md#term-custody) | Identify who controls the keys and locate the receive function | Do not infer [custody](../mfb-lx-26.10.md#term-custody) from the word “wallet” |
 | 2. Public or secret | Classify payment and recovery information | Never reveal real secrets |
 | 3. Receive | Generate or locate a prepared request and identify its payment path | Share only receiving information |
 | 4. Send | Verify recipient, network, destination, amount, unit, fee, and final summary | Stop on any mismatch |
 | 5. Recovery | Sequence or perform a prepared recovery-readiness task | Work privately; no real funded seed |
-| 6. Explorer | Read prepared transaction status and public data | Recognize explorer [privacy](mfb-bd-lx.md#term-privacy) and limits |
+| 6. Explorer | Read prepared transaction status and public data | Recognize explorer [privacy](../mfb-lx-26.10.md#term-privacy) and limits |
 | 7. Scam | Respond to an urgent support or address-change request | Pause and verify independently |
 | 8. Pathway | Compare two local acquisition or payment paths | No endorsement or advice |
 
@@ -2322,19 +2326,19 @@ USE: Educator-only diagram; see the asset index brief.
 
 | Misconception | Beginner-safe correction | Check question |
 | --- | --- | --- |
-| Bitcoin is stored in the wallet app. | Bitcoin is recorded on the shared [ledger](mfb-bd-lx.md#term-ledger); the wallet manages keys and transaction information. | What would remain if the phone broke? |
-| An address is a secret password. | An address is public receiving information, though linking it to identity can reduce [privacy](mfb-bd-lx.md#term-privacy). | Which information authorizes spending? |
+| Bitcoin is stored in the wallet app. | Bitcoin is recorded on the shared [ledger](../mfb-lx-26.10.md#term-ledger); the wallet manages keys and transaction information. | What would remain if the phone broke? |
+| An address is a secret password. | An address is public receiving information, though linking it to identity can reduce [privacy](../mfb-lx-26.10.md#term-privacy). | Which information authorizes spending? |
 | Any QR code is safe because the wallet scans it. | A QR code can encode the wrong destination or request. Verify recipient, payment path, amount, and final screen. | What would you compare after scanning? |
-| Sharing an address lets someone spend. | Spending normally requires the [private key](mfb-bd-lx.md#term-private-key). Sharing an address can still expose transaction relationships. | What privacy risk remains? |
-| A [seed phrase](mfb-bd-lx.md#term-seed-phrase) is an ordinary password. | For many wallets it is full recovery access. Anyone with it may recreate the keys. | Would legitimate support ever need it? |
+| Sharing an address lets someone spend. | Spending normally requires the [private key](../mfb-lx-26.10.md#term-private-key). Sharing an address can still expose transaction relationships. | What privacy risk remains? |
+| A [seed phrase](../mfb-lx-26.10.md#term-seed-phrase) is an ordinary password. | For many wallets it is full recovery access. Anyone with it may recreate the keys. | Would legitimate support ever need it? |
 | The educator should check my seed backup. | An educator can observe the safe process without seeing the words. | How can you prove readiness while keeping it private? |
 | Every wallet is self-custodial. | Some applications called wallets hold keys for the user. | Who approves withdrawal and controls recovery? |
-| A [hardware wallet](mfb-bd-lx.md#term-hardware-wallet) removes backup risk. | The device isolates keys, but recovery still depends on a protected backup and correct use. | What happens if the device breaks? |
-| One [confirmation](mfb-bd-lx.md#term-confirmation) makes every payment safe. | [Confirmations](mfb-bd-lx.md#term-confirmation) strengthen settlement history; they do not fix a bad destination or scam. | Which checks must happen before approval? |
-| A [block explorer](mfb-bd-lx.md#term-block-explorer) is Bitcoin. | It is a third-party interface to public data. | What stronger verification can a [node](mfb-bd-lx.md#term-node) provide? |
-| Fees are based mainly on how much bitcoin is sent. | On-chain fees depend mainly on transaction data and demand for [block space](mfb-bd-lx.md#term-block-space). | Can a small-value payment still have a high fee? |
-| Lightning always means [self-custody](mfb-bd-lx.md#term-self-custody) and no fees. | Lightning wallets may be custodial or self-custodial, and routing, service, or [liquidity](mfb-bd-lx.md#term-lightning-liquidity) conditions may create fees and failures. | Which two separate questions should you ask? |
-| [KYC](mfb-bd-lx.md#term-kyc) is always safe, or [no-KYC](mfb-bd-lx.md#term-no-kyc) is always safe. | Each route exchanges identity, support, counterparty, fraud, legal, and privacy risks. | Which risk is reduced, and which is added? |
+| A [hardware wallet](../mfb-lx-26.10.md#term-hardware-wallet) removes backup risk. | The device isolates keys, but recovery still depends on a protected backup and correct use. | What happens if the device breaks? |
+| One [confirmation](../mfb-lx-26.10.md#term-confirmation) makes every payment safe. | [Confirmations](../mfb-lx-26.10.md#term-confirmation) strengthen settlement history; they do not fix a bad destination or scam. | Which checks must happen before approval? |
+| A [block explorer](../mfb-lx-26.10.md#term-block-explorer) is Bitcoin. | It is a third-party interface to public data. | What stronger verification can a [node](../mfb-lx-26.10.md#term-node) provide? |
+| Fees are based mainly on how much bitcoin is sent. | On-chain fees depend mainly on transaction data and demand for [block space](../mfb-lx-26.10.md#term-block-space). | Can a small-value payment still have a high fee? |
+| Lightning always means [self-custody](../mfb-lx-26.10.md#term-self-custody) and no fees. | Lightning wallets may be custodial or self-custodial, and routing, service, or [liquidity](../mfb-lx-26.10.md#term-lightning-liquidity) conditions may create fees and failures. | Which two separate questions should you ask? |
+| [KYC](../mfb-lx-26.10.md#term-kyc) is always safe, or [no-KYC](../mfb-lx-26.10.md#term-no-kyc) is always safe. | Each route exchanges identity, support, counterparty, fraud, legal, and privacy risks. | Which risk is reduced, and which is added? |
 
 ### Module 3 practical evidence
 
@@ -2342,7 +2346,7 @@ For practical assessment, observe whether the learner can complete the relevant 
 
 - open or safely access the prepared environment;
 - navigate without exposing unrelated information;
-- identify the [custody](mfb-bd-lx.md#term-custody) model;
+- identify the [custody](../mfb-lx-26.10.md#term-custody) model;
 - distinguish receiving information from secrets;
 - select the intended payment path and network;
 - locate and verify an address or invoice;
@@ -2360,7 +2364,7 @@ Safety-critical behavior cannot be averaged away. Revealing recovery information
 
 Use an integrated scenario. A learner or pair must:
 
-1. identify the [custody](mfb-bd-lx.md#term-custody) model of a prepared wallet;
+1. identify the [custody](../mfb-lx-26.10.md#term-custody) model of a prepared wallet;
 2. locate receiving information;
 3. distinguish on-chain from Lightning;
 4. prepare a send and detect a changed destination;
@@ -2382,7 +2386,7 @@ Bridge:
 
 ### Purpose of the module
 
-**Module 4** applies learning from **Modules 1–3** to local daily life. It is a required part of the Diploma, not a free-choice bonus module, and it is not globally defined as “spending.” Every certificated learner completes one approved locally relevant task, but educators select the context because [currencies](mfb-bd-lx.md#term-currency), tools, laws, risks, infrastructure, and community needs vary.
+**Module 4** applies learning from **Modules 1–3** to local daily life. It is a required part of the Diploma, not a free-choice bonus module, and it is not globally defined as “spending.” Every certificated learner completes one approved locally relevant task, but educators select the context because [currencies](../mfb-lx-26.10.md#term-currency), tools, laws, risks, infrastructure, and community needs vary.
 
 It is the **Connect** stage of Problem → Solution → Action → Connect. The learner must connect the earlier modules to a local need or opportunity and a realistic existing alternative before practising a safe task. The intended outcome is sound local reasoning and safe performance, not adoption or a favorable conclusion about Bitcoin.
 
@@ -2400,9 +2404,9 @@ Learner promise:
 
 | Assessed competency | Learner must be able to | Competency criteria to cover | Required evidence |
 | --- | --- | --- | --- |
-| `C11` | Safely complete one approved local Bitcoin-as-money task and connect it to its local purpose, realistic alternative, trade-offs, and next step. | `C11.1` Safe task sequence and verification behavior.<br>`C11.2` Local purpose, realistic alternative, trade-offs, failure points, safety considerations, and realistic next steps. | Direct observation and explanation during or immediately after performance. |
+| `C7` | Safely complete one approved local Bitcoin-as-money task and connect it to its local purpose, realistic alternative, trade-offs, and next step. | `C7.1` Safe task sequence and verification behavior.<br>`C7.2` Local purpose, realistic alternative, trade-offs, failure points, safety considerations, and realistic next steps. | Direct observation and explanation during or immediately after performance. |
 
-Use guided discussion to support the formative competency `C12` and the course-ending reflection to support the formative competency `C13`. Neither creates a certification gate.
+Use guided discussion to support the formative competency `F1` and the course-ending reflection to support the formative competency `F2`. Neither creates a certification gate.
 
 ### Begin with a need, not a tool
 
@@ -2413,7 +2417,7 @@ Ask first:
 3. How is it handled now?
 4. Which function of money is involved?
 5. Could Bitcoin improve the complete path?
-6. What new cost, [custody](mfb-bd-lx.md#term-custody), privacy, [price](mfb-bd-lx.md#term-price), legal, operational, or safety risk appears?
+6. What new cost, [custody](../mfb-lx-26.10.md#term-custody), privacy, [price](../mfb-lx-26.10.md#term-price), legal, operational, or safety risk appears?
 7. Can learners examine or practise the path safely?
 8. What observable action would show the competency?
 
@@ -2431,7 +2435,7 @@ USE: Educator-only diagram; see the asset index brief.
 
 Investigate:
 
-- [currencies](mfb-bd-lx.md#term-currency) and units of account;
+- [currencies](../mfb-lx-26.10.md#term-currency) and units of account;
 - common cash, bank, mobile-money, and card payment methods;
 - internet, electricity, data, and device reliability;
 - banking and identity access;
@@ -2461,14 +2465,14 @@ Choose one primary task and, at most, one supporting task for a minimum module. 
 - family remittance or cross-border payment comparison;
 - merchant payment and refund flow;
 - community or nonprofit donation;
-- [on-ramp](mfb-bd-lx.md#term-on-ramp) and [off-ramp](mfb-bd-lx.md#term-off-ramp) comparison;
+- [on-ramp](../mfb-lx-26.10.md#term-on-ramp) and [off-ramp](../mfb-lx-26.10.md#term-off-ramp) comparison;
 - Lightning payment where appropriate;
 - local resource or merchant discovery;
 - circular-economy mapping;
 - local money-problem analysis; or
 - another approved locally relevant Bitcoin-as-money task.
 
-Every certification activity must map to `C11` and preserve the purpose of `C11.1` and `C11.2` through a locally relevant activity.
+Every certification activity must map to `C7` and preserve the purpose of `C7.1` and `C7.2` through a locally relevant activity.
 
 #### 4. Verify facts, tools, and expertise
 
@@ -2476,10 +2480,10 @@ For every tool or service, record:
 
 - exact name and version;
 - publisher and verified source;
-- [custody](mfb-bd-lx.md#term-custody) model;
+- [custody](../mfb-lx-26.10.md#term-custody) model;
 - supported network and payment requests;
 - setup, funding, and recovery path;
-- fees, spreads, limits, and [liquidity](mfb-bd-lx.md#term-liquidity) constraints;
+- fees, spreads, limits, and [liquidity](../mfb-lx-26.10.md#term-liquidity) constraints;
 - data collected and privacy consequences;
 - compatibility and device requirements;
 - failure and support process;
@@ -2492,7 +2496,7 @@ Invite a qualified local expert when needed. Brief them on the competencies, no-
 
 #### 5. Design Presentation → Practice → Production
 
-**Presentation:** Demonstrate the complete local path, including the non-Bitcoin alternative, costs, [custody](mfb-bd-lx.md#term-custody), failure points, and stop conditions.
+**Presentation:** Demonstrate the complete local path, including the non-Bitcoin alternative, costs, [custody](../mfb-lx-26.10.md#term-custody), failure points, and stop conditions.
 
 **Practice:** Learners rehearse with printed materials, a simulation, test environment, or approved low-stakes setup.
 
@@ -2537,9 +2541,9 @@ Do not deliver a live module until every required answer is satisfactory.
 | Readiness question | Ready when | If not ready |
 | --- | --- | --- |
 | Is the need real and relevant? | The educator can describe the local problem without relying on a product pitch. | Select a better need or use a comparative scenario. |
-| Is the competency clear? | The task maps to concepts from **Modules 1–3** and an approved `C11` variant, including `C11.1` and `C11.2`. | Do not use it for certification. |
+| Is the competency clear? | The task maps to concepts from **Modules 1–3** and an approved `C7` variant, including `C7.1` and `C7.2`. | Do not use it for certification. |
 | Is the educator competent? | The educator can demonstrate, troubleshoot safely, and explain limitations. | Use a qualified expert, simulation, or different module. |
-| Is the tool verified? | Source, [custody](mfb-bd-lx.md#term-custody), recovery, fees, [privacy](mfb-bd-lx.md#term-privacy), compatibility, and failure behavior were checked recently. | Use printed screens or remove the tool. |
+| Is the tool verified? | Source, [custody](../mfb-lx-26.10.md#term-custody), recovery, fees, [privacy](../mfb-lx-26.10.md#term-privacy), compatibility, and failure behavior were checked recently. | Use printed screens or remove the tool. |
 | Are local rules understood? | Relevant claims are supported by authoritative current guidance. | State uncertainty and avoid live action requiring that guidance. |
 | Is practice low-risk? | No real secrets are exposed and loss, privacy, or physical risk is controlled. | Use no funds, a simulation, or a prepared environment. |
 | Is access equitable? | Learners can participate despite device, language, disability, or connectivity constraints. | Prepare an equivalent accessible pathway. |
@@ -2562,11 +2566,11 @@ Complete this before delivery.
 | Problem → Solution → Action concepts to connect |  |
 | Learner profile and access needs |  |
 | **Modules 1–3** concepts connected |  |
-| `C11` observable task |  |
-| `C11.1` / `C11.2` required verification and explanation |  |
+| `C7` observable task |  |
+| `C7.1` / `C7.2` required verification and explanation |  |
 | Existing non-Bitcoin alternative |  |
 | Tool, version, source, and date checked |  |
-| [Custody](mfb-bd-lx.md#term-custody) and recovery model |  |
+| [Custody](../mfb-lx-26.10.md#term-custody) and recovery model |  |
 | Fees, spreads, limits, and timing |  |
 | Privacy and identity data |  |
 | Local legal, tax, accounting, or reporting context |  |
@@ -2584,10 +2588,10 @@ Complete this before delivery.
 | Time | Learning move | Educator action |
 | ---: | --- | --- |
 | 0–12 min | Local need | Present the problem and current path; invite learner experience without requiring disclosure. |
-| 12–28 min | Connect the learning | Identify the **Module 1** problem, **Module 2** response, **Module 3** safe action, money function, [custody](mfb-bd-lx.md#term-custody), payment rail, and realistic existing alternative. |
-| 28–48 min | Complete demonstration | Show both success and failure paths; explain costs, [privacy](mfb-bd-lx.md#term-privacy), recovery, and stop conditions. |
+| 12–28 min | Connect the learning | Identify the **Module 1** problem, **Module 2** response, **Module 3** safe action, money function, [custody](../mfb-lx-26.10.md#term-custody), payment rail, and realistic existing alternative. |
+| 28–48 min | Complete demonstration | Show both success and failure paths; explain costs, [privacy](../mfb-lx-26.10.md#term-privacy), recovery, and stop conditions. |
 | 48–70 min | Supported practice | Learners rehearse in pairs or stations with educator feedback. |
-| 70–90 min | Comparison and local trade-offs | Compare the Bitcoin path with the current alternative through total received, time, fees, [custody](mfb-bd-lx.md#term-custody), [privacy](mfb-bd-lx.md#term-privacy), reversibility, and failure. |
+| 70–90 min | Comparison and local trade-offs | Compare the Bitcoin path with the current alternative through total received, time, fees, [custody](../mfb-lx-26.10.md#term-custody), [privacy](../mfb-lx-26.10.md#term-privacy), reversibility, and failure. |
 | 90–110 min | Production or assessment | Observe the approved individual or team task while preserving identifiable evidence. |
 | 110–118 min | Explanation and peer question | Learner explains purpose, benefit, risk, failure point, and next step. |
 | 118–120 min | Course bridge | Prepare the final reflection and any reassessment. |
@@ -2601,13 +2605,13 @@ Do not demonstrate a tool simply because it is popular locally. Use this compari
 | Area | Question |
 | --- | --- |
 | Purpose | Which problem does the tool solve, and is it needed? |
-| [Custody](mfb-bd-lx.md#term-custody) | Who controls keys and funds? |
+| [Custody](../mfb-lx-26.10.md#term-custody) | Who controls keys and funds? |
 | Source | Who publishes it, and how was the genuine source verified? |
 | Code and maintenance | Is it open source, reviewed, maintained, and updated safely? |
 | Recovery | What happens when the device, service, or company disappears? |
-| [Privacy](mfb-bd-lx.md#term-privacy) | Which identity, contact, device, location, and transaction data are collected? |
+| [Privacy](../mfb-lx-26.10.md#term-privacy) | Which identity, contact, device, location, and transaction data are collected? |
 | Cost | Which visible fees, spreads, subscriptions, funding costs, and withdrawal costs apply? |
-| Compatibility | Which networks, [address types](mfb-bd-lx.md#term-address-type), invoices, backups, and devices work? |
+| Compatibility | Which networks, [address types](../mfb-lx-26.10.md#term-address-type), invoices, backups, and devices work? |
 | Support | Can learners obtain help without sharing secrets? |
 | Law and records | Which local restrictions, consumer rules, tax, accounting, or reporting duties may matter? |
 | Alternative | What can learners use if the tool fails or is unavailable? |
@@ -2624,8 +2628,8 @@ Before a Lightning workshop, verify and explain:
 - how it is funded;
 - whether funding or withdrawal uses an on-chain transaction or service;
 - recovery and continuity if the provider or device fails;
-- whether the request is an invoice, supported [Lightning address](mfb-bd-lx.md#term-lightning-address), or another type;
-- amount, unit, recipient, expiry, fee, limits, and [liquidity](mfb-bd-lx.md#term-lightning-liquidity) considerations;
+- whether the request is an invoice, supported [Lightning address](../mfb-lx-26.10.md#term-lightning-address), or another type;
+- amount, unit, recipient, expiry, fee, limits, and [liquidity](../mfb-lx-26.10.md#term-lightning-liquidity) considerations;
 - what success, pending, expiry, or failure looks like;
 - how both parties independently confirm the result; and
 - the offline simulation.
@@ -2642,7 +2646,7 @@ USE: Shared Student Guide master.
 
 **Purpose:** Compare the complete route for an existing local payment, an on-chain path, and a Lightning path where appropriate.
 
-**Setup:** Use a realistic invented payment amount and recipient. Prepare dated local fee, exchange, timing, [custody](mfb-bd-lx.md#term-custody), and access information. If data cannot be verified, clearly label it hypothetical.
+**Setup:** Use a realistic invented payment amount and recipient. Prepare dated local fee, exchange, timing, [custody](../mfb-lx-26.10.md#term-custody), and access information. If data cannot be verified, clearly label it hypothetical.
 
 **Learner task:** Complete:
 
@@ -2652,15 +2656,15 @@ USE: Shared Student Guide master.
 | Total amount received |  |  |  |
 | Time and settlement expectation |  |  |  |
 | Fees and spread |  |  |  |
-| [Custody](mfb-bd-lx.md#term-custody) at each stage |  |  |  |
-| Identity and [privacy](mfb-bd-lx.md#term-privacy) |  |  |  |
+| [Custody](../mfb-lx-26.10.md#term-custody) at each stage |  |  |  |
+| Identity and [privacy](../mfb-lx-26.10.md#term-privacy) |  |  |  |
 | Reversal or refund |  |  |  |
 | Main failure point |  |  |  |
 | Local support or law |  |  |  |
 
 **Production:** The learner chooses a path for the invented case, demonstrates or sequences the relevant payment request and verification, and explains why the other path might be better under a changed condition.
 
-**Debrief:** Did Bitcoin improve the complete route, or only one visible step? Who bears volatility, conversion, [custody](mfb-bd-lx.md#term-custody), and failure risk?
+**Debrief:** Did Bitcoin improve the complete route, or only one visible step? Who bears volatility, conversion, [custody](../mfb-lx-26.10.md#term-custody), and failure risk?
 
 **Safety:** No real transfer or named provider is required. Use printed payment information.
 
@@ -2688,12 +2692,12 @@ USE: Shared Student Guide master.
 
 **Learner decisions:**
 
-- Is the obligation priced in local [currency](mfb-bd-lx.md#term-currency), bitcoin, or [sats](mfb-bd-lx.md#term-sat)?
+- Is the obligation priced in local [currency](../mfb-lx-26.10.md#term-currency), bitcoin, or [sats](../mfb-lx-26.10.md#term-sat)?
 - When is the exchange rate fixed?
 - Who pays fees and spreads?
-- Does the recipient want bitcoin or local [currency](mfb-bd-lx.md#term-currency)?
+- Does the recipient want bitcoin or local [currency](../mfb-lx-26.10.md#term-currency)?
 - Who controls keys at each stage?
-- Which path provides [liquidity](mfb-bd-lx.md#term-liquidity) or conversion?
+- Which path provides [liquidity](../mfb-lx-26.10.md#term-liquidity) or conversion?
 - Is either fiat payment reversible?
 - What records or tax treatment may apply?
 - What happens if a service delays or prevents withdrawal?
@@ -2709,9 +2713,9 @@ USE: Shared Student Guide master.
 
 Cover:
 
-- display [currency](mfb-bd-lx.md#term-currency) and exchange-rate timing;
+- display [currency](../mfb-lx-26.10.md#term-currency) and exchange-rate timing;
 - on-chain, Lightning, or both;
-- [custody](mfb-bd-lx.md#term-custody) and staff permissions;
+- [custody](../mfb-lx-26.10.md#term-custody) and staff permissions;
 - receive-device security;
 - customer and merchant confirmation;
 - receipts and records;
@@ -2745,9 +2749,9 @@ Learners decide:
 - which donor information should remain private;
 - what records may be required;
 - how a mistaken or fraudulent request is handled; and
-- what happens if the [custodian](mfb-bd-lx.md#term-custodian), device, or service fails.
+- what happens if the [custodian](../mfb-lx-26.10.md#term-custodian), device, or service fails.
 
-**Production:** Demonstrate a verified sample donation request and explain [custody](mfb-bd-lx.md#term-custody), transparency, [privacy](mfb-bd-lx.md#term-privacy), and the main failure point.
+**Production:** Demonstrate a verified sample donation request and explain [custody](../mfb-lx-26.10.md#term-custody), transparency, [privacy](../mfb-lx-26.10.md#term-privacy), and the main failure point.
 
 **Safety:** Do not collect real donations during an assessment unless an approved organizational process, consent, records, and legal review already exist. A simulation usually serves the learning competency better.
 
@@ -2761,7 +2765,7 @@ Ask:
 
 - What identity data are collected?
 - Who stores them and for how long?
-- What is the full [price](mfb-bd-lx.md#term-price), spread, fee, and withdrawal cost?
+- What is the full [price](../mfb-lx-26.10.md#term-price), spread, fee, and withdrawal cost?
 - Can bitcoin be withdrawn to a wallet the learner controls?
 - When is the fiat side final or reversible?
 - What fraud, counterparty, physical, and privacy risk exists?
@@ -2776,7 +2780,7 @@ USE: Shared Student Guide master.
 
 **Production:** The learner chooses a path for an invented case, sequences the safe checks, and explains which risk is reduced and which is added.
 
-**Safety:** Do not facilitate an actual peer-to-peer cash trade as a default classroom exercise. Never direct learners to evade [KYC](mfb-bd-lx.md#term-kyc), tax, exchange, or other local rules.
+**Safety:** Do not facilitate an actual peer-to-peer cash trade as a default classroom exercise. Never direct learners to evade [KYC](../mfb-lx-26.10.md#term-kyc), tax, exchange, or other local rules.
 
 ### Module option G: circular economy and local resource map
 
@@ -2791,7 +2795,7 @@ Map:
 5. who controls keys at each stage;
 6. who provides education and technical support;
 7. what happens when internet or electricity fails;
-8. what [price](mfb-bd-lx.md#term-price), [custody](mfb-bd-lx.md#term-custody), fraud, and privacy risks participants carry; and
+8. what [price](../mfb-lx-26.10.md#term-price), [custody](../mfb-lx-26.10.md#term-custody), fraud, and privacy risks participants carry; and
 9. whether the loop depends on giveaways or one organizer.
 
 <!-- VISUAL: BD-V-065
@@ -2815,18 +2819,18 @@ For resource discovery, verify:
 
 ### Community custody and shared funds
 
-If one person or group controls bitcoin for others, they are acting as a [custodian](mfb-bd-lx.md#term-custodian). Explain the added responsibilities:
+If one person or group controls bitcoin for others, they are acting as a [custodian](../mfb-lx-26.10.md#term-custodian). Explain the added responsibilities:
 
 - authorization rules;
 - separation of duties;
 - backup and succession;
 - records and transparency;
-- [privacy](mfb-bd-lx.md#term-privacy) and access control;
+- [privacy](../mfb-lx-26.10.md#term-privacy) and access control;
 - dispute and loss handling;
 - legal status; and
 - concentration of trust.
 
-Do not turn [community-custody](mfb-bd-lx.md#term-community-custody) design into a beginner implementation exercise. Use a scenario and seek appropriate legal and security review.
+Do not turn [community-custody](../mfb-lx-26.10.md#term-community-custody) design into a beginner implementation exercise. Use a scenario and seek appropriate legal and security review.
 
 <!-- VISUAL: BD-V-096
 ALT: Contributors depend on whoever controls shared funds. A role map separates key control, spending authority, records, and review and highlights concentrated trust, continuity, privacy, dispute, and legal questions.
@@ -2856,29 +2860,29 @@ USE: Educator-only diagram; see the asset index brief.
 
 - Starting with a fashionable tool instead of a need.
 - Treating a named wallet, exchange, map, merchant, or community as an endorsement.
-- Using outdated fees, versions, [custody](mfb-bd-lx.md#term-custody) claims, legal information, or listings.
+- Using outdated fees, versions, [custody](../mfb-lx-26.10.md#term-custody) claims, legal information, or listings.
 - Comparing only an advertised fee rather than total received and the complete path.
-- Ignoring [custody](mfb-bd-lx.md#term-custody) during conversion, funding, or withdrawal.
+- Ignoring [custody](../mfb-lx-26.10.md#term-custody) during conversion, funding, or withdrawal.
 - Treating one successful payment as proof of security or usefulness.
-- Assuming Lightning convenience means [self-custody](mfb-bd-lx.md#term-self-custody).
-- Treating [KYC](mfb-bd-lx.md#term-kyc) or [no-KYC](mfb-bd-lx.md#term-no-kyc) as universally superior.
+- Assuming Lightning convenience means [self-custody](../mfb-lx-26.10.md#term-self-custody).
+- Treating [KYC](../mfb-lx-26.10.md#term-kyc) or [no-KYC](../mfb-lx-26.10.md#term-no-kyc) as universally superior.
 - Ignoring accounting, tax, employment, privacy, or consumer context.
 - Pressuring merchants, workers, or learners to participate.
 - Counting adoption or transaction volume without testing whether a real problem is solved.
-- Building around one trusted organizer without naming the [custody](mfb-bd-lx.md#term-custody) dependence.
+- Building around one trusted organizer without naming the [custody](../mfb-lx-26.10.md#term-custody) dependence.
 - Having no offline, no-funds, refund, failure, or support process.
 - Assuming that a local example applies globally.
 
 ### Module 4 evidence
 
-The selected local activity should let the educator notice the `C11` competency as the learner:
+The selected local activity should let the educator notice the `C7` competency as the learner:
 
 - identify the local purpose;
 - complete the required action or simulation in the correct sequence;
 - verify the relevant recipient, address, invoice, amount, unit, fee, status, or resource;
-- preserve [privacy](mfb-bd-lx.md#term-privacy) and secrets;
+- preserve [privacy](../mfb-lx-26.10.md#term-privacy) and secrets;
 - respond safely to a failure or changed condition;
-- explain [custody](mfb-bd-lx.md#term-custody) and control;
+- explain [custody](../mfb-lx-26.10.md#term-custody) and control;
 - compare the Bitcoin path with a realistic alternative;
 - identify the strongest benefit and most serious risk;
 - name a relevant local condition or limit; and
@@ -2893,7 +2897,7 @@ For review, each learner or team may present:
 - local need;
 - current alternative;
 - Bitcoin path;
-- [custody](mfb-bd-lx.md#term-custody) at each stage;
+- [custody](../mfb-lx-26.10.md#term-custody) at each stage;
 - strongest benefit;
 - most serious risk;
 - main failure point;
@@ -2903,11 +2907,11 @@ For review, each learner or team may present:
 
 Ask another learner to pose one verification question and identify one trade-off.
 
-Team presentation does not provide individual certification evidence. Each learner seeking certification must produce individually identifiable practical evidence against the `C11` rubric, including `C11.1` and `C11.2`, under direct observation by an educator.
+Team presentation does not provide individual certification evidence. Each learner seeking certification must produce individually identifiable practical evidence against the `C7` rubric, including `C7.1` and `C7.2`, under direct observation by an educator.
 
 Close with:
 
-> Bitcoin can function as money when people voluntarily use it to earn, save, receive, send, spend, [price](mfb-bd-lx.md#term-price), or settle value. The Connect stage begins with a real need, compares a realistic alternative, makes [custody](mfb-bd-lx.md#term-custody) and costs clear, respects local law and safety, and leaves people free to decide.
+> Bitcoin can function as money when people voluntarily use it to earn, save, receive, send, spend, [price](../mfb-lx-26.10.md#term-price), or settle value. The Connect stage begins with a real need, compares a realistic alternative, makes [custody](../mfb-lx-26.10.md#term-custody) and costs clear, respects local law and safety, and leaves people free to decide.
 
 ---
 
@@ -2941,12 +2945,12 @@ Document material changes so another educator can see what was localized and why
 
 | Stable curriculum concept | Changing local fact |
 | --- | --- |
-| A [bank deposit](mfb-bd-lx.md#term-bank-deposit) is a claim on a bank | Local deposit-protection limit and eligibility |
-| [Inflation](mfb-bd-lx.md#term-inflation) measures use a selected basket and method | Current local rate, basket weights, and publication methodology |
-| A [CBDC](mfb-bd-lx.md#term-cbdc) is central-bank-issued fiat | Whether the local central bank is researching, piloting, or issuing one |
-| [Custody](mfb-bd-lx.md#term-custody) means control of keys | The [custody](mfb-bd-lx.md#term-custody) model of a current wallet version |
-| Fees and [liquidity](mfb-bd-lx.md#term-liquidity) affect payment paths | Current fee estimates, service spreads, and [Lightning liquidity](mfb-bd-lx.md#term-lightning-liquidity) |
-| [KYC](mfb-bd-lx.md#term-kyc) and [no-KYC](mfb-bd-lx.md#term-no-kyc) create different trade-offs | Current identity rules and legal requirements |
+| A [bank deposit](../mfb-lx-26.10.md#term-bank-deposit) is a claim on a bank | Local deposit-protection limit and eligibility |
+| [Inflation](../mfb-lx-26.10.md#term-inflation) measures use a selected basket and method | Current local rate, basket weights, and publication methodology |
+| A [CBDC](../mfb-lx-26.10.md#term-cbdc) is central-bank-issued fiat | Whether the local central bank is researching, piloting, or issuing one |
+| [Custody](../mfb-lx-26.10.md#term-custody) means control of keys | The [custody](../mfb-lx-26.10.md#term-custody) model of a current wallet version |
+| Fees and [liquidity](../mfb-lx-26.10.md#term-liquidity) affect payment paths | Current fee estimates, service spreads, and [Lightning liquidity](../mfb-lx-26.10.md#term-lightning-liquidity) |
+| [KYC](../mfb-lx-26.10.md#term-kyc) and [no-KYC](../mfb-lx-26.10.md#term-no-kyc) create different trade-offs | Current identity rules and legal requirements |
 | Map listings can become stale | Whether a local merchant accepts Bitcoin today |
 
 Date changing facts and tell learners what may change. When preparing a local example, you can ask the [Bitcoin Diploma AI assistant](https://ai.myfirstbitcoin.org) to suggest which claims need checking and what evidence to seek. Open the original sources yourself, confirm that they support each claim, and record the source and date; an AI response is not evidence that a fact is current.
@@ -2974,7 +2978,7 @@ When naming a local example:
 
 - explain why it was selected for the learning competency;
 - state the date and version checked;
-- identify [custody](mfb-bd-lx.md#term-custody) and key dependencies;
+- identify [custody](../mfb-lx-26.10.md#term-custody) and key dependencies;
 - include one alternative or offline route;
 - disclose any educator or organization relationship;
 - avoid ranking, affiliate language, or promotional claims;
@@ -3009,21 +3013,21 @@ Avoid idioms and metaphors that cannot travel cleanly. If using an analogy, alwa
 
 Pay particular attention to:
 
-- money versus [currency](mfb-bd-lx.md#term-currency);
-- [asset](mfb-bd-lx.md#term-asset), claim, [liability](mfb-bd-lx.md#term-liability), [liquidity](mfb-bd-lx.md#term-liquidity), and [solvency](mfb-bd-lx.md#term-solvency);
-- [inflation](mfb-bd-lx.md#term-inflation) and [purchasing power](mfb-bd-lx.md#term-purchasing-power);
-- [decentralization](mfb-bd-lx.md#term-decentralization) and peer-to-peer;
-- [proof of work](mfb-bd-lx.md#term-proof-of-work) and verification;
-- wallet, [custody](mfb-bd-lx.md#term-custody), and [self-custody](mfb-bd-lx.md#term-self-custody);
-- [private key](mfb-bd-lx.md#term-private-key), [seed phrase](mfb-bd-lx.md#term-seed-phrase), and recovery;
+- money versus [currency](../mfb-lx-26.10.md#term-currency);
+- [asset](../mfb-lx-26.10.md#term-asset), claim, [liability](../mfb-lx-26.10.md#term-liability), [liquidity](../mfb-lx-26.10.md#term-liquidity), and [solvency](../mfb-lx-26.10.md#term-solvency);
+- [inflation](../mfb-lx-26.10.md#term-inflation) and [purchasing power](../mfb-lx-26.10.md#term-purchasing-power);
+- [decentralization](../mfb-lx-26.10.md#term-decentralization) and peer-to-peer;
+- [proof of work](../mfb-lx-26.10.md#term-proof-of-work) and verification;
+- wallet, [custody](../mfb-lx-26.10.md#term-custody), and [self-custody](../mfb-lx-26.10.md#term-self-custody);
+- [private key](../mfb-lx-26.10.md#term-private-key), [seed phrase](../mfb-lx-26.10.md#term-seed-phrase), and recovery;
 - address, invoice, and payment request;
-- [confirmation](mfb-bd-lx.md#term-confirmation) and finality;
+- [confirmation](../mfb-lx-26.10.md#term-confirmation) and finality;
 - on-chain and Lightning;
-- [privacy](mfb-bd-lx.md#term-privacy) and anonymity;
-- [KYC](mfb-bd-lx.md#term-kyc) and [no-KYC](mfb-bd-lx.md#term-no-kyc); and
+- [privacy](../mfb-lx-26.10.md#term-privacy) and anonymity;
+- [KYC](../mfb-lx-26.10.md#term-kyc) and [no-KYC](../mfb-lx-26.10.md#term-no-kyc); and
 - trade-off, risk, and uncertainty.
 
-Use the definitions in the [Lexicon](mfb-bd-lx.md).
+Use the definitions in the [Lexicon](../mfb-lx-26.10.md).
 
 My First Bitcoin prefers in-person Diploma sessions because direct educator contact and greater opportunity for practical activities can make learning more engaging and natural. This is a preference, not a requirement. Online delivery can be more affordable, scalable, and achievable for many people, so educators should support either mode appropriately.
 
@@ -3083,7 +3087,7 @@ Use peer interaction for learning, not peer certification.
 
 Invite experienced learners to explain reasoning, not take over devices or provide advice. Give them extension questions about trade-offs, verification, teaching clarity, and safe boundaries. Do not let familiarity exempt them from required evidence.
 
-Protect beginners from jargon and status competition. A person can know market language while lacking [custody](mfb-bd-lx.md#term-custody) safety, or perform wallet steps while misunderstanding why they matter.
+Protect beginners from jargon and status competition. A person can know market language while lacking [custody](../mfb-lx-26.10.md#term-custody) safety, or perform wallet steps while misunderstanding why they matter.
 
 ---
 
@@ -3107,17 +3111,13 @@ Use the linked activities below as possible learning or individual-evidence cont
 
 | Assessment Grid competency | Protocol task | Activities that can support the task | Required addition or limit |
 | --- | --- | --- | --- |
-| `C1` Money and comparison | `T1` | [Iterative Barter Game](https://programs.myfirstbitcoin.org/activities/en/iterative-barter-game/), [Why Do We Need Money?](https://programs.myfirstbitcoin.org/activities/en/), [Barter Game](https://programs.myfirstbitcoin.org/activities/en/) | Ask each learner to explain why money is used and compare two forms using relevant properties. |
-| `C2` Modern-money trade-off | `T1` | No current activity is suitable as assessment evidence. | Use the protocol's verified local or realistic scenario. Do not reduce the criterion to a one-cause claim about [prices](mfb-bd-lx.md#term-price), money creation, or banking. |
-| `C3` Digital [double spending](mfb-bd-lx.md#term-double-spending) | `T2` | [Consensus](https://programs.myfirstbitcoin.org/activities/en/consensus/), [Transactions in Action](https://programs.myfirstbitcoin.org/activities/en/transactions-in-action/), [Consensus Building in a Peer-to-Peer Network](https://programs.myfirstbitcoin.org/activities/en/), [Bitcoin Transactions in Action](https://programs.myfirstbitcoin.org/activities/en/transactions-in-action/) | Ask each learner to explain the digital-copy problem and how shared verification helps address it. |
-| `C4` Bitcoin rules and money properties | `T2` | [Consensus](https://programs.myfirstbitcoin.org/activities/en/consensus/), [Transactions in Action](https://programs.myfirstbitcoin.org/activities/en/transactions-in-action/), [Is Bitcoin Sound Money?](https://programs.myfirstbitcoin.org/activities/en/), [Verification](https://programs.myfirstbitcoin.org/activities/en/), [Generate SHA-256 Hash](https://programs.myfirstbitcoin.org/activities/en/generate-sha-256-hash/) | Combine the relevant activity evidence with an individual rule-and-role map and a qualified [sound-money](mfb-bd-lx.md#term-sound-money) judgement. No one activity covers all `C4` criteria. |
-| `C5` Guided digital-asset comparison | `T2` | No current activity is suitable as assessment evidence. | Use the protocol's guided, non-promotional comparison and distinguish learning or responsible use from trading, promotion, or speculation. |
-| `C6` Wallet information and [custody](mfb-bd-lx.md#term-custody) | `T3` | [Evaluate Bitcoin Wallets](https://programs.myfirstbitcoin.org/activities/en/), [Creating Your First Bitcoin Wallet](https://programs.myfirstbitcoin.org/activities/en/setting-up-recovering-a-wallet/) | Require an individual custody-and-secrets explanation. Do not ask learners to select a real wallet or disclose a secret. |
-| `C7` Safe response to risk | `T3` | No current activity is suitable as assessment evidence. | Use the protocol's scam or error scenario and record the learner's safe stop, verify, or seek-help response. |
-| `C8` Payment and access pathways | `T3` | [Exploring the Mempool](https://programs.myfirstbitcoin.org/activities/en/exploring-the-mempool/), [Lightning Relay Race](https://programs.myfirstbitcoin.org/activities/en/lightning-relay-race/) | Require an individual on-chain and Lightning comparison plus a non-recommendatory pathway decision. The Relay Race needs its safety changes before use. |
-| `C9` Supported first access and receipt | `P9` | [Lightning Relay Race](https://programs.myfirstbitcoin.org/activities/en/lightning-relay-race/), [Creating Your First Bitcoin Wallet](https://programs.myfirstbitcoin.org/activities/en/setting-up-recovering-a-wallet/) | Use only an approved prepared, low-stakes or simulated variant. Do not require real funds, a learner-owned wallet or device, or a personal secret. |
-| `C10` Recovery readiness | `P10` | [Creating Your First Bitcoin Wallet](https://programs.myfirstbitcoin.org/activities/en/setting-up-recovering-a-wallet/), restoration route only | Use a prepared recovery-readiness simulation. Never collect, view, or record a learner's [recovery phrase](mfb-bd-lx.md#term-seed-phrase), [private key](mfb-bd-lx.md#term-private-key), password, or balance. |
-| `C11` Connect: local Bitcoin-as-money task | `P11` | No current activity is suitable as assessment evidence. | Select and approve a local Connect task under the protocol before delivery. It must include direct observation, safe verification, a realistic alternative, and individual explanation. |
+| `C1` Money and modern-money trade-offs | `T1` | [Iterative Barter Game](https://programs.myfirstbitcoin.org/activities/en/iterative-barter-game/), [Why Do We Need Money?](https://programs.myfirstbitcoin.org/activities/en/), [Barter Game](https://programs.myfirstbitcoin.org/activities/en/) | Add an individual comparison and a verified local or realistic modern-money scenario; activity participation alone does not cover all three look-fors. |
+| `C2` Bitcoin foundations and rules | `T2` | [Consensus](https://programs.myfirstbitcoin.org/activities/en/consensus/), [Transactions in Action](https://programs.myfirstbitcoin.org/activities/en/transactions-in-action/), [Is Bitcoin Sound Money?](https://programs.myfirstbitcoin.org/activities/en/), [Verification](https://programs.myfirstbitcoin.org/activities/en/) | Add an individual copying/verification explanation, rule-and-role map, and qualified money-property judgment. |
+| `C3` Guided digital-asset comparison | `T2` | No current activity is suitable as assessment evidence. | Use the protocol's guided, non-promotional comparison and distinguish learning or responsible use from trading, promotion, or speculation. |
+| `C4` Wallets, custody, and safety | `T3` | [Evaluate Bitcoin Wallets](https://programs.myfirstbitcoin.org/activities/en/), [Creating Your First Bitcoin Wallet](https://programs.myfirstbitcoin.org/activities/en/setting-up-recovering-a-wallet/) | Require individual custody-and-secrets explanation, wallet-type distinction, and safe response to a scam or error scenario. |
+| `C5` Payment and access pathways | `T3` | [Exploring the Mempool](https://programs.myfirstbitcoin.org/activities/en/exploring-the-mempool/), [Lightning Relay Race](https://programs.myfirstbitcoin.org/activities/en/lightning-relay-race/) | Require an individual on-chain and Lightning comparison plus a non-recommendatory pathway decision. The Relay Race needs its safety changes before use. |
+| `C6` Safe access and recovery readiness | `P6a` and `P6b` | [Lightning Relay Race](https://programs.myfirstbitcoin.org/activities/en/lightning-relay-race/), [Creating Your First Bitcoin Wallet](https://programs.myfirstbitcoin.org/activities/en/setting-up-recovering-a-wallet/) | Observe a prepared first-access/receipt task and a separate recovery-readiness simulation before recording one result. Never collect, view, or record a learner's real secret or balance. |
+| `C7` Connect: local Bitcoin-as-money task | `P7` | No current activity is suitable as assessment evidence. | Select and approve a local Connect task under the protocol before delivery. It must include direct observation, safe verification, a realistic alternative, and individual explanation. |
 
 ### Activity selection questions
 
@@ -3165,7 +3165,7 @@ Do not retain an activity only because it is familiar. Keep it when it improves 
 
 You may change:
 
-- names, places, objects, [currency](mfb-bd-lx.md#term-currency) units, and local payment methods;
+- names, places, objects, [currency](../mfb-lx-26.10.md#term-currency) units, and local payment methods;
 - group size and roles;
 - oral, written, visual, or tactile response format;
 - live tool versus prepared screen;
@@ -3225,25 +3225,25 @@ After showing it:
 Educator-useful visual areas include:
 
 - functions versus properties of money;
-- [barter](mfb-bd-lx.md#term-barter) and double coincidence;
+- [barter](../mfb-lx-26.10.md#term-barter) and double coincidence;
 - local fiat roles and bank balance sheets;
-- [liquidity](mfb-bd-lx.md#term-liquidity) versus [solvency](mfb-bd-lx.md#term-solvency);
-- [inflation](mfb-bd-lx.md#term-inflation) and [purchasing power](mfb-bd-lx.md#term-purchasing-power);
-- Bitcoin roles and [proof of work](mfb-bd-lx.md#term-proof-of-work);
-- supply, [halvings](mfb-bd-lx.md#term-halving), and [sats](mfb-bd-lx.md#term-sat);
+- [liquidity](../mfb-lx-26.10.md#term-liquidity) versus [solvency](../mfb-lx-26.10.md#term-solvency);
+- [inflation](../mfb-lx-26.10.md#term-inflation) and [purchasing power](../mfb-lx-26.10.md#term-purchasing-power);
+- Bitcoin roles and [proof of work](../mfb-lx-26.10.md#term-proof-of-work);
+- supply, [halvings](../mfb-lx-26.10.md#term-halving), and [sats](../mfb-lx-26.10.md#term-sat);
 - fiat issue / Bitcoin response / responsibility;
 - wallet, key, address, and seed relationships;
 - safe recovery and transaction checks;
-- [confirmations](mfb-bd-lx.md#term-confirmation), explorer [privacy](mfb-bd-lx.md#term-privacy), and address reuse;
+- [confirmations](../mfb-lx-26.10.md#term-confirmation), explorer [privacy](../mfb-lx-26.10.md#term-privacy), and address reuse;
 - scam red flags;
 - on-chain and Lightning comparison;
 - Presentation → Practice → Production;
 - local payment paths, merchant flows, and circular economies; and
 - final safety and next steps.
 
-Never display a real learner [seed phrase](mfb-bd-lx.md#term-seed-phrase), [private key](mfb-bd-lx.md#term-private-key), payable address, invoice, balance, identity, or transaction. Mark fictional payment data **SAMPLE — DO NOT PAY**.
+Never display a real learner [seed phrase](../mfb-lx-26.10.md#term-seed-phrase), [private key](../mfb-lx-26.10.md#term-private-key), payable address, invoice, balance, identity, or transaction. Mark fictional payment data **SAMPLE — DO NOT PAY**.
 
-Do not turn a qualified text claim into an absolute visual. A supply chart must not imply [price](mfb-bd-lx.md#term-price) growth. A [decentralization](mfb-bd-lx.md#term-decentralization) map must not imply equal influence. A wallet image must not imply bitcoin is stored inside the device.
+Do not turn a qualified text claim into an absolute visual. A supply chart must not imply [price](../mfb-lx-26.10.md#term-price) growth. A [decentralization](../mfb-lx-26.10.md#term-decentralization) map must not imply equal influence. A wallet image must not imply bitcoin is stored inside the device.
 
 ---
 
@@ -3264,7 +3264,7 @@ Use think–pair–share before whole-group discussion:
 
 Ask learners to support answers with a course concept and an example, not a slogan.
 
-### Final personal learning reflection (`C13`)
+### Final personal learning reflection (`F2`)
 
 Each learner articulates either:
 
@@ -3276,13 +3276,13 @@ The response should:
 - use at least one course concept accurately;
 - connect to an observed, local, or realistic money experience;
 - identify one relevant benefit, risk, question, or trade-off; and
-- avoid an investment or [price](mfb-bd-lx.md#term-price) claim.
+- avoid an investment or [price](../mfb-lx-26.10.md#term-price) claim.
 
-Use the course-ending reflection formatively to support `C13`. Preserve the learner's right to remain uncertain: give feedback on grounded explanation and connection to experience, not enthusiasm, agreement, or an intention to acquire bitcoin. It does not currently contribute to certification.
+Use the course-ending reflection formatively to support `F2`. Preserve the learner's right to remain uncertain: give feedback on grounded explanation and connection to experience, not enthusiasm, agreement, or an intention to acquire bitcoin. It does not currently contribute to certification.
 
 Examples:
 
-> I want to learn more about [self-custody](mfb-bd-lx.md#term-self-custody) because I can now explain the difference between an account balance and control of keys. I am not ready to manage a meaningful amount until I can test recovery safely.
+> I want to learn more about [self-custody](../mfb-lx-26.10.md#term-self-custody) because I can now explain the difference between an account balance and control of keys. I am not ready to manage a meaningful amount until I can test recovery safely.
 
 > I remain uncertain that Bitcoin improves local payments because most merchants here do not accept it and conversion adds cost. I want to compare the complete route with our existing mobile-money option.
 
@@ -3374,7 +3374,7 @@ You can [share an educator testimonial](https://forms.myfirstbitcoin.org/testimo
 
 Before reusing a course plan:
 
-- recheck local laws, rules, [inflation](mfb-bd-lx.md#term-inflation) data, tools, versions, fees, [custody](mfb-bd-lx.md#term-custody) claims, and resources;
+- recheck local laws, rules, [inflation](../mfb-lx-26.10.md#term-inflation) data, tools, versions, fees, [custody](../mfb-lx-26.10.md#term-custody) claims, and resources;
 - remove stale merchant or community listings;
 - review any incident, near miss, or confusing assessment item;
 - update translation notes;
@@ -3388,35 +3388,35 @@ If an activity exposes private information, risks funds, misstates a rule, or en
 
 ## 17. Quick terminology and misconception-sensitive distinctions
 
-Use the [Lexicon](mfb-bd-lx.md) for full definitions. Keep these distinctions consistent in speech, slides, activities, and assessment.
+Use the [Lexicon](../mfb-lx-26.10.md) for full definitions. Keep these distinctions consistent in speech, slides, activities, and assessment.
 
 | Terms | Educator distinction |
 | --- | --- |
-| Money / [currency](mfb-bd-lx.md#term-currency) | Money is the broader tool or [asset](mfb-bd-lx.md#term-asset) used for exchange, account, and value across time; [currency](mfb-bd-lx.md#term-currency) is a particular monetary unit or system. |
+| Money / [currency](../mfb-lx-26.10.md#term-currency) | Money is the broader tool or [asset](../mfb-lx-26.10.md#term-asset) used for exchange, account, and value across time; [currency](../mfb-lx-26.10.md#term-currency) is a particular monetary unit or system. |
 | Function / property | A function is what money does; a property is a quality affecting how well it does it. |
-| [Scarcity](mfb-bd-lx.md#term-scarcity) / [value](mfb-bd-lx.md#term-value) | [Scarcity](mfb-bd-lx.md#term-scarcity) limits availability; [value](mfb-bd-lx.md#term-value) also depends on use, demand, preference, information, and context. |
-| [Price inflation](mfb-bd-lx.md#term-price-inflation) / one [price](mfb-bd-lx.md#term-price) increase | [Inflation](mfb-bd-lx.md#term-inflation) is a sustained rise in the general [price](mfb-bd-lx.md#term-price) level; one [price](mfb-bd-lx.md#term-price) may change for many reasons. |
-| [Bank deposit](mfb-bd-lx.md#term-bank-deposit) / physical cash | A [bank deposit](mfb-bd-lx.md#term-bank-deposit) is a claim the bank owes; physical cash is a different form of central-bank or state-issued money depending on the jurisdiction. |
-| [Liquidity](mfb-bd-lx.md#term-liquidity) / [solvency](mfb-bd-lx.md#term-solvency) | [Liquidity](mfb-bd-lx.md#term-liquidity) concerns timely payment; [solvency](mfb-bd-lx.md#term-solvency) concerns whether [assets](mfb-bd-lx.md#term-asset) cover obligations. |
-| [CBDC](mfb-bd-lx.md#term-cbdc) / Bitcoin | A [CBDC](mfb-bd-lx.md#term-cbdc) is centrally issued digital fiat; Bitcoin has no central [issuer](mfb-bd-lx.md#term-issuer) and uses independently verifiable rules. |
-| Bitcoin / bitcoin | **Bitcoin** refers to the network, protocol, or project; **bitcoin** refers to the [asset](mfb-bd-lx.md#term-asset) or units. |
-| [Bitcoin protocol](mfb-bd-lx.md#term-bitcoin-protocol) / [Bitcoin service](mfb-bd-lx.md#term-bitcoin-service) | The protocol is the shared rule system; a wallet, exchange, explorer, or payment company is a separate service or tool. |
-| [Digital signature](mfb-bd-lx.md#term-digital-signature) / [encryption](mfb-bd-lx.md#term-encryption) | A signature proves key authorization; [encryption](mfb-bd-lx.md#term-encryption) hides readable content. |
-| [Miner](mfb-bd-lx.md#term-miner) / [node](mfb-bd-lx.md#term-node) | A [miner](mfb-bd-lx.md#term-miner) proposes [candidate blocks](mfb-bd-lx.md#term-candidate-block) through [proof of work](mfb-bd-lx.md#term-proof-of-work); a [node](mfb-bd-lx.md#term-node) verifies rules. |
+| [Scarcity](../mfb-lx-26.10.md#term-scarcity) / [value](../mfb-lx-26.10.md#term-value) | [Scarcity](../mfb-lx-26.10.md#term-scarcity) limits availability; [value](../mfb-lx-26.10.md#term-value) also depends on use, demand, preference, information, and context. |
+| [Price inflation](../mfb-lx-26.10.md#term-price-inflation) / one [price](../mfb-lx-26.10.md#term-price) increase | [Inflation](../mfb-lx-26.10.md#term-inflation) is a sustained rise in the general [price](../mfb-lx-26.10.md#term-price) level; one [price](../mfb-lx-26.10.md#term-price) may change for many reasons. |
+| [Bank deposit](../mfb-lx-26.10.md#term-bank-deposit) / physical cash | A [bank deposit](../mfb-lx-26.10.md#term-bank-deposit) is a claim the bank owes; physical cash is a different form of central-bank or state-issued money depending on the jurisdiction. |
+| [Liquidity](../mfb-lx-26.10.md#term-liquidity) / [solvency](../mfb-lx-26.10.md#term-solvency) | [Liquidity](../mfb-lx-26.10.md#term-liquidity) concerns timely payment; [solvency](../mfb-lx-26.10.md#term-solvency) concerns whether [assets](../mfb-lx-26.10.md#term-asset) cover obligations. |
+| [CBDC](../mfb-lx-26.10.md#term-cbdc) / Bitcoin | A [CBDC](../mfb-lx-26.10.md#term-cbdc) is centrally issued digital fiat; Bitcoin has no central [issuer](../mfb-lx-26.10.md#term-issuer) and uses independently verifiable rules. |
+| Bitcoin / bitcoin | **Bitcoin** refers to the network, protocol, or project; **bitcoin** refers to the [asset](../mfb-lx-26.10.md#term-asset) or units. |
+| [Bitcoin protocol](../mfb-lx-26.10.md#term-bitcoin-protocol) / [Bitcoin service](../mfb-lx-26.10.md#term-bitcoin-service) | The protocol is the shared rule system; a wallet, exchange, explorer, or payment company is a separate service or tool. |
+| [Digital signature](../mfb-lx-26.10.md#term-digital-signature) / [encryption](../mfb-lx-26.10.md#term-encryption) | A signature proves key authorization; [encryption](../mfb-lx-26.10.md#term-encryption) hides readable content. |
+| [Miner](../mfb-lx-26.10.md#term-miner) / [node](../mfb-lx-26.10.md#term-node) | A [miner](../mfb-lx-26.10.md#term-miner) proposes [candidate blocks](../mfb-lx-26.10.md#term-candidate-block) through [proof of work](../mfb-lx-26.10.md#term-proof-of-work); a [node](../mfb-lx-26.10.md#term-node) verifies rules. |
 | Developer proposal / rule change | Developers propose software; participants choose whether to adopt it. |
 | Block time / schedule | About ten minutes is a long-run average, not an exact appointment. |
-| Finite supply / [price](mfb-bd-lx.md#term-price) guarantee | A predictable maximum is a supply property; it does not guarantee demand or returns. |
-| [Sound money](mfb-bd-lx.md#term-sound-money) / fact | [Sound money](mfb-bd-lx.md#term-sound-money) is a judgment made through stated criteria and trade-offs. |
-| Wallet / bitcoin storage | A wallet manages keys and transactions; bitcoin remains recorded on the shared [ledger](mfb-bd-lx.md#term-ledger). |
-| Address / [private key](mfb-bd-lx.md#term-private-key) | An address receives; a [private key](mfb-bd-lx.md#term-private-key) authorizes spending. |
-| [Seed phrase](mfb-bd-lx.md#term-seed-phrase) / password | A [seed phrase](mfb-bd-lx.md#term-seed-phrase) may recreate wallet keys and often gives full recovery access; it is not an ordinary resettable password. |
+| Finite supply / [price](../mfb-lx-26.10.md#term-price) guarantee | A predictable maximum is a supply property; it does not guarantee demand or returns. |
+| [Sound money](../mfb-lx-26.10.md#term-sound-money) / fact | [Sound money](../mfb-lx-26.10.md#term-sound-money) is a judgment made through stated criteria and trade-offs. |
+| Wallet / bitcoin storage | A wallet manages keys and transactions; bitcoin remains recorded on the shared [ledger](../mfb-lx-26.10.md#term-ledger). |
+| Address / [private key](../mfb-lx-26.10.md#term-private-key) | An address receives; a [private key](../mfb-lx-26.10.md#term-private-key) authorizes spending. |
+| [Seed phrase](../mfb-lx-26.10.md#term-seed-phrase) / password | A [seed phrase](../mfb-lx-26.10.md#term-seed-phrase) may recreate wallet keys and often gives full recovery access; it is not an ordinary resettable password. |
 | Custodial / self-custodial | The distinction is who controls keys. |
 | Hot / cold | The distinction is key exposure to an online general-purpose environment. |
-| On-chain / Lightning | The distinction is payment path, not [custody](mfb-bd-lx.md#term-custody). |
-| Explorer / [node](mfb-bd-lx.md#term-node) | An explorer is a third-party interface; a [node](mfb-bd-lx.md#term-node) verifies rules independently. |
-| [Confirmation](mfb-bd-lx.md#term-confirmation) / correct payment | A [confirmation](mfb-bd-lx.md#term-confirmation) strengthens settlement history; it does not correct the recipient or validate the purpose. |
-| [Privacy](mfb-bd-lx.md#term-privacy) / secrecy | [Privacy](mfb-bd-lx.md#term-privacy) is control over information; it does not mean an activity has no public data or legal obligations. |
-| [KYC](mfb-bd-lx.md#term-kyc) / [no-KYC](mfb-bd-lx.md#term-no-kyc) | These paths collect different identity information and create different support, privacy, counterparty, fraud, and legal trade-offs. Use **[no-KYC](mfb-bd-lx.md#term-no-kyc)** throughout. |
+| On-chain / Lightning | The distinction is payment path, not [custody](../mfb-lx-26.10.md#term-custody). |
+| Explorer / [node](../mfb-lx-26.10.md#term-node) | An explorer is a third-party interface; a [node](../mfb-lx-26.10.md#term-node) verifies rules independently. |
+| [Confirmation](../mfb-lx-26.10.md#term-confirmation) / correct payment | A [confirmation](../mfb-lx-26.10.md#term-confirmation) strengthens settlement history; it does not correct the recipient or validate the purpose. |
+| [Privacy](../mfb-lx-26.10.md#term-privacy) / secrecy | [Privacy](../mfb-lx-26.10.md#term-privacy) is control over information; it does not mean an activity has no public data or legal obligations. |
+| [KYC](../mfb-lx-26.10.md#term-kyc) / [no-KYC](../mfb-lx-26.10.md#term-no-kyc) | These paths collect different identity information and create different support, privacy, counterparty, fraud, and legal trade-offs. Use **[no-KYC](../mfb-lx-26.10.md#term-no-kyc)** throughout. |
 | Local example / recommendation | A checked local example supports learning; it is not a universal endorsement. |
 
 ---
@@ -3441,15 +3441,15 @@ Use the [Lexicon](mfb-bd-lx.md) for full definitions. Keep these distinctions co
 ### Local context
 
 - [ ] Local fiat-system and banking information is current and sourced.
-- [ ] The official [inflation](mfb-bd-lx.md#term-inflation) measure and basket were checked.
-- [ ] [CBDC](mfb-bd-lx.md#term-cbdc) claims are current and design-specific.
+- [ ] The official [inflation](../mfb-lx-26.10.md#term-inflation) measure and basket were checked.
+- [ ] [CBDC](../mfb-lx-26.10.md#term-cbdc) claims are current and design-specific.
 - [ ] Local tools, fees, services, resources, and listings are dated.
 - [ ] Legal, tax, privacy, and reporting context is framed without advice.
 - [ ] Any local expert can explain the no-promotion and privacy boundaries.
 
 ### Safety and technology
 
-- [ ] No task requires a real learner [seed phrase](mfb-bd-lx.md#term-seed-phrase), key, credential, balance, or history.
+- [ ] No task requires a real learner [seed phrase](../mfb-lx-26.10.md#term-seed-phrase), key, credential, balance, or history.
 - [ ] Training devices and wallets are prepared and reset.
 - [ ] Sample payment information is marked **SAMPLE — DO NOT PAY**.
 - [ ] Live demonstrations have been tested end to end.
@@ -3464,7 +3464,7 @@ Use the [Lexicon](mfb-bd-lx.md) for full definitions. Keep these distinctions co
 - [ ] Learners will have supported practice before I make a final judgement.
 - [ ] I know what to look for, how to ask a helpful follow-up question, and when to mark `MS` or `NY`.
 - [ ] Online, low-tech, and accessibility routes are ready where needed.
-- [ ] Any notes protect [privacy](mfb-bd-lx.md#term-privacy) and are kept to the minimum useful information.
+- [ ] Any notes protect [privacy](../mfb-lx-26.10.md#term-privacy) and are kept to the minimum useful information.
 - [ ] I know how to offer participation or completion certification appropriately.
 
 ---
@@ -3503,7 +3503,7 @@ Use the [Lexicon](mfb-bd-lx.md) for full definitions. Keep these distinctions co
 | Demonstration purpose and competency |  |
 | Tool, version, source, and date checked |  |
 | Network and payment path |  |
-| [Custody](mfb-bd-lx.md#term-custody) and recovery model |  |
+| [Custody](../mfb-lx-26.10.md#term-custody) and recovery model |  |
 | Real value involved, if any |  |
 | Maximum loss and why it is acceptable |  |
 | Fictional or prepared data used |  |
@@ -3588,10 +3588,10 @@ When a question is too advanced:
 
 | Session | Main focus | Essential interaction | Evidence planning |
 | --- | --- | --- | --- |
-| 1 | Understanding Money | Opening questions, money-properties comparison, local fiat and [purchasing-power](mfb-bd-lx.md#term-purchasing-power) discussion | Educator-led **Module 1** theoretical evidence |
-| 2 | How Bitcoin Works | Double-spend scenario, role map, supply and [sound-money](mfb-bd-lx.md#term-sound-money) comparison | Educator-led **Module 2** theoretical evidence |
-| 3 | Using Bitcoin Safely | [Custody](mfb-bd-lx.md#term-custody), public/secret, recovery, receive/send, explorer, scam, and pathway practice | Educator-led theory evidence and direct practical observation |
-| 4 | Connect: Bitcoin in Your Community | Approved local PPP module, connection to the earlier learning, and final reflection | Educator-observed `C11`, including `C11.1`/`C11.2`; formative `C13` reflection; any reassessment |
+| 1 | Understanding Money | Opening questions, money-properties comparison, local fiat and [purchasing-power](../mfb-lx-26.10.md#term-purchasing-power) discussion | Educator-led **Module 1** theoretical evidence |
+| 2 | How Bitcoin Works | Double-spend scenario, role map, supply and [sound-money](../mfb-lx-26.10.md#term-sound-money) comparison | Educator-led **Module 2** theoretical evidence |
+| 3 | Using Bitcoin Safely | [Custody](../mfb-lx-26.10.md#term-custody), public/secret, recovery, receive/send, explorer, scam, and pathway practice | Educator-led theory evidence and direct practical observation |
+| 4 | Connect: Bitcoin in Your Community | Approved local PPP module, connection to the earlier learning, and final reflection | Educator-observed `C7`, including `C7.1`/`C7.2`; formative `F2` reflection; any reassessment |
 
 This model commonly needs extra practical assessment time.
 
@@ -3599,12 +3599,12 @@ This model commonly needs extra practical assessment time.
 
 | Session | Focus |
 | --- | --- |
-| 1 | Why money exists; functions, properties, [barter](mfb-bd-lx.md#term-barter), and choice |
-| 2 | Monetary history, local fiat system, banking, [inflation](mfb-bd-lx.md#term-inflation), [CBDCs](mfb-bd-lx.md#term-cbdc), and review |
-| 3 | Digital-money problem, Bitcoin purpose, roles, and [decentralization](mfb-bd-lx.md#term-decentralization) |
-| 4 | [Proof of work](mfb-bd-lx.md#term-proof-of-work), supply, [sats](mfb-bd-lx.md#term-sat), [sound-money](mfb-bd-lx.md#term-sound-money) comparison, scope, and review |
-| 5 | Wallets, addresses, keys, [seed phrases](mfb-bd-lx.md#term-seed-phrase), [custody](mfb-bd-lx.md#term-custody), and recovery practice |
-| 6 | Receiving, sending, [confirmations](mfb-bd-lx.md#term-confirmation), explorers, [privacy](mfb-bd-lx.md#term-privacy), scams, pathways, and practical assessment |
+| 1 | Why money exists; functions, properties, [barter](../mfb-lx-26.10.md#term-barter), and choice |
+| 2 | Monetary history, local fiat system, banking, [inflation](../mfb-lx-26.10.md#term-inflation), [CBDCs](../mfb-lx-26.10.md#term-cbdc), and review |
+| 3 | Digital-money problem, Bitcoin purpose, roles, and [decentralization](../mfb-lx-26.10.md#term-decentralization) |
+| 4 | [Proof of work](../mfb-lx-26.10.md#term-proof-of-work), supply, [sats](../mfb-lx-26.10.md#term-sat), [sound-money](../mfb-lx-26.10.md#term-sound-money) comparison, scope, and review |
+| 5 | Wallets, addresses, keys, [seed phrases](../mfb-lx-26.10.md#term-seed-phrase), [custody](../mfb-lx-26.10.md#term-custody), and recovery practice |
+| 6 | Receiving, sending, [confirmations](../mfb-lx-26.10.md#term-confirmation), explorers, [privacy](../mfb-lx-26.10.md#term-privacy), scams, pathways, and practical assessment |
 | 7 | Local need, tool/path comparison, presentation, and supported **Module 4** practice |
 | 8 | **Module 4** production, assessment, final reflection, remediation, and next steps |
 
@@ -3616,10 +3616,10 @@ Use only when the cohort and setting support sustained learning. Protect breaks 
 | --- | --- |
 | Opening | Expectations, optional [My First Bitcoin App](https://myfirstbitcoin.app/) and assessment explanation, money questions |
 | Morning 1 | Money foundations and properties activity |
-| Morning 2 | Fiat, banking, [purchasing power](mfb-bd-lx.md#term-purchasing-power), and **Module 1** review |
-| Midday 1 | Bitcoin problem, roles, [proof of work](mfb-bd-lx.md#term-proof-of-work), supply, and [sats](mfb-bd-lx.md#term-sat) |
-| Midday 2 | [Sound-money](mfb-bd-lx.md#term-sound-money) comparison and responsibility bridge |
-| Afternoon 1 | [Custody](mfb-bd-lx.md#term-custody), secrets, recovery, receiving, and sending practice |
+| Morning 2 | Fiat, banking, [purchasing power](../mfb-lx-26.10.md#term-purchasing-power), and **Module 1** review |
+| Midday 1 | Bitcoin problem, roles, [proof of work](../mfb-lx-26.10.md#term-proof-of-work), supply, and [sats](../mfb-lx-26.10.md#term-sat) |
+| Midday 2 | [Sound-money](../mfb-lx-26.10.md#term-sound-money) comparison and responsibility bridge |
+| Afternoon 1 | [Custody](../mfb-lx-26.10.md#term-custody), secrets, recovery, receiving, and sending practice |
 | Afternoon 2 | Verification, scams, educator-curated **Module 4** Connect task, and final reflection |
 | Follow-up | Any remaining educator assessment, individual practical observation, **Not yet** support, formative educator help, and certification review |
 

@@ -8,7 +8,7 @@ Online exercise
 ## Duration
 
 ## Description
-Participants use an online SHA-256 generator to hash a message, repeat the same input, and then alter the message slightly. Comparing the results shows that identical inputs produce identical fixed-length outputs while small changes produce very different hashes, supporting later discussion of one-way hash functions and [proof of work](../mfb-bd-26.10/mfb-bd-lx.md#term-proof-of-work).
+Participants use an online SHA-256 generator to hash a message, repeat the same input, and then alter the message slightly. Comparing the results shows that identical inputs produce identical fixed-length outputs while small changes produce very different hashes, supporting later discussion of one-way hash functions and [proof of work](../mfb-lx-26.10.md#term-proof-of-work).
 ## Objectives
 
 - Participants observe that SHA-256 hashes are repeatable, fixed in length, and highly sensitive to input changes.
@@ -33,7 +33,7 @@ The same message produces the same hash; small changes produce a very different 
 
 ## Notes
 
-**Diploma assessment link:** May provide the individual-response context for [`T2` / `C4`](https://programs.myfirstbitcoin.org/programs/educator-guide/), specifically proof-of-work preparation. Use the approved protocol and required rule-and-role explanation; otherwise, this activity is formative.
+**Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](https://programs.myfirstbitcoin.org/programs/educator-guide/), specifically proof-of-work preparation. Use the approved protocol and required rule-and-role explanation; otherwise, this activity is formative.
 
 Hash functions are described as one-way methods.
 ## Additional Resources

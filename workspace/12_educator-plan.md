@@ -251,7 +251,7 @@ An app quiz or checklist can guide preparation, but it is not proof of competenc
 
 Both assessment components must be passed for certification; strength in one cannot compensate for failure in the other.
 
-The operational source is the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol). It supplies the approved `T1`–`T3` theory interactions, `P9`–`P11` practical tasks, permitted support, safety-critical errors, equivalent routes, calibration, moderation, and reassessment procedure. The Assessment Grid records results; it does not replace the protocol.
+The operational source is the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol). It supplies the approved `T1`–`T3` theory interactions, `P6a`–`P7` practical tasks, permitted support, safety-critical errors, equivalent routes, calibration, moderation, and reassessment procedure. The Assessment Grid records results; it does not replace the protocol.
 
 ### 5.2 Start With The Practical Competency
 
@@ -308,7 +308,7 @@ Use approved tests, demonstrations, simulations, and role-plays from the [Resour
 - explain what they are doing and why; and
 - recognize when to stop or seek help.
 
-Module 4 requires direct assessment of an approved local task mapped to `C11`, including required observable criteria `C11.1` and `C11.2`. The task may vary by context, but it must preserve equivalent evidence of safe performance, verification, explanation, and trade-off awareness.
+Module 4 requires direct assessment of an approved local task mapped to `C7`, including required observable criteria `C7.1` and `C7.2`. The task may vary by context, but it must preserve equivalent evidence of safe performance, verification, explanation, and trade-off awareness.
 
 Use prepared wallets, simulations, testnet, or appropriately low-stakes transactions where needed. Never ask a learner to expose a real seed phrase, private key, credential, or unnecessary financial information.
 

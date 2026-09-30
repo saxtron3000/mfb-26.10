@@ -5,7 +5,7 @@
 ## Status and alignment
 
 - **Assessment role:** Theoretical interaction / directly observed practical task
-- **Approved protocol task ID:** `T1`, `T2`, `T3`, `P9`, `P10`, or `P11`
+- **Approved protocol task ID:** `T1`, `T2`, `T3`, `P6a`, `P6b`, or `P7`
 - **Competency and required criteria:**
 - **Module and course route:**
 - **Version, owner, and review date:**
@@ -85,7 +85,7 @@ State the focused practice and later individual reassessment route. Reassessment
 
 ### Calibration and moderation
 
-State the relevant calibration example and moderation check. Before certificated delivery, assessors must use the approved protocol's calibration process for `T2`, `P9`, and the selected `P11` variant.
+State the relevant calibration example and moderation check. Before certificated delivery, assessors must use the approved protocol's calibration process for `T2`, `P6a`, and the selected `P7` variant.
 
 ### Approval checklist
 

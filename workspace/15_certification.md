@@ -26,7 +26,7 @@ A certificate may be issued only when the approved completion record confirms **
 Assessment-complete status requires:
 
 - passing educator-evaluated theoretical interaction evidence;
-- successful direct observation by an educator of practical competencies `C9`, `C10`, and the selected local task `C11`, including their required safety-focused criteria; and
+- successful direct observation by an educator of both performances within `C6` and the selected local task `C7`, including their required safety-focused criteria; and
 - a **Meets standard** result for every required assessed competency, with its required decimal-code criteria evidenced as observable look-fors.
 
 The theoretical and practical components each carry 50% of the programme's assessment balance. Both must meet the approved standard; a result in one component cannot compensate for an unmet requirement in the other.

@@ -1,0 +1,241 @@
+51% Attack
+Acceptability
+Account claim
+Accumulated work
+Address Reuse
+Address type
+Asset
+Atomic Swap
+Auction
+B-money
+Bank capital rules
+Bank deposit
+Bank money creation
+Bank profit
+Bank regulation
+Bank run
+Barter
+Bartering
+Base-layer settlement
+Basket of Goods
+Bias
+Bit Gold
+Bitcoin
+Bitcoin Address
+Bitcoin block
+Bitcoin circular economy
+Bitcoin Core
+Bitcoin Improvement Proposal
+Bitcoin Improvement Proposal 39
+Bitcoin network
+Bitcoin Pizza Day
+Bitcoin privacy
+Bitcoin protocol
+Bitcoin service
+Bitcoin wallet
+Bitcoin whitepaper
+BitTorrent
+Block
+Block depth
+Block Explorer
+Block Height
+Block Reward
+Block Space
+Block Subsidy
+Block-explorer privacy
+Blockchain
+Bond
+Bretton Woods
+Broadcast
+BTC
+By decree
+Candidate block
+Capital Controls
+CBDC
+Censorship Resistance
+Central Bank (Fed)
+Centralization
+Centralized System
+Cold Storage
+Cold wallet
+Commodity money
+Community custody
+Confirmation
+Consensus
+Convertibility
+Credit risk
+Cryptography
+Currency
+Custodial wallet
+Custodian
+Custody
+Cypherpunk
+Debasement
+Debt
+Decentralization
+Decentralized System
+Deposit insurance
+Deposit money
+Developer software proposal
+Difficulty
+Difficulty Adjustment
+DigiCash
+Digital Asset
+Digital signature
+Distributed Ledger
+Divisibility
+Double coincidence of wants
+Double Spend
+Double spending
+Double-spend problem
+Durability
+Dust Transaction
+Ecash
+Economic node
+Encryption
+Exchange Rate
+Fedimint
+Fee estimation
+Fiat money
+Final Settlement
+First confirmation
+Fractional reserve banking
+Full Node
+Funding cost
+Fungibility
+GDP
+Gearing
+Genesis Block
+Gold Standard
+Hal Finney
+Halving
+Hard Cap
+Hard Fork
+Hardware Wallet
+Hash
+Hash Function
+Hash Rate
+Hashcash
+HODL
+Hot Wallet
+Immutability
+Imports
+Inflation
+Inflation basket
+Intermediary
+Issuance schedule
+Issuer
+Key Pair
+KYC
+Layer 1
+Layer 2
+Ledger
+Liability
+Lightning address
+Lightning invoice
+Lightning liquidity
+Lightning Network
+Lightning offer
+Lightning routing
+Lightweight Node
+Liquid
+Liquidity
+Liquidity risk
+Maximum supply
+Medium of exchange
+Mediums of exchange
+Mempool
+Merkle Tree
+Miner
+Mining
+Mining Pool
+Monetary and Fiscal Policy
+Monetary expansion
+Money supply
+Multisignature
+Network
+Network effect
+Network tag
+Nixon Shock
+Node
+Node Network
+Nonce
+Off-ramp
+On-chain payment
+On-ramp
+Open Source
+Open-source software
+Opportunity cost
+Orphan Block
+Paper claim
+Paper Wallet
+Payment channel
+Payment destination
+Peer to Peer
+Peer-to-peer network
+Peg
+Permissionless
+Person-to-person transaction
+Portability
+Price
+Price inflation
+Private Key
+Project continuity
+Proof of Work
+Public Key
+Public Ledger
+Purchasing Power
+Qualified borrower
+Recognizability
+Recovery Phrase (Seed Phrase)
+Representative paper
+Reserve Ratio
+Restrictive banking
+Restructuring
+Reusable proof of work
+Sat interchangeability
+Satoshi
+Satoshi Nakamoto
+Satoshis per byte (sat/b)
+Scarcity
+Secondary effects
+SegWit (Segregated Witness)
+Self Custody
+Shared funds
+Single-signature
+Soft Fork
+Solvency
+Solvency risk
+Sound money
+Sovereignty
+Standard coins
+Store of value
+Subjective value
+Supply and Demand
+Target
+Time preference
+Time Value of Money
+Timestamp
+Too big to fail
+Trade-off
+Transaction
+Transaction Fee
+Transaction ID
+Trust Minimization
+Trustless
+Two-Factor Authentication (2FA)
+Unbanked
+Unit of Account
+Unspent Transaction Output
+Valid chain
+Valid result
+Validating node
+Value
+Verifiability
+Verification
+Volatility
+Wallet
+Wallet Address
+Wallet Backup
+Wallet compatibility
+Whitepaper

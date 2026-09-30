@@ -8,7 +8,7 @@ Class demonstration
 ## Duration
 10 minutes
 ## Description
-Participants repeatedly roll dice to model [miners](../mfb-bd-26.10/mfb-bd-lx.md#term-miner) attempting many hash calculations to meet a [difficulty](../mfb-bd-26.10/mfb-bd-lx.md#term-difficulty) [target](../mfb-bd-26.10/mfb-bd-lx.md#term-target). After a successful roll, the class quickly checks the result, compares the effort of finding it with the ease of verification, and connects the model to proof of work and node verification.
+Participants repeatedly roll dice to model [miners](../mfb-lx-26.10.md#term-miner) attempting many hash calculations to meet a [difficulty](../mfb-lx-26.10.md#term-difficulty) [target](../mfb-lx-26.10.md#term-target). After a successful roll, the class quickly checks the result, compares the effort of finding it with the ease of verification, and connects the model to proof of work and node verification.
 ## Objectives
 
 - Participants experience the difference between the repeated work of finding a valid proof-of-work result and the quick check needed to verify it.
@@ -25,7 +25,7 @@ Participants or a designated miner roll six dice repeatedly. The goal is for at 
 ### Step 2
 Adjust the target to four 1s if it is too easy or two 1s if it is too difficult.
 ### Step 3
-When the target is hit, the miner [broadcasts](../mfb-bd-26.10/mfb-bd-lx.md#term-broadcast) the result and the class verifies the number of 1s. Repeat several times.
+When the target is hit, the miner [broadcasts](../mfb-lx-26.10.md#term-broadcast) the result and the class verifies the number of 1s. Repeat several times.
 ## Review
 ### Key Points
 Finding a winning set may take many rolls, while verification takes seconds.
@@ -33,7 +33,7 @@ Finding a winning set may take many rolls, while verification takes seconds.
 Why is a winning block fast for nodes to verify?
 ## Notes
 
-**Diploma assessment link:** May provide the individual-response context for [`T2` / `C4`](https://programs.myfirstbitcoin.org/programs/educator-guide/). Use the approved protocol, including the required role and rules explanation; otherwise, this activity is formative.
+**Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](https://programs.myfirstbitcoin.org/programs/educator-guide/). Use the approved protocol, including the required role and rules explanation; otherwise, this activity is formative.
 
 ## Additional Resources
 [Calculator.net Dice Roller](https://www.calculator.net/dice-roller.html) is an optional digital substitute for physical dice when modelling repeated mining attempts and quick verification.

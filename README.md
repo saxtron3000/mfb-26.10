@@ -15,7 +15,7 @@ Choose the route that matches your work:
 | Read or edit the Educator Guide | [`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`](publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) |
 | Use approved assessment interactions, tasks, and rubrics | [`Educator Guide: operational assessment protocol`](publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) |
 | Use the educator assessment record | [`publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md`](publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) |
-| Check a beginner definition | [`publish/mfb-bd-26.10/mfb-bd-lx.md`](publish/mfb-bd-26.10/mfb-bd-lx.md) |
+| Check a beginner definition | [`publish/mfb-lx-26.10.md`](publish/mfb-lx-26.10.md) |
 | See Advanced-module availability | [`publish/mfb-adv-26.10/README.md`](publish/mfb-adv-26.10/README.md) |
 | Work on optional app self-assessment content | [`publish/mfb-ml-26.10/mfb-ml-26.10.md`](publish/mfb-ml-26.10/mfb-ml-26.10.md) |
 | Run the alignment review | [`review/review_alignment.md`](review/review_alignment.md) |
@@ -43,7 +43,7 @@ The official 2026.10 Diploma documents are:
 | [`mfb-bd-sg-26.10.md`](publish/mfb-bd-26.10/mfb-bd-sg-26.10.md) | Student Guide; learner-facing curriculum. |
 | [`mfb-bd-eg-26.10.md`](publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) | Educator Guide; educator-facing preparation, facilitation, safety, and assessment guidance. |
 | [`mfb-bd-assessment-grid-26.10.md`](publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) | Assessment Grid; competency-level cohort progress and completion record. |
-| [`mfb-bd-lx.md`](publish/mfb-bd-26.10/mfb-bd-lx.md) | Lexicon Entries; approved beginner terminology and definitions. |
+| [`mfb-lx-26.10.md`](publish/mfb-lx-26.10.md) | Lexicon Entries; approved beginner terminology and definitions. |
 | [`mfb-adv-26.10/README.md`](publish/mfb-adv-26.10/README.md) | Future home of Advanced modules; none is available yet. |
 
 The `workspace/` documents support the development and maintenance of these official documents. They are planning resources, not learner- or educator-facing curriculum.
@@ -78,7 +78,7 @@ Use these planning documents to develop and maintain the official documents abov
 | Assessment evidence and passing requirements | [`workspace/13_assessment.md`](workspace/13_assessment.md) |
 | Assessment crosswalk, approved tasks, and rubrics | [`Educator Guide: operational assessment protocol`](publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) |
 | Certification prerequisite and governance | [`workspace/15_certification.md`](workspace/15_certification.md) |
-| Terminology and definitions | [`mfb-bd-lx.md`](publish/mfb-bd-26.10/mfb-bd-lx.md) |
+| Terminology and definitions | [`mfb-lx-26.10.md`](publish/mfb-lx-26.10.md) |
 | Advanced boundaries and parked content | [`workspace/17_advanced.md`](workspace/17_advanced.md) |
 
 The complete reading order and ownership map are in [`workspace/00_index.md`](workspace/00_index.md).

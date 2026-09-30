@@ -19,7 +19,7 @@ This document does not diagnose the current Diploma. See `01_review.md`.
 
 This document does not define design philosophy or decision-making principles. See `04_design.md`.
 
-This document does not define assessed competencies or their observable criteria. See `05_competencies.md`.
+This document does not define assessed competencies or their observable criteria. See the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol); `05_competencies.md` mirrors it for planning.
 
 This document does not define assessment methodology. See `13_assessment.md`.
 

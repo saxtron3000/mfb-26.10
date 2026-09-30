@@ -66,17 +66,17 @@ All source items are English, version 1.0, and require independent factual and e
 | Short ID and app question key | Long ID and app question key | Competency criterion | Source language/version | Review status | `correctIndex` |
 |---|---|---|---|---|---|
 | `BD-ML-01S` / `b1-1-money-purpose-short` | `BD-ML-01L` / `b1-1-money-purpose-long` | `C1.1` | English 1.0 | Needs independent factual and editorial review | 0 |
-| `BD-ML-02S` / `b1-3-money-functions-short` | `BD-ML-02L` / `b1-3-money-functions-long` | `C1.3` | English 1.0 | Needs independent factual and editorial review | 1 |
-| `BD-ML-03S` / `b1-2-barter-limits-short` | `BD-ML-03L` / `b1-2-barter-limits-long` | `C1.2` | English 1.0 | Needs independent factual and editorial review | 1 |
-| `BD-ML-04S` / `b1-5-purchasing-power-short` | `BD-ML-04L` / `b1-5-purchasing-power-long` | `C2.1` | English 1.0 | Needs independent factual and editorial review | 2 |
-| `BD-ML-05S` / `b2-1-double-spending-short` | `BD-ML-05L` / `b2-1-double-spending-long` | `C3.1` | English 1.0 | Needs independent factual and editorial review | 0 |
-| `BD-ML-06S` / `b2-2-decentralization-short` | `BD-ML-06L` / `b2-2-decentralization-long` | `C4.1` | English 1.0 | Needs independent factual and editorial review | 1 |
-| `BD-ML-07S` / `b2-3-node-role-short` | `BD-ML-07L` / `b2-3-node-role-long` | `C4.2` | English 1.0 | Needs independent factual and editorial review | 0 |
-| `BD-ML-08S` / `b2-4-sound-money-judgment-short` | `BD-ML-08L` / `b2-4-sound-money-judgment-long` | `C4.3` | English 1.0 | Needs independent factual and editorial review | 1 |
-| `BD-ML-09S` / `b3-1-wallet-interface-short` | `BD-ML-09L` / `b3-1-wallet-interface-long` | `C6.1` | English 1.0 | Needs independent factual and editorial review | 1 |
-| `BD-ML-10S` / `b3-1-address-and-secrets-short` | `BD-ML-10L` / `b3-1-address-and-secrets-long` | `C6.1` | English 1.0 | Needs independent factual and editorial review | 2 |
-| `BD-ML-11S` / `b3-4-seed-phrase-exposure-short` | `BD-ML-11L` / `b3-4-seed-phrase-exposure-long` | `C7.1` | English 1.0 | Needs independent factual and editorial review | 2 |
-| `BD-ML-12S` / `b3-2-custody-comparison-short` | `BD-ML-12L` / `b3-2-custody-comparison-long` | `C6.2` | English 1.0 | Needs independent factual and editorial review | 0 |
+| `BD-ML-02S` / `b1-3-money-functions-short` | `BD-ML-02L` / `b1-3-money-functions-long` | `C1.1` | English 1.0 | Needs independent factual and editorial review | 1 |
+| `BD-ML-03S` / `b1-2-barter-limits-short` | `BD-ML-03L` / `b1-2-barter-limits-long` | `C1.1` | English 1.0 | Needs independent factual and editorial review | 1 |
+| `BD-ML-04S` / `b1-5-purchasing-power-short` | `BD-ML-04L` / `b1-5-purchasing-power-long` | `C1.3` | English 1.0 | Needs independent factual and editorial review | 2 |
+| `BD-ML-05S` / `b2-1-double-spending-short` | `BD-ML-05L` / `b2-1-double-spending-long` | `C2.1` | English 1.0 | Needs independent factual and editorial review | 0 |
+| `BD-ML-06S` / `b2-2-decentralization-short` | `BD-ML-06L` / `b2-2-decentralization-long` | `C2.3` | English 1.0 | Needs independent factual and editorial review | 1 |
+| `BD-ML-07S` / `b2-3-node-role-short` | `BD-ML-07L` / `b2-3-node-role-long` | `C2.2` | English 1.0 | Needs independent factual and editorial review | 0 |
+| `BD-ML-08S` / `b2-4-sound-money-judgment-short` | `BD-ML-08L` / `b2-4-sound-money-judgment-long` | `C2.3` | English 1.0 | Needs independent factual and editorial review | 1 |
+| `BD-ML-09S` / `b3-1-wallet-interface-short` | `BD-ML-09L` / `b3-1-wallet-interface-long` | `C4.1` | English 1.0 | Needs independent factual and editorial review | 1 |
+| `BD-ML-10S` / `b3-1-address-and-secrets-short` | `BD-ML-10L` / `b3-1-address-and-secrets-long` | `C4.1` | English 1.0 | Needs independent factual and editorial review | 2 |
+| `BD-ML-11S` / `b3-4-seed-phrase-exposure-short` | `BD-ML-11L` / `b3-4-seed-phrase-exposure-long` | `C4.3` | English 1.0 | Needs independent factual and editorial review | 2 |
+| `BD-ML-12S` / `b3-2-custody-comparison-short` | `BD-ML-12L` / `b3-2-custody-comparison-long` | `C4.1` | English 1.0 | Needs independent factual and editorial review | 0 |
 
 ## Optional final-score messages
 

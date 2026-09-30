@@ -35,7 +35,7 @@ Use this table to find the task. The detailed entry below has the supporting lin
 | ACT-007 | Add editable teaching slides | Open | ongoing maintenance | — |
 | ACT-010 | Stabilise source and lexicon references | Open | ongoing maintenance | — |
 | ACT-013 | Choose and track essential visuals | In progress | ongoing maintenance | — |
-| ACT-021 | Reduce assessed competencies to seven | Open | ongoing maintenance | — |
+| ACT-021 | Reduce assessed competencies to seven | Done | ongoing maintenance | [2026-09-30 assessment consolidation review](runs/2026-09-30-act-021-seven-competencies.md) |
 | ACT-026 | Remove repeated guide content and fix `BD-V-049` | In progress | ongoing maintenance | ACT-013 |
 | ACT-029 | Repair the source-of-truth map links | Done | ongoing maintenance | — |
 | ACT-030 | Retire the duplicate asset style guide | Done | ongoing maintenance | — |
@@ -151,9 +151,9 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 ### Publication and maintenance actions
 
-- [ ] **ACT-021** **Reduce the assessed competencies from 11 to 7.** Start with the assessment grid. Check the current files first: earlier edits were rolled back and are not complete work.
+- [x] **ACT-021** **Reduce the assessed competencies from 11 to 7.** The seven-result grid and aligned curriculum are implemented; the old-to-new map is retained as labelled history in `workspace/05_competencies.md`.
 
-  - Status: open | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: maintenance | Evidence: user instruction and consolidation mapping recorded in this item | Depends on: none | Completion evidence: pending implementation and consistency checks.
+  - Status: done | Owner: unassigned | Updated: 2026-09-30 | Severity: medium | Release impact: maintenance completed | Evidence: [Educator Guide operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol), [seven-result Assessment Grid](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md), [old-to-new map](../workspace/05_competencies.md#historical-code-migration), and [final review](runs/2026-09-30-act-021-seven-competencies.md) | Depends on: none | Completion evidence: seven parent competencies, at most three look-fors each, one undivided `C3` comparison, all original requirements mapped, activity links updated, and active identifiers reconciled.
 
   | New competency | Original competencies | Suggested assessment breakdown |
   |---|---|---|
@@ -196,7 +196,7 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 <a id="act-010-replace-mutable-source-and-terminology-locations"></a>
 
-  - Status: open | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: maintenance | Evidence: [Resources register:7](../workspace/09_resources.md:7) still requires mutable line references, including entries at [line 13](../workspace/09_resources.md:13); the [Lexicon:13](../publish/mfb-bd-26.10/mfb-bd-lx.md:13) also retains occurrence-line metadata | Depends on: none | Completion evidence: stable claim IDs and maintenance fields are not implemented.
+  - Status: open | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: maintenance | Evidence: [Resources register:7](../workspace/09_resources.md:7) still requires mutable line references, including entries at [line 13](../workspace/09_resources.md:13); the [Lexicon:13](../publish/mfb-lx-26.10.md:13) also retains occurrence-line metadata | Depends on: none | Completion evidence: stable claim IDs and maintenance fields are not implemented.
 
   - Preserve each claim or section, source type and authority, volatility, reviewer, date checked, next review date, and permitted learner-facing treatment. Keep genuinely local and changing facts in the Educator Guide's local verification record. Maintain the resource register and lexicon as versioned tools, with first/later occurrence audits in separate reports.
   - Acceptance: the source register and lexicon remain correct after a normal manuscript edit without manual line-number repair.
@@ -396,7 +396,7 @@ Affected: `05_competencies.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, th
 
 **B. Required supported use.** Every learner completes an approved Lightning receive/send exercise in Module 3; Module 4 may deepen or localize it.
 
-Affected: `05_competencies.md`, `06_plan.md`, `07_contents.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), `13_assessment.md`, `../publish/mfb-bd-26.10/mfb-bd-lx.md`, `16_spec.md`.
+Affected: `05_competencies.md`, `06_plan.md`, `07_contents.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), `13_assessment.md`, `../publish/mfb-lx-26.10.md`, `16_spec.md`.
 
 ### DEC-07: Are online PDF, website-ready content, and future branches October deliverables?
 
@@ -424,7 +424,7 @@ Affected: `03_scope.md`, `04_design.md`, `06_plan.md`, `../publish/mfb-bd-26.10/
 
 **Approved answer: A.** Open-source evaluation remains part of the learner experience, while the final wallet choice is a contextual judgment based on needs and trade-offs. Do not designate a particular wallet as the global recommendation.
 
-Affected: `06_plan.md`, `05_competencies.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), `../publish/mfb-bd-26.10/mfb-bd-lx.md`, `17_advanced.md`.
+Affected: `06_plan.md`, `05_competencies.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), `../publish/mfb-lx-26.10.md`, `17_advanced.md`.
 
 ### DEC-09: Is named programme-pathway promotion part of the Student Guide?
 
@@ -450,7 +450,7 @@ The repository guidance assigns learner-facing prose to `workspace/../publish/mf
 
 **B. Standardize on `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`.** Rename or migrate the Student Guide to the repository-guideline filename and update the index and links.
 
-Affected: `AGENTS.md`, `00_index.md`, `06_plan.md`, `07_contents.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), `../publish/mfb-bd-26.10/mfb-bd-lx.md`, `16_spec.md`.
+Affected: `AGENTS.md`, `00_index.md`, `06_plan.md`, `07_contents.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), `../publish/mfb-lx-26.10.md`, `16_spec.md`.
 
 ### DEC-11: Is a certificate a 2026.10 operational output or a governed future implementation?
 
@@ -568,7 +568,7 @@ This map preserves all eight report action areas and their primary-file referenc
 | 2. Approve minimum record and certificate governance | ACT-003, ACT-005, ACT-017 | `workspace/15_certification.md`, `workspace/13_assessment.md`, `workspace/03_scope.md`, Student Guide back matter. |
 | 3. Implement scope decisions and the programme-link policy | ACT-006, ACT-015, ACT-017 | Preserve resolved `DEC-01`, `DEC-07`–`DEC-09`, `DEC-11`, and `DEC-12`; include `workspace/04_design.md` and `workspace/16_spec.md` in output reconciliation. |
 | 4. Make Student Guide back matter publication-ready | ACT-008, ACT-009 | [Student Guide](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md), `workspace/07_contents.md`, `workspace/08_assets.md`, `workspace/15_certification.md`. |
-| 5. Repair source and terminology maintenance | ACT-010 | `workspace/09_resources.md`, [Lexicon](../publish/mfb-bd-26.10/mfb-bd-lx.md), Educator Guide local verification record. |
+| 5. Repair source and terminology maintenance | ACT-010 | `workspace/09_resources.md`, [Lexicon](../publish/mfb-lx-26.10.md), Educator Guide local verification record. |
 | 6. Triage remaining consistency decisions | ACT-014 | This action list, decision register, and annotation inventory; formerly maintained in the archived review register. |
 | 7. Finish the optional self-check | ACT-011 | [Published self-check](../publish/mfb-ml-26.10/mfb-ml-26.10.md), `workspace/14_microlearning-plan.md`. |
 | 8. Fix local-link failure and control visuals | ACT-012, ACT-013 | `workspace/08_assets.md`, `assets/briefs/bd-v-001-brief.md`, essential-visual production tracker. |

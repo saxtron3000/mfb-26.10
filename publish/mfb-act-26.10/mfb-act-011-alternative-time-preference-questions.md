@@ -8,7 +8,7 @@ Class discussion
 ## Duration
 
 ## Description
-Participants use guided questions to connect time preference with money, entrepreneurship, consumption, saving, and interest rates. The discussion treats money as a way people communicate [value](../mfb-bd-26.10/mfb-bd-lx.md#term-value) in a free market and considers how understanding present and future preferences can inform personal decisions.
+Participants use guided questions to connect time preference with money, entrepreneurship, consumption, saving, and interest rates. The discussion treats money as a way people communicate [value](../mfb-lx-26.10.md#term-value) in a free market and considers how understanding present and future preferences can inform personal decisions.
 ## Objectives
 
 - Participants connect time preference with saving, consumption, and interest rates through discussion.

@@ -4,22 +4,22 @@
 
 This document defines how the Bitcoin Diploma establishes and records learner competency.
 
-It is the assessment source of truth for the 2026.10 edition. The Assessment Grid is the minimum learner record, and the Educator Guide provides examples and support that must remain consistent with this framework.
+The [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) is the source of truth for competency wording, required look-fors, and educator judgments. This document supports assessment planning. The Assessment Grid is the minimum learner record.
 
 The Diploma does not assess private knowledge or a learner's self-description. It assesses what a learner can observably explain, compare, apply, decide, and do. Knowledge matters because it enables those actions; it is not, by itself, a certification result.
 
 The framework uses one simple competency code system:
 
-- `C1` through `C11` are the 11 required assessed competencies. Each receives one final result: **Meets standard** or **Not yet**.
-- Decimal codes such as `C1.1` and `C1.2` are required observable criteria within the related competency. They are educator look-fors, not separate certification rows.
-- `C12` and `C13` are formative competencies. They support learning and feedback but are not certificate gates.
+- `C1` through `C7` are the seven required assessed competencies. Each receives one final result: **Meets standard** or **Not yet**.
+- Decimal codes such as `C1.1` and `C1.2` are required observable criteria within the related competency. They are educator look-fors, not separate certification rows. `C3` is one undivided guided comparison.
+- `F1` and `F2` are formative competencies. They support learning and feedback but are not certificate gates.
 
 Every required criterion must have sufficient evidence before its parent competency can be recorded as **Meets standard**. A strength in one competency or criterion cannot compensate for an unmet, inaccurate, or unsafe requirement elsewhere.
 
 The 2026.10 Diploma uses two required, non-compensatory completion gates:
 
-1. **Theory (`C1`–`C8`)** — learners show what they can explain, compare, reason through, or apply in activities and conversations.
-2. **Practice (`C9`–`C11`)** — learners show what they can safely perform, verify, and explain through an educator-observed practical activity.
+1. **Theory (`C1`–`C5`)** — learners show what they can explain, compare, reason through, or apply in activities and conversations.
+2. **Practice (`C6`–`C7`)** — learners show what they can safely perform, verify, and explain through an educator-observed practical activity.
 
 These are not numerical grades. Both gates must be complete, and every required competency must meet its standard before a completion certificate is issued.
 
@@ -62,10 +62,10 @@ Low connectivity, lack of a device, or lack of app access must not prevent learn
 
 | Code range | Meaning | Record rule |
 |---|---|---|
-| `C1`–`C8` | Theoretical competencies | Record one educator-evaluated result for each competency. |
-| `C9`–`C11` | Practical competencies | Record one directly observed result for each competency. |
+| `C1`–`C5` | Theoretical competencies | Record one educator-evaluated result for each competency. |
+| `C6`–`C7` | Practical competencies | Record one directly observed result for each competency. |
 | Decimal `C` codes | Required observable criteria | Check as part of the parent competency; do not create separate certificate rows. |
-| `C12`, `C13` | Formative competencies | Use for feedback and reflection only. |
+| `F1`, `F2` | Formative competencies | Use for feedback and reflection only. |
 
 An activity may collect evidence for several criteria within one competency. It may not combine different assessed competencies into one result unless each competency remains individually visible and recorded.
 
@@ -73,7 +73,7 @@ An activity may collect evidence for several criteria within one competency. It 
 
 # 3. Assessment components
 
-## Theory gate: `C1`–`C8`
+## Theory gate: `C1`–`C5`
 
 Educators collect evidence through activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) or suitable local activities, such as learner explanations, guided comparisons, scenario analysis, concept illustrations, claim/evidence/trade-off responses, simulations, and role-plays. These interactions can be part of normal teaching; they do not need to be a separate written exam.
 
@@ -86,7 +86,7 @@ The evidence must match the competency verb. For example:
 
 Participation, agreement with a slogan, or an educator's impression is not enough. The educator uses the competency look-fors and a confident professional judgement to establish the learner's demonstrated response. Brief notes are helpful but optional.
 
-## Practice gate: `C9`–`C11`
+## Practice gate: `C6`–`C7`
 
 Practical competency is evaluated through educator observation of demonstrations, simulations, role-plays, scenario-based evaluations, prepared-wallet activity, physical tokens, testnet, or carefully structured low-stakes activity. A spoken explanation may be part of a practical activity, but it does not replace the required performance.
 
@@ -98,10 +98,10 @@ The optional [My First Bitcoin App](https://myfirstbitcoin.app/) may prepare lea
 
 | Module | Required competencies | Assessment emphasis | Required evidence pattern |
 |---|---|---|---|
-| 1. Understanding Money | `C1`, `C2` | Theoretical competency | Observable explanation, comparison, and guided scenario response. |
-| 2. How Bitcoin Works | `C3`, `C4`, `C5` | Theoretical competency | Observable explanation, relationship mapping, comparison, and reasoning. |
-| 3. Using Bitcoin Safely | `C6`, `C7`, `C8`, `C9`, `C10` | Theory and practical competency | Observable explanation and safety reasoning for `C6`–`C8`; direct observation for `C9`–`C10`. |
-| 4. Connect: Bitcoin in Your Community | `C11` | Local practical competency | Direct observation of an educator-curated activity and its explanation. |
+| 1. Understanding Money | `C1` | Theoretical competency | Observable explanation, comparison, and guided scenario response. |
+| 2. How Bitcoin Works | `C2`, `C3` | Theoretical competency | Observable explanation, relationship mapping, comparison, and reasoning. |
+| 3. Using Bitcoin Safely | `C4`, `C5`, `C6` | Theory and practical competency | Observable explanation and safety reasoning for `C4`–`C5`; direct observation of both performances for `C6`. |
+| 4. Connect: Bitcoin in Your Community | `C7` | Local practical competency | Direct observation of an educator-curated activity and its explanation. |
 
 The assessment follows the Diploma's **Problem → Solution → Action → Connect** arc. Modules 1 and 2 develop the Problem and Solution through observable learner responses. Educators may adapt the practical route in Module 3 while preserving its required competency and safety purpose. Module 4 is the educator-curated Connect stage within the Diploma: it requires the learner to connect that foundation to a local need or opportunity, a realistic alternative, safe performance, and a responsible next step. Theory and practice are two completion gates across the complete Diploma, not numerical scores within each module.
 
@@ -115,17 +115,13 @@ Example activities, interactions, and evidence routes are maintained in the Educ
 
 | Assessed competency | Required observable criteria | Possible evidence | Component |
 |---|---|---|---|
-| `C1` Explain why people use money and compare two forms of money using simple characteristics. | `C1.1` Explain why people use money.<br>`C1.2` Explain barter limits and the beginner evolution of money.<br>`C1.3` Use functions and properties of money.<br>`C1.4` Compare two forms of money using simple characteristics. | Own-words explanation, concept illustration, and guided comparison. | Theoretical |
-| `C2` Use a guided local or realistic scenario to explain one modern-money trade-off. | `C2.1` Explain an introductory inflation, purchasing-power, banking, or CBDC trade-off.<br>`C2.2` Connect the scenario to an observed, local, or realistic money experience without personal financial disclosure. | Guided explanation or scenario response. | Theoretical |
-| `C3` Explain the digital-copy and double-spend problem and how shared verification helps Bitcoin address it. | `C3.1` Explain why Bitcoin was created, including the digital-copy and double-spend problem. | Own-words explanation or concept illustration. | Theoretical |
-| `C4` Explain how Bitcoin's public rules and network roles support its key money properties. | `C4.1` Explain decentralization, credible finite supply, peer-to-peer transfer, verifiability, and the beginner meaning of “don't trust, verify.”<br>`C4.2` Explain the roles of users, nodes, miners, and developers, including proof of work, the 21 million limit, halving, and satoshis at beginner scope.<br>`C4.3` Make a guided sound-money judgment using relevant properties and a stated limit or trade-off. | Concept relationship, role map, or guided comparison and explanation. | Theoretical |
-| `C5` Compare Bitcoin with one other digital asset using guided criteria. | `C5.1` Compare using control, supply or issuance, verification, custody, or counterparty considerations.<br>`C5.2` Distinguish learning or responsible use from trading, token promotion, and speculation. | Guided comparison, discussion, or safety scenario. | Theoretical |
-| `C6` Explain what wallet information can be shared or must be protected, and describe one custody trade-off. | `C6.1` Explain wallets, addresses, keys, seed phrases, and custody, including what is public or secret.<br>`C6.2` Compare custodial and non-custodial approaches.<br>`C6.3` Describe hot and hardware wallets at beginner scope. | Explanation using essential terms and a guided custody scenario. | Theoretical |
-| `C7` Identify a scam, error, or high-risk request and state when to stop, verify, or seek help. | `C7.1` Identify a safe response to common beginner risks, such as secret exposure, address mistakes, impersonation, urgency, or too-good-to-be-true offers.<br>`C7.2` State the limits of beginner practical use and when to stop, verify, or seek help. | Safety scenario or applied safety judgment. | Theoretical |
-| `C8` Compare common ways to pay with or access bitcoin in guided scenarios. | `C8.1` Compare on-chain and Lightning distinctions and select an appropriate beginner pathway in a guided scenario.<br>`C8.2` Compare acquisition or exchange pathways, risks, and trade-offs without making recommendations or giving financial advice. | Guided scenario and comparison. | Theoretical |
-| `C9` Safely complete and verify a supported first-access wallet activity, including receipt of bitcoin or a safe simulated receipt, in a suitable low-stakes or simulated setting. | `C9.1` Safely open or navigate a prepared wallet environment and locate receive information.<br>`C9.2` Complete or safely simulate a receive-or-send flow, including relevant address, invoice, amount, confirmation, or status checks.<br>`C9.3` Complete the supported first-access pathway, receive bitcoin or safely simulate receipt, and check relevant wallet or transaction information. | Direct observation of a suitable practical activity. | Practical |
-| `C10` Demonstrate recovery readiness with prepared or simulated materials without exposing secrets. | `C10.1` Demonstrate recovery readiness and protection of recovery information using prepared or simulated materials. | Direct observation of a prepared or simulated recovery-readiness task. | Practical |
-| `C11` Safely complete one locally relevant Bitcoin-as-money task and connect it to its local purpose, realistic alternative, trade-offs, and next step. | `C11.1` Complete the safe task sequence and relevant verification behaviour.<br>`C11.2` Explain the local purpose, realistic alternative, trade-offs, failure points, safety considerations, and realistic next step. | Direct observation of the selected local activity, simulation, role-play, or problem-solving performance, including the learner's explanation. | Practical |
+| `C1` Money and modern-money trade-offs | `C1.1` Explain why people use money, barter limits, the beginner evolution of money, and its functions and properties.<br>`C1.2` Compare two forms of money using relevant characteristics.<br>`C1.3` Explain one modern-money trade-off with a local, observed, or realistic example without personal disclosure. | Individual explanation, comparison, and scenario response. | Theoretical |
+| `C2` Bitcoin foundations and rules | `C2.1` Explain digital copying or double spending and shared verification.<br>`C2.2` Explain beginner rules and roles, including users, nodes, miners, developers, proof of work, the 21 million supply limit, halving, and satoshis.<br>`C2.3` Relate decentralization, finite supply, peer-to-peer transfer, and verifiability to a reasoned money-property benefit or limitation, including “don't trust, verify.” | Individual explanation, role map, and qualified judgment. | Theoretical |
+| `C3` Bitcoin and digital-asset comparison | Compare Bitcoin with another digital asset, such as a generic stablecoin, using relevant control, issuance, verification, custody, or counterparty criteria; state a trade-off and distinguish learning and responsible use from speculation or promotion. | One individual guided comparison. | Theoretical |
+| `C4` Wallets, custody, and safety | `C4.1` Explain wallets, addresses, keys, seed phrases, public versus secret information, and a custody trade-off.<br>`C4.2` Distinguish hot and hardware wallets, including why people use the latter, at beginner scope.<br>`C4.3` Recognize a scam, error, or high-risk request, including secret exposure, address mistakes, impersonation, or urgency, and explain when to stop, verify, or seek help. | Individual explanation and safety scenario. | Theoretical |
+| `C5` Payment and access pathways | `C5.1` Compare on-chain and Lightning payments and choose a suitable beginner pathway in a guided example.<br>`C5.2` Compare access or exchange pathways and risks without a recommendation. | Individual guided comparison. | Theoretical |
+| `C6` Safe access and recovery readiness | `C6.1` In an approved low-stakes or simulated setting, navigate a prepared wallet, complete or safely simulate a receive-or-send flow and supported first access or receipt, and verify destination, amount, network, and status.<br>`C6.2` Demonstrate recovery readiness using prepared or simulated materials without exposing real secrets. | Direct observation of both distinct practical performances; one result. | Practical |
+| `C7` Local Bitcoin-as-money task | `C7.1` Safely perform one educator-selected locally relevant task or simulation, including required checks.<br>`C7.2` Explain local purpose, realistic alternative, trade-offs, possible failure, safety, and next step. | Direct observation of individual task and explanation. | Practical |
 
 ---
 
@@ -150,14 +146,14 @@ A learner is **assessment-complete** only when both component statuses are compl
 
 ## A. Theoretical competency complete
 
-- the educator has recorded **Meets standard** for `C1` through `C8`; and
-- every required criterion within `C1` through `C8` has sufficient observable evidence.
+- the educator has recorded **Meets standard** for `C1` through `C5`; and
+- every required criterion within `C1` through `C5` has sufficient observable evidence.
 
 ## B. Practical competency complete
 
-- the educator has directly observed and recorded **Meets standard** for `C9`, `C10`, and `C11`;
+- the educator has directly observed both `C6` performances and the selected `C7` task, and recorded **Meets standard** for `C6` and `C7`;
 - every required criterion within those competencies has been observed safely; and
-- `C9.3` includes the supported first-access pathway and receipt of bitcoin, or a safe simulated receipt.
+- `C6.1` includes the supported first-access pathway and receipt of bitcoin, or a safe simulated receipt.
 
 Passing one component cannot compensate for an unmet requirement in the other. Passing one criterion cannot compensate for incomplete, inaccurate, unsafe, or overly prompted evidence for another required criterion.
 
@@ -180,12 +176,12 @@ The 2026.10 curriculum is released framework first. Publication of the guides, p
 
 # 9. Formative competencies
 
-`C12` and `C13` support learning across the Diploma. They may guide educator feedback but do not create certification rows or alter the `C1`–`C11` completion rule.
+`F1` and `F2` support learning across the Diploma. They may guide educator feedback but do not create certification rows or alter the `C1`–`C7` completion rule.
 
 | Formative competency | Suggested evidence |
 |---|---|
-| `C12` Participate in guided discussion using clear explanations, relevant evidence, respectful listening, and basic reasoning. | Educator observation and feedback. |
-| `C13` Articulate a reason to continue learning about Bitcoin, or a reason for remaining uncertain, using course concepts and an observed, local, or realistic money experience without making an investment claim. | Reflection or guided conversation. |
+| `F1` Participate in guided discussion using clear explanations, relevant evidence, respectful listening, and basic reasoning. | Educator observation and feedback. |
+| `F2` Articulate a reason to continue learning about Bitcoin, or a reason for remaining uncertain, using course concepts and an observed, local, or realistic money experience without making an investment claim. | Reflection or guided conversation. |
 
 ---
 

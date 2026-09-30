@@ -306,7 +306,7 @@ Important distinction:
 
 Modules 1 and 2 are knowledge-dominant; Modules 3 and 4 are skills-dominant and require direct observation of approved practical competencies. The two components are equal-status and non-compensatory: a combined score cannot substitute for unmet evidence in either one.
 
-Participation, attendance, and app progress are not certification. A learner may receive a Diploma certificate from the named educator only after both components meet the required standard for all 11 assessed competencies and the evidence is recorded. This protects a shared minimum standard across educators and communities.
+Participation, attendance, and app progress are not certification. A learner may receive a Diploma certificate from the named educator only after both components meet the required standard for all seven assessed competencies and the evidence is recorded. This protects a shared minimum standard across educators and communities.
 
 Certification is decentralized and educator-issued. The educator assesses the learner, accredits the result, and distributes the certificate; it records that educator's judgment. My First Bitcoin does not centrally evaluate learners, issue certificates, operate a central verification service, or guarantee competency. Optional future credential or verification tools must preserve that boundary and cannot replace either assessment component.
 
@@ -426,7 +426,7 @@ This launch presentation tells the redesign story from its foundations through t
 | 7. Practice with responsibility | 3:00 | Learners discuss, reason, practise, reflect, and identify safer next steps. | Explain → practise → apply → reflect loop |
 | 8. Educators complete the local story | 3:00 | Local educators curate the required Module 4 Connect task within shared competencies and safety boundaries. | Educator choosing from approved local task options |
 | 9. The learning ecosystem | 3:00 | The Student Guide, Educator Guide, Resources Hub, optional app, and future Advanced study have distinct roles. | Ecosystem diagram |
-| 10. A certificate that means something | 2:30 | Certification requires all 11 assessed competencies across educator-evaluated theory and educator-observed practical evidence. | Two-part evidence pathway |
+| 10. A certificate that means something | 2:30 | Certification requires all seven assessed competencies across educator-evaluated theory and educator-observed practical evidence. | Two-part evidence pathway |
 | 11. From redesign to release | 2:00 | The work now moves through review, pilots, publication, and launch preparation. | Release path to October 2026 |
 | 12. What collaboration makes possible | 2:00 | Educators, communities, contributors, and supporters can help make the release useful and durable. | Four collaboration roles |
 | 13. The invitation | 1:00 | Help build a clearer, practical, community-led next chapter for Bitcoin education. | Closing statement and release target |
@@ -531,7 +531,7 @@ Time: 2 minutes 30 seconds
 
 Key message: A certificate represents demonstrated beginner learning, not attendance, app progress, or a financial recommendation.
 
-Speaker note: The assessment has two equal-status, non-compensatory components: 50% educator-evaluated theoretical evidence and 50% directly observed practical evidence. All 11 assessed competencies must meet the required standard and be recorded before certification. Participation, attendance, and app progress alone do not qualify a learner. The named educator assesses the learner and issues the certificate; it is not central My First Bitcoin certification or a competency guarantee. The curriculum is released framework first, so certificated delivery begins only when the educator's selected tasks, local variants, capacity, accessibility routes, records, and proportionate local governance are ready.
+Speaker note: The assessment has two equal-status, non-compensatory components: 50% educator-evaluated theoretical evidence and 50% directly observed practical evidence. All seven assessed competencies must meet the required standard and be recorded before certification. Participation, attendance, and app progress alone do not qualify a learner. The named educator assesses the learner and issues the certificate; it is not central My First Bitcoin certification or a competency guarantee. The curriculum is released framework first, so certificated delivery begins only when the educator's selected tasks, local variants, capacity, accessibility routes, records, and proportionate local governance are ready.
 
 Suggested visual: Two equal evidence paths converging on “assessment-complete,” then certificate.
 

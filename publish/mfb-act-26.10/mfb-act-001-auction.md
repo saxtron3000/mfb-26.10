@@ -14,7 +14,7 @@
 
 ## Description
 
-Students take part in a three-round auction using Monopoly money, candy bars, and a shared classroom tracking table. As the teacher adds unequal amounts of money between rounds, students compare the total money supply with winning bids and discuss monetary inflation, [price inflation](../mfb-bd-26.10/mfb-bd-lx.md#term-price-inflation), and the distributional effects of new money.
+Students take part in a three-round auction using Monopoly money, candy bars, and a shared classroom tracking table. As the teacher adds unequal amounts of money between rounds, students compare the total money supply with winning bids and discuss monetary inflation, [price inflation](../mfb-lx-26.10.md#term-price-inflation), and the distributional effects of new money.
 
 ## Objectives
 
@@ -137,7 +137,7 @@ Point out that the increase in the middle “Money Supply” column is called mo
 1. Prices in a free market are set by individuals’ subjective values, e.g., students bidding for items.
 2. Inflation = increase in money supply. This is the concept behind the phrase “more money chasing the same goods.”
 3. Beware of misuse of the word “inflation.” Monetary inflation ≠ price inflation. News media and central planners prefer to use price inflation measures like consumer price inflation (CPI) because it can be manipulated.
-4. When [fiat money](../mfb-bd-26.10/mfb-bd-lx.md#term-fiat-money) is created, it is not distributed evenly. It flows first to those closest to the money printer, like big industry players. They can unfairly purchase [assets](../mfb-bd-26.10/mfb-bd-lx.md#term-asset) before prices rise for everyone else.
+4. When [fiat money](../mfb-lx-26.10.md#term-fiat-money) is created, it is not distributed evenly. It flows first to those closest to the money printer, like big industry players. They can unfairly purchase [assets](../mfb-lx-26.10.md#term-asset) before prices rise for everyone else.
 
 ### Discussion questions
 
@@ -168,7 +168,7 @@ It only takes a few minutes to fill in the tracking table explained in detailed 
 
 ### VIDEO
 
-[“What’s the Problem?”](https://www.whatstheproblem.org) is a video produced by Joe Bryan. It covers more than just [fractional reserve banking](../mfb-bd-26.10/mfb-bd-lx.md#term-fractional-reserve-banking), which is one of many ways to create fiat money.
+[“What’s the Problem?”](https://www.whatstheproblem.org) is a video produced by Joe Bryan. It covers more than just [fractional reserve banking](../mfb-lx-26.10.md#term-fractional-reserve-banking), which is one of many ways to create fiat money.
 
 This video explains the consequences.
 

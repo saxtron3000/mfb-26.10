@@ -14,7 +14,7 @@
 
 ## Description
 
-Participants work in small groups to create [Lightning invoices](../mfb-bd-26.10/mfb-bd-lx.md#term-lightning-invoice) or QR codes, receive a small payment, and relay [sats](../mfb-bd-26.10/mfb-bd-lx.md#term-sat) to the next participant. The activity uses a prepared, low-stakes or simulated environment and ends with reflection on setup, payment speed, [routing](../mfb-bd-26.10/mfb-bd-lx.md#term-lightning-routing), fees, and the experience of sending and receiving sats.
+Participants work in small groups to create [Lightning invoices](../mfb-lx-26.10.md#term-lightning-invoice) or QR codes, receive a small payment, and relay [sats](../mfb-lx-26.10.md#term-sat) to the next participant. The activity uses a prepared, low-stakes or simulated environment and ends with reflection on setup, payment speed, [routing](../mfb-lx-26.10.md#term-lightning-routing), fees, and the experience of sending and receiving sats.
 
 ## Objectives
 
@@ -24,15 +24,15 @@ Participants work in small groups to create [Lightning invoices](../mfb-bd-26.10
 
 ### Materials
 
-• Participants will need access to a [Lightning wallet](../mfb-bd-26.10/mfb-bd-lx.md#term-bitcoin-wallet), ideally their own. If they do not have phones, find assistants willing to use their phones in class.
+• Participants will need access to a [Lightning wallet](../mfb-lx-26.10.md#term-bitcoin-wallet), ideally their own. If they do not have phones, find assistants willing to use their phones in class.
 • Internet access.
 • Sats loaded on a Lightning wallet for you to start the relay.
 
 ### Preparation Notes
 
-Select a Lightning wallet only for the prepared local learning environment; do not present it as a global recommendation. Prefer a well-established [open-source](../mfb-bd-26.10/mfb-bd-lx.md#term-open-source-software) option where appropriate, and compare [custody](../mfb-bd-26.10/mfb-bd-lx.md#term-custody), recovery, inspectability, compatibility, [privacy](../mfb-bd-26.10/mfb-bd-lx.md#term-privacy), cost, maintenance, and support before deciding. Verify that the selected tool works correctly in your region and prepare a simulation or no-wallet route.
+Select a Lightning wallet only for the prepared local learning environment; do not present it as a global recommendation. Prefer a well-established [open-source](../mfb-lx-26.10.md#term-open-source-software) option where appropriate, and compare [custody](../mfb-lx-26.10.md#term-custody), recovery, inspectability, compatibility, [privacy](../mfb-lx-26.10.md#term-privacy), cost, maintenance, and support before deciding. Verify that the selected tool works correctly in your region and prepare a simulation or no-wallet route.
 
-Prepare a backup route and verify it in your region. A backup may be another checked wallet, a prepared educator-controlled environment, or a no-value simulation. Also verify how current [on-chain transaction fees](../mfb-bd-26.10/mfb-bd-lx.md#term-transaction-fee) affect the tools used in the activity.
+Prepare a backup route and verify it in your region. A backup may be another checked wallet, a prepared educator-controlled environment, or a no-value simulation. Also verify how current [on-chain transaction fees](../mfb-lx-26.10.md#term-transaction-fee) affect the tools used in the activity.
 
 ## Procedure
 
@@ -94,7 +94,7 @@ Then lead an open discussion about their experience.
 
 ## Notes
 
-**Diploma assessment link:** May support [`T3` / `C8`](https://programs.myfirstbitcoin.org/programs/educator-guide/) and, after approved safety adaptation, [`P9` / `C9`](https://programs.myfirstbitcoin.org/programs/educator-guide/). As written, it is not a certificated task: use a prepared low-stakes or simulated environment and never require real funds, a personal wallet, or a learner-owned device.
+**Diploma assessment link:** May support [`T3` / `C5`](https://programs.myfirstbitcoin.org/programs/educator-guide/) and, after approved safety adaptation, [`P6a` / `C6`](https://programs.myfirstbitcoin.org/programs/educator-guide/). As written, it is not a certificated task: use a prepared low-stakes or simulated environment and never require real funds, a personal wallet, or a learner-owned device.
 
 The technical skill level of your participants will affect how long it takes to conduct the Lightning Relay. Consider pairing more technical participants with less-technical participants so they can help one another.
 

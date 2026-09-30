@@ -81,7 +81,7 @@ Each activity entry should include:
 - for approved assessment tasks, observable criteria, permitted support, critical errors, rubric or decision rule, and concise record requirements; and
 - source trail, fact-check date where relevant, version, and review status.
 
-Use `11_activities-template.md` for a formative activity. Use [`11_activities-template-assess.md`](11_activities-template-assess.md) when an approved activity or task will collect formal assessment evidence.
+Use `11_activities-template.md` for a formative activity. Use [`y_11_activities-template-assess.md`](y_11_activities-template-assess.md) when an approved activity or task will collect formal assessment evidence.
 
 ## Release priorities
 
@@ -91,7 +91,7 @@ Priority work is now:
 
 1. Create or approve activity entries that prepare learners for each package interaction or task without duplicating its assessment rule.
 2. Test every selected practical variant, low-tech equivalent, and accessibility route in delivery.
-3. Produce and use local calibration examples for the selected `P11` variant before certification.
+3. Produce and use local calibration examples for the selected `P7` variant before certification.
 4. Keep activity versions, current-data checks, and links traceable to the package.
 5. Expand the optional Bank only after the certification-complete core has been piloted and checked.
 
@@ -100,10 +100,10 @@ Priority work is now:
 | Topic | Owner |
 |---|---|
 | Four-module architecture and content boundaries | `06_plan.md` |
-| Competencies and observable criteria | `05_competencies.md` |
+| Competencies and observable criteria | [Educator Guide: operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol); planning mirror in `05_competencies.md` |
 | Activity categories, full procedures, and task templates | [Resources Hub](https://programs.myfirstbitcoin.org/resources/) |
 | Educator facilitation, pacing, adaptation, and debrief guidance | `12_educator-plan.md` and the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) |
-| Assessment evidence, passing rules, and assessment standards | `13_assessment.md` |
+| Assessment evidence, passing rules, and assessment standards | [Educator Guide: operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol); planning support in `13_assessment.md` |
 | Assessment crosswalk, approved tasks, rubrics, and equivalent routes | [Educator Guide: operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) |
 | Certification prerequisite and governance questions | `15_certification.md` |
 | Optional app self-assessment | `14_microlearning-plan.md` and `../publish/mfb-ml-26.10/mfb-ml-26.10.md` |
@@ -111,6 +111,6 @@ Priority work is now:
 
 ## Open implementation questions
 
-- Which local `P11` task variants will be approved first, and which local calibration examples are needed for each?
+- Which local `P7` task variants will be approved first, and which local calibration examples are needed for each?
 - What release evidence will demonstrate that the selected task variants work across in-person, online, low-connectivity, and accessibility contexts?
 - How will the Resources Hub version, review status, current-data checks, and links remain traceable to the published Diploma?
