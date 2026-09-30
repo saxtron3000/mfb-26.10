@@ -40,7 +40,7 @@ Consider making it more fun by using competitive sport mascots instead of colors
 
 ### Setup
 
-Set up is simple. To save time, draw the tracking table on your whiteboard or create it in your spreadsheet before class starts.
+Setup is simple. To save time, draw the tracking table on your whiteboard or create it in your spreadsheet before class starts.
 
 | Sats | Red | Blue | Green | Orange | Total |
 | --- | ---: | ---: | ---: | ---: | ---: |
@@ -69,11 +69,11 @@ Then you will walk through diﬀerent ways transactions are not valid: not enoug
 
 ### Step 1: The First Transaction
 
-Guide students through to the tracking board. Assign four students to be the owners of each of the four-colored wallets. **Explain their responsibility is to sign or not sign (approve, not approve) transactions.**
+Guide students to the tracking board. Assign four students to be the owners of each of the four colored wallets. **Explain that their responsibility is to sign or not sign (approve or not approve) transactions.**
 
 If you are using the physical method, hand out their respective color “wallets” (papers). Also give them the corresponding number of poker chips (or coins, or whatever you have decided to use for sats).
 
-Explain to the rest of the class that they each represent miners or node runners. Their responsibility is to agree or not agree whether a transaction is valid. They decide to accept or reject transactions. For the game, select one of them to be responsible for updating the tracking board.
+Explain to the rest of the class that they each represent miners or node runners. Their responsibility is to decide whether a transaction is valid. They decide to accept or reject transactions. For the game, select one of them to be responsible for updating the tracking board.
 
 Now walk the class through the first transaction step by step. Tell them a
 story of how RED bought a coﬀee from BLUE for 5 sats.
@@ -119,7 +119,7 @@ Walk the class through the steps like before.
 
 If both conditions are met, instruct the tracker to update the table. Ensure they update the total column too.
 
-If you are using the physical method, one of the miners moves 7 sats (chips) from the blue wallet (paper) to the orange wall (paper).
+If you are using the physical method, one of the miners moves 7 sats (chips) from the blue wallet (paper) to the orange wallet (paper).
 
 | Sats | Red | Blue | Green | Orange | Total |
 | --- | ---: | ---: | ---: | ---: | ---: |
@@ -143,7 +143,7 @@ Walk the class through the steps like before.
 1. Does GREEN have 10 sats?
 2. Did GREEN sign the transaction?
 
-The node runners and miners should NOT agree the transaction is valid because GREEN does not have enough sats.
+The node runners and miners should not agree that the transaction is valid because GREEN does not have enough sats.
 
 “NODES and MINERS, will you process this transaction?”
 
@@ -170,7 +170,7 @@ GREEN should say “no”.
 1. Does GREEN have 5 sats?
 2. Did GREEN sign the transaction?
 
-The node runners and miners should NOT agree the transaction is valid because GREEN never signed (approved) it.
+The node runners and miners should not agree that the transaction is valid because GREEN never signed (approved) it.
 
 “NODES and MINERS, will you process this transaction?”
 
@@ -187,7 +187,7 @@ When they say “no”, instruct the tracker to update Round 4 with no changes f
 
 ### Step 5: Invalid Wallet
 
-Continue narrating. ORANGE is still being sneaky. If he cannot get sats from another wallet, perhaps he can trick the network into updating his wallet with fictional sats.
+Continue narrating. ORANGE is still being sneaky. If they cannot get sats from another wallet, perhaps they can trick the network into updating their wallet with fictional sats.
 
 Tell the class that ORANGE broadcasts the following transaction to the network, “PURPLE SENDS 4 SATS TO ORANGE”.
 
@@ -195,7 +195,7 @@ Tell the class that ORANGE broadcasts the following transaction to the network, 
 
 No one can create sats from nothing. They must come from an existing and valid wallet.
 
-The node runners and miners should NOT agree the transaction is valid because PURPLE is not a real wallet.
+The node runners and miners should not agree that the transaction is valid because PURPLE is not a real wallet.
 
 “NODES and MINERS, will you process this transaction?”
 
@@ -216,8 +216,8 @@ When they say “no”, instruct the tracker to update Round 5 with no changes f
 
 1. There are four types of participants in every Bitcoin transaction: the sender, the recipient, miners, and node operators.
 2. The sender must approve (cryptographically sign) the amount of bitcoin to send AND the specific address to send to.
-3. Recipients must provide a valid address to the sender AND verify the transaction was successfully confirmed on the blockchain.
-4. Miners ensure all criteria are valid before adding transactions to future blocks.
+3. Recipients must provide a valid address to the sender AND verify that the transaction was successfully confirmed on the blockchain.
+4. Miners ensure that all criteria are met before adding transactions to future blocks.
 5. Node operators verify mined blocks are valid before updating their version of the blockchain (the ledger).
 
 ### Discussion questions

@@ -8,7 +8,7 @@ Final class discussion
 ## Duration
 
 ## Description
-Students revisit their initial answers about money, compare them with their current views, and identify a next step.
+Students revisit their initial answers about money, compare them to their current views, and identify a next step.
 ## Objectives
 
 ## Materials
@@ -32,5 +32,4 @@ How did your perspective change? What is your next step?
 ## Notes 
 
 ## Additional Resources
-
 

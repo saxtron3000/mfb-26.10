@@ -36,7 +36,7 @@ Practice doing the math as if you were the student. This is very important. This
 
 ### Setup
 
-There is very little set up needed. Distributing paper, pens, and calculators before class will speed up the activity.
+There is very little setup needed. Distributing paper, pens, and calculators before class will speed up the activity.
 
 Have your whiteboard or spreadsheet display ready before class as well. For example, draw the tracking tables before class. This will save time during the activity.
 
@@ -84,10 +84,10 @@ Give them time between steps to talk with one another.
 
 Tell the students there will now be six colors and a bank. You, the teacher, will be the bank and you virtually distribute the money.
 
-**For this example, we are using 100 Monopoly money.** Explain that the class with have one designated student as the oﬃcial tracker.
+**For this example, we are using 100 Monopoly dollars.** Explain that the class will have one designated student as the official tracker.
 
 1. The BANKER has 2,100 Monopoly dollars
-2. The BANKER pays each player 200 (ask the student who is the designated tracker to update the ledger, and to update the class on how much the teacher/bank now has (900).
+2. The BANKER pays each player 200. Ask the designated student tracker to update the ledger and tell the class how much the BANKER now has (900).
 3. BLUE pays GREEN 200 (ask the designated student tracker to give a new summary of who has how much)
 4. BANKER pays ORANGE 800 (designated student tracker gives update)
 
@@ -99,7 +99,7 @@ Tell the students there will now be six colors and a bank. You, the teacher, wil
 | STEP 4 | BANKER pays ORANGE 800 | 100 | 200 | 0 | 200 | 200 | 1,000 | 400 |
 
 5. Tell the class that BLUE landed on a hotel on Broadway and needs 600 to pay GREEN. Ask if the bank (aka teacher) has enough?
-6. Explain that because **you, the teacher, are the banker you can create money.** You decide that you like BLUE. He is a friend of yours and you do not want him to go bankrupt so you create 600 from nowhere.
+6. Explain that because **you, the teacher, are the banker, you can create money.** You decide that you like BLUE. BLUE is a friend of yours, and you do not want them to go bankrupt, so you create 600 from nowhere.
 7. You then give your friend BLUE 600
 
 |  |  | BANKER | RED | BLUE | PURPLE | BLACK | ORANGE | GREEN |
@@ -114,7 +114,7 @@ Tell the students there will now be six colors and a bank. You, the teacher, wil
 
 Inform the class you are repeating the exact exercise with one major diﬀerence. This time, instead of having one tracker, every student uses their own tracking sheet.
 
-**ALL students fill create and update a table.**
+**ALL students create and update a table.**
 
 After each step, ask if everyone agrees on who has how much.
 
@@ -135,7 +135,7 @@ There are thousands of NODE RUNNERS, people who run Bitcoin on their own compute
 1. **Consensus = agreement.**
 2. One big diﬀerence between a group with centralized control and one without is the question of trust. Decentralized groups like peer-to-peer networks do not have a leader and participants do not trust each other. They require a diﬀerent way to coordinate.
 3. For developers of peer-to-peer networks, this is known as the Byzantine Generals Problem. Bitcoin solves this challenge with math and proof-of-work mining.
-4. Bitcoin being decentralized is critical to its value. Historically human leaders always succumb to the temptation to debase money over the long term.
+4. Bitcoin being decentralized is critical to its value. Historically, human leaders have always succumbed to the temptation to debase money over the long term.
 5. The Nakamoto Consensus is named after the creator of Bitcoin, Satoshi Nakamoto. **This consensus (agreement) mechanism is how thousands of strangers who do not trust each other have maintained the Bitcoin ledger since 2009.**
 
 ### Discussion questions
@@ -164,7 +164,7 @@ Expect clarification questions from students.
 
 Allow for time to address these questions.
 
-Allow time for students to do the math calculations, especially if they are doing them by hand
+Allow time for students to do the calculations, especially if they are doing them by hand.
 
 ## Additional Resources
 

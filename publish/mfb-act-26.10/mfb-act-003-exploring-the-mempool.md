@@ -66,17 +66,17 @@ Ask questions to start the overview:
 • “How long ago was it added to the timechain?”
 • “Who mined it?”
 
-### Step 2: Diving Deeper… Blockchain (All Blocks) One Block
+### Step 2: Diving Deeper: Blockchain (All Blocks), One Block
 
 Explain to students that by clicking on a block you can explore more details.
 
-When you do this, students can see details: e.g., transaction fees paid to the miner, on the left-hand side.
+When you do this, students can see details, such as transaction fees paid to the miner, on the left-hand side.
 
-On the right side is the block visualizer, which gives a sense of how much “space” each transaction takes up of the 4MB block limit. Larger cubes mean bigger transactions.
+On the right side is the block visualizer, which gives a sense of how much “space” each transaction takes up within the 4 MB block limit. Larger cubes mean bigger transactions.
 
 Quick breakdown:
 
-• **Cubes = Transactions:** Each cube is one transaction, arranged in a grid based on their order in the block (x-y plane shows the sequenceand packing).
+• **Cubes = Transactions:** Each cube is one transaction, arranged in a grid based on its order in the block (the x-y plane shows the sequence and packing).
 
 • **Height = Size in vB:** Taller cubes = larger transactions, e.g., those with many inputs/outputs.
 
@@ -84,7 +84,7 @@ Quick breakdown:
 
 • **Other Dimensions:** Width/depth might be normalized or fixed for the grid, but height scales directly with vB to show relative sizes.
 
-### Step 3: Going Deeper … One Block (Many Transactions) One Transaction
+### Step 3: Going Deeper: One Block (Many Transactions), One Transaction
 
 Explain to students that by clicking on a transaction you can explore more details. If you have a specific transaction, you can also use the search tool.
 
@@ -95,12 +95,12 @@ You can further drill down by selecting a specific input, or specific output.
 Questions for discussion:
 
 • What is significant about block 800,000? (Trick question… it is not a halving! One epoch = 210,000 blocks.)
-• How does this diagram of inputs and outputs relate to UTXO’s?
+• How does this diagram of inputs and outputs relate to UTXOs?
 • Why might someone overpay a transaction fee?
 
 Remind students that a halving occurs every 210,000 blocks. A group of 210,000 blocks is also called an epoch.
 
-The 4th “halving occurred at the 840,000th block.
+The fourth halving occurred at block 840,000.
 
 Go to the search tool and type “840000”.
 
@@ -164,7 +164,7 @@ Wrap up the activity with a class discussion.
 ### Discussion questions
 
 • Is there only one mempool?
-• ho manages mempools?
+• Who manages mempools?
 • Can you have your own mempool?
 
 Yes! When you run your own full Bitcoin node, you have a memory pool of unconfirmed transactions that the node has received, validated, and is holding until they are included in a block by miners. This is a core part of how nodes contribute to Bitcoin's decentralization and security.

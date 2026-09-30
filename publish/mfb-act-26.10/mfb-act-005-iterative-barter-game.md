@@ -40,7 +40,7 @@ After you have delivered the activity the first time, future preparation is mini
 
 The goal is to have cards separated by suit before you begin the exercise. You have the choice of opening the decks and separating cards by suit yourself, or enrolling students in this step.
 
-When you introduce this activity to the class, you will ask students to separate into four groups. For setup, this means you should plan where you want each of the four groups to go. For example, you may rearrange desks before class starts. It is helpful but not required to label team areas with a sign such as “TEAM ACES”, etc.
+When you introduce this activity to the class, you will ask students to separate into four groups. For setup, this means you should plan where you want each of the four groups to go. For example, you may rearrange desks before class starts. It is helpful but not required to label team areas with a sign such as “TEAM ACES,” etc.
 
 ### Overview
 
@@ -48,20 +48,20 @@ Explain to the students that this is a bartering game. If there are 10 or fewer 
 
 This activity has three rounds. To begin, assign students to one of four “markets”: CLUB-MAKERS, SPADE-MAKERS, HEARTS-MAKERS, DIAMOND-MAKERS.
 
-Give a set of cards to its respective suit-group or distribute evenly if playing individuals. For example, those students in spade-makers group should start with spades, etc.
+Give each group a set of cards matching its suit, or distribute the cards evenly if students are playing individually. For example, students in the spade-makers group should start with spades.
 
 ### Step 1: Round 1: The Coincidence-of-Wants Round
 
-Give student their assignments (table below). Their goal is to get their “wants”.
+Give students their assignments (table below). Their goal is to get their “wants.”
 
 Then give them 5 minutes to walk around and negotiate trades with other groups.
 
-**Note in round 1, there are matches between the groups.**
+**Note that in round 1, there are matches between the groups.**
 
 | Market | Wants |
 | --- | --- |
 | CLUB-MAKERS | spades |
-| SHADE-MAKERS | clubs |
+| SPADE-MAKERS | clubs |
 | HEART-MAKERS | diamonds |
 | DIAMOND-MAKERS | hearts |
 
@@ -73,16 +73,16 @@ Then give them time to walk around and negotiate trades with other groups.
 
 Take a few minutes to allow students time to share what was diﬀerent between the first and second rounds.
 
-**Note in round 2, there are no direct matches between groups. To get what they want, students necessarily must conduct multiple trades.**
+**Note that in round 2, there are no direct matches between groups. To get what they want, students must conduct multiple trades.**
 
 | Market | Wants |
 | --- | --- |
 | CLUB-MAKERS | spades |
-| SHADE-MAKERS | hearts |
+| SPADE-MAKERS | hearts |
 | HEART-MAKERS | diamonds |
 | DIAMOND-MAKERS | clubs |
 
-### Step 3: Round 3: Most Sale-able Goods Round
+### Step 3: Round 3: Most Saleable Goods Round
 
 Give students their new assignments (table below). Their goal is to get their “wants”.
 
@@ -90,13 +90,13 @@ Then give time to walk around and negotiate trades with other groups.
 
 As before, after trading is done, allow the students to share what was diﬀerent between all three rounds.
 
-**Note in round 3, diamonds became the most sell-able good. Ask students how gold has fulfilled this role historically.**
+**Note that in round 3, diamonds became the most saleable good. Ask students how gold has fulfilled this role historically.**
 
 | Market | Wants |
 | --- | --- |
 | CLUB-MAKERS | spades or diamonds |
-| SHADE-MAKERS | hearts or diamonds |
-| HEART-MAKERS | diamonds or diamonds |
+| SPADE-MAKERS | hearts or diamonds |
+| HEART-MAKERS | clubs or diamonds |
 | DIAMOND-MAKERS | clubs or hearts or spades |
 
 ## Review
@@ -105,11 +105,11 @@ As before, after trading is done, allow the students to share what was diﬀeren
 
 1. Direct bartering is possible with exact matches in wants.
 2. Indirect bartering helps but increases complexity of trades.
-3. Discovering the **most tradable good** (i.e., most sale-able) is a **natural process** and leads to money.
+3. Discovering the **most tradable good** (i.e., most saleable) is a **natural process** and leads to money.
 
 ### Discussion questions
 
-• What were the most frustrating things you experienced or observed during the three rounds of trading?
+• What were the most frustrating things that you experienced or observed during the three rounds of trading?
 • How does gold work as a tradable good?
 • Can anything be a tradable good? Cigarettes in a prison?
 • Trading cards in a lunchroom? Candy at school?
@@ -120,7 +120,7 @@ As before, after trading is done, allow the students to share what was diﬀeren
 
 The minimum play time for this is 10 minutes per step or 3 * 10 = 30 minutes.
 
-Plan on a full hour including set up, explanation, play, discussion and cleanup.
+Plan on a full hour including setup, explanation, play, discussion, and cleanup.
 
 **This activity is a participatory game. The more you invest in terms of eﬀort and creativity, the more fun it will be … and the more eﬀective.**
 

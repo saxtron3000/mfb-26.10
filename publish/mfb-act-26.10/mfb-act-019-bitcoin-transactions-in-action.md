@@ -23,7 +23,7 @@ Senders write the amount and receiver on a transaction note, sign it, and pass t
 ### Step 2
 Receivers check the note and coin count, then approve or reject. Nodes validate addresses, sufficient funds, and absence of double spending.
 ### Step 3
-Miners review approved transactions, roll dice, and the miner with the smaller number adds the transaction to the blockchain. Students keep track of their coin balances.
+Miners review approved transactions, roll dice, and the miner with the smallest number adds the transaction to the blockchain. Students keep track of their coin balances.
 ## Review
 ### Key Points
 Once added to the blockchain, a transaction cannot be changed or reversed.

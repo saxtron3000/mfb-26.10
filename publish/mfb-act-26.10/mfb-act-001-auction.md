@@ -14,9 +14,11 @@
 
 ## Description
 
-This is a class exercise where participants learn firsthand how the increase in money supply impacts pricing. The intent is for participants to understand monetary inflation (not price inflation).
+This is a lively class exercise in which participants add money to a classroom economy and observe changes in winning bids. The central learning goal is to distinguish monetary inflation—the increase in the money supply—from price inflation—the change in a price. It is best suited to younger groups or classes that enjoy active, game-based participation.
 
 ## Objectives
+
+- Distinguish monetary inflation from price inflation.
 
 ## Preparation
 
@@ -24,7 +26,7 @@ This is a class exercise where participants learn firsthand how the increase in 
 
 • 1x set of Monopoly money
 • 3+ candy bars (or other rewards)
-• White board or projector / screen
+• Whiteboard or projector / screen
 • Calculators for students
 
 ### Preparation Notes
@@ -61,7 +63,7 @@ In this activity we are using Monopoly money to represent the total supply of mo
 • Money market accounts
 • Certificates of deposit
 
-Give an overview of auctions and how they work. The most common type is where products go to the highest bidder. Give examples your students may have seen in shows or movies, (e.g., art or antique auctions, cattle, property, etc.)
+Give an overview of auctions and how they work. The most common type is where products go to the highest bidder. Give examples your students may have seen in shows or movies (e.g., art or antique auctions, cattle, property, etc.).
 
 Finally, there are cool products to bid on, i.e., candy bars. Students who win the auctions using Monopoly money get real things!
 
@@ -71,14 +73,14 @@ Pick up the first pile of Monopoly money and distribute varying amounts to stude
 
 Show the product they will be bidding on.
 
-Start the bidding. Ask if anyone will bid 1Monopoly Dollar. Everyone’s hand should go up. Then increase to 2 Monopoly Dollars, etc.
+Start the bidding. Ask if anyone will bid 1 Monopoly Dollar. Everyone’s hand should go up. Then increase to 2 Monopoly Dollars, etc.
 
-**Students will realize that, since they have no other need for Monopoly money, that it’s best to just go all-in. This can drain the fun out of the activity quickly. Here are a couple of tips to keep the activity engaging for all students:**
+**Students will realize that, since they have no other need for Monopoly money, it is best to go all in. This can drain the fun out of the activity quickly. Here are a couple of tips to keep the activity engaging for all students:**
 
 1. Let students know they can partner up. Two or more students can agree to pool their money and split the reward.
 2. Remind students there are multiple rounds. If you use your Monopoly money up in the first round, you will be at a disadvantage in the following rounds.
 
-Once the bidding has stopped, take the Monopoly money from the winning bidder and give him/her the candy bar.
+Once the bidding has stopped, take the Monopoly money from the winning bidder and give them the candy bar.
 
 Then update the table with the total money supply and the winning bid.
 
@@ -88,9 +90,9 @@ Then update the table with the total money supply and the winning bid.
 | 2 |  |  |
 | 3 |  |  |
 
-**The “Money Supply” is the total amount of money in play in this round. This includes all students and the winning bid paid to you. Note the amounts show here are examples.**
+**The “Money Supply” is the total amount of money in play in this round. This includes all students and the winning bid paid to you. Note that the amounts shown here are examples.**
 
-Remind students this is the “classroom economy”. Lead a discussion about how this represents a real academy.
+Remind students that this is the “classroom economy.” Lead a discussion about how this represents a real economy.
 
 ### Step 2: Round 2
 
@@ -100,7 +102,7 @@ Pick up the second pile of Monopoly money and distribute to all students like yo
 
 **Exception: If you want to intentionally discuss the Cantillon Eﬀect, you can adjust this activity by distributing more money to those closest to you. You are the central bank and the students closest to you are the largest commercial banks or other “too big to fail” companies.**
 
-Then update the tracking table and continue the class discussion. Ensure they see the the impact on the winning bid when the total money supply increased.
+Then update the tracking table and continue the class discussion. Ensure they see the impact on the winning bid as the total money supply increases.
 
 | Round | Money Supply | Winning Bid |
 | ---: | ---: | ---: |
@@ -108,7 +110,7 @@ Then update the tracking table and continue the class discussion. Ensure they se
 | 2 | 6,750 | 820 |
 | 3 |  |  |
 
-**Note the amounts shown here are examples. The amounts will change based on how much Monopoly money are used in class.**
+**Note that the amounts shown here are examples. The amounts will change based on how much Monopoly money is used in class.**
 
 ### Step 3: Round 3
 
@@ -116,7 +118,7 @@ Pick up the third and last pile of Monopoly money and distribute to all.
 
 Repeat the auction process for the next candy bar.
 
-Then update the tracking table and continue the class discussion. Ensure they see the the impact on the winning bid when the total money supply increased.
+Then update the tracking table and continue the class discussion. Ensure they see the impact on the winning bid as the total money supply increases.
 
 | Round | Money Supply | Winning Bid |
 | ---: | ---: | ---: |
@@ -124,7 +126,7 @@ Then update the tracking table and continue the class discussion. Ensure they se
 | 2 | 6,750 | 820 |
 | 3 | 8,450 | 1,100 |
 
-**Note the amounts shown here are examples. The amounts will change based on how much Monopoly money are used in class.**
+**Note that the amounts shown here are examples. The amounts will change based on how much Monopoly money is used in class.**
 
 Point out that the increase in the middle “Money Supply” column is called monetary inflation. The increase in the right “Winning Bid” column is called price inflation. **Monetary inflation leads to price inflation.**
 
@@ -145,18 +147,22 @@ What is the relationship between increasing money supply and price inflation?
 
 How is the money supply relevant in the real world?
 
-When new money is injected into the economy, what do you think will happen to the prices of good and services?
+When new money is injected into the economy, what do you think will happen to the prices of goods and services?
 
 • Do you think the changes in prices are temporary or permanent and why?
-• How do you think price changes aﬀect citizens long-term?
+• How do you think price changes affect citizens in the long term?
 
 ## Notes
 
 This activity has time between rounds. For example, it will take a few minutes to distribute the Monopoly bills.
 
+### Compact adaptation for mature or time-constrained groups
+
+For adult learners or classes where a 30-minute game is not a good fit, run a brief two-round demonstration instead. Give each participant an equal amount of play money, present the same item in both rounds, and invite bids. Then give every participant the same additional amount of money and immediately repeat the auction for the same item. Record the money supply and winning bid after each round, then use the comparison as the basis for discussion. This version can illustrate the concept in about 10 minutes without the distribution, multiple rewards, or extended gameplay.
+
 This downtime is ideal for adding context verbally, like explaining how play money represents coins, paper currency, checking accounts, savings accounts and other forms of real money.
 
-It only takes a few minutes to fill in the tracking table explained in detailed steps below. **The value of the activity comes from class discussions.** This drives the time needed. Plan for the discussion times between rounds to take 50% or more of the total activity time.
+It only takes a few minutes to fill in the tracking table explained in detailed steps below. **The value of the activity comes from class discussions.** This drives the time needed. Plan for discussion time between rounds to take 50% or more of the total activity time.
 
 ## Additional Resources
 

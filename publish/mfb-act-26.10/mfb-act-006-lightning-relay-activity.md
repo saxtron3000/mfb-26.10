@@ -36,7 +36,7 @@ Prepare a backup route and verify it in your region. A backup may be another che
 
 ### Setup
 
-There is nothing to set up other than having your Lighting wallet ready to go with some sats to start the relay.
+There is nothing to set up other than having your Lightning wallet ready to go with some sats to start the relay.
 
 ### Overview
 
@@ -56,7 +56,7 @@ Ask one student in the first group to generate a Lightning invoice, address, or 
 
 Then send them 21 sats.
 
-Once they verify they received the sats, tell them to relay those sats to the next person in their group. Remind them the goal is for everyone to both receiveand send sats.
+Once they verify that they received the sats, tell them to relay those sats to the next person in their group. Remind them that the goal is for everyone to both receive and send sats.
 
 Move to the other groups to get them started as well.
 
@@ -94,7 +94,7 @@ Then lead an open discussion about their experience.
 
 **Diploma assessment link:** May support [`T3` / `C8`](https://programs.myfirstbitcoin.org/programs/educator-guide/) and, after approved safety adaptation, [`P9` / `C9`](https://programs.myfirstbitcoin.org/programs/educator-guide/). As written, it is not a certificated task: use a prepared low-stakes or simulated environment and never require real funds, a personal wallet, or a learner-owned device.
 
-The technical skill level of your students will impact how long it takes to conduct the Lightning Relay. Consider teaming more technical students with the less technical so they can help them.
+The technical skill level of your students will affect how long it takes to conduct the Lightning Relay. Consider pairing more technical students with less-technical students so they can help one another.
 
 Plan on spending half your activity time assisting students in setting up their Lightning wallets.
 

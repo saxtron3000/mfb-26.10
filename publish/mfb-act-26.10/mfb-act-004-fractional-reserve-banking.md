@@ -22,7 +22,7 @@ This is a class exercise exploring individual actions by people and banks using 
 
 ### Materials
 
-• White board or projector / screen
+• Whiteboard or projector / screen
 • Calculators for students
 
 ### Preparation Notes
@@ -53,13 +53,13 @@ Explain to the students that this is a role-playing game. They will either be a 
 
 Then explain you, the teacher, are the central bank. You will set the fractional reserve percentage.
 
-The flow of the activity follows this pattern: A person deposits money in a bank. That bank keeps the minimum amount based on the reserve percentage and lends the rest to another person. The total supply of money as increased.
+The flow of the activity follows this pattern: A person deposits money in a bank. That bank keeps the minimum amount based on the reserve percentage and lends the rest to another person. The total supply of money increases.
 
 ### Step 1: Person A
 
 Ask who wants to win the lottery?
 
-**Asking for volunteers to start the exercise is best. If no one raises their hand, go ahead a choose a student to be Person A.**
+**Asking for volunteers to start the exercise is best. If no one raises their hand, go ahead and choose a student to be Person A.**
 
 Explain that Person A won the lottery, $100,000, and will now decide which bank to deposit their money in. Whoever they choose, tell that person they are Bank 1.
 
@@ -105,13 +105,13 @@ Highlight for the class that the ”total money” has increased to $190,000.
 
 ### Step 3: The Second Loan
 
-Repeat the process from Steps #2 and #3. Involve students who have not already participated. You’ll add Person C and Bank 3.
+Repeat the process from Step 2. Involve students who have not already participated. You’ll add Person C and Bank 3.
 
 **Point to the fractional reserve percentage on the tracker and the deposited amount while you explain “10% of $90,000 = $9,000. So, the amount you can lend is $90,000 - $9,000 = $81,000.”**
 
 **Update the table for the $81,000 Person C deposits in Bank 3.**
 
-Highlight the ”total money” has increased to $271,000.
+Highlight that the “total money” has increased to $271,000.
 
 | 10% Reserve | Bank 1 | Bank 2 | Bank 3 | Bank 4 | Bank 5 | Bank 6 | Total |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -129,7 +129,7 @@ Highlight the ”total money” has increased to $271,000.
 
 **Otherwise, repeat the previous steps with Persons D, E and F and Banks 4, 5 and 6.**
 
-Highlight that the ”total money” has increased to $468,559.
+Highlight that the “total money” has increased to $468,559.
 
 | 10% Reserve | Bank 1 | Bank 2 | Bank 3 | Bank 4 | Bank 5 | Bank 6 | Total |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -146,8 +146,8 @@ Highlight that the ”total money” has increased to $468,559.
 ### Key Points
 
 1. **A fraction = part of a whole.**
-2. Fractional reserve banking is a tool banks use to lend more than they keep on-hand, or “in reserve”.
-3. The smaller the reserve, the more risk banks face in terms of bank-runs or default.
+2. Fractional reserve banking is a tool banks use to lend more than they keep on hand, or “in reserve.”
+3. The smaller the reserve, the more risk banks face in terms of bank runs or default.
 4. This tool can be used with sound money (e.g., gold) or with unsound money (i.e., fiat).
 5. The ability to expand the money supply, combined with bailouts and insurance programs (i.e., FDIC) leads to moral hazard for banks. They have an incentive to make riskier decisions because they keep the profits, but their losses are socialized (i.e. paid by everyone).
 
@@ -163,7 +163,7 @@ Highlight that the ”total money” has increased to $468,559.
 
 This activity uses role playing, which requires time for students to think about the rules and act. Allow for 30 minutes for the activity and 5 minutes after the activity for discussion.
 
-To accelerate the exercise, you can do this cooperatively as a class Allow for 15 minutes for the activity and 5 minutes for discussion.
+To accelerate the exercise, you can do this cooperatively as a class. Allow 15 minutes for the activity and 5 minutes for discussion.
 
 ## Additional Resources
 
@@ -183,4 +183,4 @@ https://www.whatstheproblem.org/
 
 “Broken Money” by Lyn Alden is a long, in-depth book. This is for those who have a passion for the subject of money and want to go deep in their personal studies.
 
-https://www.lynalden.com/broken-money/https:/www.lynalden.com/broken-money/
+https://www.lynalden.com/broken-money/

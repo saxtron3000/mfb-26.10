@@ -1,6 +1,6 @@
 # Verification
 ## Keywords
-don’t trust, verify, mining, nodes, proof of work
+Don’t trust, verify, mining, nodes, proof of work
 ## Activity Type
 Class demonstration
 ## Participation
