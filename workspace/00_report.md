@@ -176,7 +176,7 @@ The project repeatedly describes two non-compensatory components but also calls 
 
 Recommended harmonization:
 
-> The Diploma has two equally important, non-compensatory completion gates: theoretical understanding and practical competency. A learner must meet the approved standard for every required mapped objective and every safety-critical criterion. Results are recorded separately as Meets standard or Not yet. No combined average can compensate for an unmet gate.
+> The Diploma has two equally important, non-compensatory completion gates: theoretical understanding and practical competency. A learner must meet the approved standard for every required mapped objective and every safety-critical criterion. Results are recorded separately as Yes or Not yet. No combined average can compensate for an unmet gate.
 
 If a numerical score is needed for reporting, define it only after objective weights, aggregation, rounding, minimums, and treatment of safety-critical failures are approved. Do not use “50%” as though it already provides those rules.
 
@@ -305,7 +305,7 @@ The biggest conciseness gain will come from the Educator Guide. Do not shorten i
 - Build the 25-row objective-to-evidence crosswalk.
 - Approve the minimum theory interactions and Module 3/4 practical tasks.
 - Write rubrics, prompting limits, safety-critical failures, records, and reassessment rules.
-- Produce two `Meets standard` and two `Not yet` calibration examples for each critical task family.
+- Produce two Yes and two Not yet calibration examples for each critical task family.
 - Approve the minimum privacy, safeguarding, accessibility, correction, and appeals pack.
 
 ### Third: usability and timing pilot

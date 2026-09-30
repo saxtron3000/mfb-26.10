@@ -321,7 +321,7 @@ Use prepared wallets, simulations, testnet, or appropriately low-stakes transact
 5. Use only the level of prompting permitted by the rubric.
 6. Ask the learner to explain important checks and decisions.
 7. Mark each criterion using the approved rubric.
-8. Record **Meets standard** or **Not yet** and the required evidence reference.
+8. Record **Showing competency: Yes** or **Showing competency: Not yet** and the required evidence reference.
 9. Give specific feedback.
 10. Provide further practice and reassessment after a **Not yet** result.
 
@@ -347,7 +347,7 @@ Record only the minimum evidence needed. Do not photograph, copy, or store seed 
 
 ### 5.7 Feedback, Reassessment, And Accessibility
 
-**Not yet** means that the learner needs more learning or practice; it is not a permanent failure.
+**Showing competency: Not yet** means that the learner is building competency and needs more learning or practice; it is not a permanent failure. Educators may return to reassess at any point.
 
 For the theoretical component, the educator reassesses approved theory interactions against their criteria and may also provide formative help. Optional app self-checks may support review but are not recorded assessment evidence.
 
@@ -359,7 +359,7 @@ Practical-task accommodations may change how a learner receives instructions, co
 
 Every educator who assesses practical competency needs preparation. The operational assessment protocol includes:
 
-- annotated examples of passing and **Not yet** evidence;
+- annotated examples of **Yes** and **Not yet** evidence;
 - practice scoring common learner responses and performances;
 - guidance on permitted prompts;
 - equivalent task variants;

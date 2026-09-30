@@ -4,7 +4,7 @@ Teaching the Bitcoin Diploma
 
 ## About this guide
 
-The Educator Guide supports teaching the 2026.10 Bitcoin Diploma. Linked terms open their definitions in the [Lexicon](../mfb-lx-26.10.md). Use it with the [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/), the Educator Assessment Grid, and the learning activities supplied for your course. The [My First Bitcoin App](https://myfirstbitcoin.app/) offers optional microlearning, self-checks, recap, and discovery. Learners can complete the course without using it.
+The Educator Guide supports teaching the 2026.10 Bitcoin Diploma. Linked terms open their definitions in the [Lexicon](../mfb-lx-26.10.md). Use it with the [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/), [Educator Quick Start](mfb-bd-qs-26.10.md), [Educator Assessment Grid](mfb-bd-assessment-grid-26.10.md), and the learning activities supplied for your course. The [My First Bitcoin App](https://myfirstbitcoin.app/) offers optional microlearning, self-checks, recap, and discovery. Learners can complete the course without using it.
 
 Download the [My First Bitcoin App](https://myfirstbitcoin.app/) for optional microlearning, self-checks, recap, and more learning opportunities.
 
@@ -41,7 +41,7 @@ For a new teacher, the model can be remembered as two completion gates:
 These are not numerical grades. Both components need to be complete, and every required competency needs to meet its standard before a completion certificate is issued.
 
 <!-- VISUAL: BD-V-081
-ALT: Theory competencies C1–C5 and practical competencies C6–C7 must each meet standard before assessment completion. Not yet evidence returns to practice and reassessment; attendance, optional app review, and formative reflection do not replace either component.
+ALT: Theory competencies C1–C5 and practical competencies C6–C7 must each receive a Yes for showing competency before assessment completion. Not yet returns to practice and reassessment; attendance, optional app review, and formative reflection do not replace either component.
 ASSET: assets/briefs/bd-v-081-brief.md
 USE: Educator-only diagram; see the asset index brief.
 -->
@@ -62,9 +62,9 @@ This protocol is the source of truth for the Diploma's seven assessed competenci
 | `C6` Safe access and recovery readiness | `C6.1` In an approved low-stakes or simulated setting, navigate a prepared wallet, complete or safely simulate a receive-or-send flow and supported first access or receipt, and verify the relevant destination, amount, network, and status.<br>`C6.2` Demonstrate recovery readiness using prepared or simulated materials while protecting all real secrets. | Direct observation of both distinct practical performances; one final result. |
 | `C7` Local Bitcoin-as-money task | `C7.1` Safely perform one educator-selected locally relevant task or simulation, including required checks.<br>`C7.2` Explain its local purpose, realistic alternative, trade-offs, possible failure points, safety considerations, and realistic next step. | Direct observation of individual performance and explanation. |
 
-Record one `MS` or `NY` for each parent competency. Every required look-for must be evidenced. A teaching activity may support several look-fors without becoming a separate test. `F1` (reasoned discussion) and `F2` (course reflection) are formative, not certificate gates.
+Record **Showing competency: Yes** or **Showing competency: Not yet** for each parent competency. Every required look-for must be evidenced. A teaching activity may support several look-fors without becoming a separate test. `F1` (reasoned discussion) and `F2` (course reflection) are formative, not certificate gates.
 
-- Mark `MS` when the learner has shown the competency sufficiently and safely. Mark `NY` when more teaching, practice, or another opportunity is needed.
+- Record **Yes** when the learner has shown the competency sufficiently and safely. Record **Not yet** when more teaching, practice, or another opportunity is needed; this means the learner is building competency.
 - Attendance, confidence, group membership, [My First Bitcoin App](https://myfirstbitcoin.app/) results, and self-report do not replace a learner showing the competency. Activity completion can provide evidence when the activity is designed to reveal the relevant understanding or action.
 - Use prepared wallets, simulations, testnet, physical tokens, or appropriately low-stakes arrangements. Learners should never be asked to risk significant funds or expose a [seed phrase](../mfb-lx-26.10.md#term-seed-phrase), [private key](../mfb-lx-26.10.md#term-private-key), password, balance, or unnecessary personal information.
 - When working as a group, make sure you can still notice each learner's relevant understanding, decisions, and safety behaviour. A friendly probing question is often enough.
@@ -89,18 +89,18 @@ USE: Educator-only diagram; see the asset index brief.
 
 | Code | Teach and practise | Suggested activity or interaction | What to look for | Simple record | Planning guide* |
 |---|---|---|---|---|---:|
-| `C1` | Student Guide, **Module 1: money and modern-money trade-offs** | `T1` Money comparison and local scenario | Explains why money is used, compares two forms, and explains one realistic modern-money trade-off. | `C1 MS/NY` | 5–7 min |
-| `C2` | Student Guide, **Module 2: Bitcoin foundations and rules** | `T2` Digital-money and participant-role explanations | Explains copying, shared verification, Bitcoin's rules and participant roles at a beginner level, and how a Bitcoin property could help or limit its use as money. | `C2 MS/NY` | 4–6 min |
-| `C3` | Student Guide, **Module 2: digital-asset comparison** | `T2` Guided comparison | Compares Bitcoin with another digital asset and distinguishes learning from speculation or promotion. | `C3 MS/NY` | 2–3 min |
-| `C4` | Student Guide, **Module 3: wallets, custody, and safety** | `T3` Custody and safety scenario | Explains public and secret information, custody and wallet types, and a safe response to risk. | `C4 MS/NY` | 3–5 min |
-| `C5` | Student Guide, **Module 3: payment and access pathways** | `T3` Payment-pathway choice | Compares on-chain and Lightning payments plus an access or exchange trade-off. | `C5 MS/NY` | 2–3 min |
-| `C6` | **Module 3** prepared practice circuit | `P6a` First access and receipt; `P6b` recovery readiness | Observes both practical performances and all safety checks before one result. | `C6 MS/NY` | 10–13 min |
-| `C7` | **Module 4** selected local Connect practice | `P7` Local Connect activity | Completes the safe task and explains local purpose, alternative, trade-offs, failure points, safety, and next step. | `C7 MS/NY` | 6–8 min |
+| `C1` | Student Guide, **Module 1: money and modern-money trade-offs** | `T1` Money comparison and local scenario | Explains why money is used, compares two forms, and explains one realistic modern-money trade-off. | `C1`: Yes / Not yet | 5–7 min |
+| `C2` | Student Guide, **Module 2: Bitcoin foundations and rules** | `T2` Digital-money and participant-role explanations | Explains copying, shared verification, Bitcoin's rules and participant roles at a beginner level, and how a Bitcoin property could help or limit its use as money. | `C2`: Yes / Not yet | 4–6 min |
+| `C3` | Student Guide, **Module 2: digital-asset comparison** | `T2` Guided comparison | Compares Bitcoin with another digital asset and distinguishes learning from speculation or promotion. | `C3`: Yes / Not yet | 2–3 min |
+| `C4` | Student Guide, **Module 3: wallets, custody, and safety** | `T3` Custody and safety scenario | Explains public and secret information, custody and wallet types, and a safe response to risk. | `C4`: Yes / Not yet | 3–5 min |
+| `C5` | Student Guide, **Module 3: payment and access pathways** | `T3` Payment-pathway choice | Compares on-chain and Lightning payments plus an access or exchange trade-off. | `C5`: Yes / Not yet | 2–3 min |
+| `C6` | **Module 3** prepared practice circuit | `P6a` First access and receipt; `P6b` recovery readiness | Observes both practical performances and all safety checks before one result. | `C6`: Yes / Not yet | 10–13 min |
+| `C7` | **Module 4** selected local Connect practice | `P7` Local Connect activity | Completes the safe task and explains local purpose, alternative, trade-offs, failure points, safety, and next step. | `C7`: Yes / Not yet | 6–8 min |
 
 \*Planning times are optional estimates to help you make the session comfortable. They are not a fixed schedule, cohort limit, or requirement to use a particular task.
 
 <!-- VISUAL: BD-V-083
-ALT: Example theory interactions support C1–C5, and example practical routes support C6–C7. Each competency receives one Meets standard or Not yet result; brief evidence notes are optional.
+ALT: Example theory interactions support C1–C5, and example practical routes support C6–C7. Each competency receives one Yes or Not yet result for showing competency; brief evidence notes are optional.
 ASSET: assets/briefs/bd-v-083-brief.md
 USE: Educator-only diagram; see the asset index brief.
 -->
@@ -115,23 +115,25 @@ ASSET: assets/briefs/bd-v-084-brief.md
 USE: Educator-only diagram; see the asset index brief.
 -->
 
-**Safety-critical practical errors:** Record `NY` and pause the task if the learner reveals or attempts to share a [seed phrase](../mfb-lx-26.10.md#term-seed-phrase), [private key](../mfb-lx-26.10.md#term-private-key), password, or unnecessary personal information; proceeds after a known address, invoice, amount, or recipient mismatch; accepts an obvious scam or urgent secret request; or bypasses a required verification step. Explain the reason kindly, reset to a safe environment, practise, and reassess later. If personal funds are used by choice, keep the amount genuinely low and make the risk of loss clear; no learner should need personal funds to complete the Diploma.
+**Safety-critical practical errors:** Record **Not yet** and pause the task if the learner reveals or attempts to share a [seed phrase](../mfb-lx-26.10.md#term-seed-phrase), [private key](../mfb-lx-26.10.md#term-private-key), password, or unnecessary personal information; proceeds after a known address, invoice, amount, or recipient mismatch; accepts an obvious scam or urgent secret request; or bypasses a required verification step. Explain the reason kindly, reset to a safe environment, practise, and reassess later. The learner is building competency. If personal funds are used by choice, keep the amount genuinely low and make the risk of loss clear; no learner should need personal funds to complete the Diploma.
 
 **Accessibility and low-tech equivalence:** Use the communication method, translated prompt, large-print or tactile material, oral response, scribed response, prepared paper wallet screens, role-play, or offline simulation that works for the learner while preserving the required action. An equivalent route should make the competency reachable; it should not reduce it to recognition, group participation, or self-report.
 
-**Optional notes:** The Assessment Grid only requires one final `MS` or `NY` result per competency and learner. Brief notes can help you remember what you saw, plan follow-up, or support a reassessment, but task IDs and lengthy evidence records are not required by the grid. Record only minimum necessary learner information and keep it private.
+**Optional notes:** The Assessment Grid only requires one final **Showing competency: Yes** or **Showing competency: Not yet** result per competency and learner. Brief notes can help you remember what you saw, plan follow-up, or support a reassessment, but task IDs and lengthy evidence records are not required by the grid. Record only minimum necessary learner information and keep it private.
 
 ### Example theoretical interactions
 
 These interactions may be woven into normal module teaching. They are examples, not a single written exam or the only valid route. Give each learner a chance to respond, then record each competency separately.
 
+**Understanding and action:** `T1`–`T3` check understanding: the educator listens as the learner explains or compares an idea. `P6a`, `P6b`, and `P7` check safe action: the educator watches the learner complete a practical task. These are suggested ways to gather evidence, not extra tests or grades. Record one final result for each competency in the Assessment Grid.
+
 #### `T1` — Money comparison and local scenario (`C1`)
 
 **Prompt:** “Choose two familiar ways people hold or exchange value. Explain why people use money, why direct [barter](../mfb-lx-26.10.md#term-barter) can be difficult, and how shared money changes that problem. Compare the two using at least two money functions or properties. Then choose one realistic money situation and explain one trade-off it creates.”
 
-**Meets standard:** The learner gives a coherent beginner explanation, uses relevant comparison criteria rather than preference alone, and identifies a plausible trade-off without needing to disclose private finances.
+**Yes:** The learner gives a coherent beginner explanation, uses relevant comparison criteria rather than preference alone, and identifies a plausible trade-off without needing to disclose private finances.
 
-**Not yet:** The learner only names terms, cannot explain the [barter](../mfb-lx-26.10.md#term-barter) or money issue, makes an unsupported comparison, or cannot state a trade-off after permitted clarification.
+**Not yet:** The learner only names terms, cannot explain the [barter](../mfb-lx-26.10.md#term-barter) or money issue, makes an unsupported comparison, or cannot state a trade-off after permitted clarification. Provide support as the learner builds competency.
 
 **Low-tech/equivalent route:** Use two printed picture or word cards and an oral, signed, scribed, or aided response.
 
@@ -139,7 +141,7 @@ These interactions may be woven into normal module teaching. They are examples, 
 
 **Prompt:** “A digital unit is copied and sent to two people. Explain the problem and how shared verification helps. Use this map to explain peer-to-peer transfer, [decentralization](../mfb-lx-26.10.md#term-decentralization), users, [nodes](../mfb-lx-26.10.md#term-node), [miners](../mfb-lx-26.10.md#term-miner), developers, [proof of work](../mfb-lx-26.10.md#term-proof-of-work), public supply rules, the 21 million limit, [halving](../mfb-lx-26.10.md#term-halving), [satoshis](../mfb-lx-26.10.md#term-sat), and the beginner meaning of ‘don’t trust, verify.’ Then explain how a Bitcoin property could help or limit its use as money, noting a trade-off. Compare Bitcoin with a generic stablecoin or another crypto-asset using control, issuance, verification, [custody](../mfb-lx-26.10.md#term-custody), or counterparty. Why is learning this different from trading or promoting it?”
 
-**Meets standard:** The learner accurately explains digital copying/[double spending](../mfb-lx-26.10.md#term-double-spending); identifies the required Bitcoin roles and relevant properties at beginner scope; explains how one Bitcoin property could help or limit its use as money without making an absolute claim; and makes a non-promotional comparison using relevant criteria.
+**Yes:** The learner accurately explains digital copying/[double spending](../mfb-lx-26.10.md#term-double-spending); identifies the required Bitcoin roles and relevant properties at beginner scope; explains how one Bitcoin property could help or limit its use as money without making an absolute claim; and makes a non-promotional comparison using relevant criteria.
 
 **Not yet:** The learner materially confuses roles, claims Bitcoin guarantees [price](../mfb-lx-26.10.md#term-price), [privacy](../mfb-lx-26.10.md#term-privacy), or universal acceptance, presents another [asset](../mfb-lx-26.10.md#term-asset) as identical without comparison, or cannot distinguish education from speculation/promotion.
 
@@ -149,7 +151,7 @@ These interactions may be woven into normal module teaching. They are examples, 
 
 **Prompt:** “A person receives a message asking for their recovery words, and also wants to receive a small payment. Explain what information may be shared and what must remain secret. Compare a custodial and non-custodial option, and explain the beginner difference between a hot and [hardware wallet](../mfb-lx-26.10.md#term-hardware-wallet). What should the person do about the message, and when should they stop or seek help? Finally, choose an on-chain or Lightning path for a guided example and explain one relevant access or exchange trade-off.”
 
-**Meets standard:** The learner distinguishes public receiving information from secrets, explains a [custody](../mfb-lx-26.10.md#term-custody) trade-off and hot/[hardware-wallet](../mfb-lx-26.10.md#term-hardware-wallet) scope, identifies a safe stop/verify/help response and beginner practical limit, and makes a pathway comparison without making a provider or investment recommendation.
+**Yes:** The learner distinguishes public receiving information from secrets, explains a [custody](../mfb-lx-26.10.md#term-custody) trade-off and hot/[hardware-wallet](../mfb-lx-26.10.md#term-hardware-wallet) scope, identifies a safe stop/verify/help response and beginner practical limit, and makes a pathway comparison without making a provider or investment recommendation.
 
 **Not yet:** The learner would share a secret, treats a wallet as holding bitcoin inside the device, proceeds with an obvious scam, or selects a pathway without relevant reasoning.
 
@@ -169,7 +171,7 @@ These interactions may be woven into normal module teaching. They are examples, 
 4. Complete the supported first-access pathway and receive bitcoin or a safe simulated receipt.
 5. Check the resulting wallet or transaction information and state one safety boundary.
 
-**Meets standard:** Completes the relevant steps safely, makes the important checks, protects secrets and [privacy](../mfb-lx-26.10.md#term-privacy), and gives an accurate brief explanation of the check made. The educator may adapt the sequence to the environment while preserving the competency.
+**Yes:** Completes the relevant steps safely, makes the important checks, protects secrets and [privacy](../mfb-lx-26.10.md#term-privacy), and gives an accurate brief explanation of the check made. The educator may adapt the sequence to the environment while preserving the competency.
 
 **Permitted support:** Read the task, point to the prepared workspace, repeat a safety instruction, or reset a training environment. Do not indicate which payment detail is correct or complete a required step.
 
@@ -177,9 +179,9 @@ These interactions may be woven into normal module teaching. They are examples, 
 
 #### `P6b` — Recovery-readiness simulation (`C6`)
 
-**Learner task:** Using educator-provided fake words, cards, or a disposable empty training wallet, explain which material must remain secret, arrange the recovery process in a safe order, identify one unsafe storage or sharing request, and state when to stop and seek help.
+**Learner task:** Using prepared recovery words or cards, or a disposable empty training wallet, explain which material must remain secret, arrange the recovery process in a safe order, identify one unsafe storage or sharing request, and state when to stop and seek help. Recovery words may be used for an empty disposable training wallet; they must never protect a learner's personal or funded wallet.
 
-**Meets standard:** Protects recovery information, gives a plausible recovery-ready sequence, identifies an unsafe request, and never exposes a real secret.
+**Yes:** Protects recovery information, gives a plausible recovery-ready sequence, identifies an unsafe request, and never exposes a real secret.
 
 **Permitted support:** Repeat instructions, provide accessible cards, or reset the prepared materials. Do not tell the learner which card or action is correct.
 
@@ -191,7 +193,7 @@ These interactions may be woven into normal module teaching. They are examples, 
 
 **Learner task:** Complete the variant's safe sequence and relevant verification behaviour. During or immediately after it, explain the local purpose, realistic alternative, relevant trade-offs and failure points, safety considerations, and a realistic next step. “This is not suitable here” is an acceptable conclusion when well reasoned.
 
-**Meets standard:** Completes the activity safely and accurately explains the important local connections. The response is individual even if preparation was collaborative.
+**Yes:** Completes the activity safely and accurately explains the important local connections. The response is individual even if preparation was collaborative.
 
 **Helpful support:** Read or explain the activity, clarify a non-assessed word, provide scenario materials, and stop unsafe action. Do not supply the comparison, risk, or next step that the learner is expected to explain.
 
@@ -199,9 +201,9 @@ These interactions may be woven into normal module teaching. They are examples, 
 
 ### Reassessment and optional quality support
 
-**Reassessment:** `NY` means **Not yet**, not “never.” Identify what the learner needs privately, provide focused practice, and arrange another opportunity during class, a break, an additional call, or a follow-up session. Use the same activity or a suitable equivalent. Do not lower the standard, use attendance as a substitute, or force the learner to disclose personal information. Update the Assessment Grid when the new evidence is sufficient.
+**Reassessment:** **Not yet** means the learner is building competency and needs more learning, practice, or another opportunity—not “never.” Educators may return to reassess at any point, including during class, at a break, in an additional call, or in a follow-up session. Identify what the learner needs privately, provide focused practice, and use the same activity or a suitable equivalent. Do not lower the standard, use attendance as a substitute, or force the learner to disclose personal information. Update the Assessment Grid when the new evidence is sufficient.
 
-**Optional educator support:** If educators are working together or feel uncertain, they can compare an `MS` and `NY` example, discuss the standard, or complete the recommended Educator Training Program. This support can build confidence but is not a prerequisite for issuing certificates.
+**Optional educator support:** If educators are working together or feel uncertain, they can compare a **Yes** and **Not yet** example, discuss the standard, or complete the recommended Educator Training Program. This support can build confidence but is not a prerequisite for issuing certificates.
 
 **Optional review:** A second educator can review a practical route, a difficult decision, or a reassessment when helpful. Review should support the educator's judgement, not replace direct observation or create extra paperwork for its own sake.
 
@@ -209,18 +211,18 @@ These interactions may be woven into normal module teaching. They are examples, 
 
 Use these examples to compare judgements before delivery. They are model evidence, not learner scripts. Two assessors should score each example independently, discuss any difference, and record the date, assessors, selected `P7` variant, and agreed interpretation.
 
-| Protocol | Annotated `MS` example | Annotated `NY` example |
+| Protocol | Annotated Yes example | Annotated No example |
 |---|---|---|
-| `T2` — Bitcoin explanation, rule-and-role map, and asset comparison | The learner explains that digital information can be copied and that shared verification helps prevent the same bitcoin from being accepted twice. They correctly distinguish users, nodes, miners, and developers; describe the supply rule and halving at beginner level; compare Bitcoin with a generic stablecoin using control and issuance; and state one limitation without promoting either asset. **Judgement: MS.** | The learner says miners can change any rule and that Bitcoin's fixed supply guarantees price. After permitted clarification, they cannot explain the copying problem or compare control and issuance. **Judgement: NY; practise roles, supply claims, and comparison criteria.** |
-| `P6a` — Supported first access and receipt | In a prepared simulation, the learner checks the recipient, network, amount, and payment detail before proceeding, completes the receipt, protects all secrets, and explains that a mismatch is a reason to stop and verify. **Judgement: MS.** | The learner proceeds after being shown a recipient or amount mismatch, asks the educator which payment detail to choose, or exposes a recovery secret. **Judgement: NY; stop, reset the safe environment, practise verification, and reassess.** |
-| `P7` — Example variant: local payment-path comparison simulation | The learner completes the simulated payment sequence safely, checks the recipient and amount, and individually explains the local purpose, a realistic alternative, trade-offs, possible failure points, safety boundary, and next step. **Judgement: MS.** | The learner completes the sequence only through educator direction, skips a required check, or cannot explain the realistic alternative and safety response after permitted support. **Judgement: NY; provide focused practice and reassess the same or an equivalent variant.** |
+| `T2` — Bitcoin explanation, rule-and-role map, and asset comparison | The learner explains that digital information can be copied and that shared verification helps prevent the same bitcoin from being accepted twice. They correctly distinguish users, nodes, miners, and developers; describe the supply rule and halving at beginner level; compare Bitcoin with a generic stablecoin using control and issuance; and state one limitation without promoting either asset. **Judgement: Yes.** | The learner says miners can change any rule and that Bitcoin's fixed supply guarantees price. After permitted clarification, they cannot explain the copying problem or compare control and issuance. **Judgement: No; practise roles, supply claims, and comparison criteria.** |
+| `P6a` — Supported first access and receipt | In a prepared simulation, the learner checks the recipient, network, amount, and payment detail before proceeding, completes the receipt, protects all secrets, and explains that a mismatch is a reason to stop and verify. **Judgement: Yes.** | The learner proceeds after being shown a recipient or amount mismatch, asks the educator which payment detail to choose, or exposes a recovery secret. **Judgement: Not yet; stop, reset the safe environment, practise verification, and reassess.** |
+| `P7` — Example variant: local payment-path comparison simulation | The learner completes the simulated payment sequence safely, checks the recipient and amount, and individually explains the local purpose, a realistic alternative, trade-offs, possible failure points, safety boundary, and next step. **Judgement: Yes.** | The learner completes the sequence only through educator direction, skips a required check, or cannot explain the realistic alternative and safety response after permitted support. **Judgement: Not yet; provide focused practice and reassess the same or an equivalent variant.** |
 
 These examples do not replace direct observation, the Assessment Grid, or the selected local `P7` approval. Do not record real secrets, private keys, passwords, balances, or unnecessary personal information during calibration.
 
 Use the examples and activity materials that fit your cohort. Review local tools, current facts, translation, accessibility, and practical safety before delivery. When you adapt an activity, keep the competency and safety purpose clear.
 
 <!-- VISUAL: BD-V-085
-ALT: Learners receive private feedback, practise, and provide new evidence after Not yet. Educators may compare judgements or ask for a second review when helpful; review never substitutes for observed performance.
+ALT: Learners with Not yet receive private feedback, practise, and provide new evidence while building competency. Educators may compare judgements or ask for a second review when helpful; review never substitutes for observed performance.
 ASSET: assets/briefs/bd-v-085-brief.md
 USE: Educator-only diagram; see the asset index brief.
 -->
@@ -606,7 +608,7 @@ Before choosing activities, answer:
 - Which practical competencies must be observed?
 - How many learners can one educator observe carefully in the available time?
 - When will learners practise before assessment?
-- When and how will **Not yet** learners be supported and reassessed?
+- When and how will learners with a **Not yet** result be supported and reassessed as they build competency?
 
 Do not build the schedule around content coverage alone. Build it around explanation, formative practice, educator-led theoretical evidence, directly observed practical evidence, and safe completion.
 
@@ -927,14 +929,14 @@ Stop the activity immediately if:
 Stopping is a successful safety behavior. Do not shame the learner who notices a problem.
 
 <!-- VISUAL: BD-V-090
-ALT: An unsafe or unexplained condition stops the activity. The educator protects people and secrets, verifies the issue, and uses a safe prepared route or postpones. A learner safety-critical assessment error is recorded Not yet under the protocol.
+ALT: An unsafe or unexplained condition stops the activity. The educator protects people and secrets, verifies the issue, and uses a safe prepared route or postpones. A learner safety-critical assessment error is recorded as Not yet under the protocol.
 ASSET: assets/briefs/bd-v-090-brief.md
 USE: Educator-only diagram; see the asset index brief.
 -->
 
 ### No real secrets in class
 
-Use fake words, clearly marked training material, or an empty disposable wallet for recovery practice. Never create a classroom process in which another person can observe a learner's lasting recovery information.
+Use prepared recovery words, clearly marked training material, or an empty disposable wallet for recovery practice. Recovery words may be used for an empty disposable training wallet, but never for a learner's personal or funded wallet. Never create a classroom process in which another person can observe a learner's lasting recovery information.
 
 Do not ask learners to prove [self-custody](../mfb-lx-26.10.md#term-self-custody) by showing a [seed phrase](../mfb-lx-26.10.md#term-seed-phrase). Proof of competence is safe handling and explanation, not disclosure.
 
@@ -2012,7 +2014,7 @@ USE: Shared Student Guide master.
 
 #### Activity: recovery-readiness simulation
 
-**Presentation:** Show a complete recovery check using fake words or a disposable empty training wallet. Explain compatibility, [privacy](../mfb-lx-26.10.md#term-privacy), expected result, and reset.
+**Presentation:** Show a complete recovery check using prepared recovery words or a disposable empty training wallet. The words may restore that empty training wallet, but must not protect a personal or funded wallet. Explain compatibility, [privacy](../mfb-lx-26.10.md#term-privacy), expected result, and reset.
 
 **Practice:** Learners sequence prepared cards or restore a disposable training wallet in a private, controlled environment. They must keep the material out of view and identify unsafe requests.
 
@@ -2514,7 +2516,7 @@ Before class, specify:
 - privacy and consent boundaries;
 - safety-critical errors;
 - offline equivalent;
-- **Meets standard** and **Not yet**; and
+- **Showing competency: Yes** and **Showing competency: Not yet**; and
 - optional notes and reassessment route.
 
 #### 7. Debrief and choose a safe next step
@@ -3103,7 +3105,7 @@ Every activity should state whether it is:
 - a practical activity that may also provide assessment evidence; or
 - an approved combination of formative learning and practical assessment.
 
-Activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) may support learning, practice, and assessment. Their use does not make every activity an assessment. When you use an activity as evidence, make sure it gives each learner a fair opportunity to show the competency, keeps the safety boundary clear, and allows you to make a confident `MS` or `NY` judgement. You do not need to create lengthy evidence records or a separate test.
+Activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) may support learning, practice, and assessment. Their use does not make every activity an assessment. When you use an activity as evidence, make sure it gives each learner a fair opportunity to show the competency, keeps the safety boundary clear, and allows you to record **Yes** or **Not yet**. You do not need to create lengthy evidence records or a separate test.
 
 ### Assessment activity crosswalk
 
@@ -3299,7 +3301,7 @@ The educator assesses the learner, accredits the result, and distributes either 
 
 Before issuing a completion certificate, confirm that your selected tasks and local variants, observation capacity, accessibility routes, Assessment Grid, and proportionate local privacy, correction, and appeals arrangements are ready. If you offer an issuer-specific verification method, identify it clearly and minimize personal data; do not imply that it is central My First Bitcoin verification.
 
-[My First Bitcoin App](https://myfirstbitcoin.app/) progress, attendance, confidence, and activity participation do not by themselves establish completion. A learner who still has **Not yet** evidence should receive a clear, respectful opportunity for more practice and reassessment. Do not create public “graduates” and “failures” inside the room.
+[My First Bitcoin App](https://myfirstbitcoin.app/) progress, attendance, confidence, and activity participation do not by themselves establish completion. A learner with a **Not yet** result should receive a clear, respectful opportunity for more practice and reassessment as they build competency. Do not create public “graduates” and “failures” inside the room.
 
 ### Final safety reminders
 
@@ -3329,7 +3331,7 @@ USE: Shared Student Guide master.
 - Confirm that every required assessed competency in the Assessment Grid, including its required competency criteria, has evidence from its assigned component.
 - Contact learners privately about incomplete tasks.
 - Provide focused remediation and fair reassessment.
-- Offer a participation certificate when the learner has participated but has not yet passed every competency; issue a completion certificate only when all competencies are `MS`.
+- Offer a participation certificate when the learner has participated but has **Not yet** for one or more competencies; issue a completion certificate only when all competencies show **Yes**.
 - Keep only the minimum information needed for the educator's records. Brief evidence notes are helpful but optional.
 
 ### Ask learners about the learning experience
@@ -3462,7 +3464,7 @@ Use the [Lexicon](../mfb-lx-26.10.md) for full definitions. Keep these distincti
 - [ ] Activities used for assessment give learners a clear and fair chance to show each competency.
 - [ ] I have considered cohort size, available time, questions, troubleshooting, feedback, and reassessment.
 - [ ] Learners will have supported practice before I make a final judgement.
-- [ ] I know what to look for, how to ask a helpful follow-up question, and when to mark `MS` or `NY`.
+- [ ] I know what to look for, how to ask a helpful follow-up question, and when to record **Yes** or **Not yet**.
 - [ ] Online, low-tech, and accessibility routes are ready where needed.
 - [ ] Any notes protect [privacy](../mfb-lx-26.10.md#term-privacy) and are kept to the minimum useful information.
 - [ ] I know how to offer participation or completion certification appropriately.
@@ -3621,7 +3623,7 @@ Use only when the cohort and setting support sustained learning. Protect breaks 
 | Midday 2 | [Sound-money](../mfb-lx-26.10.md#term-sound-money) comparison and responsibility bridge |
 | Afternoon 1 | [Custody](../mfb-lx-26.10.md#term-custody), secrets, recovery, receiving, and sending practice |
 | Afternoon 2 | Verification, scams, educator-curated **Module 4** Connect task, and final reflection |
-| Follow-up | Any remaining educator assessment, individual practical observation, **Not yet** support, formative educator help, and certification review |
+| Follow-up | Any remaining educator assessment, individual practical observation, support for learners with **Not yet**, formative educator help, and certification review |
 
 Do not describe a compressed day as complete if required observation or assessment remains outstanding.
 

@@ -4,11 +4,11 @@
 
 ## Page 1 — A simple guide for educators
 
-This grid is a light-touch structure to help you see what learners are learning and record their progress. It is not a separate exam or a demand for lengthy paperwork. Use activities, conversations, demonstrations, and practice from the course to help learners show what they can do.
+This grid is a light-touch structure to help you see what learners are learning and record their progress. It is not a separate exam or a demand for lengthy paperwork. Use activities, conversations, demonstrations, and practice from the course to help learners show what they can do. For complete assessment procedures, criteria, safety guidance, and support, use the [Educator Guide](mfb-bd-eg-26.10.md).
 
 The 2026.10 curriculum is a framework-first release. This grid does not by itself make a local route ready for certificated delivery. Before issuing completion certificates, prepare the selected tasks and local variants, observation capacity, accessibility routes, and proportionate local privacy, correction, and appeals arrangements. Certification is decentralized: the named educator assesses the learner and issues the certificate. My First Bitcoin does not centrally evaluate, issue, verify, or guarantee learner competency.
 
-Use one row per learner on Page 2. Record one result for each competency: `MS` = Meets standard; `NY` = Not yet; blank = not assessed. Decimal `C` identifiers are educator look-fors within the related competency, not separate results. If you are new to teaching or would like more support, the Educator Training Program is a recommended pathway, not a requirement.
+Use one row per learner on Page 2. For each competency, record **Showing competency: Yes** (✓) or **Showing competency: Not yet** (✕); leave it blank when not assessed. “Not yet” means the learner is building competency and needs more practice or another opportunity. Educators may return to reassess the competency at any point. Decimal `C` identifiers are educator look-fors within the related competency, not separate results. If you are new to teaching or would like more support, the Educator Training Program is a recommended pathway, not a requirement.
 
 ### What learners can show
 
@@ -28,7 +28,7 @@ Use one row per learner on Page 2. Record one result for each competency: `MS` =
 
 - Start with the activities in the Student Guide and Educator Guide. Choose or adapt activities that let learners explain, compare, make safe decisions, or complete a practical task. A separate exam is not needed for every competency.
 - As learners work, listen and watch for the relevant understanding or action. If you are unsure, ask a friendly follow-up question or invite the learner to show the step again.
-- Mark `MS` when the learner has shown the competency sufficiently and safely. Mark `NY` when they need more practice, support, or another opportunity to show it. `NY` is a pause, not a final judgement.
+- Record **Yes** (✓) when the learner has shown the competency sufficiently and safely. Record **Not yet** (✕) when they need more practice, support, or another opportunity to show it. **Not yet** is a pause, not a final judgement: the learner is building competency, and the educator may reassess at any point.
 - Arrange another assessment opportunity during class, a break, an additional call, or a follow-up session. Learners should have a clear and fair chance to succeed.
 - Observe `C6` and `C7` directly. Online observation, simulation, testnet, physical tokens, or carefully structured low-stakes funds may be used when appropriate. Learners should never be asked to risk significant funds or expose secrets.
 - Use accessibility adaptations and low-tech routes when they preserve the competency. Plan a little extra time for troubleshooting, questions, feedback, and follow-up where needed.
@@ -53,9 +53,9 @@ Use one row per learner on Page 2. Record one result for each competency: `MS` =
 | `C3` | Compare Bitcoin with another digital asset and distinguish learning from speculation. | `C7†` | Complete a safe local task and explain purpose, alternative, trade-offs, possible failure, and next step. |
 | `C4` | Explain public and secret information, custody and wallet types; respond safely to a risk. |  |  |
 
-**Key:** blank = not assessed · `MS` = Meets standard · `NY` = Not yet · `†` = direct observation required
+**Key:** ✓ = **Showing competency: Yes** · ✕ = **Showing competency: Not yet** (building competency; more practice or another opportunity needed) · blank = not assessed · `†` = direct observation required
 
-Use activities and conversation for `C1`–`C5`; directly observe both parts of `C6` and the selected `C7` task. A good-enough beginner example for each result: `C1` explains a barter limit, compares two money forms, and names a realistic trade-off; `C2` explains digital copying, who verifies Bitcoin's rules, and how one Bitcoin property could help or limit its use as money; `C3` compares Bitcoin with a generic stablecoin and names a trade-off without promotion; `C4` protects a secret, compares custody options and wallet types, and stops at a scam request; `C5` compares on-chain with Lightning and explains one access risk; `C6` safely completes a prepared receipt with checks and shows recovery readiness using fake materials; `C7` performs the selected local task safely and explains its alternative, risks, and next step. Mark `NY` for an unmet or unsafe required part, then provide practice and another opportunity.
+Use activities and conversation for `C1`–`C5`; directly observe both parts of `C6` and the selected `C7` task. A good-enough beginner example for **Yes**: `C1` explains a barter limit, compares two money forms, and names a realistic trade-off; `C2` explains digital copying, who verifies Bitcoin's rules, and how one Bitcoin property could help or limit its use as money; `C3` compares Bitcoin with a generic stablecoin and names a trade-off without promotion; `C4` protects a secret, compares custody options and wallet types, and stops at a scam request; `C5` compares on-chain with Lightning and explains one access risk; `C6` safely completes a prepared receipt with checks and shows recovery readiness using fake materials; `C7` performs the selected local task safely and explains its alternative, risks, and next step. Record **Not yet** for an unmet or unsafe required part, then provide practice and another opportunity.
 
 | Learner name | C1 | C2 | C3 | C4 | C5 | C6† | C7† | Complete | Notes / date (optional) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -72,4 +72,4 @@ Use activities and conversation for `C1`–`C5`; directly observe both parts of 
 |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
 
-**Completion check:** When all seven competency cells are `MS`, both assessment components are complete, and your local certification route is ready, you may issue a certificate of completion in your name or that of your education organization. The certificate records your assessment judgment, not central My First Bitcoin certification. If the learner attended but has not yet shown every competency, you may issue a certificate of participation and offer further learning or assessment opportunities. Brief private notes are helpful, but no task-ID record is required by this grid.
+**Completion check:** When all seven competency cells show **Yes** (✓), both assessment components are complete, and your local certification route is ready, you may issue a certificate of completion in your name or that of your education organization. The certificate records your assessment judgment, not central My First Bitcoin certification. If the learner attended but has **Not yet** (✕) for one or more competencies, they are building competency; you may issue a certificate of participation and offer further learning or assessment opportunities. Brief private notes are helpful, but no task-ID record is required by this grid.

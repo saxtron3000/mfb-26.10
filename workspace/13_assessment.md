@@ -10,11 +10,11 @@ The Diploma does not assess private knowledge or a learner's self-description. I
 
 The framework uses one simple competency code system:
 
-- `C1` through `C7` are the seven required assessed competencies. Each receives one final result: **Meets standard** or **Not yet**.
+- `C1` through `C7` are the seven required assessed competencies. Each receives one final result: **Showing competency: Yes** or **Showing competency: Not yet**. Not yet means the learner is building competency and needs further support.
 - Decimal codes such as `C1.1` and `C1.2` are required observable criteria within the related competency. They are educator look-fors, not separate certification rows. `C3` is one undivided guided comparison.
 - `F1` and `F2` are formative competencies. They support learning and feedback but are not certificate gates.
 
-Every required criterion must have sufficient evidence before its parent competency can be recorded as **Meets standard**. A strength in one competency or criterion cannot compensate for an unmet, inaccurate, or unsafe requirement elsewhere.
+Every required criterion must have sufficient evidence before its parent competency can be recorded as **Showing competency: Yes**. A strength in one competency or criterion cannot compensate for an unmet, inaccurate, or unsafe requirement elsewhere.
 
 The 2026.10 Diploma uses two required, non-compensatory completion gates:
 
@@ -25,7 +25,7 @@ These are not numerical grades. Both gates must be complete, and every required 
 
 Assessment can happen through well-designed activities, discussions, demonstrations, and practice. A separate exam is not required for every competency. Activity completion may provide evidence when the activity is designed to reveal the relevant understanding or action; attendance, participation, confidence, self-report, or completion of materials alone cannot establish competency. The [My First Bitcoin App](https://myfirstbitcoin.app/) is optional and cannot provide formal assessment evidence.
 
-The [Educator Guide's assessment guidance](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) provides examples, prompts, safety guidance, accessibility ideas, flexible routes, reassessment support, and optional quality support. Use it as a structure, not a script. The Assessment Grid is the minimum cohort record: one final `MS` or `NY` result per learner and competency.
+The [Educator Guide's assessment guidance](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) provides examples, prompts, safety guidance, accessibility ideas, flexible routes, reassessment support, and optional quality support. Use it as a structure, not a script. The Assessment Grid is the minimum cohort record: one final **Showing competency: Yes** or **Showing competency: Not yet** result per learner and competency.
 
 ---
 
@@ -133,8 +133,8 @@ For each assessed competency:
 2. **Practise:** Give supported practice and feedback before making a final judgement.
 3. **Notice evidence:** Use an activity, conversation, demonstration, or practical route that lets the learner demonstrate the competency.
 4. **Ask when unsure:** Use a friendly probing question or invite the learner to show the step again.
-5. **Record:** Mark the competency **MS** (**Meets standard**) or **NY** (**Not yet**) on the Assessment Grid. Brief notes are helpful but optional.
-6. **Support and reassess:** Give focused practice and a fair opportunity to demonstrate the same competency again during class, a break, an additional call, or a follow-up session.
+5. **Record:** Record **Showing competency: Yes** or **Showing competency: Not yet** on the Assessment Grid. Brief notes are helpful but optional.
+6. **Support and reassess:** Give focused practice and a fair opportunity to demonstrate the same competency again. Educators may return to reassess at any point: during class, at a break, in an additional call, or in a follow-up session.
 
 Assessment should not surprise learners. Before the educator makes a final judgement, the learner should understand the activity, expected action or response, relevant safety boundaries, and what they are trying to show.
 
@@ -146,12 +146,12 @@ A learner is **assessment-complete** only when both component statuses are compl
 
 ## A. Theoretical competency complete
 
-- the educator has recorded **Meets standard** for `C1` through `C5`; and
+- the educator has recorded **Yes** for `C1` through `C5`; and
 - every required criterion within `C1` through `C5` has sufficient observable evidence.
 
 ## B. Practical competency complete
 
-- the educator has directly observed both `C6` performances and the selected `C7` task, and recorded **Meets standard** for `C6` and `C7`;
+- the educator has directly observed both `C6` performances and the selected `C7` task, and recorded **Yes** for `C6` and `C7`;
 - every required criterion within those competencies has been observed safely; and
 - `C6.1` includes the supported first-access pathway and receipt of bitcoin, or a safe simulated receipt.
 
@@ -195,7 +195,7 @@ The [Educator Guide's assessment guidance](../publish/mfb-bd-26.10/mfb-bd-eg-26.
 - required observable criteria for each competency;
 - example theoretical prompts and practical routes;
 - practical test, simulation, role-play, and safety guidance;
-- clear definitions of **Meets standard** and **Not yet**;
+- clear definitions of **Showing competency: Yes** and **Showing competency: Not yet**;
 - prompting and permitted-support rules;
 - accessibility variants that preserve the competency;
 - optional educator calibration examples; and

@@ -27,7 +27,7 @@ Assessment-complete status requires:
 
 - passing educator-evaluated theoretical interaction evidence;
 - successful direct observation by an educator of both performances within `C6` and the selected local task `C7`, including their required safety-focused criteria; and
-- a **Meets standard** result for every required assessed competency, with its required decimal-code criteria evidenced as observable look-fors.
+- a **Showing competency: Yes** result for every required assessed competency, with its required decimal-code criteria evidenced as observable look-fors.
 
 The theoretical and practical components each carry 50% of the programme's assessment balance. Both must meet the approved standard; a result in one component cannot compensate for an unmet requirement in the other.
 
@@ -115,7 +115,7 @@ Standardization does not mean every learner must use the same wallet or local sc
 1. The learner completes the relevant teaching and supported practice.
 2. The educator gathers and records approved theoretical evidence; other explanations, discussions, scenarios, simulations, or role-plays remain formative.
 3. An educator directly observes and records the required Module 3 and selected Module 4 practical competencies.
-4. Any unmet competency is marked **Not yet**, followed by feedback, further practice, and reassessment.
+4. Any unmet competency is recorded as **Showing competency: Not yet**, followed by feedback, further practice, and reassessment while the learner builds competency.
 5. The educator-led theoretical and practical results are recorded in the approved completion record.
 6. The educator confirms assessment-complete status only when both components meet the standard.
 7. The named educator or educator's organization issues and distributes the certificate after that confirmation.

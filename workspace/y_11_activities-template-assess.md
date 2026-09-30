@@ -69,11 +69,11 @@ Reference the exact protocol criteria. Do not add, remove, weaken, or substitute
 
 ### Safety-critical errors and stop conditions
 
-State the relevant stop conditions from the approved protocol. Record `NY`, stop the task, reset to a safe environment, and provide focused practice before reassessment when a safety-critical error occurs.
+State the relevant stop conditions from the approved protocol. Record **Showing competency: Not yet**, stop the task, reset to a safe environment, and provide focused practice before reassessment when a safety-critical error occurs.
 
 ### Result and concise evidence record
 
-- **Result:** `MS` / `NY`
+- **Result:** **Showing competency: Yes** / **Showing competency: Not yet**
 - **Record:** competency, task ID, date, assessor, local variant where applicable, and a short evidence reference
 - **Record location:** Educator Assessment Grid and approved record process
 
@@ -81,7 +81,7 @@ State the relevant stop conditions from the approved protocol. Record `NY`, stop
 
 ### Feedback and reassessment route
 
-State the focused practice and later individual reassessment route. Reassessment must use an equivalent task and the same required criteria; it is not another attempt at the same unaltered conditions.
+State the focused practice and later individual reassessment route. Educators may return to reassess at any point. Reassessment must use an equivalent task and the same required criteria; it is not another attempt at the same unaltered conditions.
 
 ### Calibration and moderation
 
