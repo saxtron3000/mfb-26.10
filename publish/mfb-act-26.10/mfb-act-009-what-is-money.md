@@ -8,10 +8,10 @@ Class discussion
 ## Duration
 
 ## Description
-Students decide whether to trade a piece of candy for a US$1 bill or a $1 Monopoly bill, then explain the difference in their choices. The discussion examines what gives money value, how money is issued, who controls the supply, and why people may value one form of money more than another.
+Participants decide whether to trade a piece of candy for a US$1 bill or a $1 Monopoly bill, then explain the difference in their choices. The discussion examines what gives money value, how money is issued, who controls the supply, and why people may value one form of money more than another.
 ## Objectives
 
-- Learners compare why people value different forms of money and consider what gives money value.
+- Participants compare why people value different forms of money and consider what gives money value.
 
 ## Materials
 Monopoly bills or counterfeit bills of the country’s currency; one piece of candy per student.
@@ -19,7 +19,7 @@ Monopoly bills or counterfeit bills of the country’s currency; one piece of ca
 Place a piece of candy on each student’s desk.
 ## Procedure
 ### Setup
-Ask students not to eat the candy yet.
+Ask participants not to eat the candy yet.
 ### Step 1
 Ask who would trade their candy for a US$1 bill, then who would trade it for a $1 Monopoly bill.
 ### Step 2

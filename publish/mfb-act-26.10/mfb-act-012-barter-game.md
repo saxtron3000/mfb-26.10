@@ -8,10 +8,10 @@ Class exercise
 ## Duration
 5 minutes for the barter round
 ## Description
-Students trade paper cards showing goods they have and goods they want, attempting to find matching exchange partners before time expires. They repeat the activity with macaroni as a common medium of exchange, then compare the ease of trade and the limitations of using a commodity as money.
+Participants trade paper cards showing goods they have and goods they want, attempting to find matching exchange partners before time expires. They repeat the activity with macaroni as a common medium of exchange, then compare the ease of trade and the limitations of using a commodity as money.
 ## Objectives
 
-- Learners experience and compare direct barter with exchange using a commodity as money.
+- Participants experience and compare direct barter with exchange using a commodity as money.
 
 ## Materials
 Paper sheets cut into rectangles; macaroni.
@@ -19,18 +19,18 @@ Paper sheets cut into rectangles; macaroni.
 Prepare cards showing each student’s “have” and “want.”
 ## Procedure
 ### Setup
-Students keep their original “want” and trade their “have” until the two match.
+Participants keep their original “want” and trade their “have” until the two match.
 ### Step 1
-Allow five minutes for trading. Students return to their seats when their new “have” matches their original “want,” or when time expires.
+Allow five minutes for trading. Participants return to their seats when their new “have” matches their original “want,” or when time expires.
 ### Step 2
-Ask how many students achieved their goal after one, two, or three trades. Discuss the benefits and drawbacks of barter.
+Ask how many participants achieved their goal after one, two, or three trades. Discuss the benefits and drawbacks of barter.
 ### Step 3
 Give each student one macaroni and assume every good costs one macaroni. Repeat the goal and discuss commodity money.
 ## Review
 ### Key Points
 
 ### Discussion questions
-Why could some students trade and others not? Was the macaroni round easier? What are the drawbacks of macaroni as money?
+Why could some participants trade and others not? Was the macaroni round easier? What are the drawbacks of macaroni as money?
 ## Notes
 
 **Diploma assessment link:** May provide the individual-response context for [`T1` / `C1`](https://programs.myfirstbitcoin.org/programs/educator-guide/). Use the approved protocol and record an individual explanation and comparison; otherwise, this activity is formative.

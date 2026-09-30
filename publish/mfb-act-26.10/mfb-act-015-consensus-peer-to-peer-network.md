@@ -8,22 +8,22 @@ Class activity
 ## Duration
 
 ## Description
-Students pass messages around a circle while selected participants alter or misinterpret an encrypted instruction. When the group acts on the message, the conflicting responses make the lack of consensus visible and lead to a discussion of cryptography, malicious actors, the Byzantine Generals’ Problem, and Bitcoin’s consensus layer.
+Participants pass messages around a circle while selected participants alter or misinterpret an encrypted instruction. When the group acts on the message, the conflicting responses make the lack of consensus visible and lead to a discussion of cryptography, malicious actors, the Byzantine Generals’ Problem, and Bitcoin’s consensus layer.
 ## Objectives
-- Learners experience how shared verification and cryptography can help a peer-to-peer network reach consensus despite malicious participants.
+- Participants experience how shared verification and cryptography can help a peer-to-peer network reach consensus despite malicious participants.
 ## Materials
 Messages with encrypted and unencrypted instructions for “attack” or “do not attack.”
 ## Preparation
-Select 3 or 4 students as malicious nodes before class and assign them a cryptographic puzzle as homework in the previous class.
+Select 3 or 4 participants as malicious nodes before class and assign them a cryptographic puzzle as homework in the previous class.
 ## Procedure
 ### Setup
-Select an originator and form students into a circle, separating malicious nodes.
+Select an originator and form participants into a circle, separating malicious nodes.
 ### Step 1
 Give the originator a note reading “ATTACK” and the number sequence “4-16-14-21-1-21-1-3-11-”. The originator passes it to the right.
 ### Step 2
-After all students read the message, the originator says “Now.” Students react simultaneously; “ATTACK” means taking a step forward.
+After all participants read the message, the originator says “Now.” Participants react simultaneously; “ATTACK” means taking a step forward.
 ### Step 3
-Observe that students who interpreted the encrypted message correctly remain still while others act, revealing a lack of consensus.
+Observe that participants who interpreted the encrypted message correctly remain still while others act, revealing a lack of consensus.
 ## Review
 ### Key Points
 

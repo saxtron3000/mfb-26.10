@@ -8,10 +8,10 @@ Video viewing
 ## Duration
 
 ## Description
-Students watch “How To Setup Bitcoin Core,” a video about setting up Bitcoin Core as a Bitcoin node, then discuss how a node validates newly arriving blocks and keeps a local copy of the blockchain. The activity introduces Bitcoin Core as one option for running a node without presenting it as the only option or a global recommendation.
+Participants watch “How To Setup Bitcoin Core,” a video about setting up Bitcoin Core as a Bitcoin node, then discuss how a node validates newly arriving blocks and keeps a local copy of the blockchain. The activity introduces Bitcoin Core as one option for running a node without presenting it as the only option or a global recommendation.
 ## Objectives
 
-- Learners understand how a Bitcoin node validates blocks and maintains a local copy of the blockchain.
+- Participants understand how a Bitcoin node validates blocks and maintains a local copy of the blockchain.
 
 ## Materials
 Internet access and video playback.
@@ -34,4 +34,4 @@ Explain that Bitcoin Core is one option for running a node and that it downloads
 ## Notes 
 
 ## Additional Resources
-[How To Setup Bitcoin Core](https://youtu.be/xc_TxlByxeY)
+[“How To Setup Bitcoin Core”](https://youtu.be/xc_TxlByxeY) is the video used in this activity. It introduces Bitcoin Core as one way to run a node and supports discussion of block validation and maintaining a blockchain copy.

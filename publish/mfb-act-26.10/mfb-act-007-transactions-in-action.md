@@ -12,11 +12,11 @@
 
 ## Description
 
-Students simulate Bitcoin transactions with color-coded wallets, sats, and a shared ledger. By approving valid payments and rejecting transactions with insufficient funds, missing signatures, or fictional wallets, they practice the distinct roles of senders, recipients, miners, and node runners in preserving a fixed supply.
+Participants simulate Bitcoin transactions with color-coded wallets, sats, and a shared ledger. By approving valid payments and rejecting transactions with insufficient funds, missing signatures, or fictional wallets, they practice the distinct roles of senders, recipients, miners, and node runners in preserving a fixed supply.
 
 ## Objectives
 
-- Learners practice checking signatures, sufficient funds, and network validation conditions before accepting a simulated Bitcoin transaction.
+- Participants practice checking signatures, sufficient funds, and network validation conditions before accepting a simulated Bitcoin transaction.
 
 ## Preparation
 
@@ -71,7 +71,7 @@ Then you will walk through diﬀerent ways transactions are not valid: not enoug
 
 ### Step 1: The First Transaction
 
-Guide students to the tracking board. Assign four students to be the owners of each of the four colored wallets. **Explain that their responsibility is to sign or not sign (approve or not approve) transactions.**
+Guide participants to the tracking board. Assign four participants to be the owners of each of the four colored wallets. **Explain that their responsibility is to sign or not sign (approve or not approve) transactions.**
 
 If you are using the physical method, hand out their respective color “wallets” (papers). Also give them the corresponding number of poker chips (or coins, or whatever you have decided to use for sats).
 
@@ -234,7 +234,7 @@ When they say “no”, instruct the tracker to update Round 5 with no changes f
 
 **Diploma assessment link:** May provide the individual-response context for [`T2` / `C3` and `C4`](https://programs.myfirstbitcoin.org/programs/educator-guide/). Use the approved protocol and record individual evidence; otherwise, this activity is formative.
 
-Expect students to grasp the tracking system quickly, but repetition will be helpful to increase their understanding of Bitcoin transaction mechanics.
+Expect participants to grasp the tracking system quickly, but repetition will be helpful to increase their understanding of Bitcoin transaction mechanics.
 
 Repeat the conditions necessary for a valid transaction. 
 
@@ -247,16 +247,14 @@ explaining the diﬀerence between miners and node runners distracts
 from the main point of the activity, transactions in action.
 
 **TIP**: Depending on the age and knowledge level of your class, consider
-rotating students through the diﬀerent roles.
+rotating participants through the diﬀerent roles.
 
 ## Additional Resources
 
 ### VIDEO
 
-“Blockchain 101 – A Visual Demo” by Anders Brownworth and posted through MIT.
-https://blockchain.mit.edu/how-blockchain-works
+[“Blockchain 101 – A Visual Demo”](https://blockchain.mit.edu/how-blockchain-works) by Anders Brownworth and posted through MIT.
 
 ### BOOK
 
-"Inventing Bitcoin: The Technology Behind the First Truly Scarce and Decentralized Money Revealed" by Yan Pritzker provides a high-level overview of Bitcoin's inner workings including how consensus achieves scarcity.
-https://www.inventingbitcoin.com
+[“Inventing Bitcoin: The Technology Behind the First Truly Scarce and Decentralized Money Revealed”](https://www.inventingbitcoin.com) by Yan Pritzker provides a high-level overview of Bitcoin's inner workings including how consensus achieves scarcity.

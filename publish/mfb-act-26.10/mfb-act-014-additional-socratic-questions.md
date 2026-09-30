@@ -8,10 +8,10 @@ Class discussion
 ## Duration
 
 ## Description
-Students use Socratic questions to examine education, self-directed learning, centralized power, decentralization, and Bitcoin. The discussion asks learners to consider whether an informed public can evaluate the money system and why decentralized systems may be difficult for those in power to control.
+Participants use Socratic questions to examine education, self-directed learning, centralized power, decentralization, and Bitcoin. The discussion asks participants to consider whether an informed public can evaluate the money system and why decentralized systems may be difficult for those in power to control.
 ## Objectives
 
-- Learners examine how critical thinking and decentralization can shape their understanding of money systems.
+- Participants examine how critical thinking and decentralization can shape their understanding of money systems.
 
 ## Materials
 

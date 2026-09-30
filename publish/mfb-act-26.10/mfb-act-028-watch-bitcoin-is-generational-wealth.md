@@ -8,10 +8,10 @@ Video viewing
 ## Duration
 
 ## Description
-Students watch “Bitcoin Is Generational Wealth,” a short film by Matt Hornick and Tomer Strolight. The viewing provides a prompt for learners to identify the film’s perspective on money, saving, and intergenerational thinking, and to distinguish those perspectives from financial advice.
+Participants watch “Bitcoin Is Generational Wealth,” a short film by Matt Hornick and Tomer Strolight. The viewing provides a prompt for participants to identify the film’s perspective on money, saving, and intergenerational thinking, and to distinguish those perspectives from financial advice.
 ## Objectives
 
-- Learners reflect on the film’s perspective on Bitcoin, saving, and intergenerational thinking.
+- Participants reflect on the film’s perspective on Bitcoin, saving, and intergenerational thinking.
 
 ## Materials
 Internet access and video playback.
@@ -34,4 +34,4 @@ Watch the video.
 ## Notes 
 
 ## Additional Resources
-https://www.youtube.com/watch?v=3Rnqst5qCgA&ab_channel=SwanBitcoin
+[“Bitcoin Is Generational Wealth”](https://www.youtube.com/watch?v=3Rnqst5qCgA&ab_channel=SwanBitcoin), a short film by Matt Hornick and Tomer Strolight, presents a perspective on money, saving, and intergenerational thinking for participants to examine rather than financial advice to follow.

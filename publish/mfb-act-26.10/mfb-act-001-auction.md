@@ -168,16 +168,13 @@ It only takes a few minutes to fill in the tracking table explained in detailed 
 
 ### VIDEO
 
-“What’s the Problem?” is a video produced by Joe Bryan. It covers more than just fractional reserve banking, which is one of many ways to create fiat money.
+[“What’s the Problem?”](https://www.whatstheproblem.org) is a video produced by Joe Bryan. It covers more than just fractional reserve banking, which is one of many ways to create fiat money.
 
 This video explains the consequences.
 
-https://www.whatstheproblem.org
 
 ### BOOK
 
-“What Has Government Done to Our Money?” by Murray Rothbard is a short but powerful book explaining how money really works. Rothbard has an easy-to-read style and uses common-sense frameworks making economic ideas simple to understand.
+[“What Has Government Done to Our Money?”](https://cdn.mises.org/What%20Has%20Government%20Done%20to%20Our%20Money_3.pdf) by Murray Rothbard is a short but powerful book explaining how money really works. Rothbard has an easy-to-read style and uses common-sense frameworks making economic ideas simple to understand.
 
-The Mises Institute sends free copies.
-
-https://mises.org
+The ["Mises Institute"](https://mises.org) sends free copies.

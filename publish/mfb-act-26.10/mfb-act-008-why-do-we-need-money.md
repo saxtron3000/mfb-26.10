@@ -9,12 +9,12 @@ Class exercise and discussion
 15–20 minutes
 
 ## Description
-This foundational activity is especially well suited to younger audiences. Students first try a short barter exchange, then receive Monopoly money as payment for a small classroom task and use it to exchange for goods or services. They compare the two rounds before answering open questions about money, including its purpose, value, and control. The class identifies common questions and returns to them at the end of the Bitcoin Diploma to reflect on how their understanding has changed.
+This foundational activity is especially well suited to younger audiences. Participants first try a short barter exchange, then receive Monopoly money as payment for a small classroom task and use it to exchange for goods or services. They compare the two rounds before answering open questions about money, including its purpose, value, and control. The class identifies common questions and returns to them at the end of the Bitcoin Diploma to reflect on how their understanding has changed.
 ## Objectives
 
-- Learners explain how money can make exchange easier than direct barter.
-- Learners identify money as a way to exchange value, carry the value of labor into the future, and coordinate exchange across distance.
-- Learners reflect on their current understanding of money and formulate questions for further learning.
+- Participants explain how money can make exchange easier than direct barter.
+- Participants identify money as a way to exchange value, carry the value of labor into the future, and coordinate exchange across distance.
+- Participants reflect on their current understanding of money and formulate questions for further learning.
 
 ## Materials
 Monopoly money; simple “have” and “want” cards or classroom tokens representing goods and services; a small task card for each student; a board or paper to record results.
@@ -24,17 +24,17 @@ Prepare a “have” and “want” card for each student. Make some wants delib
 
 ## Procedure
 ### Setup
-Explain that the class will try two ways of exchanging value. Remind students that the cards and Monopoly money are classroom tools, not real money or a recommendation to use any particular currency.
+Explain that the class will try two ways of exchanging value. Remind participants that the cards and Monopoly money are classroom tools, not real money or a recommendation to use any particular currency.
 ### Step 1
-Give each student a “have” card and a different “want” card. Allow a short barter round in which they can trade only when both people want what the other person has. Record how many students obtain what they want and how long it takes.
+Give each student a “have” card and a different “want” card. Allow a short barter round in which they can trade only when both people want what the other person has. Record how many participants obtain what they want and how long it takes.
 ### Step 2
-Give every student the same small classroom task. When it is completed, pay each student an equal amount of Monopoly money. Students can now use the money to buy a good or service represented by a card, whether or not the person offering it wants what they have.
+Give every student the same small classroom task. When it is completed, pay each student an equal amount of Monopoly money. Participants can now use the money to buy a good or service represented by a card, whether or not the person offering it wants what they have.
 ### Step 3
 Compare the rounds. Ask how money acted as an intermediary between people who did not have matching wants. Ask how a student could save the payment from today's task to use later, and how a shared money could help people exchange value with someone far away rather than only with nearby trading partners.
 ### Step 4
-Students answer: Why do we need money? What is money? Who controls money? What gives money value? What question do you have about money?
+Participants answer: Why do we need money? What is money? Who controls money? What gives money value? What question do you have about money?
 ### Step 5
-In groups, students share answers, vote on five favorite answers, and share five favorite questions.
+In groups, participants share answers, vote on five favorite answers, and share five favorite questions.
 ### Step 6
 Revisit the answers and questions at the end of the Bitcoin Diploma.
 ## Review
@@ -49,7 +49,7 @@ What made barter difficult? How did payment change the exchange? What could you 
 ## Notes
 
 ### Additional notes
-This is an intentionally basic introduction, most useful with younger audiences or learners new to the topic. Expand the exchange round with more goods, roles, time periods, or distant “markets,” or combine it with a barter activity or another activity on the functions of money when the group is ready for deeper exploration.
+This is an intentionally basic introduction, most useful with younger audiences or participants new to the topic. Expand the exchange round with more goods, roles, time periods, or distant “markets,” or combine it with a barter activity or another activity on the functions of money when the group is ready for deeper exploration.
 
 **Diploma assessment link:** May provide the individual-response context for [`T1` / `C1`](https://programs.myfirstbitcoin.org/programs/educator-guide/). Use the approved protocol and record an individual explanation and comparison; otherwise, this activity is formative.
 

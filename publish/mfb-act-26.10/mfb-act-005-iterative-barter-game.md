@@ -14,18 +14,18 @@
 
 ## Description
 
-Students trade playing cards across three rounds that progressively change what each group wants. They experience direct exchange, the difficulty of matching wants, and the emergence of a widely accepted good, then compare the role of the most saleable good with the historical role of money.
+Participants trade playing cards across three rounds that progressively change what each group wants. They experience direct exchange, the difficulty of matching wants, and the emergence of a widely accepted good, then compare the role of the most saleable good with the historical role of money.
 
 ## Objectives
 
-- Learners experience the trade friction created by mismatched wants and recognize why a widely accepted good can emerge as money.
+- Participants experience the trade friction created by mismatched wants and recognize why a widely accepted good can emerge as money.
 
 ## Preparation
 
 ### Materials
 
 • Standard playing cards
-  - Recommendation = 1 deck for every 5 students
+  - Recommendation = 1 deck for every 5 participants
 • Board or screen to display instructions
 • Paper, Excel or other method to track results
 • Name cards to label team tables, e.g., “ACES” (optional)
@@ -40,21 +40,21 @@ After you have delivered the activity the first time, future preparation is mini
 
 ### Setup
 
-The goal is to have cards separated by suit before you begin the exercise. You have the choice of opening the decks and separating cards by suit yourself, or enrolling students in this step.
+The goal is to have cards separated by suit before you begin the exercise. You have the choice of opening the decks and separating cards by suit yourself, or enrolling participants in this step.
 
-When you introduce this activity to the class, you will ask students to separate into four groups. For setup, this means you should plan where you want each of the four groups to go. For example, you may rearrange desks before class starts. It is helpful but not required to label team areas with a sign such as “TEAM ACES,” etc.
+When you introduce this activity to the class, you will ask participants to separate into four groups. For setup, this means you should plan where you want each of the four groups to go. For example, you may rearrange desks before class starts. It is helpful but not required to label team areas with a sign such as “TEAM ACES,” etc.
 
 ### Overview
 
-Explain to the students that this is a bartering game. If there are 10 or fewer students in the class, they will play as individuals. For larger classes, divide the students into four teams.
+Explain to the participants that this is a bartering game. If there are 10 or fewer participants in the class, they will play as individuals. For larger classes, divide the participants into four teams.
 
-This activity has three rounds. To begin, assign students to one of four “markets”: CLUB-MAKERS, SPADE-MAKERS, HEARTS-MAKERS, DIAMOND-MAKERS.
+This activity has three rounds. To begin, assign participants to one of four “markets”: CLUB-MAKERS, SPADE-MAKERS, HEARTS-MAKERS, DIAMOND-MAKERS.
 
-Give each group a set of cards matching its suit, or distribute the cards evenly if students are playing individually. For example, students in the spade-makers group should start with spades.
+Give each group a set of cards matching its suit, or distribute the cards evenly if participants are playing individually. For example, participants in the spade-makers group should start with spades.
 
 ### Step 1: Round 1: The Coincidence-of-Wants Round
 
-Give students their assignments (table below). Their goal is to get their “wants.”
+Give participants their assignments (table below). Their goal is to get their “wants.”
 
 Then give them 5 minutes to walk around and negotiate trades with other groups.
 
@@ -69,13 +69,13 @@ Then give them 5 minutes to walk around and negotiate trades with other groups.
 
 ### Step 2: Round 2: The LACK of Coincidence-of-Wants Round
 
-Give students their new assignments (table below). Their goal is to get their “wants”.
+Give participants their new assignments (table below). Their goal is to get their “wants”.
 
 Then give them time to walk around and negotiate trades with other groups.
 
-Take a few minutes to allow students time to share what was diﬀerent between the first and second rounds.
+Take a few minutes to allow participants time to share what was diﬀerent between the first and second rounds.
 
-**Note that in round 2, there are no direct matches between groups. To get what they want, students must conduct multiple trades.**
+**Note that in round 2, there are no direct matches between groups. To get what they want, participants must conduct multiple trades.**
 
 | Market | Wants |
 | --- | --- |
@@ -86,13 +86,13 @@ Take a few minutes to allow students time to share what was diﬀerent between t
 
 ### Step 3: Round 3: Most Saleable Goods Round
 
-Give students their new assignments (table below). Their goal is to get their “wants”.
+Give participants their new assignments (table below). Their goal is to get their “wants”.
 
 Then give time to walk around and negotiate trades with other groups.
 
-As before, after trading is done, allow the students to share what was diﬀerent between all three rounds.
+As before, after trading is done, allow the participants to share what was diﬀerent between all three rounds.
 
-**Note that in round 3, diamonds became the most saleable good. Ask students how gold has fulfilled this role historically.**
+**Note that in round 3, diamonds became the most saleable good. Ask participants how gold has fulfilled this role historically.**
 
 | Market | Wants |
 | --- | --- |

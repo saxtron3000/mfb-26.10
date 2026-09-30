@@ -14,17 +14,17 @@
 
 ## Description
 
-Students work in small groups to create Lightning invoices or QR codes, receive a small payment, and relay sats to the next participant. The activity uses a prepared, low-stakes or simulated environment and ends with reflection on setup, payment speed, routing, fees, and the experience of sending and receiving sats.
+Participants work in small groups to create Lightning invoices or QR codes, receive a small payment, and relay sats to the next participant. The activity uses a prepared, low-stakes or simulated environment and ends with reflection on setup, payment speed, routing, fees, and the experience of sending and receiving sats.
 
 ## Objectives
 
-- Learners practice the basic steps of receiving and sending a Lightning payment in a prepared or simulated environment.
+- Participants practice the basic steps of receiving and sending a Lightning payment in a prepared or simulated environment.
 
 ## Preparation
 
 ### Materials
 
-• Students will need access to a Lightning wallet, ideally their own. If they do not have phones, find assistants willing to use their phones in class.
+• Participants will need access to a Lightning wallet, ideally their own. If they do not have phones, find assistants willing to use their phones in class.
 • Internet access.
 • Sats loaded on a Lightning wallet for you to start the relay.
 
@@ -42,13 +42,13 @@ There is nothing to set up other than having your Lightning wallet ready to go w
 
 ### Overview
 
-Explain to students the Lightning wallet download and setup process. The instructions for installing a wallet are in the Lightning chapter.
+Explain to participants the Lightning wallet download and setup process. The instructions for installing a wallet are in the Lightning chapter.
 
 Reassure them you will guide them through the installation prompts, like creating a new wallet versus restoring an existing one.
 
 Once everyone has a wallet, you will start to send sats to each other!
 
-The goal is for each student to both receive and send sats. For large classes, divide students into groups. They will send sats to everyone within their group.
+The goal is for each student to both receive and send sats. For large classes, divide participants into groups. They will send sats to everyone within their group.
 
 ### Step 1: The First Payment
 
@@ -68,7 +68,7 @@ Move to the other groups to get them started as well.
 
 Walk from group to group to ensure the Lightning relay is going smoothly.
 
-Verify all students are participating. Remember the goal is for every student to receive and send.
+Verify all participants are participating. Remember the goal is for every student to receive and send.
 
 ### Step 3: Discussion Time
 
@@ -96,20 +96,16 @@ Then lead an open discussion about their experience.
 
 **Diploma assessment link:** May support [`T3` / `C8`](https://programs.myfirstbitcoin.org/programs/educator-guide/) and, after approved safety adaptation, [`P9` / `C9`](https://programs.myfirstbitcoin.org/programs/educator-guide/). As written, it is not a certificated task: use a prepared low-stakes or simulated environment and never require real funds, a personal wallet, or a learner-owned device.
 
-The technical skill level of your students will affect how long it takes to conduct the Lightning Relay. Consider pairing more technical students with less-technical students so they can help one another.
+The technical skill level of your participants will affect how long it takes to conduct the Lightning Relay. Consider pairing more technical participants with less-technical participants so they can help one another.
 
-Plan on spending half your activity time assisting students in setting up their Lightning wallets.
+Plan on spending half your activity time assisting participants in setting up their Lightning wallets.
 
 ## Additional Resources
 
 ### VIDEO
 
-**“Lightning Network” / “Bitcoin Lightning Network Explained: How it Actually Works”** by CuriousInvestor on YouTube uses animation and analogies to explain Lightning.
-
-https://youtu.be/yKdK-7AtAMQ
+[**“Lightning Network” / “Bitcoin Lightning Network Explained: How it Actually Works”**](https://youtu.be/yKdK-7AtAMQ) by CuriousInvestor on YouTube uses animation and analogies to explain Lightning.
 
 ### BOOK
 
-**“A Look at the Lightning Network”** by Lyn Alden goes deep into how Lightning is helping Bitcoin move from a store of value to a medium of exchange.
-
-https://www.lynalden.com/lightning-network
+[**“A Look at the Lightning Network”**](https://www.lynalden.com/lightning-network) by Lyn Alden goes deep into how Lightning is helping Bitcoin move from a store of value to a medium of exchange.

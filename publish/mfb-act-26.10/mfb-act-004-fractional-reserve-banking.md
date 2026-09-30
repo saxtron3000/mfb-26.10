@@ -14,18 +14,18 @@
 
 ## Description
 
-Students role-play depositors and banks while recording deposits, reserves, and loans in a shared table. Starting with one lottery winner’s deposit, each loan becomes the next deposit so students can calculate how fractional reserve banking expands recorded balances and discuss reserve risk, bank runs, and moral hazard.
+Participants role-play depositors and banks while recording deposits, reserves, and loans in a shared table. Starting with one lottery winner’s deposit, each loan becomes the next deposit so participants can calculate how fractional reserve banking expands recorded balances and discuss reserve risk, bank runs, and moral hazard.
 
 ## Objectives
 
-- Learners trace how deposits and loans can expand the money supply in a fractional reserve banking system.
+- Participants trace how deposits and loans can expand the money supply in a fractional reserve banking system.
 
 ## Preparation
 
 ### Materials
 
 • Whiteboard or projector / screen
-• Calculators for students
+• Calculators for participants
 
 ### Preparation Notes
 
@@ -37,7 +37,7 @@ After you have delivered the activity the first time, future preparation is mini
 
 ### Setup
 
-To keep students engaged with minimal downtime, draw the example table below on a whiteboard before the activity. You can also build this in Excel and project on a screen. Include the starting reserve rate for this activity.
+To keep participants engaged with minimal downtime, draw the example table below on a whiteboard before the activity. You can also build this in Excel and project on a screen. Include the starting reserve rate for this activity.
 
 | 10% Reserve | Bank 1 | Bank 2 | Bank 3 | Bank 4 | Bank 5 | Bank 6 | Total |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -51,7 +51,7 @@ To keep students engaged with minimal downtime, draw the example table below on 
 
 ### Overview
 
-Explain to the students that this is a role-playing game. They will either be a person (a depositor) or a bank (a lender).
+Explain to the participants that this is a role-playing game. They will either be a person (a depositor) or a bank (a lender).
 
 Then explain you, the teacher, are the central bank. You will set the fractional reserve percentage.
 
@@ -87,7 +87,7 @@ Ask who (other than Person A) wants to borrow money from Bank 1?
 
 Ask Bank 1 to calculate how much they can lend.
 
-**Assist the Bank 1 student with the calculations. It’s important to let them do the math. Since other students are listening, point to the fractional reserve percentage on the tracker and the deposited amount while you explain “10% of $100,000 = $10,000. So, the amount you can lend is $100,000 - $10,000 = $90,000.”**
+**Assist the Bank 1 student with the calculations. It’s important to let them do the math. Since other participants are listening, point to the fractional reserve percentage on the tracker and the deposited amount while you explain “10% of $100,000 = $10,000. So, the amount you can lend is $100,000 - $10,000 = $90,000.”**
 
 Congratulate Person B. You now have $90,000. Ask Person B who they want to be their bank. Whoever they pick is now Bank 2.
 
@@ -107,7 +107,7 @@ Highlight for the class that the ”total money” has increased to $190,000.
 
 ### Step 3: The Second Loan
 
-Repeat the process from Step 2. Involve students who have not already participated. You’ll add Person C and Bank 3.
+Repeat the process from Step 2. Involve participants who have not already participated. You’ll add Person C and Bank 3.
 
 **Point to the fractional reserve percentage on the tracker and the deposited amount while you explain “10% of $90,000 = $9,000. So, the amount you can lend is $90,000 - $9,000 = $81,000.”**
 
@@ -127,7 +127,7 @@ Highlight that the “total money” has increased to $271,000.
 
 ### Steps 4–7: Fast Forward
 
-**If the students have absorbed the ideas well, or if you’re short on time, you can “fast forward” to the final table.**
+**If the participants have absorbed the ideas well, or if you’re short on time, you can “fast forward” to the final table.**
 
 **Otherwise, repeat the previous steps with Persons D, E and F and Banks 4, 5 and 6.**
 
@@ -163,7 +163,7 @@ Highlight that the “total money” has increased to $468,559.
 
 ## Notes
 
-This activity uses role playing, which requires time for students to think about the rules and act. Allow for 30 minutes for the activity and 5 minutes after the activity for discussion.
+This activity uses role playing, which requires time for participants to think about the rules and act. Allow for 30 minutes for the activity and 5 minutes after the activity for discussion.
 
 To accelerate the exercise, you can do this cooperatively as a class. Allow 15 minutes for the activity and 5 minutes for discussion.
 
@@ -171,18 +171,12 @@ To accelerate the exercise, you can do this cooperatively as a class. Allow 15 m
 
 ### VIDEO
 
-“Fractional Reserve Banking Explained in One Minute” on the YouTube Channel “One Minute Economics” is an animated video. It walks through an example like the one used in the MPB lesson.
-
-https://www.youtube.com/watch?v=-09ap6zIB6I
+[“Fractional Reserve Banking Explained in One Minute”](https://www.youtube.com/watch?v=-09ap6zIB6I) on the YouTube Channel “One Minute Economics” is an animated video. It walks through an example like the one used in the MFB lesson.
 
 ### VIDEO
 
-“What’s the Problem?” is a video produced by Joe Bryan. It covers more than just fractional reserve banking, which is one of many ways to create fiat money. This video explains the consequences.
-
-https://www.whatstheproblem.org/
+[“What’s the Problem?”](https://www.whatstheproblem.org/) is a video produced by Joe Bryan. It covers more than just fractional reserve banking, which is one of many ways to create fiat money. This video explains the consequences.
 
 ### BOOK
 
-“Broken Money” by Lyn Alden is a long, in-depth book. This is for those who have a passion for the subject of money and want to go deep in their personal studies.
-
-https://www.lynalden.com/broken-money/
+[“Broken Money”](https://www.lynalden.com/broken-money/) by Lyn Alden is a long, in-depth book. This is for those who have a passion for the subject of money and want to go deep in their personal studies.

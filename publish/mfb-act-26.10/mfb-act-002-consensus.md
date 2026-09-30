@@ -14,19 +14,19 @@
 
 ## Description
 
-Students first track a simple set of transactions, then compare a bank-controlled ledger with a ledger independently maintained by every student. The banker’s ability to create money for a favored participant shows why shared verification matters, and the final discussion connects classroom agreement to Bitcoin’s decentralized consensus process.
+Participants first track a simple set of transactions, then compare a bank-controlled ledger with a ledger independently maintained by every student. The banker’s ability to create money for a favored participant shows why shared verification matters, and the final discussion connects classroom agreement to Bitcoin’s decentralized consensus process.
 
 ## Objectives
 
-- Learners practice maintaining a shared record and recognize how independent verification supports consensus.
+- Participants practice maintaining a shared record and recognize how independent verification supports consensus.
 
 ## Preparation
 
 ### Materials
 
-• Something for all students to use to track, e.g., blank paper and pens
-• Calculators for students are helpful, but not required
-• For online classes, students can use spreadsheets
+• Something for all participants to use to track, e.g., blank paper and pens
+• Calculators for participants are helpful, but not required
+• For online classes, participants can use spreadsheets
 
 ### Preparation Notes
 
@@ -46,23 +46,23 @@ Have your whiteboard or spreadsheet display ready before class as well. For exam
 
 In this activity you are going to facilitate three scenarios.
 
-1. In the first scenario, students track a simple set of transactions between three people. An analogy is friends lending each other money. It is simple enough that many will be able to do it without pen and paper.
+1. In the first scenario, participants track a simple set of transactions between three people. An analogy is friends lending each other money. It is simple enough that many will be able to do it without pen and paper.
 2. The second scenario involves seven entities (a bank plus six people). ONE student is designated as the oﬃcial tracker for the whole class.
-3. The third and last scenario repeats the prior one with an important change: this time, ALL students track. No one can do any special favors (e.g., the banker cannot help his friend).
+3. The third and last scenario repeats the prior one with an important change: this time, ALL participants track. No one can do any special favors (e.g., the banker cannot help his friend).
 
 This sets up the transition to discuss Bitcoin. Everyone can track the Bitcoin ledger for themselves, yet we are able to reach agreement (consensus) without a banker or other centralized tracker.
 
 ### Step 1: Memory Only
 
-Ask students to pick a fun medium of exchange other than bitcoin. Examples include dollars, monopoly money, pieces of candy, rocks, sheep, anything.
+Ask participants to pick a fun medium of exchange other than bitcoin. Examples include dollars, monopoly money, pieces of candy, rocks, sheep, anything.
 
-Since no physical items are necessary for this exercise, it does not matter what they choose. Explain to the class that you, the teacher, will be the guide for this exercise. Designate two students (or tables of students) to represent RED and BLUE.
+Since no physical items are necessary for this exercise, it does not matter what they choose. Explain to the class that you, the teacher, will be the guide for this exercise. Designate two participants (or tables of participants) to represent RED and BLUE.
 
-Challenge students to track who has what using only memory if they can. Using pen and paper is fine as well.
+Challenge participants to track who has what using only memory if they can. Using pen and paper is fine as well.
 
 Give them time between steps to talk with one another.
 
-1. The TEACHER has 21 widgets, coins or whatever medium of exchange the students picked, and RED and BLUE have none
+1. The TEACHER has 21 widgets, coins or whatever medium of exchange the participants picked, and RED and BLUE have none
 2. TEACHER pays 2 widgets to RED
 3. TEACHER pays 5 widgets to BLUE
 4. BLUE pays 1 widget to RED
@@ -84,7 +84,7 @@ Give them time between steps to talk with one another.
 
 ### Step 2: Single-Ledger Tracker
 
-Tell the students there will now be six colors and a bank. You, the teacher, will be the bank and you virtually distribute the money.
+Tell the participants there will now be six colors and a bank. You, the teacher, will be the bank and you virtually distribute the money.
 
 **For this example, we are using 100 Monopoly dollars.** Explain that the class will have one designated student as the official tracker.
 
@@ -116,11 +116,11 @@ Tell the students there will now be six colors and a bank. You, the teacher, wil
 
 Inform the class you are repeating the exact exercise with one major diﬀerence. This time, instead of having one tracker, every student uses their own tracking sheet.
 
-**ALL students create and update a table.**
+**ALL participants create and update a table.**
 
 After each step, ask if everyone agrees on who has how much.
 
-At the point where the BANKER does not have enough money to help their friend BLUE, how many students agree?
+At the point where the BANKER does not have enough money to help their friend BLUE, how many participants agree?
 
 **In Step #2, agreement in the class (aka consensus) was dependent upon one person, the bank. In Step #3, agreement really is a consensus.**
 
@@ -162,22 +162,18 @@ Now that we have discussed Bitcoin in greater detail, let’s look at our money 
 
 This activity has multiple rounds, each with multiple steps.
 
-Expect clarification questions from students.
+Expect clarification questions from participants.
 
 Allow for time to address these questions.
 
-Allow time for students to do the calculations, especially if they are doing them by hand.
+Allow time for participants to do the calculations, especially if they are doing them by hand.
 
 ## Additional Resources
 
 ### VIDEO
 
-“Byzantine Generals Problem – Bitcoin” is a video produced by Jason Trio @bittrio. It simplifies the programming consensus challenge in a short story format.
-
-youtube.com/watch?v=nS9LH5gu65Y&feature=youtu.be
+[“Byzantine Generals Problem – Bitcoin”](https://youtube.com/watch?v=nS9LH5gu65Y&feature=youtu.be) is a video produced by Jason Trio ["@bittrio"](https://x.com/bittrio). It simplifies the programming consensus challenge in a short story format.
 
 ### BOOK
 
-"Inventing Bitcoin: The Technology Behind the First Truly Scarce and Decentralized Money Revealed" by Yan Pritzker provides a high-level overview of Bitcoin's inner workings, including how consensus achieves scarcity.
-
-https://www.inventingbitcoin.com
+[“Inventing Bitcoin: The Technology Behind the First Truly Scarce and Decentralized Money Revealed”](https://www.inventingbitcoin.com) by Yan Pritzker provides a high-level overview of Bitcoin's inner workings, including how consensus achieves scarcity.

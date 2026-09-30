@@ -8,10 +8,10 @@ Class discussion and research
 ## Duration
 
 ## Description
-Students examine prepared, locally relevant Bitcoin and Lightning wallet information, recording when sources were checked. They compare options using custody, recovery, payment compatibility, privacy, cost, maintenance, support, and open-source inspectability, then explain which option may fit a stated fictional or learner need without presenting a global recommendation.
+Participants examine prepared, locally relevant Bitcoin and Lightning wallet information, recording when sources were checked. They compare options using custody, recovery, payment compatibility, privacy, cost, maintenance, support, and open-source inspectability, then explain which option may fit a stated fictional or learner need without presenting a global recommendation.
 ## Objectives
 
-- Learners practice comparing Bitcoin wallet options against consistent criteria and weighing the trade-offs for a stated need.
+- Participants practice comparing Bitcoin wallet options against consistent criteria and weighing the trade-offs for a stated need.
 
 ## Materials
 Prepared wallet information in print or digital form. Internet access is optional for checking current local information.
@@ -33,11 +33,11 @@ Choose a wallet for a fictional or stated beginner need and explain the trade-of
 Which wallet best fits the stated need, what trade-offs remain, and what would need to be verified before real use?
 ## Notes
 
-**Diploma assessment link:** May provide the individual-response context for [`T3` / `C6`](https://programs.myfirstbitcoin.org/programs/educator-guide/). Use the approved protocol; do not ask a learner to choose a real service, use personal funds, or disclose private information. The educator should help learners navigate the decision path without turning a local example into a My First Bitcoin recommendation.
+**Diploma assessment link:** May provide the individual-response context for [`T3` / `C6`](https://programs.myfirstbitcoin.org/programs/educator-guide/). Use the approved protocol; do not ask a learner to choose a real service, use personal funds, or disclose private information. The educator should help participants navigate the decision path without turning a local example into a My First Bitcoin recommendation.
 
 ## Additional Resources
-https://www.lopp.net/bitcoin-information.html
+[Jameson Lopp’s Bitcoin Information](https://www.lopp.net/bitcoin-information.html) is a broad, curated collection of Bitcoin learning resources that can support research into wallet concepts and trade-offs.
 
-https://www.lopp.net/lightning-information.html
+[Jameson Lopp’s Lightning Information](https://www.lopp.net/lightning-information.html) is a curated collection of Lightning learning resources that can support research into Lightning payment compatibility and related concepts.
 
-https://bitcoin.org/en/choose-your-wallet
+[Bitcoin.org: Choose Your Wallet](https://bitcoin.org/en/choose-your-wallet) introduces wallet categories and selection considerations. Treat it as a starting point for comparison, and verify current, locally relevant information before real use.

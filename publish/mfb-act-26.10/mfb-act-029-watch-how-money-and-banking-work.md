@@ -8,10 +8,10 @@ Video viewing
 ## Duration
 
 ## Description
-Students watch “How Money & Banking Work” by Lyn Alden to reinforce the course discussion of money, banking, and the money supply. The activity gives learners a shared reference for identifying how the video explains banking processes and for comparing those explanations with concepts explored in class.
+Participants watch “How Money & Banking Work” by Lyn Alden to reinforce the course discussion of money, banking, and the money supply. The activity gives participants a shared reference for identifying how the video explains banking processes and for comparing those explanations with concepts explored in class.
 ## Objectives
 
-- Learners identify and discuss an explanation from the video about how money or banking works.
+- Participants identify and discuss an explanation from the video about how money or banking works.
 
 ## Materials
 Internet access and video playback.
@@ -34,4 +34,4 @@ Watch the video.
 ## Notes 
 
 ## Additional Resources
-https://youtu.be/jk_HWmmwiAs
+[“How Money & Banking Work” by Lyn Alden](https://youtu.be/jk_HWmmwiAs) explains money creation and banking processes, providing the video used to connect the class discussion to the money supply.

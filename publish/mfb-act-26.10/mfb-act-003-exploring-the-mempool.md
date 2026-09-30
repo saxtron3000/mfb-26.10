@@ -14,11 +14,11 @@
 
 ## Description
 
-Students use mempool.space to inspect recent blocks, transactions, fees, inputs, outputs, and block rewards. The activity introduces the difference between a node’s mempool and a block explorer, uses block-height examples to discuss halvings and epochs, and optionally explores block art and other network data.
+Participants use mempool.space to inspect recent blocks, transactions, fees, inputs, outputs, and block rewards. The activity introduces the difference between a node’s mempool and a block explorer, uses block-height examples to discuss halvings and epochs, and optionally explores block art and other network data.
 
 ## Objectives
 
-- Learners practice using a block explorer to find and interpret basic information about a Bitcoin block or transaction.
+- Participants practice using a block explorer to find and interpret basic information about a Bitcoin block or transaction.
 
 ## Preparation
 
@@ -26,7 +26,7 @@ Students use mempool.space to inspect recent blocks, transactions, fees, inputs,
 
 • You will need a screen and access to the internet so you can project mempool.space for the entire class to watch and use together.
 
-• Alternatively, you can direct students to access mempool.space on their personal phones or computers.
+• Alternatively, you can direct participants to access mempool.space on their personal phones or computers.
 
 ### Preparation Notes
 
@@ -44,15 +44,15 @@ If you are projecting using a screen, connect your device.
 
 Navigate to mempool.space and ensure it is displaying properly.
 
-If students are using their own phones or computers, they can go to https://mempool.space/ or scan this QR.
+If participants are using their own phones or computers, they can go to https://mempool.space/ or scan this QR.
 
 ### Overview
 
-In this activity you walk students through basic Bitcoin information available at mempool.space.
+In this activity you walk participants through basic Bitcoin information available at mempool.space.
 
 Time permitting, you can show them other tools available, like the mining or Lightning features.
 
-Artistic blocks are a way to make the discussion more interesting for your non-technical students. A few options are included in this guide.
+Artistic blocks are a way to make the discussion more interesting for your non-technical participants. A few options are included in this guide.
 
 ### Step 1: Introduction to the Dashboard
 
@@ -70,9 +70,9 @@ Ask questions to start the overview:
 
 ### Step 2: Diving Deeper: Blockchain (All Blocks), One Block
 
-Explain to students that by clicking on a block you can explore more details.
+Explain to participants that by clicking on a block you can explore more details.
 
-When you do this, students can see details, such as transaction fees paid to the miner, on the left-hand side.
+When you do this, participants can see details, such as transaction fees paid to the miner, on the left-hand side.
 
 On the right side is the block visualizer, which gives a sense of how much “space” each transaction takes up within the 4 MB block limit. Larger cubes mean bigger transactions.
 
@@ -88,7 +88,7 @@ Quick breakdown:
 
 ### Step 3: Going Deeper: One Block (Many Transactions), One Transaction
 
-Explain to students that by clicking on a transaction you can explore more details. If you have a specific transaction, you can also use the search tool.
+Explain to participants that by clicking on a transaction you can explore more details. If you have a specific transaction, you can also use the search tool.
 
 The example below is block 800,000.
 
@@ -100,7 +100,7 @@ Questions for discussion:
 • How does this diagram of inputs and outputs relate to UTXOs?
 • Why might someone overpay a transaction fee?
 
-Remind students that a halving occurs every 210,000 blocks. A group of 210,000 blocks is also called an epoch.
+Remind participants that a halving occurs every 210,000 blocks. A group of 210,000 blocks is also called an epoch.
 
 The fourth halving occurred at block 840,000.
 
@@ -191,6 +191,4 @@ Conversely, you can shorten the duration of the activity by skipping those extra
 
 ## Additional Resources
 
-**“How to explore the Bitcoin Blockchain Mempool.space Tutorial”** on the YouTube channel Crypto Trading Guides covers transaction fees, diﬃculty adjustment, checking addresses, checking transactions.
-
-https://youtu.be/ZQZJI0R79sM?si=FkZf8WiH2xVvsBi4
+[**“How to explore the Bitcoin Blockchain Mempool.space Tutorial”**](https://youtu.be/ZQZJI0R79sM?si=FkZf8WiH2xVvsBi4) on the YouTube channel Crypto Trading Guides covers transaction fees, difficulty adjustment, and checking addresses and transactions.
