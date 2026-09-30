@@ -15,7 +15,7 @@ Use one row per learner on Page 2. Record one result for each competency: `MS` =
 | Competency | A learner can show | Part of the Diploma |
 |---|---|---|
 | `C1` Money and modern-money trade-offs | Explains why money is used, compares two forms, and explains a local or realistic trade-off. | Theory |
-| `C2` Bitcoin foundations and rules | Explains digital copying, shared verification, beginner rules and roles, and a qualified money-property judgment. | Theory |
+| `C2` Bitcoin foundations and rules | Explains digital copying, shared verification, Bitcoin's rules and participant roles at a beginner level, and how a Bitcoin property could help or limit its use as money. | Theory |
 | `C3` Bitcoin and digital-asset comparison | Compares Bitcoin with another digital asset and distinguishes learning from speculation or promotion. | Theory |
 | `C4` Wallets, custody, and safety | Explains public and secret information, custody choices, wallet types, and a safe response to risk. | Theory |
 | `C5` Payment and access pathways | Compares on-chain and Lightning payments and access or exchange pathways with their risks. | Theory |
@@ -49,13 +49,13 @@ Use one row per learner on Page 2. Record one result for each competency: `MS` =
 | Code | Learner can show | Code | Learner can show |
 |---|---|---|---|
 | `C1` | Why money is used; compare forms and explain one modern-money trade-off. | `C5` | Compare payment and access pathways with their risks. |
-| `C2` | Explain digital copying, verification, rules, roles, and a qualified money-property judgment. | `C6†` | Safely complete or simulate wallet access and receipt; show recovery readiness without exposing secrets. |
+| `C2` | Explain digital copying, verification, Bitcoin's rules and participant roles at a beginner level, and how a Bitcoin property could help or limit its use as money. | `C6†` | Safely complete or simulate wallet access and receipt; show recovery readiness without exposing secrets. |
 | `C3` | Compare Bitcoin with another digital asset and distinguish learning from speculation. | `C7†` | Complete a safe local task and explain purpose, alternative, trade-offs, possible failure, and next step. |
 | `C4` | Explain public and secret information, custody and wallet types; respond safely to a risk. |  |  |
 
 **Key:** blank = not assessed · `MS` = Meets standard · `NY` = Not yet · `†` = direct observation required
 
-Use activities and conversation for `C1`–`C5`; directly observe both parts of `C6` and the selected `C7` task. A good-enough beginner example for each result: `C1` explains a barter limit, compares two money forms, and names a realistic trade-off; `C2` explains digital copying, who verifies Bitcoin's rules, and one qualified property judgment; `C3` compares Bitcoin with a generic stablecoin and names a trade-off without promotion; `C4` protects a secret, compares custody options and wallet types, and stops at a scam request; `C5` compares on-chain with Lightning and explains one access risk; `C6` safely completes a prepared receipt with checks and shows recovery readiness using fake materials; `C7` performs the selected local task safely and explains its alternative, risks, and next step. Mark `NY` for an unmet or unsafe required part, then provide practice and another opportunity.
+Use activities and conversation for `C1`–`C5`; directly observe both parts of `C6` and the selected `C7` task. A good-enough beginner example for each result: `C1` explains a barter limit, compares two money forms, and names a realistic trade-off; `C2` explains digital copying, who verifies Bitcoin's rules, and how one Bitcoin property could help or limit its use as money; `C3` compares Bitcoin with a generic stablecoin and names a trade-off without promotion; `C4` protects a secret, compares custody options and wallet types, and stops at a scam request; `C5` compares on-chain with Lightning and explains one access risk; `C6` safely completes a prepared receipt with checks and shows recovery readiness using fake materials; `C7` performs the selected local task safely and explains its alternative, risks, and next step. Mark `NY` for an unmet or unsafe required part, then provide practice and another opportunity.
 
 | Learner name | C1 | C2 | C3 | C4 | C5 | C6† | C7† | Complete | Notes / date (optional) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

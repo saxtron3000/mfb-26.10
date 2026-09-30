@@ -113,7 +113,7 @@ ASSET: assets/briefs/bd-v-077-brief.md
 After completing this Diploma, you should be able to:
 
 - explain why people use money, compare two forms, and explain one realistic modern-money trade-off (`C1`);
-- explain digital copying, shared verification, Bitcoin's beginner rules and roles, and one money-property benefit or limitation (`C2`);
+- explain Bitcoin foundations and rules at a beginner level, including digital copying, shared verification, what users, nodes, miners, and developers do, how Bitcoin's supply is limited, and how a Bitcoin property could help or limit its use as money (`C2`);
 - compare Bitcoin with another digital asset using relevant criteria and distinguish learning from speculation or promotion (`C3`);
 - explain wallets, custody choices, public and secret information, wallet types, and a safe response to a scam or error (`C4`);
 - compare on-chain and Lightning payments and explain the risks of different access or exchange pathways (`C5`);

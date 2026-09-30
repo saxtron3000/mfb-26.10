@@ -158,7 +158,7 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
   | New competency | Original competencies | Suggested assessment breakdown |
   |---|---|---|
   | `C1` Money and modern-money trade-offs | `C1` + `C2` | Up to three points: why money is used and its functions/properties; comparison of two forms of money; one local or realistic modern-money trade-off. |
-  | `C2` Bitcoin foundations and rules | `C3` + `C4` | Up to three points: digital copying and shared verification; beginner rules and network roles; money properties with a reasoned benefit or limitation. Keep technical depth achievable for beginners. |
+  | `C2` Bitcoin foundations and rules | `C3` + `C4` | Up to three points: digital copying and shared verification; explaining Bitcoin's rules and network roles at a beginner level; explaining how a Bitcoin property could help or limit its use as money. Keep technical depth achievable for beginners. |
   | `C3` Bitcoin and digital-asset comparison | `C5` | One guided comparison statement, without numbered sub-points: compare Bitcoin with another digital asset using relevant criteria and a trade-off, and distinguish learning from speculation or promotion. Retain this competency and its title. |
   | `C4` Wallets, custody, and safety | `C6` + `C7` | Up to three points: public/secret information and custody choices; wallet types; recognising a risk and knowing when to stop, verify, or seek help. |
   | `C5` Payment and access pathways | `C8` | Two points where useful: compare on-chain and Lightning payments in a guided example; compare access or exchange pathways and their risks. |
