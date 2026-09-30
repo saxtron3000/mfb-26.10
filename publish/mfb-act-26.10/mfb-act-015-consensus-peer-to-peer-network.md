@@ -8,9 +8,9 @@ Class activity
 ## Duration
 
 ## Description
-Students pass encrypted and unencrypted messages around a circle to experience a lack of consensus.
+Students pass messages around a circle while selected participants alter or misinterpret an encrypted instruction. When the group acts on the message, the conflicting responses make the lack of consensus visible and lead to a discussion of cryptography, malicious actors, the Byzantine Generals’ Problem, and Bitcoin’s consensus layer.
 ## Objectives
-Understand how consensus is achieved in a group, learn about cryptography, and learn about Bitcoin’s consensus layer.
+- Learners experience how shared verification and cryptography can help a peer-to-peer network reach consensus despite malicious participants.
 ## Materials
 Messages with encrypted and unencrypted instructions for “attack” or “do not attack.”
 ## Preparation

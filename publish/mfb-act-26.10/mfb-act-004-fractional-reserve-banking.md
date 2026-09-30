@@ -14,9 +14,11 @@
 
 ## Description
 
-This is a class exercise exploring individual actions by people and banks using the practice of fractional reserve banking. The intent is to experience firsthand how fractional reserve banking increases the money supply.
+Students role-play depositors and banks while recording deposits, reserves, and loans in a shared table. Starting with one lottery winner’s deposit, each loan becomes the next deposit so students can calculate how fractional reserve banking expands recorded balances and discuss reserve risk, bank runs, and moral hazard.
 
 ## Objectives
+
+- Learners trace how deposits and loans can expand the money supply in a fractional reserve banking system.
 
 ## Preparation
 

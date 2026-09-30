@@ -8,8 +8,10 @@ Class discussion
 ## Duration
 
 ## Description
-Students discuss why time preference belongs in a chapter about money and how it affects saving and spending decisions.
+Students use guided questions to connect time preference with money, entrepreneurship, consumption, saving, and interest rates. The discussion treats money as a way people communicate value in a free market and considers how understanding present and future preferences can inform personal decisions.
 ## Objectives
+
+- Learners connect time preference with saving, consumption, and interest rates through discussion.
 
 ## Materials
 
@@ -32,5 +34,3 @@ How can learning about time preference help you make better money decisions?
 ## Notes 
 
 ## Additional Resources
-
-

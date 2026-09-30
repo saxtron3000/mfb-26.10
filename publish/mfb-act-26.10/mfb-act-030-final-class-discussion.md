@@ -8,8 +8,10 @@ Final class discussion
 ## Duration
 
 ## Description
-Students revisit their initial answers about money, compare them to their current views, and identify a next step.
+Students revisit the questions they answered in the first Chapter 1 activity, compare their original ideas with their current views, and discuss what changed. The final reflection asks learners to identify a next step and consider how they can use their new knowledge about money and Bitcoin to empower themselves.
 ## Objectives
+
+- Learners reflect on how their understanding of money has changed and identify a next step for continued learning.
 
 ## Materials
 Students’ responses from the first Chapter 1 activity.
@@ -32,4 +34,3 @@ How did your perspective change? What is your next step?
 ## Notes 
 
 ## Additional Resources
-

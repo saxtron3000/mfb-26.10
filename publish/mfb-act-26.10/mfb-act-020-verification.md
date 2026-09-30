@@ -8,8 +8,10 @@ Class demonstration
 ## Duration
 10 minutes
 ## Description
-Students use dice to illustrate the work required to find a winning block and the ease of verification by nodes.
+Students repeatedly roll dice to model miners attempting many hash calculations to meet a difficulty target. After a successful roll, the class quickly checks the result, compares the effort of finding it with the ease of verification, and connects the model to proof of work and node verification.
 ## Objectives
+
+- Learners experience the difference between the repeated work of finding a valid proof-of-work result and the quick check needed to verify it.
 
 ## Materials
 At least six dice or an online dice-rolling tool.

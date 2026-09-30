@@ -14,9 +14,11 @@
 
 ## Description
 
-This is a hands-on exercise where students send and receive real sats using the Lightning Network.
+Students work in small groups to create Lightning invoices or QR codes, receive a small payment, and relay sats to the next participant. The activity uses a prepared, low-stakes or simulated environment and ends with reflection on setup, payment speed, routing, fees, and the experience of sending and receiving sats.
 
 ## Objectives
+
+- Learners practice the basic steps of receiving and sending a Lightning payment in a prepared or simulated environment.
 
 ## Preparation
 

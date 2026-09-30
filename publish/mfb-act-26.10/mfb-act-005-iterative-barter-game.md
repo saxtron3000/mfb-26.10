@@ -14,9 +14,11 @@
 
 ## Description
 
-This is a class exercise intended to increase students’ understanding of bartering concepts. Participation will help them see how money naturally develops in free markets.
+Students trade playing cards across three rounds that progressively change what each group wants. They experience direct exchange, the difficulty of matching wants, and the emergence of a widely accepted good, then compare the role of the most saleable good with the historical role of money.
 
 ## Objectives
+
+- Learners experience the trade friction created by mismatched wants and recognize why a widely accepted good can emerge as money.
 
 ## Preparation
 

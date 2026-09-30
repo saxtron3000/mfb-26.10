@@ -8,8 +8,10 @@ Class exercise
 ## Duration
 
 ## Description
-Students either create a new Bitcoin wallet or restore a supplied wallet with a recovery phrase.
+Students follow a guided new-wallet or prepared restoration route to see how a Bitcoin wallet is created, secured, or restored. They identify the role of an address, private key, and recovery phrase while using an approved simulation and observing the rule that private recovery information must never be shared, collected, or recorded by the educator.
 ## Objectives
+
+- Learners practice the steps of creating or restoring a Bitcoin wallet while protecting private recovery information.
 
 ## Materials
 Phones or teacher-provided phones; Bitcoin wallet app; recovery phrase sheets for the restore option; satoshis for the restore option.

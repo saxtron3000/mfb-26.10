@@ -8,8 +8,10 @@ Class discussion and research
 ## Duration
 
 ## Description
-Students research Bitcoin wallets, compare trade-offs using consistent criteria, and explain which option may fit a stated learner need without creating a global recommendation.
+Students examine prepared, locally relevant Bitcoin and Lightning wallet information, recording when sources were checked. They compare options using custody, recovery, payment compatibility, privacy, cost, maintenance, support, and open-source inspectability, then explain which option may fit a stated fictional or learner need without presenting a global recommendation.
 ## Objectives
+
+- Learners practice comparing Bitcoin wallet options against consistent criteria and weighing the trade-offs for a stated need.
 
 ## Materials
 Prepared wallet information in print or digital form. Internet access is optional for checking current local information.

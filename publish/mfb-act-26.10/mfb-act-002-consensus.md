@@ -14,9 +14,11 @@
 
 ## Description
 
-This is a class exercise where participants learn firsthand how diﬃcult synchronizing actions is in a group without a defined leader. The intent is for participants to understand how agreement (i.e., consensus) is achieved in Bitcoin.
+Students first track a simple set of transactions, then compare a bank-controlled ledger with a ledger independently maintained by every student. The banker’s ability to create money for a favored participant shows why shared verification matters, and the final discussion connects classroom agreement to Bitcoin’s decentralized consensus process.
 
 ## Objectives
+
+- Learners practice maintaining a shared record and recognize how independent verification supports consensus.
 
 ## Preparation
 

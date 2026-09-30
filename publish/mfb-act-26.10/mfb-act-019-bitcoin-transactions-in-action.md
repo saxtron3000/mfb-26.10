@@ -8,9 +8,9 @@ Students act as senders, receivers, nodes, or miners.
 ## Duration
 
 ## Description
-Students simulate creating, verifying, validating, and adding peer-to-peer Bitcoin transactions to a blockchain.
+Students role-play senders, receivers, nodes, and miners to create, verify, validate, and add peer-to-peer Bitcoin transactions to a classroom blockchain. Transaction notes, coins, approval tables, and dice make the flow of a payment visible, including checks for valid addresses, sufficient funds, and double spending.
 ## Objectives
-Understand the underlying concepts and mechanics of a peer-to-peer Bitcoin transaction.
+- Learners practice the roles of senders, receivers, nodes, and miners in validating and adding a simulated Bitcoin transaction.
 ## Materials
 Transaction notes; coins; approval tables; dice.
 ## Preparation

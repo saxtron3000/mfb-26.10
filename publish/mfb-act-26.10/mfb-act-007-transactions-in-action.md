@@ -12,9 +12,11 @@
 
 ## Description
 
-This is a cooperative exercise simplifying the basic roles of people involved in a Bitcoin transaction: sender, recipient, miner, and node operator.
+Students simulate Bitcoin transactions with color-coded wallets, sats, and a shared ledger. By approving valid payments and rejecting transactions with insufficient funds, missing signatures, or fictional wallets, they practice the distinct roles of senders, recipients, miners, and node runners in preserving a fixed supply.
 
 ## Objectives
+
+- Learners practice checking signatures, sufficient funds, and network validation conditions before accepting a simulated Bitcoin transaction.
 
 ## Preparation
 

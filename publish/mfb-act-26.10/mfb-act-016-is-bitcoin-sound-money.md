@@ -8,8 +8,10 @@ Class discussion
 ## Duration
 
 ## Description
-Students revisit a money comparison table and compare Bitcoin with other forms of money.
+Students return to the money comparison table and assess Bitcoin alongside cows, cigarettes, diamonds, and euros. Using characteristics such as durability, portability, uniformity, acceptability, scarcity, and divisibility, they complete the comparison and discuss whether Bitcoin meets the characteristics of sound money.
 ## Objectives
+
+- Learners compare Bitcoin with other forms of money using the characteristics of good money.
 
 ## Materials
 Money comparison table.

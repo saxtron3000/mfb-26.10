@@ -8,8 +8,10 @@ Group Socratic discussion
 ## Duration
 
 ## Description
-The class discusses consequences of the fiat system for individuals, society, and their country.
+Students take part in a Socratic discussion about possible consequences of the fiat system for individuals, society, and their country. They connect broad ideas to local history and personal examples, listening to differing perspectives and considering how monetary systems shape everyday life.
 ## Objectives
+
+- Learners consider possible consequences of the fiat system through local, historical, or personal examples.
 
 ## Materials
 
@@ -32,5 +34,3 @@ What consequences has the fiat system had in your country?
 ## Notes 
 
 ## Additional Resources
-
-

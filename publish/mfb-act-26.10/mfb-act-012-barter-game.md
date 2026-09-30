@@ -8,8 +8,10 @@ Class exercise
 ## Duration
 5 minutes for the barter round
 ## Description
-Students trade paper “have” and “want” cards, then repeat the exercise using macaroni as commodity money.
+Students trade paper cards showing goods they have and goods they want, attempting to find matching exchange partners before time expires. They repeat the activity with macaroni as a common medium of exchange, then compare the ease of trade and the limitations of using a commodity as money.
 ## Objectives
+
+- Learners experience and compare direct barter with exchange using a commodity as money.
 
 ## Materials
 Paper sheets cut into rectangles; macaroni.

@@ -8,8 +8,10 @@ Class activity and discussion
 ## Duration
 
 ## Description
-Students choose between a small reward now and a larger reward at the end of class.
+Students choose between a smaller reward immediately and a larger reward later in the class, then receive the reward at the time they selected. They reflect on the reasons for their choice and discuss how time preference influences consumption, saving, and the consequences of present-focused or future-focused decisions.
 ## Objectives
+
+- Learners reflect on how time preference influences a choice between consuming now and saving for later.
 
 ## Materials
 Small candies or chocolate; larger or more desirable candy.
@@ -32,5 +34,3 @@ What influenced your decision? How do you feel about it now? Where can high time
 ## Notes 
 
 ## Additional Resources
-
-

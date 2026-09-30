@@ -14,11 +14,11 @@
 
 ## Description
 
-This is a lively class exercise in which participants add money to a classroom economy and observe changes in winning bids. The central learning goal is to distinguish monetary inflation—the increase in the money supply—from price inflation—the change in a price. It is best suited to younger groups or classes that enjoy active, game-based participation.
+Students take part in a three-round auction using Monopoly money, candy bars, and a shared classroom tracking table. As the teacher adds unequal amounts of money between rounds, students compare the total money supply with winning bids and discuss monetary inflation, price inflation, and the distributional effects of new money.
 
 ## Objectives
 
-- Distinguish monetary inflation from price inflation.
+- Learners observe how adding money changes the classroom economy and distinguish monetary inflation from price inflation.
 
 ## Preparation
 

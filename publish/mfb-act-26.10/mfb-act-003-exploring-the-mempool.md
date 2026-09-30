@@ -14,9 +14,11 @@
 
 ## Description
 
-This activity exposes students to a free and open-source tool that does not require technical skills to use. It is useful for Bitcoiners at all levels, from beginner to experienced.
+Students use mempool.space to inspect recent blocks, transactions, fees, inputs, outputs, and block rewards. The activity introduces the difference between a node’s mempool and a block explorer, uses block-height examples to discuss halvings and epochs, and optionally explores block art and other network data.
 
 ## Objectives
+
+- Learners practice using a block explorer to find and interpret basic information about a Bitcoin block or transaction.
 
 ## Preparation
 
