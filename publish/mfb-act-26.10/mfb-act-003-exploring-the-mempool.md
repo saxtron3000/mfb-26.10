@@ -14,7 +14,7 @@
 
 ## Description
 
-Participants use mempool.space to inspect recent blocks, transactions, fees, inputs, outputs, and block rewards. The activity introduces the difference between a node’s mempool and a block explorer, uses block-height examples to discuss halvings and epochs, and optionally explores block art and other network data.
+Participants use mempool.space to inspect recent blocks, transactions, fees, inputs, outputs, and block rewards. The activity introduces the difference between a [node](../mfb-bd-26.10/mfb-bd-lx.md#term-node)’s mempool and a [block explorer](../mfb-bd-26.10/mfb-bd-lx.md#term-block-explorer), uses block-height examples to discuss [halvings](../mfb-bd-26.10/mfb-bd-lx.md#term-halving) and epochs, and optionally explores block art and other network data.
 
 ## Objectives
 
@@ -72,7 +72,7 @@ Ask questions to start the overview:
 
 Explain to participants that by clicking on a block you can explore more details.
 
-When you do this, participants can see details, such as transaction fees paid to the miner, on the left-hand side.
+When you do this, participants can see details, such as [transaction fees](../mfb-bd-26.10/mfb-bd-lx.md#term-transaction-fee) paid to the miner, on the left-hand side.
 
 On the right side is the block visualizer, which gives a sense of how much “space” each transaction takes up within the 4 MB block limit. Larger cubes mean bigger transactions.
 

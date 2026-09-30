@@ -14,7 +14,7 @@
 
 ## Description
 
-Participants role-play depositors and banks while recording deposits, reserves, and loans in a shared table. Starting with one lottery winner’s deposit, each loan becomes the next deposit so participants can calculate how fractional reserve banking expands recorded balances and discuss reserve risk, bank runs, and moral hazard.
+Participants role-play depositors and banks while recording [deposits](../mfb-bd-26.10/mfb-bd-lx.md#term-bank-deposit), reserves, and loans in a shared table. Starting with one lottery winner’s deposit, each loan becomes the next deposit so participants can calculate how [fractional reserve banking](../mfb-bd-26.10/mfb-bd-lx.md#term-fractional-reserve-banking) expands recorded balances and discuss reserve risk, [bank runs](../mfb-bd-26.10/mfb-bd-lx.md#term-bank-run), and moral hazard.
 
 ## Objectives
 
@@ -175,7 +175,7 @@ To accelerate the exercise, you can do this cooperatively as a class. Allow 15 m
 
 ### VIDEO
 
-[“What’s the Problem?”](https://www.whatstheproblem.org/) is a video produced by Joe Bryan. It covers more than just fractional reserve banking, which is one of many ways to create fiat money. This video explains the consequences.
+[“What’s the Problem?”](https://www.whatstheproblem.org/) is a video produced by Joe Bryan. It covers more than just fractional reserve banking, which is one of many ways to create [fiat money](../mfb-bd-26.10/mfb-bd-lx.md#term-fiat-money). This video explains the consequences.
 
 ### BOOK
 

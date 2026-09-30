@@ -8,7 +8,7 @@ Online exercise
 ## Duration
 
 ## Description
-Participants use an online SHA-256 generator to hash a message, repeat the same input, and then alter the message slightly. Comparing the results shows that identical inputs produce identical fixed-length outputs while small changes produce very different hashes, supporting later discussion of one-way hash functions and proof of work.
+Participants use an online SHA-256 generator to hash a message, repeat the same input, and then alter the message slightly. Comparing the results shows that identical inputs produce identical fixed-length outputs while small changes produce very different hashes, supporting later discussion of one-way hash functions and [proof of work](../mfb-bd-26.10/mfb-bd-lx.md#term-proof-of-work).
 ## Objectives
 
 - Participants observe that SHA-256 hashes are repeatable, fixed in length, and highly sensitive to input changes.

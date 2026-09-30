@@ -22,6 +22,7 @@ The Educator Guide column links to the section containing the first linked use a
 | <a id="term-durability"></a>**Durability** | The ability of money to remain usable over time. | First: **281**<br>Later: 469, 687 | [First linked use](mfb-bd-eg-26.10.md#functions-and-properties-of-money); 3 linked mentions |
 | <a id="term-portability"></a>**Portability** | The ease of moving or transferring money from one person or place to another. | First: **282**<br>Later: 427, 469, 688 | [First linked use](mfb-bd-eg-26.10.md#functions-and-properties-of-money); 3 linked mentions |
 | <a id="term-divisibility"></a>**Divisibility** | The ability to divide money into smaller units for different-sized payments. | First: **283**<br>Later: 469, 689 | [First linked use](mfb-bd-eg-26.10.md#functions-and-properties-of-money); 4 linked mentions |
+| <a id="term-uniformity"></a>**Uniformity** | The degree to which equal units of money are consistent in form and value. | Not present | No linked use |
 | <a id="term-fungibility"></a>**Fungibility** | The property that equal units are normally interchangeable. | First: **284**<br>Later: 690 | [First linked use](mfb-bd-eg-26.10.md#functions-and-properties-of-money); 3 linked mentions |
 | <a id="term-scarcity"></a>**Scarcity** | A limited supply: using or obtaining more is constrained rather than unlimited. | First: **285**<br>Later: 311, 313, 325, 469, 516, 538, 540, 542, 544, 691 | [First linked use](mfb-bd-eg-26.10.md#suggested-two-hour-flow); 12 linked mentions |
 | <a id="term-acceptability"></a>**Acceptability** | The willingness of other people to receive something in exchange. | First: **286**<br>Later: 469, 693 | [First linked use](mfb-bd-eg-26.10.md#functions-and-properties-of-money); 4 linked mentions |
@@ -36,6 +37,7 @@ The Educator Guide column links to the section containing the first linked use a
 | --- | --- | --- | --- |
 | <a id="term-barter"></a>**Barter** | The direct exchange of one good or service for another without using money. | First: **97**<br>Later: 269, 293, 295, 299, 301, 327, 334, 463, 470 | [First linked use](mfb-bd-eg-26.10.md#competency-to-evidence-crosswalk); 13 linked mentions |
 | <a id="term-double-coincidence-of-wants"></a>**Double coincidence of wants** | The barter problem in which each person must want what the other offers at the same time. | First: **293**<br>Later: 299 | No linked use |
+| <a id="term-most-saleable-good"></a>**Most saleable good** | The good that people are most willing to accept in exchange because they expect others will accept it too. | Not present | No linked use |
 
 ### Scarcity, value, and exchange
 
@@ -73,6 +75,7 @@ The Educator Guide column links to the section containing the first linked use a
 | <a id="term-bank-money-creation"></a>**Bank money creation** | The creation of a matching bank deposit when a commercial bank approves a loan. | Not present | No linked use |
 | <a id="term-liability"></a>**Liability** | Something a person or institution owes; a bank deposit is a liability the bank owes its customer. | First: **377**<br>Later: 440 | [First linked use](mfb-bd-eg-26.10.md#fractional-reserve-banking-liquidity-and-solvency); 5 linked mentions |
 | <a id="term-fractional-reserve-banking"></a>**Fractional reserve banking** | Banking in which only part of deposit obligations is kept immediately available as reserves. | First: **98**<br>Later: 375, 383, 473 | No linked use |
+| <a id="term-reserve-ratio"></a>**Reserve ratio** | The share of deposits a bank keeps as reserves rather than lending or investing. | Not present | No linked use |
 | <a id="term-liquid-assets"></a>**Liquid assets** | Assets, such as cash or reserves, that can be used or converted to cash quickly. | Not present | No linked use |
 | <a id="term-liquidity"></a>**Liquidity** | The ability to meet payments or withdrawals promptly using cash or liquid assets. | First: **379**<br>Later: 723, 1009, 1289 | [First linked use](mfb-bd-eg-26.10.md#prepare-before-class); 15 linked mentions |
 | <a id="term-liquidity-risk"></a>**Liquidity risk** | The danger that a person or institution will not have enough readily available funds when needed. | First: **387**<br>Later: — | [First linked use](mfb-bd-eg-26.10.md#fractional-reserve-banking-liquidity-and-solvency); 1 linked mention |
@@ -88,6 +91,7 @@ The Educator Guide column links to the section containing the first linked use a
 | <a id="term-deposit-insurance"></a>**Deposit insurance** | A system that protects eligible bank deposits up to stated limits if a bank fails. | First: **390**<br>Later: — | [First linked use](mfb-bd-eg-26.10.md#local-banking-discussion); 1 linked mention |
 | <a id="term-gearing"></a>**Gearing** | Using borrowed money or obligations to increase the size of assets or financial exposure. | Not present | No linked use |
 | <a id="term-bank-run"></a>**Bank run** | A rush of many customers trying to withdraw funds because they fear a bank may fail. | First: **390**<br>Later: — | [First linked use](mfb-bd-eg-26.10.md#debrief-every-activity); 1 linked mention |
+| <a id="term-moral-hazard"></a>**Moral hazard** | A situation in which protection from loss can encourage someone to take more risk because others may bear the cost. | Not present | No linked use |
 | <a id="term-too-big-to-fail"></a>**“Too big to fail”** | The view that an institution is so important that authorities may intervene to prevent its disorderly failure. | Not present | No linked use |
 | <a id="term-restructuring"></a>**Restructuring** | Changing debts, ownership, or operations to help an institution continue or resolve failure. | Not present | No linked use |
 
@@ -96,11 +100,14 @@ The Educator Guide column links to the section containing the first linked use a
 | Word or phrase | Beginner definition | Student Guide line(s) | Educator Guide use |
 | --- | --- | --- | --- |
 | <a id="term-inflation"></a>**Inflation** | A sustained increase in the general price level, so a unit of money buys less. | First: **98**<br>Later: 396, 402, 404, 406, 410, 473 | [First linked use](mfb-bd-eg-26.10.md#one-to-two-weeks-before); 21 linked mentions |
+| <a id="term-money-supply"></a>**Money supply** | The total amount of money or money-like balances counted within a stated economy or measure. | Not present | No linked use |
+| <a id="term-monetary-inflation"></a>**Monetary inflation** | An increase in the money supply. It is distinct from price inflation, which is a sustained increase in the general price level. | Not present | No linked use |
 | <a id="term-price-inflation"></a>**Price inflation** | A sustained increase in the general price level of goods and services. | First: **398**<br>Later: — | [First linked use](mfb-bd-eg-26.10.md#inflation-and-purchasing-power); 2 linked mentions |
 | <a id="term-purchasing-power"></a>**Purchasing power** | The amount of goods and services a unit of money can buy. | First: **55**<br>Later: 98, 273, 371, 396, 400, 404, 408, 422, 432, 463, 473, 474, 655, 1418 | [First linked use](mfb-bd-eg-26.10.md#local-verification-record); 10 linked mentions |
 | <a id="term-monetary-expansion"></a>**Monetary expansion** | An increase in the amount of money or credit in circulation. | Not present | No linked use |
 | <a id="term-secondary-effects"></a>**Secondary effects** | Later indirect effects caused by an initial economic change. | Not present | No linked use |
 | <a id="term-inflation-basket"></a>**Inflation basket** | A selected group of goods and services used to measure average price changes. | Not present | No linked use |
+| <a id="term-cantillon-effect"></a>**Cantillon Effect** | The idea that new money can affect people differently depending on who receives and spends it first. | Not present | No linked use |
 
 ### CBDCs as a beginner fiat-system example
 
@@ -148,6 +155,7 @@ The Educator Guide column links to the section containing the first linked use a
 | <a id="reusable-proof-of-work"></a>**Reusable proof of work** | An early proposal for transferring scarce digital value without relying on one central database. | First: **518**<br>Later: — | [First linked use](mfb-bd-eg-26.10.md#earlier-digital-money-context); 1 linked mention |
 | <a id="bittorrent"></a>**BitTorrent** | A file-sharing system that demonstrated decentralized information sharing. | First: **520**<br>Later: — | No linked use |
 | <a id="term-peer-to-peer-network"></a>**Peer-to-peer network** | A network in which independent computers communicate directly rather than through one central server. | First: **490**<br>Later: 520, 530, 762, 789 | [First linked use](mfb-bd-eg-26.10.md#explain-the-combined-response); 1 linked mention |
+| <a id="term-byzantine-generals-problem"></a>**Byzantine Generals’ Problem** | A computing problem about how independent participants can reach a reliable agreement when some messages or participants may be untrustworthy. | Not present | No linked use |
 | <a id="term-double-spending"></a>**Double spending** | Trying to use the same digital unit in more than one payment. | First: **524**<br>Later: 758, 774, 788 | [First linked use](mfb-bd-eg-26.10.md#competency-to-evidence-crosswalk); 4 linked mentions |
 | <a id="term-double-spend-problem"></a>**Double-spend problem** | The challenge of preventing a digital unit from being spent more than once. | First: **508**<br>Later: 536 | [First linked use](mfb-bd-eg-26.10.md#review-and-bridge-to-module-2); 4 linked mentions |
 | <a id="term-proof-of-work"></a>**Proof of work** | The process miners use to compete to propose blocks by performing costly computation. | First: **490**<br>Later: 514, 532, 534, 542, 598, 600, 615, 617, 623, 632, 782, 789 | [First linked use](mfb-bd-eg-26.10.md#t2--bitcoin-explanation-rule-and-role-map-and-asset-comparison-c3-c4-c5); 15 linked mentions |
@@ -178,6 +186,8 @@ The Educator Guide column links to the section containing the first linked use a
 | Word or phrase | Beginner definition | Student Guide line(s) | Educator Guide use |
 | --- | --- | --- | --- |
 | <a id="term-decentralization"></a>**Decentralization** | The distribution of control and verification across many independent participants. | First: **100**<br>Later: 544, 554, 560, 570, 572 | [First linked use](mfb-bd-eg-26.10.md#t2--bitcoin-explanation-rule-and-role-map-and-asset-comparison-c3-c4-c5); 9 linked mentions |
+| <a id="term-consensus"></a>**Consensus** | Agreement among Bitcoin nodes about which transactions and blocks follow the shared rules. | First: **748**<br>Later: — | No linked use |
+| <a id="term-nakamoto-consensus"></a>**Nakamoto consensus** | Bitcoin’s method of combining shared rules, proof of work, and the chain with the most accumulated work so independent nodes can converge on a transaction history. | Not present | No linked use |
 | <a id="term-open-source-software"></a>**Open-source software** | Software whose source code can be publicly inspected, used, shared, and improved. | First: **562**<br>Later: — | No linked use |
 | <a id="term-ledger"></a>**Ledger** | A record of transactions; Bitcoin’s ledger is copied and checked across many nodes. | First: **484**<br>Later: 490, 546, 548, 550, 556, 568, 570, 600, 687, 780, 788, 789, 822 | [First linked use](mfb-bd-eg-26.10.md#why-bitcoin-was-created); 7 linked mentions |
 
@@ -208,11 +218,15 @@ The Educator Guide column links to the section containing the first linked use a
 | Word or phrase | Beginner definition | Student Guide line(s) | Educator Guide use |
 | --- | --- | --- | --- |
 | <a id="term-hash-function"></a>**Hash function** | A mathematical process that turns data into a fixed-length digital result. | First: **619**<br>Later: — | No linked use |
+| <a id="term-sha-256"></a>**SHA-256** | The hash function Bitcoin uses in proof of work. It produces a fixed-length result from input data. | Not present | No linked use |
 | <a id="term-target"></a>**Target** | The threshold that a proof-of-work result must satisfy. | First: **619**<br>Later: — | [First linked use](mfb-bd-eg-26.10.md#proof-of-work); 1 linked mention |
 | <a id="term-difficulty"></a>**Difficulty** | A measure of how hard it is to find a proof-of-work result that satisfies the target. | First: **282**<br>Later: 619, 630 | [First linked use](mfb-bd-eg-26.10.md#proof-of-work); 1 linked mention |
+| <a id="term-difficulty-adjustment"></a>**Difficulty adjustment** | Bitcoin’s regular change to the proof-of-work target that aims to keep block production near its intended average pace. | Not present | No linked use |
+| <a id="term-hashrate"></a>**Hashrate** | A measure of how many hash attempts are made over a period of time. | Not present | No linked use |
 | <a id="term-valid-result"></a>**Valid result** | A proof-of-work result that satisfies the target. | First: **621**<br>Later: — | No linked use |
 | <a id="term-broadcast"></a>**Broadcast** | To send transaction or block data to peers across the network. | First: **582**<br>Later: 600, 621, 959, 1005 | [First linked use](mfb-bd-eg-26.10.md#suggested-two-hour-flow-1); 3 linked mentions |
 | <a id="term-blockchain"></a>**Blockchain** | Bitcoin’s public history, arranged in blocks. | First: **490**<br>Later: 546, 548, 552, 621, 721, 1000 | [First linked use](mfb-bd-eg-26.10.md#explain-the-combined-response); 2 linked mentions |
+| <a id="term-mempool"></a>**Mempool** | A node’s temporary collection of valid, unconfirmed transactions it has received. Mempools can differ from one node to another. | Not present | No linked use |
 | <a id="term-block-space"></a>**Block space** | The limited data capacity available in each Bitcoin block. | First: **951**<br>Later: — | [First linked use](mfb-bd-eg-26.10.md#fees-confirmations-and-finality); 3 linked mentions |
 
 ### Bitcoin as sound digital money
@@ -277,9 +291,17 @@ The Educator Guide column links to the section containing the first linked use a
 | <a id="term-first-confirmation"></a>**First confirmation** | The inclusion of a transaction in its first valid block. | First: **621**<br>Later: 959 | [First linked use](mfb-bd-eg-26.10.md#on-chain-and-lightning-payments); 1 linked mention |
 | <a id="term-block-depth"></a>**Block depth** | The number of blocks added after the block containing a transaction. | Not present | No linked use |
 | <a id="term-transaction-fee"></a>**Transaction fee / miner fee** | A fee paid for an on-chain transaction to be included in a block. | First: **600**<br>Later: 647, 705, 1240 | [First linked use](mfb-bd-eg-26.10.md#finite-supply-and-halving); 1 linked mention |
+| <a id="term-fee-rate"></a>**Fee rate** | The transaction fee offered per unit of transaction data, commonly measured in sats per virtual byte (sat/vB). | Not present | No linked use |
 | <a id="term-fee-estimation"></a>**Fee estimation** | A wallet’s attempt to choose an appropriate transaction fee. | Not present | No linked use |
 | <a id="term-transaction-id"></a>**Transaction ID** / *txid* | A unique identifier used to find and discuss an on-chain Bitcoin transaction. | First: **957**<br>Later: 961 | [First linked use](mfb-bd-eg-26.10.md#minimum-materials); 5 linked mentions |
 | <a id="term-block-explorer"></a>**Block explorer** | A tool for viewing public Bitcoin data such as transactions, addresses, blocks, fees, and confirmations. | First: **750**<br>Later: 955, 957, 1091 | [First linked use](mfb-bd-eg-26.10.md#media-and-tool-fallbacks); 3 linked mentions |
+| <a id="term-transaction-input-output"></a>**Transaction input / output** | An input identifies bitcoin being spent; an output states where bitcoin is assigned next, including any change returned to the sender. | Not present | No linked use |
+| <a id="term-utxo"></a>**UTXO** | Short for “unspent transaction output”: a transaction output that is available to be spent under Bitcoin’s rules. | Not present | No linked use |
+| <a id="term-virtual-byte"></a>**Virtual byte (vB)** | A unit used to express the weight of Bitcoin transaction data. Fee rates are often shown in sats per vB. | Not present | No linked use |
+| <a id="term-epoch"></a>**Epoch** | A group of 210,000 Bitcoin blocks, the interval between scheduled halvings. | Not present | No linked use |
+| <a id="term-block-reward"></a>**Block reward** | The bitcoin paid to a miner for a valid block: the block subsidy plus the transaction fees in that block. | Not present | No linked use |
+| <a id="term-op-return"></a>**OP_RETURN** | A Bitcoin transaction output that can carry a small amount of data and cannot be spent. | Not present | No linked use |
+| <a id="term-timechain"></a>**Timechain** | A term sometimes used for Bitcoin’s blockchain to emphasize its ordered, time-stamped history. | Not present | No linked use |
 
 ### On-chain and Lightning payments
 
@@ -291,6 +313,7 @@ The Educator Guide column links to the section containing the first linked use a
 | <a id="term-layer-2"></a>**Layer 2** | A system built on a base network to add capacity or features. | First: **213**<br>Later: — | No linked use |
 | <a id="term-payment-channel"></a>**Payment channel** | A mechanism for updating payments off-chain. | Not present | No linked use |
 | <a id="term-lightning-routing"></a>**Lightning routing** | Passing a payment through connected Lightning channels. | Not present | No linked use |
+| <a id="term-lightning-routing-fee"></a>**Lightning routing fee** | A fee a Lightning node may charge for forwarding a payment through a channel. | Not present | No linked use |
 | <a id="term-lightning-liquidity"></a>**Lightning liquidity** | Channel capacity available to move a Lightning payment. | Not present | [First linked use](mfb-bd-eg-26.10.md#on-chain-and-lightning-payments); 6 linked mentions |
 | <a id="term-lightning-invoice"></a>**Lightning invoice** | A usually specific Lightning payment request. | First: **834**<br>Later: 1004, 1009, 1090, 1158 | [First linked use](mfb-bd-eg-26.10.md#prepare-before-class-2); 3 linked mentions |
 | <a id="term-lightning-offer"></a>**Lightning offer** | A reusable Lightning payment request. | Not present | No linked use |

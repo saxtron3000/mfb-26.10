@@ -12,7 +12,7 @@
 
 ## Description
 
-Participants simulate Bitcoin transactions with color-coded wallets, sats, and a shared ledger. By approving valid payments and rejecting transactions with insufficient funds, missing signatures, or fictional wallets, they practice the distinct roles of senders, recipients, miners, and node runners in preserving a fixed supply.
+Participants simulate Bitcoin transactions with color-coded [wallets](../mfb-bd-26.10/mfb-bd-lx.md#term-bitcoin-wallet), [sats](../mfb-bd-26.10/mfb-bd-lx.md#term-sat), and a shared [ledger](../mfb-bd-26.10/mfb-bd-lx.md#term-ledger). By approving valid payments and rejecting transactions with insufficient funds, missing [signatures](../mfb-bd-26.10/mfb-bd-lx.md#term-digital-signature), or fictional wallets, they practice the distinct roles of senders, recipients, [miners](../mfb-bd-26.10/mfb-bd-lx.md#term-miner), and [node runners](../mfb-bd-26.10/mfb-bd-lx.md#term-node) in preserving a fixed supply.
 
 ## Objectives
 
@@ -218,7 +218,7 @@ When they say “no”, instruct the tracker to update Round 5 with no changes f
 
 1. There are four types of participants in every Bitcoin transaction: the sender, the recipient, miners, and node operators.
 2. The sender must approve (cryptographically sign) the amount of bitcoin to send AND the specific address to send to.
-3. Recipients must provide a valid address to the sender AND verify that the transaction was successfully confirmed on the blockchain.
+3. Recipients must provide a valid [address](../mfb-bd-26.10/mfb-bd-lx.md#term-bitcoin-address) to the sender AND verify that the transaction was successfully [confirmed](../mfb-bd-26.10/mfb-bd-lx.md#term-confirmation) on the [blockchain](../mfb-bd-26.10/mfb-bd-lx.md#term-blockchain).
 4. Miners ensure that all criteria are met before adding transactions to future blocks.
 5. Node operators verify mined blocks are valid before updating their version of the blockchain (the ledger).
 

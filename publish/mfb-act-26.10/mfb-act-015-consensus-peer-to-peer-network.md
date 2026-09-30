@@ -14,7 +14,7 @@ Participants pass messages around a circle while selected participants alter or 
 ## Materials
 Messages with encrypted and unencrypted instructions for “attack” or “do not attack.”
 ## Preparation
-Select 3 or 4 participants as malicious nodes before class and assign them a cryptographic puzzle as homework in the previous class.
+Select 3 or 4 participants as malicious [nodes](../mfb-bd-26.10/mfb-bd-lx.md#term-node) before class and assign them a cryptographic puzzle as homework in the previous class.
 ## Procedure
 ### Setup
 Select an originator and form participants into a circle, separating malicious nodes.

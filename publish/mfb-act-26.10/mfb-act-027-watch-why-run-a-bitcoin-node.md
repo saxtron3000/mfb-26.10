@@ -8,7 +8,7 @@ Video viewing
 ## Duration
 5 minutes
 ## Description
-Participants watch the first five minutes of a video explaining what Bitcoin nodes are and why running one may matter. The educator stops before the setup instructions and emphasizes that nodes are neither miners nor wallets: they independently run the Bitcoin protocol and maintain an updated blockchain copy.
+Participants watch the first five minutes of a video explaining what Bitcoin nodes are and why running one may matter. The educator stops before the setup instructions and emphasizes that nodes are neither [miners](../mfb-bd-26.10/mfb-bd-lx.md#term-miner) nor [wallets](../mfb-bd-26.10/mfb-bd-lx.md#term-bitcoin-wallet): they independently run the [Bitcoin protocol](../mfb-bd-26.10/mfb-bd-lx.md#term-bitcoin-protocol) and maintain an updated [blockchain](../mfb-bd-26.10/mfb-bd-lx.md#term-blockchain) copy.
 ## Objectives
 
 - Participants distinguish the roles of a Bitcoin node, a miner, and a wallet.

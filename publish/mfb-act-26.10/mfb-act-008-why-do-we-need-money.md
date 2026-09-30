@@ -9,7 +9,7 @@ Class exercise and discussion
 15–20 minutes
 
 ## Description
-This foundational activity is especially well suited to younger audiences. Participants first try a short barter exchange, then receive Monopoly money as payment for a small classroom task and use it to exchange for goods or services. They compare the two rounds before answering open questions about money, including its purpose, value, and control. The class identifies common questions and returns to them at the end of the Bitcoin Diploma to reflect on how their understanding has changed.
+This foundational activity is especially well suited to younger audiences. Participants first try a short barter exchange, then receive Monopoly money as payment for a small classroom task and use it to exchange for goods or services. They compare the two rounds before answering open questions about money, including its purpose, [value](../mfb-bd-26.10/mfb-bd-lx.md#term-value), and control. The class identifies common questions and returns to them at the end of the Bitcoin Diploma to reflect on how their understanding has changed.
 ## Objectives
 
 - Participants explain how money can make exchange easier than direct barter.
@@ -24,13 +24,13 @@ Prepare a “have” and “want” card for each student. Make some wants delib
 
 ## Procedure
 ### Setup
-Explain that the class will try two ways of exchanging value. Remind participants that the cards and Monopoly money are classroom tools, not real money or a recommendation to use any particular currency.
+Explain that the class will try two ways of exchanging value. Remind participants that the cards and Monopoly money are classroom tools, not real money or a recommendation to use any particular [currency](../mfb-bd-26.10/mfb-bd-lx.md#term-currency).
 ### Step 1
 Give each student a “have” card and a different “want” card. Allow a short barter round in which they can trade only when both people want what the other person has. Record how many participants obtain what they want and how long it takes.
 ### Step 2
 Give every student the same small classroom task. When it is completed, pay each student an equal amount of Monopoly money. Participants can now use the money to buy a good or service represented by a card, whether or not the person offering it wants what they have.
 ### Step 3
-Compare the rounds. Ask how money acted as an intermediary between people who did not have matching wants. Ask how a student could save the payment from today's task to use later, and how a shared money could help people exchange value with someone far away rather than only with nearby trading partners.
+Compare the rounds. Ask how money acted as an [intermediary](../mfb-bd-26.10/mfb-bd-lx.md#term-intermediary) between people who did not have matching wants. Ask how a student could save the payment from today's task to use later, and how a shared money could help people exchange value with someone far away rather than only with nearby trading partners.
 ### Step 4
 Participants answer: Why do we need money? What is money? Who controls money? What gives money value? What question do you have about money?
 ### Step 5

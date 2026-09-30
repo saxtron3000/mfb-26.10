@@ -14,7 +14,7 @@
 
 ## Description
 
-Participants work in small groups to create Lightning invoices or QR codes, receive a small payment, and relay sats to the next participant. The activity uses a prepared, low-stakes or simulated environment and ends with reflection on setup, payment speed, routing, fees, and the experience of sending and receiving sats.
+Participants work in small groups to create [Lightning invoices](../mfb-bd-26.10/mfb-bd-lx.md#term-lightning-invoice) or QR codes, receive a small payment, and relay [sats](../mfb-bd-26.10/mfb-bd-lx.md#term-sat) to the next participant. The activity uses a prepared, low-stakes or simulated environment and ends with reflection on setup, payment speed, [routing](../mfb-bd-26.10/mfb-bd-lx.md#term-lightning-routing), fees, and the experience of sending and receiving sats.
 
 ## Objectives
 
@@ -24,15 +24,15 @@ Participants work in small groups to create Lightning invoices or QR codes, rece
 
 ### Materials
 
-• Participants will need access to a Lightning wallet, ideally their own. If they do not have phones, find assistants willing to use their phones in class.
+• Participants will need access to a [Lightning wallet](../mfb-bd-26.10/mfb-bd-lx.md#term-bitcoin-wallet), ideally their own. If they do not have phones, find assistants willing to use their phones in class.
 • Internet access.
 • Sats loaded on a Lightning wallet for you to start the relay.
 
 ### Preparation Notes
 
-Select a Lightning wallet only for the prepared local learning environment; do not present it as a global recommendation. Prefer a well-established open-source option where appropriate, and compare custody, recovery, inspectability, compatibility, privacy, cost, maintenance, and support before deciding. Verify that the selected tool works correctly in your region and prepare a simulation or no-wallet route.
+Select a Lightning wallet only for the prepared local learning environment; do not present it as a global recommendation. Prefer a well-established [open-source](../mfb-bd-26.10/mfb-bd-lx.md#term-open-source-software) option where appropriate, and compare [custody](../mfb-bd-26.10/mfb-bd-lx.md#term-custody), recovery, inspectability, compatibility, [privacy](../mfb-bd-26.10/mfb-bd-lx.md#term-privacy), cost, maintenance, and support before deciding. Verify that the selected tool works correctly in your region and prepare a simulation or no-wallet route.
 
-Prepare a backup route and verify it in your region. A backup may be another checked wallet, a prepared educator-controlled environment, or a no-value simulation. Also verify how current on-chain transaction fees affect the tools used in the activity.
+Prepare a backup route and verify it in your region. A backup may be another checked wallet, a prepared educator-controlled environment, or a no-value simulation. Also verify how current [on-chain transaction fees](../mfb-bd-26.10/mfb-bd-lx.md#term-transaction-fee) affect the tools used in the activity.
 
 ## Procedure
 

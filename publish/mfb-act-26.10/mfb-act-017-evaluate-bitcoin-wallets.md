@@ -8,7 +8,7 @@ Class discussion and research
 ## Duration
 
 ## Description
-Participants examine prepared, locally relevant Bitcoin and Lightning wallet information, recording when sources were checked. They compare options using custody, recovery, payment compatibility, privacy, cost, maintenance, support, and open-source inspectability, then explain which option may fit a stated fictional or learner need without presenting a global recommendation.
+Participants examine prepared, locally relevant Bitcoin and Lightning [wallet](../mfb-bd-26.10/mfb-bd-lx.md#term-bitcoin-wallet) information, recording when sources were checked. They compare options using [custody](../mfb-bd-26.10/mfb-bd-lx.md#term-custody), recovery, payment compatibility, [privacy](../mfb-bd-26.10/mfb-bd-lx.md#term-privacy), cost, maintenance, support, and [open-source](../mfb-bd-26.10/mfb-bd-lx.md#term-open-source-software) inspectability, then explain which option may fit a stated fictional or learner need without presenting a global recommendation.
 ## Objectives
 
 - Participants practice comparing Bitcoin wallet options against consistent criteria and weighing the trade-offs for a stated need.

@@ -8,7 +8,7 @@ Class discussion
 ## Duration
 
 ## Description
-Participants return to the money comparison table and assess Bitcoin alongside cows, cigarettes, diamonds, and euros. Using characteristics such as durability, portability, uniformity, acceptability, scarcity, and divisibility, they complete the comparison and discuss whether Bitcoin meets the characteristics of sound money.
+Participants return to the money comparison table and assess Bitcoin alongside cows, cigarettes, diamonds, and euros. Using characteristics such as [durability](../mfb-bd-26.10/mfb-bd-lx.md#term-durability), [portability](../mfb-bd-26.10/mfb-bd-lx.md#term-portability), uniformity, [acceptability](../mfb-bd-26.10/mfb-bd-lx.md#term-acceptability), [scarcity](../mfb-bd-26.10/mfb-bd-lx.md#term-scarcity), and [divisibility](../mfb-bd-26.10/mfb-bd-lx.md#term-divisibility), they complete the comparison and discuss whether Bitcoin meets the characteristics of [sound money](../mfb-bd-26.10/mfb-bd-lx.md#term-sound-money).
 ## Objectives
 
 - Participants compare Bitcoin with other forms of money using the characteristics of good money.
