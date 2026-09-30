@@ -37,7 +37,7 @@ The 2026.10 set is a framework-first publication. It includes the teaching and a
 
 ## Activity publication set
 
-The following files are the published activity bank. Their full procedures, materials, discussion prompts, notes, and linked resources are covered by this register and governed by `10_activities.md`. The module assignment below is a planning placement for review and use; it does not turn an activity into required curriculum or formal assessment.
+The following files are the published Activity Library. Their full procedures, materials, discussion prompts, notes, and linked resources are covered by this register and governed by `10_activities.md`. The module assignment below is a planning placement for review and use; it does not turn an activity into required curriculum or formal assessment.
 
 | ID and published activity | Primary planning placement | Content and planning disposition |
 |---|---|---|

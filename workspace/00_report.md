@@ -261,7 +261,7 @@ Keep it short. Once the final assessment pack exists, link directly to the appro
 | `06_plan.md` | Sound architecture, but it still points to deleted pre-migration filenames and permits an ambiguous follow-up. | Update ownership paths and the timing rule. |
 | `07_contents.md` | Concise and aligned with the Student Guide. | Update only after final assessment/production headings are settled. |
 | `09_assets.md` | Detailed visual planning, but it is a 10,000-word specification with no corresponding asset set in the repository and one broken SVG link. | Prioritize a minimum asset set; track production status outside the semantic visual index. |
-| `10_activities.md` | Good principles and template, but not yet the activity/task bank its downstream documents require. | Build the approved, timed, rubric-backed minimum set. This is a release blocker. |
+| `10_activities.md` | Good principles and template, but not yet the activity/task library its downstream documents require. | Build the approved, timed, rubric-backed minimum set. This is a release blocker. |
 | `11_resources.md` | Too small and its Student Guide filename/line locations are stale. | Rebuild as a claim-to-source register using stable headings or claim IDs rather than volatile line numbers. |
 | `12_educator-plan.md` | Good structural plan and mostly avoids duplicating learner prose. | Align role sentence, paths, and timing; use it as the acceptance checklist for the public Guide. |
 | `13_assessment.md` | Correct framework but explicitly unfinished. | Convert its Section 13 questions into assigned release tasks and approved artifacts. |
