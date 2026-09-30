@@ -186,7 +186,7 @@ The Educator Guide column links to the section containing the first linked use a
 | Word or phrase | Beginner definition | Student Guide line(s) | Educator Guide use |
 | --- | --- | --- | --- |
 | <a id="term-decentralization"></a>**Decentralization** | The distribution of control and verification across many independent participants. | First: **100**<br>Later: 544, 554, 560, 570, 572 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#t2--bitcoin-explanation-rule-and-role-map-and-asset-comparison-c3-c4-c5); 9 linked mentions |
-| <a id="term-consensus"></a>**Consensus** | Agreement among Bitcoin nodes about which transactions and blocks follow the shared rules. | First: **748**<br>Later: — | No linked use |
+| <a id="term-consensus"></a>**Consensus** | Agreement among Bitcoin nodes about which transactions and blocks follow the shared rules. | First: **748**<br>Later: — | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#strong-module-2-activities); 1 linked mention |
 | <a id="term-nakamoto-consensus"></a>**Nakamoto consensus** | Bitcoin’s method of combining shared rules, proof of work, and the chain with the most accumulated work so independent nodes can converge on a transaction history. | Not present | No linked use |
 | <a id="term-open-source-software"></a>**Open-source software** | Software whose source code can be publicly inspected, used, shared, and improved. | First: **562**<br>Later: — | No linked use |
 | <a id="term-ledger"></a>**Ledger** | A record of transactions; Bitcoin’s ledger is copied and checked across many nodes. | First: **484**<br>Later: 490, 546, 548, 550, 556, 568, 570, 600, 687, 780, 788, 789, 822 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#why-bitcoin-was-created); 7 linked mentions |
@@ -237,7 +237,7 @@ The Educator Guide column links to the section containing the first linked use a
 | <a id="term-sat-interchangeability"></a>**Sat interchangeability** | Whether equal sats are treated as equivalent in use; it is an application of fungibility. | Not present | No linked use |
 | <a id="term-value"></a>**Value** | The usefulness or importance of something to a person. | First: **246**<br>Later: 255, 261, 273, 297, 303, 311, 315, 317, 322, 325, 336, 338, 388, 404, 430, 467, 502, 518, 675, 688, 709, 721, 728, 747, 784, 1177, 1179, 1183, 1187, 1226, 1236, 1308, 1347, 1387, 1389, 1417, 1422 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#barter-and-the-double-coincidence-of-wants); 18 linked mentions |
 | <a id="term-price"></a>**Price** | The amount exchanged for a good, service, or asset. | First: **195**<br>Later: 199, 259, 271, 305, 352, 361, 398, 402, 404, 408, 467, 494, 657, 673, 675, 677, 697, 705, 709, 719, 723, 731, 735, 784, 989, 1217, 1289, 1320, 1332, 1389 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#t2--bitcoin-explanation-rule-and-role-map-and-asset-comparison-c3-c4-c5); 41 linked mentions |
-| <a id="term-bias"></a>**Bias** | A tendency that can influence judgment. | First: **659**<br>Later: 673, 709 | No linked use |
+| <a id="term-bias"></a>**Bias** | A tendency that can influence judgment. | First: **659**<br>Later: 673, 709 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#sats-and-unit-bias); 1 linked mention |
 
 ## Module 3: Using Bitcoin Safely
 

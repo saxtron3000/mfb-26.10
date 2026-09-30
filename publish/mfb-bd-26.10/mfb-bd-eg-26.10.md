@@ -1616,7 +1616,7 @@ USE: Shared Student Guide master.
 
 Ask why dividing one bitcoin into smaller units does not create more bitcoin. Compare cutting a measured quantity into smaller units without claiming the physical analogy explains the protocol.
 
-Unit bias is the mistaken impression that a cheaper-looking whole unit is automatically better [value](../mfb-lx-26.10.md#term-value). Do not use current token [prices](../mfb-lx-26.10.md#term-price) as the teaching route.
+Unit [bias](../mfb-lx-26.10.md#term-bias) is the mistaken impression that a cheaper-looking whole unit is automatically better [value](../mfb-lx-26.10.md#term-value). Do not use current token [prices](../mfb-lx-26.10.md#term-price) as the teaching route.
 
 ### Bitcoin as sound digital money
 
@@ -1724,7 +1724,7 @@ Choose two or three, not all:
 - claim, evidence, reasoning, and trade-off discussion; or
 - generic Bitcoin/stablecoin/other-asset comparison.
 
-Use consensus games, hashing activities, videos, and role-plays only when their purpose, timing, learner context, and debrief are strong. An activity supplies educator-led theoretical evidence only when it is a competency-aligned touchpoint with individual evidence, a rubric, and a recording process. Otherwise, use it formatively.
+Use [consensus](../mfb-lx-26.10.md#term-consensus) games, hashing activities, videos, and role-plays only when their purpose, timing, learner context, and debrief are strong. An activity supplies educator-led theoretical evidence only when it is a competency-aligned touchpoint with individual evidence, a rubric, and a recording process. Otherwise, use it formatively.
 
 ### Module 2 educator-led theoretical touchpoint
 
