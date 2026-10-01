@@ -52,9 +52,9 @@
 | BD-LEX-048 | **Cantillon Effect** | The idea that new money can affect people differently depending on who receives and spends it first. |
 | BD-LEX-049 | **Capital** | A bank's loss-absorbing funding, such as owner funding and retained earnings. |
 | BD-LEX-050 | **Capital controls** | Restrictions on moving money across borders. |
-| BD-LEX-051 | **CBDC / central bank digital currency** | A digital form of fiat money issued as a liability of a central bank. |
+| BD-LEX-051 | **Central bank digital currency (CBDC)** | A digital form of fiat money issued as a liability of a central bank. |
 | BD-LEX-052 | **Censorship resistance** | The ability to use Bitcoin without a government, bank, or corporation being able to decide which valid transactions may be sent. |
-| BD-LEX-053 | **Central bank (Fed)** | A public institution that manages a country’s monetary policy. The U.S. central bank is commonly called the Federal Reserve, or Fed. |
+| BD-LEX-053 | **Central Bank** | A public institution that manages a country’s monetary policy. The U.S. central bank is commonly called the **Federal Reserve**, or Fed. |
 | BD-LEX-054 | **Centralization** | The concentration of power or control in one person, organization, or institution. |
 | BD-LEX-055 | **Centralized system** | A system in which power or control is concentrated in one entity. |
 | BD-LEX-056 | **Cold wallet / cold storage** | A wallet or storage arrangement that keeps signing keys offline. |
@@ -103,7 +103,7 @@
 | BD-LEX-099 | **Full node** | A **full node**, also called a **validating node** here, independently checks whether Bitcoin **transactions** and **blocks** follow Bitcoin's rules. It does not need to trust a **miner**, wallet provider, or other **node** to decide what is valid. |
 | BD-LEX-100 | **Funding cost** | What a bank pays to obtain money. |
 | BD-LEX-101 | **Fungibility** | The property that equal units are normally interchangeable. |
-| BD-LEX-102 | **GDP** | Gross domestic product: the total value of goods and services produced in a country during a given period. |
+| BD-LEX-102 | **Gross domestic product (GDP)** | The total value of goods and services produced in a country during a given period. |
 | BD-LEX-103 | **Gearing** | Using borrowed money or obligations to increase the size of assets or financial exposure. |
 | BD-LEX-104 | **Genesis Block** | The first block in Bitcoin’s blockchain, created when the network began. |
 | BD-LEX-105 | **Gold** | A scarce, durable metal used for jewelry, industry, and money. It has served as coins, backing for currencies, and a store of value. |
@@ -126,7 +126,7 @@
 | BD-LEX-122 | **Issuance schedule** | The rules that control how new bitcoin is issued over time. |
 | BD-LEX-123 | **Issuer** | The authority, institution, or system that creates and puts money or claims into circulation. |
 | BD-LEX-124 | **Key pair** | A matching private key and public key used to authorize and verify Bitcoin transactions. |
-| BD-LEX-125 | **KYC** | Identity checks required by a financial service. |
+| BD-LEX-125 | **Know Your Customer (KYC)** | Identity checks required by a financial service. |
 | BD-LEX-126 | **Layer 1** | The base Bitcoin protocol that validates transactions, reaches consensus, and produces blocks. |
 | BD-LEX-127 | **Layer 2** | A system built on a base network to add capacity or features. |
 | BD-LEX-128 | **Ledger** | A record of transactions; Bitcoin’s ledger is copied and checked across many nodes. |
@@ -193,15 +193,15 @@
 | BD-LEX-189 | **Restrictive banking** | Restrictions or limitations on banking services or access to banking services. |
 | BD-LEX-190 | **Restructuring** | Changing debts, ownership, or operations to help an institution continue or resolve failure. |
 | BD-LEX-191 | **Reusable proof of work** | An early proposal for transferring scarce digital value without relying on one central database. |
-| BD-LEX-192 | **Sat / satoshi** | The smallest named unit of bitcoin; 100,000,000 sats equal one bitcoin. |
+| BD-LEX-192 | **Satoshi (sat)** | The smallest named unit of bitcoin; 100,000,000 sats equal one bitcoin. |
 | BD-LEX-193 | **Sat interchangeability** | Whether equal sats are treated as equivalent in use; it is an application of fungibility. |
 | BD-LEX-194 | **Satoshi Nakamoto** | The name used by Bitcoin’s creator or creators; the real-world identity is unknown. |
 | BD-LEX-195 | **Scarcity** | A limited supply: using or obtaining more is constrained rather than unlimited. |
 | BD-LEX-196 | **Secondary effects** | Later indirect effects caused by an initial economic change. |
 | BD-LEX-197 | **Seed phrase / recovery phrase** | An ordered list of secret words that many wallets use to restore keys. |
-| BD-LEX-198 | **SegWit (Segregated Witness)** | A Bitcoin protocol upgrade that changed how some transaction data is stored, increasing effective block capacity. |
+| BD-LEX-198 | **Segregated Witness (SegWit)** | A Bitcoin protocol upgrade that changed how some transaction data is stored, increasing effective block capacity. |
 | BD-LEX-199 | **Self-custody** | Control of your own Bitcoin keys rather than leaving them with a service. |
-| BD-LEX-200 | **SHA-256** | The hash function Bitcoin uses in proof of work. It produces a fixed-length result from input data. |
+| BD-LEX-200 | **Secure Hash Algorithm 256 (SHA-256)** | The hash function Bitcoin uses in proof of work. It produces a fixed-length result from input data. |
 | BD-LEX-201 | **Shared funds** | Funds controlled for more than one person under agreed rules. |
 | BD-LEX-202 | **Single-signature** | A spending arrangement in which one key authorizes a transaction. |
 | BD-LEX-203 | **Soft fork** | A rule change that remains compatible with older rules. |
@@ -221,14 +221,14 @@
 | BD-LEX-217 | **Trade-off** | A choice that gains one benefit while accepting a cost or giving up another benefit. |
 | BD-LEX-218 | **Transaction (tx)** | A record that transfers bitcoin under Bitcoin’s rules. |
 | BD-LEX-219 | **Transaction fee / miner fee** | A fee paid for an on-chain transaction to be included in a block. |
-| BD-LEX-220 | **Transaction ID / txid** | A unique identifier used to find and discuss an on-chain Bitcoin transaction. |
+| BD-LEX-220 | **Transaction identifier (txid)** | A unique identifier used to find and discuss an on-chain Bitcoin transaction. |
 | BD-LEX-221 | **Transaction input / output** | An input identifies bitcoin being spent; an output states where bitcoin is assigned next, including any change returned to the sender. |
 | BD-LEX-222 | **Trust minimization** | **Trust minimization** means reducing reliance on third parties by enabling people to verify rules and transactions themselves. **Trustless** describes a system designed for this purpose; it does not mean that users face no risk or need no judgment. |
 | BD-LEX-223 | **Two-factor authentication (2FA)** | An account-security method requiring two different forms of proof, such as a password and a separate code or device. |
 | BD-LEX-224 | **Unbanked** | People or communities without access to traditional banking services. |
 | BD-LEX-225 | **Uniformity** | The degree to which equal units of money are consistent in form and value. |
 | BD-LEX-226 | **Unit of account** | A shared unit used to state and compare prices, debts, income, and costs. |
-| BD-LEX-227 | **UTXO / unspent transaction output** | A transaction output that is available to be spent under Bitcoin’s rules. |
+| BD-LEX-227 | **Unspent transaction output (UTXO)** | A transaction output that is available to be spent under Bitcoin’s rules. |
 | BD-LEX-228 | **Valid chain** | A chain of blocks that follows Bitcoin’s rules. |
 | BD-LEX-229 | **Valid result** | A proof-of-work result that satisfies the target. |
 | BD-LEX-230 | **Value** | The usefulness or importance of something to a person. |
