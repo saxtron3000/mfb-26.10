@@ -1885,6 +1885,10 @@ Choose a way to help and use the relevant official form to get started:
 
 Use the official forms only. Do not include [seed phrases](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase), [private keys](https://programs.myfirstbitcoin.org/lexicon/en/#private-key), wallet balances, or other sensitive personal or security information in a submission.
 
+### Want to teach this Diploma?
+
+The Educator Guide helps you prepare lessons, facilitate activities, adapt examples to your community, support safe practice, and assess what learners can do. [Read the Educator Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/en/educator-guide/) to plan your teaching.
+
 ### Join a learning community
 
 <!-- VISUAL: BD-V-071

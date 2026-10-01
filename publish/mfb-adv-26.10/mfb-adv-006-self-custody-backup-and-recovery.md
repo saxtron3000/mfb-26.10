@@ -27,3 +27,7 @@ This module examines custody models, signing devices, seed phrases, backups, pas
 > **Callout – Never collect or inspect learner secrets**
 >
 > Never collect, inspect, photograph, transmit, or store learner seed phrases or private keys. This educational module is not personal security, legal, estate-planning, or financial advice.
+
+## Help improve this Advanced module
+
+Share [feedback](https://forms.myfirstbitcoin.org/feedback), [proofread the content](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).

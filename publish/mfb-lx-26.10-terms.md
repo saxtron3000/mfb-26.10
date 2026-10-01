@@ -238,3 +238,7 @@
 | BD-LEX-234 | **Volatility** | The degree to which an asset’s price varies over time. | volatility | https://programs.myfirstbitcoin.org/lexicon/en/#volatility |
 | BD-LEX-235 | **Wallet backup** | A secure copy of the information needed to restore a wallet, such as its seed phrase where the wallet uses one. | wallet-backup | https://programs.myfirstbitcoin.org/lexicon/en/#wallet-backup |
 | BD-LEX-236 | **Wallet compatibility** | The ability of a wallet, backup, address, or network to work with another system. | wallet-compatibility | https://programs.myfirstbitcoin.org/lexicon/en/#wallet-compatibility |
+
+## Help improve these Lexicon Entries
+
+Share [feedback](https://forms.myfirstbitcoin.org/feedback), [proofread the entries](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).

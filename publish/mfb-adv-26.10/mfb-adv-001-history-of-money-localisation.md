@@ -27,3 +27,7 @@ Money has developed through social relationships, technology, law, trade, confli
 > **Callout – Verify local history and keep the boundary clear**
 >
 > Local history must be researched and dated before publication or teaching. This module explains history; it does not provide financial, legal, tax, or investment advice.
+
+## Help improve this Advanced module
+
+Share [feedback](https://forms.myfirstbitcoin.org/feedback), [proofread the content](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).

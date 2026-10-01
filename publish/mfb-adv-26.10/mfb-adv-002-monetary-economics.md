@@ -27,3 +27,7 @@ This module develops careful economic reasoning beyond the beginner Diploma. It 
 > **Callout – Models explain trade-offs; they do not make personal decisions**
 >
 > Use fictional scenarios rather than learners’ finances. The module must not recommend bitcoin, a portfolio allocation, a provider, or a timing decision.
+
+## Help improve this Advanced module
+
+Share [feedback](https://forms.myfirstbitcoin.org/feedback), [proofread the content](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).

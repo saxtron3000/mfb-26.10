@@ -27,3 +27,7 @@ This module introduces threat modelling, phishing and impersonation, device and 
 > **Callout – Privacy is not a guarantee or a route around lawful obligations**
 >
 > Educators should use fictional examples and direct learners facing abuse, theft, or urgent danger to appropriate local support.
+
+## Help improve this Advanced module
+
+Share [feedback](https://forms.myfirstbitcoin.org/feedback), [proofread the content](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).

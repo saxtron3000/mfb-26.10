@@ -63,7 +63,7 @@ Attendance, enthusiasm, [My First Bitcoin App](https://myfirstbitcoin.app/) prog
 ## Your first-course checklist
 
 - [ ] Set a schedule that includes at least eight hours of teaching, practice, assessment, feedback, and recording, with more time whenever learners need it.
-- [ ] Read the [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/), [Educator Guide](https://programs.myfirstbitcoin.org/programs/educator-guide/), and relevant objectives.
+- [ ] Read the [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/en/student-guide/), [Educator Guide](https://programs.myfirstbitcoin.org/programs/educator-guide/), and relevant objectives.
 - [ ] Select activities and prepare the assessment framework, approved tasks, rubrics, and records.
 - [ ] Plan a safe Module 4 task using the Educator Guide’s Custom-module builder; verify current local facts and tools.
 - [ ] Prepare low-tech materials and a no-funds fallback; protect learner privacy and accessibility.
@@ -73,4 +73,4 @@ Attendance, enthusiasm, [My First Bitcoin App](https://myfirstbitcoin.app/) prog
 
 This redesign gives educators more structure where consistency matters and more room where local wisdom matters. Your careful facilitation turns the Diploma from a book into a shared learning experience: one that helps people think clearly about money, Bitcoin, responsibility, and their own community.
 
-For optional further learning beyond the Diploma, explore the [Educator Training Program](https://etp.myfirstbitcoin.org/) or connect through the [Bitcoin Education Network](https://leaderboard.myfirstbitcoin.org). You can also [submit corrections or translation improvements](https://forms.myfirstbitcoin.org/proofread), share local learning resources through the [official contribution form](https://forms.myfirstbitcoin.org/), or use the open-source [curriculum repository](https://github.com/MyFirstBitcoin/mfb-curriculum) to check current editions and participate in improving the work. None of these links is required for Diploma completion.
+For optional further learning beyond the Diploma, explore the [Educator Training Program](https://etp.myfirstbitcoin.org/) or connect through the [Bitcoin Education Network](https://leaderboard.myfirstbitcoin.org). You can also [share feedback](https://forms.myfirstbitcoin.org/feedback), [submit corrections or translation improvements](https://forms.myfirstbitcoin.org/proofread), share local learning resources through the [official contribution form](https://forms.myfirstbitcoin.org/), or use the open-source [curriculum repository](https://github.com/MyFirstBitcoin/mfb-curriculum) to check current editions and participate in improving the work. None of these links is required for Diploma completion.

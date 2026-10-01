@@ -97,3 +97,7 @@ All source items are English, version 1.0, and require independent factual and e
 > **Callout – Never request secrets or personal financial information**
 >
 > Do not request seed phrases, private keys, wallet passwords, holdings, or other personal financial information.
+
+## Help improve this microlearning specification
+
+Share [feedback](https://forms.myfirstbitcoin.org/feedback), [proofread the content](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).

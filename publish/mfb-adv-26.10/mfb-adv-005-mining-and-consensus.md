@@ -27,3 +27,7 @@ Bitcoin’s network works through distributed verification and economic incentiv
 > **Callout – Do not present mining as an income opportunity**
 >
 > Mining economics, energy use, regulations, and hardware conditions vary by place and time. Use dated, sourced evidence for current claims.
+
+## Help improve this Advanced module
+
+Share [feedback](https://forms.myfirstbitcoin.org/feedback), [proofread the content](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).

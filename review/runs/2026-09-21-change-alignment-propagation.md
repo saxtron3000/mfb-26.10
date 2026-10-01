@@ -55,7 +55,7 @@
 ```text
 You are an internet-connected verification agent. Verify the public destinations whose wording or purpose changed in the 2026-09-21 workspace-to-publication synchronization review, without changing project files.
 
-Item to verify: the URLs in the Student Guide, Educator Guide, and Educator Quick Start for Introduction to Bitcoin, Educator Training Program, Bitcoin Education Network/Leaderboard, student journey, the My First Bitcoin App, contribution forms, the curriculum repository, and any issuer-specific certificate-verification instruction actually supplied by an educator.
+Item to verify: the URLs in the Student Guide, Educator Guide, and [Educator Quick Start](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/en/educator-quick-start/) for Introduction to Bitcoin, Educator Training Program, Bitcoin Education Network/Leaderboard, student journey, the My First Bitcoin App, contribution forms, the curriculum repository, and any issuer-specific certificate-verification instruction actually supplied by an educator.
 Intended purpose in the curriculum: provide optional further-learning, contribution, and app routes without creating a completion, membership, endorsement, or central-certificate-verification promise.
 Required source standard: official My First Bitcoin, Bitcoin Education Network, official service, or official repository page for each destination; issuer-specific verification can pass only when the actual named issuer supplies a documented process.
 Check date: 2026-09-21

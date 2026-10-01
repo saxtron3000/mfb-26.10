@@ -52,7 +52,7 @@ Several important findings from the previous report are now resolved or material
 - `ALL.1` and `ALL.2` are now consistently described in the main objective and educator materials as formative rather than independent certification gates.
 - `17_spec.md` now respects its real role as a concise collaborator/stakeholder overview rather than pretending to be a production specification.
 - The optional self-assessment has a clear October MVP, 12 short/long item pairs, stable identifiers, developer fields, answer keys, explanations, and a firm non-certification boundary.
-- The Educator Quick Start Guide is concise and does its job well. It is the clearest entry point in the package.
+- The [Educator Quick Start Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/en/educator-quick-start/) is concise and does its job well. It is the clearest entry point in the package.
 
 These are meaningful improvements. The next phase should consolidate them rather than reopen settled content unnecessarily.
 
@@ -242,7 +242,7 @@ Practical action:
 - Label objective links as the **objective facet supported**, not evidence that the whole objective is assessed. For example, the purchasing-power item touches only one part of the broad `B1.5` objective.
 - Check parity among the Markdown source, short CSV, long CSV, and app import after the final variant choices are made.
 
-### 5.4 Educator Quick Start
+### 5.4 [Educator Quick Start](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/en/educator-quick-start/)
 
 **Role judgment:** Strong and concise. It gives a realistic first route without duplicating the full guide.
 

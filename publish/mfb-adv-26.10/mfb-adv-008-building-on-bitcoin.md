@@ -27,3 +27,7 @@ Bitcoin’s base layer makes deliberate trade-offs. Builders and users may use a
 > **Callout – Analyse; do not require real-world adoption**
 >
 > Do not require learners to use personal funds, open channels, run infrastructure, or adopt a named service. Building on Bitcoin involves real technical and operational trade-offs; this module teaches analysis, not product endorsement.
+
+## Help improve this Advanced module
+
+Share [feedback](https://forms.myfirstbitcoin.org/feedback), [proofread the content](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).

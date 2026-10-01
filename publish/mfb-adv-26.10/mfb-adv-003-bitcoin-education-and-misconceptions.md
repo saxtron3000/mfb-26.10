@@ -27,3 +27,7 @@ Bitcoin is often presented through slogans, fear, hype, or technical jargon. Thi
 > **Callout – Do not pressure learners or promote products**
 >
 > Do not promise outcomes, pressure learners to acquire bitcoin, or use education to promote named products or services. Treat local experience as valuable evidence, not as universal proof.
+
+## Help improve this Advanced module
+
+Share [feedback](https://forms.myfirstbitcoin.org/feedback), [proofread the content](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).

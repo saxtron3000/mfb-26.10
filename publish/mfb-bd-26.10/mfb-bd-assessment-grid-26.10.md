@@ -77,3 +77,7 @@ Use activities and conversation for `C1`–`C5`; directly observe both parts of 
 |  |  |  |  |  |  |  |  |  |  |
 
 **Completion check:** When all seven competency cells show **Yes** (✓), both assessment components are complete, and your local certification route is ready, you may issue a certificate of completion in your name or that of your education organization. The certificate records your assessment judgment, not central My First Bitcoin certification. If the learner attended but has **Not yet** (✕) for one or more competencies, they are building competency; you may issue a certificate of participation and offer further learning or assessment opportunities. Brief private notes are helpful, but no task-ID record is required by this grid.
+
+## Help improve this assessment grid
+
+Share [feedback](https://forms.myfirstbitcoin.org/feedback), [proofread the grid](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).

@@ -23,7 +23,7 @@ Link a term only when it is used in a Bitcoin, economic, or computing sense and 
 
 For **privacy**, link only uses where the word is a noun in its own right (for example, `protect privacy` or `financial privacy`). Do not link attributive uses that modify another noun, including shared modifiers in lists (for example, `privacy risks` or `privacy and safety boundaries`).
 
-Student Guide line links are a snapshot of the current [Student Guide](mfb-bd-26.10/mfb-bd-sg-26.10.md). Each referenced line contains the listed term or an appropriate alias linked to its registered definition URL. Its line number opens the containing section, so a term with multiple matching lines appears more than once. Longer listed phrases take precedence over terms within them. Supporting terms used only in the Educator Guide are marked `Not present` in the Student Guide column; their verified lines appear in the Educator Guide table below.
+Student Guide line links are a snapshot of the current [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/en/student-guide/). Each referenced line contains the listed term or an appropriate alias linked to its registered definition URL. Its line number opens the containing section, so a term with multiple matching lines appears more than once. Longer listed phrases take precedence over terms within them. Supporting terms used only in the Educator Guide are marked `Not present` in the Student Guide column; their verified lines appear in the Educator Guide table below.
 
 The standalone Educator Guide reference table at the end lists each verified linked-use line, linking its line number to the containing section. Only terms with at least one linked-use line are listed. Ordinary uses with a different meaning are excluded. Definition links use the registered URLs; source-document links remain available separately where needed.
 
@@ -1424,3 +1424,7 @@ This standalone table lists each lexicon term, its beginner definition, and its 
 | [3656](mfb-bd-26.10/mfb-bd-eg-26.10.md#one-day-intensive) | BD-LEX-192 | [**Sat / satoshi**](#term-sat) | The smallest named unit of bitcoin; 100,000,000 sats equal one bitcoin. |
 | [3657](mfb-bd-26.10/mfb-bd-eg-26.10.md#one-day-intensive) | BD-LEX-206 | [**Sound money**](#term-sound-money) | A judgment for money whose supply is difficult to expand and whose properties support reliable use over time. |
 | [3658](mfb-bd-26.10/mfb-bd-eg-26.10.md#one-day-intensive) | BD-LEX-067 | [**Custody**](#term-custody) | Control of Bitcoin keys. |
+
+## Help improve these Lexicon Entries
+
+Share [feedback](https://forms.myfirstbitcoin.org/feedback), [proofread the entries](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).

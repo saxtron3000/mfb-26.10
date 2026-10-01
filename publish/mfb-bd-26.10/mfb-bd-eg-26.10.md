@@ -5,7 +5,7 @@ Teaching the Bitcoin Diploma
 
 ## About this guide
 
-The Educator Guide supports teaching the 2026.10 Bitcoin Diploma. Linked terms open their definitions in the [Lexicon](../mfb-lx-26.10-index.md). Use it with the [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/), [Educator Quick Start](mfb-bd-qs-26.10.md), [Educator Assessment Grid](mfb-bd-assessment-grid-26.10.md), the learning activities supplied for your course, and the [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) for additional classroom activities. The [My First Bitcoin App](https://myfirstbitcoin.app/) offers optional microlearning, self-checks, recap, and discovery. Learners can complete the course without using it.
+The Educator Guide supports teaching the 2026.10 Bitcoin Diploma. Linked terms open their definitions in the [Lexicon](../mfb-lx-26.10-index.md). Use it with the [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/en/student-guide/), [Educator Quick Start](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/en/educator-quick-start/), [Educator Assessment Grid](mfb-bd-assessment-grid-26.10.md), the learning activities supplied for your course, and the [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) for additional classroom activities. The [My First Bitcoin App](https://myfirstbitcoin.app/) offers optional microlearning, self-checks, recap, and discovery. Learners can complete the course without using it.
 
 Download the [My First Bitcoin App](https://myfirstbitcoin.app/) for optional microlearning, self-checks, recap, and more learning opportunities.
 
@@ -405,7 +405,7 @@ Each part of the Diploma has a distinct function.
 
 | Component | Primary function | What it cannot replace |
 | --- | --- | --- |
-| Student Guide | Essential learner explanations, reflection, review, and reference | Live facilitation, local verification, supported practice, or observed assessment |
+| [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/en/student-guide/) | Essential learner explanations, reflection, review, and reference | Live facilitation, local verification, supported practice, or observed assessment |
 | [My First Bitcoin App](https://myfirstbitcoin.app/) | Optional self-checks, recap, discovery, feedback, and connection to future learning | Educator-led theoretical or practical assessment, certification records, or learner evaluation |
 | Educator Guide | Preparation, pacing, facilitation, localization, safety, and assessment support | Learner materials or assessment rubrics |
 | [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) | Modular interaction, formative checks, and practical practice | Competency definitions, [My First Bitcoin App](https://myfirstbitcoin.app/) scoring, or educator judgment |
@@ -3683,3 +3683,7 @@ USE: Shared Student Guide master.
 -->
 
 Explore the [Bitcoin Diploma AI assistant](https://ai.myfirstbitcoin.org) for optional help reviewing concepts or developing explanations for a lesson. Check its responses against the course materials before using them with learners. Educators remain responsible for teaching and assessment; never enter learner records, seed phrases, or private keys.
+
+## Help improve this Educator Guide
+
+Share [feedback](https://forms.myfirstbitcoin.org/feedback), [proofread the guide](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
