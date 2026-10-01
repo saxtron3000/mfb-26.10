@@ -11,7 +11,7 @@ Use this checklist to confirm that each destination opens and is the correct res
 
 Repeated destinations share a row. Source locations list every occurrence; repeated line numbers mean multiple occurrences on that line. Original row IDs are retained. Line numbers may shift after edits.
 
-This index contains seven guide web destinations outside `myfirstbitcoin.org`, 18 activity-library web-link groups, and 108 local document or section destinations. See [internal links](links-internal.md) for `myfirstbitcoin.org` and its subdomains. The [My First Bitcoin App](https://myfirstbitcoin.app/) is included here because its domain is `myfirstbitcoin.app`. Local repository links are listed separately below; they are not external websites.
+This index contains six guide web destinations outside `myfirstbitcoin.org`, 18 activity-library web-link groups, and 108 local document or section destinations. See [internal links](links-internal.md) for `myfirstbitcoin.org`, its subdomains, and the project GitHub repository. The [My First Bitcoin App](https://myfirstbitcoin.app/) is included here because its domain is `myfirstbitcoin.app`. Local repository links are listed separately below; they are not external websites.
 
 ## Review instructions
 
@@ -37,7 +37,6 @@ This index contains seven guide web destinations outside `myfirstbitcoin.org`, 1
 | W009 | [first recorded person-to-person transaction](https://mempool.space/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16) | [https://mempool.space/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16](https://mempool.space/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16) | SG: 740 | Pending | |
 | W010 | [original pizza request](https://bitcointalk.org/index.php?topic=137.0) | [https://bitcointalk.org/index.php?topic=137.0](https://bitcointalk.org/index.php?topic=137.0) | SG: 740 | Pending | |
 | W021 | [github.com/MyFirstBitcoin](https://github.com/MyFirstBitcoin) | [https://github.com/MyFirstBitcoin](https://github.com/MyFirstBitcoin) | SG: 1493 | Pending | |
-| W022 | [github.com/MyFirstBitcoin/mfb-curriculum](https://github.com/MyFirstBitcoin/mfb-curriculum) | [https://github.com/MyFirstBitcoin/mfb-curriculum](https://github.com/MyFirstBitcoin/mfb-curriculum) | SG: 1494, 1504 | Pending | |
 
 ## Activity-library web links
 
