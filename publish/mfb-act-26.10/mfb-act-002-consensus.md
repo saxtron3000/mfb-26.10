@@ -117,7 +117,7 @@ If learners compare money properties, ask them to state the criterion and eviden
 
 Allow time for calculations and for disagreement about the scenario's rules. Keep the discussion focused on the difference between an observation from the role-play, a technical fact that can be checked, and a value judgment that requires criteria.
 
-**Diploma assessment link:** This activity may provide formative practice for [`T2` / `C2`](https://programs.myfirstbitcoin.org/programs/educator-guide/). Use the approved protocol and record individual evidence for copying, verification, rules, and roles if it is used for assessment.
+**Diploma assessment link:** This activity may provide formative practice for [`T2` / `C2`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show). Use the approved protocol and record individual evidence for copying, verification, rules, and roles if it is used for assessment.
 
 # Additional resources
 

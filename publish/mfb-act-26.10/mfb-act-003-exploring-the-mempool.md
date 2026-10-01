@@ -181,7 +181,7 @@ There are other mempools available for those who do not run a node, e.g., https:
 
 # Notes
 
-**Diploma assessment link:** May provide the individual-response context for [`T3` / `C5`](https://programs.myfirstbitcoin.org/programs/educator-guide/), especially on-chain confirmation and verification. Use the approved protocol and record individual evidence; otherwise, this activity is formative.
+**Diploma assessment link:** May provide the individual-response context for [`T3` / `C5`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show), especially on-chain confirmation and verification. Use the approved protocol and record individual evidence; otherwise, this activity is formative.
 
 This activity takes about 30 minutes for a typical class.
 

@@ -97,7 +97,7 @@ You can use the course to:
 
 > **Callout – Knowledge comes before action**
 >
-> You do not need to buy bitcoin to complete this Diploma. You also do not need to install a Bitcoin wallet or use personal funds. Required practical skills may be assessed with a prepared training wallet, simulation, test environment, or physical model. Knowledge comes before action.
+> You do not need to buy bitcoin to complete this Diploma. You also do not need to install a Bitcoin wallet or use personal funds. Required practical skills may be assessed with a prepared training wallet, simulation, test environment, physical model, or an educator-approved low-stakes activity. Knowledge comes before action.
 
 If you have limited time or would like a first touch point before getting to grips with Bitcoin, begin with [Introduction to Bitcoin (ITB)](https://myfirstbitcoin.org/learn/programs#intro). It is a shorter course that introduces the basics. After the Diploma, learners who want to teach can continue to the [Educator Training Program (ETP)](https://etp.myfirstbitcoin.org/). These are separate, optional learning paths beyond the Diploma: [ITB](https://myfirstbitcoin.org/learn/programs#intro) is a short primer, the Diploma builds a broader beginner foundation, and [ETP](https://etp.myfirstbitcoin.org/) develops teaching practice. None is required to complete the Diploma. For the Diploma, you need this Student Guide, an educator, and the materials and resources your educator specifies. Explore the [student journey](https://journey.myfirstbitcoin.org/) to see how these opportunities connect and choose your next step.
 
@@ -194,7 +194,7 @@ When it is time to practise with a Bitcoin wallet, your educator will guide you 
 
 - use a device you control, and ask your educator if you need help choosing one;
 - ask your educator to help you check the download source before installing a wallet;
-- practise with a test environment, simulation, or other prepared training material;
+- practise with a test environment, simulation, or other prepared training material; if your educator plans a low-stakes live activity, understand the purpose and risks before choosing whether to take part;
 - use sample recovery words provided for practice, rather than words from someone else's real wallet;
 - keep real recovery words (also called a seed phrase) private: they restore access to a wallet, so do not show them to the class, photograph them, or enter them into a website or message.
 
@@ -1004,7 +1004,7 @@ ASSET: assets/briefs/bd-v-034-brief.md
 
 ## Module 3: Using Bitcoin Safely
 
-This module is about safe first actions, not becoming an expert or taking financial risk. You will practise with prepared simulations, test environments, or training wallets. You never need to buy bitcoin or use real funds to complete the Diploma.
+This module is about safe first actions, not becoming an expert or taking financial risk. You will practise with prepared simulations, test environments, training wallets, or, where your educator judges it appropriate, a low-stakes live activity. You never need to buy bitcoin or use personal funds to complete the Diploma.
 
 What information can you share safely? What information could give another person control? How would you notice that a payment request has changed? These questions matter before any wallet, payment, or backup becomes important.
 
@@ -1047,7 +1047,7 @@ Your educator will help you compare custody, recovery, inspectability, compatibi
 
 > **Callout - Learning wallets and personal wallets**
 >
-> During the Diploma, you may create a wallet or write down recovery words as part of practice. A classroom is a learning environment: information can be seen, copied, shared, or compromised by mistake. For this reason, a training wallet is not a wallet for real funds. It should be empty or simulated and closed, reset, or returned at the end of the Diploma. If you later choose to use Bitcoin with real funds, begin with a new wallet and new recovery information in a private, secure setting. Your educator can explain the difference, but you are never required to set up a personal wallet to complete the Diploma.
+> During the Diploma, you may create a wallet or write down recovery words as part of practice. A classroom is a learning environment: information can be seen, copied, shared, or compromised by mistake. For this reason, a training wallet should normally be empty or simulated and should not be used to secure meaningful funds. Where practical, it is closed, reset, or returned at the end of the Diploma. Your educator may choose a low-stakes live activity, but should explain its purpose and the added privacy, security, and loss risks before anyone takes part. A wallet intended to secure meaningful funds needs a new, private setup and new recovery information. Your educator can explain the difference, but you are never required to set up a personal wallet to complete the Diploma.
 
 ### Addresses
 
@@ -1204,7 +1204,7 @@ A safe recovery-readiness practice is simple:
 5. Confirm the expected receiving information or training history.
 6. Reset or clear the temporary training environment as instructed.
 
-Do not use a training wallet or its recovery information for real funds after the Diploma. A personal wallet, if you choose to create one later, needs a new private setup and new recovery information.
+Do not use a training wallet or its recovery information to secure meaningful funds after the Diploma. A personal wallet, if you choose to create one later, needs a new private setup and new recovery information.
 
 <!-- VISUAL: BD-V-043
 ALT: Six-step safe wallet-recovery workflow using prepared materials without exposing recovery secrets.
@@ -1479,8 +1479,9 @@ Before any live demonstration, make sure you know:
 
 - the tool and instructions were checked recently;
 - how the educator will explain recovery and what happens if something fails;
-- that this is a learning activity and real funds are not required;
+- whether real funds are involved and, if so, the privacy, security, and loss risks;
 - that you will not be pressured to install software or disclose financial data;
+- that any live amount is small enough for a complete loss to remain a lesson, not a crisis;
 - that an offline or no-funds alternative is available;
 - how the class will stop if the result differs from the plan.
 

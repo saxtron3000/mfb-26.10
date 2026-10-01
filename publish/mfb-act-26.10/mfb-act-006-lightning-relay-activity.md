@@ -90,7 +90,7 @@ Then lead an open discussion about their experience.
 
 # Notes
 
-**Diploma assessment link:** May support [`T3` / `C5`](https://programs.myfirstbitcoin.org/programs/educator-guide/) and, after approved safety adaptation, [`P6a` / `C6`](https://programs.myfirstbitcoin.org/programs/educator-guide/). As written, it is not a certificated task: use a prepared low-stakes or simulated environment and never require real funds, a personal wallet, or a learner-owned device.
+**Diploma assessment link:** May support [`T3` / `C5`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show) and, after approved safety adaptation, [`P6a` / `C6`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show). As written, it is not a certificated task: use a prepared low-stakes or simulated environment and never require real funds, a personal wallet, or a learner-owned device.
 
 The technical skill level of your participants will affect how long it takes to conduct the Lightning Relay. Consider pairing more technical participants with less-technical participants so they can help one another.
 

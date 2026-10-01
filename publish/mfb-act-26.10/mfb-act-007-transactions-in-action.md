@@ -228,7 +228,7 @@ When they say “no”, instruct the tracker to update Round 5 with no changes f
 
 # Notes
 
-**Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](https://programs.myfirstbitcoin.org/programs/educator-guide/). Use the approved protocol and record individual evidence for copying, shared verification, rules, and roles; otherwise, this activity is formative.
+**Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show). Use the approved protocol and record individual evidence for copying, shared verification, rules, and roles; otherwise, this activity is formative.
 
 Expect participants to grasp the tracking system quickly, but repetition will be helpful to increase their understanding of Bitcoin transaction mechanics.
 

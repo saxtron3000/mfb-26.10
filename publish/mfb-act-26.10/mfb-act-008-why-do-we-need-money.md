@@ -56,6 +56,6 @@ What made barter difficult? How did payment change the exchange? What could you 
 ## Additional notes
 This is an intentionally basic introduction, most useful with younger audiences or participants new to the topic. Expand the exchange round with more goods, roles, time periods, or distant “markets,” or combine it with a barter activity or another activity on the functions of money when the group is ready for deeper exploration.
 
-**Diploma assessment link:** May provide the individual-response context for [`T1` / `C1`](https://programs.myfirstbitcoin.org/programs/educator-guide/). Use the approved protocol and record an individual explanation and comparison; otherwise, this activity is formative.
+**Diploma assessment link:** May provide the individual-response context for [`T1` / `C1`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show). Use the approved protocol and record an individual explanation and comparison; otherwise, this activity is formative.
 
 # Additional Resources

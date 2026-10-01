@@ -39,7 +39,7 @@ Finding a winning set may take many rolls, while verification takes seconds.
 Why is a winning block fast for nodes to verify?
 # Notes
 
-**Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](https://programs.myfirstbitcoin.org/programs/educator-guide/). Use the approved protocol, including the required role and rules explanation; otherwise, this activity is formative.
+**Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show). Use the approved protocol, including the required role and rules explanation; otherwise, this activity is formative.
 
 # Additional Resources
 [Calculator.net Dice Roller](https://www.calculator.net/dice-roller.html) is an optional digital substitute for physical dice when modelling repeated mining attempts and quick verification.
