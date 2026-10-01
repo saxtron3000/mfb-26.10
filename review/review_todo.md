@@ -9,7 +9,7 @@ This is the working list for the 2026.10 review. Start with the open items below
 | Do this first | Why it matters | Tasks |
 |---|---|---|
 | Make delivery safe and ready to certify | Do this before a certificated delivery. | `ACT-022` Remove the unsafe wallet exercise; `ACT-002` align assessor scoring; `ACT-003` agree record and certificate rules. |
-| Make the materials ready to publish | Do this before release. | `ACT-009`, `ACT-011`, `ACT-024`, `ACT-028`, and `ACT-019`. |
+| Run the Sanity pre-release review | Do this after every draft is available in Sanity for review and testing, and before release. | `ACT-009`, `ACT-010`, `ACT-011`, `ACT-024`, `ACT-028`, and `ACT-019`. |
 | Improve and maintain the materials | Important, but does not by itself block release. | `ACT-007`, `ACT-010`, `ACT-013`, `ACT-021`, `ACT-025`, and `ACT-026`. |
 
 `ACT` means a task. `DEC` is a past decision kept for reference. `ANN` is an old reviewer note; it is not an approval or a current task.
@@ -25,14 +25,14 @@ Use this table to find the task. The detailed entry below has the supporting lin
 | ACT-022 | Remove the unsafe wallet exercise | Open | publication | — |
 | ACT-002 | Align assessor scoring | In progress | certificated delivery | ACT-001 |
 | ACT-003 | Agree record and certificate rules | Blocked | certificated delivery | — |
-| ACT-009 | Check public links | Needs checking | publication | ACT-006 |
+| ACT-009 | Verify public links in Sanity pre-release | Needs checking | Sanity pre-release review | ACT-006; all edition drafts available in Sanity |
 | ACT-011 | Review the optional self-check | Needs checking | publication | — |
 | ACT-024 | Support claims in Activities 001 and 002 | Open | publication | — |
 | ACT-028 | Produce or explicitly defer every guide visual | Open | publication | ACT-013, EVO-002 for the app panel |
-| ACT-019 | Do the final publication check | Blocked | publication | ACT-009, ACT-011, ACT-013 |
+| ACT-019 | Run the final Sanity pre-release check | Blocked | Sanity pre-release review | ACT-009, ACT-010, ACT-011, ACT-013, ACT-028; all edition drafts available in Sanity |
 | ACT-025 | Show an eight-hour route for a real class | Open | next cohort | ACT-001 |
 | ACT-007 | Add editable teaching slides | Open | ongoing maintenance | — |
-| ACT-010 | Stabilise source and lexicon references | Open | ongoing maintenance | — |
+| ACT-010 | Verify source and lexicon references in Sanity pre-release | Open | Sanity pre-release review | all edition drafts available in Sanity |
 | ACT-013 | Choose and track essential visuals | In progress | ongoing maintenance | — |
 | ACT-021 | Reduce assessed competencies to seven | Done | ongoing maintenance | [2026-09-30 assessment consolidation review](runs/2026-09-30-act-021-seven-competencies.md) |
 | ACT-026 | Remove repeated guide content and fix `BD-V-049` | In progress | ongoing maintenance | ACT-013 |
@@ -86,7 +86,7 @@ Do not invent an approval, an owner, a test result, or a completed review. For e
 ## Recommended work order
 
 1. Fix the safety and certificated-delivery blockers: `ACT-022`, `ACT-002`, and `ACT-003`.
-2. Finish the publication blockers: `ACT-009`, `ACT-011`, `ACT-024`, and `ACT-028`.
+2. Push every edition draft through Sanity, then complete the Sanity pre-release review: `ACT-009`, `ACT-010`, `ACT-011`, `ACT-024`, `ACT-028`, and `ACT-019`.
 3. Test the eight-hour route for a real class (`ACT-025`).
 4. Complete the remaining maintenance work, then run `ACT-019` as the final check.
 
@@ -184,21 +184,25 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
   - The report requires a real, privacy-preserving certificate process before retaining the verification section. A live link alone is insufficient.
   - Acceptance: every retained section has a learner-facing heading and a verified destination or governing process; unavailable sections are removed.
 
-- [ ] **ACT-009** **Check every public link before publishing.** Review every named programme, form, case study, network, leaderboard, source, and support link in the Student Guide.
+### Sanity pre-release actions
 
-  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-30 | Severity: high | Release impact: publication blocker | Evidence: [internal My First Bitcoin link register](../links/links-internal.md) and [external or other link register](../links/links-external.md) inventory destinations, but no complete dated external check for this edition was found | Depends on: ACT-006 | Completion evidence: live destination verification remains external work.
+- [ ] **ACT-009** **Verify every public link in Sanity pre-release.** After every edition draft has been pushed through Sanity for review and testing, review every named programme, form, case study, network, leaderboard, source, and support link in the Student Guide.
+
+  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-30 | Category: pre-release | Severity: high | Release impact: publication blocker | Evidence: [internal My First Bitcoin link register](../links/links-internal.md) and [external or other link register](../links/links-external.md) inventory destinations, but no complete dated external check for this edition was found | Depends on: ACT-006 and every edition draft being available in Sanity for review and testing | Completion evidence: a complete, dated live-destination check is recorded against the Sanity review drafts.
 
   - A failed optional further-learning link does not by itself block publication. It raises an important alert requiring a human-approved solution within 24 hours. Required instructional or safety destinations retain their normal publication impact.
-  - Acceptance: each retained destination is live, appropriate, and recorded as checked for the edition; the weekly automated review and human-approval boundary are documented in both link registers.
+  - Acceptance: all edition drafts have been pushed through Sanity and are available for review and testing; each retained destination is live, appropriate, and recorded as checked for the edition; the weekly automated review and human-approval boundary are documented in both link registers.
 
-- [ ] **ACT-010** **Make source and lexicon references survive edits.** Replace line numbers with stable headings or claim IDs. Keep the reading audit separate from learner definitions, and record who checked each shared claim and when.
+### Sanity pre-release actions
+
+- [ ] **ACT-010** **Verify source and lexicon references in Sanity pre-release.** After every edition draft has been pushed through Sanity for review and testing, confirm that source and lexicon references survive the deployed draft. Replace line numbers with stable headings or claim IDs. Keep the reading audit separate from learner definitions, and record who checked each shared claim and when.
 
 <a id="act-010-replace-mutable-source-and-terminology-locations"></a>
 
-  - Status: open | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: maintenance | Evidence: [Resources register:7](../workspace/09_resources.md:7) still requires mutable line references, including entries at [line 13](../workspace/09_resources.md:13); the [Lexicon:13](../publish/mfb-lx-26.10.md:13) also retains occurrence-line metadata | Depends on: none | Completion evidence: stable claim IDs and maintenance fields are not implemented.
+  - Status: open | Owner: unassigned | Updated: 2026-09-30 | Category: pre-release | Severity: medium | Release impact: publication blocker | Evidence: [Resources register:7](../workspace/09_resources.md:7) still requires mutable line references, including entries at [line 13](../workspace/09_resources.md:13); the [Lexicon:13](../publish/mfb-lx-26.10.md:13) also retains occurrence-line metadata | Depends on: every edition draft being available in Sanity for review and testing | Completion evidence: stable claim IDs and maintenance fields are implemented and verified in the Sanity review drafts.
 
   - Preserve each claim or section, source type and authority, volatility, reviewer, date checked, next review date, and permitted learner-facing treatment. Keep genuinely local and changing facts in the Educator Guide's local verification record. Maintain the resource register and lexicon as versioned tools, with first/later occurrence audits in separate reports.
-  - Acceptance: the source register and lexicon remain correct after a normal manuscript edit without manual line-number repair.
+  - Acceptance: all edition drafts have been pushed through Sanity and are available for review and testing; the source register and lexicon remain correct after a normal manuscript edit and in the Sanity review drafts without manual line-number repair.
 
 - [ ] **ACT-011** **Finish the optional self-check review.** Keep the result message about this 12-question check only. Review every question, then test it on a small phone and with a screen reader.
 
@@ -259,13 +263,15 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
   - Acceptance: every annotation has a disposition and evidence. Approved work has an existing or new action ID with a concrete acceptance condition; duplicated notes link to the same action; unclear notes remain explicitly blocked on clarification.
 
-- [ ] **ACT-019: Do the final publication check.** Check public links, current claims, rendering, accessibility, and translation readiness, then save a dated record of what passed and what did not.
+### Sanity pre-release actions
+
+- [ ] **ACT-019: Run the final Sanity pre-release check.** After every edition draft has been pushed through Sanity for review and testing, check public links, current claims, rendering, accessibility, and translation readiness, then save a dated record of what passed and what did not.
 
 <a id="act-019-complete-the-final-publication-verification-pass"></a>
 
-  - Status: blocked | Owner: unassigned | Updated: 2026-09-25 | Severity: high | Release impact: publication blocker | Evidence: [full-release style run](runs/2026-09-21-full-release-style.md#findings-created-or-updated), [full-release to-do run](runs/2026-09-21-full-release-todo.md#findings-created-or-updated), and remaining external-link-verification, accessibility/device-test, and visual-production work under `ACT-009`, `ACT-011`, `ACT-013`, and [ACT-028](#act-028-produce-or-explicitly-defer-every-guide-visual) | Depends on: ACT-009, ACT-011, ACT-013, ACT-028 | Completion evidence: dependency checks remain incomplete.
+  - Status: blocked | Owner: unassigned | Updated: 2026-09-30 | Category: pre-release | Severity: high | Release impact: publication blocker | Evidence: [full-release style run](runs/2026-09-21-full-release-style.md#findings-created-or-updated), [full-release to-do run](runs/2026-09-21-full-release-todo.md#findings-created-or-updated), and remaining external-link-verification, accessibility/device-test, and visual-production work under `ACT-009`, `ACT-011`, `ACT-013`, and [ACT-028](#act-028-produce-or-explicitly-defer-every-guide-visual) | Depends on: ACT-009, ACT-010, ACT-011, ACT-013, ACT-028, and every edition draft being available in Sanity for review and testing | Completion evidence: dependencies are complete and the final check is recorded against the Sanity review drafts.
 
-  - Acceptance: the edition has a dated verification record distinguishing passed checks, remaining blockers, and checks not performed. No historical audit count is presented as a fresh result.
+  - Acceptance: all edition drafts have been pushed through Sanity and are available for review and testing; the edition has a dated verification record distinguishing passed checks, remaining blockers, and checks not performed. No historical audit count is presented as a fresh result.
 
 ### Review findings added from the cynical-editor run
 
