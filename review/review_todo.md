@@ -4,13 +4,13 @@ This is the working list for the 2026.10 review. Start with the open items below
 
 ## What needs attention
 
-**17 of 33 actions are still open.** Start with the safety and certificated-delivery work, then clear the publication blockers.
+**16 of 32 actions are still open.** Start with the safety and certificated-delivery work, then clear the publication blockers.
 
 | Do this first | Why it matters | Tasks |
 |---|---|---|
 | Make delivery safe and ready to certify | Do this before a certificated delivery. | `ACT-022` Remove the unsafe wallet exercise; `ACT-002` align assessor scoring; `ACT-003` agree record and certificate rules. |
 | Run the Sanity pre-release review | Do this after every draft is available in Sanity for review and testing, and before release. | `ACT-009`, `ACT-010`, `ACT-011`, `ACT-024`, `ACT-028`, and `ACT-019`. |
-| Improve and maintain the materials | Important, but does not by itself block release. | `ACT-007`, `ACT-010`, `ACT-013`, `ACT-021`, `ACT-025`, and `ACT-026`. |
+| Improve and maintain the materials | Important, but does not by itself block release. | `ACT-007`, `ACT-010`, `ACT-013`, `ACT-021`, and `ACT-026`. |
 
 `ACT` means a task. `DEC` is a past decision kept for reference. `ANN` is an old reviewer note; it is not an approval or a current task.
 
@@ -30,7 +30,6 @@ Use this table to find the task. The detailed entry below has the supporting lin
 | ACT-024 | Support claims in Activities 001 and 002 | Open | publication | — |
 | ACT-028 | Produce or explicitly defer every guide visual | Open | publication | ACT-013, EVO-002 for the app panel |
 | ACT-019 | Run the final Sanity pre-release check | Blocked | Sanity pre-release review | ACT-009, ACT-010, ACT-011, ACT-013, ACT-028; all edition drafts available in Sanity |
-| ACT-025 | Show an eight-hour route for a real class | Open | next cohort | ACT-001 |
 | ACT-007 | Add editable teaching slides | Open | ongoing maintenance | — |
 | ACT-010 | Verify source and lexicon references in Sanity pre-release | Open | Sanity pre-release review | all edition drafts available in Sanity |
 | ACT-013 | Choose and track essential visuals | In progress | ongoing maintenance | — |
@@ -87,8 +86,7 @@ Do not invent an approval, an owner, a test result, or a completed review. For e
 
 1. Fix the safety and certificated-delivery blockers: `ACT-022`, `ACT-002`, and `ACT-003`.
 2. Push every edition draft through Sanity, then complete the Sanity pre-release review: `ACT-009`, `ACT-010`, `ACT-011`, `ACT-024`, `ACT-028`, and `ACT-019`.
-3. Test the eight-hour route for a real class (`ACT-025`).
-4. Complete the remaining maintenance work, then run `ACT-019` as the final check.
+3. Complete the remaining maintenance work, then run `ACT-019` as the final check.
 
 ## Release and publication actions
 
@@ -286,10 +284,6 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 - [ ] **ACT-024: Make Activities 001 and 002 fair and well-supported.** Separate evidence from opinion, avoid overclaiming causes, and give learners enough context to consider limits and other explanations.
 
   - Status: open | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: [CYN-003](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings) identifies categorical, unsourced claims in `mfb-act-001-auction.md` and `mfb-act-002-consensus.md` | Depends on: none | Completion evidence: an independent factual reviewer can support every retained material claim, and the activities do not state universal historical, causal, or value claims beyond their evidence.
-
-- [ ] **ACT-025: Show how the eight-hour minimum works in a real class.** Set the class size, assessor numbers, observation approach, and assessment time—or make clear that the route will not suit every setting.
-
-  - Status: open | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: required before cohort | Evidence: [CYN-004](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings) calculates 32–45 observation minutes per learner against the 12-row grid and finds no stated cohort or staffing assumptions | Depends on: ACT-001 | Completion evidence: a complete schedule shows how teaching, practice, individual evidence, feedback, recording, and realistic reassessment fit the stated cohort and assessor assumptions; a field test records planned and actual timing before any certificated delivery.
 
 - [ ] **ACT-026: Remove repeated guide content and fix `BD-V-049`.** Keep only useful recaps, move educator-only detail out of learner front matter, and remove the duplicate or mismatched visual marker and alt text.
 

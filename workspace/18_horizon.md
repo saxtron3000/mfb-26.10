@@ -29,7 +29,9 @@ It is a decision and discovery register, not a commitment, roadmap, product spec
 
 Build a privacy-minimised evaluation cycle that can guide future revisions without confusing reach or certificate counts with educational impact.
 
-- Field-test the minimum eight-hour pathway: planned and actual time, cohort size, educator-to-learner observation capacity, access failures, practice, feedback, reassessment, and implementation deviations. Use the findings to improve scheduling and support, not to impose an upper limit.
+### Eight-hour pathway field test (formerly ACT-025)
+
+This cannot be completed before release because it requires a real class. It is post-release quality-improvement work, not a pre-release release gate. For each field test of the minimum pathway, set the cohort size, assessor numbers, observation approach, and assessment time, or state clearly that the route does not suit that setting. Produce a complete schedule showing how teaching, practice, individual evidence, feedback, recording, and realistic reassessment fit those assumptions. Record planned and actual timing, educator-to-learner observation capacity, access failures, and implementation deviations. Use the findings to improve scheduling and support, not to impose an upper limit.
 - Use equivalent pre-course and immediate post-course checks, an observed practical scenario with analytic criteria, and a delayed retrieval/safety-transfer check where feasible.
 - Track separate invitation, enrolment, start, completion, assessment-complete, and delayed-follow-up denominators. Report missing data, subgroup gaps, adverse findings, null findings, uncertainty, and limitations.
 - Test whether learners can access every required teach–practice–assess path across low-connectivity, disability, language, age, literacy, shared-device, and remote-delivery conditions.
