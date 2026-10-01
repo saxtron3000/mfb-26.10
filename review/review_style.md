@@ -90,6 +90,17 @@ Use the [OpenStack Writing Style Guide](https://docs.openstack.org/doc-contrib-g
 
 Use one H1 title per Markdown document, descriptive sentence-case sections, and a consistent heading hierarchy. Use paragraphs for explanation, lists for steps or parallel items, and tables for useful comparisons. Ensure tables and checklists remain readable in print and on small screens. Keep educator notes visually distinguishable and outside learner prose where appropriate.
 
+Use the following block styles consistently and sparingly. In every block, every content line, including blank lines and list items, begins with `> `.
+
+- **Callout – Title**\
+  Use for warnings, safety information, secrecy, legal-risk boundaries, and stop conditions.
+- **Definition - Title**\
+  Use for a keyword’s first clear explanation.
+- **Dark - Title**\
+  Use for a general concept or core principle that should shape understanding or delivery.
+- **Light - Title**\
+  Use for a personal or local issue: reflection, comparison, question, or application prompt.
+
 Use “module” for each of the four required Diploma sections. In Student and Educator Guide body text and tables, bold every numbered module reference, including groups. Across the project, if a module reference includes a title or topic label, bold the whole reference as one span, such as **Module 3: Using Bitcoin Safely**. H1, H2, and H3 headings use heading formatting alone. Preserve existing bold phrases.
 
 Write every mention of the [My First Bitcoin App](https://myfirstbitcoin.app/) with that exact linked name, including in headings and tables. Its download QR may appear only beside an explicit download call to action: with the first introduction mention and at the end of each Student and Educator Guide. Do not add that QR to other publications. Check asset `BD-V-075` in the [asset register](../workspace/08_assets.md).

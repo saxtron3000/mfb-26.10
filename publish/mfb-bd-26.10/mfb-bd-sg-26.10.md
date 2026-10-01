@@ -442,13 +442,15 @@ ALT: Comparison of the main fiat-system participants and their roles.
 ASSET: assets/briefs/bd-v-014-brief.md
 -->
 
-**Local scenario:** Choose one ordinary payment in your community, such as buying transport, food, or phone credit; receiving wages; or paying a bill. Use a realistic invented scenario if you prefer. In three or four sentences, explain:
-
-1. what is being paid for and which currency is used as the unit of account;
-2. why the seller or recipient is willing to accept that currency; and
-3. which institutions, records, or rules people rely on to complete the payment.
-
-Finish by naming one way the payment would become harder if that shared acceptance or trust broke down.
+> **Light - Examine a local payment**
+>
+> Choose one ordinary payment in your community, such as buying transport, food, or phone credit; receiving wages; or paying a bill. Use a realistic invented scenario if you prefer. In three or four sentences, explain:
+>
+> 1. what is being paid for and which currency is used as the unit of account;
+> 2. why the seller or recipient is willing to accept that currency; and
+> 3. which institutions, records, or rules people rely on to complete the payment.
+>
+> Finish by naming one way the payment would become harder if that shared acceptance or trust broke down.
 
 Fiat systems can provide convenient payments, flexible credit, and tools for responding to financial crises. The same flexibility creates **risk**. A small number of institutions can change the supply and cost of money, restrict access, or make decisions that reduce purchasing power.
 
@@ -508,9 +510,11 @@ Inflation does not affect everyone equally. A person who holds mainly cash may l
 
 The rate of inflation is an average. Your personal experience may differ because your spending is not identical to the measured basket. Food, housing, transport, education, and health costs may change at different rates.
 
-**Purchasing-power check:** Choose one ordinary item in your community. Record its price today. Ask what it cost several years ago, then check a reliable record if possible. Did income change at the same rate? What other factors may explain the change?
-
-Then compare your item with an official inflation measure. Which goods and services are in that measure's basket? Has the basket or method changed over time, and does the source explain why? A change is not automatically manipulation, but it can affect comparisons and should be documented transparently.
+> **Light - Compare purchasing power locally**
+>
+> Choose one ordinary item in your community. Record its price today. Ask what it cost several years ago, then check a reliable record if possible. Did income change at the same rate? What other factors may explain the change?
+>
+> Then compare your item with an official inflation measure. Which goods and services are in that measure's basket? Has the basket or method changed over time, and does the source explain why? A change is not automatically manipulation, but it can affect comparisons and should be documented transparently.
 
 ### Why the US dollar is a world reserve currency
 
@@ -827,7 +831,7 @@ ASSET: assets/briefs/bd-v-028-brief.md
 
 The 21 million limit is enforced by nodes. If a miner creates more bitcoin than the rules allow, validating nodes reject the block. A software developer can write different code, but cannot force other people to run it.
 
-> **Callout – Why fixed supply matters—and what it does not mean**
+> **Dark - Fixed supply is a network rule, not a price promise**
 >
 > Bitcoin's supply rule is public, independently verifiable, and difficult for one party to change because validating nodes enforce it. It is not a physical law: it remains effective while participants continue to enforce it. A limited supply does not guarantee a rising market price; price also depends on demand.
 >
@@ -1026,7 +1030,7 @@ Use the explanations below to prepare for the three guided practices: a receive-
 
 What would happen if your phone stopped working? The Bitcoin record would still exist, but access would depend on the keys and recovery method the wallet uses. A wallet helps create receiving information, show balances and transaction history, and authorize spending. It does not remove the need to understand who controls access.
 
-> **Callout – A wallet manages access; it does not hold bitcoin**
+> **Dark - A wallet manages access; it does not hold bitcoin**
 >
 > Bitcoin is recorded on the shared ledger, not inside your phone. Before using a wallet, know who controls the keys, how access is recovered, and what would happen if the device or service failed.
 
@@ -1288,9 +1292,9 @@ Protect secrets by keeping seed phrases and private keys offline and out of view
 
 People may receive bitcoin through work, a community payment, a peer exchange, an ATM, or a service. Each pathway has different costs, custody, privacy, fraud, legal, and operational trade-offs. This Diploma does not recommend a provider or tell you which path to use.
 
-> **Callout – Compare the full route, not a promise or headline fee**
+> **Light - Compare a local payment route**
 >
-> No pathway is automatically best everywhere. Check custody, total cost, identity data, withdrawal limits, counterparty and physical safety, and current local rules. This course provides comparison questions, not a provider recommendation or personal financial advice.
+> In a prepared local or fictional scenario, compare custody, total cost, identity data, withdrawal limits, counterparty and physical safety, and current local rules. No pathway is automatically best everywhere. This course provides comparison questions, not a provider recommendation or personal financial advice.
 
 - **Earning or receiving:** Bitcoin may be received for work, goods, services, a gift, a refund, or a community payment. The parties still need to agree on the amount, timing, and payment method.
 - **Peer-to-peer exchange:** Two people may exchange fiat money or goods for bitcoin directly or through a matching service. This can introduce counterparty, physical-safety, payment-reversal, and fraud risks.
@@ -1334,7 +1338,7 @@ ASSET: assets/briefs/bd-v-050-brief.md
 >
 > On-chain payments are recorded in Bitcoin's blockchain and gain confirmations. Lightning is a payment network built on Bitcoin that can support fast, frequent payments. A Lightning payment may complete quickly or fail, and its wallet can still be custodial or self-custodial.
 
-> **Callout – Payment path does not determine custody**
+> **Dark - Payment path does not determine custody**
 >
 > On-chain and Lightning payments make different trade-offs. A Lightning wallet can be custodial or self-custodial, and a fast successful payment does not prove that a service is suitable for larger balances or every situation.
 
@@ -1489,7 +1493,7 @@ ASSET: assets/briefs/bd-v-058-brief.md
 
 Local bitcoiners may use wallets, exchanges, peer-to-peer markets, merchant tools, maps, meetups, hardware devices, and education resources. Availability and quality can change quickly.
 
-> **Callout – A local example is not a My First Bitcoin recommendation**
+> **Light - Check the local example**
 >
 > A local tool or service is a dated example for learning, not a promise of safety, availability, low cost, or suitability. Verify its source, custody model, recovery process, privacy, costs, compatibility, support, and current local status before real use.
 

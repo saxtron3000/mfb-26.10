@@ -2628,7 +2628,7 @@ Do not demonstrate a tool simply because it is popular locally. Use this compari
 | Law and records | Which local restrictions, consumer rules, tax, accounting, or reporting duties may matter? |
 | Alternative | What can learners use if the tool fails or is unavailable? |
 
-> **Callout – Local example, not a global recommendation**
+> **Dark - Local examples are not global recommendations**
 >
 > This tool is a dated local example for learning. Its use in class is not a global recommendation by My First Bitcoin or a promise that it will remain suitable.
 
@@ -2646,7 +2646,7 @@ Before a Lightning workshop, verify and explain:
 - how both parties independently confirm the result; and
 - the offline simulation.
 
-> **Callout – One successful Lightning payment proves only that this route worked once**
+> **Dark - One successful Lightning payment proves only that this route worked once**
 >
 > It does not prove that the wallet is safe for larger balances or that the same path will work in every place.
 
@@ -2943,15 +2943,17 @@ Use the optional [My First Bitcoin App](https://myfirstbitcoin.app/) self-check 
 
 ### Localize examples, not truth standards
 
-Use local examples to help learners see a shared concept. For each adaptation, ask:
-
-- Which competency does this serve?
-- Is the underlying concept unchanged?
-- Is the example accurate and current?
-- Does it create a political, legal, privacy, or safety risk?
-- Can learners participate without personal disclosure?
-- Does it imply a recommendation?
-- Does the assessment still produce equivalent evidence?
+> **Light - Localize the example, not the learning standard**
+>
+> Use local examples to help learners see a shared concept. For each adaptation, ask:
+>
+> - Which competency does this serve?
+> - Is the underlying concept unchanged?
+> - Is the example accurate and current?
+> - Does it create a political, legal, privacy, or safety risk?
+> - Can learners participate without personal disclosure?
+> - Does it imply a recommendation?
+> - Does the assessment still produce equivalent evidence?
 
 Document material changes so another educator can see what was localized and why.
 

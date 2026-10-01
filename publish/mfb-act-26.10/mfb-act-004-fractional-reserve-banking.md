@@ -20,7 +20,7 @@ Role-play simulation
 
 Participants role-play depositors and banks while recording [deposits](../mfb-lx-26.10.md#term-bank-deposit), reserves, and loans in a shared table. Starting with one lottery winner’s deposit, each loan becomes the next deposit so participants can calculate how [fractional reserve banking](../mfb-lx-26.10.md#term-fractional-reserve-banking) expands recorded balances and discuss reserve risk, [bank runs](../mfb-lx-26.10.md#term-bank-run), and moral hazard.
 
-> **Callout – This is a simplified classroom model**
+> **Dark - This is a simplified classroom model**
 >
 > The activity illustrates balance-sheet relationships and selected risks. It is not a complete description of modern banking, current reserve rules, or every cause of bank failure. Use it to ask questions, not to make universal claims.
 
