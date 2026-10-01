@@ -82,6 +82,12 @@ Future work may strengthen the system behind a meaningful certificate.
 - Maintain the October online PDF and web outputs in alignment with the approved source. Decide, test, and govern future online-cohort, self-paced, app-supported, and cross-modal instructional branches. Each must retain required competency standards, equivalent practice and evidence, accessibility, and a complete low-connectivity alternative where the competency does not require an interface.
 - Consider a technical demonstration bank and educator scripts for hashing, blocks, proof of work, mining, mempool observation, block pace, and halving, with offline alternatives. Use live tools for observation, not as a required dependency or source of fixed claims.
 
+### Activity-library completion after publication
+
+The published Activity Library is approved for October publication in its current form. Empty optional sections do not prevent an educator from completing an activity and are not a release blocker.
+
+After publication, complete the remaining activity fields and standardize the activity records where useful. Treat this as maintenance informed by educator use: retain the procedures that work, complete metadata and optional support fields, and prioritize improvements that make preparation, facilitation, learner outputs, educator look-fors, and low-tech alternatives easier to use. Do not imply that incomplete optional fields made the October activity library unusable.
+
 ### Automated link review and optional learning pathways
 
 Build a weekly link-review process from `20_links-internal.md` and `20_links-external.md`, where operationally possible. A bot or agent should run the routine checks, update review metadata, and alert a human owner to broken, redirected, changed, or unverified destinations. The bot or agent must not correct, replace, or remove a link without human approval. A failed optional further-learning link does not block publication, but it requires an important alert and a human-approved solution within 24 hours. Before automation is enabled, define the responsible owner, status fields, notification route, audit history, retry and false-positive handling, and escalation path. Automated availability checks do not replace a human judgement that a destination still suits its linked text, audience, language, safety boundary, and educational purpose.

@@ -4,12 +4,12 @@ This is the working list for the 2026.10 review. Start with the open items below
 
 ## What needs attention
 
-**18 of 33 actions are still open.** Start with the safety and certificated-delivery work, then clear the publication blockers.
+**17 of 33 actions are still open.** Start with the safety and certificated-delivery work, then clear the publication blockers.
 
 | Do this first | Why it matters | Tasks |
 |---|---|---|
 | Make delivery safe and ready to certify | Do this before a certificated delivery. | `ACT-022` Remove the unsafe wallet exercise; `ACT-002` align assessor scoring; `ACT-003` agree record and certificate rules. |
-| Make the materials ready to publish | Do this before release. | `ACT-009`, `ACT-011`, `ACT-023`, `ACT-024`, `ACT-028`, and `ACT-019`. |
+| Make the materials ready to publish | Do this before release. | `ACT-009`, `ACT-011`, `ACT-024`, `ACT-028`, and `ACT-019`. |
 | Improve and maintain the materials | Important, but does not by itself block release. | `ACT-007`, `ACT-010`, `ACT-013`, `ACT-021`, `ACT-025`, and `ACT-026`. |
 
 `ACT` means a task. `DEC` is a past decision kept for reference. `ANN` is an old reviewer note; it is not an approval or a current task.
@@ -27,7 +27,6 @@ Use this table to find the task. The detailed entry below has the supporting lin
 | ACT-003 | Agree record and certificate rules | Blocked | certificated delivery | — |
 | ACT-009 | Check public links | Needs checking | publication | ACT-006 |
 | ACT-011 | Review the optional self-check | Needs checking | publication | — |
-| ACT-023 | Make every activity usable | Open | publication | ACT-022 |
 | ACT-024 | Support claims in Activities 001 and 002 | Open | publication | — |
 | ACT-028 | Produce or explicitly defer every guide visual | Open | publication | ACT-013, EVO-002 for the app panel |
 | ACT-019 | Do the final publication check | Blocked | publication | ACT-009, ACT-011, ACT-013 |
@@ -87,7 +86,7 @@ Do not invent an approval, an owner, a test result, or a completed review. For e
 ## Recommended work order
 
 1. Fix the safety and certificated-delivery blockers: `ACT-022`, `ACT-002`, and `ACT-003`.
-2. Finish the publication blockers: `ACT-009`, `ACT-011`, `ACT-023`, `ACT-024`, and `ACT-028`.
+2. Finish the publication blockers: `ACT-009`, `ACT-011`, `ACT-024`, and `ACT-028`.
 3. Test the eight-hour route for a real class (`ACT-025`).
 4. Complete the remaining maintenance work, then run `ACT-019` as the final check.
 
@@ -274,9 +273,9 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
   - Status: complete | Owner: unassigned | Updated: 2026-09-30 | Severity: critical | Release impact: source correction complete; verify the deployed Resources Hub page during publication | Evidence: [CYN-001](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings) identified the unsafe prior procedure; [Activity 018](../publish/mfb-act-26.10/mfb-act-018-creating-your-first-bitcoin-wallet.md) now uses only a guided, nonfunctional or empty no-value training environment, placeholder recovery materials, and non-payable examples | Depends on: none | Completion evidence: every numbered step can be followed without creating, viewing, recording, sharing, restoring, or funding a learner wallet or real recovery secret; the learning-only boundary appears before the procedure; and the publication source will replace the prior Resources Hub route. Confirm the deployed page as part of final publication verification.
 
-- [ ] **ACT-023: Make every published activity usable.** Fill in or remove empty sections. Say what learners produce, what educators look for, and what to do when a device, video, website, or live tool is unavailable.
+- [x] **ACT-023: Make every published activity usable.** The Activity Library is approved for October publication in its current form. Complete remaining optional activity fields after publication.
 
-  - Status: open | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: [CYN-002](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings) reports 130 empty H2 sections, including 19 Duration sections, across 30 published activities | Depends on: ACT-022 | Completion evidence: no released activity has an empty operational section; each activity states the learner output and educator evidence; and every dependency has a stated fallback that an educator can use without inventing missing steps.
+  - Status: complete | Owner: unassigned | Updated: 2026-09-30 | Severity: high | Release impact: resolved by release decision | Evidence: [CYN-002](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings) records the historical empty-section finding; [activity-library completion after publication](../workspace/18_horizon.md#activity-library-completion-after-publication) records the approved post-publication follow-up | Depends on: none | Completion evidence: the Activity Library is approved for October publication; empty optional sections do not prevent educator delivery; and remaining field completion is retained as post-publication maintenance. The prior field-completeness acceptance criterion is superseded for this release.
 
 - [ ] **ACT-024: Make Activities 001 and 002 fair and well-supported.** Separate evidence from opinion, avoid overclaiming causes, and give learners enough context to consider limits and other explanations.
 
