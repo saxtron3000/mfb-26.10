@@ -84,6 +84,52 @@ Future work may strengthen the system behind a meaningful certificate.
 - Maintain the October online PDF and web outputs in alignment with the approved source. Decide, test, and govern future online-cohort, self-paced, app-supported, and cross-modal instructional branches. Each must retain required competency standards, equivalent practice and evidence, accessibility, and a complete low-connectivity alternative where the competency does not require an interface.
 - Consider a technical demonstration bank and educator scripts for hashing, blocks, proof of work, mining, mempool observation, block pace, and halving, with offline alternatives. Use live tools for observation, not as a required dependency or source of fixed claims.
 
+### Potential structured lexicon model
+
+**Status:** Horizon candidate. This is a potential post-release structure for the Lexicon, not a change to the published 2026.10 Lexicon.
+
+Develop the Lexicon from an alphabetical list of definitions into a navigable knowledge system. A professional entry should be more structured than a glossary definition, while remaining lighter than an encyclopedia article. Its purpose is to define a term precisely, establish its intended use, and connect it to the rest of the controlled vocabulary.
+
+A full entry could standardize these fields:
+
+1. term;
+2. part of speech;
+3. definition;
+4. plain-language explanation;
+5. usage or context;
+6. example;
+7. related terms;
+8. see also;
+9. not to be confused with, where needed; and
+10. source or editorial note, where formal attribution or a terminology decision is needed.
+
+Standardize relationship labels rather than placing an unstructured list of links at the end of each entry:
+
+| Relationship label | Use |
+| --- | --- |
+| **See also** | Closely related concepts worth reading next. |
+| **Broader term** | The category to which the term belongs. |
+| **Narrower terms** | More specific concepts within the term's category. |
+| **Related terms** | Connected concepts without a strict hierarchy. |
+| **Synonym / Also called** | Alternative terminology. |
+| **Contrast with** | A useful conceptual opposite or distinction. |
+| **Not to be confused with** | Similar-looking or similarly named terms with different meanings. |
+
+For learner-facing use, test a simpler visible sequence: **term → definition → explanation → example → connections**. Each connected term should link to its own stable Lexicon entry, using stable term IDs or anchors rather than line-number references. Retain fuller terminology, source, and editorial fields in the controlled source record where they would add unnecessary complexity for learners.
+
+Illustrative learner-facing pattern:
+
+> ### Private key
+>
+> **A secret piece of cryptographic information that allows bitcoin to be spent.**
+>
+> A Bitcoin wallet uses private keys to sign transactions. Whoever controls the necessary private keys can generally authorize spending, so they must be kept secure.
+>
+> **Example:** Your hardware wallet protects your private keys and uses them internally when you approve a transaction.
+>
+> **Related:** `Public key` · `Seed phrase` · `Wallet` · `Digital signature`  
+> **See also:** `Self-custody` · `Backup`
+
 ### Activity-library completion after publication
 
 The published Activity Library is approved for October publication in its current form. Empty optional sections do not prevent an educator from completing an activity and are not a release blocker.
