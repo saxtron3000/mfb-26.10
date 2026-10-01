@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Refresh guide traceability fields in the published Bitcoin lexicon.
 
-The guide columns record links from lines containing a listed term or alias to
-the matching section in the Student Guide or Educator Guide.
-Run with --check to print an audit or --patch to emit an apply_patch patch.
+Each guide reference requires a visible term or appropriate alias linked to the
+exact URL in the terms register. --check audits both words and destinations;
+--link-patch emits guide link repairs; --patch refreshes the reference tables.
 """
 
 from __future__ import annotations
@@ -25,8 +25,9 @@ ROW_RE = re.compile(r'^\| (.*?) \| (.*?) \| <a id="([^"]+)"></a>(.*?) \| (.*?) \
 EDUCATOR_ROW_RE = re.compile(r'^\| (.*?) \| (.*?) \| \[(.*?)\]\(#([^)]+)\) \| (.*?) \|$')
 TERMS_ROW_RE = re.compile(r"^\| (BD-LEX-\d+) \| (.*?) \| ")
 LEXICON_LINK_RE = re.compile(
-    r"\]\((?:\.\./mfb-lx-26\.10\.md#)?(term-[^)\s]+|BD-LEX-\d+|[a-z0-9]+(?:-[a-z0-9]+)*)\)"
+    r"\]\((?:(?:\.\./mfb-lx-26\.10\.md|https://programs\.myfirstbitcoin\.org/lexicon/en/)#)?(term-[^)\s]+|BD-LEX-\d+|[a-z0-9]+(?:-[a-z0-9]+)*)\)"
 )
+MARKDOWN_LINK_RE = re.compile(r"(?<!!)\[([^\[\]]+)\]\(([^)]+)\)")
 
 # Aliases that cannot be recovered reliably from display punctuation alone.
 EXTRA_ALIASES = {
@@ -39,6 +40,10 @@ EXTRA_ALIASES = {
     "term-sat": ["sats", "satoshis"],
     "term-seed-phrase": ["recovery words"],
     "term-transaction-id": ["txids"],
+    "term-central-bank": ["Federal Reserve"],
+    "term-satoshi-nakamoto": ["Satoshi"],
+    "term-lightning-liquidity": ["liquidity"],
+    "term-person-to-person-transaction": ["person-to-person Bitcoin transaction"],
 }
 
 # These lexicon labels use a source-term alias or a source definition rather
@@ -50,6 +55,7 @@ LEX_ID_OVERRIDES = {
     "term-transaction-id": "BD-LEX-220",
     "term-kyc": "BD-LEX-125",
     "term-no-kyc": "BD-LEX-158",
+    "term-lightning-liquidity": "BD-LEX-132",
 }
 
 # Some terms are deliberately nested under a parent entry in the terms file.
@@ -70,6 +76,9 @@ NESTED_TERM_IDS = {
 
 # These common words only count in their curriculum-specific sense.
 CONTEXT_RE = {
+    "term-liquidity": re.compile(r"\b(?:bank|banks|banking|deposit|deposits|withdrawals|cash)\b", re.I),
+    "term-lightning-liquidity": re.compile(r"\b(?:Lightning|channel|channels|routing)\b", re.I),
+    "term-difficulty": re.compile(r"\b(?:hash|proof|work|miner|miners|mining|target|adjustment)\b", re.I),
     "term-capital": re.compile(
         r"(?:\bbank(?:ing)?\b.{0,100}\bcapital\b|\bcapital\b.{0,100}\b(?:rules?|loss|funding|earnings|requirements?)\b)",
         re.I,
@@ -210,13 +219,26 @@ def searchable_lines(lines: list[str]) -> list[str]:
         else:
             # Retain Markdown link labels but remove destinations, where anchor
             # names and filenames could create false term matches.
-            output.append(re.sub(r"\[([^]]+)\]\([^)]*\)", r"\1", line))
+            output.append(visible_text(line)[0])
         if "-->" in line:
             in_comment = False
     return output
 
 
-def student_occurrences(entries: list[dict[str, str]], lines: list[str]) -> dict[str, list[int]]:
+def visible_text(line: str) -> tuple[str, list[int]]:
+    """Visible text plus source offsets, excluding Markdown URLs and markers."""
+    hidden = set()
+    for match in MARKDOWN_LINK_RE.finditer(line):
+        hidden.add(match.start())
+        hidden.update(range(match.end(1), match.end()))
+    for match in re.finditer(r"<[^>]*>|\*\*|(?<!\w)\*(?!\s)|(?<!\s)\*(?!\w)|`", line):
+        hidden.update(range(match.start(), match.end()))
+    offsets = [index for index in range(len(line)) if index not in hidden]
+    return "".join(line[index] for index in offsets), offsets
+
+
+def term_matches(entries: list[dict[str, str]], lines: list[str]) -> dict[int, list[tuple[int, int, str]]]:
+    """Select non-overlapping, sense-appropriate visible terms on each line."""
     aliases: dict[str, list[tuple[str, re.Pattern[str]]]] = {}
     for entry in entries:
         values = singular_aliases(entry["term"], entry["anchor"])
@@ -231,7 +253,7 @@ def student_occurrences(entries: list[dict[str, str]], lines: list[str]) -> dict
                 deduped.append((value, alias_pattern(value)))
         aliases[entry["anchor"]] = deduped
 
-    found: dict[str, list[int]] = defaultdict(list)
+    found = defaultdict(list)
     for line_number, line in enumerate(searchable_lines(lines), 1):
         candidates = []
         for entry in entries:
@@ -241,21 +263,161 @@ def student_occurrences(entries: list[dict[str, str]], lines: list[str]) -> dict
                 continue
             for alias, pattern in aliases[anchor]:
                 for match in pattern.finditer(line):
+                    if anchor == "term-target" and re.match(r"\s+(?:one|a|an|about|every)\b", line[match.end():], re.I):
+                        continue
+                    if anchor == "term-sat" and match.group() == "Satoshi":
+                        continue
+                    if anchor == "term-satoshi-nakamoto" and alias == "Satoshi" and match.group() != "Satoshi":
+                        continue
                     if anchor == "term-privacy" and PRIVACY_ATTRIBUTIVE.match(line, match.start()):
                         continue
                     candidates.append((match.start(), match.end(), len(match.group()), anchor, alias))
 
         # Prefer longer listed phrases when terms overlap on the same source text.
         occupied: list[tuple[int, int]] = []
-        accepted: set[str] = set()
         for start, end, length, anchor, alias in sorted(candidates, key=lambda item: (-item[2], item[0])):
             if any(start < used_end and end > used_start for used_start, used_end in occupied):
                 continue
             occupied.append((start, end))
-            accepted.add(anchor)
-        for anchor in accepted:
+            found[line_number].append((start, end, anchor))
+    return found
+
+
+def student_occurrences(entries: list[dict[str, str]], lines: list[str]) -> dict[str, list[int]]:
+    found = defaultdict(list)
+    for line_number, matches in term_matches(entries, lines).items():
+        for anchor in sorted({anchor for _, _, anchor in matches}):
             found[anchor].append(line_number)
     return found
+
+
+def term_register() -> dict[str, dict[str, str]]:
+    records = {}
+    for line in source_lines(TERMS):
+        columns = [column.strip() for column in line.split("|")]
+        if len(columns) == 7 and re.fullmatch(r"BD-LEX-\d+", columns[1]):
+            records[columns[1]] = {"term": columns[2], "slug": columns[4], "url": columns[5]}
+    return records
+
+
+def published_entries() -> list[dict[str, str]]:
+    entries = {}
+    for line in source_lines(LEXICON):
+        match = ROW_RE.match(line)
+        if match:
+            _, lex_id, anchor, term, definition = match.groups()
+            entries.setdefault(anchor, {"anchor": anchor, "term": term, "definition": definition})
+    values = list(entries.values())
+    ids = lex_ids(values)
+    for entry in values:
+        entry["lex_id"] = ids[entry["anchor"]]
+    return values
+
+
+def link_guides() -> dict[Path, str]:
+    """Emit guide changes without changing visible prose or line numbering."""
+    entries = published_entries()
+    register = term_register()
+    by_anchor = {entry["anchor"]: entry for entry in entries}
+    destination_ids = {entry["anchor"]: entry["lex_id"] for entry in entries}
+    destination_ids.update({lex_id: lex_id for lex_id in register})
+    destination_ids.update({record["slug"]: lex_id for lex_id, record in register.items()})
+    output = {}
+    for path in (STUDENT_GUIDE, EDUCATOR_GUIDE):
+        original = path.read_text(encoding="utf-8")
+        lines = original.splitlines()
+        matches = term_matches(entries, lines)
+        changed = []
+        for number, line in enumerate(lines, 1):
+            edits = []
+            existing = list(MARKDOWN_LINK_RE.finditer(line))
+            _, offsets = visible_text(line)
+            for link in existing:
+                target = link.group(2)
+                key = target.removeprefix("../mfb-lx-26.10.md#").removeprefix(
+                    "https://programs.myfirstbitcoin.org/lexicon/en/#"
+                )
+                if key in destination_ids:
+                    candidates = [(start, end, anchor) for start, end, anchor in matches[number]
+                                  if link.start(1) <= offsets[start] and offsets[end - 1] < link.end(1)]
+                    lex_id = destination_ids[key]
+                    if candidates:
+                        anchor = max(candidates, key=lambda item: item[1] - item[0])[2]
+                        lex_id = by_anchor[anchor]["lex_id"]
+                    edits.append((link.start(2), link.end(2), register[lex_id]["url"]))
+            if path == STUDENT_GUIDE:
+                for start, end, anchor in matches[number]:
+                    raw_start, raw_end = offsets[start], offsets[end - 1] + 1
+                    overlaps = [link for link in existing if raw_start < link.end() and raw_end > link.start()]
+                    if overlaps:
+                        if not all(link.group(2) in {record["url"] for record in register.values()}
+                                   and raw_start <= link.start(1) and link.end(1) <= raw_end for link in overlaps):
+                            continue
+                        raw_start = min(raw_start, *(link.start() for link in overlaps))
+                        raw_end = max(raw_end, *(link.end() for link in overlaps))
+                        label = visible_text(line)[0][start:end]
+                        edits = [edit for edit in edits if not (raw_start <= edit[0] and edit[1] <= raw_end)]
+                    else:
+                        label = line[raw_start:raw_end]
+                    url = register[by_anchor[anchor]["lex_id"]]["url"]
+                    edits.append((raw_start, raw_end, f"[{label}]({url})"))
+            for start, end, replacement in sorted(edits, reverse=True):
+                line = line[:start] + replacement + line[end:]
+            changed.append(line)
+        output[path] = "\n".join(changed) + ("\n" if original.endswith("\n") else "")
+    return output
+
+
+def linked_occurrences(entries: list[dict[str, str]], lines: list[str]) -> dict[str, list[int]]:
+    """Only record a term when its visible label links to its registered URL."""
+    register = term_register()
+    by_anchor = {entry["anchor"]: entry for entry in entries}
+    found = defaultdict(list)
+    for number, matches in term_matches(entries, lines).items():
+        line = lines[number - 1]
+        _, offsets = visible_text(line)
+        links = list(MARKDOWN_LINK_RE.finditer(line))
+        accepted = set()
+        for start, end, anchor in matches:
+            url = register[by_anchor[anchor]["lex_id"]]["url"]
+            if any(link.start(1) <= offsets[start] and offsets[end - 1] < link.end(1)
+                   and link.group(2) == url for link in links):
+                accepted.add(anchor)
+        for anchor in sorted(accepted):
+            found[anchor].append(number)
+    return found
+
+
+def audit_references() -> list[str]:
+    entries = published_entries()
+    ids = {entry["anchor"]: entry["lex_id"] for entry in entries}
+    sources = {"sg": source_lines(STUDENT_GUIDE), "eg": source_lines(EDUCATOR_GUIDE)}
+    linked = {key: linked_occurrences(entries, lines) for key, lines in sources.items()}
+    sections = {key: section_anchors(lines) for key, lines in sources.items()}
+    errors = []
+    reference_re = re.compile(r"\[(\d+)\]\(mfb-bd-26\.10/mfb-bd-(sg|eg)-26\.10\.md#([^)]*)\)")
+    for number, line in enumerate(source_lines(LEXICON), 1):
+        row = ROW_RE.match(line) or EDUCATOR_ROW_RE.match(line)
+        if not row:
+            continue
+        anchor = row.group(3) if ROW_RE.match(line) else row.group(4)
+        recorded_id = re.search(r"BD-LEX-\d+", row.group(2))
+        if not recorded_id or recorded_id.group() != ids[anchor]:
+            errors.append(f"Lexicon:{number}: incorrect LEX-ID for {anchor}")
+        reference = reference_re.search(row.group(1))
+        if not reference:
+            continue
+        source_number, guide, section = reference.groups()
+        source_number = int(source_number)
+        if source_number not in linked[guide][anchor]:
+            errors.append(f"Lexicon:{number}: {guide}:{source_number}: {anchor} lacks a matching term linked to its registered URL")
+        if sections[guide].get(source_number) != section:
+            errors.append(f"Lexicon:{number}: incorrect section anchor")
+    for entry in entries:
+        anchor = entry["anchor"]
+        if not linked["sg"][anchor] and not linked["eg"][anchor]:
+            errors.append(f"{anchor}: no verified reference in either guide")
+    return errors
 
 
 def github_slug(heading: str, used: dict[str, int]) -> str:
@@ -272,7 +434,7 @@ def github_slug(heading: str, used: dict[str, int]) -> str:
 
 
 def educator_links(
-    lines: list[str], link_target_to_anchor: dict[str, str]
+    lines: list[str], link_target_to_anchor: dict[str, str], entries: list[dict[str, str]] | None = None
 ) -> tuple[dict[str, list[int]], dict[int, str]]:
     links: dict[str, list[int]] = defaultdict(list)
     section_at_line: dict[int, str] = {}
@@ -282,8 +444,20 @@ def educator_links(
         if re.match(r"^#{1,6}\s+", line):
             current_section = github_slug(line, used)
         section_at_line[line_number] = current_section
-        for link_target in LEXICON_LINK_RE.findall(line):
+        for link in MARKDOWN_LINK_RE.finditer(line):
+            target_match = LEXICON_LINK_RE.search(link.group())
+            if not target_match:
+                continue
+            link_target = target_match.group(1)
             anchor = link_target_to_anchor.get(link_target)
+            if anchor and entries:
+                # Shared IDs (e.g. mining/proof of work) must follow the label.
+                lex_id = next(entry["lex_id"] for entry in entries if entry["anchor"] == anchor)
+                matching_entries = [entry for entry in entries if entry["lex_id"] == lex_id]
+                label_matches = term_matches(matching_entries, [link.group(1)])[1]
+                if not label_matches:
+                    continue
+                anchor = max(label_matches, key=lambda item: item[1] - item[0])[2]
             if anchor:
                 links[anchor].append(line_number)
     return links, section_at_line
@@ -384,7 +558,7 @@ def rebuild() -> tuple[str, dict[str, object]]:
         entry["lex_id"] = authoritative_lex_ids[entry["anchor"]]
     student_lines = source_lines(STUDENT_GUIDE)
     educator_lines = source_lines(EDUCATOR_GUIDE)
-    student_found = student_occurrences(entries, student_lines)
+    student_found = linked_occurrences(entries, student_lines)
     student_section_at_line = section_anchors(student_lines)
     lex_id_to_anchor = {entry["lex_id"]: entry["anchor"] for entry in entries}
     link_target_to_anchor = {entry["anchor"]: entry["anchor"] for entry in entries}
@@ -396,7 +570,8 @@ def rebuild() -> tuple[str, dict[str, object]]:
             if lex_id in lex_id_to_anchor
         }
     )
-    educator_found, section_at_line = educator_links(educator_lines, link_target_to_anchor)
+    educator_found = linked_occurrences(entries, educator_lines)
+    section_at_line = section_anchors(educator_lines)
 
     outdated_student = []
     outdated_educator = []
@@ -463,10 +638,12 @@ def rebuild() -> tuple[str, dict[str, object]]:
 
     dashboard_values = {
         "Lexicon entries": len(entries),
-        "Student Guide (SG) references": sum(len(LEXICON_LINK_RE.findall(line)) for line in student_lines),
+        "Student Guide (SG) references": sum(link.group(2) in {record["url"] for record in term_register().values()}
+                                           for line in student_lines for link in MARKDOWN_LINK_RE.finditer(line)),
         "Student Guide term entries found": sum(bool(student_found[entry["anchor"]]) for entry in entries),
         "Outdated Student Guide traces": len(outdated_student),
-        "Educator Guide (EG) references": sum(len(items) for items in educator_found.values()),
+        "Educator Guide (EG) references": sum(link.group(2) in {record["url"] for record in term_register().values()}
+                                            for line in educator_lines for link in MARKDOWN_LINK_RE.finditer(line)),
         "Educator Guide linked entries": sum(bool(educator_found[entry["anchor"]]) for entry in entries),
         "Outdated Educator Guide traces": len(outdated_educator),
     }
@@ -475,14 +652,47 @@ def rebuild() -> tuple[str, dict[str, object]]:
         if match and match.group(1) in dashboard_values:
             rebuilt_lines[line_number] = f"| {match.group(1)} | {dashboard_values[match.group(1)]} |"
 
+    material_counts = defaultdict(int)
+    registered_urls = {record["url"] for record in term_register().values()}
+    for path in (ROOT / "publish").rglob("*.md"):
+        if path in (LEXICON, TERMS):
+            continue
+        name = path.name
+        if path == STUDENT_GUIDE:
+            category = "Student Guide (SG) references"
+        elif path == EDUCATOR_GUIDE:
+            category = "Educator Guide (EG) references"
+        elif name.startswith("mfb-act-"):
+            category = "Activities (ACT) references"
+        elif name.startswith("mfb-adv-"):
+            category = "Advanced (ADV) references"
+        elif "assessment-grid" in name:
+            category = "Assessment grid references"
+        elif "-qs-" in name:
+            category = "Quick Start references"
+        elif name.startswith("mfb-ml-"):
+            category = "Microlearning references"
+        else:
+            continue
+        for line in source_lines(path):
+            for link in MARKDOWN_LINK_RE.finditer(line):
+                if link.group(2) in registered_urls or LEXICON_LINK_RE.search(link.group()):
+                    material_counts[category] += 1
+    for number, line in enumerate(rebuilt_lines):
+        match = re.match(r"^\| (.*?) \| ([0-9]+) \|$", line)
+        if match and match.group(1) in material_counts:
+            rebuilt_lines[number] = f"| {match.group(1)} | {material_counts[match.group(1)]} |"
+        if line.startswith("| **Published-material references**"):
+            rebuilt_lines[number] = f"| **Published-material references** | **{sum(material_counts.values())}** |"
+
     rebuilt = "\n".join(rebuilt_lines) + ("\n" if lexicon_text.endswith("\n") else "")
     report = {
         "entries": len(entries),
         "changed_rows": 0 if rebuilt == lexicon_text else 1,
         "student_entries_found": sum(bool(student_found[entry["anchor"]]) for entry in entries),
-        "student_direct_links": sum(len(LEXICON_LINK_RE.findall(line)) for line in student_lines),
+        "student_direct_links": dashboard_values["Student Guide (SG) references"],
         "educator_entries_linked": sum(bool(educator_found[entry["anchor"]]) for entry in entries),
-        "educator_direct_links": sum(len(items) for items in educator_found.values()),
+        "educator_direct_links": dashboard_values["Educator Guide (EG) references"],
         "outdated_student": outdated_student,
         "outdated_educator": outdated_educator,
         "newly_present_student": newly_present_student,
@@ -490,9 +700,11 @@ def rebuild() -> tuple[str, dict[str, object]]:
     return rebuilt, report
 
 
-def emit_patch(content: str) -> None:
-    relative = LEXICON.relative_to(ROOT)
-    current = LEXICON.read_text(encoding="utf-8")
+def emit_patch(content: str, path: Path = LEXICON) -> None:
+    relative = path.relative_to(ROOT)
+    current = path.read_text(encoding="utf-8")
+    if current == content:
+        return
     diff = list(
         difflib.unified_diff(
             current.splitlines(keepends=True),
@@ -513,7 +725,12 @@ def main() -> None:
     parser.add_argument("--patch", action="store_true", help="emit an apply_patch patch")
     parser.add_argument("--check", action="store_true", help="print the refresh audit")
     parser.add_argument("--diff", action="store_true", help="print the proposed unified diff")
+    parser.add_argument("--link-patch", action="store_true", help="emit canonical URL links for guide terms")
     args = parser.parse_args()
+    if args.link_patch:
+        for path, content in link_guides().items():
+            emit_patch(content, path)
+        return
     rebuilt, report = rebuild()
     if args.patch:
         emit_patch(rebuilt)
@@ -541,6 +758,12 @@ def main() -> None:
     print("Outdated Student entries: " + ", ".join(report["outdated_student"]))
     print("Outdated Educator entries: " + ", ".join(report["outdated_educator"]))
     print("Newly present Student entries: " + ", ".join(report["newly_present_student"]))
+    errors = audit_references()
+    print(f"Invalid source references: {len(errors)}")
+    for error in errors:
+        print(error)
+    if args.check and (errors or report["changed_rows"]):
+        raise SystemExit(1)
 
 
 if __name__ == "__main__":
