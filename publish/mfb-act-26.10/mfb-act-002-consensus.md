@@ -24,9 +24,9 @@ Participants first track a simple set of transactions, then compare a bank-contr
 
 ## Materials
 
-• Something for all participants to use to track, e.g., blank paper and pens
-• Calculators for participants are helpful, but not required
-• For online classes, participants can use spreadsheets
+- Something for all participants to use to track, e.g., blank paper and pens
+- Calculators for participants are helpful, but not required
+- For online classes, participants can use spreadsheets
 
 ## Setup
 

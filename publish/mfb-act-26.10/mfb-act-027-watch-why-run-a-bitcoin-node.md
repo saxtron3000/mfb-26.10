@@ -1,6 +1,6 @@
 # Watch: Why Every Bitcoiner Should Run Their Own Node
 ## Keywords
-**BitcoinNodes** **Self-Verification** **Decentralization** **Privacy**
+**Self-Verification** **Decentralization** **Privacy**
 
 ## Activity Type
 Video discussion
@@ -19,7 +19,7 @@ Participants watch the first five minutes of a video explaining what Bitcoin nod
 # Preparation
 
 ## Materials
-Internet access and video playback.
+- Internet access and video playback.
 
 ## Setup
 # Procedure

@@ -1,6 +1,6 @@
 # Is Bitcoin Sound Money?
 ## Keywords
-**Bitcoin** **Sound Money** **MonetaryProperties**
+**Bitcoin** **Sound Money**
 
 ## Activity Type
 Discussion
@@ -18,7 +18,7 @@ Participants return to the money comparison table and assess Bitcoin alongside c
 # Preparation
 
 ## Materials
-Money comparison table.
+- Money comparison table.
 
 ## Setup
 Return to the money comparison table from Chapter 2.

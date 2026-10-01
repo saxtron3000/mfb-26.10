@@ -18,7 +18,8 @@ Participants choose between a smaller reward immediately and a larger reward lat
 # Preparation
 
 ## Materials
-Small candies or chocolate; larger or more desirable candy.
+- Small candies or chocolate
+- Larger or more desirable candy
 
 ## Setup
 Explain the candy choice.

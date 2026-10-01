@@ -1,6 +1,6 @@
 # Watch: Explain Bitcoin to Complete Beginners
 ## Keywords
-**BitcoinBasics** **MonetaryProperties** **Decentralization**
+**Decentralization**
 
 ## Activity Type
 Video discussion
@@ -18,7 +18,7 @@ Participants watch a non-technical Bitcoin overview designed for complete beginn
 # Preparation
 
 ## Materials
-Internet access and video playback.
+- Internet access and video playback.
 
 ## Setup
 # Procedure

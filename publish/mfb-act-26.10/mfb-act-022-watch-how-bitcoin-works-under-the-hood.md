@@ -1,6 +1,6 @@
 # Watch: How Bitcoin Works under the Hood
 ## Keywords
-**Bitcoin Protocol** **Blockchain** **Transactions** **Mining**
+**Bitcoin protocol** **Blockchain** **Transactions** **Mining**
 
 ## Activity Type
 Video discussion
@@ -18,7 +18,7 @@ Participants watch “How Bitcoin Works under the Hood” to reinforce the techn
 # Preparation
 
 ## Materials
-Internet access and video playback.
+- Internet access and video playback.
 
 ## Setup
 # Procedure

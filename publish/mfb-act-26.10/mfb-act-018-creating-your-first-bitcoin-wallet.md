@@ -1,6 +1,6 @@
 # Creating Your First Bitcoin Wallet
 ## Keywords
-**Bitcoin Wallets** **Recovery Phrase** **Private Keys** **Self-Custody**
+**Bitcoin Wallet** **Recovery Phrase** **Private Key** **Self-Custody**
 
 ## Activity Type
 Guided practice
@@ -18,19 +18,48 @@ Participants follow a guided new-wallet or prepared restoration route to see how
 # Preparation
 
 ## Materials
-Phones or teacher-provided phones; Bitcoin wallet app; recovery phrase sheets for the restore option; [satoshis](../mfb-lx-26.10.md#term-sat) for the restore option.
+- Phones or teacher-provided devices
+- An educator-approved temporary wallet or simulation
+- Official instructions for the exact training wallet
+- An educator-prepared empty or simulated route for receiving and recovery practice
 
-If participants do not have cell phones, provide one for each student to borrow. For the restore option, download a wallet and add satoshis for each student.
+If participants do not have cell phones, provide a shared device, paper simulation, or educator demonstration. Do not require personal funds. Do not use a learner's personal wallet, recovery phrase, private key, password, or balance.
 
 ## Setup
-Choose either the new-wallet or time-limited restore-wallet option.
+Choose a new temporary-wallet route, an approved backup-check or recovery route, or an educator demonstration. Check the exact wallet's official instructions and compatibility before class. The temporary environment must be empty, simulated, or otherwise approved for low-stakes practice.
+
+> **Educator safety note**
+>
+> For safety, do not use any wallet, device, account, or recovery material used in this activity to hold funds. Learners should create any wallet intended to hold funds later, in a secure environment, by repeating the safe steps they have learned.
+
 # Procedure
-## Step 1
-New wallet: find the app in the iOS App Store or Google Play Store, open it, and record the 12- or 24-word recovery phrase in a safe place.
-## Step 2
-Confirm the recovery phrase in the correct order. If available, choose a secure password; the wallet creates a private key and first Bitcoin address.
-## Step 3
-Use the receive address to receive bitcoin. For restoration, select import/restore, enter the supplied 12-, 18-, or 24-word phrase in order, restore, and confirm the successful import.
+## Step 1: Establish the training boundary
+
+Explain that this is a temporary, empty, or simulated exercise. Learners may observe or use the prepared route; they do not need to create or disclose a personal wallet. State the rule before opening anything: a recovery phrase, private key, password, and other spending information must never be shown to the educator or another learner.
+
+## Step 2: Open the approved training route
+
+Using the official instructions for the exact training wallet, open the educator-approved temporary wallet or simulation. Confirm that the learner can identify the new-wallet and restore or recovery options. Do not assume that labels or screens match another wallet.
+
+## Step 3: Create or inspect a temporary wallet
+
+If using the new-wallet route, create only the prepared temporary wallet. If using a demonstration or recovery route, inspect the prepared wallet interface instead. Identify the receiving information and distinguish it from private spending information.
+
+## Step 4: Handle recovery information privately
+
+Follow the exact training wallet's official backup instructions in private. The learner handles any recovery information without reading it aloud, showing it on screen, photographing it, or giving it to the educator. The educator may verify that the learner followed the process, but never sees or records the secret.
+
+## Step 5: Rehearse the approved backup-check or recovery method
+
+Use only the educator-approved temporary or simulated method to check the backup or recovery path. Confirm compatibility before entering any recovery information, and stop if the learner cannot do the task privately or is unsure which environment is being used.
+
+## Step 6: Verify the expected receiving information or training history
+
+Identify the temporary wallet's receiving information. Use an educator demonstration, simulation, test environment, or approved low-stakes transfer to confirm the expected receiving information or training history. No personal funds are required.
+
+## Step 7: Close the temporary environment
+
+Confirm that no private information remains visible, then reset, clear, or return the temporary environment according to the prepared route. Do not ask learners to erase a personal wallet or anything containing their own funds.
 # Review
 ## Key Points
 Never share a private key or recovery phrase. Loss of the recovery phrase can prevent access to bitcoins.

@@ -1,6 +1,6 @@
 # Consensus Building in a Peer-to-Peer Network
 ## Keywords
-**Consensus** **Cryptography** **Peer-To-Peer Networks** **ByzantineFaultTolerance**
+**Consensus** **Cryptography** **Peer-to-peer network**
 
 ## Activity Type
 Simulation
@@ -16,7 +16,7 @@ Participants pass messages around a circle while selected participants alter or 
 # Preparation
 
 ## Materials
-Messages with encrypted and unencrypted instructions for “attack” or “do not attack.”
+- Messages with encrypted and unencrypted instructions for “attack” or “do not attack.”
 
 Select 3 or 4 participants as malicious [nodes](../mfb-lx-26.10.md#term-node) before class and assign them a cryptographic puzzle as homework in the previous class.
 

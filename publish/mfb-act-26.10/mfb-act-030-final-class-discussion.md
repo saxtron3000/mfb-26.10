@@ -18,7 +18,7 @@ Participants revisit the questions they answered in the first Chapter 1 activity
 # Preparation
 
 ## Materials
-Participants’ responses from the first Chapter 1 activity.
+- Participants’ responses from the first Chapter 1 activity.
 
 ## Setup
 Ask participants to answer again: Why do we need money? What is money? Who controls money? What gives money value?

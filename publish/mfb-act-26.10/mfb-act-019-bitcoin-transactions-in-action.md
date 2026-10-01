@@ -1,6 +1,6 @@
 # Bitcoin Transactions in Action
 ## Keywords
-**BitcoinTransactions** **TransactionValidation** **Nodes** **Miners**
+**Nodes** **Miners**
 
 ## Activity Type
 Role play
@@ -16,7 +16,10 @@ Participants role-play senders, receivers, nodes, and miners to create, verify, 
 # Preparation
 
 ## Materials
-Transaction notes; coins; approval tables; dice.
+- Transaction notes
+- Coins
+- Approval tables
+- Dice
 
 Assign participants the roles of sender, receiver, node, or miner.
 

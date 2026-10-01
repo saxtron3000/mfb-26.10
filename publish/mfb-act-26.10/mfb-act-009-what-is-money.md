@@ -1,6 +1,6 @@
 # What Is Money?
 ## Keywords
-**Money** **Value** **Monetary Properties** **Fiat Money**
+**Money** **Value** **Fiat Money**
 
 ## Activity Type
 Discussion
@@ -18,7 +18,8 @@ Participants decide whether to trade a piece of candy for a US$1 bill or a $1 Mo
 # Preparation
 
 ## Materials
-Monopoly bills or counterfeit bills of the country’s currency; one piece of candy per student.
+- Monopoly bills or counterfeit bills of the country’s currency
+- One piece of candy per student
 
 Place a piece of candy on each student’s desk.
 

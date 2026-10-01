@@ -1,6 +1,6 @@
 # Watch: Future of Bitcoin: Lightning Network
 ## Keywords
-**Lightning Network** **BitcoinPayments** **PaymentRouting**
+**Lightning Network**
 
 ## Activity Type
 Video discussion
@@ -18,7 +18,7 @@ Participants watch “Future of Bitcoin: Lightning Network” on the Hard Money 
 # Preparation
 
 ## Materials
-Internet access and video playback.
+- Internet access and video playback.
 
 ## Setup
 # Procedure

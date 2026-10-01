@@ -1,6 +1,6 @@
 # Barter Game
 ## Keywords
-**Barter** **Commodity Money** **CoincidenceOfWants**
+**Barter** **Commodity Money** **Double Coincidence of Wants**
 
 ## Activity Type
 Game
@@ -19,7 +19,8 @@ Participants trade paper cards showing goods they have and goods they want, atte
 # Preparation
 
 ## Materials
-Paper sheets cut into rectangles; macaroni.
+- Paper sheets cut into rectangles
+- Macaroni
 
 Prepare cards showing each student’s “have” and “want.”
 

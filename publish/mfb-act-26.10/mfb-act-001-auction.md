@@ -1,7 +1,7 @@
 # Activity Title: Auction
 
 ## Keywords
-**Inflation** **Money Supply**
+**Monetary Inflation** **Price Inflation** **Money Supply** **Auctions**
 
 ## Activity Type
 Auction
@@ -24,10 +24,10 @@ Students take part in a three-round auction using Monopoly money, candy bars, an
 
 ## Materials
 
-• 1x set of Monopoly money
-• 3+ candy bars (or other rewards)
-• Whiteboard or projector / screen
-• Calculators for students
+- 1x set of Monopoly money
+- 3+ candy bars (or other rewards)
+- Whiteboard or projector / screen
+- Calculators for students
 
 ## Setup
 

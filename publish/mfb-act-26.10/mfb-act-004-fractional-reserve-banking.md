@@ -1,7 +1,7 @@
 # Activity Title: Fractional Reserve Banking
 
 ## Keywords
-**Fractional Reserve Banking** **Bank Deposits** **Lending** **Money Supply**
+**Fractional Reserve Banking** **Bank Deposit** **Lending** **Money Supply**
 
 ## Activity Type
 Role-play simulation
@@ -24,8 +24,8 @@ Participants role-play depositors and banks while recording [deposits](../mfb-lx
 
 ## Materials
 
-• Whiteboard or projector / screen
-• Calculators for participants
+- Whiteboard or projector / screen
+- Calculators for participants
 
 ## Setup
 
@@ -121,20 +121,32 @@ Highlight that the “total money” has increased to $271,000.
 | Person F |  |  |  |  |  |  |  |
 | Money Supply | 100,000 | 90,000 | 81,000 |  |  |  | 271,000 |
 
-## Steps 4–7: Fast Forward
+## Step 4: The Third Loan
 
-**If the participants have absorbed the ideas well, or if you’re short on time, you can “fast forward” to the final table.**
+Ask Bank 3 to calculate the loan from Person C's $81,000 deposit. With a 10% reserve, Bank 3 keeps $8,100 and lends $72,900 to Person D.
 
-**Otherwise, repeat the previous steps with Persons D, E and F and Banks 4, 5 and 6.**
+Ask Person D to deposit the $72,900 with Bank 4. Update the table and confirm that the recorded total is now $343,900.
 
-Highlight that the “total money” has increased to $468,559.
+## Step 5: The Fourth Loan
+
+Ask Bank 4 to calculate the loan from Person D's $72,900 deposit. With a 10% reserve, Bank 4 keeps $7,290 and lends $65,610 to Person E.
+
+Ask Person E to deposit the $65,610 with Bank 5. Update the table and confirm that the recorded total is now $409,510.
+
+## Step 6: The Fifth Loan
+
+Ask Bank 5 to calculate the loan from Person E's $65,610 deposit. With a 10% reserve, Bank 5 keeps $6,561 and lends $59,049 to Person F.
+
+Ask Person F to deposit the $59,049 with Bank 6. Update the table and highlight that the recorded total is now $468,559.
+
+If participants have already understood the repeated pattern or time is short, the educator may provide the final values for Steps 4–6 and ask learners to check the reserve and loan calculation for one of them.
 
 | 10% Reserve | Bank 1 | Bank 2 | Bank 3 | Bank 4 | Bank 5 | Bank 6 | Total |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | Person A | 100,000 |  |  |  |  |  | 100,000 |
 | Person B |  | 90,000 |  |  |  |  | 90,000 |
 | Person C |  |  | 81,000 |  |  |  | 81,000 |
-| Person D |  |  |  | 72,000 |  |  | 72,000 |
+| Person D |  |  |  | 72,900 |  |  | 72,900 |
 | Person E |  |  |  |  | 65,610 |  | 65,610 |
 | Person F |  |  |  |  |  | 59,049 | 59,049 |
 | Money Supply | 100,000 | 90,000 | 81,000 |  |  |  | 468,559 |

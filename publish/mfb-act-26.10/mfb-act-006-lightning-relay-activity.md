@@ -1,7 +1,7 @@
 # Activity Title: Lightning Relay Race
 
 ## Keywords
-**Lightning Network** **Lightning Invoices** **Payment Routing** **Sats**
+**Lightning Network** **Lightning Invoice** **Sats**
 
 ## Activity Type
 Payment relay
@@ -24,9 +24,9 @@ Participants work in small groups to create [Lightning invoices](../mfb-lx-26.10
 
 ## Materials
 
-• Participants will need access to a [Lightning wallet](../mfb-lx-26.10.md#term-bitcoin-wallet), ideally their own. If they do not have phones, find assistants willing to use their phones in class.
-• Internet access.
-• Sats loaded on a Lightning wallet for you to start the relay.
+- Participants will need access to a [Lightning wallet](../mfb-lx-26.10.md#term-bitcoin-wallet), ideally their own. If they do not have phones, find assistants willing to use their phones in class.
+- Internet access.
+- Sats loaded on a Lightning wallet for you to start the relay.
 
 ## Setup
 

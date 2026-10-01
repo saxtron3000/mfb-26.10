@@ -24,13 +24,11 @@ Participants simulate Bitcoin transactions with color-coded [wallets](../mfb-lx-
 
 ## Materials
 
-This activity can be done with just a whiteboard or a spreadsheet projected on a screen. With this method, there are no additional materials needed.
-
-This activity can also be done with physical items which may be more impactful for younger audiences.
-
-• Color paper (4 – 6 colors) (representing wallets)
-• 21 poker chips, coins, or other material (representing sats)
-• Whiteboard or projector screen (for tracking transactions)
+- A whiteboard or a spreadsheet projected on a screen. With this method, there are no additional materials needed.
+- For a physical version, which may be more impactful for younger audiences:
+  - Color paper (4 – 6 colors) (representing wallets)
+  - 21 poker chips, coins, or other material (representing sats)
+  - Whiteboard or projector screen (for tracking transactions)
 
 ## Setup
 

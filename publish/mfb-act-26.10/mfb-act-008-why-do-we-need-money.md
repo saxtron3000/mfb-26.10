@@ -1,6 +1,6 @@
 # Why Do We Need Money?
 ## Keywords
-**Money** **Barter** **Exchange** **FunctionsOfMoney**
+**Money** **Barter** **Exchange**
 
 ## Activity Type
 Game and discussion
@@ -19,7 +19,10 @@ This foundational activity is especially well suited to younger audiences. Parti
 # Preparation
 
 ## Materials
-Monopoly money; simple “have” and “want” cards or classroom tokens representing goods and services; a small task card for each student; a board or paper to record results.
+- Monopoly money
+- Simple “have” and “want” cards or classroom tokens representing goods and services
+- A small task card for each student
+- A board or paper to record results
 
 Prepare a “have” and “want” card for each student. Make some wants deliberately difficult to match. Choose a quick, equal classroom task, such as sorting materials, solving a short puzzle, or tidying a shared area. Decide on a simple price for each good or service in the money round.
 

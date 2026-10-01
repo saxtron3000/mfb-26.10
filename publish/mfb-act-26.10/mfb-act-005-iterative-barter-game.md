@@ -1,7 +1,7 @@
 # Activity Title: Iterative Barter Game
 
 ## Keywords
-**Barter** **Double Coincidence Of Wants** **Saleability** **Money**
+**Barter** **Double Coincidence of Wants** **Saleability** **Money**
 
 ## Activity Type
 Trading game
@@ -24,11 +24,11 @@ Participants trade playing cards across three rounds that progressively change w
 
 ## Materials
 
-• Standard playing cards
+- Standard playing cards
   - Recommendation = 1 deck for every 5 participants
-• Board or screen to display instructions
-• Paper, Excel or other method to track results
-• Name cards to label team tables, e.g., “ACES” (optional)
+- Board or screen to display instructions
+- Paper, Excel or other method to track results
+- Name cards to label team tables, e.g., “ACES” (optional)
 
 ## Setup
 

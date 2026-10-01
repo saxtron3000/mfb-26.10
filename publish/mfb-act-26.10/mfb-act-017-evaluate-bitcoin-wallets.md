@@ -1,6 +1,6 @@
 # Evaluate Bitcoin Wallets
 ## Keywords
-**Bitcoin Wallets** **Custody** **Recovery** **WalletTrade-Offs**
+**Bitcoin Wallet** **Custody** **Recovery**
 
 ## Activity Type
 Research and discussion
@@ -18,7 +18,8 @@ Participants examine prepared, locally relevant Bitcoin and Lightning [wallet](.
 # Preparation
 
 ## Materials
-Prepared wallet information in print or digital form. Internet access is optional for checking current local information.
+- Prepared wallet information in print or digital form.
+- Internet access, if checking current local information.
 
 ## Setup
 # Procedure

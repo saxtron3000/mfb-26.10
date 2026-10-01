@@ -24,9 +24,9 @@ Participants use mempool.space to inspect recent blocks, transactions, fees, inp
 
 ## Materials
 
-• You will need a screen and access to the internet so you can project mempool.space for the entire class to watch and use together.
+- You will need a screen and access to the internet so you can project mempool.space for the entire class to watch and use together.
 
-• Alternatively, you can direct participants to access mempool.space on their personal phones or computers.
+- Alternatively, you can direct participants to access mempool.space on their personal phones or computers.
 
 ## Setup
 

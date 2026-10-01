@@ -1,6 +1,6 @@
 # Watch: How Money & Banking Work
 ## Keywords
-**Money** **Banking** **Credit** **MonetarySystem**
+**Money** **Banking** **Credit**
 
 ## Activity Type
 Video discussion
@@ -18,7 +18,7 @@ Participants watch “How Money & Banking Work” by Lyn Alden to reinforce the 
 # Preparation
 
 ## Materials
-Internet access and video playback.
+- Internet access and video playback.
 
 ## Setup
 # Procedure

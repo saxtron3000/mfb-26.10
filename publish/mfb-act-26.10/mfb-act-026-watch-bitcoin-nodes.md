@@ -1,6 +1,6 @@
 # Watch: How To Setup Bitcoin Core
 ## Keywords
-**BitcoinNodes** **BlockValidation** **Bitcoin Core** **Blockchain**
+**Bitcoin Core** **Blockchain**
 
 ## Activity Type
 Video discussion
@@ -18,7 +18,7 @@ Participants watch “How To Setup Bitcoin Core,” a video about setting up Bit
 # Preparation
 
 ## Materials
-Internet access and video playback.
+- Internet access and video playback.
 
 ## Setup
 # Procedure

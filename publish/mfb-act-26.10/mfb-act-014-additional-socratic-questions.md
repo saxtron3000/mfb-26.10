@@ -1,6 +1,6 @@
 # Additional Socratic Questions
 ## Keywords
-**Fiat Money** **Decentralization** **CriticalThinking** **MonetarySystems**
+**Fiat Money** **Decentralization**
 
 ## Activity Type
 Socratic discussion

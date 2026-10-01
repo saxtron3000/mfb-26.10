@@ -1,6 +1,6 @@
 # Alternative Time Preference Questions for Discussion
 ## Keywords
-**Time Preference** **Saving** **Consumption** **InterestRates**
+**Time Preference** **Saving** **Consumption**
 
 ## Activity Type
 Discussion

@@ -1,6 +1,6 @@
 # Consequences of the Fiat System
 ## Keywords
-**Fiat Money** **MonetaryPolicy** **SocialConsequences** **HistoricalExamples**
+**Fiat Money**
 
 ## Activity Type
 Socratic discussion

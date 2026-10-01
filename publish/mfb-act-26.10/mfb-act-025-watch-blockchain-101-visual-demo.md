@@ -1,6 +1,6 @@
 # Watch: Blockchain 101 – A Visual Demo
 ## Keywords
-**Blockchain** **Blocks** **Hashes** **TransactionHistory**
+**Blockchain** **Blocks** **Hashes**
 
 ## Activity Type
 Video discussion
@@ -19,7 +19,7 @@ Participants watch most or all of “Blockchain 101 – A Visual Demo” as a vi
 # Preparation
 
 ## Materials
-Internet access and video playback.
+- Internet access and video playback.
 
 ## Setup
 # Procedure

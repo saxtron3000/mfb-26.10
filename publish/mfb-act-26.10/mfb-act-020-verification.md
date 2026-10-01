@@ -1,6 +1,6 @@
 # Verification
 ## Keywords
-**Proof Of Work** **Mining** **Verification** **BitcoinNodes**
+**Proof of work** **Mining** **Verification**
 
 ## Activity Type
 Demonstration
@@ -19,7 +19,7 @@ Participants repeatedly roll dice to model [miners](../mfb-lx-26.10.md#term-mine
 # Preparation
 
 ## Materials
-At least six dice or an online dice-rolling tool.
+- At least six dice or an online dice-rolling tool.
 
 Choose a starting target for rolls, such as three or more dice showing 1.
 

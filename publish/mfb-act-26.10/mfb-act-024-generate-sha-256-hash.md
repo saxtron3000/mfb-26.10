@@ -1,6 +1,6 @@
 # Generate SHA-256 Hash
 ## Keywords
-**SHA-256** **Hashing** **Digital Signatures** **TransactionIntegrity**
+**SHA-256** **Hashing** **Digital signature**
 
 ## Activity Type
 Online exercise
@@ -18,7 +18,7 @@ Participants use an online SHA-256 generator to hash a message, repeat the same 
 # Preparation
 
 ## Materials
-Internet access.
+- Internet access.
 
 ## Setup
 Explain that hashing turns a digital message into a fixed-length code that acts as a unique identifier.

@@ -1,6 +1,6 @@
 # Watch: Bitcoin Is Generational Wealth
 ## Keywords
-**Bitcoin** **Saving** **Long-TermThinking** **GenerationalWealth**
+**Bitcoin** **Saving**
 
 ## Activity Type
 Video discussion
@@ -18,7 +18,7 @@ Participants watch “Bitcoin Is Generational Wealth,” a short film by Matt Ho
 # Preparation
 
 ## Materials
-Internet access and video playback.
+- Internet access and video playback.
 
 ## Setup
 # Procedure

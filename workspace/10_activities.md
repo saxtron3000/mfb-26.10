@@ -22,6 +22,8 @@ Activities must be connected to the Diploma's teach–practise–assess path:
 4. Ask learners to explain, decide, apply, or reflect.
 5. Review the connection to the wider Diploma and capture evidence only where the activity is approved for assessment.
 
+This is a learning rhythm, not a fixed procedure length. Use the number of procedure steps that makes the learner action clear and workable: a short discussion may need two, while a simulation or safety practice may need five or more.
+
 An activity can be formative, educator-evaluated theoretical evidence, or a directly observed practical assessment task. Those roles must be explicit. Attendance, participation, app use, confidence, or completion of a worksheet alone is not assessment evidence.
 
 ## Design principles
