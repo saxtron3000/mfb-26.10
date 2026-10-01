@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Refresh guide traceability fields in the published Bitcoin lexicon.
 
-The Student Guide column records lines containing a listed term or alias. The
-Educator Guide column records direct Markdown links to each lexicon anchor.
+The guide columns record links from lines containing a listed term or alias to
+the matching section in the Student Guide or Educator Guide.
 Run with --check to print an audit or --patch to emit an apply_patch patch.
 """
 
@@ -17,11 +17,13 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 LEXICON = ROOT / "publish/mfb-lx-26.10.md"
+TERMS = ROOT / "publish/mfb-lx-26.10-terms.md"
 STUDENT_GUIDE = ROOT / "publish/mfb-bd-26.10/mfb-bd-sg-26.10.md"
 EDUCATOR_GUIDE = ROOT / "publish/mfb-bd-26.10/mfb-bd-eg-26.10.md"
 
-ROW_RE = re.compile(r'^\| (.*?) \| <a id="([^"]+)"></a>(.*?) \| (.*?) \| (.*?) \|$')
-EDUCATOR_ROW_RE = re.compile(r'^\| (.*?) \| \[(.*?)\]\(#([^)]+)\) \| (.*?) \|$')
+ROW_RE = re.compile(r'^\| (.*?) \| (.*?) \| <a id="([^"]+)"></a>(.*?) \| (.*?) \|$')
+EDUCATOR_ROW_RE = re.compile(r'^\| (.*?) \| (.*?) \| \[(.*?)\]\(#([^)]+)\) \| (.*?) \|$')
+TERMS_ROW_RE = re.compile(r"^\| (BD-LEX-\d+) \| (.*?) \| ")
 LEXICON_LINK_RE = re.compile(r"\]\(\.\./mfb-lx-26\.10\.md#([^)\s]+)\)")
 
 # Aliases that cannot be recovered reliably from display punctuation alone.
@@ -35,6 +37,22 @@ EXTRA_ALIASES = {
     "term-sat": ["sats", "satoshis"],
     "term-seed-phrase": ["recovery words"],
     "term-transaction-id": ["txids"],
+}
+
+# These lexicon labels use a source-term alias or a source definition rather
+# than the exact canonical term label in mfb-lx-26.10-terms.md.
+LEX_ID_OVERRIDES = {
+    "term-sat": "BD-LEX-192",
+    "term-mining": "BD-LEX-182",
+    "term-deposit-money": "BD-LEX-012",
+    "term-inflation": "BD-LEX-119",
+    "term-price-inflation": "BD-LEX-119",
+    "term-cbdc": "BD-LEX-051",
+    "term-validating-node": "BD-LEX-099",
+    "term-double-spend-problem": "BD-LEX-083",
+    "term-transaction-id": "BD-LEX-220",
+    "term-kyc": "BD-LEX-125",
+    "term-no-kyc": "BD-LEX-158",
 }
 
 # These common words only count in their curriculum-specific sense.
@@ -68,6 +86,36 @@ def strip_markdown(value: str) -> str:
     value = value.replace("**", "").replace("*", "").replace("`", "")
     value = value.replace("“", "").replace("”", "").replace('"', "")
     return re.sub(r"\s+", " ", value).strip()
+
+
+def normalized_term(value: str) -> str:
+    return re.sub(r"\s+", " ", strip_markdown(value)).casefold()
+
+
+def lex_ids(entries: list[dict[str, str]]) -> dict[str, str]:
+    """Map each published lexicon anchor to its authoritative BD-LEX-ID."""
+    terms_by_name = {}
+    for line in source_lines(TERMS):
+        match = TERMS_ROW_RE.match(line)
+        if match:
+            lex_id, term = match.groups()
+            terms_by_name[normalized_term(term)] = lex_id
+
+    ids = {}
+    for entry in entries:
+        anchor = entry["anchor"]
+        if anchor in LEX_ID_OVERRIDES:
+            ids[anchor] = LEX_ID_OVERRIDES[anchor]
+            continue
+        matches = {
+            terms_by_name[normalized_term(alias)]
+            for alias in singular_aliases(entry["term"], anchor)
+            if normalized_term(alias) in terms_by_name
+        }
+        if len(matches) != 1:
+            raise ValueError(f"Could not determine one LEX-ID for {anchor}: {sorted(matches)}")
+        ids[anchor] = matches.pop()
+    return ids
 
 
 def singular_aliases(term_cell: str, anchor: str) -> list[str]:
@@ -210,9 +258,26 @@ def educator_links(lines: list[str]) -> tuple[dict[str, list[int]], dict[int, st
     return links, section_at_line
 
 
-def format_student_rows(lines: list[int], old_values: list[str]) -> list[str]:
+def section_anchors(lines: list[str]) -> dict[int, str]:
+    """Return the containing GitHub-style heading anchor for every source line."""
+    section_at_line: dict[int, str] = {}
+    used: dict[str, int] = defaultdict(int)
+    current_section = ""
+    for line_number, line in enumerate(lines, 1):
+        if re.match(r"^#{1,6}\s+", line):
+            current_section = github_slug(line, used)
+        section_at_line[line_number] = current_section
+    return section_at_line
+
+
+def format_student_rows(
+    lines: list[int], section_at_line: dict[int, str], old_values: list[str]
+) -> list[str]:
     if lines:
-        return [str(line) for line in dict.fromkeys(lines)]
+        return [
+            f"[{line}](mfb-bd-26.10/mfb-bd-sg-26.10.md#{section_at_line[line]})"
+            for line in dict.fromkeys(lines)
+        ]
     if any(value.startswith("**Outdated:") for value in old_values):
         return ["**Outdated:** no match in current Student Guide"]
     return ["Not present"]
@@ -229,11 +294,19 @@ def format_educator_rows(
     return []
 
 
+def line_reference_number(value: str) -> int:
+    """Extract a source-line number from a Markdown traceability link."""
+    match = re.match(r"\[(\d+)\]", value)
+    if not match:
+        return float("inf")
+    return int(match.group(1))
+
+
 def rebuild() -> tuple[str, dict[str, object]]:
     lexicon_text = LEXICON.read_text(encoding="utf-8")
     lexicon_lines = lexicon_text.splitlines()
-    student_header = "| Student Guide line(s) | Word or phrase | LEX-ID | Beginner definition |"
-    educator_header = "| Educator Guide Guide Line | Word or phrase | Beginner definition |"
+    student_header = "| Student Guide line(s) | LEX-ID | Word or phrase | Beginner definition |"
+    educator_header = "| Educator Guide Guide Line | LEX-ID | Word or phrase | Beginner definition |"
     student_header_index = lexicon_lines.index(student_header)
     educator_header_index = lexicon_lines.index(educator_header)
     entries_by_anchor = {}
@@ -243,7 +316,7 @@ def rebuild() -> tuple[str, dict[str, object]]:
     for line_number, line in enumerate(lexicon_lines, 1):
         match = ROW_RE.match(line)
         if match:
-            student, anchor, term, lex_id, definition = match.groups()
+            student, lex_id, anchor, term, definition = match.groups()
             if anchor not in entries_by_anchor:
                 entries_by_anchor[anchor] = {
                     "line_number": line_number,
@@ -257,13 +330,13 @@ def rebuild() -> tuple[str, dict[str, object]]:
             entries_by_anchor[anchor]["student_values"].append(student)
         educator_match = EDUCATOR_ROW_RE.match(line)
         if educator_match:
-            educator, term, anchor, definition = educator_match.groups()
+            educator, lex_id, term, anchor, definition = educator_match.groups()
             if anchor not in entries_by_anchor:
                 entries_by_anchor[anchor] = {
                     "line_number": line_number,
                     "anchor": anchor,
                     "term": term,
-                    "lex_id": "",
+                    "lex_id": lex_id,
                     "definition": definition,
                     "student_values": [],
                 }
@@ -275,30 +348,42 @@ def rebuild() -> tuple[str, dict[str, object]]:
         anchor for anchor in educator_order if anchor not in entries_by_anchor or anchor not in student_order
     ]
     entries = [entries_by_anchor[anchor] for anchor in ordered_anchors]
+    authoritative_lex_ids = lex_ids(entries)
+    for entry in entries:
+        entry["lex_id"] = authoritative_lex_ids[entry["anchor"]]
     student_lines = source_lines(STUDENT_GUIDE)
     educator_lines = source_lines(EDUCATOR_GUIDE)
     student_found = student_occurrences(entries, student_lines)
+    student_section_at_line = section_anchors(student_lines)
     educator_found, section_at_line = educator_links(educator_lines)
 
     outdated_student = []
     outdated_educator = []
     newly_present_student = []
-    student_table = [student_header, "| --- | --- | --- | --- |"]
-    educator_table = [educator_header, "| --- | --- | --- |"]
+    student_rows_to_sort: list[tuple[int, str]] = []
+    educator_rows_to_sort: list[tuple[int, str]] = []
     for entry in entries:
-        student_rows = format_student_rows(student_found[entry["anchor"]], entry["student_values"])
+        student_rows = format_student_rows(
+            student_found[entry["anchor"]], student_section_at_line, entry["student_values"]
+        )
         educator_rows = format_educator_rows(
             educator_found[entry["anchor"]], section_at_line, educator_values[entry["anchor"]]
         )
         for student in student_rows:
-            student_table.append(
-                f'| {student} | <a id="{entry["anchor"]}"></a>{entry["term"]} | '
-                f'{entry["lex_id"]} | {entry["definition"]} |'
+            student_rows_to_sort.append(
+                (
+                    line_reference_number(student),
+                    f'| {student} | {entry["lex_id"]} | '
+                    f'<a id="{entry["anchor"]}"></a>{entry["term"]} | {entry["definition"]} |',
+                )
             )
         for educator in educator_rows:
-            educator_table.append(
-                f'| {educator} | [{entry["term"]}](#{entry["anchor"]}) | '
-                f'{entry["definition"]} |'
+            educator_rows_to_sort.append(
+                (
+                    line_reference_number(educator),
+                    f'| {educator} | {entry["lex_id"]} | '
+                    f'[{entry["term"]}](#{entry["anchor"]}) | {entry["definition"]} |',
+                )
             )
         if student_rows and student_rows[0].startswith("**Outdated:"):
             outdated_student.append(entry["anchor"])
@@ -306,6 +391,13 @@ def rebuild() -> tuple[str, dict[str, object]]:
             newly_present_student.append(entry["anchor"])
         if educator_rows and educator_rows[0].startswith("**Outdated:"):
             outdated_educator.append(entry["anchor"])
+
+    student_table = [student_header, "| --- | --- | --- | --- |"] + [
+        row for _, row in sorted(student_rows_to_sort)
+    ]
+    educator_table = [educator_header, "| --- | --- | --- | --- |"] + [
+        row for _, row in sorted(educator_rows_to_sort)
+    ]
 
     student_end = student_header_index + 2
     while student_end < len(lexicon_lines) and ROW_RE.match(lexicon_lines[student_end]):
