@@ -1,107 +1,83 @@
-# Activity Title: Lightning Relay Race
+# Lightning payment relay
 
 ## Keywords
+
 **Lightning Network** **Lightning Invoice** **Sats**
 
-## Activity Type
-Payment relay
+## Activity type
+
+Live Lightning payment relay
 
 ## Participation
 
+Small groups or whole class.
+
 ## Duration
 
-**45 minutes**
+30–45 minutes
 
 ## Objective
 
-- Participants practice the basic steps of receiving and sending a Lightning payment in a prepared or simulated environment.
+- Participants use real Lightning wallets and a low-stakes real payment to practise the information checks involved in a Lightning payment relay.
 
-# Description
+## Description
 
-Participants work in small groups to create [Lightning invoices](../mfb-lx-26.10.md#term-lightning-invoice) or QR codes, receive a small payment, and relay [sats](../mfb-lx-26.10.md#term-sat) to the next participant. The activity uses a prepared, low-stakes or simulated environment and ends with reflection on setup, payment speed, [routing](../mfb-lx-26.10.md#term-lightning-routing), fees, and the experience of sending and receiving sats.
+Participants create fresh Lightning invoices, receive a small real payment, and relay the funds to the next participant. Before every payment, they check the invoice, amount, unit, destination, expiry, and status. The activity supports a discussion of routing, fees, and payment failure through the actual payment experience.
 
-# Preparation
+> **Callout – Use real wallets and funds only for this learning activity**
+>
+> Before beginning, follow the [Educator Guide's live-practice guidance](../mfb-bd-26.10/mfb-bd-eg-26.10.md#separate-training-wallets-from-personal-wallets): make the route and risks clear, use an amount whose loss is not significant, make participation voluntary, protect every secret and unnecessary payment detail, and define stop conditions. Use educator-prepared funds where possible. Do not pressure learners to use their own funds or turn this into a recommendation of a wallet or service.
 
-## Materials
+## Preparation
 
-- Participants will need access to a [Lightning wallet](../mfb-lx-26.10.md#term-bitcoin-wallet), ideally their own. If they do not have phones, find assistants willing to use their phones in class.
-- Internet access.
-- Sats loaded on a Lightning wallet for you to start the relay.
+### Materials
 
-## Setup
+- An educator-checked Lightning wallet and connection for each participating sender and receiver.
+- A small amount of real bitcoin that the educator has approved for the activity, including enough for any expected fees.
+- A planned relay order and a final return destination.
+- A paper tracking sheet and pencils for learning observations, not wallet or personal financial information.
 
-There is nothing to set up other than having your Lightning wallet ready to go with some sats to start the relay.
+### Setup
 
-Select a Lightning wallet only for the prepared local learning environment; do not present it as a global recommendation. Prefer a well-established [open-source](../mfb-lx-26.10.md#term-open-source-software) option where appropriate, and compare [custody](../mfb-lx-26.10.md#term-custody), recovery, inspectability, compatibility, [privacy](../mfb-lx-26.10.md#term-privacy), cost, maintenance, and support before deciding. Verify that the selected tool works correctly in your region and prepare a simulation or no-wallet route.
+Test the exact wallet, network, invoice process, amount, and receipt path before class. State who provides the funds, whether any fee applies, the relay order, the intended final destination, the expected result, and when to stop. Do not screen-share or collect a learner's wallet details.
 
-Prepare a backup route and verify it in your region. A backup may be another checked wallet, a prepared educator-controlled environment, or a no-value simulation. Also verify how current [on-chain transaction fees](../mfb-lx-26.10.md#term-transaction-fee) affect the tools used in the activity.
+## Procedure
 
-Explain to participants the Lightning wallet download and setup process. The instructions for installing a wallet are in the Lightning chapter.
+### Step 1: Create and check the first Lightning invoice
 
-Reassure them you will guide them through the installation prompts, like creating a new wallet versus restoring an existing one.
+The first receiver creates a fresh Lightning invoice for the educator-approved amount. The sender checks the destination, amount, unit, expiry, and network before approving. If any required detail is unclear or mismatched, stop.
 
-Once everyone has a wallet, you will start to send sats to each other!
+### Step 2: Send and confirm receipt
 
-The goal is for each student to both receive and send sats. For large classes, divide participants into groups. They will send sats to everyone within their group.
+The sender approves the payment on their own device. The receiver checks the result on their own device. Neither learner needs to show a seed phrase, private key, password, full balance, or payment history. Record only the learning observation needed for the activity.
 
-# Procedure
+### Step 3: Relay the real payment
 
-## Step 1: The First Payment
+The receiver becomes the next sender. Continue until every planned participant has received and sent the educator-approved amount. The final participant returns the funds to the planned destination. If a payment fails, pause to understand the message; do not retry by guessing or changing details without understanding why.
 
-As the teacher, you will start oﬀ each group by sending the first payment.
+### Step 4: Debrief the live payment
 
-Ask one student in the first group to generate a Lightning invoice, address, or QR code to receive bitcoin.
+Discuss the actual result, any fee, the information checked before approval, the limits of what the wallet display shows, and why a successful small payment does not make a wallet suitable for significant funds. Compare a Lightning payment path with an on-chain confirmation without claiming that one is always better.
 
-Then send them 21 sats.
+## Review
 
-Once they verify that they received the sats, tell them to relay those sats to the next person in their group. Remind them that the goal is for everyone to both receive and send sats.
+### Key points
 
-Move to the other groups to get them started as well.
+1. A payment request needs careful checks before action, including destination, amount, unit, network, and status.
+2. Lightning payments can fail for reasons such as an expired request or an unavailable route. A failure is a reason to pause and understand the message, not to guess.
+3. A carefully supervised low-stakes live payment can teach checks and trade-offs. It does not make a learner ready to use a wallet with significant funds.
 
-**If the amount of sats available to send is less than 21, use the opportunity to discuss payment routing fees. Tell them to max out how much of the 21 they can send.**
+### Discussion questions
 
-## Step 2: Route More Payments
+1. Which details did your group check before approving the payment?
+2. What did the actual payment result show, and what did it not show?
+3. What should someone do when a payment request is unclear or fails?
+4. Which questions would need local, current information before a future real payment is considered?
 
-Walk from group to group to ensure the Lightning relay is going smoothly.
+## Notes
 
-Verify all participants are participating. Remember the goal is for every student to receive and send.
+**Diploma assessment link:** This activity is formative unless the educator has selected an approved practical route. It may support discussion of payment-path trade-offs for [`T3` / `C5`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show), and it may support directly observed practical learning, only when the educator uses the approved protocol and records an individual explanation or performance. It is not an assessment route for significant funds.
 
-## Step 3: Discussion Time
+## Additional resources
 
-Once everyone in the class has successfully sent and received a Lightning payment, the last person in the relay sends the sats back to the teacher.
-
-Then lead an open discussion about their experience.
-
-# Review
-
-## Key Points
-
-1. **Using a Lightning wallet will build your confidence to receive and send real sats.**
-2. Pay attention to units. Some wallets allow users to send bitcoin OR sats (1/100,000,000 of a bitcoin).
-3. Lightning payments can sometimes get hung up in routing, especially for larger payments. Although possible, this kind of user experience is becoming less common as the network matures.
-
-## Discussion questions
-
-• Were there any diﬃculties setting up your wallet?
-• Was sending a payment easy?
-• How fast were payments?
-• Did you notice how expensive / inexpensive payments were to route?
-• What is hard to understand about the Lightning Network? What is easy?
-
-# Notes
-
-**Diploma assessment link:** May support [`T3` / `C5`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show) and, after approved safety adaptation, [`P6a` / `C6`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show). As written, it is not a certificated task: use a prepared low-stakes or simulated environment and never require real funds, a personal wallet, or a learner-owned device.
-
-The technical skill level of your participants will affect how long it takes to conduct the Lightning Relay. Consider pairing more technical participants with less-technical participants so they can help one another.
-
-Plan on spending half your activity time assisting participants in setting up their Lightning wallets.
-
-# Additional Resources
-
-## VIDEO
-
-[**“Lightning Network” / “Bitcoin Lightning Network Explained: How it Actually Works”**](https://youtu.be/yKdK-7AtAMQ) by CuriousInvestor on YouTube uses animation and analogies to explain Lightning.
-
-## BOOK
-
-[**“A Look at the Lightning Network”**](https://www.lynalden.com/lightning-network) by Lyn Alden goes deep into how Lightning is helping Bitcoin move from a store of value to a medium of exchange.
+- [Lightning Network overview](https://lightning.network/) is background reading for educators. Verify current technical and local-service information before any live activity.

@@ -14,23 +14,24 @@ Video discussion
 
 - Participants distinguish the roles of a Bitcoin node, a miner, and a wallet.
 
-# Description
+## Description
 Participants watch the first five minutes of a video explaining what Bitcoin nodes are and why running one may matter. The educator stops before the setup instructions and emphasizes that nodes are neither [miners](../mfb-lx-26.10.md#term-miner) nor [wallets](../mfb-lx-26.10.md#term-bitcoin-wallet): they independently run the [Bitcoin protocol](../mfb-lx-26.10.md#term-bitcoin-protocol) and maintain an updated [blockchain](../mfb-lx-26.10.md#term-blockchain) copy.
-# Preparation
+## Preparation
 
-## Materials
+### Materials
 - Internet access and video playback.
 
 ## Setup
 # Procedure
 ## Step 1
 Open the video.
-## Step 2
+### Step 2
 Watch only the first five minutes, then stop when the speaker begins explaining setup.
-## Step 3
+### Step 3
 Emphasize that nodes are not miners or wallets: they run the Bitcoin protocol and maintain an updated copy of the blockchain.
-# Review
-## Key Points
+## Review
+
+### Key points
 Nodes help ensure the network is decentralized and secure.
 ## Discussion questions
 

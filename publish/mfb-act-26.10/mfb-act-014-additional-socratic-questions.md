@@ -2,7 +2,7 @@
 ## Keywords
 **Fiat Money** **Decentralization**
 
-## Activity Type
+## Activity type
 Socratic discussion
 
 ## Participation
@@ -13,7 +13,7 @@ Socratic discussion
 
 - Participants examine how critical thinking and decentralization can shape their understanding of money systems.
 
-# Description
+## Description
 Participants use Socratic questions to examine education, self-directed learning, centralized power, decentralization, and Bitcoin. The discussion asks participants to consider whether an informed public can evaluate the money system and why decentralized systems may be difficult for those in power to control.
 # Preparation
 
@@ -23,14 +23,15 @@ Participants use Socratic questions to examine education, self-directed learning
 # Procedure
 ## Step 1
 Discuss whether people in power under fiat money favor an educated citizenry that understands the money system.
-## Step 2
+### Step 2
 Discuss self-education, learning how to learn, and critical thinking.
-## Step 3
+### Step 3
 Ask whether those in power can stop the use of decentralized money such as Bitcoin, and discuss why decentralization matters.
-# Review
-## Key Points
+## Review
+
+### Key points
 The desired teaching ideas are the value of educating yourself and why decentralization matters.
-## Discussion questions
+### Discussion questions
 Can those in power stop anyone from using decentralized money?
 # Notes
 

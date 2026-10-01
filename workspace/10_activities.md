@@ -35,13 +35,13 @@ Every activity should:
 - fit the relevant module and prerequisite knowledge;
 - invite active participation rather than add a long lecture or dense explanation;
 - preserve learner safety, privacy, autonomy, and the project's Bitcoin-only, non-advisory boundaries;
-- work without a required personal device, app, named service, account, internet connection, or real funds;
+- work without a required personal device, app, named service, account, internet connection, or real funds, unless the activity is explicitly designed as an educator-approved low-stakes live-wallet activity;
 - include an equivalent low-tech route when it relies on media, software, connectivity, or a live tool;
 - allow local examples and Module 4 adaptation without changing required competency standards;
 - distinguish evergreen concepts from current, local, or tool-dependent claims that need checking; and
 - include an educator debrief that corrects likely misconceptions and reconnects the activity to the module.
 
-An educator may select a real wallet and appropriately low-stakes real funds for a learning activity when that makes the process clearer. Follow the [Educator Guide's live-practice guidance](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#separate-training-wallets-from-personal-wallets): explain the route and risks, make participation voluntary, protect secrets and unnecessary payment information, define stop conditions, and provide an equivalent no-funds route. Do not require a learner to use personal funds or a particular wallet or service.
+An educator may select a real wallet and appropriately low-stakes real funds for a learning activity when that makes the process clearer. Follow the [Educator Guide's live-practice guidance](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#separate-training-wallets-from-personal-wallets): explain the route and risks, make participation voluntary, protect secrets and unnecessary payment information, and define stop conditions. Do not require a learner to use personal funds or a particular wallet or service.
 
 Activities should be concise and purposeful. They should protect time for learner explanation, practice, safety, review, feedback, and required assessment before optional extensions or advanced detail.
 
