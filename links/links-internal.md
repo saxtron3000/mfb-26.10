@@ -35,10 +35,10 @@ This index contains 28 destinations on `myfirstbitcoin.org` and its subdomains. 
 | W002 | [Bitcoin Education Network](https://leaderboard.myfirstbitcoin.org) | [https://leaderboard.myfirstbitcoin.org](https://leaderboard.myfirstbitcoin.org) | SG: 23, 1418, 1458; EG: 360, 365, 2980 | Pending | |
 | W004 | [Introduction to Bitcoin (ITB)](https://myfirstbitcoin.org/learn/programs#intro) | [https://myfirstbitcoin.org/learn/programs#intro](https://myfirstbitcoin.org/learn/programs#intro) | SG: 85, 85; EG: 360, 362 | Pending | |
 | W005 | [Educator Training Program (ETP)](https://etp.myfirstbitcoin.org/) | [https://etp.myfirstbitcoin.org/](https://etp.myfirstbitcoin.org/) | SG: 85, 85, 159, 1420, 1438, 1448, 1460, 1460; EG: 360, 364, 371, 2982 | Pending | |
-| W006 | [contribute feedback](https://forms.myfirstbitcoin.org/feedback) | [https://forms.myfirstbitcoin.org/feedback](https://forms.myfirstbitcoin.org/feedback) | SG: 159, 1420, 1436, 1444 | Pending | |
+| W006 | [contribute feedback](https://forms.myfirstbitcoin.org/feedback) | [https://forms.myfirstbitcoin.org/feedback](https://forms.myfirstbitcoin.org/feedback) | SG: 159, 1420, 1436, 1444; ACT: 001–030, template footer | Pending | |
 | W011 | [My First Bitcoin dashboard](https://leaderboard.myfirstbitcoin.org/?min10merchants=1) | [https://leaderboard.myfirstbitcoin.org/?min10merchants=1](https://leaderboard.myfirstbitcoin.org/?min10merchants=1) | SG: 1300 | Pending | |
 | W012 | [Maps and community directories](https://programs.myfirstbitcoin.org/resources/?search=map) | [https://programs.myfirstbitcoin.org/resources/?search=map](https://programs.myfirstbitcoin.org/resources/?search=map) | SG: 1352 | Pending | |
-| W013 | [proofread a resource](https://forms.myfirstbitcoin.org/proofread) | [https://forms.myfirstbitcoin.org/proofread](https://forms.myfirstbitcoin.org/proofread) | SG: 1420, 1434, 1442 | Pending | |
+| W013 | [proofread a resource](https://forms.myfirstbitcoin.org/proofread) | [https://forms.myfirstbitcoin.org/proofread](https://forms.myfirstbitcoin.org/proofread) | SG: 1420, 1434, 1442; ACT: 001–030, template footer | Pending | |
 | W014 | [Volunteer](https://forms.myfirstbitcoin.org/volunteer) | [https://forms.myfirstbitcoin.org/volunteer](https://forms.myfirstbitcoin.org/volunteer) | SG: 1435, 1440 | Pending | |
 | W015 | [Contribute to the Resources Hub](https://forms.myfirstbitcoin.org/) | [https://forms.myfirstbitcoin.org/](https://forms.myfirstbitcoin.org/) | SG: 1446, 1466 | Pending | |
 | W016 | [share a student testimonial](https://forms.myfirstbitcoin.org/testimonial-student) | [https://forms.myfirstbitcoin.org/testimonial-student](https://forms.myfirstbitcoin.org/testimonial-student) | SG: 1454 | Pending | |
@@ -46,7 +46,7 @@ This index contains 28 destinations on `myfirstbitcoin.org` and its subdomains. 
 | W018 | [My First Bitcoin Leaderboard](https://leaderboard.myfirstbitcoin.org/) | [https://leaderboard.myfirstbitcoin.org/](https://leaderboard.myfirstbitcoin.org/) | SG: 1468 | Pending | |
 | W019 | [myfirstbitcoin.org](https://myfirstbitcoin.org/) | [https://myfirstbitcoin.org/](https://myfirstbitcoin.org/) | SG: 1491 | Pending | |
 | W020 | [programs.myfirstbitcoin.org/programs/bitcoin-diploma](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/) | [https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/) | SG: 1492; EG: 7 | Pending | |
-| W023 | [Resources Hub](https://programs.myfirstbitcoin.org/resources/) | [https://programs.myfirstbitcoin.org/resources/](https://programs.myfirstbitcoin.org/resources/) | EG: 2754 | Pending | |
+| W023 | [Resources Hub](https://programs.myfirstbitcoin.org/resources/) | [https://programs.myfirstbitcoin.org/resources/](https://programs.myfirstbitcoin.org/resources/) | EG: 2754; ACT: 001–030, template footer | Pending | |
 | W024 | [Iterative Barter Game](https://programs.myfirstbitcoin.org/activities/en/iterative-barter-game/) | [https://programs.myfirstbitcoin.org/activities/en/iterative-barter-game/](https://programs.myfirstbitcoin.org/activities/en/iterative-barter-game/) | EG: 2762 | Pending | |
 | W025 | [Why Do We Need Money?](https://programs.myfirstbitcoin.org/activities/en/) | [https://programs.myfirstbitcoin.org/activities/en/](https://programs.myfirstbitcoin.org/activities/en/) | EG: 2762, 2762, 2764, 2765, 2765, 2767 | Pending | |
 | W026 | [Consensus](https://programs.myfirstbitcoin.org/activities/en/consensus/) | [https://programs.myfirstbitcoin.org/activities/en/consensus/](https://programs.myfirstbitcoin.org/activities/en/consensus/) | EG: 2764, 2765 | Pending | |
@@ -59,3 +59,14 @@ This index contains 28 destinations on `myfirstbitcoin.org` and its subdomains. 
 | W033 | [student journey](https://journey.myfirstbitcoin.org/) | [https://journey.myfirstbitcoin.org/](https://journey.myfirstbitcoin.org/) | SG: 85; EG: 367 | Pending | |
 | W034 | [Bitcoin Diploma AI assistant](https://ai.myfirstbitcoin.org) | [https://ai.myfirstbitcoin.org](https://ai.myfirstbitcoin.org) | SG: 1414, 1551; EG: 1092, 2139, 2610, 3313 | Pending | |
 | W035 | [Donate to My First Bitcoin](https://donate.myfirstbitcoin.org/) | [https://donate.myfirstbitcoin.org/](https://donate.myfirstbitcoin.org/) | SG: 1524 | Pending | |
+
+## Shared activity footer links
+
+All published activities (001–030) and the activity template use the following footer links. The GitHub project is an external destination, retained in [the external index](links-external.md) as W022 and listed here so the footer can be reviewed as one unit.
+
+| Index record | Linked text | Destination | Source scope |
+| --- | --- | --- | --- |
+| W006 | [share feedback](https://forms.myfirstbitcoin.org/feedback) | [https://forms.myfirstbitcoin.org/feedback](https://forms.myfirstbitcoin.org/feedback) | ACT: 001–030, template footer |
+| W013 | [proofread it](https://forms.myfirstbitcoin.org/proofread) | [https://forms.myfirstbitcoin.org/proofread](https://forms.myfirstbitcoin.org/proofread) | ACT: 001–030, template footer |
+| W022 (external index) | [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum) | [https://github.com/MyFirstBitcoin/mfb-curriculum](https://github.com/MyFirstBitcoin/mfb-curriculum) | ACT: 001–030, template footer |
+| W023 | [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/) | [https://programs.myfirstbitcoin.org/resources/](https://programs.myfirstbitcoin.org/resources/) | ACT: 001–030, template footer |

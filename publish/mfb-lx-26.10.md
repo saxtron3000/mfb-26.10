@@ -35,9 +35,10 @@ The Educator Guide column links to the section containing the first linked use a
 
 | Word or phrase | Beginner definition | Student Guide line(s) | Educator Guide use |
 | --- | --- | --- | --- |
-| <a id="term-barter"></a>**Barter** | The direct exchange of one good or service for another without using money. | First: **97**<br>Later: 269, 293, 295, 299, 301, 327, 334, 463, 470 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#competency-to-evidence-crosswalk); 13 linked mentions |
+| <a id="term-barter"></a>**Barter / bartering** | The direct exchange of one good or service for another without using money. | First: **97**<br>Later: 269, 293, 295, 299, 301, 327, 334, 463, 470 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#competency-to-evidence-crosswalk); 13 linked mentions |
 | <a id="term-double-coincidence-of-wants"></a>**Double coincidence of wants** | The barter problem in which each person must want what the other offers at the same time. | First: **293**<br>Later: 299 | No linked use |
 | <a id="term-most-saleable-good"></a>**Most saleable good** | The good that people are most willing to accept in exchange because they expect others will accept it too. | Not present | No linked use |
+| <a id="term-auction"></a>**Auction** | A process in which goods or assets are sold to the highest bidder. | Not present | No linked use |
 
 ### Scarcity, value, and exchange
 
@@ -46,6 +47,9 @@ The Educator Guide column links to the section containing the first linked use a
 | <a id="term-subjective-value"></a>**Subjective value** | The idea that value depends on a person’s needs, preferences, information, and circumstances. | Not present | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#bitcoin-as-sound-digital-money); 1 linked mention |
 | <a id="term-opportunity-cost"></a>**Opportunity cost** | The best alternative given up when a choice is made. | First: **321**<br>Later: 432 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#suggested-two-hour-flow); 3 linked mentions |
 | <a id="term-time-preference"></a>**Time preference** | How strongly someone prefers value now rather than later. | First: **322**<br>Later: — | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#scarcity-value-and-exchange); 2 linked mentions |
+| <a id="term-supply-and-demand"></a>**Supply and demand** | The relationship between how much of something is available and how much people want it, which can influence its price. | Not present | No linked use |
+| <a id="term-time-value-of-money"></a>**Time value of money** | The idea that receiving money now and receiving the same amount later can have different value. | Not present | No linked use |
+| <a id="term-trade-off"></a>**Trade-off** | A choice that gains one benefit while accepting a cost or giving up another benefit. | Not present | No linked use |
 
 ### Beginner monetary history from barter to modern money
 
@@ -65,6 +69,9 @@ The Educator Guide column links to the section containing the first linked use a
 | <a id="term-by-decree"></a>**“By decree”** | By an official order from an authority. | First: **350**<br>Later: — | No linked use |
 | <a id="term-account-claim"></a>**Account claim** | A recorded promise that an institution owes the account holder money or another asset. | Not present | No linked use |
 | <a id="term-bank-deposit"></a>**Bank deposit** | Money recorded as a claim on a commercial bank, rather than physical cash held separately for the customer. | First: **344**<br>Later: 379, 504 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#strong-module-1-questions); 4 linked mentions |
+| <a id="term-central-bank"></a>**Central bank (Fed)** | A public institution that manages a country’s monetary policy. The U.S. central bank is commonly called the Federal Reserve, or Fed. | Not present | No linked use |
+| <a id="term-capital-controls"></a>**Capital controls** | Restrictions on moving money across borders. | Not present | No linked use |
+| <a id="term-exchange-rate"></a>**Exchange rate** | The value of one currency in relation to another. | Not present | No linked use |
 | <a id="term-network-effect"></a>**Network effect** | A situation in which something becomes more useful as more people use it. | First: **352**<br>Later: — | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#why-the-us-dollar-is-a-reserve-currency); 3 linked mentions |
 
 ### Fractional reserve banking
@@ -87,6 +94,7 @@ The Educator Guide column links to the section containing the first linked use a
 | <a id="term-qualified-borrower"></a>**Qualified borrower** | A borrower who meets a lender’s standards for a loan. | First: **379**<br>Later: — | No linked use |
 | <a id="term-bank-capital-rules"></a>**Bank capital rules** | Rules requiring banks to fund risks with capital that can absorb losses. | Not present | No linked use |
 | <a id="term-bank-regulation"></a>**Bank regulation** | Rules and supervision that govern banks. | Not present | No linked use |
+| <a id="term-restrictive-banking"></a>**Restrictive banking** | Restrictions or limitations on banking services or access to banking services. | Not present | No linked use |
 | <a id="term-bank-profit"></a>**Bank profit** | Income remaining after a bank’s costs and losses. | Not present | No linked use |
 | <a id="term-deposit-insurance"></a>**Deposit insurance** | A system that protects eligible bank deposits up to stated limits if a bank fails. | First: **390**<br>Later: — | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#local-banking-discussion); 1 linked mention |
 | <a id="term-gearing"></a>**Gearing** | Using borrowed money or obligations to increase the size of assets or financial exposure. | Not present | No linked use |
@@ -107,7 +115,11 @@ The Educator Guide column links to the section containing the first linked use a
 | <a id="term-monetary-expansion"></a>**Monetary expansion** | An increase in the amount of money or credit in circulation. | Not present | No linked use |
 | <a id="term-secondary-effects"></a>**Secondary effects** | Later indirect effects caused by an initial economic change. | Not present | No linked use |
 | <a id="term-inflation-basket"></a>**Inflation basket** | A selected group of goods and services used to measure average price changes. | Not present | No linked use |
+| <a id="term-basket-of-goods"></a>**Basket of goods** | A collection of goods and services used to measure changes in the cost of living. | Not present | No linked use |
 | <a id="term-cantillon-effect"></a>**Cantillon Effect** | The idea that new money can affect people differently depending on who receives and spends it first. | Not present | No linked use |
+| <a id="term-gdp"></a>**GDP** | Gross domestic product: the total value of goods and services produced in a country during a given period. | Not present | No linked use |
+| <a id="term-imports"></a>**Imports** | Goods and services produced in another country and sold in the domestic market. | Not present | No linked use |
+| <a id="term-monetary-and-fiscal-policy"></a>**Monetary and fiscal policy** | Central-bank and government policies, respectively, that can influence money, taxation, spending, and interest rates. | Not present | No linked use |
 
 ### CBDCs as a beginner fiat-system example
 
@@ -122,6 +134,7 @@ The Educator Guide column links to the section containing the first linked use a
 | <a id="term-currency"></a>**Currency** | Money used by a country or within a monetary system. | First: **275**<br>Later: 340, 342, 344, 350, 352, 365, 366, 373, 400, 402, 412, 414, 416, 418, 432, 486, 556, 693, 699, 713, 721, 1038, 1217, 1230, 1332, 1337 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#local-verification-record); 17 linked mentions |
 | <a id="term-asset"></a>**Asset** | Something a person or institution owns that may provide use, income, or future value. | First: **257**<br>Later: 275, 291, 325, 342, 388, 394, 404, 427, 430, 432, 434, 436, 494, 653, 673, 675, 683, 707, 713, 715, 719, 723, 725, 727, 729, 731, 1257 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#competency-to-evidence-crosswalk); 21 linked mentions |
 | <a id="term-bond"></a>**Bond** | A debt security: the buyer lends money to a government or organization in return for promised repayment, usually with interest. | First: **432**<br>Later: — | No linked use |
+| <a id="term-debt"></a>**Debt** | Money that is owed to someone else. | Not present | No linked use |
 
 ## Module 2: How Bitcoin Works
 
@@ -134,6 +147,7 @@ The Educator Guide column links to the section containing the first linked use a
 | <a id="term-bitcoin-network"></a>**Bitcoin network** | The independent computers and participants that operate Bitcoin under the same rules. | First: **494**<br>Later: 563, 572, 719, 746, 836, 961 | No linked use |
 | <a id="term-bitcoin-protocol"></a>**Bitcoin protocol** | The shared technical rules that Bitcoin participants use to validate and relay activity. | Not present | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#users-nodes-miners-developers-and-services); 2 linked mentions |
 | <a id="term-bitcoin-service"></a>**Bitcoin service** | A separate business or tool that uses the Bitcoin network. | Not present | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#users-nodes-miners-developers-and-services); 2 linked mentions |
+| <a id="term-censorship-resistance"></a>**Censorship resistance** | The ability to use Bitcoin without a government, bank, or corporation being able to decide which valid transactions may be sent. | Not present | No linked use |
 
 ### The search for digital and decentralized money
 
@@ -143,6 +157,11 @@ The Educator Guide column links to the section containing the first linked use a
 | <a id="term-encryption"></a>**Encryption** | Transforming information so only an authorized party can read it. | First: **500**<br>Later: — | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#17-quick-terminology-and-misconception-sensitive-distinctions); 2 linked mentions |
 | <a id="term-digital-signature"></a>**Digital signature** | A mathematical proof created with a private key that authorizes a message or transaction. | First: **490**<br>Later: 500, 531, 574, 576, 762, 789, 842, 850, 1530 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#explain-the-combined-response); 3 linked mentions |
 | <a id="term-cypherpunk"></a>**Cypherpunk** | A person who uses or advocates cryptography and open technology to protect privacy and freedom. | First: **498**<br>Later: 502 | No linked use |
+| <a id="term-digital-asset"></a>**Digital asset** | A digital representation of value that can be transferred or used as a store of value. | Not present | No linked use |
+| <a id="term-distributed-ledger"></a>**Distributed ledger** | A record of transactions that is shared across multiple computers instead of being kept in one central location. | Not present | No linked use |
+| <a id="term-permissionless"></a>**Permissionless** | Open to anyone who can use the rules without needing approval from a central gatekeeper. | Not present | No linked use |
+| <a id="term-trust-minimization"></a>**Trust minimization** | Reducing reliance on third parties by enabling people to verify rules and transactions independently. | Not present | No linked use |
+| <a id="term-trustless"></a>**Trustless** | Describes a system designed to reduce the need to trust a third party by relying on verifiable rules. | Not present | No linked use |
 
 ### Early digital-money attempts and the double-spend problem
 
@@ -161,9 +180,11 @@ The Educator Guide column links to the section containing the first linked use a
 | <a id="term-proof-of-work"></a>**Proof of work** | The process miners use to compete to propose blocks by performing costly computation. | First: **490**<br>Later: 514, 532, 534, 542, 598, 600, 615, 617, 623, 632, 782, 789 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#t2--bitcoin-explanation-rule-and-role-map-and-asset-comparison-c3-c4-c5); 15 linked mentions |
 | <a id="term-mining"></a>**Mining** | The process of competing through proof of work to propose a block. | First: **215**<br>Later: 532, 570, 630, 782 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#four-module-diploma-and-advanced-boundaries); 4 linked mentions |
 | <a id="term-miner"></a>**Miner** | A participant that builds candidate blocks and performs proof-of-work computation. | First: **101**<br>Later: 532, 565, 566, 592, 600, 607, 611, 617, 619, 621, 625, 636, 647, 649, 762, 774, 791 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#t2--bitcoin-explanation-rule-and-role-map-and-asset-comparison-c3-c4-c5); 21 linked mentions |
+| <a id="term-mining-pool"></a>**Mining pool** | A group of miners that combines work and shares rewards according to its rules. | Not present | No linked use |
 | <a id="term-node"></a>**Node** | Software or a computer running Bitcoin software and checking the network’s rules. | First: **101**<br>Later: 533, 544, 564, 566, 584, 592, 598, 607, 608, 611, 613, 621, 649, 651, 687, 692, 762, 774, 780, 791, 792, 850 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#t2--bitcoin-explanation-rule-and-role-map-and-asset-comparison-c3-c4-c5); 31 linked mentions |
 | <a id="term-full-node"></a>**Full node** | A node that independently checks Bitcoin’s rules. | First: **598**<br>Later: — | No linked use |
 | <a id="term-validating-node"></a>**Validating node** | A node that independently checks Bitcoin’s rules. | First: **490**<br>Later: 649 | No linked use |
+| <a id="term-lightweight-node"></a>**Lightweight node** | A Bitcoin client that checks less data than a full node and relies on other nodes for some information. | Not present | No linked use |
 | <a id="term-economic-node"></a>**Economic node** | A node whose operator uses it for real payment activity and can therefore influence which rules have economic support. | Not present | No linked use |
 | <a id="term-bitcoin-block"></a>**Bitcoin block** | A batch of transactions accepted into Bitcoin’s chain. | Not present | No linked use |
 | <a id="term-candidate-block"></a>**Candidate block** | A proposed block that has not yet been accepted into the chain. | First: **600**<br>Later: — | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#users-nodes-miners-developers-and-services); 3 linked mentions |
@@ -186,6 +207,9 @@ The Educator Guide column links to the section containing the first linked use a
 | Word or phrase | Beginner definition | Student Guide line(s) | Educator Guide use |
 | --- | --- | --- | --- |
 | <a id="term-decentralization"></a>**Decentralization** | The distribution of control and verification across many independent participants. | First: **100**<br>Later: 544, 554, 560, 570, 572 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#t2--bitcoin-explanation-rule-and-role-map-and-asset-comparison-c3-c4-c5); 9 linked mentions |
+| <a id="term-centralization"></a>**Centralization** | The concentration of power or control in one person, organization, or institution. | Not present | No linked use |
+| <a id="term-centralized-system"></a>**Centralized system** | A system in which power or control is concentrated in one entity. | Not present | No linked use |
+| <a id="term-decentralized-system"></a>**Decentralized system** | A system in which power or control is distributed among multiple independent entities. | Not present | No linked use |
 | <a id="term-consensus"></a>**Consensus** | Agreement among Bitcoin nodes about which transactions and blocks follow the shared rules. | First: **748**<br>Later: — | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#strong-module-2-activities); 1 linked mention |
 | <a id="term-nakamoto-consensus"></a>**Nakamoto consensus** | Bitcoin’s method of combining shared rules, proof of work, and the chain with the most accumulated work so independent nodes can converge on a transaction history. | Not present | No linked use |
 | <a id="term-open-source-software"></a>**Open-source software** | Software whose source code can be publicly inspected, used, shared, and improved. | First: **562**<br>Later: — | No linked use |
@@ -197,8 +221,9 @@ The Educator Guide column links to the section containing the first linked use a
 | --- | --- | --- | --- |
 | <a id="term-block-subsidy"></a>**Block subsidy** | New bitcoin created by the rules and paid to the miner of a valid block. | First: **600**<br>Later: 636 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#finite-supply-and-halving); 1 linked mention |
 | <a id="term-issuance-schedule"></a>**Issuance schedule** | The rules that control how new bitcoin is issued over time. | First: **598**<br>Later: 636, 719 | No linked use |
-| <a id="term-maximum-supply"></a>**Maximum supply** | The greatest total amount of bitcoin the rules allow. | First: **636**<br>Later: 719 | No linked use |
+| <a id="term-maximum-supply"></a>**Maximum supply / hard cap** | The greatest total amount of bitcoin the rules allow. | First: **636**<br>Later: 719 | No linked use |
 | <a id="term-halving"></a>**Halving** | The event that cuts Bitcoin’s block subsidy in half after every 210,000 blocks. | First: **638**<br>Later: 640 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#t2--bitcoin-explanation-rule-and-role-map-and-asset-comparison-c3-c4-c5); 8 linked mentions |
+| <a id="term-51-percent-attack"></a>**51% attack** | A situation in which one miner or group controls more than half of the network’s hash rate and may be able to reorganize recent blocks or attempt double spending. | Not present | No linked use |
 
 ### Satoshis and unit bias
 
@@ -212,22 +237,35 @@ The Educator Guide column links to the section containing the first linked use a
 | --- | --- | --- | --- |
 | <a id="term-bitcoin-core"></a>**Bitcoin Core** | A widely used Bitcoin software implementation that can run a full node. | Not present | No linked use |
 | <a id="term-developer-software-proposal"></a>**Developer software proposal** | A suggested software change only affects Bitcoin when participants choose software that follows it. | Not present | No linked use |
+| <a id="term-bitcoin-improvement-proposal"></a>**Bitcoin Improvement Proposal (BIP)** | A formal process for proposing, discussing, and documenting improvements to Bitcoin. | Not present | No linked use |
+| <a id="term-bip39"></a>**Bitcoin Improvement Proposal 39 (BIP39)** | A standard for representing a wallet seed as an ordered list of words, commonly called a seed phrase or recovery phrase. | Not present | No linked use |
+| <a id="term-hard-fork"></a>**Hard fork** | A rule change that is not compatible with older rules. | Not present | No linked use |
+| <a id="term-soft-fork"></a>**Soft fork** | A rule change that remains compatible with older rules. | Not present | No linked use |
+| <a id="term-segwit"></a>**SegWit (Segregated Witness)** | A Bitcoin protocol upgrade that changed how some transaction data is stored, increasing effective block capacity. | Not present | No linked use |
 
 ### Proof of work
 
 | Word or phrase | Beginner definition | Student Guide line(s) | Educator Guide use |
 | --- | --- | --- | --- |
 | <a id="term-hash-function"></a>**Hash function** | A mathematical process that turns data into a fixed-length digital result. | First: **619**<br>Later: — | No linked use |
+| <a id="term-hash"></a>**Hash** | The fixed-length result produced by a hash function. | Not present | No linked use |
 | <a id="term-sha-256"></a>**SHA-256** | The hash function Bitcoin uses in proof of work. It produces a fixed-length result from input data. | Not present | No linked use |
 | <a id="term-target"></a>**Target** | The threshold that a proof-of-work result must satisfy. | First: **619**<br>Later: — | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#proof-of-work); 1 linked mention |
 | <a id="term-difficulty"></a>**Difficulty** | A measure of how hard it is to find a proof-of-work result that satisfies the target. | First: **282**<br>Later: 619, 630 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#proof-of-work); 1 linked mention |
 | <a id="term-difficulty-adjustment"></a>**Difficulty adjustment** | Bitcoin’s regular change to the proof-of-work target that aims to keep block production near its intended average pace. | Not present | No linked use |
-| <a id="term-hashrate"></a>**Hashrate** | A measure of how many hash attempts are made over a period of time. | Not present | No linked use |
+| <a id="term-hashrate"></a>**Hashrate / hash rate** | A measure of how many hash attempts are made over a period of time. | Not present | No linked use |
+| <a id="term-nonce"></a>**Nonce** | A number miners can change in a block header while searching for a hash that satisfies the target. | Not present | No linked use |
+| <a id="term-merkle-tree"></a>**Merkle tree** | A tree-like structure that summarizes transaction data so it can be checked efficiently. | Not present | No linked use |
+| <a id="term-block-height"></a>**Block height** | The number of blocks that come before a given block, showing its position in the chain. | Not present | No linked use |
+| <a id="term-timestamp"></a>**Timestamp** | Data in a block that records its claimed creation time. | Not present | No linked use |
+| <a id="term-verification"></a>**Verification** | Independently checking that transactions and blocks follow Bitcoin’s rules. | Not present | No linked use |
+| <a id="term-immutability"></a>**Immutability** | The practical difficulty of changing confirmed Bitcoin history because doing so would require replacing later proof of work. | Not present | No linked use |
 | <a id="term-valid-result"></a>**Valid result** | A proof-of-work result that satisfies the target. | First: **621**<br>Later: — | No linked use |
 | <a id="term-broadcast"></a>**Broadcast** | To send transaction or block data to peers across the network. | First: **582**<br>Later: 600, 621, 959, 1005 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#suggested-two-hour-flow-1); 3 linked mentions |
 | <a id="term-blockchain"></a>**Blockchain** | Bitcoin’s public history, arranged in blocks. | First: **490**<br>Later: 546, 548, 552, 621, 721, 1000 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#explain-the-combined-response); 2 linked mentions |
 | <a id="term-mempool"></a>**Mempool** | A node’s temporary collection of valid, unconfirmed transactions it has received. Mempools can differ from one node to another. | Not present | No linked use |
 | <a id="term-block-space"></a>**Block space** | The limited data capacity available in each Bitcoin block. | First: **951**<br>Later: — | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#fees-confirmations-and-finality); 3 linked mentions |
+| <a id="term-orphan-block"></a>**Orphan block** | A historical term for a valid block that is not part of the active chain because another valid chain has more accumulated work. | Not present | No linked use |
 
 ### Bitcoin as sound digital money
 
@@ -238,6 +276,9 @@ The Educator Guide column links to the section containing the first linked use a
 | <a id="term-value"></a>**Value** | The usefulness or importance of something to a person. | First: **246**<br>Later: 255, 261, 273, 297, 303, 311, 315, 317, 322, 325, 336, 338, 388, 404, 430, 467, 502, 518, 675, 688, 709, 721, 728, 747, 784, 1177, 1179, 1183, 1187, 1226, 1236, 1308, 1347, 1387, 1389, 1417, 1422 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#barter-and-the-double-coincidence-of-wants); 18 linked mentions |
 | <a id="term-price"></a>**Price** | The amount exchanged for a good, service, or asset. | First: **195**<br>Later: 199, 259, 271, 305, 352, 361, 398, 402, 404, 408, 467, 494, 657, 673, 675, 677, 697, 705, 709, 719, 723, 731, 735, 784, 989, 1217, 1289, 1320, 1332, 1389 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#t2--bitcoin-explanation-rule-and-role-map-and-asset-comparison-c3-c4-c5); 41 linked mentions |
 | <a id="term-bias"></a>**Bias** | A tendency that can influence judgment. | First: **659**<br>Later: 673, 709 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#sats-and-unit-bias); 1 linked mention |
+| <a id="term-hodl"></a>**HODL** | Informal Bitcoin-community slang for holding bitcoin rather than selling or trading it. | Not present | No linked use |
+| <a id="term-sovereignty"></a>**Sovereignty** | The ability to control one’s money without depending on an intermediary. | Not present | No linked use |
+| <a id="term-volatility"></a>**Volatility** | The degree to which an asset’s price varies over time. | Not present | No linked use |
 
 ## Module 3: Using Bitcoin Safely
 
@@ -246,6 +287,7 @@ The Educator Guide column links to the section containing the first linked use a
 | Word or phrase | Beginner definition | Student Guide line(s) | Educator Guide use |
 | --- | --- | --- | --- |
 | <a id="term-bitcoin-wallet"></a>**Bitcoin wallet** | A tool that manages keys and helps receive, authorize, and track Bitcoin transactions; it does not literally contain bitcoin. | First: **49**<br>Later: 83, 171, 173, 822 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#wallets-are-interfaces); 1 linked mention |
+| <a id="term-wallet-backup"></a>**Wallet backup** | A secure copy of the information needed to restore a wallet, such as its seed phrase where the wallet uses one. | Not present | No linked use |
 | <a id="term-custody"></a>**Custody** | Control of Bitcoin keys. | First: **77**<br>Later: 102, 225, 428, 588, 719, 731, 877, 889, 979, 983, 990, 1007, 1076, 1118, 1136, 1169, 1171, 1177, 1231, 1271, 1320, 1322, 1328, 1348, 1387, 1389, 1396, 1397, 1398, 1423 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#competency-to-evidence-crosswalk); 61 linked mentions |
 | <a id="term-custodian"></a>**Custodian** | A person or service that controls Bitcoin keys for someone else. | First: **199**<br>Later: 596, 721, 879, 881, 889, 1354 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#bitcoin-stablecoins-and-other-crypto-assets); 4 linked mentions |
 | <a id="term-self-custody"></a>**Self-custody** | Control of your own Bitcoin keys rather than leaving them with a service. | First: **766**<br>Later: 768, 889, 1019, 1220, 1424, 1528 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#the-diploma-purpose-and-your-responsibility); 9 linked mentions |
@@ -259,8 +301,9 @@ The Educator Guide column links to the section containing the first linked use a
 
 | Word or phrase | Beginner definition | Student Guide line(s) | Educator Guide use |
 | --- | --- | --- | --- |
-| <a id="term-bitcoin-address"></a>**Bitcoin address** | Receiving information for an on-chain Bitcoin payment. | First: **830**<br>Later: 1004, 1193, 1427 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#addresses-and-payment-requests); 1 linked mention |
+| <a id="term-bitcoin-address"></a>**Bitcoin address / wallet address** | Receiving information for an on-chain Bitcoin payment. | First: **830**<br>Later: 1004, 1193, 1427 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#addresses-and-payment-requests); 1 linked mention |
 | <a id="term-address-type"></a>**Address type** | The format of a Bitcoin address. | Not present | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#local-bitcoin-tool-review); 1 linked mention |
+| <a id="term-address-reuse"></a>**Address reuse** | Using the same Bitcoin address more than once. It is discouraged because it can reduce privacy. | Not present | No linked use |
 | <a id="term-payment-destination"></a>**Payment destination** | The receiving information to which funds are directed. | Not present | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#support-accessibility-without-lowering-the-competency); 1 linked mention |
 | <a id="term-network-tag"></a>**Network tag** | A label identifying the intended payment network. | Not present | No linked use |
 
@@ -270,6 +313,7 @@ The Educator Guide column links to the section containing the first linked use a
 | --- | --- | --- | --- |
 | <a id="term-private-key"></a>**Private key** | Secret information that lets a wallet authorize spending; anyone who obtains it may control the funds. | First: **102**<br>Later: 199, 207, 531, 576, 578, 806, 842, 844, 850, 852, 854, 971, 1026, 1452, 1472 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#use-and-non-negotiable-rules); 21 linked mentions |
 | <a id="term-public-key"></a>**Public key** | Information derived from a private key that helps verify signatures without revealing the private key. | First: **844**<br>Later: — | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#activity-public-or-secret); 2 linked mentions |
+| <a id="term-key-pair"></a>**Key pair** | A matching private key and public key used to authorize and verify Bitcoin transactions. | Not present | No linked use |
 
 ### Seed phrases and recovery
 
@@ -277,11 +321,13 @@ The Educator Guide column links to the section containing the first linked use a
 | --- | --- | --- | --- |
 | <a id="term-seed-phrase"></a>**Seed phrase / recovery phrase** | An ordered list of secret words that many wallets use to restore keys. | First: **102**<br>Later: 171, 178, 179, 199, 207, 766, 806, 854, 858, 860, 862, 864, 873, 907, 911, 971, 1026, 1027, 1089, 1371, 1452, 1472 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#use-and-non-negotiable-rules); 21 linked mentions |
 | <a id="term-single-signature"></a>**Single-signature** | A spending arrangement in which one key authorizes a transaction. | Not present | No linked use |
-| <a id="term-multisignature"></a>**Multisignature** | A spending arrangement requiring more than one key or approval. | Not present | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#four-module-diploma-and-advanced-boundaries); 2 linked mentions |
+| <a id="term-multisignature"></a>**Multisignature (multisig)** | A spending arrangement requiring more than one key or approval. | Not present | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#four-module-diploma-and-advanced-boundaries); 2 linked mentions |
 | <a id="term-hot-wallet"></a>**Hot wallet** | A wallet using an online device. | First: **895**<br>Later: 901 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#assessed-competencies-and-competency-criteria-2); 2 linked mentions |
-| <a id="term-cold-wallet"></a>**Cold wallet** | A wallet that keeps signing keys offline. | First: **103**<br>Later: 893, 897, 902 | No linked use |
+| <a id="term-cold-wallet"></a>**Cold wallet / cold storage** | A wallet or storage arrangement that keeps signing keys offline. | First: **103**<br>Later: 893, 897, 902 | No linked use |
 | <a id="term-hardware-wallet"></a>**Hardware wallet** | A dedicated device for holding signing keys. | First: **897**<br>Later: 1028 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#competency-to-evidence-crosswalk); 8 linked mentions |
 | <a id="term-custodial-wallet"></a>**Custodial wallet** | A wallet arrangement in which a service controls the keys. | Not present | No linked use |
+| <a id="term-paper-wallet"></a>**Paper wallet** | A printed record of Bitcoin key material. It is easy to lose or expose and is generally not a recommended storage method. | Not present | No linked use |
+| <a id="term-two-factor-authentication"></a>**Two-factor authentication (2FA)** | An account-security method requiring two different forms of proof, such as a password and a separate code or device. | Not present | No linked use |
 
 ### Receiving and sending bitcoin
 
@@ -289,15 +335,19 @@ The Educator Guide column links to the section containing the first linked use a
 | --- | --- | --- | --- |
 | <a id="term-confirmation"></a>**Confirmation** | A count showing how many valid blocks include or follow the block containing a transaction; more confirmations make its place in the blockchain more costly to rewrite. | First: **621**<br>Later: 719, 936, 957, 959, 961, 1000, 1005, 1007, 1158 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#p6a--supported-first-access-and-receipt-c6); 16 linked mentions |
 | <a id="term-first-confirmation"></a>**First confirmation** | The inclusion of a transaction in its first valid block. | First: **621**<br>Later: 959 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#on-chain-and-lightning-payments); 1 linked mention |
+| <a id="term-final-settlement"></a>**Final settlement** | The point at which a transaction is treated as practically irreversible after sufficient confirmations. | Not present | No linked use |
 | <a id="term-block-depth"></a>**Block depth** | The number of blocks added after the block containing a transaction. | Not present | No linked use |
+| <a id="term-transaction"></a>**Transaction (tx)** | A record that transfers bitcoin under Bitcoin’s rules. | Not present | No linked use |
 | <a id="term-transaction-fee"></a>**Transaction fee / miner fee** | A fee paid for an on-chain transaction to be included in a block. | First: **600**<br>Later: 647, 705, 1240 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#finite-supply-and-halving); 1 linked mention |
+| <a id="term-dust-transaction"></a>**Dust transaction** | A transaction output with such a small bitcoin amount that spending it may cost more in fees than it is worth. | Not present | No linked use |
 | <a id="term-fee-rate"></a>**Fee rate** | The transaction fee offered per unit of transaction data, commonly measured in sats per virtual byte (sat/vB). | Not present | No linked use |
 | <a id="term-fee-estimation"></a>**Fee estimation** | A wallet’s attempt to choose an appropriate transaction fee. | Not present | No linked use |
 | <a id="term-transaction-id"></a>**Transaction ID** / *txid* | A unique identifier used to find and discuss an on-chain Bitcoin transaction. | First: **957**<br>Later: 961 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#minimum-materials); 5 linked mentions |
 | <a id="term-block-explorer"></a>**Block explorer** | A tool for viewing public Bitcoin data such as transactions, addresses, blocks, fees, and confirmations. | First: **750**<br>Later: 955, 957, 1091 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#media-and-tool-fallbacks); 3 linked mentions |
 | <a id="term-transaction-input-output"></a>**Transaction input / output** | An input identifies bitcoin being spent; an output states where bitcoin is assigned next, including any change returned to the sender. | Not present | No linked use |
-| <a id="term-utxo"></a>**UTXO** | Short for “unspent transaction output”: a transaction output that is available to be spent under Bitcoin’s rules. | Not present | No linked use |
+| <a id="term-utxo"></a>**UTXO / unspent transaction output** | A transaction output that is available to be spent under Bitcoin’s rules. | Not present | No linked use |
 | <a id="term-virtual-byte"></a>**Virtual byte (vB)** | A unit used to express the weight of Bitcoin transaction data. Fee rates are often shown in sats per vB. | Not present | No linked use |
+| <a id="term-satoshis-per-byte"></a>**Satoshis per byte (sat/b)** | A legacy unit for expressing a transaction fee rate per byte of transaction data. | Not present | No linked use |
 | <a id="term-epoch"></a>**Epoch** | A group of 210,000 Bitcoin blocks, the interval between scheduled halvings. | Not present | No linked use |
 | <a id="term-block-reward"></a>**Block reward** | The bitcoin paid to a miner for a valid block: the block subsidy plus the transaction fees in that block. | Not present | No linked use |
 | <a id="term-op-return"></a>**OP_RETURN** | A Bitcoin transaction output that can carry a small amount of data and cannot be spent. | Not present | No linked use |
@@ -309,9 +359,11 @@ The Educator Guide column links to the section containing the first linked use a
 | --- | --- | --- | --- |
 | <a id="term-on-chain-payment"></a>**On-chain payment** | A payment recorded directly in Bitcoin’s blockchain. | First: **830**<br>Later: 832, 936, 951, 1000, 1004, 1236 | No linked use |
 | <a id="term-base-layer-settlement"></a>**Base-layer settlement** | Final settlement directly on Bitcoin’s blockchain. | First: **1006**<br>Later: — | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#on-chain-and-lightning-payments); 1 linked mention |
-| <a id="term-lightning-network"></a>**Lightning Network** | A payment network built above Bitcoin. | Not present | No linked use |
+| <a id="term-lightning-network"></a>**Lightning Network (LN)** | A payment network built above Bitcoin. | Not present | No linked use |
+| <a id="term-layer-1"></a>**Layer 1** | The base Bitcoin protocol that validates transactions, reaches consensus, and produces blocks. | Not present | No linked use |
 | <a id="term-layer-2"></a>**Layer 2** | A system built on a base network to add capacity or features. | First: **213**<br>Later: — | No linked use |
 | <a id="term-payment-channel"></a>**Payment channel** | A mechanism for updating payments off-chain. | Not present | No linked use |
+| <a id="term-atomic-swap"></a>**Atomic swap** | A mechanism for directly exchanging bitcoin for another asset without an intermediary, so either both parts of the exchange happen or neither does. | Not present | No linked use |
 | <a id="term-lightning-routing"></a>**Lightning routing** | Passing a payment through connected Lightning channels. | Not present | No linked use |
 | <a id="term-lightning-routing-fee"></a>**Lightning routing fee** | A fee a Lightning node may charge for forwarding a payment through a channel. | Not present | No linked use |
 | <a id="term-lightning-liquidity"></a>**Lightning liquidity** | Channel capacity available to move a Lightning payment. | Not present | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#on-chain-and-lightning-payments); 6 linked mentions |
@@ -329,6 +381,8 @@ Module 4 is the educator-curated **Connect** stage of the Diploma's Problem → 
 | --- | --- | --- | --- |
 | <a id="term-on-ramp"></a>**On-ramp** | A way to move value into bitcoin. | First: **1255**<br>Later: 1257 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#3-select-a-focused-module); 1 linked mention |
 | <a id="term-off-ramp"></a>**Off-ramp** | A way to move value from bitcoin into local money, goods, or services. | First: **1255**<br>Later: 1257 | [First linked use](mfb-bd-26.10/mfb-bd-eg-26.10.md#3-select-a-focused-module); 1 linked mention |
+| <a id="term-peg"></a>**Peg** | A fixed or targeted exchange relationship between two currencies or assets. | Not present | No linked use |
+| <a id="term-unbanked"></a>**Unbanked** | People or communities without access to traditional banking services. | Not present | No linked use |
 
 ### KYC and no-KYC trade-offs
 
