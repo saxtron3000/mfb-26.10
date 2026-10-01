@@ -213,7 +213,7 @@ def educator_links(lines: list[str]) -> tuple[dict[str, list[int]], dict[int, st
 def format_student_rows(lines: list[int], old_values: list[str]) -> list[str]:
     if lines:
         return [str(line) for line in dict.fromkeys(lines)]
-    if any(value != "Not present" for value in old_values):
+    if any(value.startswith("**Outdated:") for value in old_values):
         return ["**Outdated:** no match in current Student Guide"]
     return ["Not present"]
 
@@ -226,9 +226,7 @@ def format_educator_rows(
             f"[{line}](mfb-bd-26.10/mfb-bd-eg-26.10.md#{section_at_line[line]})"
             for line in dict.fromkeys(lines)
         ]
-    if any(value != "No linked use" for value in old_values):
-        return ["**Outdated:** no linked use in current Educator Guide"]
-    return ["No linked use"]
+    return []
 
 
 def rebuild() -> tuple[str, dict[str, object]]:
@@ -240,6 +238,8 @@ def rebuild() -> tuple[str, dict[str, object]]:
     educator_header_index = lexicon_lines.index(educator_header)
     entries_by_anchor = {}
     educator_values: dict[str, list[str]] = defaultdict(list)
+    student_order = []
+    educator_order = []
     for line_number, line in enumerate(lexicon_lines, 1):
         match = ROW_RE.match(line)
         if match:
@@ -253,13 +253,28 @@ def rebuild() -> tuple[str, dict[str, object]]:
                     "definition": definition,
                     "student_values": [],
                 }
+                student_order.append(anchor)
             entries_by_anchor[anchor]["student_values"].append(student)
         educator_match = EDUCATOR_ROW_RE.match(line)
         if educator_match:
-            educator, _, anchor, _ = educator_match.groups()
+            educator, term, anchor, definition = educator_match.groups()
+            if anchor not in entries_by_anchor:
+                entries_by_anchor[anchor] = {
+                    "line_number": line_number,
+                    "anchor": anchor,
+                    "term": term,
+                    "lex_id": "",
+                    "definition": definition,
+                    "student_values": [],
+                }
+            if anchor not in educator_order:
+                educator_order.append(anchor)
             educator_values[anchor].append(educator)
 
-    entries = list(entries_by_anchor.values())
+    ordered_anchors = student_order + [
+        anchor for anchor in educator_order if anchor not in entries_by_anchor or anchor not in student_order
+    ]
+    entries = [entries_by_anchor[anchor] for anchor in ordered_anchors]
     student_lines = source_lines(STUDENT_GUIDE)
     educator_lines = source_lines(EDUCATOR_GUIDE)
     student_found = student_occurrences(entries, student_lines)
@@ -285,11 +300,11 @@ def rebuild() -> tuple[str, dict[str, object]]:
                 f'| {educator} | [{entry["term"]}](#{entry["anchor"]}) | '
                 f'{entry["definition"]} |'
             )
-        if student_rows[0].startswith("**Outdated:"):
+        if student_rows and student_rows[0].startswith("**Outdated:"):
             outdated_student.append(entry["anchor"])
-        if entry["student_values"] == ["Not present"] and student_found[entry["anchor"]]:
+        if not entry["student_values"] and student_found[entry["anchor"]]:
             newly_present_student.append(entry["anchor"])
-        if educator_rows[0].startswith("**Outdated:"):
+        if educator_rows and educator_rows[0].startswith("**Outdated:"):
             outdated_educator.append(entry["anchor"])
 
     student_end = student_header_index + 2
