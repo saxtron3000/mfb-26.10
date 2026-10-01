@@ -25,7 +25,7 @@ Ask participants to answer again: Why do we need money? What is money? Who contr
 ## Procedure
 
 ### Step 1
-Return to the first Chapter 1 activity and compare new answers with old answers.
+Return to the first Module 1 activity and compare new answers with old answers.
 ### Step 2
 Compare and discuss the original answers and questions. Ask whether something changed.
 ### Step 3
