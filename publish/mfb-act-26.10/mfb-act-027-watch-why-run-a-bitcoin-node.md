@@ -15,7 +15,7 @@ Video discussion
 - Participants distinguish the roles of a Bitcoin node, a miner, and a wallet.
 
 ## Description
-Participants watch the first five minutes of a video explaining what Bitcoin nodes are and why running one may matter. The educator stops before the setup instructions and emphasizes that nodes are neither [miners](../mfb-lx-26.10.md#term-miner) nor [wallets](../mfb-lx-26.10.md#term-bitcoin-wallet): they independently run the [Bitcoin protocol](../mfb-lx-26.10.md#term-bitcoin-protocol) and maintain an updated [blockchain](../mfb-lx-26.10.md#term-blockchain) copy.
+Participants watch the first five minutes of a video explaining what Bitcoin nodes are and why running one may matter. The educator stops before the setup instructions and emphasizes that nodes are neither [miners](https://programs.myfirstbitcoin.org/lexicon/en/#miner) nor [wallets](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet): they independently run the [Bitcoin protocol](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-protocol) and maintain an updated [blockchain](https://programs.myfirstbitcoin.org/lexicon/en/#blockchain) copy.
 ## Preparation
 
 ### Materials

@@ -14,7 +14,7 @@ Research and discussion
 - Participants practice comparing Bitcoin wallet options against consistent criteria and weighing the trade-offs for a stated need.
 
 ## Description
-Participants examine prepared, locally relevant Bitcoin and Lightning [wallet](../mfb-lx-26.10.md#term-bitcoin-wallet) information, recording when sources were checked. They compare options using [custody](../mfb-lx-26.10.md#term-custody), recovery, payment compatibility, [privacy](../mfb-lx-26.10.md#term-privacy), cost, maintenance, support, and [open-source](../mfb-lx-26.10.md#term-open-source-software) inspectability, then explain which option may fit a stated fictional or learner need without presenting a global recommendation.
+Participants examine prepared, locally relevant Bitcoin and Lightning [wallet](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) information, recording when sources were checked. They compare options using [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody), recovery, payment compatibility, [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy), cost, maintenance, support, and [open-source](https://programs.myfirstbitcoin.org/lexicon/en/#open-source-software) inspectability, then explain which option may fit a stated fictional or learner need without presenting a global recommendation.
 
 > **Callout – Compare tools; do not recommend or activate one**
 >

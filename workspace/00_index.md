@@ -27,7 +27,7 @@ The official 2026.10 Diploma documents are:
 | Student Guide | [`mfb-bd-sg-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md) | Learner-facing Diploma curriculum. |
 | Educator Guide | [`mfb-bd-eg-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) | Educator-facing preparation, facilitation, adaptation, safety, and assessment guidance. |
 | Educator Assessment Grid | [`mfb-bd-assessment-grid-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) | Competency-level cohort progress and completion record for educators. |
-| Lexicon Entries | [`mfb-lx-26.10.md`](../publish/mfb-lx-26.10.md) | Beginner terminology and definitions. |
+| Lexicon Entries | [`mfb-lx-26.10-index.md`](../publish/mfb-lx-26.10-index.md) | Beginner terminology and definitions. |
 | Advanced modules | [`mfb-adv-26.10/README.md`](../publish/mfb-adv-26.10/README.md) | Future home of Advanced modules; none is available yet. |
 
 The optional app self-assessment data is maintained in [`mfb-ml-26.10.md`](../publish/mfb-ml-26.10/mfb-ml-26.10.md). It is a voluntary review resource, not assessment evidence.
@@ -99,7 +99,7 @@ Detailed activities are available on the [Resources Hub](https://programs.myfirs
 | Optional app microlearning plan | [`14_microlearning-plan.md`](14_microlearning-plan.md) |
 | Optional app self-assessment publication source | [`publish/mfb-ml-26.10/mfb-ml-26.10.md`](../publish/mfb-ml-26.10/mfb-ml-26.10.md) |
 | Certification prerequisite and governance questions | [`15_certification.md`](15_certification.md) |
-| Official Lexicon Entries | [`mfb-lx-26.10.md`](../publish/mfb-lx-26.10.md) |
+| Official Lexicon Entries | [`mfb-lx-26.10-index.md`](../publish/mfb-lx-26.10-index.md) |
 | Collaborator and stakeholder overview | [`16_spec.md`](16_spec.md) |
 | Advanced Modules and parked legacy content | [`17_advanced.md`](17_advanced.md) |
 | Post-release horizon register | [`18_horizon.md`](18_horizon.md) |

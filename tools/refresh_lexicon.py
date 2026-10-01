@@ -16,7 +16,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-LEXICON = ROOT / "publish/mfb-lx-26.10.md"
+LEXICON = ROOT / "publish/mfb-lx-26.10-index.md"
 TERMS = ROOT / "publish/mfb-lx-26.10-terms.md"
 STUDENT_GUIDE = ROOT / "publish/mfb-bd-26.10/mfb-bd-sg-26.10.md"
 EDUCATOR_GUIDE = ROOT / "publish/mfb-bd-26.10/mfb-bd-eg-26.10.md"
@@ -25,7 +25,7 @@ ROW_RE = re.compile(r'^\| (.*?) \| (.*?) \| <a id="([^"]+)"></a>(.*?) \| (.*?) \
 EDUCATOR_ROW_RE = re.compile(r'^\| (.*?) \| (.*?) \| \[(.*?)\]\(#([^)]+)\) \| (.*?) \|$')
 TERMS_ROW_RE = re.compile(r"^\| (BD-LEX-\d+) \| (.*?) \| ")
 LEXICON_LINK_RE = re.compile(
-    r"\]\((?:(?:\.\./mfb-lx-26\.10\.md|https://programs\.myfirstbitcoin\.org/lexicon/en/)#)?(term-[^)\s]+|BD-LEX-\d+|[a-z0-9]+(?:-[a-z0-9]+)*)\)"
+    r"\]\((?:(?:\.\./mfb-lx-26\.10-index\.md|https://programs\.myfirstbitcoin\.org/lexicon/en/)#)?(term-[^)\s]+|BD-LEX-\d+|[a-z0-9]+(?:-[a-z0-9]+)*)\)"
 )
 MARKDOWN_LINK_RE = re.compile(r"(?<!!)\[([^\[\]]+)\]\(([^)]+)\)")
 
@@ -334,7 +334,7 @@ def link_guides() -> dict[Path, str]:
             _, offsets = visible_text(line)
             for link in existing:
                 target = link.group(2)
-                key = target.removeprefix("../mfb-lx-26.10.md#").removeprefix(
+                key = target.removeprefix("../mfb-lx-26.10-index.md#").removeprefix(
                     "https://programs.myfirstbitcoin.org/lexicon/en/#"
                 )
                 if key in destination_ids:

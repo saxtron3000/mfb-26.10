@@ -109,7 +109,7 @@ These sources support the factual background on price indices. They do not estab
 
 ### Video
 
-[“What’s the Problem?”](https://www.whatstheproblem.org) is a video produced by Joe Bryan. It covers more than [fractional reserve banking](../mfb-lx-26.10.md#term-fractional-reserve-banking), which is one of several mechanisms through which money and credit can be created in modern monetary systems.
+[“What’s the Problem?”](https://www.whatstheproblem.org) is a video produced by Joe Bryan. It covers more than [fractional reserve banking](https://programs.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking), which is one of several mechanisms through which money and credit can be created in modern monetary systems.
 
 Use it as a perspective for discussion, not as the activity's evidence. Ask learners to identify its claims, evidence, assumptions, and possible counterarguments.
 

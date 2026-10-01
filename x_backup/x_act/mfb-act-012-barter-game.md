@@ -15,7 +15,7 @@ Game
 - Participants experience and compare direct barter with exchange using a commodity as money.
 
 # Description
-Participants trade paper cards showing goods they have and goods they want, attempting to find matching exchange partners before time expires. They repeat the activity with macaroni as a common [medium of exchange](../mfb-lx-26.10.md#term-medium-of-exchange), then compare the ease of trade and the limitations of using a commodity as money.
+Participants trade paper cards showing goods they have and goods they want, attempting to find matching exchange partners before time expires. They repeat the activity with macaroni as a common [medium of exchange](../../publish/mfb-lx-26.10-index.md#term-medium-of-exchange), then compare the ease of trade and the limitations of using a commodity as money.
 # Preparation
 
 ## Materials

@@ -10,7 +10,7 @@ Fight unnecessary length. Remove repetition, filler, promotional blurb, avoidabl
 
 Use this opening prompt: “Run this style review in the selected mode and scope. Inspect the current files, apply justified editorial improvements within the authorized scope, and report evidence. Record unresolved actions in the dated run record and [review_todo.md](review_todo.md).” If the user requests review only, report proposed changes without applying them.
 
-Read [AGENTS.md](../AGENTS.md), the [source-of-truth map](../workspace/00_index.md), the [architecture](../workspace/06_plan.md), the [competencies](../workspace/05_competencies.md), the [lexicon](../publish/mfb-lx-26.10.md), and the [publication specification](../workspace/16_spec.md) as relevant to the selected text. Use [review_alignment.md](review_alignment.md) for questions about meaning, mission, scope, assessment, or policy.
+Read [AGENTS.md](../AGENTS.md), the [source-of-truth map](../workspace/00_index.md), the [architecture](../workspace/06_plan.md), the [competencies](../workspace/05_competencies.md), the [lexicon](../publish/mfb-lx-26.10-index.md), and the [publication specification](../workspace/16_spec.md) as relevant to the selected text. Use [review_alignment.md](review_alignment.md) for questions about meaning, mission, scope, assessment, or policy.
 
 ## Review mode
 
