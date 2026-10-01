@@ -1,5 +1,21 @@
 # Lexicon
 
+## Dashboard
+
+| Measure | Count |
+| --- | ---: |
+| Lexicon entries | 247 |
+| Student Guide (SG) references | 28 |
+| Educator Guide (EG) references | 637 |
+| Activities (ACT) references | 25 |
+| Advanced (ADV) references | 0 |
+| Assessment grid references | 0 |
+| Quick Start references | 0 |
+| Microlearning references | 0 |
+| **Published-material references** | **690** |
+
+Counts are direct Markdown links to a lexicon-term anchor in the current `publish/` materials, counted on 1 October 2026. “Lexicon entries” counts word-or-phrase rows, rather than individual aliases within an entry.
+
 This lexicon lists Bitcoin and Bitcoin-adjacent terms that a beginner may need explained. It is the shared terminology authority for the Student Guide, Educator Guide, and Diploma activities. Each entry has a stable anchor for links from those materials.
 
 Link a term only when it is used in a Bitcoin, economic, or computing sense and the linked definition explains that specific use. Leave ordinary English uses and incidental word matches unlinked; use the more specific entry when one exists, such as Lightning liquidity for channel capacity.

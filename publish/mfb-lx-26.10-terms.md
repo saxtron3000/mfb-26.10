@@ -1,991 +1,473 @@
 # Bitcoin lexicon terms
 
-## Medium of exchange
+**Medium of exchange**: Something people accept in payment for goods and services.
 
-Something people accept in payment for goods and services.
+**Unit of account**: A shared unit used to state and compare prices, debts, income, and costs.
 
-## Unit of account
+**Store of value**: A way of carrying purchasing power from the present into the future.
 
-A shared unit used to state and compare prices, debts, income, and costs.
+**Durability**: The ability of money to remain usable over time.
 
-## Store of value
+**Portability**: The ease of moving or transferring money from one person or place to another.
 
-A way of carrying purchasing power from the present into the future.
+**Divisibility**: The ability to divide money into smaller units for different-sized payments.
 
-## Durability
+**Uniformity**: The degree to which equal units of money are consistent in form and value.
 
-The ability of money to remain usable over time.
+**Fungibility**: The property that equal units are normally interchangeable.
 
-## Portability
+**Scarcity**: A limited supply: using or obtaining more is constrained rather than unlimited.
 
-The ease of moving or transferring money from one person or place to another.
+**Acceptability**: The willingness of other people to receive something in exchange.
 
-## Divisibility
+**Verifiability**: The ability to check that money is genuine or that a transaction follows the rules.
 
-The ability to divide money into smaller units for different-sized payments.
+**Recognizability / “likeness”**: How easily people can identify a form of money and recognize authentic or equivalent units.
 
-## Uniformity
+**Gold**: A scarce, durable metal used for jewelry, industry, and money. It has served as coins, backing for currencies, and a store of value.
 
-The degree to which equal units of money are consistent in form and value.
+**Paper Cash**: Physical banknotes used to pay for goods and services in person. They represent stated currency amounts and can pass directly from one person to another.
 
-## Fungibility
+**Barter / bartering**: The direct exchange of one good or service for another without using money.
 
-The property that equal units are normally interchangeable.
+**Double coincidence of wants**: The barter problem in which each person must want what the other offers at the same time.
 
-## Scarcity
+**Most saleable good**: The good that people are most willing to accept in exchange because they expect others will accept it too.
 
-A limited supply: using or obtaining more is constrained rather than unlimited.
+**Auction**: A process in which goods or assets are sold to the highest bidder.
 
-## Acceptability
+**Subjective value**: The idea that value depends on a person’s needs, preferences, information, and circumstances.
 
-The willingness of other people to receive something in exchange.
+**Opportunity cost**: The best alternative given up when a choice is made.
 
-## Verifiability
+**Time preference**: How strongly someone prefers value now rather than later.
 
-The ability to check that money is genuine or that a transaction follows the rules.
+**Supply and demand**: The relationship between how much of something is available and how much people want it, which can influence its price.
 
-## Recognizability / “likeness”
+**Time value of money**: The idea that receiving money now and receiving the same amount later can have different value.
 
-How easily people can identify a form of money and recognize authentic or equivalent units.
+**Trade-off**: A choice that gains one benefit while accepting a cost or giving up another benefit.
 
-## Gold
+**Commodity money**: Money made from or represented by a good that has use or value beyond an issuer’s promise.
 
-A scarce, durable metal used for jewelry, industry, and money. It has served as coins, backing for currencies, and a store of value.
+**Standard coins**: Metal coins made to a recognized weight and value by an authority.
 
-## Paper Cash
+**Representative paper**: Paper that can be redeemed for a stated amount of an asset, historically often metal.
 
-Physical banknotes used to pay for goods and services in person. They represent stated currency amounts and can pass directly from one person to another.
+**Paper claim**: A paper record representing a claim on an issuer for a stated asset or amount.
 
-## Barter / bartering
+**Debasement**: Reducing a coin’s valuable-metal content while keeping its stated value the same.
 
-The direct exchange of one good or service for another without using money.
+**Executive Order 6102**: A 1933 U.S. order that restricted private gold ownership in a particular historical and legal context.
 
-## Double coincidence of wants
+**Gold Standard**: A monetary system in which currency can be exchanged for a fixed amount of gold.
 
-The barter problem in which each person must want what the other offers at the same time.
+**Bretton Woods**: The post-1944 international monetary arrangement that linked currencies to the U.S. dollar and the dollar to gold.
 
-## Most saleable good
+**Nixon Shock**: The 1971 U.S. decision that ended international dollar-to-gold convertibility.
 
-The good that people are most willing to accept in exchange because they expect others will accept it too.
+**Convertibility**: The ability to exchange one form of money for another asset at a stated rate.
 
-## Auction
+**Fiat money**: Money issued under state authority whose value is not fixed to redemption in a scarce commodity.
 
-A process in which goods or assets are sold to the highest bidder.
+**“By decree”**: By an official order from an authority.
 
-## Subjective value
+**Account claim**: A recorded promise that an institution owes the account holder money or another asset.
 
-The idea that value depends on a person’s needs, preferences, information, and circumstances.
+**Bank deposit**: **Deposit money** is money recorded in a commercial-bank account. A **bank deposit** is a customer's claim on the bank for that recorded amount, rather than physical cash held separately for that customer.
 
-## Opportunity cost
+**Central bank (Fed)**: A public institution that manages a country’s monetary policy. The U.S. central bank is commonly called the Federal Reserve, or Fed.
 
-The best alternative given up when a choice is made.
+**Capital controls**: Restrictions on moving money across borders.
 
-## Time preference
+**Exchange rate**: The value of one currency in relation to another.
 
-How strongly someone prefers value now rather than later.
+**Network effect**: A situation in which something becomes more useful as more people use it.
 
-## Supply and demand
+**Bank money creation**: The creation of a matching bank deposit when a commercial bank approves a loan.
 
-The relationship between how much of something is available and how much people want it, which can influence its price.
+**Liability**: Something a person or institution owes; a bank deposit is a liability the bank owes its customer.
 
-## Time value of money
+**Fractional reserve banking**: Banking in which only part of deposit obligations is kept immediately available as reserves.
 
-The idea that receiving money now and receiving the same amount later can have different value.
+**Reserve ratio**: The share of deposits a bank keeps as reserves rather than lending or investing.
 
-## Trade-off
+**Liquid assets**: Assets, such as cash or reserves, that can be used or converted to cash quickly.
 
-A choice that gains one benefit while accepting a cost or giving up another benefit.
+**Liquidity**: The ability to meet payments or withdrawals promptly using cash or liquid assets.
 
-## Commodity money
+**Liquidity risk**: The danger that a person or institution will not have enough readily available funds when needed.
 
-Money made from or represented by a good that has use or value beyond an issuer’s promise.
+**Capital**: A bank's loss-absorbing funding, such as owner funding and retained earnings.
 
-## Standard coins
+**Solvency**: Having assets sufficient to cover obligations.
 
-Metal coins made to a recognized weight and value by an authority.
+**Solvency risk**: The danger that an institution’s assets will not cover what it owes.
 
-## Representative paper
+**Credit risk**: The risk that a borrower will not repay what is owed.
 
-Paper that can be redeemed for a stated amount of an asset, historically often metal.
+**Funding cost**: What a bank pays to obtain money.
 
-## Paper claim
+**Qualified borrower**: A borrower who meets a lender’s standards for a loan.
 
-A paper record representing a claim on an issuer for a stated asset or amount.
+**Bank capital rules**: Rules requiring banks to fund risks with capital that can absorb losses.
 
-## Debasement
+**Bank regulation**: Rules and supervision that govern banks.
 
-Reducing a coin’s valuable-metal content while keeping its stated value the same.
+**Restrictive banking**: Restrictions or limitations on banking services or access to banking services.
 
-## Executive Order 6102
+**Bank profit**: Income remaining after a bank’s costs and losses.
 
-A 1933 U.S. order that restricted private gold ownership in a particular historical and legal context.
+**Deposit insurance**: A system that protects eligible bank deposits up to stated limits if a bank fails.
 
-## Gold Standard
+**Gearing**: Using borrowed money or obligations to increase the size of assets or financial exposure.
 
-A monetary system in which currency can be exchanged for a fixed amount of gold.
+**Bank run**: A rush of many customers trying to withdraw funds because they fear a bank may fail.
 
-## Bretton Woods
+**Moral hazard**: A situation in which protection from loss can encourage someone to take more risk because others may bear the cost.
 
-The post-1944 international monetary arrangement that linked currencies to the U.S. dollar and the dollar to gold.
+**“Too big to fail”**: The view that an institution is so important that authorities may intervene to prevent its disorderly failure.
 
-## Nixon Shock
+**Restructuring**: Changing debts, ownership, or operations to help an institution continue or resolve failure.
 
-The 1971 U.S. decision that ended international dollar-to-gold convertibility.
+**Inflation**: **Inflation** commonly means **price inflation**: a sustained increase in the general price level of goods and services. When prices rise faster than income, a unit of money has less **purchasing power**, meaning it buys fewer goods and services.
 
-## Convertibility
+**Money supply**: The total amount of money or money-like balances counted within a stated economy or measure.
 
-The ability to exchange one form of money for another asset at a stated rate.
+**Monetary inflation**: **Monetary inflation** is an increase in the **money supply**. **Monetary expansion** is broader: it can include an increase in money or credit in circulation. These can affect prices, but they are not the same thing as **price inflation**.
 
-## Fiat money
+**Purchasing power**: The amount of goods and services a unit of money can buy.
 
-Money issued under state authority whose value is not fixed to redemption in a scarce commodity.
+**Secondary effects**: Later indirect effects caused by an initial economic change.
 
-## “By decree”
+**Inflation basket**: A **basket of goods** is a selected collection of goods and services. An **inflation basket** is a basket used to track average price changes and estimate changes in the cost of living.
 
-By an official order from an authority.
+**Cantillon Effect**: The idea that new money can affect people differently depending on who receives and spends it first.
 
-## Account claim
+**GDP**: Gross domestic product: the total value of goods and services produced in a country during a given period.
 
-A recorded promise that an institution owes the account holder money or another asset.
+**Imports**: Goods and services produced in another country and sold in the domestic market.
 
-## Bank deposit
+**Monetary and fiscal policy**: Central-bank and government policies, respectively, that can influence money, taxation, spending, and interest rates.
 
-Money recorded as a claim on a commercial bank, rather than physical cash held separately for the customer.
+**CBDC / central bank digital currency**: A digital form of fiat money issued as a liability of a central bank.
 
-## Central bank (Fed)
+**Currency**: Money used by a country or within a monetary system.
 
-A public institution that manages a country’s monetary policy. The U.S. central bank is commonly called the Federal Reserve, or Fed.
+**Asset**: Something a person or institution owns that may provide use, income, or future value.
 
-## Capital controls
+**Bond**: A debt security: the buyer lends money to a government or organization in return for promised repayment, usually with interest.
 
-Restrictions on moving money across borders.
+**Debt**: Money that is owed to someone else.
 
-## Exchange rate
+**Issuer**: The authority, institution, or system that creates and puts money or claims into circulation.
 
-The value of one currency in relation to another.
+**Intermediary**: A middle party, such as a bank, exchange, or payment service, between participants in a transaction.
 
-## Network effect
+**Bitcoin network**: The independent computers and participants that operate Bitcoin under the same rules.
 
-A situation in which something becomes more useful as more people use it.
+**Bitcoin protocol**: The shared technical rules that Bitcoin participants use to validate and relay activity.
 
-## Deposit money
+**Bitcoin service**: A separate business or tool that uses the Bitcoin network.
 
-Commercial-bank account money.
+**Censorship resistance**: The ability to use Bitcoin without a government, bank, or corporation being able to decide which valid transactions may be sent.
 
-## Bank money creation
+**Cryptography**: Mathematical methods used to protect information and prove authenticity.
 
-The creation of a matching bank deposit when a commercial bank approves a loan.
+**Encryption**: Transforming information so only an authorized party can read it.
 
-## Liability
+**Digital signature**: A mathematical proof created with a private key that authorizes a message or transaction.
 
-Something a person or institution owes; a bank deposit is a liability the bank owes its customer.
+**Cypherpunk**: A person who uses or advocates cryptography and open technology to protect privacy and freedom.
 
-## Fractional reserve banking
+**Digital asset**: A digital representation of value that can be transferred or used as a store of value.
 
-Banking in which only part of deposit obligations is kept immediately available as reserves.
+**Distributed ledger**: A record of transactions that is shared across multiple computers instead of being kept in one central location.
 
-## Reserve ratio
+**Permissionless**: Open to anyone who can use the rules without needing approval from a central gatekeeper.
 
-The share of deposits a bank keeps as reserves rather than lending or investing.
+**Trust minimization**: **Trust minimization** means reducing reliance on third parties by enabling people to verify rules and transactions themselves. **Trustless** describes a system designed for this purpose; it does not mean that users face no risk or need no judgment.
 
-## Liquid assets
+**DigiCash**: An early private-digital-payment system that depended on a central company.
 
-Assets, such as cash or reserves, that can be used or converted to cash quickly.
+**Hashcash**: An early proof-of-work system designed to make unwanted email computationally costly.
 
-## Liquidity
+**Bit Gold**: An early proposal for scarce digital records created through computational work.
 
-The ability to meet payments or withdrawals promptly using cash or liquid assets.
+**B-money**: An early proposal for decentralized digital money.
 
-## Liquidity risk
+**Reusable proof of work**: An early proposal for transferring scarce digital value without relying on one central database.
 
-The danger that a person or institution will not have enough readily available funds when needed.
+**BitTorrent**: A file-sharing system that demonstrated decentralized information sharing.
 
-## Capital
+**Peer-to-peer network**: A network in which independent computers communicate directly rather than through one central server.
 
-A bank's loss-absorbing funding, such as owner funding and retained earnings.
+**Byzantine Generals’ Problem**: A computing problem about how independent participants can reach a reliable agreement when some messages or participants may be untrustworthy.
 
-## Solvency
+**Double spending**: **Double spending** is attempting to use the same digital unit in more than one payment. The **double-spend problem** is the challenge of preventing this; Bitcoin addresses it through shared rules, **verification**, and **proof of work**.
 
-Having assets sufficient to cover obligations.
+**Proof of work**: **Proof of work** is Bitcoin's security mechanism: proposing a **block** requires costly computation, making confirmed history expensive to change. **Mining** is **proof of work** applied to Bitcoin. **Miners** perform this computation, compete to propose valid **blocks**, and may receive a **block reward** when a valid block is accepted.
 
-## Solvency risk
+**Miner**: A participant that builds candidate blocks and performs proof-of-work computation.
 
-The danger that an institution’s assets will not cover what it owes.
+**Mining pool**: A group of miners that combines work and shares rewards according to its rules.
 
-## Credit risk
+**Node**: Software or a computer running Bitcoin software and checking the network’s rules.
 
-The risk that a borrower will not repay what is owed.
+**Full node**: A **full node**, also called a **validating node** here, independently checks whether Bitcoin **transactions** and **blocks** follow Bitcoin's rules. It does not need to trust a **miner**, wallet provider, or other **node** to decide what is valid.
 
-## Funding cost
+**Lightweight node**: A Bitcoin client that checks less data than a full node and relies on other nodes for some information.
 
-What a bank pays to obtain money.
+**Economic node**: A node whose operator uses it for real payment activity and can therefore influence which rules have economic support.
 
-## Qualified borrower
+**Bitcoin block**: A batch of transactions accepted into Bitcoin’s chain.
 
-A borrower who meets a lender’s standards for a loan.
+**Candidate block**: A proposed block that has not yet been accepted into the chain.
 
-## Bank capital rules
+**Valid chain**: A chain of blocks that follows Bitcoin’s rules.
 
-Rules requiring banks to fund risks with capital that can absorb losses.
+**Accumulated work**: The total proof-of-work effort represented by a chain.
 
-## Bank regulation
+**Satoshi Nakamoto**: The name used by Bitcoin’s creator or creators; the real-world identity is unknown.
 
-Rules and supervision that govern banks.
+**Bitcoin whitepaper**: The original paper, Bitcoin: A Peer-to-Peer Electronic Cash System, which described Bitcoin’s design and purpose.
 
-## Restrictive banking
+**Genesis Block**: The first block in Bitcoin’s blockchain, created when the network began.
 
-Restrictions or limitations on banking services or access to banking services.
+**Bitcoin Pizza Day**: The annual remembrance of the 2010 purchase of two pizzas with 10,000 bitcoin.
 
-## Bank profit
+**Hal Finney**: The recipient of the first recorded person-to-person Bitcoin transaction.
 
-Income remaining after a bank’s costs and losses.
+**Person-to-person transaction**: A payment made directly from one participant to another.
 
-## Deposit insurance
+**Decentralization**: The distribution of control and verification across many independent participants.
 
-A system that protects eligible bank deposits up to stated limits if a bank fails.
+**Centralization**: The concentration of power or control in one person, organization, or institution.
 
-## Gearing
+**Centralized system**: A system in which power or control is concentrated in one entity.
 
-Using borrowed money or obligations to increase the size of assets or financial exposure.
+**Decentralized system**: A system in which power or control is distributed among multiple independent entities.
 
-## Bank run
+**Consensus**: Agreement among Bitcoin nodes about which transactions and blocks follow the shared rules.
 
-A rush of many customers trying to withdraw funds because they fear a bank may fail.
+**Nakamoto consensus**: Bitcoin’s method of combining shared rules, proof of work, and the chain with the most accumulated work so independent nodes can converge on a transaction history.
 
-## Moral hazard
+**Open-source software**: Software whose source code can be publicly inspected, used, shared, and improved.
 
-A situation in which protection from loss can encourage someone to take more risk because others may bear the cost.
+**Ledger**: A record of transactions; Bitcoin’s ledger is copied and checked across many nodes.
 
-## “Too big to fail”
+**Block subsidy**: New bitcoin created by the rules and paid to the miner of a valid block.
 
-The view that an institution is so important that authorities may intervene to prevent its disorderly failure.
+**Issuance schedule**: The rules that control how new bitcoin is issued over time.
 
-## Restructuring
+**Maximum supply / hard cap**: The greatest total amount of bitcoin the rules allow.
 
-Changing debts, ownership, or operations to help an institution continue or resolve failure.
+**Halving**: The event that cuts Bitcoin’s block subsidy in half after every 210,000 blocks.
 
-## Inflation
+**51% attack**: A situation in which one miner or group controls more than half of the network’s hash rate and may be able to reorganize recent blocks or attempt double spending.
 
-A sustained increase in the general price level, so a unit of money buys less.
+**Sat / satoshi**: The smallest named unit of bitcoin; 100,000,000 sats equal one bitcoin.
 
-## Money supply
+**Bitcoin Core**: A widely used Bitcoin software implementation that can run a full node.
 
-The total amount of money or money-like balances counted within a stated economy or measure.
+**Developer software proposal**: A suggested software change only affects Bitcoin when participants choose software that follows it.
 
-## Monetary inflation
+**Bitcoin Improvement Proposal (BIP)**: A formal process for proposing, discussing, and documenting improvements to Bitcoin.
 
-An increase in the money supply. It is distinct from price inflation, which is a sustained increase in the general price level.
+**Bitcoin Improvement Proposal 39 (BIP39)**: A standard for representing a wallet seed as an ordered list of words, commonly called a seed phrase or recovery phrase.
 
-## Price inflation
+**Hard fork**: A rule change that is not compatible with older rules.
 
-A sustained increase in the general price level of goods and services.
+**Soft fork**: A rule change that remains compatible with older rules.
 
-## Purchasing power
+**SegWit (Segregated Witness)**: A Bitcoin protocol upgrade that changed how some transaction data is stored, increasing effective block capacity.
 
-The amount of goods and services a unit of money can buy.
+**Hash function**: A mathematical process that turns data into a fixed-length digital result.
 
-## Monetary expansion
+**Hash**: The fixed-length result produced by a hash function.
 
-An increase in the amount of money or credit in circulation.
+**SHA-256**: The hash function Bitcoin uses in proof of work. It produces a fixed-length result from input data.
 
-## Secondary effects
+**Target**: The threshold that a proof-of-work result must satisfy.
 
-Later indirect effects caused by an initial economic change.
+**Difficulty**: A measure of how hard it is to find a proof-of-work result that satisfies the target.
 
-## Inflation basket
+**Difficulty adjustment**: Bitcoin’s regular change to the proof-of-work target that aims to keep block production near its intended average pace.
 
-A selected group of goods and services used to measure average price changes.
+**Hashrate / hash rate**: A measure of how many hash attempts are made over a period of time.
 
-## Basket of goods
+**Nonce**: A number miners can change in a block header while searching for a hash that satisfies the target.
 
-A collection of goods and services used to measure changes in the cost of living.
+**Merkle tree**: A tree-like structure that summarizes transaction data so it can be checked efficiently.
 
-## Cantillon Effect
+**Block height**: The number of blocks that come before a given block, showing its position in the chain.
 
-The idea that new money can affect people differently depending on who receives and spends it first.
+**Timestamp**: Data in a block that records its claimed creation time.
 
-## GDP
+**Verification**: Independently checking that transactions and blocks follow Bitcoin’s rules.
 
-Gross domestic product: the total value of goods and services produced in a country during a given period.
+**Immutability**: The practical difficulty of changing confirmed Bitcoin history because doing so would require replacing later proof of work.
 
-## Imports
+**Valid result**: A proof-of-work result that satisfies the target.
 
-Goods and services produced in another country and sold in the domestic market.
+**Broadcast**: To send transaction or block data to peers across the network.
 
-## Monetary and fiscal policy
+**Blockchain**: The **blockchain** is Bitcoin's public, ordered history of blocks. A **block** groups accepted transactions. **Timechain** is another name sometimes used for Bitcoin's blockchain, emphasizing that blocks are ordered and time-stamped.
 
-Central-bank and government policies, respectively, that can influence money, taxation, spending, and interest rates.
+**Mempool**: A node’s temporary collection of valid, unconfirmed transactions it has received. Mempools can differ from one node to another.
 
-## CBDC / central bank digital currency
+**Block space**: The limited data capacity available in each Bitcoin block.
 
-A digital form of fiat money issued as a liability of a central bank.
+**Orphan block**: A historical term for a valid block that is not part of the active chain because another valid chain has more accumulated work.
 
-## Currency
+**Sound money**: A judgment for money whose supply is difficult to expand and whose properties support reliable use over time.
 
-Money used by a country or within a monetary system.
+**Sat interchangeability**: Whether equal sats are treated as equivalent in use; it is an application of fungibility.
 
-## Asset
+**Value**: The usefulness or importance of something to a person.
 
-Something a person or institution owns that may provide use, income, or future value.
+**Price**: The amount exchanged for a good, service, or asset.
 
-## Bond
+**Bias**: A tendency that can influence judgment.
 
-A debt security: the buyer lends money to a government or organization in return for promised repayment, usually with interest.
+**HODL**: Informal Bitcoin-community slang for holding bitcoin rather than selling or trading it.
 
-## Debt
+**Sovereignty**: The ability to control one’s money without depending on an intermediary.
 
-Money that is owed to someone else.
+**Volatility**: The degree to which an asset’s price varies over time.
 
-## Issuer
+**Bitcoin wallet**: A tool that manages keys and helps receive, authorize, and track Bitcoin transactions; it does not literally contain bitcoin.
 
-The authority, institution, or system that creates and puts money or claims into circulation.
+**Wallet backup**: A secure copy of the information needed to restore a wallet, such as its seed phrase where the wallet uses one.
 
-## Intermediary
+**Custody**: Control of Bitcoin keys.
 
-A middle party, such as a bank, exchange, or payment service, between participants in a transaction.
+**Custodian**: A person or service that controls Bitcoin keys for someone else.
 
-## Bitcoin network
+**Self-custody**: Control of your own Bitcoin keys rather than leaving them with a service.
 
-The independent computers and participants that operate Bitcoin under the same rules.
+**Wallet compatibility**: The ability of a wallet, backup, address, or network to work with another system.
 
-## Bitcoin protocol
+**Project continuity**: The likelihood that wallet software will remain maintained and usable.
 
-The shared technical rules that Bitcoin participants use to validate and relay activity.
+**Privacy**: **Privacy** is the ability to limit who can collect, see, use, or share information about a person. **Bitcoin privacy** applies this to Bitcoin activity, including links among identity, addresses, balances, and payments. Because Bitcoin's transaction history is public, privacy is not automatic and does not mean activity is invisible.
 
-## Bitcoin service
+**Block-explorer privacy**: The privacy implications of using a public tool to inspect addresses or transactions.
 
-A separate business or tool that uses the Bitcoin network.
+**Bitcoin address / wallet address**: Receiving information for an on-chain Bitcoin payment.
 
-## Censorship resistance
+**Address type**: The format of a Bitcoin address.
 
-The ability to use Bitcoin without a government, bank, or corporation being able to decide which valid transactions may be sent.
+**Address reuse**: Using the same Bitcoin address more than once. It is discouraged because it can reduce privacy.
 
-## Cryptography
+**Payment destination**: The receiving information to which funds are directed.
 
-Mathematical methods used to protect information and prove authenticity.
+**Network tag**: A label identifying the intended payment network.
 
-## Encryption
+**Private key**: Secret information that lets a wallet authorize spending; anyone who obtains it may control the funds.
 
-Transforming information so only an authorized party can read it.
+**Public key**: Information derived from a private key that helps verify signatures without revealing the private key.
 
-## Digital signature
+**Key pair**: A matching private key and public key used to authorize and verify Bitcoin transactions.
 
-A mathematical proof created with a private key that authorizes a message or transaction.
+**Seed phrase / recovery phrase**: An ordered list of secret words that many wallets use to restore keys.
 
-## Cypherpunk
+**Single-signature**: A spending arrangement in which one key authorizes a transaction.
 
-A person who uses or advocates cryptography and open technology to protect privacy and freedom.
+**Multisignature (multisig)**: A spending arrangement requiring more than one key or approval.
 
-## Digital asset
+**Hot wallet**: A wallet using an online device.
 
-A digital representation of value that can be transferred or used as a store of value.
+**Cold wallet / cold storage**: A wallet or storage arrangement that keeps signing keys offline.
 
-## Distributed ledger
+**Hardware wallet**: A dedicated device for holding signing keys.
 
-A record of transactions that is shared across multiple computers instead of being kept in one central location.
+**Custodial wallet**: A wallet arrangement in which a service controls the keys.
 
-## Permissionless
+**Paper wallet**: A printed record of Bitcoin key material. It is easy to lose or expose and is generally not a recommended storage method.
 
-Open to anyone who can use the rules without needing approval from a central gatekeeper.
+**Two-factor authentication (2FA)**: An account-security method requiring two different forms of proof, such as a password and a separate code or device.
 
-## Trust minimization
+**Confirmation**: A count showing how many valid blocks include or follow the block containing a transaction; more confirmations make its place in the blockchain more costly to rewrite.
 
-Reducing reliance on third parties by enabling people to verify rules and transactions independently.
+**First confirmation**: The inclusion of a transaction in its first valid block.
 
-## Trustless
+**Final settlement**: The point at which a transaction is treated as practically irreversible after sufficient confirmations.
 
-Describes a system designed to reduce the need to trust a third party by relying on verifiable rules.
+**Block depth**: The number of blocks added after the block containing a transaction.
 
-## DigiCash
+**Transaction (tx)**: A record that transfers bitcoin under Bitcoin’s rules.
 
-An early private-digital-payment system that depended on a central company.
+**Transaction fee / miner fee**: A fee paid for an on-chain transaction to be included in a block.
 
-## Hashcash
+**Dust transaction**: A transaction output with such a small bitcoin amount that spending it may cost more in fees than it is worth.
 
-An early proof-of-work system designed to make unwanted email computationally costly.
+**Fee rate**: The **transaction fee** is the bitcoin a sender offers to have an **on-chain payment** included in a **block**. The **fee rate** is the amount offered per unit of transaction data, usually measured in **Satoshis per vByte (sat/vB)**. A **virtual byte** is a unit for measuring transaction data; **sat/b** is an older byte-based way of stating a fee rate.
 
-## Bit Gold
+**Fee estimation**: A wallet’s attempt to choose an appropriate transaction fee.
 
-An early proposal for scarce digital records created through computational work.
+**Transaction ID / txid**: A unique identifier used to find and discuss an on-chain Bitcoin transaction.
 
-## B-money
+**Block explorer**: A tool for viewing public Bitcoin data such as transactions, addresses, blocks, fees, and confirmations.
 
-An early proposal for decentralized digital money.
+**Transaction input / output**: An input identifies bitcoin being spent; an output states where bitcoin is assigned next, including any change returned to the sender.
 
-## Reusable proof of work
+**UTXO / unspent transaction output**: A transaction output that is available to be spent under Bitcoin’s rules.
 
-An early proposal for transferring scarce digital value without relying on one central database.
+**Virtual byte (vB)**: A unit used to express the weight of Bitcoin transaction data. Fee rates are often shown in sats per vB.
 
-## BitTorrent
+**Epoch**: A group of 210,000 Bitcoin blocks, the interval between scheduled halvings.
 
-A file-sharing system that demonstrated decentralized information sharing.
+**Block reward**: The bitcoin paid to a miner for a valid block: the block subsidy plus the transaction fees in that block.
 
-## Peer-to-peer network
+**OP_RETURN**: A Bitcoin transaction output that can carry a small amount of data and cannot be spent.
 
-A network in which independent computers communicate directly rather than through one central server.
+**On-chain payment**: A payment recorded directly in Bitcoin’s blockchain.
 
-## Byzantine Generals’ Problem
+**Base-layer settlement**: Final settlement directly on Bitcoin’s blockchain.
 
-A computing problem about how independent participants can reach a reliable agreement when some messages or participants may be untrustworthy.
+**Lightning Network (LN)**: A payment network built above Bitcoin.
 
-## Double spending
+**Layer 1**: The base Bitcoin protocol that validates transactions, reaches consensus, and produces blocks.
 
-Trying to use the same digital unit in more than one payment.
+**Layer 2**: A system built on a base network to add capacity or features.
 
-## Double-spend problem
+**Payment channel**: A mechanism for updating payments off-chain.
 
-The challenge of preventing a digital unit from being spent more than once.
+**Atomic swap**: A mechanism for directly exchanging bitcoin for another asset without an intermediary, so either both parts of the exchange happen or neither does.
 
-## Proof of work
+**Lightning routing**: Passing a payment through connected Lightning channels.
 
-The process miners use to compete to propose blocks by performing costly computation.
+**Lightning routing fee**: A fee a Lightning node may charge for forwarding a payment through a channel.
 
-## Mining
+**Lightning liquidity**: Channel capacity available to move a Lightning payment.
 
-The process of competing through proof of work to propose a block.
+**Lightning invoice**: A usually specific Lightning payment request.
 
-## Miner
+**Lightning offer**: A reusable Lightning payment request.
 
-A participant that builds candidate blocks and performs proof-of-work computation.
+**Lightning address**: A human-readable Lightning receiving identifier.
 
-## Mining pool
+**On-ramp**: A way to move value into bitcoin.
 
-A group of miners that combines work and shares rewards according to its rules.
+**Off-ramp**: A way to move value from bitcoin into local money, goods, or services.
 
-## Node
+**Peg**: A fixed or targeted exchange relationship between two currencies or assets.
 
-Software or a computer running Bitcoin software and checking the network’s rules.
+**Unbanked**: People or communities without access to traditional banking services.
 
-## Full node
+**KYC**: Identity checks required by a financial service.
 
-A node that independently checks Bitcoin’s rules.
+**No-KYC (preferred; also called non-KYC)**: A path collecting less or no standard KYC information. Use no-KYC throughout this curriculum; non-KYC is an alternative term.
 
-## Validating node
+**Bitcoin circular economy**: A community network in which people earn, spend, save, and exchange bitcoin locally.
 
-A node that independently checks Bitcoin’s rules.
+**Community custody**: A person or group controls bitcoin for others.
 
-## Lightweight node
+**Shared funds**: Funds controlled for more than one person under agreed rules.
 
-A Bitcoin client that checks less data than a full node and relies on other nodes for some information.
+**Liquid**: A Bitcoin sidechain.
 
-## Economic node
+**Ecash**: Digital cash-like value issued by a mint.
 
-A node whose operator uses it for real payment activity and can therefore influence which rules have economic support.
-
-## Bitcoin block
-
-A batch of transactions accepted into Bitcoin’s chain.
-
-## Candidate block
-
-A proposed block that has not yet been accepted into the chain.
-
-## Valid chain
-
-A chain of blocks that follows Bitcoin’s rules.
-
-## Accumulated work
-
-The total proof-of-work effort represented by a chain.
-
-## Satoshi Nakamoto
-
-The name used by Bitcoin’s creator or creators; the real-world identity is unknown.
-
-## Bitcoin whitepaper
-
-The original paper, Bitcoin: A Peer-to-Peer Electronic Cash System, which described Bitcoin’s design and purpose.
-
-## Genesis Block
-
-The first block in Bitcoin’s blockchain, created when the network began.
-
-## Bitcoin Pizza Day
-
-The annual remembrance of the 2010 purchase of two pizzas with 10,000 bitcoin.
-
-## Hal Finney
-
-The recipient of the first recorded person-to-person Bitcoin transaction.
-
-## Person-to-person transaction
-
-A payment made directly from one participant to another.
-
-## Decentralization
-
-The distribution of control and verification across many independent participants.
-
-## Centralization
-
-The concentration of power or control in one person, organization, or institution.
-
-## Centralized system
-
-A system in which power or control is concentrated in one entity.
-
-## Decentralized system
-
-A system in which power or control is distributed among multiple independent entities.
-
-## Consensus
-
-Agreement among Bitcoin nodes about which transactions and blocks follow the shared rules.
-
-## Nakamoto consensus
-
-Bitcoin’s method of combining shared rules, proof of work, and the chain with the most accumulated work so independent nodes can converge on a transaction history.
-
-## Open-source software
-
-Software whose source code can be publicly inspected, used, shared, and improved.
-
-## Ledger
-
-A record of transactions; Bitcoin’s ledger is copied and checked across many nodes.
-
-## Block subsidy
-
-New bitcoin created by the rules and paid to the miner of a valid block.
-
-## Issuance schedule
-
-The rules that control how new bitcoin is issued over time.
-
-## Maximum supply / hard cap
-
-The greatest total amount of bitcoin the rules allow.
-
-## Halving
-
-The event that cuts Bitcoin’s block subsidy in half after every 210,000 blocks.
-
-## 51% attack
-
-A situation in which one miner or group controls more than half of the network’s hash rate and may be able to reorganize recent blocks or attempt double spending.
-
-## Sat / satoshi
-
-The smallest named unit of bitcoin; 100,000,000 sats equal one bitcoin.
-
-## Bitcoin Core
-
-A widely used Bitcoin software implementation that can run a full node.
-
-## Developer software proposal
-
-A suggested software change only affects Bitcoin when participants choose software that follows it.
-
-## Bitcoin Improvement Proposal (BIP)
-
-A formal process for proposing, discussing, and documenting improvements to Bitcoin.
-
-## Bitcoin Improvement Proposal 39 (BIP39)
-
-A standard for representing a wallet seed as an ordered list of words, commonly called a seed phrase or recovery phrase.
-
-## Hard fork
-
-A rule change that is not compatible with older rules.
-
-## Soft fork
-
-A rule change that remains compatible with older rules.
-
-## SegWit (Segregated Witness)
-
-A Bitcoin protocol upgrade that changed how some transaction data is stored, increasing effective block capacity.
-
-## Hash function
-
-A mathematical process that turns data into a fixed-length digital result.
-
-## Hash
-
-The fixed-length result produced by a hash function.
-
-## SHA-256
-
-The hash function Bitcoin uses in proof of work. It produces a fixed-length result from input data.
-
-## Target
-
-The threshold that a proof-of-work result must satisfy.
-
-## Difficulty
-
-A measure of how hard it is to find a proof-of-work result that satisfies the target.
-
-## Difficulty adjustment
-
-Bitcoin’s regular change to the proof-of-work target that aims to keep block production near its intended average pace.
-
-## Hashrate / hash rate
-
-A measure of how many hash attempts are made over a period of time.
-
-## Nonce
-
-A number miners can change in a block header while searching for a hash that satisfies the target.
-
-## Merkle tree
-
-A tree-like structure that summarizes transaction data so it can be checked efficiently.
-
-## Block height
-
-The number of blocks that come before a given block, showing its position in the chain.
-
-## Timestamp
-
-Data in a block that records its claimed creation time.
-
-## Verification
-
-Independently checking that transactions and blocks follow Bitcoin’s rules.
-
-## Immutability
-
-The practical difficulty of changing confirmed Bitcoin history because doing so would require replacing later proof of work.
-
-## Valid result
-
-A proof-of-work result that satisfies the target.
-
-## Broadcast
-
-To send transaction or block data to peers across the network.
-
-## Blockchain
-
-Bitcoin’s public history, arranged in blocks.
-
-## Mempool
-
-A node’s temporary collection of valid, unconfirmed transactions it has received. Mempools can differ from one node to another.
-
-## Block space
-
-The limited data capacity available in each Bitcoin block.
-
-## Orphan block
-
-A historical term for a valid block that is not part of the active chain because another valid chain has more accumulated work.
-
-## Sound money
-
-A judgment for money whose supply is difficult to expand and whose properties support reliable use over time.
-
-## Sat interchangeability
-
-Whether equal sats are treated as equivalent in use; it is an application of fungibility.
-
-## Value
-
-The usefulness or importance of something to a person.
-
-## Price
-
-The amount exchanged for a good, service, or asset.
-
-## Bias
-
-A tendency that can influence judgment.
-
-## HODL
-
-Informal Bitcoin-community slang for holding bitcoin rather than selling or trading it.
-
-## Sovereignty
-
-The ability to control one’s money without depending on an intermediary.
-
-## Volatility
-
-The degree to which an asset’s price varies over time.
-
-## Bitcoin wallet
-
-A tool that manages keys and helps receive, authorize, and track Bitcoin transactions; it does not literally contain bitcoin.
-
-## Wallet backup
-
-A secure copy of the information needed to restore a wallet, such as its seed phrase where the wallet uses one.
-
-## Custody
-
-Control of Bitcoin keys.
-
-## Custodian
-
-A person or service that controls Bitcoin keys for someone else.
-
-## Self-custody
-
-Control of your own Bitcoin keys rather than leaving them with a service.
-
-## Wallet compatibility
-
-The ability of a wallet, backup, address, or network to work with another system.
-
-## Project continuity
-
-The likelihood that wallet software will remain maintained and usable.
-
-## Privacy
-
-The ability to limit who can collect, see, use, or share information about you, such as your name, contact details, location, and financial activity. When using Bitcoin, this includes limiting how your identity is linked to addresses, balances, and payments. Bitcoin’s public transaction history means privacy is not automatic, and privacy does not mean that all activity is invisible.
-
-## Bitcoin privacy
-
-Control over information about a person and their Bitcoin activity.
-
-## Block-explorer privacy
-
-The privacy implications of using a public tool to inspect addresses or transactions.
-
-## Bitcoin address / wallet address
-
-Receiving information for an on-chain Bitcoin payment.
-
-## Address type
-
-The format of a Bitcoin address.
-
-## Address reuse
-
-Using the same Bitcoin address more than once. It is discouraged because it can reduce privacy.
-
-## Payment destination
-
-The receiving information to which funds are directed.
-
-## Network tag
-
-A label identifying the intended payment network.
-
-## Private key
-
-Secret information that lets a wallet authorize spending; anyone who obtains it may control the funds.
-
-## Public key
-
-Information derived from a private key that helps verify signatures without revealing the private key.
-
-## Key pair
-
-A matching private key and public key used to authorize and verify Bitcoin transactions.
-
-## Seed phrase / recovery phrase
-
-An ordered list of secret words that many wallets use to restore keys.
-
-## Single-signature
-
-A spending arrangement in which one key authorizes a transaction.
-
-## Multisignature (multisig)
-
-A spending arrangement requiring more than one key or approval.
-
-## Hot wallet
-
-A wallet using an online device.
-
-## Cold wallet / cold storage
-
-A wallet or storage arrangement that keeps signing keys offline.
-
-## Hardware wallet
-
-A dedicated device for holding signing keys.
-
-## Custodial wallet
-
-A wallet arrangement in which a service controls the keys.
-
-## Paper wallet
-
-A printed record of Bitcoin key material. It is easy to lose or expose and is generally not a recommended storage method.
-
-## Two-factor authentication (2FA)
-
-An account-security method requiring two different forms of proof, such as a password and a separate code or device.
-
-## Confirmation
-
-A count showing how many valid blocks include or follow the block containing a transaction; more confirmations make its place in the blockchain more costly to rewrite.
-
-## First confirmation
-
-The inclusion of a transaction in its first valid block.
-
-## Final settlement
-
-The point at which a transaction is treated as practically irreversible after sufficient confirmations.
-
-## Block depth
-
-The number of blocks added after the block containing a transaction.
-
-## Transaction (tx)
-
-A record that transfers bitcoin under Bitcoin’s rules.
-
-## Transaction fee / miner fee
-
-A fee paid for an on-chain transaction to be included in a block.
-
-## Dust transaction
-
-A transaction output with such a small bitcoin amount that spending it may cost more in fees than it is worth.
-
-## Fee rate
-
-The transaction fee offered per unit of transaction data, commonly measured in sats per virtual byte (sat/vB).
-
-## Fee estimation
-
-A wallet’s attempt to choose an appropriate transaction fee.
-
-## Transaction ID / txid
-
-A unique identifier used to find and discuss an on-chain Bitcoin transaction.
-
-## Block explorer
-
-A tool for viewing public Bitcoin data such as transactions, addresses, blocks, fees, and confirmations.
-
-## Transaction input / output
-
-An input identifies bitcoin being spent; an output states where bitcoin is assigned next, including any change returned to the sender.
-
-## UTXO / unspent transaction output
-
-A transaction output that is available to be spent under Bitcoin’s rules.
-
-## Virtual byte (vB)
-
-A unit used to express the weight of Bitcoin transaction data. Fee rates are often shown in sats per vB.
-
-## Satoshis per byte (sat/b)
-
-A legacy unit for expressing a transaction fee rate per byte of transaction data.
-
-## Epoch
-
-A group of 210,000 Bitcoin blocks, the interval between scheduled halvings.
-
-## Block reward
-
-The bitcoin paid to a miner for a valid block: the block subsidy plus the transaction fees in that block.
-
-## OP_RETURN
-
-A Bitcoin transaction output that can carry a small amount of data and cannot be spent.
-
-## Timechain
-
-A term sometimes used for Bitcoin’s blockchain to emphasize its ordered, time-stamped history.
-
-## On-chain payment
-
-A payment recorded directly in Bitcoin’s blockchain.
-
-## Base-layer settlement
-
-Final settlement directly on Bitcoin’s blockchain.
-
-## Lightning Network (LN)
-
-A payment network built above Bitcoin.
-
-## Layer 1
-
-The base Bitcoin protocol that validates transactions, reaches consensus, and produces blocks.
-
-## Layer 2
-
-A system built on a base network to add capacity or features.
-
-## Payment channel
-
-A mechanism for updating payments off-chain.
-
-## Atomic swap
-
-A mechanism for directly exchanging bitcoin for another asset without an intermediary, so either both parts of the exchange happen or neither does.
-
-## Lightning routing
-
-Passing a payment through connected Lightning channels.
-
-## Lightning routing fee
-
-A fee a Lightning node may charge for forwarding a payment through a channel.
-
-## Lightning liquidity
-
-Channel capacity available to move a Lightning payment.
-
-## Lightning invoice
-
-A usually specific Lightning payment request.
-
-## Lightning offer
-
-A reusable Lightning payment request.
-
-## Lightning address
-
-A human-readable Lightning receiving identifier.
-
-## On-ramp
-
-A way to move value into bitcoin.
-
-## Off-ramp
-
-A way to move value from bitcoin into local money, goods, or services.
-
-## Peg
-
-A fixed or targeted exchange relationship between two currencies or assets.
-
-## Unbanked
-
-People or communities without access to traditional banking services.
-
-## KYC
-
-Identity checks required by a financial service.
-
-## No-KYC (preferred; also called non-KYC)
-
-A path collecting less or no standard KYC information. Use no-KYC throughout this curriculum; non-KYC is an alternative term.
-
-## Bitcoin circular economy
-
-A community network in which people earn, spend, save, and exchange bitcoin locally.
-
-## Community custody
-
-A person or group controls bitcoin for others.
-
-## Shared funds
-
-Funds controlled for more than one person under agreed rules.
-
-## Liquid
-
-A Bitcoin sidechain.
-
-## Ecash
-
-Digital cash-like value issued by a mint.
-
-## Fedimint
-
-Software for federated community custody and ecash services.
-
-
+**Fedimint**: Software for federated community custody and ecash services.
