@@ -24,4 +24,6 @@ This module develops careful economic reasoning beyond the beginner Diploma. It 
 
 ## Boundary
 
-Use fictional scenarios rather than learners’ finances. The module must not recommend bitcoin, a portfolio allocation, a provider, or a timing decision.
+> **Callout – Models explain trade-offs; they do not make personal decisions**
+>
+> Use fictional scenarios rather than learners’ finances. The module must not recommend bitcoin, a portfolio allocation, a provider, or a timing decision.

@@ -24,4 +24,6 @@ Money has developed through social relationships, technology, law, trade, confli
 
 ## Boundary
 
-Local history must be researched and dated before publication or teaching. This module explains history; it does not provide financial, legal, tax, or investment advice.
+> **Callout – Verify local history and keep the boundary clear**
+>
+> Local history must be researched and dated before publication or teaching. This module explains history; it does not provide financial, legal, tax, or investment advice.

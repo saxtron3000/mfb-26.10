@@ -20,6 +20,10 @@ Guided exploration
 
 Participants use mempool.space to inspect recent blocks, transactions, fees, inputs, outputs, and block rewards. The activity introduces the difference between a [node](../mfb-lx-26.10.md#term-node)’s mempool and a [block explorer](../mfb-lx-26.10.md#term-block-explorer), uses block-height examples to discuss [halvings](../mfb-lx-26.10.md#term-halving) and epochs, and optionally explores block art and other network data.
 
+> **Callout – Use prepared public examples only**
+>
+> Do not search a learner's or another person's address, transaction, balance, or payment history on a public explorer. Public searches can expose financial information and reveal interest in that data to the explorer operator.
+
 # Preparation
 
 ## Materials

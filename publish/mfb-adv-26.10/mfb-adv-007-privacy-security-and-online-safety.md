@@ -24,4 +24,6 @@ This module introduces threat modelling, phishing and impersonation, device and 
 
 ## Boundary
 
-Do not frame privacy as a guarantee or as a way to evade lawful obligations. Educators should use fictional examples and direct learners facing abuse, theft, or urgent danger to appropriate local support.
+> **Callout – Privacy is not a guarantee or a route around lawful obligations**
+>
+> Educators should use fictional examples and direct learners facing abuse, theft, or urgent danger to appropriate local support.

@@ -24,4 +24,6 @@ Cryptography is a foundation for understanding Bitcoin without trusting it as ma
 
 ## Boundary
 
-Activities must use safe examples, simulations, or test environments. Never ask learners to share seed phrases, private keys, passwords, or personal account details.
+> **Callout – Use safe examples only**
+>
+> Activities must use safe examples, simulations, or test environments. Never ask learners to share seed phrases, private keys, passwords, or personal account details.

@@ -913,6 +913,10 @@ Before a live tool demonstration:
 
 ### Universal stop conditions
 
+> **Callout – Stop immediately when a safety check fails**
+>
+> Stopping is a successful safety behavior. Protect people and secrets, verify the issue, and use a prepared safe route or postpone the activity. Do not shame the learner who notices a problem.
+
 Stop the activity immediately if:
 
 - a real [seed phrase](../mfb-lx-26.10.md#term-seed-phrase), [private key](../mfb-lx-26.10.md#term-private-key), password, or credential appears;
@@ -926,8 +930,6 @@ Stop the activity immediately if:
 - internet, power, or device failure removes a required safety check; or
 - the educator cannot explain what will happen next.
 
-Stopping is a successful safety behavior. Do not shame the learner who notices a problem.
-
 <!-- VISUAL: BD-V-090
 ALT: An unsafe or unexplained condition stops the activity. The educator protects people and secrets, verifies the issue, and uses a safe prepared route or postpones. A learner safety-critical assessment error is recorded as Not yet under the protocol.
 ASSET: assets/briefs/bd-v-090-brief.md
@@ -936,9 +938,11 @@ USE: Educator-only diagram; see the asset index brief.
 
 ### No real secrets in class
 
-Use prepared recovery words, clearly marked training material, or an empty disposable wallet for recovery practice. Recovery words may be used for an empty disposable training wallet, but never for a learner's personal or funded wallet. Never create a classroom process in which another person can observe a learner's lasting recovery information.
-
-Do not ask learners to prove [self-custody](../mfb-lx-26.10.md#term-self-custody) by showing a [seed phrase](../mfb-lx-26.10.md#term-seed-phrase). Proof of competence is safe handling and explanation, not disclosure.
+> **Callout – No real secrets in class**
+>
+> Use prepared recovery words, clearly marked training material, or an empty disposable wallet for recovery practice. Never use a learner's personal or funded wallet, or create a process in which anyone can observe lasting recovery information.
+>
+> Do not ask learners to prove [self-custody](../mfb-lx-26.10.md#term-self-custody) by showing a [seed phrase](../mfb-lx-26.10.md#term-seed-phrase). Proof of competence is safe handling and explanation, not disclosure.
 
 ### Shared devices
 
@@ -2034,7 +2038,9 @@ ASSET: assets/briefs/bd-v-091-brief.md
 USE: Educator-only diagram; see the asset index brief.
 -->
 
-**Required safety response:** If a real seed may have been exposed, stop using it as a safe backup, create a new trusted wallet with new recovery information, and move funds after carefully verifying the destination. The learner should seek help without revealing either phrase.
+> **Callout – Treat an exposed seed phrase as compromised**
+>
+> If a real seed may have been exposed, stop using it as a safe backup, create a new trusted wallet with new recovery information, and move funds after carefully verifying the destination. The learner should seek help without revealing either phrase.
 
 Inheritance, [multisignature](../mfb-lx-26.10.md#term-multisignature) design, advanced passphrases, and high-value recovery planning may require advanced security and professional legal advice. They are outside required Diploma performance.
 
@@ -2538,6 +2544,10 @@ The next step may be further learning, another simulation, checking a current ru
 
 ### Module 4 readiness gate
 
+> **Callout – Do not deliver a live Module 4 activity until every check passes**
+>
+> If a check below is not satisfactory, use a simulation, printed route, or a different activity. Do not compensate for an unsafe or unverified route by asking learners to accept more risk.
+
 Do not deliver a live module until every required answer is satisfactory.
 
 | Readiness question | Ready when | If not ready |
@@ -2618,8 +2628,8 @@ Do not demonstrate a tool simply because it is popular locally. Use this compari
 | Law and records | Which local restrictions, consumer rules, tax, accounting, or reporting duties may matter? |
 | Alternative | What can learners use if the tool fails or is unavailable? |
 
-Say explicitly:
-
+> **Callout – Local example, not a global recommendation**
+>
 > This tool is a dated local example for learning. Its use in class is not a global recommendation by My First Bitcoin or a promise that it will remain suitable.
 
 ### Lightning module checklist
@@ -2636,7 +2646,9 @@ Before a Lightning workshop, verify and explain:
 - how both parties independently confirm the result; and
 - the offline simulation.
 
-A successful small Lightning payment shows that the selected path worked once. It does not prove that the wallet is safe for larger balances or that the same path will work in every place.
+> **Callout – One successful Lightning payment proves only that this route worked once**
+>
+> It does not prove that the wallet is safe for larger balances or that the same path will work in every place.
 
 <!-- VISUAL: BD-V-059
 ALT: A receiver creates a request, the sender scans and verifies, approval is followed by routing, and both wallets show a result; failure and custody remain visible.
@@ -2972,6 +2984,8 @@ Do not:
 
 Use wording such as:
 
+> **Callout – Current local guidance, not individual advice**
+>
 > Local rules may affect this path. The current public guidance we checked on [date] says ________. This is an educational summary, not advice for an individual situation. A qualified local professional or authority should answer case-specific questions.
 
 ### Named tools, services, and resources

@@ -28,7 +28,7 @@ If participants do not have cell phones, provide a shared device, paper simulati
 ## Setup
 Choose a new temporary-wallet route, an approved backup-check or recovery route, or an educator demonstration. Check the exact wallet's official instructions and compatibility before class. The temporary environment must be empty, simulated, or otherwise approved for low-stakes practice.
 
-> **Educator safety note**
+> **Callout – Educator safety note**
 >
 > For safety, do not use any wallet, device, account, or recovery material used in this activity to hold funds. Learners should create any wallet intended to hold funds later, in a secure environment, by repeating the safe steps they have learned.
 

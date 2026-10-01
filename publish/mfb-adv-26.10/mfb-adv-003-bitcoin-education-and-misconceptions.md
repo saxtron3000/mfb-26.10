@@ -24,4 +24,6 @@ Bitcoin is often presented through slogans, fear, hype, or technical jargon. Thi
 
 ## Boundary
 
-Do not promise outcomes, pressure learners to acquire bitcoin, or use education to promote named products or services. Treat local experience as valuable evidence, not as universal proof.
+> **Callout – Do not pressure learners or promote products**
+>
+> Do not promise outcomes, pressure learners to acquire bitcoin, or use education to promote named products or services. Treat local experience as valuable evidence, not as universal proof.

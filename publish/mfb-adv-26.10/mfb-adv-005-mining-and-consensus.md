@@ -24,4 +24,6 @@ Bitcoin’s network works through distributed verification and economic incentiv
 
 ## Boundary
 
-Mining economics, energy use, regulations, and hardware conditions vary by place and time. Use dated, sourced evidence for current claims and do not present mining as an income opportunity.
+> **Callout – Do not present mining as an income opportunity**
+>
+> Mining economics, energy use, regulations, and hardware conditions vary by place and time. Use dated, sourced evidence for current claims.

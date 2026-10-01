@@ -200,11 +200,13 @@ If you use the optional [My First Bitcoin App](https://myfirstbitcoin.app/) on a
 
 ### Safety, responsibility, and no financial advice
 
-This Diploma is for educational purposes only. It does not provide financial, investment, legal, or tax advice. It does not promise that bitcoin will increase in price. It does not recommend that you buy, sell, borrow against, or hold any amount of bitcoin.
-
-The Diploma is Bitcoin-only. Other tokens, trading products, and broader cryptocurrency promotion are outside its scope. This boundary defines the subject of the course; it is not a guarantee about Bitcoin or a recommendation to acquire it.
-
-Bitcoin's market price can change quickly. Transactions can be difficult or impossible to reverse. A lost seed phrase, exposed private key, dishonest custodian, software error, or scam can cause permanent loss.
+> **Callout – Learn first; this is not a recommendation**
+>
+> This Diploma is for educational purposes only. It does not provide financial, investment, legal, or tax advice. It does not promise that bitcoin will increase in price or recommend that you buy, sell, borrow against, or hold any amount of bitcoin.
+>
+> The Diploma is Bitcoin-only. Other tokens, trading products, and broader cryptocurrency promotion are outside its scope. This boundary defines the subject of the course; it is not a guarantee about Bitcoin or a recommendation to acquire it.
+>
+> Bitcoin's market price can change quickly. Transactions can be difficult or impossible to reverse. A lost seed phrase, exposed private key, dishonest custodian, software error, or scam can cause permanent loss.
 
 Use three rules throughout the course:
 
@@ -791,13 +793,15 @@ ASSET: assets/briefs/bd-v-028-brief.md
 
 The 21 million limit is enforced by nodes. If a miner creates more bitcoin than the rules allow, validating nodes reject the block. A software developer can write different code, but cannot force other people to run it.
 
-Bitcoin's supply rule is credible because it is public, easy to verify with a node, and difficult for one party to change. It is not a physical law. It is a network rule that remains effective while participants continue to enforce it.
-
-Many digital assets can claim a limited supply. The beginner question is whether the limit is credible in practice, not only whether it is written in a document or displayed on a website.
+> **Callout – Why fixed supply matters—and what it does not mean**
+>
+> Bitcoin's supply rule is public, independently verifiable, and difficult for one party to change because validating nodes enforce it. It is not a physical law: it remains effective while participants continue to enforce it. A limited supply does not guarantee a rising market price; price also depends on demand.
+>
+> Many digital assets can claim a limited supply. Ask whether the limit is credible in practice, not only whether it is written in a document or displayed on a website.
 
 **Spot question:** What are the advantages of Bitcoin having a limited supply? What would be the effect of increasing the supply of Bitcoin on purchasing power? Who would reject an increase in supply?
 
-Finite supply does not guarantee a rising market price. Price depends on demand as well as supply. It also does not mean every bitcoin is available for sale; some may be held long term or become inaccessible because keys were lost.
+Finite supply also does not mean every bitcoin is available for sale; some may be held long term or become inaccessible because keys were lost.
 
 ### Satoshis and unit bias
 
@@ -986,6 +990,10 @@ A **Bitcoin wallet** is a tool that manages the information needed to receive an
 
 What would happen if your phone stopped working? The Bitcoin record would still exist, but access would depend on the keys and recovery method the wallet uses. A wallet helps create receiving information, show balances and transaction history, and authorize spending. It does not remove the need to understand who controls access.
 
+> **Callout – A wallet manages access; it does not hold bitcoin**
+>
+> Bitcoin is recorded on the shared ledger, not inside your phone. Before using a wallet, know who controls the keys, how access is recovered, and what would happen if the device or service failed.
+
 <!-- VISUAL: BD-V-035
 ALT: Wallet interface coordinating keys and transaction instructions while bitcoin remains recorded on the ledger.
 ASSET: assets/briefs/bd-v-035-brief.md
@@ -1045,6 +1053,10 @@ ASSET: assets/briefs/bd-v-037-brief.md
 A **seed phrase**, also called a recovery phrase, is an ordered list of words that many wallets use to back up the information needed to recreate their keys. Common lengths are 12 or 24 words, although wallet designs differ.
 
 The order and spelling of the words matter. If a person has the seed phrase, they can often restore the wallet on another compatible device and spend the funds. The seed phrase is therefore not only a backup. It is full access.
+
+> **Callout – Never share recovery information**
+>
+> Public receiving information can be shared. A private key, seed phrase, password, or recovery code must remain secret. No legitimate educator, wallet company, exchange employee, support worker, or Bitcoin developer needs it. If a seed phrase may have been seen, copied, entered online, or stored on an untrusted device, treat it as compromised and seek help without revealing it.
 
 <!-- VISUAL: BD-V-038
 ALT: Recovery relationship from a secret wallet backup to recreated keys, expected addresses, and transaction access.
@@ -1166,6 +1178,10 @@ A message or screenshot that says “sent” is not proof. What evidence can you
 
 Sending needs more care because a valid Bitcoin transaction is usually irreversible. Before you touch the approve button, can you explain who will receive the payment and why?
 
+> **Callout – Stop and verify before sending**
+>
+> Confirm the recipient, payment method, destination, amount and unit, fee or expiry, and final screen. If anything differs from the trusted request, or someone creates urgency or asks for recovery information, stop and verify independently. Use a small test when the process is unfamiliar.
+
 1. Confirm the recipient and purpose through a trusted channel.
 2. Confirm the payment method: on-chain or Lightning.
 3. Scan or enter the destination, then compare it with the trusted receiving screen.
@@ -1189,6 +1205,10 @@ A **transaction ID** (*txid*) identifies an on-chain transaction. A **block expl
 What can this public information show, and what can it not show? It can show a transaction's status, destination, amount, fee, and confirmation count; it cannot prove why a payment happened or whether a person is trustworthy. An on-chain transaction is unconfirmed after it is broadcast and gains its first confirmation when included in a valid block. Later blocks add confidence to its place in the record, but they do not fix a wrong destination or a scam. There is no universal confirmation count for every payment; the suitable check depends on the amount and risk.
 
 To inspect a prepared transaction, obtain its *txid*, open a trusted explorer for the intended Bitcoin network, and check the status, destination, amount, fee, and confirmations. An explorer is only an interface. Searching an address or *txid* may reveal to its operator that your device is interested in that information. For practice, use an educator-prepared transaction or printed screenshot. Do not search a learner's personal address or transaction on a public service.
+
+> **Callout – Public data is not proof of identity or honesty**
+>
+> A block explorer can show public transaction data, but it cannot prove who controls an address, why a payment happened, or whether a recipient is trustworthy. Use prepared examples for practice and protect privacy when searching public services.
 
 ### Safety checklist
 
@@ -1217,6 +1237,10 @@ Protect secrets by keeping seed phrases and private keys offline and out of view
 #### Awareness, not financial advice
 
 People may receive bitcoin through work, a community payment, a peer exchange, an ATM, or a service. Each pathway has different costs, custody, privacy, fraud, legal, and operational trade-offs. This Diploma does not recommend a provider or tell you which path to use.
+
+> **Callout – Compare the full route, not a promise or headline fee**
+>
+> No pathway is automatically best everywhere. Check custody, total cost, identity data, withdrawal limits, counterparty and physical safety, and current local rules. This course provides comparison questions, not a provider recommendation or personal financial advice.
 
 - **Earning or receiving:** Bitcoin may be received for work, goods, services, a gift, a refund, or a community payment. The parties still need to agree on the amount, timing, and payment method.
 - **Peer-to-peer exchange:** Two people may exchange fiat money or goods for bitcoin directly or through a matching service. This can introduce counterparty, physical-safety, payment-reversal, and fraud risks.
@@ -1253,6 +1277,10 @@ ASSET: assets/briefs/bd-v-050-brief.md
 -->
 
 Bitcoin has more than one payment path. **On-chain** payments are recorded in Bitcoin's blockchain and gain confirmations. **Lightning** is a payment network built on Bitcoin that can support fast, frequent payments. A Lightning payment may complete quickly or fail, and its wallet can still be custodial or self-custodial.
+
+> **Callout – Payment path does not determine custody**
+>
+> On-chain and Lightning payments make different trade-offs. A Lightning wallet can be custodial or self-custodial, and a fast successful payment does not prove that a service is suitable for larger balances or every situation.
 
 | Question | On-chain Bitcoin | Lightning |
 | --- | --- | --- |
@@ -1404,6 +1432,10 @@ ASSET: assets/briefs/bd-v-058-brief.md
 -->
 
 Local bitcoiners may use wallets, exchanges, peer-to-peer markets, merchant tools, maps, meetups, hardware devices, and education resources. Availability and quality can change quickly.
+
+> **Callout – A local example is not a My First Bitcoin recommendation**
+>
+> A local tool or service is a dated example for learning, not a promise of safety, availability, low cost, or suitability. Verify its source, custody model, recovery process, privacy, costs, compatibility, support, and current local status before real use.
 
 Use this comparison before adopting a tool:
 
@@ -1611,6 +1643,10 @@ ASSET: assets/briefs/bd-v-064-brief.md
 -->
 
 KYC and no-KYC pathways make different trade-offs. Neither label removes the need for careful evaluation.
+
+> **Callout – Privacy does not remove legal or physical-safety risk**
+>
+> Neither KYC nor no-KYC is automatically best. Compare the actual pathway, use current local guidance when rules are unclear, and do not break local law or expose yourself to physical danger in pursuit of privacy.
 
 A KYC service may request a legal name, identity document, address, photograph, source-of-funds information, or other records. This may allow the service to meet local rules, connect to banks, set higher limits, or support account recovery.
 

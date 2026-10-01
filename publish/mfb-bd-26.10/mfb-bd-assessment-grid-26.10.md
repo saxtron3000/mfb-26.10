@@ -8,6 +8,10 @@ This grid is a light-touch structure to help you see what learners are learning 
 
 The 2026.10 curriculum is a framework-first release. This grid does not by itself make a local route ready for certificated delivery. Before issuing completion certificates, prepare the selected tasks and local variants, observation capacity, accessibility routes, and proportionate local privacy, correction, and appeals arrangements. Certification is decentralized: the named educator assesses the learner and issues the certificate. My First Bitcoin does not centrally evaluate, issue, verify, or guarantee learner competency.
 
+> **Callout – Keep assessment safe and minimal**
+>
+> Learners should never need to risk significant funds or expose secrets to show competence. Record only the minimum information needed for assessment; never record seed phrases, private keys, credentials, balances, or unnecessary personal information.
+
 Use one row per learner on Page 2. For each competency, record **Showing competency: Yes** (✓) or **Showing competency: Not yet** (✕); leave it blank when not assessed. “Not yet” means the learner is building competency and needs more practice or another opportunity. Educators may return to reassess the competency at any point. Decimal `C` identifiers are educator look-fors within the related competency, not separate results. If you are new to teaching or would like more support, the Educator Training Program is a recommended pathway, not a requirement.
 
 ### What learners can show

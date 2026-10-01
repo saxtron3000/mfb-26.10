@@ -24,4 +24,6 @@ This module examines custody models, signing devices, seed phrases, backups, pas
 
 ## Boundary
 
-Never collect, inspect, photograph, transmit, or store learner seed phrases or private keys. This educational module is not personal security, legal, estate-planning, or financial advice.
+> **Callout – Never collect or inspect learner secrets**
+>
+> Never collect, inspect, photograph, transmit, or store learner seed phrases or private keys. This educational module is not personal security, legal, estate-planning, or financial advice.

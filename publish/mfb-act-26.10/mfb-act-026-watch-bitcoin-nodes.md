@@ -15,6 +15,10 @@ Video discussion
 
 # Description
 Participants watch “How To Setup Bitcoin Core,” a video about setting up Bitcoin Core as a Bitcoin node, then discuss how a node validates newly arriving blocks and keeps a local copy of the blockchain. The activity introduces Bitcoin Core as one option for running a node without presenting it as the only option or a global recommendation.
+
+> **Callout – View and discuss; do not require installation**
+>
+> This activity teaches the role of a node. Do not require learners to install software, run infrastructure, use personal devices, or expose personal network information.
 # Preparation
 
 ## Materials

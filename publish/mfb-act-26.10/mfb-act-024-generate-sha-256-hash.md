@@ -15,6 +15,10 @@ Online exercise
 
 # Description
 Participants use an online SHA-256 generator to hash a message, repeat the same input, and then alter the message slightly. Comparing the results shows that identical inputs produce identical fixed-length outputs while small changes produce very different hashes, supporting later discussion of one-way hash functions and [proof of work](../mfb-lx-26.10.md#term-proof-of-work).
+
+> **Callout – Use fictional, non-sensitive text only**
+>
+> Never paste a seed phrase, private key, password, recovery code, personal information, or a real financial record into an online hash tool.
 # Preparation
 
 ## Materials

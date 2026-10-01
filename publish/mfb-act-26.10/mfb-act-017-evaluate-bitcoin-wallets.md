@@ -15,6 +15,10 @@ Research and discussion
 
 # Description
 Participants examine prepared, locally relevant Bitcoin and Lightning [wallet](../mfb-lx-26.10.md#term-bitcoin-wallet) information, recording when sources were checked. They compare options using [custody](../mfb-lx-26.10.md#term-custody), recovery, payment compatibility, [privacy](../mfb-lx-26.10.md#term-privacy), cost, maintenance, support, and [open-source](../mfb-lx-26.10.md#term-open-source-software) inspectability, then explain which option may fit a stated fictional or learner need without presenting a global recommendation.
+
+> **Callout – Compare tools; do not recommend or activate one**
+>
+> Use prepared information and fictional needs. Do not ask learners to choose a real service, use personal funds, or disclose private information. A local example is not a global My First Bitcoin recommendation.
 # Preparation
 
 ## Materials

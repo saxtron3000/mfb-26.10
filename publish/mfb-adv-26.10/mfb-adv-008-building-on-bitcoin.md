@@ -24,4 +24,6 @@ Bitcoin’s base layer makes deliberate trade-offs. Builders and users may use a
 
 ## Boundary
 
-Do not require learners to use personal funds, open channels, run infrastructure, or adopt a named service. Building on Bitcoin involves real technical and operational trade-offs; this module teaches analysis, not product endorsement.
+> **Callout – Analyse; do not require real-world adoption**
+>
+> Do not require learners to use personal funds, open channels, run infrastructure, or adopt a named service. Building on Bitcoin involves real technical and operational trade-offs; this module teaches analysis, not product endorsement.

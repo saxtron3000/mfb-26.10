@@ -94,4 +94,6 @@ All source items are English, version 1.0, and require independent factual and e
 - Do not treat the review reference as an in-app link. The current app displays plain text only and shows every question in a quiz on the same screen.
 - Do not store or share a learner’s score with an educator.
 - Do not label a score pass or fail.
-- Do not request seed phrases, private keys, wallet passwords, holdings, or other personal financial information.
+> **Callout – Never request secrets or personal financial information**
+>
+> Do not request seed phrases, private keys, wallet passwords, holdings, or other personal financial information.

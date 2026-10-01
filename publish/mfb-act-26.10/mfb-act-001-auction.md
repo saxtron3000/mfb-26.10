@@ -20,6 +20,10 @@ Auction
 
 Students take part in a three-round auction using Monopoly money, candy bars, and a shared classroom tracking table. As the teacher adds unequal amounts of money between rounds, students compare the total money supply with winning bids and discuss monetary inflation, [price inflation](../mfb-lx-26.10.md#term-price-inflation), and the distributional effects of new money.
 
+> **Callout – This is a simplified classroom model**
+>
+> The auction illustrates one possible mechanism. It does not by itself prove that every price change has one cause or predict outcomes in a real economy. Compare its assumptions with evidence and other explanations.
+
 # Preparation
 
 ## Materials
