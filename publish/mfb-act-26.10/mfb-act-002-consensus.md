@@ -1,12 +1,16 @@
 # Activity Title: Consensus
 
 ## Keywords
+
 **Consensus** **Ledgers** **Verification** **Networks**
 
 ## Activity Type
+
 Role-play
 
 ## Participation
+
+Whole class; each participant keeps a record in the final scenario.
 
 ## Duration
 
@@ -14,162 +18,113 @@ Role-play
 
 ## Objective
 
-- Participants practice maintaining a shared record and recognize how independent verification supports consensus.
+- Learners practice maintaining a shared record and compare one record keeper with independent checking against stated rules.
+- Learners identify both the value and limits of a classroom analogy for Bitcoin consensus.
 
 # Description
 
-Participants first track a simple set of transactions, then compare a bank-controlled [ledger](../mfb-lx-26.10.md#term-ledger) with a ledger independently maintained by every student. The banker’s ability to create money for a favored participant shows why shared verification matters, and the final discussion connects classroom agreement to Bitcoin’s [decentralized](../mfb-lx-26.10.md#term-decentralization) consensus process.
+Participants first track simple transfers, then compare a single designated record keeper with a group in which everyone keeps a copy of the same record. The educator introduces an entry that conflicts with the scenario's initial supply rule. Learners decide what the stated rules permit and compare the two recordkeeping arrangements.
+
+> **This is a simplified classroom model**
+>
+> The activity represents a shared record and rule checking. It does not reproduce Bitcoin's digital signatures, peer-to-peer message propagation, mining competition, proof-of-work difficulty, forks, incentives, or security assumptions. It does not show that one form of coordination is always better than another.
 
 # Preparation
 
 ## Materials
 
-- Something for all participants to use to track, e.g., blank paper and pens
-- Calculators for participants are helpful, but not required
-- For online classes, participants can use spreadsheets
+- Paper and pens for every participant
+- Calculators, if useful
+- A whiteboard, paper chart, or projected spreadsheet
 
 ## Setup
 
-There is very little setup needed. Distributing paper, pens, and calculators before class will speed up the activity.
-
-Have your whiteboard or spreadsheet display ready before class as well. For example, draw the tracking tables before class. This will save time during the activity.
-
-Read through the steps in this guide a few times. Familiarize yourself with how each step builds upon the previous one. You will start simple and gradually work towards Bitcoin consensus.
-
-Practice doing the math as if you were the student. This is very important. This preparation will ensure your class runs smoothly.
-
-In this activity you are going to facilitate three scenarios.
-
-1. In the first scenario, participants track a simple set of transactions between three people. An analogy is friends lending each other money. It is simple enough that many will be able to do it without pen and paper.
-2. The second scenario involves seven entities (a bank plus six people). ONE student is designated as the oﬃcial tracker for the whole class.
-3. The third and last scenario repeats the prior one with an important change: this time, ALL participants track. No one can do any special favors (e.g., the banker cannot help his friend).
-
-This sets up the transition to discuss Bitcoin. Everyone can track the Bitcoin ledger for themselves, yet we are able to reach agreement (consensus) without a banker or other centralized tracker.
+Prepare the tables below. Explain the rules before the role-play: each transfer changes the record only if it is permitted by the stated starting balances and rules. In the final scenario, participants should compare their records after each step; agreement is not a vote on what they prefer, but a check of whether the same stated rules and earlier entries produce the same result.
 
 # Procedure
 
-## Step 1: Memory Only
+## Step 1: Track a short record
 
-Ask participants to pick a fun medium of exchange other than bitcoin. Examples include dollars, monopoly money, pieces of candy, rocks, sheep, anything.
+Ask participants to track these transfers. They may work from memory first and then use paper.
 
-Since no physical items are necessary for this exercise, it does not matter what they choose. Explain to the class that you, the teacher, will be the guide for this exercise. Designate two participants (or tables of participants) to represent RED and BLUE.
+1. TEACHER starts with 21 widgets; RED and BLUE start with none.
+2. TEACHER pays 2 widgets to RED.
+3. TEACHER pays 5 widgets to BLUE.
+4. BLUE pays 1 widget to RED.
+5. TEACHER pays 5 widgets to RED.
 
-Challenge participants to track who has what using only memory if they can. Using pen and paper is fine as well.
+|  | TEACHER | RED | BLUE |
+| --- | ---: | ---: | ---: |
+| Starting balance | 21 | 0 | 0 |
+| After step 2 | 19 | 2 | 0 |
+| After step 3 | 14 | 2 | 5 |
+| After step 4 | 14 | 3 | 4 |
+| After step 5 | 9 | 9 | 4 |
 
-Give them time between steps to talk with one another.
+Ask learners how they checked their result and what information they needed.
 
-1. The TEACHER has 21 widgets, coins or whatever medium of exchange the participants picked, and RED and BLUE have none
-2. TEACHER pays 2 widgets to RED
-3. TEACHER pays 5 widgets to BLUE
-4. BLUE pays 1 widget to RED
-5. TEACHER pays 5 widgets to RED
+## Step 2: One designated record keeper
 
-**Ask how much the TEACHER has, how much RED has, and how much BLUE has.**
+Tell the class that a BANKER begins with 2,100 play-money units and pays 200 units to each of six participants: RED, BLUE, PURPLE, BLACK, ORANGE, and GREEN. Designate one learner as the official record keeper.
 
-**Show or draw this table to clarify**
+1. Record the starting balance and the six payments. The BANKER has 900 units remaining.
+2. BLUE pays GREEN 200 units. Update the record.
+3. BANKER pays ORANGE 800 units. Update the record. The BANKER now has 100 units.
+4. Propose a new entry: BANKER adds 600 units to BLUE's balance.
 
-|  |  | TEACHER | RED | BLUE |
-| --- | --- | ---: | ---: | ---: |
-| STEP 1 | TEACHER starts with 21 | 21 | 0 | 0 |
-| STEP 2 | TEACHER pays 2 to RED | 19 | 2 | 0 |
-| STEP 3 | TEACHER pays 5 to BLUE | 14 | 2 | 5 |
-| STEP 4 | BLUE pays 1 to RED | 14 | 3 | 4 |
-| STEP 5 | TEACHER pays 5 to RED | 9 | 9 | 4 |
+Ask the class: under the initial rules, is Step 4 a valid payment, a newly authorized issuance, an error, or something else? Who has the authority to answer in this scenario? Make clear that the answer depends on the rules you gave the record keeper; the activity has not shown that all single-record systems work the same way.
 
-**The correct answers are 9 for TEACHER, 9 for RED, 4 for BLUE.**
+## Step 3: Independent checking of the same rules
 
-## Step 2: Single-Ledger Tracker
+Repeat the scenario with every participant maintaining a record. After each entry, participants compare balances and state whether the entry follows the initial rules.
 
-Tell the participants there will now be six colors and a bank. You, the teacher, will be the bank and you virtually distribute the money.
+At the proposed addition of 600 units, ask participants to distinguish two questions:
 
-**For this example, we are using 100 Monopoly dollars.** Explain that the class will have one designated student as the official tracker.
+1. Does the entry balance mathematically?
+2. Does the entry follow the supply and authorization rules the group agreed at the start?
 
-1. The BANKER has 2,100 Monopoly dollars
-2. The BANKER pays each player 200. Ask the designated student tracker to update the ledger and tell the class how much the BANKER now has (900).
-3. BLUE pays GREEN 200 (ask the designated student tracker to give a new summary of who has how much)
-4. BANKER pays ORANGE 800 (designated student tracker gives update)
+If the group rejects the entry under its initial rules, ask what would have to change for it to be accepted: the record, the rule, the authority to change the rule, or the group’s interpretation. This helps learners see that distributed copies do not themselves create a rule; participants must also apply and enforce common rules.
 
-|  |  | BANKER | RED | BLUE | PURPLE | BLACK | ORANGE | GREEN |
-| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| STEP 1 | BANKER starts with 2,100 | 2,100 | 0 | 0 | 0 | 0 | 0 | 0 |
-| STEP 2 | BANKER pays each color 200 | 900 | 200 | 200 | 200 | 200 | 200 | 200 |
-| STEP 3 | BLUE pays GREEN 200 | 900 | 200 | 0 | 200 | 200 | 200 | 400 |
-| STEP 4 | BANKER pays ORANGE 800 | 100 | 200 | 0 | 200 | 200 | 1,000 | 400 |
+## Connect the model to Bitcoin carefully
 
-5. Tell the class that BLUE landed on a hotel on Broadway and needs 600 to pay GREEN. Ask if the bank (aka teacher) has enough?
-6. Explain that because **you, the teacher, are the banker, you can create money.** You decide that you like BLUE. BLUE is a friend of yours, and you do not want them to go bankrupt, so you create 600 from nowhere.
-7. You then give your friend BLUE 600
+Explain that Bitcoin users may choose to run software that independently validates transactions and blocks against Bitcoin’s rules. Many users instead rely partly on wallets or other services, so it is inaccurate to say that every user keeps a full copy of the ledger.
 
-|  |  | BANKER | RED | BLUE | PURPLE | BLACK | ORANGE | GREEN |
-| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| STEP 5 | BLUE needs 600 to pay GREEN for his hotel on Broadway | 100 | 200 | 0 | 200 | 200 | 1,000 | 400 |
-| STEP 6 | BANKER declares it has printed 600 more dollars from nowhere | 700 | 200 | 0 | 200 | 200 | 1,000 | 400 |
-| STEP 7 | BANKER pays its friend, BLUE, 600 | 100 | 200 | 600 | 200 | 200 | 1,000 | 400 |
-
-## Step 3: Make the Bad Banker Stop
-
-**Make the Bad Banker Stop**
-
-Inform the class you are repeating the exact exercise with one major diﬀerence. This time, instead of having one tracker, every student uses their own tracking sheet.
-
-**ALL participants create and update a table.**
-
-After each step, ask if everyone agrees on who has how much.
-
-At the point where the BANKER does not have enough money to help their friend BLUE, how many participants agree?
-
-**In Step #2, agreement in the class (aka consensus) was dependent upon one person, the bank. In Step #3, agreement really is a consensus.**
-
-**Explain that with Bitcoin, everyone has their own ledger.**
-
-There are thousands of [Node Runners](../mfb-lx-26.10.md#term-node), people who run Bitcoin on their own computers and keep their own copy of the ledger, also called the [blockchain](../mfb-lx-26.10.md#term-blockchain). Instead of one central bank keeping track, it is tens of thousands of Bitcoiners keeping the decentralized ledger in sync.
-
-**CONSENSUS means the network agrees the protocol was followed correctly and disregards transactions that do not follow the protocol,** such as the creation of extra bitcoin the BANKER did in this classroom example.
+At beginner level, describe the process as follows: transactions are broadcast; miners propose blocks using proof of work; and nodes independently accept or reject blocks according to their validation rules. Nodes converge on a history with the most accumulated proof of work. This is a useful comparison with the classroom exercise, but the exercise omits important technical and social details.
 
 # Review
 
-## Key Points
+## Key points
 
-1. **Consensus = agreement.**
-2. One big diﬀerence between a group with centralized control and one without is the question of trust. Decentralized groups like [peer-to-peer networks](../mfb-lx-26.10.md#term-peer-to-peer-network) do not have a leader and participants do not trust each other. They require a diﬀerent way to coordinate.
-3. For developers of peer-to-peer networks, this is known as the Byzantine Generals Problem. Bitcoin solves this challenge with math and [proof-of-work](../mfb-lx-26.10.md#term-proof-of-work) mining.
-4. Bitcoin being decentralized is critical to its value. Historically, human leaders have always succumbed to the temptation to debase money over the long term.
-5. The Nakamoto Consensus is named after the creator of Bitcoin, Satoshi Nakamoto. **This consensus (agreement) mechanism is how thousands of strangers who do not trust each other have maintained the Bitcoin ledger since 2009.**
+1. Consensus concerns shared rules, validation, and a history of entries; it is more specific than simply agreeing by a show of hands.
+2. A single record keeper and independent record checking have different dependencies and trade-offs. Neither label alone proves fairness, security, or usefulness.
+3. Bitcoin combines signatures, peer-to-peer communication, proof of work, block validation, and accumulated work. The classroom model represents only a small part of that system.
+4. Decentralization can reduce dependence on a single rule enforcer, but influence, infrastructure, knowledge, and access are not equally distributed. Whether this matters most depends on the purpose and criteria being evaluated.
+5. Bitcoin's rules and operation can be investigated; claims about its value are judgments that need stated criteria and evidence.
 
 ## Discussion questions
 
-Now that we have discussed Bitcoin in greater detail, let’s look at our money comparison table from Chapter 2 again and see how bitcoin compares with other forms of money:
+1. What could the designated record keeper do well? What risks or dependencies could arise?
+2. What did independent checking reveal in the final scenario? What did it not solve?
+3. Which assumptions in the classroom model differ from Bitcoin’s actual network?
+4. What evidence would you need before claiming that a system is decentralized, secure, scarce, or valuable?
+5. Which criteria would matter when comparing a centralized payment system and Bitcoin for a particular person or community?
 
-| Characteristic of Good Money | Cows | Hot sauce | Diamonds | Paper Money | Bitcoin |
-| --- | --- | --- | --- | --- | --- |
-| Durable |  |  |  |  |  |
-| Portable |  |  |  |  |  |
-| Uniform |  |  |  |  |  |
-| Acceptable |  |  |  |  |  |
-| Scarce |  |  |  |  |  |
-| Divisible |  |  |  |  |  |
-| Total |  |  |  |  |  |
+## Optional money-properties comparison
 
-**Guide the class to [scarcity](../mfb-lx-26.10.md#term-scarcity) if they struggle. If central planners can help their buddies through money printing, money is not scarce.**
+If learners compare money properties, ask them to state the criterion and evidence for each entry rather than directing them toward a preferred answer. A supply rule is one input to scarcity; credibility, enforcement, verification, history, and demand are separate questions.
 
 # Notes
 
-**Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](https://programs.myfirstbitcoin.org/programs/educator-guide/). Use the approved protocol and record individual evidence for copying, shared verification, rules, and roles; otherwise, this activity is formative.
+Allow time for calculations and for disagreement about the scenario's rules. Keep the discussion focused on the difference between an observation from the role-play, a technical fact that can be checked, and a value judgment that requires criteria.
 
-This activity has multiple rounds, each with multiple steps.
+**Diploma assessment link:** This activity may provide formative practice for [`T2` / `C2`](https://programs.myfirstbitcoin.org/programs/educator-guide/). Use the approved protocol and record individual evidence for copying, verification, rules, and roles if it is used for assessment.
 
-Expect clarification questions from participants.
+# Additional resources
 
-Allow for time to address these questions.
+## Educator background and source notes
 
-Allow time for participants to do the calculations, especially if they are doing them by hand.
+- [Satoshi Nakamoto, *Bitcoin: A Peer-to-Peer Electronic Cash System*](https://bitcoin.org/bitcoin.pdf), sections 2–5, describes the proposed transaction, proof-of-work, and network process.
+- [Bitcoin Developer Guide: Operating Modes](https://developer.bitcoin.org/devguide/operating_modes.html) distinguishes full validation from less independent ways of checking payments.
+- [Bitcoin Developer Guide: P2P Network](https://developer.bitcoin.org/devguide/p2p_network.html) describes peer-to-peer message exchange.
 
-# Additional Resources
-
-## VIDEO
-
-[“Byzantine Generals Problem – Bitcoin”](https://youtube.com/watch?v=nS9LH5gu65Y&feature=youtu.be) is a video produced by Jason Trio ["@bittrio"](https://x.com/bittrio). It simplifies the programming consensus challenge in a short story format.
-
-## BOOK
-
-[“Inventing Bitcoin: The Technology Behind the First Truly Scarce and Decentralized Money Revealed”](https://www.inventingbitcoin.com) by Yan Pritzker provides a high-level overview of Bitcoin's inner workings, including how consensus achieves scarcity.
+These sources support the technical background only. They do not establish a universal historical claim about leaders, a causal claim about monetary systems, or a conclusion about Bitcoin’s value.
