@@ -1,8 +1,11 @@
 # Creating Your First Bitcoin Wallet
+
 ## Keywords
+
 **Bitcoin Wallet** **Recovery Phrase** **Private Key** **Self-Custody**
 
 ## Activity type
+
 Guided practice
 
 ## Participation
@@ -14,12 +17,15 @@ Guided practice
 - Participants explore wallet setup, receiving information, and recovery readiness through a guided, no-value demonstration.
 
 ## Description
+
 The educator guides participants through a prepared wallet demonstration or simulation so they can explore how wallet setup, receiving information, and recovery readiness work. Participants follow the clues, compare public and private information, and make safe choices in realistic-looking examples.
 
 This is a learning demonstration, not personal wallet setup: no real secret or funds are used.
+
 ## Preparation
 
 ### Materials
+
 - An educator-guided, nonfunctional wallet simulation, printed screen sequence, or educator-controlled empty test-wallet demonstration
 - Public/secret sorting cards and recovery-readiness sequence cards using placeholders such as `WORD 01` through `WORD 12`
 - Sample receiving information and status screens marked **SAMPLE: NONFUNCTIONAL. DO NOT PAY.**
@@ -28,6 +34,7 @@ This is a learning demonstration, not personal wallet setup: no real secret or f
 Phones are optional. If a device is unavailable, use the paper simulation or educator demonstration.
 
 ### Setup
+
 Choose a nonfunctional simulation or printed sequence as the default route. An educator-controlled empty test-wallet demonstration may be used after its source, version, network, custody model, and reset method have been checked. Participants explore the prepared route without creating, restoring, signing with, funding, or receiving bitcoin through it.
 
 > **Callout – Keep it a learning demonstration**
@@ -63,10 +70,13 @@ Show the prepared receiving information and status screen. Participants check th
 ### Step 7: Close the temporary environment
 
 Close the simulation or return the paper materials. Invite participants to name one thing they can share and one thing they would keep private. If an educator-controlled test-wallet demonstration was used, the educator follows the pre-checked reset process.
+
 ## Review
 
 ### Key points
+
 Public receiving information and private spending information have different roles. A test wallet is a learning environment; a wallet intended to receive real funds needs private, deliberate setup outside the classroom.
+
 ### Discussion questions
 
 ## Notes

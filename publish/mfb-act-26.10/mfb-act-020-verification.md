@@ -28,7 +28,7 @@ Participants roll dice to model repeated attempts by miners to find a block-head
 
 ### Materials
 
-- At least six dice.
+- At least six dice (D6).
 - Optional: a printed record sheet.
 
 ### Setup

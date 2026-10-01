@@ -1,9 +1,11 @@
 # Activity Title: Iterative Barter Game
 
 ## Keywords
+
 **Barter** **Double Coincidence of Wants** **Saleability** **Money**
 
 ## Activity type
+
 Trading game
 
 ## Participation
