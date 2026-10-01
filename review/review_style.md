@@ -86,7 +86,23 @@ Keep definitions separate from editorial occurrence audits. Use stable heading a
 
 ## Prompt 6: Review structure, formatting, and visual support
 
-Use the [OpenStack Writing Style Guide](https://docs.openstack.org/doc-contrib-guide/writing-style.html) as a supporting reference for punctuation, capitalisation, headings, lists, and numbers where My First Bitcoin has no specific rule. Do not apply its general voice restrictions or software-specific conventions. My First Bitcoin’s brand voice, plain-language principles, approved terminology, and publication requirements take precedence. Preserve the warm, empowering educator voice established in Prompt 2 and the plain-language and translation-readiness rules in Prompts 3 and 5.
+Use the [OpenStack Writing Style Guide](https://docs.openstack.org/doc-contrib-guide/writing-style.html) as a supporting reference for punctuation, capitalization, headings, lists, and numbers where My First Bitcoin has no specific rule. Do not apply its general voice restrictions or software-specific conventions. My First Bitcoin’s brand voice, plain-language principles, approved terminology, and publication requirements take precedence. Preserve the warm, empowering educator voice established in Prompt 2 and the plain-language and translation-readiness rules in Prompts 3 and 5.
+
+Apply these house mechanics to every edited Markdown file. They make the publication readable in source form, rendered form, and translation.
+
+| Area | Rule |
+|---|---|
+| Spacing | Leave one blank line after a heading and before and after a list, table, blockquote, or code fence. Separate paragraphs with one blank line. Do not add blank lines between ordinary list items or table rows. Do not use trailing spaces or manual line breaks to create vertical space. |
+| Headings and labels | Use sentence case for document titles, headings, table headings, figure labels, callout titles, and checklist labels. Capitalize only the first word and proper nouns. Do not end headings or labels with punctuation, except a question mark when the heading is a direct question. |
+| Paragraphs | Keep each paragraph focused on one idea. Use full sentences for explanatory prose and write them in active voice where practical. Do not use a one-line paragraph simply to create emphasis; use an approved callout only when the information needs that treatment. |
+| Lists | Introduce a list with a complete sentence and a colon when appropriate. Make items parallel. Use numbered lists for an order that must be followed and bullets for unordered points. End complete-sentence items with a full stop; do not punctuate fragments. Do not mix fragments and sentences in the same list. |
+| Punctuation | Use US English spelling and punctuation unless quoting an approved source or preserving a proper name. Use the serial comma in a list of three or more items. Put one space after terminal punctuation. Use a full stop rather than a semicolon where two sentences are clearer. Use a colon only to introduce an explanation, list, or consequence. |
+| Dashes and hyphens | Do not use em dashes. Use an en dash for numeric ranges, including module ranges. Use the separator required by an approved label format. Use a hyphen for compound modifiers where it prevents ambiguity. Prefer commas, parentheses, or separate sentences to a dash used as punctuation. |
+| Capitals and terms | Capitalize official names, titles, and defined terms only as specified in the lexicon. Keep generic nouns lower case, including generic roles, tools, and technology. Do not use title case, all caps, or capitalization for emphasis. Preserve capitalization in URLs, command text, IDs, and quoted source material. |
+| Numbers and dates | Spell out one through nine in ordinary prose. Use numerals for 10 and above, steps, module numbers, measurements, money, percentages, dates, data, and mathematical content. Write prose dates as `30 September 2026`; use `YYYY-MM-DD` in records, filenames, and machine-readable data. Do not use ordinal endings in dates. |
+| Quotations and links | Use typographic quotation marks and apostrophes in prose. Use straight quotation marks only in code, command text, or literal data that requires them. Keep punctuation outside a Markdown link unless it is part of the linked text. Use meaningful linked text rather than a bare URL or “click here.” |
+
+When a source-of-truth document, approved lexicon entry, publication template, or accessibility requirement conflicts with a house-mechanics rule, follow the higher authority and record the exception. Apply a rule consistently within the selected file and publication; do not make broad mechanical changes outside the authorized scope solely to standardize style.
 
 Use one H1 title per Markdown document, descriptive sentence-case sections, and a consistent heading hierarchy. Use paragraphs for explanation, lists for steps or parallel items, and tables for useful comparisons. Ensure tables and checklists remain readable in print and on small screens. Keep educator notes visually distinguishable and outside learner prose where appropriate.
 
@@ -107,7 +123,7 @@ Write every mention of the [My First Bitcoin App](https://myfirstbitcoin.app/) w
 
 Check that graphics, diagrams, tables, examples, activities, glossary terms, educator guidance, and Advanced references have a coherent visual treatment. Recommend a graphic only when it improves understanding. Preserve room for learner responses. Verify alt text, rights, source, file, and review status for retained assets. Keep exact source headings aligned with the asset index. Do not mistake an asset brief for a produced asset.
 
-For visual briefs and produced assets, check that each composition has one clear focal point, generous negative space, and a visible teaching purpose at small sizes. Reject decorative visual noise and generic AI artefacts, including fake interface text, random floating icons, glowing circuits, meaningless futuristic backgrounds, unrealistic hands, and overproduced lighting. Apply the current [Illustration Style Guide](../assets/style/STYLE.md) for production direction.
+For visual briefs and produced assets, check that each composition has one clear focal point, generous negative space, and a visible teaching purpose at small sizes. Reject decorative visual noise and generic AI artifacts, including fake interface text, random floating icons, glowing circuits, meaningless futuristic backgrounds, unrealistic hands, and overproduced lighting. Apply the current [Illustration Style Guide](../assets/style/STYLE.md) for production direction.
 
 ## Prompt 7: Check publication mechanics
 
@@ -121,7 +137,7 @@ Re-read changed passages in context. Confirm that edits preserve learning, factu
 
 Return a compact report with mode, scope, and date; applied changes with file and section; unresolved findings with evidence and proposed action; verification prompts needed for external or objective checks; and checks completed or not performed. Reuse existing to-do IDs. Add a new task only when it is distinct, actionable, and has completion criteria.
 
-End the dated run report with `## Review report summary` as its final section. Under that exact heading, summarise the selected mode and scope, substantive changes, findings, unresolved decisions, release blockers, verification outcomes, checks not performed, and next action. State that the run record is not a source of truth. Do not place any section or content after this summary.
+End the dated run report with `## Review report summary` as its final section. Under that exact heading, summarize the selected mode and scope, substantive changes, findings, unresolved decisions, release blockers, verification outcomes, checks not performed, and next action. State that the run record is not a source of truth. Do not place any section or content after this summary.
 
 On repeated runs, evaluate the current text rather than replaying earlier edits. Do not reverse a justified prior change for stylistic variety. Stop when no substantive clarity, correctness, consistency, or accessibility improvement remains. Do not claim that repeated AI review replaces human, learner, or expert review.
 
