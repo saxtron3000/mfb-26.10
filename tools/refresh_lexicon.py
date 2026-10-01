@@ -24,7 +24,9 @@ EDUCATOR_GUIDE = ROOT / "publish/mfb-bd-26.10/mfb-bd-eg-26.10.md"
 ROW_RE = re.compile(r'^\| (.*?) \| (.*?) \| <a id="([^"]+)"></a>(.*?) \| (.*?) \|$')
 EDUCATOR_ROW_RE = re.compile(r'^\| (.*?) \| (.*?) \| \[(.*?)\]\(#([^)]+)\) \| (.*?) \|$')
 TERMS_ROW_RE = re.compile(r"^\| (BD-LEX-\d+) \| (.*?) \| ")
-LEXICON_LINK_RE = re.compile(r"\]\(\.\./mfb-lx-26\.10\.md#([^)\s]+)\)")
+LEXICON_LINK_RE = re.compile(
+    r"\]\((?:\.\./mfb-lx-26\.10\.md#)?(term-[^)\s]+|BD-LEX-\d+|[a-z0-9]+(?:-[a-z0-9]+)*)\)"
+)
 
 # Aliases that cannot be recovered reliably from display punctuation alone.
 EXTRA_ALIASES = {
@@ -131,6 +133,16 @@ def lex_ids(entries: list[dict[str, str]]) -> dict[str, str]:
             raise ValueError(f"Could not determine one LEX-ID for {anchor}: {sorted(matches)}")
         ids[anchor] = matches.pop()
     return ids
+
+
+def lex_slugs() -> dict[str, str]:
+    """Map each published lexicon slug to its authoritative BD-LEX-ID."""
+    slugs = {}
+    for line in source_lines(TERMS):
+        columns = [column.strip() for column in line.split("|")]
+        if len(columns) >= 6 and re.fullmatch(r"BD-LEX-\d+", columns[1]):
+            slugs[columns[4]] = columns[1]
+    return slugs
 
 
 def singular_aliases(term_cell: str, anchor: str) -> list[str]:
@@ -259,7 +271,9 @@ def github_slug(heading: str, used: dict[str, int]) -> str:
     return base if occurrence == 0 else f"{base}-{occurrence}"
 
 
-def educator_links(lines: list[str]) -> tuple[dict[str, list[int]], dict[int, str]]:
+def educator_links(
+    lines: list[str], link_target_to_anchor: dict[str, str]
+) -> tuple[dict[str, list[int]], dict[int, str]]:
     links: dict[str, list[int]] = defaultdict(list)
     section_at_line: dict[int, str] = {}
     used: dict[str, int] = defaultdict(int)
@@ -268,8 +282,10 @@ def educator_links(lines: list[str]) -> tuple[dict[str, list[int]], dict[int, st
         if re.match(r"^#{1,6}\s+", line):
             current_section = github_slug(line, used)
         section_at_line[line_number] = current_section
-        for anchor in LEXICON_LINK_RE.findall(line):
-            links[anchor].append(line_number)
+        for link_target in LEXICON_LINK_RE.findall(line):
+            anchor = link_target_to_anchor.get(link_target)
+            if anchor:
+                links[anchor].append(line_number)
     return links, section_at_line
 
 
@@ -370,14 +386,29 @@ def rebuild() -> tuple[str, dict[str, object]]:
     educator_lines = source_lines(EDUCATOR_GUIDE)
     student_found = student_occurrences(entries, student_lines)
     student_section_at_line = section_anchors(student_lines)
-    educator_found, section_at_line = educator_links(educator_lines)
+    lex_id_to_anchor = {entry["lex_id"]: entry["anchor"] for entry in entries}
+    link_target_to_anchor = {entry["anchor"]: entry["anchor"] for entry in entries}
+    link_target_to_anchor.update(lex_id_to_anchor)
+    link_target_to_anchor.update(
+        {
+            slug: lex_id_to_anchor[lex_id]
+            for slug, lex_id in lex_slugs().items()
+            if lex_id in lex_id_to_anchor
+        }
+    )
+    educator_found, section_at_line = educator_links(educator_lines, link_target_to_anchor)
 
     outdated_student = []
     outdated_educator = []
     newly_present_student = []
     student_rows_to_sort: list[tuple[int, str]] = []
     educator_rows_to_sort: list[tuple[int, str]] = []
+    tagged_lex_ids: set[str] = set()
     for entry in entries:
+        lex_id_tag = ""
+        if entry["lex_id"] not in tagged_lex_ids:
+            lex_id_tag = f'<a id="{entry["lex_id"]}"></a>'
+            tagged_lex_ids.add(entry["lex_id"])
         student_rows = format_student_rows(
             student_found[entry["anchor"]], student_section_at_line, entry["student_values"]
         )
@@ -388,18 +419,20 @@ def rebuild() -> tuple[str, dict[str, object]]:
             student_rows_to_sort.append(
                 (
                     line_reference_number(student),
-                    f'| {student} | {entry["lex_id"]} | '
+                    f'| {student} | {lex_id_tag}{entry["lex_id"]} | '
                     f'<a id="{entry["anchor"]}"></a>{entry["term"]} | {entry["definition"]} |',
                 )
             )
+            lex_id_tag = ""
         for educator in educator_rows:
             educator_rows_to_sort.append(
                 (
                     line_reference_number(educator),
-                    f'| {educator} | {entry["lex_id"]} | '
+                    f'| {educator} | {lex_id_tag}{entry["lex_id"]} | '
                     f'[{entry["term"]}](#{entry["anchor"]}) | {entry["definition"]} |',
                 )
             )
+            lex_id_tag = ""
         if student_rows and student_rows[0].startswith("**Outdated:"):
             outdated_student.append(entry["anchor"])
         if not entry["student_values"] and student_found[entry["anchor"]]:
