@@ -4,13 +4,13 @@ This is the working list for the 2026.10 review. Start with the open items below
 
 ## What needs attention
 
-**16 of 32 actions are still open.** Start with the safety and certificated-delivery work, then clear the publication blockers.
+**14 of 33 tracked action or asset-input items are still open:** 11 of 30 `ACT-` items and 3 asset-input requests. Start with certificated-delivery readiness, then clear the publication blockers. This snapshot was reviewed on 2026-09-30 in the [review to-do run](runs/2026-09-30-review-todo.md).
 
 | Do this first | Why it matters | Tasks |
 |---|---|---|
-| Make delivery safe and ready to certify | Do this before a certificated delivery. | `ACT-022` Remove the unsafe wallet exercise; `ACT-002` align assessor scoring; `ACT-003` agree record and certificate rules. |
-| Run the Sanity pre-release review | Do this after every draft is available in Sanity for review and testing, and before release. | `ACT-009`, `ACT-010`, `ACT-011`, `ACT-024`, `ACT-028`, and `ACT-019`. |
-| Improve and maintain the materials | Important, but does not by itself block release. | `ACT-007`, `ACT-010`, `ACT-013`, `ACT-021`, and `ACT-026`. |
+| Make delivery safe and ready to certify | Do this before a certificated delivery. | `ACT-002` align assessor scoring; `ACT-003` agree record and certificate rules. |
+| Run the Sanity pre-release review | Do this after every draft is available in Sanity for review and testing, and before release. | `ACT-009`, `ACT-010`, `ACT-011`, `ACT-028`, and `ACT-019`. |
+| Improve and maintain the materials | Important, but does not by itself block release. | `ACT-007`, `ACT-013`, `ACT-026`, and `ACT-031`. |
 
 `ACT` means a task. `DEC` is a past decision kept for reference. `ANN` is an old reviewer note; it is not an approval or a current task.
 
@@ -22,12 +22,10 @@ Use this table to find the task. The detailed entry below has the supporting lin
 
 | Task | What to do | Current state | Do this before | Depends on |
 |---|---|---|---|---|
-| ACT-022 | Remove the unsafe wallet exercise | Open | publication | — |
 | ACT-002 | Align assessor scoring | In progress | certificated delivery | ACT-001 |
 | ACT-003 | Agree record and certificate rules | Blocked | certificated delivery | — |
 | ACT-009 | Verify public links in Sanity pre-release | Needs checking | Sanity pre-release review | ACT-006; all edition drafts available in Sanity |
 | ACT-011 | Review the optional self-check | Needs checking | publication | — |
-| ACT-024 | Support claims in Activities 001 and 002 | Open | publication | — |
 | ACT-028 | Produce or explicitly defer every guide visual | Open | publication | ACT-013, EVO-002 for the app panel |
 | ACT-019 | Run the final Sanity pre-release check | Blocked | Sanity pre-release review | ACT-009, ACT-010, ACT-011, ACT-013, ACT-028; all edition drafts available in Sanity |
 | ACT-007 | Add editable teaching slides | Open | ongoing maintenance | — |
@@ -37,6 +35,7 @@ Use this table to find the task. The detailed entry below has the supporting lin
 | ACT-026 | Remove repeated guide content and fix `BD-V-049` | In progress | ongoing maintenance | ACT-013 |
 | ACT-029 | Repair the source-of-truth map links | Done | ongoing maintenance | — |
 | ACT-030 | Retire the duplicate asset style guide | Done | ongoing maintenance | — |
+| ACT-031 | Refresh stale annotation evidence links | Open | review-register maintenance | — |
 | AST-001 | Supply the official test-network address and network label for `BD-V-036` | Open | asset production | My First Bitcoin confirmation |
 | AST-002 | Supply the official test Lightning invoice, amount, description, expiry, and network for `BD-V-078` | Open | asset production | My First Bitcoin confirmation |
 | AST-003 | Supply an approved active Lightning address for `BD-V-080` | Open | asset production | My First Bitcoin confirmation |
@@ -58,6 +57,12 @@ Use this table to find the task. The detailed entry below has the supporting lin
 | ACT-018 | Sort reviewer notes | unassigned | — |
 | ACT-020 | Explain educator-issued certificates | project lead | — |
 | ACT-027 | Align module guiding questions | unassigned | — |
+| ACT-022 | Remove the unsafe wallet exercise | unassigned | — |
+| ACT-023 | Make every published activity usable | unassigned | — |
+| ACT-024 | Support claims in Activities 001 and 002 | unassigned | — |
+| ACT-021 | Reduce assessed competencies to seven | unassigned | — |
+| ACT-029 | Repair the source-of-truth map links | unassigned | — |
+| ACT-030 | Retire the duplicate asset style guide | unassigned | — |
 
 ### Review-run intake, 2026-09-25
 
@@ -107,7 +112,7 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 - [ ] **ACT-002** **Get assessors to score examples the same way.**
 
-  - Status: in-progress | Owner: unassigned | Updated: 2026-09-21 | Severity: critical | Release impact: certificated-delivery blocker | Evidence: [Educator Guide calibration examples:198](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:198#calibration-examples-for-assessor-discussion) exist for `T2`, `P9`, and an example `P11` variant; no dated assessor session record was found | Depends on: ACT-001 | Completion evidence: pending independent scoring, discussion, and recorded agreement by the selected delivery team.
+  - Status: in-progress | Owner: unassigned | Updated: 2026-09-30 | Severity: critical | Release impact: certificated-delivery blocker | Evidence: [Educator Guide calibration examples:212](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:212#calibration-examples-for-assessor-discussion) provide the current `C2`/`C3`, `C6`, and `C7` examples, but no dated selected-team scoring session or agreement record was found; [2026-09-30 review to-do run](runs/2026-09-30-review-todo.md#review-report-summary) | Depends on: ACT-001 | Completion evidence: pending independent scoring, discussion, and recorded agreement by the selected delivery team.
 
   - Create one annotated `MS` and one annotated `NY` example for `T2`, `P9`, and the selected `P11` variant.
   - Calibrate assessors, resolve scoring differences, and retain the date, assessors, variants, and agreed interpretation.
@@ -115,7 +120,7 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 - [ ] **ACT-003** **Agree the local rules for records and certificates.**
 
-  - Status: blocked | Owner: unassigned | Updated: 2026-09-21 | Severity: critical | Release impact: certificated-delivery blocker | Evidence: [Certification framework current governance](../workspace/15_certification.md#8-current-governance-and-future-options) settles educator issuance but still requires proportionate local privacy, consent, records, correction, appeals, accessibility, and exceptional-case arrangements before certificated delivery | Depends on: none | Completion evidence: the issuer model is approved, but no complete local governance pack has been approved for a delivery context.
+  - Status: blocked | Owner: unassigned | Updated: 2026-09-30 | Severity: critical | Release impact: certificated-delivery blocker | Evidence: [Certification framework current governance](../workspace/15_certification.md#8-current-governance-and-future-options) settles educator issuance but still requires proportionate local privacy, consent, records, correction, appeals, accessibility, and exceptional-case arrangements before certificated delivery; [2026-09-30 review to-do run](runs/2026-09-30-review-todo.md#review-report-summary) | Depends on: none | Completion evidence: the issuer model is approved, but no complete local governance pack has been approved for a delivery context.
 
   - Preserve the educator-issued model. Define permitted data; consent or assent; access roles; retention and deletion; correction, appeal, incident, outage, and exceptional-case routes; assessor permissions, moderation, reconciliation, and audit trail where used; educator-managed certificate correction, replacement, withdrawal, and optional verification; and rules for minors and safeguarding.
   - Acceptance: an approved, proportionate governance pack exists before competency evidence is retained for certification or a pilot.
@@ -171,7 +176,7 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 - [ ] **ACT-007** **Add editable teaching slides.** Link a simple slide set from the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md). Encourage educators to adapt it for their learners while keeping the required learning and safety guidance.
 
-  - Status: open | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: maintenance | Evidence: [Educator Guide media guidance:829](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:829#media-and-tool-fallbacks) supports projection-free teaching, but no editable slide set or slide link was found | Depends on: none | Completion evidence: slide set and required introduction remain missing.
+  - Status: open | Owner: unassigned | Updated: 2026-09-30 | Severity: medium | Release impact: maintenance | Evidence: [Educator Guide media guidance:845](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:845#media-and-tool-fallbacks) supports projection-free teaching, but no editable slide set or slide link was found; [2026-09-30 review to-do run](runs/2026-09-30-review-todo.md#review-report-summary) | Depends on: none | Completion evidence: slide set and required introduction remain missing.
 
   - Acceptance: the Educator Guide introduces and links the slide set, explains its recommended use, and gives clear adaptation guidance. Slides support discussion and practical learning, and teaching remains possible without projection equipment.
 
@@ -186,7 +191,7 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 - [ ] **ACT-009** **Verify every public link in Sanity pre-release.** After every edition draft has been pushed through Sanity for review and testing, review every named programme, form, case study, network, leaderboard, source, and support link in the Student Guide.
 
-  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-30 | Category: pre-release | Severity: high | Release impact: publication blocker | Evidence: [internal My First Bitcoin link register](../links/links-internal.md) and [external or other link register](../links/links-external.md) inventory destinations, but no complete dated external check for this edition was found | Depends on: ACT-006 and every edition draft being available in Sanity for review and testing | Completion evidence: a complete, dated live-destination check is recorded against the Sanity review drafts.
+  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-30 | Category: pre-release | Severity: high | Release impact: publication blocker | Evidence: [internal My First Bitcoin link register](../links/links-internal.md) and [external or other link register](../links/links-external.md) inventory destinations, but no complete dated external check for this edition was found; [2026-09-30 review to-do run](runs/2026-09-30-review-todo.md#review-report-summary) | Depends on: ACT-006 and every edition draft being available in Sanity for review and testing | Completion evidence: a complete, dated live-destination check is recorded against the Sanity review drafts.
 
   - A failed optional further-learning link does not by itself block publication. It raises an important alert requiring a human-approved solution within 24 hours. Required instructional or safety destinations retain their normal publication impact.
   - Acceptance: all edition drafts have been pushed through Sanity and are available for review and testing; each retained destination is live, appropriate, and recorded as checked for the edition; the weekly automated review and human-approval boundary are documented in both link registers.
@@ -197,14 +202,14 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 <a id="act-010-replace-mutable-source-and-terminology-locations"></a>
 
-  - Status: open | Owner: unassigned | Updated: 2026-09-30 | Category: pre-release | Severity: medium | Release impact: publication blocker | Evidence: [Resources register:7](../workspace/09_resources.md:7) still requires mutable line references, including entries at [line 13](../workspace/09_resources.md:13); the [Lexicon:13](../publish/mfb-lx-26.10.md:13) also retains occurrence-line metadata | Depends on: every edition draft being available in Sanity for review and testing | Completion evidence: stable claim IDs and maintenance fields are implemented and verified in the Sanity review drafts.
+  - Status: open | Owner: unassigned | Updated: 2026-09-30 | Category: pre-release | Severity: medium | Release impact: publication blocker | Evidence: [Resources register:7](../workspace/09_resources.md:7) still requires mutable line references, including entries at [line 13](../workspace/09_resources.md:13); the [Lexicon:13](../publish/mfb-lx-26.10.md:13) also retains occurrence-line metadata; [2026-09-30 review to-do run](runs/2026-09-30-review-todo.md#review-report-summary) | Depends on: every edition draft being available in Sanity for review and testing | Completion evidence: stable claim IDs and maintenance fields are implemented and verified in the Sanity review drafts.
 
   - Preserve each claim or section, source type and authority, volatility, reviewer, date checked, next review date, and permitted learner-facing treatment. Keep genuinely local and changing facts in the Educator Guide's local verification record. Maintain the resource register and lexicon as versioned tools, with first/later occurrence audits in separate reports.
   - Acceptance: all edition drafts have been pushed through Sanity and are available for review and testing; the source register and lexicon remain correct after a normal manuscript edit and in the Sanity review drafts without manual line-number repair.
 
 - [ ] **ACT-011** **Finish the optional self-check review.** Keep the result message about this 12-question check only. Review every question, then test it on a small phone and with a screen reader.
 
-  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: high | Release impact: publication blocker | Evidence: the score wording was changed in [self-check source:52](../publish/mfb-ml-26.10/mfb-ml-26.10.md:52), but no dated independent editorial, small-phone, or screen-reader test record was found; [CYN-006](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings) reports that all 12 question pairs still declare independent factual and editorial review outstanding | Depends on: none | Completion evidence: required human/device/accessibility checks remain unrecorded, and approved Markdown content matches both CSV exports.
+  - Status: needs-verification | Owner: unassigned | Updated: 2026-09-30 | Severity: high | Release impact: publication blocker | Evidence: the score wording was changed in [self-check source:52](../publish/mfb-ml-26.10/mfb-ml-26.10.md:52), but no dated independent editorial, small-phone, or screen-reader test record was found; [CYN-006](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings) reports that all 12 question pairs still declare independent factual and editorial review outstanding; [2026-09-30 review to-do run](runs/2026-09-30-review-todo.md#review-report-summary) | Depends on: none | Completion evidence: required human/device/accessibility checks remain unrecorded, and approved Markdown content matches both CSV exports.
 
   - The report identified that message at the 10–12 score band and suggested “You showed a strong result on this quick self-check.” Preserve item mappings to the Student Guide. The check samples selected content from Modules 1–3 and does not assess Module 4 or observed practical skills. This is a publication action, not a certification blocker; the example is historical evidence, not approval for a new pass threshold.
   - Acceptance: reviewed item metadata is complete, the result message does not imply Diploma competence, and no score tracking, threshold, or educator access is introduced.
@@ -220,7 +225,7 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 <a id="act-013-control-visual-production-scope"></a>
 
-  - Status: in-progress | Owner: unassigned | Updated: 2026-09-25 | Severity: medium | Release impact: maintenance | Evidence: [visual index](../workspace/08_assets.md#2-visual-index) records scope, rights, alt text, placement, and review requirements; [asset production log](../assets/assets-list.md) records 101 generic briefs but zero asset-specific reference images, uploads, or production packages; [asset-migration alignment run](runs/2026-09-25-change-assets-alignment.md#findings-created-or-updated) | Depends on: none | Completion evidence: planning controls exist; essential asset selection and production verification remain incomplete.
+  - Status: in-progress | Owner: unassigned | Updated: 2026-09-30 | Severity: medium | Release impact: maintenance | Evidence: [visual index](../workspace/08_assets.md#2-visual-index) records scope, rights, alt text, placement, and review requirements; [asset production log](../assets/assets-list.md) records 101 generic briefs but zero asset-specific reference images, uploads, or production packages; [2026-09-30 review to-do run](runs/2026-09-30-review-todo.md#review-report-summary) | Depends on: none | Completion evidence: planning controls exist; essential asset selection and production verification remain incomplete.
 
   - Acceptance: an approved essential-visual list and production tracker exist.
 
@@ -267,7 +272,7 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 <a id="act-019-complete-the-final-publication-verification-pass"></a>
 
-  - Status: blocked | Owner: unassigned | Updated: 2026-09-30 | Category: pre-release | Severity: high | Release impact: publication blocker | Evidence: [full-release style run](runs/2026-09-21-full-release-style.md#findings-created-or-updated), [full-release to-do run](runs/2026-09-21-full-release-todo.md#findings-created-or-updated), and remaining external-link-verification, accessibility/device-test, and visual-production work under `ACT-009`, `ACT-011`, `ACT-013`, and [ACT-028](#act-028-produce-or-explicitly-defer-every-guide-visual) | Depends on: ACT-009, ACT-010, ACT-011, ACT-013, ACT-028, and every edition draft being available in Sanity for review and testing | Completion evidence: dependencies are complete and the final check is recorded against the Sanity review drafts.
+  - Status: blocked | Owner: unassigned | Updated: 2026-09-30 | Category: pre-release | Severity: high | Release impact: publication blocker | Evidence: [full-release style run](runs/2026-09-21-full-release-style.md#findings-created-or-updated), [full-release to-do run](runs/2026-09-21-full-release-todo.md#findings-created-or-updated), and remaining external-link-verification, accessibility/device-test, visual-production, and evidence-link-maintenance work under `ACT-009`, `ACT-011`, `ACT-013`, [ACT-028](#act-028-produce-or-explicitly-defer-every-guide-visual), and [ACT-031](#act-031-refresh-stale-annotation-evidence-links); [2026-09-30 review to-do run](runs/2026-09-30-review-todo.md#review-report-summary) | Depends on: ACT-009, ACT-010, ACT-011, ACT-013, ACT-028, ACT-031, and every edition draft being available in Sanity for review and testing | Completion evidence: dependencies are complete and the final check is recorded against the Sanity review drafts.
 
   - Acceptance: all edition drafts have been pushed through Sanity and are available for review and testing; the edition has a dated verification record distinguishing passed checks, remaining blockers, and checks not performed. No historical audit count is presented as a fresh result.
 
@@ -288,11 +293,11 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 - [ ] **ACT-026: Remove repeated guide content and fix `BD-V-049`.** Keep only useful recaps, move educator-only detail out of learner front matter, and remove the duplicate or mismatched visual marker and alt text.
 
-  - Status: in-progress | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: maintenance | Evidence: [Student Guide on-chain and Lightning marker](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#on-chain-and-lightning-payments) now has one `BD-V-049` marker with payment-path alt text; [CYN-008](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings) retains the broader guide-architecture finding | Depends on: ACT-013 | Completion evidence: the duplicate and mismatched adjacent `BD-V-049` marker is removed; recap consolidation and the visual-production dependency remain open.
+  - Status: in-progress | Owner: unassigned | Updated: 2026-09-30 | Severity: medium | Release impact: maintenance | Evidence: [Student Guide on-chain and Lightning marker](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1340#on-chain-and-lightning-payments) now has one `BD-V-049` marker with payment-path alt text; [CYN-008](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings) retains the broader guide-architecture finding; [2026-09-30 review to-do run](runs/2026-09-30-review-todo.md#review-report-summary) | Depends on: ACT-013 | Completion evidence: the duplicate and mismatched adjacent `BD-V-049` marker is removed; recap consolidation and the visual-production dependency remain open.
 
 - [ ] **ACT-028: Produce or explicitly defer every guide visual.** Do not treat a generic design-brief template as a finished visual asset.
 
-  - Status: open | Owner: unassigned | Reported: 2026-09-25 | Severity: high | Release impact: publication blocker | Evidence: [asset-migration alignment run](runs/2026-09-25-change-assets-alignment.md#findings-created-or-updated), [asset-migration cynical run](runs/2026-09-25-change-assets-cynical.md#cynical-editor-findings), and [asset production log](../assets/assets-list.md) show 101 generic briefs but no asset-specific references, uploads, or production packages; the guides contain 138 `ASSET` references to those brief templates | Depends on: ACT-013 and `EVO-002` for the [My First Bitcoin App](https://myfirstbitcoin.app/) QR panel | Completion evidence: every retained visual marker resolves to an approved, rendered production asset with its required alt text, rights/source record, and placement check; each deliberately deferred location is visibly marked as deferred and does not imply a finished visual.
+  - Status: open | Owner: unassigned | Updated: 2026-09-30 | Reported: 2026-09-25 | Severity: high | Release impact: publication blocker | Evidence: [asset-migration alignment run](runs/2026-09-25-change-assets-alignment.md#findings-created-or-updated), [asset-migration cynical run](runs/2026-09-25-change-assets-cynical.md#cynical-editor-findings), and [asset production log](../assets/assets-list.md) show 101 generic briefs but no asset-specific references, uploads, or production packages; the guides contain 138 `ASSET` references to those brief templates; [2026-09-30 review to-do run](runs/2026-09-30-review-todo.md#review-report-summary) | Depends on: ACT-013 and `EVO-002` for the [My First Bitcoin App](https://myfirstbitcoin.app/) QR panel | Completion evidence: every retained visual marker resolves to an approved, rendered production asset with its required alt text, rights/source record, and placement check; each deliberately deferred location is visibly marked as deferred and does not imply a finished visual.
 
   - Populate each retained brief from its current asset-index row, produce and review the final editable asset and export, then replace the marker only after approval. Do not produce the app QR until the identifier conflict in `EVO-002` is resolved.
 
@@ -303,6 +308,14 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 - [x] **ACT-030: Retire the duplicate asset style guide.** Preserve compatible guidance in the active production and review controls, then remove the obsolete working note.
 
   - Status: done | Owner: unassigned | Reported: 2026-09-25 | Completed: 2026-09-25 | Severity: low | Release impact: maintenance | Evidence: the obsolete `workspace/27_assets-style.md` was removed; the active [Illustration Style Guide](../assets/style/STYLE.md#1-visual-direction) now requires a clear focal point, generous negative space, and rejection of the retained note’s generic-AI artefacts; [style review control](review_style.md#prompt-6-review-structure-formatting-and-visual-support) now checks those points. [Asset-migration style run](runs/2026-09-25-change-assets-style.md#findings-created-or-updated) remains the historical finding. | Depends on: none | Completion evidence: compatible guidance is held in active controls, and no duplicate workspace style guide remains.
+
+- [ ] **ACT-031: Refresh stale annotation evidence links.** Replace line locations that no longer point to the section asserted by a completed `ANN-` disposition; retain the historical disposition and source marker.
+
+<a id="act-031-refresh-stale-annotation-evidence-links"></a>
+
+  - Status: open | Owner: unassigned | Reported: 2026-09-30 | Severity: medium | Release impact: maintenance | Evidence: this review found 181 repeated annotation evidence links that cite moved Student Guide locations (notably `:109`, `:265`, `:580`, `:963`, `:1309`, and `:1770`) rather than the asserted current section; [2026-09-30 review to-do run](runs/2026-09-30-review-todo.md#review-report-summary) records the sample checks and affected groups | Depends on: none | Completion evidence: every completed `ANN-` entry retains a valid disposition and source marker, and its file-and-line evidence opens the specific current publication or authority passage supporting that disposition.
+
+  - Next step: refresh the links by annotation section, read every target in context, and keep a dated verification record. Do not change an annotation disposition merely to avoid repairing its evidence.
 
 
 - [x] **ACT-027: Use the same guiding question for each module everywhere.** Align the Student Guide, Educator Guide, and relevant assessment prompts, unless a different audience version is clearly intentional.
@@ -346,7 +359,7 @@ Affected: `05_competencies.md`, `03_scope.md`, `06_plan.md`, `02_research.md`, `
 
 ### DEC-02: Does “50% / 50%” describe a score or two completion gates?
 
-**Status: resolved | Reviewed: 2026-09-21.** Current implementation retains two non-compensatory components and no combined grade. Evidence: [overview:183](../workspace/16_spec.md:183) and [overview:190](../workspace/16_spec.md:190).
+**Status: resolved | Reviewed: 2026-09-30.** Current implementation retains two non-compensatory components—theory (`C1`–`C5`) and directly observed practice (`C6`–`C7`)—with no combined grade. Evidence: [Assessment Grid components:38](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md:38), [competency-framework rule:9](../workspace/05_competencies.md:9), and [2026-09-30 review to-do run](runs/2026-09-30-review-todo.md#review-report-summary).
 
 **Resolved.** The 50/50 wording describes two equal-status, non-compensatory completion gates: theoretical competency (`C1`–`C8`) and practical competency (`C9`–`C11`). Every required competency and safety criterion must meet standard. The Diploma does not calculate or report a combined numerical grade unless a separate reporting rule is approved.
 
@@ -364,7 +377,7 @@ Affected: `00_index.md`, `04_design.md`, `05_competencies.md`, `06_plan.md`, `..
 
 ### DEC-04: What must the Module 3 learner promise say?
 
-**Status: resolved (A) | Reviewed: 2026-09-21.** The learner promise and direct-observation route require safe supported performance. Evidence: [Student Guide:124](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:124) and [assessment grid:35](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md:35).
+**Status: resolved (A) | Reviewed: 2026-09-30.** The learner promise and direct-observation route require safe supported performance. Evidence: [Student Guide practical competency check:1369](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1369#practical-competency-check-observed-by-an-educator), [Assessment Grid direct-observation rule:37](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md:37), and [2026-09-30 review to-do run](runs/2026-09-30-review-todo.md#review-report-summary).
 
 `06_plan.md` promises demonstration of wallet, transaction, verification, recovery-readiness, and safety actions. `05_competencies.md` requires several directly observed performances. `16_spec.md` says learners can only “identify” basic safety practices, which understates the assessed standard.
 
@@ -376,7 +389,7 @@ Affected: `05_competencies.md`, `06_plan.md`, `../publish/mfb-bd-26.10/mfb-bd-sg
 
 ### DEC-05: Is first access to bitcoin a required Module 3 competency?
 
-**Status: resolved (A) | Reviewed: 2026-09-21.** `C9` requires supported access and receipt while allowing simulation, testnet, physical tokens, or low-stakes funds. Evidence: [assessment grid:23](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md:23) and [assessment grid:35](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md:35).
+**Status: resolved (A) | Reviewed: 2026-09-30.** Current `C6` requires supported access and receipt while allowing simulation, testnet, physical tokens, or low-stakes funds; the `C9` references below are preserved decision history. Evidence: [Assessment Grid `C6`:26](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md:26), [Assessment Grid safety rule:37](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md:37), and [2026-09-30 review to-do run](runs/2026-09-30-review-todo.md#review-report-summary).
 
 `C9.3` requires a learner to gain access to bitcoin through an approved low-stakes or simulated pathway, receive it, and check relevant information. Elsewhere the learner-facing material says learners do not need to buy bitcoin, install a wallet, or use meaningful personal funds. These can coexist only if the exact minimum experience is explicit.
 
@@ -388,7 +401,7 @@ Affected: `05_competencies.md`, `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`, th
 
 ### DEC-06: What is the required Diploma learning for Lightning?
 
-**Status: resolved (A) | Reviewed: 2026-09-21.** All learners compare payment paths; detailed setup and live practice are Advanced or locally selected Module 4 work. Evidence: [Student Guide:1274](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1274) and [Educator Guide:2247](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:2247).
+**Status: resolved (A) | Reviewed: 2026-09-30.** All learners compare payment paths; detailed setup and live practice are Advanced or locally selected Module 4 work. Evidence: [Student Guide payment-path boundary:1365](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1365#on-chain-and-lightning-payments), [Educator Guide payment-path guidance:2288](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:2288#on-chain-and-lightning-payments), and [2026-09-30 review to-do run](runs/2026-09-30-review-todo.md#review-report-summary).
 
 `06_plan.md` places Lightning setup and payment practice in locally selected Module 4 variants, but `C8.1`, the Student Guide, and assessment requirements place the on-chain/Lightning distinction in Module 3. The boundary between required explanation and required use should be stated once.
 
