@@ -1,6 +1,6 @@
 # Title
 ## Keywords
-## Actvity Type
+## Activity Type
 ## Participation
 ## Duration
 ## Objective
