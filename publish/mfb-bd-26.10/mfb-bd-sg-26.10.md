@@ -26,7 +26,7 @@ My First Bitcoin is a nonprofit education organization founded by John Dennehy i
 
 The project began with small in-person classes in El Salvador in 2021, after the country passed a bill making bitcoin legal tender. The 90-minute introduction moved from what money is to how Bitcoin works, then gave the learner practical experience sending and receiving [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat) with a Lightning wallet. Within two months, the project was teaching hundreds of learners each month. My First Bitcoin's [public history](https://myfirstbitcoin.org/about) records the project's milestones and organizational accountability.
 
-In 2022, the first Bitcoin Diploma cohort began in one public school in San Marcos, El Salvador. The pilot developed into an open-source curriculum that independent educators could translate, adapt, and teach. It later spread through the [Bitcoin Education Network](https://leaderboard.myfirstbitcoin.org) to communities around the world.
+In 2022, the first Bitcoin Diploma cohort began in one public school in San Marcos, El Salvador. The pilot developed into an open-source curriculum that independent educators could translate, adapt, and teach. It later spread through the [Bitcoin Education Network](https://myfirstbitcoin.org/about/network) to communities around the world.
 
 Our work is independent, community-driven, and Bitcoin-focused. We focus on financial literacy, careful thinking, and practical safety - not trading, speculation, or promoting other tokens. We do not ask you to accept a belief. Instead, we provide concepts, questions, and practical knowledge so you can form your own conclusions.
 
@@ -1880,7 +1880,7 @@ Found an error, unclear wording, or a translation improvement? Use the official 
 Choose a way to help and use the relevant official form to get started:
 
 - **[Volunteer](https://forms.myfirstbitcoin.org/volunteer):** offer time or skills to support the Diploma, educators, or local learning communities.
-- **[Contribute to the Resources Hub](https://forms.myfirstbitcoin.org/):** share a useful Bitcoin education resource, local learning resource, or improvement that others can review and use.
+- **[Contribute to the Resources Hub](https://forms.myfirstbitcoin.org/submit-resource):** share a useful Bitcoin education resource, local learning resource, or improvement that others can review and use.
 - **[Explore the Educator Training Program (ETP)](https://etp.myfirstbitcoin.org/):** learn how My First Bitcoin prepares people to teach the Bitcoin Diploma.
 
 Use the official forms only. Do not include [seed phrases](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase), [private keys](https://programs.myfirstbitcoin.org/lexicon/en/#private-key), wallet balances, or other sensitive personal or security information in a submission.
@@ -1896,7 +1896,7 @@ ALT: Optional next-step pathway from Diploma learning to the Bitcoin Education N
 ASSET: assets/briefs/bd-v-071-brief.md
 -->
 
-The [Bitcoin Education Network](https://leaderboard.myfirstbitcoin.org/) connects independent educators and local learning communities. Find a community near you, or one whose work interests you, and contact it to ask how you can learn, volunteer, or contribute. Participation is optional and does not affect Diploma completion, assessment, or certification.
+The [Bitcoin Education Network](https://myfirstbitcoin.org/about/network) connects independent educators and local learning communities. Find a community near you, or one whose work interests you, and contact it to ask how you can learn, volunteer, or contribute. Participation is optional and does not affect Diploma completion, assessment, or certification.
 
 ### A safety reminder
 
@@ -1956,7 +1956,7 @@ My First Bitcoin's educational resources are free and open source. Voluntary sup
 
 Visit the official donation page if you choose to contribute:
 
-[Donate to My First Bitcoin](https://donate.myfirstbitcoin.org/)
+[Support My First Bitcoin](https://myfirstbitcoin.org/support-us)
 
 A printed edition may place one official support QR code here. Before paying, confirm that the QR destination uses the official domain or an official payment page linked from it. Check the recipient and amount in your wallet. A donation is optional and is not required for course completion or certification.
 

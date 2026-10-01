@@ -116,7 +116,7 @@ Start by reading the Bitcoin Diploma thoroughly, not once, but twice. Familiariz
 
 Next, explore our additional training tools. Download the [presentation slides](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/) to support your lessons. Observing others in action is one of the best ways to learn, and you can also ask for mentorship from the Community to receive guidance, feedback, and practical support as you prepare to teach. Email [arnold@myfirstbitcoin.org](mailto:arnold@myfirstbitcoin.org) if you need help\!
 
-When you feel ready, you can take the next step by joining the [Educator Training Program](https://edu.myfirstbitcoin.io/course/educator-training-program), a structured course designed to refine your teaching skills and align you with the values and standards of the My First Bitcoin community. Upon completion, you’ll earn the Certified Educator badge, a recognition of your commitment to independent, high-quality Bitcoin education.
+When you feel ready, you can take the next step by joining the [Educator Training Program](https://etp.myfirstbitcoin.org/), a structured course designed to refine your teaching skills and align you with the values and standards of the My First Bitcoin community. Upon completion, you’ll earn the Certified Educator badge, a recognition of your commitment to independent, high-quality Bitcoin education.
 
 Every great educator starts as a learner. Take the time to train yourself and your team, your future students will thank you for it.
 
@@ -568,4 +568,3 @@ Coming soon
 # 13\. Volunteer Matchmaking {#13.-volunteer-matchmaking}
 
 Coming soon
-
