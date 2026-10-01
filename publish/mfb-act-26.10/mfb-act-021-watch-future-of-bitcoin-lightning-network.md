@@ -2,12 +2,8 @@
 ## Keywords
 **Lightning Network**
 
-## Activity Type
+## Activity type
 Video discussion
-
-## Participation
-
-## Duration
 
 ## Objective
 

@@ -41,6 +41,8 @@ Every activity should:
 - distinguish evergreen concepts from current, local, or tool-dependent claims that need checking; and
 - include an educator debrief that corrects likely misconceptions and reconnects the activity to the module.
 
+An educator may select a real wallet and appropriately low-stakes real funds for a learning activity when that makes the process clearer. Follow the [Educator Guide's live-practice guidance](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#separate-training-wallets-from-personal-wallets): explain the route and risks, make participation voluntary, protect secrets and unnecessary payment information, define stop conditions, and provide an equivalent no-funds route. Do not require a learner to use personal funds or a particular wallet or service.
+
 Activities should be concise and purposeful. They should protect time for learner explanation, practice, safety, review, feedback, and required assessment before optional extensions or advanced detail.
 
 ## Activity categories

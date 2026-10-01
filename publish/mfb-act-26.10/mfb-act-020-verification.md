@@ -1,18 +1,24 @@
 # Verification
+
 ## Keywords
+
 **Proof of work** **Mining** **Verification**
 
-## Activity Type
+## Activity type
+
 Demonstration
 
 ## Participation
 
+Whole class or small groups.
+
 ## Duration
+
 10 minutes
 
 ## Objective
 
-- Participants experience the difference between the repeated work of finding a valid proof-of-work result and the quick check needed to verify it.
+- Participants experience the difference between repeated attempts to find a model proof-of-work result and the quick check needed to verify it.
 
 # Description
 Participants repeatedly roll dice to model [miners](../mfb-lx-26.10.md#term-miner) attempting many hash calculations to meet a [difficulty](../mfb-lx-26.10.md#term-difficulty) [target](../mfb-lx-26.10.md#term-target). After a successful roll, the class quickly checks the result, compares the effort of finding it with the ease of verification, and connects the model to proof of work and node verification.

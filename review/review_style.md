@@ -104,7 +104,7 @@ Apply these house mechanics to every edited Markdown file. They make the publica
 
 When a source-of-truth document, approved lexicon entry, publication template, or accessibility requirement conflicts with a house-mechanics rule, follow the higher authority and record the exception. Apply a rule consistently within the selected file and publication; do not make broad mechanical changes outside the authorized scope solely to standardize style.
 
-Use one H1 title per Markdown document, descriptive sentence-case sections, and a consistent heading hierarchy. Use paragraphs for explanation, lists for steps or parallel items, and tables for useful comparisons. Ensure tables and checklists remain readable in print and on small screens. Keep educator notes visually distinguishable and outside learner prose where appropriate.
+Use one H1 title per Markdown document, descriptive sentence-case sections, and a consistent heading hierarchy. Use paragraphs for explanation, lists for steps or parallel items, and tables for useful comparisons. Ensure tables and checklists remain readable in print and on small screens. Keep educator notes visually distinguishable and outside learner prose where appropriate. Preserve every existing heading: a heading may be a structural grouping node even when it has no immediate body text. Never delete, demote, merge, or omit a heading solely because it appears empty; validate hierarchy and published navigation instead.
 
 Use the following block styles consistently and sparingly. In every block, every content line, including blank lines and list items, begins with `> `.
 

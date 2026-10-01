@@ -2,7 +2,7 @@
 ## Keywords
 **Decentralization**
 
-## Activity Type
+## Activity type
 Video discussion
 
 ## Participation
@@ -13,11 +13,11 @@ Video discussion
 
 - Participants build a beginner-friendly understanding of Bitcoin and share the video’s main ideas in their own words.
 
-# Description
+## Description
 Participants watch a non-technical Bitcoin overview designed for complete beginners. The viewing gives the class a shared starting point for identifying the problem Bitcoin addresses, its basic features, and questions that require further discussion or verification.
-# Preparation
+## Preparation
 
-## Materials
+### Materials
 - Internet access and video playback.
 
 ## Setup
@@ -35,5 +35,5 @@ Watch the video.
 
 # Notes
 The source notes that the host is not a Maxi; be aware of this if participants ask.
-# Additional Resources
+## Additional resources
 [“Explain Bitcoin to Complete Beginners”](https://youtu.be/SXqfFTmYmT0?si=HHZmNiGSzD6kz8FG) is the non-technical overview used to give the class a shared starting point for discussing Bitcoin’s basic features and open questions.

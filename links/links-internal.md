@@ -11,7 +11,7 @@ Use this checklist to confirm that each destination opens and is the correct res
 
 Repeated destinations share a row. Source locations list every occurrence; repeated line numbers mean multiple occurrences on that line. Original row IDs are retained. Line numbers may shift after edits.
 
-This index contains 28 destinations on `myfirstbitcoin.org` and its subdomains. See [external and other links](20_links-external.md) for the remaining destinations.
+This index contains 28 destinations on `myfirstbitcoin.org` and its subdomains. See [external and other links](links-external.md) for the remaining destinations.
 
 ## Review instructions
 

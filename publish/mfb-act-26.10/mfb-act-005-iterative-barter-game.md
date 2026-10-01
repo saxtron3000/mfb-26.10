@@ -16,13 +16,13 @@ Trading game
 
 - Participants experience the trade friction created by mismatched wants and recognize why a widely accepted good can emerge as money.
 
-# Description
+## Description
 
 Participants trade playing cards across three rounds that progressively change what each group wants. They experience direct exchange, the difficulty of matching wants, and the emergence of a widely accepted good, then compare the role of the most saleable good with the historical role of money.
 
-# Preparation
+## Preparation
 
-## Materials
+### Materials
 
 - Standard playing cards
   - Recommendation = 1 deck for every 5 participants
@@ -30,7 +30,7 @@ Participants trade playing cards across three rounds that progressively change w
 - Paper, Excel or other method to track results
 - Name cards to label team tables, e.g., “ACES” (optional)
 
-## Setup
+### Setup
 
 The goal is to have cards separated by suit before you begin the exercise. You have the choice of opening the decks and separating cards by suit yourself, or enrolling participants in this step.
 
@@ -46,9 +46,9 @@ This activity has three rounds. To begin, assign participants to one of four “
 
 Give each group a set of cards matching its suit, or distribute the cards evenly if participants are playing individually. For example, participants in the spade-makers group should start with spades.
 
-# Procedure
+## Procedure
 
-## Step 1: Coincidence-of-Wants
+### Step 1: Coincidence-of-Wants
 
 Give participants their assignments (table below). Their goal is to get their “wants.”
 
@@ -63,7 +63,7 @@ Then give them 5 minutes to walk around and negotiate trades with other groups.
 | HEART-MAKERS | diamonds |
 | DIAMOND-MAKERS | hearts |
 
-## Step 2: The Lack of Coincidence-of-Wants
+### Step 2: The Lack of Coincidence-of-Wants
 
 Give participants their new assignments (table below). Their goal is to get their “wants”.
 
@@ -80,7 +80,7 @@ Take a few minutes to allow participants time to share what was diﬀerent betwe
 | HEART-MAKERS | diamonds |
 | DIAMOND-MAKERS | clubs |
 
-## Step 3: Most Saleable Goods
+### Step 3: Most Saleable Goods
 
 Give participants their new assignments (table below). Their goal is to get their “wants”.
 
@@ -97,22 +97,22 @@ As before, after trading is done, allow the participants to share what was diﬀ
 | HEART-MAKERS | clubs or diamonds |
 | DIAMOND-MAKERS | clubs or hearts or spades |
 
-# Review
+## Review
 
-## Key Points
+### Key points
 
 1. Direct bartering is possible with exact matches in wants.
 2. Indirect bartering helps but increases complexity of trades.
 3. Discovering the **most tradable good** (i.e., most saleable) is a **natural process** and leads to money.
 
-## Discussion questions
+### Discussion questions
 
 • What were the most frustrating things that you experienced or observed during the three rounds of trading?
 • How does gold work as a tradable good?
 • Can anything be a tradable good? Cigarettes in a prison?
 • Trading cards in a lunchroom? Candy at school?
 
-# Notes
+## Notes
 
 **Diploma assessment link:** May provide the individual-response context for [`T1` / `C1`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show). Use the approved protocol and record an individual explanation and comparison; otherwise, this activity is formative.
 
@@ -121,5 +121,3 @@ The minimum play time for this is 10 minutes per step or 3 * 10 = 30 minutes.
 Plan on a full hour including setup, explanation, play, discussion, and cleanup.
 
 **This activity is a participatory game. The more you invest in terms of eﬀort and creativity, the more fun it will be … and the more eﬀective.**
-
-# Additional Resources

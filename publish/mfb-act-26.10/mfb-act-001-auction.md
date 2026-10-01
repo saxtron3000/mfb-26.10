@@ -4,7 +4,7 @@
 
 **Money supply** **Price levels** **Auctions** **Classroom models**
 
-## Activity Type
+## Activity type
 
 Auction
 
@@ -21,7 +21,7 @@ Whole class, with individual or small-group bids.
 - Learners use a classroom model to distinguish a change in its play-money supply from a change in one auction's winning bid.
 - Learners identify assumptions and limits before applying the model to a real economy.
 
-# Description
+## Description
 
 Learners take part in a three-round auction using play money, rewards, and a shared tracking table. Between rounds, the educator changes the number of tokens in the classroom model. Learners record the total tokens and winning bid, then consider what their result does and does not show.
 
@@ -29,16 +29,16 @@ Learners take part in a three-round auction using play money, rewards, and a sha
 >
 > The activity can illustrate one possible relationship between the number of tokens, bidding conditions, and a winning bid for one item. It cannot establish a general cause of price changes in a real economy. Real prices can also change with supply, demand, quality, costs, taxes, transport, wages, regulation, expectations, and local conditions.
 
-# Preparation
+## Preparation
 
-## Materials
+### Materials
 
 - One set of play money
 - Three or more small rewards, or three pictures of rewards if no prizes are available
 - Whiteboard, paper chart, or projected spreadsheet
 - Calculators, if useful
 
-## Setup
+### Setup
 
 Draw or project this table before the activity:
 
@@ -52,9 +52,9 @@ Sort the play money into three piles. Use the first pile in Round 1, add the sec
 
 Explain an auction: people make bids and the highest valid bid receives the item. Before beginning, ask learners to predict what could affect a bid besides the number of tokens available.
 
-# Procedure
+## Procedure
 
-## Step 1: First round
+### Step 1: First round
 
 Distribute the first pile of play money. Amounts may be equal or unequal, but record the choice because distribution can affect the result.
 
@@ -62,26 +62,26 @@ Show the first reward and run an auction. Learners may bid individually; permit 
 
 Count and record the total play money in the model, the winning bid, and observations that may have affected the bid. Do not treat a particular bid as the expected or correct result.
 
-## Step 2: Change one condition
+### Step 2: Change one condition
 
 Distribute the second pile using a method you state in advance. Keep other conditions as similar as practical, then repeat the auction and update the table.
 
 Optional distribution variation: give the additional tokens to one group first. Present this as a deliberately chosen scenario, not as a description of every real monetary system. Ask learners how the order and distribution of tokens could affect the result, and what real-world evidence would be needed before making a broader claim.
 
-## Step 3: Repeat and compare
+### Step 3: Repeat and compare
 
 Distribute the final pile, repeat the auction, and complete the table. If the bid rises, falls, or stays similar, ask learners to explain more than one possible reason. For example, learners may have changed strategy, valued the reward differently, pooled tokens, or learned from earlier rounds.
 
-# Review
+## Review
 
-## Key points
+### Key points
 
 1. The total number of tokens in this model and a winning bid for one reward are different measures.
 2. A change in one item's price is not, by itself, evidence of a change in the general price level.
 3. An official consumer price index is a documented estimate based on a defined basket and method. It is not the same as every household's experience. Learners should inspect the published method before alleging error or manipulation.
 4. The classroom result is evidence about this activity under its stated rules. Applying it to a real economy requires further evidence and attention to other explanations.
 
-## Discussion questions
+### Discussion questions
 
 1. What changed between rounds, and what did not?
 2. How did the total play money and winning bid change? What other factors may explain the result?
@@ -89,17 +89,15 @@ Distribute the final pile, repeat the auction, and complete the table. If the bi
 4. Why might an official price index and one household's experience differ?
 5. If tokens reached different groups in a different order, what outcomes could change? Which parts are observations from this model, and which would be claims about a real economy?
 
-# Notes
+## Notes
 
-Allow time between rounds for counting and discussion. The value of the activity is the comparison of evidence, assumptions, and limits—not producing a predetermined pattern of bids.
+Allow time between rounds for counting and discussion. The value of the activity is the comparison of evidence, assumptions, and limits, not producing a predetermined pattern of bids.
 
-## Compact adaptation for mature or time-constrained groups
+### Compact adaptation for mature or time-constrained groups
 
 Run two rounds with the same reward. State the distribution rule, record the result, then add tokens and repeat. Use the same review questions. This version takes about 10 minutes and should still include the model-limits discussion.
 
-# Additional resources
-
-## Educator background and source notes
+### Educator background and source notes
 
 - [International Monetary Fund, *Consumer Price Index Manual: Concepts and Methods*](https://www.imf.org/en/data/statistics/cpi-manual) explains how a consumer price index is defined and compiled.
 - [International Monetary Fund, “What Is Inflation?”](https://www.elibrary.imf.org/view/journals/022/0047/001/article-A017-en.xml) gives examples of supply, demand, and policy conditions that can affect general price levels.
@@ -107,7 +105,7 @@ Run two rounds with the same reward. State the distribution rule, record the res
 
 These sources support the factual background on price indices. They do not establish a universal causal claim about play-money supply, money supply, or prices.
 
-## Optional viewpoints
+## Additional resources
 
 ### Video
 
