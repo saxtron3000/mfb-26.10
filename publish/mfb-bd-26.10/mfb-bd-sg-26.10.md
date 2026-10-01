@@ -277,7 +277,11 @@ As you discuss these questions, notice the difference between a fact and a prefe
 
 People have different skills, resources, needs, and plans. Exchange allows them to specialize. A farmer can grow food, a builder can build homes, and a nurse can provide care. Each person can trade the value of their work for the work of others.
 
-Direct exchange is often difficult. The person who has what you need may not want what you offer. Money solves this coordination problem. It is an asset that people accept because they expect other people to accept it later.
+Direct exchange is often difficult. The person who has what you need may not want what you offer. Money solves this coordination problem.
+
+> **Definition - Money**
+>
+> Money is an asset that people accept because they expect other people to accept it later. It helps strangers coordinate exchange, record prices and debts, and move value across time and distance.
 
 Money helps strangers cooperate across time and distance, and at scale. For example, a worker can earn money today and spend it next year on a bicycle made in another country, paying for the work of many people they have never met. Money also creates a common way to record prices, debts, income, costs, and savings.
 
@@ -327,7 +331,9 @@ ASSET: assets/briefs/bd-v-008-brief.md
 
 ### Barter and the double coincidence of wants
 
-**Barter** is the direct exchange of one good or service for another. It can work well in a small exchange. It becomes difficult when many people and products are involved.
+> **Definition - Barter**
+>
+> Barter is the direct exchange of one good or service for another. It can work well in a small exchange, but becomes difficult when many people and products are involved.
 
 Imagine that Amina has rice and wants shoes. Luis has shoes but wants cooking oil, not rice. Mei has cooking oil and wants repair work. Amina may need several exchanges before she can obtain the shoes. Each exchange takes time and requires agreement about value.
 
@@ -355,7 +361,11 @@ ASSET: assets/briefs/bd-v-010-brief.md
 
 ### Scarcity, value, and exchange
 
-Resources are limited, while human wants are not. **Scarcity** means that choosing one use of a resource prevents another use. Time, land, energy, good health, tools, and money are all scarce.
+Resources are limited, while human wants are not.
+
+> **Definition - Scarcity**
+>
+> Scarcity means that choosing one use of a resource prevents another use. Time, land, energy, good health, tools, and money are all scarce.
 
 The value of a good is not contained inside the object. People value goods according to their needs, preferences, information, and circumstances. Clean water may be inexpensive near a safe public source and extremely valuable during a shortage.
 
@@ -407,7 +417,9 @@ This history shows repeated trade-offs. Convenience increased, but users often b
 
 ### Fiat money
 
-**Fiat money** is currency issued under government authority, usually through a central bank, that is not redeemable for a fixed amount of a commodity such as [gold](../mfb-lx-26.10.md#gold). The word fiat is Latin for “let it be done,” often understood as “by decree.” A country’s laws typically designate its currency as legal tender and require it for the payment of taxes, although the exact rules for accepting payments and settling debts vary by jurisdiction.
+> **Definition - Fiat money**
+>
+> Fiat money is currency issued under government authority, usually through a central bank, that is not redeemable for a fixed amount of a commodity such as [gold](../mfb-lx-26.10.md#gold). A country’s laws typically designate its currency as legal tender and require it for the payment of taxes, although the exact rules for accepting payments and settling debts vary by jurisdiction.
 
 Fiat money works because people, businesses, banks, and governments accept it. Network effects reinforce this acceptance: people want the currency because other people use it and prices are stated in it.
 
@@ -455,7 +467,9 @@ ASSET: assets/briefs/bd-v-016-brief.md
 
 Banks generally seek profit by earning interest and fees on loans and investments while paying their operating, funding, and regulatory costs and absorbing losses when borrowers do not repay. These activities and constraints differ by bank and jurisdiction.
 
-**Fractional reserve banking** is the broad idea that banks keep only a fraction of their deposit obligations available as immediately accessible reserves. Exact rules differ between countries and can change over time.
+> **Definition - Fractional reserve banking**
+>
+> Fractional reserve banking is the broad idea that banks keep only a fraction of their deposit obligations available as immediately accessible reserves. Exact rules differ between countries and can change over time.
 
 This creates two important risks:
 
@@ -475,9 +489,13 @@ The central lesson is not that every bank is about to fail. It is that a bank ba
 
 ### Inflation and purchasing power
 
-**Price inflation** is a sustained increase in the general price level of goods and services. If your income and savings do not rise as quickly as prices, your money buys less.
+> **Definition - Price inflation**
+>
+> Price inflation is a sustained increase in the general price level of goods and services. If your income and savings do not rise as quickly as prices, your money buys less.
 
-**Purchasing power** is the amount of goods and services a unit of money can buy. If a basket of basic goods rises from 100 units of currency to 110, the same 100 units no longer buy the full basket. Its purchasing power in relation to that basket has fallen.
+> **Definition - Purchasing power**
+>
+> Purchasing power is the amount of goods and services a unit of money can buy. If a basket of basic goods rises from 100 units of currency to 110, the same 100 units no longer buy the full basket. Its purchasing power in relation to that basket has fallen.
 
 <!-- VISUAL: BD-V-018
 ALT: Fixed amount of money buying a smaller basket after prices rise.
@@ -532,7 +550,9 @@ Bitcoin emerged as another proposed alternative: a scarce digital asset that can
 
 ### Central Bank Digital Currencies (CBDCs)
 
-A **central bank digital currency**, or **CBDC**, is a digital form of fiat money issued as a liability of a central bank. It is different from physical cash and from a normal commercial-bank deposit, although the user experience may look similar.
+> **Definition - Central bank digital currency (CBDC)**
+>
+> A central bank digital currency, or CBDC, is a digital form of fiat money issued as a liability of a central bank. It is different from physical cash and from a normal commercial-bank deposit, although the user experience may look similar.
 
 CBDC designs differ. Some are intended mainly for financial institutions. Others are proposed for public use. Depending on the design, a CBDC may allow faster settlement, wider access, or new payment features. It may also give institutions greater ability to monitor transactions, apply rules, limit use, or connect identity directly to payments.
 
@@ -602,7 +622,9 @@ In this book, **Bitcoin** with a capital B usually means the network, protocol, 
 
 The growth of personal computers and the internet created new opportunities for communication. It also created new forms of surveillance and control. In the late twentieth century, a group of programmers, mathematicians, and activists known as **Cypherpunks** explored how cryptography could protect [privacy](../mfb-lx-26.10.md#term-privacy) and individual freedom in digital systems.
 
-**Cryptography** is the use of mathematical methods to protect information and prove that an action is authentic. Encryption can keep a message private. **Digital signatures** can prove that a message or instruction came from the holder of a secret key without revealing that key.
+> **Definition - Cryptography**
+>
+> Cryptography uses mathematical methods to protect information and prove that an action is authentic. Encryption can keep a message private. Digital signatures can prove that a message or instruction came from the holder of a secret key without revealing that key.
 
 The Cypherpunks understood that private communication was not enough. People also needed a way to exchange value online. If every digital payment required a bank or company, that intermediary could observe, permit, or prevent the exchange.
 
@@ -631,7 +653,9 @@ Bitcoin was not the first attempt at digital money. It was built on four decades
 
 Together, these experiments showed useful pieces of the puzzle. They also clarified the remaining problem.
 
-The central problem was **double spending**. A paper note cannot be given to two people at the same time. However, digital data can be copied perfectly. A dishonest user could try to send the same digital unit to two recipients.
+> **Definition - Double spending**
+>
+> Double spending is an attempt to send the same digital unit to two recipients. Digital data can be copied perfectly, so a digital money system needs a way to establish which transaction is valid.
 
 Centralized systems prevent this by letting one trusted database decide which payment came first. On 31 October 2008, Satoshi Nakamoto's whitepaper, [*Bitcoin: A Peer-to-Peer Electronic Cash System*](https://bitcoin.org/bitcoin.pdf), explained a different approach: a public system that could establish a shared payment history without a bank, company, or other central authority.
 
@@ -652,7 +676,11 @@ This module explains these concepts in more detail. Together, they gave a practi
 
 ### Digital scarcity and credible scarcity
 
-Digital information is normally easy to copy. Digital scarcity means that the system can distinguish a valid unit from an invalid copy and can prevent the same unit from being spent twice.
+Digital information is normally easy to copy.
+
+> **Definition - Digital scarcity**
+>
+> Digital scarcity means that a system can distinguish a valid unit from an invalid copy and prevent the same unit from being spent twice.
 
 Bitcoin creates digital scarcity by combining signatures, a public transaction history, proof of work, and independent rule verification. A bitcoin can be transferred, but the network rejects an attempt to spend the same bitcoin again.
 
@@ -665,17 +693,19 @@ ASSET: assets/briefs/bd-v-027-brief.md
 
 ### The Blockchain - Bitcoin’s Public Ledger
 
-Unlike banks, who each have their own ledger of transactions and must coordinate with each other, Bitcoin is recorded and stored in a SINGLE, digital, decentralized, public ledger. This ledger is stored in a data format referred to as a “blockchain”.
-
-A block contains a series of transactions (in order), and each block is like a page in a ledger. Transactions within each block are in precise, chronological order and blocks are also sequenced and “chained” together in chronological order.
-
-Bitcoin is designed to add a new block of transactions to the blockchain approximately every 10 minutes. The blockchain is basically append only, and is therefore considered to be “immutable,” meaning it cannot be altered, which is a critical concept for accuracy, security, and stability.
+> **Definition - Blockchain**
+>
+> Bitcoin's blockchain is a public transaction record replicated across many independent computers. A block contains a set of transactions, and each valid block links to the previous one to form a shared history.
+>
+> Bitcoin targets one new block about every ten minutes on average. The history is difficult and costly to rewrite, not literally impossible to change: temporary competing histories and reorganizations can occur while nodes apply Bitcoin's rules and accumulated proof of work.
 
 ### Decentralization
 
 A centralized system has a controlling point. A bank controls its customer ledger. A payment company controls its network. A government controls the issuance rules of its currency.
 
-A **decentralized** system distributes roles and decision enforcement among many independent participants. Bitcoin has no central office that can create accounts, change balances, or approve membership.
+> **Definition - Decentralization**
+>
+> A decentralized system distributes roles and decision enforcement among many independent participants. Bitcoin has no central office that can create accounts, change balances, or approve membership.
 
 Bitcoin's decentralization comes from several features:
 
@@ -749,7 +779,9 @@ Some people perform several roles. A miner can run a node and also be a user. A 
 
 ### Proof of work
 
-**Proof of work** is the process miners use to compete for the right to propose the next block.
+> **Definition - Proof of work**
+>
+> Proof of work is the process miners use to compete for the right to propose the next block.
 
 A miner changes a small piece of data in a proposed block and runs it through a mathematical hash function, which produces a seemingly random result. The miner keeps trying until the result is below a target set by the network's difficulty rule. There is no shortcut, so miners may need to make many attempts.
 
@@ -775,7 +807,9 @@ Proof of work involves a real energy cost. Supporters argue that this cost is wh
 
 Bitcoin's rules define a predictable issuance schedule and a maximum supply of 21 million bitcoin (21,000,000 BTC). New bitcoin enter circulation through the block subsidy paid to miners who produce valid blocks.
 
-Every 210,000 blocks, the subsidy is cut in half. This event is called a **halving**. Because blocks are produced approximately every ten minutes on average, a halving occurs roughly every four years. The exact calendar date is not fixed.
+> **Definition - Halving**
+>
+> Every 210,000 blocks, the subsidy is cut in half. This event is called a halving. Because blocks are produced approximately every ten minutes on average, a halving occurs roughly every four years. The exact calendar date is not fixed.
 
 | Halving year | Block height | Subsidy after halving |
 | --- | ---: | ---: |
@@ -986,7 +1020,9 @@ Use the explanations below to prepare for the three guided practices: a receive-
 
 ### Wallets
 
-A **Bitcoin wallet** is a tool that manages the information needed to receive and authorize Bitcoin transactions. It may be an app, a dedicated device, or a service. Bitcoin is recorded on the shared ledger; it is not stored inside a phone.
+> **Definition - Bitcoin wallet**
+>
+> A Bitcoin wallet is a tool that manages the information needed to receive and authorize Bitcoin transactions. It may be an app, a dedicated device, or a service. Bitcoin is recorded on the shared ledger; it is not stored inside a phone.
 
 What would happen if your phone stopped working? The Bitcoin record would still exist, but access would depend on the keys and recovery method the wallet uses. A wallet helps create receiving information, show balances and transaction history, and authorize spending. It does not remove the need to understand who controls access.
 
@@ -1005,7 +1041,9 @@ Your educator will help you compare custody, recovery, inspectability, compatibi
 
 ### Addresses
 
-A Bitcoin **address** is public receiving information for an on-chain payment. A wallet normally shows it as text and a QR code. It is not a password and cannot authorize spending by itself.
+> **Definition - Bitcoin address**
+>
+> A Bitcoin address is public receiving information for an on-chain payment. A wallet normally shows it as text and a QR code. It is not a password and cannot authorize spending by itself.
 
 <!-- VISUAL: BD-V-036
 ALT: My First Bitcoin test address shown as text beside a matching sample QR code, labelled SAMPLE — DO NOT PAY.
@@ -1027,7 +1065,9 @@ When a payment matters, do not decide that an address is safe only because it lo
 
 Bitcoin ownership is enforced through cryptographic keys.
 
-A **private key** is secret information that allows a wallet to create a valid digital signature. That signature authorizes the spending of bitcoin controlled by the corresponding key. Anyone who obtains the private key can usually spend those funds.
+> **Definition - Private key**
+>
+> A private key is secret information that allows a wallet to create a valid digital signature. That signature authorizes the spending of bitcoin controlled by the corresponding key. Anyone who obtains the private key can usually spend those funds.
 
 A **public key** is mathematically related to the private key. It helps verify a signature without revealing the private key. Addresses are created from public-key information.
 
@@ -1050,7 +1090,9 @@ ASSET: assets/briefs/bd-v-037-brief.md
 
 ### Seed phrases
 
-A **seed phrase**, also called a recovery phrase, is an ordered list of words that many wallets use to back up the information needed to recreate their keys. Common lengths are 12 or 24 words, although wallet designs differ.
+> **Definition - Seed phrase**
+>
+> A seed phrase, also called a recovery phrase, is an ordered list of words that many wallets use to back up the information needed to recreate their keys. Common lengths are 12 or 24 words, although wallet designs differ.
 
 The order and spelling of the words matter. If a person has the seed phrase, they can often restore the wallet on another compatible device and spend the funds. The seed phrase is therefore not only a backup. It is full access.
 
@@ -1081,7 +1123,9 @@ ASSET: assets/briefs/bd-v-079-brief.md
 
 ### Custodial and non-custodial use
 
-**Custody** answers a practical question: who controls the keys required to spend the bitcoin?
+> **Definition - Custody**
+>
+> Custody answers a practical question: who controls the keys required to spend the bitcoin?
 
 In a **custodial** service, a company or another person controls the keys. Your displayed balance is a promise from the custodian. You usually sign in with an account and ask the service to process a withdrawal or payment.
 
@@ -1109,9 +1153,13 @@ Custody is not always obvious from the interface. If you cannot control the reco
 
 ### Hot and cold wallets
 
-A **hot wallet** manages keys on a device connected to the internet, such as a phone or computer. It is convenient for regular payments. It also has a larger attack surface because malicious software, insecure updates, phishing, physical access, or device compromise may expose the wallet.
+> **Definition - Hot wallet**
+>
+> A hot wallet manages keys on a device connected to the internet, such as a phone or computer. It is convenient for regular payments, but has a larger attack surface because malicious software, insecure updates, phishing, physical access, or device compromise may expose the wallet.
 
-A **cold wallet** keeps the keys used for signing transactios away from an internet-connected general-purpose device. A **hardware wallet** is a dedicated device designed to generate, protect, and use keys while keeping them isolated from the connected computer or phone.
+> **Definition - Cold wallet and hardware wallet**
+>
+> A cold wallet keeps the keys used for signing transactions away from an internet-connected general-purpose device. A hardware wallet is a dedicated device designed to generate, protect, and use keys while keeping them isolated from the connected computer or phone.
 
 <!-- VISUAL: BD-V-042
 ALT: Hot, cold, hardware, and custodial wallet dimensions compared without treating them as one scale.
@@ -1200,7 +1248,9 @@ If the destination changes unexpectedly, the request becomes urgent, or anyone a
 
 ### Verification, block explorers, and irreversible transactions
 
-A **transaction ID** (*txid*) identifies an on-chain transaction. A **block explorer** shows public Bitcoin data, such as a transaction's status and confirmation count. It is a useful view, not an authority over Bitcoin and not proof of the recipient's identity or honesty.
+> **Definition - Transaction ID and block explorer**
+>
+> A transaction ID (*txid*) identifies an on-chain transaction. A block explorer shows public Bitcoin data, such as a transaction's status and confirmation count. It is a useful view, not an authority over Bitcoin and not proof of the recipient's identity or honesty.
 
 What can this public information show, and what can it not show? It can show a transaction's status, destination, amount, fee, and confirmation count; it cannot prove why a payment happened or whether a person is trustworthy. An on-chain transaction is unconfirmed after it is broadcast and gains its first confirmation when included in a valid block. Later blocks add confidence to its place in the record, but they do not fix a wrong destination or a scam. There is no universal confirmation count for every payment; the suitable check depends on the amount and risk.
 
@@ -1267,7 +1317,11 @@ ALT: Risk areas and questions to ask before acquiring or exchanging bitcoin.
 ASSET: assets/briefs/bd-v-049-brief.md
 -->
 
-No pathway is automatically best everywhere. Local examples and provider-specific guidance belong in **Module 4**. **Know Your Customer (KYC)** describes identity checks a regulated service may require. It can support account recovery or legal compliance, while also creating a record that connects identity and financial activity. Paths with less identity collection can involve different counterparty, legal, safety, cost, or complexity risks.
+No pathway is automatically best everywhere. Local examples and provider-specific guidance belong in **Module 4**.
+
+> **Definition - Know Your Customer (KYC)**
+>
+> KYC describes identity checks a regulated service may require. It can support account recovery or legal compliance, while also creating a record that connects identity and financial activity. Paths with less identity collection can involve different counterparty, legal, safety, cost, or complexity risks.
 
 ### On-chain and Lightning payments
 
@@ -1276,7 +1330,9 @@ ALT: Comparison of on-chain and Lightning payment paths, including settlement, s
 ASSET: assets/briefs/bd-v-050-brief.md
 -->
 
-Bitcoin has more than one payment path. **On-chain** payments are recorded in Bitcoin's blockchain and gain confirmations. **Lightning** is a payment network built on Bitcoin that can support fast, frequent payments. A Lightning payment may complete quickly or fail, and its wallet can still be custodial or self-custodial.
+> **Definition - On-chain and Lightning payments**
+>
+> On-chain payments are recorded in Bitcoin's blockchain and gain confirmations. Lightning is a payment network built on Bitcoin that can support fast, frequent payments. A Lightning payment may complete quickly or fail, and its wallet can still be custodial or self-custodial.
 
 > **Callout – Payment path does not determine custody**
 >
