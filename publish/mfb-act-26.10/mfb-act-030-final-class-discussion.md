@@ -30,11 +30,11 @@ Return to the first Chapter 1 activity and compare new answers with old answers.
 Compare and discuss the original answers and questions. Ask whether something changed.
 ### Step 3
 Ask: What is my next step, and how can I use this new knowledge to empower myself?
-# Review
-## Key Points
+## Review
+### Key points
 
 ### Discussion questions
 How did your perspective change? What is your next step?
-# Notes
+## Notes
 
-# Additional Resources
+## Additional resources

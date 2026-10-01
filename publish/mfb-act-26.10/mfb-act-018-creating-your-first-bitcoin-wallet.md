@@ -2,7 +2,7 @@
 ## Keywords
 **Bitcoin Wallet** **Recovery Phrase** **Private Key** **Self-Custody**
 
-## Activity Type
+## Activity type
 Guided practice
 
 ## Participation
@@ -67,10 +67,12 @@ Close the simulation or return the paper materials. Invite participants to name 
 
 ### Key points
 Public receiving information and private spending information have different roles. A test wallet is a learning environment; a wallet intended to receive real funds needs private, deliberate setup outside the classroom.
-## Discussion questions
+### Discussion questions
 
-# Notes
+## Notes
 
 **Diploma assessment link:** May support [`T3` / `C4`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show), [`P6a` / `C6`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show), and [`P6b` / `C6`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show) when the educator observes safe recovery-readiness decisions using prepared placeholder materials. Record the participant's demonstrated decision or explanation, never wallet secrets or personal financial information.
+
+## Additional resources
 
 Public addresses can be shared to receive bitcoin; private information should not be shared.

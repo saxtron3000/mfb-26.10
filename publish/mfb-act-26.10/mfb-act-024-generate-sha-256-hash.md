@@ -2,7 +2,7 @@
 ## Keywords
 **SHA-256** **Hashing** **Digital signature**
 
-## Activity Type
+## Activity type
 Online exercise
 
 ## Participation
@@ -38,12 +38,12 @@ Change the message slightly and observe that the code is completely different. C
 
 ### Key points
 The same message produces the same hash; small changes produce a very different hash; output length is fixed.
-## Discussion questions
+### Discussion questions
 
-# Notes
+## Notes
 
 **Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show), specifically proof-of-work preparation. Use the approved protocol and required rule-and-role explanation; otherwise, this activity is formative.
 
 Hash functions are described as one-way methods.
-# Additional resources
+## Additional resources
 [SHA-256 Online Generator](https://tools.keycdn.com/sha256-online-generator) is the browser-based tool used in this activity to create and compare SHA-256 hashes from learner-entered text.

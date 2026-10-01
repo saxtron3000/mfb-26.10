@@ -20,20 +20,20 @@ Participants watch a non-technical Bitcoin overview designed for complete beginn
 ### Materials
 - Internet access and video playback.
 
-## Setup
-# Procedure
-## Step 1
+### Setup
+## Procedure
+### Step 1
 Open the video.
-## Step 2
+### Step 2
 Watch the video.
-## Step 3
+### Step 3
 
-# Review
-## Key Points
+## Review
+### Key points
 
-## Discussion questions
+### Discussion questions
 
-# Notes
+## Notes
 The source notes that the host is not a Maxi; be aware of this if participants ask.
 ## Additional resources
 [“Explain Bitcoin to Complete Beginners”](https://youtu.be/SXqfFTmYmT0?si=HHZmNiGSzD6kz8FG) is the non-technical overview used to give the class a shared starting point for discussing Bitcoin’s basic features and open questions.

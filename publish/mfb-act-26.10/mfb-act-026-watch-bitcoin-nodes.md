@@ -28,16 +28,16 @@ Participants watch “How To Setup Bitcoin Core,” a video about setting up Bit
 ## Procedure
 ### Step 1
 Open “How To Setup Bitcoin Core.”
-## Step 2
+### Step 2
 Watch the video.
-## Step 3
+### Step 3
 Explain that Bitcoin Core is one option for running a node and that it downloads the blockchain before checking newly arriving blocks.
-# Review
-## Key Points
+## Review
+### Key points
 
-## Discussion questions
+### Discussion questions
 
-# Notes
+## Notes
 
-# Additional Resources
+## Additional resources
 [“How To Setup Bitcoin Core”](https://youtu.be/xc_TxlByxeY) is the video used in this activity. It introduces Bitcoin Core as one way to run a node and supports discussion of block validation and maintaining a blockchain copy.

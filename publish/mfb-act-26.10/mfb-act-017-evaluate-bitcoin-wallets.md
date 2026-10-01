@@ -25,16 +25,16 @@ Participants examine prepared, locally relevant Bitcoin and Lightning [wallet](.
 - Prepared wallet information in print or digital form.
 - Internet access, if checking current local information.
 
-## Setup
-# Procedure
-## Step 1
+### Setup
+## Procedure
+### Step 1
 Review the prepared Bitcoin and Lightning information resources and identify when each source was last checked.
 ### Step 2
 Research or compare wallet options using custody, recovery, payment compatibility, privacy, cost, maintenance, safe support, and whether the software is open source and publicly inspectable.
 ### Step 3
 Choose a wallet for a fictional or stated beginner need and explain the trade-offs. Prefer a well-established open-source option where appropriate, but do not treat open source as proof of safety or suitability and do not name one wallet as best for everyone.
-# Review
-## Key Points
+## Review
+### Key points
 
 ### Discussion questions
 Which wallet best fits the stated need, what trade-offs remain, and what would need to be verified before real use?

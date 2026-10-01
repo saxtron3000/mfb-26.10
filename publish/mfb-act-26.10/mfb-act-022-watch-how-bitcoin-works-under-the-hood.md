@@ -20,20 +20,20 @@ Participants watch “How Bitcoin Works under the Hood” to reinforce the techn
 ### Materials
 - Internet access and video playback.
 
-## Setup
-# Procedure
-## Step 1
+### Setup
+## Procedure
+### Step 1
 Open the video.
 ### Step 2
 Watch the video.
-## Step 3
+### Step 3
 
-# Review
-## Key Points
+## Review
+### Key points
 
-## Discussion questions
+### Discussion questions
 
-# Notes
+## Notes
 
-# Additional Resources
+## Additional resources
 [“How Bitcoin Works under the Hood”](https://www.youtube.com/watch?v=Lx9zgZCMqXE) is the technical overview used in this activity to revisit transactions, blocks, nodes, mining, and consensus.

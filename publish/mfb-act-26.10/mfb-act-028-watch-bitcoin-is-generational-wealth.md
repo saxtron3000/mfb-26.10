@@ -24,11 +24,19 @@ Participants watch “Bitcoin Is Generational Wealth,” a short film by Matt Ho
 ### Materials
 - Internet access and video playback.
 
-## Setup
-# Procedure
-## Step 1
+### Setup
+## Procedure
+### Step 1
 Open the video.
 ### Step 2
 Watch the video.
+## Review
+
+### Key points
+
+### Discussion questions
+
+## Notes
+
 ## Additional resources
 [“Bitcoin Is Generational Wealth”](https://www.youtube.com/watch?v=3Rnqst5qCgA&ab_channel=SwanBitcoin), a short film by Matt Hornick and Tomer Strolight, presents a perspective on money, saving, and intergenerational thinking for participants to examine rather than financial advice to follow.

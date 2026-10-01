@@ -2,7 +2,7 @@
 ## Keywords
 **Self-Verification** **Decentralization** **Privacy**
 
-## Activity Type
+## Activity type
 Video discussion
 
 ## Participation
@@ -21,9 +21,9 @@ Participants watch the first five minutes of a video explaining what Bitcoin nod
 ### Materials
 - Internet access and video playback.
 
-## Setup
-# Procedure
-## Step 1
+### Setup
+## Procedure
+### Step 1
 Open the video.
 ### Step 2
 Watch only the first five minutes, then stop when the speaker begins explaining setup.
@@ -33,9 +33,9 @@ Emphasize that nodes are not miners or wallets: they run the Bitcoin protocol an
 
 ### Key points
 Nodes help ensure the network is decentralized and secure.
-## Discussion questions
+### Discussion questions
 
-# Notes
+## Notes
 
-# Additional Resources
+## Additional resources
 [“Why Every Bitcoiner Should Run Their Own Node”](https://youtu.be/MJxEli0jqy0) is the video used in this activity. Its first five minutes introduce the role of a node; stop before its setup instructions.
