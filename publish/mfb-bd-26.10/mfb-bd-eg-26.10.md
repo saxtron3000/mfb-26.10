@@ -5,7 +5,7 @@ Teaching the Bitcoin Diploma
 
 ## About this guide
 
-The Educator Guide supports teaching the 2026.10 Bitcoin Diploma. Linked terms open their definitions in the [Lexicon](../mfb-lx-26.10-index.md). Use it with the [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/), [Educator Quick Start](mfb-bd-qs-26.10.md), [Educator Assessment Grid](mfb-bd-assessment-grid-26.10.md), and the learning activities supplied for your course. The [My First Bitcoin App](https://myfirstbitcoin.app/) offers optional microlearning, self-checks, recap, and discovery. Learners can complete the course without using it.
+The Educator Guide supports teaching the 2026.10 Bitcoin Diploma. Linked terms open their definitions in the [Lexicon](../mfb-lx-26.10-index.md). Use it with the [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/), [Educator Quick Start](mfb-bd-qs-26.10.md), [Educator Assessment Grid](mfb-bd-assessment-grid-26.10.md), the learning activities supplied for your course, and the [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) for additional classroom activities. The [My First Bitcoin App](https://myfirstbitcoin.app/) offers optional microlearning, self-checks, recap, and discovery. Learners can complete the course without using it.
 
 Download the [My First Bitcoin App](https://myfirstbitcoin.app/) for optional microlearning, self-checks, recap, and more learning opportunities.
 
@@ -239,7 +239,7 @@ For your first delivery, use this route:
 1. Read **Quick start** and **The educator's role**.
 2. Read the relevant module guide only. You do not need to read the whole handbook before the first session.
 3. Complete the module's **Prepare before class** list.
-4. Choose one main activity and one backup activity. Do not try to use every option.
+4. Choose one main activity and one backup activity, using the [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) for ideas when helpful. Do not try to use every option.
 5. Copy the session competency and safety rule onto your board or opening slide.
 6. Teach in the order **explain → ask → practise → debrief → check**.
 7. Use the Assessment Grid and the operational assessment protocol when you are ready to collect evidence; ordinary discussion is not automatically assessment.
@@ -408,7 +408,7 @@ Each part of the Diploma has a distinct function.
 | Student Guide | Essential learner explanations, reflection, review, and reference | Live facilitation, local verification, supported practice, or observed assessment |
 | [My First Bitcoin App](https://myfirstbitcoin.app/) | Optional self-checks, recap, discovery, feedback, and connection to future learning | Educator-led theoretical or practical assessment, certification records, or learner evaluation |
 | Educator Guide | Preparation, pacing, facilitation, localization, safety, and assessment support | Learner materials or assessment rubrics |
-| Activity collection | Modular interaction, formative checks, and practical practice | Competency definitions, [My First Bitcoin App](https://myfirstbitcoin.app/) scoring, or educator judgment |
+| [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) | Modular interaction, formative checks, and practical practice | Competency definitions, [My First Bitcoin App](https://myfirstbitcoin.app/) scoring, or educator judgment |
 | Assessment guidance and Grid | Example interactions, observable criteria, safety guidance, optional notes, and completion decisions | Teaching and supported practice |
 
 <!-- VISUAL: BD-V-086
@@ -675,7 +675,7 @@ Move optional history, extra analogies, extended debates, detailed mechanics, an
 - Read the relevant Student Guide sections and competency map.
 - Select the **Module 4** module and any local expert.
 - Verify local banking, [inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation), payment, legal, tax, privacy, and tool information that will be used.
-- Select activities and assessment tasks.
+- Browse the [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) for classroom ideas, then select activities and assessment tasks that fit the competencies and your cohort.
 - Plan practical environments, amounts, roles, stop conditions, and reset procedures.
 - Prepare offline alternatives and print materials.
 - Confirm how evidence, consent, and results will be recorded.
@@ -990,7 +990,7 @@ Use guided discussions to develop and notice the formative competency `F1` acros
 
 - Read the **Module 1** Student Guide sections and identify which definitions need local-language support.
 - Prepare the five opening questions for cohort discussion.
-- Select one money-properties activity and one modern-money activity.
+- Select one money-properties activity and one modern-money activity; browse the [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) for options to adapt.
 - Prepare locally familiar examples of a [medium of exchange](https://programs.myfirstbitcoin.org/lexicon/en/#medium-of-exchange), [unit of account](https://programs.myfirstbitcoin.org/lexicon/en/#unit-of-account), and [store of value](https://programs.myfirstbitcoin.org/lexicon/en/#store-of-value).
 - Review the [currencies](https://programs.myfirstbitcoin.org/lexicon/en/#currency) and payment methods learners encounter locally.
 - Be ready to facilitate the local fiat-system scenario. Identify the relevant central bank, commercial banks, payment providers, government roles, and settlement arrangements.
@@ -1719,7 +1719,7 @@ Use these answers as educator preparation, not as speeches. First discover the l
 
 ### Strong Module 2 activities
 
-Choose two or three, not all:
+Choose two or three from these examples, not all. Browse the [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) for additional options that fit the competency.
 
 - double-spend scenario;
 - centralized versus decentralized payment map;
@@ -1836,6 +1836,7 @@ Use smaller stations, another educator, or additional sessions when helpful. Gro
 - Prepare a deliberately public address or historical transaction for the address-history activity. Never use learner-linked data.
 - Prepare a fake [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase) or disposable empty training wallet for recovery practice.
 - Prepare scam and clipboard-replacement scenarios.
+- Review the [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) for suitable practice ideas, adapting any wallet or payment activity to the safety and assessment conditions here.
 - Prepare an acquisition-pathway comparison relevant to the location without naming a preferred provider.
 - Define the helpful steps, support, safety boundaries, reset method, and any optional notes for each activity used for assessment.
 - Arrange a private space where learner screens and evidence cannot be observed unnecessarily.
@@ -2500,6 +2501,8 @@ Choose one primary task and, at most, one supporting task for a minimum module. 
 
 Every certification activity must map to `C7` and preserve the purpose of `C7.1` and `C7.2` through a locally relevant activity.
 
+The [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) can offer practice ideas. Select and validate the local task yourself; a library activity does not automatically meet `C7`.
+
 #### 4. Verify facts, tools, and expertise
 
 For every tool or service, record:
@@ -3139,7 +3142,7 @@ Every activity should state whether it is:
 - a practical activity that may also provide assessment evidence; or
 - an approved combination of formative learning and practical assessment.
 
-Activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) may support learning, practice, and assessment. Their use does not make every activity an assessment. When you use an activity as evidence, make sure it gives each learner a fair opportunity to show the competency, keeps the safety boundary clear, and allows you to record **Yes** or **Not yet**. You do not need to create lengthy evidence records or a separate test.
+Activities in the [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) may support learning, practice, and assessment. Their use does not make every activity an assessment. When you use an activity as evidence, make sure it gives each learner a fair opportunity to show the competency, keeps the safety boundary clear, and allows you to record **Yes** or **Not yet**. You do not need to create lengthy evidence records or a separate test.
 
 ### Assessment activity crosswalk
 
@@ -3464,7 +3467,7 @@ Use the [Lexicon](../mfb-lx-26.10-index.md) for full definitions. Keep these dis
 - [ ] I can explain the four-module narrative and learner promises.
 - [ ] I reviewed every required assessed competency, its competency criteria, and its evidence type.
 - [ ] I know that all four modules are required Diploma learning, how I may adapt **Module 3** and curate **Module 4**, and what belongs to Advanced Learning.
-- [ ] I selected activities for a clear competency rather than entertainment alone.
+- [ ] I reviewed the [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) where useful and selected activities for a clear competency rather than entertainment alone.
 - [ ] I prepared a review and bridge for every module.
 
 ### Learners and access
