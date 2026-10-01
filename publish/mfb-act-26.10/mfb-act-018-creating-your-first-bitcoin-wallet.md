@@ -11,63 +11,65 @@ Guided practice
 
 ## Objective
 
-- Participants practice the steps of creating or restoring a Bitcoin wallet while protecting private recovery information.
+- Participants explore wallet setup, receiving information, and recovery readiness through a guided, no-value demonstration.
 
 # Description
-Participants follow a guided new-wallet or prepared restoration route to see how a Bitcoin wallet is created, secured, or restored. They identify the role of a [Bitcoin address](../mfb-lx-26.10.md#term-bitcoin-address), private key, and recovery phrase while using an approved simulation and observing the rule that private recovery information must never be shared, collected, or recorded by the educator.
+The educator guides participants through a prepared wallet demonstration or simulation so they can explore how wallet setup, receiving information, and recovery readiness work. Participants follow the clues, compare public and private information, and make safe choices in realistic-looking examples.
+
+This is a learning demonstration, not personal wallet setup: no real secret or funds are used.
 # Preparation
 
 ## Materials
-- Phones or teacher-provided devices
-- An educator-approved temporary wallet or simulation
-- Official instructions for the exact training wallet
-- An educator-prepared empty or simulated route for receiving and recovery practice
+- An educator-guided, nonfunctional wallet simulation, printed screen sequence, or educator-controlled empty test-wallet demonstration
+- Public/secret sorting cards and recovery-readiness sequence cards using placeholders such as `WORD 01` through `WORD 12`
+- Sample receiving information and status screens marked **SAMPLE — NONFUNCTIONAL — DO NOT PAY**
+- Official instructions for the exact training environment, if a device demonstration is used
 
-If participants do not have cell phones, provide a shared device, paper simulation, or educator demonstration. Do not require personal funds. Do not use a learner's personal wallet, recovery phrase, private key, password, or balance.
+Phones are optional. If a device is unavailable, use the paper simulation or educator demonstration.
 
 ## Setup
-Choose a new temporary-wallet route, an approved backup-check or recovery route, or an educator demonstration. Check the exact wallet's official instructions and compatibility before class. The temporary environment must be empty, simulated, or otherwise approved for low-stakes practice.
+Choose a nonfunctional simulation or printed sequence as the default route. An educator-controlled empty test-wallet demonstration may be used after its source, version, network, custody model, and reset method have been checked. Participants explore the prepared route without creating, restoring, signing with, funding, or receiving bitcoin through it.
 
-> **Callout – Educator safety note**
+> **Callout – Keep it a learning demonstration**
 >
-> For safety, do not use any wallet, device, account, or recovery material used in this activity to hold funds. Learners should create any wallet intended to hold funds later, in a secure environment, by repeating the safe steps they have learned.
+> A test or training wallet is for exploring an interface or process; it contains no real bitcoin and is not a participant's future wallet. Any wallet intended to receive real funds needs private, deliberate setup and a protected recovery plan outside this activity. Keep recovery phrases, private keys, passwords, personal wallets, and funds out of this demonstration.
 
 # Procedure
-## Step 1: Establish the training boundary
+## Step 1: Meet the training wallet
 
-Explain that this is a temporary, empty, or simulated exercise. Learners may observe or use the prepared route; they do not need to create or disclose a personal wallet. State the rule before opening anything: a recovery phrase, private key, password, and other spending information must never be shown to the educator or another learner.
+Introduce the prepared wallet as a training example. Explain that the class will explore how the screens work, not set up personal wallets. Invite participants to notice which information can be shared and which information must stay private.
 
 ## Step 2: Open the approved training route
 
-Using the official instructions for the exact training wallet, open the educator-approved temporary wallet or simulation. Confirm that the learner can identify the new-wallet and restore or recovery options. Do not assume that labels or screens match another wallet.
+Open the educator-approved simulation, printed sequence, or empty test-wallet demonstration. Ask participants to find the new-wallet, receive, and recovery options. Different wallets use different labels, so explore what this example calls each action.
 
-## Step 3: Create or inspect a temporary wallet
+## Step 3: Inspect the prepared wallet interface
 
-If using the new-wallet route, create only the prepared temporary wallet. If using a demonstration or recovery route, inspect the prepared wallet interface instead. Identify the receiving information and distinguish it from private spending information.
+Inspect the prepared interface. Participants point out the receiving information, then sort the prepared cards into “may be shared” and “keep private.” Use placeholders for recovery information; participants do not create a wallet or handle a secret.
 
-## Step 4: Handle recovery information privately
+## Step 4: Rehearse recovery readiness without a secret
 
-Follow the exact training wallet's official backup instructions in private. The learner handles any recovery information without reading it aloud, showing it on screen, photographing it, or giving it to the educator. The educator may verify that the learner followed the process, but never sees or records the secret.
+Give pairs the numbered placeholder cards and ask them to put the backup-and-recovery steps in order. Debrief: what must stay private, why does word order matter, and what would be a good next step if a real recovery phrase were exposed?
 
-## Step 5: Rehearse the approved backup-check or recovery method
+## Step 5: Identify the safe recovery path
 
-Use only the educator-approved temporary or simulated method to check the backup or recovery path. Confirm compatibility before entering any recovery information, and stop if the learner cannot do the task privately or is unsure which environment is being used.
+Use the prepared scenario cards to identify the wallet's stated recovery method, the compatibility checks a person would make, and the point at which they should pause and seek help. The educator observes the participant's explanation and safe decisions, not a secret or a completed recovery.
 
-## Step 6: Verify the expected receiving information or training history
+## Step 6: Check prepared receiving information
 
-Identify the temporary wallet's receiving information. Use an educator demonstration, simulation, test environment, or approved low-stakes transfer to confirm the expected receiving information or training history. No personal funds are required.
+Show the prepared receiving information and status screen. Participants check the labelled network, destination, amount, unit, and status, then play “spot the mismatch” with a deliberately changed example. The class explains why pausing is the best next step. All examples are nonfunctional; no payment is made.
 
 ## Step 7: Close the temporary environment
 
-Confirm that no private information remains visible, then reset, clear, or return the temporary environment according to the prepared route. Do not ask learners to erase a personal wallet or anything containing their own funds.
+Close the simulation or return the paper materials. Invite participants to name one thing they can share and one thing they would keep private. If an educator-controlled test-wallet demonstration was used, the educator follows the pre-checked reset process.
 # Review
 ## Key Points
-Never share a private key or recovery phrase. Loss of the recovery phrase can prevent access to bitcoins.
+Public receiving information and private spending information have different roles. A test wallet is a learning environment; a wallet intended to receive real funds needs private, deliberate setup outside the classroom.
 ## Discussion questions
 
 # Notes
 
-**Diploma assessment link:** May support [`T3` / `C4`](https://programs.myfirstbitcoin.org/programs/educator-guide/), [`P6a` / `C6`](https://programs.myfirstbitcoin.org/programs/educator-guide/), and the prepared restoration route for [`P6b` / `C6`](https://programs.myfirstbitcoin.org/programs/educator-guide/). As written, it is not a certificated task: use an approved prepared simulation and never collect, view, or record a learner's recovery phrase, private key, password, balance, or personal wallet.
+**Diploma assessment link:** May support [`T3` / `C4`](https://programs.myfirstbitcoin.org/programs/educator-guide/), [`P6a` / `C6`](https://programs.myfirstbitcoin.org/programs/educator-guide/), and [`P6b` / `C6`](https://programs.myfirstbitcoin.org/programs/educator-guide/) when the educator observes safe recovery-readiness decisions using prepared placeholder materials. Record the participant's demonstrated decision or explanation, never wallet secrets or personal financial information.
 
 Public addresses can be shared to receive bitcoin; private information should not be shared.
 # Additional Resources

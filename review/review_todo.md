@@ -270,9 +270,9 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 ### Review findings added from the cynical-editor run
 
-- [ ] **ACT-022: Remove the unsafe wallet exercise.** Rewrite or remove Activity 018 so it never asks anyone to fund a wallet, create or restore a live learner wallet, or handle a real recovery phrase.
+- [x] **ACT-022: Remove the unsafe wallet exercise.** Rewrite or remove Activity 018 so it never asks anyone to fund a wallet, create or restore a live learner wallet, or handle a real recovery phrase.
 
-  - Status: open | Owner: unassigned | Updated: 2026-09-21 | Severity: critical | Release impact: publication blocker | Evidence: [CYN-001](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings) identifies the unsafe published procedure and late safety note | Depends on: none | Completion evidence: a safety reviewer can follow every numbered step using only a fake, disposable, no-value environment; the prohibition on real secrets and funds appears before the first action; and no unsafe alternative remains in the activity.
+  - Status: complete | Owner: unassigned | Updated: 2026-09-30 | Severity: critical | Release impact: source correction complete; verify the deployed Resources Hub page during publication | Evidence: [CYN-001](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings) identified the unsafe prior procedure; [Activity 018](../publish/mfb-act-26.10/mfb-act-018-creating-your-first-bitcoin-wallet.md) now uses only a guided, nonfunctional or empty no-value training environment, placeholder recovery materials, and non-payable examples | Depends on: none | Completion evidence: every numbered step can be followed without creating, viewing, recording, sharing, restoring, or funding a learner wallet or real recovery secret; the learning-only boundary appears before the procedure; and the publication source will replace the prior Resources Hub route. Confirm the deployed page as part of final publication verification.
 
 - [ ] **ACT-023: Make every published activity usable.** Fill in or remove empty sections. Say what learners produce, what educators look for, and what to do when a device, video, website, or live tool is unavailable.
 

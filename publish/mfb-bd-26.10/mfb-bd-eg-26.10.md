@@ -115,7 +115,9 @@ ASSET: assets/briefs/bd-v-084-brief.md
 USE: Educator-only diagram; see the asset index brief.
 -->
 
-**Safety-critical practical errors:** Record **Not yet** and pause the task if the learner reveals or attempts to share a [seed phrase](../mfb-lx-26.10.md#term-seed-phrase), [private key](../mfb-lx-26.10.md#term-private-key), password, or unnecessary personal information; proceeds after a known address, invoice, amount, or recipient mismatch; accepts an obvious scam or urgent secret request; or bypasses a required verification step. Explain the reason kindly, reset to a safe environment, practise, and reassess later. The learner is building competency. If personal funds are used by choice, keep the amount genuinely low and make the risk of loss clear; no learner should need personal funds to complete the Diploma.
+> **Callout – Safety-critical practical errors**
+>
+> Record **Not yet** and pause the task if the learner reveals or attempts to share a [seed phrase](../mfb-lx-26.10.md#term-seed-phrase), [private key](../mfb-lx-26.10.md#term-private-key), password, or unnecessary personal information; proceeds after a known address, invoice, amount, or recipient mismatch; accepts an obvious scam or urgent secret request; or bypasses a required verification step. Explain the reason kindly, reset to a safe environment, practise, and reassess later. The learner is building competency. Diploma practice and assessment use prepared training materials, not personal funds.
 
 **Accessibility and low-tech equivalence:** Use the communication method, translated prompt, large-print or tactile material, oral response, scribed response, prepared paper wallet screens, role-play, or offline simulation that works for the learner while preserving the required action. An equivalent route should make the competency reachable; it should not reduce it to recognition, group participation, or self-report.
 
@@ -161,7 +163,7 @@ These interactions may be woven into normal module teaching. They are examples, 
 
 #### `P6a` — Supported first access and receipt (`C6`)
 
-**Possible environments:** A prepared training wallet, testnet, no-value simulation, physical-token activity, or an educator-controlled low-stakes setup. Personal funds are not required. If learners choose to use a small amount of their own funds, make the risk of loss clear and never make this the only route.
+**Possible environments:** A prepared training wallet, testnet, no-value simulation, physical-token activity, or educator-controlled empty setup. Personal funds are not used for Diploma practice or assessment.
 
 **Learner task:**
 
@@ -878,7 +880,7 @@ The Student Guide explains lasting concepts. Verify current local details before
 
 **Presentation:** Demonstrate the complete process. Explain the purpose, terms, choices, expected result, failure points, privacy consequences, and stop conditions. Learners observe before handling a device.
 
-**Practice:** Learners follow a supported process using prepared materials, a simulation, test environment, empty training wallet, or an approved small value. Pause for checks and give feedback.
+**Practice:** Learners follow a supported process using prepared materials, a simulation, test environment, or empty training wallet. Pause for checks and give feedback.
 
 **Production:** Learners complete a defined practical task or direct the decisions without step-by-step prompting. This stage can provide formal practical evidence when the task and rubric are approved and an educator observes it.
 
@@ -1780,6 +1782,19 @@ Learner promise:
 
 **If this is your first time teaching Module 3:** Practise the complete safe process yourself before class. Use an empty training wallet, printed screens, or a simulation. Never learn a new wallet or recovery procedure at the same time as learners, and never ask learners to show real secrets. Slow, visible checking is more important than completing a live transaction.
 
+### Separate training wallets from personal wallets
+
+The Diploma is for learning and practice. It may involve creating a wallet, handling prepared recovery words, or completing a simulated receive or recovery path. In a class, however, a screen, device, recovery phrase, or wallet detail can be accidentally seen, copied, shared, or compromised. Treat every wallet and recovery material used for Diploma practice as training material, not as a personal wallet for real funds.
+
+Use this distinction consistently:
+
+- A **training wallet** is empty, simulated, or in a test environment. It is used only to learn a process. Label it clearly, do not use it for real funds, and do not let its recovery information later protect real funds.
+- A **personal wallet** is created for a learner who independently chooses to receive or hold real funds after the Diploma. It needs a new wallet, new recovery information, a private setup, and more careful attention to privacy and security.
+
+Plan to retire training wallets by the end of the Diploma wherever practical: clear or reset the temporary device, return shared equipment, and destroy or securely return prepared recovery materials. Never retain material that could later give access to a learner's funds.
+
+An educator may choose to offer optional support to a learner who wants to create a personal wallet for use after the Diploma. Keep this separate from class practice and certification: it must be voluntary, must not be required to pass, and must begin with a new wallet and new recovery information. Give the learner private control of their device and secret information. Do not watch, collect, copy, photograph, message, store, or retain a personal recovery phrase, private key, password, balance, or wallet history. Pause or refer the learner to appropriate local support if private setup cannot be maintained or the educator cannot safely explain the process.
+
 ### Assessed competencies and competency criteria
 
 Record one result for each assessed competency. Decimal `C` IDs are competency criteria and rubric look-fors, not separate pass/fail rows.
@@ -1812,7 +1827,7 @@ Use smaller stations, another educator, or additional sessions when helpful. Gro
 - Read the **Module 3** Student Guide and practise every demonstration.
 - Select the exact prepared wallet, simulation, test environment, or printed sequence.
 - Verify the tool's source, version, network, [custody](../mfb-lx-26.10.md#term-custody) model, recovery process, and reset process.
-- Decide whether learners will use no funds, simulated funds, testnet, or an approved low-stakes amount.
+- Decide which no-value environment learners will use: a simulation, test environment, empty training wallet, or physical model.
 - Prepare sample on-chain addresses, [Lightning invoices](../mfb-lx-26.10.md#term-lightning-invoice), *[txid](../mfb-lx-26.10.md#term-transaction-id)*s, QR codes, and screenshots marked **SAMPLE — DO NOT PAY**.
 - Prepare public/secret sorting cards.
 - Prepare a deliberately public address or historical transaction for the address-history activity. Never use learner-linked data.
