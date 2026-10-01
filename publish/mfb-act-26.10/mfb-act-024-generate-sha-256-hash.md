@@ -1,40 +1,43 @@
 # Generate SHA-256 Hash
 ## Keywords
-SHA-256, hash function, digital data
+**SHA-256** **Hashing** **Digital Signatures** **TransactionIntegrity**
+
 ## Activity Type
 Online exercise
+
 ## Participation
 
 ## Duration
 
-## Description
-Participants use an online SHA-256 generator to hash a message, repeat the same input, and then alter the message slightly. Comparing the results shows that identical inputs produce identical fixed-length outputs while small changes produce very different hashes, supporting later discussion of one-way hash functions and [proof of work](../mfb-lx-26.10.md#term-proof-of-work).
-## Objectives
+## Objective
 
 - Participants observe that SHA-256 hashes are repeatable, fixed in length, and highly sensitive to input changes.
 
+# Description
+Participants use an online SHA-256 generator to hash a message, repeat the same input, and then alter the message slightly. Comparing the results shows that identical inputs produce identical fixed-length outputs while small changes produce very different hashes, supporting later discussion of one-way hash functions and [proof of work](../mfb-lx-26.10.md#term-proof-of-work).
+# Preparation
+
 ## Materials
 Internet access.
-## Preparation
 
-## Procedure
-### Setup
+## Setup
 Explain that hashing turns a digital message into a fixed-length code that acts as a unique identifier.
-### Step 1
+# Procedure
+## Step 1
 Open the SHA-256 online generator and generate a hash for a string or input value.
-### Step 2
+## Step 2
 Generate the hash again using the same message and compare the result.
-### Step 3
+## Step 3
 Change the message slightly and observe that the code is completely different. Compare the lengths of hashes from differently sized inputs.
-## Review
-### Key Points
+# Review
+## Key Points
 The same message produces the same hash; small changes produce a very different hash; output length is fixed.
-### Discussion questions
+## Discussion questions
 
-## Notes
+# Notes
 
 **Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](https://programs.myfirstbitcoin.org/programs/educator-guide/), specifically proof-of-work preparation. Use the approved protocol and required rule-and-role explanation; otherwise, this activity is formative.
 
 Hash functions are described as one-way methods.
-## Additional Resources
+# Additional Resources
 [SHA-256 Online Generator](https://tools.keycdn.com/sha256-online-generator) is the browser-based tool used in this activity to create and compare SHA-256 hashes from learner-entered text.

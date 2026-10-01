@@ -1,37 +1,39 @@
 # Watch: Future of Bitcoin: Lightning Network
 ## Keywords
-Lightning Network, bitcoin, Hard Money
+**Lightning Network** **BitcoinPayments** **PaymentRouting**
+
 ## Activity Type
-Video viewing
+Video discussion
+
 ## Participation
 
 ## Duration
 
-## Description
-Participants watch “Future of Bitcoin: Lightning Network” on the Hard Money show as an introduction to Lightning’s role in Bitcoin payments. After viewing, the educator can invite participants to identify the claims, questions, or examples in the video that relate to the course discussion of payment networks.
-## Objectives
+## Objective
 
 - Participants identify an idea from the video about the Lightning Network’s role in Bitcoin payments.
 
+# Description
+Participants watch “Future of Bitcoin: Lightning Network” on the Hard Money show as an introduction to Lightning’s role in Bitcoin payments. After viewing, the educator can invite participants to identify the claims, questions, or examples in the video that relate to the course discussion of payment networks.
+# Preparation
+
 ## Materials
 Internet access and video playback.
-## Preparation
 
-## Procedure
-### Setup
-
-### Step 1
+## Setup
+# Procedure
+## Step 1
 Open the video.
-### Step 2
+## Step 2
 Watch the video.
-### Step 3
+## Step 3
 
-## Review
-### Key Points
+# Review
+## Key Points
 
-### Discussion questions
+## Discussion questions
 
-## Notes 
+# Notes
 
-## Additional Resources
+# Additional Resources
 [“Future of Bitcoin: Lightning Network” on Hard Money](https://youtu.be/_FwRgGnu0d8) is the video used in this activity; it offers one perspective on Lightning’s role in Bitcoin payments and prompts discussion of its claims and examples.

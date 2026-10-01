@@ -1,10 +1,10 @@
 # Activity Title: Exploring the Mempool
 
 ## Keywords
-
-**Bitcoin** **Tools**
+**Mempool** **Block Explorer** **Blocks** **Transactions** **Fees**
 
 ## Activity Type
+Guided exploration
 
 ## Participation
 
@@ -12,33 +12,23 @@
 
 **30 minutes**
 
-## Description
-
-Participants use mempool.space to inspect recent blocks, transactions, fees, inputs, outputs, and block rewards. The activity introduces the difference between a [node](../mfb-lx-26.10.md#term-node)’s mempool and a [block explorer](../mfb-lx-26.10.md#term-block-explorer), uses block-height examples to discuss [halvings](../mfb-lx-26.10.md#term-halving) and epochs, and optionally explores block art and other network data.
-
-## Objectives
+## Objective
 
 - Participants practice using a block explorer to find and interpret basic information about a Bitcoin block or transaction.
 
-## Preparation
+# Description
 
-### Materials
+Participants use mempool.space to inspect recent blocks, transactions, fees, inputs, outputs, and block rewards. The activity introduces the difference between a [node](../mfb-lx-26.10.md#term-node)’s mempool and a [block explorer](../mfb-lx-26.10.md#term-block-explorer), uses block-height examples to discuss [halvings](../mfb-lx-26.10.md#term-halving) and epochs, and optionally explores block art and other network data.
+
+# Preparation
+
+## Materials
 
 • You will need a screen and access to the internet so you can project mempool.space for the entire class to watch and use together.
 
 • Alternatively, you can direct participants to access mempool.space on their personal phones or computers.
 
-### Preparation Notes
-
-Familiarize yourself with mempool.space. Ensure you can answer all the activity questions. For bonus discussions, explore the other sections of mempool.space (e.g., “mempool goggles,” diﬃculty adjustment, hashrate, Lightning, etc.)
-
-Another idea for bonus discussions is to find special blocks.
-
-Several examples are listed in this guide. It is important to test these before class because you may need to adjust settings within mempool.space, like toggling to “audit” view.
-
-## Procedure
-
-### Setup
+## Setup
 
 If you are projecting using a screen, connect your device.
 
@@ -46,7 +36,11 @@ Navigate to mempool.space and ensure it is displaying properly.
 
 If participants are using their own phones or computers, they can go to https://mempool.space/ or scan this QR.
 
-### Overview
+Familiarize yourself with mempool.space. Ensure you can answer all the activity questions. For bonus discussions, explore the other sections of mempool.space (e.g., “mempool goggles,” diﬃculty adjustment, hashrate, Lightning, etc.)
+
+Another idea for bonus discussions is to find special blocks.
+
+Several examples are listed in this guide. It is important to test these before class because you may need to adjust settings within mempool.space, like toggling to “audit” view.
 
 In this activity you walk participants through basic Bitcoin information available at mempool.space.
 
@@ -54,7 +48,9 @@ Time permitting, you can show them other tools available, like the mining or Lig
 
 Artistic blocks are a way to make the discussion more interesting for your non-technical participants. A few options are included in this guide.
 
-### Step 1: Introduction to the Dashboard
+# Procedure
+
+## Step 1: Introduction to the Dashboard
 
 Mempool.space has added many features since it was first created.
 
@@ -68,7 +64,7 @@ Ask questions to start the overview:
 • “How long ago was it added to the timechain?”
 • “Who mined it?”
 
-### Step 2: Diving Deeper: Blockchain (All Blocks), One Block
+## Step 2: Diving Deeper: Blockchain (All Blocks), One Block
 
 Explain to participants that by clicking on a block you can explore more details.
 
@@ -86,7 +82,7 @@ Quick breakdown:
 
 • **Other Dimensions:** Width/depth might be normalized or fixed for the grid, but height scales directly with vB to show relative sizes.
 
-### Step 3: Going Deeper: One Block (Many Transactions), One Transaction
+## Step 3: Going Deeper: One Block (Many Transactions), One Transaction
 
 Explain to participants that by clicking on a transaction you can explore more details. If you have a specific transaction, you can also use the search tool.
 
@@ -111,7 +107,7 @@ Questions:
 • Why would this block have so many high transaction fees?
 • What was the total block reward (subsidy + transaction fees) paid to the miner?
 
-### Step 4: Optional: Mempool Art
+## Step 4: Optional: Mempool Art
 
 This section adds some fun to learning the tool.
 
@@ -147,23 +143,23 @@ A stylized image of Satoshi Nakamoto's photo alongside the Genesis Block declara
 
 **BEFORE toggling “Audit” view**
 
-### Step 5: Optional: Exploring Other Areas
+## Step 5: Optional: Exploring Other Areas
 
 There are other tools that relate to earlier subjects: e.g., Lightning, mining, hashrate, diﬃculty adjustment, UTXO visualization, and others.
 
-### Step 6: Discussion
+## Step 6: Discussion
 
 Wrap up the activity with a class discussion.
 
-## Review
+# Review
 
-### Key Points
+## Key Points
 
 1. **“Mempool” refers to a list of unconfirmed transactions maintained by each Bitcoin node, not a specific service or platform.**
 2. There is no single, universal mempool. Mempool.space is one of many.
 3. Mempool.space is open-sourced and well known for being an easy-to-use visual block explorer. It provides real-time data on unconfirmed transactions, fee rates, and other network activity.
 
-### Discussion questions
+## Discussion questions
 
 • Is there only one mempool?
 • Who manages mempools?
@@ -179,7 +175,7 @@ There are other mempools available for those who do not run a node, e.g., https:
 
 **Hint:** “Don’t trust. Verify.”
 
-## Notes
+# Notes
 
 **Diploma assessment link:** May provide the individual-response context for [`T3` / `C5`](https://programs.myfirstbitcoin.org/programs/educator-guide/), especially on-chain confirmation and verification. Use the approved protocol and record individual evidence; otherwise, this activity is formative.
 
@@ -189,6 +185,6 @@ Because mempool.space has added new tools and views, there are many ways to exte
 
 Conversely, you can shorten the duration of the activity by skipping those extra features.
 
-## Additional Resources
+# Additional Resources
 
 [**“How to explore the Bitcoin Blockchain Mempool.space Tutorial”**](https://youtu.be/ZQZJI0R79sM?si=FkZf8WiH2xVvsBi4) on the YouTube channel Crypto Trading Guides covers transaction fees, difficulty adjustment, and checking addresses and transactions.

@@ -1,37 +1,39 @@
 # Watch: How Bitcoin Works under the Hood
 ## Keywords
-Bitcoin, technical
+**Bitcoin Protocol** **Blockchain** **Transactions** **Mining**
+
 ## Activity Type
-Video viewing
+Video discussion
+
 ## Participation
 
 ## Duration
 
-## Description
-Participants watch “How Bitcoin Works under the Hood” to reinforce the technical ideas introduced in the Bitcoin Diploma. The educator can pause or follow the viewing with questions that help participants connect the video’s explanations to Bitcoin’s transactions, blocks, [nodes](../mfb-lx-26.10.md#term-node), [mining](../mfb-lx-26.10.md#term-mining), and consensus.
-## Objectives
+## Objective
 
 - Participants deepen their understanding of a technical Bitcoin concept presented in the video.
 
+# Description
+Participants watch “How Bitcoin Works under the Hood” to reinforce the technical ideas introduced in the Bitcoin Diploma. The educator can pause or follow the viewing with questions that help participants connect the video’s explanations to Bitcoin’s transactions, blocks, [nodes](../mfb-lx-26.10.md#term-node), [mining](../mfb-lx-26.10.md#term-mining), and consensus.
+# Preparation
+
 ## Materials
 Internet access and video playback.
-## Preparation
 
-## Procedure
-### Setup
-
-### Step 1
+## Setup
+# Procedure
+## Step 1
 Open the video.
-### Step 2
+## Step 2
 Watch the video.
-### Step 3
+## Step 3
 
-## Review
-### Key Points
+# Review
+## Key Points
 
-### Discussion questions
+## Discussion questions
 
-## Notes 
+# Notes
 
-## Additional Resources
+# Additional Resources
 [“How Bitcoin Works under the Hood”](https://www.youtube.com/watch?v=Lx9zgZCMqXE) is the technical overview used in this activity to revisit transactions, blocks, nodes, mining, and consensus.

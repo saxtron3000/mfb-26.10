@@ -1,8 +1,10 @@
 # Activity Title: Transactions in Action
 
 ## Keywords
+**Transactions** **Signatures** **Validation** **Wallets**
 
 ## Activity Type
+Role-play simulation
 
 ## Participation
 
@@ -10,17 +12,17 @@
 
 **30 minutes**
 
-## Description
-
-Participants simulate Bitcoin transactions with color-coded [wallets](../mfb-lx-26.10.md#term-bitcoin-wallet), [sats](../mfb-lx-26.10.md#term-sat), and a shared [ledger](../mfb-lx-26.10.md#term-ledger). By approving valid payments and rejecting transactions with insufficient funds, missing [signatures](../mfb-lx-26.10.md#term-digital-signature), or fictional wallets, they practice the distinct roles of senders, recipients, [miners](../mfb-lx-26.10.md#term-miner), and [node runners](../mfb-lx-26.10.md#term-node) in preserving a fixed supply.
-
-## Objectives
+## Objective
 
 - Participants practice checking signatures, sufficient funds, and network validation conditions before accepting a simulated Bitcoin transaction.
 
-## Preparation
+# Description
 
-### Materials
+Participants simulate Bitcoin transactions with color-coded [wallets](../mfb-lx-26.10.md#term-bitcoin-wallet), [sats](../mfb-lx-26.10.md#term-sat), and a shared [ledger](../mfb-lx-26.10.md#term-ledger). By approving valid payments and rejecting transactions with insufficient funds, missing [signatures](../mfb-lx-26.10.md#term-digital-signature), or fictional wallets, they practice the distinct roles of senders, recipients, [miners](../mfb-lx-26.10.md#term-miner), and [node runners](../mfb-lx-26.10.md#term-node) in preserving a fixed supply.
+
+# Preparation
+
+## Materials
 
 This activity can be done with just a whiteboard or a spreadsheet projected on a screen. With this method, there are no additional materials needed.
 
@@ -30,17 +32,7 @@ This activity can also be done with physical items which may be more impactful f
 • 21 poker chips, coins, or other material (representing sats)
 • Whiteboard or projector screen (for tracking transactions)
 
-### Preparation Notes
-
-The hardest part of preparing for this activity is reviewing the transaction scenarios a few times.
-
-Consider adjusting the amounts and the stories to fit your audience.
-
-Consider making it more fun by using competitive sport mascots instead of colors.
-
-## Procedure
-
-### Setup
+## Setup
 
 Setup is simple. To save time, draw the tracking table on your whiteboard or create it in your spreadsheet before class starts.
 
@@ -55,7 +47,11 @@ Setup is simple. To save time, draw the tracking table on your whiteboard or cre
 
 If you are using the physical representations of the wallets (paper) and sats (poker chips or coins), gather these materials before class.
 
-### Overview
+The hardest part of preparing for this activity is reviewing the transaction scenarios a few times.
+
+Consider adjusting the amounts and the stories to fit your audience.
+
+Consider making it more fun by using competitive sport mascots instead of colors.
 
 In this activity you are going to facilitate transaction scenarios, for example “ALICE SENDS 1 BITCOIN TO BOB”.
 
@@ -69,7 +65,9 @@ Then you will walk through diﬀerent ways transactions are not valid: not enoug
 
 **The key point is that you cannot cheat Bitcoin because the ledger is protected by a network of miners and node runners.**
 
-### Step 1: The First Transaction
+# Procedure
+
+## Step 1: The First Transaction
 
 Guide participants to the tracking board. Assign four participants to be the owners of each of the four colored wallets. **Explain that their responsibility is to sign or not sign (approve or not approve) transactions.**
 
@@ -106,7 +104,7 @@ sats (chips) from the red wallet (paper) to the blue wallet (paper).
 | Round 4 |  |  |  |  |  |
 | Round 5 |  |  |  |  |  |
 
-### Step 2: The Second Transaction
+## Step 2: The Second Transaction
 
 Continue narrating. This time BLUE is buying something (perhaps a book) from ORANGE for 7 sats.
 
@@ -132,7 +130,7 @@ If you are using the physical method, one of the miners moves 7 sats (chips) fro
 | Round 4 |  |  |  |  |  |
 | Round 5 |  |  |  |  |  |
 
-### Step 3: Not Enough Sats
+## Step 3: Not Enough Sats
 
 Continue narrating. This time GREEN is buying something (perhaps a meal) from RED for 10 sats.
 
@@ -160,7 +158,7 @@ When they say “no”, instruct the tracker to update Round 3 with no changes f
 | Round 4 |  |  |  |  |  |
 | Round 5 |  |  |  |  |  |
 
-### Step 4: Transaction Not Signed
+## Step 4: Transaction Not Signed
 
 Continue narrating. This time, there is no purchasing story. ORANGE is trying to get GREEN to send him 5 sats.
 
@@ -187,7 +185,7 @@ When they say “no”, instruct the tracker to update Round 4 with no changes f
 | Round 4 | 7 | 2 | 7 | 9 | 21 |
 | Round 5 |  |  |  |  |  |
 
-### Step 5: Invalid Wallet
+## Step 5: Invalid Wallet
 
 Continue narrating. ORANGE is still being sneaky. If they cannot get sats from another wallet, perhaps they can trick the network into updating their wallet with fictional sats.
 
@@ -212,9 +210,9 @@ When they say “no”, instruct the tracker to update Round 5 with no changes f
 | Round 4 | 7 | 2 | 7 | 9 | 21 |
 | Round 5 | 7 | 2 | 7 | 9 | 21 |
 
-## Review
+# Review
 
-### Key Points
+## Key Points
 
 1. There are four types of participants in every Bitcoin transaction: the sender, the recipient, miners, and node operators.
 2. The sender must approve (cryptographically sign) the amount of bitcoin to send AND the specific address to send to.
@@ -222,7 +220,7 @@ When they say “no”, instruct the tracker to update Round 5 with no changes f
 4. Miners ensure that all criteria are met before adding transactions to future blocks.
 5. Node operators verify mined blocks are valid before updating their version of the blockchain (the ledger).
 
-### Discussion questions
+## Discussion questions
 
 • Why is it important to have many people watching and validating transactions?
 • Is there a way to double-spend sats by broadcasting two transactions simultaneously?
@@ -230,7 +228,7 @@ When they say “no”, instruct the tracker to update Round 5 with no changes f
 • How is this diﬀerent than the fractional banking activity?
 • Why does Bitcoin use cryptography to sign transactions?
 
-## Notes
+# Notes
 
 **Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](https://programs.myfirstbitcoin.org/programs/educator-guide/). Use the approved protocol and record individual evidence for copying, shared verification, rules, and roles; otherwise, this activity is formative.
 
@@ -249,12 +247,12 @@ from the main point of the activity, transactions in action.
 **TIP**: Depending on the age and knowledge level of your class, consider
 rotating participants through the diﬀerent roles.
 
-## Additional Resources
+# Additional Resources
 
-### VIDEO
+## VIDEO
 
 [“Blockchain 101 – A Visual Demo”](https://blockchain.mit.edu/how-blockchain-works) by Anders Brownworth and posted through MIT.
 
-### BOOK
+## BOOK
 
 [“Inventing Bitcoin: The Technology Behind the First Truly Scarce and Decentralized Money Revealed”](https://www.inventingbitcoin.com) by Yan Pritzker provides a high-level overview of Bitcoin's inner workings including how consensus achieves scarcity.

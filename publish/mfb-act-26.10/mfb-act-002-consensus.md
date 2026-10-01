@@ -1,10 +1,10 @@
 # Activity Title: Consensus
 
 ## Keywords
-
-**Networks** **Bitcoin** **Game**
+**Consensus** **Ledgers** **Verification** **Networks**
 
 ## Activity Type
+Role-play
 
 ## Participation
 
@@ -12,37 +12,31 @@
 
 **45 minutes**
 
-## Description
-
-Participants first track a simple set of transactions, then compare a bank-controlled [ledger](../mfb-lx-26.10.md#term-ledger) with a ledger independently maintained by every student. The banker’s ability to create money for a favored participant shows why shared verification matters, and the final discussion connects classroom agreement to Bitcoin’s [decentralized](../mfb-lx-26.10.md#term-decentralization) consensus process.
-
-## Objectives
+## Objective
 
 - Participants practice maintaining a shared record and recognize how independent verification supports consensus.
 
-## Preparation
+# Description
 
-### Materials
+Participants first track a simple set of transactions, then compare a bank-controlled [ledger](../mfb-lx-26.10.md#term-ledger) with a ledger independently maintained by every student. The banker’s ability to create money for a favored participant shows why shared verification matters, and the final discussion connects classroom agreement to Bitcoin’s [decentralized](../mfb-lx-26.10.md#term-decentralization) consensus process.
+
+# Preparation
+
+## Materials
 
 • Something for all participants to use to track, e.g., blank paper and pens
 • Calculators for participants are helpful, but not required
 • For online classes, participants can use spreadsheets
 
-### Preparation Notes
-
-Read through the steps in this guide a few times. Familiarize yourself with how each step builds upon the previous one. You will start simple and gradually work towards Bitcoin consensus.
-
-Practice doing the math as if you were the student. This is very important. This preparation will ensure your class runs smoothly.
-
-## Procedure
-
-### Setup
+## Setup
 
 There is very little setup needed. Distributing paper, pens, and calculators before class will speed up the activity.
 
 Have your whiteboard or spreadsheet display ready before class as well. For example, draw the tracking tables before class. This will save time during the activity.
 
-### Overview
+Read through the steps in this guide a few times. Familiarize yourself with how each step builds upon the previous one. You will start simple and gradually work towards Bitcoin consensus.
+
+Practice doing the math as if you were the student. This is very important. This preparation will ensure your class runs smoothly.
 
 In this activity you are going to facilitate three scenarios.
 
@@ -52,7 +46,9 @@ In this activity you are going to facilitate three scenarios.
 
 This sets up the transition to discuss Bitcoin. Everyone can track the Bitcoin ledger for themselves, yet we are able to reach agreement (consensus) without a banker or other centralized tracker.
 
-### Step 1: Memory Only
+# Procedure
+
+## Step 1: Memory Only
 
 Ask participants to pick a fun medium of exchange other than bitcoin. Examples include dollars, monopoly money, pieces of candy, rocks, sheep, anything.
 
@@ -82,7 +78,7 @@ Give them time between steps to talk with one another.
 
 **The correct answers are 9 for TEACHER, 9 for RED, 4 for BLUE.**
 
-### Step 2: Single-Ledger Tracker
+## Step 2: Single-Ledger Tracker
 
 Tell the participants there will now be six colors and a bank. You, the teacher, will be the bank and you virtually distribute the money.
 
@@ -110,7 +106,7 @@ Tell the participants there will now be six colors and a bank. You, the teacher,
 | STEP 6 | BANKER declares it has printed 600 more dollars from nowhere | 700 | 200 | 0 | 200 | 200 | 1,000 | 400 |
 | STEP 7 | BANKER pays its friend, BLUE, 600 | 100 | 200 | 600 | 200 | 200 | 1,000 | 400 |
 
-### Step 3: Make the Bad Banker Stop
+## Step 3: Make the Bad Banker Stop
 
 **Make the Bad Banker Stop**
 
@@ -130,9 +126,9 @@ There are thousands of [Node Runners](../mfb-lx-26.10.md#term-node), people who 
 
 **CONSENSUS means the network agrees the protocol was followed correctly and disregards transactions that do not follow the protocol,** such as the creation of extra bitcoin the BANKER did in this classroom example.
 
-## Review
+# Review
 
-### Key Points
+## Key Points
 
 1. **Consensus = agreement.**
 2. One big diﬀerence between a group with centralized control and one without is the question of trust. Decentralized groups like [peer-to-peer networks](../mfb-lx-26.10.md#term-peer-to-peer-network) do not have a leader and participants do not trust each other. They require a diﬀerent way to coordinate.
@@ -140,7 +136,7 @@ There are thousands of [Node Runners](../mfb-lx-26.10.md#term-node), people who 
 4. Bitcoin being decentralized is critical to its value. Historically, human leaders have always succumbed to the temptation to debase money over the long term.
 5. The Nakamoto Consensus is named after the creator of Bitcoin, Satoshi Nakamoto. **This consensus (agreement) mechanism is how thousands of strangers who do not trust each other have maintained the Bitcoin ledger since 2009.**
 
-### Discussion questions
+## Discussion questions
 
 Now that we have discussed Bitcoin in greater detail, let’s look at our money comparison table from Chapter 2 again and see how bitcoin compares with other forms of money:
 
@@ -156,7 +152,7 @@ Now that we have discussed Bitcoin in greater detail, let’s look at our money 
 
 **Guide the class to [scarcity](../mfb-lx-26.10.md#term-scarcity) if they struggle. If central planners can help their buddies through money printing, money is not scarce.**
 
-## Notes
+# Notes
 
 **Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](https://programs.myfirstbitcoin.org/programs/educator-guide/). Use the approved protocol and record individual evidence for copying, shared verification, rules, and roles; otherwise, this activity is formative.
 
@@ -168,12 +164,12 @@ Allow for time to address these questions.
 
 Allow time for participants to do the calculations, especially if they are doing them by hand.
 
-## Additional Resources
+# Additional Resources
 
-### VIDEO
+## VIDEO
 
 [“Byzantine Generals Problem – Bitcoin”](https://youtube.com/watch?v=nS9LH5gu65Y&feature=youtu.be) is a video produced by Jason Trio ["@bittrio"](https://x.com/bittrio). It simplifies the programming consensus challenge in a short story format.
 
-### BOOK
+## BOOK
 
 [“Inventing Bitcoin: The Technology Behind the First Truly Scarce and Decentralized Money Revealed”](https://www.inventingbitcoin.com) by Yan Pritzker provides a high-level overview of Bitcoin's inner workings, including how consensus achieves scarcity.
