@@ -47,3 +47,7 @@ The same message produces the same hash; small changes produce a very different 
 Hash functions are described as one-way methods.
 ## Additional resources
 [SHA-256 Online Generator](https://tools.keycdn.com/sha256-online-generator) is the browser-based tool used in this activity to create and compare SHA-256 hashes from learner-entered text.
+
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
+
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).

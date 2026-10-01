@@ -37,3 +37,7 @@ Watch the video.
 
 ## Additional resources
 [“How Bitcoin Works under the Hood”](https://www.youtube.com/watch?v=Lx9zgZCMqXE) is the technical overview used in this activity to revisit transactions, blocks, nodes, mining, and consensus.
+
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
+
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).

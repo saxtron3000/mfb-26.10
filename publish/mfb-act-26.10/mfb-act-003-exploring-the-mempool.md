@@ -88,3 +88,7 @@ Ask when an explorer is useful, what privacy trade-off a public query can create
 
 - [Bitcoin Developer Guide: Block Chain](https://developer.bitcoin.org/devguide/block_chain.html) explains blocks, proof of work, and validation rules.
 - [Mempool.space](https://mempool.space/) is one possible block explorer. Treat its interface and live data as changing information that an educator must check before class.
+
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
+
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).

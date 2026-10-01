@@ -123,3 +123,7 @@ Plan on a full hour including setup, explanation, play, discussion, and cleanup.
 **This activity is a participatory game. The more you invest in terms of eﬀort and creativity, the more fun it will be … and the more eﬀective.**
 
 ## Additional resources
+
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
+
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).

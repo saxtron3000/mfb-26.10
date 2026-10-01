@@ -96,3 +96,7 @@ Invite learners to explain the checks they made before approval and the differen
 ### Book
 
 [“Inventing Bitcoin: The Technology Behind the First Truly Scarce and Decentralized Money Revealed”](https://www.inventingbitcoin.com) by Yan Pritzker provides a high-level overview of Bitcoin's inner workings including how consensus achieves scarcity.
+
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
+
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).

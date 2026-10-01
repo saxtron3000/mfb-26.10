@@ -71,3 +71,7 @@ When the dice target is met, the class checks the number of ones and confirms th
 
 - [Bitcoin Developer Guide: Block Chain](https://developer.bitcoin.org/devguide/block_chain.html) explains proof of work, targets, difficulty adjustment, and block validation.
 - [Calculator.net Dice Roller](https://www.calculator.net/dice-roller.html) is an optional digital substitute for physical dice when modelling repeated mining attempts and quick verification.
+
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
+
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).

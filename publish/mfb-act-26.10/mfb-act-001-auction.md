@@ -118,3 +118,7 @@ Use it as a perspective for discussion, not as the activity's evidence. Ask lear
 [“What Has Government Done to Our Money?”](https://cdn.mises.org/What%20Has%20Government%20Done%20to%20Our%20Money_3.pdf) by Murray Rothbard presents an accessible Austrian-school perspective on money and government monetary policy.
 
 Use it as a viewpoint rather than a neutral account. Learners should compare its arguments with reliable sources and other explanations.
+
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
+
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).

@@ -37,3 +37,7 @@ Watch the video.
 
 ## Additional resources
 [“How Money & Banking Work” by Lyn Alden](https://youtu.be/jk_HWmmwiAs) explains money creation and banking processes, providing the video used to connect the class discussion to the money supply.
+
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
+
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).

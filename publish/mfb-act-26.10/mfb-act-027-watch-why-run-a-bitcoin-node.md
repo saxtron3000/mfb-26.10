@@ -39,3 +39,7 @@ Nodes help ensure the network is decentralized and secure.
 
 ## Additional resources
 [“Why Every Bitcoiner Should Run Their Own Node”](https://youtu.be/MJxEli0jqy0) is the video used in this activity. Its first five minutes introduce the role of a node; stop before its setup instructions.
+
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
+
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).

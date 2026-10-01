@@ -38,3 +38,7 @@ Note how the video shows blocks being chained.
 The full video is 17 minutes long and may be difficult to play in its entirety.
 ## Additional resources
 [“Blockchain 101 – A Visual Demo”](https://youtu.be/_160oMzblY8) visually demonstrates how blocks are linked and how altering earlier data becomes visible, reinforcing the activity’s discussion of blockchain verification.
+
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
+
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).

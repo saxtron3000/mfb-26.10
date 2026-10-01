@@ -76,3 +76,7 @@ Public receiving information and private spending information have different rol
 ## Additional resources
 
 Public addresses can be shared to receive bitcoin; private information should not be shared.
+
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
+
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).

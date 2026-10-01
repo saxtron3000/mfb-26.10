@@ -37,3 +37,7 @@ Watch the video.
 The source notes that the host is not a Maxi; be aware of this if participants ask.
 ## Additional resources
 [“Explain Bitcoin to Complete Beginners”](https://youtu.be/SXqfFTmYmT0?si=HHZmNiGSzD6kz8FG) is the non-technical overview used to give the class a shared starting point for discussing Bitcoin’s basic features and open questions.
+
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
+
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).

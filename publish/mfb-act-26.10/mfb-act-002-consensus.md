@@ -128,3 +128,7 @@ Allow time for calculations and for disagreement about the scenario's rules. Kee
 These sources support the technical background only. They do not establish a universal historical claim about leaders, a causal claim about monetary systems, or a conclusion about Bitcoin’s value.
 
 ## Additional resources
+
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
+
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).

@@ -59,3 +59,7 @@ This is an intentionally basic introduction, most useful with younger audiences 
 ## Additional resources
 
 **Diploma assessment link:** May provide the individual-response context for [`T1` / `C1`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show). Use the approved protocol and record an individual explanation and comparison; otherwise, this activity is formative.
+
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
+
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).

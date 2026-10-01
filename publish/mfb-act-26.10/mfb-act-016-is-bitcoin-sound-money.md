@@ -40,3 +40,7 @@ How does Bitcoin compare with other forms of money?
 **Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show). Use the approved protocol, including an explanation of how a Bitcoin property could help or limit its use as money and the required explanation of participant roles; otherwise, this activity is formative.
 
 ## Additional resources
+
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
+
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).

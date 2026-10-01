@@ -40,3 +40,7 @@ Watch the video.
 
 ## Additional resources
 [“Bitcoin Is Generational Wealth”](https://www.youtube.com/watch?v=3Rnqst5qCgA&ab_channel=SwanBitcoin), a short film by Matt Hornick and Tomer Strolight, presents a perspective on money, saving, and intergenerational thinking for participants to examine rather than financial advice to follow.
+
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
+
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).

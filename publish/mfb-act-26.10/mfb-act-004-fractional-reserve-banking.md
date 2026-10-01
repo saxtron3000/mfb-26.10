@@ -95,3 +95,7 @@ This activity is formative. It may prepare learners for a money-and-banking disc
 - [Federal Reserve: What is the money supply?](https://www.federalreserve.gov/faqs/money_12845.htm) defines several US money measures and should not be generalized to every jurisdiction.
 - [Federal Reserve: Reserve requirements](https://www.federalreserve.gov/monetarypolicy/reservereq.htm) describes the current US reserve-requirement position. Educators must use an appropriate current source for their own jurisdiction.
 - [Federal Reserve: The money multiplier, fact or fiction?](https://www.federalreserve.gov/pubs/feds/2010/201041/index.html) explains limits of the simple textbook multiplier as a description of lending and money.
+
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
+
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).

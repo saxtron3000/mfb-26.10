@@ -48,3 +48,7 @@ Which wallet best fits the stated need, what trade-offs remain, and what would n
 [Jameson Lopp’s Lightning Information](https://www.lopp.net/lightning-information.html) is a curated collection of Lightning learning resources that can support research into Lightning payment compatibility and related concepts.
 
 [Bitcoin.org: Choose Your Wallet](https://bitcoin.org/en/choose-your-wallet) introduces wallet categories and selection considerations. Treat it as a starting point for comparison, and verify current, locally relevant information before real use.
+
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
+
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).
