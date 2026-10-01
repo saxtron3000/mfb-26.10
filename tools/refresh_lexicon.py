@@ -43,16 +43,27 @@ EXTRA_ALIASES = {
 # than the exact canonical term label in mfb-lx-26.10-terms.md.
 LEX_ID_OVERRIDES = {
     "term-sat": "BD-LEX-192",
-    "term-mining": "BD-LEX-182",
-    "term-deposit-money": "BD-LEX-012",
     "term-inflation": "BD-LEX-119",
-    "term-price-inflation": "BD-LEX-119",
     "term-cbdc": "BD-LEX-051",
-    "term-validating-node": "BD-LEX-099",
-    "term-double-spend-problem": "BD-LEX-083",
     "term-transaction-id": "BD-LEX-220",
     "term-kyc": "BD-LEX-125",
     "term-no-kyc": "BD-LEX-158",
+}
+
+# Some terms are deliberately nested under a parent entry in the terms file.
+# They share the parent's ID rather than receiving a separate ID.
+NESTED_TERM_IDS = {
+    "basket of goods": "BD-LEX-120",
+    "bitcoin privacy": "BD-LEX-179",
+    "deposit money": "BD-LEX-012",
+    "double-spend problem": "BD-LEX-083",
+    "mining": "BD-LEX-182",
+    "monetary expansion": "BD-LEX-149",
+    "price inflation": "BD-LEX-119",
+    "satoshis per byte (sat/b)": "BD-LEX-094",
+    "timechain": "BD-LEX-041",
+    "trustless": "BD-LEX-222",
+    "validating node": "BD-LEX-099",
 }
 
 # These common words only count in their curriculum-specific sense.
@@ -104,6 +115,10 @@ def lex_ids(entries: list[dict[str, str]]) -> dict[str, str]:
     ids = {}
     for entry in entries:
         anchor = entry["anchor"]
+        nested_id = NESTED_TERM_IDS.get(normalized_term(entry["term"]))
+        if nested_id:
+            ids[anchor] = nested_id
+            continue
         if anchor in LEX_ID_OVERRIDES:
             ids[anchor] = LEX_ID_OVERRIDES[anchor]
             continue
