@@ -30,8 +30,8 @@ Give the originator a note reading “ATTACK” and the number sequence “4-16-
 After all participants read the message, the originator says “Now.” Participants react simultaneously; “ATTACK” means taking a step forward.
 ### Step 3
 Observe that participants who interpreted the encrypted message correctly remain still while others act, revealing a lack of consensus.
-# Review
-## Key Points
+## Review
+### Key points
 
 ### Discussion questions
 Why was consensus not achieved? How does this relate to the Byzantine Generals’ Problem and Bitcoin’s solution?
@@ -39,4 +39,4 @@ Why was consensus not achieved? How does this relate to the Byzantine Generals�
 
 **Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show). Use the approved protocol and record an individual explanation of shared verification; otherwise, this activity is formative.
 
-# Additional Resources
+## Additional resources

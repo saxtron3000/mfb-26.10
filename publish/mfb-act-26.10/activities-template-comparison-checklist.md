@@ -1,22 +1,36 @@
 # Activities template comparison checklist
 
-This is a structural conformance record for the activity library. The template identifies the available section pattern; it does not require every activity to include every optional section.
+This is a structural conformance record for the activity library. Every published activity follows the heading pattern in `mfb-act-000-template.md`.
 
-## Conformance rules
+## Required heading order
 
-- Every activity has one H1 title.
-- H2 headings group major sections; H3 headings are subordinate to an H2 heading. A heading may deliberately have no immediate body text because it organizes later content in the published structure.
-- Never remove, omit, demote, or merge a heading solely because it has no immediate body text. Preserve every heading as publication structure; assess its level and rendered navigation rather than perceived blankness.
-- Metadata labels use sentence case.
-- Activities may use an appropriate subset of the template sections when the learning design does not need every field.
+1. `#` Activity title
+2. `##` Keywords
+3. `##` Activity type
+4. `##` Participation
+5. `##` Duration
+6. `##` Objective
+7. `##` Description
+8. `##` Preparation
+   - `###` Materials
+   - `###` Setup
+9. `##` Procedure
+   - `###` Step 1 and any additional steps
+10. `##` Review
+    - `###` Key points
+    - `###` Discussion questions
+11. `##` Notes
+12. `##` Additional resources
 
-## Status at 2026-09-30
+Activities may add H3 subsections within their relevant H2 section, but they must not change this sequence or heading level. A heading may deliberately have no immediate body text because it organizes later content in the published structure.
+
+## Status at 2026-10-01
 
 | Scope | Result | Evidence |
 | --- | --- | --- |
-| Template | Pass | One H1 title, H2 major sections, and H3 subsections. |
-| Activities 001–030 | Pass | Each has one H1, no direct H1-to-H3 heading jump, and preserves structural headings, including grouping headings without immediate body text. |
-| Heading labels | Pass | Common metadata labels use sentence case. |
+| Template | Pass | Defines the required one-H1, H2-major-section, H3-subsection pattern. |
+| Activities 001–030 | Pass | Each has the complete required heading sequence in order, with Preparation, Procedure, and Review subsections at H3. |
+| Heading labels | Pass | Shared metadata and section labels use sentence case. |
 
 ## Follow-up
 

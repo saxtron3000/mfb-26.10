@@ -2,7 +2,7 @@
 ## Keywords
 **Bitcoin** **Sound Money**
 
-## Activity Type
+## Activity type
 Discussion
 
 ## Participation
@@ -30,8 +30,8 @@ Review the characteristics: durable, portable, uniform, acceptable, scarce, and 
 Compare cows, cigarettes, diamonds, euros, and Bitcoin against each characteristic.
 ### Step 3
 Complete the totals in the comparison table.
-# Review
-## Key Points
+## Review
+### Key points
 
 ### Discussion questions
 How does Bitcoin compare with other forms of money?
@@ -39,4 +39,4 @@ How does Bitcoin compare with other forms of money?
 
 **Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show). Use the approved protocol, including an explanation of how a Bitcoin property could help or limit its use as money and the required explanation of participant roles; otherwise, this activity is formative.
 
-# Additional Resources
+## Additional resources

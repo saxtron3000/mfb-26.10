@@ -32,12 +32,12 @@ Participants commit to their choice and receive the reward at the selected time.
 ### Step 3
 Discuss the decision-making process and time preference.
 
-# Review
+## Review
 
-## Key Points
+### Key points
 
 ### Discussion questions
 What influenced your decision? How do you feel about it now? Where can high time preference be harmful or low time preference beneficial? What are consequences of choosing high time preference?
-# Notes
+## Notes
 
-# Additional Resources
+## Additional resources

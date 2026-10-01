@@ -5,6 +5,8 @@
 ## Activity type
 Game and discussion
 
+## Participation
+
 ## Duration
 15–20 minutes
 
@@ -51,7 +53,9 @@ Revisit the answers and questions at the end of the Bitcoin Diploma.
 
 ### Discussion questions
 What made barter difficult? How did payment change the exchange? What could you do with payment that you could not do with a single good? How might exchange change if the person offering the good lived far away?
-### Additional notes
+## Notes
 This is an intentionally basic introduction, most useful with younger audiences or participants new to the topic. Expand the exchange round with more goods, roles, time periods, or distant “markets,” or combine it with a barter activity or another activity on the functions of money when the group is ready for deeper exploration.
+
+## Additional resources
 
 **Diploma assessment link:** May provide the individual-response context for [`T1` / `C1`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show). Use the approved protocol and record an individual explanation and comparison; otherwise, this activity is formative.
