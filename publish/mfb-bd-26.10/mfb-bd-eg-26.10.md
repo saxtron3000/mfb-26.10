@@ -5,7 +5,7 @@ Teaching the Bitcoin Diploma
 
 ## About this guide
 
-The Educator Guide supports teaching the 2026.10 Bitcoin Diploma. Linked terms open their definitions in the [Lexicon](../mfb-lx-26.10-index.md). Use it with the [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/en/student-guide/), [Educator Quick Start](https://programs.myfirstbitcoin.org/programs/educator-quick-start/), [Educator Assessment Grid](mfb-bd-assessment-grid-26.10.md), the learning activities supplied for your course, and the [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) for additional classroom activities. The [My First Bitcoin App](https://myfirstbitcoin.app/) offers optional microlearning, self-checks, recap, and discovery. Learners can complete the course without using it.
+The Educator Guide supports teaching the 2026.10 Bitcoin Diploma. Linked terms open their definitions in the [Lexicon](../mfb-lx-26.10-sg-index.md). Use it with the [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/en/student-guide/), [Educator Quick Start](https://programs.myfirstbitcoin.org/programs/educator-quick-start/), [Educator Assessment Grid](mfb-bd-assessment-grid-26.10.md), the learning activities supplied for your course, and the [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) for additional classroom activities. The [My First Bitcoin App](https://myfirstbitcoin.app/) offers optional microlearning, self-checks, recap, and discovery. Learners can complete the course without using it.
 
 Download the [My First Bitcoin App](https://myfirstbitcoin.app/) for optional microlearning, self-checks, recap, and more learning opportunities.
 
@@ -3066,7 +3066,7 @@ Pay particular attention to:
 - [KYC](https://programs.myfirstbitcoin.org/lexicon/en/#know-your-customer-kyc) and [no-KYC](https://programs.myfirstbitcoin.org/lexicon/en/#no-kyc-preferred-also-called-non-kyc); and
 - trade-off, risk, and uncertainty.
 
-Use the definitions in the [Lexicon](../mfb-lx-26.10-index.md).
+Use the definitions in the [Lexicon](../mfb-lx-26.10-sg-index.md).
 
 My First Bitcoin prefers in-person Diploma sessions because direct educator contact and greater opportunity for practical activities can make learning more engaging and natural. This is a preference, not a requirement. Online delivery can be more affordable, scalable, and achievable for many people, so educators should support either mode appropriately.
 
@@ -3427,7 +3427,7 @@ If an activity exposes private information, risks funds, misstates a rule, or en
 
 ## 17. Quick terminology and misconception-sensitive distinctions
 
-Use the [Lexicon](../mfb-lx-26.10-index.md) for full definitions. Keep these distinctions consistent in speech, slides, activities, and assessment.
+Use the [Lexicon](../mfb-lx-26.10-sg-index.md) for full definitions. Keep these distinctions consistent in speech, slides, activities, and assessment.
 
 | Terms | Educator distinction |
 | --- | --- |

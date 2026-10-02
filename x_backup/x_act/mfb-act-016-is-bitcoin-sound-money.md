@@ -14,7 +14,7 @@ Discussion
 - Participants compare Bitcoin with other forms of money using the characteristics of good money.
 
 ## Description
-Participants return to the money comparison table and assess Bitcoin alongside cows, cigarettes, diamonds, and euros. Using characteristics such as [durability](../../publish/mfb-lx-26.10-index.md#term-durability), [portability](../../publish/mfb-lx-26.10-index.md#term-portability), uniformity, [acceptability](../../publish/mfb-lx-26.10-index.md#term-acceptability), [scarcity](../../publish/mfb-lx-26.10-index.md#term-scarcity), and [divisibility](../../publish/mfb-lx-26.10-index.md#term-divisibility), they complete the comparison and discuss whether Bitcoin meets the characteristics of [sound money](../../publish/mfb-lx-26.10-index.md#term-sound-money).
+Participants return to the money comparison table and assess Bitcoin alongside cows, cigarettes, diamonds, and euros. Using characteristics such as [durability](../../publish/mfb-lx-26.10-sg-index.md#term-durability), [portability](../../publish/mfb-lx-26.10-sg-index.md#term-portability), uniformity, [acceptability](../../publish/mfb-lx-26.10-sg-index.md#term-acceptability), [scarcity](../../publish/mfb-lx-26.10-sg-index.md#term-scarcity), and [divisibility](../../publish/mfb-lx-26.10-sg-index.md#term-divisibility), they complete the comparison and discuss whether Bitcoin meets the characteristics of [sound money](../../publish/mfb-lx-26.10-sg-index.md#term-sound-money).
 ## Preparation
 
 ### Materials

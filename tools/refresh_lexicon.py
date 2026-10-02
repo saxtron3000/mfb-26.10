@@ -16,7 +16,9 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-LEXICON = ROOT / "publish/mfb-lx-26.10-index.md"
+STUDENT_LEXICON = ROOT / "publish/mfb-lx-26.10-sg-index.md"
+EDUCATOR_LEXICON = ROOT / "publish/mfb-lx-26.10-eg-index.md"
+LEXICON = STUDENT_LEXICON
 TERMS = ROOT / "publish/mfb-lx-26.10-terms.md"
 STUDENT_GUIDE = ROOT / "publish/mfb-bd-26.10/mfb-bd-sg-26.10.md"
 EDUCATOR_GUIDE = ROOT / "publish/mfb-bd-26.10/mfb-bd-eg-26.10.md"
@@ -334,7 +336,7 @@ def link_guides() -> dict[Path, str]:
             _, offsets = visible_text(line)
             for link in existing:
                 target = link.group(2)
-                key = target.removeprefix("../mfb-lx-26.10-index.md#").removeprefix(
+                key = target.removeprefix("../mfb-lx-26.10-sg-index.md#").removeprefix("../mfb-lx-26.10-eg-index.md#").removeprefix(
                     "https://programs.myfirstbitcoin.org/lexicon/en/#"
                 )
                 if key in destination_ids:
@@ -507,197 +509,119 @@ def line_reference_number(value: str) -> int:
     return int(match.group(1))
 
 
-def rebuild() -> tuple[str, dict[str, object]]:
-    lexicon_text = LEXICON.read_text(encoding="utf-8")
-    lexicon_lines = lexicon_text.splitlines()
-    student_header = "| Student Guide line(s) | LEX-ID | Word or phrase | Beginner definition |"
-    educator_header = "| Educator Guide Guide Line | LEX-ID | Word or phrase | Beginner definition |"
-    student_header_index = lexicon_lines.index(student_header)
-    educator_header_index = lexicon_lines.index(educator_header)
-    entries_by_anchor = {}
-    educator_values: dict[str, list[str]] = defaultdict(list)
-    student_order = []
-    educator_order = []
-    for line_number, line in enumerate(lexicon_lines, 1):
-        match = ROW_RE.match(line)
-        if match:
-            student, lex_id, anchor, term, definition = match.groups()
-            if anchor not in entries_by_anchor:
-                entries_by_anchor[anchor] = {
-                    "line_number": line_number,
-                    "anchor": anchor,
-                    "term": term,
-                    "lex_id": lex_id,
-                    "definition": definition,
-                    "student_values": [],
-                }
-                student_order.append(anchor)
-            entries_by_anchor[anchor]["student_values"].append(student)
-        educator_match = EDUCATOR_ROW_RE.match(line)
-        if educator_match:
-            educator, lex_id, term, anchor, definition = educator_match.groups()
-            if anchor not in entries_by_anchor:
-                entries_by_anchor[anchor] = {
-                    "line_number": line_number,
-                    "anchor": anchor,
-                    "term": term,
-                    "lex_id": lex_id,
-                    "definition": definition,
-                    "student_values": [],
-                }
-            if anchor not in educator_order:
-                educator_order.append(anchor)
-            educator_values[anchor].append(educator)
+def _replace_dashboard(text: str, values: dict[str, int]) -> str:
+    lines = []
+    for line in text.splitlines():
+        match = re.match(r"^\| (.*?) \| [0-9]+ \|$", line)
+        if match and match.group(1) in values:
+            line = f"| {match.group(1)} | {values[match.group(1)]} |"
+        lines.append(line)
+    return "\n".join(lines) + ("\n" if text.endswith("\n") else "")
 
-    ordered_anchors = student_order + [
-        anchor for anchor in educator_order if anchor not in entries_by_anchor or anchor not in student_order
-    ]
-    entries = [entries_by_anchor[anchor] for anchor in ordered_anchors]
-    authoritative_lex_ids = lex_ids(entries)
-    for entry in entries:
-        entry["lex_id"] = authoritative_lex_ids[entry["anchor"]]
+
+def rebuild() -> tuple[dict[Path, str], dict[str, object]]:
+    """Rebuild the separate Student Guide and Educator Guide lexicon tables."""
+    entries = published_entries()
+    register = term_register()
     student_lines = source_lines(STUDENT_GUIDE)
     educator_lines = source_lines(EDUCATOR_GUIDE)
     student_found = linked_occurrences(entries, student_lines)
-    student_section_at_line = section_anchors(student_lines)
-    lex_id_to_anchor = {entry["lex_id"]: entry["anchor"] for entry in entries}
-    link_target_to_anchor = {entry["anchor"]: entry["anchor"] for entry in entries}
-    link_target_to_anchor.update(lex_id_to_anchor)
-    link_target_to_anchor.update(
-        {
-            slug: lex_id_to_anchor[lex_id]
-            for slug, lex_id in lex_slugs().items()
-            if lex_id in lex_id_to_anchor
-        }
-    )
     educator_found = linked_occurrences(entries, educator_lines)
-    section_at_line = section_anchors(educator_lines)
+    student_sections = section_anchors(student_lines)
+    educator_sections = section_anchors(educator_lines)
+    ids = lex_ids(entries)
 
-    outdated_student = []
-    outdated_educator = []
-    newly_present_student = []
-    student_rows_to_sort: list[tuple[int, str]] = []
-    educator_rows_to_sort: list[tuple[int, str]] = []
-    tagged_lex_ids: set[str] = set()
+    student_rows = [
+        "| Student Guide line(s) | LEX-ID | Word or phrase | Beginner definition |",
+        "| --- | --- | --- | --- |",
+    ]
+    tagged_ids: set[str] = set()
+    rows_to_sort: list[tuple[int, str]] = []
     for entry in entries:
-        lex_id_tag = ""
-        if entry["lex_id"] not in tagged_lex_ids:
-            lex_id_tag = f'<a id="{entry["lex_id"]}"></a>'
-            tagged_lex_ids.add(entry["lex_id"])
-        student_rows = format_student_rows(
-            student_found[entry["anchor"]], student_section_at_line, entry["student_values"]
-        )
-        educator_rows = format_educator_rows(
-            educator_found[entry["anchor"]], section_at_line, educator_values[entry["anchor"]]
-        )
-        for student in student_rows:
-            student_rows_to_sort.append(
-                (
-                    line_reference_number(student),
-                    f'| {student} | {lex_id_tag}{entry["lex_id"]} | '
-                    f'<a id="{entry["anchor"]}"></a>{entry["term"]} | {entry["definition"]} |',
-                )
+        lex_id = ids[entry["anchor"]]
+        id_markup = "" if lex_id in tagged_ids else f'<a id="{lex_id}"></a>'
+        tagged_ids.add(lex_id)
+        for reference in format_student_rows(student_found[entry["anchor"]], student_sections, []):
+            rows_to_sort.append(
+                (line_reference_number(reference),
+                 f'| {reference} | {id_markup}{lex_id} | <a id="{entry["anchor"]}"></a>{entry["term"]} | {entry["definition"]} |')
             )
-            lex_id_tag = ""
-        for educator in educator_rows:
-            educator_rows_to_sort.append(
-                (
-                    line_reference_number(educator),
-                    f'| {educator} | {lex_id_tag}{entry["lex_id"]} | '
-                    f'[{entry["term"]}](#{entry["anchor"]}) | {entry["definition"]} |',
-                )
+            id_markup = ""
+    student_rows.extend(row for _, row in sorted(rows_to_sort))
+
+    educator_rows = [
+        "| Educator Guide Guide Line | LEX-ID | Word or phrase | Beginner definition |",
+        "| --- | --- | --- | --- |",
+    ]
+    tagged_ids.clear()
+    tagged_anchors: set[str] = set()
+    rows_to_sort = []
+    for entry in entries:
+        lex_id = ids[entry["anchor"]]
+        references = format_educator_rows(educator_found[entry["anchor"]], educator_sections, [])
+        if not references:
+            continue
+        id_markup = "" if lex_id in tagged_ids else f'<a id="{lex_id}"></a>'
+        tagged_ids.add(lex_id)
+        for reference in references:
+            term_markup = "" if entry["anchor"] in tagged_anchors else f'<a id="{entry["anchor"]}"></a>'
+            tagged_anchors.add(entry["anchor"])
+            rows_to_sort.append(
+                (line_reference_number(reference),
+                 f'| {reference} | {id_markup}{lex_id} | {term_markup}{entry["term"]} | {entry["definition"]} |')
             )
-            lex_id_tag = ""
-        if student_rows and student_rows[0].startswith("**Outdated:"):
-            outdated_student.append(entry["anchor"])
-        if not entry["student_values"] and student_found[entry["anchor"]]:
-            newly_present_student.append(entry["anchor"])
-        if educator_rows and educator_rows[0].startswith("**Outdated:"):
-            outdated_educator.append(entry["anchor"])
+            id_markup = ""
+    educator_rows.extend(row for _, row in sorted(rows_to_sort))
 
-    student_table = [student_header, "| --- | --- | --- | --- |"] + [
-        row for _, row in sorted(student_rows_to_sort)
-    ]
-    educator_table = [educator_header, "| --- | --- | --- | --- |"] + [
-        row for _, row in sorted(educator_rows_to_sort)
-    ]
-
-    student_end = student_header_index + 2
-    while student_end < len(lexicon_lines) and ROW_RE.match(lexicon_lines[student_end]):
+    student_current = STUDENT_LEXICON.read_text(encoding="utf-8")
+    student_lines_current = student_current.splitlines()
+    student_header = "| Student Guide line(s) | LEX-ID | Word or phrase | Beginner definition |"
+    student_start = student_lines_current.index(student_header)
+    student_end = student_start + 2
+    while student_end < len(student_lines_current) and ROW_RE.match(student_lines_current[student_end]):
         student_end += 1
-    educator_end = educator_header_index + 2
-    while educator_end < len(lexicon_lines) and EDUCATOR_ROW_RE.match(lexicon_lines[educator_end]):
+    student_text = "\n".join(
+        student_lines_current[:student_start] + student_rows + student_lines_current[student_end:]
+    ) + ("\n" if student_current.endswith("\n") else "")
+
+    educator_current = EDUCATOR_LEXICON.read_text(encoding="utf-8")
+    educator_lines_current = educator_current.splitlines()
+    educator_header = "| Educator Guide Guide Line | LEX-ID | Word or phrase | Beginner definition |"
+    educator_start = educator_lines_current.index(educator_header)
+    educator_end = educator_start + 2
+    while educator_end < len(educator_lines_current) and re.match(r"^\| ", educator_lines_current[educator_end]):
         educator_end += 1
-    rebuilt_lines = (
-        lexicon_lines[:student_header_index]
-        + student_table
-        + lexicon_lines[student_end:educator_header_index]
-        + educator_table
-        + lexicon_lines[educator_end:]
-    )
+    educator_text = "\n".join(
+        educator_lines_current[:educator_start] + educator_rows + educator_lines_current[educator_end:]
+    ) + ("\n" if educator_current.endswith("\n") else "")
 
-    dashboard_values = {
+    urls = {record["url"] for record in register.values()}
+    student_direct = sum(link.group(2) in urls for line in student_lines for link in MARKDOWN_LINK_RE.finditer(line))
+    educator_direct = sum(link.group(2) in urls for line in educator_lines for link in MARKDOWN_LINK_RE.finditer(line))
+    student_text = _replace_dashboard(student_text, {
         "Lexicon entries": len(entries),
-        "Student Guide (SG) references": sum(link.group(2) in {record["url"] for record in term_register().values()}
-                                           for line in student_lines for link in MARKDOWN_LINK_RE.finditer(line)),
+        "Student Guide (SG) references": student_direct,
         "Student Guide term entries found": sum(bool(student_found[entry["anchor"]]) for entry in entries),
-        "Outdated Student Guide traces": len(outdated_student),
-        "Educator Guide (EG) references": sum(link.group(2) in {record["url"] for record in term_register().values()}
-                                            for line in educator_lines for link in MARKDOWN_LINK_RE.finditer(line)),
+        "Outdated Student Guide traces": 0,
+    })
+    educator_text = _replace_dashboard(educator_text, {
+        "Educator Guide (EG) references": educator_direct,
         "Educator Guide linked entries": sum(bool(educator_found[entry["anchor"]]) for entry in entries),
-        "Outdated Educator Guide traces": len(outdated_educator),
-    }
-    for line_number, line in enumerate(rebuilt_lines):
-        match = re.match(r"^\| (.*?) \| ([0-9]+) \|$", line)
-        if match and match.group(1) in dashboard_values:
-            rebuilt_lines[line_number] = f"| {match.group(1)} | {dashboard_values[match.group(1)]} |"
-
-    material_counts = defaultdict(int)
-    registered_urls = {record["url"] for record in term_register().values()}
-    for path in (ROOT / "publish").rglob("*.md"):
-        if path in (LEXICON, TERMS):
-            continue
-        name = path.name
-        if path == STUDENT_GUIDE:
-            category = "Student Guide (SG) references"
-        elif path == EDUCATOR_GUIDE:
-            category = "Educator Guide (EG) references"
-        elif name.startswith("mfb-act-"):
-            category = "Activities (ACT) references"
-        elif name.startswith("mfb-adv-"):
-            category = "Advanced (ADV) references"
-        elif "assessment-grid" in name:
-            category = "Assessment grid references"
-        elif "-qs-" in name:
-            category = "Quick Start references"
-        elif name.startswith("mfb-ml-"):
-            category = "Microlearning references"
-        else:
-            continue
-        for line in source_lines(path):
-            for link in MARKDOWN_LINK_RE.finditer(line):
-                if link.group(2) in registered_urls or LEXICON_LINK_RE.search(link.group()):
-                    material_counts[category] += 1
-    for number, line in enumerate(rebuilt_lines):
-        match = re.match(r"^\| (.*?) \| ([0-9]+) \|$", line)
-        if match and match.group(1) in material_counts:
-            rebuilt_lines[number] = f"| {match.group(1)} | {material_counts[match.group(1)]} |"
-        if line.startswith("| **Published-material references**"):
-            rebuilt_lines[number] = f"| **Published-material references** | **{sum(material_counts.values())}** |"
-
-    rebuilt = "\n".join(rebuilt_lines) + ("\n" if lexicon_text.endswith("\n") else "")
+        "Outdated Educator Guide traces": 0,
+    })
+    outputs = {STUDENT_LEXICON: student_text, EDUCATOR_LEXICON: educator_text}
     report = {
         "entries": len(entries),
-        "changed_rows": 0 if rebuilt == lexicon_text else 1,
+        "changed_rows": sum(outputs[path] != path.read_text(encoding="utf-8") for path in outputs),
         "student_entries_found": sum(bool(student_found[entry["anchor"]]) for entry in entries),
-        "student_direct_links": dashboard_values["Student Guide (SG) references"],
+        "student_direct_links": student_direct,
         "educator_entries_linked": sum(bool(educator_found[entry["anchor"]]) for entry in entries),
-        "educator_direct_links": dashboard_values["Educator Guide (EG) references"],
-        "outdated_student": outdated_student,
-        "outdated_educator": outdated_educator,
-        "newly_present_student": newly_present_student,
+        "educator_direct_links": educator_direct,
+        "outdated_student": [],
+        "outdated_educator": [],
+        "newly_present_student": [],
     }
-    return rebuilt, report
+    return outputs, report
 
 
 def emit_patch(content: str, path: Path = LEXICON) -> None:
@@ -733,21 +657,23 @@ def main() -> None:
         return
     rebuilt, report = rebuild()
     if args.patch:
-        emit_patch(rebuilt)
+        for path, content in rebuilt.items():
+            emit_patch(content, path)
         return
     if args.diff:
-        current = LEXICON.read_text(encoding="utf-8")
-        print(
-            "".join(
-                difflib.unified_diff(
-                    current.splitlines(keepends=True),
-                    rebuilt.splitlines(keepends=True),
-                    fromfile=str(LEXICON.relative_to(ROOT)),
-                    tofile=str(LEXICON.relative_to(ROOT)),
-                )
-            ),
-            end="",
-        )
+        for path, content in rebuilt.items():
+            current = path.read_text(encoding="utf-8")
+            print(
+                "".join(
+                    difflib.unified_diff(
+                        current.splitlines(keepends=True),
+                        content.splitlines(keepends=True),
+                        fromfile=str(path.relative_to(ROOT)),
+                        tofile=str(path.relative_to(ROOT)),
+                    )
+                ),
+                end="",
+            )
         return
     print(f"Entries: {report['entries']}")
     print(f"Rows that would change: {report['changed_rows']}")

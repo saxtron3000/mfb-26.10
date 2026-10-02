@@ -40,7 +40,7 @@ If you have never given this class before, plan for an hour+ to familiarize your
 
 After you have delivered the activity the first time, future preparation is minimal.
 
-Explain to the participants that this is a [bartering](../../publish/mfb-lx-26.10-index.md#term-barter) game. If there are 10 or fewer participants in the class, they will play as individuals. For larger classes, divide the participants into four teams.
+Explain to the participants that this is a [bartering](../../publish/mfb-lx-26.10-sg-index.md#term-barter) game. If there are 10 or fewer participants in the class, they will play as individuals. For larger classes, divide the participants into four teams.
 
 This activity has three rounds. To begin, assign participants to one of four “markets”: CLUB-MAKERS, SPADE-MAKERS, HEARTS-MAKERS, DIAMOND-MAKERS.
 
