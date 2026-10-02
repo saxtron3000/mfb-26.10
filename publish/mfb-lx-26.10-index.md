@@ -15,6 +15,7 @@
 | Quick Start references | 0 |
 | Microlearning references | 0 |
 | **Published-material references** | **1545** |
+
 Reference counts are direct Markdown links to the registered lexicon URLs or local term anchors in the current `publish/` materials, counted on 1 October 2026. Guide terms link to the exact URL registered for their `BD-LEX-###` ID in [the terms register](mfb-lx-26.10-terms.md). “Lexicon entries” counts distinct word-or-phrase entries rather than occurrence rows or individual aliases. “Term entries found” counts entries with at least one verified Student Guide definition link; “linked entries” counts entries with at least one verified Educator Guide definition link.
 
 This lexicon lists Bitcoin and Bitcoin-adjacent terms that a beginner may need explained. It is the shared terminology authority for the Student Guide, Educator Guide, and Diploma activities. Each entry has a stable anchor for links from those materials.

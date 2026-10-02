@@ -8,6 +8,7 @@ Use this checklist to confirm that each destination opens and is the correct res
 
 - **SG**: [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/en/student-guide/).
 - **EG**: [Educator Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/en/educator-guide/).
+- **QS**: [Educator Quick Start](https://programs.myfirstbitcoin.org/programs/educator-quick-start/).
 
 ## Internal resource interlinks
 
@@ -33,7 +34,7 @@ Use this checklist to confirm that each destination opens and is the correct res
 
 Repeated destinations share a row. Source locations list every occurrence; repeated line numbers mean multiple occurrences on that line. Original row IDs are retained. Line numbers may shift after edits.
 
-This index contains 21 destinations on `myfirstbitcoin.org` and its subdomains, plus the project GitHub repository. See [external and other links](links-external.md) for the remaining destinations.
+This index contains 26 destinations on `myfirstbitcoin.org` and its subdomains, plus the project GitHub repository. Lexicon definition anchors are maintained separately in the Lexicon files and are excluded from this index. See [external and other links](links-external.md) for the remaining destinations.
 
 ## Review instructions
 
@@ -75,6 +76,11 @@ This index contains 21 destinations on `myfirstbitcoin.org` and its subdomains, 
 | W033 | Bitcoin Diploma & Open-Source Courses | [https://myfirstbitcoin.org/learn/programs](https://myfirstbitcoin.org/learn/programs) | EG: 431 | Correct | Replaced in the source guides on 2026-10-01 with the current official programme overview. |
 | W034 | My First Bitcoin Companion | [https://ai.myfirstbitcoin.org](https://ai.myfirstbitcoin.org) | SG: 1987; EG: 1270, 2476, 2993, 3685 | Correct | Reviewed 2026-10-01: official AI URL redirects to the My First Bitcoin Companion. |
 | W035 | Support Independent Bitcoin Education | [https://myfirstbitcoin.org/support-us](https://myfirstbitcoin.org/support-us) | SG: 1959 | Correct | Replaced in the Student Guide on 2026-10-01 with the current official support page. |
+| W036 | Student Journey | [https://journey.myfirstbitcoin.org/](https://journey.myfirstbitcoin.org/) | SG: 103 | Pending | Added 2026-10-01; review the destination and learner-facing pathway wording. |
+| W037 | Bitcoin Education Network | [https://leaderboard.myfirstbitcoin.org](https://leaderboard.myfirstbitcoin.org) | QS: 76 | Pending | Added 2026-10-01; review the destination and optional-participation wording. |
+| W038 | Circular economies dashboard | [https://leaderboard.myfirstbitcoin.org/?min10merchants=1](https://leaderboard.myfirstbitcoin.org/?min10merchants=1) | SG: 1750 | Pending | Added 2026-10-01; retain the `?min10merchants=1` filter. |
+| W039 | Official contribution form | [https://forms.myfirstbitcoin.org/](https://forms.myfirstbitcoin.org/) | QS: 76 | Pending | Added 2026-10-01; review the form audience and purpose. |
+| W040 | Educator Quick Start | [https://programs.myfirstbitcoin.org/programs/educator-quick-start/](https://programs.myfirstbitcoin.org/programs/educator-quick-start/) | EG: 8 | Pending | Replaced the previous Quick Start URL on 2026-10-01; review the destination. |
 
 ## Shared activity footer links
 
