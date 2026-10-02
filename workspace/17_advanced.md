@@ -13,7 +13,7 @@ It collects:
 - legacy source trails from the 2026.04 Diploma and reference chapters;
 - future module seeds, activity seeds, research notes, and open design questions.
 
-The Advanced modules are not part of the current beginner Diploma publication work. Work on Advanced modules should begin only after the redesigned Bitcoin Diploma is published.
+The Advanced modules are not part of the current beginner Diploma publication work. Their post-launch release is planned for November–December 2026. Preparatory editorial work may continue, but it must not pull time, scope, or complexity back into the beginner Diploma pathway.
 
 For now, this file preserves ideas and source material so the shorter Diploma can stay concise without deleting useful material.
 
@@ -23,9 +23,9 @@ For now, this file preserves ideas and source material so the shorter Diploma ca
 
 ## Current Status
 
-Status: holding file.
+Status: post-launch release track, planned for November–December 2026.
 
-This is not a finished Advanced curriculum, a module sequence, a public table of contents, or a publication-ready document.
+This is not part of the finished beginner curriculum. It remains the planning inventory and source trail for the post-launch Advanced release; individual modules still need their own publication-readiness review before they are released.
 
 Use this file as a collection point for material that may later become:
 
@@ -39,9 +39,7 @@ Use this file as a collection point for material that may later become:
 
 ## Timing Rule
 
-Do not begin full Advanced module design until the redesigned Bitcoin Diploma has been published.
-
-The beginner Diploma must remain the priority. Advanced work should not pull time, scope, or complexity back into the Diploma pathway.
+The beginner Diploma remains the priority through its launch. Prepare Advanced modules for their planned November–December 2026 release without pulling time, scope, or complexity back into the Diploma pathway.
 
 ## Preservation Rule
 

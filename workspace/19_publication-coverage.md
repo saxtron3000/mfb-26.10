@@ -14,7 +14,7 @@ The 2026.10 set is a framework-first publication. It includes the teaching and a
 - Existing legacy activity procedures are candidates for review and adaptation, not automatically approved assessment tasks or global tool recommendations.
 - Activities involving live tools, videos, accounts, wallets, personal devices, real funds, or secrets require the low-tech, privacy, safety, and current-content checks in `10_activities.md`, `12_educator-plan.md`, and `16_spec.md` before delivery.
 - The optional app question data is learner-owned self-review only. It does not provide evidence for assessment, certification, educator tracking, or a pass/fail result.
-- Advanced publication remains a placeholder until an Advanced module is approved; `17_advanced.md` is the complete planning inventory and source trail.
+- Advanced modules are on a post-launch release track for November–December 2026. They are not part of the beginner Diploma release; `17_advanced.md` is the planning inventory and source trail until each module is approved for release.
 
 ## Diploma publication set
 
@@ -26,7 +26,22 @@ The 2026.10 set is a framework-first publication. It includes the teaching and a
 | [`mfb-bd-qs-26.10.md`](https://programs.myfirstbitcoin.org/programs/educator-quick-start/) | [Educator Quick Start](https://programs.myfirstbitcoin.org/programs/educator-quick-start/) for minimum timing, facilitation, wallet guidance, assessment, framework-first release status, and decentralized educator-issued certification. | `12_educator-plan.md` owns educator structure; `13_assessment.md` and `15_certification.md` own assessment and certification policy; `16_spec.md` owns the release boundary. |
 | [`mfb-lx-26.10-sg-index.md`](../publish/mfb-lx-26.10-sg-index.md) | Student Guide definitions for Modules 1–4, including money, Bitcoin mechanics, safe use, and local-community terms. | `07_contents.md` owns learner-content coverage; `06_plan.md` owns module boundaries. |
 | [`mfb-lx-26.10-eg-index.md`](../publish/mfb-lx-26.10-eg-index.md) | Educator Guide linked-use definitions and traceability. | `12_educator-plan.md` owns educator-facing terminology and misconception checks. |
-| [`README.md`](../publish/mfb-adv-26.10/README.md) | Advanced-modules publication placeholder. | `17_advanced.md` owns the advanced inventory, pathway ideas, parked content, and publication readiness. |
+| [`README.md`](../publish/mfb-adv-26.10/README.md) | Advanced-modules post-launch release overview and work-in-progress status. | `17_advanced.md` owns the advanced inventory, pathway ideas, parked content, and publication readiness. |
+
+## Advanced post-launch set
+
+The following files are explicitly post-launch works in progress, planned for November–December 2026. They are excluded from the beginner Diploma release. Each requires its own publication-readiness review before release. `ACT-036` tracks the work-in-progress Advanced URL requested for translated Diploma PDFs.
+
+| Published file | Current release status | Planning home and decision |
+|---|---|---|
+| [`mfb-adv-001-history-of-money-localisation.md`](../publish/mfb-adv-26.10/mfb-adv-001-history-of-money-localisation.md) | Post-launch work in progress | `17_advanced.md` |
+| [`mfb-adv-002-monetary-economics.md`](../publish/mfb-adv-26.10/mfb-adv-002-monetary-economics.md) | Post-launch work in progress | `17_advanced.md` |
+| [`mfb-adv-003-bitcoin-education-and-misconceptions.md`](../publish/mfb-adv-26.10/mfb-adv-003-bitcoin-education-and-misconceptions.md) | Post-launch work in progress | `17_advanced.md` |
+| [`mfb-adv-004-cryptography.md`](../publish/mfb-adv-26.10/mfb-adv-004-cryptography.md) | Post-launch work in progress | `17_advanced.md` |
+| [`mfb-adv-005-mining-and-consensus.md`](../publish/mfb-adv-26.10/mfb-adv-005-mining-and-consensus.md) | Post-launch work in progress | `17_advanced.md` |
+| [`mfb-adv-006-self-custody-backup-and-recovery.md`](../publish/mfb-adv-26.10/mfb-adv-006-self-custody-backup-and-recovery.md) | Post-launch work in progress | `17_advanced.md` |
+| [`mfb-adv-007-privacy-security-and-online-safety.md`](../publish/mfb-adv-26.10/mfb-adv-007-privacy-security-and-online-safety.md) | Post-launch work in progress | `17_advanced.md` |
+| [`mfb-adv-008-building-on-bitcoin.md`](../publish/mfb-adv-26.10/mfb-adv-008-building-on-bitcoin.md) | Post-launch work in progress | `17_advanced.md` |
 
 ## Optional microlearning publication set
 

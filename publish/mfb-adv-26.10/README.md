@@ -1,6 +1,6 @@
 # Bitcoin Diploma Advanced modules
 
-Advanced modules will be published here when they are available.
+This directory contains Advanced modules being prepared for a post-launch release in November–December 2026. They are works in progress until each module is individually approved and released.
 
 They are not part of the 2026.10 beginner Bitcoin Diploma. The current Diploma is complete through the Student Guide, Educator Guide, Assessment Grid, and Lexicon Entries in `publish/mfb-bd-26.10/`.
 

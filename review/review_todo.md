@@ -6,7 +6,7 @@ This is the working list for the 2026.10 review. Start with the open items below
 
 ### What needs attention
 
-**17 of 37 tracked action or asset-input items are still open:** 14 of 34 `ACT-` items and 3 asset-input requests. Start with certificated-delivery readiness, then clear the publication blockers. This snapshot was reviewed on 2026-09-30 in the [review to-do run](runs/2026-09-30-review-todo.md), the [annotation-evidence refresh](runs/2026-09-30-act-031-annotation-evidence-refresh.md#review-report-summary), and the [targeted activity review](runs/2026-09-30-targeted-mfb-act-26.10-alignment.md#review-report-summary).
+**18 of 38 tracked action or asset-input items are still open:** 15 of 35 `ACT-` items and 3 asset-input requests. Start with certificated-delivery readiness, then clear the publication blockers. This snapshot was updated on 2026-10-01 to add the post-launch Advanced-link dependency; the underlying review evidence remains the [review to-do run](runs/2026-09-30-review-todo.md), the [annotation-evidence refresh](runs/2026-09-30-act-031-annotation-evidence-refresh.md#review-report-summary), and the [targeted activity review](runs/2026-09-30-targeted-mfb-act-26.10-alignment.md#review-report-summary).
 
 | Do this first | Why it matters | Tasks |
 |---|---|---|
@@ -14,19 +14,20 @@ This is the working list for the 2026.10 review. Start with the open items below
 | Correct activity publication defects | Do this before publishing or testing the activity sources in Sanity. | `ACT-032` correct technical models; `ACT-033` make the Lightning relay safe; `ACT-034` replace the banking model; `ACT-035` repair hierarchy. |
 | Run the Sanity pre-release review | Do this after every draft is available in Sanity for review and testing, and before release. | `ACT-009`, `ACT-010`, `ACT-011`, `ACT-028`, and `ACT-019`. |
 | Improve and maintain the materials | Important, but does not by itself block release. | `ACT-007`, `ACT-013`, and `ACT-026`. |
+| Prepare the translated-PDF Advanced link | Important for the translated Diploma at launch; waiting on Benoit's work-in-progress URL. | `ACT-036`. |
 
 `ACT` means a task. `DEC` is a past decision kept for reference. `ANN` is an old reviewer note; it is not an approval or a current task.
 
-### To-do qualification and tally — 2026-09-30
+### To-do qualification and tally — 2026-10-01
 
 | Register type | Total | Completed or resolved | Unresolved | Current breakdown |
 |---|---:|---:|---:|---|
-| `ACT-` | 34 | 20 | 14 | 3 open; 3 in progress; 2 blocked; 6 needs verification. By severity: 5 critical (2 unresolved), 17 high (8 unresolved), 11 medium (4 unresolved), and 1 low (none unresolved). |
+| `ACT-` | 35 | 20 | 15 | 3 open; 3 in progress; 2 blocked; 6 needs verification; 1 awaiting external input. By severity: 5 critical (2 unresolved), 17 high (8 unresolved), 12 medium (5 unresolved), and 1 low (none unresolved). |
 | `ANN-` | 242 | 242 triaged | 0 pending triage | 135 `already-addressed`; 30 `approved-action`; 38 `superseded`; 19 `preserve-approval`; 20 `needs-clarification`. Source markers remain provenance only. |
 | `DEC-` | 12 | 12 | 0 | All answers remain resolved; current implementation evidence was refreshed for `DEC-02` and `DEC-04`–`DEC-06`. |
 | `AST-` inputs | 3 | 0 | 3 | Official test-network or Lightning values still require My First Bitcoin confirmation. |
 
-Unresolved `ACT-` release impact: 2 certificated-delivery blockers (`ACT-002`, `ACT-003`), 9 publication blockers (`ACT-009`–`ACT-011`, `ACT-019`, `ACT-028`, and `ACT-032`–`ACT-035`), and 3 maintenance items (`ACT-007`, `ACT-013`, `ACT-026`).
+Unresolved `ACT-` release impact: 2 certificated-delivery blockers (`ACT-002`, `ACT-003`), 9 publication blockers (`ACT-009`–`ACT-011`, `ACT-019`, `ACT-028`, and `ACT-032`–`ACT-035`), 3 maintenance items (`ACT-007`, `ACT-013`, `ACT-026`), and 1 translated-PDF link dependency (`ACT-036`).
 
 ### Task list at a glance
 
@@ -50,6 +51,7 @@ Use this table to find the task. The detailed entry below has the supporting lin
 | ACT-033 | Make the Lightning relay safe and optional | Needs verification | publication | — |
 | ACT-034 | Replace the fractional-reserve banking model | Needs verification | publication | — |
 | ACT-035 | Repair activity Markdown hierarchy and template | Pre-launch | publication | Activity documents loaded in Sanity staging |
+| ACT-036 | Add Benoit's work-in-progress Advanced URL to translated Diploma PDFs | Awaiting external input | translated-PDF release | Benoit supplies the URL |
 | AST-001 | Supply the official test-network address and network label for `BD-V-036` | Open | asset production | My First Bitcoin confirmation |
 | AST-002 | Supply the official test Lightning invoice, amount, description, expiry, and network for `BD-V-078` | Open | asset production | My First Bitcoin confirmation |
 | AST-003 | Supply an approved active Lightning address for `BD-V-080` | Open | asset production | My First Bitcoin confirmation |
@@ -355,6 +357,12 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
   - Status: needs-verification | Stage: pre-launch | Owner: unassigned | Updated: 2026-10-01 | Severity: high | Release impact: publication blocker once the activity documents enter Sanity; source verification complete | Evidence: [targeted style review](runs/2026-09-30-targeted-mfb-act-26.10-style.md#findings-created-or-updated), [source remediation](runs/2026-09-30-change-activity-remediation.md#verification-completed), [grouping-header correction](runs/2026-09-30-act-035-grouping-headers.md#review-report-summary), and [pre-launch deferral](runs/2026-10-01-act-035-pre-launch.md#review-report-summary). All numbered activities and the template now have one H1; the H2/H3 structure is sequential; labels are sentence case; the activity library has no em dash; and all existing headers are retained as structural publication content, including Preparation, Procedure, Review, and Additional resources. | Depends on: activity documents loaded in Sanity staging | Completion evidence: every activity source has exactly one H1 and a sequential, meaningful H2/H3 structure with sentence-case labels and no em dash. Never remove, demote, merge, or omit any heading solely because it has no immediate body text: headers are structural publication content. After upload, validate heading level, nesting, and rendered navigation in Sanity staging. The corrected template and checklist prevent the defect from returning, and the published render passes a screen-reader heading-navigation check.
 
+- [ ] **ACT-036: Add Benoit's work-in-progress Advanced URL to translated Diploma PDFs.** When Benoit supplies the URL, verify that it is the intended work-in-progress destination, use the approved link text in each translated Diploma PDF, and check the rendered links before release.
+
+  - Status: awaiting external input | Owner: Benoit (URL supply); unassigned (link production) | Updated: 2026-10-01 | Severity: medium | Release impact: translated-PDF launch dependency; does not block the beginner Diploma source release | Evidence: user direction on 2026-10-01 | Depends on: Benoit supplies the work-in-progress Advanced URL | Completion evidence: the supplied destination has been checked, every translated Diploma PDF uses the approved link text and URL, and the rendered PDF links open the intended destination.
+
+  - Do not infer, substitute, or publish a destination before Benoit provides it. The eight Advanced modules are on the post-launch track for November–December 2026; their individual publication readiness remains separate from this link task.
+
 
 - [x] **ACT-027: Use the same guiding question for each module everywhere.** Align the Student Guide, Educator Guide, and relevant assessment prompts, unless a different audience version is clearly intentional.
 
@@ -589,9 +597,9 @@ Governing workspace file/heading: `workspace/15_certification.md`, `## Current G
 
 #### PUB-002: Publication coverage omits non-beginner and quick-start files
 
-Status: needs-verification | Owner: unassigned | Updated: 2026-09-21 | Severity: medium | Release impact: publication blocker | Evidence: [full-release alignment run](runs/2026-09-21-full-release-alignment.md#findings-created-or-updated) and [CYN-007](runs/2026-09-21-full-release-26.10-cynical.md#cynical-editor-findings); the Quick Start is now classified in `workspace/19_publication-coverage.md`, but `publish/mfb-adv-26.10/mfb-adv-001` through `mfb-adv-008` remain absent | Depends on: ACT-019 | Completion evidence: every file under `publish/` has an explicit current-release, deferred, or non-public status and appears in the coverage register where required.
+Status: resolved | Owner: unassigned | Updated: 2026-10-01 | Severity: medium | Release impact: post-launch Advanced coverage; does not block the beginner Diploma launch | Evidence: [Advanced post-launch set](../workspace/19_publication-coverage.md#advanced-post-launch-set), [Advanced holding-file status](../workspace/17_advanced.md#current-status), and [Advanced README](../publish/mfb-adv-26.10/README.md) now classify all eight files as post-launch works in progress planned for November–December 2026. `ACT-036` separately tracks the work-in-progress URL for translated Diploma PDFs. | Depends on: none | Completion evidence: every file under `publish/` has an explicit current-release, deferred, or non-public status and appears in the coverage register where required.
 
-Governing workspace file/heading: `workspace/19_publication-coverage.md`, `## Diploma publication set` and `## Maintenance check`; `workspace/17_advanced.md`, `## 1. Status And Use` | Publication file/heading: `publish/mfb-adv-26.10/mfb-adv-001-history-of-money-localisation.md` through `mfb-adv-008-building-on-bitcoin.md` | Issue: publication inventory and actual files still disagree for the eight Advanced files; the Quick Start omission is resolved | Why it matters: release tooling, reviewers, translators, and users may treat Advanced drafts as approved publication or fail to maintain files that are in scope | Authority/evidence: `workspace/19_publication-coverage.md` says every curriculum-content file in `publish/` must appear once; `publish/mfb-adv-26.10/README.md` says Advanced modules are future | Affected files: `workspace/19_publication-coverage.md`, `workspace/00_index.md`, `workspace/17_advanced.md`, `publish/mfb-adv-26.10/README.md`, and eight Advanced files | Recommended action: record explicit deferred/non-release status and owner for the Advanced files before release.
+Governing workspace file/heading: `workspace/19_publication-coverage.md`, `## Advanced post-launch set`; `workspace/17_advanced.md`, `## 1. Status And Use` | Publication file/heading: `publish/mfb-adv-26.10/mfb-adv-001-history-of-money-localisation.md` through `mfb-adv-008-building-on-bitcoin.md` | Resolution: the eight files are explicitly classified as post-launch works in progress planned for November–December 2026 and are excluded from the beginner Diploma release. | Why it matters: release tooling, reviewers, translators, and users can distinguish the current beginner release from the separate Advanced launch. | Remaining work: `ACT-036` waits for Benoit's work-in-progress URL before it can be added to translated Diploma PDFs.
 
 #### PUB-003: The Lightning relay contradicts the required low-tech and optional-use boundary
 
