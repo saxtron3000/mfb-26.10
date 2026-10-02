@@ -3338,6 +3338,8 @@ The educator assesses the learner, accredits the result, and distributes either 
 
 Before issuing a completion certificate, confirm that your selected tasks and local variants, observation capacity, accessibility routes, Assessment Grid, and proportionate local privacy, correction, and appeals arrangements are ready. If you offer an issuer-specific verification method, identify it clearly and minimize personal data; do not imply that it is central My First Bitcoin verification.
 
+After you have confirmed each learner's certificate type and assessment status, use the [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) to produce participation or completion certificates in a batch. Check names, certificate types, and issuing details before distributing them. The tool helps prepare certificates; it does not assess learners, decide completion, or change the educator-issued certification model.
+
 [My First Bitcoin App](https://myfirstbitcoin.app/) progress, attendance, confidence, and activity participation do not by themselves establish completion. A learner with a **Not yet** result should receive a clear, respectful opportunity for more practice and reassessment as they build competency. Do not create public “graduates” and “failures” inside the room.
 
 ### Final safety reminders
@@ -3369,6 +3371,7 @@ USE: Shared Student Guide master.
 - Contact learners privately about incomplete tasks.
 - Provide focused remediation and fair reassessment.
 - Offer a participation certificate when the learner has participated but has **Not yet** for one or more competencies; issue a completion certificate only when all competencies show **Yes**.
+- After confirming each result, use the [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) to create certificates in a batch, then check the learner names, certificate types, and issuing details before distribution.
 - Keep only the minimum information needed for the educator's records. Brief evidence notes are helpful but optional.
 
 ### Ask learners about the learning experience
@@ -3505,6 +3508,7 @@ Use the [Lexicon](../mfb-lx-26.10-sg-index.md) for full definitions. Keep these 
 - [ ] Online, low-tech, and accessibility routes are ready where needed.
 - [ ] Any notes protect [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy) and are kept to the minimum useful information.
 - [ ] I know how to offer participation or completion certification appropriately.
+- [ ] I have confirmed each learner's result before using the [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) and will check certificate details before distribution.
 
 ---
 

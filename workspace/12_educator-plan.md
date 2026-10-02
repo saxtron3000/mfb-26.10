@@ -382,6 +382,8 @@ The approved completion record must contain:
 
 Only the combined **assessment-complete** status permits the named educator to issue a completion certificate. Educator endorsement without structured evidence is insufficient, and direct practical assessment by an educator is mandatory. My First Bitcoin does not centrally issue or verify the certificate or guarantee the learner's competency.
 
+After confirming each learner's result and certificate type, educators may use the [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) to prepare participation or completion certificates in a batch. They remain responsible for eligibility, learner names, certificate types, and issuing details; the tool does not assess learners or decide completion.
+
 The 2026.10 publication is framework first. Before certificated delivery, the educator confirms that the selected tasks and local variants, observation capacity, accessibility routes, Assessment Grid, and proportionate local privacy, correction, and appeals arrangements are ready.
 
 ## 6. Adaptation Guidance

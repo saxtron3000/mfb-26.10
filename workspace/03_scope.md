@@ -63,7 +63,7 @@ The following assumptions affect project execution:
 - `06_plan.md` is the active plan source of truth.
 - Combined assessment is in scope: educator-led theoretical assessment is 50% of the Diploma and educator-observed practical assessment is the remaining 50%. These are non-compensatory component balances, not a combined numerical grade.
 - Both assessment components are prerequisites for certification.
-- Certification is decentralized and educator-issued: the named educator assesses the learner and issues the certificate, which records that educator's judgment rather than a central My First Bitcoin evaluation or guarantee. Optional central credential infrastructure and public verification are future work.
+- Certification is decentralized and educator-issued: the named educator assesses the learner and issues the certificate, which records that educator's judgment rather than a central My First Bitcoin evaluation or guarantee. After confirming eligibility, educators may use the [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) to prepare certificates in batches. Optional central credential infrastructure and public verification are future work.
 - Localization preparation is in scope.
 - Localization implementation is out of scope.
 - Publishing is part of project completion.
@@ -253,7 +253,7 @@ Create a competency-aligned system with two required, non-compensatory component
 
 ### Note
 
-The operational assessment protocol is published in the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) and the cohort record in `../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md`. Both educator-evaluated assessment components are mandatory for certification. Optional app self-checks cannot evaluate, record, or replace either component. The educator assesses the learner, accredits the result, and distributes the certificate. My First Bitcoin does not centrally issue, centrally verify, or guarantee learner competency. Privacy, correction, appeals, optional issuer-specific verification, and any future credential infrastructure remain implementation work for certificated delivery.
+The operational assessment protocol is published in the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) and the cohort record in `../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md`. Both educator-evaluated assessment components are mandatory for certification. Optional app self-checks cannot evaluate, record, or replace either component. The educator assesses the learner, accredits the result, and distributes the certificate. After confirming results and certificate types, they may use the [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) to prepare certificates in batches. My First Bitcoin does not centrally issue, centrally verify, or guarantee learner competency. Privacy, correction, appeals, optional issuer-specific verification, and any future credential infrastructure remain implementation work for certificated delivery.
 
 ---
 

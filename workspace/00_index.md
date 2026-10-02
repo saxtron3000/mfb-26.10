@@ -33,7 +33,7 @@ The official 2026.10 Diploma documents are:
 
 The optional app self-assessment data is maintained in [`mfb-ml-26.10.md`](../publish/mfb-ml-26.10/mfb-ml-26.10.md). It is a voluntary review resource, not assessment evidence.
 
-The 2026.10 publication is a framework-first teaching package. It includes the assessment framework, but publication alone does not declare every local route ready for certificated delivery. Certificates are issued by the educator who assesses the learner; they record that educator's judgment and are not centrally issued, verified, or guaranteed by My First Bitcoin.
+The 2026.10 publication is a framework-first teaching package. It includes the assessment framework, but publication alone does not declare every local route ready for certificated delivery. Certificates are issued by the educator who assesses the learner; they record that educator's judgment and are not centrally issued, verified, or guaranteed by My First Bitcoin. After confirming a learner's result and certificate type, educators may use the [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) to prepare certificates in batches.
 
 Planning notes, unresolved questions, review commentary, and historical material should remain outside the official Diploma documents.
 
@@ -99,7 +99,7 @@ Detailed activities are available on the [Resources Hub](https://programs.myfirs
 | Competency-aligned assessment planning | [`13_assessment.md`](13_assessment.md) |
 | Optional app microlearning plan | [`14_microlearning-plan.md`](14_microlearning-plan.md) |
 | Optional app self-assessment publication source | [`publish/mfb-ml-26.10/mfb-ml-26.10.md`](../publish/mfb-ml-26.10/mfb-ml-26.10.md) |
-| Certification prerequisite and governance questions | [`15_certification.md`](15_certification.md) |
+| Certification prerequisite, governance questions, and batch certificate production | [`15_certification.md`](15_certification.md); [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) |
 | Official Student Guide lexicon | [`mfb-lx-26.10-sg-index.md`](../publish/mfb-lx-26.10-sg-index.md) |
 | Official Educator Guide lexicon | [`mfb-lx-26.10-eg-index.md`](../publish/mfb-lx-26.10-eg-index.md) |
 | Collaborator and stakeholder overview | [`16_spec.md`](16_spec.md) |

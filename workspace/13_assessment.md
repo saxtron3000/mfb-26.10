@@ -170,6 +170,8 @@ The educator must use the Assessment Grid as the minimum assessment process. Kee
 
 An educator who has completed the Educator Training Program may show the ETP badge beside their name on the certificate. The ETP is recommended support for educators who want more confidence; it is not required to issue a certificate.
 
+Once the educator has confirmed the learner's result and certificate type, they may use the [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) to prepare participation or completion certificates in a batch. The tool does not supply assessment evidence, decide eligibility, or replace the educator's check of learner names, certificate types, and issuing details.
+
 The 2026.10 curriculum is released framework first. Publication of the guides, protocol, and Assessment Grid does not by itself declare a local route ready for certificated delivery. Before issuing completion certificates, the educator must have the selected tasks and local variants, enough observation capacity, accessible equivalent routes, the Assessment Grid, and proportionate local privacy, correction, and appeals arrangements ready.
 
 ---
@@ -222,4 +224,5 @@ All certificated delivery modes require both assessment components.
 - Do not calculate or report a combined numerical grade unless a separate policy is approved.
 - Consider delivery time, cohort size, available educators, accommodations, feedback, troubleshooting, and reassessment when planning a cohort. No fixed educator-to-learner ratio or formal pilot is required.
 - Define proportionate local arrangements for privacy, consent, minors' access, records, result correction, appeals, suspected misconduct, outages, and emergencies where they are relevant to the delivery context.
+- Use the [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) only after confirming results and certificate types; keep its batch-production role separate from assessment, central records, and public verification.
 - Keep future certificate-tool, central-record, and public-verification ideas separate from the current educator-issued certification model unless and until they are approved.

@@ -253,7 +253,7 @@ Preserve the Diploma's conviction, clarity, and Bitcoin-only identity, but avoid
 
 Print QR rule:
 
-Printed PDFs should use QR codes sparingly. QR codes should point only to stable, high-value destinations such as the source repository, canonical update page, educator resources, support or donation page, or an approved educator or issuer-specific certificate-verification method if available. Do not imply a central My First Bitcoin verification service.
+Printed PDFs should use QR codes sparingly. QR codes should point only to stable, high-value destinations such as the source repository, canonical update page, educator resources, support or donation page, or an approved educator or issuer-specific certificate-verification method if available. The [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) is an educator batch-production tool rather than a learner-facing QR destination. Do not imply a central My First Bitcoin verification service.
 
 Multilingual source rule:
 
@@ -433,7 +433,7 @@ The October 2026 redesign should produce:
 - publication-ready and translation-ready source files;
 - public communication materials.
 
-This is a framework-first release. It publishes the complete teaching package and assessment framework without claiming that every local route is ready for certificated delivery. Before issuing certificates, an educator must have the selected tasks and local variants, capacity, accessibility routes, assessment records, and proportionate local governance ready.
+This is a framework-first release. It publishes the complete teaching package and assessment framework without claiming that every local route is ready for certificated delivery. Before issuing certificates, an educator must have the selected tasks and local variants, capacity, accessibility routes, assessment records, and proportionate local governance ready. After confirming eligibility, an educator may use the [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) to prepare certificates in batches; the tool does not assess learners or decide completion.
 
 The Diploma should remain the entry point into a wider learning ecosystem, not the container for every valuable Bitcoin topic.
 
@@ -463,7 +463,7 @@ The redesign still needs decisions on:
 - ownership and approval criteria for post-translation language review;
 - optional app self-assessment question-bank maintenance and learner-feedback requirements;
 - operational-assessment-protocol evidence for task timing, records, calibration, moderation, accessibility equivalents, and educator capacity before certificated delivery;
-- optional future certificate tooling and verification methods, including possible privacy-preserving on-chain timestamping, without changing educator-issued certification;
+- the available [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) for batch production after educator confirmation, plus optional future verification methods such as privacy-preserving on-chain timestamping, without changing educator-issued certification;
 - low-connectivity delivery assumptions;
 - pilot and educator review process;
 - Advanced module competencies and sequencing, tracked in `17_advanced.md`.

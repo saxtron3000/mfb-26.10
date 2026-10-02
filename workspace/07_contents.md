@@ -100,4 +100,4 @@
 - Connect with My First Bitcoin
 - Source or update page, if included
 - Optional donate / support QR
-- Certificate meaning, educator issuance, and optional issuer-specific verification
+- Certificate meaning, educator issuance, batch production through the [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) after educator confirmation, and optional issuer-specific verification

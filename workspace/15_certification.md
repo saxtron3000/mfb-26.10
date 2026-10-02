@@ -88,7 +88,7 @@ The educator evaluates the full theoretical competency component through compete
 
 The educator must use the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol), record evidence-based results in the Assessment Grid, provide remediation where needed, and reassess fairly. The educator may not replace required evidence with attendance, effort, familiarity, a learner's self-description, or personal discretion and may not set or override the theoretical pass result except through an explicitly governed correction process.
 
-The educator is the certificate issuer. The educator assesses the learner, accredits the result, distributes the certificate, and remains responsible for any issuer-specific record, correction, replacement, or verification process they offer. The certificate must identify the educator or issuing education organization clearly and must not imply that My First Bitcoin directly evaluated the learner.
+The educator is the certificate issuer. The educator assesses the learner, accredits the result, distributes the certificate, and remains responsible for any issuer-specific record, correction, replacement, or verification process they offer. The certificate must identify the educator or issuing education organization clearly and must not imply that My First Bitcoin directly evaluated the learner. After confirming the result, the educator may use the [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) to prepare participation or completion certificates in a batch. The tool does not assess learners, decide eligibility, or change who issues the certificate.
 
 ## The certification process
 
@@ -118,7 +118,8 @@ Standardization does not mean every learner must use the same wallet or local sc
 4. Any unmet competency is recorded as **Showing competency: Not yet**, followed by feedback, further practice, and reassessment while the learner builds competency.
 5. The educator-led theoretical and practical results are recorded in the approved completion record.
 6. The educator confirms assessment-complete status only when both components meet the standard.
-7. The named educator or educator's organization issues and distributes the certificate after that confirmation.
+7. After confirming the result and certificate type, the educator may use the [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) to prepare certificates in a batch. The educator checks learner names, certificate types, and issuing details before distribution.
+8. The named educator or educator's organization issues and distributes the certificate after that confirmation.
 
 ---
 
@@ -155,7 +156,7 @@ Before certificated delivery, the educator establishes proportionate local arran
 - result correction, appeals, accommodations, and exceptional cases; and
 - certificate correction, replacement, or withdrawal where the educator offers those processes.
 
-Future tools may support issuer-specific or shared verification, educator permissions, record reconciliation, audit trails, revocation, replacement, or privacy-preserving timestamps. They are optional future infrastructure, not part of the 2026.10 certificate promise, and must not convert an educator-issued certificate into a claim of central My First Bitcoin evaluation. Any future verification method must minimize personal data and must never replace either assessment component.
+The [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) is available to help educators prepare certificates in batches after they have confirmed eligibility. It is not a central assessment, issuance, record, or verification service. Future tools may support issuer-specific or shared verification, educator permissions, record reconciliation, audit trails, revocation, replacement, or privacy-preserving timestamps. They are optional future infrastructure, not part of the 2026.10 certificate promise, and must not convert an educator-issued certificate into a claim of central My First Bitcoin evaluation. Any future verification method must minimize personal data and must never replace either assessment component.
 
 # 9. Framework-First Release Boundary
 
