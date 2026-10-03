@@ -225,7 +225,7 @@ The Diploma consists of a four-stage learning arc: **Problem → Solution → Ac
 
 **Module 4** is a required part of the Diploma, curated by the educator. Educators are the subject-matter experts on their students' local constraints, solutions, tools, resources, laws, language, infrastructure, and needs. The educator-curated Connect experience may include earning, saving, receiving, spending, [Layer 2](https://programs.myfirstbitcoin.org/lexicon/en/#layer-2) solutions, local exchange pathways, merchants, or circular economies.
 
-**Advanced** Learning is outside the Diploma. It may examine deeper economics, [cryptography](https://programs.myfirstbitcoin.org/lexicon/en/#cryptography), [mining](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work), [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy), [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) structure, Lightning operations, business use, or security. Advanced material is kept separate so the beginner Diploma remains clear and safe.
+[Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) is outside the Diploma. It may examine deeper economics, [cryptography](https://programs.myfirstbitcoin.org/lexicon/en/#cryptography), [mining](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work), [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy), [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) structure, Lightning operations, business use, or security. Advanced material is kept separate so the beginner Diploma remains clear and safe.
 
 A topic is not unimportant because it is outside the Diploma. It may simply require more time or prior knowledge.
 
@@ -1125,7 +1125,7 @@ Protect a [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phr
 - never type it into a website or ordinary computer form;
 - keep it out of cameras, microphones, other people's view, and places where it may be damaged, lost, or found.
 
-Some wallets use additional passphrases, multiple keys, or other backup systems. These are Advanced Learning. Do not add complexity you cannot explain and recover from safely. If a [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase) may have been seen, copied, entered online, or stored on an untrusted device, treat it as compromised: seek guidance without revealing it and use a new trusted recovery process.
+Some wallets use additional passphrases, multiple keys, or other backup systems. These are [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/). Do not add complexity you cannot explain and recover from safely. If a [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase) may have been seen, copied, entered online, or stored on an untrusted device, treat it as compromised: seek guidance without revealing it and use a new trusted recovery process.
 
 <!-- VISUAL: BD-V-079
 ALT: Person privately copying twelve numbered placeholder backup words onto paper, labelled as an invalid example and not to be shared.
@@ -1363,7 +1363,7 @@ ALT: Accessible table comparing on-chain Bitcoin and Lightning payment questions
 ASSET: assets/briefs/bd-v-051-brief.md
 -->
 
-Which path does the recipient expect? Confirm whether they have provided an on-chain address or a [Lightning invoice](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-invoice) or request before paying. An on-chain wallet cannot directly pay every [Lightning invoice](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-invoice), and a Lightning wallet may not support every on-chain action. Some applications support both paths but may add fees or service dependencies. Detailed Lightning setup, channels, routing, and [liquidity](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-liquidity) are Advanced Learning; live local practice belongs in **Module 4** when it is safe and appropriate.
+Which path does the recipient expect? Confirm whether they have provided an on-chain address or a [Lightning invoice](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-invoice) or request before paying. An on-chain wallet cannot directly pay every [Lightning invoice](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-invoice), and a Lightning wallet may not support every on-chain action. Some applications support both paths but may add fees or service dependencies. Detailed Lightning setup, channels, routing, and [liquidity](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-liquidity) are [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/); live local practice belongs in **Module 4** when it is safe and appropriate.
 
 Imagine that a prepared scenario offers both payment paths. Which request can the intended wallet use, and what would you check before approving it? The answer depends on the receiving request, the wallet, and the situation — not on a universal “best” path.
 

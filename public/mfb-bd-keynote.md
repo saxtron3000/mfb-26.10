@@ -637,7 +637,7 @@ Keep these topics available for questions, but do not make them central to the 3
 - low-connectivity and offline-capable delivery;
 - future delivery formats and the optional app boundary.
 
-Do not include the full Advanced module title list in the keynote.
+Do not include the full [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) title list in the keynote.
 
 ---
 

@@ -51,7 +51,7 @@ Future work may strengthen the system behind a meaningful certificate.
 - Version the competency-to-teaching-to-evidence crosswalk, task variants, rubrics, prompting limits, safety-critical errors, and completion record so revised content does not obscure what a certificate represented at the time it was issued.
 - Build an educator onboarding, preparation, calibration, moderation, audit, remediation, reassessment, correction, accessibility-accommodation, and appeals model.
 - Preserve the settled educator-issued model while testing proportionate improvements to learner identification, minimum data fields, consent, retention, deletion or recovery, replacement, withdrawal, and optional issuer-specific verification. Consider shared or on-chain verification only if it protects personal data, adds value beyond ordinary educator verification, and does not imply central My First Bitcoin evaluation.
-- Design an Advanced certification approach only after individual Advanced modules and their practical evidence needs are defined. It must not be a single completion metric.
+- Design an Advanced certification approach only after individual [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) and their practical evidence needs are defined. It must not be a single completion metric.
 
 ## 3. Grow optional app self-assessment and microlearning carefully
 
@@ -160,13 +160,13 @@ These are the five suggestions already classified as **Horizon** in `input/COMMU
 
 **Status:** Not a 2026.10 change. **First dependency:** publish and evaluate the stable beginner Diploma. `17_advanced.md` remains the holding authority for candidate topics.
 
-- Validate demand, educator capacity, prerequisites, reviewer availability, maintenance cost, and community co-design needs before selecting a small first set of Advanced modules. The existing 24-module list is a candidate inventory, not a publication promise or sequence.
+- Validate demand, educator capacity, prerequisites, reviewer availability, maintenance cost, and community co-design needs before selecting a small first set of [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/). The existing 24-module list is a candidate inventory, not a publication promise or sequence.
 - Decide which candidates should be learner modules, educator background, workshops, technical demonstrations, educator-curated Module 4 resources, aliases/merged modules, or retired topics.
 - Define module-level competencies, observable criteria, prerequisites, instructional sequence, supported practice, assessment evidence, safety boundaries, and certification implications before drafting learner-facing content.
 - Start with bounded clusters rather than importing legacy chapters wholesale: deeper self-custody/privacy/security; payments and Lightning; mining/consensus/transactions; monetary history and economics; open-source/infrastructure; communities and circular economies; or organization-focused study.
 - Keep Bitcoin for Organizations as an Advanced cross-module pathway/capstone, especially business, treasury, institutional custody, risk management, policy, sector impacts, merchant operations, and circular-economy practice. It is not a revived beginner pathway.
 - Require technical, legal/privacy, safety, current-data, and local-context review where a module needs it. Advanced content has a higher maintenance burden for data, provider, regulatory, security, and tool claims.
-- Build a maintenance and translation priority process for Advanced modules before promising ongoing publication.
+- Build a maintenance and translation priority process for [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) before promising ongoing publication.
 
 ## 6. Community needs that sit outside the Diploma curriculum project
 

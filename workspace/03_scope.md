@@ -53,7 +53,7 @@ The following assumptions affect project execution:
 - Working architecture: 4 modules—Problem: Understanding Money; Solution: How Bitcoin Works; Action: Using Bitcoin Safely; and Connect: Bitcoin in Your Community—delivered in a competency-preserving schedule rather than fixed two-hour classes. The educator-curated Connect module links the shared learning to a local need, comparison, safe task, and responsible next step.
 - Educator-facilitated delivery in person or online.
 - Low-tech, offline-capable print/PDF instructional materials, with no app access required for learning, assessment, completion, or certification.
-- One four-module Diploma. Advanced Learning is outside the Diploma.
+- One four-module Diploma. [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) is outside the Diploma.
 - Four-module Diploma, educator-curated Modules 3–4, and Advanced boundary rules.
 - Shared core learning and competencies in Modules 1–2, with educator-adapted practical learning in Modules 3–4 and an educator-curated required Module 4 Connect experience.
 - English-first drafting with multilingual and translation-ready source files.
@@ -219,11 +219,11 @@ Reduce unnecessary cognitive load.
 
 ### Purpose
 
-Separate Advanced Learning from beginner learning.
+Separate [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) from beginner learning.
 
 ### Deliverables
 
-- Advanced module title inventory guided by `17_advanced.md`
+- [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) title inventory guided by `17_advanced.md`
 - Advanced pathway recommendations guided by the candidate module titles in `17_advanced.md`
 - Organizations-to-Advanced source trail using the Organizations material parked in `17_advanced.md`
 - Technical content recommendations
@@ -375,7 +375,7 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 - Before / after comparison
 - 4-module visual brief
 - Public call-to-action language
-- Backup notes for assessment, certification, and Advanced Modules
+- Backup notes for assessment, certification, and [Advanced Modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/)
 
 ### Completion Criteria
 
@@ -384,7 +384,7 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 - The Bitcoin in Your Community module is explained as the educator-curated, locally grounded **Connect** stage of the Problem → Solution → Action → Connect learning arc.
 - Activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) and the Educator Guide are presented as essential ecosystem components.
 - Assessment and certification are described accurately without overpromising.
-- Advanced module titles are not duplicated outside `17_advanced.md`.
+- [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) titles are not duplicated outside `17_advanced.md`.
 
 ---
 

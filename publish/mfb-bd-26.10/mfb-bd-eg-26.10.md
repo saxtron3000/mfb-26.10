@@ -480,13 +480,13 @@ ASSET: assets/briefs/bd-v-087-brief.md
 USE: Educator-only diagram; see the asset index brief.
 -->
 
-### Four-module Diploma and Advanced boundaries
+### Four-module Diploma and Advanced Learning boundaries
 
 **The Diploma** follows the four-stage learning arc **Problem → Solution → Action → Connect**. **Modules 1–2** develop the Problem and Solution through explanation, comparison, and reasoning. **Module 3** develops safe Action. **Module 4** is the educator-curated Connect stage, where learners link the shared learning to a local need or opportunity, realistic alternative, safe performance, and responsible next step.
 
 **Module 4** is required Diploma learning, curated by educators as the local subject-matter experts. The scenario or tool may change, but every learner seeking certification must meet `C7` through a local activity that covers the purpose of `C7.1` and `C7.2`.
 
-**Advanced** is optional follow-on learning beyond the Diploma. Detailed [mining](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work), transaction mechanics, Lightning operations, [multisignature](https://programs.myfirstbitcoin.org/lexicon/en/#multisignature-multisig) design, institutional [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody), organizational treasury, regulation, accounting, tax, compliance, investment analysis, policy, and deep technical topics do not belong in the required beginner experience.
+[Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) is optional follow-on learning beyond the Diploma. Detailed [mining](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work), transaction mechanics, Lightning operations, [multisignature](https://programs.myfirstbitcoin.org/lexicon/en/#multisignature-multisig) design, institutional [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody), organizational treasury, regulation, accounting, tax, compliance, investment analysis, policy, and deep technical topics do not belong in the required beginner experience.
 
 <!-- VISUAL: BD-V-003
 ALT: All four Diploma modules form the required learning arc; locally selected Connect learning remains required and Advanced learning lies beyond the Diploma.
@@ -1161,7 +1161,7 @@ If using the [gold standard](https://programs.myfirstbitcoin.org/lexicon/en/#gol
 - state the location and historical scope;
 - present [Executive Order 6102](https://programs.myfirstbitcoin.org/lexicon/en/#executive-order-6102) as a specific United States example;
 - present 1971 as an important marker in international dollar-to-gold [convertibility](https://programs.myfirstbitcoin.org/lexicon/en/#convertibility), not the origin of all [fiat money](https://programs.myfirstbitcoin.org/lexicon/en/#fiat-money); and
-- route detailed monetary history to Advanced Learning.
+- route detailed monetary history to [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
 
 ### Fiat money and the local system
 
@@ -2301,7 +2301,7 @@ Use a comparison that separates payment path from [custody](https://programs.myf
 | [Custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) | Can be custodial or self-custodial | Can be custodial or self-custodial |
 | Main beginner check | Correct address, network, amount, fee, and [confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation) | Correct invoice or destination, amount, expiry, fee, and payment result |
 
-Lightning is not a separate coin. A successful Lightning payment does not prove the wallet is safe for a larger balance. Channel operation, routing infrastructure, and [liquidity](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-liquidity) management are Advanced Learning outside the Diploma.
+Lightning is not a separate coin. A successful Lightning payment does not prove the wallet is safe for a larger balance. Channel operation, routing infrastructure, and [liquidity](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-liquidity) management are [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) outside the Diploma.
 
 <!-- VISUAL: BD-V-050
 ALT: Bitcoin base-layer settlement and Lightning are related payment paths with different requests, timing, fees, and failure conditions; either wallet path can involve custody.
@@ -3469,7 +3469,7 @@ Use the [Lexicon](../mfb-lx-26.10-sg-index.md) for full definitions. Keep these 
 
 - [ ] I can explain the four-module narrative and learner promises.
 - [ ] I reviewed every required assessed competency, its competency criteria, and its evidence type.
-- [ ] I know that all four modules are required Diploma learning, how I may adapt **Module 3** and curate **Module 4**, and what belongs to Advanced Learning.
+- [ ] I know that all four modules are required Diploma learning, how I may adapt **Module 3** and curate **Module 4**, and what belongs to [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
 - [ ] I reviewed the [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) where useful and selected activities for a clear competency rather than entertainment alone.
 - [ ] I prepared a review and bridge for every module.
 

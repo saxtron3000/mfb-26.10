@@ -667,7 +667,7 @@ The external reviews now support several design principles while leaving the exa
 ## Decisions That Should Wait
 
 1. Detailed certificate governance and verification implementation.
-2. Final Advanced module competencies.
+2. Final [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) competencies.
 3. A final claim that eight hours is sufficient for the complete required Diploma competency set.
 4. Final passing thresholds, scoring rules, retries, access arrangements, and accommodations within the approved two-component model.
 5. Public effectiveness, behavioural, adoption, or financial-outcome claims until supported by an appropriate evaluation.

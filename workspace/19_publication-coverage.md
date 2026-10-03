@@ -14,7 +14,7 @@ The 2026.10 set is a framework-first publication. It includes the teaching and a
 - Existing legacy activity procedures are candidates for review and adaptation, not automatically approved assessment tasks or global tool recommendations.
 - Activities involving live tools, videos, accounts, wallets, personal devices, real funds, or secrets require the low-tech, privacy, safety, and current-content checks in `10_activities.md`, `12_educator-plan.md`, and `16_spec.md` before delivery.
 - The optional app question data is learner-owned self-review only. It does not provide evidence for assessment, certification, educator tracking, or a pass/fail result.
-- Advanced modules are on a post-launch release track for November–December 2026. They are not part of the beginner Diploma release; `17_advanced.md` is the planning inventory and source trail until each module is approved for release.
+- [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) are on a post-launch release track for November–December 2026. They are not part of the beginner Diploma release; `17_advanced.md` is the planning inventory and source trail until each module is approved for release.
 
 ## Diploma publication set
 

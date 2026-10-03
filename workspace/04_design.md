@@ -56,7 +56,7 @@ The current working design direction is:
 - educator-facilitated delivery in person or online;
 - minimum 8-hour delivery pathway, including required teaching and assessment, with additional time whenever learners need it and no upper limit;
 - working architecture of four modules—Understanding Money, How Bitcoin Works, Using Bitcoin Safely, and Bitcoin in Your Community—rather than fixed two-hour classes;
-- single four-module Diploma, with educator-curated local practice in Modules 3–4 and Advanced Modules outside the Diploma;
+- single four-module Diploma, with educator-curated local practice in Modules 3–4 and [Advanced Modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) outside the Diploma;
 - four-module Diploma / educator-curated Modules 3–4 / Advanced content boundaries;
 - English-first drafting followed by explicit simplicity, tone, style, and translation-readiness review;
 - practical learning increased substantially;
@@ -692,7 +692,7 @@ Use `03_scope.md` for workstreams, milestones, deliverables, publishing, and com
 
 Use `06_plan.md` for active structure, content boundaries, and legacy migration.
 
-Use `17_advanced.md` for Advanced module titles, follow-on pathway ideas, and parked legacy content.
+Use `17_advanced.md` for [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) titles, follow-on pathway ideas, and parked legacy content.
 
 Use `16_spec.md` for publication, QR code, source-of-truth, and delivery-output rules.
 
@@ -713,6 +713,6 @@ Public communication should emphasize:
 - Educators receive better tools and clearer facilitation support.
 - Communities gain local relevance through the Bitcoin in Your Community module.
 - Spending can be included as local practice, but Module 4 is broader than spending.
-- Advanced Modules remain available without overloading beginners.
+- [Advanced Modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) remain available without overloading beginners.
 
 The design story should avoid excessive internal terminology. Use concrete contrasts such as long to short, dense to clear, lecture-heavy to active, centralized design to educator choice, and one document to learning ecosystem.

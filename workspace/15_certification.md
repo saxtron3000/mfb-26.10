@@ -53,7 +53,7 @@ The certificate confirms a shared beginner standard in:
 
 It does not represent attendance alone, advanced mastery, professional competence, or endorsement of a particular financial decision.
 
-Certification for the beginner Diploma must not imply competence in high-stakes custody, organizational treasury, institutional custody, legal, tax, accounting, compliance, investment, policy, or business implementation. Those areas belong to Advanced Modules or separate professional review.
+Certification for the beginner Diploma must not imply competence in high-stakes custody, organizational treasury, institutional custody, legal, tax, accounting, compliance, investment, policy, or business implementation. Those areas belong to [Advanced Modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) or separate professional review.
 
 ---
 

@@ -63,7 +63,7 @@ The central conclusion:
 
 The Diploma does not primarily suffer from a lack of content. It suffers from weak learning architecture, unclear boundaries, inconsistent timing, and inconsistent educator support.
 
-The review of the retiring Bitcoin for Organizations pathway reinforces this conclusion. Its strongest beginner contribution is not additional chapters, but sharper examples for CBDCs, digital scarcity, double spending, verification, public-ledger privacy, misconception discussion, and local payment scenarios. Most strategic, organizational, financial, policy, legal, and sector-specific material should remain outside the beginner Diploma and be preserved for Advanced Modules.
+The review of the retiring Bitcoin for Organizations pathway reinforces this conclusion. Its strongest beginner contribution is not additional chapters, but sharper examples for CBDCs, digital scarcity, double spending, verification, public-ledger privacy, misconception discussion, and local payment scenarios. Most strategic, organizational, financial, policy, legal, and sector-specific material should remain outside the beginner Diploma and be preserved for [Advanced Modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
 
 ---
 

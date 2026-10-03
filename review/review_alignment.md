@@ -61,7 +61,7 @@ The following is the repository inventory verified on 2026-09-25. It includes ev
 | `public/`, `public/assets/` | Public briefs, presentation sources, and their public asset location; inspect affected materials and paths when public claims or releases are in scope. |
 | `publish/` | Publication implementation evidence; never treat it as the authority when it conflicts with `workspace/`. |
 | `publish/mfb-act-26.10/` | Activity publications. |
-| `publish/mfb-adv-26.10/` | Advanced Learning publications, outside the required Diploma pathway. |
+| `publish/mfb-adv-26.10/` | [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) publications, outside the required Diploma pathway. |
 | `publish/mfb-bd-26.10/` | Bitcoin Diploma publications, including the Student Guide, Educator Guide, Assessment Grid, lexicon, and question set. |
 | `publish/mfb-ml-26.10/` | Optional microlearning self-check publication and question data. |
 | `review/`, `review/runs/` | Review controls, findings, provenance, and dated run records; neither is a curriculum authority. |
@@ -132,7 +132,7 @@ Do not rewrite charter terms or imply that a curriculum review grants network me
 
 ## Prompt 6: Check architecture, scope, and content ownership
 
-Verify the four-stage Problem → Solution → Action → Connect sequence and all four required modules. **Module 4: Bitcoin in Your Community** is educator-selected and locally relevant, with required `C11` evidence. It connects prior learning to a real local need or opportunity, a realistic alternative, safe practice, and a responsible next step. Advanced Learning is outside the Diploma.
+Verify the four-stage Problem → Solution → Action → Connect sequence and all four required modules. **Module 4: Bitcoin in Your Community** is educator-selected and locally relevant, with required `C11` evidence. It connects prior learning to a real local need or opportunity, a realistic alternative, safe practice, and a responsible next step. [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) is outside the Diploma.
 
 Keep learner prose in the Student Guide; facilitation in the Educator Guide; detailed activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/); educator records in the Assessment Grid; and planning support in the workspace. Avoid duplicating authorities or embedding production notes in publications.
 

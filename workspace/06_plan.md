@@ -7,12 +7,12 @@ This is the source of truth for the current Bitcoin Diploma redesign structure.
 It defines:
 
 - the 4-module architecture;
-- what belongs in the complete four-module Diploma, how educators adapt Modules 3–4 within it, and what belongs in Advanced Learning;
+- what belongs in the complete four-module Diploma, how educators adapt Modules 3–4 within it, and what belongs in [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/);
 - how legacy content is being migrated;
 - how in-class time should be used;
 - which documents own detailed implementation work.
 
-`10_activities.md` defines activity boundaries, quality requirements, and release priorities; detailed activities are available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/). Detailed facilitation guidance belongs in the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md); `12_educator-plan.md` is the supporting structure plan. The detailed competency framework and observable criteria belong in `05_competencies.md`. App question-bank structure belongs in `14_microlearning-plan.md`. Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use belong in `17_advanced.md`.
+`10_activities.md` defines activity boundaries, quality requirements, and release priorities; detailed activities are available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/). Detailed facilitation guidance belongs in the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md); `12_educator-plan.md` is the supporting structure plan. The detailed competency framework and observable criteria belong in `05_competencies.md`. App question-bank structure belongs in `14_microlearning-plan.md`. [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) ideas, follow-on pathway notes, and redacted legacy content for later use belong in `17_advanced.md`.
 
 `06_plan.md` is the active plan source of truth. The older duplicated plan file has been archived at `../y_archive/y_13_plan_superseded.md`.
 
@@ -28,7 +28,7 @@ Current design commitments:
 - low-tech, offline-capable print/PDF instructional content, with no app, device, or connectivity requirement for learning, assessment, completion, or certification;
 - a minimum 8-hour delivery pathway that includes required teaching, practice, assessment, feedback, and recording, with no upper limit when learners need more time;
 - 4 modules that may be delivered in four two-hour sessions, eight one-hour sessions, or another schedule that gives learners appropriate time and preserves the learning sequence and required evidence;
-- all four required Diploma modules, with educator-adapted practical learning in Modules 3–4 and Advanced Learning outside the Diploma;
+- all four required Diploma modules, with educator-adapted practical learning in Modules 3–4 and [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) outside the Diploma;
 - shared Modules 1–2 core learning, with educator-adapted Module 3 practice and educator-curated Module 4 Connect practice;
 - English-first drafting with simplicity, tone, style, terminology, and translation-readiness review before translation or publication;
 - practical learning in every module;
@@ -197,7 +197,7 @@ Migration summary:
 | Diploma Module 2 | decentralized currency search, Bitcoin origin, Bitcoin benefits | Keep beginner Bitcoin purpose and properties. |
 | Diploma Module 3 | wallet use, receiving, sending, verification, selected technical orientation | Keep practical use and safety material. |
 | Diploma **Module 4: educator-curated Connect** | daily-life Bitcoin use, local tools, Lightning payments, local spending | Move into educator-curated workshops and demonstrations within the Diploma. |
-| Advanced | deeper psychology, detailed mining, mempool, detailed transactions, philosophy, future scenarios | Move into Advanced Modules or educator background. |
+| Advanced | deeper psychology, detailed mining, mempool, detailed transactions, philosophy, future scenarios | Move into [Advanced Modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) or educator background. |
 
 Split decisions:
 
@@ -324,7 +324,7 @@ Template Module 4 variants should include:
 
 ## Advanced
 
-Advanced module ideas, follow-on pathway notes, and redacted legacy content for later use are collected in `17_advanced.md`.
+[Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) ideas, follow-on pathway notes, and redacted legacy content for later use are collected in `17_advanced.md`.
 
 Advanced competencies are ongoing and should be designed module by module after the redesigned beginner Diploma is published.
 
@@ -412,7 +412,7 @@ Educator preparation, timing, adaptation, misconception support, and debrief gui
 | Two-part assessment prerequisite for certification and governance questions | `15_certification.md` |
 | Diploma overview for collaborators and stakeholders | `16_spec.md` |
 | Organizations merge decisions and Advanced source trail | `17_advanced.md` |
-| Advanced module ideas and redacted content collection | `17_advanced.md` |
+| [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) ideas and redacted content collection | `17_advanced.md` |
 | Public keynote and stakeholder brief | `../public/MFB-BD-Keynote.md` |
 
 ---
@@ -466,7 +466,7 @@ The redesign still needs decisions on:
 - the available [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) for batch production after educator confirmation, plus optional future verification methods such as privacy-preserving on-chain timestamping, without changing educator-issued certification;
 - low-connectivity delivery assumptions;
 - pilot and educator review process;
-- Advanced module competencies and sequencing, tracked in `17_advanced.md`.
+- [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) competencies and sequencing, tracked in `17_advanced.md`.
 
 ---
 

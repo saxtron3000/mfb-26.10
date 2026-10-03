@@ -14,8 +14,8 @@ Use this checklist to confirm that each destination opens and is the correct res
 
 |              | SG | EG | QS | LEX | AL | TRH | APP | PROGRAMS | HTB | ETP | SURV | FEED | NETWORK | LEAD | JOURNEY | SURVEY | DONATE |
 |--------------|:--:|:--:|:--:|:---:|:--:|:---:|:---:|:--------:|:---:|:---:|:----:|:----:|:-------:|:----:|:-------:|:------:|:------:|
-| SG           | X  |    |    |     |    |     |     |          |     |     |      |      |         |      |         |        |        |
-| EG           |    | X  |    |     |    |     |     |          |     |     |      |      |         |      |         |        |        |
+| SG           | X  |    |    |     | X  |     |     |          |     |     |      |      |         |      |         |        |        |
+| EG           |    | X  |    |     | X  |     |     |          |     |     |      |      |         |      |         |        |        |
 | QS           |    |    | X  |     |    |     |     |          |     |     |      |      |         |      |         |        |        |
 | LEX          |    |    |    | X   |    |     |     |          |     |     |      |      |         |      |         |        |        |
 | AL           |    |    |    |     | X  |     |     |          |     |     |      |      |         |      |         |        |        |
@@ -34,7 +34,7 @@ Use this checklist to confirm that each destination opens and is the correct res
 
 Repeated destinations share a row. Source locations list every occurrence; repeated line numbers mean multiple occurrences on that line. Original row IDs are retained. Line numbers may shift after edits.
 
-This index contains 27 destinations on `myfirstbitcoin.org` and its subdomains, plus the project GitHub repository. Lexicon definition anchors are maintained separately in the Lexicon files and are excluded from this index. See [external and other links](links-external.md) for the remaining destinations.
+This index contains 28 destinations on `myfirstbitcoin.org` and its subdomains, plus the project GitHub repository. Lexicon definition anchors are maintained separately in the Lexicon files and are excluded from this index. See [external and other links](links-external.md) for the remaining destinations.
 
 ## Review instructions
 
@@ -82,6 +82,7 @@ This index contains 27 destinations on `myfirstbitcoin.org` and its subdomains, 
 | W039 | Official contribution form | [https://forms.myfirstbitcoin.org/](https://forms.myfirstbitcoin.org/) | QS: 76 | Pending | Added 2026-10-01; review the form audience and purpose. |
 | W040 | Educator Quick Start | [https://programs.myfirstbitcoin.org/programs/educator-quick-start/](https://programs.myfirstbitcoin.org/programs/educator-quick-start/) | EG: 8 | Pending | Replaced the previous Quick Start URL on 2026-10-01; review the destination. |
 | W041 | Certificate Tool | [https://tools.myfirstbitcoin.org/certificate](https://tools.myfirstbitcoin.org/certificate) | EG: 3341, 3374, 3511; `00_index`: 36, 102; `03_scope`: 66, 256; `06_plan`: 256, 436, 466; `07_contents`: 103; `08_assets`: 218; `12_educator-plan`: 385; `13_assessment`: 173, 227; `15_certification`: 91, 121, 159; `16_spec`: 198; `19_publication-coverage`: 9, 24 | Pending | Added 2026-10-01. This educator tool prepares participation or completion certificates in batches after the educator has confirmed eligibility; it is not a central assessment, issuance, or verification service. |
+| W042 | Advanced Modules | [https://curriculum.myfirstbitcoin.org/programs/advanced-modules/](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) | SG: 222, 228, 1128, 1366; EG: 483, 489, 1164, 2304, 3472 | Pending | Added 2026-10-02; supplied canonical destination for optional Advanced follow-on learning. |
 
 ## Shared activity footer links
 

@@ -71,7 +71,7 @@ In this Diploma, a **learner** studies, discusses, practises, and provides obser
 - Flexible delivery models: one-day, four-day, or eight-day
 - In-person delivery or online delivery using low-tech, offline-capable print/PDF content where needed
 - What to cut when time is short
-- What to move to Advanced Modules
+- What to move to [Advanced Modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/)
 - How to reserve time for required assessment
 
 ### Managing The Minimum 8-Hour Pathway
@@ -215,7 +215,7 @@ Each misconception entry should include:
 - beginner-safe answer;
 - one discussion prompt;
 - what not to overclaim;
-- source trail for Advanced Learning.
+- source trail for [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
 
 Recommended entries:
 
@@ -408,11 +408,11 @@ The 2026.10 publication is framework first. Before certificated delivery, the ed
 
 ## 7. Legacy Content Migration Guidance
 
-- Use the legacy table-of-contents migration notes in `06_plan.md` to decide whether old content belongs in the shared core, an educator-adapted Module 3 option, an educator-curated Module 4 option within the Diploma, or Advanced Learning.
-- Use `17_advanced.md` to decide whether Organizations material supports the beginner Diploma, educator-adapted Module 3 practice, an educator-curated Module 4 option, activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), the Educator Guide, or Advanced Learning, and to park deeper technical, economic, philosophical, or future-facing material for later Advanced modules.
+- Use the legacy table-of-contents migration notes in `06_plan.md` to decide whether old content belongs in the shared core, an educator-adapted Module 3 option, an educator-curated Module 4 option within the Diploma, or [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
+- Use `17_advanced.md` to decide whether Organizations material supports the beginner Diploma, educator-adapted Module 3 practice, an educator-curated Module 4 option, activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), the Educator Guide, or [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/), and to park deeper technical, economic, philosophical, or future-facing material for later [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
 - Do not treat old `OUT` markings as deletion when the same item has an educator-curated Module 4 or Advanced destination.
 - Keep Module 3 technical material practical: use it only to support safer self-custody, verification, and transaction responsibility.
-- Split topics carefully when needed: beginner concepts may stay in the Diploma while deeper analysis moves to Advanced Learning.
+- Split topics carefully when needed: beginner concepts may stay in the Diploma while deeper analysis moves to [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
 - Treat sats, wallet recovery, seed phrase testing, address verification, scam awareness, and beginner acquisition-pathway risk as clarified Diploma concepts.
 - Place daily-life Lightning wallet setup, local spending, and merchant scenarios in Bitcoin in Your Community unless the local delivery plan requires them earlier.
 - Use educator-curated Module 4 tasks for local money examples, local inequality or debt discussions, local resource maps, circular economies, and real tools used by the community.

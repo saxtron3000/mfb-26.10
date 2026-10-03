@@ -2,18 +2,18 @@
 
 ## Purpose
 
-This file is the active holding place for future Advanced module work connected to the Bitcoin Diploma redesign.
+This file is the active holding place for future [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) work connected to the Bitcoin Diploma redesign.
 
 It collects:
 
-- Advanced module title ideas;
+- [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) title ideas;
 - follow-on pathway ideas;
 - content moved out of the shorter beginner Diploma;
 - technical, economic, philosophical, and practical material that should not be lost;
 - legacy source trails from the 2026.04 Diploma and reference chapters;
 - future module seeds, activity seeds, research notes, and open design questions.
 
-The Advanced modules are not part of the current beginner Diploma publication work. Their post-launch release is planned for November–December 2026. Preparatory editorial work may continue, but it must not pull time, scope, or complexity back into the beginner Diploma pathway.
+The [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) are not part of the current beginner Diploma publication work. Their post-launch release is planned for November–December 2026. Preparatory editorial work may continue, but it must not pull time, scope, or complexity back into the beginner Diploma pathway.
 
 For now, this file preserves ideas and source material so the shorter Diploma can stay concise without deleting useful material.
 
@@ -30,7 +30,7 @@ This is not part of the finished beginner curriculum. It remains the planning in
 Use this file as a collection point for material that may later become:
 
 - optional extensions;
-- separate Advanced modules;
+- separate [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/);
 - educator background;
 - technical demonstration workshops;
 - follow-on courses;
@@ -39,7 +39,7 @@ Use this file as a collection point for material that may later become:
 
 ## Timing Rule
 
-The beginner Diploma remains the priority through its launch. Prepare Advanced modules for their planned November–December 2026 release without pulling time, scope, or complexity back into the Diploma pathway.
+The beginner Diploma remains the priority through its launch. Prepare [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) for their planned November–December 2026 release without pulling time, scope, or complexity back into the Diploma pathway.
 
 ## Preservation Rule
 
@@ -49,7 +49,7 @@ Place it here with enough context to recover it later:
 
 - topic;
 - source file;
-- likely Advanced module;
+- likely [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/);
 - reason it was moved outside the Diploma;
 - notes for future use.
 
@@ -75,7 +75,7 @@ The absence of a topic from `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md` does no
 
 `06_plan.md` remains the source of truth for the active beginner redesign structure, including the **Problem → Solution → Action → Connect** learning arc. The educator-curated Connect module completes the beginner Diploma; it is not a route for importing Advanced scope.
 
-`17_advanced.md` is the source of truth for Advanced module ideas, title inventory, source trails, and parked content.
+`17_advanced.md` is the source of truth for [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) ideas, title inventory, source trails, and parked content.
 
 ---
 
@@ -227,14 +227,14 @@ These are pathway ideas, not final product names.
 Reading rule:
 
 - `ADVANCED` means old content becomes Advanced pathway material.
-- `OUT` does not mean deletion when the same item is assigned to an educator-curated Module 4 variant within the Diploma or Advanced Learning.
-- No reviewed section should be treated as out-only deletion without checking whether the content belongs in an educator-curated Module 4 variant within the Diploma or Advanced Learning.
+- `OUT` does not mean deletion when the same item is assigned to an educator-curated Module 4 variant within the Diploma or [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
+- No reviewed section should be treated as out-only deletion without checking whether the content belongs in an educator-curated Module 4 variant within the Diploma or [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
 
 Migration summary for Advanced:
 
 | Destination | Legacy content signal | Redesign decision |
 |---|---|---|
-| Advanced | deeper psychology, detailed mining, mempool, detailed transactions, philosophy, future scenarios | Move into Advanced Modules or educator background. |
+| Advanced | deeper psychology, detailed mining, mempool, detailed transactions, philosophy, future scenarios | Move into [Advanced Modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) or educator background. |
 | Advanced | L1 UTXOs; L2 detailed monetary history, protocol mechanics, Lightning operation, and high-security custody | Preserve as module seeds; do not return them to the beginner Diploma. |
 
 Split decisions:
@@ -244,7 +244,7 @@ Split decisions:
 - Transaction concepts stay in the Diploma only where needed for safe use and verification; detailed models move to Advanced.
 - CBDCs may appear briefly in Module 1 or locally in Module 4; policy and technical depth moves to Advanced.
 - Lightning distinctions may be introduced briefly, but wallet setup and payment practice normally belongs in Module 4.
-- Buying and selling bitcoin may appear in the Diploma as a conceptual risk map, but provider-specific practice belongs in an educator-curated Module 4 variant within the Diploma or Advanced Learning.
+- Buying and selling bitcoin may appear in the Diploma as a conceptual risk map, but provider-specific practice belongs in an educator-curated Module 4 variant within the Diploma or [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
 - Named services, wallets, exchanges, peer-to-peer platforms, and local recommendations should not become global Student Book recommendations.
 
 ### L2 Module Seeds
@@ -303,7 +303,7 @@ Content to preserve:
 - discussion prompts about real-life high and low time preference;
 - connection between fiat inflation, planning, savings behavior, and time preference.
 
-Possible Advanced modules:
+Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
 - Monetary Economics
 - Money & Society
@@ -333,7 +333,7 @@ Content to preserve:
 - scenario analysis using fictional cases, including the possibility of loss, prolonged drawdowns, inability to sell at the desired time, or an investment failing to meet its purpose;
 - the different responsibilities of an individual, a business, a nonprofit, and a professional investment manager when making capital-allocation decisions.
 
-Possible Advanced modules:
+Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
 - Monetary Economics
 - Bitcoin Risk Management and Scenario Planning
@@ -372,7 +372,7 @@ Content to preserve:
 - paper to plastic;
 - credit cards, online banking, e-commerce, and digital money.
 
-Possible Advanced modules:
+Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
 - History of Money (localisation)
 - Monetary Economics
@@ -419,7 +419,7 @@ Content to preserve:
 - inflation, consumerism, social unrest, economic mobility, and wealth concentration;
 - country-specific or local history prompts.
 
-Possible Advanced modules:
+Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
 - Monetary Economics
 - Money & Society
@@ -438,7 +438,7 @@ Avoid presenting one reserve ratio as a universal explanation of money creation.
 
 Reason outside the Diploma:
 
-The Diploma should give a plain-language account of fiat-system problems. Advanced modules can examine policy, institutions, debt dynamics, and social consequences with more precision and context.
+The Diploma should give a plain-language account of fiat-system problems. [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) can examine policy, institutions, debt dynamics, and social consequences with more precision and context.
 
 Fact-check notes:
 
@@ -468,7 +468,7 @@ Content to preserve:
 - CBDC versus Bitcoin comparison;
 - human-rights and civil-liberties implications.
 
-Possible Advanced modules:
+Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
 - Money & Human Rights
 - Monetary Economics
@@ -477,7 +477,7 @@ Possible Advanced modules:
 
 Reason outside the Diploma:
 
-The Diploma may use CBDCs briefly as a fiat-system example. Detailed CBDC policy, surveillance, programmability, and country-specific status belong in Advanced Learning or a educator-curated Module 4 variant.
+The Diploma may use CBDCs briefly as a fiat-system example. Detailed CBDC policy, surveillance, programmability, and country-specific status belong in [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) or a educator-curated Module 4 variant.
 
 Fact-check notes:
 
@@ -510,7 +510,7 @@ Content to preserve:
 - Hashcash, Bit Gold, and other digital-money attempts;
 - the unsolved decentralized digital-currency problem before Bitcoin.
 
-Possible Advanced modules:
+Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
 - History of Bitcoin
 - Communication Networks
@@ -550,7 +550,7 @@ Content to preserve:
 
 A merchant, exchange, or other economically active user that verifies payments with a node is sometimes called an **economic node**. Its influence comes from the economic activity it accepts, not from authority over other participants. Running a node also requires storage, bandwidth, maintenance, and technical attention.
 
-Possible Advanced modules:
+Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
 - Mining & Consensus
 - Infrastructure & Maintenance
@@ -590,7 +590,7 @@ Content to preserve:
 - SHA-256 activity;
 - demo-before-abstraction teaching method.
 
-Possible Advanced modules:
+Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
 - Cryptography
 - Computer Science Fundamentals
@@ -636,7 +636,7 @@ Content to preserve:
 - comparison between property transfer and cash transfer;
 - transaction roles: sender, recipient, miners, node operators.
 
-Possible Advanced modules:
+Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
 - Transactions & Settlement
 - Privacy & Security
@@ -683,7 +683,7 @@ Content to preserve:
 - future fee-revenue importance;
 - hash rate, pools, mining map, and block-space visualization as possible demonstrations.
 
-Possible Advanced modules:
+Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
 - Mining & Consensus
 - Energy & Mining
@@ -721,7 +721,7 @@ Content to preserve:
 - live network observation;
 - low-connectivity alternatives for demonstrations.
 
-Possible Advanced modules:
+Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
 - Transactions & Settlement
 - Mining & Consensus
@@ -768,7 +768,7 @@ Content to preserve:
 - passphrases and the added recovery risk they create;
 - multisig, encrypted-backup trade-offs, and inheritance as future possible additions.
 
-Possible Advanced modules:
+Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
 - Privacy & Security
 - Bitcoin Self-Custody
@@ -777,7 +777,7 @@ Possible Advanced modules:
 
 Reason outside the Diploma:
 
-The Diploma gives beginner orientation and safety rules. Advanced modules can teach operational security, troubleshooting, deeper wallet selection, and high-stakes custody practices.
+The Diploma gives beginner orientation and safety rules. [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) can teach operational security, troubleshooting, deeper wallet selection, and high-stakes custody practices.
 
 Safety notes:
 
@@ -808,7 +808,7 @@ Content to preserve:
 - liquidity, fees, spread, jurisdiction, tax, and record-keeping;
 - local on-ramp and off-ramp mapping.
 
-Possible Advanced modules:
+Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
 - Payments & Exchange
 - Privacy & Security
@@ -859,7 +859,7 @@ Content to preserve:
 - Lightning relay activity;
 - current capacity or throughput claims as fact-check-only material.
 
-Possible Advanced modules:
+Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
 - Lightning Network
 - Payments & Exchange
@@ -869,7 +869,7 @@ Possible Advanced modules:
 
 Reason outside the Diploma:
 
-The Diploma should distinguish on-chain and Lightning at a high-level overview. Detailed Lightning setup, channel management, routing, liquidity, and node operation belong in a educator-curated Module 4 variant or Advanced Learning.
+The Diploma should distinguish on-chain and Lightning at a high-level overview. Detailed Lightning setup, channel management, routing, liquidity, and node operation belong in a educator-curated Module 4 variant or [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
 
 Fact-check notes:
 
@@ -900,7 +900,7 @@ Content to preserve:
 - vouchers, gift cards, and payment cards as transitional tools;
 - BTCMap or equivalent merchant discovery.
 
-Possible Advanced modules:
+Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
 - Bitcoin for Business
 - Payments & Exchange
@@ -939,7 +939,7 @@ Content to preserve:
 - local resource maps;
 - community problem-solving workshops.
 
-Possible Advanced modules:
+Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
 - Communities & Circular Economies
 - Bitcoin Education
@@ -980,7 +980,7 @@ Content to preserve:
 - final reflection on how learner views changed;
 - "what is my next step?" prompts.
 
-Possible Advanced modules:
+Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
 - Philosophy of Bitcoin
 - Money & Human Rights
@@ -1018,7 +1018,7 @@ Content to preserve:
 - project contribution beyond code;
 - maintainers, reviewers, educators, translators, designers, and local contributors.
 
-Possible Advanced modules:
+Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
 - Open Source Software
 - Bitcoin Education
@@ -1047,7 +1047,7 @@ Content to preserve:
 - identity, metadata, and account-control risks;
 - relationship between money, speech, and communication infrastructure.
 
-Possible Advanced modules:
+Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
 - Nostr & Decentralized Communication
 - Communication Networks
@@ -1096,7 +1096,7 @@ This catalog gives every module in the 24-module roadmap a home for the parked m
 
 # 10. Advanced Activity And Demonstration Seeds
 
-These activities may become Advanced modules, educator background, or optional workshops.
+These activities may become [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/), educator background, or optional workshops.
 
 | Activity seed | Possible module | Source |
 |---|---|---|
@@ -1142,7 +1142,7 @@ Every future activity should include:
 
 # 11. Source Trail
 
-Use these source files when future Advanced module work begins.
+Use these source files when future [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) work begins.
 
 ## Active Workspace Sources
 
@@ -1235,14 +1235,14 @@ Bitcoin for Organizations should not remain a separate pathway after the redesig
 Its content should be transformed into:
 
 - a small number of beginner-appropriate additions to the new Diploma, tracked in this file;
-- Advanced module source trails, module seeds, activity seeds, and research notes in this file;
+- [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) source trails, module seeds, activity seeds, and research notes in this file;
 - educator background where the material is useful but not yet student-facing.
 
 Most Organizations content belongs in Advanced because it assumes strategic, operational, financial, policy, technical, or sector-specific reasoning.
 
 ## Advanced Destination Map
 
-| Advanced module destination | Organizations content to merge | Source files | Transformation notes |
+| [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) destination | Organizations content to merge | Source files | Transformation notes |
 |---|---|---|---|
 | Monetary Economics | value, intrinsic value, store of value, monetization sequence, Gresham's Law, monetary premium, inflation, credit, savings behavior, adoption curves, and investment, risk/reward, and capital-allocation frameworks | `2-dispelling-misconceptions/1-bitcoin-has-no-intrinsic-value.md`; `2-dispelling-misconceptions/8-bitcoin-is-not-widely-used-so-is-it-money.md`; `4-impact-on-industry-verticals/2-bitcoin-and-investment-management.md`; `6-adopting-bitcoin/2-the-bitcoin-adoption-cycle.md`; `7-bitcoin-s-possible-future/1-the-potential-future-for-bitcoin.md` | Use as deeper economic reasoning and scenario analysis. Do not prescribe allocations, products, or timing; remove investment-advice tone and date and verify market claims. |
 | History of Bitcoin | Cypherpunks, TCP/IP context, public-key cryptography, DigiCash, Hashcash, BitTorrent, reusable proof of work, B-money, Bit Gold, Satoshi's synthesis | `3-bitcoin-technical-history/`; `6-adopting-bitcoin/1-the-discovery-of-digital-scarcity.md` | Use as a full technical-history module. Beginner Diploma only needs the short timeline. |
@@ -1261,7 +1261,7 @@ Most Organizations content belongs in Advanced because it assumes strategic, ope
 | Nostr & Decentralized Communication | Nostr, decentralized communications, censorship resistance, Lightning integration, marketing/community use, healthcare data examples | `4-impact-on-industry-verticals/5-professional-services.md`; `4-impact-on-industry-verticals/6-government.md`; `7-bitcoin-s-possible-future/4-the-convergence-of-bitcoin-and-ai.md` | Use as a Nostr/decentralized communication bridge. Keep healthcare examples optional and fact-checked. |
 | Communication Networks | TCP/IP, layered protocols, Bitcoin as value-transfer protocol, HTTPS analogy, network effects, peer-to-peer networks, BitTorrent | `3-bitcoin-technical-history/1-the-development-of-tcp-ip.md`; `3-bitcoin-technical-history/5-bittorrent.md`; `2-dispelling-misconceptions/3-bitcoin-is-too-slow-to-be-global-money.md`; `2-dispelling-misconceptions/4-there-s-no-innovation-happening-in-bitcoin.md` | Strong fit. This can bridge technical foundations and public explanation. |
 | Bitcoin Education | misconception handling, learner objections, public communication, beginner versus Advanced boundaries, scenario workshops | `2-dispelling-misconceptions/`; `1-bitcoin-and-risk-management/`; `8-the-bitcoin-economy/1-the-nature-of-bitcoin-s-ledger.md`; `8-the-bitcoin-economy/4-the-pizza-day-transaction.md` | Use for educator training and facilitation practice. |
-| Bitcoin for Organizations | overall strategic pathway, risk management, internal functions, industry verticals, treasury, policy, nonprofit, IT, business adoption | All files in `../ref/bitcoin-for-organizations/en` | Keep as a meta-pathway or capstone, but do not preserve the old course unchanged. Use it as a curated pathway through other Advanced modules. |
+| Bitcoin for Organizations | overall strategic pathway, risk management, internal functions, industry verticals, treasury, policy, nonprofit, IT, business adoption | All files in `../ref/bitcoin-for-organizations/en` | Keep as a meta-pathway or capstone, but do not preserve the old course unchanged. Use it as a curated pathway through other [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/). |
 | Bitcoin for ... (Communities & Populations) | underbanked people, nonprofits, charities, local communities, organizational types, Global South considerations | `7-bitcoin-s-possible-future/3-banking-the-un-der-banked.md`; `4-impact-on-industry-verticals/7-charities-and-not-for-profit-organisations.md`; `4-impact-on-industry-verticals/6-government.md` | Use cautiously with community input. Avoid treating populations as monolithic. |
 | Cryptography | public-key cryptography, hash functions, Merkle trees, elliptic curve signatures, digital signatures, encryption | `3-bitcoin-technical-history/2-public-key-cryptography-and-protocols.md`; `3-bitcoin-technical-history/7-bitcoin.md`; `6-adopting-bitcoin/1-the-discovery-of-digital-scarcity.md` | Strong source material. Keep mathematical depth optional. |
 | Computer Science Fundamentals | protocols, networks, hashes, distributed systems, Byzantine fault, proof of work, peer-to-peer systems, protocol layers | `3-bitcoin-technical-history/`; `6-adopting-bitcoin/1-the-discovery-of-digital-scarcity.md`; `6-adopting-bitcoin/2-the-bitcoin-adoption-cycle.md` | Strong source material. Could be sequenced before Cryptography. |
@@ -1285,7 +1285,7 @@ Source: the Organizations material mapped and preserved in this file.
 
 ## Existing Titles With Little Direct Organizations Content
 
-| Existing Advanced module title | Decision |
+| Existing [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) title | Decision |
 |---|---|
 | History of Money (localisation) | Use only lightly. Organizations adds CBDCs, Global South monetary conditions, debt, and fiat-system scenarios, but it is not primarily a history-of-money source. |
 | Bitcoin for Families | No direct fit. Some self-custody, underbanked, remittance, and local support examples may be adapted later, but not from an organizations angle. |
@@ -1332,7 +1332,7 @@ The earlier signals remain represented in the roadmap:
 
 ## Organizations Publication Guardrails
 
-Before any Organizations material is published in Advanced modules:
+Before any Organizations material is published in [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
 - remove or soften financial, legal, tax, and investment advice language;
 - convert predictions into scenarios or discussion prompts;
@@ -1378,9 +1378,9 @@ These can inform educator preparation, scenario design, or research notes.
 
 # 13. Fact-Check And Publication Warnings
 
-Advanced modules will likely use more current data, named tools, legal context, and technical claims than the beginner Diploma. Treat these as high-maintenance content.
+[Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) will likely use more current data, named tools, legal context, and technical claims than the beginner Diploma. Treat these as high-maintenance content.
 
-Before any Advanced module is published, verify, date, cite, localize, or rewrite:
+Before any [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) is published, verify, date, cite, localize, or rewrite:
 
 - CBDC country counts and country-status claims;
 - debt, inflation, purchasing-power, wage, and productivity statistics;
@@ -1407,17 +1407,17 @@ Evergreen explanations are preferred when current data is not essential.
 Do not resolve these before the beginner Diploma is published unless the answer is required for publication.
 
 - Does the proposed 24-module publication order still fit learner demand, educator capacity, and available review resources after the beginner Diploma is published?
-- Which Advanced modules are learner-facing, educator-facing, or both?
+- Which [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) are learner-facing, educator-facing, or both?
 - Which topics become workshops rather than written modules?
 - Which topics require local legal, tax, privacy, or safety review?
 - Which topics require technical reviewers?
 - Which topics require community co-design?
 - What prerequisites should learners complete before each module?
 - Should the Advanced pathway have levels, such as intermediate and advanced?
-- How should Advanced modules connect to combined knowledge and educator-observed competency assessment and a future Advanced certification standard?
+- How should [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) connect to combined knowledge and educator-observed competency assessment and a future Advanced certification standard?
 - Which older activities should be revived, redesigned, or retired?
 - Which named tools can appear as global examples, and which must remain local?
-- What maintenance process is needed for Advanced modules with current data?
+- What maintenance process is needed for [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) with current data?
 - Which modules should be translated first after publication?
 
 ---

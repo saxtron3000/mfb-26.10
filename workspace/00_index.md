@@ -29,7 +29,7 @@ The official 2026.10 Diploma documents are:
 | Educator Assessment Grid | [`mfb-bd-assessment-grid-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) | Competency-level cohort progress and completion record for educators. |
 | Student Guide lexicon | [`mfb-lx-26.10-sg-index.md`](../publish/mfb-lx-26.10-sg-index.md) | Beginner terminology and definitions. |
 | Educator Guide lexicon | [`mfb-lx-26.10-eg-index.md`](../publish/mfb-lx-26.10-eg-index.md) | Educator-linked terminology and definitions. |
-| Advanced modules | [`mfb-adv-26.10/README.md`](../publish/mfb-adv-26.10/README.md) | Post-launch Advanced release planned for November–December 2026; not part of the beginner Diploma. |
+| [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) | [`mfb-adv-26.10/README.md`](../publish/mfb-adv-26.10/README.md) | Post-launch Advanced release planned for November–December 2026; not part of the beginner Diploma. |
 
 The optional app self-assessment data is maintained in [`mfb-ml-26.10.md`](../publish/mfb-ml-26.10/mfb-ml-26.10.md). It is a voluntary review resource, not assessment evidence.
 
@@ -103,7 +103,7 @@ Detailed activities are available on the [Resources Hub](https://programs.myfirs
 | Official Student Guide lexicon | [`mfb-lx-26.10-sg-index.md`](../publish/mfb-lx-26.10-sg-index.md) |
 | Official Educator Guide lexicon | [`mfb-lx-26.10-eg-index.md`](../publish/mfb-lx-26.10-eg-index.md) |
 | Collaborator and stakeholder overview | [`16_spec.md`](16_spec.md) |
-| Advanced Modules and parked legacy content | [`17_advanced.md`](17_advanced.md) |
+| [Advanced Modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) and parked legacy content | [`17_advanced.md`](17_advanced.md) |
 | Post-release horizon register | [`18_horizon.md`](18_horizon.md) |
 | Alignment review script | [`review_alignment.md`](../review/review_alignment.md) |
 | Style and readability review script | [`review_style.md`](../review/review_style.md) |

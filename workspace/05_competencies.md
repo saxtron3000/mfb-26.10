@@ -51,9 +51,9 @@ Where suitable, an educator may choose a dual-rail payment variant: the learner 
 
 `F1` guided discussion uses clear explanation, relevant evidence, respectful listening, and basic reasoning. `F2` continued-learning reflection invites a learner to explain a reason to continue studying Bitcoin or to remain uncertain, using course concepts and a local, observed, or realistic money experience without an investment claim. These support feedback and do not create result rows.
 
-Advanced learning remains outside the beginner Diploma: exact node and mining mechanics, hash functions and mempool details, Lightning channel operations, advanced hardware-wallet security, organizational treasury and custody, legal, tax, accounting, compliance, investment, and policy implementation. See `17_advanced.md` for the parked pathway and source trail.
+[Advanced learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) remains outside the beginner Diploma: exact node and mining mechanics, hash functions and mempool details, Lightning channel operations, advanced hardware-wallet security, organizational treasury and custody, legal, tax, accounting, compliance, investment, and policy implementation. See `17_advanced.md` for the parked pathway and source trail.
 
-The beginner Diploma emphasizes explaining and applying concepts in guided situations. Simple comparison and evaluation are appropriate with educator support. More demanding creation belongs in an educator-selected local task only when its approved variant includes it, or in Advanced learning.
+The beginner Diploma emphasizes explaining and applying concepts in guided situations. Simple comparison and evaluation are appropriate with educator support. More demanding creation belongs in an educator-selected local task only when its approved variant includes it, or in [Advanced learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
 
 ## Implementation questions
 

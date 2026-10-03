@@ -46,7 +46,7 @@ The official 2026.10 Diploma documents are:
 | [`mfb-bd-assessment-grid-26.10.md`](publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) | Assessment Grid; competency-level cohort progress and completion record. |
 | [`mfb-lx-26.10-sg-index.md`](publish/mfb-lx-26.10-sg-index.md) | Student Guide lexicon; approved beginner terminology and definitions. |
 | [`mfb-lx-26.10-eg-index.md`](publish/mfb-lx-26.10-eg-index.md) | Educator Guide lexicon; educator-linked terminology and definitions. |
-| [`mfb-adv-26.10/README.md`](publish/mfb-adv-26.10/README.md) | Future home of Advanced modules; none is available yet. |
+| [`mfb-adv-26.10/README.md`](publish/mfb-adv-26.10/README.md) | Future home of [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/); none is available yet. |
 
 The `workspace/` documents support the development and maintenance of these official documents. They are planning resources, not learner- or educator-facing curriculum.
 
