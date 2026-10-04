@@ -95,6 +95,7 @@
 ## 7. Back Of Diploma: Next Steps
 
 - A short “What now?” next-steps list
+- A voluntary Diploma exit-survey call to action
 - Optional four-week offline recall
 - A safety reminder
 - Connect with My First Bitcoin

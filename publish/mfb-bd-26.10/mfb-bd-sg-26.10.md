@@ -66,6 +66,10 @@ ALT: Optional download panel for the [My First Bitcoin App](https://myfirstbitco
 ASSET: assets/briefs/bd-v-076-brief.md
 -->
 
+### Register for the Diploma
+
+Your educator may invite you to [register for the Bitcoin Diploma](https://forms.myfirstbitcoin.org/register-student/bd). Registration helps My First Bitcoin offer support and future learning opportunities, and improve the Diploma for learners like you.
+
 ### Why this Diploma exists
 
 Most people use money before they learn how money works. They may earn it, save it, borrow it, and spend it without studying who issues it, how its supply changes, or why its [purchasing power](https://programs.myfirstbitcoin.org/lexicon/en/#purchasing-power) changes.
@@ -1870,6 +1874,10 @@ Complete this review individually, then compare your reasoning with your team or
 ## Next Steps
 
 Every programme and opportunity in this section is optional further learning beyond the Diploma. You do not need to follow any of these links to complete the Diploma.
+
+### Share your Diploma experience
+
+After the course, [complete the Diploma exit survey](https://forms.myfirstbitcoin.org/bd-exit-survey). Your feedback helps My First Bitcoin understand your learning experience, measure the Diploma's impact, and keep improving Bitcoin education.
 
 ### Help improve this guide
 

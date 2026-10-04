@@ -58,6 +58,10 @@ You do not need to prepare or teach in isolation. My First Bitcoin supports educ
 
 In this Diploma, a **learner** studies, discusses, practises, and provides observable evidence through explanation and action. An **educator** facilitates the course, protects the learning environment, adds checked local context, provides formative theory feedback, and directly evaluates practical competencies. A **cohort** is the group learning together; smaller teams may complete particular activities. The **Diploma** is the complete learning and assessment program, not only the Student Guide or the accompanying app.
 
+### Learner registration and exit feedback
+
+Educators should invite learners to [register for the Bitcoin Diploma](https://forms.myfirstbitcoin.org/register-student/bd) before or during the first session, and invite them to [complete the Diploma exit survey](https://forms.myfirstbitcoin.org/bd-exit-survey) at the course close. These voluntary forms help My First Bitcoin offer learner support and future opportunities, understand the learning experience and impact of the Diploma, and improve future content. Neither form is an assessment or certification requirement.
+
 ### General Teaching Tips
 
 - Educators should feel allowed to say "not yet" when a student question would pull the class into a complex side topic. This does not shut down curiosity. It protects the structure, timing, and competency criteria of the activity. A useful response is: "That is an important question, but it belongs later. We will come back to it when the timing is right." This helps avoid rabbit-holing students before they have the foundation to address the question safely.
