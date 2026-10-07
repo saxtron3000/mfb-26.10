@@ -17,8 +17,8 @@ This revised report applies a hard scope boundary: only documents stored in `pub
 
 The review inspected all 47 files contained in `publish/`:
 
-- all five core files in `publish/mfb-bd-26.10/`: Student Guide, Educator Guide, Quick Start, Assessment Grid, and Lexicon;
-- all 30 activity files in `publish/mfb-act-26.10/`;
+- all five core files in `publish/mfb-bd-26.10/`: Student Guide, Educator Guide, Quick Start, Assessment Grid, and Lexicon
+- all 30 activity files in `publish/mfb-act-26.10/`
 - the Advanced README and all eight Advanced module files in `publish/mfb-adv-26.10/`; and
 - the optional self-check Markdown source and both CSV exports in `publish/mfb-ml-26.10/`.
 

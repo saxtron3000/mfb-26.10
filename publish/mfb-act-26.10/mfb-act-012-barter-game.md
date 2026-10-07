@@ -59,7 +59,7 @@ Why could some participants trade and others not? Was the macaroni round easier?
 
 ## Notes
 
-**Diploma assessment link:** May provide the individual-response context for [`T1` / `C1`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show). Use the approved protocol and record an individual explanation and comparison; otherwise, this activity is formative.
+**Bitcoin Diploma assessment link:** May provide the individual-response context for [`T1` / `C1`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show). Use the approved protocol and record an individual explanation and comparison; otherwise, this activity is formative.
 
 ## Additional resources
 

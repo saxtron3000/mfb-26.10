@@ -19,7 +19,7 @@ Before returning, verify the required elements and relationships, factual
 accuracy, readable 458px layout, print safety, and grayscale legibility.
 
 First, choose two things for me and state them at the top of your reply:
-- a short, descriptive title (a few words, e.g. "The Bitcoin Halving");
+- a short, descriptive title (a few words, e.g. "The Bitcoin Halving")
 - a slug derived from the title — lowercase, words joined by single hyphens,
   letters and digits only (e.g. the-halving). Use it everywhere <slug> appears.
 

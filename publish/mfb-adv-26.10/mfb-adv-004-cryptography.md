@@ -10,8 +10,8 @@ Cryptography is a foundation for understanding Bitcoin without trusting it as ma
 
 ## Learners will be able to
 
-- explain the difference between encryption, hashing, and digital signatures;
-- demonstrate how a small change in input creates a different hash;
+- explain the difference between encryption, hashing, and digital signatures
+- demonstrate how a small change in input creates a different hash
 - describe the roles of private keys, public keys, and signatures in authorization; and
 - explain why secure systems rely on both mathematics and careful human practice.
 

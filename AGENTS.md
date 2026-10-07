@@ -26,7 +26,7 @@ For content changes, review the relevant source-of-truth documents, inspect link
 
 ## Coding Style & Naming Conventions
 
-Use Markdown with one `#` title, descriptive `##` sections, short paragraphs, and sentence-case headings. Use repository-relative links and lowercase, numbered filenames for ordered curriculum modules (for example, `workspace/07_contents.md`). Preserve the current terminology: use “module” for each of the four required Diploma sections and describe Module 4 as educator-selected and locally relevant. Draft in English first and keep wording simple and translation-ready.
+Use Markdown with one `#` title, descriptive `##` sections, short paragraphs, and sentence-case headings. Use repository-relative links and lowercase, numbered filenames for ordered curriculum modules (for example, `workspace/07_contents.md`). In bulleted lists, use no terminal punctuation for individual words or phrases; use periods only for complete sentences. In numbered lists, end each step with a period. Preserve the current terminology: use “module” for each of the four required Diploma sections and describe Module 4 as educator-selected and locally relevant. Draft in English first and keep wording simple and translation-ready.
 
 Microlearning is available only to a defined pilot group through a restricted-access My First Bitcoin App pilot. It is not a normal Diploma learning resource and must not be required, assigned, linked, or used as assessment or certification evidence. Do not mention it in the Student Guide or Educator Guide, include a download call to action, or create or place an app QR asset in current-release materials. Generic references to wallet apps or other applications keep their ordinary wording.
 

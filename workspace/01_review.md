@@ -8,10 +8,10 @@ This document reviews the existing Bitcoin Diploma.
 
 It identifies:
 
-- what currently works;
-- what creates friction;
-- what should be preserved;
-- what current problems need to be addressed elsewhere in the redesign documentation.
+- what currently works
+- what creates friction
+- what should be preserved
+- what current problems need to be addressed elsewhere in the redesign documentation
 
 This is a diagnostic document.
 
@@ -35,35 +35,35 @@ The existing Bitcoin Diploma has strong foundations.
 
 Its major strengths are:
 
-- recognizable educational identity;
-- accessible messaging;
-- serious treatment of Bitcoin;
-- grassroots adaptability;
-- social learning;
-- thematic consistency;
-- practical orientation;
-- logical progression from foundational concepts toward more advanced ideas.
+- recognizable educational identity
+- accessible messaging
+- serious treatment of Bitcoin
+- grassroots adaptability
+- social learning
+- thematic consistency
+- practical orientation
+- logical progression from foundational concepts toward more advanced ideas
 
 Its major weaknesses are:
 
-- unclear and excessive duration;
-- inconsistent pacing;
-- broad and sometimes vague scope;
-- weak measurable competencies;
-- weak competency mapping;
-- insufficient structured review;
-- educator support limitations;
-- technical overload for beginners in some sections;
-- unclear delivery assumptions;
-- localization challenges;
-- multilingual source-readiness gaps;
-- publication and link-fragility risks.
+- unclear and excessive duration
+- inconsistent pacing
+- broad and sometimes vague scope
+- weak measurable competencies
+- weak competency mapping
+- insufficient structured review
+- educator support limitations
+- technical overload for beginners in some sections
+- unclear delivery assumptions
+- localization challenges
+- multilingual source-readiness gaps
+- publication and link-fragility risks
 
 The central conclusion:
 
-The Diploma does not primarily suffer from a lack of content. It suffers from weak learning architecture, unclear boundaries, inconsistent timing, and inconsistent educator support.
+The Bitcoin Diploma does not primarily suffer from a lack of content. It suffers from weak learning architecture, unclear boundaries, inconsistent timing, and inconsistent educator support.
 
-The review of the retiring Bitcoin for Organizations pathway reinforces this conclusion. Its strongest beginner contribution is not additional chapters, but sharper examples for CBDCs, digital scarcity, double spending, verification, public-ledger privacy, misconception discussion, and local payment scenarios. Most strategic, organizational, financial, policy, legal, and sector-specific material should remain outside the beginner Diploma and be preserved for [Advanced Modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
+The review of the retiring Bitcoin for Organizations pathway reinforces this conclusion. Its strongest beginner contribution is not additional chapters, but sharper examples for CBDCs, digital scarcity, double spending, verification, public-ledger privacy, misconception discussion, and local payment scenarios. Most strategic, organizational, financial, policy, legal, and sector-specific material should remain outside the beginner Bitcoin Diploma and be preserved for [Advanced Modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
 
 ---
 
@@ -71,16 +71,16 @@ The review of the retiring Bitcoin for Organizations pathway reinforces this con
 
 ## 2.1 Strong Educational Identity
 
-The Diploma presents a coherent educational worldview.
+The Bitcoin Diploma presents a coherent educational worldview.
 
 This creates:
 
-- consistency;
-- recognizability;
-- memorability;
-- narrative cohesion.
+- consistency
+- recognizability
+- memorability
+- narrative cohesion
 
-The identity of the Diploma is one of its strongest assets.
+The identity of the Bitcoin Diploma is one of its strongest assets.
 
 ## 2.2 Accessible Messaging
 
@@ -90,7 +90,7 @@ Concepts are frequently connected to real-world experiences and situations that 
 
 ## 2.3 Conviction
 
-The Diploma treats Bitcoin as a serious subject worthy of study.
+The Bitcoin Diploma treats Bitcoin as a serious subject worthy of study.
 
 It avoids excessive corporate, institutional, or neutral educational language.
 
@@ -98,7 +98,7 @@ This helps differentiate the program from many generic financial literacy course
 
 ## 2.4 Practical Orientation
 
-The Diploma includes practical pathways into Bitcoin usage and participation.
+The Bitcoin Diploma includes practical pathways into Bitcoin usage and participation.
 
 Learners are not limited to theory.
 
@@ -106,28 +106,28 @@ However, practical content is not yet consistently structured as skill developme
 
 ## 2.5 Global and Grassroots Format
 
-The Diploma is adaptable to community-led and grassroots environments.
+The Bitcoin Diploma is adaptable to community-led and grassroots environments.
 
 It does not depend heavily on expensive infrastructure or institutional systems.
 
 This supports:
 
-- independent educators;
-- local communities;
-- open-source educational use;
-- non-institutional delivery.
+- independent educators
+- local communities
+- open-source educational use
+- non-institutional delivery
 
 ## 2.6 Social Learning Environment
 
-The Diploma is not designed solely as a self-study resource.
+The Bitcoin Diploma is not designed solely as a self-study resource.
 
 It encourages:
 
-- discussion;
-- reflection;
-- participation;
-- collaborative learning;
-- dialogue.
+- discussion
+- reflection
+- participation
+- collaborative learning
+- dialogue
 
 These are significant strengths that contribute to learner engagement.
 
@@ -141,7 +141,7 @@ This creates a stronger overall narrative than a disconnected set of lessons.
 
 ## 2.8 Logical Progression
 
-The Diploma generally moves from foundational concepts toward more advanced concepts.
+The Bitcoin Diploma generally moves from foundational concepts toward more advanced concepts.
 
 This progression supports learner orientation and demonstrated competency.
 
@@ -157,11 +157,11 @@ Timing expectations are unclear and appear to vary across delivery contexts.
 
 This affects:
 
-- completion;
-- pacing;
-- student commitment;
-- educator planning;
-- consistency between cohorts.
+- completion
+- pacing
+- student commitment
+- educator planning
+- consistency between cohorts
 
 ## 3.2 Pacing Ambiguity
 
@@ -173,36 +173,36 @@ This makes it difficult for educators to judge what is realistic.
 
 ## 3.3 Broad and Vague Scope
 
-The Diploma covers many domains simultaneously:
+The Bitcoin Diploma covers many domains simultaneously:
 
-- economics;
-- history;
-- technology;
-- philosophy;
-- practical Bitcoin usage.
+- economics
+- history
+- technology
+- philosophy
+- practical Bitcoin usage
 
 This breadth is part of the program’s richness, but it creates scope ambiguity.
 
 ## 3.4 Blurred Disciplinary Boundaries
 
-The Diploma frequently moves between:
+The Bitcoin Diploma frequently moves between:
 
-- economics;
-- history;
-- technology;
-- philosophy;
-- practical Bitcoin usage.
+- economics
+- history
+- technology
+- philosophy
+- practical Bitcoin usage
 
 The boundaries between these domains are not always clear.
 
 As a result, learners may struggle to distinguish between:
 
-- facts;
-- interpretation;
-- opinion;
-- technical explanation;
-- philosophical discussion;
-- practical instruction.
+- facts
+- interpretation
+- opinion
+- technical explanation
+- philosophical discussion
+- practical instruction
 
 ## 3.5 Weak Learning Competencies
 
@@ -214,10 +214,10 @@ This makes it harder to define what learners should know, explain, or be able to
 
 There is not yet a strong visible relationship between:
 
-- lessons;
-- activities;
-- competencies;
-- observable learner actions.
+- lessons
+- activities
+- competencies
+- observable learner actions
 
 Assessment evidence is addressed separately in `13_assessment.md`.
 
@@ -227,10 +227,10 @@ The current decentralized delivery model does not yet provide enough common evid
 
 Risks include:
 
-- attendance or participation being treated as completion;
-- recall being mistaken for demonstrated competency;
-- practical activities occurring without structured evaluation;
-- educators applying different standards;
+- attendance or participation being treated as completion
+- recall being mistaken for demonstrated competency
+- practical activities occurring without structured evaluation
+- educators applying different standards
 - app or checklist completion being treated as proof of practical ability; and
 - certificates communicating inconsistent levels of achievement.
 
@@ -238,11 +238,11 @@ The redesign should connect every assessed competency to appropriate evidence. T
 
 ## 3.7 Lack of Measurable Competencies
 
-The current Diploma makes it difficult to determine:
+The current Bitcoin Diploma makes it difficult to determine:
 
-- learner mastery;
-- learner progress;
-- competency achievement.
+- learner mastery
+- learner progress
+- competency achievement
 
 A measurable competency framework belongs in `05_competencies.md` and `13_assessment.md`.
 
@@ -258,14 +258,14 @@ The Educator Guide has not consistently provided enough added value beyond the S
 
 Educators need more support for:
 
-- pacing;
-- facilitation;
-- questioning;
-- activities;
-- misconceptions;
-- review;
-- classroom management;
-- adaptation.
+- pacing
+- facilitation
+- questioning
+- activities
+- misconceptions
+- review
+- classroom management
+- adaptation
 
 The work required to redesign the Educator Guide belongs in `03_scope.md`.
 
@@ -275,29 +275,29 @@ Some technical content appears to exceed beginner prerequisites.
 
 This may increase cognitive load without proportionate learner benefit.
 
-Bitcoin for Organizations contains useful technical-history and misconception material, but it also demonstrates the overload risk. The beginner Diploma should use only short, explanatory fragments such as digital scarcity, the double-spend problem, and the role balance among users, nodes, miners, and developers. Protocol history, cryptography, governance, organizational risk, treasury, and sector analysis belong in Advanced or educator background.
+Bitcoin for Organizations contains useful technical-history and misconception material, but it also demonstrates the overload risk. The beginner Bitcoin Diploma should use only short, explanatory fragments such as digital scarcity, the double-spend problem, and the role balance among users, nodes, miners, and developers. Protocol history, cryptography, governance, organizational risk, treasury, and sector analysis belong in Advanced or educator background.
 
 ## 3.11 Delivery Mode Ambiguity
 
-It is not always clear whether the Diploma assumes:
+It is not always clear whether the Bitcoin Diploma assumes:
 
-- in-person delivery;
-- offline print or PDF delivery;
-- online delivery;
-- online cohort delivery;
-- self-paced learning;
-- hybrid delivery.
+- in-person delivery
+- offline print or PDF delivery
+- online delivery
+- online cohort delivery
+- self-paced learning
+- hybrid delivery
 
 Delivery model definition belongs in `03_scope.md`.
 
 ## 3.12 Localization Challenges
 
-The Diploma is globally oriented, but some content is not yet easy to adapt to different:
+The Bitcoin Diploma is globally oriented, but some content is not yet easy to adapt to different:
 
-- economies;
-- cultures;
-- education systems;
-- technological contexts.
+- economies
+- cultures
+- education systems
+- technological contexts
 
 Localization preparation belongs in `03_scope.md`.
 
@@ -305,23 +305,23 @@ Localization preparation belongs in `03_scope.md`.
 
 Practical content exists, but it is not consistently structured as:
 
-- demonstration;
-- supported practice;
-- independent application.
+- demonstration
+- supported practice
+- independent application
 
 The practical learning redesign belongs in `03_scope.md`.
 
 ## 3.14 Multilingual Source Readiness
 
-The Diploma is intended for global use, but the active source files must be designed for translation rather than treated as an English-first PDF that may be translated later.
+The Bitcoin Diploma is intended for global use, but the active source files must be designed for translation rather than treated as an English-first PDF that may be translated later.
 
 Risks include:
 
-- inconsistent terminology;
-- culturally narrow examples;
-- idioms that do not translate cleanly;
-- unclear boundaries between translation and localization;
-- missing language notes for difficult Bitcoin, money, custody, and safety terms.
+- inconsistent terminology
+- culturally narrow examples
+- idioms that do not translate cleanly
+- unclear boundaries between translation and localization
+- missing language notes for difficult Bitcoin, money, custody, and safety terms
 
 Multilingual design belongs in `04_design.md`, `03_scope.md`, and `16_spec.md`.
 
@@ -337,30 +337,30 @@ The collaborator and stakeholder overview belongs in `16_spec.md`. Keep producti
 
 # 4. Review Conclusions
 
-The existing Diploma should be treated as a strong foundation, not a failed product.
+The existing Bitcoin Diploma should be treated as a strong foundation, not a failed product.
 
 Its value lies in:
 
-- identity;
-- accessibility;
-- seriousness;
-- social learning;
-- grassroots adaptability;
-- practical orientation;
-- conceptual progression.
+- identity
+- accessibility
+- seriousness
+- social learning
+- grassroots adaptability
+- practical orientation
+- conceptual progression
 
 Its limitations lie in:
 
-- structure;
-- pacing;
-- measurable competencies;
-- competency mapping;
-- educator support;
-- review systems;
-- beginner technical load;
-- delivery assumptions.
-- multilingual readiness;
-- publication and QR code discipline.
+- structure
+- pacing
+- measurable competencies
+- competency mapping
+- educator support
+- review systems
+- beginner technical load
+- delivery assumptions
+- multilingual readiness
+- publication and QR code discipline
 
 The redesign process should preserve the strengths while solving the structural and pedagogical weaknesses in the appropriate documents.
 
@@ -372,16 +372,16 @@ Organizations-derived material should be treated as a supporting source for this
 
 For public communication, the review can be summarized in three plain-language findings:
 
-1. The Diploma has strong identity and value, but the learning path has become too long and dense for many beginner contexts.
-2. The Diploma contains enough valuable material for a wider learning ecosystem, but not all of it belongs in the beginner pathway.
-3. Educators need stronger support, clearer timing, and better activity tools to deliver the Diploma consistently.
+1. The Bitcoin Diploma has strong identity and value, but the learning path has become too long and dense for many beginner contexts.
+2. The Bitcoin Diploma contains enough valuable material for a wider learning ecosystem, but not all of it belongs in the beginner pathway.
+3. Educators need stronger support, clearer timing, and better activity tools to deliver the Bitcoin Diploma consistently.
 
 Public before / after framing:
 
 | Current Friction | Redesign Response |
 |---|---|
 | Long and dense pathway | 8-hour 4-module beginner pathway |
-| Beginner and advanced material mixed together | four-module Diploma / educator-curated Module 4 within it / Advanced separation |
+| Beginner and advanced material mixed together | four-module Bitcoin Diploma / educator-curated Module 4 within it / Advanced separation |
 | Activities embedded inconsistently | Activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) |
 | Educator support uneven | Educator Guide as facilitation engine |
 | Assessment and certificate meaning vary | Competency-aligned 50% educator-led theoretical and 50% educator-observed practical components, each separately passed |
@@ -397,14 +397,14 @@ This framing should be used in public materials as an internal review finding, n
 
 This document intentionally does not include:
 
-- proposed module architecture;
-- design philosophy for the new Diploma;
-- implementation milestones;
-- project workstreams;
-- detailed deliverables;
-- finalized assessed competencies and observable criteria;
-- assessment methods;
-- certification requirements;
-- publishing plans.
+- proposed module architecture
+- design philosophy for the new Bitcoin Diploma
+- implementation milestones
+- project workstreams
+- detailed deliverables
+- finalized assessed competencies and observable criteria
+- assessment methods
+- certification requirements
+- publishing plans
 
 Those belong in `04_design.md`, `05_competencies.md`, `13_assessment.md`, `15_certification.md`, and `03_scope.md`.

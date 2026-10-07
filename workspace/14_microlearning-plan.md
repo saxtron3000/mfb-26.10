@@ -2,9 +2,9 @@
 
 ## Scope
 
-This document defines a minimal, learner-owned self-assessment quiz for the restricted-access My First Bitcoin App pilot. It is internal pilot material, not a normal Diploma learning resource and not Student Guide or Educator Guide content.
+This document defines a minimal, learner-owned self-assessment quiz for the restricted-access My First Bitcoin App pilot. It is internal pilot material, not a normal Bitcoin Diploma learning resource and not Student Guide or Educator Guide content.
 
-The quiz is deliberately separate from formal Diploma assessment. It is learner-owned by design, so its results cannot be used for certification, passing decisions, educator tracking, or evidence that a learner has completed a practical skill.
+The quiz is deliberately separate from formal Bitcoin Diploma assessment. It is learner-owned by design, so its results cannot be used for certification, passing decisions, educator tracking, or evidence that a learner has completed a practical skill.
 
 # Restricted-pilot minimum viable product
 
@@ -27,7 +27,7 @@ Create one learner-owned **12-question** self-assessment quiz. It helps learners
 
 The pilot app supports one plain-text, single-choice question with two to six choices and one correct answer. This MVP specifies four choices for every question. It can show one optional plain-text explanation after an answer and reveal the correct answer, but that explanation is the same whether the learner was correct or incorrect. It cannot show answer-specific, correct-specific, or incorrect-specific feedback.
 
-Questions in one quiz appear on the same screen. The pilot item format does not support images, audio, video, links, rich text, teaching cards, or a multi-screen explanation–scenario–question–feedback flow. A review reference may therefore name the relevant Diploma section, but should not depend on the pilot app rendering a clickable link.
+Questions in one quiz appear on the same screen. The pilot item format does not support images, audio, video, links, rich text, teaching cards, or a multi-screen explanation–scenario–question–feedback flow. A review reference may therefore name the relevant Bitcoin Diploma section, but should not depend on the pilot app rendering a clickable link.
 
 The displayed score and the learner-selected completion status are local to the learner's device and are not evidence of learning. Completion is score-independent. Closing and reopening a quiz restarts it, so learners can retry, but answers, attempts, and scores are not retained or shared.
 
@@ -41,17 +41,17 @@ Use supportive result messages such as:
 
 - “You showed a strong result on this quick self-check. Keep building your Bitcoin knowledge.”
 - “Good progress. Review the topics highlighted in your answers, then try again.”
-- “Every question is a chance to learn. Revisit the relevant Diploma sections and try the quiz again.”
+- “Every question is a chance to learn. Revisit the relevant Bitcoin Diploma sections and try the quiz again.”
 
 ## Review checklist
 
 Before a question enters the pilot quiz, confirm that it:
 
-- uses exactly four answer options and has one clear best answer;
-- links learners to a Diploma topic they can actually review;
-- includes one plain-language explanation that is useful whether the learner was correct or incorrect, plus a clear review reference;
-- uses simple, translation-ready language and has been independently checked for accuracy;
-- has a meaningful, stable question key and an identified source-language version before translation;
+- uses exactly four answer options and has one clear best answer
+- links learners to a Bitcoin Diploma topic they can actually review
+- includes one plain-language explanation that is useful whether the learner was correct or incorrect, plus a clear review reference
+- uses simple, translation-ready language and has been independently checked for accuracy
+- has a meaningful, stable question key and an identified source-language version before translation
 - does not give financial, legal, tax, accounting, compliance, or investment advice; and
 - does not request or expose seed phrases, private keys, personal financial data, or identifying information.
 
@@ -59,7 +59,7 @@ Before a question enters the pilot quiz, confirm that it:
 
 Everything below this heading is not required for the restricted pilot. It preserves the larger content bank, question-type ideas, and feature requests for later planning. Do not treat it as a pilot-build requirement.
 
-Use simple, translation-ready English. Keep the Diploma Bitcoin-only, educational, and free from financial, legal, tax, accounting, compliance, or investment advice. Do not turn a named wallet, exchange, tool, or local service into a global recommendation.
+Use simple, translation-ready English. Keep the Bitcoin Diploma Bitcoin-only, educational, and free from financial, legal, tax, accounting, compliance, or investment advice. Do not turn a named wallet, exchange, tool, or local service into a global recommendation.
 
 ---
 
@@ -105,9 +105,9 @@ Themes: everyday uses of money, trust, value, exchange, and personal observation
 Question-bank opportunities:
 
 - reflection: “What makes something useful as money in everyday life?”
-- sorting: distinguish a use of money from a non-monetary use;
-- short response: describe a time when exchanging goods directly would be difficult;
-- multiple choice: identify an example of a medium of exchange.
+- sorting: distinguish a use of money from a non-monetary use
+- short response: describe a time when exchanging goods directly would be difficult
+- multiple choice: identify an example of a medium of exchange
 
 ## BD-ML-B01-T02: Why money exists
 
@@ -115,9 +115,9 @@ Themes: exchange, coordination, shared acceptance, and reducing the difficulty o
 
 Question-bank opportunities:
 
-- multiple choice: choose the problem money helps solve;
-- matching: money function to everyday example;
-- scenario: identify why two people may struggle to barter;
+- multiple choice: choose the problem money helps solve
+- matching: money function to everyday example
+- scenario: identify why two people may struggle to barter
 - reflection: “What would become harder if people could not use money?”
 
 ## BD-ML-B01-T03: Functions and properties of money
@@ -126,10 +126,10 @@ Themes: medium of exchange, unit of account, store of value, divisibility, porta
 
 Question-bank opportunities:
 
-- matching: function or property to definition;
-- multiple select: choose properties that make an item easier to use as money;
-- ranking: compare two hypothetical monies using stated properties;
-- short response: explain one property that matters in a local payment situation.
+- matching: function or property to definition
+- multiple select: choose properties that make an item easier to use as money
+- ranking: compare two hypothetical monies using stated properties
+- short response: explain one property that matters in a local payment situation
 
 ## BD-ML-B01-T04: Barter and the double coincidence of wants
 
@@ -137,8 +137,8 @@ Themes: barter limits, matching wants, time, and indirect exchange.
 
 Question-bank opportunities:
 
-- scenario multiple choice: identify the missing coincidence of wants;
-- ordering: arrange a simple barter chain and identify where it fails;
+- scenario multiple choice: identify the missing coincidence of wants
+- ordering: arrange a simple barter chain and identify where it fails
 - explanation: why can money make exchange easier than barter?
 
 ## BD-ML-B01-T05: Scarcity, time preference, and opportunity cost
@@ -147,8 +147,8 @@ Themes: limited resources, choices, trade-offs, present and future preferences.
 
 Question-bank opportunities:
 
-- scenario: identify the opportunity cost of a choice;
-- multiple choice: choose the best example of scarcity;
+- scenario: identify the opportunity cost of a choice
+- multiple choice: choose the best example of scarcity
 - reflection: “What trade-off might a person consider when choosing between using something now and saving it for later?”
 
 ## BD-ML-B01-T06: From barter to modern money
@@ -157,9 +157,9 @@ Themes: monetary history, changing forms of money, trust, and the Nixon Shock as
 
 Question-bank opportunities:
 
-- timeline ordering: barter, commodity money, banknotes, modern fiat money;
-- date question: identify the year of the Nixon Shock (1971) and explain its relevance in a short historical overview;
-- matching: historical monetary form to a characteristic;
+- timeline ordering: barter, commodity money, banknotes, modern fiat money
+- date question: identify the year of the Nixon Shock (1971) and explain its relevance in a short historical overview
+- matching: historical monetary form to a characteristic
 - reflection: how can the form of money change while its functions remain important?
 
 ## BD-ML-B01-T07: Fiat money and money-system roles
@@ -168,10 +168,10 @@ Themes: fiat money, central banks, commercial banks, governments, and citizens; 
 
 Question-bank opportunities:
 
-- vocabulary: define fiat money in plain language;
-- matching: participant to simplified role;
-- multiple choice: identify a statement that distinguishes fiat money from bitcoin;
-- scenario: trace a simplified money-system interaction without implying a universal local rule.
+- vocabulary: define fiat money in plain language
+- matching: participant to simplified role
+- multiple choice: identify a statement that distinguishes fiat money from bitcoin
+- scenario: trace a simplified money-system interaction without implying a universal local rule
 
 ## BD-ML-B01-T08: Fractional reserve banking and bank runs
 
@@ -179,10 +179,10 @@ Themes: deposits, lending, liquidity, confidence, and introductory bank-run dyna
 
 Question-bank opportunities:
 
-- diagram label: identify depositors, bank, and withdrawals;
-- multiple choice: identify why many simultaneous withdrawals can create a problem;
-- short response: explain the role of confidence in a bank run;
-- safety note: keep explanations descriptive, not personal financial guidance.
+- diagram label: identify depositors, bank, and withdrawals
+- multiple choice: identify why many simultaneous withdrawals can create a problem
+- short response: explain the role of confidence in a bank run
+- safety note: keep explanations descriptive, not personal financial guidance
 
 ## BD-ML-B01-T09: Inflation and purchasing power
 
@@ -190,9 +190,9 @@ Themes: price changes, purchasing power, money supply context, and effects on ev
 
 Question-bank opportunities:
 
-- number problem: compare what a fixed amount can buy before and after a stated price increase;
-- multiple choice: identify the meaning of purchasing power;
-- chart reading: describe what happens when prices rise faster than income in a hypothetical example;
+- number problem: compare what a fixed amount can buy before and after a stated price increase
+- multiple choice: identify the meaning of purchasing power
+- chart reading: describe what happens when prices rise faster than income in a hypothetical example
 - reflection: “How might changing prices affect planning for a household or community?”
 
 ## BD-ML-B01-T10: CBDCs as digital fiat
@@ -201,8 +201,8 @@ Themes: digital fiat, centralized issuance, and distinctions from decentralized,
 
 Question-bank opportunities:
 
-- compare-and-contrast: CBDC and bitcoin using only stated characteristics;
-- multiple choice: identify the inaccurate claim that all digital money is decentralized;
+- compare-and-contrast: CBDC and bitcoin using only stated characteristics
+- multiple choice: identify the inaccurate claim that all digital money is decentralized
 - reflection: “Which questions would you ask before using any digital form of money?”
 
 ## BD-ML-B01-T11: Module 1 review
@@ -211,9 +211,9 @@ Themes: connections among money functions, barter, fiat systems, inflation, and 
 
 Question-bank opportunities:
 
-- mixed retrieval set;
-- scenario: explain one money problem that could lead people to seek an alternative;
-- confidence check: select a topic to review before Module 2.
+- mixed retrieval set
+- scenario: explain one money problem that could lead people to seek an alternative
+- confidence check: select a topic to review before Module 2
 
 ---
 
@@ -225,8 +225,8 @@ Themes: peer-to-peer electronic cash, trust challenges, monetary problems, and B
 
 Question-bank opportunities:
 
-- short response: explain one problem Bitcoin was designed to address;
-- multiple choice: distinguish a purpose claim from an investment promise;
+- short response: explain one problem Bitcoin was designed to address
+- multiple choice: distinguish a purpose claim from an investment promise
 - reflection: “What would you want to verify before trusting a new form of money?”
 
 ## BD-ML-B02-T02: Search for digital and decentralized money
@@ -235,10 +235,10 @@ Themes: Cypherpunk context, digital-money experiments, and design challenges.
 
 Question-bank opportunities:
 
-- matching: early idea or project to its key contribution;
-- timeline ordering: DigiCash, Hashcash, Bit Gold, B-money, Bitcoin (use reviewed historical dates);
-- multiple choice: identify a recurring challenge for digital money;
-- source note: historical facts must be reviewed and cited before release.
+- matching: early idea or project to its key contribution
+- timeline ordering: DigiCash, Hashcash, Bit Gold, B-money, Bitcoin (use reviewed historical dates)
+- multiple choice: identify a recurring challenge for digital money
+- source note: historical facts must be reviewed and cited before release
 
 ## BD-ML-B02-T03: Double spending and digital scarcity
 
@@ -246,8 +246,8 @@ Themes: copying digital information, double spending, ownership records, and cre
 
 Question-bank opportunities:
 
-- scenario: identify a double-spend attempt;
-- analogy check: distinguish copying a file from transferring a scarce digital unit;
+- scenario: identify a double-spend attempt
+- analogy check: distinguish copying a file from transferring a scarce digital unit
 - short response: why is preventing double spending important?
 
 ## BD-ML-B02-T04: Bitcoin origin timeline
@@ -256,9 +256,9 @@ Themes: whitepaper, Genesis Block, first transaction, and Pizza Day.
 
 Question-bank opportunities:
 
-- date matching: whitepaper (2008), Genesis Block (2009), Pizza Day (2010);
-- timeline ordering: place events in chronological order;
-- multiple choice: identify what the Bitcoin whitepaper introduced;
+- date matching: whitepaper (2008), Genesis Block (2009), Pizza Day (2010)
+- timeline ordering: place events in chronological order
+- multiple choice: identify what the Bitcoin whitepaper introduced
 - reflection: why do origin milestones matter less than being able to explain how the system works today?
 
 ## BD-ML-B02-T05: Decentralization and peer-to-peer transfer
@@ -267,8 +267,8 @@ Themes: distributed participation, no single controller, direct network transfer
 
 Question-bank opportunities:
 
-- multiple choice: identify a decentralized-system characteristic;
-- scenario: compare a centralized service and a peer-to-peer network;
+- multiple choice: identify a decentralized-system characteristic
+- scenario: compare a centralized service and a peer-to-peer network
 - short response: explain decentralization without saying “no rules” or “no responsibility.”
 
 ## BD-ML-B02-T06: Users, nodes, miners, and developers
@@ -277,10 +277,10 @@ Themes: beginner role boundaries and network participation.
 
 Question-bank opportunities:
 
-- matching: role to simplified responsibility;
-- multiple select: identify who can independently verify rules using a plain-language description;
-- misconception check: distinguish running a node, mining, developing software, and using bitcoin;
-- scenario: identify which role is relevant to a stated action.
+- matching: role to simplified responsibility
+- multiple select: identify who can independently verify rules using a plain-language description
+- misconception check: distinguish running a node, mining, developing software, and using bitcoin
+- scenario: identify which role is relevant to a stated action
 
 ## BD-ML-B02-T07: Proof of work
 
@@ -288,10 +288,10 @@ Themes: work, block production, network security, and costly signals in an acces
 
 Question-bank opportunities:
 
-- sequence ordering: simplified proof-of-work process;
-- multiple choice: identify what proof of work helps the network do;
-- short response: explain why “work” is relevant to Bitcoin’s security model;
-- boundary note: detailed mining mechanics belong in Advanced material.
+- sequence ordering: simplified proof-of-work process
+- multiple choice: identify what proof of work helps the network do
+- short response: explain why “work” is relevant to Bitcoin’s security model
+- boundary note: detailed mining mechanics belong in Advanced material
 
 ## BD-ML-B02-T08: Supply, halving, satoshis, and unit bias
 
@@ -299,10 +299,10 @@ Themes: finite supply, 21 million bitcoin, 100 million satoshis per bitcoin, hal
 
 Question-bank opportunities:
 
-- number conversion: convert a stated bitcoin amount to satoshis and vice versa;
-- multiple choice: identify the total supply limit of bitcoin (21 million);
-- date/interval question: identify the approximate halving cycle (about four years), with feedback that the calendar timing varies because halvings occur at block heights;
-- misconception check: owning less than one bitcoin does not prevent use;
+- number conversion: convert a stated bitcoin amount to satoshis and vice versa
+- multiple choice: identify the total supply limit of bitcoin (21 million)
+- date/interval question: identify the approximate halving cycle (about four years), with feedback that the calendar timing varies because halvings occur at block heights
+- misconception check: owning less than one bitcoin does not prevent use
 - reflection: how can units influence the way people think about an amount?
 
 ## BD-ML-B02-T09: Verifiability and sound digital money
@@ -311,9 +311,9 @@ Themes: open verification, predictable supply rules, digital scarcity, and monet
 
 Question-bank opportunities:
 
-- matching: Bitcoin characteristic to the question it helps a user ask;
-- compare: state one similarity and one difference between bitcoin and fiat money;
-- scenario: choose what a learner could verify rather than merely trust;
+- matching: Bitcoin characteristic to the question it helps a user ask
+- compare: state one similarity and one difference between bitcoin and fiat money
+- scenario: choose what a learner could verify rather than merely trust
 - reflection: “Why might independently checking a claim matter?”
 
 ## BD-ML-B02-T10: Personal responsibility bridge
@@ -322,7 +322,7 @@ Themes: responsibility, control, trade-offs, and preparation for self-custody.
 
 Question-bank opportunities:
 
-- scenario: identify when a person is relying on another party versus managing their own access;
+- scenario: identify when a person is relying on another party versus managing their own access
 - reflection: “What responsibilities can come with greater control?”
 - readiness check: identify a question to answer before setting up a wallet.
 
@@ -332,9 +332,9 @@ Themes: purpose, scarcity, roles, supply, and the bridge to action.
 
 Question-bank opportunities:
 
-- mixed quiz with a timeline, role-match, and scenario;
-- one learner explanation prompt for formative educator follow-up;
-- confidence check for Module 3 preparation.
+- mixed quiz with a timeline, role-match, and scenario
+- one learner explanation prompt for formative educator follow-up
+- confidence check for Module 3 preparation
 
 ---
 
@@ -346,8 +346,8 @@ Themes: wallet interfaces, access, balances, transactions, and responsibility.
 
 Question-bank opportunities:
 
-- multiple choice: identify what a wallet does and does not store in a practical introduction;
-- matching: wallet action to purpose;
+- multiple choice: identify what a wallet does and does not store in a practical introduction
+- matching: wallet action to purpose
 - reflection: why should a learner be able to identify key interface details before using it?
 
 ## BD-ML-B03-T02: Addresses, keys, and seed phrases
@@ -356,11 +356,11 @@ Themes: public receiving addresses, private keys, seed phrases, access, and conf
 
 Question-bank opportunities:
 
-- sorting: information that may be shared for receiving versus information that must remain secret;
-- multiple choice: identify the safety-critical item that should never be shared;
-- scenario: choose the safest response to an unexpected request for a seed phrase;
-- short response: explain the difference between an address and a seed phrase;
-- do not ask learners to enter, photograph, or disclose a real seed phrase.
+- sorting: information that may be shared for receiving versus information that must remain secret
+- multiple choice: identify the safety-critical item that should never be shared
+- scenario: choose the safest response to an unexpected request for a seed phrase
+- short response: explain the difference between an address and a seed phrase
+- do not ask learners to enter, photograph, or disclose a real seed phrase
 
 ## BD-ML-B03-T03: Custodial and non-custodial use
 
@@ -368,8 +368,8 @@ Themes: control of keys, responsibility, trade-offs, and third-party reliance.
 
 Question-bank opportunities:
 
-- compare-and-contrast: custodial and non-custodial use;
-- scenario: identify who controls access in a described arrangement;
+- compare-and-contrast: custodial and non-custodial use
+- scenario: identify who controls access in a described arrangement
 - reflection: what support or responsibility trade-offs might matter to a learner?
 
 ## BD-ML-B03-T04: Hot and cold wallets
@@ -378,9 +378,9 @@ Themes: internet connection, access, convenience, and security trade-offs.
 
 Question-bank opportunities:
 
-- matching: hot or cold wallet to a stated characteristic;
-- scenario: identify a relevant trade-off without recommending a particular product;
-- multiple choice: identify the inaccurate claim that one category removes all risk.
+- matching: hot or cold wallet to a stated characteristic
+- scenario: identify a relevant trade-off without recommending a particular product
+- multiple choice: identify the inaccurate claim that one category removes all risk
 
 ## BD-ML-B03-T05: Recovery readiness and seed phrase testing
 
@@ -388,10 +388,10 @@ Themes: recovery process, approved practice conditions, backup safety, and suppo
 
 Question-bank opportunities:
 
-- sequence ordering: safe, educator-selected recovery-readiness steps;
-- multiple choice: identify an unsafe backup practice;
-- scenario: select the right response when a seed phrase may have been exposed;
-- educator flag: practical recovery evidence requires direct observation under `13_assessment.md`.
+- sequence ordering: safe, educator-selected recovery-readiness steps
+- multiple choice: identify an unsafe backup practice
+- scenario: select the right response when a seed phrase may have been exposed
+- educator flag: practical recovery evidence requires direct observation under `13_assessment.md`
 
 ## BD-ML-B03-T06: Receiving bitcoin
 
@@ -399,10 +399,10 @@ Themes: receiving addresses, amount, network selection where relevant, and verif
 
 Question-bank opportunities:
 
-- ordering: prepare to receive a small supported test amount;
-- multiple choice: identify the detail needed to receive on-chain bitcoin;
-- scenario: decide what to verify before sharing a receiving address;
-- educator flag: pilot-app questions prepare for, but do not replace, observed practical evidence.
+- ordering: prepare to receive a small supported test amount
+- multiple choice: identify the detail needed to receive on-chain bitcoin
+- scenario: decide what to verify before sharing a receiving address
+- educator flag: pilot-app questions prepare for, but do not replace, observed practical evidence
 
 ## BD-ML-B03-T07: Sending bitcoin and confirmations
 
@@ -410,11 +410,11 @@ Themes: address verification, amount, introductory fee concepts, irreversible tr
 
 Question-bank opportunities:
 
-- safety checklist: choose required checks before sending;
-- number question: calculate a remaining balance from a stated amount and fee in a fictional example;
-- scenario: identify why an address should be checked carefully;
-- multiple choice: identify what a confirmation indicates in a simple scenario;
-- misconception check: a transaction may be difficult or impossible to reverse once sent.
+- safety checklist: choose required checks before sending
+- number question: calculate a remaining balance from a stated amount and fee in a fictional example
+- scenario: identify why an address should be checked carefully
+- multiple choice: identify what a confirmation indicates in a simple scenario
+- misconception check: a transaction may be difficult or impossible to reverse once sent
 
 ## BD-ML-B03-T08: Block explorers, public ledger, and privacy
 
@@ -422,9 +422,9 @@ Themes: public transaction information, block explorers, privacy trade-offs, and
 
 Question-bank opportunities:
 
-- matching: explorer field to simple meaning;
-- multiple choice: identify what can be publicly visible on a blockchain;
-- scenario: identify a privacy consideration before sharing transaction information;
+- matching: explorer field to simple meaning
+- multiple choice: identify what can be publicly visible on a blockchain
+- scenario: identify a privacy consideration before sharing transaction information
 - reflection: what is the difference between transparency of records and knowing a person’s identity?
 
 ## BD-ML-B03-T09: Safety practices and scams
@@ -433,10 +433,10 @@ Themes: seed phrase protection, address-copy risks, impersonation, urgency, veri
 
 Question-bank opportunities:
 
-- multiple select: identify scam warning signs;
-- scenario: respond safely to an urgent message requesting credentials or a payment;
-- true/false with feedback: no legitimate helper needs a learner’s seed phrase;
-- ordering: pause, verify independently, seek approved support;
+- multiple select: identify scam warning signs
+- scenario: respond safely to an urgent message requesting credentials or a payment
+- true/false with feedback: no legitimate helper needs a learner’s seed phrase
+- ordering: pause, verify independently, seek approved support
 - reflection: “What would make you pause before acting online?”
 
 ## BD-ML-B03-T10: Acquiring and exchanging bitcoin: awareness, not financial advice
@@ -445,8 +445,8 @@ Themes: possible pathways, custody, local variation, risks, and no financial adv
 
 Question-bank opportunities:
 
-- scenario: identify a question to research before using any pathway;
-- sorting: general concept versus named-provider recommendation;
+- scenario: identify a question to research before using any pathway
+- sorting: general concept versus named-provider recommendation
 - reflection: “What local safety, legal, or access question might require educator guidance?”
 
 ## BD-ML-B03-T11: Module 3 review and practical readiness
@@ -455,10 +455,10 @@ Themes: secure access, receiving, sending, checking, recovery readiness, and sca
 
 Question-bank opportunities:
 
-- safety-critical mixed review;
-- scenario branching: identify the next safest action;
-- learner self-check: mark areas needing guided practice;
-- educator flag: pilot-app self-checks can guide review but never substitute for educator-led assessment.
+- safety-critical mixed review
+- scenario branching: identify the next safest action
+- learner self-check: mark areas needing guided practice
+- educator flag: pilot-app self-checks can guide review but never substitute for educator-led assessment
 
 ---
 
@@ -474,7 +474,7 @@ Themes: local discovery, trustworthy learning resources, community support, and 
 
 Question-bank opportunities:
 
-- scenario: choose how to evaluate a local resource without treating it as a global recommendation;
+- scenario: choose how to evaluate a local resource without treating it as a global recommendation
 - reflection: “What makes a community resource trustworthy enough to investigate further?”
 - local directory task: identify a source date and reviewer before publishing any local reference.
 
@@ -484,10 +484,10 @@ Themes: Lightning concepts, invoices, payment flow, and local suitability.
 
 Question-bank opportunities:
 
-- matching: invoice, payment request, and receiving flow;
-- scenario: identify a basic check before paying an invoice;
-- compare: on-chain and Lightning at a high-level overview;
-- boundary note: use only approved, current local content and avoid provider endorsement.
+- matching: invoice, payment request, and receiving flow
+- scenario: identify a basic check before paying an invoice
+- compare: on-chain and Lightning at a high-level overview
+- boundary note: use only approved, current local content and avoid provider endorsement
 
 ## BD-ML-B04-T03: Everyday spending, receiving, earning, and saving scenarios
 
@@ -495,7 +495,7 @@ Themes: practical use cases, choices, trade-offs, and personal context.
 
 Question-bank opportunities:
 
-- scenario: compare payment or receiving options using stated criteria;
+- scenario: compare payment or receiving options using stated criteria
 - reflection: “Which trade-off matters most in this fictional situation, and why?”
 - matching: use case to a relevant consideration such as fees, timing, custody, or access.
 
@@ -505,8 +505,8 @@ Themes: exchanges, peer-to-peer pathways, ATMs, KYC and no-KYC considerations, a
 
 Question-bank opportunities:
 
-- scenario: identify questions a learner should ask about a local pathway;
-- compare: stated privacy, access, custody, and safety trade-offs;
+- scenario: identify questions a learner should ask about a local pathway
+- compare: stated privacy, access, custody, and safety trade-offs
 - reflection: “What information should be verified locally before acting?”
 - safety note: no item should advise a learner to evade laws, policies, or safeguards.
 
@@ -516,8 +516,8 @@ Themes: merchant payments, cross-border payments, nonprofit donations, underbank
 
 Question-bank opportunities:
 
-- case analysis: identify the problem, possible Bitcoin use, and trade-offs;
-- matching: community use case to a relevant operational question;
+- case analysis: identify the problem, possible Bitcoin use, and trade-offs
+- matching: community use case to a relevant operational question
 - reflection: “How could a community test whether a proposed use is genuinely helpful?”
 
 ## BD-ML-B04-T06: Local monetary problems and community problem-solving
@@ -526,8 +526,8 @@ Themes: local context, evidence, claims, limitations, and respectful discussion.
 
 Question-bank opportunities:
 
-- claim/evidence/trade-off prompt;
-- scenario: distinguish a local observation from an unsupported general claim;
+- claim/evidence/trade-off prompt
+- scenario: distinguish a local observation from an unsupported general claim
 - reflection: “What would you need to learn before concluding that Bitcoin is useful for a local problem?”
 
 ## BD-ML-B04-T07: Module 4 review and local competency preparation
@@ -536,10 +536,10 @@ Themes: educator-curated Connect application, trade-offs, safety, realistic alte
 
 Question-bank opportunities:
 
-- local scenario review;
-- learner explanation prompt for formative educator follow-up;
-- confidence check and next-step resource selection;
-- educator flag: the required local practical competency is assessed under `13_assessment.md` and certification eligibility under `15_certification.md`.
+- local scenario review
+- learner explanation prompt for formative educator follow-up
+- confidence check and next-step resource selection
+- educator flag: the required local practical competency is assessed under `13_assessment.md` and certification eligibility under `15_certification.md`
 
 ---
 
@@ -549,7 +549,7 @@ None of these features is required for the October quiz. They are a simple idea 
 
 ## Learning content and question types
 
-- A larger question bank across all four Diploma modules.
+- A larger question bank across all four Bitcoin Diploma modules.
 - Random question selection from a bank.
 - Different quiz versions so learners can revisit content without seeing the same questions every time.
 - Single-choice multiple-choice questions.
@@ -575,7 +575,7 @@ None of these features is required for the October quiz. They are a simple idea 
 - One general correct or incorrect message where answer-specific feedback is not needed.
 - Immediate feedback, delayed feedback, or educator-curated feedback timing.
 - Explanations of why an answer is correct or incorrect.
-- Direct links from feedback to the relevant Diploma section for review.
+- Direct links from feedback to the relevant Bitcoin Diploma section for review.
 - Optional answer reveals after an attempt or after all attempts.
 - Learner confidence checks and suggested next steps.
 - Private self-reflection prompts with no correct answer.
@@ -616,9 +616,9 @@ None of these features is required for the October quiz. They are a simple idea 
 - Cohort-level reporting to identify common learning gaps.
 - Exportable reports in formats such as CSV, spreadsheet, API, PDF, or dashboard.
 
-## Competencies, assessment, and Diploma integration
+## Competencies, assessment, and Bitcoin Diploma integration
 
-- Stable mapping from every question to one or more Diploma competencies or observable criteria.
+- Stable mapping from every question to one or more Bitcoin Diploma competencies or observable criteria.
 - A coverage check showing which competencies and criteria have enough valid learning and question support.
 - Tags for recall, explanation, comparison, application, reflection, safety, practice, and educator follow-up.
 - Tags for module, topic, difficulty, language, location, source, review date, and content owner.

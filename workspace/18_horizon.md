@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document is the post-release horizon register for the Bitcoin Diploma 2026.10 edition. It collects worthwhile work that should be considered **after** the October 2026 beginner-Diploma release, without turning it into an October deliverable or changing the approved beginner boundary.
+This document is the post-release horizon register for the Bitcoin Diploma 2026.10 edition. It collects worthwhile work that should be considered **after** the October 2026 beginner Bitcoin Diploma release, without turning it into an October deliverable or changing the approved beginner boundary.
 
 It is a decision and discovery register, not a commitment, roadmap, product specification, or funding plan. A horizon item needs a future sponsor, owner, scope, success measure, safeguarding review, and delivery decision before work begins.
 
@@ -10,7 +10,7 @@ It is a decision and discovery register, not a commitment, roadmap, product spec
 
 - Keep October release blockers and publication work in `00_todo.md`; do not move unfinished release work here simply to clear a list.
 - Treat the 2026.10 assessment policy as current: educators assess the theoretical and practical components. My First Bitcoin App microlearning is available only to a defined pilot group and cannot be certification evidence.
-- Preserve the complete **Problem → Solution → Action → Connect** four-module Diploma. Do not use a horizon item to add advanced, organization, investment, legal, tax, compliance, or provider-specific instruction to the Diploma.
+- Preserve the complete **Problem → Solution → Action → Connect** four-module Bitcoin Diploma. Do not use a horizon item to add advanced, organization, investment, legal, tax, compliance, or provider-specific instruction to the Bitcoin Diploma.
 - Test changes with real learners and educators before scaling, especially when they affect safety, accessibility, assessment meaning, privacy, localization, or certificate claims.
 - Reconfirm volatile facts, named tools, links, data, and local conditions at the time of any future release.
 
@@ -20,10 +20,10 @@ It is a decision and discovery register, not a commitment, roadmap, product spec
 | --- | --- |
 | Horizon candidate | A useful post-release possibility that needs discovery and prioritization. |
 | Conditional expansion | Do only after a stated dependency or evidence gate is met. |
-| Programme boundary | A valid community need, but outside the Diploma curriculum project. It requires a separately chartered programme, platform, or service. |
-| Not a 2026.10 change | The item must not delay, alter, or be implied by the October beginner-Diploma release. |
+| Programme boundary | A valid community need, but outside the Bitcoin Diploma curriculum project. It requires a separately chartered programme, platform, or service. |
+| Not a 2026.10 change | The item must not delay, alter, or be implied by the October beginner Bitcoin Diploma release. |
 
-## 1. Learn from the released Diploma
+## 1. Learn from the released Bitcoin Diploma
 
 **Status:** Horizon candidate. **First dependency:** release a stable, versioned 2026.10 package and run proportionate pilots.
 
@@ -39,7 +39,7 @@ This cannot be completed before release because it requires a real class. It is 
 - Double-score a planned sample of practical and theoretical evidence to estimate educator agreement. Use results to improve rubrics, examples, calibration, and moderation rather than to punish individual educators.
 - Establish a release-retrospective process: triage findings into correction, routine maintenance, a tested revision candidate, or a separate programme proposal.
 
-Do not claim that the Diploma causes adoption, financial improvement, ideological agreement, or durable behaviour change unless future evidence can support that claim.
+Do not claim that the Bitcoin Diploma causes adoption, financial improvement, ideological agreement, or durable behaviour change unless future evidence can support that claim.
 
 ## 2. Mature assessment, certification, and evaluation governance
 
@@ -59,11 +59,11 @@ Future work may strengthen the system behind a meaningful certificate.
 
 ### Launch checklist
 
-- Maintain a documented pilot cohort, access-control method, pilot owner, support route, feedback route, and withdrawal process; do not turn pilot access into a normal Diploma requirement.
+- Maintain a documented pilot cohort, access-control method, pilot owner, support route, feedback route, and withdrawal process; do not turn pilot access into a normal Bitcoin Diploma requirement.
 - Confirm the public-launch scope, audience, supported regions and languages, ownership, support route, release date, and public status page.
 - Complete factual, editorial, safety, accessibility, privacy, and security review for every learner-facing flow and content item.
 - Test the public destination and store/download routes on supported devices, weak connections, shared devices, and assistive technology before any publication links or QR codes are created.
-- Confirm that no account, device, connectivity, real funds, wallet secret, personal financial information, or app use is required for Diploma learning, assessment, completion, or certification.
+- Confirm that no account, device, connectivity, real funds, wallet secret, personal financial information, or app use is required for Bitcoin Diploma learning, assessment, completion, or certification.
 - Finalize the assessment boundary: app activity, progress, results, and self-report must not become certification evidence or replace educator observation.
 - After public-launch approval, add the learner-facing app link to the Student Guide and Educator Guide, then update the Educator Quick Start, public briefs, link register, asset register, and pilot handoff together; verify every changed link and rendered publication.
 - Create and place `BD-V-076` only after the public download destination is live, readable in print, and tested. Remove its deferral only when all four intended guide placements have approved copy and production checks.
@@ -71,7 +71,7 @@ Future work may strengthen the system behind a meaningful certificate.
 
 ### Content and learner experience
 
-- Start from the published restricted-pilot 12-question package and expand only after it has been reviewed, tested, and approved across all four Diploma modules, including shared Modules 1–2 items, educator-adapted Module 3 items, and educator-curated Module 4 items.
+- Start from the published restricted-pilot 12-question package and expand only after it has been reviewed, tested, and approved across all four Bitcoin Diploma modules, including shared Modules 1–2 items, educator-adapted Module 3 items, and educator-curated Module 4 items.
 - Add stable item IDs, competency links, learning-purpose and difficulty tags, language/source versions, current-claim dates, reviewer status, retirement history, and translation links.
 - Test a wider range of approved formats: multiple-select, matching, ordering, short response, scenario, confidence, reflection, diagrams, audio, video, and multi-screen teaching items.
 - Add answer-specific feedback, review links, learner-controlled retries, randomisation, topic-level review paths, interrupted-attempt recovery, and safety-critical misconception support.
@@ -85,9 +85,9 @@ Future work may strengthen the system behind a meaningful certificate.
 - A future formal app-assessment mode is possible only after tracking, scoring, privacy, accessibility, assessment-integrity, educator workflow, and governance are independently approved. It may never replace required direct observation of practical competence.
 - Never collect seed phrases, private keys, credentials, holdings, unnecessary addresses or transaction histories, or unnecessary personal financial information.
 
-## 4. Maintain, localize, and extend delivery without Diploma drift
+## 4. Maintain, localize, and extend delivery without Bitcoin Diploma drift
 
-**Status:** Horizon candidate. **First dependency:** stable source files, clear version control, and evidence that the released Diploma works as intended.
+**Status:** Horizon candidate. **First dependency:** stable source files, clear version control, and evidence that the released Bitcoin Diploma works as intended.
 
 - Establish a maintenance cycle for factual claims, sources, links, QR destinations, current-data examples, named tools, safety guidance, visual assets, terminology, and repository paths. Prefer evergreen explanations when continual verification would be disproportionate.
 - Replace fragile line-number references with stable IDs or anchors for claims, competencies, observable criteria, visuals, glossary terms, activities, and app items.
@@ -104,14 +104,14 @@ Develop the Lexicon from an alphabetical list of definitions into a navigable kn
 
 A full entry could standardize these fields:
 
-1. term;
-2. part of speech;
-3. definition;
-4. plain-language explanation;
-5. usage or context;
-6. example;
-7. related terms;
-8. see also;
+1. term.
+2. part of speech.
+3. definition.
+4. plain-language explanation.
+5. usage or context.
+6. example.
+7. related terms.
+8. see also.
 9. not to be confused with, where needed; and
 10. source or editorial note, where formal attribution or a terminology decision is needed.
 
@@ -152,15 +152,15 @@ After publication, complete the remaining activity fields and standardize the ac
 
 Build a weekly link-review process from `links/links-internal.md` and `links/links-external.md`, where operationally possible. A bot or agent should run the routine checks, update review metadata, and alert a human owner to broken, redirected, changed, or unverified destinations. The bot or agent must not correct, replace, or remove a link without human approval. A failed optional further-learning link does not block publication, but it requires an important alert and a human-approved solution within 24 hours. Before automation is enabled, define the responsible owner, status fields, notification route, audit history, retry and false-positive handling, and escalation path. Automated availability checks do not replace a human judgement that a destination still suits its linked text, audience, language, safety boundary, and educational purpose.
 
-Links to other My First Bitcoin programmes are optional further-learning pathways beyond the Diploma. They are not required instruction, practice, assessment evidence, or certification conditions. A learner needs the Student Guide, an educator, and the materials and resources that educator specifies for the chosen delivery route; an optional programme link must not become a hidden device or connectivity requirement.
+Links to other My First Bitcoin programmes are optional further-learning pathways beyond the Bitcoin Diploma. They are not required instruction, practice, assessment evidence, or certification conditions. A learner needs the Student Guide, an educator, and the materials and resources that educator specifies for the chosen delivery route; an optional programme link must not become a hidden device or connectivity requirement.
 
-The learner-facing Diploma remains low-tech and offline-capable. This constraint does not mean that educator training must be device-free: participation in the Educator Training Program requires access to a mobile device, a computer, and an internet connection. The Educator Training Program is a more technology-dependent programme and must be presented as distinct from Diploma completion; learner-facing Diploma materials do not need to state those participation requirements beside every ETP link.
+The learner-facing Bitcoin Diploma remains low-tech and offline-capable. This constraint does not mean that educator training must be device-free: participation in the Educator Training Program requires access to a mobile device, a computer, and an internet connection. The Educator Training Program is a more technology-dependent programme and must be presented as distinct from Bitcoin Diploma completion; learner-facing Bitcoin Diploma materials do not need to state those participation requirements beside every ETP link.
 
 The Student Guide may link directly to each selected programme rather than routing learners through a single landing page. The Educator Guide should also provide a more detailed optional-pathways list. Its placement at the back of the guide as an appendix remains an editorial option, not a settled requirement.
 
 ### Community-originated delivery candidates
 
-These are the five suggestions already classified as **Horizon** in `input/COMMUNITY_Suggestions.md`. Test them only after the four-module Diploma delivery route is stable.
+These are the five suggestions already classified as **Horizon** in `input/COMMUNITY_Suggestions.md`. Test them only after the four-module Bitcoin Diploma delivery route is stable.
 
 - An alternate early-Bitcoin entry sequence for learners who arrive specifically for Bitcoin, while preserving the existing money-to-Bitcoin pathway as the shared default.
 - Purpose-built activities and guidance for one-to-one teaching and very small groups.
@@ -170,7 +170,7 @@ These are the five suggestions already classified as **Horizon** in `input/COMMU
 
 ## 5. Design an evidence-led Advanced pathway
 
-**Status:** Not a 2026.10 change. **First dependency:** publish and evaluate the stable beginner Diploma. `17_advanced.md` remains the holding authority for candidate topics.
+**Status:** Not a 2026.10 change. **First dependency:** publish and evaluate the stable beginner Bitcoin Diploma. `17_advanced.md` remains the holding authority for candidate topics.
 
 - Validate demand, educator capacity, prerequisites, reviewer availability, maintenance cost, and community co-design needs before selecting a small first set of [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/). The existing 24-module list is a candidate inventory, not a publication promise or sequence.
 - Decide which candidates should be learner modules, educator background, workshops, technical demonstrations, educator-curated Module 4 resources, aliases/merged modules, or retired topics.
@@ -180,30 +180,30 @@ These are the five suggestions already classified as **Horizon** in `input/COMMU
 - Require technical, legal/privacy, safety, current-data, and local-context review where a module needs it. Advanced content has a higher maintenance burden for data, provider, regulatory, security, and tool claims.
 - Build a maintenance and translation priority process for [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) before promising ongoing publication.
 
-## 6. Community needs that sit outside the Diploma curriculum project
+## 6. Community needs that sit outside the Bitcoin Diploma curriculum project
 
-**Status:** Programme boundary. These 37 suggestions from `input/COMMUNITY_Suggestions.md` are real needs, but they are not post-October curriculum modifications. They need a separate charter, owner, budget, safeguards, and success measures; they must not silently enter the beginner-Diploma backlog.
+**Status:** Programme boundary. These 37 suggestions from `input/COMMUNITY_Suggestions.md` are real needs, but they are not post-October curriculum modifications. They need a separate charter, owner, budget, safeguards, and success measures; they must not silently enter the beginner Bitcoin Diploma backlog.
 
 | Theme | Community suggestions retained for a separate initiative |
 | --- | --- |
-| Learning portfolio and audience programmes | Intro Course/Diploma relationship (33); an intermediate course (34); junior and teen programmes (35); faith-based local adaptations (36); AI translation and multilingual-media infrastructure (37). |
+| Learning portfolio and audience programmes | Intro Course/Bitcoin Diploma relationship (33); an intermediate course (34); junior and teen programmes (35); faith-based local adaptations (36); AI translation and multilingual-media infrastructure (37). |
 | Platform, data, and credential services | Classroom-example submission and feedback (38); post-graduation pathway and digital library (39); trusted directory (40); aggregate dashboards and feedback channels (41); resource and communication-sharing platform (42); app certification safeguards (43); AI assistant/knowledge base/Nostr support agent (44); opportunities or job board (45); app-supported chapter checks and feedback (46); Advanced certification pathway (47). |
 | Educator and learner community support | Regular calls or teacher forum (48); refresher courses, articles, workshops, newsletters, and updates (49); chapter-specific teaching calls (50); post-certification educator network (51); alumni programme (52); graduate follow-up support (53); educator onboarding pathway (54); supervised local-hardware and service workshops (55). |
 | Operations, equipment, and outreach | Printable/editable local kickstart kits (56); teaching-equipment and connectivity guidance (57); sustainability, grants, and in-kind support (58); learner awareness and recruitment support (59); adaptable public communication and disclaimer templates (60); meetup and local-event templates (61). |
 | Network governance, funding, and events | Governance/reputation system (62); safeguards for ranking or gamification (63); funding and donation tools (64); Digital Unconference design (65); local or regional unconference planning (66). |
 | Organization and online-delivery programmes | Advanced merchant and circular-economy support (67); circular-economy documentation and facilitation resources (68); optional online-school delivery platform (69). |
 
-Several of these may eventually connect to the Diploma—especially graduate pathways, educator support, app capabilities, Advanced certification, merchant practice, and online cohorts. Connection alone does not make them curriculum scope. Each should return to this register only when its separate initiative has an approved problem statement and can demonstrate how it preserves learner safety, privacy, local autonomy, and the beginner Diploma boundary.
+Several of these may eventually connect to the Bitcoin Diploma—especially graduate pathways, educator support, app capabilities, Advanced certification, merchant practice, and online cohorts. Connection alone does not make them curriculum scope. Each should return to this register only when its separate initiative has an approved problem statement and can demonstrate how it preserves learner safety, privacy, local autonomy, and the beginner Bitcoin Diploma boundary.
 
 ## 7. Horizon review and prioritization
 
 Review this document after the first release retrospective and thereafter when a new version, delivery branch, or programme proposal is being considered. For each candidate, record:
 
-1. the learner, educator, or community problem and evidence;
-2. the proposed owner, delivery partner, and decision authority;
-3. the intended relationship to the Diploma, if any;
-4. dependencies, including privacy, accessibility, localization, technical, legal, safety, and funding review;
-5. a minimum test and success measures;
+1. the learner, educator, or community problem and evidence.
+2. the proposed owner, delivery partner, and decision authority.
+3. the intended relationship to the Bitcoin Diploma, if any.
+4. dependencies, including privacy, accessibility, localization, technical, legal, safety, and funding review.
+5. a minimum test and success measures.
 6. the versioning and maintenance implications; and
 7. a decision: proceed to discovery, pilot, schedule, retain on horizon, redirect to a separate programme, or retire.
 

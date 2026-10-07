@@ -73,7 +73,7 @@ The nodes check that the candidate classroom block follows the model's rules, in
 
 ## Notes
 
-**Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show). Use the approved protocol and record an individual explanation of validation and double spending; otherwise, this activity is formative.
+**Bitcoin Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show). Use the approved protocol and record an individual explanation of validation and double spending; otherwise, this activity is formative.
 
 ## Additional resources
 

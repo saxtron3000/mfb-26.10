@@ -16,7 +16,7 @@ The 2026.10 curriculum is a framework-first teaching package. Before offering co
 4. Teach the simple rhythm: **explain → ask → practise → debrief → check**. Give learners supported practice before any assessment.
 5. Close each session with a learner explanation, a next step, and a note about what you will revisit.
 
-The Diploma works offline or online. No learner needs a personal device, connectivity, or prior Bitcoin experience to learn or complete the Diploma.
+The Bitcoin Diploma works offline or online. No learner needs a personal device, connectivity, or prior Bitcoin experience to learn or complete the Bitcoin Diploma.
 
 ## The learning path
 
@@ -46,7 +46,7 @@ Teach learners **how to think, not what to think**. Welcome respectful disagreem
 - Use short explanations, discussion, scenarios, demonstrations, practice, and learner explanation. A useful prompt is: “What do you think happens next, and why?”
 - Never request, view, photograph, copy, record, or store a real seed phrase, private key, password, or unnecessary financial information. Use prepared wallets, simulations, printed screens, test environments, or low-stakes practice.
 - Check the recipient, network, address or invoice, amount, and transaction status before sending. Pause when a learner is uncertain, pressured, or exposed to a possible scam.
-- Do not pressure anyone to buy, sell, hold, or use bitcoin. The Diploma provides education—not financial, investment, legal, tax, accounting, compliance, or trading advice.
+- Do not pressure anyone to buy, sell, hold, or use bitcoin. The Bitcoin Diploma provides education—not financial, investment, legal, tax, accounting, compliance, or trading advice.
 - Have a fallback for every digital activity: a printed screen, diagram, physical simulation, spoken walkthrough, or educator demonstration.
 
 ## Assess learning fairly
@@ -71,6 +71,6 @@ Attendance, enthusiasm, independent review, or an ordinary discussion alone are 
 
 ## Pick up the mantle
 
-This redesign gives educators more structure where consistency matters and more room where local wisdom matters. Your careful facilitation turns the Diploma from a book into a shared learning experience: one that helps people think clearly about money, Bitcoin, responsibility, and their own community.
+This redesign gives educators more structure where consistency matters and more room where local wisdom matters. Your careful facilitation turns the Bitcoin Diploma from a book into a shared learning experience: one that helps people think clearly about money, Bitcoin, responsibility, and their own community.
 
-For optional further learning beyond the Diploma, explore the [Educator Training Program](https://etp.myfirstbitcoin.org/) or connect through the [Bitcoin Education Network](https://leaderboard.myfirstbitcoin.org). You can also [share feedback](https://forms.myfirstbitcoin.org/feedback), [submit corrections or translation improvements](https://forms.myfirstbitcoin.org/proofread), share local learning resources through the [official contribution form](https://forms.myfirstbitcoin.org/), or use the open-source [curriculum repository](https://github.com/MyFirstBitcoin/mfb-curriculum) to check current editions and participate in improving the work. None of these links is required for Diploma completion.
+For optional further learning beyond the Bitcoin Diploma, explore the [Educator Training Program](https://etp.myfirstbitcoin.org/) or connect through the [Bitcoin Education Network](https://leaderboard.myfirstbitcoin.org). You can also [share feedback](https://forms.myfirstbitcoin.org/feedback), [submit corrections or translation improvements](https://forms.myfirstbitcoin.org/proofread), share local learning resources through the [official contribution form](https://forms.myfirstbitcoin.org/), or use the open-source [curriculum repository](https://github.com/MyFirstBitcoin/mfb-curriculum) to check current editions and participate in improving the work. None of these links is required for Bitcoin Diploma completion.

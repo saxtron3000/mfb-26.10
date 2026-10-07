@@ -12,19 +12,19 @@ The Bitcoin Diploma is being reorganized, not replaced. The 2026.10 edition pres
 - Community-led delivery with local relevance and shared global competency standards.
 - Serious beginner education that puts safety and understanding before action.
 
-## Why update the Diploma
+## Why update the Bitcoin Diploma
 
-The existing Diploma has valuable foundations. The update gives those foundations a clearer route for beginners and educators:
+The existing Bitcoin Diploma has valuable foundations. The update gives those foundations a clearer route for beginners and educators:
 
-- less unnecessary technical overload and stronger sequencing;
-- more discussion, practice, reflection, and learner explanation;
-- clearer educator support for pacing, safety, adaptation, and assessment;
+- less unnecessary technical overload and stronger sequencing
+- more discussion, practice, reflection, and learner explanation
+- clearer educator support for pacing, safety, adaptation, and assessment
 - a practical local application without treating one community’s tools or circumstances as universal; and
 - clearer separation between required beginner learning and future Advanced study.
 
 ## The learning pathway
 
-The Diploma is a four-module pathway that takes at least eight hours. Eight hours is the shortest planned route, not a maximum; educators take more time whenever learners need it. The advertised route includes teaching, practice, assessment, feedback, and recording.
+The Bitcoin Diploma is a four-module pathway that takes at least eight hours. Eight hours is the shortest planned route, not a maximum; educators take more time whenever learners need it. The advertised route includes teaching, practice, assessment, feedback, and recording.
 
 | Role | Module | Learner focus |
 |---|---|---|
@@ -43,11 +43,11 @@ The arc is **Problem → Solution → Action → Connect**. All four modules are
 - The public My First Bitcoin App launch is postponed, so it is not part of the 2026.10 learner pathway or assessment and certification evidence.
 - A two-part, non-compensatory assessment: 50% educator-evaluated theoretical evidence and 50% educator-observed practical evidence. A certificate requires all seven assessed competencies to meet the required standard in both components. The named educator assesses the learner and issues the certificate; My First Bitcoin does not centrally evaluate, issue, verify, or guarantee learner competency.
 - Wallet choice taught as a decision path: open-source software is preferred where appropriate for transparency, but every option has trade-offs and no wallet is the global recommendation.
-- Advanced technical and specialist topics kept outside the beginner Diploma, where they can be studied with the time and context they require.
+- Advanced technical and specialist topics kept outside the Bitcoin Diploma, where they can be studied with the time and context they require.
 
 ## The payoff
 
-Learners get a coherent, confidence-building introduction to money, Bitcoin, responsibility, and local relevance. Educators get clearer facilitation and assessment tools. Communities get meaningful local adaptation without losing the shared standard that gives the Diploma its value.
+Learners get a coherent, confidence-building introduction to money, Bitcoin, responsibility, and local relevance. Educators get clearer facilitation and assessment tools. Communities get meaningful local adaptation without losing the shared standard that gives the Bitcoin Diploma its value.
 
 ## Public message
 

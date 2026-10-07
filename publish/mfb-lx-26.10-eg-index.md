@@ -48,12 +48,12 @@ Guide traceability was refreshed on 1 October 2026 from the published Educator G
 | [291](mfb-bd-26.10/mfb-bd-eg-26.10.md#purpose) | BD-LEX-179 | **Privacy** | The ability to limit who can collect, see, use, or share information about you, such as your name, contact details, location, and financial activity. When using Bitcoin, this includes limiting how your identity is linked to addresses, balances, and payments. Bitcoin’s public transaction history means privacy is not automatic, and privacy does not mean that all activity is invisible. |
 | [347](mfb-bd-26.10/mfb-bd-eg-26.10.md#quick-start-ten-non-negotiables) | BD-LEX-180 | **Private key** | Secret information that lets a wallet authorize spending; anyone who obtains it may control the funds. |
 | [347](mfb-bd-26.10/mfb-bd-eg-26.10.md#quick-start-ten-non-negotiables) | BD-LEX-197 | **Seed phrase / recovery phrase** | An ordered list of secret words that many wallets use to restore keys. |
-| [359](mfb-bd-26.10/mfb-bd-eg-26.10.md#the-diploma-at-a-glance) | BD-LEX-067 | **Custody** | Control of Bitcoin keys. |
-| [393](mfb-bd-26.10/mfb-bd-eg-26.10.md#the-diploma-purpose-and-your-responsibility) | <a id="BD-LEX-199"></a>BD-LEX-199 | <a id="term-self-custody"></a>**Self-custody** | Control of your own Bitcoin keys rather than leaving them with a service. |
+| [359](mfb-bd-26.10/mfb-bd-eg-26.10.md#the-bitcoin-diploma-at-a-glance) | BD-LEX-067 | **Custody** | Control of Bitcoin keys. |
+| [393](mfb-bd-26.10/mfb-bd-eg-26.10.md#the-bitcoin-diploma-purpose-and-your-responsibility) | <a id="BD-LEX-199"></a>BD-LEX-199 | <a id="term-self-custody"></a>**Self-custody** | Control of your own Bitcoin keys rather than leaving them with a service. |
 | [443](mfb-bd-26.10/mfb-bd-eg-26.10.md#educator-support) | <a id="BD-LEX-058"></a>BD-LEX-058 | <a id="term-community-custody"></a>**Community custody** | A person or group controls bitcoin for others. |
-| [489](mfb-bd-26.10/mfb-bd-eg-26.10.md#four-module-diploma-and-advanced-boundaries) | <a id="BD-LEX-153"></a>BD-LEX-153 | <a id="term-multisignature"></a>**Multisignature (multisig)** | A spending arrangement requiring more than one key or approval. |
-| [489](mfb-bd-26.10/mfb-bd-eg-26.10.md#four-module-diploma-and-advanced-boundaries) | <a id="BD-LEX-182"></a>BD-LEX-182 | <a id="term-mining"></a>**Mining** | The process of competing through proof of work to propose a block. |
-| [489](mfb-bd-26.10/mfb-bd-eg-26.10.md#four-module-diploma-and-advanced-boundaries) | BD-LEX-067 | **Custody** | Control of Bitcoin keys. |
+| [489](mfb-bd-26.10/mfb-bd-eg-26.10.md#four-module-bitcoin-diploma-and-advanced-learning-boundaries) | <a id="BD-LEX-153"></a>BD-LEX-153 | <a id="term-multisignature"></a>**Multisignature (multisig)** | A spending arrangement requiring more than one key or approval. |
+| [489](mfb-bd-26.10/mfb-bd-eg-26.10.md#four-module-bitcoin-diploma-and-advanced-learning-boundaries) | <a id="BD-LEX-182"></a>BD-LEX-182 | <a id="term-mining"></a>**Mining** | The process of competing through proof of work to propose a block. |
+| [489](mfb-bd-26.10/mfb-bd-eg-26.10.md#four-module-bitcoin-diploma-and-advanced-learning-boundaries) | BD-LEX-067 | **Custody** | Control of Bitcoin keys. |
 | [507](mfb-bd-26.10/mfb-bd-eg-26.10.md#open-the-course-with-clear-expectations) | BD-LEX-178 | **Price** | The amount exchanged for a good, service, or asset. |
 | [521](mfb-bd-26.10/mfb-bd-eg-26.10.md#open-the-course-with-clear-expectations) | BD-LEX-180 | **Private key** | Secret information that lets a wallet authorize spending; anyone who obtains it may control the funds. |
 | [521](mfb-bd-26.10/mfb-bd-eg-26.10.md#open-the-course-with-clear-expectations) | BD-LEX-197 | **Seed phrase / recovery phrase** | An ordered list of secret words that many wallets use to restore keys. |
@@ -598,6 +598,5 @@ Guide traceability was refreshed on 1 October 2026 from the published Educator G
 ## Help improve these Lexicon Entries
 
 Share [feedback](https://forms.myfirstbitcoin.org/feedback), [proofread the entries](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
-
 
 

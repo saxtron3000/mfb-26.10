@@ -10,8 +10,8 @@ This module examines custody models, signing devices, seed phrases, backups, pas
 
 ## Learners will be able to
 
-- compare custodial, single-signature, and multisignature custody models;
-- identify recovery, loss, theft, and coercion risks in a fictional scenario;
+- compare custodial, single-signature, and multisignature custody models
+- identify recovery, loss, theft, and coercion risks in a fictional scenario
 - outline a backup and recovery plan without revealing secrets; and
 - explain why a plan should be tested in a safe environment before it is needed.
 

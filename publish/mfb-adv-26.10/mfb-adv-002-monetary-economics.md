@@ -6,12 +6,12 @@ Examine how money, credit, banking, incentives, prices, and time preference inte
 
 ## Purpose
 
-This module develops careful economic reasoning beyond the beginner Diploma. It considers purchasing power, money and credit creation, bank balance sheets, liquidity and solvency, debt, monetary policy, and the distributional questions raised by changing money and credit conditions.
+This module develops careful economic reasoning beyond the beginner Bitcoin Diploma. It considers purchasing power, money and credit creation, bank balance sheets, liquidity and solvency, debt, monetary policy, and the distributional questions raised by changing money and credit conditions.
 
 ## Learners will be able to
 
-- explain key concepts such as opportunity cost, time preference, liquidity, solvency, and purchasing power;
-- read a simplified bank balance sheet and distinguish assets from liabilities;
+- explain key concepts such as opportunity cost, time preference, liquidity, solvency, and purchasing power
+- read a simplified bank balance sheet and distinguish assets from liabilities
 - compare competing explanations for a change in prices or economic conditions; and
 - identify assumptions, evidence limits, and missing information in an economic claim.
 

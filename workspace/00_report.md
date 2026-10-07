@@ -8,9 +8,9 @@
 
 ## TL;DR
 
-The Diploma is substantially more coherent than it was in the earlier review. The four-module story is clear, the Student Guide now covers the previously missing stablecoin/non-Bitcoin comparison and trading/speculation boundary, Module 4 is consistently required but locally adaptable, `B3.11` is explicit, and almost all active files now agree that the app is optional and supplies no certification evidence.
+The Bitcoin Diploma is substantially more coherent than it was in the earlier review. The four-module story is clear, the Student Guide now covers the previously missing stablecoin/non-Bitcoin comparison and trading/speculation boundary, Module 4 is consistently required but locally adaptable, `B3.11` is explicit, and almost all active files now agree that the app is optional and supplies no certification evidence.
 
-It is **not yet ready to publish as a certificated Diploma**. The main issue is no longer missing learner content; it is the gap between a strong curriculum manuscript and an operational, defensible assessment system.
+It is **not yet ready to publish as a certificated Bitcoin Diploma**. The main issue is no longer missing learner content; it is the gap between a strong curriculum manuscript and an operational, defensible assessment system.
 
 Address these items in order:
 
@@ -30,11 +30,11 @@ Address these items in order:
 
 The active index and governing documents currently establish this model:
 
-- four required modules: Understanding Money, How Bitcoin Works, Using Bitcoin Safely, and Bitcoin in Your Community;
-- Modules 1–3 are the shared Core; Module 4 is required Custom work with a locally selected task;
-- educator-facilitated delivery may be in person or online and must support low-tech/offline use;
-- the app is optional self-assessment, recap, and discovery only;
-- theory and practice are both required and non-compensatory;
+- four required modules: Understanding Money, How Bitcoin Works, Using Bitcoin Safely, and Bitcoin in Your Community
+- Modules 1–3 are the shared Core; Module 4 is required Custom work with a locally selected task
+- educator-facilitated delivery may be in person or online and must support low-tech/offline use
+- the app is optional self-assessment, recap, and discovery only
+- theory and practice are both required and non-compensatory
 - educators evaluate approved theoretical evidence and directly observe practical evidence; and
 - the approximately eight-hour pathway is intended to include teaching, practice, assessment, feedback, and recording.
 
@@ -73,16 +73,16 @@ Practical action:
 
 Create one versioned table with one row for each of the 25 certification objectives. Each row should name:
 
-1. Student Guide teaching location;
-2. prerequisite knowledge;
-3. formative practice;
-4. approved summative evidence;
-5. theory or practical component;
-6. task and rubric ID;
-7. permitted prompting;
-8. safety-critical errors;
-9. result field;
-10. accessibility/equivalent variant;
+1. Student Guide teaching location.
+2. prerequisite knowledge.
+3. formative practice.
+4. approved summative evidence.
+5. theory or practical component.
+6. task and rubric ID.
+7. permitted prompting.
+8. safety-critical errors.
+9. result field.
+10. accessibility/equivalent variant.
 11. remediation and reassessment route; and
 12. planned learner and educator time.
 
@@ -107,8 +107,8 @@ The local link check found 40 broken Markdown-link occurrences:
 
 The actual main publication paths are:
 
-- `publish/mfb-bd/mfb-bd-sg-26.10.md`;
-- `publish/mfb-bd/mfb-bd-eg-26.10.md`;
+- `publish/mfb-bd/mfb-bd-sg-26.10.md`
+- `publish/mfb-bd/mfb-bd-eg-26.10.md`
 - `publish/mfb-bd/mfb-bd-qs-26.10.md`; and
 - `publish/mfb-ml/mfb-ml-26.10.md`.
 
@@ -116,9 +116,9 @@ There is no `advanced/18_advanced.md`; the file remains at `workspace/18_advance
 
 Practical action:
 
-- choose and document the real Advanced location;
-- update the root README and index first;
-- update all internal links in the publication files using paths relative to their new directories;
+- choose and document the real Advanced location
+- update the root README and index first
+- update all internal links in the publication files using paths relative to their new directories
 - decide whether the missing research and reference materials should be restored, moved, or explicitly retired; and
 - run the local-link check as a release gate.
 
@@ -126,11 +126,11 @@ Practical action:
 
 The workload risk is not simply that the Student Guide is approximately 20,000 words. The risk is the combination of:
 
-- 25 certification objectives;
-- four modules;
-- explanation, discussion, practice, and local adaptation;
-- individual theoretical evidence;
-- direct observation of Module 3 and Module 4 performance;
+- 25 certification objectives
+- four modules
+- explanation, discussion, practice, and local adaptation
+- individual theoretical evidence
+- direct observation of Module 3 and Module 4 performance
 - feedback, recording, accommodations, and reassessment; and
 - cohort-size and educator-capacity constraints.
 
@@ -139,15 +139,15 @@ The documents also still differ subtly:
 - `05_objectives.md:25` makes eight hours a hard Core test: if an objective cannot be taught, practised, and assessed within it, the objective is not Core.
 - `03_scope.md:444` treats eight hours as a planning baseline and allows additional scheduled time.
 - `06_plan.md:326` says to schedule a follow-up when necessary.
-- `12_educator-plan.md:81–94` says assessment must not become a separate follow-up outside the advertised Diploma.
+- `12_educator-plan.md:81–94` says assessment must not become a separate follow-up outside the advertised Bitcoin Diploma.
 
 These can be harmonized by defining eight hours as an advertised baseline rather than a universal maximum, while requiring every cohort's advertised schedule to include its required assessment. A course needing ten hours should be advertised as ten hours, not as an eight-hour course plus a hidden assessment appointment.
 
 Practical action:
 
-- build a module-by-module minute budget from the objective crosswalk;
-- define cohort-size bands and the number of educators/observers required;
-- state whether breaks are inside or outside the advertised eight hours;
+- build a module-by-module minute budget from the objective crosswalk
+- define cohort-size bands and the number of educators/observers required
+- state whether breaks are inside or outside the advertised eight hours
 - time one complete four-session route and one intensive route; and
 - reduce or combine evidence only when validity is preserved.
 
@@ -176,7 +176,7 @@ The project repeatedly describes two non-compensatory components but also calls 
 
 Recommended harmonization:
 
-> The Diploma has two equally important, non-compensatory completion gates: theoretical understanding and practical competency. A learner must meet the approved standard for every required mapped objective and every safety-critical criterion. Results are recorded separately as Yes or Not yet. No combined average can compensate for an unmet gate.
+> The Bitcoin Diploma has two equally important, non-compensatory completion gates: theoretical understanding and practical competency. A learner must meet the approved standard for every required mapped objective and every safety-critical criterion. Results are recorded separately as Yes or Not yet. No combined average can compensate for an unmet gate.
 
 If a numerical score is needed for reporting, define it only after objective weights, aggregation, rounding, minimums, and treatment of safety-critical failures are approved. Do not use “50%” as though it already provides those rules.
 
@@ -223,10 +223,10 @@ The Guide is substantial. Avoid adding more explanations unless the objective cr
 
 Practical action:
 
-- keep the Quick Start as the front door;
-- create one two-page run sheet per module;
-- keep only the explanations educators need to teach, correct a misconception, or assess safely;
-- move editorial source maps and approval backlogs to `workspace/` or `review/`;
+- keep the Quick Start as the front door
+- create one two-page run sheet per module
+- keep only the explanations educators need to teach, correct a misconception, or assess safely
+- move editorial source maps and approval backlogs to `workspace/` or `review/`
 - keep rubrics and records in a clearly separated assessment appendix or companion pack; and
 - test preparation and delivery with educators who did not write the Guide.
 
@@ -268,7 +268,7 @@ Keep it short. Once the final assessment pack exists, link directly to the appro
 | `15_certification.md` | Correct prerequisite logic, incomplete governance. | Fix the dangling list and do not operationalize certificates until the governance pack exists. |
 | `16_lexicon.md` | Useful terminology authority, but the line map points to deleted `workspace/08_student.md` and stale lines. | Preserve definitions; rebuild locations against the published Student Guide, preferably with heading/term IDs. |
 | `17_spec.md` | Now correctly functions as an overview. | Keep this role. Create a separate compact publication checklist rather than expanding it again. |
-| `18_advanced.md` | Appropriately keeps depth out of the beginner Diploma, but its documented location and 119 reference-path mentions are broken. | Decide location and restore source-trail integrity before relying on it for provenance. |
+| `18_advanced.md` | Appropriately keeps depth out of the beginner Bitcoin Diploma, but its documented location and 119 reference-path mentions are broken. | Decide location and restore source-trail integrity before relying on it for provenance. |
 | `99_horizon.md` | Useful future-work register. | Update stale filenames and keep post-release ideas from leaking into October blockers. |
 | `review/` | Correct conceptual home for reviews, but the current files overlap and contain stale state. | Reconcile the two reports, close answered decisions, and separate the active to-do from the annotation archive. |
 
@@ -278,11 +278,11 @@ The planning set still repeats the same policy in many places: duration, Core/Cu
 
 Use a simple dependency pattern:
 
-- `00_index.md`: ownership and navigation only;
-- `05_objectives.md`: what learners must achieve;
-- `06_plan.md`: architecture and boundaries;
-- `13_assessment.md`: how evidence is judged;
-- `15_certification.md`: when a credential may be issued;
+- `00_index.md`: ownership and navigation only
+- `05_objectives.md`: what learners must achieve
+- `06_plan.md`: architecture and boundaries
+- `13_assessment.md`: how evidence is judged
+- `15_certification.md`: when a credential may be issued
 - publication files: short audience-appropriate restatements with links to the governing source; and
 - review files: problems and actions, never policy.
 
@@ -342,6 +342,6 @@ Reply with `1 Yes, 2 No`, and so on. Recommended answers are shown.
 
 ## Final assessment
 
-The Diploma's educational direction is now credible and mostly consistent. The Student Guide contains the necessary beginner story, and the Educator Guide contains enough pedagogical substance to support strong delivery. The project should now resist adding breadth.
+The Bitcoin Diploma's educational direction is now credible and mostly consistent. The Student Guide contains the necessary beginner story, and the Educator Guide contains enough pedagogical substance to support strong delivery. The project should now resist adding breadth.
 
 The decisive work is to make every certificate claim traceable and reproducible: one objective, one taught path, one opportunity to practise, one valid evidence route, one clear standard, and one safe reassessment process. Once that system is built, timed, and tested—and the repository migration and public-document cleanup are completed—the project will be much closer to a concise, trustworthy, and scalable Bitcoin Diploma.

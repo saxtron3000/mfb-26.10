@@ -2,7 +2,7 @@
 
 ## Use
 
-This file is the published developer handoff for a 12-question My First Bitcoin App restricted-access pilot self-test. It is available only to the defined pilot group and must not be linked, assigned, or described in the Student Guide, Educator Guide, or normal Diploma delivery. It must not be used for educator tracking, certification, or a pass/fail decision.
+This file is the published developer handoff for a 12-question My First Bitcoin App restricted-access pilot self-test. It is available only to the defined pilot group and must not be linked, assigned, or described in the Student Guide, Educator Guide, or normal Bitcoin Diploma delivery. It must not be used for educator tracking, certification, or a pass/fail decision.
 
 Each item has one correct answer and four plain-text options. After either answer outcome, show the item's shared plain-language explanation and review reference. The pilot product cannot show different correct and incorrect messages, rich text, media, links, or a multi-screen item flow. The review reference points to the learner's next reading in the Student Guide and should be displayed as text.
 
@@ -84,7 +84,7 @@ All source items are English, version 1.0. Any content change or wider public re
 |---|---|
 | 10–12 | You showed a strong result on this quick self-check. Keep building your Bitcoin knowledge. |
 | 6–9 | Good progress. Review the topics highlighted in your answers, then try again. |
-| 0–5 | Every question is a chance to learn. Revisit the suggested Diploma sections and try the quiz again. |
+| 0–5 | Every question is a chance to learn. Revisit the suggested Bitcoin Diploma sections and try the quiz again. |
 
 ## Developer notes
 

@@ -10,8 +10,8 @@ Bitcoin’s network works through distributed verification and economic incentiv
 
 ## Learners will be able to
 
-- distinguish the roles of users, nodes, miners, developers, and economic nodes;
-- describe the path from transaction relay to block confirmation;
+- distinguish the roles of users, nodes, miners, developers, and economic nodes
+- describe the path from transaction relay to block confirmation
 - explain proof of work and difficulty adjustment in plain language; and
 - evaluate claims about mining power, rule changes, and decentralization.
 

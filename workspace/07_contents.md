@@ -5,10 +5,10 @@
 - About Us
 - Our mission: independent, open-source Bitcoin education
 - What we stand for: accessibility, critical thinking, community, and self-sovereignty
-- Why this Diploma exists
+- Why this Bitcoin Diploma exists
 - How learners can use this course as a starting point
 
-## 2. How This Diploma Works
+## 2. How This Bitcoin Diploma Works
 
 - What learners will be able to explain and demonstrate by the end
 - Learning style: educator-facilitated in person or online, with discussion, reflection, practice, and guided activities
@@ -92,10 +92,10 @@
 - Local competency check observed by an educator
 - Review: how do the problem, solution, and safe action connect to this community?
 
-## 7. Back Of Diploma: Next Steps
+## 7. Back Of Bitcoin Diploma: Next Steps
 
 - A short “What now?” next-steps list
-- A voluntary Diploma exit-survey call to action
+- A voluntary Bitcoin Diploma exit-survey call to action
 - Optional four-week offline recall
 - A safety reminder
 - Connect with My First Bitcoin

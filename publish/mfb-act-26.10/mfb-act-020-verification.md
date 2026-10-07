@@ -65,7 +65,7 @@ When the dice target is met, the class checks the number of ones and confirms th
 
 ## Notes
 
-**Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show). Use the approved protocol, including the required role and rules explanation; otherwise, this activity is formative.
+**Bitcoin Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show). Use the approved protocol, including the required role and rules explanation; otherwise, this activity is formative.
 
 ## Additional resources
 

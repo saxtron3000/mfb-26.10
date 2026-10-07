@@ -56,7 +56,7 @@ Why was consensus not achieved? How does this relate to the Byzantine Generalsâ€
 
 ## Notes
 
-**Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show). Use the approved protocol and record an individual explanation of shared verification; otherwise, this activity is formative.
+**Bitcoin Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show). Use the approved protocol and record an individual explanation of shared verification; otherwise, this activity is formative.
 
 ## Additional resources
 

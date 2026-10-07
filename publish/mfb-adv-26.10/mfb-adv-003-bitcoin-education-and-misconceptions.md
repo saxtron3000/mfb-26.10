@@ -10,8 +10,8 @@ Bitcoin is often presented through slogans, fear, hype, or technical jargon. Thi
 
 ## Learners will be able to
 
-- identify misconceptions about money, Bitcoin, mining, privacy, and custody;
-- explain a Bitcoin concept at beginner and advanced levels without oversimplifying it;
+- identify misconceptions about money, Bitcoin, mining, privacy, and custody
+- explain a Bitcoin concept at beginner and advanced levels without oversimplifying it
 - distinguish facts, opinions, forecasts, and marketing claims; and
 - design an inclusive, locally relevant learning activity with clear safety boundaries.
 

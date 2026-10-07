@@ -4,7 +4,7 @@
 
 This document defines the non-negotiable relationship between assessment and certification for the Bitcoin Diploma.
 
-The Diploma consists of the **Problem → Solution → Action → Connect** learning arc. Modules 1 and 2 develop theoretical competencies through observable explanation, comparison, reasoning, and application. Module 3 develops safe practical action. Module 4 is the educator-curated Connect stage: learners connect the shared learning to a local need or opportunity, an appropriate comparison, safe performance, and a realistic next step. It is required for Diploma completion.
+The Bitcoin Diploma consists of the **Problem → Solution → Action → Connect** learning arc. Modules 1 and 2 develop theoretical competencies through observable explanation, comparison, reasoning, and application. Module 3 develops safe practical action. Module 4 is the educator-curated Connect stage: learners connect the shared learning to a local need or opportunity, an appropriate comparison, safe performance, and a realistic next step. It is required for Bitcoin Diploma completion.
 
 Nobody may receive a Bitcoin Diploma certificate without successfully completing both:
 
@@ -13,7 +13,7 @@ Nobody may receive a Bitcoin Diploma certificate without successfully completing
 
 Only documented educator-led interactions with clear competency criteria and records contribute to the theoretical result; participation, self-description, and unrecorded discussion do not. Other questions, discussions, games, scenarios, simulations, and role-plays are formative. Restricted-pilot app use is not assessment evidence. Both components are non-compensatory pass gates.
 
-The percentages describe the balance of two required components. The Diploma does not calculate or report a combined numerical grade unless a separate reporting rule is approved.
+The percentages describe the balance of two required components. The Bitcoin Diploma does not calculate or report a combined numerical grade unless a separate reporting rule is approved.
 
 The quality and reputation of the certificate depend on the quality and consistency of both forms of assessment.
 
@@ -25,7 +25,7 @@ A certificate may be issued only when the approved completion record confirms **
 
 Assessment-complete status requires:
 
-- passing educator-evaluated theoretical interaction evidence;
+- passing educator-evaluated theoretical interaction evidence
 - successful direct observation by an educator of both performances within `C6` and the selected local task `C7`, including their required safety-focused criteria; and
 - a **Showing competency: Yes** result for every required assessed competency, with its required decimal-code criteria evidenced as observable look-fors.
 
@@ -43,17 +43,17 @@ A Bitcoin Diploma certificate represents the named educator's judgment that the 
 
 The certificate confirms a shared beginner standard in:
 
-- monetary foundations;
-- applied monetary and Bitcoin explanation, comparison, and reasoning;
-- Bitcoin explanation and verification reasoning;
-- practical wallet and transaction capability;
-- verification and safety behavior;
+- monetary foundations
+- applied monetary and Bitcoin explanation, comparison, and reasoning
+- Bitcoin explanation and verification reasoning
+- practical wallet and transaction capability
+- verification and safety behavior
 - guided critical reasoning; and
 - locally relevant Bitcoin-as-money application.
 
 It does not represent attendance alone, advanced mastery, professional competence, or endorsement of a particular financial decision.
 
-Certification for the beginner Diploma must not imply competence in high-stakes custody, organizational treasury, institutional custody, legal, tax, accounting, compliance, investment, policy, or business implementation. Those areas belong to [Advanced Modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) or separate professional review.
+Certification for the beginner Bitcoin Diploma must not imply competence in high-stakes custody, organizational treasury, institutional custody, legal, tax, accounting, compliance, investment, policy, or business implementation. Those areas belong to [Advanced Modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) or separate professional review.
 
 ---
 
@@ -80,7 +80,7 @@ Results are non-compensatory: strong theoretical evidence cannot offset an unmet
 
 ## Restricted pilot and later public release
 
-My First Bitcoin App microlearning is available only to a defined pilot group. It is not part of the Student Guide, Educator Guide, regular Diploma delivery, or certification route. A later public release must not evaluate or record certification evidence.
+My First Bitcoin App microlearning is available only to a defined pilot group. It is not part of the Student Guide, Educator Guide, regular Bitcoin Diploma delivery, or certification route. A later public release must not evaluate or record certification evidence.
 
 ## The educator
 
@@ -100,7 +100,7 @@ The educator confirms that both educator-led component statuses are complete bef
 
 The minimum standard is created by the combination of:
 
-- shared assessed competencies and observable criteria;
+- shared assessed competencies and observable criteria
 - the common crosswalk, theory interactions, practical tasks, equivalent variants, rubrics, support rules, safety-critical errors, calibration, moderation, and reassessment process in the Educator Guide's operational assessment protocol; and
 - evidence records in the Assessment Grid.
 
@@ -129,12 +129,12 @@ The certificate's credibility rests on what it reliably communicates to learners
 
 To protect that credibility:
 
-- every certificated learner must be assessed against the required competencies;
-- practical capability must be directly observed;
-- observable theoretical competency and practical capability must each meet the 50% component standard;
-- educators must use common criteria rather than personal impressions;
-- unsuccessful attempts must lead to feedback and reassessment, not automatic passing;
-- results must be recorded accurately;
+- every certificated learner must be assessed against the required competencies
+- practical capability must be directly observed
+- observable theoretical competency and practical capability must each meet the 50% component standard
+- educators must use common criteria rather than personal impressions
+- unsuccessful attempts must lead to feedback and reassessment, not automatic passing
+- results must be recorded accurately
 - local adaptation must preserve equivalent evidence; and
 - public claims must match the beginner competencies actually assessed.
 
@@ -144,15 +144,15 @@ A strong assessment system makes the certificate meaningful. Weak, inconsistent,
 
 # 8. Current Governance And Future Options
 
-The current model is settled: certification is decentralized and educator-issued. Any educator using the Diploma may issue a participation or completion certificate under the published assessment requirements. My First Bitcoin does not centrally approve the result, issue the certificate, operate a public verification service, or guarantee learner competency.
+The current model is settled: certification is decentralized and educator-issued. Any educator using the Bitcoin Diploma may issue a participation or completion certificate under the published assessment requirements. My First Bitcoin does not centrally approve the result, issue the certificate, operate a public verification service, or guarantee learner competency.
 
 Before certificated delivery, the educator establishes proportionate local arrangements for:
 
-- assessor preparation and any useful calibration or moderation;
-- assessment integrity and learner identification appropriate to the context;
-- accessibility and equivalent access, including language parity;
-- minimum certificate fields and clear identification of the educator or issuing organization;
-- privacy, consent, permitted records, retention, deletion, and secure recovery where records are kept;
+- assessor preparation and any useful calibration or moderation
+- assessment integrity and learner identification appropriate to the context
+- accessibility and equivalent access, including language parity
+- minimum certificate fields and clear identification of the educator or issuing organization
+- privacy, consent, permitted records, retention, deletion, and secure recovery where records are kept
 - result correction, appeals, accommodations, and exceptional cases; and
 - certificate correction, replacement, or withdrawal where the educator offers those processes.
 

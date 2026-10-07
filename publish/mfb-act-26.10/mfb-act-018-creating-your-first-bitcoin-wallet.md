@@ -81,7 +81,7 @@ Public receiving information and private spending information have different rol
 
 ## Notes
 
-**Diploma assessment link:** May support [`T3` / `C4`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show), [`P6a` / `C6`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show), and [`P6b` / `C6`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show) when the educator observes safe recovery-readiness decisions using prepared placeholder materials. Record the participant's demonstrated decision or explanation, never wallet secrets or personal financial information.
+**Bitcoin Diploma assessment link:** May support [`T3` / `C4`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show), [`P6a` / `C6`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show), and [`P6b` / `C6`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show) when the educator observes safe recovery-readiness decisions using prepared placeholder materials. Record the participant's demonstrated decision or explanation, never wallet secrets or personal financial information.
 
 ## Additional resources
 

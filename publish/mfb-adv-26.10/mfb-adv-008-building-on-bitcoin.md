@@ -10,8 +10,8 @@ Bitcoin’s base layer makes deliberate trade-offs. Builders and users may use a
 
 ## Learners will be able to
 
-- explain why systems may build on Bitcoin rather than change its base rules;
-- distinguish on-chain settlement from Lightning payment flows;
+- explain why systems may build on Bitcoin rather than change its base rules
+- distinguish on-chain settlement from Lightning payment flows
 - describe channels, routing, liquidity, and common payment trade-offs at a conceptual level; and
 - evaluate an application idea in terms of users, trust assumptions, safety, and local relevance.
 

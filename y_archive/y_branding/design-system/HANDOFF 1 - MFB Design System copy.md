@@ -426,7 +426,7 @@ border or a hairline `--border`.
 - **Generous margins** — 40px on a Brand Book page, 60px on a slide.
 - **Strong left alignment.**
 - **Big type anchored top-left**, supporting content lower or to the right.
-- **Confident negative space** — let surfaces breathe. Under-filling a layout is on-brand;
+- **Confident negative space** — let surfaces breathe. Under-filling a layout is on-brand
   over-filling is not.
 
 ---

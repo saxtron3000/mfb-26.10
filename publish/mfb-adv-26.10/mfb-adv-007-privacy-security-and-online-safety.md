@@ -10,8 +10,8 @@ This module introduces threat modelling, phishing and impersonation, device and 
 
 ## Learners will be able to
 
-- build a basic threat model for a fictional situation;
-- identify common scams, social-engineering tactics, and unsafe requests;
+- build a basic threat model for a fictional situation
+- identify common scams, social-engineering tactics, and unsafe requests
 - explain trade-offs among convenience, privacy, verification, and recovery; and
 - create a personal online-safety checklist that contains no sensitive information.
 

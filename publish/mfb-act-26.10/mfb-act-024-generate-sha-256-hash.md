@@ -58,7 +58,7 @@ The same message produces the same hash; small changes produce a very different 
 
 ## Notes
 
-**Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show), specifically proof-of-work preparation. Use the approved protocol and required rule-and-role explanation; otherwise, this activity is formative.
+**Bitcoin Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show), specifically proof-of-work preparation. Use the approved protocol and required rule-and-role explanation; otherwise, this activity is formative.
 
 Hash functions are described as one-way methods.
 

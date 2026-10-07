@@ -76,7 +76,7 @@ Discuss the actual result, any fee, the information checked before approval, the
 
 ## Notes
 
-**Diploma assessment link:** This activity is formative unless the educator has selected an approved practical route. It may support discussion of payment-path trade-offs for [`T3` / `C5`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show), and it may support directly observed practical learning, only when the educator uses the approved protocol and records an individual explanation or performance. It is not an assessment route for significant funds.
+**Bitcoin Diploma assessment link:** This activity is formative unless the educator has selected an approved practical route. It may support discussion of payment-path trade-offs for [`T3` / `C5`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show), and it may support directly observed practical learning, only when the educator uses the approved protocol and records an individual explanation or performance. It is not an assessment route for significant funds.
 
 ## Additional resources
 

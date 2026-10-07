@@ -14,9 +14,9 @@ The 2026.10 set is a framework-first publication. It includes the teaching and a
 - Existing legacy activity procedures are candidates for review and adaptation, not automatically approved assessment tasks or global tool recommendations.
 - Activities involving live tools, videos, accounts, wallets, personal devices, real funds, or secrets require the low-tech, privacy, safety, and current-content checks in `10_activities.md`, `12_educator-plan.md`, and `16_spec.md` before delivery.
 - Restricted-pilot app question data is learner-owned self-review only. It is available only to the defined pilot group and does not provide evidence for assessment, certification, educator tracking, or a pass/fail result.
-- [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) are on a post-launch release track for November–December 2026. They are not part of the beginner Diploma release; `17_advanced.md` is the planning inventory and source trail until each module is approved for release.
+- [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) are on a post-launch release track for November–December 2026. They are not part of the beginner Bitcoin Diploma release; `17_advanced.md` is the planning inventory and source trail until each module is approved for release.
 
-## Diploma publication set
+## Bitcoin Diploma publication set
 
 | Published file | Content covered | Planning home and decision |
 |---|---|---|
@@ -30,7 +30,7 @@ The 2026.10 set is a framework-first publication. It includes the teaching and a
 
 ## Advanced post-launch set
 
-The following files are explicitly post-launch works in progress, planned for November–December 2026. They are excluded from the beginner Diploma release. Each requires its own publication-readiness review before release. `ACT-036` tracks the work-in-progress Advanced URL requested for translated Diploma PDFs.
+The following files are explicitly post-launch works in progress, planned for November–December 2026. They are excluded from the beginner Bitcoin Diploma release. Each requires its own publication-readiness review before release. `ACT-036` tracks the work-in-progress Advanced URL requested for translated Bitcoin Diploma PDFs.
 
 | Published file | Current release status | Planning home and decision |
 |---|---|---|
@@ -47,7 +47,7 @@ The following files are explicitly post-launch works in progress, planned for No
 
 | Published file | Content covered | Planning home and decision |
 |---|---|---|
-| [`mfb-ml-26.10.md`](../publish/mfb-ml-26.10/mfb-ml-26.10.md) | Published handoff for the restricted pilot: one 12-item self-check, with short and long alternatives for money, Bitcoin, and safe-use concepts in Modules 1–3. Do not link or assign it through normal Diploma delivery. | `14_microlearning-plan.md` owns pilot purpose, item rules, implementation constraints, topic bank, and non-assessment boundary. |
+| [`mfb-ml-26.10.md`](../publish/mfb-ml-26.10/mfb-ml-26.10.md) | Published handoff for the restricted pilot: one 12-item self-check, with short and long alternatives for money, Bitcoin, and safe-use concepts in Modules 1–3. Do not link or assign it through normal Bitcoin Diploma delivery. | `14_microlearning-plan.md` owns pilot purpose, item rules, implementation constraints, topic bank, and non-assessment boundary. |
 | [`mfb-ml-26.10-short-questions.csv`](../publish/mfb-ml-26.10/mfb-ml-26.10-short-questions.csv) | Pilot-only CSV export of the 12 short item variants (`BD-ML-01S`–`BD-ML-12S`), including options, correct answers, explanations, and Student Guide review references. | `14_microlearning-plan.md`; the CSV must remain semantically identical to the short-question table in `mfb-ml-26.10.md`. |
 | [`mfb-ml-26.10-long-questions.csv`](../publish/mfb-ml-26.10/mfb-ml-26.10-long-questions.csv) | Pilot-only CSV export of the 12 long item variants (`BD-ML-01L`–`BD-ML-12L`), including options, correct answers, explanations, and Student Guide review references. | `14_microlearning-plan.md`; the CSV must remain semantically identical to the long-question table in `mfb-ml-26.10.md`. |
 
@@ -83,7 +83,7 @@ The following files are the published Activity Library. Their full procedures, m
 | [`024 — Generate SHA-256 Hash`](../publish/mfb-act-26.10/mfb-act-024-generate-sha-256-hash.md) | Advanced or educator extension | Online hash demonstration; not required beginner content and requires a no-tool explanation. |
 | [`025 — Watch: Blockchain 101 – A Visual Demo`](../publish/mfb-act-26.10/mfb-act-025-watch-blockchain-101-visual-demo.md) | Module 2 or Advanced extension | Visual blockchain video, offered as an optional alternative to the hash activity; provide an offline equivalent. |
 | [`026 — Watch: How To Setup Bitcoin Core`](../publish/mfb-act-26.10/mfb-act-026-watch-bitcoin-nodes.md) | Module 2 or Advanced extension | Node video on validation and local blockchain copies; keep role explanation simple and recheck availability. |
-| [`027 — Watch: Why Every Bitcoiner Should Run Their Own Node`](../publish/mfb-act-26.10/mfb-act-027-watch-why-run-a-bitcoin-node.md) | Advanced or educator extension | Node-running video; do not imply running a node is a Diploma requirement. |
+| [`027 — Watch: Why Every Bitcoiner Should Run Their Own Node`](../publish/mfb-act-26.10/mfb-act-027-watch-why-run-a-bitcoin-node.md) | Advanced or educator extension | Node-running video; do not imply running a node is a Bitcoin Diploma requirement. |
 | [`028 — Watch: Bitcoin Is Generational Wealth`](../publish/mfb-act-26.10/mfb-act-028-watch-bitcoin-is-generational-wealth.md) | Optional reflection or Advanced extension | Values-oriented film; facilitate critical discussion and do not treat wealth claims as financial guidance. |
 | [`029 — Watch: How Money & Banking Work`](../publish/mfb-act-26.10/mfb-act-029-watch-how-money-and-banking-work.md) | Module 1 | Money and banking video; optional with checked current context and an offline explanation alternative. |
 | [`030 — Final Class Discussion: How Did Your Perspective Change?`](../publish/mfb-act-26.10/mfb-act-030-final-class-discussion.md) | Module 4 close | Reflection on changed understanding and next steps; formative unless an approved evidence route says otherwise. |
@@ -92,8 +92,8 @@ The following files are the published Activity Library. Their full procedures, m
 
 When a curriculum-content file is added, removed, renamed, or materially changed in `publish/`:
 
-1. update this register in the same change;
-2. check the named planning authority for coverage and consistency;
-3. add or revise a planning decision if the publication introduces new content, a new tool, a current-data claim, or an assessment implication;
+1. update this register in the same change.
+2. check the named planning authority for coverage and consistency.
+3. add or revise a planning decision if the publication introduces new content, a new tool, a current-data claim, or an assessment implication.
 4. update `00_index.md` if the publication package or reading order changes; and
 5. verify that every curriculum-content file in `publish/` has a working link and appears once in this register.

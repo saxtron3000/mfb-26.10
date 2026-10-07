@@ -62,14 +62,14 @@ For current, legal, regulatory, financial, tax, service, price, adoption, securi
 
 Identify every point where the intended reader must guess:
 
-- what a term means;
-- why the topic or step matters;
-- what knowledge, device, connectivity, money, materials, or permissions are assumed;
-- what to do, in what order, and how to know it worked;
-- what can go wrong and how to recover safely;
-- whether an example is illustrative, required, local, optional, or assessed;
-- where an activity, resource, answer, or next step lives;
-- who owns a decision or action and when it must happen.
+- what a term means
+- why the topic or step matters
+- what knowledge, device, connectivity, money, materials, or permissions are assumed
+- what to do, in what order, and how to know it worked
+- what can go wrong and how to recover safely
+- whether an example is illustrative, required, local, optional, or assessed
+- where an activity, resource, answer, or next step lives
+- who owns a decision or action and when it must happen
 
 Flag missing context only when it materially affects comprehension, safety, delivery, assessment, or trust. Do not demand background that the audience does not need.
 
@@ -95,13 +95,13 @@ Do not call prose “confusing,” “awkward,” or “too long” without iden
 
 Search within each file and across the complete review scope for repeated ideas, explanations, warnings, definitions, examples, instructions, questions, tables, calls to action, and policy statements. Flag repetition when it:
 
-- adds length without adding meaning;
-- teaches the same point more than once without a deliberate learning purpose;
-- makes learners or educators repeat substantially the same task;
-- scatters one rule across several places that can drift out of sync;
-- restates a concept with different terminology or conflicting detail;
-- duplicates content across published files instead of giving each audience a clear, necessary treatment;
-- buries the main point under recap, throat-clearing, or repeated qualification.
+- adds length without adding meaning
+- teaches the same point more than once without a deliberate learning purpose
+- makes learners or educators repeat substantially the same task
+- scatters one rule across several places that can drift out of sync
+- restates a concept with different terminology or conflicting detail
+- duplicates content across published files instead of giving each audience a clear, necessary treatment
+- buries the main point under recap, throat-clearing, or repeated qualification
 
 Distinguish harmful repetition from intentional reinforcement, summaries, retrieval practice, safety reminders, and audience-specific guidance. A repetition finding must cite every affected location, identify the preferred home for the information, and explain what should be deleted, combined, linked, or deliberately retained. Do not demand deduplication that would force a learner or educator to leave the document during a critical task.
 
@@ -148,11 +148,11 @@ If fixes are authorized, first record each defect in the run report. Apply chang
 
 End the dated run report with `## Review report summary` as its final section. Under that exact heading, include:
 
-- a blunt release verdict: `not ready`, `ready with stated limitations`, or `ready for the reviewed scope`;
-- counts by severity;
-- the three most important defects or, if none, the strongest limits on that conclusion;
-- exact checks completed and not performed;
-- the next action required.
+- a blunt release verdict: `not ready`, `ready with stated limitations`, or `ready for the reviewed scope`
+- counts by severity
+- the three most important defects or, if none, the strongest limits on that conclusion
+- exact checks completed and not performed
+- the next action required
 
 State that the run record is not a source of truth. Do not place any section or content after this summary.
 

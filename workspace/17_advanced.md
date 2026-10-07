@@ -6,16 +6,16 @@ This file is the active holding place for future [Advanced module](https://curri
 
 It collects:
 
-- [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) title ideas;
-- follow-on pathway ideas;
-- content moved out of the shorter beginner Diploma;
-- technical, economic, philosophical, and practical material that should not be lost;
-- legacy source trails from the 2026.04 Diploma and reference chapters;
-- future module seeds, activity seeds, research notes, and open design questions.
+- [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) title ideas
+- follow-on pathway ideas
+- content moved out of the shorter beginner Bitcoin Diploma
+- technical, economic, philosophical, and practical material that should not be lost
+- legacy source trails from the 2026.04 Bitcoin Diploma and reference chapters
+- future module seeds, activity seeds, research notes, and open design questions
 
-The [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) are not part of the current beginner Diploma publication work. Their post-launch release is planned for November–December 2026. Preparatory editorial work may continue, but it must not pull time, scope, or complexity back into the beginner Diploma pathway.
+The [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) are not part of the current beginner Bitcoin Diploma publication work. Their post-launch release is planned for November–December 2026. Preparatory editorial work may continue, but it must not pull time, scope, or complexity back into the beginner Bitcoin Diploma pathway.
 
-For now, this file preserves ideas and source material so the shorter Diploma can stay concise without deleting useful material.
+For now, this file preserves ideas and source material so the shorter Bitcoin Diploma can stay concise without deleting useful material.
 
 ---
 
@@ -29,31 +29,31 @@ This is not part of the finished beginner curriculum. It remains the planning in
 
 Use this file as a collection point for material that may later become:
 
-- optional extensions;
-- separate [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/);
-- educator background;
-- technical demonstration workshops;
-- follow-on courses;
-- specialized community modules;
-- future research or editorial tasks.
+- optional extensions
+- separate [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/)
+- educator background
+- technical demonstration workshops
+- follow-on courses
+- specialized community modules
+- future research or editorial tasks
 
 ## Timing Rule
 
-The beginner Diploma remains the priority through its launch. Prepare [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) for their planned November–December 2026 release without pulling time, scope, or complexity back into the Diploma pathway.
+The beginner Bitcoin Diploma remains the priority through its launch. Prepare [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) for their planned November–December 2026 release without pulling time, scope, or complexity back into the Bitcoin Diploma pathway.
 
 ## Preservation Rule
 
-If useful information is edited out of the newer beginner Diploma, do not treat it as deleted.
+If useful information is edited out of the newer beginner Bitcoin Diploma, do not treat it as deleted.
 
 Place it here with enough context to recover it later:
 
-- topic;
-- source file;
-- likely [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/);
-- reason it was moved outside the Diploma;
-- notes for future use.
+- topic
+- source file
+- likely [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/)
+- reason it was moved outside the Bitcoin Diploma
+- notes for future use
 
-The absence of a topic from `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md` does not mean the topic is unimportant. It may simply be too detailed, too local, too technical, too current-data-dependent, or too risky for the beginner Diploma pathway.
+The absence of a topic from `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md` does not mean the topic is unimportant. It may simply be too detailed, too local, too technical, too current-data-dependent, or too risky for the beginner Bitcoin Diploma pathway.
 
 ---
 
@@ -62,7 +62,7 @@ The absence of a topic from `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md` does no
 | Topic | Owner document |
 |---|---|
 | Four-module beginner architecture | `06_plan.md` |
-| Four-module Diploma / educator-curated Modules 3–4 / Advanced boundary rules | `06_plan.md` |
+| Four-module Bitcoin Diploma / educator-curated Modules 3–4 / Advanced boundary rules | `06_plan.md` |
 | Advanced title inventory | `17_advanced.md` |
 | Advanced follow-on pathway ideas | `17_advanced.md` |
 | Redacted legacy material for future Advanced use | `17_advanced.md` |
@@ -71,9 +71,9 @@ The absence of a topic from `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md` does no
 | Beginner assessment | `13_assessment.md` |
 | Activity templates | [Resources Hub](https://programs.myfirstbitcoin.org/resources/) |
 | Educator facilitation guidance | [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) |
-| Diploma overview | `16_spec.md` |
+| Bitcoin Diploma overview | `16_spec.md` |
 
-`06_plan.md` remains the source of truth for the active beginner redesign structure, including the **Problem → Solution → Action → Connect** learning arc. The educator-curated Connect module completes the beginner Diploma; it is not a route for importing Advanced scope.
+`06_plan.md` remains the source of truth for the active beginner redesign structure, including the **Problem → Solution → Action → Connect** learning arc. The educator-curated Connect module completes the beginner Bitcoin Diploma; it is not a route for importing Advanced scope.
 
 `17_advanced.md` is the source of truth for [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) ideas, title inventory, source trails, and parked content.
 
@@ -87,37 +87,37 @@ Advanced content should not overload the beginner pathway. It may become optiona
 
 Advanced content may include deeper:
 
-- monetary history;
-- economics;
-- investment, risk, and capital-allocation reasoning;
-- fiat-system analysis;
-- Bitcoin history;
-- cryptography;
-- transaction mechanics;
-- UTXO analysis;
-- mempool analysis;
-- node operation;
-- mining mechanics;
-- consensus;
-- Lightning operations;
-- privacy;
-- security;
-- custody models;
-- business operations;
-- community and circular economy development;
-- philosophy;
-- human rights;
-- open-source contribution;
-- communication networks;
-- Bitcoin education practice.
+- monetary history
+- economics
+- investment, risk, and capital-allocation reasoning
+- fiat-system analysis
+- Bitcoin history
+- cryptography
+- transaction mechanics
+- UTXO analysis
+- mempool analysis
+- node operation
+- mining mechanics
+- consensus
+- Lightning operations
+- privacy
+- security
+- custody models
+- business operations
+- community and circular economy development
+- philosophy
+- human rights
+- open-source contribution
+- communication networks
+- Bitcoin education practice
 
-Diploma learners should not be expected to master these topics inside the beginner Diploma.
+Bitcoin Diploma learners should not be expected to master these topics inside the beginner Bitcoin Diploma.
 
 ---
 
 # 4. Proposed 24-Module Advanced Roadmap
 
-This is the proposed priority order for Advanced publication after the redesigned Diploma is published. It is a roadmap and coverage plan, not a finished curriculum or commitment to publish all modules at once.
+This is the proposed priority order for Advanced publication after the redesigned Bitcoin Diploma is published. It is a roadmap and coverage plan, not a finished curriculum or commitment to publish all modules at once.
 
 1. Bitcoin Education and Misconceptions
 2. History of Bitcoin and Computer Science Foundations
@@ -210,7 +210,7 @@ Every redacted-content collection and L2 seed in this file has a roadmap destina
 
 Future follow-on pathways may include:
 
-1. Bitcoin Fundamentals: the redesigned Diploma.
+1. Bitcoin Fundamentals: the redesigned Bitcoin Diploma.
 2. Bitcoin Self-Custody: deeper wallet, backup, verification, and safety practice.
 3. Lightning Network: deeper payment, routing, liquidity, and trade-off study.
 4. Bitcoin Technical Foundations: deeper protocol and system mechanics.
@@ -227,24 +227,24 @@ These are pathway ideas, not final product names.
 Reading rule:
 
 - `ADVANCED` means old content becomes Advanced pathway material.
-- `OUT` does not mean deletion when the same item is assigned to an educator-curated Module 4 variant within the Diploma or [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
-- No reviewed section should be treated as out-only deletion without checking whether the content belongs in an educator-curated Module 4 variant within the Diploma or [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
+- `OUT` does not mean deletion when the same item is assigned to an educator-curated Module 4 variant within the Bitcoin Diploma or [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
+- No reviewed section should be treated as out-only deletion without checking whether the content belongs in an educator-curated Module 4 variant within the Bitcoin Diploma or [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
 
 Migration summary for Advanced:
 
 | Destination | Legacy content signal | Redesign decision |
 |---|---|---|
 | Advanced | deeper psychology, detailed mining, mempool, detailed transactions, philosophy, future scenarios | Move into [Advanced Modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) or educator background. |
-| Advanced | L1 UTXOs; L2 detailed monetary history, protocol mechanics, Lightning operation, and high-security custody | Preserve as module seeds; do not return them to the beginner Diploma. |
+| Advanced | L1 UTXOs; L2 detailed monetary history, protocol mechanics, Lightning operation, and high-security custody | Preserve as module seeds; do not return them to the beginner Bitcoin Diploma. |
 
 Split decisions:
 
-- Psychology of money stays in the Diploma as a foundation; deeper behavioral analysis moves to Advanced.
-- Nodes and miners stay in the Diploma only as simple roles; technical mechanics move to Advanced.
-- Transaction concepts stay in the Diploma only where needed for safe use and verification; detailed models move to Advanced.
+- Psychology of money stays in the Bitcoin Diploma as a foundation; deeper behavioral analysis moves to Advanced.
+- Nodes and miners stay in the Bitcoin Diploma only as simple roles; technical mechanics move to Advanced.
+- Transaction concepts stay in the Bitcoin Diploma only where needed for safe use and verification; detailed models move to Advanced.
 - CBDCs may appear briefly in Module 1 or locally in Module 4; policy and technical depth moves to Advanced.
 - Lightning distinctions may be introduced briefly, but wallet setup and payment practice normally belongs in Module 4.
-- Buying and selling bitcoin may appear in the Diploma as a conceptual risk map, but provider-specific practice belongs in an educator-curated Module 4 variant within the Diploma or [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
+- Buying and selling bitcoin may appear in the Bitcoin Diploma as a conceptual risk map, but provider-specific practice belongs in an educator-curated Module 4 variant within the Bitcoin Diploma or [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
 - Named services, wallets, exchanges, peer-to-peer platforms, and local recommendations should not become global Student Book recommendations.
 
 ### L2 Module Seeds
@@ -253,17 +253,17 @@ The earlier L2 proposal supplies concise sequences for future module design. The
 
 | Future module | Suggested sequence recovered from L2 | Boundary |
 |---|---|---|
-| History of Money (localisation) | Bretton Woods context; 1971 end of dollar-to-gold convertibility; local and global consequences | Keep only the brief historical marker in the Diploma. |
-| Mining & Consensus | Transaction relay and validation; candidate-block construction; proof of work; hashes and block headers; difficulty adjustment; block propagation; consensus; optional Merkle trees | The Diploma keeps participant roles and simplified proof of work. |
-| Infrastructure & Maintenance | Connect a wallet or application to a Bitcoin node; compare connection and verification trade-offs; troubleshoot supported local connectivity | The Diploma keeps only the beginner roles of nodes and the meaning of verification. |
-| Lightning Network | Channel opening and closing; payment channels; HTLCs; routing; liquidity; routing failures; operational trade-offs | The Diploma distinguishes on-chain from Lightning; an educator-curated Module 4 variant within the Diploma may support appropriate payment practice. |
-| Bitcoin Self-Custody | Hot, hardware, and air-gapped signing; passphrases; multisig; encrypted-backup trade-offs; recovery and inheritance planning | The Diploma gives an introductory hardware-wallet and recovery-safety overview. |
+| History of Money (localisation) | Bretton Woods context; 1971 end of dollar-to-gold convertibility; local and global consequences | Keep only the brief historical marker in the Bitcoin Diploma. |
+| Mining & Consensus | Transaction relay and validation; candidate-block construction; proof of work; hashes and block headers; difficulty adjustment; block propagation; consensus; optional Merkle trees | The Bitcoin Diploma keeps participant roles and simplified proof of work. |
+| Infrastructure & Maintenance | Connect a wallet or application to a Bitcoin node; compare connection and verification trade-offs; troubleshoot supported local connectivity | The Bitcoin Diploma keeps only the beginner roles of nodes and the meaning of verification. |
+| Lightning Network | Channel opening and closing; payment channels; HTLCs; routing; liquidity; routing failures; operational trade-offs | The Bitcoin Diploma distinguishes on-chain from Lightning; an educator-curated Module 4 variant within the Bitcoin Diploma may support appropriate payment practice. |
+| Bitcoin Self-Custody | Hot, hardware, and air-gapped signing; passphrases; multisig; encrypted-backup trade-offs; recovery and inheritance planning | The Bitcoin Diploma gives an introductory hardware-wallet and recovery-safety overview. |
 
 ---
 
-# 7. What Moves Beyond the Diploma
+# 7. What Moves Beyond the Bitcoin Diploma
 
-| Diploma keeps | Advanced may develop |
+| Bitcoin Diploma keeps | Advanced may develop |
 |---|---|
 | Money, fiat, inflation, purchasing power | Detailed monetary theory and long policy history |
 | Double coincidence of wants, fiat-system roles, fractional reserve banking, bank runs, and brief CBDC orientation | Detailed banking policy, CBDC policy, and long monetary-policy history |
@@ -280,7 +280,7 @@ The earlier L2 proposal supplies concise sequences for future module design. The
 
 # 8. Redacted Content Collection
 
-This section preserves material that exists in the legacy Diploma or workspace but is intentionally reduced, compressed, or omitted from `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`.
+This section preserves material that exists in the legacy Bitcoin Diploma or workspace but is intentionally reduced, compressed, or omitted from `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`.
 
 ## Money Psychology And Economic Behavior
 
@@ -292,16 +292,16 @@ Primary sources:
 
 Content to preserve:
 
-- scarcity as a decision-making problem;
-- artificial scarcity versus natural scarcity;
-- centralized scarcity versus decentralized scarcity;
-- time preference;
-- opportunity cost;
-- delayed gratification;
-- survival pressure and short-term decision-making;
-- the candy or marshmallow activity;
-- discussion prompts about real-life high and low time preference;
-- connection between fiat inflation, planning, savings behavior, and time preference.
+- scarcity as a decision-making problem
+- artificial scarcity versus natural scarcity
+- centralized scarcity versus decentralized scarcity
+- time preference
+- opportunity cost
+- delayed gratification
+- survival pressure and short-term decision-making
+- the candy or marshmallow activity
+- discussion prompts about real-life high and low time preference
+- connection between fiat inflation, planning, savings behavior, and time preference
 
 Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
@@ -310,9 +310,9 @@ Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advan
 - Money & Human Rights
 - Bitcoin Education
 
-Reason outside the Diploma:
+Reason outside the Bitcoin Diploma:
 
-The Diploma should introduce scarcity, time preference, and opportunity cost through essential ideas. Deeper behavioral analysis requires more time and more careful facilitation.
+The Bitcoin Diploma should introduce scarcity, time preference, and opportunity cost through essential ideas. Deeper behavioral analysis requires more time and more careful facilitation.
 
 ## Investment, Risk, Reward, And Capital Allocation
 
@@ -324,14 +324,14 @@ Primary sources:
 
 Content to preserve:
 
-- capital allocation as the process of deciding which available uses receive limited capital, including holding liquidity, meeting known obligations, funding productive work, or taking an investment exposure;
-- opportunity cost: choosing one use of capital means declining another;
-- the difference between a possible reward, an expected return, a promised return, and an actual outcome;
-- the relationship between risk and reward: greater possible reward does not guarantee a better outcome, and a lower-volatility or familiar option is not automatically low risk;
-- time horizon, liquidity needs, drawdown tolerance, concentration, correlation, counterparty exposure, custody and operational risk as distinct considerations;
-- the limits of historical returns, back-tests, correlations, and risk-adjusted-return measures: each describes selected past data and depends on assumptions, periods, and definitions;
-- scenario analysis using fictional cases, including the possibility of loss, prolonged drawdowns, inability to sell at the desired time, or an investment failing to meet its purpose;
-- the different responsibilities of an individual, a business, a nonprofit, and a professional investment manager when making capital-allocation decisions.
+- capital allocation as the process of deciding which available uses receive limited capital, including holding liquidity, meeting known obligations, funding productive work, or taking an investment exposure
+- opportunity cost: choosing one use of capital means declining another
+- the difference between a possible reward, an expected return, a promised return, and an actual outcome
+- the relationship between risk and reward: greater possible reward does not guarantee a better outcome, and a lower-volatility or familiar option is not automatically low risk
+- time horizon, liquidity needs, drawdown tolerance, concentration, correlation, counterparty exposure, custody and operational risk as distinct considerations
+- the limits of historical returns, back-tests, correlations, and risk-adjusted-return measures: each describes selected past data and depends on assumptions, periods, and definitions
+- scenario analysis using fictional cases, including the possibility of loss, prolonged drawdowns, inability to sell at the desired time, or an investment failing to meet its purpose
+- the different responsibilities of an individual, a business, a nonprofit, and a professional investment manager when making capital-allocation decisions
 
 Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
@@ -344,7 +344,7 @@ Teaching boundary:
 
 This material should teach decision frameworks, terminology, evidence limits, and trade-offs. It must not recommend Bitcoin, a portfolio weight, a product, a provider, a timing decision, or a personal capital allocation. Use fictional and clearly labelled scenarios rather than learner balances or personal financial details. Learners may evaluate the reasoning and missing information in a scenario; they should not be assessed on choosing an investment or producing a portfolio.
 
-Reason outside the Diploma:
+Reason outside the Bitcoin Diploma:
 
 Investment and capital-allocation reasoning assumes a longer time horizon, more economic background, and careful treatment of personal and organizational context. It belongs in Advanced study and must remain distinct from financial, legal, tax, accounting, or investment advice.
 
@@ -358,19 +358,19 @@ Primary sources:
 
 Content to preserve:
 
-- detailed barter scenarios;
-- commodity money emergence;
-- cattle, shells, wheat, salt, gold, and silver as historical money examples;
-- drawbacks of metal coins;
-- coin debasement and fraud;
-- paper receipts backed by metal;
-- Sweden and early fractional reserve examples;
-- transition from sound to unsound money;
-- industrial revolution, banks, stock markets, and central banks;
-- World War I, the 1929 crisis, Bretton Woods, and the Nixon Shock;
-- dollar reserve-currency role;
-- paper to plastic;
-- credit cards, online banking, e-commerce, and digital money.
+- detailed barter scenarios
+- commodity money emergence
+- cattle, shells, wheat, salt, gold, and silver as historical money examples
+- drawbacks of metal coins
+- coin debasement and fraud
+- paper receipts backed by metal
+- Sweden and early fractional reserve examples
+- transition from sound to unsound money
+- industrial revolution, banks, stock markets, and central banks
+- World War I, the 1929 crisis, Bretton Woods, and the Nixon Shock
+- dollar reserve-currency role
+- paper to plastic
+- credit cards, online banking, e-commerce, and digital money
 
 Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
@@ -378,9 +378,9 @@ Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advan
 - Monetary Economics
 - Money & Society
 
-Reason outside the Diploma:
+Reason outside the Bitcoin Diploma:
 
-The Diploma needs a short history from barter to modern fiat. Detailed chronology, local monetary histories, and policy context belong in follow-on study.
+The Bitcoin Diploma needs a short history from barter to modern fiat. Detailed chronology, local monetary histories, and policy context belong in follow-on study.
 
 ## Fiat System, Banking, Debt, And Policy
 
@@ -393,31 +393,31 @@ Primary sources:
 
 Content to preserve:
 
-- legal tender law;
-- fiat money by decree;
-- fiat money pros and cons;
-- commodity-backed systems;
-- debt-driven money creation;
-- fractional-reserve banking as a featured case study: bank balance sheets, deposit liabilities, loans and other assets, liquidity, solvency, credit creation, and bank-run dynamics;
-- the distinction between reserve requirements, capital requirements, liquidity requirements, and the other legal, economic, and risk constraints on bank lending;
-- the Cantillon effect: when new money or credit enters an economy through particular recipients, those recipients may be able to spend it before prices and wages have fully adjusted; later recipients may face changed prices first;
-- how the distribution channel, timing, contracts, market conditions, and credit demand can affect who experiences those changes and when;
-- commercial-bank revenue models;
-- reserve requirements;
-- central banks as lender of last resort;
-- bailouts, moral hazard, and "too big to fail";
-- boom-and-bust cycle;
-- government debt and bond issuance;
-- wealthy individuals and asset ownership under inflation;
-- commercial banks and financial-sector incentives;
-- central banks, interest rates, monetary policy, and fiscal policy;
-- target rates, expansionary fiscal policy, contractionary fiscal policy;
-- exchange-rate policy, supply shocks, and price controls;
-- detailed purchasing-power examples;
-- productivity versus wages;
-- global debt spiral;
-- inflation, consumerism, social unrest, economic mobility, and wealth concentration;
-- country-specific or local history prompts.
+- legal tender law
+- fiat money by decree
+- fiat money pros and cons
+- commodity-backed systems
+- debt-driven money creation
+- fractional-reserve banking as a featured case study: bank balance sheets, deposit liabilities, loans and other assets, liquidity, solvency, credit creation, and bank-run dynamics
+- the distinction between reserve requirements, capital requirements, liquidity requirements, and the other legal, economic, and risk constraints on bank lending
+- the Cantillon effect: when new money or credit enters an economy through particular recipients, those recipients may be able to spend it before prices and wages have fully adjusted; later recipients may face changed prices first
+- how the distribution channel, timing, contracts, market conditions, and credit demand can affect who experiences those changes and when
+- commercial-bank revenue models
+- reserve requirements
+- central banks as lender of last resort
+- bailouts, moral hazard, and "too big to fail"
+- boom-and-bust cycle
+- government debt and bond issuance
+- wealthy individuals and asset ownership under inflation
+- commercial banks and financial-sector incentives
+- central banks, interest rates, monetary policy, and fiscal policy
+- target rates, expansionary fiscal policy, contractionary fiscal policy
+- exchange-rate policy, supply shocks, and price controls
+- detailed purchasing-power examples
+- productivity versus wages
+- global debt spiral
+- inflation, consumerism, social unrest, economic mobility, and wealth concentration
+- country-specific or local history prompts
 
 Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
@@ -436,9 +436,9 @@ Fractional-reserve banking should be a featured Monetary Economics strand, not a
 
 Avoid presenting one reserve ratio as a universal explanation of money creation. Rules and practices differ by jurisdiction and time, and lending is also constrained by capital, liquidity, regulation, borrower creditworthiness, funding, and demand for credit. Use current, locally relevant banking rules only when they are verified, dated, and appropriately sourced.
 
-Reason outside the Diploma:
+Reason outside the Bitcoin Diploma:
 
-The Diploma should give a plain-language account of fiat-system problems. [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) can examine policy, institutions, debt dynamics, and social consequences with more precision and context.
+The Bitcoin Diploma should give a plain-language account of fiat-system problems. [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) can examine policy, institutions, debt dynamics, and social consequences with more precision and context.
 
 Fact-check notes:
 
@@ -456,17 +456,17 @@ Primary sources:
 
 Content to preserve:
 
-- CBDCs as digital fiat issued or controlled by central banks;
-- difference between digital fiat, bank deposits, physical cash, and CBDCs;
-- institutional versus retail CBDC designs;
-- programmable money concerns;
-- transaction monitoring;
-- transaction blocking or freezing;
-- account or identity linkage;
-- monetary policy and fiat supply;
-- local CBDC status research;
-- CBDC versus Bitcoin comparison;
-- human-rights and civil-liberties implications.
+- CBDCs as digital fiat issued or controlled by central banks
+- difference between digital fiat, bank deposits, physical cash, and CBDCs
+- institutional versus retail CBDC designs
+- programmable money concerns
+- transaction monitoring
+- transaction blocking or freezing
+- account or identity linkage
+- monetary policy and fiat supply
+- local CBDC status research
+- CBDC versus Bitcoin comparison
+- human-rights and civil-liberties implications
 
 Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
@@ -475,9 +475,9 @@ Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advan
 - Money & Society
 - Privacy & Security
 
-Reason outside the Diploma:
+Reason outside the Bitcoin Diploma:
 
-The Diploma may use CBDCs briefly as a fiat-system example. Detailed CBDC policy, surveillance, programmability, and country-specific status belong in [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) or a educator-curated Module 4 variant.
+The Bitcoin Diploma may use CBDCs briefly as a fiat-system example. Detailed CBDC policy, surveillance, programmability, and country-specific status belong in [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) or a educator-curated Module 4 variant.
 
 Fact-check notes:
 
@@ -495,20 +495,20 @@ Primary sources:
 
 Content to preserve:
 
-- personal computers and the internet as social turning points;
-- privacy, surveillance, and control in digital systems;
-- Cypherpunk movement;
-- Eric Hughes, Timothy C. May, John Gilmore, Hal Finney, Phil Zimmermann, and PGP;
-- `A Cypherpunk Manifesto`;
-- cryptography as a tool for privacy and freedom;
-- centralized versus decentralized system comparison;
-- central points of failure;
-- censorship and restriction;
-- autonomy, transparency, resilience, privacy, and permissionless participation;
-- Tor as an example of a decentralized communication network;
-- David Chaum and DigiCash;
-- Hashcash, Bit Gold, and other digital-money attempts;
-- the unsolved decentralized digital-currency problem before Bitcoin.
+- personal computers and the internet as social turning points
+- privacy, surveillance, and control in digital systems
+- Cypherpunk movement
+- Eric Hughes, Timothy C. May, John Gilmore, Hal Finney, Phil Zimmermann, and PGP
+- `A Cypherpunk Manifesto`
+- cryptography as a tool for privacy and freedom
+- centralized versus decentralized system comparison
+- central points of failure
+- censorship and restriction
+- autonomy, transparency, resilience, privacy, and permissionless participation
+- Tor as an example of a decentralized communication network
+- David Chaum and DigiCash
+- Hashcash, Bit Gold, and other digital-money attempts
+- the unsolved decentralized digital-currency problem before Bitcoin
 
 Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
@@ -518,9 +518,9 @@ Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advan
 - Nostr & Decentralized Communication
 - Cryptography
 
-Reason outside the Diploma:
+Reason outside the Bitcoin Diploma:
 
-The Diploma should introduce the search for decentralized digital money without overloading beginners with a long technical or historical timeline.
+The Bitcoin Diploma should introduce the search for decentralized digital money without overloading beginners with a long technical or historical timeline.
 
 ## Bitcoin Consensus, Network Roles, And Open Development
 
@@ -534,19 +534,19 @@ Primary sources:
 
 Content to preserve:
 
-- Nakamoto Consensus;
-- consensus as agreement on shared rules;
-- board-game rule analogy;
-- 21 million limit as a consensus rule;
-- miners, nodes, users, developers, and projects as network participants;
-- developers and open-source contribution;
-- Bitcoin software review and protocol change process;
-- Byzantine Generals Problem as educator background;
-- consensus activity;
-- decentralized coordination without a defined leader;
-- relationship between nodes, miners, proof of work, and rule enforcement;
-- how new nodes sync and verify;
-- why running a node reduces trust.
+- Nakamoto Consensus
+- consensus as agreement on shared rules
+- board-game rule analogy
+- 21 million limit as a consensus rule
+- miners, nodes, users, developers, and projects as network participants
+- developers and open-source contribution
+- Bitcoin software review and protocol change process
+- Byzantine Generals Problem as educator background
+- consensus activity
+- decentralized coordination without a defined leader
+- relationship between nodes, miners, proof of work, and rule enforcement
+- how new nodes sync and verify
+- why running a node reduces trust
 
 A merchant, exchange, or other economically active user that verifies payments with a node is sometimes called an **economic node**. Its influence comes from the economic activity it accepts, not from authority over other participants. Running a node also requires storage, bandwidth, maintenance, and technical attention.
 
@@ -558,9 +558,9 @@ Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advan
 - Bitcoin Education
 - Computer Science Fundamentals
 
-Reason outside the Diploma:
+Reason outside the Bitcoin Diploma:
 
-The Diploma should explain roles simply. Exact consensus mechanics and open-source governance need more time and stronger prerequisites.
+The Bitcoin Diploma should explain roles simply. Exact consensus mechanics and open-source governance need more time and stronger prerequisites.
 
 ## Cryptography
 
@@ -572,23 +572,23 @@ Primary sources:
 
 Content to preserve:
 
-- cryptography definition;
-- encryption and decryption;
-- shared-secret cryptography versus public-key cryptography;
-- public keys and private keys;
-- digital signatures;
-- transaction authorization;
-- functions, one-way functions, and hash functions;
-- SHA-256 and RIPEMD-160;
-- hashes as fixed-length fingerprints;
-- deterministic outputs;
-- pre-image resistance;
-- avalanche effect;
-- collision resistance;
-- fast verification;
-- address creation through hashing public keys;
-- SHA-256 activity;
-- demo-before-abstraction teaching method.
+- cryptography definition
+- encryption and decryption
+- shared-secret cryptography versus public-key cryptography
+- public keys and private keys
+- digital signatures
+- transaction authorization
+- functions, one-way functions, and hash functions
+- SHA-256 and RIPEMD-160
+- hashes as fixed-length fingerprints
+- deterministic outputs
+- pre-image resistance
+- avalanche effect
+- collision resistance
+- fast verification
+- address creation through hashing public keys
+- SHA-256 activity
+- demo-before-abstraction teaching method
 
 Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
@@ -597,9 +597,9 @@ Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advan
 - Transactions & Settlement
 - Privacy & Security
 
-Reason outside the Diploma:
+Reason outside the Bitcoin Diploma:
 
-The Diploma needs a practical introduction to keys and signatures. Cryptographic properties, hash functions, and address-generation detail are Advanced technical foundations.
+The Bitcoin Diploma needs a practical introduction to keys and signatures. Cryptographic properties, hash functions, and address-generation detail are Advanced technical foundations.
 
 Activity seeds:
 
@@ -619,22 +619,22 @@ Primary sources:
 
 Content to preserve:
 
-- UTXOs as pieces of bitcoin rather than account balances;
-- wallet balance as sum of controlled UTXOs;
-- transaction inputs and outputs;
-- change outputs;
-- transaction fees;
-- spent and unspent outputs;
-- transaction signing;
-- broadcast to peer-to-peer network;
-- node validation;
-- mempool entry;
-- miner transaction selection for candidate blocks;
-- confirmations;
-- transaction finality;
-- privacy risk from revealing UTXOs;
-- comparison between property transfer and cash transfer;
-- transaction roles: sender, recipient, miners, node operators.
+- UTXOs as pieces of bitcoin rather than account balances
+- wallet balance as sum of controlled UTXOs
+- transaction inputs and outputs
+- change outputs
+- transaction fees
+- spent and unspent outputs
+- transaction signing
+- broadcast to peer-to-peer network
+- node validation
+- mempool entry
+- miner transaction selection for candidate blocks
+- confirmations
+- transaction finality
+- privacy risk from revealing UTXOs
+- comparison between property transfer and cash transfer
+- transaction roles: sender, recipient, miners, node operators
 
 Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
@@ -643,9 +643,9 @@ Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advan
 - Computer Science Fundamentals
 - Infrastructure & Maintenance
 
-Reason outside the Diploma:
+Reason outside the Bitcoin Diploma:
 
-The Diploma should teach only the transaction knowledge needed for safe beginner use. UTXO mechanics, fee strategy, privacy analysis, and full transaction lifecycle belong in Advanced.
+The Bitcoin Diploma should teach only the transaction knowledge needed for safe beginner use. UTXO mechanics, fee strategy, privacy analysis, and full transaction lifecycle belong in Advanced.
 
 ## Mining, Difficulty, Issuance, And Fees
 
@@ -660,28 +660,28 @@ Primary sources:
 
 Content to preserve:
 
-- miners collecting transactions into candidate blocks;
-- block reward and transaction fees;
-- supply schedule;
-- halving every 210,000 blocks;
-- approximate four-year halving rhythm;
-- issuance declining toward the 21 million cap;
-- 2140 as approximate final issuance horizon;
-- valid block hashes;
-- previous-block hashes linking blocks;
-- difficulty target;
-- mining as repeated hashing;
-- proof of work as costly work that is easy to verify;
-- block-header fields as the compact data miners repeatedly hash;
-- difficulty adjustment every 2,016 blocks;
-- 10-minute average block interval;
-- competing blocks and discarded alternatives;
-- block propagation and how independently validating nodes relay valid blocks;
-- Merkle trees as an optional data-structure extension for connecting transactions to a block;
-- miner incentives;
-- transaction-fee market;
-- future fee-revenue importance;
-- hash rate, pools, mining map, and block-space visualization as possible demonstrations.
+- miners collecting transactions into candidate blocks
+- block reward and transaction fees
+- supply schedule
+- halving every 210,000 blocks
+- approximate four-year halving rhythm
+- issuance declining toward the 21 million cap
+- 2140 as approximate final issuance horizon
+- valid block hashes
+- previous-block hashes linking blocks
+- difficulty target
+- mining as repeated hashing
+- proof of work as costly work that is easy to verify
+- block-header fields as the compact data miners repeatedly hash
+- difficulty adjustment every 2,016 blocks
+- 10-minute average block interval
+- competing blocks and discarded alternatives
+- block propagation and how independently validating nodes relay valid blocks
+- Merkle trees as an optional data-structure extension for connecting transactions to a block
+- miner incentives
+- transaction-fee market
+- future fee-revenue importance
+- hash rate, pools, mining map, and block-space visualization as possible demonstrations
 
 Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
@@ -691,9 +691,9 @@ Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advan
 - Infrastructure & Maintenance
 - Computer Science Fundamentals
 
-Reason outside the Diploma:
+Reason outside the Bitcoin Diploma:
 
-The Diploma needs a foundational explanation of proof of work. Detailed mining mechanics, issuance math, fee markets, and difficulty adjustment belong in Advanced.
+The Bitcoin Diploma needs a foundational explanation of proof of work. Detailed mining mechanics, issuance math, fee markets, and difficulty adjustment belong in Advanced.
 
 Fact-check notes:
 
@@ -710,16 +710,16 @@ Primary sources:
 
 Content to preserve:
 
-- mempool as each node's set of unconfirmed transactions;
-- no single universal mempool;
-- transaction broadcast and waiting;
-- node validation before mempool acceptance;
-- miner selection from mempool;
-- fee-rate observation;
-- mempool.space as one visual block explorer, not the protocol itself;
-- block explorers as helpful but privacy-relevant interfaces;
-- live network observation;
-- low-connectivity alternatives for demonstrations.
+- mempool as each node's set of unconfirmed transactions
+- no single universal mempool
+- transaction broadcast and waiting
+- node validation before mempool acceptance
+- miner selection from mempool
+- fee-rate observation
+- mempool.space as one visual block explorer, not the protocol itself
+- block explorers as helpful but privacy-relevant interfaces
+- live network observation
+- low-connectivity alternatives for demonstrations
 
 Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
@@ -728,9 +728,9 @@ Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advan
 - Infrastructure & Maintenance
 - Privacy & Security
 
-Reason outside the Diploma:
+Reason outside the Bitcoin Diploma:
 
-The Diploma may include simple block explorer orientation. Detailed mempool analysis and fee market behavior are Advanced.
+The Bitcoin Diploma may include simple block explorer orientation. Detailed mempool analysis and fee market behavior are Advanced.
 
 ## Wallets, Custody, Recovery, And Operational Security
 
@@ -744,29 +744,29 @@ Primary sources:
 
 Content to preserve:
 
-- wallet as key management plus interface;
-- master private key and public addresses;
-- self-custodial versus custodial wallets;
-- installation-flow differences between custodial and self-custodial wallets;
-- online, mobile, desktop, and hardware wallets;
-- hot versus cold storage;
-- wallet choice criteria: security, privacy, ease of use, compatibility, fees, reputation, control;
-- open-source versus closed-source wallet software;
-- mobile wallet setup;
-- recovery phrase backup;
-- recovery phrase confirmation;
-- wallet restoration from seed phrase;
-- receiving via address, link, or QR code;
-- sending and double-checking;
-- confirmation waiting;
-- "not your keys, not your coins";
-- "do not trust, verify";
-- threat models for large balances;
-- hardware wallet security models;
-- Bitcoin-only firmware;
-- airgapped signing;
-- passphrases and the added recovery risk they create;
-- multisig, encrypted-backup trade-offs, and inheritance as future possible additions.
+- wallet as key management plus interface
+- master private key and public addresses
+- self-custodial versus custodial wallets
+- installation-flow differences between custodial and self-custodial wallets
+- online, mobile, desktop, and hardware wallets
+- hot versus cold storage
+- wallet choice criteria: security, privacy, ease of use, compatibility, fees, reputation, control
+- open-source versus closed-source wallet software
+- mobile wallet setup
+- recovery phrase backup
+- recovery phrase confirmation
+- wallet restoration from seed phrase
+- receiving via address, link, or QR code
+- sending and double-checking
+- confirmation waiting
+- "not your keys, not your coins"
+- "do not trust, verify"
+- threat models for large balances
+- hardware wallet security models
+- Bitcoin-only firmware
+- airgapped signing
+- passphrases and the added recovery risk they create
+- multisig, encrypted-backup trade-offs, and inheritance as future possible additions
 
 Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
@@ -775,9 +775,9 @@ Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advan
 - Infrastructure & Maintenance
 - Online privacy and safety
 
-Reason outside the Diploma:
+Reason outside the Bitcoin Diploma:
 
-The Diploma gives beginner orientation and safety rules. [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) can teach operational security, troubleshooting, deeper wallet selection, and high-stakes custody practices.
+The Bitcoin Diploma gives beginner orientation and safety rules. [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) can teach operational security, troubleshooting, deeper wallet selection, and high-stakes custody practices.
 
 Safety notes:
 
@@ -794,19 +794,19 @@ Primary sources:
 
 Content to preserve:
 
-- earning bitcoin;
-- mining bitcoin as acquisition;
-- in-person peer-to-peer exchange;
-- online peer-to-peer platforms;
-- escrow concepts;
-- centralized exchanges and brokers;
-- identity verification;
-- withdrawal risk;
-- custodian risk;
-- misappropriation and proof-of-reserves concerns;
-- fraud and physical safety;
-- liquidity, fees, spread, jurisdiction, tax, and record-keeping;
-- local on-ramp and off-ramp mapping.
+- earning bitcoin
+- mining bitcoin as acquisition
+- in-person peer-to-peer exchange
+- online peer-to-peer platforms
+- escrow concepts
+- centralized exchanges and brokers
+- identity verification
+- withdrawal risk
+- custodian risk
+- misappropriation and proof-of-reserves concerns
+- fraud and physical safety
+- liquidity, fees, spread, jurisdiction, tax, and record-keeping
+- local on-ramp and off-ramp mapping
 
 Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
@@ -815,9 +815,9 @@ Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advan
 - Bitcoin for Business
 - Money & Human Rights
 
-Reason outside the Diploma:
+Reason outside the Bitcoin Diploma:
 
-The Diploma should teach acquisition pathways as risk awareness, not as instructions or provider recommendations. Specific providers, KYC/no-KYC practice, and legal/tax considerations require local expertise.
+The Bitcoin Diploma should teach acquisition pathways as risk awareness, not as instructions or provider recommendations. Specific providers, KYC/no-KYC practice, and legal/tax considerations require local expertise.
 
 Safety and publication notes:
 
@@ -837,27 +837,27 @@ Primary sources:
 
 Content to preserve:
 
-- Lightning as a payment network built on top of Bitcoin;
-- payment channels;
-- channel opening and closing;
-- hash time-locked contracts (HTLCs) as the conditional-payment mechanism behind many Lightning payment paths;
-- shared-wallet or tab analogy;
-- off-chain payments;
-- settlement back to the blockchain;
-- routing through other participants;
-- direct and indirect payment paths;
-- on-chain versus Lightning comparison;
-- Lightning invoices;
-- Lightning addresses;
-- custodial and self-custodial Lightning wallets;
-- open-source versus closed-source Lightning wallets;
-- moving funds from on-chain to Lightning;
-- routing failures;
-- liquidity constraints;
-- Lightning node operators and routing fees;
-- Lightning network map;
-- Lightning relay activity;
-- current capacity or throughput claims as fact-check-only material.
+- Lightning as a payment network built on top of Bitcoin
+- payment channels
+- channel opening and closing
+- hash time-locked contracts (HTLCs) as the conditional-payment mechanism behind many Lightning payment paths
+- shared-wallet or tab analogy
+- off-chain payments
+- settlement back to the blockchain
+- routing through other participants
+- direct and indirect payment paths
+- on-chain versus Lightning comparison
+- Lightning invoices
+- Lightning addresses
+- custodial and self-custodial Lightning wallets
+- open-source versus closed-source Lightning wallets
+- moving funds from on-chain to Lightning
+- routing failures
+- liquidity constraints
+- Lightning node operators and routing fees
+- Lightning network map
+- Lightning relay activity
+- current capacity or throughput claims as fact-check-only material
 
 Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
@@ -867,9 +867,9 @@ Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advan
 - Privacy & Security
 - Bitcoin for Business
 
-Reason outside the Diploma:
+Reason outside the Bitcoin Diploma:
 
-The Diploma should distinguish on-chain and Lightning at a high-level overview. Detailed Lightning setup, channel management, routing, liquidity, and node operation belong in a educator-curated Module 4 variant or [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
+The Bitcoin Diploma should distinguish on-chain and Lightning at a high-level overview. Detailed Lightning setup, channel management, routing, liquidity, and node operation belong in a educator-curated Module 4 variant or [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
 
 Fact-check notes:
 
@@ -884,21 +884,21 @@ Primary sources:
 
 Content to preserve:
 
-- payment processing flow for card payments;
-- merchant fees and intermediaries;
-- merchant benefits and risks of direct Bitcoin payments;
-- BTCPay Server;
-- self-hosted payment processing;
-- non-custodial invoice generation;
-- xpub-based invoice generation;
-- in-person wallet acceptance;
-- staff training;
-- receipts and refunds;
-- accounting and tax context;
-- device security;
-- conversion policy;
-- vouchers, gift cards, and payment cards as transitional tools;
-- BTCMap or equivalent merchant discovery.
+- payment processing flow for card payments
+- merchant fees and intermediaries
+- merchant benefits and risks of direct Bitcoin payments
+- BTCPay Server
+- self-hosted payment processing
+- non-custodial invoice generation
+- xpub-based invoice generation
+- in-person wallet acceptance
+- staff training
+- receipts and refunds
+- accounting and tax context
+- device security
+- conversion policy
+- vouchers, gift cards, and payment cards as transitional tools
+- BTCMap or equivalent merchant discovery
 
 Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
@@ -907,9 +907,9 @@ Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advan
 - Infrastructure & Maintenance
 - Communities & Circular Economies
 
-Reason outside the Diploma:
+Reason outside the Bitcoin Diploma:
 
-The Diploma may discuss local use cases. Business implementation, payment processors, accounting, staff process, and named tools require separate workshops and local expertise.
+The Bitcoin Diploma may discuss local use cases. Business implementation, payment processors, accounting, staff process, and named tools require separate workshops and local expertise.
 
 Fact-check notes:
 
@@ -926,18 +926,18 @@ Primary sources:
 
 Content to preserve:
 
-- circular economy definition;
-- local earning, spending, saving, receiving, and exchange loops;
-- merchant discovery;
-- BTCMap community and merchant listings;
-- Bitcoin Beach and Arnhem as historical examples;
-- local education and technical support;
-- voluntary participation;
-- adoption quality versus adoption numbers;
-- community custody risk;
-- case studies from Indonesia and The Core;
-- local resource maps;
-- community problem-solving workshops.
+- circular economy definition
+- local earning, spending, saving, receiving, and exchange loops
+- merchant discovery
+- BTCMap community and merchant listings
+- Bitcoin Beach and Arnhem as historical examples
+- local education and technical support
+- voluntary participation
+- adoption quality versus adoption numbers
+- community custody risk
+- case studies from Indonesia and The Core
+- local resource maps
+- community problem-solving workshops
 
 Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
@@ -947,7 +947,7 @@ Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advan
 - Bitcoin for Families
 - Bitcoin for ... (Communities & Populations)
 
-Reason outside the Diploma:
+Reason outside the Bitcoin Diploma:
 
 Module 4 can introduce local practice. Deeper community development, governance, support, and sustainability belong in separate modules or local programs.
 
@@ -963,22 +963,22 @@ Primary sources:
 
 Content to preserve:
 
-- self-sovereignty;
-- financial independence;
-- critical thinking;
-- self-determination;
-- control over money as a rights question;
-- censorship resistance;
-- node running as rule verification;
-- fixed supply and social incentives;
-- hyperbitcoinization as a hypothetical future scenario;
-- store-of-value claims;
-- monetary policy implications;
-- transparency and traceability;
-- remittances;
-- abundant energy and mining;
-- final reflection on how learner views changed;
-- "what is my next step?" prompts.
+- self-sovereignty
+- financial independence
+- critical thinking
+- self-determination
+- control over money as a rights question
+- censorship resistance
+- node running as rule verification
+- fixed supply and social incentives
+- hyperbitcoinization as a hypothetical future scenario
+- store-of-value claims
+- monetary policy implications
+- transparency and traceability
+- remittances
+- abundant energy and mining
+- final reflection on how learner views changed
+- "what is my next step?" prompts
 
 Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
@@ -988,9 +988,9 @@ Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advan
 - Energy & Mining
 - Bitcoin Education
 
-Reason outside the Diploma:
+Reason outside the Bitcoin Diploma:
 
-The Diploma should help learners reason independently without overloading them with broad future claims. Philosophy and future scenarios need careful claim/evidence/reasoning structure.
+The Bitcoin Diploma should help learners reason independently without overloading them with broad future claims. Philosophy and future scenarios need careful claim/evidence/reasoning structure.
 
 Fact-check and tone notes:
 
@@ -1009,14 +1009,14 @@ Primary sources:
 
 Content to preserve:
 
-- Bitcoin as open-source software;
-- inspectability and review;
-- open-source wallet preference;
-- community review as a form of verification;
-- BTCPay Server as an open-source payment processor;
-- protocol contribution;
-- project contribution beyond code;
-- maintainers, reviewers, educators, translators, designers, and local contributors.
+- Bitcoin as open-source software
+- inspectability and review
+- open-source wallet preference
+- community review as a form of verification
+- BTCPay Server as an open-source payment processor
+- protocol contribution
+- project contribution beyond code
+- maintainers, reviewers, educators, translators, designers, and local contributors
 
 Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
@@ -1025,9 +1025,9 @@ Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advan
 - Infrastructure & Maintenance
 - Bitcoin for Organizations
 
-Reason outside the Diploma:
+Reason outside the Bitcoin Diploma:
 
-The Diploma can mention open-source preference. Contribution pathways, software review, maintainership, and project governance require separate treatment.
+The Bitcoin Diploma can mention open-source preference. Contribution pathways, software review, maintainership, and project governance require separate treatment.
 
 ## Communication Networks, Nostr, And Online Privacy
 
@@ -1039,13 +1039,13 @@ Primary sources:
 
 Content to preserve:
 
-- internet freedom versus internet surveillance;
-- encryption for communication;
-- Tor as a decentralized communication example;
-- Nostr as a future decentralized communication module;
-- online privacy and safety;
-- identity, metadata, and account-control risks;
-- relationship between money, speech, and communication infrastructure.
+- internet freedom versus internet surveillance
+- encryption for communication
+- Tor as a decentralized communication example
+- Nostr as a future decentralized communication module
+- online privacy and safety
+- identity, metadata, and account-control risks
+- relationship between money, speech, and communication infrastructure
 
 Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
@@ -1055,9 +1055,9 @@ Possible [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advan
 - Privacy & Security
 - Money & Human Rights
 
-Reason outside the Diploma:
+Reason outside the Bitcoin Diploma:
 
-The beginner Diploma should stay focused on money and Bitcoin. Decentralized communication networks are important adjacent topics but should not expand the beginner scope.
+The beginner Bitcoin Diploma should stay focused on money and Bitcoin. Decentralized communication networks are important adjacent topics but should not expand the beginner scope.
 
 ---
 
@@ -1128,15 +1128,15 @@ These activities may become [Advanced modules](https://curriculum.myfirstbitcoin
 
 Every future activity should include:
 
-- competency;
-- prerequisites;
-- materials;
-- low-tech alternative;
-- safety notes;
-- current-data fact-check notes;
-- local expert notes where relevant;
-- evidence of learning;
-- adaptation notes.
+- competency
+- prerequisites
+- materials
+- low-tech alternative
+- safety notes
+- current-data fact-check notes
+- local expert notes where relevant
+- evidence of learning
+- adaptation notes
 
 ---
 
@@ -1147,20 +1147,20 @@ Use these source files when future [Advanced module](https://curriculum.myfirstb
 ## Active Workspace Sources
 
 - `00_index.md`: active workspace map.
-- `01_review.md`: diagnosis that the old Diploma mixed beginner and advanced material.
+- `01_review.md`: diagnosis that the old Bitcoin Diploma mixed beginner and advanced material.
 - `02_research.md`: evidence needs, Hackfest technical teaching notes, concept-map ideas.
 - `03_scope.md`: Advanced pathway workstream and out-of-scope timing.
-- `04_design.md`: simple-over-technical principle and four-module Diploma / educator-curated Module 4 within it / Advanced separation.
+- `04_design.md`: simple-over-technical principle and four-module Bitcoin Diploma / educator-curated Module 4 within it / Advanced separation.
 - `05_competencies.md`: Advanced competency boundary.
 - `06_plan.md`: active beginner architecture and legacy migration rules.
 - `../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`: official beginner Student Guide; useful for identifying what has been compressed or removed.
 - [Resources Hub](https://programs.myfirstbitcoin.org/resources/): activity template and activity categories.
 - [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md): educator guidance on moving complex side topics to Advanced.
-- `16_spec.md`: Diploma overview and public communication context.
+- `16_spec.md`: Bitcoin Diploma overview and public communication context.
 
 ## Legacy Reference Sources
 
-- `../ref/00_bd_202604-en.md`: full prior English Diploma source.
+- `../ref/00_bd_202604-en.md`: full prior English Bitcoin Diploma source.
 - `../ref/01_bd_202604_contents.csv`: old table of contents.
 - `../ref/01_bd_202604_contents.md`: old table of contents in Markdown.
 - `../ref/02_bd_202604_educator_guide.md`: legacy educator guide.
@@ -1207,7 +1207,7 @@ Use these source files when future [Advanced module](https://curriculum.myfirstb
 
 ## Retiring Organizations Reference Sources
 
-Bitcoin for Organizations is being cannibalized by the redesigned Diploma and Advanced pathway. The old Organizations path should not continue as a standalone course after the redesign, but its strongest material should be preserved here as Advanced source material.
+Bitcoin for Organizations is being cannibalized by the redesigned Bitcoin Diploma and Advanced pathway. The old Organizations path should not continue as a standalone course after the redesign, but its strongest material should be preserved here as Advanced source material.
 
 Primary source path:
 
@@ -1234,9 +1234,9 @@ Bitcoin for Organizations should not remain a separate pathway after the redesig
 
 Its content should be transformed into:
 
-- a small number of beginner-appropriate additions to the new Diploma, tracked in this file;
-- [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) source trails, module seeds, activity seeds, and research notes in this file;
-- educator background where the material is useful but not yet student-facing.
+- a small number of beginner-appropriate additions to the new Bitcoin Diploma, tracked in this file
+- [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) source trails, module seeds, activity seeds, and research notes in this file
+- educator background where the material is useful but not yet student-facing
 
 Most Organizations content belongs in Advanced because it assumes strategic, operational, financial, policy, technical, or sector-specific reasoning.
 
@@ -1245,7 +1245,7 @@ Most Organizations content belongs in Advanced because it assumes strategic, ope
 | [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) destination | Organizations content to merge | Source files | Transformation notes |
 |---|---|---|---|
 | Monetary Economics | value, intrinsic value, store of value, monetization sequence, Gresham's Law, monetary premium, inflation, credit, savings behavior, adoption curves, and investment, risk/reward, and capital-allocation frameworks | `2-dispelling-misconceptions/1-bitcoin-has-no-intrinsic-value.md`; `2-dispelling-misconceptions/8-bitcoin-is-not-widely-used-so-is-it-money.md`; `4-impact-on-industry-verticals/2-bitcoin-and-investment-management.md`; `6-adopting-bitcoin/2-the-bitcoin-adoption-cycle.md`; `7-bitcoin-s-possible-future/1-the-potential-future-for-bitcoin.md` | Use as deeper economic reasoning and scenario analysis. Do not prescribe allocations, products, or timing; remove investment-advice tone and date and verify market claims. |
-| History of Bitcoin | Cypherpunks, TCP/IP context, public-key cryptography, DigiCash, Hashcash, BitTorrent, reusable proof of work, B-money, Bit Gold, Satoshi's synthesis | `3-bitcoin-technical-history/`; `6-adopting-bitcoin/1-the-discovery-of-digital-scarcity.md` | Use as a full technical-history module. Beginner Diploma only needs the short timeline. |
+| History of Bitcoin | Cypherpunks, TCP/IP context, public-key cryptography, DigiCash, Hashcash, BitTorrent, reusable proof of work, B-money, Bit Gold, Satoshi's synthesis | `3-bitcoin-technical-history/`; `6-adopting-bitcoin/1-the-discovery-of-digital-scarcity.md` | Use as a full technical-history module. Beginner Bitcoin Diploma only needs the short timeline. |
 | Philosophy of Bitcoin | value as social judgment, Bitcoin as protocol/discovery, decentralization, political control of money, technology versus law, rules-not-rulers framing | `2-dispelling-misconceptions/1-bitcoin-has-no-intrinsic-value.md`; `2-dispelling-misconceptions/10-will-bitcoin-be-overtaken-by-another-technology.md`; `4-impact-on-industry-verticals/6-government.md` | Keep as discussion and reasoning material. Review tone carefully before publication. |
 | Transactions & Settlement | settlement finality, block explorers, confirmations, transaction transparency, card-payment flow versus Lightning flow, high-value settlement, signing ceremony ideas | `4-impact-on-industry-verticals/3-banking-and-payments.md`; `7-bitcoin-s-possible-future/1-the-potential-future-for-bitcoin.md`; `8-the-bitcoin-economy/` | Strong fit. Include practical transaction analysis and settlement comparison activities. |
 | Mining & Consensus | proof of work, double-spend defense, confirmations, reorganizations, 51% attack analysis, mining centralization, miner incentives, difficulty adjustment | `6-adopting-bitcoin/1-the-discovery-of-digital-scarcity.md`; `3-bitcoin-technical-history/7-bitcoin.md`; `2-dispelling-misconceptions/2-bitcoin-is-bad-for-the-environment.md` | Use for deeper consensus. Probability tables and attack scenarios stay Advanced. |
@@ -1269,7 +1269,7 @@ Most Organizations content belongs in Advanced because it assumes strategic, ope
 
 ## Additional Organizations Material To Preserve
 
-The beginner merge map identifies the following material as too advanced for the Diploma but useful when bounded carefully in the 24-module roadmap.
+The beginner merge map identifies the following material as too advanced for the Bitcoin Diploma but useful when bounded carefully in the 24-module roadmap.
 
 Source: the Organizations material mapped and preserved in this file.
 
@@ -1321,12 +1321,12 @@ The earlier eight-band migration priority was a source-preservation aid, not a p
 
 The earlier signals remain represented in the roadmap:
 
-- educator preparation and misconceptions: Module 1;
-- technical history, computer science, cryptography, mining, and consensus: Modules 2, 5, and 6;
-- transactions, payments, exchange, Lightning, and infrastructure: Modules 7, 9, and 10;
-- organizational, business, treasury, and risk material: Modules 14–16;
-- energy: Module 13;
-- social, human-rights, and policy material: Modules 19–21;
+- educator preparation and misconceptions: Module 1
+- technical history, computer science, cryptography, mining, and consensus: Modules 2, 5, and 6
+- transactions, payments, exchange, Lightning, and infrastructure: Modules 7, 9, and 10
+- organizational, business, treasury, and risk material: Modules 14–16
+- energy: Module 13
+- social, human-rights, and policy material: Modules 19–21
 - open-ledger analysis: Module 12; and
 - AI payments: Module 24.
 
@@ -1334,43 +1334,43 @@ The earlier signals remain represented in the roadmap:
 
 Before any Organizations material is published in [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/):
 
-- remove or soften financial, legal, tax, and investment advice language;
-- convert predictions into scenarios or discussion prompts;
-- verify current-data claims and date them;
-- check cited links and image rights;
-- distinguish Bitcoin from broader crypto without turning every section into an altcoin debate;
-- separate conceptual claims from local legal or regulatory facts;
-- add not-financial/legal/tax-advice boundaries where relevant;
-- frame risk, reward, investment, and capital-allocation material as general education and fictional scenario analysis, never individualized recommendations;
-- review tone for global audiences and translation readiness.
+- remove or soften financial, legal, tax, and investment advice language
+- convert predictions into scenarios or discussion prompts
+- verify current-data claims and date them
+- check cited links and image rights
+- distinguish Bitcoin from broader crypto without turning every section into an altcoin debate
+- separate conceptual claims from local legal or regulatory facts
+- add not-financial/legal/tax-advice boundaries where relevant
+- frame risk, reward, investment, and capital-allocation material as general education and fictional scenario analysis, never individualized recommendations
+- review tone for global audiences and translation readiness
 
 Current-data claims requiring verification include:
 
-- ETF approvals, flows, assets, and performance records;
-- Bitcoin price, market cap, holder estimates, hashrate, fees, and supply figures;
-- Lightning usage and capacity claims;
-- CBDC project counts and country status;
-- corporate and national Bitcoin holdings;
-- accounting, tax, AML, KYC, and regulatory rules;
-- energy-use percentages, renewable-energy claims, grid-cost examples, and methane claims;
-- on-chain analytic metrics, their methodology, and any interpretation based on them;
-- sensitive Nostr application claims, including healthcare, voting, identity, or reward-system examples;
-- named company, wallet, custodian, exchange, and service-provider examples.
+- ETF approvals, flows, assets, and performance records
+- Bitcoin price, market cap, holder estimates, hashrate, fees, and supply figures
+- Lightning usage and capacity claims
+- CBDC project counts and country status
+- corporate and national Bitcoin holdings
+- accounting, tax, AML, KYC, and regulatory rules
+- energy-use percentages, renewable-energy claims, grid-cost examples, and methane claims
+- on-chain analytic metrics, their methodology, and any interpretation based on them
+- sensitive Nostr application claims, including healthcare, voting, identity, or reward-system examples
+- named company, wallet, custodian, exchange, and service-provider examples
 
 ## Material To Keep As Background Only
 
 Do not automatically make the following student-facing:
 
-- provocative political language;
-- dated company examples used as proof of inevitability;
-- named provider recommendations;
-- specific tax or accounting instructions;
-- investment-performance comparisons;
-- claims about future government adoption;
-- highly technical AI-payment workflows;
-- adjacent-protocol comparisons that could blur the Bitcoin-only scope;
-- sensitive communication or data-use case studies without specialist review;
-- controversial policy claims without structured evidence and counterarguments.
+- provocative political language
+- dated company examples used as proof of inevitability
+- named provider recommendations
+- specific tax or accounting instructions
+- investment-performance comparisons
+- claims about future government adoption
+- highly technical AI-payment workflows
+- adjacent-protocol comparisons that could blur the Bitcoin-only scope
+- sensitive communication or data-use case studies without specialist review
+- controversial policy claims without structured evidence and counterarguments
 
 These can inform educator preparation, scenario design, or research notes.
 
@@ -1378,24 +1378,24 @@ These can inform educator preparation, scenario design, or research notes.
 
 # 13. Fact-Check And Publication Warnings
 
-[Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) will likely use more current data, named tools, legal context, and technical claims than the beginner Diploma. Treat these as high-maintenance content.
+[Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) will likely use more current data, named tools, legal context, and technical claims than the beginner Bitcoin Diploma. Treat these as high-maintenance content.
 
 Before any [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) is published, verify, date, cite, localize, or rewrite:
 
-- CBDC country counts and country-status claims;
-- debt, inflation, purchasing-power, wage, and productivity statistics;
-- bitcoin mined-supply figures;
-- on-chain analytic metrics and market-cycle interpretations;
-- halving tables and future issuance estimates;
-- hashrate, mining distribution, mining-pool, and energy data;
-- large-transaction fee examples;
-- Visa or card-network comparisons;
-- Lightning capacity, channel count, node count, speed, and fee claims;
-- provider names, wallet names, exchange names, and platform names;
-- legal, tax, KYC, privacy, sanctions, accounting, and regulatory claims;
-- merchant fee examples;
-- URLs, QR codes, and external resource links;
-- safety claims about wallets, hardware devices, or custody practices.
+- CBDC country counts and country-status claims
+- debt, inflation, purchasing-power, wage, and productivity statistics
+- bitcoin mined-supply figures
+- on-chain analytic metrics and market-cycle interpretations
+- halving tables and future issuance estimates
+- hashrate, mining distribution, mining-pool, and energy data
+- large-transaction fee examples
+- Visa or card-network comparisons
+- Lightning capacity, channel count, node count, speed, and fee claims
+- provider names, wallet names, exchange names, and platform names
+- legal, tax, KYC, privacy, sanctions, accounting, and regulatory claims
+- merchant fee examples
+- URLs, QR codes, and external resource links
+- safety claims about wallets, hardware devices, or custody practices
 - sensitive Nostr application claims, including healthcare, voting, identity, or reward-system examples.
 
 Evergreen explanations are preferred when current data is not essential.
@@ -1404,9 +1404,9 @@ Evergreen explanations are preferred when current data is not essential.
 
 # 14. Future Design Questions
 
-Do not resolve these before the beginner Diploma is published unless the answer is required for publication.
+Do not resolve these before the beginner Bitcoin Diploma is published unless the answer is required for publication.
 
-- Does the proposed 24-module publication order still fit learner demand, educator capacity, and available review resources after the beginner Diploma is published?
+- Does the proposed 24-module publication order still fit learner demand, educator capacity, and available review resources after the beginner Bitcoin Diploma is published?
 - Which [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) are learner-facing, educator-facing, or both?
 - Which topics become workshops rather than written modules?
 - Which topics require local legal, tax, privacy, or safety review?
@@ -1428,14 +1428,14 @@ Use this section for new Advanced material discovered during editing.
 
 When adding an item, include:
 
-- short topic name;
-- source file or note origin;
-- potential module;
-- why it is outside the Diploma;
-- whether it needs fact-checking, technical review, legal review, or local adaptation.
+- short topic name
+- source file or note origin
+- potential module
+- why it is outside the Bitcoin Diploma
+- whether it needs fact-checking, technical review, legal review, or local adaptation
 
 Template:
 
-| Topic | Source | Potential module | Why outside the Diploma | Review needed |
+| Topic | Source | Potential module | Why outside the Bitcoin Diploma | Review needed |
 |---|---|---|---|---|
 |  |  |  |  |  |

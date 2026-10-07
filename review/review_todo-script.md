@@ -98,12 +98,12 @@ When the same evidence supports multiple items, cite it separately in each item.
 
 If an item is not complete, do not invent a fix or approval. Add any useful information available from the current project:
 
-- the exact gap or missing acceptance condition;
-- the publication file and line showing the partial implementation;
-- the workspace file and line explaining the intended requirement or unresolved choice;
-- the dependency or decision that blocks completion;
-- a concise recommended next step;
-- the review date.
+- the exact gap or missing acceptance condition
+- the publication file and line showing the partial implementation
+- the workspace file and line explaining the intended requirement or unresolved choice
+- the dependency or decision that blocks completion
+- a concise recommended next step
+- the review date
 
 Keep the item’s existing structure and history. Do not delete completed or unresolved records. Preserve historical alternatives in decision entries and historical wording in annotation entries.
 
@@ -143,11 +143,11 @@ Before finishing:
 
 End the dated run report with `## Review report summary` as its final section. Under that exact heading, include:
 
-- files reviewed and review date;
-- counts before and after for `ACT`, `ANN`, and `DEC`;
-- IDs marked complete or resolved, with the main evidence links;
-- IDs left open, blocked, or needing clarification;
-- dashboard and tally updates made;
-- checks not performed or evidence that still requires human or external verification.
+- files reviewed and review date
+- counts before and after for `ACT`, `ANN`, and `DEC`
+- IDs marked complete or resolved, with the main evidence links
+- IDs left open, blocked, or needing clarification
+- dashboard and tally updates made
+- checks not performed or evidence that still requires human or external verification
 
 State that the run record is not a source of truth. Do not place any section or content after this summary.

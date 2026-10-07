@@ -16,7 +16,7 @@ Use one row per learner on Page 2. For each competency, record **Showing compete
 
 ### What learners can show
 
-| Competency | A learner can show | Part of the Diploma |
+| Competency | A learner can show | Part of the Bitcoin Diploma |
 |---|---|---|
 | `C1` Money and modern-money trade-offs | Explains why money is used, compares two forms, and explains a local or realistic trade-off. | Theory |
 | `C2` Bitcoin foundations and rules | Explains digital copying, shared verification, Bitcoin's rules and participant roles at a beginner level, and how a Bitcoin property could help or limit its use as money. | Theory |
@@ -26,7 +26,7 @@ Use one row per learner on Page 2. For each competency, record **Showing compete
 | `C6` Safe access and recovery readiness | Safely completes or simulates supported wallet access and receipt, then demonstrates recovery readiness with prepared materials. | Practice |
 | `C7` Local Bitcoin-as-money task | Completes a safe local task and explains its purpose, alternatives, trade-offs, possible failure, and next step. | Practice |
 
-`C7` is the educator-curated **Connect** stage of the Diploma's Problem → Solution → Action → Connect learning arc. Detailed criteria and approved activity examples are in the [Educator Guide](https://programs.myfirstbitcoin.org/programs/educator-guide/).
+`C7` is the educator-curated **Connect** stage of the Bitcoin Diploma's Problem → Solution → Action → Connect learning arc. Detailed criteria and approved activity examples are in the [Educator Guide](https://programs.myfirstbitcoin.org/programs/educator-guide/).
 
 ### A simple way to use this grid
 
@@ -37,7 +37,7 @@ Use one row per learner on Page 2. For each competency, record **Showing compete
 - Observe `C6` and `C7` directly. Online observation, simulation, testnet, physical tokens, or carefully structured low-stakes funds may be used when appropriate. Learners should never be asked to risk significant funds or expose secrets.
 - Use accessibility adaptations and low-tech routes when they preserve the competency. Plan a little extra time for troubleshooting, questions, feedback, and follow-up where needed.
 - One final result per learner is the only required grid record. Brief notes are helpful but optional. Never record seed phrases, private keys, credentials, balances, or unnecessary personal information.
-- Theory and practice are two parts of the same Diploma: theory is `C1`–`C5`; practice is `C6`–`C7`.
+- Theory and practice are two parts of the same Bitcoin Diploma: theory is `C1`–`C5`; practice is `C6`–`C7`.
 - Use the [Educator Guide](https://programs.myfirstbitcoin.org/programs/educator-guide/) for examples, detailed criteria, safety guidance, and additional support.
 
 <div style="break-after: page; page-break-after: always;"></div>

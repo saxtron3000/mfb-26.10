@@ -4,23 +4,23 @@
 
 This document defines how activities support the Bitcoin Diploma 2026.10 learning pathway. It is a planning and quality guide for activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/); it does not contain full activity procedures or replace the Educator Guide, assessment requirements, or competency framework.
 
-Activities should give learners short, purposeful opportunities to discuss, compare, practise, apply, explain, and reflect. They should make the Diploma more participatory without adding unnecessary technical depth, access barriers, financial risk, or a requirement to use a particular tool or service.
+Activities should give learners short, purposeful opportunities to discuss, compare, practise, apply, explain, and reflect. They should make the Bitcoin Diploma more participatory without adding unnecessary technical depth, access barriers, financial risk, or a requirement to use a particular tool or service.
 
 Detailed activity instructions, task specifications, materials, and variants are available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/). The Student Guide remains lean and learner-facing. The Educator Guide provides facilitation, pacing, adaptation, misconception support, and debrief guidance.
 
 ## Role in the learning ecosystem
 
-Activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) are a modular part of the Diploma learning ecosystem. Educators may use an approved activity within a module or, where appropriate, as a standalone learning experience. They support the complete four-module beginner Diploma, including educator-adapted Module 3 practice and educator-curated Module 4 Connect practice; Advanced work remains outside the Diploma.
+Activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) are a modular part of the Bitcoin Diploma learning ecosystem. Educators may use an approved activity within a module or, where appropriate, as a standalone learning experience. They support the complete four-module beginner Bitcoin Diploma, including educator-adapted Module 3 practice and educator-curated Module 4 Connect practice; Advanced work remains outside the Bitcoin Diploma.
 
-Activity design should reflect the Diploma arc: **Problem → Solution → Action → Connect**. Module 4 activities are Connect activities: they link the shared learning from Modules 1–3 to a local need or opportunity, a realistic alternative, safe practice, and a responsible next step. They do not require a learner to adopt Bitcoin or endorse a named local service.
+Activity design should reflect the Bitcoin Diploma arc: **Problem → Solution → Action → Connect**. Module 4 activities are Connect activities: they link the shared learning from Modules 1–3 to a local need or opportunity, a realistic alternative, safe practice, and a responsible next step. They do not require a learner to adopt Bitcoin or endorse a named local service.
 
-Activities must be connected to the Diploma's teach–practise–assess path:
+Activities must be connected to the Bitcoin Diploma's teach–practise–assess path:
 
 1. Introduce a key idea briefly.
 2. Elicit an observable learner response.
 3. Let learners practise through a scenario, activity, comparison, or demonstration.
 4. Ask learners to explain, decide, apply, or reflect.
-5. Review the connection to the wider Diploma and capture evidence only where the activity is approved for assessment.
+5. Review the connection to the wider Bitcoin Diploma and capture evidence only where the activity is approved for assessment.
 
 This is a learning rhythm, not a fixed procedure length. Use the number of procedure steps that makes the learner action clear and workable: a short discussion may need two, while a simulation or safety practice may need five or more.
 
@@ -30,14 +30,14 @@ An activity can be formative, educator-evaluated theoretical evidence, or a dire
 
 Every activity should:
 
-- support one or more defined competencies or formative learning aims;
-- use simple, translation-ready language and a short, clear learner task;
-- fit the relevant module and prerequisite knowledge;
-- invite active participation rather than add a long lecture or dense explanation;
-- preserve learner safety, privacy, autonomy, and the project's Bitcoin-only, non-advisory boundaries;
-- work without a required personal device, app, named service, account, internet connection, or real funds, unless the activity is explicitly designed as an educator-approved low-stakes live-wallet activity;
-- include an equivalent low-tech route when it relies on media, software, connectivity, or a live tool;
-- allow local examples and Module 4 adaptation without changing required competency standards;
+- support one or more defined competencies or formative learning aims
+- use simple, translation-ready language and a short, clear learner task
+- fit the relevant module and prerequisite knowledge
+- invite active participation rather than add a long lecture or dense explanation
+- preserve learner safety, privacy, autonomy, and the project's Bitcoin-only, non-advisory boundaries
+- work without a required personal device, app, named service, account, internet connection, or real funds, unless the activity is explicitly designed as an educator-approved low-stakes live-wallet activity
+- include an equivalent low-tech route when it relies on media, software, connectivity, or a live tool
+- allow local examples and Module 4 adaptation without changing required competency standards
 - distinguish evergreen concepts from current, local, or tool-dependent claims that need checking; and
 - include an educator debrief that corrects likely misconceptions and reconnects the activity to the module.
 
@@ -73,15 +73,15 @@ Equivalent accessibility, language, and low-connectivity variants may change how
 
 Each activity entry should include:
 
-- title, activity type, intended module and learning-arc stage, and estimated time;
-- competency or formative-learning links and prerequisites; for Module 4, the Problem → Solution → Action concepts, local need, and realistic alternative to connect;
-- learner task and intended evidence of learning;
-- materials and preparation, including an offline or low-tech alternative;
-- step-by-step procedure and concise educator facilitation notes;
-- debrief prompts, likely misconceptions, and what not to overclaim;
-- safety, privacy, current-data, named-tool, and local-expert notes where relevant;
-- localization and accessibility adaptations;
-- assessment status: formative, approved theoretical interaction, or approved practical task;
+- title, activity type, intended module and learning-arc stage, and estimated time
+- competency or formative-learning links and prerequisites; for Module 4, the Problem → Solution → Action concepts, local need, and realistic alternative to connect
+- learner task and intended evidence of learning
+- materials and preparation, including an offline or low-tech alternative
+- step-by-step procedure and concise educator facilitation notes
+- debrief prompts, likely misconceptions, and what not to overclaim
+- safety, privacy, current-data, named-tool, and local-expert notes where relevant
+- localization and accessibility adaptations
+- assessment status: formative, approved theoretical interaction, or approved practical task
 - for approved assessment tasks, observable criteria, permitted support, critical errors, rubric or decision rule, and concise record requirements; and
 - source trail, fact-check date where relevant, version, and review status.
 
@@ -117,4 +117,4 @@ Priority work is now:
 
 - Which local `P7` task variants will be approved first, and which local calibration examples are needed for each?
 - What release evidence will demonstrate that the selected task variants work across in-person, online, low-connectivity, and accessibility contexts?
-- How will the Resources Hub version, review status, current-data checks, and links remain traceable to the published Diploma?
+- How will the Resources Hub version, review status, current-data checks, and links remain traceable to the published Bitcoin Diploma?

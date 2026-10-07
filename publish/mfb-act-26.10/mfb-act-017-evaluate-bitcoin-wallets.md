@@ -57,7 +57,7 @@ Which wallet best fits the stated need, what trade-offs remain, and what would n
 
 ## Notes
 
-**Diploma assessment link:** May provide the individual-response context for [`T3` / `C4`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show). Use the approved protocol; do not ask a learner to choose a real service, use personal funds, or disclose private information. The educator should help participants navigate the decision path without turning a local example into a My First Bitcoin recommendation.
+**Bitcoin Diploma assessment link:** May provide the individual-response context for [`T3` / `C4`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show). Use the approved protocol; do not ask a learner to choose a real service, use personal funds, or disclose private information. The educator should help participants navigate the decision path without turning a local example into a My First Bitcoin recommendation.
 
 ## Additional resources
 

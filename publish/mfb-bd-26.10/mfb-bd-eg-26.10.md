@@ -12,7 +12,7 @@ The Student Guide gives learners the essential path. This Educator Guide helps a
 
 ### Invite learners to register
 
-Before or during the first session, invite learners to [register for the Bitcoin Diploma](https://forms.myfirstbitcoin.org/register-student/bd). Registration helps My First Bitcoin offer learner support and future learning opportunities, and improve the Diploma for future cohorts. It is voluntary and does not affect learning, assessment, certification, or access to the course.
+Before or during the first session, invite learners to [register for the Bitcoin Diploma](https://forms.myfirstbitcoin.org/register-student/bd). Registration helps My First Bitcoin offer learner support and future learning opportunities, and improve the Bitcoin Diploma for future cohorts. It is voluntary and does not affect learning, assessment, certification, or access to the course.
 
 **Release status:** The 2026.10 curriculum is published as a framework-first teaching package. Publication of this guide, the assessment protocol, and the Assessment Grid does not by itself declare your local route ready for certificated delivery. Before issuing completion certificates, prepare and check the selected tasks and local variants, observation capacity, accessibility routes, Assessment Grid, and proportionate local privacy, correction, and appeals arrangements.
 
@@ -20,7 +20,7 @@ Before or during the first session, invite learners to [register for the Bitcoin
 
 ## Assessment at a glance
 
-The 2026.10 Diploma uses an educator-led assessment model. Theoretical and practical competencies are both required. Optional study resources, review, and reflection do not count as assessment evidence.
+The 2026.10 Bitcoin Diploma uses an educator-led assessment model. Theoretical and practical competencies are both required. Optional study resources, review, and reflection do not count as assessment evidence.
 
 Assessment can happen naturally through well-designed activities, conversations, demonstrations, and practice. The educator's job is to notice whether each learner can explain, compare, make a safe decision, or complete a practical task. A separate exam is not needed for every competency.
 
@@ -47,7 +47,7 @@ USE: Educator-only diagram; see the asset index brief.
 
 ### A supportive assessment route
 
-This protocol is the source of truth for the Diploma's seven assessed competencies and their required look-fors. Use it with the Assessment Grid. Educator-evaluated theory is `C1`–`C5`; directly observed practice is `C6`–`C7`. Local language, examples, communication methods, activity choices, and delivery routes may change. Keep the competency and safety boundary clear.
+This protocol is the source of truth for the Bitcoin Diploma's seven assessed competencies and their required look-fors. Use it with the Assessment Grid. Educator-evaluated theory is `C1`–`C5`; directly observed practice is `C6`–`C7`. Local language, examples, communication methods, activity choices, and delivery routes may change. Keep the competency and safety boundary clear.
 
 | Competency | Required look-fors | Evidence |
 |---|---|---|
@@ -260,10 +260,10 @@ The rest of the handbook is a reference shelf. Read it when a learner asks a dee
 
 It assumes that you care about learner safety and can follow a preparation checklist. It does not assume that you already know how to:
 
-- explain technical ideas simply;
-- manage a discussion;
-- design an activity;
-- observe practical skill;
+- explain technical ideas simply
+- manage a discussion
+- design an activity
+- observe practical skill
 - give useful feedback; or
 - decide what evidence is enough.
 
@@ -273,21 +273,21 @@ Short scripts, question stems, activity instructions, examples, stop conditions,
 
 The Educator Guide is a practical teaching companion. It should help you:
 
-- prepare a cohort and learning environment;
-- be able to explain the purpose and boundaries of every module;
-- use live time for dialogue, practice, feedback, and local application;
-- explain difficult ideas in beginner language;
-- correct misconceptions without demanding agreement;
-- select and facilitate suitable activities;
-- localize examples without changing the required Diploma competencies;
-- prepare safe wallet, transaction, recovery, and verification practice;
-- select a meaningful Bitcoin in Your Community experience;
-- use competency-aligned evidence to support learning;
-- assess practical competency consistently and provide practical reassessment;
+- prepare a cohort and learning environment
+- be able to explain the purpose and boundaries of every module
+- use live time for dialogue, practice, feedback, and local application
+- explain difficult ideas in beginner language
+- correct misconceptions without demanding agreement
+- select and facilitate suitable activities
+- localize examples without changing the required Bitcoin Diploma competencies
+- prepare safe wallet, transaction, recovery, and verification practice
+- select a meaningful Bitcoin in Your Community experience
+- use competency-aligned evidence to support learning
+- assess practical competency consistently and provide practical reassessment
 - protect learner [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy), autonomy, and safety; and
 - connect learners with suitable next steps.
 
-This guide and the Diploma are educational resources. They do not provide financial, investment, legal, tax, accounting, compliance, or trading advice, and they should not be used to make individual decisions.
+This guide and the Bitcoin Diploma are educational resources. They do not provide financial, investment, legal, tax, accounting, compliance, or trading advice, and they should not be used to make individual decisions.
 
 The guide does not replace educator judgment. It gives that judgment a shared purpose, structure, and safety standard.
 
@@ -336,7 +336,7 @@ Never fill a knowledge gap with a confident guess, especially for a current law,
 These are guardrails, not a test. Keep this list open while you prepare. You do not need to memorize the curriculum before teaching; you do need to protect these boundaries every time.
 
 1. Teach the four-module **Problem → Solution → Action → Connect** sequence: Problem—Understanding Money; Solution—How Bitcoin Works; Action—Using Bitcoin Safely; and Connect—Bitcoin in Your Community.
-2. Treat **Modules 1–4** as the required Diploma. **Modules 1–2** develop theory-based competencies through explanation, comparison, and reasoning; **Module 3** develops safe practical action; and the educator-curated, required **Module 4** Connect stage links the shared learning to a local need, realistic alternative, safe task, and responsible next step.
+2. Treat **Modules 1–4** as the required Bitcoin Diploma. **Modules 1–2** develop theory-based competencies through explanation, comparison, and reasoning; **Module 3** develops safe practical action; and the educator-curated, required **Module 4** Connect stage links the shared learning to a local need, realistic alternative, safe task, and responsible next step.
 3. Preserve the required competencies, evidence requirements, safety boundaries, and passing standard in every language and delivery mode.
 4. Conduct competency-aligned educator-led theory interactions and direct practical observation. Keep any optional recap or independent review clearly separate from assessment evidence.
 5. Give supported practice before assessment. For practical learning, use Presentation → Practice → Production.
@@ -346,7 +346,7 @@ These are guardrails, not a test. Keep this list open while you prepare. You do 
 9. Treat named wallets, exchanges, services, maps, merchants, and community resources as dated local examples, not global recommendations.
 10. Do not certify attendance, activity completion, an educator interaction without valid evidence, or either assessment component alone. Certification requires recorded theoretical and practical evidence.
 
-## The Diploma at a glance
+## The Bitcoin Diploma at a glance
 
 | Module | Guiding question | Learner competency | Educator's main contribution | Main evidence |
 | --- | --- | --- | --- | --- |
@@ -367,7 +367,7 @@ The narrative should remain connected:
 
 Your job is not to give a perfect lecture. Your job is to help learners explain, practise, and make safe decisions. You facilitate the group, guide the learning, safeguard people and information, add checked local context, and assess the required evidence.
 
-### The Diploma purpose and your responsibility
+### The Bitcoin Diploma purpose and your responsibility
 
 The purpose of the Bitcoin Diploma is for every learner to develop and demonstrate its required competencies. Your role is to deliver the knowledge and guided practice that support those competencies, make sure learners have a fair opportunity to develop them during the cohort, and assess each learner's individual ability, competency, and practical skill against the stated criteria.
 
@@ -375,29 +375,29 @@ Before you issue or recommend a learner for a certificate of completion, confirm
 
 You are responsible for helping learners:
 
-- activate what they already know;
-- ask questions without embarrassment;
-- distinguish fact, opinion, preference, and uncertainty;
-- compare claims using consistent criteria;
-- connect concepts across modules;
-- practise safely before acting independently;
-- learn from mistakes without hiding them;
-- apply ideas to local life without disclosing private finances;
+- activate what they already know
+- ask questions without embarrassment
+- distinguish fact, opinion, preference, and uncertainty
+- compare claims using consistent criteria
+- connect concepts across modules
+- practise safely before acting independently
+- learn from mistakes without hiding them
+- apply ideas to local life without disclosing private finances
 - demonstrate what they can explain and do; and
 - identify an appropriate next step or a reason to remain uncertain.
 
-You are not responsible for making learners agree with you. A learner can meet the Diploma standard while remaining critical of Bitcoin, fiat systems, [self-custody](https://programs.myfirstbitcoin.org/lexicon/en/#self-custody), or a local Bitcoin use case, provided they can explain the concepts, use relevant evidence, explain trade-offs, and demonstrate the required safety competencies.
+You are not responsible for making learners agree with you. A learner can meet the Bitcoin Diploma standard while remaining critical of Bitcoin, fiat systems, [self-custody](https://programs.myfirstbitcoin.org/lexicon/en/#self-custody), or a local Bitcoin use case, provided they can explain the concepts, use relevant evidence, explain trade-offs, and demonstrate the required safety competencies.
 
 ### Course roles
 
 - A **learner** studies, discusses, practises, and demonstrates competency through observable explanation, comparison, reasoning, or action.
 - An **educator** facilitates, protects the learning environment, adds checked local context, conducts competency-aligned theoretical touchpoints, provides practical-learning feedback, and directly assesses practical competency against the stated criteria. Where teaching and assessment are divided between educators, both should follow the same task conditions, criteria, and record-keeping process.
 - A **cohort** is the group learning together. Smaller teams may complete activities, but individual certification evidence must remain identifiable where required.
-- The **Diploma** is the complete learning and assessment program, not only the Student Guide.
+- The **Bitcoin Diploma** is the complete learning and assessment program, not only the Student Guide.
 
 ### The learning ecosystem
 
-Each part of the Diploma has a distinct function.
+Each part of the Bitcoin Diploma has a distinct function.
 
 | Component | Primary function | What it cannot replace |
 | --- | --- | --- |
@@ -414,16 +414,16 @@ USE: Educator-only diagram; see the asset index brief.
 
 ### The pathway from learner to educator
 
-Introduce the wider My First Bitcoin learning pathway at the start of the Diploma and revisit it when learners consider their next steps:
+Introduce the wider My First Bitcoin learning pathway at the start of the Bitcoin Diploma and revisit it when learners consider their next steps:
 
 **[Introduction to Bitcoin](https://myfirstbitcoin.org/learn/programs#intro) → Bitcoin Diploma → [Educator Training Program](https://etp.myfirstbitcoin.org/) → Joining the [Bitcoin Education Network](https://myfirstbitcoin.org/about/network)**
 
-- **[Introduction to Bitcoin](https://myfirstbitcoin.org/learn/programs#intro)** offers a short first introduction for people who want to explore the basics before the Diploma.
+- **[Introduction to Bitcoin](https://myfirstbitcoin.org/learn/programs#intro)** offers a short first introduction for people who want to explore the basics before the Bitcoin Diploma.
 - **Bitcoin Diploma** builds a broader beginner foundation through explanation, discussion, and safe practical learning.
 - **[Educator Training Program](https://etp.myfirstbitcoin.org/)** helps people who want to teach develop their facilitation and assessment practice.
 - **Joining the [Bitcoin Education Network](https://myfirstbitcoin.org/about/network)** connects educators with peers to share experience, support one another, and contribute to community-led education.
 
-Present this as an available progression beyond the Diploma, not as required instruction, practice, assessment, or certification. Learners need the Student Guide, an educator, and the materials and resources the educator specifies; they may begin with the Diploma and choose whether to continue towards teaching or network participation. Link directly to each relevant programme so learners can choose a next step; the [available learning pathways](https://myfirstbitcoin.org/learn/programs) may remain as an additional overview rather than replacing those direct links. When someone wants to continue, help them find the relevant programme or network information and check its entry or participation requirements.
+Present this as an available progression beyond the Bitcoin Diploma, not as required instruction, practice, assessment, or certification. Learners need the Student Guide, an educator, and the materials and resources the educator specifies; they may begin with the Bitcoin Diploma and choose whether to continue towards teaching or network participation. Link directly to each relevant programme so learners can choose a next step; the [available learning pathways](https://myfirstbitcoin.org/learn/programs) may remain as an additional overview rather than replacing those direct links. When someone wants to continue, help them find the relevant programme or network information and check its entry or participation requirements.
 
 <!-- VISUAL: BD-V-077
 ALT: An optional pathway connects Introduction to Bitcoin, the Bitcoin Diploma, educator training, and education-network participation, without automatic eligibility or membership.
@@ -441,33 +441,33 @@ Use local expert support when a module depends on knowledge you do not hold, esp
 
 ## 2. What stays fixed and what can change
 
-Local relevance is essential, but it must not create a different Diploma standard.
+Local relevance is essential, but it must not create a different Bitcoin Diploma standard.
 
 | Fixed | Adaptable | Flexible with guardrails |
 | --- | --- | --- |
-| Four-module Diploma architecture; required competencies and competency criteria; Bitcoin-only focus; **Modules 1–2** theory-based competencies; **Modules 3–4** practical competencies; safety boundaries; two-part assessment; competency-to-evidence alignment; minimum certification standard | Examples; activities; case studies; facilitation style; classroom grouping; named local tools; local resources; language examples; practical environment; merchant or spending scenario | Session grouping; delivery mode; translated wording; local legal, tax, privacy, and safety context; educator-curated **Module 3–4** depth; use of QR codes or current online resources |
+| Four-module Bitcoin Diploma architecture; required competencies and competency criteria; Bitcoin-only focus; **Modules 1–2** theory-based competencies; **Modules 3–4** practical competencies; safety boundaries; two-part assessment; competency-to-evidence alignment; minimum certification standard | Examples; activities; case studies; facilitation style; classroom grouping; named local tools; local resources; language examples; practical environment; merchant or spending scenario | Session grouping; delivery mode; translated wording; local legal, tax, privacy, and safety context; educator-curated **Module 3–4** depth; use of QR codes or current online resources |
 
 You may:
 
-- replace a foreign example with a relevant local one;
-- teach across more sessions;
-- use a simulation instead of real funds;
-- use printed screens instead of a live website;
-- choose a suitable local wallet or payment scenario;
-- invite a qualified local expert;
+- replace a foreign example with a relevant local one
+- teach across more sessions
+- use a simulation instead of real funds
+- use printed screens instead of a live website
+- choose a suitable local wallet or payment scenario
+- invite a qualified local expert
 - adapt how a learner communicates or controls a device; and
 - use a suitable equivalent activity when needed for accessibility.
 
 You may not:
 
-- remove a required competency or competency criterion;
-- change what a learner must ultimately explain or demonstrate;
-- substitute attendance, effort, or independent review for evidence;
-- lower the passing or safety standard;
-- require learners to expose private financial information;
-- turn a local service into a global recommendation;
+- remove a required competency or competency criterion
+- change what a learner must ultimately explain or demonstrate
+- substitute attendance, effort, or independent review for evidence
+- lower the passing or safety standard
+- require learners to expose private financial information
+- turn a local service into a global recommendation
 - issue a certificate of completion before all competencies have met standard; or
-- move advanced technical or professional content into the required Diploma at the cost of required learning.
+- move advanced technical or professional content into the required Bitcoin Diploma at the cost of required learning.
 
 <!-- VISUAL: BD-V-087
 ALT: Local examples and teaching methods can change inside fixed competency, evidence, safety, and completion boundaries. Changes affecting assessment should preserve the same learner action and safety purpose.
@@ -475,16 +475,16 @@ ASSET: assets/briefs/bd-v-087-brief.md
 USE: Educator-only diagram; see the asset index brief.
 -->
 
-### Four-module Diploma and Advanced Learning boundaries
+### Four-module Bitcoin Diploma and Advanced Learning boundaries
 
-**The Diploma** follows the four-stage learning arc **Problem → Solution → Action → Connect**. **Modules 1–2** develop the Problem and Solution through explanation, comparison, and reasoning. **Module 3** develops safe Action. **Module 4** is the educator-curated Connect stage, where learners link the shared learning to a local need or opportunity, realistic alternative, safe performance, and responsible next step.
+**The Bitcoin Diploma** follows the four-stage learning arc **Problem → Solution → Action → Connect**. **Modules 1–2** develop the Problem and Solution through explanation, comparison, and reasoning. **Module 3** develops safe Action. **Module 4** is the educator-curated Connect stage, where learners link the shared learning to a local need or opportunity, realistic alternative, safe performance, and responsible next step.
 
-**Module 4** is required Diploma learning, curated by educators as the local subject-matter experts. The scenario or tool may change, but every learner seeking certification must meet `C7` through a local activity that covers the purpose of `C7.1` and `C7.2`.
+**Module 4** is required Bitcoin Diploma learning, curated by educators as the local subject-matter experts. The scenario or tool may change, but every learner seeking certification must meet `C7` through a local activity that covers the purpose of `C7.1` and `C7.2`.
 
-[Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) is optional follow-on learning beyond the Diploma. Detailed [mining](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work), transaction mechanics, Lightning operations, [multisignature](https://programs.myfirstbitcoin.org/lexicon/en/#multisignature-multisig) design, institutional [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody), organizational treasury, regulation, accounting, tax, compliance, investment analysis, policy, and deep technical topics do not belong in the required beginner experience.
+[Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) is optional follow-on learning beyond the Bitcoin Diploma. Detailed [mining](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work), transaction mechanics, Lightning operations, [multisignature](https://programs.myfirstbitcoin.org/lexicon/en/#multisignature-multisig) design, institutional [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody), organizational treasury, regulation, accounting, tax, compliance, investment analysis, policy, and deep technical topics do not belong in the required beginner experience.
 
 <!-- VISUAL: BD-V-003
-ALT: All four Diploma modules form the required learning arc; locally selected Connect learning remains required and Advanced learning lies beyond the Diploma.
+ALT: All four Bitcoin Diploma modules form the required learning arc; locally selected Connect learning remains required and Advanced learning lies beyond the Bitcoin Diploma.
 ASSET: assets/briefs/bd-v-003-brief.md
 USE: Shared Student Guide master.
 -->
@@ -499,26 +499,26 @@ When an interesting question would pull the group into advanced material, acknow
 
 ### Open the course with clear expectations
 
-Explain that the Diploma is educational. It does not recommend buying, selling, borrowing against, or holding bitcoin. It does not promise [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) appreciation or teach trading. Learners do not need to own bitcoin or reveal whether they do.
+Explain that the Bitcoin Diploma is educational. It does not recommend buying, selling, borrowing against, or holding bitcoin. It does not promise [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) appreciation or teach trading. Learners do not need to own bitcoin or reveal whether they do.
 
 Establish these participation agreements:
 
-- explain ideas in your own words;
-- ask when a term is unclear;
-- distinguish personal experience from general evidence;
-- challenge ideas without attacking people;
-- state uncertainty honestly;
-- listen for the reason behind another person's view;
-- do not assume that everyone has the same money, banking, safety, or technology experience;
-- use an invented scenario when a personal example would feel private;
-- do not ask anyone how much money or bitcoin they hold;
-- do not photograph, record, or share another learner's work or screen without permission;
+- explain ideas in your own words
+- ask when a term is unclear
+- distinguish personal experience from general evidence
+- challenge ideas without attacking people
+- state uncertainty honestly
+- listen for the reason behind another person's view
+- do not assume that everyone has the same money, banking, safety, or technology experience
+- use an invented scenario when a personal example would feel private
+- do not ask anyone how much money or bitcoin they hold
+- do not photograph, record, or share another learner's work or screen without permission
 - never reveal a [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase), [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key), password, or security arrangement; and
 - stop practical work when something differs from the demonstrated process.
 
 ### Teach how to think, not what to think
 
-Use one recurring reasoning sequence throughout the Diploma:
+Use one recurring reasoning sequence throughout the Bitcoin Diploma:
 
 1. What is the claim or question?
 2. Which terms need a shared definition?
@@ -548,7 +548,7 @@ Correct factual errors clearly and respectfully. Do not avoid correction in the 
 
 Financial experience can be sensitive. Offer three routes for local reflection:
 
-- a personal example the learner freely chooses to share;
+- a personal example the learner freely chooses to share
 - an observed public or community example; or
 - a realistic invented scenario.
 
@@ -560,10 +560,10 @@ Allow learners to reason and participate in the language in which they can think
 
 Before teaching:
 
-- identify key terms that lack a direct translation;
-- agree on one consistent local term and retain the English term in parentheses where useful;
-- explain false friends and terms that carry a different everyday meaning;
-- shorten sentences and avoid idioms, jokes, and culturally narrow metaphors;
+- identify key terms that lack a direct translation
+- agree on one consistent local term and retain the English term in parentheses where useful
+- explain false friends and terms that carry a different everyday meaning
+- shorten sentences and avoid idioms, jokes, and culturally narrow metaphors
 - let learners sketch or sequence an idea before speaking; and
 - arrange a competent interpreter when the educator cannot judge the evidence directly.
 
@@ -573,13 +573,13 @@ An interpreter may convey meaning during learning or assessment but must not imp
 
 For teaching and assessment, an accommodation may change how instructions are received, how a response is communicated, or how a device is controlled. It may include:
 
-- larger print or screen magnification;
-- high-contrast or tactile materials;
-- additional processing time;
-- oral instead of written explanation;
-- written instead of spoken explanation;
-- keyboard, switch, voice, or assisted device control;
-- a reader or interpreter;
+- larger print or screen magnification
+- high-contrast or tactile materials
+- additional processing time
+- oral instead of written explanation
+- written instead of spoken explanation
+- keyboard, switch, voice, or assisted device control
+- a reader or interpreter
 - reduced noise or a private assessment space; or
 - breaking a task into clearly signposted stages.
 
@@ -612,7 +612,7 @@ Do not build the schedule around content coverage alone. Build it around explana
 
 ### The minimum eight-hour pathway
 
-The Diploma takes no less than eight hours. Eight hours is the shortest planned route, not an automatic certificate route or a fixed limit, and there is no upper duration limit. The pathway includes teaching, practice, direct observation, feedback, and opportunities for reassessment. Plan from the required competencies and the learning needs of the cohort, then take the time learners need to explore, discuss, practise, consolidate, and demonstrate their learning. Extend the session, add another session, or return to key activities whenever learners need it.
+The Bitcoin Diploma takes no less than eight hours. Eight hours is the shortest planned route, not an automatic certificate route or a fixed limit, and there is no upper duration limit. The pathway includes teaching, practice, direct observation, feedback, and opportunities for reassessment. Plan from the required competencies and the learning needs of the cohort, then take the time learners need to explore, discuss, practise, consolidate, and demonstrate their learning. Extend the session, add another session, or return to key activities whenever learners need it.
 
 You may require learners to read the relevant Student Guide chapter before class when every learner can access it in an appropriate language and format. Pre-reading can preserve live class time for discussion, questions, local context, and selected activities, but it should not count toward the minimum eight hours or replace required educator-supported learning and assessment. Provide an equivalent supported route when pre-reading would create an access barrier.
 
@@ -652,11 +652,11 @@ This pattern does not establish how much time educator-led assessment needs. Res
 
 Protect, in this order:
 
-1. safety boundaries;
-2. required competencies and evidence;
-3. learner explanation and questions;
-4. supported practice;
-5. review and connection across modules;
+1. safety boundaries.
+2. required competencies and evidence.
+3. learner explanation and questions.
+4. supported practice.
+5. review and connection across modules.
 6. local context needed for accurate use; and
 7. optional examples and technical depth.
 
@@ -696,15 +696,15 @@ Move optional history, extra analogies, extended debates, detailed mechanics, an
 
 Prepare according to the cohort and selected tasks:
 
-- Student Guide copies or shared display;
-- educator access to this guide;
-- paper, pens, cards, counters, sticky notes, or a board;
-- printed key tables, diagrams, and activity instructions;
-- prepared wallet screens or empty training wallets;
-- sample addresses, invoices, *[txid](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-identifier-txid)*s, and explorer screenshots;
-- a visible **SAMPLE — DO NOT PAY** label for fictional payment information;
-- the Assessment Grid and optional notes;
-- a timer and session plan;
+- Student Guide copies or shared display
+- educator access to this guide
+- paper, pens, cards, counters, sticky notes, or a board
+- printed key tables, diagrams, and activity instructions
+- prepared wallet screens or empty training wallets
+- sample addresses, invoices, *[txid](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-identifier-txid)*s, and explorer screenshots
+- a visible **SAMPLE — DO NOT PAY** label for fictional payment information
+- the Assessment Grid and optional notes
+- a timer and session plan
 - accessibility aids; and
 - an offline fallback pack.
 
@@ -746,7 +746,7 @@ For most concepts, use this sequence:
 5. **Apply:** Use a comparison, activity, scenario, demonstration, or decision.
 6. **Produce:** Ask learners to explain or perform with less support.
 7. **Debrief:** Name the evidence, limitation, safety point, and trade-off.
-8. **Connect:** Show how the idea prepares for the next part of the Diploma.
+8. **Connect:** Show how the idea prepares for the next part of the Bitcoin Diploma.
 
 <!-- VISUAL: BD-V-088
 ALT: The educator sets purpose, activates prior ideas, explains, checks, guides application, invites independent production, debriefs, and connects to the next concept. Unclear responses lead back to explanation or practice.
@@ -840,9 +840,9 @@ More tools can bring more complexity. Add a tool when it helps learners understa
 
 ### Media and tool fallbacks
 
-The Student Guide contains the definitions, comparisons, safety rules, and review questions needed for the Diploma. Supplementary learning links and QR codes used to access them are optional. They may provide updates, recap material, source files, or ways to connect. Learners can complete the course without using these supplementary resources.
+The Student Guide contains the definitions, comparisons, safety rules, and review questions needed for the Bitcoin Diploma. Supplementary learning links and QR codes used to access them are optional. They may provide updates, recap material, source files, or ways to connect. Learners can complete the course without using these supplementary resources.
 
-No required Diploma explanation, formative educator check, practice activity, or directly observed practical evidence should depend on a video, live website, named service, or learner-owned device when an approved equivalent path can preserve the competency.
+No required Bitcoin Diploma explanation, formative educator check, practice activity, or directly observed practical evidence should depend on a video, live website, named service, or learner-owned device when an approved equivalent path can preserve the competency.
 
 When a demonstration needs internet access, prepare an offline alternative where possible, such as printed wallet screens, a transaction scenario, a card exercise, or a step-by-step discussion. A failed connection should not stop teaching or preparation.
 
@@ -917,14 +917,14 @@ Before a live tool demonstration:
 
 Stop the activity immediately if:
 
-- a real [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase), [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key), password, or credential appears;
-- someone asks a learner to reveal or enter recovery information;
-- an address, invoice, recipient, network, amount, or unit does not match;
-- a wallet or website is not the verified source;
-- a request creates urgency, secrecy, pressure, or a promised return;
-- the tool changes behavior or requires an unfamiliar recovery step;
-- a learner is unsure whether real funds are involved;
-- a transaction would expose unnecessary financial or identity data;
+- a real [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase), [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key), password, or credential appears
+- someone asks a learner to reveal or enter recovery information
+- an address, invoice, recipient, network, amount, or unit does not match
+- a wallet or website is not the verified source
+- a request creates urgency, secrecy, pressure, or a promised return
+- the tool changes behavior or requires an unfamiliar recovery step
+- a learner is unsure whether real funds are involved
+- a transaction would expose unnecessary financial or identity data
 - internet, power, or device failure removes a required safety check; or
 - the educator cannot explain what will happen next.
 
@@ -946,10 +946,10 @@ USE: Educator-only diagram; see the asset index brief.
 
 When devices are shared:
 
-- assign turns and roles clearly;
-- make the learner being assessed control or direct every relevant decision;
-- reset the device between learners;
-- remove accounts, contacts, screenshots, clipboard data, and histories;
+- assign turns and roles clearly
+- make the learner being assessed control or direct every relevant decision
+- reset the device between learners
+- remove accounts, contacts, screenshots, clipboard data, and histories
 - do not let one learner's familiarity become another learner's evidence; and
 - use individual follow-up observation where group work hides performance.
 
@@ -1034,9 +1034,9 @@ Do not ask learners to disclose income, debt, savings, banking status, or holdin
 
 Keep the explanation grounded in coordination:
 
-- people specialize;
-- direct exchange requires matching wants;
-- commonly accepted money separates selling from buying;
+- people specialize
+- direct exchange requires matching wants
+- commonly accepted money separates selling from buying
 - a shared unit helps people compare and record value; and
 - money can move [purchasing power](https://programs.myfirstbitcoin.org/lexicon/en/#purchasing-power) across time.
 
@@ -1063,9 +1063,9 @@ USE: Shared Student Guide master.
 
 Use different purposes. Ask which properties matter for:
 
-- buying food today;
-- saving for one year;
-- paying someone far away;
+- buying food today
+- saving for one year
+- paying someone far away
 - keeping an emergency reserve; and
 - recording business [prices](https://programs.myfirstbitcoin.org/lexicon/en/#price).
 
@@ -1135,11 +1135,11 @@ Avoid moral judgments about [time preference](https://programs.myfirstbitcoin.or
 
 Build a layered or braided timeline rather than a single arrow of progress. Include:
 
-- direct exchange, gifts, obligations, and records;
-- [commodity money](https://programs.myfirstbitcoin.org/lexicon/en/#commodity-money);
-- standardized coins and [debasement](https://programs.myfirstbitcoin.org/lexicon/en/#debasement);
-- [representative paper](https://programs.myfirstbitcoin.org/lexicon/en/#representative-paper) and [convertibility](https://programs.myfirstbitcoin.org/lexicon/en/#convertibility);
-- bank and government money;
+- direct exchange, gifts, obligations, and records
+- [commodity money](https://programs.myfirstbitcoin.org/lexicon/en/#commodity-money)
+- standardized coins and [debasement](https://programs.myfirstbitcoin.org/lexicon/en/#debasement)
+- [representative paper](https://programs.myfirstbitcoin.org/lexicon/en/#representative-paper) and [convertibility](https://programs.myfirstbitcoin.org/lexicon/en/#convertibility)
+- bank and government money
 - modern fiat arrangements; and
 - digital interfaces to fiat-denominated claims.
 
@@ -1153,9 +1153,9 @@ Invite local additions. Ask which forms coexisted rather than assuming one repla
 
 If using the [gold standard](https://programs.myfirstbitcoin.org/lexicon/en/#gold-standard), [Bretton Woods](https://programs.myfirstbitcoin.org/lexicon/en/#bretton-woods), the [Nixon Shock](https://programs.myfirstbitcoin.org/lexicon/en/#nixon-shock), or [Executive Order 6102](https://programs.myfirstbitcoin.org/lexicon/en/#executive-order-6102):
 
-- keep the explanation brief and relevant to the module;
-- state the location and historical scope;
-- present [Executive Order 6102](https://programs.myfirstbitcoin.org/lexicon/en/#executive-order-6102) as a specific United States example;
+- keep the explanation brief and relevant to the module
+- state the location and historical scope
+- present [Executive Order 6102](https://programs.myfirstbitcoin.org/lexicon/en/#executive-order-6102) as a specific United States example
 - present 1971 as an important marker in international dollar-to-gold [convertibility](https://programs.myfirstbitcoin.org/lexicon/en/#convertibility), not the origin of all [fiat money](https://programs.myfirstbitcoin.org/lexicon/en/#fiat-money); and
 - route detailed monetary history to [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
 
@@ -1167,10 +1167,10 @@ Then trace one ordinary local payment. Use a realistic invented case such as tra
 
 Ask learners to identify:
 
-1. the [unit of account](https://programs.myfirstbitcoin.org/lexicon/en/#unit-of-account);
-2. why the recipient accepts it;
-3. the records or payment instruction used;
-4. the bank, payment provider, or cash infrastructure involved;
+1. the [unit of account](https://programs.myfirstbitcoin.org/lexicon/en/#unit-of-account).
+2. why the recipient accepts it.
+3. the records or payment instruction used.
+4. the bank, payment provider, or cash infrastructure involved.
 5. the rules or institution supporting settlement; and
 6. what would make the payment harder if acceptance or trust broke down.
 
@@ -1193,9 +1193,9 @@ Avoid these shortcuts:
 
 Draw a simplified balance sheet:
 
-- the customer deposit is a [liability](https://programs.myfirstbitcoin.org/lexicon/en/#liability) the bank owes;
-- a bank loan is an [asset](https://programs.myfirstbitcoin.org/lexicon/en/#asset) to the bank and a [liability](https://programs.myfirstbitcoin.org/lexicon/en/#liability) to the borrower;
-- approving a loan commonly creates a matching deposit;
+- the customer deposit is a [liability](https://programs.myfirstbitcoin.org/lexicon/en/#liability) the bank owes
+- a bank loan is an [asset](https://programs.myfirstbitcoin.org/lexicon/en/#asset) to the bank and a [liability](https://programs.myfirstbitcoin.org/lexicon/en/#liability) to the borrower
+- approving a loan commonly creates a matching deposit
 - banks must manage [liquidity](https://programs.myfirstbitcoin.org/lexicon/en/#liquidity), [capital](https://programs.myfirstbitcoin.org/lexicon/en/#capital), funding, [credit risk](https://programs.myfirstbitcoin.org/lexicon/en/#credit-risk), regulation, and settlement; and
 - exact rules vary by jurisdiction.
 
@@ -1226,12 +1226,12 @@ Ask:
 
 Prepare to explain relevant local rules and institutions, such as:
 
-- who supervises commercial banks;
-- whether a reserve requirement exists and what it means;
-- [liquidity](https://programs.myfirstbitcoin.org/lexicon/en/#liquidity) and [capital](https://programs.myfirstbitcoin.org/lexicon/en/#capital) requirements at a beginner level;
-- [deposit-insurance](https://programs.myfirstbitcoin.org/lexicon/en/#deposit-insurance) eligibility and limits;
-- withdrawal or transfer limits;
-- the central bank's lender-of-last-resort role;
+- who supervises commercial banks
+- whether a reserve requirement exists and what it means
+- [liquidity](https://programs.myfirstbitcoin.org/lexicon/en/#liquidity) and [capital](https://programs.myfirstbitcoin.org/lexicon/en/#capital) requirements at a beginner level
+- [deposit-insurance](https://programs.myfirstbitcoin.org/lexicon/en/#deposit-insurance) eligibility and limits
+- withdrawal or transfer limits
+- the central bank's lender-of-last-resort role
 - account-access and identity rules; and
 - consumer complaint or resolution pathways.
 
@@ -1251,11 +1251,11 @@ USE: Shared Student Guide master.
 
 Ask learners to identify possible causes of a [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) change:
 
-- money and credit conditions;
-- supply disruption;
-- changes in demand;
-- [currency](https://programs.myfirstbitcoin.org/lexicon/en/#currency) weakness;
-- taxes or regulation;
+- money and credit conditions
+- supply disruption
+- changes in demand
+- [currency](https://programs.myfirstbitcoin.org/lexicon/en/#currency) weakness
+- taxes or regulation
 - changes in wages, transport, energy, or production costs; and
 - local shortage or quality change.
 
@@ -1352,17 +1352,17 @@ USE: Shared Student Guide master.
 
 Use an approved short task that requires connection rather than definition alone. This provides educator-led theoretical evidence. A strong candidate combines:
 
-- an own-words explanation of why money exists;
-- comparison of two forms of money through at least two relevant properties;
+- an own-words explanation of why money exists
+- comparison of two forms of money through at least two relevant properties
 - one local or realistic fiat-system, banking, [inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation), or [CBDC](https://programs.myfirstbitcoin.org/lexicon/en/#central-bank-digital-currency-cbdc) scenario; and
 - one benefit, risk, or trade-off.
 
 Listen for:
 
-- accurate use of functions and properties;
-- a realistic coordination or exchange explanation;
-- awareness that monetary history and banking rules vary;
-- no one-cause [inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation) claim;
+- accurate use of functions and properties
+- a realistic coordination or exchange explanation
+- awareness that monetary history and banking rules vary
+- no one-cause [inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation) claim
 - a clear connection between the example and the concept; and
 - uncertainty stated where evidence is incomplete.
 
@@ -1488,8 +1488,8 @@ No single part creates Bitcoin's credible [scarcity](https://programs.myfirstbit
 
 At beginner level, teach:
 
-- the [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key) authorizes;
-- the signature can be verified without revealing the [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key);
+- the [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key) authorizes
+- the signature can be verified without revealing the [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key)
 - the signature does not encrypt the transaction; and
 - control of the [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key) creates both authority and responsibility.
 
@@ -1501,8 +1501,8 @@ Define [decentralization](https://programs.myfirstbitcoin.org/lexicon/en/#decent
 
 Qualify the claim:
 
-- knowledge, wealth, infrastructure, [mining](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work) equipment, connectivity, and influence are unevenly distributed;
-- users may still choose centralized services;
+- knowledge, wealth, infrastructure, [mining](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work) equipment, connectivity, and influence are unevenly distributed
+- users may still choose centralized services
 - large services create dependency for their customers; and
 - coordination can be slower and responsibility can be higher.
 
@@ -1550,9 +1550,9 @@ Ask:
 
 Teach the relationship, not the mathematics:
 
-- [miners](https://programs.myfirstbitcoin.org/lexicon/en/#miner) make many attempts to find a result below a network [target](https://programs.myfirstbitcoin.org/lexicon/en/#target);
-- finding a result requires real computation and energy;
-- [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) check the result quickly;
+- [miners](https://programs.myfirstbitcoin.org/lexicon/en/#miner) make many attempts to find a result below a network [target](https://programs.myfirstbitcoin.org/lexicon/en/#target)
+- finding a result requires real computation and energy
+- [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) check the result quickly
 - [proof of work](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work) helps order transactions and makes history costly to rewrite; and
 - [difficulty](https://programs.myfirstbitcoin.org/lexicon/en/#difficulty) adjusts so blocks arrive about every ten minutes on average, not exactly every ten minutes.
 
@@ -1572,15 +1572,15 @@ Use claim, evidence, and trade-off:
 - Which alternative system is being compared?
 - Which facts are current and need dated evidence?
 
-Detailed energy statistics and [mining](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work) economics are not required Diploma content. Use them only when the educator has verified current sources and the discussion supports a competency.
+Detailed energy statistics and [mining](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work) economics are not required Bitcoin Diploma content. Use them only when the educator has verified current sources and the discussion supports a competency.
 
 ### Finite supply and halving
 
 Teach:
 
-- new bitcoin enter through the allowed [block subsidy](https://programs.myfirstbitcoin.org/lexicon/en/#block-subsidy);
-- the subsidy halves every 210,000 blocks;
-- the maximum approaches 21 million bitcoin;
+- new bitcoin enter through the allowed [block subsidy](https://programs.myfirstbitcoin.org/lexicon/en/#block-subsidy)
+- the subsidy halves every 210,000 blocks
+- the maximum approaches 21 million bitcoin
 - [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) reject blocks that create more than the rules allow; and
 - [transaction fees](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-fee-miner-fee) also compensate [miners](https://programs.myfirstbitcoin.org/lexicon/en/#miner).
 
@@ -1608,8 +1608,8 @@ Every learner should know:
 
 Use a few conversions:
 
-- 0.1 bitcoin = 10,000,000 [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat);
-- 0.01 bitcoin = 1,000,000 [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat);
+- 0.1 bitcoin = 10,000,000 [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat)
+- 0.01 bitcoin = 1,000,000 [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat)
 - 0.001 bitcoin = 100,000 [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat); and
 - 1 [sat](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat) = 0.00000001 bitcoin.
 
@@ -1641,14 +1641,14 @@ Treat **[sound money](https://programs.myfirstbitcoin.org/lexicon/en/#sound-mone
 
 Separate:
 
-- observed market [price](https://programs.myfirstbitcoin.org/lexicon/en/#price);
-- local usefulness or acceptance;
+- observed market [price](https://programs.myfirstbitcoin.org/lexicon/en/#price)
+- local usefulness or acceptance
 - a person's [subjective value](https://programs.myfirstbitcoin.org/lexicon/en/#subjective-value); and
 - personal approval.
 
 ### Bitcoin, stablecoins, and other crypto-assets
 
-The Diploma remains Bitcoin-only. A short comparison supports `C3` and helps learners recognize why a similar-looking digital token may have a different trust model.
+The Bitcoin Diploma remains Bitcoin-only. A short comparison supports `C3` and helps learners recognize why a similar-looking digital token may have a different trust model.
 
 Use a generic guided table rather than promoting named [assets](https://programs.myfirstbitcoin.org/lexicon/en/#asset):
 
@@ -1678,7 +1678,7 @@ Explain the boundary:
 - Token promotion creates conflicts of interest and may reward persuasion over clear reasoning.
 - Speculation can cause learners to confuse [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) movement with technical or social [value](https://programs.myfirstbitcoin.org/lexicon/en/#value).
 
-The Diploma does not teach or assess [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) prediction, portfolio construction, trading, investment returns, or token selection.
+The Bitcoin Diploma does not teach or assess [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) prediction, portfolio construction, trading, investment returns, or token selection.
 
 ### Bitcoin-properties FAQs
 
@@ -1687,7 +1687,7 @@ The Diploma does not teach or assess [price](https://programs.myfirstbitcoin.org
 | [Scarcity](https://programs.myfirstbitcoin.org/lexicon/en/#scarcity) | “Can't someone just make more than 21 million bitcoin?” | Someone can write different software, but participants do not have to run it. [Nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) following Bitcoin's rules reject excess issuance. Broad adoption of incompatible rules could produce a separate network; no founder, [miner](https://programs.myfirstbitcoin.org/lexicon/en/#miner), developer, company, or government can quietly create extra valid bitcoin for everyone. |
 | [Scarcity](https://programs.myfirstbitcoin.org/lexicon/en/#scarcity) | “Does the limited supply mean the [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) must rise?” | No. [Price](https://programs.myfirstbitcoin.org/lexicon/en/#price) depends on demand as well as supply, and demand can fall. Finite supply is a monetary property, not a return guarantee. |
 | [Divisibility](https://programs.myfirstbitcoin.org/lexicon/en/#divisibility) | “If there are only 21 million, is there enough for everyone?” | One bitcoin divides into 100,000,000 [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat). Smaller units let people represent small amounts without increasing the total supply. |
-| [Divisibility](https://programs.myfirstbitcoin.org/lexicon/en/#divisibility) | “Do I need to buy a whole bitcoin?” | No. A learner can explain or use [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat) without owning a whole bitcoin, and ownership is not required for the Diploma. |
+| [Divisibility](https://programs.myfirstbitcoin.org/lexicon/en/#divisibility) | “Do I need to buy a whole bitcoin?” | No. A learner can explain or use [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat) without owning a whole bitcoin, and ownership is not required for the Bitcoin Diploma. |
 | [Durability](https://programs.myfirstbitcoin.org/lexicon/en/#durability) | “What if my phone breaks?” | Bitcoin is not stored inside the phone. The network record continues, but access depends on safe keys and recovery. Device loss may be recoverable; lost or exposed recovery information can cause permanent loss. |
 | [Portability](https://programs.myfirstbitcoin.org/lexicon/en/#portability) | “Can I send it anywhere with no conditions?” | A valid transfer does not need approval from a central Bitcoin operator, but it still needs a suitable wallet, communication, correct payment information, fees, and a recipient who can receive it. Local laws and services may add constraints. |
 | [Fungibility](https://programs.myfirstbitcoin.org/lexicon/en/#fungibility) | “Is every [sat](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat) exactly the same?” | Equal amounts follow the same protocol spending rules, but public transaction history can influence how some services or people treat particular funds. |
@@ -1717,15 +1717,15 @@ Use these answers as educator preparation, not as speeches. First discover the l
 
 Choose two or three from these examples, not all. Browse the [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) for additional options that fit the competency.
 
-- double-spend scenario;
-- centralized versus decentralized payment map;
-- user/[node](https://programs.myfirstbitcoin.org/lexicon/en/#node)/[miner](https://programs.myfirstbitcoin.org/lexicon/en/#miner)/developer role cards;
-- invalid-block rule check;
-- finite-supply and [halving](https://programs.myfirstbitcoin.org/lexicon/en/#halving) model;
-- [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat) and unit-bias check;
-- Bitcoin-properties comparison using the **Module 1** table;
-- fiat issue / Bitcoin response / new responsibility map;
-- Bitcoin origin timeline;
+- double-spend scenario
+- centralized versus decentralized payment map
+- user/[node](https://programs.myfirstbitcoin.org/lexicon/en/#node)/[miner](https://programs.myfirstbitcoin.org/lexicon/en/#miner)/developer role cards
+- invalid-block rule check
+- finite-supply and [halving](https://programs.myfirstbitcoin.org/lexicon/en/#halving) model
+- [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat) and unit-bias check
+- Bitcoin-properties comparison using the **Module 1** table
+- fiat issue / Bitcoin response / new responsibility map
+- Bitcoin origin timeline
 - claim, evidence, reasoning, and trade-off discussion; or
 - generic Bitcoin/stablecoin/other-asset comparison.
 
@@ -1735,12 +1735,12 @@ Use [consensus](https://programs.myfirstbitcoin.org/lexicon/en/#consensus) games
 
 Use a short task that asks the learner to connect at least three elements. It supplies educator-led theoretical evidence. For example:
 
-- explain the [double-spend problem](https://programs.myfirstbitcoin.org/lexicon/en/#double-spending);
-- distinguish the roles of a [miner](https://programs.myfirstbitcoin.org/lexicon/en/#miner) and [node](https://programs.myfirstbitcoin.org/lexicon/en/#node);
+- explain the [double-spend problem](https://programs.myfirstbitcoin.org/lexicon/en/#double-spending)
+- distinguish the roles of a [miner](https://programs.myfirstbitcoin.org/lexicon/en/#miner) and [node](https://programs.myfirstbitcoin.org/lexicon/en/#node)
 - explain how [node](https://programs.myfirstbitcoin.org/lexicon/en/#node) verification supports credible supply; and
 - apply monetary properties to one benefit and one trade-off.
 
-For `C3`, use a short guided scenario that asks who controls issuance, what can be verified, which counterparty risk exists, and why [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) speculation is outside the Diploma's responsible-learning purpose.
+For `C3`, use a short guided scenario that asks who controls issuance, what can be verified, which counterparty risk exists, and why [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) speculation is outside the Bitcoin Diploma's responsible-learning purpose.
 
 Listen for the learner's own words. A fluent repetition of “21 million” or “decentralized” is not enough without the mechanism or qualification.
 
@@ -1781,18 +1781,18 @@ Learner promise:
 
 ### Separate training wallets from personal wallets
 
-The Diploma is for learning and practice. It may involve creating a wallet, handling prepared recovery words, or completing a simulated receive or recovery path. In a class, however, a screen, device, recovery phrase, or wallet detail can be accidentally seen, copied, shared, or compromised. Training wallets are the default; they are not personal wallets for securing meaningful funds.
+The Bitcoin Diploma is for learning and practice. It may involve creating a wallet, handling prepared recovery words, or completing a simulated receive or recovery path. In a class, however, a screen, device, recovery phrase, or wallet detail can be accidentally seen, copied, shared, or compromised. Training wallets are the default; they are not personal wallets for securing meaningful funds.
 
 Use this distinction consistently:
 
 - A **training wallet** is normally empty, simulated, or in a test environment. It is used to learn a process, is clearly labelled, and is not used to secure meaningful funds. Do not let its recovery information later protect meaningful funds.
-- A **personal wallet** is created for a learner who independently chooses to receive or hold meaningful funds after the Diploma. It needs a new wallet, new recovery information, a private setup, and more careful attention to privacy and security.
+- A **personal wallet** is created for a learner who independently chooses to receive or hold meaningful funds after the Bitcoin Diploma. It needs a new wallet, new recovery information, a private setup, and more careful attention to privacy and security.
 
-Plan to retire training wallets by the end of the Diploma wherever practical: clear or reset the temporary device, return shared equipment, and destroy or securely return prepared recovery materials. Never retain material that could later give access to a learner's funds.
+Plan to retire training wallets by the end of the Bitcoin Diploma wherever practical: clear or reset the temporary device, return shared equipment, and destroy or securely return prepared recovery materials. Never retain material that could later give access to a learner's funds.
 
 An educator may select a low-stakes live activity when it is appropriate for the local context and the learners. Before it begins, explain the difference from a training wallet: real funds can be lost, a live wallet and transaction history can reveal personal information, and recovery information needs stronger private handling. Explain the specific route, amount, and stop conditions; make participation voluntary; and offer a no-funds equivalent that preserves the learning outcome.
 
-An educator may choose to offer optional support to a learner who wants to create a personal wallet for use after the Diploma. Keep this separate from class practice and certification: it must be voluntary, must not be required to pass, and must begin with a new wallet and new recovery information. Give the learner private control of their device and secret information. Do not watch, collect, copy, photograph, message, store, or retain a personal recovery phrase, private key, password, balance, or wallet history. Pause or refer the learner to appropriate local support if private setup cannot be maintained or the educator cannot safely explain the process.
+An educator may choose to offer optional support to a learner who wants to create a personal wallet for use after the Bitcoin Diploma. Keep this separate from class practice and certification: it must be voluntary, must not be required to pass, and must begin with a new wallet and new recovery information. Give the learner private control of their device and secret information. Do not watch, collect, copy, photograph, message, store, or retain a personal recovery phrase, private key, password, balance, or wallet history. Pause or refer the learner to appropriate local support if private setup cannot be maintained or the educator cannot safely explain the process.
 
 ### Assessed competencies and competency criteria
 
@@ -1812,10 +1812,10 @@ This module needs more individual observation than **Modules 1 and 2**. A two-ho
 
 Before class, estimate:
 
-- the number of individual tasks requiring observation;
-- the realistic time per learner;
-- device-sharing delays;
-- accessibility and language support;
+- the number of individual tasks requiring observation
+- the realistic time per learner
+- device-sharing delays
+- accessibility and language support
 - the number of educators or assessors; and
 - time for feedback and reassessment.
 
@@ -1876,8 +1876,8 @@ Use the sentence:
 
 Show the separation among:
 
-- the shared Bitcoin [ledger](https://programs.myfirstbitcoin.org/lexicon/en/#ledger);
-- the wallet's keys and signing function;
+- the shared Bitcoin [ledger](https://programs.myfirstbitcoin.org/lexicon/en/#ledger)
+- the wallet's keys and signing function
 - the wallet's interface and network connection; and
 - any external service the wallet depends on.
 
@@ -1895,12 +1895,12 @@ Ask:
 
 When comparing wallets, use consistent criteria:
 
-- [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody);
-- verified source and open-source status;
-- recovery and compatibility;
-- [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy) and server dependence;
-- supported payment types;
-- continuity and maintenance;
+- [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody)
+- verified source and open-source status
+- recovery and compatibility
+- [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy) and server dependence
+- supported payment types
+- continuity and maintenance
 - cost and device fit; and
 - available safe support.
 
@@ -1912,12 +1912,12 @@ Teach an on-chain [Bitcoin address](https://programs.myfirstbitcoin.org/lexicon/
 
 Good beginner behavior includes:
 
-- obtain the address from the intended receiving wallet;
-- confirm Bitcoin and the correct network;
-- distinguish an on-chain address from a [Lightning invoice](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-invoice) or address;
-- copy or scan rather than type manually;
-- compare after copying;
-- verify the full address on a trusted display for important payments;
+- obtain the address from the intended receiving wallet
+- confirm Bitcoin and the correct network
+- distinguish an on-chain address from a [Lightning invoice](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-invoice) or address
+- copy or scan rather than type manually
+- compare after copying
+- verify the full address on a trusted display for important payments
 - use a fresh address for a new receipt when the wallet provides one; and
 - use a small test when the amount or process is unfamiliar.
 
@@ -1927,20 +1927,20 @@ Do not tell learners that matching only the first and last characters is suffici
 
 Prepare cards for:
 
-- on-chain address;
-- address QR code;
-- [Lightning invoice](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-invoice);
-- *[txid](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-identifier-txid)*;
-- [public key](https://programs.myfirstbitcoin.org/lexicon/en/#public-key);
-- [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key);
-- [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase);
-- wallet password or PIN;
+- on-chain address
+- address QR code
+- [Lightning invoice](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-invoice)
+- *[txid](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-identifier-txid)*
+- [public key](https://programs.myfirstbitcoin.org/lexicon/en/#public-key)
+- [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key)
+- [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase)
+- wallet password or PIN
 - balance screenshot; and
 - security or recovery plan.
 
 Learners sort them into:
 
-- public receiving or [ledger](https://programs.myfirstbitcoin.org/lexicon/en/#ledger) information;
+- public receiving or [ledger](https://programs.myfirstbitcoin.org/lexicon/en/#ledger) information
 - secret spending or access information; and
 - context-dependent information that may be public technically but private personally.
 
@@ -1989,8 +1989,8 @@ Keep the practical rule central:
 
 Teach:
 
-- a [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key) authorizes spending through a [digital signature](https://programs.myfirstbitcoin.org/lexicon/en/#digital-signature);
-- a [public key](https://programs.myfirstbitcoin.org/lexicon/en/#public-key) supports verification without revealing the [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key);
+- a [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key) authorizes spending through a [digital signature](https://programs.myfirstbitcoin.org/lexicon/en/#digital-signature)
+- a [public key](https://programs.myfirstbitcoin.org/lexicon/en/#public-key) supports verification without revealing the [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key)
 - modern wallets manage many keys automatically; and
 - beginners should not copy or handle raw [private-key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key) strings.
 
@@ -2010,9 +2010,9 @@ A [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-reco
 
 Teach the consequences:
 
-- correct words in the correct order can restore control;
-- anyone who obtains the phrase may gain control;
-- losing it can remove the recovery path;
+- correct words in the correct order can restore control
+- anyone who obtains the phrase may gain control
+- losing it can remove the recovery path
 - [wallet compatibility](https://programs.myfirstbitcoin.org/lexicon/en/#wallet-compatibility) matters; and
 - a seed that may have been exposed should be treated as compromised.
 
@@ -2039,11 +2039,11 @@ USE: Shared Student Guide master.
 
 **Production:** The learner explains or demonstrates:
 
-1. use official instructions for the exact wallet;
-2. confirm recovery compatibility;
-3. work privately without cameras or observers;
-4. use the trusted backup-check or recovery method;
-5. verify the expected receiving information or training history;
+1. use official instructions for the exact wallet.
+2. confirm recovery compatibility.
+3. work privately without cameras or observers.
+4. use the trusted backup-check or recovery method.
+5. verify the expected receiving information or training history.
 6. clear the temporary device; and
 7. return the fictional material securely or destroy it as instructed.
 
@@ -2057,7 +2057,7 @@ USE: Educator-only diagram; see the asset index brief.
 >
 > If a real seed may have been exposed, stop using it as a safe backup, create a new trusted wallet with new recovery information, and move funds after carefully verifying the destination. The learner should seek help without revealing either phrase.
 
-Inheritance, [multisignature](https://programs.myfirstbitcoin.org/lexicon/en/#multisignature-multisig) design, advanced passphrases, and high-value recovery planning may require advanced security and professional legal advice. They are outside required Diploma performance.
+Inheritance, [multisignature](https://programs.myfirstbitcoin.org/lexicon/en/#multisignature-multisig) design, advanced passphrases, and high-value recovery planning may require advanced security and professional legal advice. They are outside required Bitcoin Diploma performance.
 
 ### Custodial and self-custodial use
 
@@ -2067,11 +2067,11 @@ Inheritance, [multisignature](https://programs.myfirstbitcoin.org/lexicon/en/#mu
 
 Use guided scenarios rather than identity labels. A learner should compare:
 
-- who can authorize a payment;
-- who can restrict access;
-- who handles recovery;
-- what happens if the service disappears;
-- what happens if the user loses recovery information;
+- who can authorize a payment
+- who can restrict access
+- who handles recovery
+- what happens if the service disappears
+- what happens if the user loses recovery information
 - which privacy or identity data are held; and
 - when convenience creates counterparty dependence.
 
@@ -2128,10 +2128,10 @@ USE: Shared Student Guide master.
 
 Use printed screens or a training wallet. Ask learners to:
 
-- locate the receive function;
-- identify whether the request is on-chain or Lightning;
-- point to what can be shared;
-- explain what must remain secret;
+- locate the receive function
+- identify whether the request is on-chain or Lightning
+- point to what can be shared
+- explain what must remain secret
 - check the amount if present; and
 - state how receipt will be verified.
 
@@ -2179,7 +2179,7 @@ Explain that an on-chain fee is based mainly on transaction data and demand for 
 
 A transaction:
 
-- is **unconfirmed** after [broadcast](https://programs.myfirstbitcoin.org/lexicon/en/#broadcast) and before inclusion in a valid block;
+- is **unconfirmed** after [broadcast](https://programs.myfirstbitcoin.org/lexicon/en/#broadcast) and before inclusion in a valid block
 - receives its first **[confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation)** when included in a valid block; and
 - gains more settlement confidence as additional valid blocks build on that history.
 
@@ -2193,9 +2193,9 @@ A [block explorer](https://programs.myfirstbitcoin.org/lexicon/en/#block-explore
 
 Using a prepared *[txid](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-identifier-txid)*, show:
 
-- transaction status;
-- inputs and outputs at beginner depth;
-- amount and fee display;
+- transaction status
+- inputs and outputs at beginner depth
+- amount and fee display
 - block inclusion and [confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation) count; and
 - information that becomes public.
 
@@ -2218,14 +2218,14 @@ Avoid live searches containing learner-linked data.
 
 Teach patterns rather than a list of brands:
 
-- impersonation of support, educator, friend, public figure, or official;
-- urgency and pressure;
-- guaranteed or unusually easy returns;
-- giveaways requiring payment first;
-- recovery offers requesting words, keys, remote access, or advance fees;
-- fake wallet applications and updates;
-- phishing domains, advertisements, or direct-message links;
-- relationship or romance manipulation;
+- impersonation of support, educator, friend, public figure, or official
+- urgency and pressure
+- guaranteed or unusually easy returns
+- giveaways requiring payment first
+- recovery offers requesting words, keys, remote access, or advance fees
+- fake wallet applications and updates
+- phishing domains, advertisements, or direct-message links
+- relationship or romance manipulation
 - address replacement; and
 - requests for secrecy.
 
@@ -2243,9 +2243,9 @@ USE: Shared Student Guide master.
 
 Place short invented scenarios around the room. At each station, learners record:
 
-- the warning sign;
-- what information or money is at risk;
-- the immediate safe response;
+- the warning sign
+- what information or money is at risk
+- the immediate safe response
 - an independent verification route; and
 - when to seek help.
 
@@ -2257,10 +2257,10 @@ The learner should compare possible routes, not receive a recommendation.
 
 Compare:
 
-- earning bitcoin;
-- direct peer-to-peer exchange;
-- a centralized exchange or broker;
-- an ATM or kiosk;
+- earning bitcoin
+- direct peer-to-peer exchange
+- a centralized exchange or broker
+- an ATM or kiosk
 - receiving through a merchant, donation, refund, or remittance; and
 - a service that converts between bitcoin and fiat.
 
@@ -2297,7 +2297,7 @@ Use a comparison that separates payment path from [custody](https://programs.myf
 | [Custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) | Can be custodial or self-custodial | Can be custodial or self-custodial |
 | Main beginner check | Correct address, network, amount, fee, and [confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation) | Correct invoice or destination, amount, expiry, fee, and payment result |
 
-Lightning is not a separate coin. A successful Lightning payment does not prove the wallet is safe for a larger balance. Channel operation, routing infrastructure, and [liquidity](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-liquidity) management are [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) outside the Diploma.
+Lightning is not a separate coin. A successful Lightning payment does not prove the wallet is safe for a larger balance. Channel operation, routing infrastructure, and [liquidity](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-liquidity) management are [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) outside the Bitcoin Diploma.
 
 <!-- VISUAL: BD-V-050
 ALT: Bitcoin base-layer settlement and Lightning are related payment paths with different requests, timing, fees, and failure conditions; either wallet path can involve custody.
@@ -2367,17 +2367,17 @@ USE: Educator-only diagram; see the asset index brief.
 
 For practical assessment, observe whether the learner can complete the relevant activity safely and can:
 
-- open or safely access the prepared environment;
-- navigate without exposing unrelated information;
-- identify the [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) model;
-- distinguish receiving information from secrets;
-- select the intended payment path and network;
-- locate and verify an address or invoice;
-- check recipient, amount, unit, fee, expiry, and final summary as relevant;
-- complete or safely simulate a receive or send flow;
-- interpret pending, confirmed, failed, or received status;
-- protect recovery information throughout a recovery-readiness task;
-- respond safely to exposure, mismatch, impersonation, urgency, or fraud;
+- open or safely access the prepared environment
+- navigate without exposing unrelated information
+- identify the [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) model
+- distinguish receiving information from secrets
+- select the intended payment path and network
+- locate and verify an address or invoice
+- check recipient, amount, unit, fee, expiry, and final summary as relevant
+- complete or safely simulate a receive or send flow
+- interpret pending, confirmed, failed, or received status
+- protect recovery information throughout a recovery-readiness task
+- respond safely to exposure, mismatch, impersonation, urgency, or fraud
 - explain the reason for important checks; and
 - stop or seek help when the process exceeds their competence.
 
@@ -2387,11 +2387,11 @@ Safety-critical behavior cannot be averaged away. Revealing recovery information
 
 Use an integrated scenario. A learner or pair must:
 
-1. identify the [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) model of a prepared wallet;
-2. locate receiving information;
-3. distinguish on-chain from Lightning;
-4. prepare a send and detect a changed destination;
-5. read a prepared payment status;
+1. identify the [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) model of a prepared wallet.
+2. locate receiving information.
+3. distinguish on-chain from Lightning.
+4. prepare a send and detect a changed destination.
+5. read a prepared payment status.
 6. respond to a fake support request; and
 7. explain recovery readiness without revealing words.
 
@@ -2409,7 +2409,7 @@ Bridge:
 
 ### Purpose of the module
 
-**Module 4** applies learning from **Modules 1–3** to local daily life. It is a required part of the Diploma, not a free-choice bonus module, and it is not globally defined as “spending.” Every certificated learner completes one approved locally relevant task, but educators select the context because [currencies](https://programs.myfirstbitcoin.org/lexicon/en/#currency), tools, laws, risks, infrastructure, and community needs vary.
+**Module 4** applies learning from **Modules 1–3** to local daily life. It is a required part of the Bitcoin Diploma, not a free-choice bonus module, and it is not globally defined as “spending.” Every certificated learner completes one approved locally relevant task, but educators select the context because [currencies](https://programs.myfirstbitcoin.org/lexicon/en/#currency), tools, laws, risks, infrastructure, and community needs vary.
 
 It is the **Connect** stage of Problem → Solution → Action → Connect. The learner must connect the earlier modules to a local need or opportunity and a realistic existing alternative before practising a safe task. The intended outcome is sound local reasoning and safe performance, not adoption or a favorable conclusion about Bitcoin.
 
@@ -2458,14 +2458,14 @@ USE: Educator-only diagram; see the asset index brief.
 
 Investigate:
 
-- [currencies](https://programs.myfirstbitcoin.org/lexicon/en/#currency) and units of account;
-- common cash, bank, mobile-money, and card payment methods;
-- internet, electricity, data, and device reliability;
-- banking and identity access;
-- common wage, merchant, donation, or remittance patterns;
-- Bitcoin knowledge and tool availability;
-- language and accessibility needs;
-- fraud, coercion, surveillance, and physical-safety risks;
+- [currencies](https://programs.myfirstbitcoin.org/lexicon/en/#currency) and units of account
+- common cash, bank, mobile-money, and card payment methods
+- internet, electricity, data, and device reliability
+- banking and identity access
+- common wage, merchant, donation, or remittance patterns
+- Bitcoin knowledge and tool availability
+- language and accessibility needs
+- fraud, coercion, surveillance, and physical-safety risks
 - legal, tax, accounting, consumer, and reporting context; and
 - available technical or community support.
 
@@ -2483,15 +2483,15 @@ If the sentence starts with a product name, return to the need.
 
 Choose one primary task and, at most, one supporting task for a minimum module. Suitable areas may include:
 
-- receiving payment for work;
-- an everyday purchase;
-- family remittance or cross-border payment comparison;
-- merchant payment and refund flow;
-- community or nonprofit donation;
-- [on-ramp](https://programs.myfirstbitcoin.org/lexicon/en/#on-ramp) and [off-ramp](https://programs.myfirstbitcoin.org/lexicon/en/#off-ramp) comparison;
-- Lightning payment where appropriate;
-- local resource or merchant discovery;
-- circular-economy mapping;
+- receiving payment for work
+- an everyday purchase
+- family remittance or cross-border payment comparison
+- merchant payment and refund flow
+- community or nonprofit donation
+- [on-ramp](https://programs.myfirstbitcoin.org/lexicon/en/#on-ramp) and [off-ramp](https://programs.myfirstbitcoin.org/lexicon/en/#off-ramp) comparison
+- Lightning payment where appropriate
+- local resource or merchant discovery
+- circular-economy mapping
 - local money-problem analysis; or
 - another approved locally relevant Bitcoin-as-money task.
 
@@ -2503,17 +2503,17 @@ The [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) can o
 
 For every tool or service, record:
 
-- exact name and version;
-- publisher and verified source;
-- [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) model;
-- supported network and payment requests;
-- setup, funding, and recovery path;
-- fees, spreads, limits, and [liquidity](https://programs.myfirstbitcoin.org/lexicon/en/#liquidity) constraints;
-- data collected and privacy consequences;
-- compatibility and device requirements;
-- failure and support process;
-- ownership or policy changes;
-- local legal or tax relevance;
+- exact name and version
+- publisher and verified source
+- [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) model
+- supported network and payment requests
+- setup, funding, and recovery path
+- fees, spreads, limits, and [liquidity](https://programs.myfirstbitcoin.org/lexicon/en/#liquidity) constraints
+- data collected and privacy consequences
+- compatibility and device requirements
+- failure and support process
+- ownership or policy changes
+- local legal or tax relevance
 - alternative if the tool fails; and
 - date checked.
 
@@ -2531,14 +2531,14 @@ Invite a qualified local expert when needed. Brief them on the competencies, no-
 
 Before class, specify:
 
-- competency and suitable activity;
-- observable action sequence;
-- required verification behavior;
-- required explanation;
-- permitted prompt level;
-- privacy and consent boundaries;
-- safety-critical errors;
-- offline equivalent;
+- competency and suitable activity
+- observable action sequence
+- required verification behavior
+- required explanation
+- permitted prompt level
+- privacy and consent boundaries
+- safety-critical errors
+- offline equivalent
 - **Showing competency: Yes** and **Showing competency: Not yet**; and
 - optional notes and reassessment route.
 
@@ -2546,14 +2546,14 @@ Before class, specify:
 
 Ask learners to identify:
 
-- the local need;
-- the existing alternative;
-- the Bitcoin path;
-- who controls the keys and records at each stage;
-- total costs and time;
-- strongest benefit;
-- most serious risk or failure point;
-- locally specific rule or condition;
+- the local need
+- the existing alternative
+- the Bitcoin path
+- who controls the keys and records at each stage
+- total costs and time
+- strongest benefit
+- most serious risk or failure point
+- locally specific rule or condition
 - evidence observed; and
 - smallest responsible next step.
 
@@ -2625,7 +2625,7 @@ Complete this before delivery.
 | 110–118 min | Explanation and peer question | Learner explains purpose, benefit, risk, failure point, and next step. |
 | 118–120 min | Course bridge | Prepare the final reflection and any reassessment. |
 
-If direct observation cannot fit, redesign the scheduled route before delivery: add approved assessor capacity, reduce the cohort, or advertise a longer integrated course. Do not add an assessment-only follow-up after the advertised Diploma.
+If direct observation cannot fit, redesign the scheduled route before delivery: add approved assessor capacity, reduce the cohort, or advertise a longer integrated course. Do not add an assessment-only follow-up after the advertised Bitcoin Diploma.
 
 ### Local Bitcoin tool review
 
@@ -2653,13 +2653,13 @@ Do not demonstrate a tool simply because it is popular locally. Use this compari
 
 Before a Lightning workshop, verify and explain:
 
-- whether the wallet is custodial or self-custodial;
-- how it is funded;
-- whether funding or withdrawal uses an on-chain transaction or service;
-- recovery and continuity if the provider or device fails;
-- whether the request is an invoice, supported [Lightning address](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-address), or another type;
-- amount, unit, recipient, expiry, fee, limits, and [liquidity](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-liquidity) considerations;
-- what success, pending, expiry, or failure looks like;
+- whether the wallet is custodial or self-custodial
+- how it is funded
+- whether funding or withdrawal uses an on-chain transaction or service
+- recovery and continuity if the provider or device fails
+- whether the request is an invoice, supported [Lightning address](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-address), or another type
+- amount, unit, recipient, expiry, fee, limits, and [liquidity](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-liquidity) considerations
+- what success, pending, expiry, or failure looks like
 - how both parties independently confirm the result; and
 - the offline simulation.
 
@@ -2709,9 +2709,9 @@ USE: Shared Student Guide master.
 
 **Production:** The learner completes the approved payment role and explains:
 
-- why the selected rail fits the amount and timing;
-- who controls the wallet;
-- how receipt is confirmed;
+- why the selected rail fits the amount and timing
+- who controls the wallet
+- how receipt is confirmed
 - what happens if sender and merchant displays disagree; and
 - when to stop.
 
@@ -2744,15 +2744,15 @@ USE: Shared Student Guide master.
 
 Cover:
 
-- display [currency](https://programs.myfirstbitcoin.org/lexicon/en/#currency) and exchange-rate timing;
-- on-chain, Lightning, or both;
-- [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) and staff permissions;
-- receive-device security;
-- customer and merchant confirmation;
-- receipts and records;
-- refunds using a newly verified return request;
-- conversion or movement of received funds;
-- accounting and tax review;
+- display [currency](https://programs.myfirstbitcoin.org/lexicon/en/#currency) and exchange-rate timing
+- on-chain, Lightning, or both
+- [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) and staff permissions
+- receive-device security
+- customer and merchant confirmation
+- receipts and records
+- refunds using a newly verified return request
+- conversion or movement of received funds
+- accounting and tax review
 - internet or wallet failure; and
 - support and escalation.
 
@@ -2772,13 +2772,13 @@ USE: Shared Student Guide master.
 
 Learners decide:
 
-- how donors verify the genuine payment request;
-- whether receipt is on-chain, Lightning, or both;
-- who controls the wallet and backup;
-- who can authorize spending;
-- what transparency is useful;
-- which donor information should remain private;
-- what records may be required;
+- how donors verify the genuine payment request
+- whether receipt is on-chain, Lightning, or both
+- who controls the wallet and backup
+- who can authorize spending
+- what transparency is useful
+- which donor information should remain private
+- what records may be required
 - how a mistaken or fraudulent request is handled; and
 - what happens if the [custodian](https://programs.myfirstbitcoin.org/lexicon/en/#custodian), device, or service fails.
 
@@ -2819,13 +2819,13 @@ USE: Shared Student Guide master.
 
 Map:
 
-1. who can earn bitcoin;
-2. where it can be used;
-3. which merchants can pay suppliers or workers;
-4. who must exchange to or from fiat;
-5. who controls keys at each stage;
-6. who provides education and technical support;
-7. what happens when internet or electricity fails;
+1. who can earn bitcoin.
+2. where it can be used.
+3. which merchants can pay suppliers or workers.
+4. who must exchange to or from fiat.
+5. who controls keys at each stage.
+6. who provides education and technical support.
+7. what happens when internet or electricity fails.
 8. what [price](https://programs.myfirstbitcoin.org/lexicon/en/#price), [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody), fraud, and privacy risks participants carry; and
 9. whether the loop depends on giveaways or one organizer.
 
@@ -2837,10 +2837,10 @@ USE: Shared Student Guide master.
 
 For resource discovery, verify:
 
-- when a listing was last checked;
-- whether the merchant or group still operates;
-- which payment method is accepted;
-- whether an alternative payment is available;
+- when a listing was last checked
+- whether the merchant or group still operates
+- which payment method is accepted
+- whether an alternative payment is available
 - whether publication has consent; and
 - whether the contact is offering education or promoting an investment or private exchange.
 
@@ -2852,12 +2852,12 @@ For resource discovery, verify:
 
 If one person or group controls bitcoin for others, they are acting as a [custodian](https://programs.myfirstbitcoin.org/lexicon/en/#custodian). Explain the added responsibilities:
 
-- authorization rules;
-- separation of duties;
-- backup and succession;
-- records and transparency;
-- [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy) and access control;
-- dispute and loss handling;
+- authorization rules
+- separation of duties
+- backup and succession
+- records and transparency
+- [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy) and access control
+- dispute and loss handling
 - legal status; and
 - concentration of trust.
 
@@ -2908,14 +2908,14 @@ USE: Educator-only diagram; see the asset index brief.
 
 The selected local activity should let the educator notice the `C7` competency as the learner:
 
-- identify the local purpose;
-- complete the required action or simulation in the correct sequence;
-- verify the relevant recipient, address, invoice, amount, unit, fee, status, or resource;
-- preserve [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy) and secrets;
-- respond safely to a failure or changed condition;
-- explain [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) and control;
-- compare the Bitcoin path with a realistic alternative;
-- identify the strongest benefit and most serious risk;
+- identify the local purpose
+- complete the required action or simulation in the correct sequence
+- verify the relevant recipient, address, invoice, amount, unit, fee, status, or resource
+- preserve [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy) and secrets
+- respond safely to a failure or changed condition
+- explain [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) and control
+- compare the Bitcoin path with a realistic alternative
+- identify the strongest benefit and most serious risk
 - name a relevant local condition or limit; and
 - select a responsible next step, including deciding not to proceed.
 
@@ -2925,14 +2925,14 @@ Different local tasks may produce equivalent evidence. They do not become equiva
 
 For review, each learner or team may present:
 
-- local need;
-- current alternative;
-- Bitcoin path;
-- [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) at each stage;
-- strongest benefit;
-- most serious risk;
-- main failure point;
-- locally verified fact;
+- local need
+- current alternative
+- Bitcoin path
+- [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) at each stage
+- strongest benefit
+- most serious risk
+- main failure point
+- locally verified fact
 - evidence observed; and
 - safe next step.
 
@@ -2948,7 +2948,7 @@ Close with:
 
 ## 11. Use optional learning resources appropriately
 
-The Student Guide, educator facilitation, activities, and direct observation provide the complete Diploma learning and assessment path. Learners do not need a personal device, account, or internet connection to complete the course or receive a certificate.
+The Student Guide, educator facilitation, activities, and direct observation provide the complete Bitcoin Diploma learning and assessment path. Learners do not need a personal device, account, or internet connection to complete the course or receive a certificate.
 
 Optional learning resources may support recap, further questions, or discovery, but do not assign their use, collect their results, or use them to judge a learner. Continue teaching and assessing through the Student Guide, discussion, activities, and direct educator observation when appropriate.
 
@@ -2994,10 +2994,10 @@ You may help learners recognize that these areas exist and identify where reliab
 
 Do not:
 
-- advise a learner how to structure a transaction for tax or legal advantage;
-- tell a learner that a path is legal without jurisdiction-specific support;
-- interpret an individual learner's obligations;
-- encourage evasion or concealment;
+- advise a learner how to structure a transaction for tax or legal advantage
+- tell a learner that a path is legal without jurisdiction-specific support
+- interpret an individual learner's obligations
+- encourage evasion or concealment
 - present a community practice as proof of compliance; or
 - allow a guest to use the class as professional solicitation.
 
@@ -3011,12 +3011,12 @@ Use wording such as:
 
 When naming a local example:
 
-- explain why it was selected for the learning competency;
-- state the date and version checked;
-- identify [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) and key dependencies;
-- include one alternative or offline route;
-- disclose any educator or organization relationship;
-- avoid ranking, affiliate language, or promotional claims;
+- explain why it was selected for the learning competency
+- state the date and version checked
+- identify [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) and key dependencies
+- include one alternative or offline route
+- disclose any educator or organization relationship
+- avoid ranking, affiliate language, or promotional claims
 - never promise continuity, safety, low fees, or availability; and
 - remove or update the example when facts change.
 
@@ -3048,23 +3048,23 @@ Avoid idioms and metaphors that cannot travel cleanly. If using an analogy, alwa
 
 Pay particular attention to:
 
-- money versus [currency](https://programs.myfirstbitcoin.org/lexicon/en/#currency);
-- [asset](https://programs.myfirstbitcoin.org/lexicon/en/#asset), claim, [liability](https://programs.myfirstbitcoin.org/lexicon/en/#liability), [liquidity](https://programs.myfirstbitcoin.org/lexicon/en/#liquidity), and [solvency](https://programs.myfirstbitcoin.org/lexicon/en/#solvency);
-- [inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation) and [purchasing power](https://programs.myfirstbitcoin.org/lexicon/en/#purchasing-power);
-- [decentralization](https://programs.myfirstbitcoin.org/lexicon/en/#decentralization) and peer-to-peer;
-- [proof of work](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work) and verification;
-- wallet, [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody), and [self-custody](https://programs.myfirstbitcoin.org/lexicon/en/#self-custody);
-- [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key), [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase), and recovery;
-- address, invoice, and payment request;
-- [confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation) and finality;
-- on-chain and Lightning;
-- [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy) and anonymity;
+- money versus [currency](https://programs.myfirstbitcoin.org/lexicon/en/#currency)
+- [asset](https://programs.myfirstbitcoin.org/lexicon/en/#asset), claim, [liability](https://programs.myfirstbitcoin.org/lexicon/en/#liability), [liquidity](https://programs.myfirstbitcoin.org/lexicon/en/#liquidity), and [solvency](https://programs.myfirstbitcoin.org/lexicon/en/#solvency)
+- [inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation) and [purchasing power](https://programs.myfirstbitcoin.org/lexicon/en/#purchasing-power)
+- [decentralization](https://programs.myfirstbitcoin.org/lexicon/en/#decentralization) and peer-to-peer
+- [proof of work](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work) and verification
+- wallet, [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody), and [self-custody](https://programs.myfirstbitcoin.org/lexicon/en/#self-custody)
+- [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key), [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase), and recovery
+- address, invoice, and payment request
+- [confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation) and finality
+- on-chain and Lightning
+- [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy) and anonymity
 - [KYC](https://programs.myfirstbitcoin.org/lexicon/en/#know-your-customer-kyc) and [no-KYC](https://programs.myfirstbitcoin.org/lexicon/en/#no-kyc-preferred-also-called-non-kyc); and
 - trade-off, risk, and uncertainty.
 
 Use the definitions in the [Lexicon](../mfb-lx-26.10-sg-index.md).
 
-My First Bitcoin prefers in-person Diploma sessions because direct educator contact and greater opportunity for practical activities can make learning more engaging and natural. This is a preference, not a requirement. Online delivery can be more affordable, scalable, and achievable for many people, so educators should support either mode appropriately.
+My First Bitcoin prefers in-person Bitcoin Diploma sessions because direct educator contact and greater opportunity for practical activities can make learning more engaging and natural. This is a preference, not a requirement. Online delivery can be more affordable, scalable, and achievable for many people, so educators should support either mode appropriately.
 
 ### In-person delivery
 
@@ -3091,10 +3091,10 @@ Self-paced learning can prepare knowledge but cannot replace educator-led theore
 
 Provide:
 
-- a clear map of required learning materials and educator assessment points;
-- optional or need-based formative educator support;
-- supported practical workshops;
-- approved live or remote observation;
+- a clear map of required learning materials and educator assessment points
+- optional or need-based formative educator support
+- supported practical workshops
+- approved live or remote observation
 - remediation and reassessment; and
 - a route into a cohort or community discussion.
 
@@ -3132,9 +3132,9 @@ Protect beginners from jargon and status competition. A person can know market l
 
 Every activity should state whether it is:
 
-- learning and practice;
-- formative theory checking or feedback;
-- a competency-aligned educator-led theoretical touchpoint;
+- learning and practice
+- formative theory checking or feedback
+- a competency-aligned educator-led theoretical touchpoint
 - a practical activity that may also provide assessment evidence; or
 - an approved combination of formative learning and practical assessment.
 
@@ -3173,22 +3173,22 @@ Before choosing an activity, ask:
 
 For any activity you develop or materially adapt, record:
 
-- title;
-- module, assessed competency, and competency criterion IDs;
-- learning, formative-theory, practical-practice, or assessment-support use;
-- practical assessment component and educator, where applicable;
-- realistic time;
-- delivery mode;
-- materials and low-tech alternative;
-- educator setup;
-- learner instructions;
-- observable criteria;
-- debrief;
-- evidence of learning;
-- rubric and standard where assessed;
-- feedback and reassessment;
-- evidence record;
-- accessibility, language, and localization notes;
+- title
+- module, assessed competency, and competency criterion IDs
+- learning, formative-theory, practical-practice, or assessment-support use
+- practical assessment component and educator, where applicable
+- realistic time
+- delivery mode
+- materials and low-tech alternative
+- educator setup
+- learner instructions
+- observable criteria
+- debrief
+- evidence of learning
+- rubric and standard where assessed
+- feedback and reassessment
+- evidence record
+- accessibility, language, and localization notes
 - safety-critical errors; and
 - local expert or current-fact needs.
 
@@ -3200,18 +3200,18 @@ Do not retain an activity only because it is familiar. Keep it when it improves 
 
 You may change:
 
-- names, places, objects, [currency](https://programs.myfirstbitcoin.org/lexicon/en/#currency) units, and local payment methods;
-- group size and roles;
-- oral, written, visual, or tactile response format;
-- live tool versus prepared screen;
+- names, places, objects, [currency](https://programs.myfirstbitcoin.org/lexicon/en/#currency) units, and local payment methods
+- group size and roles
+- oral, written, visual, or tactile response format
+- live tool versus prepared screen
 - timing and scaffolding; and
 - the debrief example.
 
 Preserve:
 
-- the concept being learned;
-- the safety boundary;
-- the learner action;
+- the concept being learned
+- the safety boundary
+- the learner action
 - the critical comparison or decision; and
 - the connection to the module competency.
 
@@ -3219,11 +3219,11 @@ Preserve:
 
 Educators may adapt a practical activity to suit the learners and setting. Do not turn an activity into evidence for a competency it does not reveal. Preserve:
 
-- competency and measurable verb;
-- evidence type;
-- difficulty and independence;
-- required sequence and verification;
-- minimum standard;
+- competency and measurable verb
+- evidence type
+- difficulty and independence
+- required sequence and verification
+- minimum standard
 - safety-critical errors; and
 - optional notes and reassessment route.
 
@@ -3243,36 +3243,36 @@ Use diagrams, tables, timelines, and interface examples to reveal relationships,
 
 Before showing a visual:
 
-- identify the one idea learners should notice;
-- ask learners to predict the relationship or sequence;
-- confirm that labels match the current Student Guide and local language;
-- explain symbols and reading order;
+- identify the one idea learners should notice
+- ask learners to predict the relationship or sequence
+- confirm that labels match the current Student Guide and local language
+- explain symbols and reading order
 - check that the visual works in grayscale and at phone or print size; and
 - prepare a spoken or text equivalent.
 
 After showing it:
 
-- ask a learner to explain the relationship;
-- name what the visual simplifies;
+- ask a learner to explain the relationship
+- name what the visual simplifies
 - correct any misleading inference; and
 - connect it to the activity or next section.
 
 Educator-useful visual areas include:
 
-- functions versus properties of money;
-- [barter](https://programs.myfirstbitcoin.org/lexicon/en/#barter-bartering) and double coincidence;
-- local fiat roles and bank balance sheets;
-- [liquidity](https://programs.myfirstbitcoin.org/lexicon/en/#liquidity) versus [solvency](https://programs.myfirstbitcoin.org/lexicon/en/#solvency);
-- [inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation) and [purchasing power](https://programs.myfirstbitcoin.org/lexicon/en/#purchasing-power);
-- Bitcoin roles and [proof of work](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work);
-- supply, [halvings](https://programs.myfirstbitcoin.org/lexicon/en/#halving), and [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat);
-- fiat issue / Bitcoin response / responsibility;
-- wallet, key, address, and seed relationships;
-- safe recovery and transaction checks;
-- [confirmations](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation), explorer [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy), and address reuse;
-- scam red flags;
-- on-chain and Lightning comparison;
-- Presentation → Practice → Production;
+- functions versus properties of money
+- [barter](https://programs.myfirstbitcoin.org/lexicon/en/#barter-bartering) and double coincidence
+- local fiat roles and bank balance sheets
+- [liquidity](https://programs.myfirstbitcoin.org/lexicon/en/#liquidity) versus [solvency](https://programs.myfirstbitcoin.org/lexicon/en/#solvency)
+- [inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation) and [purchasing power](https://programs.myfirstbitcoin.org/lexicon/en/#purchasing-power)
+- Bitcoin roles and [proof of work](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work)
+- supply, [halvings](https://programs.myfirstbitcoin.org/lexicon/en/#halving), and [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat)
+- fiat issue / Bitcoin response / responsibility
+- wallet, key, address, and seed relationships
+- safe recovery and transaction checks
+- [confirmations](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation), explorer [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy), and address reuse
+- scam red flags
+- on-chain and Lightning comparison
+- Presentation → Practice → Production
 - local payment paths, merchant flows, and circular economies; and
 - final safety and next steps.
 
@@ -3282,7 +3282,7 @@ Do not turn a qualified text claim into an absolute visual. A supply chart must 
 
 ---
 
-## 15. Close the Diploma well
+## 15. Close the Bitcoin Diploma well
 
 ### Capstone discussion
 
@@ -3308,8 +3308,8 @@ Each learner articulates either:
 
 The response should:
 
-- use at least one course concept accurately;
-- connect to an observed, local, or realistic money experience;
+- use at least one course concept accurately
+- connect to an observed, local, or realistic money experience
 - identify one relevant benefit, risk, question, or trade-off; and
 - avoid an investment or [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) claim.
 
@@ -3327,7 +3327,7 @@ Keep this reflection conversational. Do not require an engagement promise, a wri
 
 Explain the difference between the two certificate types:
 
-- **Certificate of participation:** confirms that the learner attended or took part in the Diploma, without confirming that they passed the assessment.
+- **Certificate of participation:** confirms that the learner attended or took part in the Bitcoin Diploma, without confirming that they passed the assessment.
 - **Certificate of completion:** confirms that the educator assessed the learner and judged that they passed all required competencies.
 
 The educator assesses the learner, accredits the result, and distributes either certificate. The certificate records the named educator's judgment. My First Bitcoin does not centrally evaluate learners, issue certificates, provide a central verification service, or guarantee the learner's competency. The current certificate template uses the wording **My First Bitcoin Diploma**; an educator who has completed the Educator Training Program may show the ETP badge beside their name.
@@ -3342,11 +3342,11 @@ Independent review, attendance, confidence, and activity participation do not by
 
 Remind learners:
 
-- start with learning;
-- keep experiments small;
-- verify independently;
-- protect secrets;
-- do not act under pressure;
+- start with learning
+- keep experiments small
+- verify independently
+- protect secrets
+- do not act under pressure
 - seek help without surrendering control; and
 - accept that “not yet” or “not for this case” can be responsible conclusions.
 
@@ -3385,7 +3385,7 @@ Collect feedback that can improve delivery:
 
 Do not ask only whether learners “liked” the course. Look for evidence about clarity, participation, safety, transfer, and local usefulness.
 
-**Invite learners to [complete the Diploma exit survey](https://forms.myfirstbitcoin.org/bd-exit-survey) at the course close.** Their feedback helps My First Bitcoin understand the learning experience, measure the Diploma's impact, and improve future content and support. The survey is voluntary and does not affect assessment or certification.
+**Invite learners to [complete the Bitcoin Diploma exit survey](https://forms.myfirstbitcoin.org/bd-exit-survey) at the course close.** Their feedback helps My First Bitcoin understand the learning experience, measure the Bitcoin Diploma's impact, and improve future content and support. The survey is voluntary and does not affect assessment or certification.
 
 ### Reflect as an educator
 
@@ -3414,11 +3414,11 @@ You can [share an educator testimonial](https://forms.myfirstbitcoin.org/testimo
 
 Before reusing a course plan:
 
-- recheck local laws, rules, [inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation) data, tools, versions, fees, [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) claims, and resources;
-- remove stale merchant or community listings;
-- review any incident, near miss, or confusing assessment item;
-- update translation notes;
-- confirm links and QR destinations;
+- recheck local laws, rules, [inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation) data, tools, versions, fees, [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) claims, and resources
+- remove stale merchant or community listings
+- review any incident, near miss, or confusing assessment item
+- update translation notes
+- confirm links and QR destinations
 - reset practice environments; and
 - submit curriculum issues through the approved contribution process.
 
@@ -3467,7 +3467,7 @@ Use the [Lexicon](../mfb-lx-26.10-sg-index.md) for full definitions. Keep these 
 
 - [ ] I can explain the four-module narrative and learner promises.
 - [ ] I reviewed every required assessed competency, its competency criteria, and its evidence type.
-- [ ] I know that all four modules are required Diploma learning, how I may adapt **Module 3** and curate **Module 4**, and what belongs to [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
+- [ ] I know that all four modules are required Bitcoin Diploma learning, how I may adapt **Module 3** and curate **Module 4**, and what belongs to [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
 - [ ] I reviewed the [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) where useful and selected activities for a clear competency rather than entertainment alone.
 - [ ] I prepared a review and bridge for every module.
 
@@ -3564,14 +3564,14 @@ Use the [Lexicon](../mfb-lx-26.10-sg-index.md) for full definitions. Keep these 
 
 Before inviting a guest, agree that they will:
 
-- support named competencies and the planned learner task;
-- use beginner language and respect the four-module scope;
-- distinguish general concepts from local and changing facts;
-- disclose relevant affiliations or commercial interests;
-- avoid product promotion, investment claims, and legal or tax advice;
-- never request learner secrets or financial information;
-- use prepared examples and approved tools;
-- respect time, accessibility, translation, and discussion norms;
+- support named competencies and the planned learner task
+- use beginner language and respect the four-module scope
+- distinguish general concepts from local and changing facts
+- disclose relevant affiliations or commercial interests
+- avoid product promotion, investment claims, and legal or tax advice
+- never request learner secrets or financial information
+- use prepared examples and approved tools
+- respect time, accessibility, translation, and discussion norms
 - accept educator moderation and correction; and
 - provide sources and dates for current claims.
 
@@ -3672,7 +3672,7 @@ Do not describe a compressed day as complete if required observation or assessme
 
 The Student Guide carries the beginner content. The educator brings it to life.
 
-A strong Diploma experience is not the one with the longest lecture, the most technical detail, or the greatest number of transactions. It is the one in which learners ask better questions, explain the key ideas clearly, practise safely, connect learning to local reality, recognize limits and trade-offs, and demonstrate the beginner competencies the certificate claims.
+A strong Bitcoin Diploma experience is not the one with the longest lecture, the most technical detail, or the greatest number of transactions. It is the one in which learners ask better questions, explain the key ideas clearly, practise safely, connect learning to local reality, recognize limits and trade-offs, and demonstrate the beginner competencies the certificate claims.
 
 ## Continue learning
 

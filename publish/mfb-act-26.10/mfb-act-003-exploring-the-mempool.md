@@ -82,7 +82,7 @@ Ask when an explorer is useful, what privacy trade-off a public query can create
 
 ## Notes
 
-**Diploma assessment link:** May provide the individual-response context for [`T3` / `C5`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show), especially on-chain confirmation and verification. Use the approved protocol and record individual evidence; otherwise, this activity is formative.
+**Bitcoin Diploma assessment link:** May provide the individual-response context for [`T3` / `C5`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show), especially on-chain confirmation and verification. Use the approved protocol and record individual evidence; otherwise, this activity is formative.
 
 ## Additional resources
 

@@ -10,8 +10,8 @@ Money has developed through social relationships, technology, law, trade, confli
 
 ## Learners will be able to
 
-- distinguish historical examples of barter, commodity money, coin, paper money, bank deposits, and digital payments;
-- describe important local monetary events with dated, credible sources;
+- distinguish historical examples of barter, commodity money, coin, paper money, bank deposits, and digital payments
+- describe important local monetary events with dated, credible sources
 - compare how a change in money affected different people and groups; and
 - separate historical evidence from simplified stories about money.
 

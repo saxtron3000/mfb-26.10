@@ -2,7 +2,7 @@
 
 ## Purpose and authority
 
-The [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) is the publication source of truth for the seven assessed competencies, required criteria, evidence, and educator judgments. This planning map shows how they fit the four-module Diploma. The [Assessment Grid](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) records one result per assessed competency.
+The [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) is the publication source of truth for the seven assessed competencies, required criteria, evidence, and educator judgments. This planning map shows how they fit the four-module Bitcoin Diploma. The [Assessment Grid](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) records one result per assessed competency.
 
 Eight hours is the shortest planned route, with no upper limit. Educators extend teaching, practice, observation, and reassessment as needed. A certificate depends on demonstrated competency, never time attended. Educators may adapt examples, language, access methods, tools, and local scenarios while preserving the required learner action, safety boundary, and standard.
 
@@ -30,7 +30,7 @@ Use prepared wallets, simulations, testnet, physical tokens, or appropriately lo
 
 ## Graduate capability profile
 
-A Diploma graduate can explain why money is used, compare money forms and Bitcoin with another digital asset, explain Bitcoin's rules and properties at a beginner level, recognize practical risks, and safely complete supported wallet, recovery-readiness, and local tasks. The Diploma does not claim independent high-stakes custody, advanced technical troubleshooting, professional expertise, or endorsement of a financial decision. Equivalent localized or accessible routes must show the same individual understanding and action.
+A Bitcoin Diploma graduate can explain why money is used, compare money forms and Bitcoin with another digital asset, explain Bitcoin's rules and properties at a beginner level, recognize practical risks, and safely complete supported wallet, recovery-readiness, and local tasks. The Bitcoin Diploma does not claim independent high-stakes custody, advanced technical troubleshooting, professional expertise, or endorsement of a financial decision. Equivalent localized or accessible routes must show the same individual understanding and action.
 
 ## Module-to-competency map
 
@@ -45,15 +45,15 @@ A Diploma graduate can explain why money is used, compare money forms and Bitcoi
 
 The selected `C7` task must preserve safe performance, verification, individual explanation, and trade-off awareness. Depending on context, it may use a payment or receiving scenario, merchant or refund flow, remittance or community-donation simulation, circular-economy resource map, local tool demonstration, or another approved equivalent. An educator must check the relevant local rules, tool suitability, connectivity, accessibility, privacy, and available expertise before selecting a variant. Discussion or a team presentation alone cannot establish the directly observed practical result.
 
-Where suitable, an educator may choose a dual-rail payment variant: the learner completes or simulates one on-chain and one Lightning receive or send flow, checks the relevant payment information and status for each, and explains a practical difference. The variant may support `C7.1` and `C7.2`; transacting on both rails is not required for every Diploma learner.
+Where suitable, an educator may choose a dual-rail payment variant: the learner completes or simulates one on-chain and one Lightning receive or send flow, checks the relevant payment information and status for each, and explains a practical difference. The variant may support `C7.1` and `C7.2`; transacting on both rails is not required for every Bitcoin Diploma learner.
 
 ## Formative learning and advanced boundaries
 
 `F1` guided discussion uses clear explanation, relevant evidence, respectful listening, and basic reasoning. `F2` continued-learning reflection invites a learner to explain a reason to continue studying Bitcoin or to remain uncertain, using course concepts and a local, observed, or realistic money experience without an investment claim. These support feedback and do not create result rows.
 
-[Advanced learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) remains outside the beginner Diploma: exact node and mining mechanics, hash functions and mempool details, Lightning channel operations, advanced hardware-wallet security, organizational treasury and custody, legal, tax, accounting, compliance, investment, and policy implementation. See `17_advanced.md` for the parked pathway and source trail.
+[Advanced learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) remains outside the beginner Bitcoin Diploma: exact node and mining mechanics, hash functions and mempool details, Lightning channel operations, advanced hardware-wallet security, organizational treasury and custody, legal, tax, accounting, compliance, investment, and policy implementation. See `17_advanced.md` for the parked pathway and source trail.
 
-The beginner Diploma emphasizes explaining and applying concepts in guided situations. Simple comparison and evaluation are appropriate with educator support. More demanding creation belongs in an educator-selected local task only when its approved variant includes it, or in [Advanced learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
+The beginner Bitcoin Diploma emphasizes explaining and applying concepts in guided situations. Simple comparison and evaluation are appropriate with educator support. More demanding creation belongs in an educator-selected local task only when its approved variant includes it, or in [Advanced learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
 
 ## Implementation questions
 

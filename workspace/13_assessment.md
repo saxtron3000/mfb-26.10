@@ -6,7 +6,7 @@ This document defines how the Bitcoin Diploma establishes and records learner co
 
 The [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) is the source of truth for competency wording, required look-fors, and educator judgments. This document supports assessment planning. The Assessment Grid is the minimum learner record.
 
-The Diploma does not assess private knowledge or a learner's self-description. It assesses what a learner can observably explain, compare, apply, decide, and do. Knowledge matters because it enables those actions; it is not, by itself, a certification result.
+The Bitcoin Diploma does not assess private knowledge or a learner's self-description. It assesses what a learner can observably explain, compare, apply, decide, and do. Knowledge matters because it enables those actions; it is not, by itself, a certification result.
 
 The framework uses one simple competency code system:
 
@@ -16,7 +16,7 @@ The framework uses one simple competency code system:
 
 Every required criterion must have sufficient evidence before its parent competency can be recorded as **Showing competency: Yes**. A strength in one competency or criterion cannot compensate for an unmet, inaccurate, or unsafe requirement elsewhere.
 
-The 2026.10 Diploma uses two required, non-compensatory completion gates:
+The 2026.10 Bitcoin Diploma uses two required, non-compensatory completion gates:
 
 1. **Theory (`C1`–`C5`)** — learners show what they can explain, compare, reason through, or apply in activities and conversations.
 2. **Practice (`C6`–`C7`)** — learners show what they can safely perform, verify, and explain through an educator-observed practical activity.
@@ -35,10 +35,10 @@ The [Educator Guide's assessment guidance](../publish/mfb-bd-26.10/mfb-bd-eg-26.
 
 Theoretical competency is not a recall test. An educator must be able to see or hear the learner use knowledge through an observable response. Suitable evidence includes:
 
-- an explanation in the learner's own words;
-- a comparison using stated criteria;
-- a concept illustration or relationship map;
-- a reasoned response to a guided scenario;
+- an explanation in the learner's own words
+- a comparison using stated criteria
+- a concept illustration or relationship map
+- a reasoned response to a guided scenario
 - an identified risk and safe decision; or
 - a justified next step or limitation.
 
@@ -103,7 +103,7 @@ Restricted-pilot My First Bitcoin App microlearning may provide pilot participan
 | 3. Using Bitcoin Safely | `C4`, `C5`, `C6` | Theory and practical competency | Observable explanation and safety reasoning for `C4`–`C5`; direct observation of both performances for `C6`. |
 | 4. Connect: Bitcoin in Your Community | `C7` | Local practical competency | Direct observation of an educator-curated activity and its explanation. |
 
-The assessment follows the Diploma's **Problem → Solution → Action → Connect** arc. Modules 1 and 2 develop the Problem and Solution through observable learner responses. Educators may adapt the practical route in Module 3 while preserving its required competency and safety purpose. Module 4 is the educator-curated Connect stage within the Diploma: it requires the learner to connect that foundation to a local need or opportunity, a realistic alternative, safe performance, and a responsible next step. Theory and practice are two completion gates across the complete Diploma, not numerical scores within each module.
+The assessment follows the Bitcoin Diploma's **Problem → Solution → Action → Connect** arc. Modules 1 and 2 develop the Problem and Solution through observable learner responses. Educators may adapt the practical route in Module 3 while preserving its required competency and safety purpose. Module 4 is the educator-curated Connect stage within the Bitcoin Diploma: it requires the learner to connect that foundation to a local need or opportunity, a realistic alternative, safe performance, and a responsible next step. Theory and practice are two completion gates across the complete Bitcoin Diploma, not numerical scores within each module.
 
 ---
 
@@ -151,7 +151,7 @@ A learner is **assessment-complete** only when both component statuses are compl
 
 ## B. Practical competency complete
 
-- the educator has directly observed both `C6` performances and the selected `C7` task, and recorded **Yes** for `C6` and `C7`;
+- the educator has directly observed both `C6` performances and the selected `C7` task, and recorded **Yes** for `C6` and `C7`
 - every required criterion within those competencies has been observed safely; and
 - `C6.1` includes the supported first-access pathway and receipt of bitcoin, or a safe simulated receipt.
 
@@ -159,11 +159,11 @@ Passing one component cannot compensate for an unmet requirement in the other. P
 
 # 8. Certification meaning
 
-Certification is educator-issued and decentralized. Any educator using the Diploma may issue a certificate based on their assessment judgement. My First Bitcoin does not centrally issue, centrally verify, or guarantee the learner's competency.
+Certification is educator-issued and decentralized. Any educator using the Bitcoin Diploma may issue a certificate based on their assessment judgement. My First Bitcoin does not centrally issue, centrally verify, or guarantee the learner's competency.
 
 Use two certificate types:
 
-- **Certificate of participation:** confirms that the learner attended or took part in the Diploma. It does not confirm that the learner passed the assessment.
+- **Certificate of participation:** confirms that the learner attended or took part in the Bitcoin Diploma. It does not confirm that the learner passed the assessment.
 - **Certificate of completion:** confirms that the educator assessed the learner and judged that the learner passed all required competencies.
 
 The educator must use the Assessment Grid as the minimum assessment process. Keeping brief assessment traces is advisable when useful for feedback, reassessment, or educator memory, but it is not a separate certification requirement. Learners may be assessed through activities, discussions, demonstrations, simulations, online observation, low-tech routes, testnet, physical tokens, or carefully structured low-stakes activity when the route allows the educator to judge the competency safely.
@@ -178,7 +178,7 @@ The 2026.10 curriculum is released framework first. Publication of the guides, p
 
 # 9. Formative competencies
 
-`F1` and `F2` support learning across the Diploma. They may guide educator feedback but do not create certification rows or alter the `C1`–`C7` completion rule.
+`F1` and `F2` support learning across the Bitcoin Diploma. They may guide educator feedback but do not create certification rows or alter the `C1`–`C7` completion rule.
 
 | Formative competency | Suggested evidence |
 |---|---|
@@ -193,13 +193,13 @@ Educators assess both theoretical and practical competencies using suitable acti
 
 The [Educator Guide's assessment guidance](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) and activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) provide:
 
-- competency-to-activity mappings;
-- required observable criteria for each competency;
-- example theoretical prompts and practical routes;
-- practical test, simulation, role-play, and safety guidance;
-- clear definitions of **Showing competency: Yes** and **Showing competency: Not yet**;
-- prompting and permitted-support rules;
-- accessibility variants that preserve the competency;
+- competency-to-activity mappings
+- required observable criteria for each competency
+- example theoretical prompts and practical routes
+- practical test, simulation, role-play, and safety guidance
+- clear definitions of **Showing competency: Yes** and **Showing competency: Not yet**
+- prompting and permitted-support rules
+- accessibility variants that preserve the competency
 - optional educator calibration examples; and
 - optional second-review or moderation support where useful.
 

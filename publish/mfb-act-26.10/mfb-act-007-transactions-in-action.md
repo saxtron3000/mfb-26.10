@@ -81,7 +81,7 @@ Where the planned route permits, return the funds to the educator's final destin
 
 ## Notes
 
-**Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show) and direct practical learning where an approved route calls for it. Use the approved protocol and record only the individual evidence needed for the relevant criteria; otherwise, this activity is formative. It is not an assessment route for significant funds.
+**Bitcoin Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show) and direct practical learning where an approved route calls for it. Use the approved protocol and record only the individual evidence needed for the relevant criteria; otherwise, this activity is formative. It is not an assessment route for significant funds.
 
 Invite learners to explain the checks they made before approval and the difference between wallet authorization, recipient verification, node validation, and mining.
 
