@@ -987,6 +987,7 @@ Use guided discussions to develop and notice the formative competency `F1` acros
 - Prepare the five opening questions for cohort discussion.
 - Select one money-properties activity and one modern-money activity; browse the [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) for options to adapt.
 - Prepare locally familiar examples of a [medium of exchange](https://programs.myfirstbitcoin.org/lexicon/en/#medium-of-exchange), [unit of account](https://programs.myfirstbitcoin.org/lexicon/en/#unit-of-account), and [store of value](https://programs.myfirstbitcoin.org/lexicon/en/#store-of-value).
+- Use local examples only to illustrate the shared, neutral concepts; verify changing local facts, avoid recommendations, and preserve the same competency and evidence standard.
 - Review the [currencies](https://programs.myfirstbitcoin.org/lexicon/en/#currency) and payment methods learners encounter locally.
 - Be ready to facilitate the local fiat-system scenario. Identify the relevant central bank, commercial banks, payment providers, government roles, and settlement arrangements.
 - Verify current local banking rules relevant to the discussion, including reserve or [liquidity](https://programs.myfirstbitcoin.org/lexicon/en/#liquidity) arrangements, [capital](https://programs.myfirstbitcoin.org/lexicon/en/#capital) supervision, deposit protection, withdrawal rules, account-access rules, and consumer protection. Explain only what you have verified and do not provide legal or financial advice.
