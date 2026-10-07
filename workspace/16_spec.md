@@ -23,7 +23,7 @@ The 2026.10 Bitcoin Diploma is a beginner course organized into four modules, wi
 
 The Diploma follows the **Problem → Solution → Action → Connect** learning arc. Modules 1 and 2 develop the Problem and Solution through explanation, comparison, and reasoning. Module 3 develops safe Action. Module 4 is the educator-curated Connect stage, required for Diploma completion: it links the shared learning to a local need or opportunity, a realistic alternative, safe practice, and a responsible next step.
 
-Teaching may be facilitated in person or online. The October 2026 publication package includes low-tech, offline-capable print/PDF materials, an online PDF version, and a web version. All October public outputs are published through Sanity. The My First Bitcoin App launch is postponed, so it is not an available 2026.10 resource. Future delivery branches may include online cohort, self-paced, app-supported, and cross-modal formats, but every branch must preserve the required Diploma competency standards and educator-led assessment standard.
+Teaching may be facilitated in person or online. The October 2026 publication package includes low-tech, offline-capable print/PDF materials, an online PDF version, and a web version. All October public outputs are published through Sanity. My First Bitcoin App microlearning is available only to a defined pilot group and is not part of the Student Guide, Educator Guide, or normal Diploma delivery. Future delivery branches may include online cohort, self-paced, app-supported, and cross-modal formats, but every branch must preserve the required Diploma competency standards and educator-led assessment standard.
 
 ---
 
@@ -167,7 +167,7 @@ The 2026.10 framework-first package is expected to include:
 - activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/);
 - Bitcoin in Your Community templates;
 - assessment framework, Educator Guide operational assessment protocol, and cohort assessment grid;
-- no My First Bitcoin App self-check, recap, or discovery package; its launch is postponed;
+- restricted-pilot My First Bitcoin App self-check, recap, and discovery package, excluded from the Student Guide, Educator Guide, and normal Diploma delivery;
 - public stakeholder brief and keynote material;
 - translation-ready Markdown source files;
 - web version, published through Sanity;
@@ -193,7 +193,7 @@ Modules 1 and 2 are knowledge-dominant. Modules 3 and 4 are skills-dominant and 
 
 The percentages describe two equal-status, non-compensatory components; they do not create a combined numerical grade.
 
-The optional app cannot determine whether a learner can perform a practical skill. Its self-checks and recap do not contribute to assessment in 2026.10.
+Restricted-pilot app microlearning cannot determine whether a learner can perform a practical skill. Its self-checks and recap do not contribute to assessment in 2026.10. The public app is not released with this publication; any later learner-facing guide coverage is a post-publication change subject to the public-release controls in `18_horizon.md`.
 
 No learner may receive a Bitcoin Diploma certificate until both assessment components meet the seven assessed competencies at the required standard. Educators may adapt practical teaching in **Modules 3–4** and curate **Module 4** tasks, but required competencies, observable criteria, equivalent evidence, and passing standards may not be waived. Certification is decentralized: the named educator assesses the learner, accredits the result, and distributes the certificate. The certificate records that educator's judgment; My First Bitcoin does not centrally issue, centrally verify, or guarantee learner competency. After confirming results, educators may use the [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) to prepare certificates in batches; it does not assess learners or decide completion. Optional future credential infrastructure, issuer-specific verification, and any on-chain timestamping must remain separate from the current educator-issued model unless approved.
 

@@ -59,7 +59,7 @@ The following assumptions affect project execution:
 - English-first drafting with multilingual and translation-ready source files.
 - English-source simplicity, tone, style, and translation-readiness review before translation or publication.
 - Sparse QR code use in print materials.
-- The October 2026 release includes an online PDF version and a web version, both published through Sanity. Future instructional branches should be documented without becoming current implementation requirements: online cohort, self-paced, optional app self-assessment support, and cross-modal continuation.
+- The October 2026 release includes an online PDF version and a web version, both published through Sanity. Future instructional branches should be documented without becoming current implementation requirements: online cohort, self-paced, restricted-pilot and later public-app self-assessment support, and cross-modal continuation.
 - `06_plan.md` is the active plan source of truth.
 - Combined assessment is in scope: educator-led theoretical assessment is 50% of the Diploma and educator-observed practical assessment is the remaining 50%. These are non-compensatory component balances, not a combined numerical grade.
 - Both assessment components are prerequisites for certification.
@@ -253,7 +253,7 @@ Create a competency-aligned system with two required, non-compensatory component
 
 ### Note
 
-The operational assessment protocol is published in the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) and the cohort record in `../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md`. Both educator-evaluated assessment components are mandatory for certification. Optional app self-checks cannot evaluate, record, or replace either component. The educator assesses the learner, accredits the result, and distributes the certificate. After confirming results and certificate types, they may use the [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) to prepare certificates in batches. My First Bitcoin does not centrally issue, centrally verify, or guarantee learner competency. Privacy, correction, appeals, optional issuer-specific verification, and any future credential infrastructure remain implementation work for certificated delivery.
+The operational assessment protocol is published in the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) and the cohort record in `../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md`. Both educator-evaluated assessment components are mandatory for certification. Restricted-pilot app self-checks cannot evaluate, record, or replace either component. The educator assesses the learner, accredits the result, and distributes the certificate. After confirming results and certificate types, they may use the [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) to prepare certificates in batches. My First Bitcoin does not centrally issue, centrally verify, or guarantee learner competency. Privacy, correction, appeals, optional issuer-specific verification, and any future credential infrastructure remain implementation work for certificated delivery.
 
 ---
 
@@ -355,7 +355,7 @@ Prepare final publication-ready outputs.
 - QR code placement and destination rules
 - Fact-checked, source-of-truth-aligned publication package
 
-All October public outputs are published through Sanity. Online cohort, self-paced, optional app, and cross-modal branches remain future work.
+All October public outputs are published through Sanity. Online cohort, self-paced, restricted-pilot and later public-app, and cross-modal branches remain future work.
 
 After release, approved modifications must be made through the [proofreading platform](https://forms.myfirstbitcoin.org/proofread), GitHub, or, where required, directly in Sanity. Each change must preserve alignment between the source material and the Sanity-published outputs.
 
@@ -493,7 +493,7 @@ The following items are intentionally excluded from the current redesign project
 - Maintenance of multiple localized curriculum variants
 - Online cohort platform implementation
 - Self-paced learning platform implementation
-- Building or replacing the underlying app platform; optional self-assessment content may be maintained separately in `14_microlearning-plan.md`.
+- Building or replacing the underlying app platform; restricted-pilot self-assessment content may be maintained separately in `14_microlearning-plan.md`.
 - Cross-modal learner-continuation infrastructure
 
 These may become future projects.

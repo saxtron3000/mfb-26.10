@@ -11,7 +11,7 @@ Use this checklist to confirm that each destination opens and is the correct res
 
 Repeated destinations share a row. Source locations list every occurrence; repeated line numbers mean multiple occurrences on that line. Original row IDs are retained. Line numbers may shift after edits.
 
-This index contains five guide web destinations outside `myfirstbitcoin.org`, 18 activity-library web-link groups, and 108 local document or section destinations. See [internal links](links-internal.md) for `myfirstbitcoin.org`, its subdomains, and the project GitHub repository. The My First Bitcoin App launch is postponed, so its destination is not included in the current link register. Local repository links are listed separately below; they are not external websites.
+This index contains five guide web destinations outside `myfirstbitcoin.org`, 18 activity-library web-link groups, and 108 local document or section destinations. See [internal links](links-internal.md) for `myfirstbitcoin.org`, its subdomains, and the project GitHub repository. Restricted-pilot My First Bitcoin App access has no public guide destination, so it is not included in the current link register. Local repository links are listed separately below; they are not external websites.
 
 ## Review instructions
 

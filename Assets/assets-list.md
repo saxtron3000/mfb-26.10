@@ -87,7 +87,7 @@ This log records the file-production status required by the asset workflow in [w
 | BD-V-073 | Created — `assets/briefs/bd-v-073-brief.md` | Not created | Not created | Not recorded | Not created |
 | BD-V-074 | Created — `assets/briefs/bd-v-074-brief.md` | Not created | Not created | Not recorded | Not created |
 | BD-V-075 | Created — `assets/briefs/bd-v-075-brief.md` | Not created | Not created | Not recorded | Not created |
-| BD-V-076 | Deferred — postponed app launch; do not produce or place | Not applicable | Not applicable | Not applicable | Not applicable |
+| BD-V-076 | Deferred — pending public app release; do not produce or place | Not applicable | Not applicable | Not applicable | Not applicable |
 | BD-V-077 | Created — `assets/briefs/bd-v-077-brief.md` | Not created | Not created | Not recorded | Not created |
 | BD-V-078 | Created — `assets/briefs/bd-v-078-brief.md` | Not created | Not created | Not recorded | Not created |
 | BD-V-079 | Created — `assets/briefs/bd-v-079-brief.md` | Not created | Not created | Not recorded | Not created |

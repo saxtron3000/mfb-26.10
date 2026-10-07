@@ -18,7 +18,7 @@ Choose the route that matches your work:
 | Check a Student Guide definition | [`publish/mfb-lx-26.10-sg-index.md`](publish/mfb-lx-26.10-sg-index.md) |
 | Check an Educator Guide definition | [`publish/mfb-lx-26.10-eg-index.md`](publish/mfb-lx-26.10-eg-index.md) |
 | See Advanced-module availability | [`publish/mfb-adv-26.10/README.md`](publish/mfb-adv-26.10/README.md) |
-| Work on optional app self-assessment content | [`publish/mfb-ml-26.10/mfb-ml-26.10.md`](publish/mfb-ml-26.10/mfb-ml-26.10.md) |
+| Work on restricted-pilot app self-assessment content | [`publish/mfb-ml-26.10/mfb-ml-26.10.md`](publish/mfb-ml-26.10/mfb-ml-26.10.md) |
 | Run the alignment review | [`review/review_alignment.md`](review/review_alignment.md) |
 | Run the style review | [`review/review_style.md`](review/review_style.md) |
 | Check current review actions | [`review/review_todo.md`](review/review_todo.md) |
@@ -50,7 +50,7 @@ The official 2026.10 Diploma documents are:
 
 The `workspace/` documents support the development and maintenance of these official documents. They are planning resources, not learner- or educator-facing curriculum.
 
-The optional app self-assessment data remains in [`publish/mfb-ml-26.10/mfb-ml-26.10.md`](publish/mfb-ml-26.10/mfb-ml-26.10.md). It supports voluntary review and is not assessment evidence.
+The restricted-pilot app self-assessment data remains in [`publish/mfb-ml-26.10/mfb-ml-26.10.md`](publish/mfb-ml-26.10/mfb-ml-26.10.md). It is available only to the defined pilot group, is not part of the Student Guide, Educator Guide, or normal Diploma delivery, and is not assessment evidence.
 
 ## Curriculum at a Glance
 
@@ -63,7 +63,7 @@ The beginner Diploma uses four modules:
 
 The current design uses a minimum eight-hour, educator-facilitated pathway with no upper limit and a complete low-tech and offline-capable option. Module 4 connects the shared learning to locally relevant Bitcoin use under approved safety and assessment guardrails.
 
-Assessment has two required, non-compensatory components: educator-evaluated theoretical competency demonstrated through observable learner responses, and educator-observed practical competency. The optional app supports learner-owned recap and self-assessment only; it is not required and does not provide certification evidence.
+Assessment has two required, non-compensatory components: educator-evaluated theoretical competency demonstrated through observable learner responses, and educator-observed practical competency. Restricted-pilot app self-assessment is not required and does not provide certification evidence.
 
 The October 2026 framework-first package includes offline-capable print/PDF materials, an online PDF, and website-ready content published through Sanity. Certification is decentralized: the named educator assesses the learner and issues the certificate. My First Bitcoin does not centrally evaluate learners, issue certificates, provide a central verification service, or guarantee learner competency. Publication of the framework does not by itself declare every local route ready for certificated delivery.
 

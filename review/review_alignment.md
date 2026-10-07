@@ -172,7 +172,7 @@ Distinguish teaching-package readiness, publication readiness, validated assessm
 
 ## Prompt 10: Check optional resources and publication promises
 
-The My First Bitcoin App launch is postponed, so it is not a current-release optional resource. Keep the deferred 12-question package outside the publication and assessment route. Before a later launch, require independent factual/editorial review, small-phone testing, screen-reader testing, and the approval gates in [the horizon register](../workspace/18_horizon.md). It must supply no assessment evidence, create no certification gate, or replace practical competence observation.
+My First Bitcoin App microlearning is published only to a defined restricted pilot group. Keep the 12-question package outside the Student Guide, Educator Guide, normal Diploma delivery, and the assessment route. Before a later public launch, require independent factual/editorial review, small-phone testing, screen-reader testing, and the approval gates in [the horizon register](../workspace/18_horizon.md). It must supply no assessment evidence, create no certification gate, or replace practical competence observation.
 
 Keep named programme links and general wallet-software guidance within the approved publication policy. Explain openness alongside custody, recovery, safety, compatibility, privacy, continuity, and local support without global product endorsement. Keep programme participation optional and changing links maintained.
 

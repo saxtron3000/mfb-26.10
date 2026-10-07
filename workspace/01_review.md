@@ -234,7 +234,7 @@ Risks include:
 - app or checklist completion being treated as proof of practical ability; and
 - certificates communicating inconsistent levels of achievement.
 
-The redesign should connect every assessed competency to appropriate evidence. The complete assessment should contain two separately passed components: a 50% educator-evaluated theoretical component and a 50% educator-observed practical component. The common framework belongs in `13_assessment.md`; the crosswalk, approved interactions and tasks, rubrics, educator calibration, and reassessment procedures belong in the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol); and certification eligibility belongs in `15_certification.md`. Optional learner self-checks belong in `14_microlearning-plan.md`.
+The redesign should connect every assessed competency to appropriate evidence. The complete assessment should contain two separately passed components: a 50% educator-evaluated theoretical component and a 50% educator-observed practical component. The common framework belongs in `13_assessment.md`; the crosswalk, approved interactions and tasks, rubrics, educator calibration, and reassessment procedures belong in the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol); and restricted-pilot learner self-checks belong in `14_microlearning-plan.md`.
 
 ## 3.7 Lack of Measurable Competencies
 

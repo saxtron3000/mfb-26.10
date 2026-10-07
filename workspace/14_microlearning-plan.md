@@ -1,12 +1,12 @@
-# Bitcoin Diploma Optional Self-Assessment Question Bank
+# Bitcoin Diploma Restricted-Pilot Self-Assessment Question Bank
 
 ## Scope
 
-This document defines a minimal, learner-owned self-assessment quiz that can be built with the app as it exists today.
+This document defines a minimal, learner-owned self-assessment quiz for the restricted-access My First Bitcoin App pilot. It is internal pilot material, not a normal Diploma learning resource and not Student Guide or Educator Guide content.
 
 The quiz is deliberately separate from formal Diploma assessment. It is learner-owned by design, so its results cannot be used for certification, passing decisions, educator tracking, or evidence that a learner has completed a practical skill.
 
-# Phase 1 minimal viable product
+# Restricted-pilot minimum viable product
 
 ## Learner purpose
 
@@ -14,28 +14,28 @@ Create one learner-owned **12-question** self-assessment quiz. It helps learners
 
 ## Required quiz behaviour
 
-| Element | October requirement |
+| Element | Pilot requirement |
 |---|---|
-| Questions | Exactly 12 questions selected from Modules 1, 2, and 3. Do not include educator-curated Module 4 content in the shared October bank. |
+| Questions | Exactly 12 questions selected from Modules 1, 2, and 3. Do not include educator-curated Module 4 content in the shared pilot bank. |
 | Format | One multiple-choice prompt with exactly four answer options. |
 | Correct answer | One clear best answer. |
-| Feedback after an answer | One shared, plain-language explanation, shown after either answer outcome, with a specific Bitcoin Diploma topic to review. It may invite the learner to keep learning or continue, but the current app cannot show different correct and incorrect messages. |
+| Feedback after an answer | One shared, plain-language explanation, shown after either answer outcome, with a specific Bitcoin Diploma topic to review. It may invite the learner to keep learning or continue, but the pilot app cannot show different correct and incorrect messages. |
 | Final screen | Show a simple score out of 12, if supported, with one encouraging message. Do not label it pass or fail. |
 | Data and assessment | No educator tracking, certification use, learner-progress record, practical-skills claim, or collection of personal financial information. |
 
-## Current-app implementation constraints
+## Pilot implementation constraints
 
-The October app supports one plain-text, single-choice question with two to six choices and one correct answer. This MVP specifies four choices for every question. It can show one optional plain-text explanation after an answer and reveal the correct answer, but that explanation is the same whether the learner was correct or incorrect. It cannot show answer-specific, correct-specific, or incorrect-specific feedback.
+The pilot app supports one plain-text, single-choice question with two to six choices and one correct answer. This MVP specifies four choices for every question. It can show one optional plain-text explanation after an answer and reveal the correct answer, but that explanation is the same whether the learner was correct or incorrect. It cannot show answer-specific, correct-specific, or incorrect-specific feedback.
 
-Questions in one quiz appear on the same screen. The current item format does not support images, audio, video, links, rich text, teaching cards, or a multi-screen explanation–scenario–question–feedback flow. A review reference may therefore name the relevant Diploma section, but should not depend on the app rendering a clickable link.
+Questions in one quiz appear on the same screen. The pilot item format does not support images, audio, video, links, rich text, teaching cards, or a multi-screen explanation–scenario–question–feedback flow. A review reference may therefore name the relevant Diploma section, but should not depend on the pilot app rendering a clickable link.
 
 The displayed score and the learner-selected completion status are local to the learner's device and are not evidence of learning. Completion is score-independent. Closing and reopening a quiz restarts it, so learners can retry, but answers, attempts, and scores are not retained or shared.
 
 ## Developer handoff record
 
-Supply each of the 12 questions with: stable item ID and meaningful app question key; module and topic; prompt; options A–D; correct option; one shared explanation and review reference; competency link; language/source version; and review status.
+Supply each of the 12 questions with: stable item ID and meaningful pilot-app question key; module and topic; prompt; options A–D; correct option; one shared explanation and review reference; competency link; language/source version; and review status.
 
-For the current Sanity quiz format, map the handoff record to `_key`, `prompt`, `choices`, `correctIndex`, and optional `explanation`. `correctIndex` is the zero-based position of the correct choice. Do not reorder choices after setting it without checking the index. Keep the stable item ID and source-language relationship in the authoring record, because the current app uses separate documents for each language and does not yet link them.
+For the pilot Sanity quiz format, map the handoff record to `_key`, `prompt`, `choices`, `correctIndex`, and optional `explanation`. `correctIndex` is the zero-based position of the correct choice. Do not reorder choices after setting it without checking the index. Keep the stable item ID and source-language relationship in the authoring record, because the pilot app uses separate documents for each language and does not yet link them.
 
 Use supportive result messages such as:
 
@@ -45,7 +45,7 @@ Use supportive result messages such as:
 
 ## Review checklist
 
-Before a question enters the October quiz, confirm that it:
+Before a question enters the pilot quiz, confirm that it:
 
 - uses exactly four answer options and has one clear best answer;
 - links learners to a Diploma topic they can actually review;
@@ -57,7 +57,7 @@ Before a question enters the October quiz, confirm that it:
 
 # Question-bank expansion
 
-Everything below this heading is not required for the October push. It preserves the larger content bank, question-type ideas, and feature requests for later planning. Do not treat it as an October build requirement.
+Everything below this heading is not required for the restricted pilot. It preserves the larger content bank, question-type ideas, and feature requests for later planning. Do not treat it as a pilot-build requirement.
 
 Use simple, translation-ready English. Keep the Diploma Bitcoin-only, educational, and free from financial, legal, tax, accounting, compliance, or investment advice. Do not turn a named wallet, exchange, tool, or local service into a global recommendation.
 
@@ -402,7 +402,7 @@ Question-bank opportunities:
 - ordering: prepare to receive a small supported test amount;
 - multiple choice: identify the detail needed to receive on-chain bitcoin;
 - scenario: decide what to verify before sharing a receiving address;
-- educator flag: app questions prepare for, but do not replace, observed practical evidence.
+- educator flag: pilot-app questions prepare for, but do not replace, observed practical evidence.
 
 ## BD-ML-B03-T07: Sending bitcoin and confirmations
 
@@ -458,7 +458,7 @@ Question-bank opportunities:
 - safety-critical mixed review;
 - scenario branching: identify the next safest action;
 - learner self-check: mark areas needing guided practice;
-- educator flag: app self-checks can guide review but never substitute for educator-led assessment.
+- educator flag: pilot-app self-checks can guide review but never substitute for educator-led assessment.
 
 ---
 
@@ -466,7 +466,7 @@ Question-bank opportunities:
 
 ## Educator-curated Module 4 content rule
 
-Module 4 is the educator-curated **Connect** stage of Problem → Solution → Action → Connect. It links the shared learning to a local need or opportunity, a realistic alternative, safe practice, and a responsible next step. Create app self-check items only after the local module, tools, safety boundaries, and sources are approved. Keep these items modular and tag them by location, language, delivery context, and review date.
+Module 4 is the educator-curated **Connect** stage of Problem → Solution → Action → Connect. It links the shared learning to a local need or opportunity, a realistic alternative, safe practice, and a responsible next step. Create pilot-app self-check items only after the local module, tools, safety boundaries, and sources are approved. Keep these items modular and tag them by location, language, delivery context, and review date.
 
 ## BD-ML-B04-T01: Local Bitcoin tools and resources
 

@@ -108,7 +108,7 @@ The 2026.10 design commitments are:
 - an Educator Guide for facilitation, pacing, adaptation, safety, and assessment;
 - activities available through the [Resources Hub](https://programs.myfirstbitcoin.org/resources/);
 - low-tech, offline-capable learning with no app, device, or connectivity requirement for learning, assessment, completion, or certification;
-- an optional app for recap, self-checks, discovery, and connection to further My First Bitcoin learning—not assessment evidence; and
+- optional further-learning resources for recap, self-checks, discovery, and connection to further My First Bitcoin learning—not assessment evidence; and
 - Advanced technical and specialist study outside the beginner Diploma.
 
 The redesign should teach learners how to think, not what to think. Learners should leave with better questions, clearer reasoning, and more confidence.
@@ -249,7 +249,7 @@ The redesigned Diploma should be understood as a learning ecosystem rather than 
 | Educator Guide | Facilitation, pacing, classroom decisions, discussion management, and adaptation support |
 | Resources Hub activities | Participation, practice, local adaptation, review, and practical learning |
 | Module 4 planning and task templates | Local workshops, demonstrations, and community-specific Bitcoin-as-money tasks |
-| My First Bitcoin App (launch postponed) | Not part of the 2026.10 learner pathway; any future use must never become assessment evidence |
+| My First Bitcoin App public launch (postponed) | Not part of the 2026.10 learner pathway; any future use must never become assessment evidence |
 | Educator-led assessment | Explanation, synthesis, simulations, role-plays, and direct observation of practical competence |
 | Future Advanced study | Deeper study without overloading the beginner pathway |
 
@@ -270,7 +270,7 @@ Assessment should connect every required competency to evidence that matches it.
 1. A 50% theoretical component, evaluated and recorded by educators through approved competency-aligned explanations, comparisons, illustrations, or scenario responses.
 2. A 50% practical component, evaluated and recorded by educators through direct observation of approved demonstrations, simulations, tests, or role-plays.
 
-Like a driving test, learners must show what they can explain, compare, apply, decide, and perform. The optional app can help learners review, but it does not assess, record, or determine certification.
+Like a driving test, learners must show what they can explain, compare, apply, decide, and perform. Optional independent review can help learners revisit ideas, but it does not assess, record, or determine certification.
 
 Assessment should align with:
 
@@ -306,7 +306,7 @@ Important distinction:
 
 Modules 1 and 2 are knowledge-dominant; Modules 3 and 4 are skills-dominant and require direct observation of approved practical competencies. The two components are equal-status and non-compensatory: a combined score cannot substitute for unmet evidence in either one.
 
-Participation, attendance, and app progress are not certification. A learner may receive a Diploma certificate from the named educator only after both components meet the required standard for all seven assessed competencies and the evidence is recorded. This protects a shared minimum standard across educators and communities.
+Participation, attendance, and independent-review progress are not certification. A learner may receive a Diploma certificate from the named educator only after both components meet the required standard for all seven assessed competencies and the evidence is recorded. This protects a shared minimum standard across educators and communities.
 
 Certification is decentralized and educator-issued. The educator assesses the learner, accredits the result, and distributes the certificate; it records that educator's judgment. My First Bitcoin does not centrally evaluate learners, issue certificates, operate a central verification service, or guarantee competency. Optional future credential or verification tools must preserve that boundary and cannot replace either assessment component.
 
@@ -425,7 +425,7 @@ This launch presentation tells the redesign story from its foundations through t
 | 6. The new learning story | 3:00 | Four modules move from money, to Bitcoin, to safe use, to local application. | Horizontal module journey |
 | 7. Practice with responsibility | 3:00 | Learners discuss, reason, practise, reflect, and identify safer next steps. | Explain → practise → apply → reflect loop |
 | 8. Educators complete the local story | 3:00 | Local educators curate the required Module 4 Connect task within shared competencies and safety boundaries. | Educator choosing from approved local task options |
-| 9. The learning ecosystem | 3:00 | The Student Guide, Educator Guide, Resources Hub, optional app, and future Advanced study have distinct roles. | Ecosystem diagram |
+| 9. The learning ecosystem | 3:00 | The Student Guide, Educator Guide, Resources Hub, optional further-learning resources, and future Advanced study have distinct roles. | Ecosystem diagram |
 | 10. A certificate that means something | 2:30 | Certification requires all seven assessed competencies across educator-evaluated theory and educator-observed practical evidence. | Two-part evidence pathway |
 | 11. From redesign to release | 2:00 | The work now moves through review, pilots, publication, and launch preparation. | Release path to October 2026 |
 | 12. What collaboration makes possible | 2:00 | Educators, communities, contributors, and supporters can help make the release useful and durable. | Four collaboration roles |
@@ -519,9 +519,9 @@ Suggested visual: An educator selects an approved local task from a Module 4 opt
 
 Time: 3 minutes
 
-Key message: The redesigned Diploma is a coordinated learning package, not a single book or an app.
+Key message: The redesigned Diploma is a coordinated learning package, not a single book.
 
-Speaker note: Give each component a distinct role. The Student Guide carries learner explanations, reflection, and key concepts. The Educator Guide supports facilitation and adaptation. Resources Hub activities supply participation and practice. The app is optional and learner-owned: it can support recap, self-checks, and discovery, but it does not assess or record certification evidence. Future Advanced study holds deeper material outside the Diploma.
+Speaker note: Give each component a distinct role. The Student Guide carries learner explanations, reflection, and key concepts. The Educator Guide supports facilitation and adaptation. Resources Hub activities supply participation and practice. Optional independent review can support recap, self-checks, and discovery, but it does not assess or record certification evidence. Future Advanced study holds deeper material outside the Diploma.
 
 Suggested visual: Ecosystem diagram with educators and learners at the centre.
 
@@ -529,9 +529,9 @@ Suggested visual: Ecosystem diagram with educators and learners at the centre.
 
 Time: 2 minutes 30 seconds
 
-Key message: A certificate represents demonstrated beginner learning, not attendance, app progress, or a financial recommendation.
+Key message: A certificate represents demonstrated beginner learning, not attendance, independent-review progress, or a financial recommendation.
 
-Speaker note: The assessment has two equal-status, non-compensatory components: 50% educator-evaluated theoretical evidence and 50% directly observed practical evidence. All seven assessed competencies must meet the required standard and be recorded before certification. Participation, attendance, and app progress alone do not qualify a learner. The named educator assesses the learner and issues the certificate; it is not central My First Bitcoin certification or a competency guarantee. The curriculum is released framework first, so certificated delivery begins only when the educator's selected tasks, local variants, capacity, accessibility routes, records, and proportionate local governance are ready.
+Speaker note: The assessment has two equal-status, non-compensatory components: 50% educator-evaluated theoretical evidence and 50% directly observed practical evidence. All seven assessed competencies must meet the required standard and be recorded before certification. Participation, attendance, and independent-review progress alone do not qualify a learner. The named educator assesses the learner and issues the certificate; it is not central My First Bitcoin certification or a competency guarantee. The curriculum is released framework first, so certificated delivery begins only when the educator's selected tasks, local variants, capacity, accessibility routes, records, and proportionate local governance are ready.
 
 Suggested visual: Two equal evidence paths converging on “assessment-complete,” then certificate.
 
@@ -578,7 +578,7 @@ Say:
 - Legacy content is moving into the right places: the required Diploma modules or future Advanced study.
 - The fourth module is required and educator-curated within shared standards.
 - Practical workshops and demonstrations are becoming more central.
-- The app is optional and never certification evidence in 2026.10.
+- Independent review is optional and never certification evidence in 2026.10.
 
 Avoid:
 
@@ -635,7 +635,7 @@ Keep these topics available for questions, but do not make them central to the 3
 - review, pilot, and publication process;
 - localization boundaries and translation readiness;
 - low-connectivity and offline-capable delivery;
-- future delivery formats and the optional app boundary.
+- future delivery formats and the independent-review boundary.
 
 Do not include the full [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) title list in the keynote.
 

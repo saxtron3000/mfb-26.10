@@ -13,7 +13,7 @@ The 2026.10 set is a framework-first publication. It includes the teaching and a
 - A published item may support more than one module, but its primary module or role must be stated.
 - Existing legacy activity procedures are candidates for review and adaptation, not automatically approved assessment tasks or global tool recommendations.
 - Activities involving live tools, videos, accounts, wallets, personal devices, real funds, or secrets require the low-tech, privacy, safety, and current-content checks in `10_activities.md`, `12_educator-plan.md`, and `16_spec.md` before delivery.
-- The optional app question data is learner-owned self-review only. It does not provide evidence for assessment, certification, educator tracking, or a pass/fail result.
+- Restricted-pilot app question data is learner-owned self-review only. It is available only to the defined pilot group and does not provide evidence for assessment, certification, educator tracking, or a pass/fail result.
 - [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) are on a post-launch release track for November–December 2026. They are not part of the beginner Diploma release; `17_advanced.md` is the planning inventory and source trail until each module is approved for release.
 
 ## Diploma publication set
@@ -43,13 +43,13 @@ The following files are explicitly post-launch works in progress, planned for No
 | [`mfb-adv-007-privacy-security-and-online-safety.md`](../publish/mfb-adv-26.10/mfb-adv-007-privacy-security-and-online-safety.md) | Post-launch work in progress | `17_advanced.md` |
 | [`mfb-adv-008-building-on-bitcoin.md`](../publish/mfb-adv-26.10/mfb-adv-008-building-on-bitcoin.md) | Post-launch work in progress | `17_advanced.md` |
 
-## Optional microlearning publication set
+## Restricted-pilot microlearning publication set
 
 | Published file | Content covered | Planning home and decision |
 |---|---|---|
-| [`mfb-ml-26.10.md`](../publish/mfb-ml-26.10/mfb-ml-26.10.md) | October developer handoff: one 12-item self-check, with short and long alternatives for money, Bitcoin, and safe-use concepts in Modules 1–3. | `14_microlearning-plan.md` owns app purpose, item rules, implementation constraints, topic bank, and non-assessment boundary. |
-| [`mfb-ml-26.10-short-questions.csv`](../publish/mfb-ml-26.10/mfb-ml-26.10-short-questions.csv) | CSV export of the 12 short item variants (`BD-ML-01S`–`BD-ML-12S`), including options, correct answers, explanations, and Student Guide review references. | `14_microlearning-plan.md`; the CSV must remain semantically identical to the short-question table in `mfb-ml-26.10.md`. |
-| [`mfb-ml-26.10-long-questions.csv`](../publish/mfb-ml-26.10/mfb-ml-26.10-long-questions.csv) | CSV export of the 12 long item variants (`BD-ML-01L`–`BD-ML-12L`), including options, correct answers, explanations, and Student Guide review references. | `14_microlearning-plan.md`; the CSV must remain semantically identical to the long-question table in `mfb-ml-26.10.md`. |
+| [`mfb-ml-26.10.md`](../publish/mfb-ml-26.10/mfb-ml-26.10.md) | Published handoff for the restricted pilot: one 12-item self-check, with short and long alternatives for money, Bitcoin, and safe-use concepts in Modules 1–3. Do not link or assign it through normal Diploma delivery. | `14_microlearning-plan.md` owns pilot purpose, item rules, implementation constraints, topic bank, and non-assessment boundary. |
+| [`mfb-ml-26.10-short-questions.csv`](../publish/mfb-ml-26.10/mfb-ml-26.10-short-questions.csv) | Pilot-only CSV export of the 12 short item variants (`BD-ML-01S`–`BD-ML-12S`), including options, correct answers, explanations, and Student Guide review references. | `14_microlearning-plan.md`; the CSV must remain semantically identical to the short-question table in `mfb-ml-26.10.md`. |
+| [`mfb-ml-26.10-long-questions.csv`](../publish/mfb-ml-26.10/mfb-ml-26.10-long-questions.csv) | Pilot-only CSV export of the 12 long item variants (`BD-ML-01L`–`BD-ML-12L`), including options, correct answers, explanations, and Student Guide review references. | `14_microlearning-plan.md`; the CSV must remain semantically identical to the long-question table in `mfb-ml-26.10.md`. |
 
 ## Activity publication set
 

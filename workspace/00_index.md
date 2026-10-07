@@ -31,7 +31,7 @@ The official 2026.10 Diploma documents are:
 | Educator Guide lexicon | [`mfb-lx-26.10-eg-index.md`](../publish/mfb-lx-26.10-eg-index.md) | Educator-linked terminology and definitions. |
 | [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) | [`mfb-adv-26.10/README.md`](../publish/mfb-adv-26.10/README.md) | Post-launch Advanced release planned for November–December 2026; not part of the beginner Diploma. |
 
-The optional app self-assessment data is maintained in [`mfb-ml-26.10.md`](../publish/mfb-ml-26.10/mfb-ml-26.10.md). It is a voluntary review resource, not assessment evidence.
+The restricted-pilot app self-assessment data is maintained in [`mfb-ml-26.10.md`](../publish/mfb-ml-26.10/mfb-ml-26.10.md). It is available only to the defined pilot group, is not part of the Student or Educator Guide, and is not assessment evidence.
 
 The 2026.10 publication is a framework-first teaching package. It includes the assessment framework, but publication alone does not declare every local route ready for certificated delivery. Certificates are issued by the educator who assesses the learner; they record that educator's judgment and are not centrally issued, verified, or guaranteed by My First Bitcoin. After confirming a learner's result and certificate type, educators may use the [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) to prepare certificates in batches.
 
@@ -59,7 +59,7 @@ Read the working documents in this order when you need the full design context:
 | 11a | [`y_11_activities-template-assess.md`](y_11_activities-template-assess.md) | Use the assessment-specific template for approved theory interactions and practical tasks. |
 | 12 | [`12_educator-plan.md`](12_educator-plan.md) | Review the planning structure for the Educator Guide. |
 | 13 | [`13_assessment.md`](13_assessment.md) | Review theoretical and practical assessment requirements. |
-| 14 | [`14_microlearning-plan.md`](14_microlearning-plan.md) | Review the internal plan for optional app microlearning. |
+| 14 | [`14_microlearning-plan.md`](14_microlearning-plan.md) | Review the internal plan for restricted-pilot app microlearning. |
 | 15 | [`15_certification.md`](15_certification.md) | Review the assessment prerequisite for certification and outstanding governance questions. |
 | 16 | [`16_spec.md`](16_spec.md) | Read the standalone Diploma overview for collaborators and stakeholders. |
 | 17 | [`17_advanced.md`](17_advanced.md) | Review Advanced pathway ideas and parked legacy material. |
@@ -97,8 +97,8 @@ Detailed activities are available on the [Resources Hub](https://programs.myfirs
 | Official Educator Guide | [`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) |
 | Official Assessment Grid | [`publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md`](../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) |
 | Competency-aligned assessment planning | [`13_assessment.md`](13_assessment.md) |
-| Optional app microlearning plan | [`14_microlearning-plan.md`](14_microlearning-plan.md) |
-| Optional app self-assessment publication source | [`publish/mfb-ml-26.10/mfb-ml-26.10.md`](../publish/mfb-ml-26.10/mfb-ml-26.10.md) |
+| Restricted-pilot app microlearning plan | [`14_microlearning-plan.md`](14_microlearning-plan.md) |
+| Restricted-pilot app self-assessment publication source | [`publish/mfb-ml-26.10/mfb-ml-26.10.md`](../publish/mfb-ml-26.10/mfb-ml-26.10.md) |
 | Certification prerequisite, governance questions, and batch certificate production | [`15_certification.md`](15_certification.md); [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) |
 | Official Student Guide lexicon | [`mfb-lx-26.10-sg-index.md`](../publish/mfb-lx-26.10-sg-index.md) |
 | Official Educator Guide lexicon | [`mfb-lx-26.10-eg-index.md`](../publish/mfb-lx-26.10-eg-index.md) |
@@ -135,7 +135,7 @@ The working assumptions are:
 - separate learner, educator, activity, assessment, and optional microlearning components;
 - English-first drafting followed by simplicity, tone, terminology, and translation-readiness review;
 - two required, non-compensatory assessment components: educator-evaluated theory and educator-observed practical competency;
-- optional app self-assessment that never supplies certification evidence;
+- restricted-pilot app self-assessment that never supplies certification evidence;
 - Advanced design after the beginner Diploma is stable and published; and
 - Bitcoin-only, open-source, community-led education without financial, legal, tax, accounting, compliance, or investment advice.
 
@@ -165,7 +165,7 @@ Review findings should be converted into an approved decision or an action in `r
 - Use `10_activities.md` for activity boundaries, quality requirements, and release priorities. Keep detailed activities and assessment-task specifications on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), not in the Student Guide or curriculum plan.
 - Keep educator-facing publication content in the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md); use `12_educator-plan.md` to plan and check its structure.
 - Keep operational assessment rules, competency wording, runnable theory interactions, and practical tasks in the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol); planning support in `13_assessment.md`; cohort records in `mfb-bd-assessment-grid-26.10.md`; and certification eligibility and governance questions in `15_certification.md`.
-- Keep optional app planning in `14_microlearning-plan.md` and publication data in `publish/mfb-ml-26.10/mfb-ml-26.10.md`.
+- Keep restricted-pilot app planning in `14_microlearning-plan.md` and pilot publication data in `publish/mfb-ml-26.10/mfb-ml-26.10.md`.
 - Keep the complete Advanced inventory and Organizations source trail in `workspace/17_advanced.md`.
 - Keep cross-project findings, decisions, quality checks, and release actions in `review/`.
 - Draft in English first, then review simplicity, tone, terminology, accessibility, and translation readiness before publication.

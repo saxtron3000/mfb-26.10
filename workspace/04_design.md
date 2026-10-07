@@ -68,7 +68,7 @@ The current working design direction is:
 - assessment built from assessed competencies and observable criteria, using an educator-led theoretical component worth 50% and an educator-observed practical component worth 50%;
 - certification based on both theoretical evidence and directly observed practical competence;
 - localization considered through adaptable examples, activities, and facilitation, not through changing required Diploma competency standards;
-- low-tech, offline-capable print/PDF content retained as a required publication mode for in-person facilitation or online facilitation, alongside October online PDF and web versions published through Sanity; future branches are online cohort, self-paced, optional app self-assessment support, and cross-modal continuation;
+- low-tech, offline-capable print/PDF content retained as a required publication mode for in-person facilitation or online facilitation, alongside October online PDF and web versions published through Sanity; future branches are online cohort, self-paced, restricted-pilot and later public-app self-assessment support, and cross-modal continuation;
 - print PDFs kept clean, with QR codes used sparingly for stable, high-value destinations;
 - shared Modules 1–2 core theory and required Diploma competency standards standardized globally, while practical delivery in Modules 3–4 is adapted by educators or local experts;
 - an internal "racecar" standard: every component should earn its place by improving clarity, completion, practice, educator usability, or learner safety.
@@ -90,7 +90,7 @@ The following rough design notes are clarified into stable design rules:
 | Practical skills | Treat practical learning as guided skill orientation: demonstration, practice, production, reflection, and safe next steps. |
 | Observable competencies | Let observable learner action control content decisions. If a competency cannot be taught, practised, and evidenced inside the beginner pathway, it should not be part of the Diploma. |
 | Include future ideas | Preserve future pathways in roadmaps, Advanced material, and publication planning without expanding the required beginner Diploma. |
-| Forking off modes | Publish low-tech, offline-capable print/PDF, online PDF, and web versions in October through Sanity. Design future online-cohort, self-paced, optional app self-assessment, and cross-modal branches from the same source while preserving educator-led assessment. |
+| Forking off modes | Publish low-tech, offline-capable print/PDF, online PDF, and web versions in October through Sanity. Design future online-cohort, self-paced, restricted-pilot and later public-app self-assessment, and cross-modal branches from the same source while preserving educator-led assessment. |
 | Don't put too many QR codes on PDF in print to start | Use QR codes sparingly in print. Prefer a few durable destinations over many fragile links that clutter pages or become stale. |
 | Shared core with educator-curated practice | Keep the shared Modules 1–2 core and required Diploma competency standards consistent globally. Let educators adapt Module 3 practice and curate Module 4's local Connect experience responsibly. |
 | 4 units - total 8hrs? | Use four modules, not old module labels, as the required structure. Plan from competencies, observable criteria, and required evidence: four two-hour sessions are one useful format, not a limit. |
@@ -210,7 +210,7 @@ These topics should be framed as guided orientation, not as permission to manage
 
 Assessment should match the competency and the learner action being claimed.
 
-The optional app may deliver microlearning, knowledge checks, feedback, recap, and discovery for self-assessment. Educators gather all theoretical evidence through approved competency-aligned interactions and evaluate all practical performance using the common tasks and rubrics in the Educator Guide's operational assessment protocol.
+The restricted-pilot app may deliver microlearning, knowledge checks, feedback, recap, and discovery for designated pilot participants. It is not Student Guide or Educator Guide content. The public app is not released with this publication; learner-facing guide coverage may be added only after post-publication public-release approval under `18_horizon.md`. Educators gather all theoretical evidence through approved competency-aligned interactions and evaluate all practical performance using the common tasks and rubrics in the Educator Guide's operational assessment protocol.
 
 Modules 1 and 2 should be knowledge-dominant, while Modules 3 and 4 should be skills-dominant. The complete Diploma assessment allocates 50% to educator-led theory and 50% to educator-observed practice. Educator-led activities may be formative, but only approved competency-aligned interactions with criteria and records contribute to the theoretical component. Do not calculate a combined numerical grade unless a separate reporting rule is approved.
 
@@ -280,7 +280,7 @@ The design should also make these future branches possible:
 
 - online cohort;
 - self-paced course;
-- optional app self-assessment integration;
+- restricted-pilot and later public-app self-assessment integration;
 - eventual cross-modal continuation across formats.
 
 Each branch should preserve the same required Diploma competency standards while adapting pacing, educator support, evidence of learning, accessibility, and technology assumptions.
@@ -452,7 +452,7 @@ The redesigned Diploma should distinguish between fixed, adaptable, and flexible
 - legal, tax, privacy, and safety context;
 - depth of educator-curated Module 3–4 practice and Advanced material;
 - QR code use;
-- future online-cohort, self-paced, app, or cross-modal publication branches.
+- future online-cohort, self-paced, public-app, or cross-modal publication branches.
 
 Adaptation should increase local relevance without weakening learning standards.
 
@@ -597,7 +597,7 @@ Adaptation and localization may gradually weaken required competency standards.
 
 ## Assessment Validity And Educator Variation Risk
 
-Optional app self-checks may over-reward recall, while educator theory and practical judgments may vary across cohorts. The 50/50 theoretical-practical allocation, competency-aligned educator theory interactions, direct practical observation, common rubrics, educator calibration, reassessment rules, and moderation are required to protect certificate consistency.
+Restricted-pilot app self-checks may over-reward recall, while educator theory and practical judgments may vary across cohorts. The 50/50 theoretical-practical allocation, competency-aligned educator theory interactions, direct practical observation, common rubrics, educator calibration, reassessment rules, and moderation are required to protect certificate consistency.
 
 ## Translation Risk
 
@@ -605,7 +605,7 @@ English-first phrasing, complex sentences, inconsistent tone, idioms, inconsiste
 
 ## Delivery-Mode Drift Risk
 
-Online, self-paced, web, app, or cross-modal versions may drift away from the required Diploma competency standards if delivery-mode branches are not governed by the same source of truth.
+Online, self-paced, web, public-app, or cross-modal versions may drift away from the required Diploma competency standards if delivery-mode branches are not governed by the same source of truth.
 
 ## Print Clutter Risk
 
@@ -671,7 +671,7 @@ The retiring Bitcoin for Organizations pathway contains strong material for misc
 - What changes for an online cohort?
 - What evidence of learning works in a self-paced format?
 - Which additional web-only features, if any, remain consistent with the October learner path and low-tech alternative?
-- Which optional app self-check features would improve learner review without creating a hidden assessment requirement?
+- Which restricted-pilot app self-check features would improve learner review without creating a hidden assessment requirement?
 - What should cross-modal continuation mean for a learner who moves between formats?
 
 ---

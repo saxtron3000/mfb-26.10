@@ -11,7 +11,7 @@ Nobody may receive a Bitcoin Diploma certificate without successfully completing
 1. the theoretical competency component, representing 50% of the complete assessment and evaluated through observable learner explanations, comparisons, scenario responses, and other educator-led evidence; and
 2. the practical competency assessment component, representing the remaining 50% and evaluated through direct observation by an educator.
 
-Only documented educator-led interactions with clear competency criteria and records contribute to the theoretical result; participation, self-description, and unrecorded discussion do not. Other questions, discussions, games, scenarios, simulations, and role-plays are formative. Optional app use is not assessment evidence. Both components are non-compensatory pass gates.
+Only documented educator-led interactions with clear competency criteria and records contribute to the theoretical result; participation, self-description, and unrecorded discussion do not. Other questions, discussions, games, scenarios, simulations, and role-plays are formative. Restricted-pilot app use is not assessment evidence. Both components are non-compensatory pass gates.
 
 The percentages describe the balance of two required components. The Diploma does not calculate or report a combined numerical grade unless a separate reporting rule is approved.
 
@@ -31,7 +31,7 @@ Assessment-complete status requires:
 
 The theoretical and practical components each carry 50% of the programme's assessment balance. Both must meet the approved standard; a result in one component cannot compensate for an unmet requirement in the other.
 
-Attendance, participation, app activity, an educator's general impression, self-reported ability, or completion of printed/PDF materials alone are not sufficient.
+Attendance, participation, restricted-pilot app activity, an educator's general impression, self-reported ability, or completion of printed/PDF materials alone are not sufficient.
 
 This rule applies to every cohort, educator, delivery format, language, and location. Equivalent accessibility accommodations are permitted, but neither assessment component nor the minimum competency standard may be waived.
 
@@ -64,13 +64,13 @@ Public communication must distinguish these terms:
 | Term | Meaning |
 |---|---|
 | Participation | A learner attended or joined the learning experience. |
-| App progress | A learner completed some app learning units, self-evaluations, or quizzes. |
+| Restricted-pilot app progress | A pilot participant completed some app learning units, self-evaluations, or quizzes. |
 | Theoretical assessment complete | The learner passed educator-evaluated theoretical evidence for the 50% theoretical component. |
 | Practical-competence complete | The learner passed direct educator observation for the 50% practical component. |
 | Assessment-complete | Both assessment components are complete and recorded. |
 | Certification | The named educator issues a certificate only after confirming assessment-complete status. It records that educator's judgment, not a central My First Bitcoin evaluation or guarantee. |
 
-Neither future app progress nor either assessment component by itself may unlock certification.
+Neither restricted-pilot app progress nor either assessment component by itself may unlock certification.
 
 Results are non-compensatory: strong theoretical evidence cannot offset an unmet practical or safety competency, and strong practical performance cannot replace required theoretical evidence.
 
@@ -78,9 +78,9 @@ Results are non-compensatory: strong theoretical evidence cannot offset an unmet
 
 # 4. Roles And Responsibilities
 
-## Postponed app launch
+## Restricted pilot and later public release
 
-The My First Bitcoin App launch is postponed and it is not part of the 2026.10 release. If introduced later, it must not evaluate or record certification evidence.
+My First Bitcoin App microlearning is available only to a defined pilot group. It is not part of the Student Guide, Educator Guide, regular Diploma delivery, or certification route. A later public release must not evaluate or record certification evidence.
 
 ## The educator
 

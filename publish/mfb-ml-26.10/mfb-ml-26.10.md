@@ -1,14 +1,14 @@
-# Bitcoin Diploma Optional Self-Assessment: October Question Data
+# Bitcoin Diploma Restricted-Pilot Self-Assessment Question Data
 
 ## Use
 
-This file is a deferred developer handoff for a 12-question My First Bitcoin App self-test. The app launch is postponed, so do not build, publish, or link this self-test for the 2026.10 release. When launch work resumes, it must not be used for educator tracking, certification, or a pass/fail decision.
+This file is the published developer handoff for a 12-question My First Bitcoin App restricted-access pilot self-test. It is available only to the defined pilot group and must not be linked, assigned, or described in the Student Guide, Educator Guide, or normal Diploma delivery. It must not be used for educator tracking, certification, or a pass/fail decision.
 
-Each item has one correct answer and four plain-text options. After either answer outcome, show the item's shared plain-language explanation and review reference. The future product must be revalidated before launch; do not assume it can show different correct and incorrect messages, rich text, media, links, or a multi-screen item flow. The review reference points to the learner's next reading in the Student Guide and should be displayed as text.
+Each item has one correct answer and four plain-text options. After either answer outcome, show the item's shared plain-language explanation and review reference. The pilot product cannot show different correct and incorrect messages, rich text, media, links, or a multi-screen item flow. The review reference points to the learner's next reading in the Student Guide and should be displayed as text.
 
 ## Question variants
 
-Each numbered pair offers a short (`S`) and long (`L`) alternative for the same concept. Select **one** version from every pair for the October quiz: the release remains a 12-question self-check, not a 24-question quiz. The paired IDs let the developer choose the version that fits the available screen space.
+Each numbered pair offers a short (`S`) and long (`L`) alternative for the same concept. Select **one** version from every pair for the pilot quiz: the pilot remains a 12-question self-check, not a 24-question quiz. The paired IDs let the developer choose the version that fits the available screen space.
 
 | Concept | Short version | Long version |
 |---|---|---|
@@ -61,9 +61,9 @@ Each numbered pair offers a short (`S`) and long (`L`) alternative for the same 
 
 ## Authoring metadata
 
-All source items are English, version 1.0, and require independent factual and editorial review before publication. The future product question key is the authored Sanity `_key`; it must remain stable when wording changes. `correctIndex` is zero-based for the Sanity import.
+All source items are English, version 1.0. Any content change or wider public release requires independent factual and editorial review. The pilot-product question key is the authored Sanity `_key`; it must remain stable when wording changes. `correctIndex` is zero-based for the Sanity import.
 
-| Short ID and future product question key | Long ID and future product question key | Competency criterion | Source language/version | Review status | `correctIndex` |
+| Short ID and pilot-product question key | Long ID and pilot-product question key | Competency criterion | Source language/version | Review status | `correctIndex` |
 |---|---|---|---|---|---|
 | `BD-ML-01S` / `b1-1-money-purpose-short` | `BD-ML-01L` / `b1-1-money-purpose-long` | `C1.1` | English 1.0 | Needs independent factual and editorial review | 0 |
 | `BD-ML-02S` / `b1-3-money-functions-short` | `BD-ML-02L` / `b1-3-money-functions-long` | `C1.1` | English 1.0 | Needs independent factual and editorial review | 1 |
@@ -88,10 +88,10 @@ All source items are English, version 1.0, and require independent factual and e
 
 ## Developer notes
 
-- Select either the `S` or `L` item from each numbered pair. Do not load both variants into the same October quiz.
+- Select either the `S` or `L` item from each numbered pair. Do not load both variants into the same pilot quiz.
 - Display only one answer as correct for each selected item, then show the shared explanation and review reference after either answer outcome.
-- The future product must use the matching listed question key as the question `_key`, and retain it when wording changes. Use `correctIndex` rather than the A–D label in the Sanity import; do not reorder choices without checking the index.
-- Do not treat the review reference as a product link. Confirm the final presentation and navigation design during launch review.
+- The pilot product must use the matching listed question key as the question `_key`, and retain it when wording changes. Use `correctIndex` rather than the A–D label in the Sanity import; do not reorder choices without checking the index.
+- Do not treat the review reference as a product link. Confirm the final presentation and navigation design before pilot access.
 - Do not store or share a learner’s score with an educator.
 - Do not label a score pass or fail.
 > **Callout – Never request secrets or personal financial information**

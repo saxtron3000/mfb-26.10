@@ -16,7 +16,7 @@ The 2026.10 curriculum is a framework-first teaching package. Before offering co
 4. Teach the simple rhythm: **explain → ask → practise → debrief → check**. Give learners supported practice before any assessment.
 5. Close each session with a learner explanation, a next step, and a note about what you will revisit.
 
-The Diploma works offline or online. The My First Bitcoin App launch is postponed, so it is not part of this release. No learner needs it, a device, connectivity, or prior Bitcoin experience to learn or complete the Diploma.
+The Diploma works offline or online. No learner needs a personal device, connectivity, or prior Bitcoin experience to learn or complete the Diploma.
 
 ## The learning path
 

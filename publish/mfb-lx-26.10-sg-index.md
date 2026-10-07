@@ -27,7 +27,7 @@ Guide traceability was refreshed on 1 October 2026 from the published Student Gu
 | [27](mfb-bd-26.10/mfb-bd-sg-26.10.md#about-us) | <a id="BD-LEX-192"></a>BD-LEX-192 | <a id="term-sat"></a>**Sat / satoshi** | The smallest named unit of bitcoin; 100,000,000 sats equal one bitcoin. |
 | [37](mfb-bd-26.10/mfb-bd-sg-26.10.md#our-mission-independent-open-source-bitcoin-education) | <a id="BD-LEX-217"></a>BD-LEX-217 | <a id="term-trade-off"></a>**Trade-off** | A choice that gains one benefit while accepting a cost or giving up another benefit. |
 | [47](mfb-bd-26.10/mfb-bd-sg-26.10.md#what-we-stand-for-accessibility-critical-thinking-community-and-self-sovereignty) | BD-LEX-217 | <a id="term-trade-off"></a>**Trade-off** | A choice that gains one benefit while accepting a cost or giving up another benefit. |
-| [60](mfb-bd-26.10/mfb-bd-sg-26.10.md#learn-more-with-the-my-first-bitcoin-app) | <a id="BD-LEX-031"></a>BD-LEX-031 | <a id="term-bitcoin-wallet"></a>**Bitcoin wallet** | A tool that manages keys and helps receive, authorize, and track Bitcoin transactions; it does not literally contain bitcoin. |
+| [60](mfb-bd-26.10/mfb-bd-sg-26.10.md#wallets) | <a id="BD-LEX-031"></a>BD-LEX-031 | <a id="term-bitcoin-wallet"></a>**Bitcoin wallet** | A tool that manages keys and helps receive, authorize, and track Bitcoin transactions; it does not literally contain bitcoin. |
 | [71](mfb-bd-26.10/mfb-bd-sg-26.10.md#why-this-diploma-exists) | <a id="BD-LEX-184"></a>BD-LEX-184 | <a id="term-purchasing-power"></a>**Purchasing power** | The amount of goods and services a unit of money can buy. |
 | [73](mfb-bd-26.10/mfb-bd-sg-26.10.md#why-this-diploma-exists) | <a id="BD-LEX-123"></a>BD-LEX-123 | <a id="term-issuer"></a>**Issuer** | The authority, institution, or system that creates and puts money or claims into circulation. |
 | [92](mfb-bd-26.10/mfb-bd-sg-26.10.md#how-learners-can-use-this-course-as-a-starting-point) | BD-LEX-217 | <a id="term-trade-off"></a>**Trade-off** | A choice that gains one benefit while accepting a cost or giving up another benefit. |
@@ -842,6 +842,5 @@ Guide traceability was refreshed on 1 October 2026 from the published Student Gu
 ## Help improve these Lexicon Entries
 
 Share [feedback](https://forms.myfirstbitcoin.org/feedback), [proofread the entries](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
-
 
 

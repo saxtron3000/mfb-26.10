@@ -110,7 +110,7 @@ Priority work is now:
 | Assessment evidence, passing rules, and assessment standards | [Educator Guide: operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol); planning support in `13_assessment.md` |
 | Assessment crosswalk, approved tasks, rubrics, and equivalent routes | [Educator Guide: operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) |
 | Certification prerequisite and governance questions | `15_certification.md` |
-| Optional app self-assessment | `14_microlearning-plan.md` and `../publish/mfb-ml-26.10/mfb-ml-26.10.md` |
+| Restricted-pilot app self-assessment | `14_microlearning-plan.md` and `../publish/mfb-ml-26.10/mfb-ml-26.10.md`; not part of regular activity delivery |
 | Advanced activity seeds and source trails | `17_advanced.md` |
 
 ## Open implementation questions

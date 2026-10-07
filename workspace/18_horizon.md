@@ -9,7 +9,7 @@ It is a decision and discovery register, not a commitment, roadmap, product spec
 ## How to use this register
 
 - Keep October release blockers and publication work in `00_todo.md`; do not move unfinished release work here simply to clear a list.
-- Treat the 2026.10 assessment policy as current: educators assess the theoretical and practical components. The My First Bitcoin App launch is postponed, so it is unavailable in 2026.10 and cannot be certification evidence.
+- Treat the 2026.10 assessment policy as current: educators assess the theoretical and practical components. My First Bitcoin App microlearning is available only to a defined pilot group and cannot be certification evidence.
 - Preserve the complete **Problem → Solution → Action → Connect** four-module Diploma. Do not use a horizon item to add advanced, organization, investment, legal, tax, compliance, or provider-specific instruction to the Diploma.
 - Test changes with real learners and educators before scaling, especially when they affect safety, accessibility, assessment meaning, privacy, localization, or certificate claims.
 - Reconfirm volatile facts, named tools, links, data, and local conditions at the time of any future release.
@@ -53,24 +53,25 @@ Future work may strengthen the system behind a meaningful certificate.
 - Preserve the settled educator-issued model while testing proportionate improvements to learner identification, minimum data fields, consent, retention, deletion or recovery, replacement, withdrawal, and optional issuer-specific verification. Consider shared or on-chain verification only if it protects personal data, adds value beyond ordinary educator verification, and does not imply central My First Bitcoin evaluation.
 - Design an Advanced certification approach only after individual [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) and their practical evidence needs are defined. It must not be a single completion metric.
 
-## 3. Prepare the postponed My First Bitcoin App launch
+## 3. Manage the restricted app pilot and later public release
 
-**Status:** Conditional expansion. **First dependency:** approve a launch decision, a real public destination, and a named product owner. The app is not an October 2026 deliverable and must not be presented as available until these conditions are met.
+**Status:** Conditional expansion. **Current state:** the 12-question microlearning self-test is published for a defined pilot group only. **First dependency for public release:** approve a public launch decision, a real public destination, and a named product owner. The pilot must not be presented as generally available.
 
 ### Launch checklist
 
-- Confirm the launch scope, audience, supported regions and languages, ownership, support route, release date, and public status page.
+- Maintain a documented pilot cohort, access-control method, pilot owner, support route, feedback route, and withdrawal process; do not turn pilot access into a normal Diploma requirement.
+- Confirm the public-launch scope, audience, supported regions and languages, ownership, support route, release date, and public status page.
 - Complete factual, editorial, safety, accessibility, privacy, and security review for every learner-facing flow and content item.
 - Test the public destination and store/download routes on supported devices, weak connections, shared devices, and assistive technology before any publication links or QR codes are created.
 - Confirm that no account, device, connectivity, real funds, wallet secret, personal financial information, or app use is required for Diploma learning, assessment, completion, or certification.
 - Finalize the assessment boundary: app activity, progress, results, and self-report must not become certification evidence or replace educator observation.
-- After launch approval, update the Student Guide, Educator Guide, Educator Quick Start, public briefs, link register, asset register, and the app handoff together; verify every changed link and rendered publication.
-- Create and place `BD-V-076` only after the approved download destination is live, readable in print, and tested. Remove its deferral only when all four intended guide placements have approved copy and production checks.
+- After public-launch approval, add the learner-facing app link to the Student Guide and Educator Guide, then update the Educator Quick Start, public briefs, link register, asset register, and pilot handoff together; verify every changed link and rendered publication.
+- Create and place `BD-V-076` only after the public download destination is live, readable in print, and tested. Remove its deferral only when all four intended guide placements have approved copy and production checks.
 - Establish post-launch monitoring for broken destinations, support incidents, accessibility defects, privacy/security issues, content corrections, and withdrawal or rollback decisions.
 
 ### Content and learner experience
 
-- Start from the deferred 12-question package and expand only after it has been reviewed, tested, and approved across all four Diploma modules, including shared Modules 1–2 items, educator-adapted Module 3 items, and educator-curated Module 4 items.
+- Start from the published restricted-pilot 12-question package and expand only after it has been reviewed, tested, and approved across all four Diploma modules, including shared Modules 1–2 items, educator-adapted Module 3 items, and educator-curated Module 4 items.
 - Add stable item IDs, competency links, learning-purpose and difficulty tags, language/source versions, current-claim dates, reviewer status, retirement history, and translation links.
 - Test a wider range of approved formats: multiple-select, matching, ordering, short response, scenario, confidence, reflection, diagrams, audio, video, and multi-screen teaching items.
 - Add answer-specific feedback, review links, learner-controlled retries, randomisation, topic-level review paths, interrupted-attempt recovery, and safety-critical misconception support.

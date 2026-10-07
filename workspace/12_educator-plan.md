@@ -28,11 +28,11 @@ The guide should help educators:
 - assess required practical competencies through direct observation;
 - use common rubrics consistently;
 - provide feedback and reassessment; and
-- recognize that the 2026.10 assessment process is educator-led and that the postponed app launch does not affect certification.
+- recognize that the 2026.10 assessment process is educator-led and that restricted-pilot app microlearning does not affect certification.
 
-### Postponed app launch
+### Restricted-pilot app boundary
 
-Content may be facilitated in person or online and taught with low-tech, offline-capable print/PDF materials. The My First Bitcoin App launch is postponed, so do not offer or assign it in 2026.10. It is not required for learning, assessment, completion, or certification; future launch work is tracked in `18_horizon.md`.
+Content may be facilitated in person or online and taught with low-tech, offline-capable print/PDF materials. My First Bitcoin App microlearning is accessible only to the defined pilot group. Do not offer, assign, or mention it in the Educator Guide or regular 2026.10 Diploma delivery. It is not required for learning, assessment, completion, or certification; later public-release work is tracked in `18_horizon.md`.
 
 ### Educator support through the [ETP](https://etp.myfirstbitcoin.org/)
 
@@ -56,7 +56,7 @@ You do not need to prepare or teach in isolation. My First Bitcoin supports educ
 
 ### Course roles
 
-In this Diploma, a **learner** studies, discusses, practises, and provides observable evidence through explanation and action. An **educator** facilitates the course, protects the learning environment, adds checked local context, provides formative theory feedback, and directly evaluates practical competencies. A **cohort** is the group learning together; smaller teams may complete particular activities. The **Diploma** is the complete learning and assessment program, not only the Student Guide or the accompanying app.
+In this Diploma, a **learner** studies, discusses, practises, and provides observable evidence through explanation and action. An **educator** facilitates the course, protects the learning environment, adds checked local context, provides formative theory feedback, and directly evaluates practical competencies. A **cohort** is the group learning together; smaller teams may complete particular activities. The **Diploma** is the complete learning and assessment program, not only the Student Guide or an accompanying digital resource.
 
 ### Learner registration and exit feedback
 
@@ -80,7 +80,7 @@ Educators should invite learners to [register for the Bitcoin Diploma](https://f
 
 ### Managing The Minimum 8-Hour Pathway
 
-The Bitcoin Diploma has a minimum 8-hour delivery pathway. Eight hours is the shortest planned route, not a maximum, and includes teaching, practice, educator-led theory checks, direct practical observation, recording, feedback, and planned reassessment. Educators take additional time whenever learners need it to explore, discuss, practise, consolidate, or demonstrate their learning; there is no upper duration limit. Educators may use different time chunks depending on learner availability, venue constraints, travel time, energy level, device access, and local teaching context, but must not treat assessment as a hidden extra outside the advertised Diploma. Optional app use must not become a barrier to participation.
+The Bitcoin Diploma has a minimum 8-hour delivery pathway. Eight hours is the shortest planned route, not a maximum, and includes teaching, practice, educator-led theory checks, direct practical observation, recording, feedback, and planned reassessment. Educators take additional time whenever learners need it to explore, discuss, practise, consolidate, or demonstrate their learning; there is no upper duration limit. Educators may use different time chunks depending on learner availability, venue constraints, travel time, energy level, device access, and local teaching context, but must not treat assessment as a hidden extra outside the advertised Diploma. Restricted-pilot app use must not become a barrier to participation.
 
 The four-module sequence should remain the same:
 
@@ -144,7 +144,7 @@ Suggested two-part sequence when more time is available:
 - CBDCs as digital fiat, with issuer, supply, permission, privacy, and verification questions
 - Likely misconceptions
 - Suggested activities
-- Optional app recap or self-check items mapped to this module, where useful
+- Pilot-only microlearning items mapped to this module, where useful; do not include them in Educator Guide delivery guidance. The public app is a post-publication addition and may be covered in the guide only after its public release is approved under `18_horizon.md`.
 - Documented educator-evaluated theory interactions and formative learner explanations, comparisons, discussions, or simulations
 - Review point
 
@@ -159,7 +159,7 @@ Have learners keep their answers to the opening money questions. Return to them 
 - Satoshis as a low-complexity concept that unlocks payments, fees, supply, and custody discussions
 - Likely misconceptions
 - Suggested activities
-- Optional app recap or self-check items mapped to this module, where useful
+- Pilot-only microlearning items mapped to this module, where useful; do not include them in Educator Guide delivery guidance
 - Documented educator-evaluated theory interactions and formative learner explanations, concept illustrations, role-plays, or scenarios
 - Review point
 
@@ -191,7 +191,7 @@ Suggested two-part sequence when more time is available:
 - When to use block explorers as beginner verification tools, including confirmation status and public-ledger privacy limits
 - Address-history and reuse lookup activity: use a deliberately public, educator-prepared address, transaction, or screenshot to show that address activity can be visible and repeated use can make transactions easier to link. Never ask learners to search, display, or share an address that belongs to them or another person, and provide a printed or projected fallback when internet access is unavailable.
 - Suggested activities
-- Optional app recap or self-check items mapped to this module, where useful
+- Pilot-only microlearning items mapped to this module, where useful; do not include them in Educator Guide delivery guidance
 - Required educator-observed wallet, transaction, recovery-readiness, verification, and safety assessment
 - Review point
 
@@ -249,9 +249,9 @@ Educators should present assessment like a driving test:
 
 The percentages describe the balance of the two required components; do not calculate a combined numerical grade.
 
-The optional app may supply microlearning, feedback, and self-checks. The educator evaluates approved theoretical interactions and directly evaluates practical performance. A learner explanation may be assessed as theory through a competency-aligned educator interaction, or as practice when it is an observable criterion within an approved practical task.
+Restricted-pilot app access may supply microlearning, feedback, and self-checks for designated pilot participants only. It is not part of Educator Guide delivery. The educator evaluates approved theoretical interactions and directly evaluates practical performance. A learner explanation may be assessed as theory through a competency-aligned educator interaction, or as practice when it is an observable criterion within an approved practical task.
 
-An app quiz or checklist can guide preparation, but it is not proof of competence.
+A pilot quiz or checklist can guide a pilot participant's review, but it is not proof of competence.
 
 Both assessment components must be passed for certification; strength in one cannot compensate for failure in the other.
 
@@ -278,7 +278,7 @@ Modules 1 and 2 are knowledge-dominant, but they must not become memory tests.
 
 Use the following to develop theoretical competency through observable learner action and provide formative feedback:
 
-- optional app microlearning and self-checks where useful;
+- pilot-only microlearning and self-checks where useful, outside regular Diploma delivery;
 - learner explanations in their own words;
 - comparisons and concept illustrations;
 - guided discussion;
@@ -353,11 +353,11 @@ Record only the minimum evidence needed. Do not photograph, copy, or store seed 
 
 **Showing competency: Not yet** means that the learner is building competency and needs more learning or practice; it is not a permanent failure. Educators may return to reassess at any point.
 
-For the theoretical component, the educator reassesses approved theory interactions against their criteria and may also provide formative help. Optional app self-checks may support review but are not recorded assessment evidence.
+For the theoretical component, the educator reassesses approved theory interactions against their criteria and may also provide formative help. Pilot self-checks are not part of regular delivery and are not recorded assessment evidence.
 
 For the practical component, the educator should identify the unmet criterion, direct the learner to appropriate practice, provide focused feedback, allow reasonable practice time, and reassess the competency against the same approved rubric.
 
-Practical-task accommodations may change how a learner receives instructions, communicates an explanation, controls a device, or demonstrates a sequence, but must not remove the required action or lower the competency standard. Optional app use must never be required as an accommodation route.
+Practical-task accommodations may change how a learner receives instructions, communicates an explanation, controls a device, or demonstrates a sequence, but must not remove the required action or lower the competency standard. Restricted-pilot app use must never be required as an accommodation route.
 
 ### 5.8 Educator calibration and quality
 
@@ -375,7 +375,7 @@ Calibration protects learners from inconsistent grading and protects the reputat
 
 ### 5.9 Recording And Certification
 
-The educator may invite learners to use the optional app for recap, but must not use app progress as assessment evidence.
+The educator must not invite regular Diploma learners to use the restricted-pilot app. Pilot progress is never assessment evidence.
 
 The approved completion record must contain:
 
@@ -405,7 +405,7 @@ The 2026.10 publication is framework first. Before certificated delivery, the ed
 - Online cohort adaptation
 - Self-paced adaptation
 - Sanity-published website presentation
-- Optional app recap, self-check, and discovery resources
+- Restricted-pilot microlearning: keep outside the Educator Guide and regular Diploma delivery
 - Recording educator-led theoretical and practical evidence
 - Cross-modal branch notes
 - QR code restraint for print and PDF delivery

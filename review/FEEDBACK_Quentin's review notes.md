@@ -4,7 +4,7 @@ Quentin's handwritten notes on a printed copy of the Bitcoin Diploma Student Gui
 Each note gives the page, the passage Quentin marked (quoted from the guide) and what Quentin wrote. Words in \[square brackets\] are the transcriber's, and notes Quentin crossed out on the page are included and labelled.  
 The photos cover the cover page and pages 8 to 9, 20 to 47, 50 to 53, 60 to 63, 74 to 75 and 80 to 81\. Other pages were not photographed.
 
-> **Current status note (2026-10-07):** The My First Bitcoin App launch is postponed. References in this dated feedback record describe the guide at the time of review and do not authorize a current-release app link, call to action, or QR asset.
+> **Current status note (2026-10-07):** The public My First Bitcoin App launch is postponed. A restricted pilot may be referenced only in internal material; this dated feedback record does not authorize a current-release app link, call to action, or QR asset.
 
 ## **Overall comments**
 

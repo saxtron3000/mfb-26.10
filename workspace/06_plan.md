@@ -12,7 +12,7 @@ It defines:
 - how in-class time should be used;
 - which documents own detailed implementation work.
 
-`10_activities.md` defines activity boundaries, quality requirements, and release priorities; detailed activities are available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/). Detailed facilitation guidance belongs in the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md); `12_educator-plan.md` is the supporting structure plan. The detailed competency framework and observable criteria belong in `05_competencies.md`. App question-bank structure belongs in `14_microlearning-plan.md`. [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) ideas, follow-on pathway notes, and redacted legacy content for later use belong in `17_advanced.md`.
+`10_activities.md` defines activity boundaries, quality requirements, and release priorities; detailed activities are available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/). Detailed facilitation guidance belongs in the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md); `12_educator-plan.md` is the supporting structure plan. The detailed competency framework and observable criteria belong in `05_competencies.md`. Restricted-pilot app question-bank structure belongs in `14_microlearning-plan.md`. [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) ideas, follow-on pathway notes, and redacted legacy content for later use belong in `17_advanced.md`.
 
 `06_plan.md` is the active plan source of truth. The older duplicated plan file has been archived at `../y_archive/y_13_plan_superseded.md`.
 
@@ -37,14 +37,14 @@ Current design commitments:
 - a combined theoretical and practical assessment model tied directly to assessed competencies and observable criteria;
 - an operational assessment protocol in the Educator Guide with the approved evidence crosswalk, theory interactions, practical tasks, rubrics, support rules, equivalent routes, reassessment, calibration, and moderation;
 - a 50% educator-led theoretical and 50% educator-observed practical assessment allocation;
-- optional app-based microlearning for recap, self-checks, discovery, and connection to My First Bitcoin updates;
+- restricted-pilot app-based microlearning for recap, self-checks, discovery, and connection to My First Bitcoin updates; it is not a normal Diploma resource. The public app is not released with this publication; any learner-facing guide coverage is a later post-publication addition, governed by `18_horizon.md`;
 - educator-evaluated theory evidence through approved competency-aligned interactions; other educator-led theory work remains formative;
 - practical assessment directly evaluated by an educator, with observation concentrated in Modules 3 and 4;
 - Advanced technical material outside the beginner pathway;
 - sparse QR code use in printed learner materials;
 - a short set of direct, named My First Bitcoin programme links as optional further learning, never as required Diploma instruction, practice, assessment, or certification;
 - October publication outputs that include the offline-capable print/PDF package, online PDF, and website-ready content published through Sanity;
-- future instructional branches documented without changing required Diploma competency standards: online cohort, self-paced, optional app self-assessment support, and cross-modal continuation. The app remains an optional self-assessment resource, not an assessment feature.
+- future instructional branches documented without changing required Diploma competency standards: online cohort, self-paced, app-supported self-assessment, and cross-modal continuation. Restricted-pilot app use is not an assessment feature or a normal Diploma resource.
 
 The public explanation is simple:
 
@@ -261,7 +261,7 @@ Draft source material in English first. Before translation or publication, revie
 
 Delivery-branch rule:
 
-Low-tech, offline-capable print/PDF, an online PDF, and website-ready content are all October publication outputs. The online PDF and web version are published through Sanity and remain aligned with the same approved source. Future online-cohort, self-paced, app-supported self-assessment, and cross-modal instructional branches should grow from the same required Diploma competency standards rather than become separate curricula. The My First Bitcoin App launch is postponed, so it is not an available 2026.10 learning resource; its future work is tracked in `18_horizon.md`.
+Low-tech, offline-capable print/PDF, an online PDF, and website-ready content are all October publication outputs. The online PDF and web version are published through Sanity and remain aligned with the same approved source. Restricted-pilot My First Bitcoin App microlearning is available only to the defined pilot group and is not part of normal Diploma delivery. Future online-cohort, self-paced, app-supported self-assessment, and cross-modal instructional branches should grow from the same required Diploma competency standards rather than become separate curricula. Its later public-release work is tracked in `18_horizon.md`.
 
 ---
 
@@ -408,7 +408,7 @@ Educator preparation, timing, adaptation, misconception support, and debrief gui
 | Educator facilitation and Module 4 selection guidance | [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) |
 | Combined assessment, competency-aligned evidence, and passing requirements | `13_assessment.md` |
 | Assessment crosswalk, approved interactions and tasks, rubrics, and equivalent routes | [Educator Guide: operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) |
-| App microlearning question-bank structure | `14_microlearning-plan.md` |
+| Restricted-pilot app microlearning question-bank structure | `14_microlearning-plan.md` |
 | Two-part assessment prerequisite for certification and governance questions | `15_certification.md` |
 | Diploma overview for collaborators and stakeholders | `16_spec.md` |
 | Organizations merge decisions and Advanced source trail | `17_advanced.md` |
@@ -428,7 +428,7 @@ The October 2026 redesign should produce:
 - Educator Guide;
 - activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/);
 - educator-curated Module 4 templates;
-- educator-led theoretical and practical certification-prerequisite framework, with optional app recap and self-check resources;
+- educator-led theoretical and practical certification-prerequisite framework; restricted-pilot app microlearning remains outside normal Diploma delivery;
 - offline-capable print/PDF, online PDF, and website-ready outputs published through Sanity;
 - publication-ready and translation-ready source files;
 - public communication materials.
@@ -457,11 +457,11 @@ The redesign still needs decisions on:
 - which safety practices are required throughout the Diploma versus specific to educator-curated Module 3–4 variants;
 - which named tools or services may appear in published materials, and where;
 - final QR code destination list for print materials;
-- delivery-mode branch requirements for online cohort, self-paced, optional app self-assessment support, and cross-modal continuation;
+- delivery-mode branch requirements for online cohort, self-paced, restricted-pilot and later public-app self-assessment support, and cross-modal continuation;
 - multilingual glossary readiness;
 - ownership and approval criteria for English-source simplicity and translation-readiness review;
 - ownership and approval criteria for post-translation language review;
-- optional app self-assessment question-bank maintenance and learner-feedback requirements;
+- restricted-pilot app self-assessment question-bank maintenance and learner-feedback requirements;
 - operational-assessment-protocol evidence for task timing, records, calibration, moderation, accessibility equivalents, and educator capacity before certificated delivery;
 - the available [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) for batch production after educator confirmation, plus optional future verification methods such as privacy-preserving on-chain timestamping, without changing educator-issued certification;
 - low-connectivity delivery assumptions;

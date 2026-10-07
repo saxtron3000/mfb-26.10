@@ -13,7 +13,7 @@
 - What learners will be able to explain and demonstrate by the end
 - Learning style: educator-facilitated in person or online, with discussion, reflection, practice, and guided activities
 - Participation expectations
-- Optional app self-checks, recap, and discovery resources
+- Optional independent review and further-learning resources
 - Educator-observed practical evaluation
 - Why both 50% assessment components must be passed for certification
 - Required prior knowledge: none

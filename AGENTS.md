@@ -28,9 +28,9 @@ For content changes, review the relevant source-of-truth documents, inspect link
 
 Use Markdown with one `#` title, descriptive `##` sections, short paragraphs, and sentence-case headings. Use repository-relative links and lowercase, numbered filenames for ordered curriculum modules (for example, `workspace/07_contents.md`). Preserve the current terminology: use “module” for each of the four required Diploma sections and describe Module 4 as educator-selected and locally relevant. Draft in English first and keep wording simple and translation-ready.
 
-The My First Bitcoin App launch is postponed and it is not part of the 2026.10 release. Do not present it as available, link to it, include a download call to action, or create or place an app QR asset in current-release materials. Generic references to wallet apps or other applications keep their ordinary wording.
+Microlearning is available only to a defined pilot group through a restricted-access My First Bitcoin App pilot. It is not a normal Diploma learning resource and must not be required, assigned, linked, or used as assessment or certification evidence. Do not mention it in the Student Guide or Educator Guide, include a download call to action, or create or place an app QR asset in current-release materials. Generic references to wallet apps or other applications keep their ordinary wording.
 
-Track future app work in `workspace/18_horizon.md`. Reintroduce the app name, destination, download calls to action, and a QR asset only after launch approval and destination testing.
+Track the restricted pilot and later public-release work in `workspace/18_horizon.md`. Add a learner-facing app link, destination, download call to action, or QR asset only after public-release approval and destination testing.
 
 In both the Student Guide and Educator Guide, bold every numbered module reference in body text and tables, including grouped references: `**Module 1**`, `**Modules 1 and 2**`, and `**Modules 1–3**`. Preserve existing bold formatting when a reference is already inside a bold phrase. Module references in H1, H2, or H3 headings use heading formatting alone, without added bold.
 

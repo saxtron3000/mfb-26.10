@@ -12,7 +12,7 @@
 
 **## BD-V-076**
 **Type:** Image
-**Status:** Deferred pending the postponed My First Bitcoin App launch.
+**Status:** Deferred pending public My First Bitcoin App release.
 **Purpose:** No current-release purpose.
 **Description:** Do not produce or place this asset for 2026.10. Reopen its brief only after the future launch checklist in `workspace/18_horizon.md` is complete.
 
