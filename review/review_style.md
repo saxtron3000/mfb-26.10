@@ -119,7 +119,7 @@ Use the following block styles consistently and sparingly. In every block, every
 
 Use “module” for each of the four required Diploma sections. In Student and Educator Guide body text and tables, bold every numbered module reference, including groups. Across the project, if a module reference includes a title or topic label, bold the whole reference as one span, such as **Module 3: Using Bitcoin Safely**. H1, H2, and H3 headings use heading formatting alone. Preserve existing bold phrases.
 
-Write every mention of the [My First Bitcoin App](https://myfirstbitcoin.app/) with that exact linked name, including in headings and tables. Its download QR may appear only beside an explicit download call to action: with the first introduction mention and at the end of each Student and Educator Guide. Do not add that QR to other publications. Check asset `BD-V-075` in the [asset register](../workspace/08_assets.md).
+The My First Bitcoin App launch is postponed. Do not present it as available, include a destination or download call to action, or create or place an app QR asset in current-release materials. Track the future launch requirements in [the horizon register](../workspace/18_horizon.md); reintroduce it only after launch approval and destination testing.
 
 Check that graphics, diagrams, tables, examples, activities, glossary terms, educator guidance, and Advanced references have a coherent visual treatment. Recommend a graphic only when it improves understanding. Preserve room for learner responses. Verify alt text, rights, source, file, and review status for retained assets. Keep exact source headings aligned with the asset index. Do not mistake an asset brief for a produced asset.
 

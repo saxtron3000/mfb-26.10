@@ -28,9 +28,9 @@ For content changes, review the relevant source-of-truth documents, inspect link
 
 Use Markdown with one `#` title, descriptive `##` sections, short paragraphs, and sentence-case headings. Use repository-relative links and lowercase, numbered filenames for ordered curriculum modules (for example, `workspace/07_contents.md`). Preserve the current terminology: use “module” for each of the four required Diploma sections and describe Module 4 as educator-selected and locally relevant. Draft in English first and keep wording simple and translation-ready.
 
-Always refer to the My First Bitcoin application as “My First Bitcoin App” and hyperlink every mention to `https://myfirstbitcoin.app/`, including mentions in headings and tables. Use `[My First Bitcoin App](https://myfirstbitcoin.app/)`. The app-link and QR asset is tracked in `workspace/08_assets.md` (`BD-V-075`). Generic references to wallet apps or other applications keep their ordinary wording.
+The My First Bitcoin App launch is postponed and it is not part of the 2026.10 release. Do not present it as available, link to it, include a download call to action, or create or place an app QR asset in current-release materials. Generic references to wallet apps or other applications keep their ordinary wording.
 
-Use the My First Bitcoin App QR code only beside an explicit download call to action in the Student Guide and Educator Guide: once with the first app mention in each introduction and once at the end of each guide. Other mentions remain text hyperlinks; do not add app QR codes to other publications.
+Track future app work in `workspace/18_horizon.md`. Reintroduce the app name, destination, download calls to action, and a QR asset only after launch approval and destination testing.
 
 In both the Student Guide and Educator Guide, bold every numbered module reference in body text and tables, including grouped references: `**Module 1**`, `**Modules 1 and 2**`, and `**Modules 1–3**`. Preserve existing bold formatting when a reference is already inside a bold phrase. Module references in H1, H2, or H3 headings use heading formatting alone, without added bold.
 

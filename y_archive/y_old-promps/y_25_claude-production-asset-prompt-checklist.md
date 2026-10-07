@@ -1,5 +1,7 @@
 # Claude production-asset prompt checklist
 
+> **Current status note (2026-10-07):** The My First Bitcoin App launch is postponed. The `BD-V-076` instructions below are historical and must not be used to create or place an app QR asset for the 2026.10 release.
+
 ## Purpose
 
 Use each item only after its matching transparent PNG reference, white-background JPG preview, and JSON conformance report have passed review. Copy the entire prompt, attach the three reference files, the section 7 classification registry, and the relevant Claude Design System/Sanity schema, and build the editable production bundle. These prompts do not authorize a Sanity upload or publication.

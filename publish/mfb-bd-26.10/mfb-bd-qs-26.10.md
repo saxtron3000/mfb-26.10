@@ -16,7 +16,7 @@ The 2026.10 curriculum is a framework-first teaching package. Before offering co
 4. Teach the simple rhythm: **explain → ask → practise → debrief → check**. Give learners supported practice before any assessment.
 5. Close each session with a learner explanation, a next step, and a note about what you will revisit.
 
-The Diploma works offline or online. The [My First Bitcoin App](https://myfirstbitcoin.app/) can support recap and self-checks, but it is optional: no learner needs the [My First Bitcoin App](https://myfirstbitcoin.app/), device, connectivity, or prior Bitcoin experience to learn or complete the Diploma.
+The Diploma works offline or online. The My First Bitcoin App launch is postponed, so it is not part of this release. No learner needs it, a device, connectivity, or prior Bitcoin experience to learn or complete the Diploma.
 
 ## The learning path
 
@@ -58,7 +58,7 @@ Certification requires two **non-compensatory** components, both evaluated and r
 | **Theoretical understanding (50%)** | An approved, objective-aligned learner explanation, comparison, scenario response, or similar interaction, assessed against stated criteria. |
 | **Practical competency (50%)** | Direct observation of a learner safely completing an approved task, simulation, or role-play against its rubric. |
 
-Attendance, enthusiasm, [My First Bitcoin App](https://myfirstbitcoin.app/) progress, or an ordinary discussion alone are not certification evidence. Make the objective, safety boundary, task, and success criteria clear; teach and practise first; then observe, give feedback, record the result, and offer fair reassessment when needed. Modules 3 and 4 require direct practical observation.
+Attendance, enthusiasm, independent review, or an ordinary discussion alone are not certification evidence. Make the objective, safety boundary, task, and success criteria clear; teach and practise first; then observe, give feedback, record the result, and offer fair reassessment when needed. Modules 3 and 4 require direct practical observation.
 
 ## Your first-course checklist
 

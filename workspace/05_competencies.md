@@ -24,7 +24,7 @@ For `C3`, the comparison statement itself is the required criterion; it is delib
 
 ## Safety and local scope
 
-Use prepared wallets, simulations, testnet, physical tokens, or appropriately low-stakes routes. Never require personal funds, disclosure of a real seed phrase or key, or a particular app. Watching, attendance, confidence, self-report, and optional [My First Bitcoin App](https://myfirstbitcoin.app/) results do not establish competency. Practical evidence requires direct educator observation.
+Use prepared wallets, simulations, testnet, physical tokens, or appropriately low-stakes routes. Never require personal funds, disclosure of a real seed phrase or key, or a particular app. Watching, attendance, confidence, self-report, and independent review do not establish competency. The My First Bitcoin App launch is postponed and it is not part of the 2026.10 assessment route. Practical evidence requires direct educator observation.
 
 **Module 4** is required and educator-curated. A local task may concern a payment, receiving, a merchant, remittance, donation, or community scenario if the educator can preserve `C7.1` and `C7.2`. A dual-rail payment exercise may be selected locally; it does not become a global requirement. Local tasks may not be used to recommend a product or give financial, legal, tax, accounting, compliance, or investment advice.
 

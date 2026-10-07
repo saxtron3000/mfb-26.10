@@ -70,7 +70,7 @@ Public communication must distinguish these terms:
 | Assessment-complete | Both assessment components are complete and recorded. |
 | Certification | The named educator issues a certificate only after confirming assessment-complete status. It records that educator's judgment, not a central My First Bitcoin evaluation or guarantee. |
 
-Neither app progress nor either assessment component by itself may unlock certification.
+Neither future app progress nor either assessment component by itself may unlock certification.
 
 Results are non-compensatory: strong theoretical evidence cannot offset an unmet practical or safety competency, and strong practical performance cannot replace required theoretical evidence.
 
@@ -78,9 +78,9 @@ Results are non-compensatory: strong theoretical evidence cannot offset an unmet
 
 # 4. Roles And Responsibilities
 
-## The App
+## Postponed app launch
 
-In 2026.10, the [My First Bitcoin App](https://myfirstbitcoin.app/) is optional. It may offer self-checks, recap, discovery, and connection to future My First Bitcoin learning. It does not evaluate or record certification evidence.
+The My First Bitcoin App launch is postponed and it is not part of the 2026.10 release. If introduced later, it must not evaluate or record certification evidence.
 
 ## The educator
 

@@ -1,5 +1,7 @@
 # Review run: 2026-09-25 — asset migration alignment
 
+> **Current status note (2026-10-07):** The My First Bitcoin App launch is postponed. This historical QR-identifier analysis is superseded for the 2026.10 release; `BD-V-076` is deferred and must not be produced or placed.
+
 ## Run details
 
 | Field | Record |

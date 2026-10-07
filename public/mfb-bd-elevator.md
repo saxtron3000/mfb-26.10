@@ -40,7 +40,7 @@ The arc is **Problem → Solution → Action → Connect**. All four modules are
 - Practical learning in every module, using a clear explain → practise → apply → reflect rhythm.
 - A Student Guide, Educator Guide, assessment grid, and activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) with distinct roles.
 - Low-tech, offline-capable delivery: no app, personal device, or continuous connection is required for learning, assessment, completion, or certification.
-- The optional [My First Bitcoin App](https://myfirstbitcoin.app/) for recap, self-checks, discovery, and connection to further learning—not assessment or certification evidence.
+- The My First Bitcoin App launch is postponed, so it is not part of the 2026.10 learner pathway or assessment and certification evidence.
 - A two-part, non-compensatory assessment: 50% educator-evaluated theoretical evidence and 50% educator-observed practical evidence. A certificate requires all seven assessed competencies to meet the required standard in both components. The named educator assesses the learner and issues the certificate; My First Bitcoin does not centrally evaluate, issue, verify, or guarantee learner competency.
 - Wallet choice taught as a decision path: open-source software is preferred where appropriate for transparency, but every option has trade-offs and no wallet is the global recommendation.
 - Advanced technical and specialist topics kept outside the beginner Diploma, where they can be studied with the time and context they require.

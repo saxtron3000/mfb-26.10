@@ -5,15 +5,7 @@ Teaching the Bitcoin Diploma
 
 ## About this guide
 
-The Educator Guide supports teaching the 2026.10 Bitcoin Diploma. Linked terms open their definitions in the [Lexicon](../mfb-lx-26.10-sg-index.md). Use it with the [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/en/student-guide/), [Educator Quick Start](https://programs.myfirstbitcoin.org/programs/educator-quick-start/), [Educator Assessment Grid](mfb-bd-assessment-grid-26.10.md), the learning activities supplied for your course, and the [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) for additional classroom activities. The [My First Bitcoin App](https://myfirstbitcoin.app/) offers optional microlearning, self-checks, recap, and discovery. Learners can complete the course without using it.
-
-Download the [My First Bitcoin App](https://myfirstbitcoin.app/) for optional microlearning, self-checks, recap, and more learning opportunities.
-
-<!-- VISUAL: BD-V-076
-ALT: Optional download QR code for the [My First Bitcoin App](https://myfirstbitcoin.app/), with the readable destination https://myfirstbitcoin.app/.
-ASSET: assets/briefs/bd-v-076-brief.md
-USE: Shared Student Guide master.
--->
+The Educator Guide supports teaching the 2026.10 Bitcoin Diploma. Linked terms open their definitions in the [Lexicon](../mfb-lx-26.10-sg-index.md). Use it with the [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/en/student-guide/), [Educator Quick Start](https://programs.myfirstbitcoin.org/programs/educator-quick-start/), [Educator Assessment Grid](mfb-bd-assessment-grid-26.10.md), the learning activities supplied for your course, and the [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) for additional classroom activities.
 
 
 The Student Guide gives learners the essential path. This Educator Guide helps a teacher turn that path into a complete learning experience through interaction, discussion, local context, guided practice, feedback, and assessment. You can teach directly from it: read the short preparation notes before a session, use the suggested words and questions during the session, and return to the evidence and safety notes afterwards.
@@ -28,7 +20,7 @@ Before or during the first session, invite learners to [register for the Bitcoin
 
 ## Assessment at a glance
 
-The 2026.10 Diploma uses an educator-led assessment model. Theoretical and practical competencies are both required, and optional [My First Bitcoin App](https://myfirstbitcoin.app/) use does not count as assessment evidence.
+The 2026.10 Diploma uses an educator-led assessment model. Theoretical and practical competencies are both required. Optional study resources, review, and reflection do not count as assessment evidence.
 
 Assessment can happen naturally through well-designed activities, conversations, demonstrations, and practice. The educator's job is to notice whether each learner can explain, compare, make a safe decision, or complete a practical task. A separate exam is not needed for every competency.
 
@@ -46,7 +38,7 @@ For a new teacher, the model can be remembered as two completion gates:
 These are not numerical grades. Both components need to be complete, and every required competency needs to meet its standard before a completion certificate is issued.
 
 <!-- VISUAL: BD-V-081
-ALT: Theory competencies C1–C5 and practical competencies C6–C7 must each receive a Yes for showing competency before assessment completion. Not yet returns to practice and reassessment; attendance, optional app review, and formative reflection do not replace either component.
+ALT: Theory competencies C1–C5 and practical competencies C6–C7 must each receive a Yes for showing competency before assessment completion. Not yet returns to practice and reassessment; attendance and formative reflection do not replace either component.
 ASSET: assets/briefs/bd-v-081-brief.md
 USE: Educator-only diagram; see the asset index brief.
 -->
@@ -70,7 +62,7 @@ This protocol is the source of truth for the Diploma's seven assessed competenci
 Record **Showing competency: Yes** or **Showing competency: Not yet** for each parent competency. Every required look-for must be evidenced. A teaching activity may support several look-fors without becoming a separate test. `F1` (reasoned discussion) and `F2` (course reflection) are formative, not certificate gates.
 
 - Record **Yes** when the learner has shown the competency sufficiently and safely. Record **Not yet** when more teaching, practice, or another opportunity is needed; this means the learner is building competency.
-- Attendance, confidence, group membership, [My First Bitcoin App](https://myfirstbitcoin.app/) results, and self-report do not replace a learner showing the competency. Activity completion can provide evidence when the activity is designed to reveal the relevant understanding or action.
+- Attendance, confidence, group membership, independent review results, and self-report do not replace a learner showing the competency. Activity completion can provide evidence when the activity is designed to reveal the relevant understanding or action.
 - Use prepared wallets, simulations, testnet, physical tokens, or appropriately low-stakes arrangements. Learners should never be asked to risk significant funds or expose a [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase), [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key), password, balance, or unnecessary personal information.
 - When working as a group, make sure you can still notice each learner's relevant understanding, decisions, and safety behaviour. A friendly probing question is often enough.
 
@@ -346,13 +338,13 @@ These are guardrails, not a test. Keep this list open while you prepare. You do 
 1. Teach the four-module **Problem → Solution → Action → Connect** sequence: Problem—Understanding Money; Solution—How Bitcoin Works; Action—Using Bitcoin Safely; and Connect—Bitcoin in Your Community.
 2. Treat **Modules 1–4** as the required Diploma. **Modules 1–2** develop theory-based competencies through explanation, comparison, and reasoning; **Module 3** develops safe practical action; and the educator-curated, required **Module 4** Connect stage links the shared learning to a local need, realistic alternative, safe task, and responsible next step.
 3. Preserve the required competencies, evidence requirements, safety boundaries, and passing standard in every language and delivery mode.
-4. Conduct competency-aligned educator-led theory interactions and direct practical observation. Offer the [My First Bitcoin App](https://myfirstbitcoin.app/) only as an optional recap, self-check, or discovery resource.
+4. Conduct competency-aligned educator-led theory interactions and direct practical observation. Keep any optional recap or independent review clearly separate from assessment evidence.
 5. Give supported practice before assessment. For practical learning, use Presentation → Practice → Production.
 6. Never ask to see, handle, photograph, copy, record, or store a learner's real [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase), [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key), credential, balance, or unnecessary transaction information.
 7. Use prepared wallets, simulations, test environments, printed screens, or appropriately low-stakes practice. Always prepare a no-funds or offline fallback.
 8. Do not give financial, investment, legal, tax, accounting, compliance, or trading advice. Do not pressure learners to acquire or use bitcoin.
 9. Treat named wallets, exchanges, services, maps, merchants, and community resources as dated local examples, not global recommendations.
-10. Do not certify attendance, [My First Bitcoin App](https://myfirstbitcoin.app/) activity, an educator interaction without valid evidence, or either assessment component alone. Certification requires recorded theoretical and practical evidence.
+10. Do not certify attendance, activity completion, an educator interaction without valid evidence, or either assessment component alone. Certification requires recorded theoretical and practical evidence.
 
 ## The Diploma at a glance
 
@@ -379,7 +371,7 @@ Your job is not to give a perfect lecture. Your job is to help learners explain,
 
 The purpose of the Bitcoin Diploma is for every learner to develop and demonstrate its required competencies. Your role is to deliver the knowledge and guided practice that support those competencies, make sure learners have a fair opportunity to develop them during the cohort, and assess each learner's individual ability, competency, and practical skill against the stated criteria.
 
-Before you issue or recommend a learner for a certificate of completion, confirm that the learner has demonstrated every required competency through the approved evidence: observable explanation, comparison, reasoning, or application for theory, and direct educator observation for practical skills. Attendance, confidence, [My First Bitcoin App](https://myfirstbitcoin.app/) progress, or a learner's own claim of ability cannot replace this evidence.
+Before you issue or recommend a learner for a certificate of completion, confirm that the learner has demonstrated every required competency through the approved evidence: observable explanation, comparison, reasoning, or application for theory, and direct educator observation for practical skills. Attendance, confidence, independent review, or a learner's own claim of ability cannot replace this evidence.
 
 You are responsible for helping learners:
 
@@ -401,7 +393,7 @@ You are not responsible for making learners agree with you. A learner can meet t
 - A **learner** studies, discusses, practises, and demonstrates competency through observable explanation, comparison, reasoning, or action.
 - An **educator** facilitates, protects the learning environment, adds checked local context, conducts competency-aligned theoretical touchpoints, provides practical-learning feedback, and directly assesses practical competency against the stated criteria. Where teaching and assessment are divided between educators, both should follow the same task conditions, criteria, and record-keeping process.
 - A **cohort** is the group learning together. Smaller teams may complete activities, but individual certification evidence must remain identifiable where required.
-- The **Diploma** is the complete learning and assessment program, not only the Student Guide or [My First Bitcoin App](https://myfirstbitcoin.app/).
+- The **Diploma** is the complete learning and assessment program, not only the Student Guide.
 
 ### The learning ecosystem
 
@@ -410,13 +402,12 @@ Each part of the Diploma has a distinct function.
 | Component | Primary function | What it cannot replace |
 | --- | --- | --- |
 | [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/en/student-guide/) | Essential learner explanations, reflection, review, and reference | Live facilitation, local verification, supported practice, or observed assessment |
-| [My First Bitcoin App](https://myfirstbitcoin.app/) | Optional self-checks, recap, discovery, feedback, and connection to future learning | Educator-led theoretical or practical assessment, certification records, or learner evaluation |
 | Educator Guide | Preparation, pacing, facilitation, localization, safety, and assessment support | Learner materials or assessment rubrics |
-| [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) | Modular interaction, formative checks, and practical practice | Competency definitions, [My First Bitcoin App](https://myfirstbitcoin.app/) scoring, or educator judgment |
+| [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) | Modular interaction, formative checks, and practical practice | Competency definitions or educator judgment |
 | Assessment guidance and Grid | Example interactions, observable criteria, safety guidance, optional notes, and completion decisions | Teaching and supported practice |
 
 <!-- VISUAL: BD-V-086
-ALT: The Student Guide supplies explanations, the Educator Guide supports teaching, and selected Resources Hub activities support practice. The operational protocol governs evidence collection and the Assessment Grid holds private results. Optional app self-checks support review only.
+ALT: The Student Guide supplies explanations, the Educator Guide supports teaching, and selected Resources Hub activities support practice. The operational protocol governs evidence collection and the Assessment Grid holds private results. Optional formative review supports learning only.
 ASSET: assets/briefs/bd-v-086-brief.md
 USE: Educator-only diagram; see the asset index brief.
 -->
@@ -471,7 +462,7 @@ You may not:
 
 - remove a required competency or competency criterion;
 - change what a learner must ultimately explain or demonstrate;
-- substitute attendance, effort, or [My First Bitcoin App](https://myfirstbitcoin.app/) progress for evidence;
+- substitute attendance, effort, or independent review for evidence;
 - lower the passing or safety standard;
 - require learners to expose private financial information;
 - turn a local service into a global recommendation;
@@ -576,7 +567,7 @@ Before teaching:
 - let learners sketch or sequence an idea before speaking; and
 - arrange a competent interpreter when the educator cannot judge the evidence directly.
 
-An interpreter may convey meaning during learning or assessment but must not improve, coach, or complete the learner's answer. Interpreter support for the [My First Bitcoin App](https://myfirstbitcoin.app/) must follow the approved access, integrity, and accommodation rules.
+An interpreter may convey meaning during learning or assessment but must not improve, coach, or complete the learner's answer.
 
 ### Support accessibility without lowering the competency
 
@@ -594,7 +585,7 @@ For teaching and assessment, an accommodation may change how instructions are re
 
 The accommodation must preserve the measurable competency. If the competency is to explain, the learner must still communicate the explanation. If it is to verify a [payment destination](https://programs.myfirstbitcoin.org/lexicon/en/#payment-destination), the learner must still make or direct that verification. If it is to demonstrate a sequence, the educator must still observe the learner controlling the decisions in that sequence.
 
-Accommodations for educator-led theoretical touchpoints or educator-observed practical evidence must preserve their purpose, competency, evidence, and standard. If an equivalent assessment cannot be established, provide further supported practice rather than certify the competency. Optional [My First Bitcoin App](https://myfirstbitcoin.app/) use must never be a required accommodation route.
+Accommodations for educator-led theoretical touchpoints or educator-observed practical evidence must preserve their purpose, competency, evidence, and standard. If an equivalent assessment cannot be established, provide further supported practice rather than certify the competency.
 
 ---
 
@@ -655,7 +646,7 @@ Use this as a planning pattern, not a rigid script.
 
 Practical observation often requires more time than this pattern allows. For **Module 3** and **Module 4**, plan stations, another educator, or smaller groups within the course schedule. Do not assess several learners at once when you cannot see each learner's decisions and safety behavior.
 
-This pattern does not establish how much time educator-led assessment needs. Reserve enough time within the schedule for individual evidence, feedback, reassessment, and recording. Optional [My First Bitcoin App](https://myfirstbitcoin.app/) self-checks may be offered before, during, or after learning without changing the assessment schedule.
+This pattern does not establish how much time educator-led assessment needs. Reserve enough time within the schedule for individual evidence, feedback, reassessment, and recording. Optional formative review may support learning without changing the assessment schedule.
 
 ### What to protect when time is tight
 
@@ -849,7 +840,7 @@ More tools can bring more complexity. Add a tool when it helps learners understa
 
 ### Media and tool fallbacks
 
-The Student Guide contains the definitions, comparisons, safety rules, and review questions needed for the Diploma. Supplementary learning links, QR codes, and the [My First Bitcoin App](https://myfirstbitcoin.app/) are optional. They may provide additional microlearning, updates, recap material, source files, or ways to connect. Learners can complete the course without using any of these supplementary resources.
+The Student Guide contains the definitions, comparisons, safety rules, and review questions needed for the Diploma. Supplementary learning links and QR codes used to access them are optional. They may provide updates, recap material, source files, or ways to connect. Learners can complete the course without using these supplementary resources.
 
 No required Diploma explanation, formative educator check, practice activity, or directly observed practical evidence should depend on a video, live website, named service, or learner-owned device when an approved equivalent path can preserve the competency.
 
@@ -867,7 +858,7 @@ When a demonstration needs internet access, prepare an offline alternative where
 | Video | Narrated diagram, storyboard, or educator explanation |
 | Live transaction | Simulation, test environment, empty training wallet, or educator demonstration |
 
-Offline teaching and assessment are valid. Use offline knowledge checks, printed activities, role-play, and simulations when connectivity is limited. Offer optional [My First Bitcoin App](https://myfirstbitcoin.app/) self-checks only when learners can access them safely and voluntarily; these are not part of certification.
+Offline teaching and assessment are valid. Use offline knowledge checks, printed activities, role-play, and simulations when connectivity is limited. Optional formative review is not part of certification.
 
 <!-- VISUAL: BD-V-089
 ALT: Live tools, paper simulations, and approved accessible routes can support the same competency when the learner still makes the required decisions and the educator can judge equivalent evidence. Without equivalence, prepare another route before certification.
@@ -2954,13 +2945,13 @@ Close with:
 
 ---
 
-## 11. Offer the [My First Bitcoin App](https://myfirstbitcoin.app/) as an optional learning resource
+## 11. Use optional learning resources appropriately
 
-The [My First Bitcoin App](https://myfirstbitcoin.app/) offers additional microlearning and is optional in 2026.10. Learners do not need to use it to complete the course or receive a certificate. You may invite learners to use it for short learning activities, self-checks, recap, discovery, and connection to My First Bitcoin updates; these do not count as assessment.
+The Student Guide, educator facilitation, activities, and direct observation provide the complete Diploma learning and assessment path. Learners do not need a personal device, account, or internet connection to complete the course or receive a certificate.
 
-Do not assign [My First Bitcoin App](https://myfirstbitcoin.app/) work, collect [My First Bitcoin App](https://myfirstbitcoin.app/) results, use [My First Bitcoin App](https://myfirstbitcoin.app/) progress to judge a learner, or require a device, account, or connection. Continue teaching and assessing through the Student Guide, discussion, activities, and direct educator observation when appropriate.
+Optional learning resources may support recap, further questions, or discovery, but do not assign their use, collect their results, or use them to judge a learner. Continue teaching and assessing through the Student Guide, discussion, activities, and direct educator observation when appropriate.
 
-Use the optional [My First Bitcoin App](https://myfirstbitcoin.app/) self-check only as a voluntary review aid. It can start a discussion, but it cannot replace an educator’s assessment evidence.
+Use any voluntary review only as a learning aid. It can start a discussion, but it cannot replace an educator’s assessment evidence.
 
 ---
 
@@ -3344,7 +3335,7 @@ Before issuing a completion certificate, confirm that your selected tasks and lo
 
 After you have confirmed each learner's certificate type and assessment status, use the [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) to produce participation or completion certificates in a batch. Check names, certificate types, and issuing details before distributing them. The tool helps prepare certificates; it does not assess learners, decide completion, or change the educator-issued certification model.
 
-[My First Bitcoin App](https://myfirstbitcoin.app/) progress, attendance, confidence, and activity participation do not by themselves establish completion. A learner with a **Not yet** result should receive a clear, respectful opportunity for more practice and reassessment as they build competency. Do not create public “graduates” and “failures” inside the room.
+Independent review, attendance, confidence, and activity participation do not by themselves establish completion. A learner with a **Not yet** result should receive a clear, respectful opportunity for more practice and reassessment as they build competency. Do not create public “graduates” and “failures” inside the room.
 
 ### Final safety reminders
 
@@ -3535,7 +3526,7 @@ Use the [Lexicon](../mfb-lx-26.10-sg-index.md) for full definitions. Keep these 
 | Demonstration and stop conditions |  |
 | Supported practice |  |
 | Production or evidence task |  |
-| Optional [My First Bitcoin App](https://myfirstbitcoin.app/) connection |  |
+| Optional learning-resource connection |  |
 | Accessibility adaptation |  |
 | Offline fallback |  |
 | Debrief questions |  |
@@ -3663,7 +3654,7 @@ Use only when the cohort and setting support sustained learning. Protect breaks 
 
 | Period | Focus |
 | --- | --- |
-| Opening | Expectations, optional [My First Bitcoin App](https://myfirstbitcoin.app/) and assessment explanation, money questions |
+| Opening | Expectations, assessment explanation, money questions |
 | Morning 1 | Money foundations and properties activity |
 | Morning 2 | Fiat, banking, [purchasing power](https://programs.myfirstbitcoin.org/lexicon/en/#purchasing-power), and **Module 1** review |
 | Midday 1 | Bitcoin problem, roles, [proof of work](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work), supply, and [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat) |
@@ -3683,14 +3674,6 @@ The Student Guide carries the beginner content. The educator brings it to life.
 A strong Diploma experience is not the one with the longest lecture, the most technical detail, or the greatest number of transactions. It is the one in which learners ask better questions, explain the key ideas clearly, practise safely, connect learning to local reality, recognize limits and trade-offs, and demonstrate the beginner competencies the certificate claims.
 
 ## Continue learning
-
-Download the [My First Bitcoin App](https://myfirstbitcoin.app/) for optional microlearning, self-checks, recap, and more learning opportunities. It is not required for Diploma learning, assessment, or certification.
-
-<!-- VISUAL: BD-V-076
-ALT: Optional download QR code for the [My First Bitcoin App](https://myfirstbitcoin.app/), with the readable destination https://myfirstbitcoin.app/.
-ASSET: assets/briefs/bd-v-076-brief.md
-USE: Shared Student Guide master.
--->
 
 Explore the [Bitcoin Diploma AI assistant](https://ai.myfirstbitcoin.org) for optional help reviewing concepts or developing explanations for a lesson. Check its responses against the course materials before using them with learners. Educators remain responsible for teaching and assessment; never enter learner records, seed phrases, or private keys.
 

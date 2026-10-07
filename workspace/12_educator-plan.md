@@ -28,11 +28,11 @@ The guide should help educators:
 - assess required practical competencies through direct observation;
 - use common rubrics consistently;
 - provide feedback and reassessment; and
-- recognize that the 2026.10 assessment process is educator-led and that optional app use does not affect certification.
+- recognize that the 2026.10 assessment process is educator-led and that the postponed app launch does not affect certification.
 
-### The [My First Bitcoin App](https://myfirstbitcoin.app/) as an optional learning resource
+### Postponed app launch
 
-Content may be facilitated in person or online and taught with low-tech, offline-capable print/PDF materials. The [My First Bitcoin App](https://myfirstbitcoin.app/) may be offered for voluntary recap, self-checks, discovery, and connection to future My First Bitcoin learning. It is not required for learning, assessment, completion, or certification in the 2026.10 release.
+Content may be facilitated in person or online and taught with low-tech, offline-capable print/PDF materials. The My First Bitcoin App launch is postponed, so do not offer or assign it in 2026.10. It is not required for learning, assessment, completion, or certification; future launch work is tracked in `18_horizon.md`.
 
 ### Educator support through the [ETP](https://etp.myfirstbitcoin.org/)
 

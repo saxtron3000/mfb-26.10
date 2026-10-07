@@ -23,7 +23,7 @@ The 2026.10 Bitcoin Diploma is a beginner course organized into four modules, wi
 
 The Diploma follows the **Problem → Solution → Action → Connect** learning arc. Modules 1 and 2 develop the Problem and Solution through explanation, comparison, and reasoning. Module 3 develops safe Action. Module 4 is the educator-curated Connect stage, required for Diploma completion: it links the shared learning to a local need or opportunity, a realistic alternative, safe practice, and a responsible next step.
 
-Teaching may be facilitated in person or online. The October 2026 publication package includes low-tech, offline-capable print/PDF materials, an online PDF version, and a web version. All October public outputs are published through Sanity. The [My First Bitcoin App](https://myfirstbitcoin.app/) is optional in 2026.10 and may support recap, self-checks, discovery, and connection to future My First Bitcoin learning. Future delivery branches may include online cohort, self-paced, optional app, and cross-modal formats, but every branch must preserve the required Diploma competency standards and educator-led assessment standard.
+Teaching may be facilitated in person or online. The October 2026 publication package includes low-tech, offline-capable print/PDF materials, an online PDF version, and a web version. All October public outputs are published through Sanity. The My First Bitcoin App launch is postponed, so it is not an available 2026.10 resource. Future delivery branches may include online cohort, self-paced, app-supported, and cross-modal formats, but every branch must preserve the required Diploma competency standards and educator-led assessment standard.
 
 ---
 
@@ -167,7 +167,7 @@ The 2026.10 framework-first package is expected to include:
 - activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/);
 - Bitcoin in Your Community templates;
 - assessment framework, Educator Guide operational assessment protocol, and cohort assessment grid;
-- optional [My First Bitcoin App](https://myfirstbitcoin.app/) self-check, recap, and discovery package;
+- no My First Bitcoin App self-check, recap, or discovery package; its launch is postponed;
 - public stakeholder brief and keynote material;
 - translation-ready Markdown source files;
 - web version, published through Sanity;

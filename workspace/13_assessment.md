@@ -23,7 +23,7 @@ The 2026.10 Diploma uses two required, non-compensatory completion gates:
 
 These are not numerical grades. Both gates must be complete, and every required competency must meet its standard before a completion certificate is issued.
 
-Assessment can happen through well-designed activities, discussions, demonstrations, and practice. A separate exam is not required for every competency. Activity completion may provide evidence when the activity is designed to reveal the relevant understanding or action; attendance, participation, confidence, self-report, or completion of materials alone cannot establish competency. The [My First Bitcoin App](https://myfirstbitcoin.app/) is optional and cannot provide formal assessment evidence.
+Assessment can happen through well-designed activities, discussions, demonstrations, and practice. A separate exam is not required for every competency. Activity completion may provide evidence when the activity is designed to reveal the relevant understanding or action; attendance, participation, confidence, self-report, or completion of materials alone cannot establish competency. The My First Bitcoin App launch is postponed and it is not part of the 2026.10 assessment route.
 
 The [Educator Guide's assessment guidance](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) provides examples, prompts, safety guidance, accessibility ideas, flexible routes, reassessment support, and optional quality support. Use it as a structure, not a script. The Assessment Grid is the minimum cohort record: one final **Showing competency: Yes** or **Showing competency: Not yet** result per learner and competency.
 
@@ -90,7 +90,7 @@ Participation, agreement with a slogan, or an educator's impression is not enoug
 
 Practical competency is evaluated through educator observation of demonstrations, simulations, role-plays, scenario-based evaluations, prepared-wallet activity, physical tokens, testnet, or carefully structured low-stakes activity. A spoken explanation may be part of a practical activity, but it does not replace the required performance.
 
-The optional [My First Bitcoin App](https://myfirstbitcoin.app/) may prepare learners, provide checklists, or offer self-check questions. It is not practical evidence. Watching a demonstration or reporting that an action was completed is not sufficient; the educator needs an opportunity to observe the learner's relevant action or decision.
+The postponed My First Bitcoin App will not prepare learners, provide checklists, or offer self-check questions in the 2026.10 release. Future launch work must preserve the rule that it is not practical evidence. Watching a demonstration or reporting that an action was completed is not sufficient; the educator needs an opportunity to observe the learner's relevant action or decision.
 
 ---
 

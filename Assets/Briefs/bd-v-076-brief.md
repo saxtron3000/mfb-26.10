@@ -1,5 +1,7 @@
 # Bitcoin Diploma design brief template
 
+> **Status — deferred:** The My First Bitcoin App launch is postponed. Do not populate, produce, or place `BD-V-076` for the 2026.10 release. Reopen this template only after the launch checklist in `workspace/18_horizon.md` is complete.
+
 This neutral template intentionally contains no asset-specific source data. Populate it only from the current `workspace/08_assets.md` record when an asset is ready to be briefed.
 
 ## Source of truth

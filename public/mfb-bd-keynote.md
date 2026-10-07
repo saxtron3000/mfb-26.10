@@ -249,7 +249,7 @@ The redesigned Diploma should be understood as a learning ecosystem rather than 
 | Educator Guide | Facilitation, pacing, classroom decisions, discussion management, and adaptation support |
 | Resources Hub activities | Participation, practice, local adaptation, review, and practical learning |
 | Module 4 planning and task templates | Local workshops, demonstrations, and community-specific Bitcoin-as-money tasks |
-| [My First Bitcoin App](https://myfirstbitcoin.app/) | Optional learner-owned recap, self-checks, discovery, and connection to further learning; never assessment evidence |
+| My First Bitcoin App (launch postponed) | Not part of the 2026.10 learner pathway; any future use must never become assessment evidence |
 | Educator-led assessment | Explanation, synthesis, simulations, role-plays, and direct observation of practical competence |
 | Future Advanced study | Deeper study without overloading the beginner pathway |
 

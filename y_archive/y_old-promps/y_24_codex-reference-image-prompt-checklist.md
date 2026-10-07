@@ -1,5 +1,7 @@
 # Codex reference-image prompt checklist
 
+> **Current status note (2026-10-07):** The My First Bitcoin App launch is postponed. The `BD-V-076` instructions below are historical and must not be used to create or place an app QR asset for the 2026.10 release.
+
 ## Purpose
 
 Use one unchecked item at a time. Copy its entire fenced prompt into ChatGPT/Codex image generation, attach the section 7 classification registry and any useful adjacent manuscript text, and save the transparent PNG reference, white-background JPG preview, and JSON in `assets/` as described in the prompt. These are reference images for Claude implementation; they are never final or publishable assets.

@@ -55,16 +55,11 @@ ASSET: assets/briefs/bd-v-002-brief.md
 
 **Self-sovereignty** means having meaningful control over your own choices and resources. With Bitcoin, greater control can reduce dependence on institutions. It also creates greater personal responsibility. Control without knowledge can be dangerous, so practical safety is a central part of this Diploma.
 
-### Learn more with the [My First Bitcoin App](https://myfirstbitcoin.app/)
+### Learn beyond the Diploma
 
-The [My First Bitcoin App](https://myfirstbitcoin.app/) offers optional microlearning: short, additional learning activities, self-checks, and recap material. It also helps you find more My First Bitcoin learning. It can also help you find an educator or Diploma learning opportunity near you, depending on your location. Its quizzes help you learn but do not count as assessment, and the [My First Bitcoin App](https://myfirstbitcoin.app/) is not a [Bitcoin wallet](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet). You can fully participate in the Diploma and receive a certificate without the [My First Bitcoin App](https://myfirstbitcoin.app/), a suitable device, or an internet connection. Your book, educator, and group activities provide the complete learning path.
+Your book, educator, and group activities provide the complete learning path for this Diploma. You can fully participate in the Diploma and receive a certificate without a personal device or internet connection.
 
-Download the [My First Bitcoin App](https://myfirstbitcoin.app/) for optional microlearning, self-checks, recap, and more learning opportunities.
-
-<!-- VISUAL: BD-V-076
-ALT: Optional download panel for the [My First Bitcoin App](https://myfirstbitcoin.app/) with a readable URL and QR code.
-ASSET: assets/briefs/bd-v-076-brief.md
--->
+When you are ready to continue learning, explore the [Introduction to Bitcoin](https://myfirstbitcoin.org/learn/programs#intro), the [Bitcoin Diploma AI assistant](https://ai.myfirstbitcoin.org), or the [student journey](https://journey.myfirstbitcoin.org/). These are optional resources and do not count as assessment or certification. Check explanations against this guide and discuss anything unclear with your educator. Never enter [seed phrases](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase), [private keys](https://programs.myfirstbitcoin.org/lexicon/en/#private-key), or personal financial information into an online tool.
 
 ### Register for the Diploma
 
@@ -173,7 +168,7 @@ Your educator uses an assessment grid to record one result for each of the seven
 
 
 
-To receive a certificate of completion, you must meet the approved Diploma requirements through an educator whose local assessment route is ready. Attendance, [My First Bitcoin App](https://myfirstbitcoin.app/) use, or completing a self-check quiz alone is not enough. The named educator assesses you and issues the certificate; My First Bitcoin does not centrally evaluate learners, issue certificates, or guarantee competency.
+To receive a certificate of completion, you must meet the approved Diploma requirements through an educator whose local assessment route is ready. Attendance, completing a review activity, or a learner's own report alone is not enough. The named educator assesses you and issues the certificate; My First Bitcoin does not centrally evaluate learners, issue certificates, or guarantee competency.
 
 ### Required prior knowledge: none
 
@@ -190,7 +185,6 @@ For the Diploma, you need:
 - this book in print or PDF form;
 - a notebook and pen, or another way to record answers;
 - an educator or study group where available;
-- optional access to the [My First Bitcoin App](https://myfirstbitcoin.app/) for self-checks, recap, and finding more learning opportunities;
 - time to discuss and reflect.
 
 A personal phone and continuous internet connection are not required for learning, practical preparation, assessment, or certification. Do not install a [Bitcoin wallet](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) or create a [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase) only because another learner tells you to. Use practical tools only under clear guidance and only when the purpose and risk are clear.
@@ -202,8 +196,6 @@ When it is time to practise with a [Bitcoin wallet](https://programs.myfirstbitc
 - practise with a test environment, simulation, or other prepared training material; if your educator plans a low-stakes live activity, understand the purpose and risks before choosing whether to take part;
 - use sample [recovery words](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase) provided for practice, rather than words from someone else's real wallet;
 - keep real [recovery words](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase) (also called a [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase)) private: they restore access to a wallet, so do not show them to the class, photograph them, or enter them into a website or message.
-
-If you use the optional [My First Bitcoin App](https://myfirstbitcoin.app/) on a managed, shared, or loaned device, follow the approved sign-in, [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy), sign-out, and account-security process. Never enter wallet secrets or personal financial information into the [My First Bitcoin App](https://myfirstbitcoin.app/).
 
 ### Safety, responsibility, and no financial advice
 
@@ -1985,11 +1977,4 @@ Your most important result is not the certificate. It is the ability to explain 
 
 ## Continue learning
 
-<!-- VISUAL: BD-V-076
-ALT: Optional download panel for the [My First Bitcoin App](https://myfirstbitcoin.app/) with a readable URL and QR code.
-ASSET: assets/briefs/bd-v-076-brief.md
--->
-
-Download the [My First Bitcoin App](https://myfirstbitcoin.app/) for optional microlearning, self-checks, recap, and more learning opportunities. It is not required for Diploma learning, assessment, or certification.
-
-Explore the [Bitcoin Diploma AI assistant](https://ai.myfirstbitcoin.org) to ask follow-up questions and revisit course concepts. Use it as an optional study aid, check its explanations against this guide, and discuss anything unclear with your educator. Never enter [seed phrases](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase) or [private keys](https://programs.myfirstbitcoin.org/lexicon/en/#private-key).
+Explore the [Bitcoin Diploma AI assistant](https://ai.myfirstbitcoin.org) to ask follow-up questions and revisit course concepts. Use it as an optional study aid, check its explanations against this guide, and discuss anything unclear with your educator. Never enter [seed phrases](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase), [private keys](https://programs.myfirstbitcoin.org/lexicon/en/#private-key), or personal financial information.

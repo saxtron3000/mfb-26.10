@@ -4,6 +4,8 @@ Quentin's handwritten notes on a printed copy of the Bitcoin Diploma Student Gui
 Each note gives the page, the passage Quentin marked (quoted from the guide) and what Quentin wrote. Words in \[square brackets\] are the transcriber's, and notes Quentin crossed out on the page are included and labelled.  
 The photos cover the cover page and pages 8 to 9, 20 to 47, 50 to 53, 60 to 63, 74 to 75 and 80 to 81\. Other pages were not photographed.
 
+> **Current status note (2026-10-07):** The My First Bitcoin App launch is postponed. References in this dated feedback record describe the guide at the time of review and do not authorize a current-release app link, call to action, or QR asset.
+
 ## **Overall comments**
 
 Notes about a whole module or the guide as a whole, in page order.
@@ -93,4 +95,3 @@ Notes about a whole module or the guide as a whole, in page order.
 | Page | Passage in the guide | Quentin's note |
 | :---- | :---- | :---- |
 | 62 | **4.1 Bitcoin in Your Community** “You will connect the money problem, Bitcoin response, and safe-use responsibility from Modules 1–3 to a local need…” (curve over “money problem”) | again, I didn't see any “problem” presented in chap 1 |
-

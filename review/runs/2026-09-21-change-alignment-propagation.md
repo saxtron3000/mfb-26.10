@@ -1,5 +1,7 @@
 # Review run: 2026-09-21 — recent workspace-to-publication propagation
 
+> **Current status note (2026-10-07):** The My First Bitcoin App launch is postponed. App references in this historical review record describe the prior state only; do not use them for current-release links, calls to action, or QR production.
+
 ## Run details
 
 | Field | Record |

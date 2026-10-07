@@ -11,7 +11,7 @@ Use this checklist to confirm that each destination opens and is the correct res
 
 Repeated destinations share a row. Source locations list every occurrence; repeated line numbers mean multiple occurrences on that line. Original row IDs are retained. Line numbers may shift after edits.
 
-This index contains six guide web destinations outside `myfirstbitcoin.org`, 18 activity-library web-link groups, and 108 local document or section destinations. See [internal links](links-internal.md) for `myfirstbitcoin.org`, its subdomains, and the project GitHub repository. The [My First Bitcoin App](https://myfirstbitcoin.app/) is included here because its domain is `myfirstbitcoin.app`. Local repository links are listed separately below; they are not external websites.
+This index contains five guide web destinations outside `myfirstbitcoin.org`, 18 activity-library web-link groups, and 108 local document or section destinations. See [internal links](links-internal.md) for `myfirstbitcoin.org`, its subdomains, and the project GitHub repository. The My First Bitcoin App launch is postponed, so its destination is not included in the current link register. Local repository links are listed separately below; they are not external websites.
 
 ## Review instructions
 
@@ -31,7 +31,6 @@ This index contains six guide web destinations outside `myfirstbitcoin.org`, 18 
 
 | ID | Example linked text | Destination | Source lines | Review | Reviewer / correction |
 | --- | --- | --- | --- | --- | --- |
-| W003 | [My First Bitcoin App](https://myfirstbitcoin.app/) | [https://myfirstbitcoin.app/](https://myfirstbitcoin.app/) | SG: 47, 49, 49, 49, 51, 151, 168, 181, 181, 1530, 1549; EG: 7, 9, 11, 19, 47, 287, 293, 320, 342, 351, 353, 400, 493, 511, 570, 746, 764, 2572, 2574, 2576, 2576, 2576, 2578, 2960, 2972, 3162, 3290, 3311 | Pending | |
 | W007 | [*Bitcoin: A Peer-to-Peer Electronic Cash System*](https://bitcoin.org/bitcoin.pdf) | [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf) | SG: 516, 740 | Pending | |
 | W008 | [Genesis Block](https://mempool.space/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f) | [https://mempool.space/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f](https://mempool.space/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f) | SG: 740 | Pending | |
 | W009 | [first recorded person-to-person transaction](https://mempool.space/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16) | [https://mempool.space/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16](https://mempool.space/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16) | SG: 740 | Pending | |

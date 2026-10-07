@@ -261,7 +261,7 @@ Draft source material in English first. Before translation or publication, revie
 
 Delivery-branch rule:
 
-Low-tech, offline-capable print/PDF, an online PDF, and website-ready content are all October publication outputs. The online PDF and web version are published through Sanity and remain aligned with the same approved source. Future online-cohort, self-paced, optional app self-assessment, and cross-modal instructional branches should grow from the same required Diploma competency standards rather than become separate curricula. The [My First Bitcoin App](https://myfirstbitcoin.app/) is optional in 2026.10 and may be used for recap, self-checks, discovery, and updates.
+Low-tech, offline-capable print/PDF, an online PDF, and website-ready content are all October publication outputs. The online PDF and web version are published through Sanity and remain aligned with the same approved source. Future online-cohort, self-paced, app-supported self-assessment, and cross-modal instructional branches should grow from the same required Diploma competency standards rather than become separate curricula. The My First Bitcoin App launch is postponed, so it is not an available 2026.10 learning resource; its future work is tracked in `18_horizon.md`.
 
 ---
 
