@@ -746,7 +746,8 @@ For most concepts, use this sequence:
 5. **Apply:** Use a comparison, activity, scenario, demonstration, or decision.
 6. **Produce:** Ask learners to explain or perform with less support.
 7. **Debrief:** Name the evidence, limitation, safety point, and trade-off.
-8. **Connect:** Show how the idea prepares for the next part of the Bitcoin Diploma.
+8. **Reflect:** End the module with the Student Guide's brief closing question. Give learners quiet thinking time; an answer is optional.
+9. **Connect:** Show how the idea prepares for the next part of the Bitcoin Diploma.
 
 <!-- VISUAL: BD-V-088
 ALT: The educator sets purpose, activates prior ideas, explains, checks, guides application, invites independent production, debriefs, and connects to the next concept. Unclear responses lead back to explanation or practice.
@@ -814,6 +815,14 @@ At the end of a section, ask learners to complete one of these:
 - “This connects to the next module because ___.”
 
 An exit response is usually formative feedback. It may also help establish theoretical evidence when it gives the educator a clear view of the relevant competency. A practical activity may provide evidence when the educator can observe the learner's relevant action safely and individually.
+
+### Light module-closing reflection
+
+Each Student Guide module ends with one short rhetorical question. Use it after the review, at the close of the chapter, to help learners notice what has changed in their understanding. Give 30–60 seconds of quiet thinking time. A learner may keep the response private, share it voluntarily with a partner, or simply move on.
+
+Do not collect, score, record, or require an answer. Do not ask learners to disclose personal finances, holdings, accounts, or intentions to acquire or use bitcoin. This is a consolidation pause, not an exit ticket, an assessment activity, or evidence for certification. Keep it distinct from the course-ending `F2` reflection.
+
+Use the Student Guide question as written when possible. If translation or accessibility requires adaptation, retain its open, reflective purpose and avoid turning it into a prompt for agreement or action.
 
 ### Debrief every activity
 
@@ -1376,6 +1385,8 @@ Ask each learner to complete:
 
 Summarize that people may seek different monetary arrangements when they want different trade-offs around supply, access, control, settlement, [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy), and trust.
 
+Then use the **Module 1** Student Guide closing question. Keep the response private or optional, following the light module-closing reflection guidance above.
+
 Bridge:
 
 > The next module asks whether decentralized digital money can offer a different arrangement without recreating the [double-spend problem](https://programs.myfirstbitcoin.org/lexicon/en/#double-spending).
@@ -1756,6 +1767,8 @@ Ask learners to complete:
 | Access depends on an institution |  |  |
 
 Require a clear explanation of why [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) and [miners](https://programs.myfirstbitcoin.org/lexicon/en/#miner) have different roles.
+
+Then use the **Module 2** Student Guide closing question. Keep the response private or optional, following the light module-closing reflection guidance above.
 
 Bridge:
 
@@ -2401,6 +2414,8 @@ Ask:
 
 > What does direct control require from the user, and which risks remain even after following a safe process?
 
+Then use the **Module 3** Student Guide closing question. Keep the response private or optional, following the light module-closing reflection guidance above.
+
 Bridge:
 
 > **Module 4** asks whether these tools and responsibilities solve a real need in this community. The answer may be yes, no, or only under particular conditions.
@@ -2941,6 +2956,8 @@ For review, each learner or team may present:
 Ask another learner to pose one verification question and identify one trade-off.
 
 Team presentation does not provide individual certification evidence. Each learner seeking certification must produce individually identifiable practical evidence against the `C7` rubric, including `C7.1` and `C7.2`, under direct observation by an educator.
+
+Then use the **Module 4** Student Guide closing question. Keep the response private or optional, following the light module-closing reflection guidance above.
 
 Close with:
 

@@ -590,6 +590,10 @@ Pause and consider the money you use: what makes it useful in daily life, and wh
 - [Inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation), [fractional-reserve banking](https://programs.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking), and [CBDC](https://programs.myfirstbitcoin.org/lexicon/en/#central-bank-digital-currency-cbdc) design can affect [purchasing power](https://programs.myfirstbitcoin.org/lexicon/en/#purchasing-power), access, [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy), and the need to trust institutions.
 - Some people look to alternatives such as precious metals when they want different [trade-offs](https://programs.myfirstbitcoin.org/lexicon/en/#trade-off) around [purchasing power](https://programs.myfirstbitcoin.org/lexicon/en/#purchasing-power), supply, or control; every alternative has limits and risks.
 
+#### A moment to reflect
+
+What is one question you now ask about money that you did not ask before?
+
 The next module examines Bitcoin's attempt to create a different set of monetary rules.
 
 ---
@@ -989,8 +993,6 @@ ASSET: assets/briefs/bd-v-034-brief.md
 -->
 | A central party orders digital payments | [Proof of work](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work) orders [transactions](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) without a central operator | [Mining](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work) requires equipment and energy. |
 
-**Key thought:** Based on what you have learned about Bitcoin in this module, does it have [value](https://programs.myfirstbitcoin.org/lexicon/en/#value) to you? Does the current [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) of bitcoin represent its [value](https://programs.myfirstbitcoin.org/lexicon/en/#value)?
-
 #### Key takeaways
 
 - Bitcoin was created to make digital transfer possible without a central [ledger](https://programs.myfirstbitcoin.org/lexicon/en/#ledger) keeper while preventing [double spending](https://programs.myfirstbitcoin.org/lexicon/en/#double-spending).
@@ -1000,6 +1002,10 @@ ASSET: assets/briefs/bd-v-034-brief.md
 - Bitcoin has a public supply schedule with a maximum of 21 million BTC, and [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) reject blocks that break this rule.
 - One bitcoin (1 BTC) divides into 100,000,000 [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat), so people can use smaller units without needing a whole bitcoin.
 - Bitcoin can be evaluated as [sound money](https://programs.myfirstbitcoin.org/lexicon/en/#sound-money) using monetary properties, while still recognizing the [trade-offs](https://programs.myfirstbitcoin.org/lexicon/en/#trade-off): [price volatility](https://programs.myfirstbitcoin.org/lexicon/en/#volatility), limited acceptance, payments that are usually difficult or impossible to reverse, and the need for increased personal responsibility.
+
+#### A moment to reflect
+
+Which part of Bitcoin's design would you explain differently now, and why?
 
 ---
 
@@ -1401,6 +1407,10 @@ Imagine that a friend sends you a payment request while an unfamiliar support ac
 - Custodial and self-custodial arrangements create different recovery and control responsibilities. [Hardware wallets](https://programs.myfirstbitcoin.org/lexicon/en/#hardware-wallet) still depend on a safe backup.
 - Before receiving or sending, check the correct payment method, destination, amount, and final status; a valid send is usually difficult or impossible to reverse.
 - Start with safe practice or small approved amounts. Pause when a request creates urgency, secrecy, or pressure.
+
+#### A moment to reflect
+
+Which safety check will you pause to make before acting?
 
 ---
 
@@ -1837,6 +1847,10 @@ Complete this review individually, then compare your reasoning with your team or
 - On-chain and Lightning payments make different [trade-offs](https://programs.myfirstbitcoin.org/lexicon/en/#trade-off) in settlement, speed, fees, [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody), and failure points; confirm which payment method a recipient expects.
 - Local exchange pathways, [KYC](https://programs.myfirstbitcoin.org/lexicon/en/#know-your-customer-kyc) choices, merchant flows, and community use cases should be compared through their full costs, [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody), privacy, safety, and legal [trade-offs](https://programs.myfirstbitcoin.org/lexicon/en/#trade-off).
 - A strong circular economy or community use case is voluntary, solves a real problem, protects participants, and does not make learners dependent on one service, organizer, or promise.
+
+#### A moment to reflect
+
+What question would you ask before deciding whether a Bitcoin path fits a local need?
 
 ---
 
