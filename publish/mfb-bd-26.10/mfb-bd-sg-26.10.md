@@ -7,7 +7,7 @@ Financial education for the Bitcoin era
 
 Bitcoin can change how people explain and act on money, ownership, and responsibility. Education must come first.
 
-This Diploma is an independent, open-source introduction to money and Bitcoin. It is designed for beginners. You do not need previous knowledge of economics, banking, or computer science.
+The Bitcoin Diploma is an independent, open-source introduction to money and Bitcoin. It is designed for beginners. You do not need previous knowledge of economics, banking, or computer science.
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License unless stated otherwise. You may share and adapt it with attribution to My First Bitcoin, and you must use the same license for adaptations.
 
@@ -24,9 +24,7 @@ ALT: Creative Commons Attribution-ShareAlike 4.0 licence mark beside the written
 
 My First Bitcoin is a nonprofit education organization founded by John Dennehy in 2021. We publish free and open-source Bitcoin education for learners and educators around the world.
 
-The project began with small in-person classes in El Salvador in 2021, after the country passed a bill making bitcoin legal tender. The 90-minute introduction moved from what money is to how Bitcoin works, then gave the learner practical experience sending and receiving [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat), the small units of bitcoin, with a Lightning wallet. Within two months, the project was teaching hundreds of learners each month. My First Bitcoin's [public history](https://myfirstbitcoin.org/about) records the project's milestones and organizational accountability.
-
-In 2022, the first Bitcoin Diploma cohort began in one public school in San Marcos, El Salvador. The pilot developed into an open-source curriculum that independent educators could translate, adapt, and teach. It later spread through the [Bitcoin Education Network](https://myfirstbitcoin.org/about/network) to communities around the world.
+The project began with small in-person classes in El Salvador in 2021, after the country passed a bill making bitcoin legal tender. In 2022, the first Bitcoin Diploma cohort began in one public school in San Marcos. The pilot developed into an open-source curriculum that independent educators could translate, adapt, and teach through the [Bitcoin Education Network](https://myfirstbitcoin.org/about/network). My First Bitcoin's [public history](https://myfirstbitcoin.org/about) records the project's milestones and organizational accountability.
 
 Our work is independent, community-driven, and Bitcoin-focused. We focus on financial literacy, careful thinking, and practical safety - not trading, speculation, or promoting other tokens. We do not ask you to accept a belief. Instead, we provide concepts, questions, and practical knowledge so you can form your own conclusions.
 
@@ -40,7 +38,7 @@ This approach matters because money affects every person. People should be able 
 
 ### What we stand for: accessibility, critical thinking, community, and self-sovereignty
 
-**Accessibility** means that Diploma content can be taught in person (preferred), online, or through print/PDF delivery. Limited technology should not prevent participation in learning or certification. Local examples may change, but the required competencies and competency criteria remain the same.
+**Accessibility** means that Bitcoin Diploma content can be taught in person, online, or through print/PDF delivery. Limited technology should not prevent participation in learning or certification. Local examples may change, but the required competencies and competency criteria remain the same.
 
 **Curiosity** means being willing to ask why, admit what you do not know, and investigate an unfamiliar answer before accepting or rejecting it.
 
@@ -53,13 +51,13 @@ ASSET: assets/briefs/bd-v-002-brief.md
 
 **Community** means that education becomes more useful when people discuss ideas and connect them to local life. Your educator and classmates may have experiences that no global book can contain. Listen carefully, ask questions, and explain your reasoning with respect.
 
-**Self-sovereignty** means having meaningful control over your own choices and resources. With Bitcoin, greater control can reduce dependence on institutions. It also creates greater personal responsibility. Control without knowledge can be dangerous, so practical safety is a central part of this Diploma.
+**Self-sovereignty** means having meaningful control over your own choices and resources. With Bitcoin, greater control can reduce dependence on institutions. It also creates greater personal responsibility. Control without knowledge can be dangerous, so practical safety is a central part of the Bitcoin Diploma.
 
 ### Learn beyond the Bitcoin Diploma
 
-Your book, educator, and group activities provide the complete learning path for this Diploma. You can fully participate in the Diploma and receive a certificate without a personal device or internet connection.
+Your book, educator, and group activities provide the complete learning path for the Bitcoin Diploma. You can fully participate and receive a certificate without a personal device or internet connection.
 
-When you are ready to continue learning, explore the [Introduction to Bitcoin](https://myfirstbitcoin.org/learn/programs#intro), the [Bitcoin Diploma AI assistant](https://ai.myfirstbitcoin.org), or the [student journey](https://journey.myfirstbitcoin.org/). These are optional resources and do not count as assessment or certification. Check explanations against this guide and discuss anything unclear with your educator. Never enter [seed phrases](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase), [private keys](https://programs.myfirstbitcoin.org/lexicon/en/#private-key), or personal financial information into an online tool.
+When you are ready to continue learning, explore the [Introduction to Bitcoin](https://myfirstbitcoin.org/learn/programs#intro) or the [student journey](https://journey.myfirstbitcoin.org/). These are optional resources and do not count as assessment or certification. Check explanations against this guide and discuss anything unclear with your educator. Never enter [seed phrases](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase), [private keys](https://programs.myfirstbitcoin.org/lexicon/en/#private-key), or personal financial information into an online tool.
 
 ### Register for the Bitcoin Diploma
 
@@ -71,7 +69,7 @@ Most people use money before they learn how money works. They may earn it, save 
 
 Bitcoin introduces a different system. It has no central [issuer](https://programs.myfirstbitcoin.org/lexicon/en/#issuer), it follows public rules, and it allows direct digital ownership. These ideas can be difficult to explain clearly without first examining money and the problems that can arise in modern money systems.
 
-This Diploma therefore follows a simple path:
+The Bitcoin Diploma therefore follows a simple path:
 
 1. Explain the problem Bitcoin was designed to address.
 2. Explain Bitcoin's main response.
@@ -82,7 +80,7 @@ The aim is not to make you an expert in eight hours. The aim is to give you a re
 
 ### How you can use this course as a starting point
 
-Treat this Diploma as the beginning of a longer learning process. By the end, you should know enough to ask better questions and to recognize which topics require more study.
+Treat the Bitcoin Diploma as the beginning of a longer learning process. By the end, you should know enough to ask better questions and to recognize which topics require more study.
 
 You can use the course to:
 
@@ -97,9 +95,9 @@ You can use the course to:
 
 > **Callout – Knowledge comes before action**
 >
-> You do not need to buy bitcoin to complete this Diploma. You also do not need to install a [Bitcoin wallet](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) or use personal funds. Required practical skills may be assessed with a prepared training wallet, simulation, test environment, physical model, or an educator-approved low-stakes activity. Knowledge comes before action.
+> You do not need to buy or otherwise acquire bitcoin to complete the Bitcoin Diploma. You also do not need to install a [Bitcoin wallet](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) or use personal funds. Required practical skills may be assessed with a prepared training wallet, simulation, test environment, physical model, or an educator-approved low-stakes activity. Knowledge comes before action.
 
-If you have limited time or would like a first touch point before getting to grips with Bitcoin, begin with [Introduction to Bitcoin (ITB)](https://myfirstbitcoin.org/learn/programs#intro). It is a shorter course that introduces the basics. After the Diploma, learners who want to teach can continue to the [Educator Training Program (ETP)](https://etp.myfirstbitcoin.org/). These are separate, optional learning paths beyond the Diploma: [ITB](https://myfirstbitcoin.org/learn/programs#intro) is a short primer, the Diploma builds a broader beginner foundation, and [ETP](https://etp.myfirstbitcoin.org/) develops teaching practice. None is required to complete the Diploma. For the Diploma, you need this Student Guide, an educator, and the materials and resources your educator specifies. Explore the [student journey](https://journey.myfirstbitcoin.org/) to see how these opportunities connect and choose your next step.
+If you have limited time or would like a first introduction to Bitcoin, begin with [Introduction to Bitcoin](https://myfirstbitcoin.org/learn/programs#intro). It is a shorter course that introduces the basics. After the Bitcoin Diploma, you may continue to the [Educator Training Program](https://etp.myfirstbitcoin.org/) if you want to develop teaching practice. These are separate, optional learning paths: Introduction to Bitcoin is a short primer, the Bitcoin Diploma builds a broader beginner foundation, and the Educator Training Program develops teaching practice. None is required to complete the Bitcoin Diploma. For the Bitcoin Diploma, you need this Student Guide, an educator, and the materials and resources your educator specifies. Explore the [student journey](https://journey.myfirstbitcoin.org/) to see how these opportunities connect and choose your next step.
 
 <!-- VISUAL: BD-V-077
 ALT: Optional pathway from Introduction to Bitcoin through the Diploma and educator training to community participation.
@@ -108,11 +106,11 @@ ASSET: assets/briefs/bd-v-077-brief.md
 
 ---
 
-## How This Diploma Works
+## How the Bitcoin Diploma works
 
 ### What learners will be able to explain and demonstrate by the end
 
-After completing this Diploma, you should be able to:
+After completing the Bitcoin Diploma, you should be able to:
 
 - explain why people use money, compare two forms, and explain one realistic modern-money [trade-off](https://programs.myfirstbitcoin.org/lexicon/en/#trade-off) (`C1`)
 - explain Bitcoin foundations and rules at a beginner level, including digital copying, shared [verification](https://programs.myfirstbitcoin.org/lexicon/en/#verification), what users, [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node), [miners](https://programs.myfirstbitcoin.org/lexicon/en/#miner), and developers do, how Bitcoin's supply is limited, and how a Bitcoin property could help or limit its use as money (`C2`)
@@ -126,9 +124,7 @@ These competencies are a foundation, not proof of expert skill. Completing the D
 
 ### Flexible learning
 
-My First Bitcoin prefers in-person Diploma sessions because direct contact with an educator and more opportunities for practical activities can make learning more engaging and natural. This is a preference, not a requirement. Online teaching can be more affordable, scalable, and achievable for many people, so the Diploma supports both modes.
-
-Diploma content may be taught in person, online, through a blended course, or with print/PDF materials. The book provides the shared knowledge path. Your educator adds discussion, guided activities, demonstrations, local context, and any required assessment.
+Bitcoin Diploma content may be taught in person, online, through a blended course, or with print/PDF materials. The book provides the shared knowledge path. Your educator adds discussion, guided activities, demonstrations, local context, and any required assessment.
 
 Each module follows the same rhythm:
 
@@ -145,9 +141,9 @@ ASSET: assets/briefs/bd-v-006-brief.md
 
 You will learn more by participating than by reading silently. Some questions do not have one correct answer. What matters is whether you can explain your reasoning, examine evidence, and revise your view when you learn something new.
 
-### Participation expectations
+### Discussion and privacy expectations
 
-Come prepared to think, ask, listen, and contribute. You are not expected to agree with every claim or with every person in your cohort.
+Use discussion to test ideas, ask questions, listen carefully, and explain your reasoning. You do not need to agree with every claim or every person in your cohort.
 
 During discussion:
 
@@ -172,7 +168,7 @@ No prior knowledge is required. The course introduces each required term before 
 
 Basic reading and everyday arithmetic are useful. The most important calculation is that one bitcoin (BTC) can be divided into 100,000,000 smaller units called [satoshis](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat), usually shortened to [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat). **BTC** is the common abbreviation used for amounts of bitcoin. A calculator may help, but advanced mathematics is not required.
 
-If you already use Bitcoin, support your educator, share your experience, and explain ideas to peers in plain language. Teaching others is one way to consolidate your own learning. If you enjoy supporting learners, [contribute feedback](https://forms.myfirstbitcoin.org/feedback) or local community support, and explore the [Educator Training Program (ETP)](https://etp.myfirstbitcoin.org/) to develop teaching practice.
+If you already use Bitcoin, support your educator, share your experience, and explain ideas to peers in plain language. Teaching others is one way to consolidate your own learning. If you enjoy supporting learners, [contribute feedback](https://forms.myfirstbitcoin.org/feedback) or local community support, and explore the [Educator Training Program](https://etp.myfirstbitcoin.org/) to develop teaching practice.
 
 ### Required materials and technology expectations
 
@@ -197,7 +193,7 @@ When it is time to practice with a [Bitcoin wallet](https://programs.myfirstbitc
 
 > **Callout – Learn first; this is not a recommendation**
 >
-> This Diploma is for educational purposes only. It does not provide financial, investment, legal, or tax advice. It does not promise that bitcoin will increase in [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) or recommend that you buy, sell, borrow against, or hold any amount of bitcoin.
+> The Bitcoin Diploma is for educational purposes only. It does not provide financial, investment, legal, or tax advice. It does not promise that bitcoin will increase in [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) or recommend that you buy, sell, borrow against, or hold any amount of bitcoin.
 >
 > The Diploma is Bitcoin-only. Other tokens, trading products, and broader cryptocurrency promotion are outside its scope. This boundary defines the subject of the course; it is not a guarantee about Bitcoin or a recommendation to acquire it.
 >
@@ -233,15 +229,15 @@ ALT: Problem, Solution, Action, and Connect roadmap for the four-module Diploma.
 ASSET: assets/briefs/bd-v-004-brief.md
 -->
 
-| Module | Role | Guiding question | Learner promise |
+| Module | Role | Guiding question | What you will practice |
 | --- | --- | --- | --- |
-| **Module 1: Understanding Money** | **Problem** | How can money break? | You can explain the money **problems** Bitcoin responds to. |
+| **Module 1: Understanding Money** | **Problem** | How do monetary systems work and change? | Explain the money **questions** Bitcoin responds to. |
 | **Module 2: How Bitcoin Works** | **Solution** | Why was Bitcoin created, and how does it respond? | You can explain Bitcoin's **purpose** and key properties. |
 | **Module 3: Using Bitcoin Safely** | **Action** | How do I take responsibility for using and securing Bitcoin? | You can explain beginner **[custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) and safety** concepts and act safely in supported practice. |
 | **Module 4: Bitcoin in Your Community** | **Connect** | How do the problem, solution, and safe action connect to this community? | You can connect the course learning to a local need, alternative, safe task, and responsible next step. |
 
 <!-- VISUAL: BD-V-005
-ALT: Accessible four-module reference table showing role, guiding question, and learner promise.
+ALT: Accessible four-module reference table showing role, guiding question, and learner outcome.
 ASSET: assets/briefs/bd-v-005-brief.md
 -->
 
@@ -258,7 +254,7 @@ The Diploma takes at least eight hours. Four two-hour sessions are the shortest 
 
 **Opening discussion | Suggested time: 10 minutes**
 
-Money shapes everyday choices about food, transport, work, saving, and helping people we care about. It is familiar, but it is complex. Discuss these questions with your cohort.
+Money shapes everyday choices about food, transport, work, saving, and helping people we care about. Discuss these questions with your cohort.
 
 1. Why do people need money?
 2. What makes something money?
@@ -266,7 +262,7 @@ Money shapes everyday choices about food, transport, work, saving, and helping p
 4. Why does the money you use have [value](https://programs.myfirstbitcoin.org/lexicon/en/#value)?
 5. Does your money buy the same amount today as it did in the past?
 
-As you discuss these questions, notice the difference between a fact and a preference. “This note is accepted for taxes” is a fact that can be checked. “This is the best form of money” is a conclusion that needs criteria and evidence.
+As you discuss these questions, notice the difference between a fact and a opinion. “This note is accepted for taxes” is a fact that can be checked. “This is the best form of money” is a conclusion that needs criteria and evidence.
 
 ### Why money exists
 
@@ -304,7 +300,7 @@ Useful money also tends to have several properties:
 | [Portability](https://programs.myfirstbitcoin.org/lexicon/en/#portability) | Can people move or transfer it without excessive difficulty? |
 | [Divisibility](https://programs.myfirstbitcoin.org/lexicon/en/#divisibility) | Can it represent both small and large amounts? |
 | [Fungibility](https://programs.myfirstbitcoin.org/lexicon/en/#fungibility) | Are equal units normally interchangeable? |
-| [Scarcity](https://programs.myfirstbitcoin.org/lexicon/en/#scarcity) | Is its supply difficult to increase? |
+| [Scarcity](https://programs.myfirstbitcoin.org/lexicon/en/#scarcity) | Can its supply increase quickly, and who can change it? |
 | [Acceptability](https://programs.myfirstbitcoin.org/lexicon/en/#acceptability) | Will other people receive it in exchange? |
 | [Verifiability](https://programs.myfirstbitcoin.org/lexicon/en/#verifiability) | Can people check that it is genuine? |
 
@@ -661,7 +657,7 @@ Together, these experiments showed useful pieces of the puzzle. They also clarif
 The whitepaper brought together the features needed for that approach:
 
 1. **A [peer-to-peer network](https://programs.myfirstbitcoin.org/lexicon/en/#peer-to-peer-network):** [transactions](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) are announced directly to a network of participants.
-2. **[Digital signatures](https://programs.myfirstbitcoin.org/lexicon/en/#digital-signature):** only the holder of the relevant [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key) can authorize a spend.
+2. **[Digital signatures](https://programs.myfirstbitcoin.org/lexicon/en/#digital-signature):** a [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key) is secret information that creates a signature to authorize a spend; only its holder can do this.
 3. **Blocks and [mining](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work):** [miners](https://programs.myfirstbitcoin.org/lexicon/en/#miner) collect [transactions](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) into blocks and use [proof of work](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work) to compete to add the next block.
 4. **Independent [verification](https://programs.myfirstbitcoin.org/lexicon/en/#verification):** [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) check [transactions](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) and blocks against Bitcoin's rules.
 5. **A shared history with accumulated [proof of work](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work):** participants recognize the [valid chain](https://programs.myfirstbitcoin.org/lexicon/en/#valid-chain) of [transactions](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) with the most [accumulated work](https://programs.myfirstbitcoin.org/lexicon/en/#accumulated-work) as the shared record.
@@ -746,7 +742,7 @@ Users can still choose [intermediaries](https://programs.myfirstbitcoin.org/lexi
 
 Bitcoin makes direct ownership and transfer possible; it does not force every user to avoid every service. The [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) choice determines who has practical control.
 
-Peer-to-peer transfer can be useful when people are in different places or use different banking systems. It also creates responsibility. A valid [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) sent to the wrong address cannot usually be reversed by a central authority.
+Peer-to-peer transfer can be useful when people are in different places or use different banking systems. It also creates responsibility. A valid [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) sent to the wrong address cannot usually be reversed.
 
 ### Users, [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node), and [miners](https://programs.myfirstbitcoin.org/lexicon/en/#miner)
 
@@ -816,6 +812,7 @@ Bitcoin's rules define a predictable [issuance schedule](https://programs.myfirs
 | 2016 | 420,000 | 12.5 BTC |
 | 2020 | 630,000 | 6.25 BTC |
 | 2024 | 840,000 | 3.125 BTC |
+| Expected 2028 | 1,050,000 | 1.5625 BTC |
 
 The subsidy began at 50 BTC per block. It falls by half in repeated steps until it becomes too small to continue. [Miners](https://programs.myfirstbitcoin.org/lexicon/en/#miner) also receive [transaction fees](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-fee-miner-fee). Over time, fees are expected to become a more important part of [miner](https://programs.myfirstbitcoin.org/lexicon/en/#miner) revenue.
 
@@ -834,13 +831,14 @@ The 21 million limit is enforced by [nodes](https://programs.myfirstbitcoin.org/
 
 **Spot question:** What are the advantages of Bitcoin having a limited supply? What would be the effect of increasing the supply of Bitcoin on [purchasing power](https://programs.myfirstbitcoin.org/lexicon/en/#purchasing-power)? Who would reject an increase in supply?
 
-Finite supply also does not mean every bitcoin is available for sale; some may be held long term or become inaccessible because keys were lost.
+> Light
+> Finite supply also does not mean every bitcoin is available for sale; some may be held long term or become inaccessible because keys were lost.
 
 ### [Satoshis](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat) and unit [bias](https://programs.myfirstbitcoin.org/lexicon/en/#bias)
 
 One bitcoin (1 BTC) can be divided into **100,000,000 [satoshis](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat)**. A [satoshi](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat), often shortened to **[sat](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat)**, is the smallest unit recorded on Bitcoin's base layer.
 
-| Unit | Amount |
+| Bitcoin | Satoshis |
 | --- | ---: |
 | 1 BTC | 100,000,000 [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat) |
 | 0.1 BTC | 10,000,000 [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat) |
@@ -853,7 +851,7 @@ ALT: Bitcoin and satoshi denominations showing equivalent amounts at different u
 ASSET: assets/briefs/bd-v-029-brief.md
 -->
 
-**You do not need to buy or use a whole bitcoin.** Bitcoin software can display an amount in bitcoin or [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat). Many people use [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat) for everyday amounts because whole numbers are easier to read.
+**You do not need to buy or use a whole bitcoin.** Bitcoin software can display an amount in bitcoin or [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat), just as a currency can use a main unit and smaller units. Many people use [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat) for everyday amounts because whole numbers are easier to read. Both on-chain and Lightning payment requests can be shown in sats.
 
 **Unit [bias](https://programs.myfirstbitcoin.org/lexicon/en/#bias)** is the mistaken feeling that a lower [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) per whole unit makes an [asset](https://programs.myfirstbitcoin.org/lexicon/en/#asset) cheaper or more accessible. The number of units is a design choice. Owning 100,000 [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat) and owning 0.001 BTC describe the same amount.
 
@@ -892,7 +890,7 @@ Bitcoin therefore presents both benefits and [trade-offs](https://programs.myfir
 
 **Potential benefits** include direct ownership, predictable supply, global transfer, open participation, transparent rules, and resistance to unilateral censorship.
 
-**[Trade-offs](https://programs.myfirstbitcoin.org/lexicon/en/#trade-off)** include [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) [volatility](https://programs.myfirstbitcoin.org/lexicon/en/#volatility), personal security responsibility, irreversible errors, changing [transaction fees](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-fee-miner-fee), dependence on electricity and communications for digital transfer, public [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) records, and limited acceptance.
+**[Trade-offs](https://programs.myfirstbitcoin.org/lexicon/en/#trade-off)** include [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) [volatility](https://programs.myfirstbitcoin.org/lexicon/en/#volatility), personal security responsibility, the fact that a valid payment is usually difficult or impossible to reverse, changing [transaction fees](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-fee-miner-fee), dependence on electricity and communications for digital transfer, public [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) records, and limited acceptance.
 
 Whether you call Bitcoin [sound money](https://programs.myfirstbitcoin.org/lexicon/en/#sound-money) should follow from your criteria. Compare it with [fiat money](https://programs.myfirstbitcoin.org/lexicon/en/#fiat-money), precious metals, and other [assets](https://programs.myfirstbitcoin.org/lexicon/en/#asset) using the same standards.
 
@@ -902,11 +900,16 @@ Whether you call Bitcoin [sound money](https://programs.myfirstbitcoin.org/lexic
 
 [Digital assets](https://programs.myfirstbitcoin.org/lexicon/en/#digital-asset) can look similar on a screen while relying on very different systems. Bitcoin has public supply rules and no [issuer](https://programs.myfirstbitcoin.org/lexicon/en/#issuer) that can create new bitcoin outside those rules. A stablecoin normally depends on an [issuer](https://programs.myfirstbitcoin.org/lexicon/en/#issuer), reserves, legal claims, or a mechanism intended to track another [currency](https://programs.myfirstbitcoin.org/lexicon/en/#currency). Other crypto-assets may have different people or organizations controlling issuance, changing rules, or operating important parts of the system.
 
-When comparing any [digital asset](https://programs.myfirstbitcoin.org/lexicon/en/#digital-asset), ask: Who controls issuance or changes? What can I verify independently? Who holds the keys? Which company, [issuer](https://programs.myfirstbitcoin.org/lexicon/en/#issuer), or other counterparty must I trust? This Diploma uses the comparison only to clarify Bitcoin. It does not recommend acquiring, trading, or promoting any [asset](https://programs.myfirstbitcoin.org/lexicon/en/#asset).
+When comparing any [digital asset](https://programs.myfirstbitcoin.org/lexicon/en/#digital-asset), ask: Who controls issuance or changes? What can I verify independently? Who holds the keys? Which company, [issuer](https://programs.myfirstbitcoin.org/lexicon/en/#issuer), or other counterparty must I trust? This Bitcoin-only Diploma uses the comparison only to clarify Bitcoin. It does not recommend acquiring, trading, or promoting any [asset](https://programs.myfirstbitcoin.org/lexicon/en/#asset).
 
 The examples below identify commonly used names and tickers only. They are not endorsements, recommendations, or a claim that any example is safe, reliable, or suitable for you.
 
+> Dark
+> Scams, misleading claims, and unsafe services can affect any digital asset or payment pathway. Check the specific asset, service, and custody arrangement rather than assuming that a category is safe or unsafe by itself.
+
 **bitcoin (BTC)** is a [digital asset](https://programs.myfirstbitcoin.org/lexicon/en/#digital-asset) on the [Bitcoin network](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Its [maximum supply](https://programs.myfirstbitcoin.org/lexicon/en/#maximum-supply-hard-cap) and [issuance schedule](https://programs.myfirstbitcoin.org/lexicon/en/#issuance-schedule) are public rules. People can hold bitcoin directly through keys and can independently verify Bitcoin rules by running suitable software. It can be sent globally without needing a central Bitcoin [issuer](https://programs.myfirstbitcoin.org/lexicon/en/#issuer) to approve every [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx). Its market [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) can change sharply, and losing keys or recovery information can mean permanent loss; a mistaken payment is usually hard or impossible to reverse. Fees, [confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation) time, electricity, communications, public [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) records, and local acceptance can also affect use. A wallet provider or exchange can add its own counterparty and [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) risks.
+
+Some projects use Bitcoin's code as a starting point but operate under different rules or networks. These are often called forks. A shared code history does not make a fork part of Bitcoin or give it Bitcoin's rules, participants, or security.
 
 **Stablecoins**, such as USD Coin (USDC) and Tether (USDT), are digital tokens designed to track a reference [value](https://programs.myfirstbitcoin.org/lexicon/en/#value), often one unit of a national [currency](https://programs.myfirstbitcoin.org/lexicon/en/#currency) such as the U.S. dollar. Some may be useful for moving a token [value](https://programs.myfirstbitcoin.org/lexicon/en/#value) between compatible services or networks. Their design, reserves, redemption rights, and controls vary substantially. A stablecoin can lose its intended [value](https://programs.myfirstbitcoin.org/lexicon/en/#value) (“depeg”), and users may depend on an [issuer](https://programs.myfirstbitcoin.org/lexicon/en/#issuer), reserve [custodian](https://programs.myfirstbitcoin.org/lexicon/en/#custodian), bank, legal redemption process, [blockchain](https://programs.myfirstbitcoin.org/lexicon/en/#blockchain) operator, or bridge. [Issuers](https://programs.myfirstbitcoin.org/lexicon/en/#issuer) or platforms may freeze tokens or restrict access where their rules or laws allow. Reserve quality, transparency, insolvency, regulation, smart-contract errors, scams, and network fees are additional risks.
 
@@ -924,7 +927,7 @@ Before using any [digital asset](https://programs.myfirstbitcoin.org/lexicon/en/
 
 Learning how Bitcoin works is different from trying to profit from short-term [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) changes, persuading others to buy a token, or treating speculation as education. Trading and speculation can involve rapid decisions, loss, platform risk, and pressure to act without clear reasoning. Token promotion can create conflicts of interest and reward persuasion rather than clear explanation.
 
-The purpose of this Diploma is to help you explain Bitcoin, ask better questions, and make safer decisions. It does not provide investment advice or tell you what to buy, sell, or hold.
+The purpose of the Bitcoin Diploma is to help you explain Bitcoin, ask better questions, and make safer decisions. It does not provide investment advice or tell you what to buy, sell, or hold.
 
 ### Bitcoin origin timeline
 
@@ -944,13 +947,13 @@ ASSET: assets/briefs/bd-v-025-brief.md
 
 Explore the source records: read the [Bitcoin whitepaper](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-whitepaper) ([source PDF](https://bitcoin.org/bitcoin.pdf)), inspect the [Genesis Block](https://programs.myfirstbitcoin.org/lexicon/en/#genesis-block) ([block record](https://mempool.space/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f)) and the first recorded [person-to-person transaction](https://programs.myfirstbitcoin.org/lexicon/en/#person-to-person-transaction) ([transaction record](https://mempool.space/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16)), and read the [original pizza request](https://bitcointalk.org/index.php?topic=137.0). A [block explorer](https://programs.myfirstbitcoin.org/lexicon/en/#block-explorer) is a convenient interface to public data, not a primary authority over Bitcoin's rules.
 
-**[Satoshi Nakamoto](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-nakamoto)** is the name used by Bitcoin's creator or creators. [Satoshi](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-nakamoto) communicated online, released the software as open source, and later stopped participating. [Satoshi](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-nakamoto)'s real-world identity remains unknown.
+**[Satoshi Nakamoto](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-nakamoto)** is the pseudonym used by Bitcoin's unknown creator or creators. [Satoshi](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-nakamoto) communicated online, released the software as open source, and later stopped participating.
 
 No central company owns Bitcoin. The software and rules continued because other people chose to run, review, and develop them. This origin matters: the creator did not remain as a permanent leader who could issue more coins or approve [transactions](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx).
 
 The [Genesis Block](https://programs.myfirstbitcoin.org/lexicon/en/#genesis-block) and the 2008 financial crisis give Bitcoin important historical context. However, evaluate Bitcoin by its design and operation, not only by a story about its creator.
 
-At the end of this timeline is the event that made Bitcoin possible: in October 2008, [Satoshi Nakamoto](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-nakamoto) announced the [Bitcoin whitepaper](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-whitepaper). It proposed a practical solution to a problem that had challenged digital-money designers for decades—how to make online payments directly between people while preventing [double spending](https://programs.myfirstbitcoin.org/lexicon/en/#double-spending) without putting a central [intermediary](https://programs.myfirstbitcoin.org/lexicon/en/#intermediary) in control.
+In October 2008, [Satoshi Nakamoto](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-nakamoto) announced the [Bitcoin whitepaper](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-whitepaper). Its central question was simple: **how can people make online payments without letting the same digital unit be spent twice or putting one intermediary in control?**
 
 ### Participant empowerment, risk, and responsibility
 
@@ -962,7 +965,8 @@ For a person who chooses [self-custody](https://programs.myfirstbitcoin.org/lexi
 
 [Self-custody](https://programs.myfirstbitcoin.org/lexicon/en/#self-custody) is therefore not just a technical feature. It requires protecting backups, verifying addresses, checking wallet behavior, and creating a recovery plan. The next module explains how to hold and use bitcoin carefully, including how to manage these risks and responsibilities.
 
-Personal responsibility does not mean acting alone or refusing help. A cautious learner can use education, peer review, documented procedures, and small tests without giving anyone access to secret information.
+> Light
+> Personal responsibility does not mean acting alone or refusing help. A cautious learner can use education, peer review, documented procedures, and small tests without giving anyone access to secret information.
 
 ### Review: how does Bitcoin respond to fiat problems?
 
@@ -970,9 +974,9 @@ Pause and consider how Bitcoin changes the trust model: how do public rules, fin
 
 | Fiat-system issue | Bitcoin's response | New responsibility or [trade-off](https://programs.myfirstbitcoin.org/lexicon/en/#trade-off) |
 | --- | --- | --- |
-| Supply can change through policy | Predictable issuance and a 21 million maximum | Users must verify and choose to enforce the rules. |
-| Payments depend on [intermediaries](https://programs.myfirstbitcoin.org/lexicon/en/#intermediary) | Peer-to-peer [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) network | Errors are usually irreversible. |
-| A central [ledger](https://programs.myfirstbitcoin.org/lexicon/en/#ledger) keeper controls records | Independent [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) share and verify a public [ledger](https://programs.myfirstbitcoin.org/lexicon/en/#ledger) | Public records create privacy considerations. |
+| Supply can change through policy | Predictable issuance and a 21 million maximum | Users must verify and choose to enforce the rules |
+| Payments depend on [intermediaries](https://programs.myfirstbitcoin.org/lexicon/en/#intermediary) | Peer-to-peer [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) network | A valid payment is usually difficult or impossible to reverse |
+| A central [ledger](https://programs.myfirstbitcoin.org/lexicon/en/#ledger) keeper controls records | Independent [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) share and verify a public [ledger](https://programs.myfirstbitcoin.org/lexicon/en/#ledger) | Public records can reveal links between transactions, even when they do not identify a person by themselves |
 | Access depends on an institution | Anyone can use the protocol and control keys | The user must secure keys and backups. |
 
 <!-- VISUAL: BD-V-034
@@ -991,13 +995,16 @@ ASSET: assets/briefs/bd-v-034-brief.md
 - Users choose whether to hold or accept bitcoin; [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) verify the rules; [miners](https://programs.myfirstbitcoin.org/lexicon/en/#miner) propose blocks; and developers can propose, but not impose, software changes.
 - Bitcoin has a public supply schedule with a maximum of 21 million BTC, and [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) reject blocks that break this rule.
 - One bitcoin (1 BTC) divides into 100,000,000 [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat), so people can use smaller units without needing a whole bitcoin.
-- Bitcoin can be evaluated as [sound money](https://programs.myfirstbitcoin.org/lexicon/en/#sound-money) using monetary properties, while still recognizing the trade-offs: [price volatility](https://programs.myfirstbitcoin.org/lexicon/en/#volatility), limited acceptance, irreversible payment errors, and the need for increased personal responsibility.
+- Bitcoin can be evaluated as [sound money](https://programs.myfirstbitcoin.org/lexicon/en/#sound-money) using monetary properties, while still recognizing the trade-offs: [price volatility](https://programs.myfirstbitcoin.org/lexicon/en/#volatility), limited acceptance, payments that are usually difficult or impossible to reverse, and the need for increased personal responsibility.
 
 ---
 
 ## Module 3: Using Bitcoin Safely
 
-This module is about safe first actions, not becoming an expert or taking financial risk. You will practice with prepared simulations, test environments, training wallets, or, where your educator judges it appropriate, a low-stakes live activity. You never need to buy bitcoin or use personal funds to complete the Diploma.
+This module is about safe first actions, not becoming an expert or taking financial risk. You will practice with prepared simulations, test environments, training wallets, or, where your educator judges it appropriate, a low-stakes live activity. 
+
+> Dark
+> You do not need to buy bitcoin or use personal funds to complete the Bitcoin Diploma.
 
 What information can you share safely? What information could give another person control? How would you notice that a payment request has changed? These questions matter before any wallet, payment, or backup becomes important.
 
@@ -1021,7 +1028,7 @@ Use the explanations below to prepare for the three guided practices: a receive-
 
 > **Definition - [Bitcoin wallet](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet)**
 >
-> A [Bitcoin wallet](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) is a tool that manages the information needed to receive and authorize Bitcoin [transactions](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx). It may be an app, a dedicated device, or a service. Bitcoin is recorded on the shared [ledger](https://programs.myfirstbitcoin.org/lexicon/en/#ledger); it is not stored inside a phone.
+> A [Bitcoin wallet](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) is a tool that manages the information needed to receive and authorize Bitcoin [transactions](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx). It may be an application, a dedicated device, or a service. Bitcoin is recorded on the shared [ledger](https://programs.myfirstbitcoin.org/lexicon/en/#ledger); it is not stored on a phone or other device.
 
 What would happen if your phone stopped working? The Bitcoin record would still exist, but access would depend on the keys and recovery method the wallet uses. A wallet helps create receiving information, show balances and [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) history, and authorize spending. It does not remove the need to understand who controls access.
 
@@ -1055,14 +1062,15 @@ ASSET: assets/briefs/bd-v-036-brief.md
 
 If you want to receive an [on-chain payment](https://programs.myfirstbitcoin.org/lexicon/en/#on-chain-payment), where should the address come from? Open the intended wallet and use its receive screen. A sender can scan the QR code or copy the address. This avoids the mistakes that can happen when long strings are typed by hand.
 
-For every payment request, confirm the intended payment method. An on-chain address and a [Lightning invoice](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-invoice) are different. After scanning or copying, compare the destination with the trusted receiving screen before approving a payment. Why check after copying? Malicious software can replace copied address information. A new on-chain address for a new receipt can improve [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy).
+For every payment request, confirm the intended payment method. An on-chain address and a [Lightning invoice](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-invoice) are different. After scanning or copying, compare the destination with the trusted receiving screen before approving a payment. Why check after copying? Malicious software can replace copied address information. A new on-chain address for a new receipt can improve [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy). Reusing one address can make separate payments easier for other people to link together. A fresh address reduces that easy link; it does not make a payment anonymous.
 
 <!-- VISUAL: BD-V-078
 ALT: My First Bitcoin test Lightning invoice and matching sample QR code with payment method, amount, recipient, and expiry.
 ASSET: assets/briefs/bd-v-078-brief.md
 -->
 
-When a payment matters, do not decide that an address is safe only because it looks familiar. Confirm the intended recipient, correct [Bitcoin network](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-network), destination, and payment method. Use a small test first when the process or amount is unfamiliar.
+> Light
+> When a payment matters, do not decide that an address is safe only because it looks familiar. Confirm the intended recipient, correct [Bitcoin network](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-network), destination, and payment method. Use a small test first when the process or amount is unfamiliar.
 
 ### Keys
 
@@ -1070,7 +1078,7 @@ Bitcoin ownership is enforced through cryptographic keys.
 
 > **Definition - [Private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key)**
 >
-> A [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key) is secret information that allows a wallet to create a valid [digital signature](https://programs.myfirstbitcoin.org/lexicon/en/#digital-signature). That signature authorizes the spending of bitcoin controlled by the corresponding key. Anyone who obtains the [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key) can usually spend those funds.
+> A [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key) is secret information that allows a wallet to create valid [digital signatures](https://programs.myfirstbitcoin.org/lexicon/en/#digital-signature). A signature authorizes the spending of bitcoin controlled by the corresponding key. Anyone who obtains the [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key) can usually spend those funds.
 
 A **[public key](https://programs.myfirstbitcoin.org/lexicon/en/#public-key)** is mathematically related to the [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key). It helps verify a signature without revealing the [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key). Addresses are created from [public-key](https://programs.myfirstbitcoin.org/lexicon/en/#public-key) information.
 
@@ -1087,7 +1095,7 @@ No legitimate educator, wallet company, exchange employee, technical-support wor
 **Try it:** Sort prepared examples into three groups: safe to share for receiving, secret spending information, and information that may be public but should still be kept private when linked to a person.
 
 <!-- VISUAL: BD-V-037
-ALT: Private key deriving public-key receiving information, with signing and verification and a warning never to share the private key.
+ALT: Public receiving information (an address or payment request) separated from secret spending information (a private key, seed phrase, password, or recovery code), with signing and verification and a warning never to share secrets.
 ASSET: assets/briefs/bd-v-037-brief.md
 -->
 
@@ -1223,13 +1231,13 @@ ALT: Safe receiving flow showing wallet selection, payment method, public reques
 ASSET: assets/briefs/bd-v-044-brief.md
 -->
 
-A message or screenshot that says “sent” is not proof. What evidence can you see yourself? Check the receiving wallet or approved [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) view. For [on-chain payments](https://programs.myfirstbitcoin.org/lexicon/en/#on-chain-payment), a wallet may first show the [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) as pending. [Confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation) status adds settlement confidence; it does not repair a wrong address or scam. A wallet may offer a fresh address for a new receipt; older addresses may still work, but fresh addresses can reduce easy links between payments.
+A message or screenshot that says “sent” is not proof. What evidence can you see yourself? Check the receiving wallet or approved [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) view. For [on-chain payments](https://programs.myfirstbitcoin.org/lexicon/en/#on-chain-payment), a wallet may first show the [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) as pending. [Confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation) status adds settlement confidence; it does not repair a wrong address or scam. A wallet may offer a fresh address for a new receipt; older addresses may still work, but reusing one address can make separate payments easier to link. A fresh address reduces that easy link; it does not make a payment anonymous.
 
 ### Sending bitcoin
 
 **Practice 2: pause and check before sending**
 
-Sending needs more care because a valid Bitcoin [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) is usually irreversible. Before you touch the approve button, can you explain who will receive the payment and why?
+Sending needs more care because a valid Bitcoin [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) is usually difficult or impossible to reverse. Before you touch the approve button, can you explain who will receive the payment and why?
 
 > **Callout – Stop and verify before sending**
 >
@@ -1259,7 +1267,7 @@ If the destination changes unexpectedly, the request becomes urgent, or anyone a
 
 What can this public information show, and what can it not show? It can show a [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx)'s status, destination, amount, fee, and [confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation) count; it cannot prove why a payment happened or whether a person is trustworthy. An on-chain [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) is unconfirmed after it is [broadcast](https://programs.myfirstbitcoin.org/lexicon/en/#broadcast) and gains its [first confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#first-confirmation) when included in a valid block. Later blocks add confidence to its place in the record, but they do not fix a wrong destination or a scam. There is no universal [confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation) count for every payment; the suitable check depends on the amount and risk.
 
-To inspect a prepared [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx), obtain its *[txid](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-identifier-txid)*, open a trusted explorer for the intended [Bitcoin network](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-network), and check the status, destination, amount, fee, and [confirmations](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation). An explorer is only an interface. Searching an address or *[txid](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-identifier-txid)* may reveal to its operator that your device is interested in that information. For practice, use an educator-prepared [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) or printed screenshot. Do not search a learner's personal address or [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) on a public service.
+To inspect a prepared [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx), obtain its *[txid](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-identifier-txid)*, open a trusted explorer for the intended [Bitcoin network](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-network), and check the status, destination, amount, fee, and [confirmations](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation). An explorer is only an interface. Searching an address or *[txid](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-identifier-txid)* may reveal to its operator that your device is interested in that information. For practice, use an educator-prepared [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) or printed screenshot. Do not search a learner's personal address or [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) on a public service. If you later research a personal payment, learn the privacy and security trade-offs of your connection before using a public service.
 
 > **Callout – Public data is not proof of identity or honesty**
 >
@@ -1291,7 +1299,7 @@ Protect recovery information: a [seed phrase](https://programs.myfirstbitcoin.or
 
 #### Awareness, not financial advice
 
-People may receive bitcoin through work, a community payment, a peer exchange, an ATM, or a service. Each pathway has different costs, [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody), privacy, fraud, legal, and operational [trade-offs](https://programs.myfirstbitcoin.org/lexicon/en/#trade-off). This Diploma does not recommend a provider or tell you which path to use.
+People may receive bitcoin through work, a community payment, a peer exchange, an ATM, or a service. Each pathway has different costs, [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody), privacy, fraud, legal, and operational [trade-offs](https://programs.myfirstbitcoin.org/lexicon/en/#trade-off). The Bitcoin Diploma does not recommend a provider or tell you which path to use.
 
 > **Light - Compare a local payment route**
 >
@@ -1361,7 +1369,7 @@ Imagine that a prepared scenario offers both payment paths. Which request can th
 
 ### Practical competency check observed by an educator
 
-Before assessment, you will receive supported practice and know the task and safety boundaries. Your educator—not an app, attendance record, or self-report—will observe you using an approved prepared, simulated, or low-stakes environment.
+Before assessment, you will receive supported practice and know the task and safety boundaries. Your educator—not attendance or self-report—will observe you using an approved prepared, simulated, or low-stakes environment.
 
 You will show that you can open or navigate the prepared wallet, complete an approved first-access pathway, locate and check receiving information, and receive bitcoin or safely simulate receipt. You will also complete or safely simulate a receive or send flow and show recovery readiness with prepared materials while keeping all secrets private. You may practice responding safely to a mismatch or scam through guided scenarios. If you are not yet ready, you should receive feedback, more practice, and another opportunity to demonstrate the skill.
 
@@ -1381,11 +1389,11 @@ Imagine that a friend sends you a payment request while an unfamiliar support ac
 
 #### Key takeaways
 
-- A wallet manages the keys and information used to receive, check, and spend bitcoin; it does not store bitcoin inside a phone or device.
+- A wallet manages the keys and information used to receive, check, and spend bitcoin; bitcoin is not stored on a phone or other device.
 - Addresses and payment requests can be shared to receive bitcoin, but [private keys](https://programs.myfirstbitcoin.org/lexicon/en/#private-key) and [seed phrases](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase) must remain secret.
 - A [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase) can provide full recovery access, so it must stay offline, private, and out of websites and messages.
 - Custodial and self-custodial arrangements create different recovery and control responsibilities. [Hardware wallets](https://programs.myfirstbitcoin.org/lexicon/en/#hardware-wallet) still depend on a safe backup.
-- Before receiving or sending, check the correct payment method, destination, amount, and final status; a valid send is usually irreversible.
+- Before receiving or sending, check the correct payment method, destination, amount, and final status; a valid send is usually difficult or impossible to reverse.
 - Start with safe practice or small approved amounts. Pause when a request creates urgency, secrecy, or pressure.
 
 ---
@@ -1397,7 +1405,7 @@ ALT: Local learning choices and learner notes for the educator-curated Connect m
 ASSET: assets/briefs/bd-v-055-brief.md
 -->
 
-This is the **Connect** stage of the Diploma. You will connect the money problem, Bitcoin response, and safe-use responsibility from **Modules 1–3** to a local need or opportunity, a realistic alternative, and a safe practical task. You are not expected to adopt Bitcoin or conclude that it is the best option in every local situation.
+This is the **Connect** stage of the Bitcoin Diploma. You will connect the money problem, Bitcoin response, and safe-use responsibility from **Modules 1–3** to a local need or opportunity, a realistic alternative, and a safe practical task. You are not expected to adopt Bitcoin or conclude that it is the best option in every local situation.
 
 Bitcoin is one global protocol, but people use it under different local conditions. Internet access, phones, laws, taxes, [currencies](https://programs.myfirstbitcoin.org/lexicon/en/#currency), banks, merchants, fees, language, safety, and technical support all affect what is useful.
 
@@ -1407,14 +1415,12 @@ Use the **Module 3** safety checklist throughout every local module. Using bitco
 
 Record the focus of your **Module 4**:
 
-| Local learning choice | Your notes |
+| Local learning focus | Your notes |
 | --- | --- |
-| Module or workshop |  |
 | Local problem or opportunity |  |
-| Tool, resource, or scenario |  |
-| Main benefit to examine |  |
-| Main risk to examine |  |
-| Evidence or result |  |
+| Realistic alternative |  |
+| Safe practice or scenario |  |
+| Main benefit and risk |  |
 | Safe next step |  |
 
 ### Your local Module 4
@@ -1466,7 +1472,7 @@ Your workshop may include:
 - comparing fees and received amounts across local pathways
 - identifying scam signals
 - planning a merchant payment or community donation flow
-- mapping local resources or payment relationships
+- identifying and checking local resources for a defined purpose
 
 Before any live demonstration, make sure you know:
 
@@ -1528,7 +1534,7 @@ Named tools used in class are local examples, not endorsements by My First Bitco
 | Recovery method |  |
 | Alternative |  |
 
-### Lightning payments where locally appropriate
+### Lightning payments
 
 <!-- VISUAL: BD-V-080
 ALT: Lightning address and payment-request distinction for a safe local payment practice.
@@ -1796,40 +1802,9 @@ For each use case, define success in terms of the problem solved, not the number
 
 ### Local resource maps and community discovery
 
-<!-- VISUAL: BD-V-067
-ALT: Local resource-discovery map with verification dates, contacts, purposes, and safety notes.
-ASSET: assets/briefs/bd-v-067-brief.md
--->
+Detailed local-resource activities, record tables, and changeable listings belong on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/?search=map). Maps and community directories can help you find merchants, educators, meetups, and circular economies, but listings can be incomplete or outdated.
 
-<!-- VISUAL: BD-V-068
-ALT: Local resource record table for education, merchants, technical support, exchanges, and legal or tax information.
-ASSET: assets/briefs/bd-v-068-brief.md
--->
-
-[Maps and community directories](https://programs.myfirstbitcoin.org/resources/?search=map) can help learners find merchants, educators, meetups, and circular economies. Listings can be incomplete or outdated. A place shown on a map may have stopped accepting Bitcoin, changed its wallet, or closed.
-
-Use a resource map safely:
-
-1. Check when the listing was last verified.
-2. Contact the merchant or organizer before making a special journey.
-3. Ask which payment method is accepted.
-4. Bring an alternative way to pay.
-5. Do not publish another person's location or details without permission.
-6. Submit corrections only when the information has been checked.
-
-A local community can provide practical support, but membership is not proof of trustworthiness. Do not reveal [seed phrases](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase), balances, home addresses, or security arrangements at a meetup. Be cautious when a new contact offers investment management, private exchange, guaranteed returns, or urgent help.
-
-Record your local resources:
-
-| Resource | Purpose | Date verified | Contact or location | Safety note |
-| --- | --- | --- | --- | --- |
-| Education group |  |  |  |  |
-| Merchant directory |  |  |  |  |
-| Technical support |  |  |  |  |
-| Local exchange information |  |  |  |  |
-| Legal or tax information |  |  |  |  |
-
-Good community discovery helps you find people who explain, verify, and respect your choices. It should not make you dependent on one leader.
+Before relying on a listing, check when it was verified, confirm the information independently, and bring an alternative way to pay or participate. A local community can provide practical support, but membership is not proof of trustworthiness. Do not reveal [seed phrases](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase), balances, home addresses, or security arrangements at a meetup. Be cautious when a new contact offers investment management, private exchange, guaranteed returns, or urgent help.
 
 ### Review: connect this to your community
 
@@ -1859,9 +1834,9 @@ Complete this review individually, then compare your reasoning with your team or
 
 ---
 
-## Next Steps
+## Optional next steps
 
-Every programme and opportunity in this section is optional further learning beyond the Diploma. You do not need to follow any of these links to complete the Diploma.
+Every programme and opportunity in this section is optional further learning beyond the Bitcoin Diploma. You do not need to follow any of these links to complete the Bitcoin Diploma.
 
 ### Share your Diploma experience
 
@@ -1875,13 +1850,13 @@ Found an error, unclear wording, or a translation improvement? Use the official 
 
 Choose a way to help and use the relevant official form to get started:
 
-- **[Volunteer](https://forms.myfirstbitcoin.org/volunteer):** offer time or skills to support the Diploma, educators, or local learning communities.
+- **[Volunteer](https://forms.myfirstbitcoin.org/volunteer):** offer time or skills to support the Bitcoin Diploma, educators, or local learning communities.
 - **[Contribute to the Resources Hub](https://forms.myfirstbitcoin.org/submit-resource):** share a useful Bitcoin education resource, local learning resource, or improvement that others can review and use.
-- **[Explore the Educator Training Program (ETP)](https://etp.myfirstbitcoin.org/):** learn how My First Bitcoin prepares people to teach the Bitcoin Diploma.
+- **[Explore the Educator Training Program](https://etp.myfirstbitcoin.org/):** learn how My First Bitcoin prepares people to teach the Bitcoin Diploma.
 
 Use the official forms only. Do not include [seed phrases](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase), [private keys](https://programs.myfirstbitcoin.org/lexicon/en/#private-key), wallet balances, or other sensitive personal or security information in a submission.
 
-### Want to teach this Diploma?
+### Want to teach the Bitcoin Diploma?
 
 The Educator Guide helps you prepare lessons, facilitate activities, adapt examples to your community, support safe practice, and assess what learners can do. [Read the Educator Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/en/educator-guide/) to plan your teaching.
 
@@ -1927,7 +1902,7 @@ The Bitcoin Diploma is a living open-source curriculum. Corrections and improvem
 
 The canonical curriculum source is:
 
-[github.com/MyFirstBitcoin/mfb-curriculum](https://github.com/MyFirstBitcoin/mfb-curriculum)
+[Curriculum: github.com/MyFirstBitcoin/mfb-curriculum](https://github.com/MyFirstBitcoin/mfb-curriculum)
 
 Check the edition or release information before teaching, translating, or adapting the material. If you find an error, use the repository's current contribution or issue process.
 
@@ -1940,21 +1915,6 @@ When adapting this work:
 - state what you changed
 - attribute My First Bitcoin
 - publish the adaptation under the required open-source license
-
-### Support My First Bitcoin
-
-<!-- VISUAL: BD-V-074
-ALT: Optional support QR panel beside the official donation link and payment-safety reminder.
-ASSET: assets/briefs/bd-v-074-brief.md
--->
-
-My First Bitcoin's educational resources are free and open source. Voluntary support helps maintain the curriculum, train educators, and expand access.
-
-Visit the official donation page if you choose to contribute:
-
-[Support My First Bitcoin](https://myfirstbitcoin.org/support-us)
-
-A printed edition may place one official support QR code here. Before paying, confirm that the QR destination uses the official domain or an official payment page linked from it. Check the recipient and amount in your wallet. A donation is optional and is not required for course completion or certification.
 
 ### Certificate meaning and issuer
 
@@ -1971,6 +1931,12 @@ If the issuing educator provides a verification method, use only the instruction
 
 Your most important result is not the certificate. It is the ability to explain money and Bitcoin clearly, recognize risk, verify before acting, and continue learning independently.
 
-## Continue learning
+### Support free Bitcoin education
 
-Explore the [Bitcoin Diploma AI assistant](https://ai.myfirstbitcoin.org) to ask follow-up questions and revisit course concepts. Use it as an optional study aid, check its explanations against this guide, and discuss anything unclear with your educator. Never enter [seed phrases](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase), [private keys](https://programs.myfirstbitcoin.org/lexicon/en/#private-key), or personal financial information.
+My First Bitcoin's educational resources are free and open source. Voluntary support helps maintain the curriculum, train educators, and expand access.
+
+If you choose to contribute, use the official donation page:
+
+[Support My First Bitcoin](https://myfirstbitcoin.org/support-us)
+
+Before paying, confirm that the destination uses the official domain or an official payment page linked from it. Check the recipient and amount in your wallet. A donation is optional and is not required for course completion or certification.
