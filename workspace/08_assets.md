@@ -285,11 +285,11 @@ Each index row identifies an SG or EG location by guide heading and nearby text.
 | `BD-V-005` | Table (Replacement) | SG | The four-row table under `### How the 4-module learning path is organized` |
 | `BD-V-007` | Table (Replacement) | SG | The `Property / Question to ask` table under `### Functions and properties of money` |
 | `BD-V-014` | Table (Replacement) | SG | The `Participant / Main role` table under `### Fiat money` |
-| `BD-V-020` | Table (Replacement) | SG | The comparison table under `### Why people look for alternatives` |
+| `BD-V-020` | Table (Replacement) | SG | The comparison table under `### Alternatives for saving and holding value` |
 | `BD-V-029` | Table (Replacement) | SG | The unit table under `### Satoshis and unit bias` |
 | `BD-V-033` | Table (Replacement) | SG | The property table under `### Bitcoin as sound digital money` |
 | `BD-V-025` | Table (Replacement) | SG | The date/event table under `### Bitcoin origin timeline` |
-| `BD-V-034` | Table (Replacement) | SG | The `Fiat-system issue / Bitcoin's response / New responsibility or trade-off` table under `### Review: how does Bitcoin respond to fiat problems?` |
+| `BD-V-034` | Table (Replacement) | SG | The `Potential modern money-system flaw / Bitcoin's response / New responsibility or trade-off` table under `### Review: how does Bitcoin respond to modern money-system flaws?` |
 | `BD-V-040` | Table (Replacement) | SG | The `Question / Custodial use / Self-custodial use` table under `### Custodial and non-custodial use` |
 | `BD-V-041` | Table (Replacement) | SG | The `Arrangement / Common strength / Responsibility to remember` table under `### Hot and cold wallets` |
 | `BD-V-049` | Table (Replacement) | SG | The `Risk area / Question to ask` table under `### Acquiring and exchanging bitcoin` |

@@ -35,7 +35,7 @@
 - Fractional reserve banking
 - Inflation and purchasing power
 - CBDCs as digital fiat, not decentralized digital money
-- Why people look for alternatives (Precious Metals, Real Estate, Stocks)
+- Alternatives for saving and holding value (Precious Metals, Real Estate, Stocks)
 - Review: how can money break?
 
 ## 4. Module 2: How Bitcoin Works
@@ -43,7 +43,7 @@
 - Why Bitcoin was created
 - The search for digital and decentralized money
 - Early digital-money attempts and the double-spend problem
-- Digital scarcity and credible scarcity
+- Digital scarcity and independently verifiable supply
 - Decentralization
 - Peer-to-peer transfer
 - Don’t trust, verify: public-rule verification and personal responsibility
@@ -54,7 +54,7 @@
 - Bitcoin as sound digital money
 - Bitcoin origin timeline
 - Personal responsibility as bridge to self-custody
-- Review: how does Bitcoin respond to fiat problems?
+- Review: how does Bitcoin respond to modern money-system flaws?
 
 ## 5. Module 3: Using Bitcoin Safely
 
