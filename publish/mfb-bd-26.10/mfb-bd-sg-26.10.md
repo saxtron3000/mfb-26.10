@@ -993,6 +993,8 @@ ASSET: assets/briefs/bd-v-034-brief.md
 -->
 | A central party orders digital payments | [Proof of work](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work) orders [transactions](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) without a central operator | [Mining](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work) requires equipment and energy. |
 
+**Key thought:** Based on what you have learned about Bitcoin in this module, does it have [value](https://programs.myfirstbitcoin.org/lexicon/en/#value) to you? Does the current [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) of bitcoin represent its [value](https://programs.myfirstbitcoin.org/lexicon/en/#value)?
+
 #### Key takeaways
 
 - Bitcoin was created to make digital transfer possible without a central [ledger](https://programs.myfirstbitcoin.org/lexicon/en/#ledger) keeper while preventing [double spending](https://programs.myfirstbitcoin.org/lexicon/en/#double-spending).
