@@ -141,7 +141,7 @@ ASSET: assets/briefs/bd-v-006-brief.md
 
 You will learn more by participating than by reading silently. Some questions do not have one correct answer. What matters is whether you can explain your reasoning, examine evidence, and revise your view when you learn something new.
 
-### Discussion and privacy expectations
+### Discussion and [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy) expectations
 
 Use discussion to test ideas, ask questions, listen carefully, and explain your reasoning. You do not need to agree with every claim or every person in your cohort.
 
@@ -311,7 +311,7 @@ ASSET: assets/briefs/bd-v-007-brief.md
 
 No form of money scores perfectly.
 
-People also compare money by its **[soundness](https://programs.myfirstbitcoin.org/lexicon/en/#sound-money)**: whether its supply is difficult to expand and whether its properties support reliable use across time. “Sound money” is a judgment, not a fact label. To use it well, state the criteria and compare different forms of money by the same standards.
+People also compare money by its **[soundness](https://programs.myfirstbitcoin.org/lexicon/en/#sound-money)**: whether its supply is difficult to expand and whether its properties support reliable use across time. “[Sound money](https://programs.myfirstbitcoin.org/lexicon/en/#sound-money)” is a judgment, not a fact label. To use it well, state the criteria and compare different forms of money by the same standards.
 
 <!-- VISUAL: BD-V-008
 ALT: Linked diagram of money’s three functions and seven useful properties.
@@ -358,7 +358,7 @@ Resources are limited, while human wants are not.
 
 > **Definition - [Scarcity](https://programs.myfirstbitcoin.org/lexicon/en/#scarcity)**
 >
-> [Scarcity](https://programs.myfirstbitcoin.org/lexicon/en/#scarcity) means that choosing one use of a resource prevents another use. Time, land, energy, good health, tools, and sound money are all scarce.
+> [Scarcity](https://programs.myfirstbitcoin.org/lexicon/en/#scarcity) means that choosing one use of a resource prevents another use. Time, land, energy, good health, tools, and [sound money](https://programs.myfirstbitcoin.org/lexicon/en/#sound-money) are all scarce.
 
 The [value](https://programs.myfirstbitcoin.org/lexicon/en/#value) of a good is not contained inside the object. People [value](https://programs.myfirstbitcoin.org/lexicon/en/#value) goods according to their needs, preferences, information, and circumstances. Clean water may be inexpensive near a safe public source and extremely valuable during a shortage.
 
@@ -414,7 +414,7 @@ This history shows repeated [trade-offs](https://programs.myfirstbitcoin.org/lex
 >
 > [Fiat money](https://programs.myfirstbitcoin.org/lexicon/en/#fiat-money) is [currency](https://programs.myfirstbitcoin.org/lexicon/en/#currency) issued under government authority, usually through a [central bank](https://programs.myfirstbitcoin.org/lexicon/en/#central-bank), that is not redeemable for a fixed amount of a commodity such as [gold](https://programs.myfirstbitcoin.org/lexicon/en/#gold). Governments support—and in some contexts impose—its use by requiring it for taxes and by setting legal-tender rules. The exact rules for accepting payments and settling [debts](https://programs.myfirstbitcoin.org/lexicon/en/#debt) vary by jurisdiction.
 
-[Fiat money](https://programs.myfirstbitcoin.org/lexicon/en/#fiat-money) works because people, businesses, banks, and governments accept it. All money can develop [network effects](https://programs.myfirstbitcoin.org/lexicon/en/#network-effect): people use it because other people use it and [prices](https://programs.myfirstbitcoin.org/lexicon/en/#price) are stated in it. For fiat money, tax obligations, legal-tender rules, and institutional payment systems can reinforce that network.
+[Fiat money](https://programs.myfirstbitcoin.org/lexicon/en/#fiat-money) works because people, businesses, banks, and governments accept it. All money can develop [network effects](https://programs.myfirstbitcoin.org/lexicon/en/#network-effect): people use it because other people use it and [prices](https://programs.myfirstbitcoin.org/lexicon/en/#price) are stated in it. For [fiat money](https://programs.myfirstbitcoin.org/lexicon/en/#fiat-money), tax obligations, legal-tender rules, and institutional payment systems can reinforce that network.
 
 The fiat system has several main participants:
 
@@ -451,7 +451,7 @@ Fiat systems can provide convenient payments, flexible credit, and tools for res
 
 ### [Fractional reserve banking](https://programs.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking)
 
-When you deposit cash in a bank, the bank records a [liability](https://programs.myfirstbitcoin.org/lexicon/en/#liability) to you: it owes you the account balance. The bank does not normally keep every unit of every deposit as physical cash. Instead, it keeps [liquid reserves](https://programs.myfirstbitcoin.org/lexicon/en/#liquidity)—cash or assets it can use quickly for payments—and uses its balance sheet to make loans and other investments.
+When you deposit cash in a bank, the bank records a [liability](https://programs.myfirstbitcoin.org/lexicon/en/#liability) to you: it owes you the account balance. The bank does not normally keep every unit of every deposit as physical cash. Instead, it keeps [liquid reserves](https://programs.myfirstbitcoin.org/lexicon/en/#liquidity)—cash or [assets](https://programs.myfirstbitcoin.org/lexicon/en/#asset) it can use quickly for payments—and uses its balance sheet to make loans and other investments.
 
 When a commercial bank approves a loan, it usually creates a new deposit in the borrower's account. This expands the amount of bank [deposit money](https://programs.myfirstbitcoin.org/lexicon/en/#bank-deposit). When the principal is repaid, that [deposit money](https://programs.myfirstbitcoin.org/lexicon/en/#bank-deposit) is reduced. Banks are limited by [capital](https://programs.myfirstbitcoin.org/lexicon/en/#capital) rules, [liquidity](https://programs.myfirstbitcoin.org/lexicon/en/#liquidity) needs, [credit risk](https://programs.myfirstbitcoin.org/lexicon/en/#credit-risk), regulation, the cost of funding, and demand from [qualified borrowers](https://programs.myfirstbitcoin.org/lexicon/en/#qualified-borrower).
 
@@ -464,12 +464,12 @@ Banks generally seek profit by earning interest and fees on loans and investment
 
 > **Definition - [Fractional reserve banking](https://programs.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking)**
 >
-> [Fractional reserve banking](https://programs.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) describes banking in which banks hold only a fraction of their deposit obligations as immediately accessible reserves while making loans and holding other assets. The required reserve level and other limits differ between countries and can change over time.
+> [Fractional reserve banking](https://programs.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) describes banking in which banks hold only a fraction of their deposit obligations as immediately accessible reserves while making loans and holding other [assets](https://programs.myfirstbitcoin.org/lexicon/en/#asset). The required reserve level and other limits differ between countries and can change over time.
 
 This creates two important risks:
 
-- **[Liquidity risk](https://programs.myfirstbitcoin.org/lexicon/en/#liquidity-risk):** A bank may own long-term loans that are expected to be repaid but still lack enough cash or quickly usable assets for many withdrawals today.
-- **[Solvency risk](https://programs.myfirstbitcoin.org/lexicon/en/#solvency-risk):** Failed loans or falling [asset](https://programs.myfirstbitcoin.org/lexicon/en/#asset) [values](https://programs.myfirstbitcoin.org/lexicon/en/#value) may leave the bank's total [assets](https://programs.myfirstbitcoin.org/lexicon/en/#asset) worth less than what it owes. In that case, the bank cannot fully meet its obligations even if it has time to sell assets.
+- **[Liquidity risk](https://programs.myfirstbitcoin.org/lexicon/en/#liquidity-risk):** A bank may own long-term loans that are expected to be repaid but still lack enough cash or quickly usable [assets](https://programs.myfirstbitcoin.org/lexicon/en/#asset) for many withdrawals today.
+- **[Solvency risk](https://programs.myfirstbitcoin.org/lexicon/en/#solvency-risk):** Failed loans or falling [asset](https://programs.myfirstbitcoin.org/lexicon/en/#asset) [values](https://programs.myfirstbitcoin.org/lexicon/en/#value) may leave the bank's total [assets](https://programs.myfirstbitcoin.org/lexicon/en/#asset) worth less than what it owes. In that case, the bank cannot fully meet its obligations even if it has time to sell [assets](https://programs.myfirstbitcoin.org/lexicon/en/#asset).
 
 <!-- VISUAL: BD-V-017
 ALT: Side-by-side fictional examples distinguishing liquidity risk from solvency risk.
@@ -486,7 +486,7 @@ The central lesson is not that every bank is about to fail. It is that a bank ba
 
 > **Definition - [Price inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation)**
 >
-> People use the term “inflation” in more than one way. In this guide, [price inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation) means a sustained increase in the general [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) level of goods and services. If your income and savings do not rise as quickly as [prices](https://programs.myfirstbitcoin.org/lexicon/en/#price), your money buys less.
+> People use the term “[inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation)” in more than one way. In this guide, [price inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation) means a sustained increase in the general [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) level of goods and services. If your income and savings do not rise as quickly as [prices](https://programs.myfirstbitcoin.org/lexicon/en/#price), your money buys less.
 
 > **Definition - [Purchasing power](https://programs.myfirstbitcoin.org/lexicon/en/#purchasing-power)**
 >
@@ -497,7 +497,7 @@ ALT: Fixed amount of money buying a smaller basket after prices rise.
 ASSET: assets/briefs/bd-v-018-brief.md
 -->
 
-Some people use “inflation” to mean an expansion of money and credit; that expansion can contribute to price inflation, alongside supply disruptions, changes in demand, [currency](https://programs.myfirstbitcoin.org/lexicon/en/#currency) weakness, taxes, regulation, and changes in production costs. The causes and effects are often debated. Avoid explanations that assign every [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) change to one factor.
+Some people use “[inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation)” to mean an expansion of money and credit; that expansion can contribute to [price inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation), alongside supply disruptions, changes in demand, [currency](https://programs.myfirstbitcoin.org/lexicon/en/#currency) weakness, taxes, regulation, and changes in production costs. The causes and effects are often debated. Avoid explanations that assign every [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) change to one factor.
 
 [Inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation) does not affect everyone equally. A person who holds mainly cash may lose [purchasing power](https://programs.myfirstbitcoin.org/lexicon/en/#purchasing-power). A person who owns an [asset](https://programs.myfirstbitcoin.org/lexicon/en/#asset) that rises in [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) may be partly protected. Borrowers may repay fixed [debts](https://programs.myfirstbitcoin.org/lexicon/en/#debt) with money that buys less, while lenders may receive less real [value](https://programs.myfirstbitcoin.org/lexicon/en/#value) than expected. Wages and [prices](https://programs.myfirstbitcoin.org/lexicon/en/#price) also adjust at different speeds.
 
@@ -515,9 +515,9 @@ A **reserve [currency](https://programs.myfirstbitcoin.org/lexicon/en/#currency)
 
 After the Second World War, the United States had a large economy and much of its financial capacity intact. The 1944 [Bretton Woods](https://programs.myfirstbitcoin.org/lexicon/en/#bretton-woods) Agreement then organized a postwar system in which many [currencies](https://programs.myfirstbitcoin.org/lexicon/en/#currency) were linked to the dollar and the dollar was officially linked to [gold](https://programs.myfirstbitcoin.org/lexicon/en/#gold), placing the dollar at the center of international payments.
 
-In 1971, President Nixon ended the official exchange of dollars for [gold](https://programs.myfirstbitcoin.org/lexicon/en/#gold) by foreign governments and [central banks](https://programs.myfirstbitcoin.org/lexicon/en/#central-bank). This ended the dollar's official gold convertibility and brought the [Bretton Woods](https://programs.myfirstbitcoin.org/lexicon/en/#bretton-woods) system to an end. The dollar nevertheless remained widely used because of its established role in trade and finance, the size of the U.S. economy, and the depth of U.S. financial markets. It remains the leading reserve [currency](https://programs.myfirstbitcoin.org/lexicon/en/#currency) today, although [central banks](https://programs.myfirstbitcoin.org/lexicon/en/#central-bank) also hold other [currencies](https://programs.myfirstbitcoin.org/lexicon/en/#currency) and its share can change over time.
+In 1971, President Nixon ended the official exchange of dollars for [gold](https://programs.myfirstbitcoin.org/lexicon/en/#gold) by foreign governments and [central banks](https://programs.myfirstbitcoin.org/lexicon/en/#central-bank). This ended the dollar's official [gold](https://programs.myfirstbitcoin.org/lexicon/en/#gold) [convertibility](https://programs.myfirstbitcoin.org/lexicon/en/#convertibility) and brought the [Bretton Woods](https://programs.myfirstbitcoin.org/lexicon/en/#bretton-woods) system to an end. The dollar nevertheless remained widely used because of its established role in trade and finance, the size of the U.S. economy, and the depth of U.S. financial markets. It remains the leading reserve [currency](https://programs.myfirstbitcoin.org/lexicon/en/#currency) today, although [central banks](https://programs.myfirstbitcoin.org/lexicon/en/#central-bank) also hold other [currencies](https://programs.myfirstbitcoin.org/lexicon/en/#currency) and its share can change over time.
 
-### Alternatives for saving and holding value
+### Alternatives for saving and holding [value](https://programs.myfirstbitcoin.org/lexicon/en/#value)
 
 People often seek alternatives to holding cash when they believe it will lose [purchasing power](https://programs.myfirstbitcoin.org/lexicon/en/#purchasing-power). Common choices include precious metals, real estate, and stocks. Precious metals have also served as money in many places and periods. Each option has benefits and risks.
 
@@ -532,7 +532,7 @@ ALT: Non-ranked comparison of precious metals, real estate, and stocks with reas
 ASSET: assets/briefs/bd-v-020-brief.md
 -->
 
-An [asset](https://programs.myfirstbitcoin.org/lexicon/en/#asset) is something a person can own or claim that may have value; it does not automatically perform every function of money. A home may store [value](https://programs.myfirstbitcoin.org/lexicon/en/#value) but is not practical for buying food. A share may be easy to sell in one country but unavailable to someone without a brokerage account. [Gold](https://programs.myfirstbitcoin.org/lexicon/en/#gold) has served as money across long periods of history but can be difficult to verify or divide during a small exchange.
+An [asset](https://programs.myfirstbitcoin.org/lexicon/en/#asset) is something a person can own or claim that may have [value](https://programs.myfirstbitcoin.org/lexicon/en/#value); it does not automatically perform every function of money. A home may store [value](https://programs.myfirstbitcoin.org/lexicon/en/#value) but is not practical for buying food. A share may be easy to sell in one country but unavailable to someone without a brokerage account. [Gold](https://programs.myfirstbitcoin.org/lexicon/en/#gold) has served as money across long periods of history but can be difficult to verify or divide during a small exchange.
 
 <!-- VISUAL: BD-V-021
 ALT: Trade-off landscape comparing assets against payment, saving, portability, productive use, and direct-control needs.
@@ -549,11 +549,11 @@ Bitcoin emerged as another proposed alternative: a scarce [digital asset](https:
 
 > **Definition - [Central bank digital currency](https://programs.myfirstbitcoin.org/lexicon/en/#central-bank-digital-currency-cbdc) ([CBDC](https://programs.myfirstbitcoin.org/lexicon/en/#central-bank-digital-currency-cbdc))**
 >
-> A [central bank digital currency](https://programs.myfirstbitcoin.org/lexicon/en/#central-bank-digital-currency-cbdc), or [CBDC](https://programs.myfirstbitcoin.org/lexicon/en/#central-bank-digital-currency-cbdc), is a digital form of [fiat money](https://programs.myfirstbitcoin.org/lexicon/en/#fiat-money) issued as a [liability](https://programs.myfirstbitcoin.org/lexicon/en/#liability) of a [central bank](https://programs.myfirstbitcoin.org/lexicon/en/#central-bank): it is a claim that the central bank owes to its holder. It is different from physical cash and from a normal commercial-bank deposit, although the user experience may look similar.
+> A [central bank digital currency](https://programs.myfirstbitcoin.org/lexicon/en/#central-bank-digital-currency-cbdc), or [CBDC](https://programs.myfirstbitcoin.org/lexicon/en/#central-bank-digital-currency-cbdc), is a digital form of [fiat money](https://programs.myfirstbitcoin.org/lexicon/en/#fiat-money) issued as a [liability](https://programs.myfirstbitcoin.org/lexicon/en/#liability) of a [central bank](https://programs.myfirstbitcoin.org/lexicon/en/#central-bank): it is a claim that the [central bank](https://programs.myfirstbitcoin.org/lexicon/en/#central-bank) owes to its holder. It is different from physical cash and from a normal commercial-bank deposit, although the user experience may look similar.
 
-[CBDC](https://programs.myfirstbitcoin.org/lexicon/en/#central-bank-digital-currency-cbdc) designs differ. Some are intended mainly for financial institutions; others are proposed for public use. First ask who the [issuer](https://programs.myfirstbitcoin.org/lexicon/en/#issuer) is: with a CBDC, the central bank remains the issuer and can still apply monetary policy. A CBDC therefore does not create a fixed monetary supply or remove central control; it simply changes the technology and distribution of [fiat money](https://programs.myfirstbitcoin.org/lexicon/en/#fiat-money).
+[CBDC](https://programs.myfirstbitcoin.org/lexicon/en/#central-bank-digital-currency-cbdc) designs differ. Some are intended mainly for financial institutions; others are proposed for public use. First ask who the [issuer](https://programs.myfirstbitcoin.org/lexicon/en/#issuer) is: with a [CBDC](https://programs.myfirstbitcoin.org/lexicon/en/#central-bank-digital-currency-cbdc), the [central bank](https://programs.myfirstbitcoin.org/lexicon/en/#central-bank) remains the [issuer](https://programs.myfirstbitcoin.org/lexicon/en/#issuer) and can still apply monetary policy. A [CBDC](https://programs.myfirstbitcoin.org/lexicon/en/#central-bank-digital-currency-cbdc) therefore does not create a fixed monetary supply or remove central control; it simply changes the technology and distribution of [fiat money](https://programs.myfirstbitcoin.org/lexicon/en/#fiat-money).
 
-Next ask what the design allows. Depending on the rules, a CBDC may allow faster settlement, wider access, or new payment features. It may also give institutions greater ability to monitor [transactions](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx), apply rules, limit use, or connect identity directly to payments. This is centralized control: an institution, rather than ordinary users independently, sets or changes the relevant rules.
+Next ask what the design allows. Depending on the rules, a [CBDC](https://programs.myfirstbitcoin.org/lexicon/en/#central-bank-digital-currency-cbdc) may allow faster settlement, wider access, or new payment features. It may also give institutions greater ability to monitor [transactions](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx), apply rules, limit use, or connect identity directly to payments. This is centralized control: an institution, rather than ordinary users independently, sets or changes the relevant rules.
 
 <!-- VISUAL: BD-V-019
 ALT: Comparison matrix distinguishing cash, bank deposits, a generic retail CBDC, and Bitcoin by control, access, visibility, supply, and verification.
@@ -692,9 +692,9 @@ ASSET: assets/briefs/bd-v-027-brief.md
 
 > **Definition - [Blockchain](https://programs.myfirstbitcoin.org/lexicon/en/#blockchain)**
 >
-> Bitcoin's [blockchain](https://programs.myfirstbitcoin.org/lexicon/en/#blockchain) is a public [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) record replicated across many independent computers. A block groups a set of valid transactions into the next proposed part of that record. Each valid block links to the previous one, giving the network an ordered shared history to verify.
+> Bitcoin's [blockchain](https://programs.myfirstbitcoin.org/lexicon/en/#blockchain) is a public [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) record replicated across many independent computers. A block groups a set of valid [transactions](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) into the next proposed part of that record. Each valid block links to the previous one, giving the network an ordered shared history to verify.
 >
-> [Nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) independently check the same rules and converge on the valid history with the most accumulated [proof of work](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work). Changing an earlier record changes its block and breaks the links to later blocks, so a competing history must redo that work and catch up before nodes accept it. This costly ordering process helps the network reach consensus without a central record keeper. Copies do not change simultaneously; nodes receive and validate data independently. Bitcoin targets one new block about every ten minutes on average. The history is difficult and costly to rewrite, not literally impossible to change: temporary competing histories and reorganizations can occur.
+> [Nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) independently check the same rules and converge on the valid history with the most accumulated [proof of work](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work). Changing an earlier record changes its block and breaks the links to later blocks, so a competing history must redo that work and catch up before [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) accept it. This costly ordering process helps the network reach [consensus](https://programs.myfirstbitcoin.org/lexicon/en/#consensus) without a central record keeper. Copies do not change simultaneously; [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) receive and validate data independently. Bitcoin targets one new block about every ten minutes on average. The history is difficult and costly to rewrite, not literally impossible to change: temporary competing histories and reorganizations can occur.
 
 ### [Decentralization](https://programs.myfirstbitcoin.org/lexicon/en/#decentralization)
 
@@ -782,7 +782,7 @@ Some people perform several roles. A [miner](https://programs.myfirstbitcoin.org
 >
 > [Proof of work](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work) is the process [miners](https://programs.myfirstbitcoin.org/lexicon/en/#miner) use to compete for the right to propose the next block.
 
-A [hash function](https://programs.myfirstbitcoin.org/lexicon/en/#hash-function) turns data into a fixed-length result. A small change to the input produces an unpredictable new result. A [miner](https://programs.myfirstbitcoin.org/lexicon/en/#miner) changes a small piece of data in a proposed block and hashes it repeatedly. A result is valid only when its number is below the network's [target](https://programs.myfirstbitcoin.org/lexicon/en/#target), a threshold set by the rules; a lower target means fewer valid results and more attempts. There is no shortcut, so [miners](https://programs.myfirstbitcoin.org/lexicon/en/#miner) may need to make many attempts.
+A [hash function](https://programs.myfirstbitcoin.org/lexicon/en/#hash-function) turns data into a fixed-length result. A small change to the input produces an unpredictable new result. A [miner](https://programs.myfirstbitcoin.org/lexicon/en/#miner) changes a small piece of data in a proposed block and hashes it repeatedly. A result is valid only when its number is below the network's [target](https://programs.myfirstbitcoin.org/lexicon/en/#target), a threshold set by the rules; a lower [target](https://programs.myfirstbitcoin.org/lexicon/en/#target) means fewer [valid results](https://programs.myfirstbitcoin.org/lexicon/en/#valid-result) and more attempts. There is no shortcut, so [miners](https://programs.myfirstbitcoin.org/lexicon/en/#miner) may need to make many attempts.
 
 When a [miner](https://programs.myfirstbitcoin.org/lexicon/en/#miner) finds a [valid result](https://programs.myfirstbitcoin.org/lexicon/en/#valid-result), it [broadcasts](https://programs.myfirstbitcoin.org/lexicon/en/#broadcast) the block. [Nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) can check the proof quickly, even though finding it required significant computation and energy. If the block includes a [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx), that [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) receives its [first confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#first-confirmation): its record has been included in one valid block. Each valid block added after it adds another [confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation), making the [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx)'s place in the [blockchain](https://programs.myfirstbitcoin.org/lexicon/en/#blockchain) more costly to rewrite. This difference is important: work is costly to produce and easy to verify.
 
@@ -842,7 +842,7 @@ The 21 million limit is enforced by [nodes](https://programs.myfirstbitcoin.org/
 
 One bitcoin (1 BTC) can be divided into **100,000,000 [satoshis](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat)**. A [satoshi](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat), often shortened to **[sat](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat)**, is the smallest unit recorded on Bitcoin's base layer.
 
-| Bitcoin | Satoshis |
+| Bitcoin | [Satoshis](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat) |
 | --- | ---: |
 | 1 BTC | 100,000,000 [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat) |
 | 0.1 BTC | 10,000,000 [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat) |
@@ -855,7 +855,7 @@ ALT: Bitcoin and satoshi denominations showing equivalent amounts at different u
 ASSET: assets/briefs/bd-v-029-brief.md
 -->
 
-**You do not need to buy or use a whole bitcoin.** Bitcoin software can display an amount in bitcoin or [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat), just as a currency can use a main unit and smaller units. Many people use [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat) for everyday amounts because whole numbers are easier to read. Both on-chain and Lightning payment requests can be shown in sats.
+**You do not need to buy or use a whole bitcoin.** Bitcoin software can display an amount in bitcoin or [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat), just as a [currency](https://programs.myfirstbitcoin.org/lexicon/en/#currency) can use a main unit and smaller units. Many people use [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat) for everyday amounts because whole numbers are easier to read. Both on-chain and Lightning payment requests can be shown in [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat).
 
 **Unit [bias](https://programs.myfirstbitcoin.org/lexicon/en/#bias)** is the mistaken feeling that a lower [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) per whole unit makes an [asset](https://programs.myfirstbitcoin.org/lexicon/en/#asset) cheaper or more accessible. The number of units is a design choice. Owning 100,000 [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat) and owning 0.001 BTC describe the same amount.
 
@@ -906,10 +906,10 @@ Whether you call Bitcoin [sound money](https://programs.myfirstbitcoin.org/lexic
 
 When comparing any [digital asset](https://programs.myfirstbitcoin.org/lexicon/en/#digital-asset), ask: Who controls issuance or changes? What can I verify independently? Who holds the keys? Which company, [issuer](https://programs.myfirstbitcoin.org/lexicon/en/#issuer), or other counterparty must I trust? This Bitcoin-only Diploma uses the comparison only to clarify Bitcoin. It does not recommend acquiring, trading, or promoting any [asset](https://programs.myfirstbitcoin.org/lexicon/en/#asset).
 
-The comparison below distinguishes categories and design choices. It is not an endorsement, recommendation, or a claim that any asset is safe, reliable, or suitable for you.
+The comparison below distinguishes categories and design choices. It is not an endorsement, recommendation, or a claim that any [asset](https://programs.myfirstbitcoin.org/lexicon/en/#asset) is safe, reliable, or suitable for you.
 
 > Dark
-> Scams, misleading claims, and unsafe services can affect any digital asset or payment pathway. Check the specific asset, service, and custody arrangement rather than assuming that a category is safe or unsafe by itself.
+> Scams, misleading claims, and unsafe services can affect any [digital asset](https://programs.myfirstbitcoin.org/lexicon/en/#digital-asset) or payment pathway. Check the specific [asset](https://programs.myfirstbitcoin.org/lexicon/en/#asset), service, and [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) arrangement rather than assuming that a category is safe or unsafe by itself.
 
 **bitcoin (BTC)** is a [digital asset](https://programs.myfirstbitcoin.org/lexicon/en/#digital-asset) on the [Bitcoin network](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Its [maximum supply](https://programs.myfirstbitcoin.org/lexicon/en/#maximum-supply-hard-cap) and [issuance schedule](https://programs.myfirstbitcoin.org/lexicon/en/#issuance-schedule) are public rules. People can hold bitcoin directly through keys and can independently verify Bitcoin rules by running suitable software. It can be sent globally without needing a central Bitcoin [issuer](https://programs.myfirstbitcoin.org/lexicon/en/#issuer) to approve every [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx). Its market [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) can change sharply, and losing keys or recovery information can mean permanent loss; a mistaken payment is usually hard or impossible to reverse. Fees, [confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation) time, electricity, communications, public [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) records, and local acceptance can also affect use. A wallet provider or exchange can add its own counterparty and [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) risks.
 
@@ -922,7 +922,7 @@ Some projects use Bitcoin's code as a starting point but operate under different
 | [Asset](https://programs.myfirstbitcoin.org/lexicon/en/#asset) type | Main design | Key difference |
 | --- | --- | --- |
 | Bitcoin | Public supply rules and no central [issuer](https://programs.myfirstbitcoin.org/lexicon/en/#issuer). | Its 21 million maximum is enforced by independently verified rules, not by reserves or redemption promises. |
-| Stablecoins | A token designed to track a reference [value](https://programs.myfirstbitcoin.org/lexicon/en/#value). | The intended value depends on its particular rules, reserves, redemption process, and counterparties; these differ by stablecoin. |
+| Stablecoins | A token designed to track a reference [value](https://programs.myfirstbitcoin.org/lexicon/en/#value). | The intended [value](https://programs.myfirstbitcoin.org/lexicon/en/#value) depends on its particular rules, reserves, redemption process, and counterparties; these differ by stablecoin. |
 | Other crypto-assets | [Digital assets](https://programs.myfirstbitcoin.org/lexicon/en/#digital-asset) used on networks or applications. | Rules, issuance, and control vary by [asset](https://programs.myfirstbitcoin.org/lexicon/en/#asset). |
 
 Before using any [digital asset](https://programs.myfirstbitcoin.org/lexicon/en/#digital-asset), distinguish the [asset](https://programs.myfirstbitcoin.org/lexicon/en/#asset) itself from the service holding it for you. A familiar ticker, a stable-looking [price](https://programs.myfirstbitcoin.org/lexicon/en/#price), or a well-designed app does not remove the need to identify and compare [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody), counterparty, technical, legal, and loss risks.
@@ -957,7 +957,7 @@ No central company owns Bitcoin. The software and rules continued because other 
 
 The [Genesis Block](https://programs.myfirstbitcoin.org/lexicon/en/#genesis-block) and the 2008 financial crisis give Bitcoin important historical context. However, evaluate Bitcoin by its design and operation, not only by a story about its creator.
 
-In October 2008, [Satoshi Nakamoto](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-nakamoto) announced the [Bitcoin whitepaper](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-whitepaper). Its central question was simple: **how can people make online payments without letting the same digital unit be spent twice or putting one intermediary in control?**
+In October 2008, [Satoshi Nakamoto](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-nakamoto) announced the [Bitcoin whitepaper](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-whitepaper). Its central question was simple: **how can people make online payments without letting the same digital unit be spent twice or putting one [intermediary](https://programs.myfirstbitcoin.org/lexicon/en/#intermediary) in control?**
 
 ### Participant empowerment, risk, and responsibility
 
@@ -980,7 +980,7 @@ Pause and consider how Bitcoin changes the trust model: how do public rules, fin
 | --- | --- | --- |
 | Supply can change through policy | Predictable issuance and a 21 million maximum | Users must verify and choose to enforce the rules |
 | Payments depend on [intermediaries](https://programs.myfirstbitcoin.org/lexicon/en/#intermediary) | Peer-to-peer [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) network | A valid payment is usually difficult or impossible to reverse |
-| A central [ledger](https://programs.myfirstbitcoin.org/lexicon/en/#ledger) keeper controls records | Independent [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) share and verify a public [ledger](https://programs.myfirstbitcoin.org/lexicon/en/#ledger) | Public records can reveal links between transactions, even when they do not identify a person by themselves |
+| A central [ledger](https://programs.myfirstbitcoin.org/lexicon/en/#ledger) keeper controls records | Independent [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) share and verify a public [ledger](https://programs.myfirstbitcoin.org/lexicon/en/#ledger) | Public records can reveal links between [transactions](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx), even when they do not identify a person by themselves |
 | Access depends on an institution | Anyone can use the protocol and control keys | The user must secure keys and backups. |
 
 <!-- VISUAL: BD-V-034
@@ -999,7 +999,7 @@ ASSET: assets/briefs/bd-v-034-brief.md
 - Users choose whether to hold or accept bitcoin; [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) verify the rules; [miners](https://programs.myfirstbitcoin.org/lexicon/en/#miner) propose blocks; and developers can propose, but not impose, software changes.
 - Bitcoin has a public supply schedule with a maximum of 21 million BTC, and [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) reject blocks that break this rule.
 - One bitcoin (1 BTC) divides into 100,000,000 [sats](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat), so people can use smaller units without needing a whole bitcoin.
-- Bitcoin can be evaluated as [sound money](https://programs.myfirstbitcoin.org/lexicon/en/#sound-money) using monetary properties, while still recognizing the trade-offs: [price volatility](https://programs.myfirstbitcoin.org/lexicon/en/#volatility), limited acceptance, payments that are usually difficult or impossible to reverse, and the need for increased personal responsibility.
+- Bitcoin can be evaluated as [sound money](https://programs.myfirstbitcoin.org/lexicon/en/#sound-money) using monetary properties, while still recognizing the [trade-offs](https://programs.myfirstbitcoin.org/lexicon/en/#trade-off): [price volatility](https://programs.myfirstbitcoin.org/lexicon/en/#volatility), limited acceptance, payments that are usually difficult or impossible to reverse, and the need for increased personal responsibility.
 
 ---
 
@@ -1032,7 +1032,7 @@ Use the explanations below to prepare for the three guided practices: a receive-
 
 > **Definition - [Bitcoin wallet](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet)**
 >
-> A [Bitcoin wallet](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) is a tool that manages the information needed to receive and authorize Bitcoin [transactions](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx). It may be an application, a dedicated device, or a service. Bitcoin is recorded as transaction history on the shared [ledger](https://programs.myfirstbitcoin.org/lexicon/en/#ledger); a wallet manages the keys that control spending, rather than storing bitcoin on a phone or other device.
+> A [Bitcoin wallet](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) is a tool that manages the information needed to receive and authorize Bitcoin [transactions](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx). It may be an application, a dedicated device, or a service. Bitcoin is recorded as [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) history on the shared [ledger](https://programs.myfirstbitcoin.org/lexicon/en/#ledger); a wallet manages the keys that control spending, rather than storing bitcoin on a phone or other device.
 
 What would happen if your phone stopped working? The Bitcoin record would still exist, but access would depend on the keys and recovery method the wallet uses. A wallet helps create receiving information, show balances and [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) history, and authorize spending. It does not remove the need to understand who controls access.
 
@@ -1107,7 +1107,7 @@ ASSET: assets/briefs/bd-v-037-brief.md
 
 > **Definition - [Seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase)**
 >
-> A [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase), also called a [recovery phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase), is an ordered list of words that many wallets use to derive and recover a set of [private keys](https://programs.myfirstbitcoin.org/lexicon/en/#private-key). A private key authorizes a spend; the seed phrase is normally the backup that can recreate the wallet's keys. Common lengths are 12 or 24 words, although wallet designs differ.
+> A [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase), also called a [recovery phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase), is an ordered list of words that many wallets use to derive and recover a set of [private keys](https://programs.myfirstbitcoin.org/lexicon/en/#private-key). A [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key) authorizes a spend; the [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase) is normally the backup that can recreate the wallet's keys. Common lengths are 12 or 24 words, although wallet designs differ.
 
 The order and spelling of the words matter. If a person has the [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase), they can often restore the wallet on another compatible device and spend the funds. The [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase) is therefore not only a backup. It is full access.
 
@@ -1144,6 +1144,8 @@ ASSET: assets/briefs/bd-v-079-brief.md
 
 In a **custodial** service, a company or another person controls the keys. Your displayed balance is a promise from the [custodian](https://programs.myfirstbitcoin.org/lexicon/en/#custodian). You usually sign in with an account and ask the service to process a withdrawal or payment.
 
+This difference is important for verification. Bitcoin's rules and total supply can be checked independently, but if you do not control the keys, you cannot independently check that the balance shown in your account corresponds to bitcoin the service holds and will make available to you. The public blockchain can show bitcoin controlled by keys; it cannot show that a service owes a particular customer the balance displayed in an account. Until you can withdraw and control the keys, your balance is the service's promise to provide bitcoin, not bitcoin you can directly verify and spend yourself.
+
 In a **non-custodial** or **self-custodial** wallet, YOU control the keys. The wallet signs [transactions](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) under your authority. There may still be software, hardware, server, or network dependencies, but no [custodian](https://programs.myfirstbitcoin.org/lexicon/en/#custodian) must approve a valid on-chain spend.
 
 <!-- VISUAL: BD-V-039
@@ -1174,7 +1176,7 @@ ASSET: assets/briefs/bd-v-040-brief.md
 
 > **Definition - [Cold wallet](https://programs.myfirstbitcoin.org/lexicon/en/#cold-wallet-cold-storage) and [hardware wallet](https://programs.myfirstbitcoin.org/lexicon/en/#hardware-wallet)**
 >
-> A [cold wallet](https://programs.myfirstbitcoin.org/lexicon/en/#cold-wallet-cold-storage) describes an arrangement that keeps signing keys away from an internet-connected general-purpose device. A [hardware wallet](https://programs.myfirstbitcoin.org/lexicon/en/#hardware-wallet) describes a dedicated device designed to generate, protect, and use keys while keeping them isolated from the connected computer or phone. A hardware wallet can support a cold arrangement, but the terms are not interchangeable; custody and recovery are separate questions.
+> A [cold wallet](https://programs.myfirstbitcoin.org/lexicon/en/#cold-wallet-cold-storage) describes an arrangement that keeps signing keys away from an internet-connected general-purpose device. A [hardware wallet](https://programs.myfirstbitcoin.org/lexicon/en/#hardware-wallet) describes a dedicated device designed to generate, protect, and use keys while keeping them isolated from the connected computer or phone. A [hardware wallet](https://programs.myfirstbitcoin.org/lexicon/en/#hardware-wallet) can support a cold arrangement, but the terms are not interchangeable; [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) and recovery are separate questions.
 
 <!-- VISUAL: BD-V-042
 ALT: Hot, cold, hardware, and custodial wallet dimensions compared without treating them as one scale.
@@ -1184,7 +1186,7 @@ ASSET: assets/briefs/bd-v-042-brief.md
 | Arrangement | Common strength | Responsibility to remember |
 | --- | --- | --- |
 | [Hot wallet](https://programs.myfirstbitcoin.org/lexicon/en/#hot-wallet) | Convenient access for regular payments. | An internet-connected device can face malware, phishing, or loss. |
-| Hardware wallet or [cold arrangement](https://programs.myfirstbitcoin.org/lexicon/en/#cold-wallet-cold-storage) | More isolated signing keys. | The device, backup, and recovery process still need protection. |
+| [Hardware wallet](https://programs.myfirstbitcoin.org/lexicon/en/#hardware-wallet) or [cold arrangement](https://programs.myfirstbitcoin.org/lexicon/en/#cold-wallet-cold-storage) | More isolated signing keys. | The device, backup, and recovery process still need protection. |
 | Custodial account | Familiar login and available support. | A provider controls access and may impose limits. |
 
 <!-- VISUAL: BD-V-041
@@ -1271,7 +1273,7 @@ If the destination changes unexpectedly, the request becomes urgent, or anyone a
 
 What can this public information show, and what can it not show? It can show a [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx)'s status, destination, amount, fee, and [confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation) count; it cannot prove why a payment happened or whether a person is trustworthy. An on-chain [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) is unconfirmed after it is [broadcast](https://programs.myfirstbitcoin.org/lexicon/en/#broadcast) and gains its [first confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#first-confirmation) when included in a valid block. Later blocks add confidence to its place in the record, but they do not fix a wrong destination or a scam. There is no universal [confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation) count for every payment; the suitable check depends on the amount and risk.
 
-To inspect a prepared [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx), obtain its *[txid](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-identifier-txid)*, open a trusted explorer for the intended [Bitcoin network](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-network), and check the status, destination, amount, fee, and [confirmations](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation). An explorer is only an interface. Searching an address or *[txid](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-identifier-txid)* may reveal to its operator that your device is interested in that information. For practice, use an educator-prepared [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) or printed screenshot. Do not search a learner's personal address or [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) on a public service. If you later research a personal payment, learn the privacy and security trade-offs of your connection before using a public service.
+To inspect a prepared [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx), obtain its *[txid](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-identifier-txid)*, open a trusted explorer for the intended [Bitcoin network](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-network), and check the status, destination, amount, fee, and [confirmations](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation). An explorer is only an interface. Searching an address or *[txid](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-identifier-txid)* may reveal to its operator that your device is interested in that information. For practice, use an educator-prepared [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) or printed screenshot. Do not search a learner's personal address or [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) on a public service. If you later research a personal payment, learn the [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy) and security [trade-offs](https://programs.myfirstbitcoin.org/lexicon/en/#trade-off) of your connection before using a public service.
 
 > **Callout – Public data is not proof of identity or honesty**
 >
@@ -1409,7 +1411,7 @@ ALT: Local learning choices and learner notes for the educator-curated Connect m
 ASSET: assets/briefs/bd-v-055-brief.md
 -->
 
-This is the **Connect** stage of the Bitcoin Diploma. You will connect the modern money-system flaws and trade-offs, Bitcoin's response, and safe-use responsibility from **Modules 1–3** to a local need or opportunity, a realistic alternative, and a safe practical task. You are not expected to adopt Bitcoin or conclude that it is the best option in every local situation.
+This is the **Connect** stage of the Bitcoin Diploma. You will connect the modern money-system flaws and [trade-offs](https://programs.myfirstbitcoin.org/lexicon/en/#trade-off), Bitcoin's response, and safe-use responsibility from **Modules 1–3** to a local need or opportunity, a realistic alternative, and a safe practical task. You are not expected to adopt Bitcoin or conclude that it is the best option in every local situation.
 
 Bitcoin is one global protocol, but people use it under different local conditions. Internet access, phones, laws, taxes, [currencies](https://programs.myfirstbitcoin.org/lexicon/en/#currency), banks, merchants, fees, language, safety, and technical support all affect what is useful.
 
@@ -1442,7 +1444,7 @@ Your educator will guide you because they understand the local context. They may
 
 Your local **Module 4** activity will help you:
 
-1. **Connect:** Identify the money-system flaw or trade-off, Bitcoin response, and safe action that matter locally.
+1. **Connect:** Identify the money-system flaw or [trade-off](https://programs.myfirstbitcoin.org/lexicon/en/#trade-off), Bitcoin response, and safe action that matter locally.
 2. **Compare:** Consider local conditions and compare Bitcoin with a realistic existing option.
 3. **Practice safely:** Observe, compare, or try a defined task with guidance.
 4. **Explain:** Identify risks, show what you learned, and name a responsible next step, if any.
@@ -1603,7 +1605,7 @@ Bitcoin can function as money in several ways. Spending is only one of them.
 
 For any use, ask three questions:
 
-1. What existing problem does Bitcoin address here?
+1. What existing problem does [Bitcoin address](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-address-wallet-address) here?
 2. Is Bitcoin better than the available alternative for this case?
 3. What new responsibility or risk does Bitcoin create?
 

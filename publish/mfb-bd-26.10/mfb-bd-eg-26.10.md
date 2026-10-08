@@ -1554,7 +1554,7 @@ Teach the relationship, not the mathematics:
 - finding a result requires real computation and energy
 - [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) check the result quickly
 - [proof of work](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work) helps order transactions and makes history costly to rewrite; and
-- [difficulty](https://programs.myfirstbitcoin.org/lexicon/en/#difficulty) adjusts so blocks arrive about every ten minutes on average, not exactly every ten minutes.
+- [difficulty](https://programs.myfirstbitcoin.org/lexicon/en/#difficulty) measures the work required to satisfy Bitcoin's proof-of-work target; the target adjusts so blocks arrive about every ten minutes on average, not exactly every ten minutes.
 
 <!-- VISUAL: BD-V-032
 ALT: Many computational attempts seek a result below the target; a miner broadcasts a candidate block and nodes verify its work and rules before accepting it.
@@ -2064,6 +2064,8 @@ Inheritance, [multisignature](https://programs.myfirstbitcoin.org/lexicon/en/#mu
 [Custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) asks one question:
 
 > Who controls the keys required to spend the bitcoin?
+
+Make the verification distinction explicit in plain language: Bitcoin's rules and total supply can be independently checked, but a learner who does not control the keys cannot independently check that an account balance corresponds to bitcoin the service holds and will make available to them. The public blockchain can show bitcoin controlled by keys; it cannot show that a service owes a particular customer the balance displayed in an account. Before withdrawal into self-custody, that balance is the service's promise to provide bitcoin, not bitcoin the learner can directly verify and spend. Do not suggest that an account balance proves a service's reserves or solvency.
 
 Use guided scenarios rather than identity labels. A learner should compare:
 
