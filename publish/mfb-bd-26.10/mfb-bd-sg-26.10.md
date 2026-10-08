@@ -302,7 +302,7 @@ Useful money also tends to have several properties:
 | [Fungibility](https://programs.myfirstbitcoin.org/lexicon/en/#fungibility) | Are equal units normally interchangeable? |
 | [Scarcity](https://programs.myfirstbitcoin.org/lexicon/en/#scarcity) | Can its supply increase quickly, and who can change it? |
 | [Acceptability](https://programs.myfirstbitcoin.org/lexicon/en/#acceptability) | Will other people receive it in exchange? |
-| [Verifiability](https://programs.myfirstbitcoin.org/lexicon/en/#verifiability) | Can people check that it is genuine? |
+| [Verifiability](https://programs.myfirstbitcoin.org/lexicon/en/#verifiability) and [recognizability / “likeness”](https://programs.myfirstbitcoin.org/lexicon/en/#recognizability-likeness) | Can people check that it is genuine and readily identify equivalent units? |
 
 <!-- VISUAL: BD-V-007
 ALT: Money properties paired with questions for comparison.
@@ -360,7 +360,7 @@ Resources are limited, while human wants are not.
 >
 > [Scarcity](https://programs.myfirstbitcoin.org/lexicon/en/#scarcity) means that choosing one use of a resource prevents another use. Time, land, energy, good health, tools, and [sound money](https://programs.myfirstbitcoin.org/lexicon/en/#sound-money) are all scarce.
 
-The [value](https://programs.myfirstbitcoin.org/lexicon/en/#value) of a good is not contained inside the object. People [value](https://programs.myfirstbitcoin.org/lexicon/en/#value) goods according to their needs, preferences, information, and circumstances. Clean water may be inexpensive near a safe public source and extremely valuable during a shortage.
+The [value](https://programs.myfirstbitcoin.org/lexicon/en/#value) of a good is not contained inside the object. People [value](https://programs.myfirstbitcoin.org/lexicon/en/#value) goods according to their needs, preferences, information, and circumstances. This is sometimes called **[subjective value](https://programs.myfirstbitcoin.org/lexicon/en/#subjective-value)**. Clean water may be inexpensive near a safe public source and extremely valuable during a shortage.
 
 <!-- VISUAL: BD-V-011
 ALT: The same clean water shown as more available near a safe source and more valuable during a shortage.
@@ -460,7 +460,7 @@ ALT: Simplified bank loan flow showing a loan asset matched by a deposit liabili
 ASSET: assets/briefs/bd-v-016-brief.md
 -->
 
-Banks generally seek profit by earning interest and fees on loans and investments while paying their operating, funding, and regulatory costs and absorbing losses when borrowers do not repay. These activities and constraints differ by bank and jurisdiction.
+Banks generally seek [profit](https://programs.myfirstbitcoin.org/lexicon/en/#bank-profit) by earning interest and fees on loans and investments while paying their operating, funding, and regulatory costs and absorbing losses when borrowers do not repay. These activities and constraints differ by bank and jurisdiction.
 
 > **Definition - [Fractional reserve banking](https://programs.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking)**
 >
@@ -497,9 +497,9 @@ ALT: Fixed amount of money buying a smaller basket after prices rise.
 ASSET: assets/briefs/bd-v-018-brief.md
 -->
 
-Some people use “[inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation)” to mean an expansion of money and credit; that expansion can contribute to [price inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation), alongside supply disruptions, changes in demand, [currency](https://programs.myfirstbitcoin.org/lexicon/en/#currency) weakness, taxes, regulation, and changes in production costs. The causes and effects are often debated. Avoid explanations that assign every [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) change to one factor.
+Some people use “[inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation)” to mean [monetary expansion](https://programs.myfirstbitcoin.org/lexicon/en/#monetary-inflation): an expansion of money and credit. That expansion can contribute to [price inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation), alongside supply disruptions, changes in demand, [currency](https://programs.myfirstbitcoin.org/lexicon/en/#currency) weakness, taxes, regulation, and changes in production costs. The causes and effects are often debated. Avoid explanations that assign every [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) change to one factor.
 
-[Inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation) does not affect everyone equally. A person who holds mainly cash may lose [purchasing power](https://programs.myfirstbitcoin.org/lexicon/en/#purchasing-power). A person who owns an [asset](https://programs.myfirstbitcoin.org/lexicon/en/#asset) that rises in [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) may be partly protected. Borrowers may repay fixed [debts](https://programs.myfirstbitcoin.org/lexicon/en/#debt) with money that buys less, while lenders may receive less real [value](https://programs.myfirstbitcoin.org/lexicon/en/#value) than expected. Wages and [prices](https://programs.myfirstbitcoin.org/lexicon/en/#price) also adjust at different speeds.
+[Inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation) does not affect everyone equally. A person who holds mainly cash may lose [purchasing power](https://programs.myfirstbitcoin.org/lexicon/en/#purchasing-power). A person who owns an [asset](https://programs.myfirstbitcoin.org/lexicon/en/#asset) that rises in [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) may be partly protected. Borrowers may repay fixed [debts](https://programs.myfirstbitcoin.org/lexicon/en/#debt) with money that buys less, while lenders may receive less real [value](https://programs.myfirstbitcoin.org/lexicon/en/#value) than expected. Wages and [prices](https://programs.myfirstbitcoin.org/lexicon/en/#price) also adjust at different speeds. These later, indirect results are sometimes called [secondary effects](https://programs.myfirstbitcoin.org/lexicon/en/#secondary-effects).
 
 The rate of [inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation) is an average. Your personal experience may differ because your spending is not identical to the measured basket. Food, housing, transport, education, and health costs may change at different rates.
 
@@ -507,7 +507,7 @@ The rate of [inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflatio
 >
 > Choose one ordinary item in your community. Record its [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) today. Ask what it cost several years ago, then check a reliable record if possible. Did income change at the same rate? What other factors may explain the change?
 >
-> Then compare your item with an official [inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation) measure. Which goods and services are in that measure's basket? Has the basket or method changed over time, and does the source explain why? A change is not automatically manipulation, but it can affect comparisons and should be documented transparently.
+> Then compare your item with an official [inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation) measure. Which goods and services are in that measure's [inflation basket](https://programs.myfirstbitcoin.org/lexicon/en/#inflation-basket)? Has the basket or method changed over time, and does the source explain why? A change is not automatically manipulation, but it can affect comparisons and should be documented transparently.
 
 ### Why the US dollar is a world reserve [currency](https://programs.myfirstbitcoin.org/lexicon/en/#currency)
 
@@ -1100,7 +1100,7 @@ The essential rule is simple:
 
 A [digital signature](https://programs.myfirstbitcoin.org/lexicon/en/#digital-signature) proves that the required [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key) authorized a [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx). It does not place the [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key) inside the [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx). [Nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) verify the signature before accepting the spend.
 
-Modern wallets manage many keys automatically. Beginners should not copy or handle individual [private-key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key) strings. Protect the wallet's approved backup and follow its recovery procedure.
+Most beginner wallets use [single-signature](https://programs.myfirstbitcoin.org/lexicon/en/#single-signature): one private key authorizes a transaction. Modern wallets manage many keys automatically. Beginners should not copy or handle individual [private-key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key) strings. Protect the wallet's approved backup and follow its recovery procedure.
 
 No legitimate educator, wallet company, exchange employee, technical-support worker, or Bitcoin developer needs your [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key) or [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase). Anyone who asks for it should be treated as a threat.
 
@@ -1367,7 +1367,7 @@ ASSET: assets/briefs/bd-v-050-brief.md
 
 | Question | On-chain Bitcoin | Lightning |
 | --- | --- | --- |
-| Receiving information | [Bitcoin address](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-address-wallet-address) or [on-chain payment](https://programs.myfirstbitcoin.org/lexicon/en/#on-chain-payment) request | [Lightning invoice](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-invoice), offer, or supported [Lightning address](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-address) |
+| Receiving information | [Bitcoin address](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-address-wallet-address) or [on-chain payment](https://programs.myfirstbitcoin.org/lexicon/en/#on-chain-payment) request | [Lightning invoice](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-invoice), [offer](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-offer), or supported [Lightning address](https://programs.myfirstbitcoin.org/lexicon/en/#lightning-address) |
 | Payment result | [Broadcast](https://programs.myfirstbitcoin.org/lexicon/en/#broadcast) first, then [confirmations](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation) | Usually completes or fails quickly |
 | Common use | [Base-layer settlement](https://programs.myfirstbitcoin.org/lexicon/en/#base-layer-settlement) or less frequent transfer | Fast, smaller, or frequent payment |
 | Beginner checks | Correct address, network, amount, fee, and [confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation) status | Correct invoice or request, amount, expiry, [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody), and payment result |
@@ -1529,7 +1529,7 @@ Use this comparison before adopting a tool:
 | Purpose | What problem does the tool solve? Is it necessary? |
 | [Custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) | Who controls keys and funds? |
 | Source | Who publishes it? Is the domain or application listing genuine? |
-| Code | Is it open source? Is it actively reviewed and maintained? |
+| [Project continuity](https://programs.myfirstbitcoin.org/lexicon/en/#project-continuity) | Is it open source? Is it actively reviewed and maintained? |
 | Recovery | What happens if the device, service, or company disappears? |
 | [Privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy) | What identity, [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx), contact, or device data are collected? |
 | Cost | What fees, exchange spreads, subscriptions, or hardware costs apply? |

@@ -6,7 +6,7 @@ This is the working list for the 2026.10 review. Start with the open items below
 
 ### What needs attention
 
-**18 of 38 tracked action or asset-input items are still open:** 15 of 35 `ACT-` items and 3 asset-input requests. Start with certificated-delivery readiness, then clear the publication blockers. This snapshot was updated on 2026-10-01 to add the post-launch Advanced-link dependency; the underlying review evidence remains the [review to-do run](runs/2026-09-30-review-todo.md), the [annotation-evidence refresh](runs/2026-09-30-act-031-annotation-evidence-refresh.md#review-report-summary), and the [targeted activity review](runs/2026-09-30-targeted-mfb-act-26.10-alignment.md#review-report-summary).
+**18 of 38 tracked action or asset-input items are still open:** 15 of 35 `ACT-` items and 3 asset-input requests. Start with certificated-delivery readiness, then clear the publication blockers. This snapshot was updated on 2026-10-08 to record the resolved MFB-144 lexicon-feedback decisions; the underlying review evidence remains the [review to-do run](runs/2026-09-30-review-todo.md), the [annotation-evidence refresh](runs/2026-09-30-act-031-annotation-evidence-refresh.md#review-report-summary), and the [targeted activity review](runs/2026-09-30-targeted-mfb-act-26.10-alignment.md#review-report-summary).
 
 | Do this first | Why it matters | Tasks |
 |---|---|---|
@@ -18,13 +18,13 @@ This is the working list for the 2026.10 review. Start with the open items below
 
 `ACT` means a task. `DEC` is a past decision kept for reference. `ANN` is an old reviewer note; it is not an approval or a current task.
 
-### To-do qualification and tally — 2026-10-01
+### To-do qualification and tally — 2026-10-08
 
 | Register type | Total | Completed or resolved | Unresolved | Current breakdown |
 |---|---:|---:|---:|---|
 | `ACT-` | 35 | 20 | 15 | 3 open; 3 in progress; 2 blocked; 6 needs verification; 1 awaiting external input. By severity: 5 critical (2 unresolved), 17 high (8 unresolved), 12 medium (5 unresolved), and 1 low (none unresolved). |
 | `ANN-` | 242 | 242 triaged | 0 pending triage | 135 `already-addressed`; 30 `approved-action`; 38 `superseded`; 19 `preserve-approval`; 20 `needs-clarification`. Source markers remain provenance only. |
-| `DEC-` | 12 | 12 | 0 | All answers remain resolved; current implementation evidence was refreshed for `DEC-02` and `DEC-04`–`DEC-06`. |
+| `DEC-` | 13 | 13 | 0 | All answers remain resolved; current implementation evidence was refreshed for `DEC-02` and `DEC-04`–`DEC-06`, and `DEC-13` records the MFB-144 content-boundary decisions. |
 | `AST-` inputs | 3 | 0 | 3 | Official test-network or Lightning values still require My First Bitcoin confirmation. |
 
 Unresolved `ACT-` release impact: 2 certificated-delivery blockers (`ACT-002`, `ACT-003`), 9 publication blockers (`ACT-009`–`ACT-011`, `ACT-019`, `ACT-028`, and `ACT-032`–`ACT-035`), 3 maintenance items (`ACT-007`, `ACT-013`, `ACT-026`), and 1 translated-PDF link dependency (`ACT-036`).
@@ -370,7 +370,7 @@ Items `ACT-001` onward preserve every action and acceptance condition from the f
 
 ## Decision register
 
-The following register preserves all 12 questions, alternatives, affected-file lists, and the reconciliation order from the 2026-08-19 consistency review. Its descriptions of file contents are historical evidence, not a fresh statement of current policy. Preserve the alternatives for traceability; do not ask for A/B choices already implemented.
+The following register preserves the 12 questions, alternatives, affected-file lists, and reconciliation order from the 2026-08-19 consistency review, plus the later MFB-144 content-boundary decision. Its descriptions of file contents are historical evidence, not a fresh statement of current policy. Preserve the alternatives for traceability; do not ask for A/B choices already implemented.
 
 | ID | Consolidation disposition and next step |
 |---|---|
@@ -386,6 +386,7 @@ The following register preserves all 12 questions, alternatives, affected-file l
 | DEC-10 | **Resolved: A.** The canonical learner manuscript is `publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`. |
 | DEC-11 | **Resolved.** The named educator assesses the learner, accredits the result, and distributes the certificate; it records that educator's judgment, not My First Bitcoin's direct evaluation. |
 | DEC-12 | **Resolved: B.** Release the curriculum framework first and defer certification-complete claims until the remaining operational requirements are ready. |
+| DEC-13 | **Resolved.** Explain or link beginner-useful MFB-144 terms where they support existing learning; retain nine advanced or unnecessary terms in the Lexicon only. |
 
 For each unresolved choice, record the decision owner, approved answer, date, rationale, and affected files. The source accepts responses by question number and A/B choice, such as `1A, 2B, 3A`; map these to the corresponding `DEC` IDs and request choices only for genuinely unresolved questions. Check off its linked action only after all required dependent files agree. The register does not authorize policy changes.
 
@@ -538,6 +539,16 @@ The Educator Guide operational assessment protocol now supplies approved theory 
 **Approved answer: B.** The first release is a curriculum framework and teaching package, not a claim that every certification-complete operational dependency has been finished.
 
 Affected: `02_research.md`, `03_scope.md`, `05_competencies.md`, activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md), `13_assessment.md`, `15_certification.md`, `16_spec.md`, `18_horizon.md`.
+
+### DEC-13: How should the 24 reported MFB-144 lexicon-feedback terms be handled?
+
+**Status: resolved and implemented | Owner: 26.10 content | Approved: 2026-10-08.** The Student Guide should name or link a term when it clarifies a concept already within the beginner learning path. It should not add advanced banking mechanics, node topology, payment encoding, sidechains, or federation software merely to make the term appear in the Diploma. Every declined term remains available in the Lexicon.
+
+**Explain or link in the Student Guide:** Gold Standard; Bretton Woods; Subjective value; Monetary expansion; Secondary effects; Inflation basket; Recognizability / “likeness”; Value; Price; Bias; Bank profit; Single-signature; Project continuity; Layer 2; and Lightning offer. Gold Standard, Bretton Woods, Value, Price, Bias, and Layer 2 were already present; the remaining terms are now linked where the underlying beginner concept is taught.
+
+**Decline from the 26.10 Student Guide; retain in the Lexicon:** Gearing, “Too big to fail,” Restructuring, Economic node, Block depth, Network tag, Liquid, Ecash, and Fedimint. These need advanced banking, protocol, custody, or payment-system context, or duplicate simpler beginner language already used in the Guide. Their absence is deliberate and does not prevent learners from following the required Diploma path.
+
+Affected: [Student Guide](../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md), [Student Guide lexicon](../publish/mfb-lx-26.10-sg-index.md), and [terms register](../publish/mfb-lx-26.10-terms.md).
 
 ---
 

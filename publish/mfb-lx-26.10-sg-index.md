@@ -4,8 +4,8 @@
 | Measure | Count |
 | --- | ---: |
 | Lexicon entries | 147 |
-| Student Guide (SG) references | 917 |
-| Student Guide term entries found | 136 |
+| Student Guide (SG) references | 926 |
+| Student Guide term entries found | 137 |
 | Outdated Student Guide traces | 0 |
 
 Reference counts are direct Markdown links to registered lexicon URLs in the current Student Guide, counted on 1 October 2026. Guide terms link to the exact URL registered for their `BD-LEX-###` ID in [the terms register](mfb-lx-26.10-terms.md). “Lexicon entries” counts distinct word-or-phrase entries rather than occurrence rows or individual aliases. “Term entries found” counts entries with at least one verified Student Guide definition link.
@@ -105,6 +105,7 @@ Guide traceability was refreshed on 8 October 2026 from the published Student Gu
 | [359](mfb-bd-26.10/mfb-bd-sg-26.10.md#scarcity-value-and-exchange) | BD-LEX-195 | <a id="term-scarcity"></a>**Scarcity** | A limited supply: using or obtaining more is constrained rather than unlimited. |
 | [361](mfb-bd-26.10/mfb-bd-sg-26.10.md#scarcity-value-and-exchange) | BD-LEX-195 | <a id="term-scarcity"></a>**Scarcity** | A limited supply: using or obtaining more is constrained rather than unlimited. |
 | [361](mfb-bd-26.10/mfb-bd-sg-26.10.md#scarcity-value-and-exchange) | BD-LEX-206 | <a id="term-sound-money"></a>**Sound money** | A judgment for money whose supply is difficult to expand and whose properties support reliable use over time. |
+| [363](mfb-bd-26.10/mfb-bd-sg-26.10.md#scarcity-value-and-exchange) | <a id="BD-LEX-210"></a>BD-LEX-210 | <a id="term-subjective-value"></a>**Subjective value** | The idea that value depends on a person’s needs, preferences, information, and circumstances. |
 | [363](mfb-bd-26.10/mfb-bd-sg-26.10.md#scarcity-value-and-exchange) | BD-LEX-230 | <a id="term-value"></a>**Value** | The usefulness or importance of something to a person. |
 | [370](mfb-bd-26.10/mfb-bd-sg-26.10.md#scarcity-value-and-exchange) | BD-LEX-230 | <a id="term-value"></a>**Value** | The usefulness or importance of something to a person. |
 | [374](mfb-bd-26.10/mfb-bd-sg-26.10.md#scarcity-value-and-exchange) | <a id="BD-LEX-166"></a>BD-LEX-166 | <a id="term-opportunity-cost"></a>**Opportunity cost** | The best alternative given up when a choice is made. |
@@ -858,7 +859,6 @@ Guide traceability was refreshed on 8 October 2026 from the published Student Gu
 | Not present | <a id="BD-LEX-157"></a>BD-LEX-157 | <a id="term-nixon-shock"></a>**Nixon Shock** | The 1971 U.S. decision that ended international dollar-to-gold convertibility. |
 | Not present | <a id="BD-LEX-172"></a>BD-LEX-172 | <a id="term-payment-destination"></a>**Payment destination** | The receiving information to which funds are directed. |
 | Not present | <a id="BD-LEX-204"></a>BD-LEX-204 | <a id="term-solvency"></a>**Solvency** | Having assets sufficient to cover obligations. |
-| Not present | <a id="BD-LEX-210"></a>BD-LEX-210 | <a id="term-subjective-value"></a>**Subjective value** | The idea that value depends on a person’s needs, preferences, information, and circumstances. |
 | Not present | <a id="BD-LEX-236"></a>BD-LEX-236 | <a id="term-wallet-compatibility"></a>**Wallet compatibility** | The ability of a wallet, backup, address, or network to work with another system. |
 
 ## Help improve these Lexicon Entries
