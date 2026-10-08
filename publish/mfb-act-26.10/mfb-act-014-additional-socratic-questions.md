@@ -20,39 +20,37 @@ Socratic discussion
 
 Participants use Socratic questions to examine education, self-directed learning, centralized power, decentralization, and Bitcoin. The discussion asks participants to consider whether an informed public can evaluate the money system and why decentralized systems may be difficult for those in power to control.
 
-## Preparation
+#### Preparation
 
-### Materials
+**Materials**
 
-### Setup
+#### Setup
 
-## Procedure
+#### Procedure
 
-### Step 1
+##### Step 1
 
 Discuss whether people in power under fiat money favor an educated citizenry that understands the money system.
 
-### Step 2
+##### Step 2
 
 Discuss self-education, learning how to learn, and critical thinking.
 
-### Step 3
+##### Step 3
 
 Ask whether those in power can stop the use of decentralized money such as Bitcoin, and discuss why decentralization matters.
 
-## Review
-
-### Key points
+#### Key points
 
 The desired teaching ideas are the value of educating yourself and why decentralization matters.
 
-### Discussion questions
+#### Discussion questions
 
 Can those in power stop anyone from using decentralized money?
 
-## Notes
+#### Notes
 
-## Additional resources
+#### Resources and references
 
 Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
 

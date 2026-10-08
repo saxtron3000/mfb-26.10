@@ -24,45 +24,43 @@ Participants use an online SHA-256 generator to hash a message, repeat the same 
 >
 > Never paste a seed phrase, private key, password, recovery code, personal information, or a real financial record into an online hash tool.
 
-## Preparation
+#### Preparation
 
-### Materials
+**Materials**
 
 - Internet access.
 
-### Setup
+#### Setup
 
 Explain that hashing turns a digital message into a fixed-length code that acts as a unique identifier.
 
-## Procedure
+#### Procedure
 
-### Step 1
+##### Step 1
 
 Open the SHA-256 online generator and generate a hash for a string or input value.
 
-### Step 2
+##### Step 2
 
 Generate the hash again using the same message and compare the result.
 
-### Step 3
+##### Step 3
 
 Change the message slightly and observe that the code is completely different. Compare the lengths of hashes from differently sized inputs.
 
-## Review
-
-### Key points
+#### Key points
 
 The same message produces the same hash; small changes produce a very different hash; output length is fixed.
 
-### Discussion questions
+#### Discussion questions
 
-## Notes
+#### Notes
 
 **Bitcoin Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show), specifically proof-of-work preparation. Use the approved protocol and required rule-and-role explanation; otherwise, this activity is formative.
 
 Hash functions are described as one-way methods.
 
-## Additional resources
+#### Resources and references
 
 [SHA-256 Online Generator](https://tools.keycdn.com/sha256-online-generator) is the browser-based tool used in this activity to create and compare SHA-256 hashes from learner-entered text.
 

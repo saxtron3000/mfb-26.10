@@ -24,33 +24,31 @@ Participants watch “Bitcoin Is Generational Wealth,” a short film by Matt Ho
 >
 > A film can make claims about saving, value, or the future. Learners should identify the evidence, assumptions, trade-offs, and uncertainty rather than treat those claims as a reason to acquire bitcoin.
 
-## Preparation
+#### Preparation
 
-### Materials
+**Materials**
 
 - Internet access and video playback.
 
-### Setup
+#### Setup
 
-## Procedure
+#### Procedure
 
-### Step 1
+##### Step 1
 
 Open the video.
 
-### Step 2
+##### Step 2
 
 Watch the video.
 
-## Review
+#### Key points
 
-### Key points
+#### Discussion questions
 
-### Discussion questions
+#### Notes
 
-## Notes
-
-## Additional resources
+#### Resources and references
 
 [“Bitcoin Is Generational Wealth”](https://www.youtube.com/watch?v=3Rnqst5qCgA&ab_channel=SwanBitcoin), a short film by Matt Hornick and Tomer Strolight, presents a perspective on money, saving, and intergenerational thinking for participants to examine rather than financial advice to follow.
 

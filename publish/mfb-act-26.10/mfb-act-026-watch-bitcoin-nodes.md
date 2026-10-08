@@ -24,37 +24,35 @@ Participants watch “How To Setup Bitcoin Core,” a video about setting up Bit
 >
 > This activity teaches the role of a node. Do not require learners to install software, run infrastructure, use personal devices, or expose personal network information.
 
-## Preparation
+#### Preparation
 
-### Materials
+**Materials**
 
 - Internet access and video playback.
 
-### Setup
+#### Setup
 
-## Procedure
+#### Procedure
 
-### Step 1
+##### Step 1
 
 Open “How To Setup Bitcoin Core.”
 
-### Step 2
+##### Step 2
 
 Watch the video.
 
-### Step 3
+##### Step 3
 
 Explain that Bitcoin Core is one option for running a node and that it downloads the blockchain before checking newly arriving blocks.
 
-## Review
+#### Key points
 
-### Key points
+#### Discussion questions
 
-### Discussion questions
+#### Notes
 
-## Notes
-
-## Additional resources
+#### Resources and references
 
 [“How To Setup Bitcoin Core”](https://youtu.be/xc_TxlByxeY) is the video used in this activity. It introduces Bitcoin Core as one way to run a node and supports discussion of block validation and maintaining a blockchain copy.
 
