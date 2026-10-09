@@ -2,7 +2,11 @@
 
 ## Objective
 
-Create one complete, production-ready design brief for every pipeline-eligible `BD-V-###` asset in `workspace/08_assets.md`, in ascending **numeric** asset-ID order (`001`, `002`, …). Each brief translates the approved asset-index record into a precise instruction for later JSON-reference and production work; it does not create the visual itself. Do not create a brief for an `External Image`: it is copied from its approved external source and manually inserted into the Diploma.
+Create one complete, production-ready design brief for every non-postponed, pipeline-eligible `BD-V-###` asset in `workspace/08_assets.md`, in ascending **numeric** asset-ID order (`001`, `002`, …). Each brief translates the approved asset-index record into a precise instruction for later JSON-reference and production work; it does not create the visual itself. Do not create a brief for an `External Image`: it is copied from its approved external source and manually inserted into the Diploma.
+
+## Postponed assets
+
+Skip every asset whose Type or Status is `POSTPONED`. Do not create, update, or regenerate its brief or any downstream production record, and do not change its existing description, guide anchor, or production-log record. Postponed assets are deferred production records, not incomplete work.
 
 ## Read first
 
@@ -19,11 +23,11 @@ Treat `workspace/08_assets.md` as the instructional authority. Style references 
 
 ## Scope and ordering
 
-1. Extract every pipeline-eligible asset row whose ID exactly matches `BD-V-###` from the visual index. Ignore section-heading rows, examples, and rows whose Type is `External Image`.
+1. Extract every non-postponed, pipeline-eligible asset row whose ID exactly matches `BD-V-###` from the visual index. Ignore section-heading rows, examples, and rows whose Type is `POSTPONED` or `External Image`.
 2. Sort IDs by their three-digit number, not by visual-index position, guide section, filename order, or priority.
 3. Process one asset completely before beginning the next. Re-run safely: inspect the destination first and update an existing brief rather than creating a duplicate.
 4. Write each result to `assets/briefs/bd-v-###-brief.md`, using the lowercase, zero-padded ID. Create no per-asset folders or prompts.
-5. A deferred, conditional, supporting, or non-production pipeline-eligible asset still needs a brief. State its status and its exact production restriction; never silently omit it. An `External Image` is not pipeline-eligible and must have no brief.
+5. A deferred, conditional, supporting, or non-production pipeline-eligible asset still needs a brief unless its Type or Status is `POSTPONED`. State its status and its exact production restriction; never silently omit it. An `External Image` is not pipeline-eligible and must have no brief.
 
 ## Required brief content
 
@@ -126,6 +130,6 @@ After writing and reviewing each brief:
 1. Verify the filename, H1 ID, source-row ID, and asset-list row match exactly.
 2. Update that asset’s `Brief` cell in `assets/assets-list.md` to `Created — \`assets/briefs/bd-v-###-brief.md\``. Replace only the brief-status text; preserve the row’s other workflow columns.
 3. Recalculate the `Design briefs: N created` total to equal the number of asset-list rows marked created with an existing matching brief file. Do not claim a file is created until it exists and passes the completion criteria.
-4. At batch end, confirm that every pipeline-eligible indexed ID has exactly one matching brief, there are no unlogged newly created briefs, the log paths exist, and the files were processed in numeric order. Report External Images separately as manual insertions, not as deferred or blocked briefs.
+4. At batch end, confirm that every non-postponed, pipeline-eligible indexed ID has exactly one matching brief, there are no unlogged newly created briefs, the log paths exist, and the files were processed in numeric order. Report POSTPONED assets as skipped deferred records and External Images separately as manual insertions, not as deferred or blocked briefs.
 
 Do not modify `workspace/08_assets.md`, guide content, style sources, JSON references, generated images, VM status, or MG-package status while performing this task. If filesystem writes are unavailable, return the completed brief(s) and the exact `assets/assets-list.md` changes required, but do not claim they were saved.

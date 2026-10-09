@@ -484,6 +484,7 @@ USE: Educator-only diagram; see the asset index brief.
 [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) is optional follow-on learning beyond the Bitcoin Diploma. Detailed [mining](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work), transaction mechanics, Lightning operations, [multisignature](https://programs.myfirstbitcoin.org/lexicon/en/#multisignature-multisig) design, institutional [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody), organizational treasury, regulation, accounting, tax, compliance, investment analysis, policy, and deep technical topics do not belong in the required beginner experience.
 
 <!-- VISUAL: BD-V-003
+TYPE: POSTPONED
 ALT: All four Bitcoin Diploma modules form the required learning arc; locally selected Connect learning remains required and Advanced learning lies beyond the Bitcoin Diploma.
 ASSET: assets/briefs/bd-v-003-brief.md
 STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
@@ -1066,6 +1067,7 @@ Teach the difference explicitly:
 - A **property** describes a quality that can make it useful: [durability](https://programs.myfirstbitcoin.org/lexicon/en/#durability), [portability](https://programs.myfirstbitcoin.org/lexicon/en/#portability), [divisibility](https://programs.myfirstbitcoin.org/lexicon/en/#divisibility), [fungibility](https://programs.myfirstbitcoin.org/lexicon/en/#fungibility), [scarcity](https://programs.myfirstbitcoin.org/lexicon/en/#scarcity), [acceptability](https://programs.myfirstbitcoin.org/lexicon/en/#acceptability), or [verifiability](https://programs.myfirstbitcoin.org/lexicon/en/#verifiability).
 
 <!-- VISUAL: BD-V-008
+TYPE: POSTPONED
 ALT: Three money functions describe what money does; seven properties describe qualities that support those functions, with trade-offs depending on purpose.
 ASSET: assets/briefs/bd-v-008-brief.md
 STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
@@ -1186,6 +1188,7 @@ Ask learners to identify:
 6. what would make the payment harder if acceptance or trust broke down.
 
 <!-- VISUAL: BD-V-015
+TYPE: POSTPONED
 ALT: A fiat-payment map distinguishes central-bank, commercial-bank, government, citizen, business, and payment-service roles, claims, instructions, and dependencies.
 ASSET: assets/briefs/bd-v-015-brief.md
 STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
@@ -1628,6 +1631,7 @@ Use a few conversions:
 - 1 [sat](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat) = 0.00000001 bitcoin.
 
 <!-- VISUAL: BD-V-029
+TYPE: POSTPONED
 ALT: One bitcoin equals 100 million sats; the displayed fractional bitcoin and sat quantities describe equivalent amounts without changing the total supply.
 ASSET: assets/briefs/bd-v-029-brief.md
 STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.

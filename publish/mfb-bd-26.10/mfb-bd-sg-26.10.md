@@ -12,6 +12,7 @@ The Bitcoin Diploma is an independent, open-source introduction to money and Bit
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License unless stated otherwise. You may share and adapt it with attribution to My First Bitcoin, and you must use the same license for adaptations.
 
 <!-- VISUAL: BD-V-001
+TYPE: POSTPONED
 SANITY: Manually copy the approved external Creative Commons Attribution-ShareAlike 4.0 licence-mark JPEG here during Diploma production. Do not use the asset-generation or Claude pipeline.
 ALT: Creative Commons Attribution-ShareAlike 4.0 licence mark beside the written licence statement.
 STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
@@ -46,6 +47,7 @@ This approach matters because money affects every person. People should be able 
 **Critical thinking** means asking clear questions, checking evidence, and comparing [trade-offs](https://programs.myfirstbitcoin.org/lexicon/en/#trade-off). Bitcoin makes strong claims about money and ownership. These claims deserve careful study. During this course, distinguish facts from opinions, and possibilities from guarantees.
 
 <!-- VISUAL: BD-V-002
+TYPE: POSTPONED
 ALT: A repeatable critical-thinking loop for checking claims, evidence, alternatives, trade-offs, and uncertainty.
 ASSET: assets/briefs/bd-v-002-brief.md
 STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
@@ -137,6 +139,7 @@ Each module follows the same rhythm:
 5. Review how it connects to the next module.
 
 <!-- VISUAL: BD-V-006
+TYPE: POSTPONED
 ALT: Five-step learning rhythm from learning an idea to applying, explaining, and connecting it.
 ASSET: assets/briefs/bd-v-006-brief.md
 STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
@@ -221,6 +224,7 @@ The Diploma consists of a four-stage learning arc: **Problem → Solution → Ac
 A topic is not unimportant because it is outside the Diploma. It may simply require more time or prior knowledge.
 
 <!-- VISUAL: BD-V-003
+TYPE: POSTPONED
 ALT: Four-module Diploma pathway showing shared learning, educator adaptation, required local connection, and Advanced Learning as a separate path.
 ASSET: assets/briefs/bd-v-003-brief.md
 STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
@@ -229,6 +233,7 @@ STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.
 ### How the learning path is organized
 
 <!-- VISUAL: BD-V-004
+TYPE: POSTPONED
 ALT: Problem, Solution, Action, and Connect roadmap for the four-module Diploma.
 ASSET: assets/briefs/bd-v-004-brief.md
 STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
@@ -242,6 +247,7 @@ STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.
 | **Module 4: Bitcoin in Your Community** | **Connect** | How do the problem, solution, and safe action connect to this community? | You can connect the course learning to a local need, alternative, safe task, and responsible next step. |
 
 <!-- VISUAL: BD-V-005
+TYPE: POSTPONED
 ALT: Accessible four-module reference table showing role, guiding question, and learner outcome.
 ASSET: assets/briefs/bd-v-005-brief.md
 STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
@@ -311,6 +317,7 @@ Useful money also tends to have several properties:
 | [Verifiability](https://programs.myfirstbitcoin.org/lexicon/en/#verifiability) and [recognizability / “likeness”](https://programs.myfirstbitcoin.org/lexicon/en/#recognizability-likeness) | Can people check that it is genuine and readily identify equivalent units? |
 
 <!-- VISUAL: BD-V-007
+TYPE: POSTPONED
 ALT: Money properties paired with questions for comparison.
 ASSET: assets/briefs/bd-v-007-brief.md
 STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
@@ -321,6 +328,7 @@ No form of money scores perfectly.
 People also compare money by its **[soundness](https://programs.myfirstbitcoin.org/lexicon/en/#sound-money)**: whether its supply is difficult to expand and whether its properties support reliable use across time. “[Sound money](https://programs.myfirstbitcoin.org/lexicon/en/#sound-money)” is a judgment, not a fact label. To use it well, state the criteria and compare different forms of money by the same standards.
 
 <!-- VISUAL: BD-V-008
+TYPE: POSTPONED
 ALT: Linked diagram of money’s three functions and seven useful properties.
 ASSET: assets/briefs/bd-v-008-brief.md
 STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
@@ -434,12 +442,14 @@ The fiat system has several main participants:
 | Citizens and businesses | Earn, save, borrow, invest, pay taxes, set [prices](https://programs.myfirstbitcoin.org/lexicon/en/#price), and exchange goods and services. |
 
 <!-- VISUAL: BD-V-015
+TYPE: POSTPONED
 ALT: Fiat-system map showing participants, claims, rules, taxes, spending, and payment instructions.
 ASSET: assets/briefs/bd-v-015-brief.md
 STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
 -->
 
 <!-- VISUAL: BD-V-014
+TYPE: POSTPONED
 ALT: Comparison of the main fiat-system participants and their roles.
 ASSET: assets/briefs/bd-v-014-brief.md
 STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
@@ -538,6 +548,7 @@ People often seek alternatives to holding cash when they believe it will lose [p
 | Stocks | Ownership in productive businesses, possible income and growth | Business risk, market [volatility](https://programs.myfirstbitcoin.org/lexicon/en/#volatility), [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) through institutions, and need for financial knowledge |
 
 <!-- VISUAL: BD-V-020
+TYPE: POSTPONED
 ALT: Non-ranked comparison of precious metals, real estate, and stocks with reasons to choose them and trade-offs.
 ASSET: assets/briefs/bd-v-020-brief.md
 STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
@@ -866,6 +877,7 @@ One bitcoin (1 BTC) can be divided into **100,000,000 [satoshis](https://program
 | 0.00000001 BTC | 1 [sat](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat) |
 
 <!-- VISUAL: BD-V-029
+TYPE: POSTPONED
 ALT: Bitcoin and satoshi denominations showing equivalent amounts at different unit scales.
 ASSET: assets/briefs/bd-v-029-brief.md
 STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
@@ -1181,6 +1193,7 @@ ASSET: assets/briefs/bd-v-039-brief.md
 | Main [trade-off](https://programs.myfirstbitcoin.org/lexicon/en/#trade-off) | Familiar support, with provider dependence | Direct control, with backup and error responsibility |
 
 <!-- VISUAL: BD-V-040
+TYPE: POSTPONED
 ALT: Comparison of custodial and self-custodial use by key control, recovery, and trade-offs.
 ASSET: assets/briefs/bd-v-040-brief.md
 STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
@@ -1212,6 +1225,7 @@ ASSET: assets/briefs/bd-v-042-brief.md
 | Custodial account | Familiar login and available support. | A provider controls access and may impose limits. |
 
 <!-- VISUAL: BD-V-041
+TYPE: POSTPONED
 ALT: Comparison of hot, hardware or cold, and custodial wallet arrangements with their responsibilities.
 ASSET: assets/briefs/bd-v-041-brief.md
 STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
@@ -1355,6 +1369,7 @@ ASSET: assets/briefs/bd-v-048-brief.md
 | Local context | Is the route lawful and appropriate where I live, and what records may matter? |
 
 <!-- VISUAL: BD-V-049
+TYPE: POSTPONED
 ALT: Risk areas and questions to ask before acquiring or exchanging bitcoin.
 ASSET: assets/briefs/bd-v-049-brief.md
 STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
@@ -1389,6 +1404,7 @@ ASSET: assets/briefs/bd-v-050-brief.md
 | Beginner checks | Correct address, network, amount, fee, and [confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation) status | Correct invoice or request, amount, expiry, [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody), and payment result |
 
 <!-- VISUAL: BD-V-051
+TYPE: POSTPONED
 ALT: Accessible table comparing on-chain Bitcoin and Lightning payment questions and trade-offs.
 ASSET: assets/briefs/bd-v-051-brief.md
 STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
@@ -1524,12 +1540,14 @@ The result of your workshop should be an explanation or skill, not only a comple
 ### Local Bitcoin tools and resources
 
 <!-- VISUAL: BD-V-057
+TYPE: POSTPONED
 ALT: Verification questions for evaluating local Bitcoin tools and resources.
 ASSET: assets/briefs/bd-v-057-brief.md
 STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
 -->
 
 <!-- VISUAL: BD-V-058
+TYPE: POSTPONED
 ALT: Local tool record template for documenting purpose, verification, custody, privacy, costs, support, and current status.
 ASSET: assets/briefs/bd-v-058-brief.md
 STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.

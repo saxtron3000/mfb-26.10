@@ -4,6 +4,10 @@
 
 Attach this file to every Claude Design request that turns a pipeline-eligible Bitcoin Diploma contract into a production asset. Each eligible asset receives an approved Codex-generated SVG reference, its matching PNG rendering, and its conformance report. Claude must create the editable, accessible source and upload-ready deliverables; it must not publish a reference image. An `External Image`, including `BD-V-001`, is outside this pipeline: copy its approved external JPEG into the Diploma manually, without a brief, AI reference, or Claude package. The current reference batch defers `BD-V-070` and `BD-V-075`; these prompts do not release deferred items.
 
+## Postponed assets
+
+Skip every asset whose Type or Status is `POSTPONED`. Do not create, update, regenerate, upload, or mark created its production bundle or any upstream/downstream asset record. Do not alter its existing brief, guide anchor, or production-log record. Postponed assets are deferred production records and are not eligible for a Claude Design request.
+
 The complete entry in [08_assets.md](08_assets.md) is the instructional source of truth. The Claude Design System and its local authoring contract are the source of truth for brand and design-system choices. Where they conflict, stop and report the specific conflict for resolution.
 
 ## Folder routing

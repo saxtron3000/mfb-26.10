@@ -1,19 +1,19 @@
 # Bitcoin Diploma asset notes
 
 **## BD-V-001**
-**Type:**  External Image
+**Type:** POSTPONED
 **Status:** POSTPONED
 **Purpose:** This asset has been postponed
 **Description:** This asset has been postponed
 
 **## BD-V-002**
-**Type:** Diagram
+**Type:** POSTPONED
 **Status:** POSTPONED
 **Purpose:** This asset has been postponed
 **Description:** This asset has been postponed
 
 **## BD-V-076**
-**Type:** Image
+**Type:** POSTPONED
 **Status:** POSTPONED
 **Purpose:** This asset has been postponed
 **Description:** This asset has been postponed
@@ -24,37 +24,37 @@
 **Description:** The diagram moves from left to right, showing a series of programs and arrows connecting them. On the left is the introduction to Bitcoin course. After this, the Bitcoin diploma. After this, the educator training program. After this, Edcuator. After this, community leader. Information should come from this website https://journey.myfirstbitcoin.org/
 
 **## BD-V-006**
-**Type:** Diagram
+**Type:** POSTPONED
 **Status:** POSTPONED
 **Purpose:** This asset has been postponed
 **Description:** This asset has been postponed
 
 **## BD-V-003**
-**Type:** Diagram
+**Type:** POSTPONED
 **Status:** POSTPONED
 **Purpose:** This asset has been postponed
 **Description:** This asset has been postponed
 
 **## BD-V-004**
-**Type:** Diagram
+**Type:** POSTPONED
 **Status:** POSTPONED
 **Purpose:** This asset has been postponed
 **Description:** This asset has been postponed
 
 **## BD-V-005**
-**Type:** Table (Replacement)
+**Type:** POSTPONED
 **Status:** POSTPONED
 **Purpose:** This asset has been postponed
 **Description:** This asset has been postponed
 
 **## BD-V-007**
-**Type:** Table (Replacement)
+**Type:** POSTPONED
 **Status:** POSTPONED
 **Purpose:** This asset has been postponed
 **Description:** This asset has been postponed
 
 **## BD-V-008**
-**Type:** Diagram
+**Type:** POSTPONED
 **Status:** POSTPONED
 **Purpose:** This asset has been postponed
 **Description:** This asset has been postponed
@@ -85,13 +85,13 @@
 **Description:** This timeline moves from left to right and includes the following elements: barter and direct exchange, commodity money, standard coins, representative paper, bank and government money, and finally digital money. Each one is represented by an icon and has no text.The timeline starts on the left and finishes on the right, and all of the icons are arranged in the correct order to show the evolution of money.
 
 **## BD-V-014**
-**Type:** Table (Replacement)
+**Type:** POSTPONED
 **Status:** POSTPONED
 **Purpose:** This asset has been postponed
 **Description:** This asset has been postponed
 
 **## BD-V-015**
-**Type:** Diagram
+**Type:** POSTPONED
 **Status:** POSTPONED
 **Purpose:** This asset has been postponed
 **Description:** This asset has been postponed
@@ -112,7 +112,7 @@
 **Description:** This illustration has two different baskets. The first basket has goods in it and it costs 100 units of the currency and it has various items in the second side of this illustration has the same basket, but it costs 110 units of the currency. Behind this we see that the purchasing power of the currency has reduced.
 
 **## BD-V-020**
-**Type:** Table (Replacement)
+**Type:** POSTPONED
 **Status:** POSTPONED
 **Purpose:** This asset has been postponed
 **Description:** This asset has been postponed
@@ -173,7 +173,7 @@
 **Description:** This diagram is a graphic that represents Bitcoin being issued over the years from its creation in 2009 all the way up until the coins have been distributed. It's using the Bitcoin halving, which shows the first epoch between 2009 and 2012, block height 21, sorry, 2010 210,000 issuing 50 blocks, then 25, then 12.5, then 6.25, then 3.125, until eventually this curve tails to a flat 21 million.
 
 **## BD-V-029**
-**Type:** Table (Replacement)
+**Type:** POSTPONED
 **Status:** POSTPONED
 **Purpose:** This asset has been postponed
 **Description:** This asset has been postponed
@@ -237,7 +237,7 @@
 **Description:** Show two mobile devices. One device has a key on it and is being held in the user's hands. The other device is being held in another user's hand but doesn't have a key on it. The key is on a server placed above the user in the cloud.
 
 **## BD-V-040**
-**Type:** Table (Replacement)
+**Type:** POSTPONED
 **Status:** POSTPONED
 **Purpose:** This asset has been postponed
 **Description:** This asset has been postponed
@@ -248,7 +248,7 @@
 **Description:** A hot wallet is a cell phone which is connected via signals to the internet. And the second device is a cold wallet which does not have connection to the internet. So shows a Wi-Fi with a cross through it. The first one has a Wi-Fi with a check next to it. So show a cell phone with the Wi-Fi icon with a check next to it and then show another device which almost looks like a calculator with a Wi-Fi cancelled on it.
 
 **## BD-V-041**
-**Type:** Table (Replacement)
+**Type:** POSTPONED
 **Status:** POSTPONED
 **Purpose:** This asset has been postponed
 **Description:** This asset has been postponed
@@ -290,7 +290,7 @@
 **Description:** The diagram shows a person receiving Bitcoin via earning it, via a peer-to-peer exchange, and via using an exchange or broker. So, have one person who's earning it through working and receiving it as a merchant? Then, show the same person, exchanging cash with another user to buy Bitcoin, and then show the same person logging onto a computer and going to an exchange. The computer screen shows prices and a Bitcoin logo.
 
 **## BD-V-049**
-**Type:** Table (Replacement)
+**Type:** POSTPONED
 **Status:** POSTPONED
 **Purpose:** This asset has been postponed
 **Description:** This asset has been postponed
@@ -301,7 +301,7 @@
 **Description:** This diagram shows on the left-hand side a Bitcoin logo and on the right hand side a lightning bolt.
 
 **## BD-V-051**
-**Type:** Table (Replacement)
+**Type:** POSTPONED
 **Status:** POSTPONED
 **Purpose:** This asset has been postponed
 **Description:** This asset has been postponed
@@ -332,13 +332,13 @@
 **Description:** Three words linked together using arrows: presentation, practice, and production, flowing left to right.
 
 **## BD-V-057**
-**Type:** Table (Replacement)
+**Type:** POSTPONED
 **Status:** POSTPONED
 **Purpose:** This asset has been postponed
 **Description:**
 
 **## BD-V-058**
-**Type:** Table (Replacement)
+**Type:** POSTPONED
 **Status:** POSTPONED
 **Purpose:** This asset has been postponed
 **Description:**

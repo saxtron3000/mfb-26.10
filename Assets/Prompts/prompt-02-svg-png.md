@@ -2,6 +2,10 @@
 
 This prompt applies only to pipeline-eligible assets. Do not create SVG or PNG references for an `External Image`; it is copied from its approved external source and manually inserted into the Diploma.
 
+## Postponed assets
+
+Skip every asset whose Type or Status is `POSTPONED`. Do not create, update, regenerate, or mark created its SVG or PNG reference, and do not alter its existing brief, guide anchor, or production-log record. Postponed assets are deferred production records, not blocked reference-image work.
+
 ## Purpose
 
 Have Codex create one SVG reference image and its matching PNG rendering for a later editable micrographic implementation in Sanity. Their only purpose is to show the approved composition and visual direction. They are not production assets, uploads, or substitutes for editable text, diagrams, tables, QR codes, or interfaces.

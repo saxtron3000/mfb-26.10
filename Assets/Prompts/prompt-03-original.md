@@ -2,6 +2,10 @@ Build a My First Bitcoin Diploma micrographic.
 
 This prompt does not apply to an `External Image`. An External Image is copied from its approved external source and manually inserted into the Diploma; do not create a micrographic, editable source, or package for it.
 
+## Postponed assets
+
+Skip every asset whose Type or Status is `POSTPONED`. Do not create, update, regenerate, or mark created its micrographic, editable source, preview, package, or other production record. Do not alter its existing brief, guide anchor, or production-log record. Postponed assets are deferred production records, not incomplete work.
+
 What it should show: [describe the content, the pieces, and any exact numbers or labels]
 
 Use the supplied asset brief as the binding content contract. Preserve its

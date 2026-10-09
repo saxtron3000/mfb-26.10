@@ -2,6 +2,10 @@
 
 This contract applies only to pipeline-eligible assets. Do not create a JSON reference for an `External Image`; it is copied from its approved external source and manually inserted into the Diploma.
 
+## Postponed assets
+
+Skip every asset whose Type or Status is `POSTPONED`. Do not create, update, regenerate, or mark created its JSON reference, and do not alter its existing brief, guide anchor, or production-log record. Postponed assets are deferred production records, not blocked JSON work.
+
 ## Purpose
 
 Create the first production record for one My First Bitcoin Bitcoin Diploma asset. The record is a structured visual specification that a later asset-creation step can use. It is not an asset, a publication file, a Sanity upload, or a production implementation.
