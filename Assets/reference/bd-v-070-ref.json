@@ -1,0 +1,198 @@
+{
+  "assetId": "BD-V-070",
+  "schemaVersion": 1,
+  "status": "completed",
+  "assetType": "Table (Standalone)",
+  "recordDate": "2026-10-08",
+  "sourceFiles": {
+    "brief": "assets/briefs/bd-v-070-brief.md",
+    "briefRevision": "2026-10-08",
+    "styleReferences": []
+  },
+  "educationalPurpose": "Offers a concise optional text equivalent for the community-review decision path.",
+  "placement": {
+    "studentGuide": "exact heading `### Review: connect this to your community`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-070\nALT: Table alternative summarizing the Connect-module review and local decision questions.\nASSET: assets/briefs/bd-v-070-brief.md\n-->\n```",
+    "educatorGuide": "",
+    "guideAnchor": "Student Guide: exact heading `### Review: connect this to your community`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-070\nALT: Table alternative summarizing the Connect-module review and local decision questions.\nASSET: assets/briefs/bd-v-070-brief.md\n-->\n```\nEducator Guide: ",
+    "format": "Landscape 16:9 reference canvas, 960 × 540; Optional community-review summary table; full width."
+  },
+  "teachingPoint": "Offers a concise optional text equivalent for the community-review decision path. The learner should be able to explain the specific distinction or sequence: Local need; Function of money; Realistic alternative; Payment path; Key control; Benefit and risk; Local conditions; Responsible next step. Preserve the qualifications below when explaining it.",
+  "visualPattern": "Table",
+  "composition": {
+    "orientation": "landscape",
+    "targetAspectRatio": "16:9",
+    "readingOrder": [
+      "Local need",
+      "Function of money",
+      "Realistic alternative",
+      "Payment path",
+      "Key control",
+      "Benefit and risk",
+      "Local conditions",
+      "Responsible next step"
+    ],
+    "elements": [
+      {
+        "id": "element-01",
+        "role": "Local need",
+        "required": true,
+        "relationship": "Parallel comparison; row order is not a process or ranking",
+        "position": "Body row 1, below shared header; read cells left to right",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames. Tables: white/paper ground, purple heading region, cool-gray hairlines, short cells, prose left aligned and comparable numbers right aligned; no decorative-icon overload."
+      },
+      {
+        "id": "element-02",
+        "role": "Function of money",
+        "required": true,
+        "relationship": "Parallel comparison; row order is not a process or ranking",
+        "position": "Body row 2, below shared header; read cells left to right",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames. Tables: white/paper ground, purple heading region, cool-gray hairlines, short cells, prose left aligned and comparable numbers right aligned; no decorative-icon overload."
+      },
+      {
+        "id": "element-03",
+        "role": "Realistic alternative",
+        "required": true,
+        "relationship": "Parallel comparison; row order is not a process or ranking",
+        "position": "Body row 3, below shared header; read cells left to right",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames. Tables: white/paper ground, purple heading region, cool-gray hairlines, short cells, prose left aligned and comparable numbers right aligned; no decorative-icon overload."
+      },
+      {
+        "id": "element-04",
+        "role": "Payment path",
+        "required": true,
+        "relationship": "Parallel comparison; row order is not a process or ranking",
+        "position": "Body row 4, below shared header; read cells left to right",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames. Tables: white/paper ground, purple heading region, cool-gray hairlines, short cells, prose left aligned and comparable numbers right aligned; no decorative-icon overload."
+      },
+      {
+        "id": "element-05",
+        "role": "Key control",
+        "required": true,
+        "relationship": "Parallel comparison; row order is not a process or ranking",
+        "position": "Body row 5, below shared header; read cells left to right",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames. Tables: white/paper ground, purple heading region, cool-gray hairlines, short cells, prose left aligned and comparable numbers right aligned; no decorative-icon overload."
+      },
+      {
+        "id": "element-06",
+        "role": "Benefit and risk",
+        "required": true,
+        "relationship": "Parallel comparison; row order is not a process or ranking",
+        "position": "Body row 6, below shared header; read cells left to right",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames. Tables: white/paper ground, purple heading region, cool-gray hairlines, short cells, prose left aligned and comparable numbers right aligned; no decorative-icon overload."
+      },
+      {
+        "id": "element-07",
+        "role": "Local conditions",
+        "required": true,
+        "relationship": "Parallel comparison; row order is not a process or ranking",
+        "position": "Body row 7, below shared header; read cells left to right",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames. Tables: white/paper ground, purple heading region, cool-gray hairlines, short cells, prose left aligned and comparable numbers right aligned; no decorative-icon overload."
+      },
+      {
+        "id": "element-08",
+        "role": "Responsible next step",
+        "required": true,
+        "relationship": "Parallel comparison; row order is not a process or ranking",
+        "position": "Body row 8, below shared header; read cells left to right",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames. Tables: white/paper ground, purple heading region, cool-gray hairlines, short cells, prose left aligned and comparable numbers right aligned; no decorative-icon overload."
+      }
+    ]
+  },
+  "contentRequirements": [
+    {
+      "content": "Local need",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Function of money",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Realistic alternative",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Payment path",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Key control",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Benefit and risk",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Local conditions",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Responsible next step",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "If a table is clearer than `BD-V-069`, summarize the current review using rows for local need, function of money, realistic alternative, payment path, key control, benefit and risk, local conditions, and responsible next step. Use editable prompts rather than inventing a required test or assessment record. Keep any learner response space optional; formal evidence belongs in the educator assessment process.",
+      "source": "Asset definition / Required construction, elements, relationships, reading order, and qualifications",
+      "editable": true
+    },
+    {
+      "content": "Local need; Function of money; Realistic alternative; Payment path; Key control; Benefit and risk; Local conditions; Responsible next step. Optional eight-row summary only when clearer than BD-V-069; no required response or new formal-assessment record.",
+      "source": "Accessibility and production handoff / Alt text",
+      "editable": true
+    },
+    {
+      "content": "- Alt text: Local need; Function of money; Realistic alternative; Payment path; Key control; Benefit and risk; Local conditions; Responsible next step. Optional eight-row summary only when clearer than BD-V-069; no required response or new formal-assessment record.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-070-ref.svg` and a matching `assets/reference/bd-v-070-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Compare all table rows and column boundaries in grayscale; retain the text equivalent.",
+      "source": "Accessibility and production handoff",
+      "editable": true
+    }
+  ],
+  "style": {
+    "layoutReference": "Selected pattern: Table. Selected layout: teaching-page; full-width figure region.",
+    "palette": [
+      "#422C70",
+      "#2B1C58",
+      "#FFFFFF",
+      "#F6F6F8",
+      "#D8D8E7",
+      "#25252B",
+      "#F7941F"
+    ],
+    "typography": "Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlled emphasis. Learner-facing print copy at least 12pt. Short literal labels, left aligned and translation-ready; do not bake copy into reference artwork.",
+    "shapeAndLineRules": "Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames. Tables: white/paper ground, purple heading region, cool-gray hairlines, short cells, prose left aligned and comparable numbers right aligned; no decorative-icon overload.",
+    "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: table",
+    "emphasis": "One controlled orange instructional focal point; no orange full-field background or ranking",
+    "characters": [],
+    "propsAndIcons": [
+      "Key control"
+    ]
+  },
+  "prohibitions": [
+    "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",
+    "No real secrets, seed words, private keys, identities, balances, payable addresses, invoices or payment QR data. Fictional payment screens require editable SAMPLE — DO NOT PAY in later production.",
+    "Keep user, educator, wallet, service, node, miner and protocol roles distinct; Bitcoin is not stored inside a wallet, miners do not make the rules, and no single controller approves Bitcoin.",
+    "No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.",
+    "No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.",
+    "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation.",
+    "Keep any learner response space optional; formal evidence belongs in the educator assessment process.",
+    "Production restriction: optional replacement for BD-V-069 only when editorially clearer; do not require both."
+  ],
+  "review": {
+    "briefCompliant": true,
+    "assetRegisterCompliant": true,
+    "styleCompliant": true,
+    "openDecisionsPreventCreation": false,
+    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Reference copy remains suppressed; production labels and qualifications remain editable."
+  },
+  "unresolved": [
+    "Conditional alternative only: use this table if it is clearer than BD-V-069. It does not create an additional required learner task or assessment record."
+  ]
+}

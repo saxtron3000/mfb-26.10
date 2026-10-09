@@ -1,0 +1,130 @@
+{
+  "assetId": "BD-V-061",
+  "schemaVersion": 1,
+  "status": "completed",
+  "assetType": "Illustration",
+  "recordDate": "2026-10-08",
+  "sourceFiles": {
+    "brief": "assets/briefs/bd-v-061-brief.md",
+    "briefRevision": "2026-10-08",
+    "styleReferences": []
+  },
+  "educationalPurpose": "Teach the relationship in the controlling direction: Business owner hands coffee.",
+  "placement": {
+    "studentGuide": "exact heading `### Local spending and receiving scenarios`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-061\nALT: Local spending and receiving scenario choices for comparing needs, payment paths, custody, and risks.\nASSET: assets/briefs/bd-v-061-brief.md\n-->\n```",
+    "educatorGuide": "",
+    "guideAnchor": "Student Guide: exact heading `### Local spending and receiving scenarios`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-061\nALT: Local spending and receiving scenario choices for comparing needs, payment paths, custody, and risks.\nASSET: assets/briefs/bd-v-061-brief.md\n-->\n```\nEducator Guide: ",
+    "format": "Landscape 16:9 reference canvas, 960 × 540; Reusable scenario storyboard; full width."
+  },
+  "teachingPoint": "Teach the relationship in the controlling direction: Business owner hands coffee. The learner should be able to explain the specific distinction or sequence: Business owner hands coffee; Customer pays with bitcoin; Generic nonfunctional payment device. Preserve the qualifications below when explaining it.",
+  "visualPattern": "Callout",
+  "composition": {
+    "orientation": "landscape",
+    "targetAspectRatio": "16:9",
+    "readingOrder": [
+      "Business owner hands coffee",
+      "Customer pays with bitcoin",
+      "Generic nonfunctional payment device"
+    ],
+    "elements": [
+      {
+        "id": "element-01",
+        "role": "Business owner hands coffee",
+        "required": true,
+        "relationship": "Two-character coffee counter scene; coffee handoff and phone attention visible. No real merchant, destination or acceptance claim.",
+        "position": "Reading-order region 1 in coffee; precise spatial relation: Two-character coffee counter scene; coffee handoff and phone attention visible. No real merchant, destination or acceptance claim.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-02",
+        "role": "Customer pays with bitcoin",
+        "required": true,
+        "relationship": "Two-character coffee counter scene; coffee handoff and phone attention visible. No real merchant, destination or acceptance claim.",
+        "position": "Reading-order region 2 in coffee; precise spatial relation: Two-character coffee counter scene; coffee handoff and phone attention visible. No real merchant, destination or acceptance claim.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-03",
+        "role": "Generic nonfunctional payment device",
+        "required": true,
+        "relationship": "Two-character coffee counter scene; coffee handoff and phone attention visible. No real merchant, destination or acceptance claim.",
+        "position": "Reading-order region 3 in coffee; precise spatial relation: Two-character coffee counter scene; coffee handoff and phone attention visible. No real merchant, destination or acceptance claim.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      }
+    ]
+  },
+  "contentRequirements": [
+    {
+      "content": "Business owner hands coffee",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Customer pays with bitcoin",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Generic nonfunctional payment device",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Show a coffee-shop transaction: a server hands coffee to a customer, who pays with bitcoin. Use a generic scene without a real merchant, payment destination, or claim of acceptance.",
+      "source": "Asset definition / Required construction, elements, relationships, reading order, and qualifications",
+      "editable": true
+    },
+    {
+      "content": "Business owner hands coffee; Customer pays with bitcoin; Generic nonfunctional payment device. Two-character coffee counter scene; coffee handoff and phone attention visible. No real merchant, destination or acceptance claim.",
+      "source": "Accessibility and production handoff / Alt text",
+      "editable": true
+    },
+    {
+      "content": "- Alt text: Business owner hands coffee; Customer pays with bitcoin; Generic nonfunctional payment device. Two-character coffee counter scene; coffee handoff and phone attention visible. No real merchant, destination or acceptance claim.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-061-ref.svg` and a matching `assets/reference/bd-v-061-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.",
+      "source": "Accessibility and production handoff",
+      "editable": true
+    }
+  ],
+  "style": {
+    "layoutReference": "Selected pattern: Callout. Selected layout: teaching-page; full-width figure region.",
+    "palette": [
+      "#422C70",
+      "#2B1C58",
+      "#FFFFFF",
+      "#F6F6F8",
+      "#D8D8E7",
+      "#25252B",
+      "#F7941F"
+    ],
+    "typography": "Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlled emphasis. Learner-facing print copy at least 12pt. Short literal labels, left aligned and translation-ready; do not bake copy into reference artwork.",
+    "shapeAndLineRules": "Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames.",
+    "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: coffee",
+    "emphasis": "One controlled orange instructional focal point; no orange full-field background or ranking",
+    "characters": [
+      "C02",
+      "C04"
+    ],
+    "propsAndIcons": [
+      "Generic nonfunctional payment device"
+    ]
+  },
+  "prohibitions": [
+    "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",
+    "No real secrets, seed words, private keys, identities, balances, payable addresses, invoices or payment QR data. Fictional payment screens require editable SAMPLE — DO NOT PAY in later production.",
+    "Keep user, educator, wallet, service, node, miner and protocol roles distinct; Bitcoin is not stored inside a wallet, miners do not make the rules, and no single controller approves Bitcoin.",
+    "No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.",
+    "No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.",
+    "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation."
+  ],
+  "review": {
+    "briefCompliant": true,
+    "assetRegisterCompliant": true,
+    "styleCompliant": true,
+    "openDecisionsPreventCreation": false,
+    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Reference copy remains suppressed; production labels and qualifications remain editable."
+  },
+  "unresolved": [
+    "The index’s Dictated production directions control conflicting purpose, construction, format and type. The complete original row above is archival source evidence, not permission to reintroduce superseded scenes. The controlling direction is preserved below.",
+    "Current guide marker ALT describes an older composition. Preserve the marker unchanged as placement evidence; the dictated scene and the new alt text below control this handoff. Guide content is outside this task."
+  ]
+}

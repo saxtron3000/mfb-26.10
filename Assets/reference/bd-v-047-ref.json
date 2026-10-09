@@ -1,0 +1,154 @@
+{
+  "assetId": "BD-V-047",
+  "schemaVersion": 1,
+  "status": "completed",
+  "assetType": "Illustration",
+  "recordDate": "2026-10-08",
+  "sourceFiles": {
+    "brief": "assets/briefs/bd-v-047-brief.md",
+    "briefRevision": "2026-10-08",
+    "styleReferences": []
+  },
+  "educationalPurpose": "Teach the relationship in the controlling direction: Urgency.",
+  "placement": {
+    "studentGuide": "exact heading `### Safety checklist`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-047\nALT: Scam red flags including urgency, impersonation, changed destinations, guaranteed returns, and requests for secrets.\nASSET: assets/briefs/bd-v-047-brief.md\n-->\n```",
+    "educatorGuide": "exact heading `### Scam recognition and safe response`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-047\nALT: An invented message illustrates impersonation, urgency, recovery requests, and other scam signals with a stop-and-verify response and no functioning payment link.\nASSET: assets/briefs/bd-v-047-brief.md\nUSE: Shared Student Guide master.\n-->\n```",
+    "guideAnchor": "Student Guide: exact heading `### Safety checklist`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-047\nALT: Scam red flags including urgency, impersonation, changed destinations, guaranteed returns, and requests for secrets.\nASSET: assets/briefs/bd-v-047-brief.md\n-->\n```\nEducator Guide: exact heading `### Scam recognition and safe response`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-047\nALT: An invented message illustrates impersonation, urgency, recovery requests, and other scam signals with a stop-and-verify response and no functioning payment link.\nASSET: assets/briefs/bd-v-047-brief.md\nUSE: Shared Student Guide master.\n-->\n```",
+    "format": "Landscape 16:9 reference canvas, 960 × 540; Red-flag scam-warning illustration; half width."
+  },
+  "teachingPoint": "Teach the relationship in the controlling direction: Urgency. The learner should be able to explain the specific distinction or sequence: Urgency; Impersonation; Changed destination; Guaranteed returns; Requests for secrets. Preserve the qualifications below when explaining it.",
+  "visualPattern": "Callout",
+  "composition": {
+    "orientation": "landscape",
+    "targetAspectRatio": "16:9",
+    "readingOrder": [
+      "Urgency",
+      "Impersonation",
+      "Changed destination",
+      "Guaranteed returns",
+      "Requests for secrets"
+    ],
+    "elements": [
+      {
+        "id": "element-01",
+        "role": "Urgency",
+        "required": true,
+        "relationship": "Five crossed warning cues with equal weights. Editable stop/independent-verification/secrecy action below; retain other scam examples in adjacent copy. No real scam message.",
+        "position": "Reading-order region 1 in flags; precise spatial relation: Five crossed warning cues with equal weights. Editable stop/independent-verification/secrecy action below; retain other scam examples in adjacent copy. No real scam message.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-02",
+        "role": "Impersonation",
+        "required": true,
+        "relationship": "Five crossed warning cues with equal weights. Editable stop/independent-verification/secrecy action below; retain other scam examples in adjacent copy. No real scam message.",
+        "position": "Reading-order region 2 in flags; precise spatial relation: Five crossed warning cues with equal weights. Editable stop/independent-verification/secrecy action below; retain other scam examples in adjacent copy. No real scam message.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-03",
+        "role": "Changed destination",
+        "required": true,
+        "relationship": "Five crossed warning cues with equal weights. Editable stop/independent-verification/secrecy action below; retain other scam examples in adjacent copy. No real scam message.",
+        "position": "Reading-order region 3 in flags; precise spatial relation: Five crossed warning cues with equal weights. Editable stop/independent-verification/secrecy action below; retain other scam examples in adjacent copy. No real scam message.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-04",
+        "role": "Guaranteed returns",
+        "required": true,
+        "relationship": "Five crossed warning cues with equal weights. Editable stop/independent-verification/secrecy action below; retain other scam examples in adjacent copy. No real scam message.",
+        "position": "Reading-order region 4 in flags; precise spatial relation: Five crossed warning cues with equal weights. Editable stop/independent-verification/secrecy action below; retain other scam examples in adjacent copy. No real scam message.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-05",
+        "role": "Requests for secrets",
+        "required": true,
+        "relationship": "Five crossed warning cues with equal weights. Editable stop/independent-verification/secrecy action below; retain other scam examples in adjacent copy. No real scam message.",
+        "position": "Reading-order region 5 in flags; precise spatial relation: Five crossed warning cues with equal weights. Editable stop/independent-verification/secrecy action below; retain other scam examples in adjacent copy. No real scam message.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      }
+    ]
+  },
+  "contentRequirements": [
+    {
+      "content": "Urgency",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Impersonation",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Changed destination",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Guaranteed returns",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Requests for secrets",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Create a scam-warning illustration with red flags or crosses beside urgency, impersonation, changed destination, guaranteed returns, and requests for secrets. Do not reproduce a real scam message or payment address.",
+      "source": "Asset definition / Required construction, elements, relationships, reading order, and qualifications",
+      "editable": true
+    },
+    {
+      "content": "Urgency; Impersonation; Changed destination; Guaranteed returns; Requests for secrets. Five crossed warning cues with equal weights. Editable stop/independent-verification/secrecy action below; retain other scam examples in adjacent copy. No real scam message.",
+      "source": "Accessibility and production handoff / Alt text",
+      "editable": true
+    },
+    {
+      "content": "- Alt text: Urgency; Impersonation; Changed destination; Guaranteed returns; Requests for secrets. Five crossed warning cues with equal weights. Editable stop/independent-verification/secrecy action below; retain other scam examples in adjacent copy. No real scam message.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-047-ref.svg` and a matching `assets/reference/bd-v-047-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.",
+      "source": "Accessibility and production handoff",
+      "editable": true
+    }
+  ],
+  "style": {
+    "layoutReference": "Selected pattern: Callout. Selected layout: teaching-page; full-width figure region.",
+    "palette": [
+      "#422C70",
+      "#2B1C58",
+      "#FFFFFF",
+      "#F6F6F8",
+      "#D8D8E7",
+      "#25252B",
+      "#F7941F"
+    ],
+    "typography": "Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlled emphasis. Learner-facing print copy at least 12pt. Short literal labels, left aligned and translation-ready; do not bake copy into reference artwork.",
+    "shapeAndLineRules": "Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames.",
+    "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: flags",
+    "emphasis": "One controlled orange instructional focal point; no orange full-field background or ranking",
+    "characters": [],
+    "propsAndIcons": []
+  },
+  "prohibitions": [
+    "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",
+    "No real secrets, seed words, private keys, identities, balances, payable addresses, invoices or payment QR data. Fictional payment screens require editable SAMPLE — DO NOT PAY in later production.",
+    "Keep user, educator, wallet, service, node, miner and protocol roles distinct; Bitcoin is not stored inside a wallet, miners do not make the rules, and no single controller approves Bitcoin.",
+    "No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.",
+    "No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.",
+    "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation.",
+    "Do not use a real brand, address, payment request, or a…"
+  ],
+  "review": {
+    "briefCompliant": true,
+    "assetRegisterCompliant": true,
+    "styleCompliant": true,
+    "openDecisionsPreventCreation": false,
+    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Reference copy remains suppressed; production labels and qualifications remain editable."
+  },
+  "unresolved": [
+    "The index’s Dictated production directions control conflicting purpose, construction, format and type. The complete original row above is archival source evidence, not permission to reintroduce superseded scenes. The controlling direction is preserved below.",
+    "The original index row contains a literal ellipsis; it is preserved verbatim. No missing wording is reconstructed. The complete dictated direction controls the reference composition; omitted legacy endings are not invented."
+  ]
+}

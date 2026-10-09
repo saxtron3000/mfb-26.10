@@ -1,0 +1,115 @@
+{
+  "assetId": "BD-V-011",
+  "schemaVersion": 1,
+  "status": "completed",
+  "assetType": "Illustration",
+  "recordDate": "2026-10-08",
+  "sourceFiles": {
+    "brief": "assets/briefs/bd-v-011-brief.md",
+    "briefRevision": "2026-10-08",
+    "styleReferences": []
+  },
+  "educationalPurpose": "Teach the relationship in the controlling direction: Same bottle chilled in a convenience-store refrigerator.",
+  "placement": {
+    "studentGuide": "exact heading `### [Scarcity](https://programs.myfirstbitcoin.org/lexicon/en/#scarcity), [value](https://programs.myfirstbitcoin.org/lexicon/en/#value), and exchange`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-011\nALT: The same clean water shown as more available near a safe source and more valuable during a shortage.\nASSET: assets/briefs/bd-v-011-brief.md\n-->\n```",
+    "educatorGuide": "",
+    "guideAnchor": "Student Guide: exact heading `### [Scarcity](https://programs.myfirstbitcoin.org/lexicon/en/#scarcity), [value](https://programs.myfirstbitcoin.org/lexicon/en/#value), and exchange`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-011\nALT: The same clean water shown as more available near a safe source and more valuable during a shortage.\nASSET: assets/briefs/bd-v-011-brief.md\n-->\n```\nEducator Guide: ",
+    "format": "Landscape 16:9 reference canvas, 960 × 540; Two-panel contextual-value illustration; half to full width."
+  },
+  "teachingPoint": "Teach the relationship in the controlling direction: Same bottle chilled in a convenience-store refrigerator. The learner should be able to explain the specific distinction or sequence: Same bottle chilled in a convenience-store refrigerator; Same bottle in a hot desert setting. Preserve the qualifications below when explaining it.",
+  "visualPattern": "Comparison pair",
+  "composition": {
+    "orientation": "landscape",
+    "targetAspectRatio": "16:9",
+    "readingOrder": [
+      "Same bottle chilled in a convenience-store refrigerator",
+      "Same bottle in a hot desert setting"
+    ],
+    "elements": [
+      {
+        "id": "element-01",
+        "role": "Same bottle chilled in a convenience-store refrigerator",
+        "required": true,
+        "relationship": "Equal bottle size and amount; quiet left/right division. Reserve separate live lower/higher illustrative dollar-price labels. Never imply scarcity pricing is ethically acceptable.",
+        "position": "Reading-order region 1 in water; precise spatial relation: Equal bottle size and amount; quiet left/right division. Reserve separate live lower/higher illustrative dollar-price labels. Never imply scarcity pricing is ethically acceptable.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-02",
+        "role": "Same bottle in a hot desert setting",
+        "required": true,
+        "relationship": "Equal bottle size and amount; quiet left/right division. Reserve separate live lower/higher illustrative dollar-price labels. Never imply scarcity pricing is ethically acceptable.",
+        "position": "Reading-order region 2 in water; precise spatial relation: Equal bottle size and amount; quiet left/right division. Reserve separate live lower/higher illustrative dollar-price labels. Never imply scarcity pricing is ethically acceptable.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      }
+    ]
+  },
+  "contentRequirements": [
+    {
+      "content": "Same bottle chilled in a convenience-store refrigerator",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Same bottle in a hot desert setting",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Divide the illustration into two panels containing the same bottle of water. Show it chilled in a convenience-store refrigerator with a lower dollar price in one panel, and in a hot desert setting with a higher dollar price in the other. Use clearly illustrative prices and keep the comparison about context, not an endorsement of scarcity pricing.",
+      "source": "Asset definition / Required construction, elements, relationships, reading order, and qualifications",
+      "editable": true
+    },
+    {
+      "content": "Same bottle chilled in a convenience-store refrigerator; Same bottle in a hot desert setting. Equal bottle size and amount; quiet left/right division. Reserve separate live lower/higher illustrative dollar-price labels. Never imply scarcity pricing is ethically acceptable.",
+      "source": "Accessibility and production handoff / Alt text",
+      "editable": true
+    },
+    {
+      "content": "- Alt text: Same bottle chilled in a convenience-store refrigerator; Same bottle in a hot desert setting. Equal bottle size and amount; quiet left/right division. Reserve separate live lower/higher illustrative dollar-price labels. Never imply scarcity pricing is ethically acceptable.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-011-ref.svg` and a matching `assets/reference/bd-v-011-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.",
+      "source": "Accessibility and production handoff",
+      "editable": true
+    }
+  ],
+  "style": {
+    "layoutReference": "Selected pattern: Comparison pair. Selected layout: teaching-page; full-width figure region.",
+    "palette": [
+      "#422C70",
+      "#2B1C58",
+      "#FFFFFF",
+      "#F6F6F8",
+      "#D8D8E7",
+      "#25252B",
+      "#F7941F"
+    ],
+    "typography": "Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlled emphasis. Learner-facing print copy at least 12pt. Short literal labels, left aligned and translation-ready; do not bake copy into reference artwork.",
+    "shapeAndLineRules": "Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames.",
+    "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: water",
+    "emphasis": "One controlled orange instructional focal point; no orange full-field background or ranking",
+    "characters": [],
+    "propsAndIcons": [
+      "Same bottle chilled in a convenience-store refrigerator",
+      "Same bottle in a hot desert setting"
+    ]
+  },
+  "prohibitions": [
+    "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",
+    "No real secrets, seed words, private keys, identities, balances, payable addresses, invoices or payment QR data. Fictional payment screens require editable SAMPLE — DO NOT PAY in later production.",
+    "Keep user, educator, wallet, service, node, miner and protocol roles distinct; Bitcoin is not stored inside a wallet, miners do not make the rules, and no single controller approves Bitcoin.",
+    "No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.",
+    "No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.",
+    "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation.",
+    "Keep people,…"
+  ],
+  "review": {
+    "briefCompliant": true,
+    "assetRegisterCompliant": true,
+    "styleCompliant": true,
+    "openDecisionsPreventCreation": false,
+    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Reference copy remains suppressed; production labels and qualifications remain editable."
+  },
+  "unresolved": [
+    "The index’s Dictated production directions control conflicting purpose, construction, format and type. The complete original row above is archival source evidence, not permission to reintroduce superseded scenes. The controlling direction is preserved below.",
+    "The original index row contains a literal ellipsis; it is preserved verbatim. No missing wording is reconstructed. The complete dictated direction controls the reference composition; omitted legacy endings are not invented."
+  ]
+}

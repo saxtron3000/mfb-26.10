@@ -1,0 +1,170 @@
+{
+  "assetId": "BD-V-043",
+  "schemaVersion": 1,
+  "status": "blocked",
+  "assetType": "Diagram",
+  "recordDate": "2026-10-08",
+  "sourceFiles": {
+    "brief": "assets/briefs/bd-v-043-brief.md",
+    "briefRevision": "2026-10-08",
+    "styleReferences": []
+  },
+  "educationalPurpose": "Teach the relationship in the controlling direction: Official instructions for exact training wallet.",
+  "placement": {
+    "studentGuide": "exact heading `### Wallet recovery and [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase) testing`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-043\nALT: Six-step safe wallet-recovery workflow using prepared materials without exposing recovery secrets.\nASSET: assets/briefs/bd-v-043-brief.md\n-->\n```",
+    "educatorGuide": "",
+    "guideAnchor": "Student Guide: exact heading `### Wallet recovery and [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase) testing`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-043\nALT: Six-step safe wallet-recovery workflow using prepared materials without exposing recovery secrets.\nASSET: assets/briefs/bd-v-043-brief.md\n-->\n```\nEducator Guide: ",
+    "format": "Landscape 16:9 reference canvas, 960 × 540; Safety-gated workflow; full width."
+  },
+  "teachingPoint": "Teach the relationship in the controlling direction: Official instructions for exact training wallet. The learner should be able to explain the specific distinction or sequence: Official instructions for exact training wallet; Confirm wallet and recovery compatibility; Private work; Approved backup check or recovery; Confirm expected receiving information or training history; Reset temporary environment as instructed. Preserve the qualifications below when explaining it.",
+  "visualPattern": "Process flow",
+  "composition": {
+    "orientation": "landscape",
+    "targetAspectRatio": "16:9",
+    "readingOrder": [
+      "Official instructions for exact training wallet",
+      "Confirm wallet and recovery compatibility",
+      "Private work",
+      "Approved backup check or recovery",
+      "Confirm expected receiving information or training history",
+      "Reset temporary environment as instructed"
+    ],
+    "elements": [
+      {
+        "id": "element-01",
+        "role": "Official instructions for exact training wallet",
+        "required": true,
+        "relationship": "Six sequential steps; external secrecy boundary applies to all. No educator visibility of secrets or instruction to erase a funded personal wallet.",
+        "position": "Reading-order region 1 in row; precise spatial relation: Six sequential steps; external secrecy boundary applies to all. No educator visibility of secrets or instruction to erase a funded personal wallet.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-02",
+        "role": "Confirm wallet and recovery compatibility",
+        "required": true,
+        "relationship": "Six sequential steps; external secrecy boundary applies to all. No educator visibility of secrets or instruction to erase a funded personal wallet.",
+        "position": "Reading-order region 2 in row; precise spatial relation: Six sequential steps; external secrecy boundary applies to all. No educator visibility of secrets or instruction to erase a funded personal wallet.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-03",
+        "role": "Private work",
+        "required": true,
+        "relationship": "Six sequential steps; external secrecy boundary applies to all. No educator visibility of secrets or instruction to erase a funded personal wallet.",
+        "position": "Reading-order region 3 in row; precise spatial relation: Six sequential steps; external secrecy boundary applies to all. No educator visibility of secrets or instruction to erase a funded personal wallet.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-04",
+        "role": "Approved backup check or recovery",
+        "required": true,
+        "relationship": "Six sequential steps; external secrecy boundary applies to all. No educator visibility of secrets or instruction to erase a funded personal wallet.",
+        "position": "Reading-order region 4 in row; precise spatial relation: Six sequential steps; external secrecy boundary applies to all. No educator visibility of secrets or instruction to erase a funded personal wallet.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-05",
+        "role": "Confirm expected receiving information or training history",
+        "required": true,
+        "relationship": "Six sequential steps; external secrecy boundary applies to all. No educator visibility of secrets or instruction to erase a funded personal wallet.",
+        "position": "Reading-order region 5 in row; precise spatial relation: Six sequential steps; external secrecy boundary applies to all. No educator visibility of secrets or instruction to erase a funded personal wallet.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-06",
+        "role": "Reset temporary environment as instructed",
+        "required": true,
+        "relationship": "Six sequential steps; external secrecy boundary applies to all. No educator visibility of secrets or instruction to erase a funded personal wallet.",
+        "position": "Reading-order region 6 in row; precise spatial relation: Six sequential steps; external secrecy boundary applies to all. No educator visibility of secrets or instruction to erase a funded personal wallet.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      }
+    ]
+  },
+  "contentRequirements": [
+    {
+      "content": "Official instructions for exact training wallet",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Confirm wallet and recovery compatibility",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Private work",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Approved backup check or recovery",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Confirm expected receiving information or training history",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Reset temporary environment as instructed",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Use six icon-led steps: follow official instructions for the training wallet; confirm wallet and recovery compatibility; work privately without cameras or observers seeing secret material; use the approved backup-check or recovery method; confirm expected receiving information or training history; reset or clear the temporary training environment as instructed.",
+      "source": "Asset definition / Required construction, elements, relationships, reading order, and qualifications",
+      "editable": true
+    },
+    {
+      "content": "Official instructions for exact training wallet; Confirm wallet and recovery compatibility; Private work; Approved backup check or recovery; Confirm expected receiving information or training history; Reset temporary environment as instructed. Six sequential steps; external secrecy boundary applies to all. No educator visibility of secrets or instruction to erase a funded personal wallet.",
+      "source": "Accessibility and production handoff / Alt text",
+      "editable": true
+    },
+    {
+      "content": "- Alt text: Official instructions for exact training wallet; Confirm wallet and recovery compatibility; Private work; Approved backup check or recovery; Confirm expected receiving information or training history; Reset temporary environment as instructed. Six sequential steps; external secrecy boundary applies to all. No educator visibility of secrets or instruction to erase a funded personal wallet.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-043-ref.svg` and a matching `assets/reference/bd-v-043-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.",
+      "source": "Accessibility and production handoff",
+      "editable": true
+    }
+  ],
+  "style": {
+    "layoutReference": "Selected pattern: Process flow. Selected layout: teaching-page; full-width figure region.",
+    "palette": [
+      "#422C70",
+      "#2B1C58",
+      "#FFFFFF",
+      "#F6F6F8",
+      "#D8D8E7",
+      "#25252B",
+      "#F7941F"
+    ],
+    "typography": "Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlled emphasis. Learner-facing print copy at least 12pt. Short literal labels, left aligned and translation-ready; do not bake copy into reference artwork.",
+    "shapeAndLineRules": "Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames.",
+    "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: row",
+    "emphasis": "One controlled orange instructional focal point; no orange full-field background or ranking",
+    "characters": [],
+    "propsAndIcons": []
+  },
+  "prohibitions": [
+    "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",
+    "No real secrets, seed words, private keys, identities, balances, payable addresses, invoices or payment QR data. Fictional payment screens require editable SAMPLE — DO NOT PAY in later production.",
+    "Keep user, educator, wallet, service, node, miner and protocol roles distinct; Bitcoin is not stored inside a wallet, miners do not make the rules, and no single controller approves Bitcoin.",
+    "No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.",
+    "No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.",
+    "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation.",
+    "Do not instruct learners to erase a…",
+    "Production restriction: STYLE.md requires first-party icons for six steps, but no reusable first-party icon files are present. Original vector-cue permission is pending."
+  ],
+  "review": {
+    "briefCompliant": true,
+    "assetRegisterCompliant": false,
+    "styleCompliant": false,
+    "openDecisionsPreventCreation": true,
+    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Creation blocked: STYLE.md requires first-party icons for six steps, but no reusable first-party icon files are present. Original vector-cue permission is pending."
+  },
+  "unresolved": [
+    "The index’s Dictated production directions control conflicting purpose, construction, format and type. The complete original row above is archival source evidence, not permission to reintroduce superseded scenes. The controlling direction is preserved below.",
+    "The original index row contains a literal ellipsis; it is preserved verbatim. No missing wording is reconstructed. The complete dictated direction controls the reference composition; omitted legacy endings are not invented.",
+    "STYLE.md requires first-party icons for six steps, but no reusable first-party icon files are present. Original vector-cue permission is pending."
+  ]
+}

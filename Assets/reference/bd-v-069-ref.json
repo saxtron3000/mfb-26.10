@@ -1,0 +1,178 @@
+{
+  "assetId": "BD-V-069",
+  "schemaVersion": 1,
+  "status": "completed",
+  "assetType": "Diagram",
+  "recordDate": "2026-10-08",
+  "sourceFiles": {
+    "brief": "assets/briefs/bd-v-069-brief.md",
+    "briefRevision": "2026-10-08",
+    "styleReferences": []
+  },
+  "educationalPurpose": "Summarizes the community review as a sequence that begins with a need and ends with evidence and a responsible next step.",
+  "placement": {
+    "studentGuide": "exact heading `### Review: connect this to your community`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-069\nALT: Connect-module review linking local need, alternative, safe task, evidence, and responsible next step.\nASSET: assets/briefs/bd-v-069-brief.md\n-->\n```",
+    "educatorGuide": "",
+    "guideAnchor": "Student Guide: exact heading `### Review: connect this to your community`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-069\nALT: Connect-module review linking local need, alternative, safe task, evidence, and responsible next step.\nASSET: assets/briefs/bd-v-069-brief.md\n-->\n```\nEducator Guide: ",
+    "format": "Landscape 16:9 reference canvas, 960 × 540; Decision path; full width."
+  },
+  "teachingPoint": "Summarizes the community review as a sequence that begins with a need and ends with evidence and a responsible next step. The learner should be able to explain the specific distinction or sequence: Real need; Bitcoin fit; Payment method; Custody; Total cost and trade-offs; Safety and local conditions; Evidence of success. Preserve the qualifications below when explaining it.",
+  "visualPattern": "Process flow",
+  "composition": {
+    "orientation": "landscape",
+    "targetAspectRatio": "16:9",
+    "readingOrder": [
+      "Real need",
+      "Bitcoin fit",
+      "Payment method",
+      "Custody",
+      "Total cost and trade-offs",
+      "Safety and local conditions",
+      "Evidence of success"
+    ],
+    "elements": [
+      {
+        "id": "element-01",
+        "role": "Real need",
+        "required": true,
+        "relationship": "Seven sequential stages with return from unsuitable Bitcoin fit to considering an alternative; responsible next step remains editable explanation.",
+        "position": "Reading-order region 1 in return-flow; precise spatial relation: Seven sequential stages with return from unsuitable Bitcoin fit to considering an alternative; responsible next step remains editable explanation.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-02",
+        "role": "Bitcoin fit",
+        "required": true,
+        "relationship": "Seven sequential stages with return from unsuitable Bitcoin fit to considering an alternative; responsible next step remains editable explanation.",
+        "position": "Reading-order region 2 in return-flow; precise spatial relation: Seven sequential stages with return from unsuitable Bitcoin fit to considering an alternative; responsible next step remains editable explanation.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-03",
+        "role": "Payment method",
+        "required": true,
+        "relationship": "Seven sequential stages with return from unsuitable Bitcoin fit to considering an alternative; responsible next step remains editable explanation.",
+        "position": "Reading-order region 3 in return-flow; precise spatial relation: Seven sequential stages with return from unsuitable Bitcoin fit to considering an alternative; responsible next step remains editable explanation.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-04",
+        "role": "Custody",
+        "required": true,
+        "relationship": "Seven sequential stages with return from unsuitable Bitcoin fit to considering an alternative; responsible next step remains editable explanation.",
+        "position": "Reading-order region 4 in return-flow; precise spatial relation: Seven sequential stages with return from unsuitable Bitcoin fit to considering an alternative; responsible next step remains editable explanation.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-05",
+        "role": "Total cost and trade-offs",
+        "required": true,
+        "relationship": "Seven sequential stages with return from unsuitable Bitcoin fit to considering an alternative; responsible next step remains editable explanation.",
+        "position": "Reading-order region 5 in return-flow; precise spatial relation: Seven sequential stages with return from unsuitable Bitcoin fit to considering an alternative; responsible next step remains editable explanation.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-06",
+        "role": "Safety and local conditions",
+        "required": true,
+        "relationship": "Seven sequential stages with return from unsuitable Bitcoin fit to considering an alternative; responsible next step remains editable explanation.",
+        "position": "Reading-order region 6 in return-flow; precise spatial relation: Seven sequential stages with return from unsuitable Bitcoin fit to considering an alternative; responsible next step remains editable explanation.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-07",
+        "role": "Evidence of success",
+        "required": true,
+        "relationship": "Seven sequential stages with return from unsuitable Bitcoin fit to considering an alternative; responsible next step remains editable explanation.",
+        "position": "Reading-order region 7 in return-flow; precise spatial relation: Seven sequential stages with return from unsuitable Bitcoin fit to considering an alternative; responsible next step remains editable explanation.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      }
+    ]
+  },
+  "contentRequirements": [
+    {
+      "content": "Real need",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Bitcoin fit",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Payment method",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Custody",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Total cost and trade-offs",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Safety and local conditions",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Evidence of success",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Show the decision path `real need → Bitcoin fit → payment method → custody → total cost and trade-offs → safety and local conditions → evidence of success`. Add a return arrow when Bitcoin is not the best available fit.",
+      "source": "Asset definition / Required construction, elements, relationships, reading order, and qualifications",
+      "editable": true
+    },
+    {
+      "content": "Real need; Bitcoin fit; Payment method; Custody; Total cost and trade-offs; Safety and local conditions; Evidence of success. Seven sequential stages with return from unsuitable Bitcoin fit to considering an alternative; responsible next step remains editable explanation.",
+      "source": "Accessibility and production handoff / Alt text",
+      "editable": true
+    },
+    {
+      "content": "- Alt text: Real need; Bitcoin fit; Payment method; Custody; Total cost and trade-offs; Safety and local conditions; Evidence of success. Seven sequential stages with return from unsuitable Bitcoin fit to considering an alternative; responsible next step remains editable explanation.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-069-ref.svg` and a matching `assets/reference/bd-v-069-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.",
+      "source": "Accessibility and production handoff",
+      "editable": true
+    }
+  ],
+  "style": {
+    "layoutReference": "Selected pattern: Process flow. Selected layout: teaching-page; full-width figure region.",
+    "palette": [
+      "#422C70",
+      "#2B1C58",
+      "#FFFFFF",
+      "#F6F6F8",
+      "#D8D8E7",
+      "#25252B",
+      "#F7941F"
+    ],
+    "typography": "Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlled emphasis. Learner-facing print copy at least 12pt. Short literal labels, left aligned and translation-ready; do not bake copy into reference artwork.",
+    "shapeAndLineRules": "Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames.",
+    "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: return-flow",
+    "emphasis": "One controlled orange instructional focal point; no orange full-field background or ranking",
+    "characters": [],
+    "propsAndIcons": []
+  },
+  "prohibitions": [
+    "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",
+    "No real secrets, seed words, private keys, identities, balances, payable addresses, invoices or payment QR data. Fictional payment screens require editable SAMPLE — DO NOT PAY in later production.",
+    "Keep user, educator, wallet, service, node, miner and protocol roles distinct; Bitcoin is not stored inside a wallet, miners do not make the rules, and no single controller approves Bitcoin.",
+    "No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.",
+    "No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.",
+    "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation."
+  ],
+  "review": {
+    "briefCompliant": true,
+    "assetRegisterCompliant": true,
+    "styleCompliant": true,
+    "openDecisionsPreventCreation": false,
+    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Reference copy remains suppressed; production labels and qualifications remain editable."
+  },
+  "unresolved": []
+}

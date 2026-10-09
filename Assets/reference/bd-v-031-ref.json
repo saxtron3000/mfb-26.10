@@ -1,0 +1,142 @@
+{
+  "assetId": "BD-V-031",
+  "schemaVersion": 1,
+  "status": "completed",
+  "assetType": "Diagram",
+  "recordDate": "2026-10-08",
+  "sourceFiles": {
+    "brief": "assets/briefs/bd-v-031-brief.md",
+    "briefRevision": "2026-10-08",
+    "styleReferences": []
+  },
+  "educationalPurpose": "Teach the relationship in the controlling direction: User: signs or accepts.",
+  "placement": {
+    "studentGuide": "exact heading `### Users, [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node), and [miners](https://programs.myfirstbitcoin.org/lexicon/en/#miner)`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-031\nALT: Roles of users, nodes, miners, developers, and services with arrows showing how they limit one another.\nASSET: assets/briefs/bd-v-031-brief.md\n-->\n```",
+    "educatorGuide": "exact heading `### Users, nodes, miners, developers, and services`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-031\nALT: Users authorize or accept transactions, nodes verify, miners propose blocks, developers propose software, and services support customers; no single role controls the network.\nASSET: assets/briefs/bd-v-031-brief.md\nUSE: Shared Student Guide master.\n-->\n```",
+    "guideAnchor": "Student Guide: exact heading `### Users, [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node), and [miners](https://programs.myfirstbitcoin.org/lexicon/en/#miner)`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-031\nALT: Roles of users, nodes, miners, developers, and services with arrows showing how they limit one another.\nASSET: assets/briefs/bd-v-031-brief.md\n-->\n```\nEducator Guide: exact heading `### Users, nodes, miners, developers, and services`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-031\nALT: Users authorize or accept transactions, nodes verify, miners propose blocks, developers propose software, and services support customers; no single role controls the network.\nASSET: assets/briefs/bd-v-031-brief.md\nUSE: Shared Student Guide master.\n-->\n```",
+    "format": "Landscape 16:9 reference canvas, 960 × 540; Participant role map; full width."
+  },
+  "teachingPoint": "Teach the relationship in the controlling direction: User: signs or accepts. The learner should be able to explain the specific distinction or sequence: User: signs or accepts; Node: validates and relays; Miner: candidate blocks and proof of work; Developer: proposes software. Preserve the qualifications below when explaining it.",
+  "visualPattern": "Comparison pair variant: four roles",
+  "composition": {
+    "orientation": "landscape",
+    "targetAspectRatio": "16:9",
+    "readingOrder": [
+      "User: signs or accepts",
+      "Node: validates and relays",
+      "Miner: candidate blocks and proof of work",
+      "Developer: proposes software"
+    ],
+    "elements": [
+      {
+        "id": "element-01",
+        "role": "User: signs or accepts",
+        "required": true,
+        "relationship": "Four equal quadrants, read top-left to bottom-right. Show person, server, mining hardware and computer user. Service context stays adjacent; do not make developers rule-makers.",
+        "position": "Reading-order region 1 in quadrants; precise spatial relation: Four equal quadrants, read top-left to bottom-right. Show person, server, mining hardware and computer user. Service context stays adjacent; do not make developers rule-makers.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-02",
+        "role": "Node: validates and relays",
+        "required": true,
+        "relationship": "Four equal quadrants, read top-left to bottom-right. Show person, server, mining hardware and computer user. Service context stays adjacent; do not make developers rule-makers.",
+        "position": "Reading-order region 2 in quadrants; precise spatial relation: Four equal quadrants, read top-left to bottom-right. Show person, server, mining hardware and computer user. Service context stays adjacent; do not make developers rule-makers.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-03",
+        "role": "Miner: candidate blocks and proof of work",
+        "required": true,
+        "relationship": "Four equal quadrants, read top-left to bottom-right. Show person, server, mining hardware and computer user. Service context stays adjacent; do not make developers rule-makers.",
+        "position": "Reading-order region 3 in quadrants; precise spatial relation: Four equal quadrants, read top-left to bottom-right. Show person, server, mining hardware and computer user. Service context stays adjacent; do not make developers rule-makers.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-04",
+        "role": "Developer: proposes software",
+        "required": true,
+        "relationship": "Four equal quadrants, read top-left to bottom-right. Show person, server, mining hardware and computer user. Service context stays adjacent; do not make developers rule-makers.",
+        "position": "Reading-order region 4 in quadrants; precise spatial relation: Four equal quadrants, read top-left to bottom-right. Show person, server, mining hardware and computer user. Service context stays adjacent; do not make developers rule-makers.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      }
+    ]
+  },
+  "contentRequirements": [
+    {
+      "content": "User: signs or accepts",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Node: validates and relays",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Miner: candidate blocks and proof of work",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Developer: proposes software",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Use a four-part square with an image and title for each role: user, node, miner, and developer. Show a regular person, a server, mining hardware, and a person working at a computer respectively.",
+      "source": "Asset definition / Required construction, elements, relationships, reading order, and qualifications",
+      "editable": true
+    },
+    {
+      "content": "User: signs or accepts; Node: validates and relays; Miner: candidate blocks and proof of work; Developer: proposes software. Four equal quadrants, read top-left to bottom-right. Show person, server, mining hardware and computer user. Service context stays adjacent; do not make developers rule-makers.",
+      "source": "Accessibility and production handoff / Alt text",
+      "editable": true
+    },
+    {
+      "content": "- Alt text: User: signs or accepts; Node: validates and relays; Miner: candidate blocks and proof of work; Developer: proposes software. Four equal quadrants, read top-left to bottom-right. Show person, server, mining hardware and computer user. Service context stays adjacent; do not make developers rule-makers.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-031-ref.svg` and a matching `assets/reference/bd-v-031-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.",
+      "source": "Accessibility and production handoff",
+      "editable": true
+    }
+  ],
+  "style": {
+    "layoutReference": "Selected pattern: Comparison pair variant: four roles. Selected layout: teaching-page; full-width figure region.",
+    "palette": [
+      "#422C70",
+      "#2B1C58",
+      "#FFFFFF",
+      "#F6F6F8",
+      "#D8D8E7",
+      "#25252B",
+      "#F7941F"
+    ],
+    "typography": "Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlled emphasis. Learner-facing print copy at least 12pt. Short literal labels, left aligned and translation-ready; do not bake copy into reference artwork.",
+    "shapeAndLineRules": "Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames.",
+    "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: quadrants",
+    "emphasis": "One controlled orange instructional focal point; no orange full-field background or ranking",
+    "characters": [
+      "C02",
+      "C05"
+    ],
+    "propsAndIcons": []
+  },
+  "prohibitions": [
+    "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",
+    "No real secrets, seed words, private keys, identities, balances, payable addresses, invoices or payment QR data. Fictional payment screens require editable SAMPLE — DO NOT PAY in later production.",
+    "Keep user, educator, wallet, service, node, miner and protocol roles distinct; Bitcoin is not stored inside a wallet, miners do not make the rules, and no single controller approves Bitcoin.",
+    "No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.",
+    "No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.",
+    "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation.",
+    "Do not label all wallet users as nodes or developers as rule-makers."
+  ],
+  "review": {
+    "briefCompliant": true,
+    "assetRegisterCompliant": true,
+    "styleCompliant": true,
+    "openDecisionsPreventCreation": false,
+    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Reference copy remains suppressed; production labels and qualifications remain editable."
+  },
+  "unresolved": [
+    "The index’s Dictated production directions control conflicting purpose, construction, format and type. The complete original row above is archival source evidence, not permission to reintroduce superseded scenes. The controlling direction is preserved below."
+  ]
+}

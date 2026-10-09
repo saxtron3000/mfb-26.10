@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" fill="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="6">
+<rect x="0" y="0" width="960" height="540" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<g transform="translate(97 175) scale(1.15)">
+<polygon points="0,55 60,0 120,55" fill="#F6F6F8" stroke="#422C70" stroke-width="3"/>
+<rect x="15" y="55" width="90" height="85" fill="#FFFFFF" stroke="#422C70" stroke-width="3"/>
+<rect x="50" y="94" width="25" height="46" fill="#F6F6F8" stroke="#422C70" stroke-width="2"/>
+<rect x="27" y="71" width="20" height="21" fill="#F6F6F8" stroke="#D8D8E7" stroke-width="2"/>
+</g>
+<rect x="109" y="353" width="118" height="42" fill="#FFFFFF" stroke="#422C70" stroke-width="2"/>
+<line x1="398" y1="325" x2="398" y2="183" stroke="#422C70" stroke-width="2" fill="none"/>
+<line x1="398" y1="325" x2="544" y2="325" stroke="#422C70" stroke-width="2" fill="none"/>
+<path d="M 409 305 L 442 275 L 467 287 L 497 233 L 535 204" fill="none" stroke="#5E378E" stroke-width="4"/>
+<polygon points="665,270 704,214 838,214 866,270" fill="#F6F6F8" stroke="#422C70" stroke-width="3"/>
+<polygon points="665,270 866,270 845,329 680,329" fill="#F6F6F8" stroke="#422C70" stroke-width="3"/>
+</svg>

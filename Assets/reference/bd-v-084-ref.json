@@ -1,0 +1,126 @@
+{
+  "assetId": "BD-V-084",
+  "schemaVersion": 1,
+  "status": "completed",
+  "assetType": "Diagram",
+  "recordDate": "2026-10-08",
+  "sourceFiles": {
+    "brief": "assets/briefs/bd-v-084-brief.md",
+    "briefRevision": "2026-10-08",
+    "styleReferences": []
+  },
+  "educationalPurpose": "Separates access support and safety intervention from prompting that supplies the answer.",
+  "placement": {
+    "studentGuide": "",
+    "educatorGuide": "exact heading `### Common support, safety, and record rules`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-084\nALT: An educator may provide the permitted preparation and access support and stop unsafe action. The learner must still supply the assessed explanation, select the relevant details, and perform or direct the required decisions.\nASSET: assets/briefs/bd-v-084-brief.md\nUSE: Educator-only diagram; see the asset index brief.\n-->\n```",
+    "guideAnchor": "Student Guide: \nEducator Guide: exact heading `### Common support, safety, and record rules`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-084\nALT: An educator may provide the permitted preparation and access support and stop unsafe action. The learner must still supply the assessed explanation, select the relevant details, and perform or direct the required decisions.\nASSET: assets/briefs/bd-v-084-brief.md\nUSE: Educator-only diagram; see the asset index brief.\n-->\n```",
+    "format": "Landscape 16:9 reference canvas, 960 × 540; Two-stage support-boundary diagram; half to full width."
+  },
+  "teachingPoint": "Separates access support and safety intervention from prompting that supplies the answer. The learner should be able to explain the specific distinction or sequence: Permitted support before evidence; Permitted access and safety support during evidence; Learner explanation, choices and actions. Preserve the qualifications below when explaining it.",
+  "visualPattern": "Layer stack",
+  "composition": {
+    "orientation": "landscape",
+    "targetAspectRatio": "16:9",
+    "readingOrder": [
+      "Permitted support before evidence",
+      "Permitted access and safety support during evidence",
+      "Learner explanation, choices and actions"
+    ],
+    "elements": [
+      {
+        "id": "element-01",
+        "role": "Permitted support before evidence",
+        "required": true,
+        "relationship": "Two support stages outside a no-help boundary around independent learner performance; access support must not supply answers.",
+        "position": "Reading-order region 1 in boundary; precise spatial relation: Two support stages outside a no-help boundary around independent learner performance; access support must not supply answers.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-02",
+        "role": "Permitted access and safety support during evidence",
+        "required": true,
+        "relationship": "Two support stages outside a no-help boundary around independent learner performance; access support must not supply answers.",
+        "position": "Reading-order region 2 in boundary; precise spatial relation: Two support stages outside a no-help boundary around independent learner performance; access support must not supply answers.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-03",
+        "role": "Learner explanation, choices and actions",
+        "required": true,
+        "relationship": "Two support stages outside a no-help boundary around independent learner performance; access support must not supply answers.",
+        "position": "Reading-order region 3 in boundary; precise spatial relation: Two support stages outside a no-help boundary around independent learner performance; access support must not supply answers.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      }
+    ]
+  },
+  "contentRequirements": [
+    {
+      "content": "Permitted support before evidence",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Permitted access and safety support during evidence",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Learner explanation, choices and actions",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Show permitted support before and during evidence. Keep the learner’s explanation, choices, and actions inside a clear no-help boundary.",
+      "source": "Asset definition / Required construction, elements, relationships, reading order, and qualifications",
+      "editable": true
+    },
+    {
+      "content": "Permitted support before evidence; Permitted access and safety support during evidence; Learner explanation, choices and actions. Two support stages outside a no-help boundary around independent learner performance; access support must not supply answers.",
+      "source": "Accessibility and production handoff / Alt text",
+      "editable": true
+    },
+    {
+      "content": "- Alt text: Permitted support before evidence; Permitted access and safety support during evidence; Learner explanation, choices and actions. Two support stages outside a no-help boundary around independent learner performance; access support must not supply answers.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-084-ref.svg` and a matching `assets/reference/bd-v-084-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.",
+      "source": "Accessibility and production handoff",
+      "editable": true
+    }
+  ],
+  "style": {
+    "layoutReference": "Selected pattern: Layer stack. Selected layout: teaching-page; full-width figure region.",
+    "palette": [
+      "#422C70",
+      "#2B1C58",
+      "#FFFFFF",
+      "#F6F6F8",
+      "#D8D8E7",
+      "#25252B",
+      "#F7941F"
+    ],
+    "typography": "Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlled emphasis. Learner-facing print copy at least 12pt. Short literal labels, left aligned and translation-ready; do not bake copy into reference artwork.",
+    "shapeAndLineRules": "Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames.",
+    "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: boundary",
+    "emphasis": "One controlled orange instructional focal point; no orange full-field background or ranking",
+    "characters": [],
+    "propsAndIcons": [
+      "Permitted support before evidence",
+      "Permitted access and safety support during evidence"
+    ]
+  },
+  "prohibitions": [
+    "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",
+    "No real secrets, seed words, private keys, identities, balances, payable addresses, invoices or payment QR data. Fictional payment screens require editable SAMPLE — DO NOT PAY in later production.",
+    "Keep user, educator, wallet, service, node, miner and protocol roles distinct; Bitcoin is not stored inside a wallet, miners do not make the rules, and no single controller approves Bitcoin.",
+    "No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.",
+    "No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.",
+    "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation.",
+    "Keep the learner’s explanation, choices, and actions inside a clear no-help boundary."
+  ],
+  "review": {
+    "briefCompliant": true,
+    "assetRegisterCompliant": true,
+    "styleCompliant": true,
+    "openDecisionsPreventCreation": false,
+    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Reference copy remains suppressed; production labels and qualifications remain editable."
+  },
+  "unresolved": []
+}

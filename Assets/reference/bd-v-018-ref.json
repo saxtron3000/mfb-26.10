@@ -1,0 +1,114 @@
+{
+  "assetId": "BD-V-018",
+  "schemaVersion": 1,
+  "status": "completed",
+  "assetType": "Illustration",
+  "recordDate": "2026-10-08",
+  "sourceFiles": {
+    "brief": "assets/briefs/bd-v-018-brief.md",
+    "briefRevision": "2026-10-08",
+    "styleReferences": []
+  },
+  "educationalPurpose": "Teach the relationship in the controlling direction: Equivalent basket: 100 fictional currency units.",
+  "placement": {
+    "studentGuide": "exact heading `### [Inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation) and [purchasing power](https://programs.myfirstbitcoin.org/lexicon/en/#purchasing-power)`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-018\nALT: Fixed amount of money buying a smaller basket after prices rise.\nASSET: assets/briefs/bd-v-018-brief.md\n-->\n```",
+    "educatorGuide": "exact heading `### Inflation and purchasing power`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-018\nALT: The same fixed currency amount buys a full basket at one illustrative date and less when the basket price rises; price level and purchasing power are distinct.\nASSET: assets/briefs/bd-v-018-brief.md\nUSE: Shared Student Guide master.\n-->\n```",
+    "guideAnchor": "Student Guide: exact heading `### [Inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation) and [purchasing power](https://programs.myfirstbitcoin.org/lexicon/en/#purchasing-power)`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-018\nALT: Fixed amount of money buying a smaller basket after prices rise.\nASSET: assets/briefs/bd-v-018-brief.md\n-->\n```\nEducator Guide: exact heading `### Inflation and purchasing power`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-018\nALT: The same fixed currency amount buys a full basket at one illustrative date and less when the basket price rises; price level and purchasing power are distinct.\nASSET: assets/briefs/bd-v-018-brief.md\nUSE: Shared Student Guide master.\n-->\n```",
+    "format": "Landscape 16:9 reference canvas, 960 × 540; Before-and-after quantity illustration; full width."
+  },
+  "teachingPoint": "Teach the relationship in the controlling direction: Equivalent basket: 100 fictional currency units. The learner should be able to explain the specific distinction or sequence: Equivalent basket: 100 fictional currency units; Equivalent basket: 110 fictional currency units. Preserve the qualifications below when explaining it.",
+  "visualPattern": "Comparison pair",
+  "composition": {
+    "orientation": "landscape",
+    "targetAspectRatio": "16:9",
+    "readingOrder": [
+      "Equivalent basket: 100 fictional currency units",
+      "Equivalent basket: 110 fictional currency units"
+    ],
+    "elements": [
+      {
+        "id": "element-01",
+        "role": "Equivalent basket: 100 fictional currency units",
+        "required": true,
+        "relationship": "Two identical baskets and goods; later editable values 100/110 identify higher basket cost. Reserve fixed-money purchasing-power explanation beneath; not a smaller second basket.",
+        "position": "Reading-order region 1 in baskets; precise spatial relation: Two identical baskets and goods; later editable values 100/110 identify higher basket cost. Reserve fixed-money purchasing-power explanation beneath; not a smaller second basket.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-02",
+        "role": "Equivalent basket: 110 fictional currency units",
+        "required": true,
+        "relationship": "Two identical baskets and goods; later editable values 100/110 identify higher basket cost. Reserve fixed-money purchasing-power explanation beneath; not a smaller second basket.",
+        "position": "Reading-order region 2 in baskets; precise spatial relation: Two identical baskets and goods; later editable values 100/110 identify higher basket cost. Reserve fixed-money purchasing-power explanation beneath; not a smaller second basket.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      }
+    ]
+  },
+  "contentRequirements": [
+    {
+      "content": "Equivalent basket: 100 fictional currency units",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Equivalent basket: 110 fictional currency units",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Use two equivalent baskets of goods: one costs 100 currency units and the other 110. Make the reduced purchasing power behind the higher price clear. Use fictional values unless a local, dated source is approved.",
+      "source": "Asset definition / Required construction, elements, relationships, reading order, and qualifications",
+      "editable": true
+    },
+    {
+      "content": "Equivalent basket: 100 fictional currency units; Equivalent basket: 110 fictional currency units. Two identical baskets and goods; later editable values 100/110 identify higher basket cost. Reserve fixed-money purchasing-power explanation beneath; not a smaller second basket.",
+      "source": "Accessibility and production handoff / Alt text",
+      "editable": true
+    },
+    {
+      "content": "- Alt text: Equivalent basket: 100 fictional currency units; Equivalent basket: 110 fictional currency units. Two identical baskets and goods; later editable values 100/110 identify higher basket cost. Reserve fixed-money purchasing-power explanation beneath; not a smaller second basket.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-018-ref.svg` and a matching `assets/reference/bd-v-018-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.",
+      "source": "Accessibility and production handoff",
+      "editable": true
+    }
+  ],
+  "style": {
+    "layoutReference": "Selected pattern: Comparison pair. Selected layout: teaching-page; full-width figure region.",
+    "palette": [
+      "#422C70",
+      "#2B1C58",
+      "#FFFFFF",
+      "#F6F6F8",
+      "#D8D8E7",
+      "#25252B",
+      "#F7941F"
+    ],
+    "typography": "Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlled emphasis. Learner-facing print copy at least 12pt. Short literal labels, left aligned and translation-ready; do not bake copy into reference artwork.",
+    "shapeAndLineRules": "Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames.",
+    "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: baskets",
+    "emphasis": "One controlled orange instructional focal point; no orange full-field background or ranking",
+    "characters": [],
+    "propsAndIcons": [
+      "Equivalent basket: 100 fictional currency units",
+      "Equivalent basket: 110 fictional currency units"
+    ]
+  },
+  "prohibitions": [
+    "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",
+    "No real secrets, seed words, private keys, identities, balances, payable addresses, invoices or payment QR data. Fictional payment screens require editable SAMPLE — DO NOT PAY in later production.",
+    "Keep user, educator, wallet, service, node, miner and protocol roles distinct; Bitcoin is not stored inside a wallet, miners do not make the rules, and no single controller approves Bitcoin.",
+    "No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.",
+    "No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.",
+    "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation.",
+    "Use fictional or sourced-and-dated local values; never mix the two."
+  ],
+  "review": {
+    "briefCompliant": true,
+    "assetRegisterCompliant": true,
+    "styleCompliant": true,
+    "openDecisionsPreventCreation": false,
+    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Reference copy remains suppressed; production labels and qualifications remain editable."
+  },
+  "unresolved": [
+    "The index’s Dictated production directions control conflicting purpose, construction, format and type. The complete original row above is archival source evidence, not permission to reintroduce superseded scenes. The controlling direction is preserved below."
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "assetId": "BD-V-012",
+  "schemaVersion": 1,
+  "status": "completed",
+  "assetType": "Illustration",
+  "recordDate": "2026-10-08",
+  "sourceFiles": {
+    "brief": "assets/briefs/bd-v-012-brief.md",
+    "briefRevision": "2026-10-08",
+    "styleReferences": []
+  },
+  "educationalPurpose": "Teach the relationship in the controlling direction: Pensive learner.",
+  "placement": {
+    "studentGuide": "exact heading `### [Scarcity](https://programs.myfirstbitcoin.org/lexicon/en/#scarcity), [value](https://programs.myfirstbitcoin.org/lexicon/en/#value), and exchange`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-012\nALT: Everyday choice showing opportunity cost, time preference, and trade-off.\nASSET: assets/briefs/bd-v-012-brief.md\n-->\n```",
+    "educatorGuide": "exact heading `### Scarcity, value, and exchange`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-012\nALT: A limited resource forces a choice between uses; the chosen benefit, best alternative forgone, preference for now or later, and resulting trade-off are labelled.\nASSET: assets/briefs/bd-v-012-brief.md\nUSE: Shared Student Guide master.\n-->\n```",
+    "guideAnchor": "Student Guide: exact heading `### [Scarcity](https://programs.myfirstbitcoin.org/lexicon/en/#scarcity), [value](https://programs.myfirstbitcoin.org/lexicon/en/#value), and exchange`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-012\nALT: Everyday choice showing opportunity cost, time preference, and trade-off.\nASSET: assets/briefs/bd-v-012-brief.md\n-->\n```\nEducator Guide: exact heading `### Scarcity, value, and exchange`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-012\nALT: A limited resource forces a choice between uses; the chosen benefit, best alternative forgone, preference for now or later, and resulting trade-off are labelled.\nASSET: assets/briefs/bd-v-012-brief.md\nUSE: Shared Student Guide master.\n-->\n```",
+    "format": "Landscape 16:9 reference canvas, 960 × 540; Branching choice illustration; half page."
+  },
+  "teachingPoint": "Teach the relationship in the controlling direction: Pensive learner. The learner should be able to explain the specific distinction or sequence: Pensive learner; Several distinct shelf items; Personal choice and trade-off. Preserve the qualifications below when explaining it.",
+  "visualPattern": "Callout",
+  "composition": {
+    "orientation": "landscape",
+    "targetAspectRatio": "16:9",
+    "readingOrder": [
+      "Pensive learner",
+      "Several distinct shelf items",
+      "Personal choice and trade-off"
+    ],
+    "elements": [
+      {
+        "id": "element-01",
+        "role": "Pensive learner",
+        "required": true,
+        "relationship": "Learner at left considers shelf at right without an approval badge or privileged item. Editable explanatory labels carry chosen benefit, best alternative forgone and present/future preference.",
+        "position": "Reading-order region 1 in shop; precise spatial relation: Learner at left considers shelf at right without an approval badge or privileged item. Editable explanatory labels carry chosen benefit, best alternative forgone and present/future preference.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-02",
+        "role": "Several distinct shelf items",
+        "required": true,
+        "relationship": "Learner at left considers shelf at right without an approval badge or privileged item. Editable explanatory labels carry chosen benefit, best alternative forgone and present/future preference.",
+        "position": "Reading-order region 2 in shop; precise spatial relation: Learner at left considers shelf at right without an approval badge or privileged item. Editable explanatory labels carry chosen benefit, best alternative forgone and present/future preference.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-03",
+        "role": "Personal choice and trade-off",
+        "required": true,
+        "relationship": "Learner at left considers shelf at right without an approval badge or privileged item. Editable explanatory labels carry chosen benefit, best alternative forgone and present/future preference.",
+        "position": "Reading-order region 3 in shop; precise spatial relation: Learner at left considers shelf at right without an approval badge or privileged item. Editable explanatory labels carry chosen benefit, best alternative forgone and present/future preference.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      }
+    ]
+  },
+  "contentRequirements": [
+    {
+      "content": "Pensive learner",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Several distinct shelf items",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Personal choice and trade-off",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Show a pensive person in a store considering several different items on a shelf and deciding which option is best for them. The choice and objects must be visually clear without implying a correct answer.",
+      "source": "Asset definition / Required construction, elements, relationships, reading order, and qualifications",
+      "editable": true
+    },
+    {
+      "content": "Pensive learner; Several distinct shelf items; Personal choice and trade-off. Learner at left considers shelf at right without an approval badge or privileged item. Editable explanatory labels carry chosen benefit, best alternative forgone and present/future preference.",
+      "source": "Accessibility and production handoff / Alt text",
+      "editable": true
+    },
+    {
+      "content": "- Alt text: Pensive learner; Several distinct shelf items; Personal choice and trade-off. Learner at left considers shelf at right without an approval badge or privileged item. Editable explanatory labels carry chosen benefit, best alternative forgone and present/future preference.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-012-ref.svg` and a matching `assets/reference/bd-v-012-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.",
+      "source": "Accessibility and production handoff",
+      "editable": true
+    }
+  ],
+  "style": {
+    "layoutReference": "Selected pattern: Callout. Selected layout: teaching-page; full-width figure region.",
+    "palette": [
+      "#422C70",
+      "#2B1C58",
+      "#FFFFFF",
+      "#F6F6F8",
+      "#D8D8E7",
+      "#25252B",
+      "#F7941F"
+    ],
+    "typography": "Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlled emphasis. Learner-facing print copy at least 12pt. Short literal labels, left aligned and translation-ready; do not bake copy into reference artwork.",
+    "shapeAndLineRules": "Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames.",
+    "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: shop",
+    "emphasis": "One controlled orange instructional focal point; no orange full-field background or ranking",
+    "characters": [
+      "C02"
+    ],
+    "propsAndIcons": [
+      "Pensive learner",
+      "Several distinct shelf items"
+    ]
+  },
+  "prohibitions": [
+    "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",
+    "No real secrets, seed words, private keys, identities, balances, payable addresses, invoices or payment QR data. Fictional payment screens require editable SAMPLE — DO NOT PAY in later production.",
+    "Keep user, educator, wallet, service, node, miner and protocol roles distinct; Bitcoin is not stored inside a wallet, miners do not make the rules, and no single controller approves Bitcoin.",
+    "No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.",
+    "No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.",
+    "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation.",
+    "Do not moralize the learner's choice or imply one time preference is always correct."
+  ],
+  "review": {
+    "briefCompliant": true,
+    "assetRegisterCompliant": true,
+    "styleCompliant": true,
+    "openDecisionsPreventCreation": false,
+    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Reference copy remains suppressed; production labels and qualifications remain editable."
+  },
+  "unresolved": [
+    "The index’s Dictated production directions control conflicting purpose, construction, format and type. The complete original row above is archival source evidence, not permission to reintroduce superseded scenes. The controlling direction is preserved below."
+  ]
+}

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" fill="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="6">
+<rect x="0" y="0" width="960" height="540" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="78" y="86" width="620" height="350" fill="none" stroke="#D8D8E7" stroke-width="2"/>
+<rect x="157" y="160" width="139" height="60" fill="#F6F6F8" stroke="#422C70" stroke-width="2"/>
+<rect x="450" y="160" width="139" height="60" fill="#F6F6F8" stroke="#422C70" stroke-width="2"/>
+<rect x="157" y="317" width="139" height="60" fill="#F6F6F8" stroke="#422C70" stroke-width="2"/>
+<rect x="450" y="317" width="139" height="60" fill="#F6F6F8" stroke="#422C70" stroke-width="2"/>
+<line x1="296" y1="190" x2="440" y2="190" stroke="#422C70" stroke-width="3" fill="none"/>
+<line x1="440" y1="190" x2="432.9289321881345" y2="197.07106781186548" stroke="#422C70" stroke-width="3" fill="none"/>
+<line x1="440" y1="190" x2="432.9289321881345" y2="182.92893218813452" stroke="#422C70" stroke-width="3" fill="none"/>
+<line x1="296" y1="347" x2="440" y2="347" stroke="#422C70" stroke-width="3" fill="none"/>
+<line x1="440" y1="347" x2="432.9289321881345" y2="354.0710678118655" stroke="#422C70" stroke-width="3" fill="none"/>
+<line x1="440" y1="347" x2="432.9289321881345" y2="339.9289321881345" stroke="#422C70" stroke-width="3" fill="none"/>
+<line x1="225" y1="230" x2="225" y2="304" stroke="#422C70" stroke-width="3" fill="none"/>
+<line x1="225" y1="304" x2="217.92893218813452" y2="296.9289321881345" stroke="#422C70" stroke-width="3" fill="none"/>
+<line x1="225" y1="304" x2="232.07106781186548" y2="296.9289321881345" stroke="#422C70" stroke-width="3" fill="none"/>
+<line x1="516" y1="230" x2="516" y2="304" stroke="#422C70" stroke-width="3" fill="none"/>
+<line x1="516" y1="304" x2="508.9289321881345" y2="296.9289321881345" stroke="#422C70" stroke-width="3" fill="none"/>
+<line x1="516" y1="304" x2="523.0710678118654" y2="296.9289321881345" stroke="#422C70" stroke-width="3" fill="none"/>
+<rect x="754" y="225" width="130" height="70" fill="#F6F6F8" stroke="#422C70" stroke-width="2"/>
+<line x1="710" y1="150" x2="710" y2="386" stroke="#D8D8E7" stroke-width="2" fill="none" stroke-dasharray="6 5"/>
+</svg>

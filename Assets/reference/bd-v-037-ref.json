@@ -1,0 +1,159 @@
+{
+  "assetId": "BD-V-037",
+  "schemaVersion": 1,
+  "status": "blocked",
+  "assetType": "Diagram",
+  "recordDate": "2026-10-08",
+  "sourceFiles": {
+    "brief": "assets/briefs/bd-v-037-brief.md",
+    "briefRevision": "2026-10-08",
+    "styleReferences": []
+  },
+  "educationalPurpose": "Reinforces the rule “Public receiving information can be shared. Private spending information must remain secret” by showing how public information relates to a secret private key.",
+  "placement": {
+    "studentGuide": "exact heading `### Keys`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-037\nALT: Public receiving information (an address or payment request) separated from secret spending information (a private key, seed phrase, password, or recovery code), with signing and verification and a warning never to share secrets.\nASSET: assets/briefs/bd-v-037-brief.md\n-->\n```",
+    "educatorGuide": "exact heading `### Keys and digital authorization`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-037\nALT: A secret private key relates to public-key and receiving-address information and creates signatures that nodes can verify without learning the private key.\nASSET: assets/briefs/bd-v-037-brief.md\nUSE: Shared Student Guide master.\n-->\n```",
+    "guideAnchor": "Student Guide: exact heading `### Keys`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-037\nALT: Public receiving information (an address or payment request) separated from secret spending information (a private key, seed phrase, password, or recovery code), with signing and verification and a warning never to share secrets.\nASSET: assets/briefs/bd-v-037-brief.md\n-->\n```\nEducator Guide: exact heading `### Keys and digital authorization`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-037\nALT: A secret private key relates to public-key and receiving-address information and creates signatures that nodes can verify without learning the private key.\nASSET: assets/briefs/bd-v-037-brief.md\nUSE: Shared Student Guide master.\n-->\n```",
+    "format": "Landscape 16:9 reference canvas, 960 × 540; One-way key-relationship diagram with a prominent private-key warning and a supporting signing branch; full width."
+  },
+  "teachingPoint": "Reinforces the rule “Public receiving information can be shared. Private spending information must remain secret” by showing how public information relates to a secret private key. The learner should be able to explain the specific distinction or sequence: Private key within secret boundary; Public key derived from private key; Receiving address created from public-key information; Private key authorizes signature; Nodes verify signature without receiving secret. Preserve the qualifications below when explaining it.",
+  "visualPattern": "Process flow",
+  "composition": {
+    "orientation": "landscape",
+    "targetAspectRatio": "16:9",
+    "readingOrder": [
+      "Private key within secret boundary",
+      "Public key derived from private key",
+      "Receiving address created from public-key information",
+      "Private key authorizes signature",
+      "Nodes verify signature without receiving secret"
+    ],
+    "elements": [
+      {
+        "id": "element-01",
+        "role": "Private key within secret boundary",
+        "required": true,
+        "relationship": "Main derivation path across top; signing branch down from private key to transaction and verification. Prominent live never-share warning belongs beside secret boundary.",
+        "position": "Reading-order region 1 in keys; precise spatial relation: Main derivation path across top; signing branch down from private key to transaction and verification. Prominent live never-share warning belongs beside secret boundary.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-02",
+        "role": "Public key derived from private key",
+        "required": true,
+        "relationship": "Main derivation path across top; signing branch down from private key to transaction and verification. Prominent live never-share warning belongs beside secret boundary.",
+        "position": "Reading-order region 2 in keys; precise spatial relation: Main derivation path across top; signing branch down from private key to transaction and verification. Prominent live never-share warning belongs beside secret boundary.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-03",
+        "role": "Receiving address created from public-key information",
+        "required": true,
+        "relationship": "Main derivation path across top; signing branch down from private key to transaction and verification. Prominent live never-share warning belongs beside secret boundary.",
+        "position": "Reading-order region 3 in keys; precise spatial relation: Main derivation path across top; signing branch down from private key to transaction and verification. Prominent live never-share warning belongs beside secret boundary.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-04",
+        "role": "Private key authorizes signature",
+        "required": true,
+        "relationship": "Main derivation path across top; signing branch down from private key to transaction and verification. Prominent live never-share warning belongs beside secret boundary.",
+        "position": "Reading-order region 4 in keys; precise spatial relation: Main derivation path across top; signing branch down from private key to transaction and verification. Prominent live never-share warning belongs beside secret boundary.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-05",
+        "role": "Nodes verify signature without receiving secret",
+        "required": true,
+        "relationship": "Main derivation path across top; signing branch down from private key to transaction and verification. Prominent live never-share warning belongs beside secret boundary.",
+        "position": "Reading-order region 5 in keys; precise spatial relation: Main derivation path across top; signing branch down from private key to transaction and verification. Prominent live never-share warning belongs beside secret boundary.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      }
+    ]
+  },
+  "contentRequirements": [
+    {
+      "content": "Private key within secret boundary",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Public key derived from private key",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Receiving address created from public-key information",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Private key authorizes signature",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Nodes verify signature without receiving secret",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Show `Private key → Public key → Receiving address`, with the first arrow labelled `Derived from` and the address step labelled `Created from public-key information`. Place the private key inside a clearly marked secret boundary. Add a prominent warning beside it: `Never share your private key. Anyone with it can spend your bitcoin.` Use a warning symbol and readable text so the warning works in grayscale. Label the…",
+      "source": "Asset definition / Required construction, elements, relationships, reading order, and qualifications",
+      "editable": true
+    },
+    {
+      "content": "Private key within secret boundary; Public key derived from private key; Receiving address created from public-key information; Private key authorizes signature; Nodes verify signature without receiving secret. Main derivation path across top; signing branch down from private key to transaction and verification. Prominent live never-share warning belongs beside secret boundary.",
+      "source": "Accessibility and production handoff / Alt text",
+      "editable": true
+    },
+    {
+      "content": "- Alt text: Private key within secret boundary; Public key derived from private key; Receiving address created from public-key information; Private key authorizes signature; Nodes verify signature without receiving secret. Main derivation path across top; signing branch down from private key to transaction and verification. Prominent live never-share warning belongs beside secret boundary.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-037-ref.svg` and a matching `assets/reference/bd-v-037-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.",
+      "source": "Accessibility and production handoff",
+      "editable": true
+    }
+  ],
+  "style": {
+    "layoutReference": "Selected pattern: Process flow. Selected layout: teaching-page; full-width figure region.",
+    "palette": [
+      "#422C70",
+      "#2B1C58",
+      "#FFFFFF",
+      "#F6F6F8",
+      "#D8D8E7",
+      "#25252B",
+      "#F7941F"
+    ],
+    "typography": "Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlled emphasis. Learner-facing print copy at least 12pt. Short literal labels, left aligned and translation-ready; do not bake copy into reference artwork.",
+    "shapeAndLineRules": "Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames.",
+    "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: keys",
+    "emphasis": "One controlled orange instructional focal point; no orange full-field background or ranking",
+    "characters": [],
+    "propsAndIcons": [
+      "Private key within secret boundary",
+      "Public key derived from private key",
+      "Receiving address created from public-key information",
+      "Private key authorizes signature"
+    ]
+  },
+  "prohibitions": [
+    "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",
+    "No real secrets, seed words, private keys, identities, balances, payable addresses, invoices or payment QR data. Fictional payment screens require editable SAMPLE — DO NOT PAY in later production.",
+    "Keep user, educator, wallet, service, node, miner and protocol roles distinct; Bitcoin is not stored inside a wallet, miners do not make the rules, and no single controller approves Bitcoin.",
+    "No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.",
+    "No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.",
+    "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation.",
+    "Production restriction: Asset-index description ends at “Label the…” and assets/asset-description.md supplies no completion. The missing labeling requirement must be restored before production."
+  ],
+  "review": {
+    "briefCompliant": true,
+    "assetRegisterCompliant": false,
+    "styleCompliant": true,
+    "openDecisionsPreventCreation": true,
+    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Creation blocked: Asset-index description ends at “Label the…” and assets/asset-description.md supplies no completion. The missing labeling requirement must be restored before production."
+  },
+  "unresolved": [
+    "The original index row contains a literal ellipsis; it is preserved verbatim. No missing wording is reconstructed. The missing source ending is identified in the decision record below.",
+    "Asset-index description ends at “Label the…” and assets/asset-description.md supplies no completion. The missing labeling requirement must be restored before production."
+  ]
+}

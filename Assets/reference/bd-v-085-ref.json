@@ -1,0 +1,123 @@
+{
+  "assetId": "BD-V-085",
+  "schemaVersion": 1,
+  "status": "completed",
+  "assetType": "Diagram",
+  "recordDate": "2026-10-08",
+  "sourceFiles": {
+    "brief": "assets/briefs/bd-v-085-brief.md",
+    "briefRevision": "2026-10-08",
+    "styleReferences": []
+  },
+  "educationalPurpose": "Distinguishes the learner reassessment loop from assessor calibration and cohort moderation.",
+  "placement": {
+    "studentGuide": "",
+    "educatorGuide": "exact heading `### Calibration examples for assessor discussion`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-085\nALT: Learners with Not yet receive private feedback, practise, and provide new evidence while building competency. Educators may compare judgements or ask for a second review when helpful; review never substitutes for observed performance.\nASSET: assets/briefs/bd-v-085-brief.md\nUSE: Educator-only diagram; see the asset index brief.\n-->\n```",
+    "guideAnchor": "Student Guide: \nEducator Guide: exact heading `### Calibration examples for assessor discussion`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-085\nALT: Learners with Not yet receive private feedback, practise, and provide new evidence while building competency. Educators may compare judgements or ask for a second review when helpful; review never substitutes for observed performance.\nASSET: assets/briefs/bd-v-085-brief.md\nUSE: Educator-only diagram; see the asset index brief.\n-->\n```",
+    "format": "Landscape 16:9 reference canvas, 960 × 540; Three-lane process diagram; full width."
+  },
+  "teachingPoint": "Distinguishes the learner reassessment loop from assessor calibration and cohort moderation. The learner should be able to explain the specific distinction or sequence: Learner reassessment; Assessor calibration; Cohort moderation. Preserve the qualifications below when explaining it.",
+  "visualPattern": "Process flow",
+  "composition": {
+    "orientation": "landscape",
+    "targetAspectRatio": "16:9",
+    "readingOrder": [
+      "Learner reassessment",
+      "Assessor calibration",
+      "Cohort moderation"
+    ],
+    "elements": [
+      {
+        "id": "element-01",
+        "role": "Learner reassessment",
+        "required": true,
+        "relationship": "Three separate left-to-right lanes with individual feedback loops; no replacement of direct observation or lowered standard.",
+        "position": "Lane or gate region 1; preserve separate parallel lanes",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-02",
+        "role": "Assessor calibration",
+        "required": true,
+        "relationship": "Three separate left-to-right lanes with individual feedback loops; no replacement of direct observation or lowered standard.",
+        "position": "Lane or gate region 2; preserve separate parallel lanes",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-03",
+        "role": "Cohort moderation",
+        "required": true,
+        "relationship": "Three separate left-to-right lanes with individual feedback loops; no replacement of direct observation or lowered standard.",
+        "position": "Lane or gate region 3; preserve separate parallel lanes",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      }
+    ]
+  },
+  "contentRequirements": [
+    {
+      "content": "Learner reassessment",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Assessor calibration",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Cohort moderation",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Show three lanes: learner reassessment, assessor calibration, and cohort moderation. Do not lower the standard or replace direct observation.",
+      "source": "Asset definition / Required construction, elements, relationships, reading order, and qualifications",
+      "editable": true
+    },
+    {
+      "content": "Learner reassessment; Assessor calibration; Cohort moderation. Three separate left-to-right lanes with individual feedback loops; no replacement of direct observation or lowered standard.",
+      "source": "Accessibility and production handoff / Alt text",
+      "editable": true
+    },
+    {
+      "content": "- Alt text: Learner reassessment; Assessor calibration; Cohort moderation. Three separate left-to-right lanes with individual feedback loops; no replacement of direct observation or lowered standard.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-085-ref.svg` and a matching `assets/reference/bd-v-085-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.",
+      "source": "Accessibility and production handoff",
+      "editable": true
+    }
+  ],
+  "style": {
+    "layoutReference": "Selected pattern: Process flow. Selected layout: teaching-page; full-width figure region.",
+    "palette": [
+      "#422C70",
+      "#2B1C58",
+      "#FFFFFF",
+      "#F6F6F8",
+      "#D8D8E7",
+      "#25252B",
+      "#F7941F"
+    ],
+    "typography": "Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlled emphasis. Learner-facing print copy at least 12pt. Short literal labels, left aligned and translation-ready; do not bake copy into reference artwork.",
+    "shapeAndLineRules": "Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames.",
+    "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: three-lanes",
+    "emphasis": "One controlled orange instructional focal point; no orange full-field background or ranking",
+    "characters": [],
+    "propsAndIcons": []
+  },
+  "prohibitions": [
+    "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",
+    "No real secrets, seed words, private keys, identities, balances, payable addresses, invoices or payment QR data. Fictional payment screens require editable SAMPLE — DO NOT PAY in later production.",
+    "Keep user, educator, wallet, service, node, miner and protocol roles distinct; Bitcoin is not stored inside a wallet, miners do not make the rules, and no single controller approves Bitcoin.",
+    "No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.",
+    "No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.",
+    "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation.",
+    "Do not lower the standard or replace direct observation."
+  ],
+  "review": {
+    "briefCompliant": true,
+    "assetRegisterCompliant": true,
+    "styleCompliant": true,
+    "openDecisionsPreventCreation": false,
+    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Reference copy remains suppressed; production labels and qualifications remain editable."
+  },
+  "unresolved": []
+}
