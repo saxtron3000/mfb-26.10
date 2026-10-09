@@ -14,6 +14,7 @@
     - [Design rules](#design-rules)
   - [2. Visual index](#2-visual-index)
     - [Visual index by guide section](#visual-index-by-guide-section)
+    - [Postponed assets for 2026.10](#postponed-assets-for-202610)
   - [3. Style and branding](#3-style-and-branding)
     - [My First Bitcoin branding](#my-first-bitcoin-branding)
     - [Visual style](#visual-style)
@@ -27,7 +28,7 @@
 
 ## Purpose
 
-An asset is a standalone visual in the Bitcoin Diploma. It can be a diagram, table, illustration, image, QR panel, or interface example.
+An asset is a standalone visual in the Bitcoin Diploma. It can be a diagram, table, illustration, image, QR panel, interface example, or externally supplied image.
 
 Use an asset when a visual explains an idea, process, comparison, or safety step better than prose alone. Do not use assets as decoration.
 
@@ -50,13 +51,14 @@ Use an asset when a visual explains an idea, process, comparison, or safety step
 | Table (Replacement) | A comparison, checklist, or editable record that replaces an existing guide table. |
 | Illustration | A concrete scene or everyday example. |
 | Image | A logo, QR panel, or other simple graphic. |
+| External Image | An approved image copied unchanged from an external source and manually inserted into the Diploma. It does not enter the brief, AI-reference, or Claude production pipeline. |
 
 A **Table (Standalone)** adds a new visual reference and keeps the adjacent guide text. A **Table (Replacement)** takes the place of an existing guide table. Every table asset row must use one of these two types.
 
 ## Folder Structure and Naming Coventions
 
 
-Store each asset here:
+Store each pipeline-eligible asset here:
 
 ```text
 workspace/
@@ -77,7 +79,9 @@ assets/
 
 Use lowercase names and three digits: `bd-v-###-brief.md`, `bd-v-###-ref.json`, `bd-v-###-ref.svg`, and `bd-v-###-ref.png`.
 
-Keep one brief per asset. Use the shared prompt files. Do not create extra asset folders or per-asset prompts.
+Keep one brief per pipeline-eligible asset. Use the shared prompt files. Do not create extra asset folders or per-asset prompts.
+
+External images do not use this folder structure. Record their source and required file type in the visual index, then have the publisher copy the approved file into the Diploma manually.
 
 This file covers guide visuals only. Put activity visuals on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/). Keep ordinary tables and forms in the guide unless this index calls for a separate visual.
 
@@ -99,18 +103,19 @@ This file covers guide visuals only. Put activity visuals on the [Resources Hub]
 - Use SG for learner visuals and EG for educator visuals; use the exact heading and text anchor, not line numbers.
 - Keep adjacent text unless the entry says to replace it. An EG marker reserves its whole location until an approved visual replaces it.
 - Write useful alt text, never a filename, and update this index if an anchor or visual meaning changes.
-- `BD-V-076` is deferred pending public app release. It has no current placement.
+- `BD-V-076` is **POSTPONED** and will not be included in the 2026.10 Diploma release. It has no current placement.
+- `BD-V-001` is an External Image. Copy its approved JPEG from the external source into the Diploma manually; do not create a brief, AI reference, SVG, PNG, JSON record, or Claude package for it.
 
 Use this source marker:
 
 ```markdown
 <!-- VISUAL: BD-V-001
-SANITY: Required — add the approved official Creative Commons Attribution-ShareAlike 4.0 licence mark here during Sanity production.
+SANITY: Manually copy the approved external Creative Commons Attribution-ShareAlike 4.0 licence-mark JPEG here during Diploma production. Do not use the asset-generation or Claude pipeline.
 ALT: Alt text that communicates the instructional meaning.
 -->
 ```
 
-Replace the marker only after approval. Use names such as `bd-v-001.svg` and keep an editable SVG master.
+Replace the marker only after approval. For pipeline-eligible assets, use names such as `bd-v-001.svg` and keep an editable SVG master. For an External Image, use the approved externally supplied file type and insert it manually.
 
 ---
 
@@ -131,9 +136,9 @@ Replace the marker only after approval. Use names such as `bd-v-001.svg` and kee
 | Section / asset ID | Type | Suggested by | Priority | SG | EG | Purpose | Format | Description | Note |
 |---|---|---|---|---|---|---|---|---|---|
 | **Welcome and learning setup** |  |  |  |  |  |  |  |  |  |
-| `BD-V-001` | Image | Pablo | Supporting | 13 |  | Gives the open licence a recognisable visual marker while leaving the written licence terms primary. | Official licence mark with short text lockup; small inline or corner placement. | Use the official Creative Commons BY-SA 4.0 mark at small but legible size. Keep the written licence statement, attribution requirement, and adaptation condition beside or immediately above it. Do not redraw, recolour, distort, or use the logo as a replacement for the licence text or link. | — |
+| `BD-V-001` | External Image | Pablo | Supporting | 13 |  | Gives the open licence a recognisable visual marker while leaving the written licence terms primary. | Official Creative Commons BY-SA 4.0 mark JPEG, copied unchanged from the approved external source and inserted manually; small inline or corner placement. | Use the official Creative Commons BY-SA 4.0 mark at small but legible size. Keep the written licence statement, attribution requirement, and adaptation condition beside or immediately above it. Copy the approved external JPEG manually into the Diploma. Do not create a brief, use AI or Claude, redraw, recolour, distort, or use the logo as a replacement for the licence text or link. | — |
 | `BD-V-002` | Diagram | Pablo | Supporting | 48 |  | Makes “teach how to think, not what to think” into a repeatable learner action. | Horizontal process strip or circular loop; half page. | Show a six-step loop: identify the claim; separate fact from preference; inspect evidence and source; compare alternatives; name a trade-off or uncertainty; form a provisional conclusion or question. The loop must allow revision rather than ending in certainty. | — |
-| `BD-V-076` | Deferred image | User | Deferred | — | — | Reserved for a future public app download route after release approval. | No current asset or placement. | Restricted-pilot microlearning has no public download route. Do not produce, link, print, or place this QR panel until public release. After approval, use the checklist in `18_horizon.md` to approve the destination, copy, accessibility, and placements before restoring this brief. | Reconsider only after the public app destination is live and tested. |
+| `BD-V-076` | Postponed image | User | POSTPONED | — | — | Reserved for a future public app download route after release approval. | No current asset or placement. | Restricted-pilot microlearning has no public download route. Do not produce, link, print, or place this QR panel in the 2026.10 Diploma release. After approval, use the checklist in `18_horizon.md` to approve the destination, copy, accessibility, and placements before restoring this brief. | Reconsider only after the public app destination is live and tested. |
 | `BD-V-077` | Diagram | User | Essential | 102 | 420 | Shows how the Bitcoin Diploma fits into a wider pathway from first learning to teaching and community participation. | Four-stage pathway diagram with editable text; full width. | Show [Introduction to Bitcoin](https://myfirstbitcoin.org/learn/programs#intro) → Bitcoin Diploma → [Educator Training Program](https://etp.myfirstbitcoin.org/) → Joining the Bitcoin Education Network. Link the final stage to the [Bitcoin Education Network](https://leaderboard.myfirstbitcoin.org) dashboard in digital versions. Add short labels: `Explore the basics`, `Build a beginner foundation`, `Develop teaching… | — |
 | `BD-V-006` | Diagram | AI | Supporting | 146 |  | Shows how a learner moves through a typical concept rather than only reading it. | Five-step rhythm strip; half to full width. | Use the five stages in the current list: `Learn a key idea → Show what you can explain or apply → Apply the idea → Explain in your own words → Review the connection to the next module`. Keep discussion, safe practice, and offline participation available throughout. Do not turn this learning rhythm into an assessment score or imply that self-report proves competency. | — |
 | `BD-V-003` | Diagram | AI | Essential | 234 | 478 | Clarifies that all four modules are the Bitcoin Diploma, while educators adapt Module 3 practice and curate the required Connect Module 4. | Layered pathway diagram; full width. | Show all four modules inside a `Bitcoin Diploma: all learners` container, labeled Problem → Solution → Action → Connect. Mark Modules 1–2 as shared core learning, Module 3 as educator-adapted practical learning, and Module 4 as `Connect: educator-curated local learning; required`. Show that Connect applies the earlier learning to a local need and realistic alternative. Show Advanced as a separate onward path. Use arrows to show… | — |
@@ -240,6 +245,32 @@ Replace the marker only after approval. Use names such as `bd-v-001.svg` and kee
 | `BD-V-097` | Diagram | AI | Essential |  | 2978 | Shows translation as a review-and-test process, not a one-way text conversion. | Flow diagram; full width. | Show prepare → translate → review → learner test → confirm. Return to wording when safety instructions are unclear. | — |
 | `BD-V-098` | Diagram | AI | Essential |  | 3175 | Distinguishes freedom to adapt practice from the conditions required for certificated evidence. | Two-branch activity-selection decision diagram; full width. | Split learning practice from formal assessment. Formal assessment needs approved evidence, criteria, safety, independence, and records. | — |
 
+### Postponed assets for 2026.10
+
+The following assets have **POSTPONED** status. They will not be produced, placed, or included in the 2026.10 Bitcoin Diploma release. Keep their existing Student Guide and Educator Guide visual anchors as production records; do not remove or replace those anchors. A later release may reconsider an asset only after its brief, placement, and release decision are reviewed.
+
+| Asset ID | Status | 2026.10 release instruction |
+|---|---|---|
+| `BD-V-001` | POSTPONED | Do not insert the Creative Commons mark asset; retain the written licence statement and the Student Guide anchor |
+| `BD-V-002` | POSTPONED | Do not produce or place |
+| `BD-V-003` | POSTPONED | Do not produce or place |
+| `BD-V-004` | POSTPONED | Do not produce or place |
+| `BD-V-005` | POSTPONED | Do not produce or place; retain the existing guide table |
+| `BD-V-006` | POSTPONED | Do not produce or place |
+| `BD-V-007` | POSTPONED | Do not produce or place; retain the existing guide table |
+| `BD-V-008` | POSTPONED | Do not produce or place |
+| `BD-V-014` | POSTPONED | Do not produce or place; retain the existing guide table |
+| `BD-V-015` | POSTPONED | Do not produce or place |
+| `BD-V-020` | POSTPONED | Do not produce or place; retain the existing guide table |
+| `BD-V-029` | POSTPONED | Do not produce or place; retain the existing guide table |
+| `BD-V-040` | POSTPONED | Do not produce or place; retain the existing guide table |
+| `BD-V-041` | POSTPONED | Do not produce or place; retain the existing guide table |
+| `BD-V-049` | POSTPONED | Do not produce or place; retain the existing guide table |
+| `BD-V-051` | POSTPONED | Do not produce or place; retain the existing guide table |
+| `BD-V-057` | POSTPONED | Do not produce or place; retain the existing guide table |
+| `BD-V-058` | POSTPONED | Do not produce or place; retain the existing guide table |
+| `BD-V-076` | POSTPONED | Do not produce, link, print, or place the restricted-pilot app QR panel |
+
 ## 3. Style and branding
 
 ### My First Bitcoin branding
@@ -305,7 +336,7 @@ A source marker is a non-rendered HTML comment in a guide source file. It record
 
 ```markdown
 <!-- VISUAL: BD-V-001
-SANITY: Required — add the approved official Creative Commons Attribution-ShareAlike 4.0 licence mark here during Sanity production.
+SANITY: Manually copy the approved external Creative Commons Attribution-ShareAlike 4.0 licence-mark JPEG here during Diploma production. Do not use the asset-generation or Claude pipeline.
 ALT: Official Creative Commons Attribution-ShareAlike 4.0 licence mark beside the written licence statement.
 -->
 ```
@@ -318,7 +349,7 @@ The final Markdown or production asset reference replaces the complete marker af
 
 ## 5. AI Production Workflow & Handoff
 
-For each approved asset, create:
+For each approved pipeline-eligible asset, create:
 
 ```yaml
 id: BD-V-000
@@ -333,10 +364,12 @@ status: draft | review | approved | published
 
 Use the asset row as the brief. Write a separate brief only when the row is not enough.
 
+An **External Image** does not use this handoff. Verify that the supplied file is the approved external JPEG and that it may be used as intended, then manually insert it at the index row's placement with its required alt text. Do not create a brief, reference files, JSON record, Claude package, or editable-vector master for an External Image.
+
 ### Make and review
 
 1. Read the asset row and adjacent guide text.
-2. Create a reference image only for layout or illustration direction.
+2. Create a reference image only for layout or illustration direction when the asset is pipeline-eligible.
 3. Build diagrams, tables, text, and QR codes as editable vector or code.
 4. Review the asset before insertion.
 5. Replace the marker or add the Markdown image after approval.
@@ -363,10 +396,11 @@ Check these points:
 
 1. Gather visual-asset definitions, styling, guidelines, and scope in `workspace/08_assets.md`.
 2. Record each asset’s key information, index, description, and progress in `assets/assets-list.md`.
-3. Create one design brief per asset, including a precise generation prompt: `assets/briefs/bd-v-###-brief.md`.
-4. Generate an asset JSON file using `assets/prompts/prompt-01-json.md` and the relevant design brief.
-5. Repeat until every asset in `assets/assets-list.md` has a JSON file in `assets/reference/bd-v-###-ref.json`.
-6. Use the asset brief, JSON reference file, and `assets/prompts/prompt-02-svg-png.md` to have Codex generate the SVG reference and matching PNG rendering: `assets/reference/bd-v-###-ref.svg` and `assets/reference/bd-v-###-ref.png`.
-7. Upload the SVG (`assets/reference/bd-v-###-ref.svg`), PNG (`assets/reference/bd-v-###-ref.png`), JSON (`assets/reference/bd-v-###-ref.json`), and asset brief (`assets/briefs/bd-v-###-brief.md`) to the My First Bitcoin Virtual Machine.
-8. Use `assets/prompts/prompt-03-mg.md` with Claude Design or Claude Code to produce an HTML/CSS ZIP package.
-9. Manually upload the ZIP package to Sanity.
+3. For an External Image, verify the approved external source and file type, then manually copy the supplied JPEG into the Diploma at the asset-row placement. Do not send it through the brief, AI-reference, or Claude production pipeline.
+4. Create one design brief per pipeline-eligible asset, including a precise generation prompt: `assets/briefs/bd-v-###-brief.md`.
+5. Generate an asset JSON file using `assets/prompts/prompt-01-json.md` and the relevant design brief.
+6. Repeat until every pipeline-eligible asset in `assets/assets-list.md` has a JSON file in `assets/reference/bd-v-###-ref.json`.
+7. Use the asset brief, JSON reference file, and `assets/prompts/prompt-02-svg-png.md` to have Codex generate the SVG reference and matching PNG rendering: `assets/reference/bd-v-###-ref.svg` and `assets/reference/bd-v-###-ref.png`.
+8. Upload the SVG (`assets/reference/bd-v-###-ref.svg`), PNG (`assets/reference/bd-v-###-ref.png`), JSON (`assets/reference/bd-v-###-ref.json`), and asset brief (`assets/briefs/bd-v-###-brief.md`) to the My First Bitcoin Virtual Machine.
+9. Use `assets/prompts/prompt-03-mg.md` with Claude Design or Claude Code to produce an HTML/CSS ZIP package.
+10. Manually upload the ZIP package to Sanity.

@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Attach this file to every Claude Design request that turns a Bitcoin Diploma contract into a production asset. Each eligible asset receives an approved Codex-generated SVG reference, its matching PNG rendering, and its conformance report. Claude must create the editable, accessible source and upload-ready deliverables; it must not publish a reference image. The current reference batch defers `BD-V-001`, `BD-V-070`, and `BD-V-075`; these prompts do not release deferred items. For later `BD-V-001` production, use the official licence mark under its existing brief, not an AI redraw.
+Attach this file to every Claude Design request that turns a pipeline-eligible Bitcoin Diploma contract into a production asset. Each eligible asset receives an approved Codex-generated SVG reference, its matching PNG rendering, and its conformance report. Claude must create the editable, accessible source and upload-ready deliverables; it must not publish a reference image. An `External Image`, including `BD-V-001`, is outside this pipeline: copy its approved external JPEG into the Diploma manually, without a brief, AI reference, or Claude package. The current reference batch defers `BD-V-070` and `BD-V-075`; these prompts do not release deferred items.
 
 The complete entry in [08_assets.md](08_assets.md) is the instructional source of truth. The Claude Design System and its local authoring contract are the source of truth for brand and design-system choices. Where they conflict, stop and report the specific conflict for resolution.
 
@@ -28,7 +28,7 @@ Every request supplies one complete row from [08_assets.md](08_assets.md). Claud
 | `ID` | Stable asset identifier. Use its lowercase form for the project directory and metadata; do not rename it. |
 | `Suggested by` | Provenance only. It is not a design instruction, factual source, or approval state. |
 | `Priority` | Planning importance (`Essential`, `Supporting`, or `Conditional`), not authorization to publish or lower review standards. A `Conditional` asset waits for its stated decision or verification. |
-| `Type` | Required visual family: a new structured comparison/template that keeps adjacent guide text (`Table (Standalone)`); a structured comparison/template that replaces an existing guide table (`Table (Replacement)`); relationship/process/map/timeline (`Diagram`); or illustration/source/interface representation (`Image`). |
+| `Type` | Required visual family: a new structured comparison/template that keeps adjacent guide text (`Table (Standalone)`); a structured comparison/template that replaces an existing guide table (`Table (Replacement)`); relationship/process/map/timeline (`Diagram`); or illustration/source/interface representation (`Image`). `External Image` is outside this Claude pipeline and must be manually inserted from its approved external JPEG. |
 | `Page` and `Note` | Historic annotated-draft provenance. Do not use them as a current page layout, placement, or factual source. |
 | `Placement` | Authoritative intended insertion: the guide, exact heading, and before/after/replace instruction. Use it to choose `student-guide`, `educator-guide`, or `shared`; preserve all listed placements in metadata. |
 | `Line` | A one-based location snapshot only. Re-find the anchor through the named heading and nearby described text if it has shifted. |

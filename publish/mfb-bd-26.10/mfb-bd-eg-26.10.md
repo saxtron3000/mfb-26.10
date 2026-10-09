@@ -486,6 +486,7 @@ USE: Educator-only diagram; see the asset index brief.
 <!-- VISUAL: BD-V-003
 ALT: All four Bitcoin Diploma modules form the required learning arc; locally selected Connect learning remains required and Advanced learning lies beyond the Bitcoin Diploma.
 ASSET: assets/briefs/bd-v-003-brief.md
+STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
 USE: Shared Student Guide master.
 -->
 
@@ -1067,6 +1068,7 @@ Teach the difference explicitly:
 <!-- VISUAL: BD-V-008
 ALT: Three money functions describe what money does; seven properties describe qualities that support those functions, with trade-offs depending on purpose.
 ASSET: assets/briefs/bd-v-008-brief.md
+STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
 USE: Shared Student Guide master.
 -->
 
@@ -1186,6 +1188,7 @@ Ask learners to identify:
 <!-- VISUAL: BD-V-015
 ALT: A fiat-payment map distinguishes central-bank, commercial-bank, government, citizen, business, and payment-service roles, claims, instructions, and dependencies.
 ASSET: assets/briefs/bd-v-015-brief.md
+STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
 USE: Shared Student Guide master.
 -->
 
@@ -1627,6 +1630,7 @@ Use a few conversions:
 <!-- VISUAL: BD-V-029
 ALT: One bitcoin equals 100 million sats; the displayed fractional bitcoin and sat quantities describe equivalent amounts without changing the total supply.
 ASSET: assets/briefs/bd-v-029-brief.md
+STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
 USE: Shared Student Guide master.
 -->
 

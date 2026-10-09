@@ -1,5 +1,7 @@
 Build a My First Bitcoin Diploma micrographic.
 
+This prompt does not apply to an `External Image`. An External Image is copied from its approved external source and manually inserted into the Diploma; do not create a micrographic, editable source, or package for it.
+
 What it should show: [describe the content, the pieces, and any exact numbers or labels]
 
 Use the supplied asset brief as the binding content contract. Preserve its

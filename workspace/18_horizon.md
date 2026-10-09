@@ -66,7 +66,7 @@ Future work may strengthen the system behind a meaningful certificate.
 - Confirm that no account, device, connectivity, real funds, wallet secret, personal financial information, or app use is required for Bitcoin Diploma learning, assessment, completion, or certification.
 - Finalize the assessment boundary: app activity, progress, results, and self-report must not become certification evidence or replace educator observation.
 - After public-launch approval, add the learner-facing app link to the Student Guide and Educator Guide, then update the Educator Quick Start, public briefs, link register, asset register, and pilot handoff together; verify every changed link and rendered publication.
-- Create and place `BD-V-076` only after the public download destination is live, readable in print, and tested. Remove its deferral only when all four intended guide placements have approved copy and production checks.
+- `BD-V-076` is **POSTPONED** and will not be included in the 2026.10 Diploma release. Create and place it only after the public download destination is live, readable in print, and tested. Remove its postponed status only when all four intended guide placements have approved copy and production checks.
 - Establish post-launch monitoring for broken destinations, support incidents, accessibility defects, privacy/security issues, content corrections, and withdrawal or rollback decisions.
 
 ### Content and learner experience
