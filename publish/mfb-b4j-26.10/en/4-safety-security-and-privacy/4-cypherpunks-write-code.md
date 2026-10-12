@@ -120,7 +120,7 @@ Students are introduced to the idea of codes as a way to hide and protect inform
 
 ### Differentiation
 
-* Younger students: Shorter words and fixed letter shift, Use non-Bitcoin vocabulary
+* Younger students: Use shorter words, a fixed letter shift, and non-Bitcoin vocabulary.
 * Older students: Choose and record their own letter shift for others to solve.
 * ELL/Accessibility: visual alphabet guides and peer support.
 * Safety: blunt scissors and monitored pin use.

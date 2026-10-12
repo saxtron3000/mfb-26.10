@@ -136,7 +136,7 @@ Optional extensions include short debates, assigned arguments, or creating a cla
 * Younger students: fewer rounds and simpler explanations.
 * Older students: Invite 1–2 volunteers from each side to “defend” their choice
 * ELL/Accessibility: visual cues, modeling, and sentence starters.
-* Safety: Safety: no running and clear movement rules.
+* Safety: no running and clear movement rules.
 
 ### Suggested assignment
 

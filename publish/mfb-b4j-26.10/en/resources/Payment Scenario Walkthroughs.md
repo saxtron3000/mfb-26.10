@@ -1,7 +1,5 @@
 # Payment Scenario Walkthroughs
 
-# Payment Scenario Walkthroughs
-
 Step-by-step guides for common Bitcoin and Lightning payment scenarios.
 
 
@@ -23,7 +21,9 @@ Step-by-step guides for common Bitcoin and Lightning payment scenarios.
 1. **Wait for confirmations** (\~10 min for 1st, \~60 min for 6)
 1. **Check [blockchain](https://programs.myfirstbitcoin.org/lexicon/en/#blockchain) explorer** to verify transaction
 
-**Time:** \~10 minutes to [first confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#first-confirmation)\n**Cost:** $2-10 depending on network congestion
+**Time:** \~10 minutes to [first confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#first-confirmation)
+
+**Cost:** $2-10 depending on network congestion
 
 
 ---
@@ -43,14 +43,16 @@ Step-by-step guides for common Bitcoin and Lightning payment scenarios.
 1. **Transaction settles instantly** (< 1 second)
 1. **Receipt generated**
 
-**Time:** < 1 second\n**Cost:** < $0.01
+**Time:** < 1 second
+
+**Cost:** < $0.01
 
 
 ---
 
 ## **Scenario 3: Receive Bitcoin Directly (Self-Employed)**
 
-**Situation:** You're a freelancer and want to accept Bitcoin payment from client.
+**Situation:** You're a freelancer and want to accept a Bitcoin payment from a client.
 
 ### **Step-by-Step**
 
@@ -63,7 +65,9 @@ Step-by-step guides for common Bitcoin and Lightning payment scenarios.
 1. **After 1-6 confirmations**, Bitcoin appears in your wallet
 1. **Check blockchain explorer** to verify (optional but good practice)
 
-**Time to receive:** \~10 minutes (1st [confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation))\n**Cost:** Free to receive (no fee for you)
+**Time to receive:** \~10 minutes (1st [confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation))
+
+**Cost:** Free to receive (no fee for you)
 
 
 ---
@@ -92,7 +96,9 @@ Step-by-step guides for common Bitcoin and Lightning payment scenarios.
 1. **You convert to local currency** (optional; or hold Bitcoin)
 1. **Withdraw to bank account** if needed
 
-**Time:** \~30 minutes (including exchange account creation)\n**Cost:** < $1 (exchange fee + network fee)
+**Time:** \~30 minutes (including exchange account creation)
+
+**Cost:** < $1 (exchange fee + network fee)
 
 **Savings:** $80-100 vs. traditional wire!
 

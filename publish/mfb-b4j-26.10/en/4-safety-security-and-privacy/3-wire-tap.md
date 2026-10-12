@@ -77,17 +77,17 @@ Students explore how information changes depending on who carries it and who is 
 ###### Round 1 – Easy Message (Trusted Chain)
 
 1. Whisper a very simple sentence to the first student; students pass it down the line, and the last student says it aloud.
-1. Checkpoint: Was the message correct, did anyone change it on purpose, did it feel easy to trust the group?
+1. Checkpoint: Was the message correct? Did anyone change it on purpose? Did it feel easy to trust the group?
 
 ###### Round 2 – Hard Message (Complex Information)
 
 1. Repeat the whisper chain with a longer, more precise sentence, then have the last student say it aloud.
-1. Checkpoint: What changed, where did it break, was anyone being bad or was it just hard?
+1. Checkpoint: What changed? Where did it break? Was anyone being bad, or was it just hard?
 
 ###### Round 3 – Hidden Rule (Intentional Change)
 
 1. Use the same complex message, but secretly tell one student in the middle that they may change one word. Do not announce the rule; then run the whisper chain.
-1. Checkpoint: Did this feel different from mistakes, how could we tell something was wrong, what felt unfair?
+1. Checkpoint: Did this feel different from mistakes? How could we tell something was wrong? What felt unfair?
 
 ###### Optional Variant – Running Dictation (Control vs Trust)
 

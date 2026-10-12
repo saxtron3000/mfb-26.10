@@ -20,7 +20,7 @@ Guided practice
 
 The educator guides participants through a prepared wallet demonstration or simulation so they can explore how wallet setup, receiving information, and recovery readiness work. Participants follow the clues, compare public and private information, and make safe choices in realistic-looking examples.
 
-This is a learning demonstration, not personal wallet setup: no real secret or funds are used.
+This is a learning demonstration, not personal wallet setup: no real secrets or funds are used.
 
 #### Preparation
 

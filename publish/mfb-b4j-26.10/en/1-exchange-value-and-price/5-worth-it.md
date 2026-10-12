@@ -45,7 +45,7 @@ Students explore the meaning of price by cutting out everyday items and placing 
 * Whiteboard, wall space, or chart paper for the price line
 * Painter's tape or string to make the Low Price–High Price line
 * **Nice-to-have:** Sticky notes or voting stickers
-* **Nice-to-have:** Projector, Visual Aides (_See Appendix A_)
+* **Nice-to-have:** Projector, Visual Aids (_See Appendix A_)
 
 #### Setup
 

@@ -29,7 +29,7 @@ Participants trade playing cards across three rounds that progressively change w
 - Standard playing cards
   - Recommendation = 1 deck for every 5 participants
 - Board or screen to display instructions
-- Paper, Excel or other method to track results
+- Paper, Excel, or another method to track results
 - Name cards to label team tables, e.g., “ACES” (optional)
 
 #### Setup
@@ -44,7 +44,7 @@ After you have delivered the activity the first time, future preparation is mini
 
 Explain to the participants that this is a [bartering](https://programs.myfirstbitcoin.org/lexicon/en/#barter-bartering) game. If there are 10 or fewer participants in the class, they will play as individuals. For larger classes, divide the participants into four teams.
 
-This activity has three rounds. To begin, assign participants to one of four “markets”: CLUB-MAKERS, SPADE-MAKERS, HEARTS-MAKERS, DIAMOND-MAKERS.
+This activity has three rounds. To begin, assign participants to one of four “markets”: CLUB-MAKERS, SPADE-MAKERS, HEART-MAKERS, DIAMOND-MAKERS.
 
 Give each group a set of cards matching its suit, or distribute the cards evenly if participants are playing individually. For example, participants in the spade-makers group should start with spades.
 
@@ -67,11 +67,11 @@ Then give them 5 minutes to walk around and negotiate trades with other groups.
 
 ##### Step 2: The Lack of Coincidence-of-Wants
 
-Give participants their new assignments (table below). Their goal is to get their “wants”.
+Give participants their new assignments (table below). Their goal is to get their “wants.”
 
 Then give them time to walk around and negotiate trades with other groups.
 
-Take a few minutes to allow participants time to share what was diﬀerent between the first and second rounds.
+Take a few minutes to allow participants time to share what was different between the first and second rounds.
 
 **Note that in round 2, there are no direct matches between groups. To get what they want, participants must conduct multiple trades.**
 
@@ -84,11 +84,11 @@ Take a few minutes to allow participants time to share what was diﬀerent betwe
 
 ##### Step 3: Most Saleable Goods
 
-Give participants their new assignments (table below). Their goal is to get their “wants”.
+Give participants their new assignments (table below). Their goal is to get their “wants.”
 
-Then give time to walk around and negotiate trades with other groups.
+Then give participants time to walk around and negotiate trades with other groups.
 
-As before, after trading is done, allow the participants to share what was diﬀerent between all three rounds.
+As before, after trading is done, allow the participants to share what was different between all three rounds.
 
 **Note that in round 3, diamonds became the most saleable good. Ask participants how gold has fulfilled this role historically.**
 
@@ -102,7 +102,7 @@ As before, after trading is done, allow the participants to share what was diﬀ
 #### Key points
 
 1. Direct bartering is possible with exact matches in wants.
-1. Indirect bartering helps but increases complexity of trades.
+1. Indirect bartering helps but increases the complexity of trades.
 1. Discovering the **most tradable good** (i.e., most saleable) is a **natural process** and leads to money.
 
 #### Discussion questions
@@ -120,7 +120,7 @@ The minimum play time for this is 10 minutes per step or 3 * 10 = 30 minutes.
 
 Plan on a full hour including setup, explanation, play, discussion, and cleanup.
 
-**This activity is a participatory game. The more you invest in terms of eﬀort and creativity, the more fun it will be … and the more eﬀective.**
+**This activity is a participatory game. The more you invest in terms of effort and creativity, the more fun it will be … and the more effective.**
 
 #### Resources and references
 

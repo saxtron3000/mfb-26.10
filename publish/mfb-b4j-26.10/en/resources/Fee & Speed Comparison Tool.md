@@ -1,7 +1,5 @@
 # Fee & Speed Comparison Tool
 
-# Fee & Speed Comparison Tool
-
 Choosing the right payment method for different scenarios.
 
 
@@ -59,7 +57,9 @@ Choosing the right payment method for different scenarios.
 | **Lightning** | <1 sec | <$0.01 | **BEST OPTION** if recipient has Lightning |
 | **Stablecoin (USDT)** | 1-2 min | <$0.50 | Good alternative (less volatile) |
 
-**Winner:** Lightning Network (or stablecoin)\n**Savings:** $35-50 per month per transaction
+**Winner:** Lightning Network (or stablecoin)
+
+**Savings:** $35-50 per month per transaction
 
 
 ---
@@ -126,7 +126,7 @@ Issuing bank gets interest if payment delayed
 * Cost: <$0.01
 * Recipient gets: $9,999.99+
 
-**Monthly saving with Lightning:** $30-40 × 12 = $360-480/year!
+**Annual saving with Lightning:** $30-40 × 12 = $360-480/year!
 
 
 ---

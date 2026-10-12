@@ -22,7 +22,7 @@ Juniors • Simulation game – Craft-based encoding – Competitive challenge
 By the end of this activity, learners will:
 
 * Review how information transmission requires trust in intermediaries
-* Recognize how messages can leak or change when transmitted openly;
+* Recognize how messages can leak or change when transmitted openly
 * Understand that encoding protects information even when intermediaries are untrusted
 * Successfully encode and decode vocabulary using a cipher wheel.
 
@@ -129,7 +129,7 @@ Building on earlier activities about trust, message passing, and interception, s
 
 ### Classroom management
 
-* Older Students can choose their role in the relay
+* Older students can choose their role in the relay
 * Control running paths and enforce walking if needed.
 * Emphasize that mistakes are expected and part of learning.
 

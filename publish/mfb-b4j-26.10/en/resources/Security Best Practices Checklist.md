@@ -1,7 +1,5 @@
 # Security Best Practices Checklist
 
-# Security Best Practices Checklist
-
 Quick reference for safe Bitcoin use.
 
 
@@ -20,7 +18,7 @@ Quick reference for safe Bitcoin use.
 ## **Creating Your Wallet**
 
 - [ ] Created wallet **offline if possible** (Sparrow Desktop)
-- [ ] Received **12 or 24-word [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase)**
+- [ ] Received **12- or 24-word [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase)**
 - [ ] **Written seed phrase on paper** (never typed into computer)
 - [ ] Created **multiple copies** of seed phrase (at least 2)
 - [ ] **Not photographed or screenshotted** seed phrase
@@ -95,12 +93,12 @@ Quick reference for safe Bitcoin use.
 
 ## **Device Security**
 
-- [ ] Phone/computer has **strong password or pin**
+- [ ] Phone/computer has **strong password or PIN**
 - [ ] Enabled **[2FA](https://programs.myfirstbitcoin.org/lexicon/en/#two-factor-authentication-2fa) on email account** (linked to recovery process)
 - [ ] **Installed antivirus/antimalware** software
 - [ ] **Updated all software** (OS, apps, browser)
 - [ ] **Disabled unnecessary permissions** (camera, location, contacts)
-- [ ] **Used VPN** if on public WiFi (optional but recommended)
+- [ ] **Used VPN** if on public Wi-Fi (optional but recommended)
 - [ ] **Installed NoScript or similar** to block malicious scripts (advanced)
 
 

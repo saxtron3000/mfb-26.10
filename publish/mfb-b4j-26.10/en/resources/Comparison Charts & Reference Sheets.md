@@ -1,7 +1,5 @@
 # Comparison Charts & Reference Sheets
 
-# Comparison Charts & Reference Sheets
-
 Visual side-by-side comparisons of key concepts.
 
 

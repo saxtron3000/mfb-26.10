@@ -1,7 +1,5 @@
 # Lightning Network Simplified Explainer
 
-# Lightning Network Simplified Explainer
-
 Fast, cheap Bitcoin payments without touching the [blockchain](https://programs.myfirstbitcoin.org/lexicon/en/#blockchain).
 
 
@@ -76,7 +74,7 @@ Without Lightning: 1000 × $1 = $1,000
 
 ## **Key Concept: Routing**
 
-### **What if Alice doesn't have a channel with who she wants to pay?**
+### **What if Alice doesn't have a channel with the person she wants to pay?**
 
 ```
 Scenario: Alice wants to send $10 to Carol (no direct channel)
@@ -136,7 +134,7 @@ If Bob tries to [broadcast](https://programs.myfirstbitcoin.org/lexicon/en/#broa
 
 1. Alice broadcasts the newer state (signed by both)
 1. Bitcoin miners reject Bob's old state
-1. Bob loses his entire channel balance as penalty
+1. Bob loses his entire channel balance as a penalty
 
 **Result:** Cheating costs more than honesty. No incentive to lie.
 
@@ -183,7 +181,7 @@ If Bob tries to [broadcast](https://programs.myfirstbitcoin.org/lexicon/en/#broa
 
 ### **Remittances**
 
-* Send $500 to Philippines instantly ($0.05 fee vs. $50 bank fee)
+* Send $500 to the Philippines instantly ($0.05 fee vs. $50 bank fee)
 * No middleman; direct person-to-person
 
 ### **Merchant Payments**

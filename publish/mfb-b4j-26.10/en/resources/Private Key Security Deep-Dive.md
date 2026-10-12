@@ -1,7 +1,5 @@
 # Private Key Security Deep-Dive
 
-# Private Key Security Deep-Dive
-
 Understanding and protecting your Bitcoin ownership.
 
 
@@ -26,7 +24,7 @@ A 256-bit number that proves you own Bitcoin and authorizes spending. Similar to
 
 ### **What It Is**
 
-A sequence of 12 or 24 common English words that mathematically generate ALL private keys in your wallet.
+A sequence of 12 or 24 common English words that mathematically generates ALL private keys in your wallet.
 
 ### **How It Works**
 
@@ -48,7 +46,7 @@ All your private keys (one per address)
 | Store in secure location (fireproof safe, vault) | Type into computer (malware risk) |
 | Memorize (optional but useful) | Email or text yourself |
 | Store in multiple geographic locations | Screenshot or photo on phone |
-| Use metal backup (metal plates engrave words) | Leave digital copy on cloud |
+| Use metal backup (metal plates engraved with words) | Leave digital copy on cloud |
 
 
 ---
@@ -85,7 +83,7 @@ Each address has its own private key, derived from seed phrase.
 
 ### **Hardware Wallet (Most Secure)**
 
-* Private keys stored on offline device (Ledger, Trezor. ColdCard)
+* Private keys stored on offline device (Ledger, Trezor, ColdCard)
 * Device signs transactions; never sends key to internet
 * Protection against malware
 * Seed phrase written down; device never exposed
@@ -100,7 +98,7 @@ Each address has its own private key, derived from seed phrase.
 ### **Paper Wallet (No Device)**
 
 * Print seed phrase on paper; zero digital exposure
-* Cannot accidentally send wrong address
+* Cannot accidentally send to the wrong address
 * Maximum security; zero convenience
 * Best for long-term [cold storage](https://programs.myfirstbitcoin.org/lexicon/en/#cold-wallet-cold-storage)
 
@@ -130,7 +128,7 @@ Each address has its own private key, derived from seed phrase.
 ### **Malware (Key Logger, Screenshot)**
 
 * Risk: Computer malware captures seed phrase as you type
-* **Prevention:** Type seed phrase offline, on paper only. Never type it into computer.
+* **Prevention:** Write the seed phrase offline, on paper only. Never type it into a computer.
 
 ### **Phishing (Fake Wallet Site)**
 

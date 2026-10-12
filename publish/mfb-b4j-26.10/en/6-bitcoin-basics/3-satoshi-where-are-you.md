@@ -21,7 +21,7 @@ Juniors • Creative Writing – Collaborative Learning – Dramatic Arts
 
 By the end of this activity, learners will:
 
-* Sequence ideas into beginning, middle, and end
+* Sequence ideas into a beginning, middle, and end
 * Construct a logical narrative from independent elements
 * Adapt a story when new constraints are introduced
 * Participate in structured peer storytelling
@@ -78,13 +78,13 @@ In this lesson, students construct a story using four independent ideas written 
   * Who is your hero?
 1. Circulate to keep responses concise and readable. Then distribute the three-column handout; students place their four notes in Beginning, Middle, or End, with more than one allowed in a column.
 1. Students construct a short story using all four sticky notes, with:
-  * Clear beginning
+  * A clear beginning
   * A change or problem in the middle
   * An ending that shows what happened
 1. In groups of 3–4, each student tells their story and listeners give one short comment about clarity or interest.
 1. Each student passes one sticky note to the left, reorganizes their timeline to include the new idea, then revises and retells their story.
 
-Optional: Repeat swap once more if time allows.
+Optional: Repeat the swap once more if time allows.
 
 ###### Checkpoint
 
@@ -132,8 +132,8 @@ Optional: Repeat swap once more if time allows.
 
 ### Differentiation
 
-* Younger students: Allow drawing before writing, Provide sentence starters.
-* ELL/Accessibility: Provide vocabulary support, Allow oral storytelling before written production.
+* Younger students: Allow drawing before writing and provide sentence starters.
+* ELL/Accessibility: Provide vocabulary support and allow oral storytelling before written production.
 * Safety: Keep movement controlled during role play.
 
 ### Suggested assignment

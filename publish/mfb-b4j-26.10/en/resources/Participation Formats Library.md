@@ -1,7 +1,5 @@
 # Participation Formats Library
 
-# Participation Formats Library
-
 **Purpose:** Three core participation structures for all chapters. Copy-paste into session plans, facilitation guides, and trainer notes.
 
 **How to Use:** Choose the format based on your learning goal and time. Mix formats within a single session. Adapt to your group size and context.
@@ -16,9 +14,9 @@
 **When to Use:**
 
 * After a discussion question or prompt
-* When you need more participation than hands can raise
+* When you need participation beyond those who raise their hands
 * To give introverts processing time
-* When you want deeper thinking before whole-group share
+* When you want deeper thinking before whole-group sharing
 * With controversial or personal topics (safer to rehearse with one person first)
 
 **Step-by-Step:**
@@ -63,7 +61,7 @@
 
 **When to Use:**
 
-* When a topic needs more depth than whole-group allows
+* When a topic needs more depth than whole-group discussion allows
 * To develop leadership and facilitation skills in students
 * When you have diverse opinions to explore
 * With longer, more complex questions
@@ -75,7 +73,7 @@
 1. **Assign Groups (1 minute)**
   * 3-5 students per group works best
   * You can assign (balance voices, skill levels, personalities) or let students choose
-  * *Facilitation note:* Pre-assign usually produces better group dynamics
+  * *Facilitation note:* Pre-assigning groups usually produces better group dynamics
 1. **Clarify the Task (1-2 minutes)**
   * State the question or challenge clearly
   * Explain the time frame
@@ -97,7 +95,7 @@
 
 **Variations:**
 
-* **Jigsaw:** Each group becomes "experts" on one subtopic, then regroup to teach each other
+* **Jigsaw:** Students become "experts" on one subtopic in their groups, then regroup to teach each other
 * **Fishbowl:** One group discusses while others observe and listen, then switch
 * **Gallery Walk:** Groups post their thinking on posters; other groups view and comment
 
@@ -159,7 +157,7 @@
 **Variations:**
 
 * **Turn-and-Talk First:** Do Think-Pair-Share, then invite pairs to share in whole group (increases participation)
-* **Silent Popcorn:** Students write responses on cards, you read them aloud (reduces [bias](https://programs.myfirstbitcoin.org/lexicon/en/#bias), gives everyone a voice)
+* **Silent Popcorn:** Students write responses on cards; you read them aloud (reduces [bias](https://programs.myfirstbitcoin.org/lexicon/en/#bias), gives everyone a voice)
 * **Structured Debate:** Divide group into perspectives, debate respectfully
 * **Question Climb:** Start with simple questions, gradually increase complexity
 
@@ -187,7 +185,7 @@
 |--------|----------|----------|------------|------|
 | **Think-Pair-Share** | Quick thinking, all participation, building confidence | 7-11 min | Any        | Low (very safe) |
 | **Small Group** | Deep exploration, peer teaching, leadership | 12-35 min | 8-30       | Medium (some groups may go off-track) |
-| **Whole Class** | Shared understanding, modeling, community | 13-30 min | 10-100+    | Medium (can dominated by a few voices) |
+| **Whole Class** | Shared understanding, modeling, community | 13-30 min | 10-100+    | Medium (can be dominated by a few voices) |
 
 **Quick Decision Tree:**
 
@@ -217,9 +215,9 @@
 **3. Equity Matters**
 
 * Don't just call on hand-raisers
-* Use pointer stick, cards with names, random selection
+* Use a pointer stick, cards with names, random selection
 * Give quieter students easier entry points first
-* Celebrate diverse thinking: "Look how many different ways to think about this."
+* Celebrate diverse thinking: "Look how many different ways there are to think about this."
 
 **4. Manage the Dominator**
 

@@ -1,7 +1,5 @@
 # Support Resources Matrix — All Chapters
 
-# Support Resources Matrix — All Chapters
-
 Complete overview of which resources apply to each chapter.
 
 

@@ -1,7 +1,5 @@
 # Technical Explainers & Deep-Dives
 
-# Technical Explainers & Deep-Dives
-
 Simplified explanations of technical Bitcoin concepts.
 
 
@@ -17,7 +15,7 @@ Imagine you lend your bike to a banker. Instead of storing it:
 * Then lends it to Bob (Thursday-Saturday)
 * Promises both they can use it whenever they want
 
-**The Problem:** Only one bike exists. If Alice and Bob both show up Tuesday, problem.
+**The Problem:** Only one bike exists. If Alice and Bob both show up on Tuesday, there is a problem.
 
 **This is fractional reserve banking:**
 
@@ -39,9 +37,9 @@ Imagine you lend your bike to a banker. Instead of storing it:
 
 ### **Why Digital Money Was Hard Before Bitcoin**
 
-**Problem:** In physical world, you can't spend the same coin twice. Once it leaves your hand, it's gone.
+**Problem:** In the physical world, you can't spend the same coin twice. Once it leaves your hand, it's gone.
 
-**In digital world:** A file is just data. You can copy it. How do you prevent someone from spending the same Bitcoin twice?
+**In the digital world:** A file is just data. You can copy it. How do you prevent someone from spending the same Bitcoin twice?
 
 **Previous attempts failed because:**
 
@@ -121,7 +119,7 @@ Output: 88c2f9e3b6a1d4c2f9e8b5a2c3d6e7f1a4b8c2d5e8f1a4b7c0d3e6f9a2b5c8e
 1. Network verifies signature using your **public key**
 1. Signature proves you authorized it without revealing private key
 
-**Why It Works:** Math guarantees only private key holder could create that signature.
+**Why It Works:** Math guarantees only the private key holder could create that signature.
 
 
 ---
