@@ -1,38 +1,25 @@
-# Operating-system files
-.DS_Store
-/.!19427!.DS_Store
-
-# Local editor settings
-*.code-workspace
-
-# Local AI assistant state
-/.claude/
-/.codex-git-tmp/
-/.codex-tmp/
-/AGENTS.md
-
-# Local temporary files
-/.tmp/
-/.tmp-codex-git/
-
-# Local backups and archives
+# Keep local planning, backups, and archives out of Git.
+/workspace/
 /x_backup/
 /y_archive/
 
-# Local archive alias
-/y_MFB-archive alias
-
-# Local asset work-in-progress
-/y_assets-work (archived)/
-/assets/
-/.asset-tools/
-
-# Local tools and planning workspace
-/tools/
-/workspace/
-
-# Local prompt bank
+# Local workspace and planning files
+/.gitignore
+/mfb-bd-26.10.code-workspace
+/mfb-program-index.md
 /prompt-bank.txt
 
-# Local review files
-/review/
+# Keep machine metadata, private environment files, and temporary state local.
+.DS_Store
+.*.DS_Store
+.env
+*.env
+.env.*
+
+# Local AI assistant state and temporary tools
+/.claude/
+/.codex-git-tmp/
+/.codex-tmp/
+/.tmp/
+/.tmp-codex-git/
+/.asset-tools/
