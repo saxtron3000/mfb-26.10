@@ -1,134 +1,154 @@
-# Bitcoin Diploma 2026.10
+# My First Bitcoin curriculum — 2026.10
 
-This repository contains the official publication documents, planning guidance, and review materials for My First Bitcoin's October 2026 Bitcoin Diploma curriculum.
+This Markdown-first repository contains My First Bitcoin's Bitcoin Diploma, Bitcoin for Juniors, and shared learning resources for the 2026.10 edition. It also holds visual production materials, terminology references, link inventories, and public communication sources.
 
-The redesign preserves the Diploma's open-source, community-led, Bitcoin-only identity while making the beginner pathway shorter, clearer, more practical, easier to teach, and easier to adapt across communities.
+This README maps the repository for human contributors and agents. Use the owning file for detailed content and keep related guides, records, and assets aligned. A file's presence in `publish/` does not by itself mean it is approved for release: Advanced materials and restricted-pilot content have separate boundaries.
 
 ## Start here
 
-Choose the route that matches your work:
-
-| If you want to… | Start with… |
+| Task | Starting point |
 |---|---|
-| Review the curriculum design | [`workspace/00_index.md`](workspace/00_index.md) |
-| Read or edit the Student Guide | [`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md`](publish/mfb-bd-26.10/mfb-bd-sg-26.10.md) |
-| Read or edit the Educator Guide | [`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md`](publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) |
-| Use approved assessment interactions, tasks, and rubrics | [`Educator Guide: operational assessment protocol`](publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) |
-| Use the educator assessment record | [`publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md`](publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) |
-| Check a Bitcoin term or definition | [Bitcoin lexicon terms](publish/mfb-lx-26.10/mfb-lx-26.10-terms.md) |
-| See Advanced-module availability | [`publish/mfb-adv-26.10/README.md`](publish/mfb-adv-26.10/README.md) |
-| Work on restricted-pilot app self-assessment content | [`publish/mfb-ml-26.10/mfb-ml-26.10.md`](publish/mfb-ml-26.10/mfb-ml-26.10.md) |
-| Run the alignment review | [`review/review_alignment.md`](review/review_alignment.md) |
-| Run the style review | [`review/review_style.md`](review/review_style.md) |
-| Check current review actions | [`review/review_todo.md`](review/review_todo.md) |
-| Review the project in one document | [`workspace/16_spec.md`](workspace/16_spec.md) |
+| Understand contribution rules | [Workflow for humans and agents](#workflow-for-humans-and-agents) and [writing conventions](#writing-conventions) |
+| Read or edit the beginner Diploma | [Student Guide](publish/mfb-bd-26.10/mfb-bd-sg-26.10.md) |
+| Prepare to teach | [Educator Quick Start](publish/mfb-bd-26.10/mfb-bd-qs-26.10.md), then the [Educator Guide](publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) |
+| Check assessment requirements | [Educator Guide: operational assessment protocol](publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) and [Assessment Grid](publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) |
+| Work on Bitcoin for Juniors | [English program overview](publish/mfb-b4j-26.10/en/README.md) and [Parent Guide](publish/mfb-b4j-26.10/parents-guide.md) |
+| Edit an activity | [Activity sources](publish/mfb-act-26.10/) and [activity template](reference/ref-mfb-act-000-template.md) |
+| Check vocabulary | [Lexicon terms register](publish/mfb-lx-26.10/mfb-lx-26.10-terms.md) |
+| Work on visuals | [Asset production log](assets/assets-list.md), [asset notes](assets/asset-description.md), and [style rules](assets/style/STYLE.md) |
+| Review destinations and references | [Internal links](links/links-internal.md) and [external links](links/links-external.md) |
 
-## Repository structure
+## Folder structure
 
-| Directory | What belongs there |
+```text
+README.md                       Repository map and contribution workflow
+publish/                        Curriculum and supporting publication sources
+├── mfb-bd-26.10/               Bitcoin Diploma guides and assessment record
+├── mfb-b4j-26.10/              Bitcoin for Juniors and parent guidance
+│   └── en/                    English front matter, six topic folders, and resources
+├── mfb-act-26.10/              Shared activity library
+├── mfb-lx-26.10/               Shared Bitcoin terminology register
+├── mfb-adv-26.10/              Advanced modules under development
+└── mfb-ml-26.10/               Restricted-pilot self-check data and CSV exports
+assets/                         Visual production inputs and status records
+├── briefs/                    Individual asset design briefs
+├── reference/                 JSON records and SVG/PNG visual references
+├── prompts/                   Instructions for asset production stages
+└── style/                     Style rules and visual references
+    ├── bible/                 Character reference images
+    └── layouts/               Layout references and usage guidance
+reference/                      Activity template and lexicon reference indexes
+links/                          Link inventories and review records
+public/                         Public brief and presentation sources
+```
+
+Folder names and capitalization matter. Use the paths shown here when navigating; check the actual destination before reusing a path from an older document.
+
+## Curriculum sources and ownership
+
+### Bitcoin Diploma
+
+The four required modules form one beginner pathway. **Module 4: Bitcoin in Your Community** is educator-selected and locally relevant. Keep learner explanations, facilitation instructions, activity procedures, and assessment records in their respective files.
+
+| File in `publish/mfb-bd-26.10/` | Owns | How it relates to the other files |
+|---|---|---|
+| [mfb-bd-sg-26.10.md](publish/mfb-bd-26.10/mfb-bd-sg-26.10.md) | Learner-facing curriculum | Supplies the learning sequence and explanations that teaching, activities, and visuals support |
+| [mfb-bd-eg-26.10.md](publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) | Preparation, facilitation, adaptation, safety, and operational assessment protocol | Defines approved assessment interactions, tasks, rubrics, and evidence routes |
+| [mfb-bd-qs-26.10.md](publish/mfb-bd-26.10/mfb-bd-qs-26.10.md) | A concise first teaching route | Summarizes preparation and delivery; must stay consistent with the full Educator Guide |
+| [mfb-bd-assessment-grid-26.10.md](publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) | Educator competency and cohort progress record | Records results against the Educator Guide's assessment requirements |
+
+The package supports offline and low-tech delivery. Required theory and practical evidence are educator-evaluated. Publication of the teaching framework does not establish that every local route is ready for certificated delivery; the assessing educator is responsible for assessing learners and issuing certificates.
+
+### Bitcoin for Juniors
+
+[`publish/mfb-b4j-26.10/`](publish/mfb-b4j-26.10/) contains the Parent Guide and English curriculum. Within [`en/`](publish/mfb-b4j-26.10/en/):
+
+- `0-front-matter/` contains the foreword, FAQ, and introduction
+- `1-exchange-value-and-price/` through `6-bitcoin-basics/` contain the six topic sequences
+- Each topic folder begins with `1-overview.md`, followed by numbered lesson and activity files
+- `resources/` contains discussion prompts, participation formats, vocabulary, comparisons, and technical support materials
+
+Use the English overview to follow the sequence. Edit the relevant lesson file for lesson content, the Parent Guide for family guidance, and the resource files for reusable support. Keep detailed material in one owning file and cross-reference it where needed.
+
+### Shared activities and terminology
+
+[`publish/mfb-act-26.10/`](publish/mfb-act-26.10/) holds detailed activity procedures, materials, discussion prompts, and facilitator notes. Filenames follow `mfb-act-NNN-description.md`; preserve the activity ID when revising content. Use the [activity template](reference/ref-mfb-act-000-template.md) to check structure. Delivery resources are available through the [Resources Hub](https://programs.myfirstbitcoin.org/resources/).
+
+An activity's inclusion in the library does not automatically make it a required lesson or an approved assessment task. Check the Educator Guide before using an activity as formal evidence.
+
+[`publish/mfb-lx-26.10/mfb-lx-26.10-terms.md`](publish/mfb-lx-26.10/mfb-lx-26.10-terms.md) holds shared terms, definitions, stable IDs, slugs, and destination URLs. The related indexes in [`reference/`](reference/) support guide- and activity-specific terminology checks:
+
+- [Student Guide lexicon index](reference/ref-mfb-lx-26.10-sg-index.md)
+- [Educator Guide lexicon index](reference/ref-mfb-lx-26.10-eg-index.md)
+- [Activity lexicon index](reference/ref-mfb-lx-26.10-act-index.md)
+
+When changing a definition or destination, check its uses in the curriculum and corresponding indexes. Reference material and stakeholder feedback support review; do not treat them as approved curriculum or assessment changes without review.
+
+### Advanced and restricted-pilot materials
+
+[`publish/mfb-adv-26.10/`](publish/mfb-adv-26.10/) contains eight Advanced module drafts and a [release-status README](publish/mfb-adv-26.10/README.md). These are post-launch works in progress, outside the beginner Diploma. Each requires individual approval and release.
+
+[`publish/mfb-ml-26.10/`](publish/mfb-ml-26.10/) contains restricted-pilot self-check question data in Markdown and separate short- and long-question CSV exports. Keep the exports semantically aligned with the corresponding Markdown tables. This material is available only to a defined My First Bitcoin App pilot group. It must not be required, assigned, or linked through normal Diploma delivery, mentioned in the Student or Educator Guide, or used as assessment or certification evidence. Do not add an app download call to action or create or place an app QR asset in current-release materials. Learner-facing app links, destinations, download calls to action, and QR assets require public-release approval and destination testing. Generic references to wallet apps or other applications keep their ordinary wording.
+
+## Visual assets
+
+Visuals support specific guide content. Preserve each `BD-V-NNN` identifier across its notes, brief, reference files, and production records.
+
+| Location | Use |
 |---|---|
-| [`workspace/`](workspace/) | Working documents that guide content creation: design, scope, competencies, architecture, assets, resources, educator planning, assessment, and publication planning. |
-| [`publish/`](publish/) | Official curriculum documents and supporting publication materials. |
-| [`review/`](review/) | Cross-project reviews, quality controls, consistency decisions, annotations, and release actions. |
-| [`public/`](public/) | Public briefs, presentation material, and communication assets. |
+| [assets/assets-list.md](assets/assets-list.md) | Check recorded production status, missing inputs, and postponed assets |
+| [assets/asset-description.md](assets/asset-description.md) | Read asset-specific purpose and visual direction |
+| [assets/briefs/](assets/briefs/) | Maintain design briefs named `bd-v-NNN-brief.md` |
+| [assets/reference/](assets/reference/) | Maintain matching `bd-v-NNN-ref.json`, SVG, and PNG reference files where available |
+| [assets/prompts/](assets/prompts/) | Follow the brief, JSON, SVG/PNG, and editable production handoff instructions |
+| [assets/style/STYLE.md](assets/style/STYLE.md) | Check shared visual rules |
+| [assets/style/CHARACTERS.md](assets/style/CHARACTERS.md) | Check character requirements alongside the images in `assets/style/bible/` |
+| [assets/style/layouts/README.md](assets/style/layouts/README.md) | Choose and apply layout references |
 
-Keep planning commentary out of `publish/`. Keep review findings in `review/` until they are approved and incorporated into the appropriate working or publication source.
+Read the adjacent guide text before changing a visual. Keep heading references, placement, captions, and alt text aligned with that text. A created reference image is not a finished publication asset. Respect postponed status and verify the production log before claiming an asset is ready.
 
-## Programs and shared resources
+## Links and public communication
 
-Alongside the Diploma, this repository contains Bitcoin for Juniors and shared activity and terminology sources. The following links point to materials present in this checkout.
+[`links/links-internal.md`](links/links-internal.md) records My First Bitcoin destinations and their use across the guides; [`links/links-internal.csv`](links/links-internal.csv) provides a tabular companion. [`links/links-external.md`](links/links-external.md) covers other web destinations and local document links. Update affected inventories when changing a curriculum link, and preserve the distinction between a recorded review result and current destination verification.
 
-| Program or resource | Contents and starting point |
-|---|---|
-| Bitcoin Diploma | Four-module beginner pathway, with the Student Guide, Educator Guide, and Assessment Grid listed below |
-| Bitcoin for Juniors | Discussion-led learning for younger learners, educators, and families; start with the [English program overview](publish/mfb-b4j-26.10/en/README.md) and [Parent Guide](publish/mfb-b4j-26.10/parents-guide.md) |
-| Activity resources | [Local activity sources](publish/mfb-act-26.10/) covering money, barter, consensus, wallets, transactions, verification, and discussion; use the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) for delivery resources |
-| Bitcoin lexicon | [Alphabetical terms and definitions](publish/mfb-lx-26.10/mfb-lx-26.10-terms.md) supporting consistent vocabulary |
+[`public/mfb-bd-elevator.md`](public/mfb-bd-elevator.md) contains the short public explanation of the Diploma redesign. [`public/mfb-bd-keynote.md`](public/mfb-bd-keynote.md) contains presentation source material. Keep both aligned with the curriculum's scope and release status; public messaging does not define new teaching or assessment requirements.
 
-### Bitcoin for Juniors contents
+## Workflow for humans and agents
 
-The English materials include a [foreword](publish/mfb-b4j-26.10/en/0-front-matter/1-foreword.md), [FAQ](publish/mfb-b4j-26.10/en/0-front-matter/2-faq.md), and [introduction](publish/mfb-b4j-26.10/en/0-front-matter/3-introduction.md), followed by six modules:
+1. Read this README’s contribution guidance, then use the repository map to identify the file that owns the requested change.
+2. Read that file and its relevant dependencies before editing. Resolve outdated paths against the current folder structure; do not assume an old link identifies an existing file.
+3. Make the change in its owning source. Keep detailed learner prose, educator guidance, activities, definitions, and records in their designated locations.
+4. Check affected companion files. For example, an assessment change may affect the Educator Guide, Assessment Grid, and Quick Start; a heading change may affect asset placement and links.
+5. Preserve stable activity, competency, term, and asset IDs. Update related references when a file is added, renamed, or removed, and update this README when the repository structure changes.
+6. Validate the change and report the files changed, the learner or educator impact, checks performed, and any unresolved decisions.
 
-| Module | Topics and example activities |
-|---|---|
-| [**Module 1: Exchange, Value, and Price**](publish/mfb-b4j-26.10/en/1-exchange-value-and-price/1-overview.md) | Going, Going, Gone; What Is Value?; Ship Rekt; Worth It? |
-| [**Module 2: Time, Energy, and Reward**](publish/mfb-b4j-26.10/en/2-time-energy-and-reward/1-overview.md) | Work, Rest, and Play; Energy Economy; That’s Not Fair; Time Preference; Smart Choices |
-| [**Module 3: Analog vs Digital**](publish/mfb-b4j-26.10/en/3-analog-vs-digital/1-overview.md) | Evolution of Technology; Vote with Your Feet; Invent the Future |
-| [**Module 4: Safety, Security, and Privacy**](publish/mfb-b4j-26.10/en/4-safety-security-and-privacy/1-overview.md) | Gatekeepers; Wire Tap; Cypherpunks Write Code; Nostr |
-| [**Module 5: Money Matters**](publish/mfb-b4j-26.10/en/5-money-matters/1-overview.md) | Money Matters |
-| [**Module 6: Bitcoin Basics**](publish/mfb-b4j-26.10/en/6-bitcoin-basics/1-overview.md) | From Problem to Protocol; Satoshi, Where Are You?; It’s Mine |
+### Writing conventions
 
-The [program index](mfb-program-index.md) also lists Introduction to Bitcoin and a Bitcoin for Teens work in progress. Their cited sources are not present in this checkout, so their outlines and current availability need verification. The index also contains the legacy ten-module Diploma outline and earlier “block” terminology; use the current Diploma guides for the 2026.10 structure.
+- Draft in English first, using simple, translation-ready wording and short paragraphs.
+- Use one `#` title, descriptive `##` sections, and sentence-case headings.
+- Use repository-relative links and lowercase, numbered filenames for ordered curriculum content.
+- In bulleted lists, omit terminal punctuation for individual words or phrases; use periods for complete sentences. End each numbered step with a period.
+- Use “module” for each of the four required Diploma sections. Keep **Module 4** educator-selected and locally relevant.
+- In the Student Guide and Educator Guide, bold every numbered module reference in body text and tables, including grouped references: `**Module 1**`, `**Modules 1 and 2**`, and `**Modules 1–3**`. Preserve existing bold formatting when the reference is already part of a bold phrase.
+- Across the project, bold the entire module reference when it includes a title or descriptive topic label: `**Module 3: Using Bitcoin Safely**` or `**Module 3: wallets, keys, recovery, custody**`. Do not end the bold span after the number.
+- Module references in H1, H2, and H3 headings use heading formatting alone, without added bold. Keep exact heading references in asset records aligned with the source headings.
 
-## Official Diploma documents
+### Content boundaries
 
-The official 2026.10 Diploma documents are:
+Keep the project educational, Bitcoin-only, open-source, and community-led. Do not introduce financial, legal, tax, accounting, compliance, or investment advice, or turn named tools and services into global recommendations. Date and cite current-data claims.
 
-| File | Audience and destination |
-|---|---|
-| [`mfb-bd-sg-26.10.md`](publish/mfb-bd-26.10/mfb-bd-sg-26.10.md) | Student Guide; learner-facing curriculum. |
-| [`mfb-bd-eg-26.10.md`](publish/mfb-bd-26.10/mfb-bd-eg-26.10.md) | Educator Guide; educator-facing preparation, facilitation, safety, and assessment guidance. |
-| [`mfb-bd-assessment-grid-26.10.md`](publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md) | Assessment Grid; competency-level cohort progress and completion record. |
-| [Bitcoin lexicon terms](publish/mfb-lx-26.10/mfb-lx-26.10-terms.md) | Alphabetical terminology reference with definitions, term IDs, slugs, and destination URLs. |
-| [`mfb-adv-26.10/README.md`](publish/mfb-adv-26.10/README.md) | Future home of [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/); none is available yet. |
+## Validation
 
-The `workspace/` documents support the development and maintenance of these official documents. They are planning resources, not learner- or educator-facing curriculum.
+There is no configured automated build, test, lint, or package pipeline, and no test framework or coverage requirement. Useful local checks are:
 
-The restricted-pilot app self-assessment data remains in [`publish/mfb-ml-26.10/mfb-ml-26.10.md`](publish/mfb-ml-26.10/mfb-ml-26.10.md). It is available only to the defined pilot group, is not part of the Student Guide, Educator Guide, or normal Diploma delivery, and is not assessment evidence.
+```sh
+rg --files -g '*.md'
+rg -n 'TODO|TBD|FIXME' publish/ assets/ reference/ links/ public/
+git diff --check
+```
 
-## Curriculum at a glance
+Review relative links and heading anchors manually. Check terminology, competency and assessment consistency, offline access, safety boundaries, and release status. Open or render affected images and PDFs when changing visual materials. Check terms against the shared lexicon and the Student Guide and Educator Guide lexicon indexes linked above.
 
-The beginner Diploma uses four modules:
+## Commits and pull requests
 
-1. Understanding Money
-2. How Bitcoin Works
-3. Using Bitcoin Safely
-4. Bitcoin in Your Community
-
-The current design uses a minimum eight-hour, educator-facilitated pathway with no upper limit and a complete low-tech and offline-capable option. **Module 4** is educator-selected and connects the shared learning to locally relevant Bitcoin use under approved safety and assessment guardrails.
-
-Assessment has two required, non-compensatory components: educator-evaluated theoretical competency demonstrated through observable learner responses, and educator-observed practical competency. Restricted-pilot app self-assessment is not required and does not provide certification evidence.
-
-The October 2026 framework-first package includes offline-capable print/PDF materials, an online PDF, and website-ready content published through Sanity. Certification is decentralized: the named educator assesses the learner and issues the certificate. My First Bitcoin does not centrally evaluate learners, issue certificates, provide a central verification service, or guarantee learner competency. Publication of the framework does not by itself declare every local route ready for certificated delivery.
-
-## Planning references
-
-Use these planning documents to develop and maintain the official documents above:
-
-| Decision area | File |
-|---|---|
-| Architecture and content boundaries | [`workspace/06_plan.md`](workspace/06_plan.md) |
-| Competency framework | [`workspace/05_competencies.md`](workspace/05_competencies.md) |
-| Design principles and adaptation rules | [`workspace/04_design.md`](workspace/04_design.md) |
-| Activity and task design | [Resources Hub](https://programs.myfirstbitcoin.org/resources/) |
-| Assessment evidence and passing requirements | [`workspace/13_assessment.md`](workspace/13_assessment.md) |
-| Assessment crosswalk, approved tasks, and rubrics | [`Educator Guide: operational assessment protocol`](publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) |
-| Certification prerequisite and governance | [`workspace/15_certification.md`](workspace/15_certification.md) |
-| Terminology and definitions | [Bitcoin lexicon terms](publish/mfb-lx-26.10/mfb-lx-26.10-terms.md) |
-| Advanced boundaries and parked content | [`workspace/17_advanced.md`](workspace/17_advanced.md) |
-
-The complete reading order and ownership map are in [`workspace/00_index.md`](workspace/00_index.md).
-
-## Review workflow
-
-1. Check [`review/review_todo.md`](review/review_todo.md) before beginning review or release work.
-2. Use the applicable planning reference in `workspace/` to resolve design or policy questions.
-3. Apply the resulting changes to the relevant official document in `publish/`.
-4. Record new cross-project findings in the appropriate `review/` document.
-5. Check links, terminology, competency alignment, safety, accessibility, translation readiness, and current-data citations before publication.
-
-Review documents identify problems and proposed actions. They do not override the official documents or planning references by themselves.
-
-## Contribution guardrails
-
-- Keep the curriculum educational, Bitcoin-only, open-source, and community-led.
-- Do not present financial, legal, tax, accounting, compliance, or investment advice.
-- Do not turn named wallets, exchanges, tools, maps, services, or local resources into global recommendations.
-- Keep required learning and assessment usable without an app or continuous connectivity.
-- Use “module” for the four required Diploma sections and keep Module 4 broader than spending alone.
-- Draft in clear English first and review for simplicity, terminology, accessibility, and translation readiness.
-- Date and cite current-data claims or replace them with evergreen explanations.
-
-## Public message
-
-The Bitcoin Diploma is being reorganized, not replaced. The 2026.10 curriculum is designed to be shorter, clearer, more practical, and more locally adaptable while preserving its mission.
+Keep commits focused and use imperative, descriptive subjects such as `Update self-custody competencies`. Pull requests should identify the affected curriculum area and owning source files changed, explain learner or educator impact, and summarize validation. Include screenshots or rendered previews for visual or PDF changes, and flag unresolved research or governance questions.

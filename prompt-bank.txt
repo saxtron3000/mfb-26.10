@@ -1,7 +1,0 @@
-Okay - now the plan is to make /Users/saxtron3000/Documents/MFB/programs/mfb-bd-26.10/workspace/08_assets.md much simpler.
-The purpose of this document is as follows:-
-Define what an asset is, why it is needed, how it is used.
-Explain the types of asset
-Provide a visual index for the assets (ID | Type | Suggested by | Priority | SG | EG | Purpose | Format | Design brief | Note)
-Provide guidelines to what an asset should be and what it should not be.
-Provide a short description of each asset including
