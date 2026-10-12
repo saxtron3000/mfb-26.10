@@ -1,5 +1,4 @@
 # Bitcoin Diploma
-# Bitcoin Diploma
 
 Financial education for the Bitcoin era
 
@@ -626,7 +625,7 @@ The next module examines Bitcoin's attempt to create a different set of monetary
 
 Digital payments existed before Bitcoin. People could send money through banks, card networks, and online payment companies. These systems made commerce easier, but each depended on a trusted organization to keep the [ledger](https://programs.myfirstbitcoin.org/lexicon/en/#ledger), approve accounts, settle transfers, and resolve disputes.
 
-This dependence creates power and risk. An [intermediary](https://programs.myfirstbitcoin.org/lexicon/en/#intermediary) can delay a payment, charge a fee, collect  and misuse personal data, restrict an account, reverse a transfer, or fail. The [issuer](https://programs.myfirstbitcoin.org/lexicon/en/#issuer) of the [currency](https://programs.myfirstbitcoin.org/lexicon/en/#currency) can also change its supply.
+This dependence creates power and risk. An [intermediary](https://programs.myfirstbitcoin.org/lexicon/en/#intermediary) can delay a payment, charge a fee, collect and misuse personal data, restrict an account, reverse a transfer, or fail. The [issuer](https://programs.myfirstbitcoin.org/lexicon/en/#issuer) of the [currency](https://programs.myfirstbitcoin.org/lexicon/en/#currency) can also change its supply.
 
 For many years, computer scientists tried to create digital money that did not need a central [issuer](https://programs.myfirstbitcoin.org/lexicon/en/#issuer) or payment company. The challenge was difficult. Digital information is easy to copy. If a digital coin could be copied and spent twice, it could not function as money. If one company prevented copying, the company became the point of control and failure.
 
@@ -905,7 +904,7 @@ Bitcoin combines properties that did not previously exist together in one [asset
 | [Fungibility](https://programs.myfirstbitcoin.org/lexicon/en/#fungibility) | Equal amounts are spendable under the same protocol rules, although public [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) history can affect how some services treat particular funds. |
 | [Scarcity](https://programs.myfirstbitcoin.org/lexicon/en/#scarcity) | Issuance follows public rules with a 21 million maximum. |
 | [Verifiability](https://programs.myfirstbitcoin.org/lexicon/en/#verifiability) | A [node](https://programs.myfirstbitcoin.org/lexicon/en/#node) can verify supply, [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) rules, and ownership proofs. |
-| [Acceptability](https://programs.myfirstbitcoin.org/lexicon/en/#acceptability) | Acceptance is growing in some places but remains much lower than national [currencies](https://programs.myfirstbitcoin.org/lexicon/en/#currency) in many communities. |
+| [Acceptability](https://programs.myfirstbitcoin.org/lexicon/en/#acceptability) | Acceptance is growing in some places but remains much lower than that of national [currencies](https://programs.myfirstbitcoin.org/lexicon/en/#currency) in many communities. |
 
 <!-- VISUAL: BD-V-033
 ALT: Bitcoin properties compared with plain-language explanations and their practical limits.
@@ -1010,12 +1009,12 @@ Pause and consider how Bitcoin changes the trust model: how do public rules, fin
 | Payments depend on [intermediaries](https://programs.myfirstbitcoin.org/lexicon/en/#intermediary) | Peer-to-peer [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) network | A valid payment is usually difficult or impossible to reverse |
 | A central [ledger](https://programs.myfirstbitcoin.org/lexicon/en/#ledger) keeper controls records | Independent [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) share and verify a public [ledger](https://programs.myfirstbitcoin.org/lexicon/en/#ledger) | Public records can reveal links between [transactions](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx), even when they do not identify a person by themselves |
 | Access depends on an institution | Anyone can use the protocol and control keys | The user must secure keys and backups. |
+| A central party orders digital payments | [Proof of work](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work) orders [transactions](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) without a central operator | [Mining](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work) requires equipment and energy. |
 
 <!-- VISUAL: BD-V-034
 ALT: Comparison of fiat-system issues, Bitcoin responses, and new responsibilities or trade-offs.
 ASSET: assets/briefs/bd-v-034-brief.md
 -->
-| A central party orders digital payments | [Proof of work](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work) orders [transactions](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) without a central operator | [Mining](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work) requires equipment and energy. |
 
 **Key thought:** Based on what you have learned about Bitcoin in this module, does it have [value](https://programs.myfirstbitcoin.org/lexicon/en/#value) to you? Does the current [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) of bitcoin represent its [value](https://programs.myfirstbitcoin.org/lexicon/en/#value)?
 
@@ -1050,7 +1049,7 @@ Use these three rules throughout the module:
 2. **Pause before approving a send.** Check the person, payment method, destination, amount, and final screen.
 3. **Keep mistakes small.** Stop and ask for help when a request is unclear, rushed, or asks for secret information.
 
-By the end, you should be able to explain who controls the keys, complete a supported receive or send practice, respond safely to a scam or mismatch, and show recovery readiness without exposing any real secret. The goal is not speed. It is knowing when to pause.
+By the end, you should be able to explain who controls the keys, complete a supported receive or send practice task, respond safely to a scam or mismatch, and show recovery readiness without exposing any real secret. The goal is not speed. It is knowing when to pause.
 
 The module follows three practical questions:
 
