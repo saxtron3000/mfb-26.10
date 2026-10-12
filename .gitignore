@@ -4,6 +4,7 @@
 /y_archive/
 
 # Local workspace and planning files
+/.gitignore
 /mfb-bd-26.10.code-workspace
 /mfb-program-index.md
 /prompt-bank.txt
