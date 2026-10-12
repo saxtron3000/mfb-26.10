@@ -2,7 +2,7 @@
 
 This Markdown-first repository contains My First Bitcoin's Bitcoin Diploma, Bitcoin for Juniors, and shared learning resources for the 2026.10 edition. It also holds visual production materials, terminology references, link inventories, and public communication sources.
 
-This README maps the repository for human contributors and agents. Use the owning file for detailed content and keep related guides, records, and assets aligned. A file's presence in `publish/` does not by itself mean it is approved for release: Advanced materials and restricted-pilot content have separate boundaries.
+This README maps the repository for human contributors and agents. Use the owning file for detailed content and keep related guides, records, and assets aligned. A file's presence in `publish/` does not by itself mean it is approved for release: restricted-pilot content has separate boundaries.
 
 ## Start here
 
@@ -28,7 +28,6 @@ publish/                        Curriculum and supporting publication sources
 │   └── en/                    English front matter, six topic folders, and resources
 ├── mfb-act-26.10/              Shared activity library
 ├── mfb-lx-26.10/               Shared Bitcoin terminology register
-├── mfb-adv-26.10/              Advanced modules under development
 └── mfb-ml-26.10/               Restricted-pilot self-check data and CSV exports
 assets/                         Visual production inputs and status records
 ├── briefs/                    Individual asset design briefs
@@ -84,9 +83,7 @@ An activity's inclusion in the library does not automatically make it a required
 
 When changing a definition or destination, check its uses in the curriculum and corresponding indexes. Reference material and stakeholder feedback support review; do not treat them as approved curriculum or assessment changes without review.
 
-### Advanced and restricted-pilot materials
-
-[`publish/mfb-adv-26.10/`](publish/mfb-adv-26.10/) contains eight Advanced module drafts and a [release-status README](publish/mfb-adv-26.10/README.md). These are post-launch works in progress, outside the beginner Diploma. Each requires individual approval and release.
+### Restricted-pilot materials
 
 [`publish/mfb-ml-26.10/`](publish/mfb-ml-26.10/) contains restricted-pilot self-check question data in Markdown and separate short- and long-question CSV exports. Keep the exports semantically aligned with the corresponding Markdown tables. This material is available only to a defined My First Bitcoin App pilot group. It must not be required, assigned, or linked through normal Diploma delivery, mentioned in the Student or Educator Guide, or used as assessment or certification evidence. Do not add an app download call to action or create or place an app QR asset in current-release materials. Learner-facing app links, destinations, download calls to action, and QR assets require public-release approval and destination testing. Generic references to wallet apps or other applications keep their ordinary wording.
 
