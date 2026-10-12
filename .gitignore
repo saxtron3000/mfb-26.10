@@ -39,3 +39,8 @@
 
 # Advanced curriculum
 /publish/mfb-adv-26.10/
+
+# Bitcoin for juniors local files (metadata and editor files covered above)
+/publish/mfb-b4j-26.10/**/.gitignore
+/publish/mfb-b4j-26.10/ref/ED-DEV.csv
+/publish/mfb-b4j-26.10/**/prompt-list.txt
