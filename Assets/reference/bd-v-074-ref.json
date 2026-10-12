@@ -1,0 +1,128 @@
+{
+  "assetId": "BD-V-074",
+  "schemaVersion": 1,
+  "status": "blocked",
+  "assetType": "Image",
+  "recordDate": "2026-10-08",
+  "sourceFiles": {
+    "brief": "assets/briefs/bd-v-074-brief.md",
+    "briefRevision": "2026-10-08",
+    "styleReferences": []
+  },
+  "educationalPurpose": "Offers the single official support-page route described in the guide, with a readable fallback and voluntary participation.",
+  "placement": {
+    "studentGuide": "exact heading `### Support free Bitcoin education`; source anchor:\n\n```markdown\nMy First Bitcoin's educational resources are free and open source. Voluntary support helps maintain the curriculum, train educators, and expand access.\n\nIf you choose to contribute, use the official donation page:\n\n[Support My First Bitcoin](https://myfirstbitcoin.org/support-us)\n\nBefore paying, confirm that the destination uses the official domain or an official payment page linked from it. Check the recipient and amount in your wallet. A donation is optional and is not required for course completion or certification.\n```",
+    "educatorGuide": "",
+    "guideAnchor": "Student Guide: exact heading `### Support free Bitcoin education`; source anchor:\n\n```markdown\nMy First Bitcoin's educational resources are free and open source. Voluntary support helps maintain the curriculum, train educators, and expand access.\n\nIf you choose to contribute, use the official donation page:\n\n[Support My First Bitcoin](https://myfirstbitcoin.org/support-us)\n\nBefore paying, confirm that the destination uses the official domain or an official payment page linked from it. Check the recipient and amount in your wallet. A donation is optional and is not required for course completion or certification.\n```\nEducator Guide: ",
+    "format": "Landscape 16:9 reference canvas, 960 × 540; Single support-page QR panel; half width."
+  },
+  "teachingPoint": "Offers the single official support-page route described in the guide, with a readable fallback and voluntary participation. The learner should be able to explain the specific distinction or sequence: Optional support website QR; Matching readable URL; Destination name and verification date. Preserve the qualifications below when explaining it.",
+  "visualPattern": "Callout",
+  "composition": {
+    "orientation": "landscape",
+    "targetAspectRatio": "16:9",
+    "readingOrder": [
+      "Optional support website QR",
+      "Matching readable URL",
+      "Destination name and verification date"
+    ],
+    "elements": [
+      {
+        "id": "element-01",
+        "role": "Optional support website QR",
+        "required": true,
+        "relationship": "Single support website route only; no payment address/invoice encoded. Preserve adjacent donation-safety paragraph and voluntary status.",
+        "position": "Reading-order region 1 in qr-panel; precise spatial relation: Single support website route only; no payment address/invoice encoded. Preserve adjacent donation-safety paragraph and voluntary status.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-02",
+        "role": "Matching readable URL",
+        "required": true,
+        "relationship": "Single support website route only; no payment address/invoice encoded. Preserve adjacent donation-safety paragraph and voluntary status.",
+        "position": "Reading-order region 2 in qr-panel; precise spatial relation: Single support website route only; no payment address/invoice encoded. Preserve adjacent donation-safety paragraph and voluntary status.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-03",
+        "role": "Destination name and verification date",
+        "required": true,
+        "relationship": "Single support website route only; no payment address/invoice encoded. Preserve adjacent donation-safety paragraph and voluntary status.",
+        "position": "Reading-order region 3 in qr-panel; precise spatial relation: Single support website route only; no payment address/invoice encoded. Preserve adjacent donation-safety paragraph and voluntary status.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      }
+    ]
+  },
+  "contentRequirements": [
+    {
+      "content": "Optional support website QR",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Matching readable URL",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Destination name and verification date",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Create one optional support panel with a QR code linking to the approved destination `https://donate.myfirstbitcoin.org/`, the readable matching URL, destination name, and last-verified date. Keep the adjacent donation-safety paragraph. Do not encode a payment address or invoice in this website QR or imply that a donation is required. Test the destination and final printed QR before publication. The historical…",
+      "source": "Asset definition / Required construction, elements, relationships, reading order, and qualifications",
+      "editable": true
+    },
+    {
+      "content": "Optional support website QR; Matching readable URL; Destination name and verification date. Single support website route only; no payment address/invoice encoded. Preserve adjacent donation-safety paragraph and voluntary status.",
+      "source": "Accessibility and production handoff / Alt text",
+      "editable": true
+    },
+    {
+      "content": "- Alt text: Optional support website QR; Matching readable URL; Destination name and verification date. Single support website route only; no payment address/invoice encoded. Preserve adjacent donation-safety paragraph and voluntary status.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-074-ref.svg` and a matching `assets/reference/bd-v-074-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.",
+      "source": "Accessibility and production handoff",
+      "editable": true
+    }
+  ],
+  "style": {
+    "layoutReference": "Selected pattern: Callout. Selected layout: teaching-page; full-width figure region.",
+    "palette": [
+      "#422C70",
+      "#2B1C58",
+      "#FFFFFF",
+      "#F6F6F8",
+      "#D8D8E7",
+      "#25252B",
+      "#F7941F"
+    ],
+    "typography": "Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlled emphasis. Learner-facing print copy at least 12pt. Short literal labels, left aligned and translation-ready; do not bake copy into reference artwork.",
+    "shapeAndLineRules": "Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames.",
+    "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: qr-panel",
+    "emphasis": "One controlled orange instructional focal point; no orange full-field background or ranking",
+    "characters": [],
+    "propsAndIcons": []
+  },
+  "prohibitions": [
+    "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",
+    "No real secrets, seed words, private keys, identities, balances, payable addresses, invoices or payment QR data. Fictional payment screens require editable SAMPLE — DO NOT PAY in later production.",
+    "Keep user, educator, wallet, service, node, miner and protocol roles distinct; Bitcoin is not stored inside a wallet, miners do not make the rules, and no single controller approves Bitcoin.",
+    "No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.",
+    "No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.",
+    "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation.",
+    "Keep the adjacent donation-safety paragraph.",
+    "Do not encode a payment address or invoice in this website QR or imply that a donation is required.",
+    "Production restriction: Index destination https://donate.myfirstbitcoin.org/ conflicts with current SG https://myfirstbitcoin.org/support-us; BD-V-074 marker is absent. Destination selection and successful live testing remain required."
+  ],
+  "review": {
+    "briefCompliant": true,
+    "assetRegisterCompliant": false,
+    "styleCompliant": true,
+    "openDecisionsPreventCreation": true,
+    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Creation blocked: Index destination https://donate.myfirstbitcoin.org/ conflicts with current SG https://myfirstbitcoin.org/support-us; BD-V-074 marker is absent. Destination selection and successful live testing remain required."
+  },
+  "unresolved": [
+    "The original index row contains a literal ellipsis; it is preserved verbatim. No missing wording is reconstructed. The missing source ending is identified in the decision record below.",
+    "Index destination https://donate.myfirstbitcoin.org/ conflicts with current SG https://myfirstbitcoin.org/support-us; BD-V-074 marker is absent. Destination selection and successful live testing remain required."
+  ]
+}

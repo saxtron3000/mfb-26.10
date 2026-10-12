@@ -1,0 +1,131 @@
+{
+  "assetId": "BD-V-075",
+  "schemaVersion": 1,
+  "status": "blocked",
+  "assetType": "Diagram",
+  "recordDate": "2026-10-08",
+  "sourceFiles": {
+    "brief": "assets/briefs/bd-v-075-brief.md",
+    "briefRevision": "2026-10-08",
+    "styleReferences": []
+  },
+  "educationalPurpose": "Retained only as a possible future issuer-specific verification concept; it is not part of the current publication set.",
+  "placement": {
+    "studentGuide": "",
+    "educatorGuide": "",
+    "guideAnchor": "Not applicable: no current production placement is authorized",
+    "format": "No current production asset"
+  },
+  "teachingPoint": "Retained only as a possible future issuer-specific verification concept; it is not part of the current publication set. The learner should be able to explain the specific distinction or sequence: Actual educator or issuing organization; Minimum-data issuer-specific verification; Privacy, correction and withdrawal controls. Preserve the qualifications below when explaining it.",
+  "visualPattern": "Process flow",
+  "composition": {
+    "orientation": "landscape",
+    "targetAspectRatio": "16:9",
+    "readingOrder": [
+      "Actual educator or issuing organization",
+      "Minimum-data issuer-specific verification",
+      "Privacy, correction and withdrawal controls"
+    ],
+    "elements": [
+      {
+        "id": "element-01",
+        "role": "Actual educator or issuing organization",
+        "required": true,
+        "relationship": "No production composition is authorized in 2026.10. All future layout choices remain deferred until governance and destination tests are approved.",
+        "position": "Reading-order region 1 in deferred; precise spatial relation: No production composition is authorized in 2026.10. All future layout choices remain deferred until governance and destination tests are approved.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-02",
+        "role": "Minimum-data issuer-specific verification",
+        "required": true,
+        "relationship": "No production composition is authorized in 2026.10. All future layout choices remain deferred until governance and destination tests are approved.",
+        "position": "Reading-order region 2 in deferred; precise spatial relation: No production composition is authorized in 2026.10. All future layout choices remain deferred until governance and destination tests are approved.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-03",
+        "role": "Privacy, correction and withdrawal controls",
+        "required": true,
+        "relationship": "No production composition is authorized in 2026.10. All future layout choices remain deferred until governance and destination tests are approved.",
+        "position": "Reading-order region 3 in deferred; precise spatial relation: No production composition is authorized in 2026.10. All future layout choices remain deferred until governance and destination tests are approved.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      }
+    ]
+  },
+  "contentRequirements": [
+    {
+      "content": "Actual educator or issuing organization",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Minimum-data issuer-specific verification",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Privacy, correction and withdrawal controls",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Do not produce for 2026.10. Certification is educator-issued and My First Bitcoin does not operate a central verification service. The [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) may prepare educator-confirmed certificates in batches, but it is not a verification service and requires no QR asset. A future separately governed issuer-specific method may revive this brief only after its real destination, privacy controls, correction and withdrawal rules, and minimum data display are approved and tested. It must identify the actual educator or issuing organization and must not imply central…",
+      "source": "Asset definition / Required construction, elements, relationships, reading order, and qualifications",
+      "editable": true
+    },
+    {
+      "content": "Actual educator or issuing organization; Minimum-data issuer-specific verification; Privacy, correction and withdrawal controls. No production composition is authorized in 2026.10. All future layout choices remain deferred until governance and destination tests are approved.",
+      "source": "Accessibility and production handoff / Alt text",
+      "editable": true
+    },
+    {
+      "content": "- Alt text: Actual educator or issuing organization; Minimum-data issuer-specific verification; Privacy, correction and withdrawal controls. No production composition is authorized in 2026.10. All future layout choices remain deferred until governance and destination tests are approved.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-075-ref.svg` and a matching `assets/reference/bd-v-075-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.",
+      "source": "Accessibility and production handoff",
+      "editable": true
+    }
+  ],
+  "style": {
+    "layoutReference": "Selected pattern: Process flow. Selected layout: teaching-page; full-width figure region.",
+    "palette": [
+      "#422C70",
+      "#2B1C58",
+      "#FFFFFF",
+      "#F6F6F8",
+      "#D8D8E7",
+      "#25252B",
+      "#F7941F"
+    ],
+    "typography": "Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlled emphasis. Learner-facing print copy at least 12pt. Short literal labels, left aligned and translation-ready; do not bake copy into reference artwork.",
+    "shapeAndLineRules": "Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames.",
+    "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: deferred",
+    "emphasis": "One controlled orange instructional focal point; no orange full-field background or ranking",
+    "characters": [],
+    "propsAndIcons": []
+  },
+  "prohibitions": [
+    "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",
+    "No real secrets, seed words, private keys, identities, balances, payable addresses, invoices or payment QR data. Fictional payment screens require editable SAMPLE — DO NOT PAY in later production.",
+    "Keep user, educator, wallet, service, node, miner and protocol roles distinct; Bitcoin is not stored inside a wallet, miners do not make the rules, and no single controller approves Bitcoin.",
+    "No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.",
+    "No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.",
+    "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation.",
+    "Do not produce for 2026.10.",
+    "Certification is educator-issued and My First Bitcoin does not operate a central verification service.",
+    "The [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) may prepare educator-confirmed certificates in batches, but it is not a verification service and requires no QR asset.",
+    "A future separately governed issuer-specific method may revive this brief only after its real destination, privacy controls, correction and withdrawal rules, and minimum data display are approved and tested.",
+    "It must identify the actual educator or issuing organization and must not imply central…",
+    "Production restriction: Index explicitly says Do not produce for 2026.10. Future issuer-specific destination, privacy, correction/withdrawal rules, minimum data and governance approval are not supplied."
+  ],
+  "review": {
+    "briefCompliant": true,
+    "assetRegisterCompliant": false,
+    "styleCompliant": true,
+    "openDecisionsPreventCreation": true,
+    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Creation blocked: Index explicitly says Do not produce for 2026.10. Future issuer-specific destination, privacy, correction/withdrawal rules, minimum data and governance approval are not supplied."
+  },
+  "unresolved": [
+    "The original index row contains a literal ellipsis; it is preserved verbatim. No missing wording is reconstructed. The missing source ending is identified in the decision record below.",
+    "Index explicitly says Do not produce for 2026.10. Future issuer-specific destination, privacy, correction/withdrawal rules, minimum data and governance approval are not supplied."
+  ]
+}

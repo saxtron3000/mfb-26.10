@@ -1,0 +1,132 @@
+{
+  "assetId": "BD-V-039",
+  "schemaVersion": 1,
+  "status": "completed",
+  "assetType": "Diagram",
+  "recordDate": "2026-10-08",
+  "sourceFiles": {
+    "brief": "assets/briefs/bd-v-039-brief.md",
+    "briefRevision": "2026-10-08",
+    "styleReferences": []
+  },
+  "educationalPurpose": "Teach the relationship in the controlling direction: Self-custodial user phone with key.",
+  "placement": {
+    "studentGuide": "exact heading `### Custodial and non-custodial use`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-039\nALT: Custody explanation showing who controls keys, recovery, and spending authority.\nASSET: assets/briefs/bd-v-039-brief.md\n-->\n```",
+    "educatorGuide": "exact heading `### Custodial and self-custodial use`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-039\nALT: A custodial service controls spending keys and recovery, while a self-custodial user controls keys and backups; both routes have dependencies and failure risks.\nASSET: assets/briefs/bd-v-039-brief.md\nUSE: Shared Student Guide master.\n-->\n```",
+    "guideAnchor": "Student Guide: exact heading `### Custodial and non-custodial use`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-039\nALT: Custody explanation showing who controls keys, recovery, and spending authority.\nASSET: assets/briefs/bd-v-039-brief.md\n-->\n```\nEducator Guide: exact heading `### Custodial and self-custodial use`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-039\nALT: A custodial service controls spending keys and recovery, while a self-custodial user controls keys and backups; both routes have dependencies and failure risks.\nASSET: assets/briefs/bd-v-039-brief.md\nUSE: Shared Student Guide master.\n-->\n```",
+    "format": "Landscape 16:9 reference canvas, 960 × 540; Side-by-side custody model; full width."
+  },
+  "teachingPoint": "Teach the relationship in the controlling direction: Self-custodial user phone with key. The learner should be able to explain the specific distinction or sequence: Self-custodial user phone with key; Custodial user phone without key; Service cloud-hosted server with key. Preserve the qualifications below when explaining it.",
+  "visualPattern": "Comparison pair",
+  "composition": {
+    "orientation": "landscape",
+    "targetAspectRatio": "16:9",
+    "readingOrder": [
+      "Self-custodial user phone with key",
+      "Custodial user phone without key",
+      "Service cloud-hosted server with key"
+    ],
+    "elements": [
+      {
+        "id": "element-01",
+        "role": "Self-custodial user phone with key",
+        "required": true,
+        "relationship": "Equal panels. Key beside the user-controlled phone on left; key at service server on right. Recovery/failure responsibilities in live text without safety ranking.",
+        "position": "Reading-order region 1 in custody; precise spatial relation: Equal panels. Key beside the user-controlled phone on left; key at service server on right. Recovery/failure responsibilities in live text without safety ranking.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-02",
+        "role": "Custodial user phone without key",
+        "required": true,
+        "relationship": "Equal panels. Key beside the user-controlled phone on left; key at service server on right. Recovery/failure responsibilities in live text without safety ranking.",
+        "position": "Reading-order region 2 in custody; precise spatial relation: Equal panels. Key beside the user-controlled phone on left; key at service server on right. Recovery/failure responsibilities in live text without safety ranking.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-03",
+        "role": "Service cloud-hosted server with key",
+        "required": true,
+        "relationship": "Equal panels. Key beside the user-controlled phone on left; key at service server on right. Recovery/failure responsibilities in live text without safety ranking.",
+        "position": "Reading-order region 3 in custody; precise spatial relation: Equal panels. Key beside the user-controlled phone on left; key at service server on right. Recovery/failure responsibilities in live text without safety ranking.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      }
+    ]
+  },
+  "contentRequirements": [
+    {
+      "content": "Self-custodial user phone with key",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Custodial user phone without key",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Service cloud-hosted server with key",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Compare two mobile devices. In the self-custodial scene, the user holds a phone with a key. In the custodial scene, the user holds a phone without the key while the key appears on a cloud-hosted server. Make the control distinction, not a safety ranking, the lesson.",
+      "source": "Asset definition / Required construction, elements, relationships, reading order, and qualifications",
+      "editable": true
+    },
+    {
+      "content": "Self-custodial user phone with key; Custodial user phone without key; Service cloud-hosted server with key. Equal panels. Key beside the user-controlled phone on left; key at service server on right. Recovery/failure responsibilities in live text without safety ranking.",
+      "source": "Accessibility and production handoff / Alt text",
+      "editable": true
+    },
+    {
+      "content": "- Alt text: Self-custodial user phone with key; Custodial user phone without key; Service cloud-hosted server with key. Equal panels. Key beside the user-controlled phone on left; key at service server on right. Recovery/failure responsibilities in live text without safety ranking.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-039-ref.svg` and a matching `assets/reference/bd-v-039-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.",
+      "source": "Accessibility and production handoff",
+      "editable": true
+    }
+  ],
+  "style": {
+    "layoutReference": "Selected pattern: Comparison pair. Selected layout: teaching-page; full-width figure region.",
+    "palette": [
+      "#422C70",
+      "#2B1C58",
+      "#FFFFFF",
+      "#F6F6F8",
+      "#D8D8E7",
+      "#25252B",
+      "#F7941F"
+    ],
+    "typography": "Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlled emphasis. Learner-facing print copy at least 12pt. Short literal labels, left aligned and translation-ready; do not bake copy into reference artwork.",
+    "shapeAndLineRules": "Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames.",
+    "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: custody",
+    "emphasis": "One controlled orange instructional focal point; no orange full-field background or ranking",
+    "characters": [
+      "C02",
+      "C04"
+    ],
+    "propsAndIcons": [
+      "Self-custodial user phone with key",
+      "Custodial user phone without key",
+      "Service cloud-hosted server with key"
+    ]
+  },
+  "prohibitions": [
+    "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",
+    "No real secrets, seed words, private keys, identities, balances, payable addresses, invoices or payment QR data. Fictional payment screens require editable SAMPLE — DO NOT PAY in later production.",
+    "Keep user, educator, wallet, service, node, miner and protocol roles distinct; Bitcoin is not stored inside a wallet, miners do not make the rules, and no single controller approves Bitcoin.",
+    "No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.",
+    "No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.",
+    "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation.",
+    "Avoid portraying self-custody as morally superior or risk free."
+  ],
+  "review": {
+    "briefCompliant": true,
+    "assetRegisterCompliant": true,
+    "styleCompliant": true,
+    "openDecisionsPreventCreation": false,
+    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Reference copy remains suppressed; production labels and qualifications remain editable."
+  },
+  "unresolved": [
+    "The index’s Dictated production directions control conflicting purpose, construction, format and type. The complete original row above is archival source evidence, not permission to reintroduce superseded scenes. The controlling direction is preserved below."
+  ]
+}

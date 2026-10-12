@@ -15,11 +15,11 @@ It answers:
 - What is excluded from the redesign project?
 - What does completion look like?
 
-This document does not diagnose the current Diploma. See `01_review.md`.
+This document does not diagnose the current Bitcoin Diploma. See `01_review.md`.
 
 This document does not define design philosophy or decision-making principles. See `04_design.md`.
 
-This document does not define assessed competencies or their observable criteria. See `05_competencies.md`.
+This document does not define assessed competencies or their observable criteria. See the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol); `05_competencies.md` mirrors it for planning.
 
 This document does not define assessment methodology. See `13_assessment.md`.
 
@@ -31,15 +31,15 @@ This document does not define certification requirements. See `15_certification.
 
 The Bitcoin Diploma redesign seeks to improve:
 
-- completion rates;
-- educational impact;
-- practical competence;
-- educator usability;
-- consistency of delivery;
-- scalability;
-- long-term maintainability.
+- completion rates
+- educational impact
+- practical competence
+- educator usability
+- consistency of delivery
+- scalability
+- long-term maintainability
 
-The redesign is not intended to replace the identity, philosophy, or purpose of the Diploma.
+The redesign is not intended to replace the identity, philosophy, or purpose of the Bitcoin Diploma.
 
 ---
 
@@ -49,21 +49,21 @@ The scope assumes the current working design direction described in `04_design.m
 
 The following assumptions affect project execution:
 
-- Target duration: an approximately 8-hour delivery pathway, including required teaching, practice, assessment, feedback, and recording.
+- Target duration: a minimum 8-hour delivery pathway, including required teaching, practice, assessment, feedback, and recording. Eight hours is the shortest planned route, with no upper limit when learners need more time to explore, discuss, practise, consolidate, or demonstrate their learning.
 - Working architecture: 4 modules—Problem: Understanding Money; Solution: How Bitcoin Works; Action: Using Bitcoin Safely; and Connect: Bitcoin in Your Community—delivered in a competency-preserving schedule rather than fixed two-hour classes. The educator-curated Connect module links the shared learning to a local need, comparison, safe task, and responsible next step.
 - Educator-facilitated delivery in person or online.
 - Low-tech, offline-capable print/PDF instructional materials, with no app access required for learning, assessment, completion, or certification.
-- One four-module Diploma. Advanced learning is outside the Diploma.
-- Four-module Diploma, educator-curated Modules 3–4, and Advanced boundary rules.
+- One four-module Bitcoin Diploma. [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) is outside the Bitcoin Diploma.
+- Four-module Bitcoin Diploma, educator-curated Modules 3–4, and Advanced boundary rules.
 - Shared core learning and competencies in Modules 1–2, with educator-adapted practical learning in Modules 3–4 and an educator-curated required Module 4 Connect experience.
 - English-first drafting with multilingual and translation-ready source files.
 - English-source simplicity, tone, style, and translation-readiness review before translation or publication.
 - Sparse QR code use in print materials.
-- The October 2026 release includes an online PDF version and a web version, both published through Sanity. Future instructional branches should be documented without becoming current implementation requirements: online cohort, self-paced, optional app self-assessment support, and cross-modal continuation.
+- The October 2026 release includes an online PDF version and a web version, both published through Sanity. Future instructional branches should be documented without becoming current implementation requirements: online cohort, self-paced, restricted-pilot and later public-app self-assessment support, and cross-modal continuation.
 - `06_plan.md` is the active plan source of truth.
-- Combined assessment is in scope: educator-led theoretical assessment is 50% of the Diploma and educator-observed practical assessment is the remaining 50%. These are non-compensatory component balances, not a combined numerical grade.
+- Combined assessment is in scope: educator-led theoretical assessment is 50% of the Bitcoin Diploma and educator-observed practical assessment is the remaining 50%. These are non-compensatory component balances, not a combined numerical grade.
 - Both assessment components are prerequisites for certification.
-- Detailed certification governance and credential infrastructure remain to be defined.
+- Certification is decentralized and educator-issued: the named educator assesses the learner and issues the certificate, which records that educator's judgment rather than a central My First Bitcoin evaluation or guarantee. After confirming eligibility, educators may use the [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) to prepare certificates in batches. Optional central credential infrastructure and public verification are future work.
 - Localization preparation is in scope.
 - Localization implementation is out of scope.
 - Publishing is part of project completion.
@@ -113,11 +113,11 @@ Create measurable learning expectations.
 
 Create explicit links between:
 
-- assessed competencies;
-- required observable criteria;
-- activities;
-- assessment;
-- formative competencies.
+- assessed competencies
+- required observable criteria
+- activities
+- assessment
+- formative competencies
 
 ### Deliverables
 
@@ -156,7 +156,7 @@ Improve participation and engagement.
 - Embedded activities version
 - Standalone activities version
 - Competency mapping
-- Activity categories aligned to the four-module Diploma, educator-curated Module 4 options, and Advanced boundaries
+- Activity categories aligned to the four-module Bitcoin Diploma, educator-curated Module 4 options, and Advanced boundaries
 - Safety notes and fact-check notes for activities using live tools, named services, or current data
 
 ---
@@ -209,7 +209,7 @@ Reduce unnecessary cognitive load.
 - Duplicate content audit
 - Essential shared-core versus educator-curated Module 4 classification
 - Beginner prerequisite analysis
-- Bitcoin for Organizations cannibalization check: classify each useful item as required Diploma learning, an educator-curated Module 3 or 4 option within the Diploma, activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), Educator Guide, Advanced, or outside Diploma scope
+- Bitcoin for Organizations cannibalization check: classify each useful item as required Bitcoin Diploma learning, an educator-curated Module 3 or 4 option within the Bitcoin Diploma, activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), Educator Guide, Advanced, or outside Bitcoin Diploma scope
 - Named-tool and current-data audit
 - Content reduction recommendations
 
@@ -219,11 +219,11 @@ Reduce unnecessary cognitive load.
 
 ### Purpose
 
-Separate advanced learning from beginner learning.
+Separate [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) from beginner learning.
 
 ### Deliverables
 
-- Advanced module title inventory guided by `17_advanced.md`
+- [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) title inventory guided by `17_advanced.md`
 - Advanced pathway recommendations guided by the candidate module titles in `17_advanced.md`
 - Organizations-to-Advanced source trail using the Organizations material parked in `17_advanced.md`
 - Technical content recommendations
@@ -253,7 +253,7 @@ Create a competency-aligned system with two required, non-compensatory component
 
 ### Note
 
-The operational assessment protocol is published in the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) and the cohort record in `../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md`. Both educator-evaluated assessment components are mandatory for certification. Optional app self-checks cannot evaluate, record, or replace either component. Certificate governance, identity verification, credential infrastructure, and on-chain verification decisions remain implementation questions.
+The operational assessment protocol is published in the [Educator Guide](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol) and the cohort record in `../publish/mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md`. Both educator-evaluated assessment components are mandatory for certification. Restricted-pilot app self-checks cannot evaluate, record, or replace either component. The educator assesses the learner, accredits the result, and distributes the certificate. After confirming results and certificate types, they may use the [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) to prepare certificates in batches. My First Bitcoin does not centrally issue, centrally verify, or guarantee learner competency. Privacy, correction, appeals, optional issuer-specific verification, and any future credential infrastructure remain implementation work for certificated delivery.
 
 ---
 
@@ -314,7 +314,7 @@ Ensure realistic implementation.
 
 ### Purpose
 
-Prepare the Diploma for future localization.
+Prepare the Bitcoin Diploma for future localization.
 
 ### Deliverables
 
@@ -352,12 +352,12 @@ Prepare final publication-ready outputs.
 - Sanity-published web version
 - Markdown source files prepared for Sanity publication
 - Translation-ready source files
-- QR-code placement and destination rules
+- QR code placement and destination rules
 - Fact-checked, source-of-truth-aligned publication package
 
-All October public outputs are published through Sanity. Online cohort, self-paced, optional app, and cross-modal branches remain future work.
+All October public outputs are published through Sanity. Online cohort, self-paced, restricted-pilot and later public-app, and cross-modal branches remain future work.
 
-After release, approved modifications must be made through the proofreading platform, GitHub, or, where required, directly in Sanity. Each change must preserve alignment between the source material and the Sanity-published outputs.
+After release, approved modifications must be made through the [proofreading platform](https://forms.myfirstbitcoin.org/proofread), GitHub, or, where required, directly in Sanity. Each change must preserve alignment between the source material and the Sanity-published outputs.
 
 ---
 
@@ -375,7 +375,7 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 - Before / after comparison
 - 4-module visual brief
 - Public call-to-action language
-- Backup notes for assessment, certification, and Advanced Modules
+- Backup notes for assessment, certification, and [Advanced Modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/)
 
 ### Completion Criteria
 
@@ -384,7 +384,7 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 - The Bitcoin in Your Community module is explained as the educator-curated, locally grounded **Connect** stage of the Problem → Solution → Action → Connect learning arc.
 - Activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) and the Educator Guide are presented as essential ecosystem components.
 - Assessment and certification are described accurately without overpromising.
-- Advanced module titles are not duplicated outside `17_advanced.md`.
+- [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) titles are not duplicated outside `17_advanced.md`.
 
 ---
 
@@ -447,22 +447,22 @@ Prepare a clear public explanation of the redesign for stakeholders, educators, 
 
 The redesign is complete when:
 
-- Diploma has an approximately 8-hour planning baseline and is scheduled with additional time whenever required to meet the competency standard and assessment requirements.
-- Diploma teaching content and educator-led assessment can be delivered from an offline-capable print or PDF package, with no app requirement for completion.
+- Bitcoin Diploma has a minimum 8-hour pathway, with no upper limit, and is scheduled with additional time whenever learners need it to meet the competency standard and assessment requirements.
+- Bitcoin Diploma teaching content and educator-led assessment can be delivered from an offline-capable print or PDF package, with no app requirement for completion.
 - Observable learner competencies and criteria are clearly defined.
 - Competencies are mapped to modules, activities, and evidence.
 - Practical learning is significantly increased.
 - Essential and optional content are clearly separated.
 - Advanced content is appropriately separated.
 - Named tools, local resources, and current-data examples are checked before use or publication.
-- Beginner-safe Organizations material has been merged only where it improves the four-module Diploma, activities, Educator Guide, assessment, lexicon, or publication guardrails.
-- Strategic, organizational, financial, policy, legal, tax, treasury, sector-specific, and highly technical Organizations material is parked for Advanced rather than required in the beginner Diploma.
+- Beginner-safe Organizations material has been merged only where it improves the four-module Bitcoin Diploma, activities, Educator Guide, assessment, lexicon, or publication guardrails.
+- Strategic, organizational, financial, policy, legal, tax, treasury, sector-specific, and highly technical Organizations material is parked for Advanced rather than required in the beginner Bitcoin Diploma.
 - Timing assumptions are documented.
 - Delivery assumptions are documented.
 - Combined assessment framework, educator-educator guidance, and two-part certification prerequisite are completed.
 - Measurable competency criteria are defined.
 - Educator Guide is redesigned.
-- Required activities are operational and available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/).
+- Required teaching and assessment routes are documented in the published framework; each educator confirms that selected activities, local variants, accessibility routes, capacity, and records are operational before certificated delivery.
 - Review systems are integrated.
 - Student Book is published.
 - Educator Guide is published.
@@ -473,7 +473,7 @@ The redesign is complete when:
 - Translation-ready source files are published.
 - English source files pass simplicity, tone, style, terminology, and translation-readiness review before translation or publication.
 - Translated versions require language-specific review before publication.
-- Future delivery branches are documented without changing required Diploma competency standards.
+- Future delivery branches are documented without changing required Bitcoin Diploma competency standards.
 - Localization preparation is completed.
 - Public stakeholder brief is completed.
 - Prague keynote proposal is completed.
@@ -485,15 +485,15 @@ The redesign is complete when:
 
 The following items are intentionally excluded from the current redesign project:
 
-- Certificate governance, credential infrastructure, identity verification, and public verification implementation
+- Central credential infrastructure, central identity verification, and public verification services; certification remains educator-issued
 - A standalone Bitcoin for Organizations beginner pathway
-- Organizational treasury, accounting, legal, tax, investment, policy, compliance, or institutional custody instruction inside the beginner Diploma
+- Organizational treasury, accounting, legal, tax, investment, policy, compliance, or institutional custody instruction inside the beginner Bitcoin Diploma
 - Full localization implementation
 - AI-powered localization systems
 - Maintenance of multiple localized curriculum variants
 - Online cohort platform implementation
 - Self-paced learning platform implementation
-- Building or replacing the underlying app platform; optional self-assessment content may be maintained separately in `14_microlearning-plan.md`.
+- Building or replacing the underlying app platform; restricted-pilot self-assessment content may be maintained separately in `14_microlearning-plan.md`.
 - Cross-modal learner-continuation infrastructure
 
 These may become future projects.
@@ -504,9 +504,9 @@ These may become future projects.
 
 - Success Metrics
 - North Star Definition
-- Certificate Governance and Verification Design
+- Proportionate local certificate records, correction, appeals, privacy, and optional issuer-specific verification procedures
 - AI Localization
 - Advanced Pathway Design
 - Delivery-Mode Branch Roadmap
-- Print QR Code Policy
+- Print QR code Policy
 - Multilingual Glossary Readiness

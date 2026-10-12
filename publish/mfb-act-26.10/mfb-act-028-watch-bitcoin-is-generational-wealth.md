@@ -1,36 +1,57 @@
 # Watch: Bitcoin Is Generational Wealth
+
 ## Keywords
-Bitcoin, generational wealth
-## Activity Type
-Video viewing
+
+**Bitcoin** **Saving**
+
+## Activity type
+
+Video discussion
+
 ## Participation
 
 ## Duration
 
+## Objective
+
+- Participants reflect on the film’s perspective on Bitcoin, saving, and intergenerational thinking.
+
 ## Description
-Students watch “Bitcoin Is Generational Wealth,” a short film by Matt Hornick and Tomer Strolight.
-## Objectives
 
-## Materials
-Internet access and video playback.
-## Preparation
+Participants watch “Bitcoin Is Generational Wealth,” a short film by Matt Hornick and Tomer Strolight. The viewing provides a prompt for participants to identify the film’s perspective on money, saving, and intergenerational thinking, and to distinguish those perspectives from financial advice.
 
-## Procedure
-### Setup
+> **Callout – Examine the perspective; do not treat it as financial advice**
+>
+> A film can make claims about saving, value, or the future. Learners should identify the evidence, assumptions, trade-offs, and uncertainty rather than treat those claims as a reason to acquire bitcoin.
 
-### Step 1
+#### Preparation
+
+**Materials**
+
+- Internet access and video playback.
+
+#### Setup
+
+#### Procedure
+
+##### Step 1
+
 Open the video.
-### Step 2
+
+##### Step 2
+
 Watch the video.
-### Step 3
 
-## Review
-### Key Points
+#### Key points
 
-### Discussion questions
+#### Discussion questions
 
-## Notes 
+#### Notes
 
-## Additional Resources
-https://www.youtube.com/watch?v=3Rnqst5qCgA&ab_channel=SwanBitcoin
+#### Resources and references
 
+[“Bitcoin Is Generational Wealth”](https://www.youtube.com/watch?v=3Rnqst5qCgA&ab_channel=SwanBitcoin), a short film by Matt Hornick and Tomer Strolight, presents a perspective on money, saving, and intergenerational thinking for participants to examine rather than financial advice to follow.
+
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
+
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).

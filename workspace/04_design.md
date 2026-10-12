@@ -35,17 +35,17 @@ For certification, see `15_certification.md`.
 
 Design a shorter, clearer, more practical, more modular, and more teachable Bitcoin Diploma while preserving:
 
-- educational seriousness;
-- community-driven delivery;
-- open-source accessibility;
-- learner autonomy;
-- educator empowerment;
-- conceptual coherence;
-- grassroots adaptability.
+- educational seriousness
+- community-driven delivery
+- open-source accessibility
+- learner autonomy
+- educator empowerment
+- conceptual coherence
+- grassroots adaptability
 
-The redesign should improve the learning experience without replacing the identity, philosophy, or purpose of the Diploma.
+The redesign should improve the learning experience without replacing the identity, philosophy, or purpose of the Bitcoin Diploma.
 
-Internal purpose research clarifies that the Diploma should remain a structured, foundational, globally accessible introduction to Bitcoin. It should use money, economics, monetary history, fiat-system critique, practical Bitcoin concepts, and sovereignty as connected material that helps learners reason independently about their financial future.
+Internal purpose research clarifies that the Bitcoin Diploma should remain a structured, foundational, globally accessible introduction to Bitcoin. It should use money, economics, monetary history, fiat-system critique, practical Bitcoin concepts, and sovereignty as connected material that helps learners reason independently about their financial future.
 
 ---
 
@@ -53,25 +53,25 @@ Internal purpose research clarifies that the Diploma should remain a structured,
 
 The current working design direction is:
 
-- educator-facilitated delivery in person or online;
-- approximately 8-hour delivery pathway, including required teaching and assessment;
-- working architecture of four modules—Understanding Money, How Bitcoin Works, Using Bitcoin Safely, and Bitcoin in Your Community—rather than fixed two-hour classes;
-- single four-module Diploma, with educator-curated local practice in Modules 3–4 and Advanced Modules outside the Diploma;
-- four-module Diploma / educator-curated Modules 3–4 / Advanced content boundaries;
-- English-first drafting followed by explicit simplicity, tone, style, and translation-readiness review;
-- practical learning increased substantially;
-- practical skills structured using PPP: Presentation, Practice, Production;
-- advanced technical content separated from the beginner pathway;
-- Organizations material used only where it clarifies beginner Diploma concepts, educator misconception handling, activity scenarios, or educator-curated Module 3 or 4 practice;
-- Educator Guide treated as a facilitation engine;
-- activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) treated as part of the learning ecosystem;
-- assessment built from assessed competencies and observable criteria, using an educator-led theoretical component worth 50% and an educator-observed practical component worth 50%;
-- certification based on both theoretical evidence and directly observed practical competence;
-- localization considered through adaptable examples, activities, and facilitation, not through changing required Diploma competency standards;
-- low-tech, offline-capable print/PDF content retained as a required publication mode for in-person facilitation or online facilitation, alongside October online PDF and web versions published through Sanity; future branches are online cohort, self-paced, optional app self-assessment support, and cross-modal continuation;
-- print PDFs kept clean, with QR codes used sparingly for stable, high-value destinations;
-- shared Modules 1–2 core theory and required Diploma competency standards standardized globally, while practical delivery in Modules 3–4 is adapted by educators or local experts;
-- an internal "racecar" standard: every component should earn its place by improving clarity, completion, practice, educator usability, or learner safety.
+- educator-facilitated delivery in person or online
+- minimum 8-hour delivery pathway, including required teaching and assessment, with additional time whenever learners need it and no upper limit
+- working architecture of four modules—Understanding Money, How Bitcoin Works, Using Bitcoin Safely, and Bitcoin in Your Community—rather than fixed two-hour classes
+- single four-module Bitcoin Diploma, with educator-curated local practice in Modules 3–4 and [Advanced Modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) outside the Bitcoin Diploma
+- four-module Bitcoin Diploma / educator-curated Modules 3–4 / Advanced content boundaries
+- English-first drafting followed by explicit simplicity, tone, style, and translation-readiness review
+- practical learning increased substantially
+- practical skills structured using PPP: Presentation, Practice, Production
+- advanced technical content separated from the beginner pathway
+- Organizations material used only where it clarifies beginner Bitcoin Diploma concepts, educator misconception handling, activity scenarios, or educator-curated Module 3 or 4 practice
+- Educator Guide treated as a facilitation engine
+- activities on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) treated as part of the learning ecosystem
+- assessment built from assessed competencies and observable criteria, using an educator-led theoretical component worth 50% and an educator-observed practical component worth 50%
+- certification based on both theoretical evidence and directly observed practical competence
+- localization considered through adaptable examples, activities, and facilitation, not through changing required Bitcoin Diploma competency standards
+- low-tech, offline-capable print/PDF content retained as a required publication mode for in-person facilitation or online facilitation, alongside October online PDF and web versions published through Sanity; future branches are online cohort, self-paced, restricted-pilot and later public-app self-assessment support, and cross-modal continuation
+- print PDFs kept clean, with QR codes used sparingly for stable, high-value destinations
+- shared Modules 1–2 core theory and required Bitcoin Diploma competency standards standardized globally, while practical delivery in Modules 3–4 is adapted by educators or local experts
+- an internal "racecar" standard: every component should earn its place by improving clarity, completion, practice, educator usability, or learner safety
 
 These are working design assumptions, not final curriculum specifications.
 
@@ -88,11 +88,11 @@ The following rough design notes are clarified into stable design rules:
 | Design for multi-lingual | Draft in English first, then edit the English source for simple language, consistent tone, clear style, and translation readiness before translation or publication. |
 | Simple over technical | Prefer plain beginner explanations over technical detail unless the detail directly supports safety, reasoning, or later explanation or application. |
 | Practical skills | Treat practical learning as guided skill orientation: demonstration, practice, production, reflection, and safe next steps. |
-| Observable competencies | Let observable learner action control content decisions. If a competency cannot be taught, practised, and evidenced inside the beginner pathway, it should not be part of the Diploma. |
-| Include future ideas | Preserve future pathways in roadmaps, Advanced material, and publication planning without expanding the required beginner Diploma. |
-| Forking off modes | Publish low-tech, offline-capable print/PDF, online PDF, and web versions in October through Sanity. Design future online-cohort, self-paced, optional app self-assessment, and cross-modal branches from the same source while preserving educator-led assessment. |
+| Observable competencies | Let observable learner action control content decisions. If a competency cannot be taught, practised, and evidenced inside the beginner pathway, it should not be part of the Bitcoin Diploma. |
+| Include future ideas | Preserve future pathways in roadmaps, Advanced material, and publication planning without expanding the required beginner Bitcoin Diploma. |
+| Forking off modes | Publish low-tech, offline-capable print/PDF, online PDF, and web versions in October through Sanity. Design future online-cohort, self-paced, restricted-pilot and later public-app self-assessment, and cross-modal branches from the same source while preserving educator-led assessment. |
 | Don't put too many QR codes on PDF in print to start | Use QR codes sparingly in print. Prefer a few durable destinations over many fragile links that clutter pages or become stale. |
-| Shared core with educator-curated practice | Keep the shared Modules 1–2 core and required Diploma competency standards consistent globally. Let educators adapt Module 3 practice and curate Module 4's local Connect experience responsibly. |
+| Shared core with educator-curated practice | Keep the shared Modules 1–2 core and required Bitcoin Diploma competency standards consistent globally. Let educators adapt Module 3 practice and curate Module 4's local Connect experience responsibly. |
 | 4 units - total 8hrs? | Use four modules, not old module labels, as the required structure. Plan from competencies, observable criteria, and required evidence: four two-hour sessions are one useful format, not a limit. |
 | We are building a racecar | Design for a lean, high-performance learning experience. Remove ornament, duplication, and content that slows completion without improving learning. |
 | Problem → Solution → Action → Connect | Use the official sequence: Problem—Understanding Money; Solution—How Bitcoin Works; Action—Using Bitcoin Safely; Connect—Bitcoin in Your Community. The educator-curated Connect module links the first three stages to a local need, comparison, safe practice, and realistic next step. Spending is one possible practice, not its global definition. |
@@ -118,55 +118,55 @@ The design goal is to reduce unnecessary burden while increasing meaningful part
 
 ## 4.1 Teach How To Think, Not What To Think
 
-The Diploma should develop independent reasoning rather than passive agreement.
+The Bitcoin Diploma should develop independent reasoning rather than passive agreement.
 
-This principle is grounded in existing source material and internal stakeholder feedback. The Diploma should provide facts, trade-offs, and reasoning tools without requiring learners to adopt a predetermined conclusion.
+This principle is grounded in existing source material and internal stakeholder feedback. The Bitcoin Diploma should provide facts, trade-offs, and reasoning tools without requiring learners to adopt a predetermined conclusion.
 
 Learners should be encouraged to:
 
-- ask better questions;
-- compare claims;
-- reason from first principles;
-- distinguish evidence from opinion;
-- distinguish global curriculum content from local tool or service examples;
-- continue learning independently.
+- ask better questions
+- compare claims
+- reason from first principles
+- distinguish evidence from opinion
+- distinguish global curriculum content from local tool or service examples
+- continue learning independently
 
 ## 4.2 Preserve Thematic Coherence
 
-The redesigned Diploma should not become a collection of disconnected modules.
+The redesigned Bitcoin Diploma should not become a collection of disconnected modules.
 
 Thematic consistency should be intentionally preserved across:
 
-- money;
-- economics;
-- technology;
-- Bitcoin;
-- sovereignty;
-- responsibility.
+- money
+- economics
+- technology
+- Bitcoin
+- sovereignty
+- responsibility
 
 The learner should experience a coherent narrative rather than a disconnected sequence of lessons.
 
 ## 4.3 Preserve Conceptual Progression
 
-The Diploma should continue moving from foundational concepts toward more advanced concepts.
+The Bitcoin Diploma should continue moving from foundational concepts toward more advanced concepts.
 
 Design decisions should avoid:
 
-- introducing complexity too early;
-- assuming hidden prerequisite knowledge;
-- disrupting conceptual progression.
+- introducing complexity too early
+- assuming hidden prerequisite knowledge
+- disrupting conceptual progression
 
 ## 4.4 Design For Conversations
 
-The Diploma should not simply transfer information.
+The Bitcoin Diploma should not simply transfer information.
 
 It should intentionally create:
 
-- conversations;
-- reflection;
-- dialogue;
-- perspective comparison;
-- critical thinking.
+- conversations
+- reflection
+- dialogue
+- perspective comparison
+- critical thinking
 
 Learning experiences should generate structured discussion rather than merely deliver content.
 
@@ -182,27 +182,27 @@ Learners should leave with stronger reasoning capabilities rather than memorized
 
 The redesign should reduce unnecessary cognitive load by:
 
-- clarifying prerequisites;
-- improving sequence;
-- reducing duplication;
-- separating beginner content from advanced content;
-- clarifying technical depth;
-- using clearer conceptual hierarchy.
+- clarifying prerequisites
+- improving sequence
+- reducing duplication
+- separating beginner content from advanced content
+- clarifying technical depth
+- using clearer conceptual hierarchy
 
 The aim is not to oversimplify. The aim is improved learning efficiency.
 
 ## 4.7 Design For Safe Practical Orientation
 
-The Diploma should help beginners identify safe next steps without overstating practical mastery.
+The Bitcoin Diploma should help beginners identify safe next steps without overstating practical mastery.
 
 Learners should encounter:
 
-- wallet recovery concepts;
-- seed phrase testing and protection;
-- address verification;
-- scam awareness;
-- on-chain and Lightning distinctions;
-- acquisition-pathway risks.
+- wallet recovery concepts
+- seed phrase testing and protection
+- address verification
+- scam awareness
+- on-chain and Lightning distinctions
+- acquisition-pathway risks
 
 These topics should be framed as guided orientation, not as permission to manage high-stakes custody or make financial decisions independently.
 
@@ -210,40 +210,40 @@ These topics should be framed as guided orientation, not as permission to manage
 
 Assessment should match the competency and the learner action being claimed.
 
-The optional app may deliver microlearning, knowledge checks, feedback, recap, and discovery for self-assessment. Educators gather all theoretical evidence through approved competency-aligned interactions and evaluate all practical performance using the common tasks and rubrics in the Educator Guide's operational assessment protocol.
+The restricted-pilot app may deliver microlearning, knowledge checks, feedback, recap, and discovery for designated pilot participants. It is not Student Guide or Educator Guide content. The public app is not released with this publication; learner-facing guide coverage may be added only after post-publication public-release approval under `18_horizon.md`. Educators gather all theoretical evidence through approved competency-aligned interactions and evaluate all practical performance using the common tasks and rubrics in the Educator Guide's operational assessment protocol.
 
-Modules 1 and 2 should be knowledge-dominant, while Modules 3 and 4 should be skills-dominant. The complete Diploma assessment allocates 50% to educator-led theory and 50% to educator-observed practice. Educator-led activities may be formative, but only approved competency-aligned interactions with criteria and records contribute to the theoretical component. Do not calculate a combined numerical grade unless a separate reporting rule is approved.
+Modules 1 and 2 should be knowledge-dominant, while Modules 3 and 4 should be skills-dominant. The complete Bitcoin Diploma assessment allocates 50% to educator-led theory and 50% to educator-observed practice. Educator-led activities may be formative, but only approved competency-aligned interactions with criteria and records contribute to the theoretical component. Do not calculate a combined numerical grade unless a separate reporting rule is approved.
 
 The app cannot record or evaluate assessment evidence. Certification requires both educator-evaluated components.
 
 ## 4.8 Design For Multilingual Transfer
 
-The Diploma should be drafted in English first and designed for later translation.
+The Bitcoin Diploma should be drafted in English first and designed for later translation.
 
 Translation affects tone, style, clarity, and meaning. Multilingual design therefore begins during English drafting and editing, not after the English version is finished.
 
 The English source should use:
 
-- simple, direct language;
-- short sentences that usually carry one main idea;
-- a clear, respectful, and consistent tone;
-- active constructions where they improve clarity;
-- consistent terminology;
-- glossary alignment;
-- defined technical terms;
-- minimal idioms, slang, wordplay, and culturally narrow metaphors;
-- separation between global concepts and local examples;
-- language notes for difficult Bitcoin, money, custody, and safety terms.
+- simple, direct language
+- short sentences that usually carry one main idea
+- a clear, respectful, and consistent tone
+- active constructions where they improve clarity
+- consistent terminology
+- glossary alignment
+- defined technical terms
+- minimal idioms, slang, wordplay, and culturally narrow metaphors
+- separation between global concepts and local examples
+- language notes for difficult Bitcoin, money, custody, and safety terms
 
 Before translation or publication, the English source should pass a simplicity and translation-readiness review. The review should check:
 
-- whether a beginner can explain the language without unnecessary technical knowledge;
-- whether sentences can be shortened or made less ambiguous;
-- whether the same concept uses the same term throughout;
-- whether tone and emphasis can survive translation;
-- whether idioms, jokes, metaphors, or cultural references need removal or explanation;
-- whether examples should be translated directly, localized, or replaced;
-- whether essential meaning depends on English-specific phrasing.
+- whether a beginner can explain the language without unnecessary technical knowledge
+- whether sentences can be shortened or made less ambiguous
+- whether the same concept uses the same term throughout
+- whether tone and emphasis can survive translation
+- whether idioms, jokes, metaphors, or cultural references need removal or explanation
+- whether examples should be translated directly, localized, or replaced
+- whether essential meaning depends on English-specific phrasing
 
 The editorial sequence should be:
 
@@ -259,53 +259,53 @@ Multilingual design does not mean all localized versions must be completed durin
 
 ## 4.9 Prefer Simple Over Technical
 
-The beginner Diploma should privilege useful clarity over impressive detail.
+The beginner Bitcoin Diploma should privilege useful clarity over impressive detail.
 
-Technical content belongs in the Diploma only when it:
+Technical content belongs in the Bitcoin Diploma only when it:
 
-- enables beginner explanation or safe action;
-- supports safer practice;
-- prepares learners for a later concept;
-- helps learners ask better questions.
+- enables beginner explanation or safe action
+- supports safer practice
+- prepares learners for a later concept
+- helps learners ask better questions
 
-Otherwise, technical depth should move to educator-curated Module 4 learning within the Diploma, Advanced, educator background, or future pathways.
+Otherwise, technical depth should move to educator-curated Module 4 learning within the Bitcoin Diploma, Advanced, educator background, or future pathways.
 
 ## 4.10 Design For Delivery-Mode Branching
 
 The October publication set should include low-tech, offline-capable print/PDF, an online PDF version, and a web version. The online PDF and web versions should be published through Sanity and preserve the same learner-facing content, competency standards, and assessment safeguards. In-person and online facilitation are supported. Certification has no app or connectivity requirement.
 
-After release, content modifications should follow a controlled route through the proofreading platform, GitHub, or, where required, directly in Sanity, so the published versions remain aligned with the approved source and required Diploma standards.
+After release, content modifications should follow a controlled route through the [proofreading platform](https://forms.myfirstbitcoin.org/proofread), GitHub, or, where required, directly in Sanity, so the published versions remain aligned with the approved source and required Bitcoin Diploma standards.
 
 The design should also make these future branches possible:
 
-- online cohort;
-- self-paced course;
-- optional app self-assessment integration;
-- eventual cross-modal continuation across formats.
+- online cohort
+- self-paced course
+- restricted-pilot and later public-app self-assessment integration
+- eventual cross-modal continuation across formats
 
-Each branch should preserve the same required Diploma competency standards while adapting pacing, educator support, evidence of learning, accessibility, and technology assumptions.
+Each branch should preserve the same required Bitcoin Diploma competency standards while adapting pacing, educator support, evidence of learning, accessibility, and technology assumptions.
 
 ## 4.11 Use Shared Theory And Local Expert Practice
 
-The Diploma should distinguish between shared theory and local practice.
+The Bitcoin Diploma should distinguish between shared theory and local practice.
 
 Shared theory includes:
 
-- required Diploma competency standards;
-- beginner money, fiat, and Bitcoin explanations;
-- safety principles;
-- non-endorsement boundaries;
-- assessment expectations.
+- required Bitcoin Diploma competency standards
+- beginner money, fiat, and Bitcoin explanations
+- safety principles
+- non-endorsement boundaries
+- assessment expectations
 
 Local expert practice includes:
 
-- tool demonstrations;
-- spending and merchant scenarios;
-- remittance, nonprofit, donation, underbanked-access, and community payment scenarios when locally relevant;
-- local payment rails;
-- local on-ramp and off-ramp realities;
-- legal, tax, privacy, and safety context;
-- community-specific examples.
+- tool demonstrations
+- spending and merchant scenarios
+- remittance, nonprofit, donation, underbanked-access, and community payment scenarios when locally relevant
+- local payment rails
+- local on-ramp and off-ramp realities
+- legal, tax, privacy, and safety context
+- community-specific examples
 
 This distinction protects global coherence while allowing serious local usefulness.
 
@@ -315,11 +315,11 @@ Printed PDFs should be durable, clean, and usable offline.
 
 QR codes should be used only for stable, high-value destinations such as:
 
-- a source repository;
-- a canonical update page;
-- educator resources;
-- donation or support pages;
-- certificate verification, if available.
+- a source repository
+- a canonical update page
+- educator resources
+- donation or support pages
+- educator or issuer-specific certificate verification, if available; never imply a central My First Bitcoin service
 
 QR codes should not be scattered through the learner path as a substitute for essential printed content.
 
@@ -329,13 +329,13 @@ QR codes should not be scattered through the learner path as a substitute for es
 
 Every component should improve at least one of the following:
 
-- learner clarity;
-- completion likelihood;
-- practical competence;
-- educator usability;
-- safety;
-- translation readiness;
-- long-term maintainability.
+- learner clarity
+- completion likelihood
+- practical competence
+- educator usability
+- safety
+- translation readiness
+- long-term maintainability
 
 If content does not improve one of these, it should be shortened, moved, or removed from the beginner pathway.
 
@@ -343,31 +343,31 @@ If content does not improve one of these, it should be shortened, moved, or remo
 
 # 5. Non-Negotiables
 
-The redesigned Diploma must:
+The redesigned Bitcoin Diploma must:
 
-- remain open source;
-- remain community driven;
-- preserve the identity of the Diploma;
-- preserve conceptual and narrative coherence;
-- preserve serious treatment of Bitcoin;
-- support independent educators;
-- support grassroots delivery;
-- preserve accessibility;
-- preserve learner autonomy;
-- reduce unnecessary cognitive load;
-- maintain learning quality while reducing duration;
-- keep assessed competencies and observable criteria consistent;
-- keep the shared Modules 1–2 core and required Diploma competency standards consistent globally, while allowing educator-adapted practical delivery in Modules 3–4;
-- draft source material in English first and prepare it deliberately for translation and localization;
-- require an English-language simplicity, tone, style, and translation-readiness review before translation or publication;
-- avoid unnecessary beginner technical overload;
-- distinguish the complete four-module Diploma, educator-curated Module 3–4 practice within it, and Advanced content outside it;
-- preserve the official four-module naming and avoid narrowing Module 4 globally to spending only;
-- avoid global endorsement of named tools, services, wallets, exchanges, or local resources;
-- fact-check or date current-data examples before publication;
-- use QR codes sparingly in print PDFs;
-- preserve low-tech, offline-capable content delivery and educator-led assessment for in-person teaching and online teaching;
-- support real-world implementation, not ideal conditions.
+- remain open source
+- remain community driven
+- preserve the identity of the Bitcoin Diploma
+- preserve conceptual and narrative coherence
+- preserve serious treatment of Bitcoin
+- support independent educators
+- support grassroots delivery
+- preserve accessibility
+- preserve learner autonomy
+- reduce unnecessary cognitive load
+- maintain learning quality while reducing duration
+- keep assessed competencies and observable criteria consistent
+- keep the shared Modules 1–2 core and required Bitcoin Diploma competency standards consistent globally, while allowing educator-adapted practical delivery in Modules 3–4
+- draft source material in English first and prepare it deliberately for translation and localization
+- require an English-language simplicity, tone, style, and translation-readiness review before translation or publication
+- avoid unnecessary beginner technical overload
+- distinguish the complete four-module Bitcoin Diploma, educator-curated Module 3–4 practice within it, and Advanced content outside it
+- preserve the official four-module naming and avoid narrowing Module 4 globally to spending only
+- avoid global endorsement of named tools, services, wallets, exchanges, or local resources
+- fact-check or date current-data examples before publication
+- use QR codes sparingly in print PDFs
+- preserve low-tech, offline-capable content delivery and educator-led assessment for in-person teaching and online teaching
+- support real-world implementation, not ideal conditions
 
 ---
 
@@ -375,12 +375,12 @@ The redesigned Diploma must:
 
 The redesign should explicitly define:
 
-- assumed prior knowledge;
-- literacy assumptions;
-- technology assumptions;
-- educator assumptions;
-- language assumptions;
-- learning environment assumptions.
+- assumed prior knowledge
+- literacy assumptions
+- technology assumptions
+- educator assumptions
+- language assumptions
+- learning environment assumptions
 
 Hidden assumptions should be treated as design risks.
 
@@ -390,7 +390,7 @@ Pending: detailed audience assumptions require human confirmation.
 
 # 7. Technology Assumptions
 
-The Diploma should be designed for varied technology contexts.
+The Bitcoin Diploma should be designed for varied technology contexts.
 
 The first content-delivery mode should remain usable through in-person teaching or online teaching and offline-capable print or PDF materials. It provides a device-free certification route through educator-led assessment.
 
@@ -415,44 +415,44 @@ Implementation and contingency planning belong in `03_scope.md`.
 
 # 8. Adaptation Boundaries
 
-The redesigned Diploma should distinguish between fixed, adaptable, and flexible-with-guardrails elements.
+The redesigned Bitcoin Diploma should distinguish between fixed, adaptable, and flexible-with-guardrails elements.
 
 ## Fixed
 
 - Assessed competencies
-- Required Diploma competency standards
+- Required Bitcoin Diploma competency standards
 - Competency expectations
 - Competency-to-assessment blueprint
 - Two-part assessment requirement
 - Minimum evidence and rubric criteria for certification
 - Bitcoin-only educational focus
 - Four-module beginner architecture
-- Shared Modules 1–2 core theory, educator-adapted Module 3 practice, and Diploma safety boundaries
+- Shared Modules 1–2 core theory, educator-adapted Module 3 practice, and Bitcoin Diploma safety boundaries
 
 ## Adaptable
 
-- examples;
-- case studies;
-- activities;
-- named tools and services;
-- current local resources;
-- classroom structures;
-- timing adjustments;
-- facilitation style;
-- local references;
-- language examples;
-- spending and merchant scenarios;
-- local practice modules.
+- examples
+- case studies
+- activities
+- named tools and services
+- current local resources
+- classroom structures
+- timing adjustments
+- facilitation style
+- local references
+- language examples
+- spending and merchant scenarios
+- local practice modules
 
 ## Flexible With Guardrails
 
-- delivery pacing and session grouping;
-- delivery mode adaptations;
-- localization choices;
-- legal, tax, privacy, and safety context;
-- depth of educator-curated Module 3–4 practice and Advanced material;
-- QR code use;
-- future online-cohort, self-paced, app, or cross-modal publication branches.
+- delivery pacing and session grouping
+- delivery mode adaptations
+- localization choices
+- legal, tax, privacy, and safety context
+- depth of educator-curated Module 3–4 practice and Advanced material
+- QR code use
+- future online-cohort, self-paced, public-app, or cross-modal publication branches
 
 Adaptation should increase local relevance without weakening learning standards.
 
@@ -462,17 +462,17 @@ Adaptation should increase local relevance without weakening learning standards.
 
 The learner experience should be:
 
-- coherent;
-- modular;
-- discussion-rich;
-- practical;
-- confidence-building;
-- competency-oriented;
-- globally adaptable;
-- low-friction;
-- memorable.
+- coherent
+- modular
+- discussion-rich
+- practical
+- confidence-building
+- competency-oriented
+- globally adaptable
+- low-friction
+- memorable
 
-The Diploma should create structured conversations, guided reflection, and applied reasoning.
+The Bitcoin Diploma should create structured conversations, guided reflection, and applied reasoning.
 
 The detailed competency framework and observable criteria belong in `05_competencies.md`.
 
@@ -484,17 +484,17 @@ The educator experience should be intentionally designed.
 
 Educators should be supported with:
 
-- preparation clarity;
-- facilitation clarity;
-- pacing clarity;
-- activity selection;
-- misconception awareness;
-- review structures;
-- classroom decision-making;
-- adaptation boundaries;
-- assessment literacy;
-- practical test administration;
-- rubric use and evidence recording;
+- preparation clarity
+- facilitation clarity
+- pacing clarity
+- activity selection
+- misconception awareness
+- review structures
+- classroom decision-making
+- adaptation boundaries
+- assessment literacy
+- practical test administration
+- rubric use and evidence recording
 - feedback and reassessment; and
 - educator calibration.
 
@@ -506,15 +506,15 @@ The work required to produce this support belongs in `03_scope.md`.
 
 # 11. Ecosystem Design Principle
 
-The redesigned Diploma should be understood as a learning ecosystem rather than a single document.
+The redesigned Bitcoin Diploma should be understood as a learning ecosystem rather than a single document.
 
 Each component of the ecosystem should have a distinct purpose.
 
 The design principle is:
 
-- student-facing materials support demonstrated learner competency;
-- educator-facing materials support teaching and facilitation;
-- activity materials support participation, practice, and adaptation.
+- student-facing materials support demonstrated learner competency
+- educator-facing materials support teaching and facilitation
+- activity materials support participation, practice, and adaptation
 
 Implementation, publishing, and maintenance of ecosystem components belong in `03_scope.md`.
 
@@ -528,10 +528,10 @@ Important concepts should be revisited intentionally.
 
 Spiral review should:
 
-- extend demonstrated competency;
-- reinforce retention;
-- connect modules together;
-- strengthen long-term learning.
+- extend demonstrated competency
+- reinforce retention
+- connect modules together
+- strengthen long-term learning
 
 Modularity should not break the learner journey.
 
@@ -549,15 +549,15 @@ Where practical skills are taught, they should follow:
 
 Practical learning may include:
 
-- simulations;
-- decision-making exercises;
-- guided scenarios;
-- wallet/custody reasoning;
-- wallet recovery and seed phrase testing scenarios;
-- scam-awareness and address-verification scenarios;
-- local payment and acquisition-pathway comparisons;
-- real-world trade-off analysis;
-- group activities.
+- simulations
+- decision-making exercises
+- guided scenarios
+- wallet/custody reasoning
+- wallet recovery and seed phrase testing scenarios
+- scam-awareness and address-verification scenarios
+- local payment and acquisition-pathway comparisons
+- real-world trade-off analysis
+- group activities
 
 Practical learning does not only mean live wallet use.
 
@@ -597,7 +597,7 @@ Adaptation and localization may gradually weaken required competency standards.
 
 ## Assessment Validity And Educator Variation Risk
 
-Optional app self-checks may over-reward recall, while educator theory and practical judgments may vary across cohorts. The 50/50 theoretical-practical allocation, competency-aligned educator theory interactions, direct practical observation, common rubrics, educator calibration, reassessment rules, and moderation are required to protect certificate consistency.
+Restricted-pilot app self-checks may over-reward recall, while educator theory and practical judgments may vary across cohorts. The 50/50 theoretical-practical allocation, competency-aligned educator theory interactions, direct practical observation, common rubrics, educator calibration, reassessment rules, and moderation are required to protect certificate consistency.
 
 ## Translation Risk
 
@@ -605,7 +605,7 @@ English-first phrasing, complex sentences, inconsistent tone, idioms, inconsiste
 
 ## Delivery-Mode Drift Risk
 
-Online, self-paced, web, app, or cross-modal versions may drift away from the required Diploma competency standards if delivery-mode branches are not governed by the same source of truth.
+Online, self-paced, web, public-app, or cross-modal versions may drift away from the required Bitcoin Diploma competency standards if delivery-mode branches are not governed by the same source of truth.
 
 ## Print Clutter Risk
 
@@ -621,7 +621,7 @@ Reducing Module 4 to "spending" may understate broader local Bitcoin-as-money po
 
 ## Organizations Source Creep Risk
 
-The retiring Bitcoin for Organizations pathway contains strong material for misconceptions, payments, public-ledger analysis, policy, treasury, risk management, nonprofits, technology, and sector impacts. Most of that material assumes advanced organizational reasoning. It should not pull the beginner Diploma toward business strategy, compliance, investment, legal, tax, treasury, or institutional custody instruction.
+The retiring Bitcoin for Organizations pathway contains strong material for misconceptions, payments, public-ledger analysis, policy, treasury, risk management, nonprofits, technology, and sector impacts. Most of that material assumes advanced organizational reasoning. It should not pull the beginner Bitcoin Diploma toward business strategy, compliance, investment, legal, tax, treasury, or institutional custody instruction.
 
 ---
 
@@ -671,7 +671,7 @@ The retiring Bitcoin for Organizations pathway contains strong material for misc
 - What changes for an online cohort?
 - What evidence of learning works in a self-paced format?
 - Which additional web-only features, if any, remain consistent with the October learner path and low-tech alternative?
-- Which optional app self-check features would improve learner review without creating a hidden assessment requirement?
+- Which restricted-pilot app self-check features would improve learner review without creating a hidden assessment requirement?
 - What should cross-modal continuation mean for a learner who moves between formats?
 
 ---
@@ -686,13 +686,13 @@ Use `05_competencies.md` for assessed competencies and observable criteria.
 
 Use `13_assessment.md` for how learning is evaluated.
 
-Use `15_certification.md` for the two-part assessment prerequisite and certification governance questions.
+Use `15_certification.md` for the two-part assessment prerequisite, decentralized educator-issued certification rule, and remaining local or optional verification controls.
 
 Use `03_scope.md` for workstreams, milestones, deliverables, publishing, and completion criteria.
 
 Use `06_plan.md` for active structure, content boundaries, and legacy migration.
 
-Use `17_advanced.md` for Advanced module titles, follow-on pathway ideas, and parked legacy content.
+Use `17_advanced.md` for [Advanced module](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) titles, follow-on pathway ideas, and parked legacy content.
 
 Use `16_spec.md` for publication, QR code, source-of-truth, and delivery-output rules.
 
@@ -713,6 +713,6 @@ Public communication should emphasize:
 - Educators receive better tools and clearer facilitation support.
 - Communities gain local relevance through the Bitcoin in Your Community module.
 - Spending can be included as local practice, but Module 4 is broader than spending.
-- Advanced Modules remain available without overloading beginners.
+- [Advanced Modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) remain available without overloading beginners.
 
 The design story should avoid excessive internal terminology. Use concrete contrasts such as long to short, dense to clear, lecture-heavy to active, centralized design to educator choice, and one document to learning ecosystem.

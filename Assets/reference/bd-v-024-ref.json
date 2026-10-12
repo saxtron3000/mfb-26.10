@@ -1,0 +1,160 @@
+{
+  "assetId": "BD-V-024",
+  "schemaVersion": 1,
+  "status": "blocked",
+  "assetType": "Diagram",
+  "recordDate": "2026-10-08",
+  "sourceFiles": {
+    "brief": "assets/briefs/bd-v-024-brief.md",
+    "briefRevision": "2026-10-08",
+    "styleReferences": []
+  },
+  "educationalPurpose": "Teach the relationship in the controlling direction: Peer-to-peer network.",
+  "placement": {
+    "studentGuide": "exact heading `### Early digital-money attempts and the [double-spend problem](https://programs.myfirstbitcoin.org/lexicon/en/#double-spending)`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-024\nALT: Five-part Bitcoin response to double spending: peer-to-peer network, signatures, blocks, verification, and shared history.\nASSET: assets/briefs/bd-v-024-brief.md\n-->\n```",
+    "educatorGuide": "exact heading `### Explain the combined response`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-024\nALT: Signatures, peer-to-peer communication, blocks and mining, independent verification, and accumulated proof of work combine to reject conflicting second spends.\nASSET: assets/briefs/bd-v-024-brief.md\nUSE: Shared Student Guide master.\n-->\n```",
+    "guideAnchor": "Student Guide: exact heading `### Early digital-money attempts and the [double-spend problem](https://programs.myfirstbitcoin.org/lexicon/en/#double-spending)`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-024\nALT: Five-part Bitcoin response to double spending: peer-to-peer network, signatures, blocks, verification, and shared history.\nASSET: assets/briefs/bd-v-024-brief.md\n-->\n```\nEducator Guide: exact heading `### Explain the combined response`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-024\nALT: Signatures, peer-to-peer communication, blocks and mining, independent verification, and accumulated proof of work combine to reject conflicting second spends.\nASSET: assets/briefs/bd-v-024-brief.md\nUSE: Shared Student Guide master.\n-->\n```",
+    "format": "Landscape 16:9 reference canvas, 960 × 540; Five-feature conflict-resolution flow; full width."
+  },
+  "teachingPoint": "Teach the relationship in the controlling direction: Peer-to-peer network. The learner should be able to explain the specific distinction or sequence: Peer-to-peer network; Digital signatures; Blocks and mining; Independent verification; Shared history. Preserve the qualifications below when explaining it.",
+  "visualPattern": "Process flow variant: circular relationship",
+  "composition": {
+    "orientation": "landscape",
+    "targetAspectRatio": "16:9",
+    "readingOrder": [
+      "Peer-to-peer network",
+      "Digital signatures",
+      "Blocks and mining",
+      "Independent verification",
+      "Shared history"
+    ],
+    "elements": [
+      {
+        "id": "element-01",
+        "role": "Peer-to-peer network",
+        "required": true,
+        "relationship": "Five equally weighted elements around a clockwise loop, no central decision maker; network figures, signing region, linked block shapes, check mark, checked history document.",
+        "position": "Position 1 in the explicitly described cycle arrangement",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-02",
+        "role": "Digital signatures",
+        "required": true,
+        "relationship": "Five equally weighted elements around a clockwise loop, no central decision maker; network figures, signing region, linked block shapes, check mark, checked history document.",
+        "position": "Position 2 in the explicitly described cycle arrangement",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-03",
+        "role": "Blocks and mining",
+        "required": true,
+        "relationship": "Five equally weighted elements around a clockwise loop, no central decision maker; network figures, signing region, linked block shapes, check mark, checked history document.",
+        "position": "Position 3 in the explicitly described cycle arrangement",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-04",
+        "role": "Independent verification",
+        "required": true,
+        "relationship": "Five equally weighted elements around a clockwise loop, no central decision maker; network figures, signing region, linked block shapes, check mark, checked history document.",
+        "position": "Position 4 in the explicitly described cycle arrangement",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-05",
+        "role": "Shared history",
+        "required": true,
+        "relationship": "Five equally weighted elements around a clockwise loop, no central decision maker; network figures, signing region, linked block shapes, check mark, checked history document.",
+        "position": "Position 5 in the explicitly described cycle arrangement",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      }
+    ]
+  },
+  "contentRequirements": [
+    {
+      "content": "Peer-to-peer network",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Digital signatures",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Blocks and mining",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Independent verification",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Shared history",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Use a circular diagram combining five icon-led elements: peer-to-peer network, digital signatures, blocks and mining, independent verification, and shared history. Use silhouettes or figures for the network, binary marks for signatures, linked three-dimensional blocks for blocks and mining, a check mark for verification, and a checked document for shared history.",
+      "source": "Asset definition / Required construction, elements, relationships, reading order, and qualifications",
+      "editable": true
+    },
+    {
+      "content": "Peer-to-peer network; Digital signatures; Blocks and mining; Independent verification; Shared history. Five equally weighted elements around a clockwise loop, no central decision maker; network figures, signing region, linked block shapes, check mark, checked history document.",
+      "source": "Accessibility and production handoff / Alt text",
+      "editable": true
+    },
+    {
+      "content": "- Alt text: Peer-to-peer network; Digital signatures; Blocks and mining; Independent verification; Shared history. Five equally weighted elements around a clockwise loop, no central decision maker; network figures, signing region, linked block shapes, check mark, checked history document.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-024-ref.svg` and a matching `assets/reference/bd-v-024-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.",
+      "source": "Accessibility and production handoff",
+      "editable": true
+    }
+  ],
+  "style": {
+    "layoutReference": "Selected pattern: Process flow variant: circular relationship. Selected layout: teaching-page; full-width figure region.",
+    "palette": [
+      "#422C70",
+      "#2B1C58",
+      "#FFFFFF",
+      "#F6F6F8",
+      "#D8D8E7",
+      "#25252B",
+      "#F7941F"
+    ],
+    "typography": "Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlled emphasis. Learner-facing print copy at least 12pt. Short literal labels, left aligned and translation-ready; do not bake copy into reference artwork.",
+    "shapeAndLineRules": "Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames.",
+    "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: cycle",
+    "emphasis": "One controlled orange instructional focal point; no orange full-field background or ranking",
+    "characters": [
+      "C02",
+      "C05"
+    ],
+    "propsAndIcons": [
+      "Independent verification"
+    ]
+  },
+  "prohibitions": [
+    "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",
+    "No real secrets, seed words, private keys, identities, balances, payable addresses, invoices or payment QR data. Fictional payment screens require editable SAMPLE — DO NOT PAY in later production.",
+    "Keep user, educator, wallet, service, node, miner and protocol roles distinct; Bitcoin is not stored inside a wallet, miners do not make the rules, and no single controller approves Bitcoin.",
+    "No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.",
+    "No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.",
+    "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation.",
+    "Do not imply that one miner decides validity or that the longest chain is accepted regardless of its validity.",
+    "Production restriction: Dictated direction requests three-dimensional blocks and binary marks; global flat-art and text-free reference rules conflict. Flat blocks with binary content deferred to live text awaits clarification."
+  ],
+  "review": {
+    "briefCompliant": true,
+    "assetRegisterCompliant": false,
+    "styleCompliant": false,
+    "openDecisionsPreventCreation": true,
+    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Creation blocked: Dictated direction requests three-dimensional blocks and binary marks; global flat-art and text-free reference rules conflict. Flat blocks with binary content deferred to live text awaits clarification."
+  },
+  "unresolved": [
+    "The index’s Dictated production directions control conflicting purpose, construction, format and type. The complete original row above is archival source evidence, not permission to reintroduce superseded scenes. The controlling direction is preserved below.",
+    "Dictated direction requests three-dimensional blocks and binary marks; global flat-art and text-free reference rules conflict. Flat blocks with binary content deferred to live text awaits clarification."
+  ]
+}

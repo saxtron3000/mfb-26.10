@@ -1,36 +1,57 @@
 # Watch: Explain Bitcoin to Complete Beginners
+
 ## Keywords
-Bitcoin, overview, non-technical
-## Activity Type
-Video viewing
+
+**Decentralization**
+
+## Activity type
+
+Video discussion
+
 ## Participation
 
 ## Duration
 
+## Objective
+
+- Participants build a beginner-friendly understanding of Bitcoin and share the video’s main ideas in their own words.
+
 ## Description
-Students watch a non-technical overview of Bitcoin.
-## Objectives
 
-## Materials
-Internet access and video playback.
-## Preparation
+Participants watch a non-technical Bitcoin overview designed for complete beginners. The viewing gives the class a shared starting point for identifying the problem Bitcoin addresses, its basic features, and questions that require further discussion or verification.
 
-## Procedure
-### Setup
+#### Preparation
 
-### Step 1
+**Materials**
+
+- Internet access and video playback.
+
+#### Setup
+
+#### Procedure
+
+##### Step 1
+
 Open the video.
-### Step 2
+
+##### Step 2
+
 Watch the video.
-### Step 3
 
-## Review
-### Key Points
+##### Step 3
 
-### Discussion questions
+#### Key points
 
-## Notes 
-The source notes that the host is not a Maxi; be aware of this if students ask.
-## Additional Resources
-https://youtu.be/SXqfFTmYmT0?si=HHZmNiGSzD6kz8FG
+#### Discussion questions
 
+#### Notes
+
+The source notes that the host is not a Maxi; be aware of this if participants ask.
+
+#### Resources and references
+
+[“Explain Bitcoin to Complete Beginners”](https://youtu.be/SXqfFTmYmT0?si=HHZmNiGSzD6kz8FG) is the non-technical overview used to give the class a shared starting point for discussing Bitcoin’s basic features and open questions.
+
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
+
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).

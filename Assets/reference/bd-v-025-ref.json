@@ -1,0 +1,145 @@
+{
+  "assetId": "BD-V-025",
+  "schemaVersion": 1,
+  "status": "completed",
+  "assetType": "Table (Replacement)",
+  "recordDate": "2026-10-08",
+  "sourceFiles": {
+    "brief": "assets/briefs/bd-v-025-brief.md",
+    "briefRevision": "2026-10-08",
+    "styleReferences": []
+  },
+  "educationalPurpose": "Teach the relationship in the controlling direction: 31 October 2008: whitepaper.",
+  "placement": {
+    "studentGuide": "exact heading `### Bitcoin origin timeline`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-025\nALT: Bitcoin origin timeline linking key dates, source material, and early network events.\nASSET: assets/briefs/bd-v-025-brief.md\n-->\n```",
+    "educatorGuide": "",
+    "guideAnchor": "Student Guide: exact heading `### Bitcoin origin timeline`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-025\nALT: Bitcoin origin timeline linking key dates, source material, and early network events.\nASSET: assets/briefs/bd-v-025-brief.md\n-->\n```\nEducator Guide: ",
+    "format": "Landscape 16:9 reference canvas, 960 × 540; Illustrated four-milestone reference table; full width."
+  },
+  "teachingPoint": "Teach the relationship in the controlling direction: 31 October 2008: whitepaper. The learner should be able to explain the specific distinction or sequence: 31 October 2008: whitepaper; 3 January 2009: Genesis Block; 12 January 2009: first recorded person-to-person transaction to Hal Finney; 22 May 2010: 10,000-BTC pizza purchase. Preserve the qualifications below when explaining it.",
+  "visualPattern": "Timeline",
+  "composition": {
+    "orientation": "landscape",
+    "targetAspectRatio": "16:9",
+    "readingOrder": [
+      "31 October 2008: whitepaper",
+      "3 January 2009: Genesis Block",
+      "12 January 2009: first recorded person-to-person transaction to Hal Finney",
+      "22 May 2010: 10,000-BTC pizza purchase"
+    ],
+    "elements": [
+      {
+        "id": "element-01",
+        "role": "31 October 2008: whitepaper",
+        "required": true,
+        "relationship": "Four milestones left to right with document-style cues. Keep event significance and source links as accessible live text; no speculative Satoshi portrait.",
+        "position": "Reading-order region 1 in timeline; precise spatial relation: Four milestones left to right with document-style cues. Keep event significance and source links as accessible live text; no speculative Satoshi portrait.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames. Tables: white/paper ground, purple heading region, cool-gray hairlines, short cells, prose left aligned and comparable numbers right aligned; no decorative-icon overload."
+      },
+      {
+        "id": "element-02",
+        "role": "3 January 2009: Genesis Block",
+        "required": true,
+        "relationship": "Four milestones left to right with document-style cues. Keep event significance and source links as accessible live text; no speculative Satoshi portrait.",
+        "position": "Reading-order region 2 in timeline; precise spatial relation: Four milestones left to right with document-style cues. Keep event significance and source links as accessible live text; no speculative Satoshi portrait.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames. Tables: white/paper ground, purple heading region, cool-gray hairlines, short cells, prose left aligned and comparable numbers right aligned; no decorative-icon overload."
+      },
+      {
+        "id": "element-03",
+        "role": "12 January 2009: first recorded person-to-person transaction to Hal Finney",
+        "required": true,
+        "relationship": "Four milestones left to right with document-style cues. Keep event significance and source links as accessible live text; no speculative Satoshi portrait.",
+        "position": "Reading-order region 3 in timeline; precise spatial relation: Four milestones left to right with document-style cues. Keep event significance and source links as accessible live text; no speculative Satoshi portrait.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames. Tables: white/paper ground, purple heading region, cool-gray hairlines, short cells, prose left aligned and comparable numbers right aligned; no decorative-icon overload."
+      },
+      {
+        "id": "element-04",
+        "role": "22 May 2010: 10,000-BTC pizza purchase",
+        "required": true,
+        "relationship": "Four milestones left to right with document-style cues. Keep event significance and source links as accessible live text; no speculative Satoshi portrait.",
+        "position": "Reading-order region 4 in timeline; precise spatial relation: Four milestones left to right with document-style cues. Keep event significance and source links as accessible live text; no speculative Satoshi portrait.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames. Tables: white/paper ground, purple heading region, cool-gray hairlines, short cells, prose left aligned and comparable numbers right aligned; no decorative-icon overload."
+      }
+    ]
+  },
+  "contentRequirements": [
+    {
+      "content": "31 October 2008: whitepaper",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "3 January 2009: Genesis Block",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "12 January 2009: first recorded person-to-person transaction to Hal Finney",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "22 May 2010: 10,000-BTC pizza purchase",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Replace the source table with a timeline that includes: 31 October 2008 whitepaper publication; 3 January 2009 Genesis Block; 12 January 2009 first recorded person-to-person transaction to Hal Finney; and 22 May 2010 the 10,000-BTC pizza purchase. Retain the existing event significance and source links as the accessible text equivalent.",
+      "source": "Asset definition / Required construction, elements, relationships, reading order, and qualifications",
+      "editable": true
+    },
+    {
+      "content": "31 October 2008: whitepaper; 3 January 2009: Genesis Block; 12 January 2009: first recorded person-to-person transaction to Hal Finney; 22 May 2010: 10,000-BTC pizza purchase. Four milestones left to right with document-style cues. Keep event significance and source links as accessible live text; no speculative Satoshi portrait.",
+      "source": "Accessibility and production handoff / Alt text",
+      "editable": true
+    },
+    {
+      "content": "- Alt text: 31 October 2008: whitepaper; 3 January 2009: Genesis Block; 12 January 2009: first recorded person-to-person transaction to Hal Finney; 22 May 2010: 10,000-BTC pizza purchase. Four milestones left to right with document-style cues. Keep event significance and source links as accessible live text; no speculative Satoshi portrait.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-025-ref.svg` and a matching `assets/reference/bd-v-025-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Compare all table rows and column boundaries in grayscale; retain the text equivalent.",
+      "source": "Accessibility and production handoff",
+      "editable": true
+    },
+    {
+      "content": "Exact source table retained as editable content and accessible text equivalent (current Student Guide at the placement anchor):\n\n| Date | Event | Why it matters |\n| --- | --- | --- |\n| 31 October 2008 | [Satoshi Nakamoto](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-nakamoto) published the whitepaper *Bitcoin: A Peer-to-Peer Electronic Cash System*. | The paper described direct online payments without a financial [intermediary](https://programs.myfirstbitcoin.org/lexicon/en/#intermediary). |\n| 3 January 2009 | [Satoshi](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-nakamoto) created the [Genesis Block](https://programs.myfirstbitcoin.org/lexicon/en/#genesis-block), the first block in Bitcoin's chain. | The [Bitcoin network](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-network) began. The block included a newspaper headline about bank bailouts, placing the launch in the context of the financial crisis. |\n| 12 January 2009 | [Satoshi](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-nakamoto) sent bitcoin to [Hal Finney](https://programs.myfirstbitcoin.org/lexicon/en/#hal-finney) in the first recorded [person-to-person Bitcoin transaction](https://programs.myfirstbitcoin.org/lexicon/en/#person-to-person-transaction). | The software moved [value](https://programs.myfirstbitcoin.org/lexicon/en/#value) between two participants as designed. |\n| 22 May 2010 | A user paid 10,000 BTC for two pizzas. | The event showed bitcoin being exchanged for ordinary goods and is remembered as [Bitcoin Pizza Day](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-pizza-day). |\n\nExplore the source records: read the [Bitcoin whitepaper](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-whitepaper) ([source PDF](https://bitcoin.org/bitcoin.pdf)), inspect the [Genesis Block](https://programs.myfirstbitcoin.org/lexicon/en/#genesis-block) ([block record](https://mempool.space/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f)) and the first recorded [person-to-person transaction](https://programs.myfirstbitcoin.org/lexicon/en/#person-to-person-transaction) ([transaction record](https://mempool.space/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16)), and read the [original pizza request](https://bitcointalk.org/index.php?topic=137.0). A [block explorer](https://programs.myfirstbitcoin.org/lexicon/en/#block-explorer) is a convenient interface to public data, not a primary authority over Bitcoin's rules.",
+      "source": "Content and live text / exact source table at placement anchor",
+      "editable": true
+    }
+  ],
+  "style": {
+    "layoutReference": "Selected pattern: Timeline. Selected layout: teaching-page; full-width figure region.",
+    "palette": [
+      "#422C70",
+      "#2B1C58",
+      "#FFFFFF",
+      "#F6F6F8",
+      "#D8D8E7",
+      "#25252B",
+      "#F7941F"
+    ],
+    "typography": "Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlled emphasis. Learner-facing print copy at least 12pt. Short literal labels, left aligned and translation-ready; do not bake copy into reference artwork.",
+    "shapeAndLineRules": "Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames. Tables: white/paper ground, purple heading region, cool-gray hairlines, short cells, prose left aligned and comparable numbers right aligned; no decorative-icon overload.",
+    "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: timeline",
+    "emphasis": "One controlled orange instructional focal point; no orange full-field background or ranking",
+    "characters": [],
+    "propsAndIcons": [
+      "31 October 2008: whitepaper"
+    ]
+  },
+  "prohibitions": [
+    "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",
+    "No real secrets, seed words, private keys, identities, balances, payable addresses, invoices or payment QR data. Fictional payment screens require editable SAMPLE — DO NOT PAY in later production.",
+    "Keep user, educator, wallet, service, node, miner and protocol roles distinct; Bitcoin is not stored inside a wallet, miners do not make the rules, and no single controller approves Bitcoin.",
+    "No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.",
+    "No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.",
+    "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation."
+  ],
+  "review": {
+    "briefCompliant": true,
+    "assetRegisterCompliant": true,
+    "styleCompliant": true,
+    "openDecisionsPreventCreation": false,
+    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Reference copy remains suppressed; production labels and qualifications remain editable."
+  },
+  "unresolved": [
+    "The index’s Dictated production directions control conflicting purpose, construction, format and type. The complete original row above is archival source evidence, not permission to reintroduce superseded scenes. The controlling direction is preserved below."
+  ]
+}

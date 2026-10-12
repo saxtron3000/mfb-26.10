@@ -5,15 +5,15 @@
 - About Us
 - Our mission: independent, open-source Bitcoin education
 - What we stand for: accessibility, critical thinking, community, and self-sovereignty
-- Why this Diploma exists
+- Why this Bitcoin Diploma exists
 - How learners can use this course as a starting point
 
-## 2. How This Diploma Works
+## 2. How This Bitcoin Diploma Works
 
 - What learners will be able to explain and demonstrate by the end
 - Learning style: educator-facilitated in person or online, with discussion, reflection, practice, and guided activities
 - Participation expectations
-- Optional app self-checks, recap, and discovery resources
+- Optional independent review and further-learning resources
 - Educator-observed practical evaluation
 - Why both 50% assessment components must be passed for certification
 - Required prior knowledge: none
@@ -35,7 +35,7 @@
 - Fractional reserve banking
 - Inflation and purchasing power
 - CBDCs as digital fiat, not decentralized digital money
-- Why people look for alternatives (Precious Metals, Real Estate, Stocks)
+- Alternatives for saving and holding value (Precious Metals, Real Estate, Stocks)
 - Review: how can money break?
 
 ## 4. Module 2: How Bitcoin Works
@@ -43,7 +43,7 @@
 - Why Bitcoin was created
 - The search for digital and decentralized money
 - Early digital-money attempts and the double-spend problem
-- Digital scarcity and credible scarcity
+- Digital scarcity and independently verifiable supply
 - Decentralization
 - Peer-to-peer transfer
 - Don’t trust, verify: public-rule verification and personal responsibility
@@ -54,7 +54,7 @@
 - Bitcoin as sound digital money
 - Bitcoin origin timeline
 - Personal responsibility as bridge to self-custody
-- Review: how does Bitcoin respond to fiat problems?
+- Review: how does Bitcoin respond to modern money-system flaws?
 
 ## 5. Module 3: Using Bitcoin Safely
 
@@ -69,7 +69,7 @@
 - Sending bitcoin
 - Verification, confirmations, block explorers, public-ledger privacy, and irreversible transactions
 - Safety checklist
-- Acquiring and exchanging bitcoin as pathway awareness, not financial advice
+- Acquiring and exchanging bitcoin: awareness, not financial advice
 - On-chain and Lightning payments
 - Practical competency check observed by an educator
 - Review: what does self-custody responsibility mean?
@@ -92,12 +92,13 @@
 - Local competency check observed by an educator
 - Review: how do the problem, solution, and safe action connect to this community?
 
-## 7. Back Of Diploma: Next Steps
+## 7. Back Of Bitcoin Diploma: Next Steps
 
 - A short “What now?” next-steps list
+- A voluntary Bitcoin Diploma exit-survey call to action
 - Optional four-week offline recall
 - A safety reminder
 - Connect with My First Bitcoin
 - Source or update page, if included
 - Optional donate / support QR
-- Certificate verification
+- Certificate meaning, educator issuance, batch production through the [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) after educator confirmation, and optional issuer-specific verification

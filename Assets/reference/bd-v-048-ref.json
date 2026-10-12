@@ -1,0 +1,130 @@
+{
+  "assetId": "BD-V-048",
+  "schemaVersion": 1,
+  "status": "completed",
+  "assetType": "Diagram",
+  "recordDate": "2026-10-08",
+  "sourceFiles": {
+    "brief": "assets/briefs/bd-v-048-brief.md",
+    "briefRevision": "2026-10-08",
+    "styleReferences": []
+  },
+  "educationalPurpose": "Teach the relationship in the controlling direction: Work or merchant earnings.",
+  "placement": {
+    "studentGuide": "exact heading `#### Awareness, not financial advice`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-048\nALT: Neutral pathway map for acquiring or exchanging bitcoin, showing custody, fees, identity, safety, and settlement choices.\nASSET: assets/briefs/bd-v-048-brief.md\n-->\n```",
+    "educatorGuide": "exact heading `### Acquiring and exchanging: awareness, not financial advice`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-048\nALT: Possible earning, exchange, service, and receipt pathways lead to custodial or self-custodial outcomes with cost, identity, withdrawal, counterparty, and local-context checks.\nASSET: assets/briefs/bd-v-048-brief.md\nUSE: Shared Student Guide master.\n-->\n```",
+    "guideAnchor": "Student Guide: exact heading `#### Awareness, not financial advice`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-048\nALT: Neutral pathway map for acquiring or exchanging bitcoin, showing custody, fees, identity, safety, and settlement choices.\nASSET: assets/briefs/bd-v-048-brief.md\n-->\n```\nEducator Guide: exact heading `### Acquiring and exchanging: awareness, not financial advice`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-048\nALT: Possible earning, exchange, service, and receipt pathways lead to custodial or self-custodial outcomes with cost, identity, withdrawal, counterparty, and local-context checks.\nASSET: assets/briefs/bd-v-048-brief.md\nUSE: Shared Student Guide master.\n-->\n```",
+    "format": "Landscape 16:9 reference canvas, 960 × 540; Branching pathway map; full width."
+  },
+  "teachingPoint": "Teach the relationship in the controlling direction: Work or merchant earnings. The learner should be able to explain the specific distinction or sequence: Work or merchant earnings; Peer-to-peer local cash exchange; Exchange or broker on computer. Preserve the qualifications below when explaining it.",
+  "visualPattern": "Comparison pair variant: three routes",
+  "composition": {
+    "orientation": "landscape",
+    "targetAspectRatio": "16:9",
+    "readingOrder": [
+      "Work or merchant earnings",
+      "Peer-to-peer local cash exchange",
+      "Exchange or broker on computer"
+    ],
+    "elements": [
+      {
+        "id": "element-01",
+        "role": "Work or merchant earnings",
+        "required": true,
+        "relationship": "One receiving learner connected to three clearly separate sources. Generic devices, no brands; live risk checkpoints and custody destination distinction retained.",
+        "position": "Reading-order region 1 in acquire; precise spatial relation: One receiving learner connected to three clearly separate sources. Generic devices, no brands; live risk checkpoints and custody destination distinction retained.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-02",
+        "role": "Peer-to-peer local cash exchange",
+        "required": true,
+        "relationship": "One receiving learner connected to three clearly separate sources. Generic devices, no brands; live risk checkpoints and custody destination distinction retained.",
+        "position": "Reading-order region 2 in acquire; precise spatial relation: One receiving learner connected to three clearly separate sources. Generic devices, no brands; live risk checkpoints and custody destination distinction retained.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-03",
+        "role": "Exchange or broker on computer",
+        "required": true,
+        "relationship": "One receiving learner connected to three clearly separate sources. Generic devices, no brands; live risk checkpoints and custody destination distinction retained.",
+        "position": "Reading-order region 3 in acquire; precise spatial relation: One receiving learner connected to three clearly separate sources. Generic devices, no brands; live risk checkpoints and custody destination distinction retained.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      }
+    ]
+  },
+  "contentRequirements": [
+    {
+      "content": "Work or merchant earnings",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Peer-to-peer local cash exchange",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Exchange or broker on computer",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Show one person receiving bitcoin in three distinct ways: earning it through work or as a merchant; a peer-to-peer exchange of local cash; and use of an exchange or broker on a computer. Use generic interfaces, illustrative prices only, and no provider branding or recommendation.",
+      "source": "Asset definition / Required construction, elements, relationships, reading order, and qualifications",
+      "editable": true
+    },
+    {
+      "content": "Work or merchant earnings; Peer-to-peer local cash exchange; Exchange or broker on computer. One receiving learner connected to three clearly separate sources. Generic devices, no brands; live risk checkpoints and custody destination distinction retained.",
+      "source": "Accessibility and production handoff / Alt text",
+      "editable": true
+    },
+    {
+      "content": "- Alt text: Work or merchant earnings; Peer-to-peer local cash exchange; Exchange or broker on computer. One receiving learner connected to three clearly separate sources. Generic devices, no brands; live risk checkpoints and custody destination distinction retained.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-048-ref.svg` and a matching `assets/reference/bd-v-048-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.",
+      "source": "Accessibility and production handoff",
+      "editable": true
+    }
+  ],
+  "style": {
+    "layoutReference": "Selected pattern: Comparison pair variant: three routes. Selected layout: teaching-page; full-width figure region.",
+    "palette": [
+      "#422C70",
+      "#2B1C58",
+      "#FFFFFF",
+      "#F6F6F8",
+      "#D8D8E7",
+      "#25252B",
+      "#F7941F"
+    ],
+    "typography": "Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlled emphasis. Learner-facing print copy at least 12pt. Short literal labels, left aligned and translation-ready; do not bake copy into reference artwork.",
+    "shapeAndLineRules": "Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames.",
+    "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: acquire",
+    "emphasis": "One controlled orange instructional focal point; no orange full-field background or ranking",
+    "characters": [
+      "C02",
+      "C04"
+    ],
+    "propsAndIcons": [
+      "Exchange or broker on computer"
+    ]
+  },
+  "prohibitions": [
+    "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",
+    "No real secrets, seed words, private keys, identities, balances, payable addresses, invoices or payment QR data. Fictional payment screens require editable SAMPLE — DO NOT PAY in later production.",
+    "Keep user, educator, wallet, service, node, miner and protocol roles distinct; Bitcoin is not stored inside a wallet, miners do not make the rules, and no single controller approves Bitcoin.",
+    "No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.",
+    "No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.",
+    "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation.",
+    "Do not rank or recommend a provider."
+  ],
+  "review": {
+    "briefCompliant": true,
+    "assetRegisterCompliant": true,
+    "styleCompliant": true,
+    "openDecisionsPreventCreation": false,
+    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Reference copy remains suppressed; production labels and qualifications remain editable."
+  },
+  "unresolved": [
+    "The index’s Dictated production directions control conflicting purpose, construction, format and type. The complete original row above is archival source evidence, not permission to reintroduce superseded scenes. The controlling direction is preserved below."
+  ]
+}

@@ -1,260 +1,100 @@
-# Activity Title: Transactions in Action
+# Transactions in action
 
 ## Keywords
 
-## Activity Type
+**Transactions** **Signatures** **Validation** **Wallets**
+
+## Activity type
+
+Live on-chain transaction practice
 
 ## Participation
 
 ## Duration
 
-**30 minutes**
+30 minutes
+
+## Objective
+
+- Participants use real Bitcoin wallets and a low-stakes on-chain payment to practise verifying a destination, amount, network, fee, and payment result.
+- Participants distinguish wallet authorization, recipient verification, node validation, and a miner's candidate-block role while observing an actual transaction.
 
 ## Description
 
-This is a cooperative exercise simplifying the basic roles of people involved in a Bitcoin transaction: sender, recipient, miner, and node operator.
+Participants use real Bitcoin wallets to create a fresh on-chain receiving address, check the payment details, approve a small real payment, and check its status. The educator connects the observed wallet steps to the distinct roles of a sender, recipient, node, and miner. Learners do not try to create invalid transactions or expose wallet information in order to learn why those transactions are rejected.
 
-## Objectives
+> **Callout – Use real wallets and funds only for this learning activity**
+>
+> Before beginning, follow the [Educator Guide's live-practice guidance](../mfb-bd-26.10/mfb-bd-eg-26.10.md#separate-training-wallets-from-personal-wallets). Explain the route and risks in advance; use an amount whose loss is not significant; make participation voluntary; protect all secrets and unnecessary payment information; and define stop conditions. Use educator-prepared funds where possible. Do not pressure learners to use their own funds or recommend a wallet or service.
 
-## Preparation
+#### Preparation
 
-### Materials
+**Materials**
 
-This activity can be done with just a whiteboard or a spreadsheet projected on a screen. With this method, there are no additional materials needed.
+- An educator-checked on-chain Bitcoin wallet and connection for each participating sender and receiver.
+- A small amount of real bitcoin that the educator has approved for the activity, including enough for the expected network fee.
+- A planned payment order and final return destination.
+- A whiteboard or projected screen for the educator's general role explanation. Do not display learner wallet details.
 
-This activity can also be done with physical items which may be more impactful for younger audiences.
+#### Setup
 
-• Color paper (4 – 6 colors) (representing wallets)
-• 21 poker chips, coins, or other material (representing sats)
-• Whiteboard or projector screen (for tracking transactions)
+Before class, test the exact wallet, source, network, amount, expected fee, payment destination, and receipt path. State who provides the funds, the planned payment order, the final return destination, the expected result, and when to stop. Do not screen-share or collect a learner's wallet details.
 
-### Preparation Notes
+#### Procedure
 
-The hardest part of preparing for this activity is reviewing the transaction scenarios a few times.
+##### Step 1: Create and check receiving information
 
-Consider adjusting the amounts and the stories to fit your audience.
+The receiver creates a fresh on-chain receiving address for the educator-approved amount. The sender checks the destination, amount, unit, network, expected fee, and final summary before approving. Stop if anything is unclear or does not match.
 
-Consider making it more fun by using competitive sport mascots instead of colors.
+##### Step 2: Authorize and broadcast the transaction
 
-## Procedure
+The sender approves the transaction on their own device. Explain that the wallet signs under the sender's authority and broadcasts the transaction; the recipient does not approve it for the Bitcoin network. The learner's approval screen is not evidence that all network checks have already occurred.
 
-### Setup
+##### Step 3: Check the payment status
 
-Set up is simple. To save time, draw the tracking table on your whiteboard or create it in your spreadsheet before class starts.
+The receiver checks the result on their own device. Explain the difference between broadcast, pending, and confirmed status. Do not ask either learner to show a seed phrase, private key, password, balance, transaction history, or other unnecessary personal information.
 
-| Sats | Red | Blue | Green | Orange | Total |
-| --- | ---: | ---: | ---: | ---: | ---: |
-| Starting | 12 | 4 | 7 | 2 | 21 |
-| Round 1 |  |  |  |  |  |
-| Round 2 |  |  |  |  |  |
-| Round 3 |  |  |  |  |  |
-| Round 4 |  |  |  |  |  |
-| Round 5 |  |  |  |  |  |
+##### Step 4: Connect the live transaction to Bitcoin roles
 
-If you are using the physical representations of the wallets (paper) and sats (poker chips or coins), gather these materials before class.
+Explain that nodes independently validate transactions and blocks against Bitcoin's rules. Miners may choose valid transactions for candidate blocks and attempt proof of work; nodes decide whether to accept the resulting block. The live payment can show a wallet approval and payment status, but it does not expose every signature, input, or network check.
 
-### Overview
+##### Step 5: Return funds and debrief
 
-In this activity you are going to facilitate transaction scenarios, for example “ALICE SENDS 1 BITCOIN TO BOB”.
+Where the planned route permits, return the funds to the educator's final destination. Discuss the actual fee, status, relevant privacy considerations, and why a successful low-stakes payment does not make a learner ready to hold or use significant funds. If the payment fails, pause to understand the message; do not retry by guessing.
 
-Wallet addresses are simplified to just colors.
+#### Key points
 
-Sats are simplified to just chips or coins.
+1. A sender authorizes a transaction with a signature. A recipient can provide a destination and check for a payment, but recipient approval is not a consensus rule.
+1. Nodes independently validate transactions and blocks against Bitcoin's rules.
+1. Miners build candidate blocks from transactions and try to find proof of work. They do not set the validation rules.
+1. A confirmation means that a transaction appears in a block that a node accepts. Confirmation and finality involve risk and context, not an absolute promise that nothing can change.
+1. A carefully supervised low-stakes real payment can make verification concrete, but it is not a test of readiness to hold or use significant funds.
 
-You will walk the class through a couple of scenarios where everything works well. The sender has enough sats. The sender has approved (signed) the transaction.
+#### Discussion questions
 
-Then you will walk through diﬀerent ways transactions are not valid: not enough sats, transaction not signed, invalid wallet.
+- Which role authorizes the transaction?
+- Which role checks the stated transaction rules?
+- Which parts of the live payment are visible to the sender and receiver, and which happen elsewhere in the network?
+- Why does Bitcoin use cryptography to sign transactions?
 
-**The key point is that you cannot cheat Bitcoin because the ledger is protected by a network of miners and node runners.**
+#### Notes
 
-### Step 1: The First Transaction
+**Bitcoin Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show) and direct practical learning where an approved route calls for it. Use the approved protocol and record only the individual evidence needed for the relevant criteria; otherwise, this activity is formative. It is not an assessment route for significant funds.
 
-Guide students through to the tracking board. Assign four students to be the owners of each of the four-colored wallets. **Explain their responsibility is to sign or not sign (approve, not approve) transactions.**
+Invite learners to explain the checks they made before approval and the difference between wallet authorization, recipient verification, node validation, and mining.
 
-If you are using the physical method, hand out their respective color “wallets” (papers). Also give them the corresponding number of poker chips (or coins, or whatever you have decided to use for sats).
+**Tip:** Rotate learners through sending and receiving roles where the planned funds and available time allow.
 
-Explain to the rest of the class they each represent miners or node runners. Their responsibility is to agree or not agree whether a transaction is valid.They decide to accept or reject transactions. For the game, select one of them to be responsible for updating the tracking board.
+#### Resources and references
 
-Now walk the class through the first transaction step by step. Tell them a
-story of how RED bought a coﬀee from BLUE for 5 sats.
+**Video**
 
-Ask “RED, do you agree to pay 5 sats to BLUE?”
+[“Blockchain 101 – A Visual Demo”](https://blockchain.mit.edu/how-blockchain-works) by Anders Brownworth and posted through MIT.
 
-Keep narrating. Your goal is to get RED to agree to send money to BLUE.
-When they do agree, tell them to say the following out loud: “I, RED, sign
-this transaction.”
+**Book**
 
-“NODES and MINERS, is the transaction RED SENDS 5 SATS TO BLUE valid?”
+[“Inventing Bitcoin: The Technology Behind the First Truly Scarce and Decentralized Money Revealed”](https://www.inventingbitcoin.com) by Yan Pritzker provides a high-level overview of Bitcoin's inner workings including how consensus achieves scarcity.
 
-1. Does RED have 5 sats?
-2. Did RED sign the transaction?
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
 
-If both conditions are met, instruct the tracker to update the table. Ensure
-they update the total column too. This will always be 21.
-
-If you are using the physical method, ask one of the miners to move 5
-sats (chips) from the red wallet (paper) to the blue wallet (paper).
-
-| Sats | Red | Blue | Green | Orange | Total |
-| --- | ---: | ---: | ---: | ---: | ---: |
-| Starting | 12 | 4 | 7 | 2 | 21 |
-| Round 1 | 7 | 9 | 7 | 2 | 21 |
-| Round 2 |  |  |  |  |  |
-| Round 3 |  |  |  |  |  |
-| Round 4 |  |  |  |  |  |
-| Round 5 |  |  |  |  |  |
-
-### Step 2: The Second Transaction
-
-Continue narrating. This time BLUE is buying something (perhaps a book) from ORANGE for 7 sats.
-
-Walk the class through the steps like before.
-
-“BLUE, do you agree to pay 7 sats to ORANGE?”
-
-“NODES and MINERS, is the transaction BLUE SENDS 7 SATS TO ORANGE valid?”
-
-1. Does BLUE have 7 sats?
-2. Did BLUE sign the transaction?
-
-If both conditions are met, instruct the tracker to update the table. Ensure they update the total column too.
-
-If you are using the physical method, one of the miners moves 7 sats (chips) from the blue wallet (paper) to the orange wall (paper).
-
-| Sats | Red | Blue | Green | Orange | Total |
-| --- | ---: | ---: | ---: | ---: | ---: |
-| Starting | 12 | 4 | 7 | 2 | 21 |
-| Round 1 | 7 | 9 | 7 | 2 | 21 |
-| Round 2 | 7 | 2 | 7 | 9 | 21 |
-| Round 3 |  |  |  |  |  |
-| Round 4 |  |  |  |  |  |
-| Round 5 |  |  |  |  |  |
-
-### Step 3: Not Enough Sats
-
-Continue narrating. This time GREEN is buying something (perhaps a meal) from RED for 10 sats.
-
-Walk the class through the steps like before.
-
-“GREEN, do you agree to pay 10 sats to RED?”
-
-“NODES and MINERS, is the transaction GREEN SENDS 10 SATS TO RED valid?”
-
-1. Does GREEN have 10 sats?
-2. Did GREEN sign the transaction?
-
-The node runners and miners should NOT agree the transaction is valid because GREEN does not have enough sats.
-
-“NODES and MINERS, will you process this transaction?”
-
-When they say “no”, instruct the tracker to update Round 3 with no changes from Round 2.
-
-| Sats | Red | Blue | Green | Orange | Total |
-| --- | ---: | ---: | ---: | ---: | ---: |
-| Starting | 12 | 4 | 7 | 2 | 21 |
-| Round 1 | 7 | 9 | 7 | 2 | 21 |
-| Round 2 | 7 | 2 | 7 | 9 | 21 |
-| Round 3 | 7 | 2 | 7 | 9 | 21 |
-| Round 4 |  |  |  |  |  |
-| Round 5 |  |  |  |  |  |
-
-### Step 4: Transaction Not Signed
-
-Continue narrating. This time, there is no purchasing story. ORANGE is trying to get GREEN to send him 5 sats.
-
-“GREEN, do you agree to pay 5 sats to ORANGE?”
-GREEN should say “no”.
-
-“NODES and MINERS, is the transaction GREEN SENDS 5 SATS TO ORANGE valid?”
-
-1. Does GREEN have 5 sats?
-2. Did GREEN sign the transaction?
-
-The node runners and miners should NOT agree the transaction is valid because GREEN never signed (approved) it.
-
-“NODES and MINERS, will you process this transaction?”
-
-When they say “no”, instruct the tracker to update Round 4 with no changes from Round 3.
-
-| Sats | Red | Blue | Green | Orange | Total |
-| --- | ---: | ---: | ---: | ---: | ---: |
-| Starting | 12 | 4 | 7 | 2 | 21 |
-| Round 1 | 7 | 9 | 7 | 2 | 21 |
-| Round 2 | 7 | 2 | 7 | 9 | 21 |
-| Round 3 | 7 | 2 | 7 | 9 | 21 |
-| Round 4 | 7 | 2 | 7 | 9 | 21 |
-| Round 5 |  |  |  |  |  |
-
-### Step 5: Invalid Wallet
-
-Continue narrating. ORANGE is still being sneaky. If he cannot get sats from another wallet, perhaps he can trick the network into updating his wallet with fictional sats.
-
-Tell the class that ORANGE broadcasts the following transaction to the network, “PURPLE SENDS 4 SATS TO ORANGE”.
-
-“NODES and MINERS, is the transaction valid?”
-
-No one can create sats from nothing. They must come from an existing and valid wallet.
-
-The node runners and miners should NOT agree the transaction is valid because PURPLE is not a real wallet.
-
-“NODES and MINERS, will you process this transaction?”
-
-When they say “no”, instruct the tracker to update Round 5 with no changes from Round 4.
-
-| Sats | Red | Blue | Green | Orange | Total |
-| --- | ---: | ---: | ---: | ---: | ---: |
-| Starting | 12 | 4 | 7 | 2 | 21 |
-| Round 1 | 7 | 9 | 7 | 2 | 21 |
-| Round 2 | 7 | 2 | 7 | 9 | 21 |
-| Round 3 | 7 | 2 | 7 | 9 | 21 |
-| Round 4 | 7 | 2 | 7 | 9 | 21 |
-| Round 5 | 7 | 2 | 7 | 9 | 21 |
-
-## Review
-
-### Key Points
-
-1. There are four types of participants in every Bitcoin transaction: the sender, the recipient, miners, and node operators.
-2. The sender must approve (cryptographically sign) the amount of bitcoin to send AND the specific address to send to.
-3. Recipients must provide a valid address to the sender AND verify the transaction was successfully confirmed on the blockchain.
-4. Miners ensure all criteria are valid before adding transactions to future blocks.
-5. Node operators verify mined blocks are valid before updating their version of the blockchain (the ledger).
-
-### Discussion questions
-
-• Why is it important to have many people watching and validating transactions?
-• Is there a way to double-spend sats by broadcasting two transactions simultaneously?
-• Did everyone notice how the total number of sats never changed?
-• How is this diﬀerent than the fractional banking activity?
-• Why does Bitcoin use cryptography to sign transactions?
-
-## Notes
-
-**Diploma assessment link:** May provide the individual-response context for [`T2` / `C3` and `C4`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#assessed-competencies-criteria-and-educator-notes). Use the approved protocol and record individual evidence; otherwise, this activity is formative.
-
-Expect students to grasp the tracking system quickly, but repetition will be helpful to increase their understanding of Bitcoin transaction mechanics.
-
-Repeat the conditions necessary for a valid transaction. 
-
-Repeat, then repeat, then repeat them again.
-
-Pause to allow time for questions and discussion.
-
-**TIP**: You can simplify the activity further by just having node runners if
-explaining the diﬀerence between miners and node runners distracts
-from the main point of the activity, transactions in action.
-
-**TIP**: Depending on the age and knowledge level of your class, consider
-rotating students through the diﬀerent roles.
-
-## Additional Resources
-
-### VIDEO
-
-“Blockchain 101 – A Visual Demo” by Anders Brownworth and posted through MIT.
-https://blockchain.mit.edu/how-blockchain-works
-
-### BOOK
-
-"Inventing Bitcoin: The Technology Behind the First Truly Scarce and Decentralized Money Revealed" by Yan Pritzker provides a high-level overview of Bitcoin's inner workings including how consensus achieves scarcity.
-https://www.inventingbitcoin.com
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).

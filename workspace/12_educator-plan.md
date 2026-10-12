@@ -12,41 +12,41 @@ The Educator Guide should function as a facilitation engine, not as a duplicate 
 
 The guide should help educators:
 
-- prepare quickly;
-- pace each module realistically;
-- choose activities;
-- manage discussion;
-- correct misconceptions;
-- adapt examples locally;
-- support multilingual or translated delivery;
-- select Bitcoin in Your Community modules;
-- facilitate in person or online with low-tech, offline-capable teaching materials when needed;
-- handle named tools, local resources, and current-data examples carefully;
-- use QR codes and external links sparingly in print/PDF delivery;
-- protect learner safety and autonomy;
-- use educator-led explanations, discussions, games, simulations, and role-plays for theory learning, distinguishing documented educator-evaluated evidence from formative feedback;
-- assess required practical competencies through direct observation;
-- use common rubrics consistently;
+- prepare quickly
+- pace each module realistically
+- choose activities
+- manage discussion
+- correct misconceptions
+- adapt examples locally
+- support multilingual or translated delivery
+- select Bitcoin in Your Community modules
+- facilitate in person or online with low-tech, offline-capable teaching materials when needed
+- handle named tools, local resources, and current-data examples carefully
+- use QR codes and external links sparingly in print/PDF delivery
+- protect learner safety and autonomy
+- use educator-led explanations, discussions, games, simulations, and role-plays for theory learning, distinguishing documented educator-evaluated evidence from formative feedback
+- assess required practical competencies through direct observation
+- use common rubrics consistently
 - provide feedback and reassessment; and
-- recognize that the 2026.10 assessment process is educator-led and that optional app use does not affect certification.
+- recognize that the 2026.10 assessment process is educator-led and that restricted-pilot app microlearning does not affect certification.
 
-### The My First Bitcoin app as an optional learning resource
+### Restricted-pilot app boundary
 
-Content may be facilitated in person or online and taught with low-tech, offline-capable print/PDF materials. The My First Bitcoin app may be offered for voluntary recap, self-checks, discovery, and connection to future My First Bitcoin learning. It is not required for learning, assessment, completion, or certification in the 2026.10 release.
+Content may be facilitated in person or online and taught with low-tech, offline-capable print/PDF materials. My First Bitcoin App microlearning is accessible only to the defined pilot group. Do not offer, assign, or mention it in the Educator Guide or regular 2026.10 Bitcoin Diploma delivery. It is not required for learning, assessment, completion, or certification; later public-release work is tracked in `18_horizon.md`.
 
-### Educator support through the ETP
+### Educator support through the [ETP](https://etp.myfirstbitcoin.org/)
 
-You do not need to prepare or teach in isolation. My First Bitcoin supports educators through the [Educator Training Program (ETP)](https://programs.myfirstbitcoin.org/programs/educator-training-program/), which helps prospective and active educators develop their teaching practice and connect with the wider education community.
+You do not need to prepare or teach in isolation. My First Bitcoin supports educators through the [Educator Training Program (ETP)](https://etp.myfirstbitcoin.org/), which helps prospective and active educators develop their teaching practice and connect with the wider education community. ETP and other linked programmes are optional pathways beyond the Bitcoin Diploma, not learner completion requirements.
 
-**Ready for support?** Explore the [Educator Training Program](https://programs.myfirstbitcoin.org/programs/educator-training-program/) for current information and ways to get involved.
+**Ready for support?** Explore the [Educator Training Program](https://etp.myfirstbitcoin.org/) for current information and ways to get involved.
 
 ---
 
 # Guide Structure
 
-## 1. Teaching The Diploma
+## 1. Teaching The Bitcoin Diploma
 
-- Purpose of the Diploma
+- Purpose of the Bitcoin Diploma
 - What stays fixed
 - What educators can adapt
 - Shared Modules 1–2 core learning, educator-adapted Module 3 practice, and educator-curated Module 4 Connect practice
@@ -56,27 +56,31 @@ You do not need to prepare or teach in isolation. My First Bitcoin supports educ
 
 ### Course roles
 
-In this Diploma, a **learner** studies, discusses, practises, and provides observable evidence through explanation and action. An **educator** facilitates the course, protects the learning environment, adds checked local context, provides formative theory feedback, and directly evaluates practical competencies. A **cohort** is the group learning together; smaller teams may complete particular activities. The **Diploma** is the complete learning and assessment program, not only the Student Guide or the accompanying app.
+In this Bitcoin Diploma, a **learner** studies, discusses, practises, and provides observable evidence through explanation and action. An **educator** facilitates the course, protects the learning environment, adds checked local context, provides formative theory feedback, and directly evaluates practical competencies. A **cohort** is the group learning together; smaller teams may complete particular activities. The **Bitcoin Diploma** is the complete learning and assessment program, not only the Student Guide or an accompanying digital resource.
+
+### Learner registration and exit feedback
+
+Educators should invite learners to [register for the Bitcoin Diploma](https://forms.myfirstbitcoin.org/register-student/bd) before or during the first session, and invite them to [complete the Bitcoin Diploma exit survey](https://forms.myfirstbitcoin.org/bd-exit-survey) at the course close. These voluntary forms help My First Bitcoin offer learner support and future opportunities, understand the learning experience and impact of the Bitcoin Diploma, and improve future content. Neither form is an assessment or certification requirement.
 
 ### General Teaching Tips
 
 - Educators should feel allowed to say "not yet" when a student question would pull the class into a complex side topic. This does not shut down curiosity. It protects the structure, timing, and competency criteria of the activity. A useful response is: "That is an important question, but it belongs later. We will come back to it when the timing is right." This helps avoid rabbit-holing students before they have the foundation to address the question safely.
-- If learner time, energy, or familiarity with the basics suggests a gentler start, educators may offer an initial [Introduction to Bitcoin (ITB)](https://programs.myfirstbitcoin.org/programs/introduction-to-bitcoin/) session or course before the Diploma. ITB is a shorter first touch point for getting to grips with Bitcoin; it can prepare learners for the Diploma but does not replace its assessed competencies or assessment.
+- If learner time, energy, or familiarity with the basics suggests a gentler start, educators may offer an initial [Introduction to Bitcoin (ITB)](https://myfirstbitcoin.org/learn/programs#intro) session or course before the Bitcoin Diploma. [ITB](https://myfirstbitcoin.org/learn/programs#intro) is a shorter first touch point for getting to grips with Bitcoin; it can prepare learners for the Bitcoin Diploma but does not replace its assessed competencies or assessment.
 
 ## 2. Pacing And Timing
 
-- Approximately 8-hour delivery pathway, including required assessment
+- Minimum 8-hour delivery pathway, including required assessment and additional time whenever learners need it
 - Four two-hour sessions as one delivery model, not a fixed limit
 - Suggested timing per module
 - Flexible delivery models: one-day, four-day, or eight-day
 - In-person delivery or online delivery using low-tech, offline-capable print/PDF content where needed
 - What to cut when time is short
-- What to move to Advanced Modules
+- What to move to [Advanced Modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/)
 - How to reserve time for required assessment
 
-### Managing The 8-Hour Pathway
+### Managing The Minimum 8-Hour Pathway
 
-The Bitcoin Diploma has an approximately 8-hour delivery pathway. This pathway includes teaching, practice, educator-led theory checks, direct practical observation, recording, feedback, and any planned reassessment. Educators may use different time chunks depending on learner availability, venue constraints, travel time, energy level, device access, and local teaching context, but must not treat assessment as an extra follow-up outside the advertised Diploma. Optional app use must not become a barrier to participation.
+The Bitcoin Diploma has a minimum 8-hour delivery pathway. Eight hours is the shortest planned route, not a maximum, and includes teaching, practice, educator-led theory checks, direct practical observation, recording, feedback, and planned reassessment. Educators take additional time whenever learners need it to explore, discuss, practise, consolidate, or demonstrate their learning; there is no upper duration limit. Educators may use different time chunks depending on learner availability, venue constraints, travel time, energy level, device access, and local teaching context, but must not treat assessment as a hidden extra outside the advertised Bitcoin Diploma. Restricted-pilot app use must not become a barrier to participation.
 
 The four-module sequence should remain the same:
 
@@ -89,19 +93,17 @@ Module 4 is the educator-curated **Connect** stage. It links the first three mod
 
 Educators should choose the schedule that gives learners enough time to discuss, practice, ask questions, and review without overloading them.
 
-Plan from the assessed competencies, observable criteria, required practice, and assessment evidence first. Do not cut or waive them merely to fit a fixed session length. If they do not fit, redesign the advertised course schedule before delivery so that teaching and assessment remain part of the same Diploma pathway. Educators may invite learners to read the relevant Student Book chapter before class so live time can focus on discussion, questions, local context, and selected activities. Pre-reading must remain optional and must not create an access barrier.
+Plan from the assessed competencies, observable criteria, required practice, and assessment evidence first. Do not cut or waive them merely to fit a session length. If they do not fit, redesign the advertised course schedule before delivery so that teaching and assessment remain part of the same Bitcoin Diploma pathway. Educators may require learners to read the relevant Student Guide chapter before class when every learner can access it in an appropriate language and format. This pre-reading can preserve live class time for discussion, questions, local context, and selected activities, but it does not count toward the minimum eight hours or replace required educator-supported learning and assessment. Provide an equivalent supported route when pre-reading would create an access barrier.
 
 The course should feel lean and intentional. When time is tight, protect learner explanation, practice, safety, review, and required assessment before adding technical depth or extra examples. Required competencies, observable criteria, and certification assessments must not be cut. If they do not fit in the teaching session, the educator must redesign the course schedule before delivery rather than add an assessment-only follow-up or certify without evidence.
 
 | Delivery model | Example timing | Best use | Educator guidance |
 |---|---|---|---|
-| One-day intensive | 9:00-5:00 with breaks, or 9:00-6:00 if preserving a full 8 teaching hours plus lunch | Conferences, weekend intensives, visiting educators, or learners who can only attend once | Keep explanations short, protect review time, choose only the strongest activities, and avoid adding advanced topics. |
+| One-day intensive | At least 8 hours of Bitcoin Diploma learning plus suitable breaks, such as 9:00–18:00 | Conferences, weekend intensives, visiting educators, or learners who can only attend once | Use only when the cohort can learn and demonstrate the competencies without rushed discussion, practice, review, or assessment. |
 | Four-day course | Four 2-hour sessions | Community classes, schools, libraries, meetups, or evening programs | Teach one module per session. Begin each session with a short recap and end with an exit ticket or reflection. |
 | Eight-day course | Eight 1-hour sessions | Learners who benefit from slower pacing, translation, discussion, or repeated practice | Split each module across two sessions: one for the key idea and discussion, one for practice, review, and educator-curated Connect learning. |
 
-If a one-day course must fit strictly inside 9:00-5:00, educators should treat it as an intensive version of the Diploma. Breaks and lunch reduce available teaching time, so the educator may need to shorten activities, assign a small amount of pre-reading, or move optional discussion into follow-up resources.
-
-If the priority is a full 8 hours of live teaching plus a proper meal break, the day should be scheduled longer than 9:00-5:00 or split across multiple days.
+Breaks and lunch reduce live learning time. A one-day schedule such as 9:00–17:00 therefore does not provide the minimum eight hours of Bitcoin Diploma learning. Schedule a longer day or split the course across multiple days. Accessible pre-reading may preserve live time for activities and discussion, but it does not count toward the eight-hour minimum or replace educator-supported learning and assessment.
 
 Educators may also combine models, such as two half-days or one weekend morning plus several evening sessions. The important decision is not the exact calendar format, but whether the chosen time chunks protect the learning rhythm of each module: introduce, discuss, practice, apply, and review.
 
@@ -142,11 +144,11 @@ Suggested two-part sequence when more time is available:
 - CBDCs as digital fiat, with issuer, supply, permission, privacy, and verification questions
 - Likely misconceptions
 - Suggested activities
-- Optional app recap or self-check items mapped to this module, where useful
+- Pilot-only microlearning items mapped to this module, where useful; do not include them in Educator Guide delivery guidance. The public app is a post-publication addition and may be covered in the guide only after its public release is approved under `18_horizon.md`.
 - Documented educator-evaluated theory interactions and formative learner explanations, comparisons, discussions, or simulations
 - Review point
 
-Have learners keep their answers to the opening money questions. Return to them at the end of the Diploma.
+Have learners keep their answers to the opening money questions. Return to them at the end of the Bitcoin Diploma.
 
 ### How Bitcoin Works
 
@@ -157,7 +159,7 @@ Have learners keep their answers to the opening money questions. Return to them 
 - Satoshis as a low-complexity concept that unlocks payments, fees, supply, and custody discussions
 - Likely misconceptions
 - Suggested activities
-- Optional app recap or self-check items mapped to this module, where useful
+- Pilot-only microlearning items mapped to this module, where useful; do not include them in Educator Guide delivery guidance
 - Documented educator-evaluated theory interactions and formative learner explanations, concept illustrations, role-plays, or scenarios
 - Review point
 
@@ -189,7 +191,7 @@ Suggested two-part sequence when more time is available:
 - When to use block explorers as beginner verification tools, including confirmation status and public-ledger privacy limits
 - Address-history and reuse lookup activity: use a deliberately public, educator-prepared address, transaction, or screenshot to show that address activity can be visible and repeated use can make transactions easier to link. Never ask learners to search, display, or share an address that belongs to them or another person, and provide a printed or projected fallback when internet access is unavailable.
 - Suggested activities
-- Optional app recap or self-check items mapped to this module, where useful
+- Pilot-only microlearning items mapped to this module, where useful; do not include them in Educator Guide delivery guidance
 - Required educator-observed wallet, transaction, recovery-readiness, verification, and safety assessment
 - Review point
 
@@ -213,11 +215,11 @@ The retiring Bitcoin for Organizations pathway contains useful misconception mat
 
 Each misconception entry should include:
 
-- learner question;
-- beginner-safe answer;
-- one discussion prompt;
-- what not to overclaim;
-- source trail for Advanced learning.
+- learner question
+- beginner-safe answer
+- one discussion prompt
+- what not to overclaim
+- source trail for [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/)
 
 Recommended entries:
 
@@ -247,24 +249,24 @@ Educators should present assessment like a driving test:
 
 The percentages describe the balance of the two required components; do not calculate a combined numerical grade.
 
-The optional app may supply microlearning, feedback, and self-checks. The educator evaluates approved theoretical interactions and directly evaluates practical performance. A learner explanation may be assessed as theory through a competency-aligned educator interaction, or as practice when it is an observable criterion within an approved practical task.
+Restricted-pilot app access may supply microlearning, feedback, and self-checks for designated pilot participants only. It is not part of Educator Guide delivery. The educator evaluates approved theoretical interactions and directly evaluates practical performance. A learner explanation may be assessed as theory through a competency-aligned educator interaction, or as practice when it is an observable criterion within an approved practical task.
 
-An app quiz or checklist can guide preparation, but it is not proof of competence.
+A pilot quiz or checklist can guide a pilot participant's review, but it is not proof of competence.
 
 Both assessment components must be passed for certification; strength in one cannot compensate for failure in the other.
 
-The operational source is the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol). It supplies the approved `T1`–`T3` theory interactions, `P9`–`P11` practical tasks, permitted support, safety-critical errors, equivalent routes, calibration, moderation, and reassessment procedure. The Assessment Grid records results; it does not replace the protocol.
+The operational source is the [Educator Guide's operational assessment protocol](../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#operational-assessment-protocol). It supplies the approved `T1`–`T3` theory interactions, `P6a`–`P7` practical tasks, permitted support, safety-critical errors, equivalent routes, calibration, moderation, and reassessment procedure. The Assessment Grid records results; it does not replace the protocol.
 
 ### 5.2 Start With The Practical Competency
 
 Before conducting a practical assessment, the educator should confirm:
 
-- the stable competency ID;
-- the observable learner action;
-- the required evidence;
-- the approved assessment task;
-- the observable criteria;
-- permitted support and prompting;
+- the stable competency ID
+- the observable learner action
+- the required evidence
+- the approved assessment task
+- the observable criteria
+- permitted support and prompting
 - the passing standard; and
 - how the result will be recorded.
 
@@ -276,15 +278,15 @@ Modules 1 and 2 are knowledge-dominant, but they must not become memory tests.
 
 Use the following to develop theoretical competency through observable learner action and provide formative feedback:
 
-- optional app microlearning and self-checks where useful;
-- learner explanations in their own words;
-- comparisons and concept illustrations;
-- guided discussion;
-- claim / evidence / trade-off responses;
+- pilot-only microlearning and self-checks where useful, outside regular Bitcoin Diploma delivery
+- learner explanations in their own words
+- comparisons and concept illustrations
+- guided discussion
+- claim / evidence / trade-off responses
 - simulations and role-plays; and
 - scenarios that require learners to connect more than one concept.
 
-The complete Diploma assessment allocates 50% to theoretical evidence and 50% to practical competency evidence. Educator-led explanations, comparisons, illustrations, games, discussions, simulations, scenarios, and role-plays contribute to theory only when approved, criteria-based, individually evidenced, and recorded; otherwise they are formative.
+The complete Bitcoin Diploma assessment allocates 50% to theoretical evidence and 50% to practical competency evidence. Educator-led explanations, comparisons, illustrations, games, discussions, simulations, scenarios, and role-plays contribute to theory only when approved, criteria-based, individually evidenced, and recorded; otherwise they are formative.
 
 Educators should not treat fluent repetition as evidence of a competency. Use formative prompts such as:
 
@@ -300,17 +302,17 @@ Modules 3 and 4 are skills-dominant. Required practical competencies make up the
 
 Use approved tests, demonstrations, simulations, and role-plays from the [Resources Hub](https://programs.myfirstbitcoin.org/resources/) to observe whether the learner can:
 
-- follow the relevant sequence;
-- safely set up or open and navigate an approved or prepared wallet environment;
-- locate and verify receive information;
-- complete or safely simulate a send or receive flow;
-- check the relevant address, invoice, amount, confirmation, or transaction status;
-- protect recovery information and other secrets;
-- respond safely to an error, scam, or irreversible-transaction risk;
+- follow the relevant sequence
+- safely set up or open and navigate an approved or prepared wallet environment
+- locate and verify receive information
+- complete or safely simulate a send or receive flow
+- check the relevant address, invoice, amount, confirmation, or transaction status
+- protect recovery information and other secrets
+- respond safely to an error, scam, or irreversible-transaction risk
 - explain what they are doing and why; and
 - recognize when to stop or seek help.
 
-Module 4 requires direct assessment of an approved local task mapped to `C11`, including required observable criteria `C11.1` and `C11.2`. The task may vary by context, but it must preserve equivalent evidence of safe performance, verification, explanation, and trade-off awareness.
+Module 4 requires direct assessment of an approved local task mapped to `C7`, including required observable criteria `C7.1` and `C7.2`. The task may vary by context, but it must preserve equivalent evidence of safe performance, verification, explanation, and trade-off awareness.
 
 Use prepared wallets, simulations, testnet, or appropriately low-stakes transactions where needed. Never ask a learner to expose a real seed phrase, private key, credential, or unnecessary financial information.
 
@@ -323,7 +325,7 @@ Use prepared wallets, simulations, testnet, or appropriately low-stakes transact
 5. Use only the level of prompting permitted by the rubric.
 6. Ask the learner to explain important checks and decisions.
 7. Mark each criterion using the approved rubric.
-8. Record **Meets standard** or **Not yet** and the required evidence reference.
+8. Record **Showing competency: Yes** or **Showing competency: Not yet** and the required evidence reference.
 9. Give specific feedback.
 10. Provide further practice and reassessment after a **Not yet** result.
 
@@ -335,13 +337,13 @@ Practical assessment decisions must be based on observable evidence, not confide
 
 Common rubric dimensions may include:
 
-- conceptual accuracy;
-- explanation in the learner's own words;
-- relevant synthesis or reasoning;
-- correct practical sequence;
-- verification behavior;
-- protection of sensitive information;
-- recognition of risks and stop conditions;
+- conceptual accuracy
+- explanation in the learner's own words
+- relevant synthesis or reasoning
+- correct practical sequence
+- verification behavior
+- protection of sensitive information
+- recognition of risks and stop conditions
 - appropriate level of independence; and
 - ability to explain decisions during performance.
 
@@ -349,23 +351,23 @@ Record only the minimum evidence needed. Do not photograph, copy, or store seed 
 
 ### 5.7 Feedback, Reassessment, And Accessibility
 
-**Not yet** means that the learner needs more learning or practice; it is not a permanent failure.
+**Showing competency: Not yet** means that the learner is building competency and needs more learning or practice; it is not a permanent failure. Educators may return to reassess at any point.
 
-For the theoretical component, the educator reassesses approved theory interactions against their criteria and may also provide formative help. Optional app self-checks may support review but are not recorded assessment evidence.
+For the theoretical component, the educator reassesses approved theory interactions against their criteria and may also provide formative help. Pilot self-checks are not part of regular delivery and are not recorded assessment evidence.
 
 For the practical component, the educator should identify the unmet criterion, direct the learner to appropriate practice, provide focused feedback, allow reasonable practice time, and reassess the competency against the same approved rubric.
 
-Practical-task accommodations may change how a learner receives instructions, communicates an explanation, controls a device, or demonstrates a sequence, but must not remove the required action or lower the competency standard. Optional app use must never be required as an accommodation route.
+Practical-task accommodations may change how a learner receives instructions, communicates an explanation, controls a device, or demonstrates a sequence, but must not remove the required action or lower the competency standard. Restricted-pilot app use must never be required as an accommodation route.
 
 ### 5.8 Educator calibration and quality
 
 Every educator who assesses practical competency needs preparation. The operational assessment protocol includes:
 
-- annotated examples of passing and **Not yet** evidence;
-- practice scoring common learner responses and performances;
-- guidance on permitted prompts;
-- equivalent task variants;
-- safety-critical error examples;
+- annotated examples of **Yes** and **Not yet** evidence
+- practice scoring common learner responses and performances
+- guidance on permitted prompts
+- equivalent task variants
+- safety-critical error examples
 - moderation or second-review procedures where required; and
 - a process for resolving uncertain judgments.
 
@@ -373,16 +375,20 @@ Calibration protects learners from inconsistent grading and protects the reputat
 
 ### 5.9 Recording And Certification
 
-The educator may invite learners to use the optional app for recap, but must not use app progress as assessment evidence.
+The educator must not invite regular Bitcoin Diploma learners to use the restricted-pilot app. Pilot progress is never assessment evidence.
 
 The approved completion record must contain:
 
-- required educator-evaluated theoretical-interaction results;
-- required educator-observed Module 3 and Module 4 practical results;
+- required educator-evaluated theoretical-interaction results
+- required educator-observed Module 3 and Module 4 practical results
 - the selected and passed Module 4 competency; and
 - any required educator attestation or evidence reference.
 
-Only the combined **assessment-complete** status may unlock a certificate. Educator endorsement without structured evidence is insufficient, and direct practical assessment by an educator is mandatory.
+Only the combined **assessment-complete** status permits the named educator to issue a completion certificate. Educator endorsement without structured evidence is insufficient, and direct practical assessment by an educator is mandatory. My First Bitcoin does not centrally issue or verify the certificate or guarantee the learner's competency.
+
+After confirming each learner's result and certificate type, educators may use the [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) to prepare participation or completion certificates in a batch. They remain responsible for eligibility, learner names, certificate types, and issuing details; the tool does not assess learners or decide completion.
+
+The 2026.10 publication is framework first. Before certificated delivery, the educator confirms that the selected tasks and local variants, observation capacity, accessibility routes, Assessment Grid, and proportionate local privacy, correction, and appeals arrangements are ready.
 
 ## 6. Adaptation Guidance
 
@@ -395,23 +401,23 @@ Only the combined **assessment-complete** status may unlock a certificate. Educa
 - How to frame legal, tax, and privacy context without giving legal, tax, or financial advice
 - Low-connectivity delivery
 - Mobile-only delivery
-- Online PDF adaptation
+- Sanity-published online PDF presentation
 - Online cohort adaptation
 - Self-paced adaptation
-- Website branch adaptation
-- Optional app recap, self-check, and discovery resources
+- Sanity-published website presentation
+- Restricted-pilot microlearning: keep outside the Educator Guide and regular Bitcoin Diploma delivery
 - Recording educator-led theoretical and practical evidence
 - Cross-modal branch notes
-- QR-code restraint for print and PDF delivery
+- QR code restraint for print and PDF delivery
 
 ## 7. Legacy Content Migration Guidance
 
-- Use the legacy table-of-contents migration notes in `06_plan.md` to decide whether old content belongs in the shared core, an educator-adapted Module 3 option, an educator-curated Module 4 option within the Diploma, or Advanced learning.
-- Use `17_advanced.md` to decide whether Organizations material supports the beginner Diploma, educator-adapted Module 3 practice, an educator-curated Module 4 option, activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), the Educator Guide, or Advanced learning, and to park deeper technical, economic, philosophical, or future-facing material for later Advanced modules.
+- Use the legacy table-of-contents migration notes in `06_plan.md` to decide whether old content belongs in the shared core, an educator-adapted Module 3 option, an educator-curated Module 4 option within the Bitcoin Diploma, or [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
+- Use `17_advanced.md` to decide whether Organizations material supports the beginner Bitcoin Diploma, educator-adapted Module 3 practice, an educator-curated Module 4 option, activities available on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/), the Educator Guide, or [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/), and to park deeper technical, economic, philosophical, or future-facing material for later [Advanced modules](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
 - Do not treat old `OUT` markings as deletion when the same item has an educator-curated Module 4 or Advanced destination.
 - Keep Module 3 technical material practical: use it only to support safer self-custody, verification, and transaction responsibility.
-- Split topics carefully when needed: beginner concepts may stay in the Diploma while deeper analysis moves to Advanced learning.
-- Treat sats, wallet recovery, seed phrase testing, address verification, scam awareness, and beginner acquisition-pathway risk as clarified Diploma concepts.
+- Split topics carefully when needed: beginner concepts may stay in the Bitcoin Diploma while deeper analysis moves to [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/).
+- Treat sats, wallet recovery, seed phrase testing, address verification, scam awareness, and beginner acquisition-pathway risk as clarified Bitcoin Diploma concepts.
 - Place daily-life Lightning wallet setup, local spending, and merchant scenarios in Bitcoin in Your Community unless the local delivery plan requires them earlier.
 - Use educator-curated Module 4 tasks for local money examples, local inequality or debt discussions, local resource maps, circular economies, and real tools used by the community.
 - Do not turn named exchanges, wallets, peer-to-peer platforms, maps, or local services into global recommendations.
@@ -422,15 +428,15 @@ Only the combined **assessment-complete** status may unlock a certificate. Educa
 
 As the **Connect** stage, educators should choose Bitcoin in Your Community modules based on:
 
-- the local need or opportunity and the realistic existing alternative;
-- the Module 1 problem, Module 2 response, and Module 3 safe action the task will connect;
-- student needs;
-- local Bitcoin tools;
-- local risks;
-- local opportunities;
-- available local expert support;
-- local on-ramp and off-ramp realities;
-- KYC, privacy, safety, legal, and tax context where relevant;
-- available devices and connectivity;
-- realistic next steps;
-- educator confidence and competence.
+- the local need or opportunity and the realistic existing alternative
+- the Module 1 problem, Module 2 response, and Module 3 safe action the task will connect
+- student needs
+- local Bitcoin tools
+- local risks
+- local opportunities
+- available local expert support
+- local on-ramp and off-ramp realities
+- KYC, privacy, safety, legal, and tax context where relevant
+- available devices and connectivity
+- realistic next steps
+- educator confidence and competence

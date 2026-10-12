@@ -1,0 +1,208 @@
+{
+  "assetId": "BD-V-052",
+  "schemaVersion": 1,
+  "status": "completed",
+  "assetType": "Diagram",
+  "recordDate": "2026-10-08",
+  "sourceFiles": {
+    "brief": "assets/briefs/bd-v-052-brief.md",
+    "briefRevision": "2026-10-08",
+    "styleReferences": []
+  },
+  "educationalPurpose": "Synthesizes the module as responsibilities surrounding key control.",
+  "placement": {
+    "studentGuide": "exact heading `### Review: what does [self-custody](https://programs.myfirstbitcoin.org/lexicon/en/#self-custody) responsibility mean?`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-052\nALT: Self-custody responsibility map connecting key control, verification, backups, errors, and support.\nASSET: assets/briefs/bd-v-052-brief.md\n-->\n```",
+    "educatorGuide": "",
+    "guideAnchor": "Student Guide: exact heading `### Review: what does [self-custody](https://programs.myfirstbitcoin.org/lexicon/en/#self-custody) responsibility mean?`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-052\nALT: Self-custody responsibility map connecting key control, verification, backups, errors, and support.\nASSET: assets/briefs/bd-v-052-brief.md\n-->\n```\nEducator Guide: ",
+    "format": "Landscape 16:9 reference canvas, 960 × 540; Responsibility map; full width."
+  },
+  "teachingPoint": "Synthesizes the module as responsibilities surrounding key control. The learner should be able to explain the specific distinction or sequence: Control of keys; Backup; Recovery; Receiving; Sending; Tool choice; Acquisition path; Privacy; Scam checks. Preserve the qualifications below when explaining it.",
+  "visualPattern": "Key takeaways",
+  "composition": {
+    "orientation": "landscape",
+    "targetAspectRatio": "16:9",
+    "readingOrder": [
+      "Control of keys",
+      "Backup",
+      "Recovery",
+      "Receiving",
+      "Sending",
+      "Tool choice",
+      "Acquisition path",
+      "Privacy",
+      "Scam checks"
+    ],
+    "elements": [
+      {
+        "id": "element-01",
+        "role": "Control of keys",
+        "required": true,
+        "relationship": "Central key-control region with eight distinct surrounding responsibilities; direct labels and consequence of failure remain live.",
+        "position": "Position 1 in the explicitly described radial arrangement",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-02",
+        "role": "Backup",
+        "required": true,
+        "relationship": "Central key-control region with eight distinct surrounding responsibilities; direct labels and consequence of failure remain live.",
+        "position": "Position 2 in the explicitly described radial arrangement",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-03",
+        "role": "Recovery",
+        "required": true,
+        "relationship": "Central key-control region with eight distinct surrounding responsibilities; direct labels and consequence of failure remain live.",
+        "position": "Position 3 in the explicitly described radial arrangement",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-04",
+        "role": "Receiving",
+        "required": true,
+        "relationship": "Central key-control region with eight distinct surrounding responsibilities; direct labels and consequence of failure remain live.",
+        "position": "Position 4 in the explicitly described radial arrangement",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-05",
+        "role": "Sending",
+        "required": true,
+        "relationship": "Central key-control region with eight distinct surrounding responsibilities; direct labels and consequence of failure remain live.",
+        "position": "Position 5 in the explicitly described radial arrangement",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-06",
+        "role": "Tool choice",
+        "required": true,
+        "relationship": "Central key-control region with eight distinct surrounding responsibilities; direct labels and consequence of failure remain live.",
+        "position": "Position 6 in the explicitly described radial arrangement",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-07",
+        "role": "Acquisition path",
+        "required": true,
+        "relationship": "Central key-control region with eight distinct surrounding responsibilities; direct labels and consequence of failure remain live.",
+        "position": "Position 7 in the explicitly described radial arrangement",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-08",
+        "role": "Privacy",
+        "required": true,
+        "relationship": "Central key-control region with eight distinct surrounding responsibilities; direct labels and consequence of failure remain live.",
+        "position": "Position 8 in the explicitly described radial arrangement",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-09",
+        "role": "Scam checks",
+        "required": true,
+        "relationship": "Central key-control region with eight distinct surrounding responsibilities; direct labels and consequence of failure remain live.",
+        "position": "Position 9 in the explicitly described radial arrangement",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      }
+    ]
+  },
+  "contentRequirements": [
+    {
+      "content": "Control of keys",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Backup",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Recovery",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Receiving",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Sending",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Tool choice",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Acquisition path",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Privacy",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Scam checks",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Put `control of keys` in the center, surrounded by backup, recovery, receiving, sending, tool choice, acquisition path, privacy, and scam checks. For each, show the protected item and the consequence of failure in very short text.",
+      "source": "Asset definition / Required construction, elements, relationships, reading order, and qualifications",
+      "editable": true
+    },
+    {
+      "content": "Control of keys; Backup; Recovery; Receiving; Sending; Tool choice; Acquisition path; Privacy; Scam checks. Central key-control region with eight distinct surrounding responsibilities; direct labels and consequence of failure remain live.",
+      "source": "Accessibility and production handoff / Alt text",
+      "editable": true
+    },
+    {
+      "content": "- Alt text: Control of keys; Backup; Recovery; Receiving; Sending; Tool choice; Acquisition path; Privacy; Scam checks. Central key-control region with eight distinct surrounding responsibilities; direct labels and consequence of failure remain live.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-052-ref.svg` and a matching `assets/reference/bd-v-052-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.",
+      "source": "Accessibility and production handoff",
+      "editable": true
+    }
+  ],
+  "style": {
+    "layoutReference": "Selected pattern: Key takeaways. Selected layout: teaching-page; full-width figure region.",
+    "palette": [
+      "#422C70",
+      "#2B1C58",
+      "#FFFFFF",
+      "#F6F6F8",
+      "#D8D8E7",
+      "#25252B",
+      "#F7941F"
+    ],
+    "typography": "Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlled emphasis. Learner-facing print copy at least 12pt. Short literal labels, left aligned and translation-ready; do not bake copy into reference artwork.",
+    "shapeAndLineRules": "Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames.",
+    "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: radial",
+    "emphasis": "One controlled orange instructional focal point; no orange full-field background or ranking",
+    "characters": [],
+    "propsAndIcons": [
+      "Control of keys"
+    ]
+  },
+  "prohibitions": [
+    "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",
+    "No real secrets, seed words, private keys, identities, balances, payable addresses, invoices or payment QR data. Fictional payment screens require editable SAMPLE — DO NOT PAY in later production.",
+    "Keep user, educator, wallet, service, node, miner and protocol roles distinct; Bitcoin is not stored inside a wallet, miners do not make the rules, and no single controller approves Bitcoin.",
+    "No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.",
+    "No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.",
+    "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation."
+  ],
+  "review": {
+    "briefCompliant": true,
+    "assetRegisterCompliant": true,
+    "styleCompliant": true,
+    "openDecisionsPreventCreation": false,
+    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Reference copy remains suppressed; production labels and qualifications remain editable."
+  },
+  "unresolved": []
+}

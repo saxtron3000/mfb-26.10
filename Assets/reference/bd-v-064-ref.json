@@ -1,0 +1,202 @@
+{
+  "assetId": "BD-V-064",
+  "schemaVersion": 1,
+  "status": "completed",
+  "assetType": "Table (Replacement)",
+  "recordDate": "2026-10-08",
+  "sourceFiles": {
+    "brief": "assets/briefs/bd-v-064-brief.md",
+    "briefRevision": "2026-10-08",
+    "styleReferences": []
+  },
+  "educationalPurpose": "Teach the relationship in the controlling direction: Identity data collected.",
+  "placement": {
+    "studentGuide": "exact heading `### [KYC](https://programs.myfirstbitcoin.org/lexicon/en/#know-your-customer-kyc) and [no-KYC](https://programs.myfirstbitcoin.org/lexicon/en/#no-kyc-preferred-also-called-non-kyc) [trade-offs](https://programs.myfirstbitcoin.org/lexicon/en/#trade-off) where locally appropriate`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-064\nALT: Comparison questions for KYC and no-KYC pathways, including identity, custody, fraud, limits, fees, and local law.\nASSET: assets/briefs/bd-v-064-brief.md\n-->\n```",
+    "educatorGuide": "",
+    "guideAnchor": "Student Guide: exact heading `### [KYC](https://programs.myfirstbitcoin.org/lexicon/en/#know-your-customer-kyc) and [no-KYC](https://programs.myfirstbitcoin.org/lexicon/en/#no-kyc-preferred-also-called-non-kyc) [trade-offs](https://programs.myfirstbitcoin.org/lexicon/en/#trade-off) where locally appropriate`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-064\nALT: Comparison questions for KYC and no-KYC pathways, including identity, custody, fraud, limits, fees, and local law.\nASSET: assets/briefs/bd-v-064-brief.md\n-->\n```\nEducator Guide: ",
+    "format": "Landscape 16:9 reference canvas, 960 × 540; Balanced trade-off comparison; full width."
+  },
+  "teachingPoint": "Teach the relationship in the controlling direction: Identity data collected. The learner should be able to explain the specific distinction or sequence: Identity data collected; Storage and retention; On-chain linkability; Fraud protection; Counterparty risk; Limits and fees; Local law; Dispute handling. Preserve the qualifications below when explaining it.",
+  "visualPattern": "Table with callout",
+  "composition": {
+    "orientation": "landscape",
+    "targetAspectRatio": "16:9",
+    "readingOrder": [
+      "Identity data collected",
+      "Storage and retention",
+      "On-chain linkability",
+      "Fraud protection",
+      "Counterparty risk",
+      "Limits and fees",
+      "Local law",
+      "Dispute handling"
+    ],
+    "elements": [
+      {
+        "id": "element-01",
+        "role": "Identity data collected",
+        "required": true,
+        "relationship": "Eight-row, three-column editable comparison with KYC/no-KYC answer columns. Small supporting person presents blank permit to computer; no identity details, implied approval or evasion.",
+        "position": "Reading-order region 1 in identity; precise spatial relation: Eight-row, three-column editable comparison with KYC/no-KYC answer columns. Small supporting person presents blank permit to computer; no identity details, implied approval or evasion.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames. Tables: white/paper ground, purple heading region, cool-gray hairlines, short cells, prose left aligned and comparable numbers right aligned; no decorative-icon overload."
+      },
+      {
+        "id": "element-02",
+        "role": "Storage and retention",
+        "required": true,
+        "relationship": "Eight-row, three-column editable comparison with KYC/no-KYC answer columns. Small supporting person presents blank permit to computer; no identity details, implied approval or evasion.",
+        "position": "Reading-order region 2 in identity; precise spatial relation: Eight-row, three-column editable comparison with KYC/no-KYC answer columns. Small supporting person presents blank permit to computer; no identity details, implied approval or evasion.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames. Tables: white/paper ground, purple heading region, cool-gray hairlines, short cells, prose left aligned and comparable numbers right aligned; no decorative-icon overload."
+      },
+      {
+        "id": "element-03",
+        "role": "On-chain linkability",
+        "required": true,
+        "relationship": "Eight-row, three-column editable comparison with KYC/no-KYC answer columns. Small supporting person presents blank permit to computer; no identity details, implied approval or evasion.",
+        "position": "Reading-order region 3 in identity; precise spatial relation: Eight-row, three-column editable comparison with KYC/no-KYC answer columns. Small supporting person presents blank permit to computer; no identity details, implied approval or evasion.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames. Tables: white/paper ground, purple heading region, cool-gray hairlines, short cells, prose left aligned and comparable numbers right aligned; no decorative-icon overload."
+      },
+      {
+        "id": "element-04",
+        "role": "Fraud protection",
+        "required": true,
+        "relationship": "Eight-row, three-column editable comparison with KYC/no-KYC answer columns. Small supporting person presents blank permit to computer; no identity details, implied approval or evasion.",
+        "position": "Reading-order region 4 in identity; precise spatial relation: Eight-row, three-column editable comparison with KYC/no-KYC answer columns. Small supporting person presents blank permit to computer; no identity details, implied approval or evasion.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames. Tables: white/paper ground, purple heading region, cool-gray hairlines, short cells, prose left aligned and comparable numbers right aligned; no decorative-icon overload."
+      },
+      {
+        "id": "element-05",
+        "role": "Counterparty risk",
+        "required": true,
+        "relationship": "Eight-row, three-column editable comparison with KYC/no-KYC answer columns. Small supporting person presents blank permit to computer; no identity details, implied approval or evasion.",
+        "position": "Reading-order region 5 in identity; precise spatial relation: Eight-row, three-column editable comparison with KYC/no-KYC answer columns. Small supporting person presents blank permit to computer; no identity details, implied approval or evasion.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames. Tables: white/paper ground, purple heading region, cool-gray hairlines, short cells, prose left aligned and comparable numbers right aligned; no decorative-icon overload."
+      },
+      {
+        "id": "element-06",
+        "role": "Limits and fees",
+        "required": true,
+        "relationship": "Eight-row, three-column editable comparison with KYC/no-KYC answer columns. Small supporting person presents blank permit to computer; no identity details, implied approval or evasion.",
+        "position": "Reading-order region 6 in identity; precise spatial relation: Eight-row, three-column editable comparison with KYC/no-KYC answer columns. Small supporting person presents blank permit to computer; no identity details, implied approval or evasion.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames. Tables: white/paper ground, purple heading region, cool-gray hairlines, short cells, prose left aligned and comparable numbers right aligned; no decorative-icon overload."
+      },
+      {
+        "id": "element-07",
+        "role": "Local law",
+        "required": true,
+        "relationship": "Eight-row, three-column editable comparison with KYC/no-KYC answer columns. Small supporting person presents blank permit to computer; no identity details, implied approval or evasion.",
+        "position": "Reading-order region 7 in identity; precise spatial relation: Eight-row, three-column editable comparison with KYC/no-KYC answer columns. Small supporting person presents blank permit to computer; no identity details, implied approval or evasion.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames. Tables: white/paper ground, purple heading region, cool-gray hairlines, short cells, prose left aligned and comparable numbers right aligned; no decorative-icon overload."
+      },
+      {
+        "id": "element-08",
+        "role": "Dispute handling",
+        "required": true,
+        "relationship": "Eight-row, three-column editable comparison with KYC/no-KYC answer columns. Small supporting person presents blank permit to computer; no identity details, implied approval or evasion.",
+        "position": "Reading-order region 8 in identity; precise spatial relation: Eight-row, three-column editable comparison with KYC/no-KYC answer columns. Small supporting person presents blank permit to computer; no identity details, implied approval or evasion.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames. Tables: white/paper ground, purple heading region, cool-gray hairlines, short cells, prose left aligned and comparable numbers right aligned; no decorative-icon overload."
+      }
+    ]
+  },
+  "contentRequirements": [
+    {
+      "content": "Identity data collected",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Storage and retention",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "On-chain linkability",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Fraud protection",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Counterparty risk",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Limits and fees",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Local law",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Dispute handling",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "In the table replacement, use an illustrative identity-check scene of a person presenting a driver’s permit to a computer system. Keep all legal, privacy, and local-law comparison fields editable; do not imply evasion, approval, or a universal process.",
+      "source": "Asset definition / Required construction, elements, relationships, reading order, and qualifications",
+      "editable": true
+    },
+    {
+      "content": "retained as editable content and accessible text equivalent (current Student Guide at the placement anchor):\n\n| Question | [KYC](https://programs.myfirstbitcoin.org/lexicon/en/#know-your-customer-kyc) path | [No-KYC](https://programs.myfirstbitcoin.org/lexicon/en/#no-kyc-preferred-also-called-non-kyc) path |\n| --- | --- | --- |\n| What identity data are collected? |  |  |\n| Who stores the data and for how long? |  |  |\n| Can the [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) be linked on-chain? |  |  |\n| What fraud protection exists? |  |  |\n| What counterparty risk exists? |  |  |\n| What limits and fees apply? |  |  |\n| What local law applies? |  |  |\n| What happens during a dispute? |  |  |",
+      "source": "Content and live text / exact source table at placement anchor",
+      "editable": true
+    },
+    {
+      "content": "Identity data collected; Storage and retention; On-chain linkability; Fraud protection; Counterparty risk; Limits and fees; Local law; Dispute handling. Eight-row, three-column editable comparison with KYC/no-KYC answer columns. Small supporting person presents blank permit to computer; no identity details, implied approval or evasion.",
+      "source": "Accessibility and production handoff / Alt text",
+      "editable": true
+    },
+    {
+      "content": "- Alt text: Identity data collected; Storage and retention; On-chain linkability; Fraud protection; Counterparty risk; Limits and fees; Local law; Dispute handling. Eight-row, three-column editable comparison with KYC/no-KYC answer columns. Small supporting person presents blank permit to computer; no identity details, implied approval or evasion.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-064-ref.svg` and a matching `assets/reference/bd-v-064-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Compare all table rows and column boundaries in grayscale; retain the text equivalent.",
+      "source": "Accessibility and production handoff",
+      "editable": true
+    }
+  ],
+  "style": {
+    "layoutReference": "Selected pattern: Table with callout. Selected layout: teaching-page; full-width figure region.",
+    "palette": [
+      "#422C70",
+      "#2B1C58",
+      "#FFFFFF",
+      "#F6F6F8",
+      "#D8D8E7",
+      "#25252B",
+      "#F7941F"
+    ],
+    "typography": "Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlled emphasis. Learner-facing print copy at least 12pt. Short literal labels, left aligned and translation-ready; do not bake copy into reference artwork.",
+    "shapeAndLineRules": "Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames. Tables: white/paper ground, purple heading region, cool-gray hairlines, short cells, prose left aligned and comparable numbers right aligned; no decorative-icon overload.",
+    "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: identity",
+    "emphasis": "One controlled orange instructional focal point; no orange full-field background or ranking",
+    "characters": [
+      "C02"
+    ],
+    "propsAndIcons": []
+  },
+  "prohibitions": [
+    "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",
+    "No real secrets, seed words, private keys, identities, balances, payable addresses, invoices or payment QR data. Fictional payment screens require editable SAMPLE — DO NOT PAY in later production.",
+    "Keep user, educator, wallet, service, node, miner and protocol roles distinct; Bitcoin is not stored inside a wallet, miners do not make the rules, and no single controller approves Bitcoin.",
+    "No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.",
+    "No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.",
+    "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation.",
+    "Do not imply evasion or guaranteed privacy."
+  ],
+  "review": {
+    "briefCompliant": true,
+    "assetRegisterCompliant": true,
+    "styleCompliant": true,
+    "openDecisionsPreventCreation": false,
+    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Reference copy remains suppressed; production labels and qualifications remain editable."
+  },
+  "unresolved": [
+    "The index’s Dictated production directions control conflicting purpose, construction, format and type. The complete original row above is archival source evidence, not permission to reintroduce superseded scenes. The controlling direction is preserved below."
+  ]
+}

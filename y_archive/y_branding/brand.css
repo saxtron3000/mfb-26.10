@@ -1,0 +1,39 @@
+/* Generated from tokens.json - DO NOT EDIT BY HAND. Plain CSS variables. */
+:root {
+  --mfb-purple-300: #422C70;
+  --mfb-purple-400: #2B1C58;
+  --mfb-purple-200: #5E378E;
+  --mfb-orange-300: #F7941F;
+  --mfb-orange-400: #EF7B00;
+  --mfb-orange-200: #FBB040;
+  --mfb-black: #000000;
+  --mfb-white: #FFFFFF;
+  --mfb-gray-900: #25252B;
+  --mfb-gray-800: #4F4F5D;
+  --mfb-gray-700: #6C6C7D;
+  --mfb-gray-600: #88889C;
+  --mfb-gray-500: #ADADBE;
+  --mfb-gray-400: #C0C0D0;
+  --mfb-gray-300: #D8D8E7;
+  --mfb-gray-200: #EAEAF4;
+  --mfb-gray-100: #F3F3FA;
+  --mfb-gradient-brand: linear-gradient(135deg, #2B1C58 0%, #5E378E 100%);
+  --mfb-font-heading: "IBM Plex Sans", Arial, sans-serif;
+  --mfb-font-body: "IBM Plex Sans", Arial, sans-serif;
+  --mfb-font-mono: "IBM Plex Mono", monospace;
+  --mfb-font-sans: "IBM Plex Sans", Arial, sans-serif;
+  --mfb-size-h1: 70px;
+  --mfb-size-h2: 58px;
+  --mfb-size-h3: 48px;
+  --mfb-size-h4: 40px;
+  --mfb-size-h5: 36px;
+  --mfb-size-h6: 32px;
+  --mfb-size-body: 18px;
+  --mfb-size-label: 22px;
+  --mfb-size-quote: 40px;
+  --sg-angle-base: 13deg;
+  --sg-angle-alt: 24deg;
+  --sg-aspect: 1.5;
+  --sg-logo-icon-h: 40px;
+  --sg-base-h-ratio: 2;
+}

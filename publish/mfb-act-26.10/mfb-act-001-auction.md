@@ -2,176 +2,121 @@
 
 ## Keywords
 
-**Money** **Economy** **Game**
+**Money supply** **Price levels** **Auctions** **Classroom models**
 
-## Activity Type
+## Activity type
+
+Auction
 
 ## Participation
+
+Whole class, with individual or small-group bids.
 
 ## Duration
 
 **30 minutes**
 
+## Objective
+
+- Learners use a classroom model to distinguish a change in its play-money supply from a change in one auction's winning bid.
+- Learners identify assumptions and limits before applying the model to a real economy.
+
 ## Description
 
-This is a class exercise where participants learn firsthand how the increase in money supply impacts pricing. The intent is for participants to understand monetary inflation (not price inflation).
+Learners take part in a three-round auction using play money, rewards, and a shared tracking table. Between rounds, the educator changes the number of tokens in the classroom model. Learners record the total tokens and winning bid, then consider what their result does and does not show.
 
-## Objectives
+> **This is a simplified classroom model**
+>
+> The activity can illustrate one possible relationship between the number of tokens, bidding conditions, and a winning bid for one item. It cannot establish a general cause of price changes in a real economy. Real prices can also change with supply, demand, quality, costs, taxes, transport, wages, regulation, expectations, and local conditions.
 
-## Preparation
+#### Preparation
 
-### Materials
+**Materials**
 
-• 1x set of Monopoly money
-• 3+ candy bars (or other rewards)
-• White board or projector / screen
-• Calculators for students
+- One set of play money
+- Three or more small rewards, or three pictures of rewards if no prizes are available
+- Whiteboard, paper chart, or projected spreadsheet
+- Calculators, if useful
 
-### Preparation Notes
+#### Setup
 
-Read through the steps in this guide a few times. The activity itself is straightforward, but the more familiar you are with the material (e.g., the diﬀerence between monetary inflation and price inflation), the more contextualized the information you can deliver in class will be. See the resources section for self-learning suggestions.
+Draw or project this table before the activity:
 
-## Procedure
+| Round | Total play money in the model | Winning bid | What may have affected this bid? |
+| ---: | ---: | ---: | --- |
+| 1 |  |  |  |
+| 2 |  |  |  |
+| 3 |  |  |  |
 
-### Setup
+Sort the play money into three piles. Use the first pile in Round 1, add the second pile after Round 1, and add the third pile after Round 2. Keep the reward as similar as practical across rounds. Explain that the tokens represent only the money variable chosen for this model; they are not a complete measure of a real economy's money supply.
 
-To keep students engaged with minimal downtime, draw the example table below on a whiteboard before the activity. You can also build this on a spreadsheet and project on a screen.
+Explain an auction: people make bids and the highest valid bid receives the item. Before beginning, ask learners to predict what could affect a bid besides the number of tokens available.
 
-| Round | Money Supply | Winning Bid |
-| ---: | ---: | ---: |
-| 1 |  |  |
-| 2 |  |  |
-| 3 |  |  |
+#### Procedure
 
-Separate the Monopoly bills by denomination. Then create three piles.
+##### Step 1: First round
 
-The first pile is for Round 1. This amount must be large enough that all students have some money when you distribute it. However, keep the total small enough to make counting as easy as possible. In each round, the class must add up the total amount in the “class economy.”
+Distribute the first pile of play money. Amounts may be equal or unequal, but record the choice because distribution can affect the result.
 
-The second pile will be distributed to students after the completion of the first round.
+Show the first reward and run an auction. Learners may bid individually; permit pooling only if you will permit it in every round. Once bidding stops, exchange the winning bid for the reward.
 
-The third pile will be added after the completion of the second round.
+Count and record the total play money in the model, the winning bid, and observations that may have affected the bid. Do not treat a particular bid as the expected or correct result.
 
-### Overview
+##### Step 2: Change one condition
 
-In this activity we are using Monopoly money to represent the total supply of money in the economy. Explain to the students that in the real economy there are many forms of money:
+Distribute the second pile using a method you state in advance. Keep other conditions as similar as practical, then repeat the auction and update the table.
 
-• Physical currency, such as coins and paper bills
-• Checking accounts
-• Savings accounts
-• Money market accounts
-• Certificates of deposit
+Optional distribution variation: give the additional tokens to one group first. Present this as a deliberately chosen scenario, not as a description of every real monetary system. Ask learners how the order and distribution of tokens could affect the result, and what real-world evidence would be needed before making a broader claim.
 
-Give an overview of auctions and how they work. The most common type is where products go to the highest bidder. Give examples your students may have seen in shows or movies, (e.g., art or antique auctions, cattle, property, etc.)
+##### Step 3: Repeat and compare
 
-Finally, there are cool products to bid on, i.e., candy bars. Students who win the auctions using Monopoly money get real things!
+Distribute the final pile, repeat the auction, and complete the table. If the bid rises, falls, or stays similar, ask learners to explain more than one possible reason. For example, learners may have changed strategy, valued the reward differently, pooled tokens, or learned from earlier rounds.
 
-### Step 1: Round 1
+#### Key points
 
-Pick up the first pile of Monopoly money and distribute varying amounts to students. If you have a large class, consider letting student volunteers help distribute. The goal is for all students to have some money but not the same amount.
+1. The total number of tokens in this model and a winning bid for one reward are different measures.
+1. A change in one item's price is not, by itself, evidence of a change in the general price level.
+1. An official consumer price index is a documented estimate based on a defined basket and method. It is not the same as every household's experience. Learners should inspect the published method before alleging error or manipulation.
+1. The classroom result is evidence about this activity under its stated rules. Applying it to a real economy requires further evidence and attention to other explanations.
 
-Show the product they will be bidding on.
+#### Discussion questions
 
-Start the bidding. Ask if anyone will bid 1Monopoly Dollar. Everyone’s hand should go up. Then increase to 2 Monopoly Dollars, etc.
+1. What changed between rounds, and what did not?
+1. How did the total play money and winning bid change? What other factors may explain the result?
+1. What evidence would be needed to assess whether a general price level changed outside this classroom?
+1. Why might an official price index and one household's experience differ?
+1. If tokens reached different groups in a different order, what outcomes could change? Which parts are observations from this model, and which would be claims about a real economy?
 
-**Students will realize that, since they have no other need for Monopoly money, that it’s best to just go all-in. This can drain the fun out of the activity quickly. Here are a couple of tips to keep the activity engaging for all students:**
+#### Notes
 
-1. Let students know they can partner up. Two or more students can agree to pool their money and split the reward.
-2. Remind students there are multiple rounds. If you use your Monopoly money up in the first round, you will be at a disadvantage in the following rounds.
+Allow time between rounds for counting and discussion. The value of the activity is the comparison of evidence, assumptions, and limits, not producing a predetermined pattern of bids.
 
-Once the bidding has stopped, take the Monopoly money from the winning bidder and give him/her the candy bar.
+**Compact adaptation for mature or time-constrained groups**
 
-Then update the table with the total money supply and the winning bid.
+Run two rounds with the same reward. State the distribution rule, record the result, then add tokens and repeat. Use the same review questions. This version takes about 10 minutes and should still include the model-limits discussion.
 
-| Round | Money Supply | Winning Bid |
-| ---: | ---: | ---: |
-| 1 | 4,580 | 650 |
-| 2 |  |  |
-| 3 |  |  |
+**Educator background and source notes**
 
-**The “Money Supply” is the total amount of money in play in this round. This includes all students and the winning bid paid to you. Note the amounts show here are examples.**
+- [International Monetary Fund, *Consumer Price Index Manual: Concepts and Methods*](https://www.imf.org/en/data/statistics/cpi-manual) explains how a consumer price index is defined and compiled.
+- [International Monetary Fund, “What Is Inflation?”](https://www.elibrary.imf.org/view/journals/022/0047/001/article-A017-en.xml) gives examples of supply, demand, and policy conditions that can affect general price levels.
+- Use the current official statistical agency publication for the location where the activity is taught. Check and date its basket and methodology before discussing local data.
 
-Remind students this is the “classroom economy”. Lead a discussion about how this represents a real academy.
+These sources support the factual background on price indices. They do not establish a universal causal claim about play-money supply, money supply, or prices.
 
-### Step 2: Round 2
+#### Resources and references
 
-Pick up the second pile of Monopoly money and distribute to all students like you did in Round 1.
+**Video**
 
-**Ensure the amounts distributed vary between students and between rounds. In other words, do not give the largest quantities to the same students who received the largest quantities in Round 1.**
+[“What’s the Problem?”](https://www.whatstheproblem.org) is a video produced by Joe Bryan. It covers more than [fractional reserve banking](https://programs.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking), which is one of several mechanisms through which money and credit can be created in modern monetary systems.
 
-**Exception: If you want to intentionally discuss the Cantillon Eﬀect, you can adjust this activity by distributing more money to those closest to you. You are the central bank and the students closest to you are the largest commercial banks or other “too big to fail” companies.**
+Use it as a perspective for discussion, not as the activity's evidence. Ask learners to identify its claims, evidence, assumptions, and possible counterarguments.
 
-Then update the tracking table and continue the class discussion. Ensure they see the the impact on the winning bid when the total money supply increased.
+**Book**
 
-| Round | Money Supply | Winning Bid |
-| ---: | ---: | ---: |
-| 1 | 4,580 | 650 |
-| 2 | 6,750 | 820 |
-| 3 |  |  |
+[“What Has Government Done to Our Money?”](https://cdn.mises.org/What%20Has%20Government%20Done%20to%20Our%20Money_3.pdf) by Murray Rothbard presents an accessible Austrian-school perspective on money and government monetary policy.
 
-**Note the amounts shown here are examples. The amounts will change based on how much Monopoly money are used in class.**
+Use it as a viewpoint rather than a neutral account. Learners should compare its arguments with reliable sources and other explanations.
 
-### Step 3: Round 3
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
 
-Pick up the third and last pile of Monopoly money and distribute to all.
-
-Repeat the auction process for the next candy bar.
-
-Then update the tracking table and continue the class discussion. Ensure they see the the impact on the winning bid when the total money supply increased.
-
-| Round | Money Supply | Winning Bid |
-| ---: | ---: | ---: |
-| 1 | 4,580 | 650 |
-| 2 | 6,750 | 820 |
-| 3 | 8,450 | 1,100 |
-
-**Note the amounts shown here are examples. The amounts will change based on how much Monopoly money are used in class.**
-
-Point out that the increase in the middle “Money Supply” column is called monetary inflation. The increase in the right “Winning Bid” column is called price inflation. **Monetary inflation leads to price inflation.**
-
-## Review
-
-### Key Points
-
-1. Prices in a free market are set by individuals’ subjective values, e.g., students bidding for items.
-2. Inflation = increase in money supply. This is the concept behind the phrase “more money chasing the same goods.”
-3. Beware of misuse of the word “inflation.” Monetary inflation ≠ price inflation. News media and central planners prefer to use price inflation measures like consumer price inflation (CPI) because it can be manipulated.
-4. When fiat money is created, it is not distributed evenly. It flows first to those closest to the money printer, like big industry players. They can unfairly purchase assets before prices rise for everyone else.
-
-### Discussion questions
-
-How did the increase in the money supply aﬀect winning bids for candy bars?
-
-What is the relationship between increasing money supply and price inflation?
-
-How is the money supply relevant in the real world?
-
-When new money is injected into the economy, what do you think will happen to the prices of good and services?
-
-• Do you think the changes in prices are temporary or permanent and why?
-• How do you think price changes aﬀect citizens long-term?
-
-## Notes
-
-This activity has time between rounds. For example, it will take a few minutes to distribute the Monopoly bills.
-
-This downtime is ideal for adding context verbally, like explaining how play money represents coins, paper currency, checking accounts, savings accounts and other forms of real money.
-
-It only takes a few minutes to fill in the tracking table explained in detailed steps below. **The value of the activity comes from class discussions.** This drives the time needed. Plan for the discussion times between rounds to take 50% or more of the total activity time.
-
-## Additional Resources
-
-### VIDEO
-
-“What’s the Problem?” is a video produced by Joe Bryan. It covers more than just fractional reserve banking, which is one of many ways to create fiat money.
-
-This video explains the consequences.
-
-https://www.whatstheproblem.org
-
-### BOOK
-
-“What Has Government Done to Our Money?” by Murray Rothbard is a short but powerful book explaining how money really works. Rothbard has an easy-to-read style and uses common-sense frameworks making economic ideas simple to understand.
-
-The Mises Institute sends free copies.
-
-https://mises.org
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).

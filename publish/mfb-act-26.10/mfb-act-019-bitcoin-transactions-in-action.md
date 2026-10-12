@@ -1,37 +1,80 @@
-# Bitcoin Transactions in Action
+# Bitcoin transactions in action
+
 ## Keywords
-Bitcoin transaction, sender, receiver, node, miner, blockchain
-## Activity Type
-Role-play class activity
+
+**Nodes** **Miners** **Transactions** **Validation**
+
+## Activity type
+
+Role-play simulation
+
 ## Participation
-Students act as senders, receivers, nodes, or miners.
+
+Participants act as senders, recipients, nodes, or a miner in a classroom model.
+
 ## Duration
 
+20–30 minutes
+
+## Objective
+
+- Participants compare the roles of a sender, recipient, node, and miner in a simplified Bitcoin transaction model.
+
 ## Description
-Students simulate creating, verifying, validating, and adding peer-to-peer Bitcoin transactions to a blockchain.
-## Objectives
-Understand the underlying concepts and mechanics of a peer-to-peer Bitcoin transaction.
-## Materials
-Transaction notes; coins; approval tables; dice.
-## Preparation
-Assign students the roles of sender, receiver, node, or miner.
-## Procedure
-### Setup
-Explain each role: senders create and broadcast; receivers receive and verify; nodes validate; miners add transactions to the blockchain.
-### Step 1
-Senders write the amount and receiver on a transaction note, sign it, and pass the note and coins to the receiver.
-### Step 2
-Receivers check the note and coin count, then approve or reject. Nodes validate addresses, sufficient funds, and absence of double spending.
-### Step 3
-Miners review approved transactions, roll dice, and the miner with the smaller number adds the transaction to the blockchain. Students keep track of their coin balances.
-## Review
-### Key Points
-Once added to the blockchain, a transaction cannot be changed or reversed.
-### Discussion questions
-What concepts did the class learn through the activity?
-## Notes
 
-**Diploma assessment link:** May provide the individual-response context for [`T2` / `C3`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#assessed-competencies-criteria-and-educator-notes). Use the approved protocol and record an individual explanation of validation and double-spending; otherwise, this activity is formative.
+Participants use transaction notes, tokens, and a classroom ledger. The sender creates and authorizes a simulated transaction. Nodes check the model's stated rules. A miner places a valid transaction into a candidate classroom block. Dice represent repeated attempts to find proof of work, not node validation or a method for choosing valid transactions.
 
-## Additional Resources
+> **Dark - This is a simplified model**
+>
+> Bitcoin uses digital signatures, transaction rules, peer-to-peer communication, proof of work, and independent node validation. The classroom model shows only selected roles and checks.
 
+#### Preparation
+
+**Materials**
+
+- Transaction notes.
+- Tokens or coins.
+- A classroom ledger table.
+- One die.
+
+#### Setup
+
+Assign roles. Explain that a recipient can provide a destination and check for a payment, but does not approve a transaction for the network. Nodes validate transactions and blocks against the stated rules. A miner can build a candidate block from valid transactions and tries proof of work. The educator decides which valid model transactions are available to the miner.
+
+#### Procedure
+
+##### Step 1: Create and check a transaction
+
+The sender writes a simulated amount and recipient on a transaction note, then authorizes it. The recipient checks the intended amount and destination. Nodes check the model's signature, balance, and double-spend rules.
+
+##### Step 2: Build a candidate block
+
+When nodes accept the transaction in the model, the miner adds it to a candidate classroom block. The miner rolls the die until the educator's stated result is reached. Explain that the die represents repeated proof-of-work attempts, not a vote or transaction-validation step.
+
+##### Step 3: Validate the classroom block
+
+The nodes check that the candidate classroom block follows the model's rules, including the valid transaction and the stated die result. Update the classroom ledger only after this check.
+
+#### Key points
+
+1. A sender authorizes a transaction. A recipient checks whether a payment arrived, but does not decide network validity.
+1. Nodes independently validate transactions and blocks against Bitcoin's rules.
+1. Miners can choose transactions for candidate blocks and attempt proof of work. Nodes decide whether to accept the resulting block.
+1. A confirmed transaction appears in a block that a node accepts. It is difficult to reverse through the protocol, but confirmation is not an absolute guarantee for every situation.
+
+#### Discussion questions
+
+1. Which role authorizes the transaction?
+1. Which role checks the stated transaction rules?
+1. What does the die represent, and what does it not represent?
+1. Which parts of the classroom model differ from Bitcoin's actual network?
+
+#### Notes
+
+**Bitcoin Diploma assessment link:** May provide the individual-response context for [`T2` / `C2`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show). Use the approved protocol and record an individual explanation of validation and double spending; otherwise, this activity is formative.
+
+#### Resources and references
+
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
+
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).

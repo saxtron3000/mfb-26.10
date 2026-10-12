@@ -1,0 +1,41 @@
+# Watch: Why Every Bitcoiner Should Run Their Own Node
+## Keywords
+**Self-Verification** **Decentralization** **Privacy**
+
+## Activity Type
+Video discussion
+
+## Participation
+
+## Duration
+5 minutes
+
+## Objective
+
+- Participants distinguish the roles of a Bitcoin node, a miner, and a wallet.
+
+## Description
+Participants watch the first five minutes of a video explaining what Bitcoin nodes are and why running one may matter. The educator stops before the setup instructions and emphasizes that nodes are neither [miners](../../publish/mfb-lx-26.10-sg-index.md#term-miner) nor [wallets](../../publish/mfb-lx-26.10-sg-index.md#term-bitcoin-wallet): they independently run the [Bitcoin protocol](../../publish/mfb-lx-26.10-sg-index.md#term-bitcoin-protocol) and maintain an updated [blockchain](../../publish/mfb-lx-26.10-sg-index.md#term-blockchain) copy.
+## Preparation
+
+### Materials
+- Internet access and video playback.
+
+## Setup
+# Procedure
+## Step 1
+Open the video.
+### Step 2
+Watch only the first five minutes, then stop when the speaker begins explaining setup.
+### Step 3
+Emphasize that nodes are not miners or wallets: they run the Bitcoin protocol and maintain an updated copy of the blockchain.
+## Review
+
+### Key points
+Nodes help ensure the network is decentralized and secure.
+## Discussion questions
+
+# Notes
+
+# Additional Resources
+[“Why Every Bitcoiner Should Run Their Own Node”](https://youtu.be/MJxEli0jqy0) is the video used in this activity. Its first five minutes introduce the role of a node; stop before its setup instructions.

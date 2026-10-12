@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" fill="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="6">
+<rect x="0" y="0" width="960" height="540" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<line x1="100" y1="70" x2="100" y2="240" stroke="#422C70" stroke-width="2" fill="none"/>
+<line x1="100" y1="240" x2="768" y2="240" stroke="#422C70" stroke-width="2" fill="none"/>
+<line x1="100" y1="85" x2="768" y2="85" stroke="#D8D8E7" stroke-width="2" fill="none" stroke-dasharray="6 5"/>
+<path d="M 100 240 C 220 145 366 102 500 92 C 610 87 700 86 768 86" fill="none" stroke="#422C70" stroke-width="4"/>
+<line x1="100" y1="298" x2="100" y2="470" stroke="#422C70" stroke-width="2" fill="none"/>
+<line x1="100" y1="470" x2="768" y2="470" stroke="#422C70" stroke-width="2" fill="none"/>
+<path d="M 100 305 L 230 305 L 230 386 L 360 386 L 360 427 L 490 427 L 490 447 L 620 447 L 620 457 L 768 457" fill="none" stroke="#5E378E" stroke-width="4"/>
+<line x1="230" y1="275" x2="230" y2="478" stroke="#D8D8E7" stroke-width="1.5" fill="none" stroke-dasharray="6 5"/>
+<line x1="360" y1="275" x2="360" y2="478" stroke="#D8D8E7" stroke-width="1.5" fill="none" stroke-dasharray="6 5"/>
+<line x1="490" y1="275" x2="490" y2="478" stroke="#D8D8E7" stroke-width="1.5" fill="none" stroke-dasharray="6 5"/>
+<line x1="620" y1="275" x2="620" y2="478" stroke="#D8D8E7" stroke-width="1.5" fill="none" stroke-dasharray="6 5"/>
+<rect x="818" y="346" width="62" height="100" fill="#F6F6F8" stroke="#422C70" stroke-width="2"/>
+<line x1="795" y1="299" x2="795" y2="476" stroke="#D8D8E7" stroke-width="2" fill="none"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" fill="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="6">
+<rect x="0" y="0" width="960" height="540" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="124" y="127" width="160" height="82" fill="#F6F6F8" stroke="#422C70" stroke-width="2"/>
+<rect x="365" y="127" width="160" height="82" fill="#F6F6F8" stroke="#422C70" stroke-width="2"/>
+<rect x="606" y="127" width="160" height="82" fill="#F6F6F8" stroke="#422C70" stroke-width="2"/>
+<line x1="297" y1="168" x2="352" y2="168" stroke="#422C70" stroke-width="3" fill="none"/>
+<line x1="352" y1="168" x2="344.9289321881345" y2="175.07106781186548" stroke="#422C70" stroke-width="3" fill="none"/>
+<line x1="352" y1="168" x2="344.9289321881345" y2="160.92893218813452" stroke="#422C70" stroke-width="3" fill="none"/>
+<line x1="538" y1="168" x2="593" y2="168" stroke="#422C70" stroke-width="3" fill="none"/>
+<line x1="593" y1="168" x2="585.9289321881345" y2="175.07106781186548" stroke="#422C70" stroke-width="3" fill="none"/>
+<line x1="593" y1="168" x2="585.9289321881345" y2="160.92893218813452" stroke="#422C70" stroke-width="3" fill="none"/>
+<line x1="788" y1="175" x2="839" y2="175" stroke="#D8D8E7" stroke-width="3" fill="none"/>
+<line x1="839" y1="175" x2="839" y2="271" stroke="#D8D8E7" stroke-width="3" fill="none"/>
+<line x1="839" y1="271" x2="123" y2="271" stroke="#D8D8E7" stroke-width="3" fill="none"/>
+<line x1="123" y1="271" x2="123" y2="223" stroke="#D8D8E7" stroke-width="3" fill="none"/>
+<line x1="123" y1="223" x2="130.07106781186548" y2="230.07106781186548" stroke="#D8D8E7" stroke-width="3" fill="none"/>
+<line x1="123" y1="223" x2="115.92893218813452" y2="230.07106781186548" stroke="#D8D8E7" stroke-width="3" fill="none"/>
+<line x1="78" y1="330" x2="886" y2="330" stroke="#422C70" stroke-width="3" fill="none"/>
+<rect x="361" y="370" width="224" height="76" fill="#F6F6F8" stroke="#422C70" stroke-width="2"/>
+</svg>

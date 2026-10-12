@@ -1,0 +1,145 @@
+{
+  "assetId": "BD-V-079",
+  "schemaVersion": 1,
+  "status": "blocked",
+  "assetType": "Illustration",
+  "recordDate": "2026-10-08",
+  "sourceFiles": {
+    "brief": "assets/briefs/bd-v-079-brief.md",
+    "briefRevision": "2026-10-08",
+    "styleReferences": []
+  },
+  "educationalPurpose": "Makes writing a private, offline backup concrete and reinforces preserving word order and spelling. Complements the recovery relationship in `BD-V-038`.",
+  "placement": {
+    "studentGuide": "exact heading `### [Seed phrases](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase)`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-079\nALT: Person privately copying twelve numbered placeholder backup words onto paper, labelled as an invalid example and not to be shared.\nASSET: assets/briefs/bd-v-079-brief.md\n-->\n```",
+    "educatorGuide": "",
+    "guideAnchor": "Student Guide: exact heading `### [Seed phrases](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase)`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-079\nALT: Person privately copying twelve numbered placeholder backup words onto paper, labelled as an invalid example and not to be shared.\nASSET: assets/briefs/bd-v-079-brief.md\n-->\n```\nEducator Guide: ",
+    "format": "Landscape 16:9 reference canvas, 960 × 540; Screen-to-paper illustration with numbered placeholders, editable labels, and a prominent safety warning; half to full width."
+  },
+  "teachingPoint": "Makes writing a private, offline backup concrete and reinforces preserving word order and spelling. Complements the recovery relationship in `BD-V-038`. The learner should be able to explain the specific distinction or sequence: Private learner; Generic backup screen with twelve positions; Paper with matching twelve positions; Hand completes final entry. Preserve the qualifications below when explaining it.",
+  "visualPattern": "Process flow",
+  "composition": {
+    "orientation": "landscape",
+    "targetAspectRatio": "16:9",
+    "readingOrder": [
+      "Private learner",
+      "Generic backup screen with twelve positions",
+      "Paper with matching twelve positions",
+      "Hand completes final entry"
+    ],
+    "elements": [
+      {
+        "id": "element-01",
+        "role": "Private learner",
+        "required": true,
+        "relationship": "Screen left and paper right, same row-major order. No actual seed words; WORD 01 through WORD 12 are live production placeholders only. Preserve order, spelling and private setup.",
+        "position": "Reading-order region 1 in copy-backup; precise spatial relation: Screen left and paper right, same row-major order. No actual seed words; WORD 01 through WORD 12 are live production placeholders only. Preserve order, spelling and private setup.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-02",
+        "role": "Generic backup screen with twelve positions",
+        "required": true,
+        "relationship": "Screen left and paper right, same row-major order. No actual seed words; WORD 01 through WORD 12 are live production placeholders only. Preserve order, spelling and private setup.",
+        "position": "Reading-order region 2 in copy-backup; precise spatial relation: Screen left and paper right, same row-major order. No actual seed words; WORD 01 through WORD 12 are live production placeholders only. Preserve order, spelling and private setup.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-03",
+        "role": "Paper with matching twelve positions",
+        "required": true,
+        "relationship": "Screen left and paper right, same row-major order. No actual seed words; WORD 01 through WORD 12 are live production placeholders only. Preserve order, spelling and private setup.",
+        "position": "Reading-order region 3 in copy-backup; precise spatial relation: Screen left and paper right, same row-major order. No actual seed words; WORD 01 through WORD 12 are live production placeholders only. Preserve order, spelling and private setup.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-04",
+        "role": "Hand completes final entry",
+        "required": true,
+        "relationship": "Screen left and paper right, same row-major order. No actual seed words; WORD 01 through WORD 12 are live production placeholders only. Preserve order, spelling and private setup.",
+        "position": "Reading-order region 4 in copy-backup; precise spatial relation: Screen left and paper right, same row-major order. No actual seed words; WORD 01 through WORD 12 are live production placeholders only. Preserve order, spelling and private setup.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      }
+    ]
+  },
+  "contentRequirements": [
+    {
+      "content": "Private learner",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Generic backup screen with twelve positions",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Paper with matching twelve positions",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Hand completes final entry",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Show one person privately copying a 12-word seed phrase from a generic wallet backup screen onto paper with a pen. Show twelve clearly numbered positions on both screen and paper, in the same reading order, using matching placeholders `WORD 01` through `WORD 12` rather than an actual recovery phrase. Depict the hand completing the final entry; use a simple directional cue from screen to paper and a callout `Check every…",
+      "source": "Asset definition / Required construction, elements, relationships, reading order, and qualifications",
+      "editable": true
+    },
+    {
+      "content": "Private learner; Generic backup screen with twelve positions; Paper with matching twelve positions; Hand completes final entry. Screen left and paper right, same row-major order. No actual seed words; WORD 01 through WORD 12 are live production placeholders only. Preserve order, spelling and private setup.",
+      "source": "Accessibility and production handoff / Alt text",
+      "editable": true
+    },
+    {
+      "content": "- Alt text: Private learner; Generic backup screen with twelve positions; Paper with matching twelve positions; Hand completes final entry. Screen left and paper right, same row-major order. No actual seed words; WORD 01 through WORD 12 are live production placeholders only. Preserve order, spelling and private setup.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-079-ref.svg` and a matching `assets/reference/bd-v-079-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.",
+      "source": "Accessibility and production handoff",
+      "editable": true
+    }
+  ],
+  "style": {
+    "layoutReference": "Selected pattern: Process flow. Selected layout: teaching-page; full-width figure region.",
+    "palette": [
+      "#422C70",
+      "#2B1C58",
+      "#FFFFFF",
+      "#F6F6F8",
+      "#D8D8E7",
+      "#25252B",
+      "#F7941F"
+    ],
+    "typography": "Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlled emphasis. Learner-facing print copy at least 12pt. Short literal labels, left aligned and translation-ready; do not bake copy into reference artwork.",
+    "shapeAndLineRules": "Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames.",
+    "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: copy-backup",
+    "emphasis": "One controlled orange instructional focal point; no orange full-field background or ranking",
+    "characters": [
+      "C05"
+    ],
+    "propsAndIcons": [
+      "Generic backup screen with twelve positions",
+      "Paper with matching twelve positions"
+    ]
+  },
+  "prohibitions": [
+    "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",
+    "No real secrets, seed words, private keys, identities, balances, payable addresses, invoices or payment QR data. Fictional payment screens require editable SAMPLE — DO NOT PAY in later production.",
+    "Keep user, educator, wallet, service, node, miner and protocol roles distinct; Bitcoin is not stored inside a wallet, miners do not make the rules, and no single controller approves Bitcoin.",
+    "No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.",
+    "No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.",
+    "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation.",
+    "Production restriction: Asset-index description ends at “Check every…” and assets/asset-description.md supplies no completion. The exact safety callout must be restored before production."
+  ],
+  "review": {
+    "briefCompliant": true,
+    "assetRegisterCompliant": false,
+    "styleCompliant": true,
+    "openDecisionsPreventCreation": true,
+    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Creation blocked: Asset-index description ends at “Check every…” and assets/asset-description.md supplies no completion. The exact safety callout must be restored before production."
+  },
+  "unresolved": [
+    "The original index row contains a literal ellipsis; it is preserved verbatim. No missing wording is reconstructed. The missing source ending is identified in the decision record below.",
+    "Asset-index description ends at “Check every…” and assets/asset-description.md supplies no completion. The exact safety callout must be restored before production."
+  ]
+}

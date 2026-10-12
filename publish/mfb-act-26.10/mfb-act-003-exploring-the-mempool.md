@@ -1,194 +1,92 @@
-# Activity Title: Exploring the Mempool
+# Exploring the mempool
 
 ## Keywords
 
-**Bitcoin** **Tools**
+**Mempool** **Block Explorer** **Blocks** **Transactions** **Fees**
 
-## Activity Type
+## Activity type
+
+Guided exploration
 
 ## Participation
 
+Whole class, pairs, or small groups.
+
 ## Duration
 
-**30 minutes**
+30 minutes
+
+## Objective
+
+- Participants distinguish a node's mempool from a block explorer and interpret basic, deliberately public block or transaction information.
 
 ## Description
 
-This activity exposes students to a free and open-source tool that does not require technical skills to use. It is useful for Bitcoiners at all levels, from beginner to experienced.
+Participants examine an educator-prepared public block, transaction, or screenshot. They identify confirmation status, inputs, outputs, fee information, and block information without using personal financial data. A live explorer can support the activity, but the printed route is equivalent and should be the default when connectivity, devices, or privacy are a concern.
 
-## Objectives
+> **Callout – Use prepared public examples only**
+>
+> Do not search a learner's or another person's address, transaction, balance, or payment history on a public explorer. Public searches can expose financial information and reveal interest in that data to the explorer operator.
 
-## Preparation
+#### Preparation
 
-### Materials
+**Materials**
 
-• You will need a screen and access to the internet so you can project mempool.space for the entire class to watch and use together.
+- A printed screenshot or worksheet for one deliberately public block or transaction.
+- A board or paper for recording observations.
+- Optional: a shared, educator-operated block explorer that has been checked immediately before class.
 
-• Alternatively, you can direct students to access mempool.space on their personal phones or computers.
+#### Setup
 
-### Preparation Notes
+Choose one public example with no connection to learners. Label the example's source, date, and network. If a live explorer is used, prepare the same screenshot or worksheet as the no-internet route.
 
-Familiarize yourself with mempool.space. Ensure you can answer all the activity questions. For bonus discussions, explore the other sections of mempool.space (e.g., “mempool goggles,” diﬃculty adjustment, hashrate, Lightning, etc.)
+Explain that each node has its own mempool, which is the set of unconfirmed transactions that node has received and accepted under its current policy. A block explorer is a separate service that makes some network data easier to view. Neither an explorer nor its display is the Bitcoin network itself.
 
-Another idea for bonus discussions is to find special blocks.
+#### Procedure
 
-Several examples are listed in this guide. It is important to test these before class because you may need to adjust settings within mempool.space, like toggling to “audit” view.
+##### Step 1: Identify the example
 
-## Procedure
+Give participants the prepared example. Ask them to find the transaction or block identifier, confirmation status, time shown, and any fee information. Ask what information the page does not prove about the people behind the transaction.
 
-### Setup
+##### Step 2: Trace a transaction carefully
 
-If you are projecting using a screen, connect your device.
+Ask participants to identify inputs and outputs. Explain that an input spends a prior output and that an output specifies conditions for later spending. Do not describe an address history as a person's complete financial history.
 
-Navigate to mempool.space and ensure it is displaying properly.
+##### Step 3: Read a block summary
 
-If students are using their own phones or computers, they can go to https://mempool.space/ or scan this QR.
+Use the prepared block example to identify its height, transaction count, and displayed fee information. Explain that Bitcoin limits block weight to 4,000,000 weight units. Do not treat a visual display or a simple megabyte label as a complete explanation of that limit.
 
-### Overview
+##### Step 4: Compare mempool and explorer
 
-In this activity you walk students through basic Bitcoin information available at mempool.space.
+Ask learners to sort these statements into “node mempool,” “block explorer,” or “both”: receives unconfirmed transactions, has a chosen display interface, may differ from another node, and can be used to view a prepared public example. Discuss why different nodes may not have exactly the same unconfirmed-transaction set.
 
-Time permitting, you can show them other tools available, like the mining or Lightning features.
+##### Step 5: Discuss verification and privacy
 
-Artistic blocks are a way to make the discussion more interesting for your non-technical students. A few options are included in this guide.
+Ask when an explorer is useful, what privacy trade-off a public query can create, and what a person would need to do to check Bitcoin's rules more independently. Keep the answer proportionate: a beginner can learn from a public example without being expected to run software or use a personal wallet.
 
-### Step 1: Introduction to the Dashboard
+#### Key points
 
-Mempool.space has added many features since it was first created.
+1. A mempool is maintained by an individual node. There is no single universal mempool.
+1. A block explorer is a third-party viewing tool, not the Bitcoin network or a substitute for independent validation.
+1. Public ledger information can reveal links and patterns. Use only educator-prepared public examples in class.
+1. Live interfaces, fees, and displayed network data change. Check them immediately before use.
 
-The first thing you see at the top of the site, the blocks, is arguably the most critical to understand.
+#### Discussion questions
 
-Ask questions to start the overview:
+1. What is the difference between a node's mempool and a block explorer?
+1. What did the prepared example show, and what could it not tell us?
+1. Why might two nodes have different unconfirmed-transaction sets?
+1. What privacy risks can arise when someone searches an address or transaction?
 
-• “What’s the diﬀerence between the green and purple blocks?”
-• “What was the last block mined?”
-• “How many transactions were in the block?”
-• “How long ago was it added to the timechain?”
-• “Who mined it?”
+#### Notes
 
-### Step 2: Diving Deeper… Blockchain (All Blocks) One Block
+**Bitcoin Diploma assessment link:** May provide the individual-response context for [`T3` / `C5`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show), especially on-chain confirmation and verification. Use the approved protocol and record individual evidence; otherwise, this activity is formative.
 
-Explain to students that by clicking on a block you can explore more details.
+#### Resources and references
 
-When you do this, students can see details: e.g., transaction fees paid to the miner, on the left-hand side.
+- [Bitcoin Developer Guide: Block Chain](https://developer.bitcoin.org/devguide/block_chain.html) explains blocks, proof of work, and validation rules.
+- [Mempool.space](https://mempool.space/) is one possible block explorer. Treat its interface and live data as changing information that an educator must check before class.
 
-On the right side is the block visualizer, which gives a sense of how much “space” each transaction takes up of the 4MB block limit. Larger cubes mean bigger transactions.
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
 
-Quick breakdown:
-
-• **Cubes = Transactions:** Each cube is one transaction, arranged in a grid based on their order in the block (x-y plane shows the sequenceand packing).
-
-• **Height = Size in vB:** Taller cubes = larger transactions, e.g., those with many inputs/outputs.
-
-• **Color = Fee Rate:** Blues/greens = low fees, e.g., <1 sat/vB; yellows/oranges = medium, reds = high fees, e.g., >10+ sat/vB.
-
-• **Other Dimensions:** Width/depth might be normalized or fixed for the grid, but height scales directly with vB to show relative sizes.
-
-### Step 3: Going Deeper … One Block (Many Transactions) One Transaction
-
-Explain to students that by clicking on a transaction you can explore more details. If you have a specific transaction, you can also use the search tool.
-
-The example below is block 800,000.
-
-You can further drill down by selecting a specific input, or specific output.
-
-Questions for discussion:
-
-• What is significant about block 800,000? (Trick question… it is not a halving! One epoch = 210,000 blocks.)
-• How does this diagram of inputs and outputs relate to UTXO’s?
-• Why might someone overpay a transaction fee?
-
-Remind students that a halving occurs every 210,000 blocks. A group of 210,000 blocks is also called an epoch.
-
-The 4th “halving occurred at the 840,000th block.
-
-Go to the search tool and type “840000”.
-
-Questions:
-
-• Why would this block have so many high transaction fees?
-• What was the total block reward (subsidy + transaction fees) paid to the miner?
-
-### Step 4: Optional: Mempool Art
-
-This section adds some fun to learning the tool.
-
-Miners can intentionally arrange transactions by their fee rates and/or sizes to form visual patterns using mempool.space’s visualization tool.
-
-You can navigate to these blocks by putting the block height in the search tool or by following the links.
-
-**Block Height: 836361** **Miner: MARA Pool** **Date: 26-Mar-24**
-
-https://mempool.space/block/836361
-
-A large, bold letter "M" (for Marathon) formed by clustering low-fee transactions into a pixelated shape across the block's transaction grid. This was one of the first high-profile examples of intentional block art.
-
-**Block Height: 879613** **Miner: MARA Pool** **Date: 17-Jan-25**
-
-https://mempool.space/block/879613
-
-A pixelated portrait of Donald Trump (labeled "Trump 47"), created by precise transaction ordering. It cost over 1.2 BTC in fees to curate, highlighting the economic creativity in Bitcoin mining.
-
-**Block Height: 880512** **Miner: SEC Pool** **Date: 24-Jan-25**
-
-https://mempool.space/block/880512
-
-A stylized image of Satoshi Nakamoto's photo alongside the Genesis Block declaration ("The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"). Includes OP_RETURN messages emphasizing Bitcoin's origins; the pattern uses transaction clusters for contrast.
-
-**Note, you may have to adjust some of mempool.space’s settings to see the images clearly.**
-
-**First try toggling the “Audit” button.**
-
-**If this does not work, consider asking a technical Bitcoiner or using an AI tool to troubleshoot.**
-
-**AFTER toggling “Audit” view**
-
-**BEFORE toggling “Audit” view**
-
-### Step 5: Optional: Exploring Other Areas
-
-There are other tools that relate to earlier subjects: e.g., Lightning, mining, hashrate, diﬃculty adjustment, UTXO visualization, and others.
-
-### Step 6: Discussion
-
-Wrap up the activity with a class discussion.
-
-## Review
-
-### Key Points
-
-1. **“Mempool” refers to a list of unconfirmed transactions maintained by each Bitcoin node, not a specific service or platform.**
-2. There is no single, universal mempool. Mempool.space is one of many.
-3. Mempool.space is open-sourced and well known for being an easy-to-use visual block explorer. It provides real-time data on unconfirmed transactions, fee rates, and other network activity.
-
-### Discussion questions
-
-• Is there only one mempool?
-• ho manages mempools?
-• Can you have your own mempool?
-
-Yes! When you run your own full Bitcoin node, you have a memory pool of unconfirmed transactions that the node has received, validated, and is holding until they are included in a block by miners. This is a core part of how nodes contribute to Bitcoin's decentralization and security.
-
-Some companies can and do have their own mempools too, e.g., MARA or Braiins.
-
-There are other mempools available for those who do not run a node, e.g., https://blockstream.info
-
-• What are potential benefits of having your own node?
-
-**Hint:** “Don’t trust. Verify.”
-
-## Notes
-
-**Diploma assessment link:** May provide the individual-response context for [`T3` / `C8`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#assessed-competencies-criteria-and-educator-notes), especially on-chain confirmation and verification. Use the approved protocol and record individual evidence; otherwise, this activity is formative.
-
-This activity takes about 30 minutes for a typical class.
-
-Because mempool.space has added new tools and views, there are many ways to extend the class by diving deep into the details.
-
-Conversely, you can shorten the duration of the activity by skipping those extra features.
-
-## Additional Resources
-
-**“How to explore the Bitcoin Blockchain Mempool.space Tutorial”** on the YouTube channel Crypto Trading Guides covers transaction fees, diﬃculty adjustment, checking addresses, checking transactions.
-
-https://youtu.be/ZQZJI0R79sM?si=FkZf8WiH2xVvsBi4
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).

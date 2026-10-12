@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" fill="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="6">
+<rect x="0" y="0" width="960" height="540" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<g transform="translate(443 264) scale(1.0)">
+<circle cx="0" cy="0" r="14" fill="none" stroke="#F7941F" stroke-width="4"/>
+<line x1="14" y1="0" x2="57" y2="0" stroke="#F7941F" stroke-width="5" fill="none"/>
+<line x1="44" y1="0" x2="44" y2="12" stroke="#F7941F" stroke-width="5" fill="none"/>
+<line x1="55" y1="0" x2="55" y2="12" stroke="#F7941F" stroke-width="5" fill="none"/>
+</g>
+<rect x="762.0" y="242.0" width="96" height="56" fill="#F6F6F8" stroke="#422C70" stroke-width="2"/>
+<line x1="563.0" y1="270.0" x2="745.0" y2="270.0" stroke="#D8D8E7" stroke-width="2" fill="none"/>
+<rect x="665.3452377915607" y="367.1579002700189" width="96" height="56" fill="#F6F6F8" stroke="#422C70" stroke-width="2"/>
+<line x1="538.6898628384835" y1="307.47665940288704" x2="667.3832970144351" y2="365.4594154601839" stroke="#D8D8E7" stroke-width="2" fill="none"/>
+<rect x="432.0" y="419.0" width="96" height="56" fill="#F6F6F8" stroke="#422C70" stroke-width="2"/>
+<line x1="480.0" y1="323.0" x2="480.0" y2="405.0" stroke="#D8D8E7" stroke-width="2" fill="none"/>
+<rect x="198.65476220843934" y="367.1579002700189" width="96" height="56" fill="#F6F6F8" stroke="#422C70" stroke-width="2"/>
+<line x1="421.31013716151654" y1="307.47665940288704" x2="292.6167029855649" y2="365.4594154601839" stroke="#D8D8E7" stroke-width="2" fill="none"/>
+<rect x="102.0" y="242.0" width="96" height="56" fill="#F6F6F8" stroke="#422C70" stroke-width="2"/>
+<line x1="397.0" y1="270.0" x2="215.0" y2="270.0" stroke="#D8D8E7" stroke-width="2" fill="none"/>
+<rect x="198.65476220843925" y="116.8420997299811" width="96" height="56" fill="#F6F6F8" stroke="#422C70" stroke-width="2"/>
+<line x1="421.31013716151654" y1="232.523340597113" x2="292.61670298556487" y2="174.5405845398161" stroke="#D8D8E7" stroke-width="2" fill="none"/>
+<rect x="431.99999999999994" y="65.0" width="96" height="56" fill="#F6F6F8" stroke="#422C70" stroke-width="2"/>
+<line x1="480.0" y1="217.0" x2="479.99999999999994" y2="135.0" stroke="#D8D8E7" stroke-width="2" fill="none"/>
+<rect x="665.3452377915606" y="116.84209972998104" width="96" height="56" fill="#F6F6F8" stroke="#422C70" stroke-width="2"/>
+<line x1="538.6898628384835" y1="232.52334059711296" x2="667.383297014435" y2="174.54058453981605" stroke="#D8D8E7" stroke-width="2" fill="none"/>
+</svg>

@@ -1,41 +1,70 @@
 # Evaluate Bitcoin Wallets
+
 ## Keywords
-Bitcoin wallets, wallet selection, research
-## Activity Type
-Class discussion and research
+
+**Bitcoin Wallet** **Custody** **Recovery**
+
+## Activity type
+
+Research and discussion
+
 ## Participation
 
 ## Duration
 
+## Objective
+
+- Participants practice comparing Bitcoin wallet options against consistent criteria and weighing the trade-offs for a stated need.
+
 ## Description
-Students research Bitcoin wallets and select one using the criteria discussed in class.
-## Objectives
 
-## Materials
-Internet access.
-## Preparation
+Participants examine prepared, locally relevant Bitcoin and Lightning [wallet](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) information, recording when sources were checked. They compare options using [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody), recovery, payment compatibility, [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy), cost, maintenance, support, and [open-source](https://programs.myfirstbitcoin.org/lexicon/en/#open-source-software) inspectability, then explain which option may fit a stated fictional or learner need without presenting a global recommendation.
 
-## Procedure
-### Setup
+> **Callout – Compare tools; do not recommend or activate one**
+>
+> Use prepared information and fictional needs. Do not ask learners to choose a real service, use personal funds, or disclose private information. A local example is not a global My First Bitcoin recommendation.
 
-### Step 1
-Review the provided Bitcoin and Lightning information resources.
-### Step 2
-Research wallet options using the new knowledge of Bitcoin wallets.
-### Step 3
-Select the best wallet based on the criteria discussed in class.
-## Review
-### Key Points
+#### Preparation
 
-### Discussion questions
-Which wallet best meets the discussed criteria?
-## Notes
+**Materials**
 
-**Diploma assessment link:** May provide the individual-response context for [`T3` / `C6`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#assessed-competencies-criteria-and-educator-notes). Use the approved protocol; do not ask a learner to choose a real service, use personal funds, or disclose private information.
+- Prepared wallet information in print or digital form.
+- Internet access, if checking current local information.
 
-## Additional Resources
-https://www.lopp.net/bitcoin-information.html
+#### Setup
 
-https://www.lopp.net/lightning-information.html
+#### Procedure
 
-https://bitcoin.org/en/choose-your-wallet
+##### Step 1
+
+Review the prepared Bitcoin and Lightning information resources and identify when each source was last checked.
+
+##### Step 2
+
+Research or compare wallet options using custody, recovery, payment compatibility, privacy, cost, maintenance, safe support, and whether the software is open source and publicly inspectable.
+
+##### Step 3
+
+Choose a wallet for a fictional or stated beginner need and explain the trade-offs. Prefer a well-established open-source option where appropriate, but do not treat open source as proof of safety or suitability and do not name one wallet as best for everyone.
+
+#### Key points
+
+#### Discussion questions
+
+Which wallet best fits the stated need, what trade-offs remain, and what would need to be verified before real use?
+
+#### Notes
+
+**Bitcoin Diploma assessment link:** May provide the individual-response context for [`T3` / `C4`](../mfb-bd-26.10/mfb-bd-assessment-grid-26.10.md#what-learners-can-show). Use the approved protocol; do not ask a learner to choose a real service, use personal funds, or disclose private information. The educator should help participants navigate the decision path without turning a local example into a My First Bitcoin recommendation.
+
+#### Resources and references
+
+[Jameson Lopp’s Bitcoin Information](https://www.lopp.net/bitcoin-information.html) is a broad, curated collection of Bitcoin learning resources that can support research into wallet concepts and trade-offs.
+
+[Jameson Lopp’s Lightning Information](https://www.lopp.net/lightning-information.html) is a curated collection of Lightning learning resources that can support research into Lightning payment compatibility and related concepts.
+
+[Bitcoin.org: Choose Your Wallet](https://bitcoin.org/en/choose-your-wallet) introduces wallet categories and selection considerations. Treat it as a starting point for comparison, and verify current, locally relevant information before real use.
+
+Help improve this resource: [share feedback](https://forms.myfirstbitcoin.org/feedback), [proofread it](https://forms.myfirstbitcoin.org/proofread), or explore and contribute to the project on [GitHub](https://github.com/MyFirstBitcoin/mfb-curriculum).
+
+For more resources, visit the [My First Bitcoin Resources Hub](https://programs.myfirstbitcoin.org/resources/).

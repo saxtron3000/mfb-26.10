@@ -1,0 +1,182 @@
+{
+  "assetId": "BD-V-067",
+  "schemaVersion": 1,
+  "status": "blocked",
+  "assetType": "Diagram",
+  "recordDate": "2026-10-08",
+  "sourceFiles": {
+    "brief": "assets/briefs/bd-v-067-brief.md",
+    "briefRevision": "2026-10-08",
+    "styleReferences": []
+  },
+  "educationalPurpose": "Connects community discovery with verification and privacy rather than treating a map listing as proof.",
+  "placement": {
+    "studentGuide": "exact heading `### Local resource maps and community discovery`; source anchor:\n\n```markdown\nNo current visual marker; Detailed local-resource activities, record tables, and changeable listings belong on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/?search=map). Maps and community directories can help you find merchants, educators, meetups, and circular economies, but listings can be incomplete or outdated.\n```",
+    "educatorGuide": "",
+    "guideAnchor": "Student Guide: exact heading `### Local resource maps and community discovery`; source anchor:\n\n```markdown\nNo current visual marker; Detailed local-resource activities, record tables, and changeable listings belong on the [Resources Hub](https://programs.myfirstbitcoin.org/resources/?search=map). Maps and community directories can help you find merchants, educators, meetups, and circular economies, but listings can be incomplete or outdated.\n```\nEducator Guide: ",
+    "format": "Landscape 16:9 reference canvas, 960 × 540; Local resource-map template; full width."
+  },
+  "teachingPoint": "Connects community discovery with verification and privacy rather than treating a map listing as proof. The learner should be able to explain the specific distinction or sequence: Merchant; Educator; Meetup; Technical support; Exchange information; Legal or tax information; Missing support. Preserve the qualifications below when explaining it.",
+  "visualPattern": "Layer stack variant: web resource map",
+  "composition": {
+    "orientation": "landscape",
+    "targetAspectRatio": "16:9",
+    "readingOrder": [
+      "Merchant",
+      "Educator",
+      "Meetup",
+      "Technical support",
+      "Exchange information",
+      "Legal or tax information",
+      "Missing support"
+    ],
+    "elements": [
+      {
+        "id": "element-01",
+        "role": "Merchant",
+        "required": true,
+        "relationship": "Generic fictional neighborhood template, seven categories with date-verified and safety-note fields; no real personal geography.",
+        "position": "Reading-order region 1 in map; precise spatial relation: Generic fictional neighborhood template, seven categories with date-verified and safety-note fields; no real personal geography.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-02",
+        "role": "Educator",
+        "required": true,
+        "relationship": "Generic fictional neighborhood template, seven categories with date-verified and safety-note fields; no real personal geography.",
+        "position": "Reading-order region 2 in map; precise spatial relation: Generic fictional neighborhood template, seven categories with date-verified and safety-note fields; no real personal geography.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-03",
+        "role": "Meetup",
+        "required": true,
+        "relationship": "Generic fictional neighborhood template, seven categories with date-verified and safety-note fields; no real personal geography.",
+        "position": "Reading-order region 3 in map; precise spatial relation: Generic fictional neighborhood template, seven categories with date-verified and safety-note fields; no real personal geography.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-04",
+        "role": "Technical support",
+        "required": true,
+        "relationship": "Generic fictional neighborhood template, seven categories with date-verified and safety-note fields; no real personal geography.",
+        "position": "Reading-order region 4 in map; precise spatial relation: Generic fictional neighborhood template, seven categories with date-verified and safety-note fields; no real personal geography.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-05",
+        "role": "Exchange information",
+        "required": true,
+        "relationship": "Generic fictional neighborhood template, seven categories with date-verified and safety-note fields; no real personal geography.",
+        "position": "Reading-order region 5 in map; precise spatial relation: Generic fictional neighborhood template, seven categories with date-verified and safety-note fields; no real personal geography.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-06",
+        "role": "Legal or tax information",
+        "required": true,
+        "relationship": "Generic fictional neighborhood template, seven categories with date-verified and safety-note fields; no real personal geography.",
+        "position": "Reading-order region 6 in map; precise spatial relation: Generic fictional neighborhood template, seven categories with date-verified and safety-note fields; no real personal geography.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      },
+      {
+        "id": "element-07",
+        "role": "Missing support",
+        "required": true,
+        "relationship": "Generic fictional neighborhood template, seven categories with date-verified and safety-note fields; no real personal geography.",
+        "position": "Reading-order region 7 in map; precise spatial relation: Generic fictional neighborhood template, seven categories with date-verified and safety-note fields; no real personal geography.",
+        "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
+      }
+    ]
+  },
+  "contentRequirements": [
+    {
+      "content": "Merchant",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Educator",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Meetup",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Technical support",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Exchange information",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Legal or tax information",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Missing support",
+      "source": "Content and live text / editable content requirements",
+      "editable": true
+    },
+    {
+      "content": "Provide an editable neighborhood or regional map template with merchant, educator, meetup, technical support, exchange information, legal or tax information, and missing-support markers. Every listing includes `date verified` and a safety note. Do not include real personal locations without consent.",
+      "source": "Asset definition / Required construction, elements, relationships, reading order, and qualifications",
+      "editable": true
+    },
+    {
+      "content": "Merchant; Educator; Meetup; Technical support; Exchange information; Legal or tax information; Missing support. Generic fictional neighborhood template, seven categories with date-verified and safety-note fields; no real personal geography.",
+      "source": "Accessibility and production handoff / Alt text",
+      "editable": true
+    },
+    {
+      "content": "- Alt text: Merchant; Educator; Meetup; Technical support; Exchange information; Legal or tax information; Missing support. Generic fictional neighborhood template, seven categories with date-verified and safety-note fields; no real personal geography.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-067-ref.svg` and a matching `assets/reference/bd-v-067-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.",
+      "source": "Accessibility and production handoff",
+      "editable": true
+    }
+  ],
+  "style": {
+    "layoutReference": "Selected pattern: Layer stack variant: web resource map. Selected layout: content-page, web-only proposal.",
+    "palette": [
+      "#422C70",
+      "#2B1C58",
+      "#FFFFFF",
+      "#F6F6F8",
+      "#D8D8E7",
+      "#25252B",
+      "#F7941F"
+    ],
+    "typography": "Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlled emphasis. Learner-facing print copy at least 12pt. Short literal labels, left aligned and translation-ready; do not bake copy into reference artwork.",
+    "shapeAndLineRules": "Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames.",
+    "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: map",
+    "emphasis": "One controlled orange instructional focal point; no orange full-field background or ranking",
+    "characters": [],
+    "propsAndIcons": []
+  },
+  "prohibitions": [
+    "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",
+    "No real secrets, seed words, private keys, identities, balances, payable addresses, invoices or payment QR data. Fictional payment screens require editable SAMPLE — DO NOT PAY in later production.",
+    "Keep user, educator, wallet, service, node, miner and protocol roles distinct; Bitcoin is not stored inside a wallet, miners do not make the rules, and no single controller approves Bitcoin.",
+    "No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.",
+    "No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.",
+    "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation.",
+    "Do not include real personal locations without consent.",
+    "Production restriction: Map is required by asset row but prohibited for print by layouts/README.md. Web-only treatment awaits clarification; current SG moved detailed resource activities to Resources Hub."
+  ],
+  "review": {
+    "briefCompliant": true,
+    "assetRegisterCompliant": false,
+    "styleCompliant": false,
+    "openDecisionsPreventCreation": true,
+    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Creation blocked: Map is required by asset row but prohibited for print by layouts/README.md. Web-only treatment awaits clarification; current SG moved detailed resource activities to Resources Hub."
+  },
+  "unresolved": [
+    "Map is required by asset row but prohibited for print by layouts/README.md. Web-only treatment awaits clarification; current SG moved detailed resource activities to Resources Hub."
+  ]
+}

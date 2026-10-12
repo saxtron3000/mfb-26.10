@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" fill="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="6">
+<rect x="0" y="0" width="960" height="540" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<g transform="translate(357 80) scale(1.35)">
+<rect x="0" y="0" width="180" height="230" fill="#F6F6F8" stroke="#422C70" stroke-width="4"/>
+<rect x="12" y="16" width="156" height="192" fill="#FFFFFF" stroke="#D8D8E7" stroke-width="1"/>
+<circle cx="90" cy="219" r="3" fill="#422C70" stroke="none" stroke-width="2"/>
+</g>
+<g transform="translate(411 143) scale(1.26)">
+<rect x="0" y="0" width="100" height="100" fill="#FFFFFF" stroke="#D8D8E7" stroke-width="2"/>
+<path d="M 29 5 L 5 5 L 5 29" fill="none" stroke="#422C70" stroke-width="4"/>
+<path d="M 89 5 L 65 5 L 65 29" fill="none" stroke="#422C70" stroke-width="4"/>
+<path d="M 29 65 L 5 65 L 5 89" fill="none" stroke="#422C70" stroke-width="4"/>
+<line x1="44" y1="44" x2="72" y2="72" stroke="#F7941F" stroke-width="3" fill="none"/>
+<line x1="44" y1="72" x2="72" y2="44" stroke="#F7941F" stroke-width="3" fill="none"/>
+</g>
+<polygon points="600,293 582,324 596,323 588,347 615,313 600,314" fill="#F7941F" stroke="#F7941F" stroke-width="1"/>
+</svg>

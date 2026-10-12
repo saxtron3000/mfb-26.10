@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" fill="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="6">
+<rect x="0" y="0" width="960" height="540" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="89" y="135" width="274" height="240" fill="#F6F6F8" stroke="#422C70" stroke-width="3"/>
+<rect x="112" y="167" width="225" height="153" fill="#FFFFFF" stroke="#D8D8E7" stroke-width="2"/>
+<line x1="480" y1="90" x2="480" y2="437" stroke="#D8D8E7" stroke-width="2" fill="none"/>
+<line x1="576" y1="248.5" x2="644.6" y2="144" stroke="#D8D8E7" stroke-width="3" fill="none"/>
+<line x1="644.6" y1="144" x2="754.64" y2="149" stroke="#D8D8E7" stroke-width="3" fill="none"/>
+<line x1="754.64" y1="149" x2="823" y2="253.07999999999998" stroke="#D8D8E7" stroke-width="3" fill="none"/>
+<line x1="823" y1="253.07999999999998" x2="744.1600000000001" y2="353" stroke="#D8D8E7" stroke-width="3" fill="none"/>
+<line x1="744.1600000000001" y1="353" x2="636.74" y2="360" stroke="#D8D8E7" stroke-width="3" fill="none"/>
+<line x1="636.74" y1="360" x2="576" y2="248.5" stroke="#D8D8E7" stroke-width="3" fill="none"/>
+<line x1="576" y1="248.5" x2="744.1600000000001" y2="353" stroke="#D8D8E7" stroke-width="3" fill="none"/>
+<line x1="644.6" y1="144" x2="636.74" y2="360" stroke="#D8D8E7" stroke-width="3" fill="none"/>
+<line x1="754.64" y1="149" x2="636.74" y2="360" stroke="#D8D8E7" stroke-width="3" fill="none"/>
+<circle cx="576" cy="248.5" r="6" fill="#422C70" stroke="none" stroke-width="2"/>
+<circle cx="644.6" cy="144" r="6" fill="#422C70" stroke="none" stroke-width="2"/>
+<circle cx="754.64" cy="149" r="6" fill="#422C70" stroke="none" stroke-width="2"/>
+<circle cx="823" cy="253.07999999999998" r="6" fill="#422C70" stroke="none" stroke-width="2"/>
+<circle cx="744.1600000000001" cy="353" r="6" fill="#422C70" stroke="none" stroke-width="2"/>
+<circle cx="636.74" cy="360" r="6" fill="#422C70" stroke="none" stroke-width="2"/>
+<polygon points="570,161 595,161 610,176 610,216 570,216" fill="#FFFFFF" stroke="#422C70" stroke-width="2"/>
+<line x1="595" y1="161" x2="595" y2="176" stroke="#D8D8E7" stroke-width="2" fill="none"/>
+<line x1="595" y1="176" x2="610" y2="176" stroke="#D8D8E7" stroke-width="2" fill="none"/>
+<path d="M 590 196.5 L 597 203.5 L 613 181.5" fill="none" stroke="#422C70" stroke-width="4"/>
+<polygon points="745,175 770,175 785,190 785,230 745,230" fill="#FFFFFF" stroke="#422C70" stroke-width="2"/>
+<line x1="770" y1="175" x2="770" y2="190" stroke="#D8D8E7" stroke-width="2" fill="none"/>
+<line x1="770" y1="190" x2="785" y2="190" stroke="#D8D8E7" stroke-width="2" fill="none"/>
+<path d="M 765 210.5 L 772 217.5 L 788 195.5" fill="none" stroke="#422C70" stroke-width="4"/>
+<polygon points="657,310 682,310 697,325 697,365 657,365" fill="#FFFFFF" stroke="#422C70" stroke-width="2"/>
+<line x1="682" y1="310" x2="682" y2="325" stroke="#D8D8E7" stroke-width="2" fill="none"/>
+<line x1="682" y1="325" x2="697" y2="325" stroke="#D8D8E7" stroke-width="2" fill="none"/>
+<path d="M 677 345.5 L 684 352.5 L 700 330.5" fill="none" stroke="#422C70" stroke-width="4"/>
+</svg>
