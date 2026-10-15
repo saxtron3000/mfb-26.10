@@ -773,7 +773,7 @@ Bitcoin makes direct ownership and transfer possible; it does not force every us
 
 Peer-to-peer transfer can be useful when people are in different places or use different banking systems. It also creates responsibility. A valid [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) sent to the wrong address cannot usually be reversed.
 
-### Users, [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node), and [miners](https://programs.myfirstbitcoin.org/lexicon/en/#miner)
+### Users, [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node), [miners](https://programs.myfirstbitcoin.org/lexicon/en/#miner), and developers
 
 Bitcoin works because different participants perform different roles.
 
@@ -786,7 +786,7 @@ Bitcoin works because different participants perform different roles.
 - **Developers** review, write, and propose software changes. They do not own Bitcoin's rules. A software change matters only if participants choose to run software that follows those rules.
 
 <!-- VISUAL: BD-V-031
-ALT: Roles of users, nodes, miners, developers, and services with arrows showing how they limit one another.
+ALT: Roles of users, nodes, miners, and developers with arrows showing how they limit one another.
 ASSET: assets/briefs/bd-v-031-brief.md
 -->
 

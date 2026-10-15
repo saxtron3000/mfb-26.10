@@ -1525,12 +1525,12 @@ Qualify the claim:
 Peer-to-peer does not mean only two computers communicate directly or that no infrastructure is used. It means a central Bitcoin account operator is not required to authorize a valid transfer.
 
 <!-- VISUAL: BD-V-026
-ALT: Users, nodes, miners, developers, and services have different powers and limits around a shared protocol; distributed enforcement does not imply equal influence.
+ALT: Users, nodes, miners, and developers have different powers and limits around a shared protocol; optional services sit outside the protocol boundary. Distributed enforcement does not imply equal influence.
 ASSET: assets/briefs/bd-v-026-brief.md
 USE: Shared Student Guide master.
 -->
 
-### Users, nodes, miners, developers, and services
+### Users, nodes, miners, and developers
 
 Use these exact beginner boundaries:
 
@@ -1540,11 +1540,12 @@ Use these exact beginner boundaries:
 | [Node](https://programs.myfirstbitcoin.org/lexicon/en/#node) | Independently checks transactions and blocks against its rules and relays valid data | Creates new blocks or dictates rules to everyone |
 | [Miner](https://programs.myfirstbitcoin.org/lexicon/en/#miner) | Builds [candidate blocks](https://programs.myfirstbitcoin.org/lexicon/en/#candidate-block) and performs [proof of work](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work) to propose their order | Can make invalid issuance or transactions valid to honest [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) |
 | Developer | Reviews, writes, and proposes software | Can force participants to adopt a rule change |
-| [Bitcoin service](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-service) | Provides a wallet, exchange, explorer, payment, or other interface | Is the [Bitcoin protocol](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-protocol) itself |
+
+A [Bitcoin service](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-service) provides a wallet, exchange, explorer, payment, or other interface. Explain services as optional tools or intermediaries, not as a fifth participant role or as the [Bitcoin protocol](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-protocol) itself.
 
 <!-- VISUAL: BD-V-031
-ALT: Users authorize or accept transactions, nodes verify, miners propose blocks, developers propose software, and services support customers; no single role controls the network.
-ASSET: assets/briefs/bd-v-031-brief.md
+ALT: Users authorize or accept transactions, nodes verify, miners propose blocks, and developers propose software; no single role controls the network.
+            ASSET: assets/briefs/bd-v-031-brief.md
 USE: Shared Student Guide master.
 -->
 

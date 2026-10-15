@@ -8,7 +8,7 @@
 - This brief is the primary authority for later JSON-reference creation. Consult the asset index only to resolve a documented incompleteness or conflict.
 
 ```markdown
-| `BD-V-026` | Diagram | AI | Essential | 697 | 1500 | Makes the distribution and limits of participant power visible. | Roles-and-rules network map; full width. | Place users, nodes, miners, developers, and services around the shared protocol and public ledger. For each, show `can do` and `cannot do unilaterally`. Services must sit outside the protocol boundary. Show unequal influence and points of dependence without adding a central controller. | — |
+| `BD-V-026` | Diagram | AI | Essential | 697 | 1500 | Makes the distribution and limits of participant power visible. | Roles-and-rules network map; full width. | Place the four roles—users, nodes, miners, and developers—around the shared protocol and public ledger. For each role, show `can do` and `cannot do unilaterally`. Show optional services separately outside the protocol boundary as context, not as a fifth participant role. Show unequal influence and points of dependence without adding a central controller. | — |
 ```
 
 ## Asset definition
@@ -18,7 +18,7 @@
 - Suggested by: AI
 - Educational purpose: Makes the distribution and limits of participant power visible.
 - Required format: Landscape 16:9 reference canvas, 960 × 540; Roles-and-rules network map; full width.
-- Required construction, elements, relationships, reading order, and qualifications: Place users, nodes, miners, developers, and services around the shared protocol and public ledger. For each, show `can do` and `cannot do unilaterally`. Services must sit outside the protocol boundary. Show unequal influence and points of dependence without adding a central controller.
+- Required construction, elements, relationships, reading order, and qualifications: Place the four roles—users, nodes, miners, and developers—around the shared protocol and public ledger. For each role, show `can do` and `cannot do unilaterally`. Show optional services separately outside the protocol boundary as context, not as a fifth participant role. Show unequal influence and points of dependence without adding a central controller.
 - Register note: —
 
 ## Placement anchor
@@ -35,7 +35,7 @@ ASSET: assets/briefs/bd-v-026-brief.md
 
 ```markdown
 <!-- VISUAL: BD-V-026
-ALT: Users, nodes, miners, developers, and services have different powers and limits around a shared protocol; distributed enforcement does not imply equal influence.
+ALT: Users, nodes, miners, and developers have different powers and limits around a shared protocol; optional services sit outside the protocol boundary. Distributed enforcement does not imply equal influence.
 ASSET: assets/briefs/bd-v-026-brief.md
 USE: Shared Student Guide master.
 -->
@@ -47,17 +47,17 @@ The heading and nearby text above are the placement authority; register line num
 
 ### Teaching point and learner outcome
 
-Makes the distribution and limits of participant power visible. The learner should be able to explain the specific distinction or sequence: Users; Nodes; Miners; Developers; Services. Preserve the qualifications below when explaining it.
+Makes the distribution and limits of participant power visible. The learner should be able to explain the specific distinction or sequence: Users; Nodes; Miners; Developers. Separate context: optional services. Preserve the qualifications below when explaining it.
 
 ### Composition and reading order
 
 Pattern: Layer stack. Layout skeleton: teaching-page. Reference topology: roles. Landscape 16:9 reference canvas, 960 × 540; Roles-and-rules network map; full width.
 
-Four roles within shared protocol/public-ledger boundary; services outside it. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.
+Four roles within shared protocol/public-ledger boundary; optional services outside it as context, not a fifth role. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.
 
-Controlling construction: Place users, nodes, miners, developers, and services around the shared protocol and public ledger. For each, show `can do` and `cannot do unilaterally`. Services must sit outside the protocol boundary. Show unequal influence and points of dependence without adding a central controller.
+Controlling construction: Place the four roles—users, nodes, miners, and developers—around the shared protocol and public ledger. For each role, show `can do` and `cannot do unilaterally`. Show optional services separately outside the protocol boundary as context, not as a fifth participant role. Show unequal influence and points of dependence without adding a central controller.
 
-Reading order: Users → Nodes → Miners → Developers → Services.
+Reading order: Users → Nodes → Miners → Developers; then separate context: optional services.
 
 ### Content and live text
 
@@ -65,14 +65,14 @@ Reading order: Users → Nodes → Miners → Developers → Services.
 - Editable content requirement 2: Nodes
 - Editable content requirement 3: Miners
 - Editable content requirement 4: Developers
-- Editable content requirement 5: Services
-- Authoritative content requirement: Place users, nodes, miners, developers, and services around the shared protocol and public ledger. For each, show `can do` and `cannot do unilaterally`. Services must sit outside the protocol boundary. Show unequal influence and points of dependence without adding a central controller.
+- Editable context requirement: Optional services (outside the protocol boundary)
+- Authoritative content requirement: Place the four roles—users, nodes, miners, and developers—around the shared protocol and public ledger. For each role, show `can do` and `cannot do unilaterally`. Show optional services separately outside the protocol boundary as context, not as a fifth participant role. Show unequal influence and points of dependence without adding a central controller.
 - All labels, data, examples, qualifications and warnings remain editable and translation-ready. Retain source-supported wording; content requirements describe meaning and are not invented final copy.
 - Reference-stage suppression: leave copy areas clear; no visible text, numerals, punctuation, placeholder words or data in SVG/PNG. Do not draw dummy text lines as substitute copy.
 
 ### Accessibility and production handoff
 
-- Alt text: Users; Nodes; Miners; Developers; Services. Four roles within shared protocol/public-ledger boundary; services outside it. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.
+- Alt text: Users; Nodes; Miners; Developers. Separate context: optional services. Four roles within shared protocol/public-ledger boundary; optional services outside it as context, not a fifth role. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.
 - Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.
 - Reference image output: Codex must provide `assets/reference/bd-v-026-ref.svg` and a matching `assets/reference/bd-v-026-ref.png` when the production gate is clear; never JPG.
 - Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.

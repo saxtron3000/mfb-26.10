@@ -12,11 +12,11 @@
   "educationalPurpose": "Makes the distribution and limits of participant power visible.",
   "placement": {
     "studentGuide": "exact heading `### [Decentralization](https://programs.myfirstbitcoin.org/lexicon/en/#decentralization)`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-026\nALT: Decentralization map showing users, nodes, miners, software, and voluntary rule adoption with limits on unilateral control.\nASSET: assets/briefs/bd-v-026-brief.md\n-->\n```",
-    "educatorGuide": "exact heading `### Decentralization and peer-to-peer transfer`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-026\nALT: Users, nodes, miners, developers, and services have different powers and limits around a shared protocol; distributed enforcement does not imply equal influence.\nASSET: assets/briefs/bd-v-026-brief.md\nUSE: Shared Student Guide master.\n-->\n```",
-    "guideAnchor": "Student Guide: exact heading `### [Decentralization](https://programs.myfirstbitcoin.org/lexicon/en/#decentralization)`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-026\nALT: Decentralization map showing users, nodes, miners, software, and voluntary rule adoption with limits on unilateral control.\nASSET: assets/briefs/bd-v-026-brief.md\n-->\n```\nEducator Guide: exact heading `### Decentralization and peer-to-peer transfer`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-026\nALT: Users, nodes, miners, developers, and services have different powers and limits around a shared protocol; distributed enforcement does not imply equal influence.\nASSET: assets/briefs/bd-v-026-brief.md\nUSE: Shared Student Guide master.\n-->\n```",
+    "educatorGuide": "exact heading `### Decentralization and peer-to-peer transfer`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-026\nALT: Users, nodes, miners, and developers have different powers and limits around a shared protocol; optional services sit outside the protocol boundary. Distributed enforcement does not imply equal influence.\nASSET: assets/briefs/bd-v-026-brief.md\nUSE: Shared Student Guide master.\n-->\n```",
+    "guideAnchor": "Student Guide: exact heading `### [Decentralization](https://programs.myfirstbitcoin.org/lexicon/en/#decentralization)`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-026\nALT: Decentralization map showing users, nodes, miners, software, and voluntary rule adoption with limits on unilateral control.\nASSET: assets/briefs/bd-v-026-brief.md\n-->\n```\nEducator Guide: exact heading `### Decentralization and peer-to-peer transfer`; source anchor:\n\n```markdown\n<!-- VISUAL: BD-V-026\nALT: Users, nodes, miners, and developers have different powers and limits around a shared protocol; optional services sit outside the protocol boundary. Distributed enforcement does not imply equal influence.\nASSET: assets/briefs/bd-v-026-brief.md\nUSE: Shared Student Guide master.\n-->\n```",
     "format": "Landscape 16:9 reference canvas, 960 × 540; Roles-and-rules network map; full width."
   },
-  "teachingPoint": "Makes the distribution and limits of participant power visible. The learner should be able to explain the specific distinction or sequence: Users; Nodes; Miners; Developers; Services. Preserve the qualifications below when explaining it.",
+  "teachingPoint": "Makes the distribution and limits of participant power visible. The learner should be able to explain the specific distinction or sequence: Users; Nodes; Miners; Developers. Separate context: optional services. Preserve the qualifications below when explaining it.",
   "visualPattern": "Layer stack",
   "composition": {
     "orientation": "landscape",
@@ -26,47 +26,47 @@
       "Nodes",
       "Miners",
       "Developers",
-      "Services"
+      "Optional services (context)"
     ],
     "elements": [
       {
         "id": "element-01",
         "role": "Users",
         "required": true,
-        "relationship": "Four roles within shared protocol/public-ledger boundary; services outside it. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.",
-        "position": "Reading-order region 1 in roles; precise spatial relation: Four roles within shared protocol/public-ledger boundary; services outside it. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.",
+        "relationship": "Four roles within shared protocol/public-ledger boundary; optional services outside it as context, not a fifth role. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.",
+        "position": "Reading-order region 1 in roles; precise spatial relation: Four roles within shared protocol/public-ledger boundary; optional services outside it as context, not a fifth role. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.",
         "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
       },
       {
         "id": "element-02",
         "role": "Nodes",
         "required": true,
-        "relationship": "Four roles within shared protocol/public-ledger boundary; services outside it. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.",
-        "position": "Reading-order region 2 in roles; precise spatial relation: Four roles within shared protocol/public-ledger boundary; services outside it. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.",
+        "relationship": "Four roles within shared protocol/public-ledger boundary; optional services outside it as context, not a fifth role. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.",
+        "position": "Reading-order region 2 in roles; precise spatial relation: Four roles within shared protocol/public-ledger boundary; optional services outside it as context, not a fifth role. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.",
         "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
       },
       {
         "id": "element-03",
         "role": "Miners",
         "required": true,
-        "relationship": "Four roles within shared protocol/public-ledger boundary; services outside it. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.",
-        "position": "Reading-order region 3 in roles; precise spatial relation: Four roles within shared protocol/public-ledger boundary; services outside it. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.",
+        "relationship": "Four roles within shared protocol/public-ledger boundary; optional services outside it as context, not a fifth role. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.",
+        "position": "Reading-order region 3 in roles; precise spatial relation: Four roles within shared protocol/public-ledger boundary; optional services outside it as context, not a fifth role. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.",
         "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
       },
       {
         "id": "element-04",
         "role": "Developers",
         "required": true,
-        "relationship": "Four roles within shared protocol/public-ledger boundary; services outside it. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.",
-        "position": "Reading-order region 4 in roles; precise spatial relation: Four roles within shared protocol/public-ledger boundary; services outside it. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.",
+        "relationship": "Four roles within shared protocol/public-ledger boundary; optional services outside it as context, not a fifth role. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.",
+        "position": "Reading-order region 4 in roles; precise spatial relation: Four roles within shared protocol/public-ledger boundary; optional services outside it as context, not a fifth role. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.",
         "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
       },
       {
         "id": "element-05",
-        "role": "Services",
+        "role": "Optional services (context outside the protocol boundary)",
         "required": true,
-        "relationship": "Four roles within shared protocol/public-ledger boundary; services outside it. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.",
-        "position": "Reading-order region 5 in roles; precise spatial relation: Four roles within shared protocol/public-ledger boundary; services outside it. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.",
+        "relationship": "Four roles within shared protocol/public-ledger boundary; optional services outside it as context, not a fifth role. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.",
+        "position": "Reading-order region 5 in roles; precise spatial relation: Four roles within shared protocol/public-ledger boundary; optional services outside it as context, not a fifth role. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.",
         "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
       }
     ]
@@ -93,22 +93,22 @@
       "editable": true
     },
     {
-      "content": "Services",
+      "content": "Optional services (outside the protocol boundary)",
       "source": "Content and live text / editable content requirements",
       "editable": true
     },
     {
-      "content": "Place users, nodes, miners, developers, and services around the shared protocol and public ledger. For each, show `can do` and `cannot do unilaterally`. Services must sit outside the protocol boundary. Show unequal influence and points of dependence without adding a central controller.",
+      "content": "Place the four roles—users, nodes, miners, and developers—around the shared protocol and public ledger. For each role, show `can do` and `cannot do unilaterally`. Show optional services separately outside the protocol boundary as context, not as a fifth participant role. Show unequal influence and points of dependence without adding a central controller.",
       "source": "Asset definition / Required construction, elements, relationships, reading order, and qualifications",
       "editable": true
     },
     {
-      "content": "Users; Nodes; Miners; Developers; Services. Four roles within shared protocol/public-ledger boundary; services outside it. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.",
+      "content": "Users; Nodes; Miners; Developers. Separate context: optional services. Four roles within shared protocol/public-ledger boundary; optional services outside it as context, not a fifth role. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.",
       "source": "Accessibility and production handoff / Alt text",
       "editable": true
     },
     {
-      "content": "- Alt text: Users; Nodes; Miners; Developers; Services. Four roles within shared protocol/public-ledger boundary; services outside it. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-026-ref.svg` and a matching `assets/reference/bd-v-026-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.",
+      "content": "- Alt text: Users; Nodes; Miners; Developers. Separate context: optional services. Four roles within shared protocol/public-ledger boundary; optional services outside it as context, not a fifth role. Separate can-do and cannot-do-unilaterally live areas; distributed checks, no central controller.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-026-ref.svg` and a matching `assets/reference/bd-v-026-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.",
       "source": "Accessibility and production handoff",
       "editable": true
     }
