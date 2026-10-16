@@ -1,6 +1,6 @@
 # SVG and PNG reference-image prompt
 
-This prompt applies only to pipeline-eligible assets. Do not create SVG or PNG references for an `External Image`; it is copied from its approved external source and manually inserted into the Diploma.
+This prompt applies only to pipeline-eligible assets. Do not create SVG or PNG references for an asset of type `EXTERNAL`; its approved .jpg is added directly through Sanity.
 
 ## Postponed assets
 

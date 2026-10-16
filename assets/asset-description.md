@@ -1,10 +1,10 @@
 # Bitcoin Diploma asset notes
 
 **## BD-V-001**
-**Type:** POSTPONED
-**Status:** POSTPONED
-**Purpose:** This asset has been postponed
-**Description:** This asset has been postponed
+**Type:** EXTERNAL
+**Status:** DIRECT SANITY UPLOAD
+**Purpose:** Provide the Creative Commons Attribution-ShareAlike 4.0 licence mark beside the written licence statement.
+**Description:** Add the approved .jpg directly through Sanity. Generated production work is not applicable; no brief, AI reference, or Claude package is required. This asset is not postponed.
 
 **## BD-V-002**
 **Type:** POSTPONED
@@ -13,10 +13,10 @@
 **Description:** This asset has been postponed
 
 **## BD-V-076**
-**Type:** POSTPONED
-**Status:** POSTPONED
-**Purpose:** This asset has been postponed
-**Description:** This asset has been postponed
+**Type:** EXTERNAL
+**Status:** DIRECT SANITY UPLOAD
+**Purpose:** Use the supplied JPG directly through Sanity; confirm its content and placement during publication.
+**Description:** Add the approved .jpg directly through Sanity. Generated production work is not applicable; no brief, AI reference, or Claude package is required. This asset is not postponed.
 
 **## BD-V-077**
 **Type:** Diagram

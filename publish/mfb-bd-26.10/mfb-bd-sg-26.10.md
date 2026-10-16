@@ -11,10 +11,10 @@ The Bitcoin Diploma is an independent, open-source introduction to money and Bit
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License unless stated otherwise. You may share and adapt it with attribution to My First Bitcoin, and you must use the same license for adaptations.
 
 <!-- VISUAL: BD-V-001
-TYPE: POSTPONED
-SANITY: Manually copy the approved external Creative Commons Attribution-ShareAlike 4.0 licence-mark JPEG here during Diploma production. Do not use the asset-generation or Claude pipeline.
+TYPE: EXTERNAL
+SANITY: Add the approved external Creative Commons Attribution-ShareAlike 4.0 licence-mark .jpg here directly through Sanity. Do not use the asset-generation or Claude pipeline.
 ALT: Creative Commons Attribution-ShareAlike 4.0 licence mark beside the written licence statement.
-STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
+STATUS: DIRECT SANITY UPLOAD — generated production work is not applicable; add the approved .jpg during publication.
 -->
 
 ---

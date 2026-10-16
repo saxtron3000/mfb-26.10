@@ -15,11 +15,13 @@ The Description column records whether an asset has a corresponding entry in [as
 
 ## 2026.10 release status
 
-The following assets are **POSTPONED** and will not be included in the 2026.10 Bitcoin Diploma release: `BD-V-001`, `BD-V-002`, `BD-V-003`, `BD-V-004`, `BD-V-005`, `BD-V-006`, `BD-V-007`, `BD-V-008`, `BD-V-014`, `BD-V-015`, `BD-V-020`, `BD-V-029`, `BD-V-040`, `BD-V-041`, `BD-V-049`, `BD-V-051`, `BD-V-057`, `BD-V-058`, and `BD-V-076`. Their description and guide-anchor records remain for a later reviewed release. The workflow columns below track file records only; `Created` does not mean the asset is included in 2026.10.
+The following assets are **POSTPONED** and will not be included in the 2026.10 Bitcoin Diploma release: `BD-V-002`, `BD-V-003`, `BD-V-004`, `BD-V-005`, `BD-V-006`, `BD-V-007`, `BD-V-008`, `BD-V-014`, `BD-V-015`, `BD-V-020`, `BD-V-029`, `BD-V-040`, `BD-V-041`, `BD-V-049`, `BD-V-051`, `BD-V-057`, and `BD-V-058`. Their description and guide-anchor records remain for a later reviewed release. The workflow columns below track file records only; `Created` does not mean the asset is included in 2026.10.
+
+`BD-V-001` and `BD-V-076` are **EXTERNAL — direct JPG upload through Sanity**. They are not postponed. Their generated production work is not applicable; add the approved `.jpg` files directly through Sanity. Upload completion is not recorded here.
 
 | Asset ID | Description | Brief | JSON reference | SVG/PNG reference | Uploaded to VM | MG package |
 |---|---|---|---|---|---|
-| BD-V-001 | Created | Not applicable — External Image; manually copy approved JPEG into the Diploma | Not applicable | Not applicable | Not applicable | Not applicable |
+| BD-V-001 | Created | Not applicable — EXTERNAL; add approved .jpg directly through Sanity | Not applicable | Not applicable | Not applicable | Not applicable |
 | BD-V-002 | Created | Created — `assets/briefs/bd-v-002-brief.md` | Not created | Not created | Not recorded | Not created |
 | BD-V-003 | Created | Created — `assets/briefs/bd-v-003-brief.md` | Not created | Not created | Not recorded | Not created |
 | BD-V-004 | Created | Created — `assets/briefs/bd-v-004-brief.md` | Not created | Not created | Not recorded | Not created |
@@ -94,7 +96,7 @@ The following assets are **POSTPONED** and will not be included in the 2026.10 B
 | BD-V-073 | Created | Created — `assets/briefs/bd-v-073-brief.md` | Not created | Blocked — Required canonical destination https://github.com/MyFirstBitcoin/mfb-curriculum could not be verified on 2026-10-08; web access failed. Do not generate an unverified QR. | Not recorded | Not created |
 | BD-V-074 | Created | Created — `assets/briefs/bd-v-074-brief.md` | Not created | Blocked — Index destination https://donate.myfirstbitcoin.org/ conflicts with current SG https://myfirstbitcoin.org/support-us; BD-V-074 marker is absent. Destination selection and successful live testing remain required. | Not recorded | Not created |
 | BD-V-075 | Not created | Created — `assets/briefs/bd-v-075-brief.md` | Not created | Blocked — Index explicitly says Do not produce for 2026.10. Future issuer-specific destination, privacy, correction/withdrawal rules, minimum data and governance approval are not supplied. | Not recorded | Not created |
-| BD-V-076 | Created | POSTPONED — not included in 2026.10; do not produce or place | Not applicable | Not applicable | Not applicable | Not applicable |
+| BD-V-076 | Created | Not applicable — EXTERNAL; add approved .jpg directly through Sanity | Not applicable | Not applicable | Not applicable | Not applicable |
 | BD-V-077 | Created | Created — `assets/briefs/bd-v-077-brief.md` | Not created | Blocked — Required live MFB Journey verification failed on 2026-10-08: https://journey.myfirstbitcoin.org/ was inaccessible. Stage names/order remain unverified. | Not recorded | Not created |
 | BD-V-078 | Created | Created — `assets/briefs/bd-v-078-brief.md` | Created — `assets/reference/bd-v-078-ref.json` | Created — `assets/reference/bd-v-078-ref.svg`; `assets/reference/bd-v-078-ref.png` | Not recorded | Not created |
 | BD-V-079 | Created | Created — `assets/briefs/bd-v-079-brief.md` | Not created | Blocked — Asset-index description ends at “Check every…” and assets/asset-description.md supplies no completion. The exact safety callout must be restored before production. | Not recorded | Not created |
