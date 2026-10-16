@@ -3053,7 +3053,7 @@ Named explorers, wallet-selection sites, maps, or trackers are optional interfac
 
 Use this sequence:
 
-1. Establish the English learning meaning.
+1. Establish the meaning in the source text (English version).
 2. Edit for beginner clarity, short sentences, direct voice, consistent terminology, and low ambiguity.
 3. Identify terms requiring a translator note or local replacement.
 4. Translate the meaning, not English word order.
