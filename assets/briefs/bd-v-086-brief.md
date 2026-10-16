@@ -4,11 +4,11 @@
 
 - Source capture: complete asset-index record preserved below.
 - Brief status: production-ready.
-- Source captured: 2026-10-08; brief revision 2026-10-08.
+- Source captured: 2026-10-08; brief revision 2026-10-15.
 - This brief is the primary authority for later JSON-reference creation. Consult the asset index only to resolve a documented incompleteness or conflict.
 
 ```markdown
-| `BD-V-086` | Diagram | AI | Essential |  | 389 | Makes resource ownership and the route from teaching to recorded evidence visible. | Resource relationship map; full width. | Map Student Guide, Educator Guide, Resources Hub, protocol, and Assessment Grid. Keep independent review outside certification evidence. | — |
+| `BD-V-086` | Diagram | AI | Essential |  | 389 | Makes resource ownership and the route from teaching to recorded evidence visible. | Resource relationship map; full width. | Map Student Guide, Educator Guide, Resources Hub, and Assessment Grid. | — |
 ```
 
 ## Asset definition
@@ -18,7 +18,7 @@
 - Suggested by: AI
 - Educational purpose: Makes resource ownership and the route from teaching to recorded evidence visible.
 - Required format: Landscape 16:9 reference canvas, 960 × 540; Resource relationship map; full width.
-- Required construction, elements, relationships, reading order, and qualifications: Map Student Guide, Educator Guide, Resources Hub, protocol, and Assessment Grid. Keep independent review outside certification evidence.
+- Required construction, elements, relationships, reading order, and qualifications: Map Student Guide, Educator Guide, Resources Hub, and Assessment Grid.
 - Register note: —
 
 ## Placement anchor
@@ -28,7 +28,7 @@
 
 ```markdown
 <!-- VISUAL: BD-V-086
-ALT: The Student Guide supplies explanations, the Educator Guide supports teaching, and selected Resources Hub activities support practice. The operational protocol governs evidence collection and the Assessment Grid holds private results. Optional formative review supports learning only.
+ALT: The Student Guide supplies explanations, the Educator Guide supports teaching, and selected Resources Hub activities support practice. The Assessment Grid holds private assessment results.
 ASSET: assets/briefs/bd-v-086-brief.md
 USE: Educator-only diagram; see the asset index brief.
 -->
@@ -40,33 +40,31 @@ The heading and nearby text above are the placement authority; register line num
 
 ### Teaching point and learner outcome
 
-Makes resource ownership and the route from teaching to recorded evidence visible. The learner should be able to explain the specific distinction or sequence: Student Guide; Educator Guide; Resources Hub; Operational protocol; Assessment Grid; Independent review. Preserve the qualifications below when explaining it.
+Makes resource ownership and the route from teaching to recorded evidence visible. The learner should be able to explain the specific distinction or sequence: Student Guide; Educator Guide; Resources Hub; Assessment Grid. Preserve the qualifications below when explaining it.
 
 ### Composition and reading order
 
 Pattern: Layer stack. Layout skeleton: teaching-page. Reference topology: resources. Landscape 16:9 reference canvas, 960 × 540; Resource relationship map; full width.
 
-Teaching resources connect to action, protocol and records. Independent review is visibly outside certification-evidence boundary.
+Teaching resources support learning and assessment; the Assessment Grid records private results.
 
-Controlling construction: Map Student Guide, Educator Guide, Resources Hub, protocol, and Assessment Grid. Keep independent review outside certification evidence.
+Controlling construction: Map Student Guide, Educator Guide, Resources Hub, and Assessment Grid.
 
-Reading order: Student Guide → Educator Guide → Resources Hub → Operational protocol → Assessment Grid → Independent review.
+Reading order: Student Guide → Educator Guide → Resources Hub → Assessment Grid.
 
 ### Content and live text
 
 - Editable content requirement 1: Student Guide
 - Editable content requirement 2: Educator Guide
 - Editable content requirement 3: Resources Hub
-- Editable content requirement 4: Operational protocol
-- Editable content requirement 5: Assessment Grid
-- Editable content requirement 6: Independent review
-- Authoritative content requirement: Map Student Guide, Educator Guide, Resources Hub, protocol, and Assessment Grid. Keep independent review outside certification evidence.
+- Editable content requirement 4: Assessment Grid
+- Authoritative content requirement: Map Student Guide, Educator Guide, Resources Hub, and Assessment Grid.
 - All labels, data, examples, qualifications and warnings remain editable and translation-ready. Retain source-supported wording; content requirements describe meaning and are not invented final copy.
 - Reference-stage suppression: leave copy areas clear; no visible text, numerals, punctuation, placeholder words or data in SVG/PNG. Do not draw dummy text lines as substitute copy.
 
 ### Accessibility and production handoff
 
-- Alt text: Student Guide; Educator Guide; Resources Hub; Operational protocol; Assessment Grid; Independent review. Teaching resources connect to action, protocol and records. Independent review is visibly outside certification-evidence boundary.
+- Alt text: Student Guide; Educator Guide; Resources Hub; Assessment Grid. Teaching resources support learning and assessment; the Assessment Grid records private results.
 - Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.
 - Reference image output: Codex must provide `assets/reference/bd-v-086-ref.svg` and a matching `assets/reference/bd-v-086-ref.png` when the production gate is clear; never JPG.
 - Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.
@@ -91,7 +89,6 @@ No people; no character props.
 - No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.
 - No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.
 - Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation.
-- Keep independent review outside certification evidence.
 
 ## Source conflicts or unresolved decisions
 
@@ -100,7 +97,7 @@ No people; no character props.
 ## Completion criteria
 
 - Preserve the complete BD-V-086 row and apply the controlling direction without restoring superseded construction.
-- Include all 6 specified content-bearing elements in the stated composition and reading order.
+- Include all 4 specified content-bearing elements in the stated composition and reading order.
 - Match the exact current guide headings and source anchors; never edit guide content or replace a marker in this workflow.
 - Keep each label, qualifier and warning live and translation-ready for later production; include the instructional alt text.
 - Check the specific composition in grayscale, print and at phone width; preserve purple-led flat geometry, white reference background and clear negative space.

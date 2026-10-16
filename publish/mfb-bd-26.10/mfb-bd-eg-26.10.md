@@ -407,7 +407,7 @@ Each part of the Bitcoin Diploma has a distinct function.
 | Assessment guidance and Grid | Example interactions, observable criteria, safety guidance, optional notes, and completion decisions | Teaching and supported practice |
 
 <!-- VISUAL: BD-V-086
-ALT: The Student Guide supplies explanations, the Educator Guide supports teaching, and selected Resources Hub activities support practice. The operational protocol governs evidence collection and the Assessment Grid holds private results. Optional formative review supports learning only.
+ALT: The Student Guide supplies explanations, the Educator Guide supports teaching, and selected Resources Hub activities support practice. The Assessment Grid holds private assessment results.
 ASSET: assets/briefs/bd-v-086-brief.md
 USE: Educator-only diagram; see the asset index brief.
 -->

@@ -1316,12 +1316,12 @@ To inspect a prepared [transaction](https://programs.myfirstbitcoin.org/lexicon/
 >
 > A [block explorer](https://programs.myfirstbitcoin.org/lexicon/en/#block-explorer) can show public [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) data, but it cannot prove who controls an address, why a payment happened, or whether a recipient is trustworthy. Use prepared examples for practice and protect [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy) when searching public services.
 
-### Safety checklist
-
 <!-- VISUAL: BD-V-046
 ALT: Confirmation timeline and generic block-explorer view showing public transaction status without proving identity.
 ASSET: assets/briefs/bd-v-046-brief.md
 -->
+
+### Safety checklist
 
 **Practice 3: spot a risk and stop safely**
 
