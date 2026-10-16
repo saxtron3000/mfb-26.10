@@ -1,0 +1,272 @@
+{
+  "source": "workspace/mfb-bd-workspace/08_assets.md",
+  "style": "assets/style",
+  "assets": [
+    {
+      "id": "009",
+      "title": "Barter mismatch",
+      "cast": [
+        "C04",
+        "C02",
+        "C05"
+      ],
+      "purpose": "Make incompatible direct-exchange wants visible.",
+      "alt": "Three people offer rice, shoes and cooking oil while pictorial callouts show different wants and broken arrows show exchanges failing.",
+      "file": "bd-illustration-v-009.png",
+      "role": "Text-free companion artwork; retain adjacent instructional text."
+    },
+    {
+      "id": "010",
+      "title": "Money-mediated exchange",
+      "cast": [
+        "C04",
+        "C02",
+        "C03"
+      ],
+      "purpose": "Show a person selling to one party and buying from another using a common medium.",
+      "alt": "In two consecutive scenes the same woman sells rice to a man for plain tokens, then uses the tokens to buy shoes from a different man.",
+      "file": "bd-illustration-v-010.png",
+      "role": "Text-free companion artwork; retain adjacent instructional text."
+    },
+    {
+      "id": "012",
+      "title": "Choosing among goods",
+      "cast": [
+        "C02"
+      ],
+      "purpose": "Show a learner weighing everyday alternatives without prescribing a correct choice.",
+      "alt": "A thoughtful shopper in a white hoodie considers a notebook, shoes and a cooking pot on a simple store shelf.",
+      "file": "bd-illustration-v-012.png",
+      "role": "Text-free companion artwork; retain adjacent instructional text."
+    },
+    {
+      "id": "022",
+      "title": "Transaction through shared ledger",
+      "cast": [
+        "C02",
+        "C04"
+      ],
+      "purpose": "Show two people communicating a payment through distributed verification.",
+      "alt": "A sender and receiver use phones on opposite sides of several connected computers, each displaying the same pictorial ledger.",
+      "file": "bd-illustration-v-022.png",
+      "role": "Text-free companion artwork; retain adjacent instructional text."
+    },
+    {
+      "id": "030",
+      "title": "Peer-to-peer communication",
+      "cast": [
+        "C01",
+        "C05"
+      ],
+      "purpose": "Show a route between two peers without a central approving authority.",
+      "alt": "Two peers with phones stand on opposite sides of an evenly connected network, with one path highlighted between them.",
+      "file": "bd-illustration-v-030.png",
+      "role": "Text-free companion artwork; retain adjacent instructional text."
+    },
+    {
+      "id": "035",
+      "title": "Wallet controls keys",
+      "cast": [
+        "C05"
+      ],
+      "purpose": "Show a wallet managing keys and sending instructions to a separately held ledger.",
+      "alt": "A learner uses a phone with a key symbol; an instruction travels to a separate network of public-ledger computers.",
+      "file": "bd-illustration-v-035.png",
+      "role": "Text-free companion artwork; retain adjacent instructional text."
+    },
+    {
+      "id": "039",
+      "title": "Who controls the keys",
+      "cast": [
+        "C02",
+        "C05"
+      ],
+      "purpose": "Contrast user key control and remote service key control without ranking safety.",
+      "alt": "Two equally weighted scenes show a person with a key beside their phone and a person whose phone connects to a remote server holding the key.",
+      "file": "bd-illustration-v-039.png",
+      "role": "Text-free companion artwork; retain adjacent instructional text."
+    },
+    {
+      "id": "044",
+      "title": "Receiving notification",
+      "cast": [
+        "C04"
+      ],
+      "purpose": "Make the receiver role concrete without depicting payable details.",
+      "alt": "The business owner smiles calmly at a phone displaying a pictorial incoming arrow and check mark.",
+      "file": "bd-illustration-v-044.png",
+      "role": "Text-free companion artwork; retain adjacent instructional text."
+    },
+    {
+      "id": "045",
+      "title": "Check before sending",
+      "cast": [
+        "C03"
+      ],
+      "purpose": "Reinforce reviewing checks before approving a payment.",
+      "alt": "The older learner examines a phone showing pictorial checks for recipient, destination and amount before approving anything.",
+      "file": "bd-illustration-v-045.png",
+      "role": "Text-free companion artwork; retain adjacent instructional text."
+    },
+    {
+      "id": "055",
+      "title": "Community conversation",
+      "cast": [
+        "C01",
+        "C03",
+        "C04",
+        "C05"
+      ],
+      "purpose": "Show voluntary community discussion about Bitcoin.",
+      "alt": "Four adults discuss a simple Bitcoin learning card together, with two phones resting nearby.",
+      "file": "bd-illustration-v-055.png",
+      "role": "Text-free companion artwork; retain adjacent instructional text."
+    },
+    {
+      "id": "080",
+      "title": "Lightning sender and receiver",
+      "cast": [
+        "C02",
+        "C04"
+      ],
+      "purpose": "Illustrate the sender and receiver roles in a Lightning payment.",
+      "alt": "Two adults hold phones, linked by a directional line with a small Lightning symbol.",
+      "file": "bd-illustration-v-080.png",
+      "role": "Text-free companion artwork; retain adjacent instructional text."
+    },
+    {
+      "id": "061",
+      "title": "Coffee purchase",
+      "cast": [
+        "C02",
+        "C04"
+      ],
+      "purpose": "Connect a phone payment with an ordinary merchant exchange.",
+      "alt": "A server hands a cup of coffee to a customer while both check their own phones at a simple counter.",
+      "file": "bd-illustration-v-061.png",
+      "role": "Text-free companion artwork; retain adjacent instructional text."
+    },
+    {
+      "id": "062",
+      "title": "Generic Bitcoin ATM",
+      "cast": [
+        "C05"
+      ],
+      "purpose": "Illustrate an ATM as one possible exchange route.",
+      "alt": "A technical learner holds a phone beside a generic Bitcoin ATM dispensing plain unmarked banknotes.",
+      "file": "bd-illustration-v-062.png",
+      "role": "Text-free companion artwork; retain adjacent instructional text."
+    },
+    {
+      "id": "065",
+      "title": "Circular local exchange",
+      "cast": [
+        "C01",
+        "C02",
+        "C03",
+        "C04"
+      ],
+      "purpose": "Show a hypothetical circular flow among people exchanging goods and services.",
+      "alt": "Four adults with teaching materials, shoes, repair tools and produce are connected by a clockwise payment path.",
+      "file": "bd-illustration-v-065.png",
+      "role": "Text-free companion artwork; retain adjacent instructional text."
+    },
+    {
+      "id": "071",
+      "title": "Learning network video call",
+      "cast": [
+        "C03",
+        "C01",
+        "C04",
+        "C05"
+      ],
+      "purpose": "Show informal connection with an education network.",
+      "alt": "An older learner holds tea during a video call with three fellow educators and learners.",
+      "file": "bd-illustration-v-071.png",
+      "role": "Text-free companion artwork; retain adjacent instructional text."
+    },
+    {
+      "id": "011",
+      "title": "Water and context",
+      "cast": [
+        "C02"
+      ],
+      "purpose": "Show how context changes the usefulness of the same bottle of water.",
+      "alt": "The same water bottle appears in a well-stocked shop refrigerator and beside a thirsty adult in a sparse hot setting.",
+      "file": "bd-illustration-v-011.png",
+      "role": "Text-free companion artwork; retain adjacent instructional text."
+    },
+    {
+      "id": "013",
+      "title": "Forms of money through history",
+      "cast": [],
+      "purpose": "Provide a pictorial sequence accompanying the guide's historical explanation.",
+      "alt": "A sequence of direct exchange, commodity goods, coins, representative paper, institutional money and digital devices.",
+      "file": "bd-illustration-v-013.png",
+      "role": "Text-free companion artwork; retain adjacent instructional text."
+    },
+    {
+      "id": "021",
+      "title": "Three alternative assets",
+      "cast": [],
+      "purpose": "Show three examples of assets without ranking or investment recommendation.",
+      "alt": "Three equally weighted illustrations show a house with a key handover, an unlabelled stock chart and a simple ingot.",
+      "file": "bd-illustration-v-021.png",
+      "role": "Text-free companion artwork; retain adjacent instructional text."
+    },
+    {
+      "id": "033",
+      "title": "Seven monetary properties",
+      "cast": [],
+      "purpose": "Support the guide's seven-property reference with distinct pictorial cues.",
+      "alt": "Seven linked pictorial cues represent durability, portability, divisibility, interchangeability, scarcity, verification and acceptance.",
+      "file": "bd-illustration-v-033.png",
+      "role": "Text-free companion artwork; retain adjacent instructional text."
+    },
+    {
+      "id": "042",
+      "title": "Connected and offline signing devices",
+      "cast": [],
+      "purpose": "Illustrate connectivity while leaving custody distinctions to adjacent guide text.",
+      "alt": "A phone with a connectivity symbol is paired with a dedicated hardware device whose connectivity symbol is crossed out.",
+      "file": "bd-illustration-v-042.png",
+      "role": "Text-free companion artwork; retain adjacent instructional text."
+    },
+    {
+      "id": "048",
+      "title": "Three acquisition routes",
+      "cast": [
+        "C02",
+        "C04",
+        "C05"
+      ],
+      "purpose": "Show earning, peer exchange and a generic computer-based exchange as distinct routes.",
+      "alt": "Three scenes show work rewarded through a phone payment, cash exchanged between peers and a learner using a computer-based exchange.",
+      "file": "bd-illustration-v-048.png",
+      "role": "Text-free companion artwork; retain adjacent instructional text."
+    },
+    {
+      "id": "066",
+      "title": "Merchant accepting Bitcoin",
+      "cast": [
+        "C04",
+        "C02"
+      ],
+      "purpose": "Illustrate a hypothetical merchant willing to accept Bitcoin.",
+      "alt": "A merchant stands at a produce stall with a small Bitcoin-symbol sign while a customer holds a phone.",
+      "file": "bd-illustration-v-066.png",
+      "role": "Text-free companion artwork; retain adjacent instructional text."
+    },
+    {
+      "id": "072",
+      "title": "Course completion and safety review",
+      "cast": [
+        "C02"
+      ],
+      "purpose": "Support reviewing safety responsibilities at course completion.",
+      "alt": "A learner reviews a pictorial checklist with a pen beside a phone and a blank symbolic course certificate.",
+      "file": "bd-illustration-v-072.png",
+      "role": "Text-free companion artwork; retain adjacent instructional text."
+    }
+  ]
+}
