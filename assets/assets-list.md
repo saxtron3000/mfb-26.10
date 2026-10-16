@@ -1,8 +1,8 @@
 # Bitcoin Diploma asset production log
 
-This log records the file-production status required by the asset workflow in [workspace/08_assets.md](../workspace/08_assets.md). Active brief, JSON and SVG/PNG records were checked on 2026-10-08. Postponed workflow rows retain their previous records unchanged; missing postponed files are not counted in the verified totals.
+This log records the file-production status required by the asset workflow in [workspace/mfb-bd-workspace/08_assets.md](../workspace/mfb-bd-workspace/08_assets.md). Active brief, JSON and SVG/PNG records were checked on 2026-10-08. On 2026-10-16, all 17 POSTPONED design briefs were created at the user’s request and their existing log paths were verified. These briefs remain deferred; downstream production and 2026.10 release status are unchanged.
 
-- Design briefs: 82 created
+- Design briefs: 99 created
 - Asset descriptions: 100 created
 - JSON references: 65 created; 17 blocked records saved
 - SVG/PNG references: 65 created; PNG-only references: 0 created
