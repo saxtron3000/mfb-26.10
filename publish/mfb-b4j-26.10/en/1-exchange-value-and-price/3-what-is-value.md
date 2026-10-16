@@ -43,7 +43,7 @@ Students explore the concept of value by identifying everyday items from their o
 * Sticky notes or index cards
 * Markers, pens or pencils
 * Tape or sticky putty
-* Low-tack tape (masking tape, washi tape, painters tape etc)
+* Low-tack tape (masking tape, washi tape, painter’s tape, etc.)
 * Chart paper for the four-quadrant display when a board is unavailable
 * **Nice-to-have:** A selection of objects from home
 * **Nice-to-have**: Whiteboard & markers
@@ -112,7 +112,7 @@ Students explore the concept of value by identifying everyday items from their o
 
 * Encourage respectful disagreement
 * Reinforce that there are no wrong answers
-* It can be more engaging to tape out and label the axes during the activity. This could also distract focus and lose concentration if the process is complicated.
+* It can be more engaging to tape out and label the axes during the activity. This could also distract students and break their concentration if the process is complicated.
 
 ### Extensions & Sponge Activities
 

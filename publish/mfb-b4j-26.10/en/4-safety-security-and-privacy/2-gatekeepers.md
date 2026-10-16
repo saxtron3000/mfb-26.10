@@ -113,8 +113,8 @@ Students explore the difference between public and private spaces and informatio
 
 * Add digital examples such as usernames or photos
 * Create a class rule poster for sharing information
-* Look at super-heroes and villains - why do they protect their identity?
-* Make a diagram of information each students wants to share/keep private
+* Look at superheroes and villains - why do they protect their identities?
+* Make a diagram of information each student wants to share/keep private
 
 ### Differentiation
 

@@ -1,7 +1,5 @@
 # Misconceptions Libraries
 
-# Misconceptions Libraries
-
 Common student confusions and how to guide thinking toward accurate understanding.
 
 

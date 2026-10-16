@@ -52,7 +52,7 @@ Use one row per learner on Page 2. For each competency, record **Showing compete
 
 | Code | Learner can show | Code | Learner can show |
 |---|---|---|---|
-| `C1` | Why money is used; compare forms and explain one modern-money trade-off. | `C5` | Compare payment and access pathways with their risks. |
+| `C1` | Explain why money is used; compare forms and explain one modern-money trade-off. | `C5` | Compare payment and access pathways with their risks. |
 | `C2` | Explain digital copying, verification, Bitcoin's rules and participant roles at a beginner level, and how a Bitcoin property could help or limit its use as money. | `C6†` | Safely complete or simulate wallet access and receipt; show recovery readiness without exposing secrets. |
 | `C3` | Compare Bitcoin with another digital asset and distinguish learning from speculation. | `C7†` | Complete a safe local task and explain purpose, alternative, trade-offs, possible failure, and next step. |
 | `C4` | Explain public and secret information, custody and wallet types; respond safely to a risk. |  |  |

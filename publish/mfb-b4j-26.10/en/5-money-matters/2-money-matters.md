@@ -145,7 +145,7 @@ Whole-class discussion:
 
 #### Notes
 
-Due to the complexity of this activity, this game can be spread across two sections Part 1 & Part 2. Also, once the rules have been understood, this game can be repeated over and over as many times as students are interested.
+Due to the complexity of this activity, this game can be spread across two sections: Part 1 and Part 2. Also, once the rules have been understood, this game can be repeated over and over as long as students remain interested.
 
 ### Classroom management
 

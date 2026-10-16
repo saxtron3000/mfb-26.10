@@ -88,7 +88,7 @@ Students explore how their energy changes throughout the day by plotting common 
 
 **2 minutes**
 
-1. Ask when students have most energy, what uses it, and what helps them rest. For older students, ask how to save energy for what matters.
+1. Ask when students have the most energy, what uses it, and what helps them rest. For older students, ask how to save energy for what matters.
 
 ##### Step 5: Wrap up
 
@@ -119,8 +119,8 @@ Content review with students
 
 ### Extensions & Sponge Activities
 
-* Compare school day vs weekend energy graphs, small-group graph comparisons, physical energy demo using crouch for low energy and stand tall for high energy.
-* Use the same principles to look at energy across longer time scales (weekly, seasonally, lifespan etc)
+* Compare school day vs weekend energy graphs, small-group graph comparisons, a physical energy demo using crouching for low energy and standing tall for high energy.
+* Use the same principles to look at energy across longer time scales (weeks, seasons, a lifetime, etc.).
 
 ### Differentiation
 

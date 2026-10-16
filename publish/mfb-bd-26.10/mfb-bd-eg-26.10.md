@@ -1,5 +1,4 @@
 # Bitcoin Diploma Educator Guide
-# Bitcoin Diploma Educator Guide
 
 Teaching the Bitcoin Diploma
 
@@ -118,7 +117,7 @@ USE: Educator-only diagram; see the asset index brief.
 
 **Accessibility and low-tech equivalence:** Use the communication method, translated prompt, large-print or tactile material, oral response, scribed response, prepared paper wallet screens, role-play, or offline simulation that works for the learner while preserving the required action. An equivalent route should make the competency reachable; it should not reduce it to recognition, group participation, or self-report.
 
-**Optional notes:** The Assessment Grid only requires one final **Showing competency: Yes** or **Showing competency: Not yet** result per competency and learner. Brief notes can help you remember what you saw, plan follow-up, or support a reassessment, but task IDs and lengthy evidence records are not required by the grid. Record only minimum necessary learner information and keep it private.
+**Optional notes:** The Assessment Grid only requires one final **Showing competency: Yes** or **Showing competency: Not yet** result per competency and learner. Brief notes can help you remember what you saw, plan follow-up, or support a reassessment, but task IDs and lengthy evidence records are not required by the grid. Record only the minimum necessary learner information and keep it private.
 
 ### Example theoretical interactions
 
@@ -148,7 +147,7 @@ These interactions may be woven into normal module teaching. They are examples, 
 
 #### `T3` — Custody, safety, and pathway decision (`C4`, `C5`)
 
-**Prompt:** “A person receives a message asking for their recovery words, and also wants to receive a small payment. Explain what information may be shared and what must remain secret. Compare a custodial and non-custodial option, and explain the beginner difference between a hot and [hardware wallet](https://programs.myfirstbitcoin.org/lexicon/en/#hardware-wallet). What should the person do about the message, and when should they stop or seek help? Finally, choose an on-chain or Lightning path for a guided example and explain one relevant access or exchange trade-off.”
+**Prompt:** “A person receives a message asking for their recovery words, and also wants to receive a small payment. Explain what information may be shared and what must remain secret. Compare a custodial and non-custodial option, and explain the beginner difference between a hot wallet and a [hardware wallet](https://programs.myfirstbitcoin.org/lexicon/en/#hardware-wallet). What should the person do about the message, and when should they stop or seek help? Finally, choose an on-chain or Lightning path for a guided example and explain one relevant access or exchange trade-off.”
 
 **Yes:** The learner distinguishes public receiving information from secrets, explains a [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody) trade-off and hot/[hardware-wallet](https://programs.myfirstbitcoin.org/lexicon/en/#hardware-wallet) scope, identifies a safe stop/verify/help response and beginner practical limit, and makes a pathway comparison without making a provider or investment recommendation.
 
@@ -376,7 +375,7 @@ Your job is not to give a perfect lecture. Your job is to help learners explain,
 
 The purpose of the Bitcoin Diploma is for every learner to develop and demonstrate its required competencies. Your role is to deliver the knowledge and guided practice that support those competencies, make sure learners have a fair opportunity to develop them during the cohort, and assess each learner's individual ability, competency, and practical skill against the stated criteria.
 
-Before you issue or recommend a learner for a certificate of completion, confirm that the learner has demonstrated every required competency through the approved evidence: observable explanation, comparison, reasoning, or application for theory, and direct educator observation for practical skills. Attendance, confidence, independent review, or a learner's own claim of ability cannot replace this evidence.
+Before you issue a certificate of completion to a learner or recommend them for one, confirm that the learner has demonstrated every required competency through the approved evidence: observable explanation, comparison, reasoning, or application for theory, and direct educator observation for practical skills. Attendance, confidence, independent review, or a learner's own claim of ability cannot replace this evidence.
 
 You are responsible for helping learners:
 
@@ -450,7 +449,7 @@ Local relevance is essential, but it must not create a different Bitcoin Diploma
 
 | Fixed | Adaptable | Flexible with guardrails |
 | --- | --- | --- |
-| Four-module Bitcoin Diploma architecture; required competencies and competency criteria; Bitcoin-only focus; **Modules 1–2** theory-based competencies; **Modules 3–4** practical competencies; safety boundaries; two-part assessment; competency-to-evidence alignment; minimum certification standard | Examples; activities; case studies; facilitation style; classroom grouping; named local tools; local resources; language examples; practical environment; merchant or spending scenario | Session grouping; delivery mode; translated wording; local legal, tax, privacy, and safety context; educator-curated **Module 3–4** depth; use of QR codes or current online resources |
+| Four-module Bitcoin Diploma architecture; required competencies and competency criteria; Bitcoin-only focus; **Modules 1–2** theory-based competencies; **Modules 3–4** practical competencies; safety boundaries; two-part assessment; competency-to-evidence alignment; minimum certification standard | Examples; activities; case studies; facilitation style; classroom grouping; named local tools; local resources; language examples; practical environment; merchant or spending scenario | Session grouping; delivery mode; translated wording; local legal, tax, privacy, and safety context; educator-curated **Modules 3–4** depth; use of QR codes or current online resources |
 
 You may:
 
@@ -685,7 +684,7 @@ Move optional history, extra analogies, extended debates, detailed mechanics, an
 
 - Confirm the cohort, language, accessibility, safeguarding, venue, and schedule.
 - Read the relevant Student Guide sections and competency map.
-- Select the **Module 4** module and any local expert.
+- Select the **Module 4** activity and any local expert.
 - Verify local banking, [inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation), payment, legal, tax, privacy, and tool information that will be used.
 - Browse the [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) for classroom ideas, then select activities and assessment tasks that fit the competencies and your cohort.
 - Plan practical environments, amounts, roles, stop conditions, and reset procedures.
@@ -1122,7 +1121,7 @@ Use different purposes. Ask which properties matter for:
 - keeping an emergency reserve; and
 - recording business [prices](https://programs.myfirstbitcoin.org/lexicon/en/#price).
 
-Then ask whether the same form of money performs equally well in every purpose and place.
+Then ask whether the same form of money performs equally well for every purpose and in every place.
 
 #### Activity: money-properties comparison
 
@@ -1323,7 +1322,7 @@ Avoid assigning every [price](https://programs.myfirstbitcoin.org/lexicon/en/#pr
 
 #### Activity: purchasing-power investigation
 
-**Before class:** Choose one familiar item and find a reliable current and historical [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) if possible. Locate the official [inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation) measure and its basket or methodology. You can use the [Bitcoin Diploma AI assistant](https://ai.myfirstbitcoin.org) to develop questions about the methodology, then check the explanations and figures against the original statistical publication.
+**Before class:** Choose one familiar item and find reliable records of its current and historical [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) if possible. Locate the official [inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation) measure and its basket or methodology. You can use the [Bitcoin Diploma AI assistant](https://ai.myfirstbitcoin.org) to develop questions about the methodology, then check the explanations and figures against the original statistical publication.
 
 **Learner task:** Compare the item's [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) across time, ask whether income changed similarly, and name other possible causes. Then compare the item with the official measure.
 
@@ -1571,7 +1570,7 @@ Qualify the claim:
 Peer-to-peer does not mean only two computers communicate directly or that no infrastructure is used. It means a central Bitcoin account operator is not required to authorize a valid transfer.
 
 <!-- VISUAL: BD-V-026
-ALT: Users, nodes, miners, developers, and services have different powers and limits around a shared protocol; distributed enforcement does not imply equal influence.
+ALT: Users, nodes, miners, and developers have different powers and limits around a shared protocol; optional services sit outside the protocol boundary. Distributed enforcement does not imply equal influence.
 ASSET: assets/briefs/bd-v-026-brief.md
 USE: Shared Student Guide master.
 -->
@@ -1581,7 +1580,7 @@ ALT: The educator uses a pointer to explain a network on a presentation board to
 ASSET: assets/illustrations/bd-illustration-020.png
 -->
 
-### Users, nodes, miners, developers, and services
+### Users, nodes, miners, and developers
 
 Use these exact beginner boundaries:
 
@@ -1591,11 +1590,12 @@ Use these exact beginner boundaries:
 | [Node](https://programs.myfirstbitcoin.org/lexicon/en/#node) | Independently checks transactions and blocks against its rules and relays valid data | Creates new blocks or dictates rules to everyone |
 | [Miner](https://programs.myfirstbitcoin.org/lexicon/en/#miner) | Builds [candidate blocks](https://programs.myfirstbitcoin.org/lexicon/en/#candidate-block) and performs [proof of work](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work) to propose their order | Can make invalid issuance or transactions valid to honest [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node) |
 | Developer | Reviews, writes, and proposes software | Can force participants to adopt a rule change |
-| [Bitcoin service](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-service) | Provides a wallet, exchange, explorer, payment, or other interface | Is the [Bitcoin protocol](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-protocol) itself |
+
+A [Bitcoin service](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-service) provides a wallet, exchange, explorer, payment, or other interface. Explain services as optional tools or intermediaries, not as a fifth participant role or as the [Bitcoin protocol](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-protocol) itself.
 
 <!-- VISUAL: BD-V-031
-ALT: Users authorize or accept transactions, nodes verify, miners propose blocks, developers propose software, and services support customers; no single role controls the network.
-ASSET: assets/briefs/bd-v-031-brief.md
+ALT: Users authorize or accept transactions, nodes verify, miners propose blocks, and developers propose software; no single role controls the network.
+            ASSET: assets/briefs/bd-v-031-brief.md
 USE: Shared Student Guide master.
 -->
 
@@ -1991,7 +1991,7 @@ Prefer well-established open-source wallet software where it fits the learner's 
 
 Teach an on-chain [Bitcoin address](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-address-wallet-address) as public receiving information generated from wallet keys. It is not a password, account login, or proof that the person requesting payment is trustworthy.
 
-Good beginner behavior includes:
+Teach these beginner habits:
 
 - obtain the address from the intended receiving wallet
 - confirm Bitcoin and the correct network
@@ -2118,7 +2118,7 @@ USE: Shared Student Guide master.
 
 **Practice:** Learners sequence prepared cards or restore a disposable training wallet in a private, controlled environment. They must keep the material out of view and identify unsafe requests.
 
-**Production:** The learner explains or demonstrates:
+**Production:** The learner explains or demonstrates how to:
 
 1. use official instructions for the exact wallet.
 2. confirm recovery compatibility.
@@ -3001,7 +3001,7 @@ USE: Educator-only diagram; see the asset index brief.
 
 ### Module 4 evidence
 
-The selected local activity should let the educator notice the `C7` competency as the learner:
+The selected local activity should let the educator notice the `C7` competency by observing whether the learner can:
 
 - identify the local purpose
 - complete the required action or simulation in the correct sequence
@@ -3211,7 +3211,7 @@ Use peer interaction for learning, not peer certification.
 - Assign group roles so everyone speaks and decides.
 - Use response cards, brief writing, or paired explanation to hear more learners.
 - Rotate practical stations with trained support.
-- Reserve direct observation for educator.
+- Reserve direct observation for the educator.
 - Schedule separate practical assessment if visibility is limited.
 - Keep educator-to-learner workload low enough for defensible decisions.
 

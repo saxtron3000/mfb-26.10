@@ -110,7 +110,6 @@ If teachers prefer, other stories can be selected for reading. The focus of this
 
 * Keep storytelling interactive with predictions and gestures
 * Use pauses to manage attention and engagement
-*
 
 ### Extensions & Sponge Activities
 

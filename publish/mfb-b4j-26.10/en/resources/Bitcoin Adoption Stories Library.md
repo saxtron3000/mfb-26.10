@@ -1,7 +1,5 @@
 # Bitcoin Adoption Stories Library
 
-# Bitcoin Adoption Stories Library
-
 Real-world examples of individuals, merchants, and institutions adopting Bitcoin.
 
 

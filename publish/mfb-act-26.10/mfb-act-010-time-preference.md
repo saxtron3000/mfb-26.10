@@ -49,7 +49,7 @@ Discuss the decision-making process and time preference.
 
 #### Discussion questions
 
-What influenced your decision? How do you feel about it now? Where can high time preference be harmful or low time preference beneficial? What are consequences of choosing high time preference?
+What influenced your decision? How do you feel about it now? Where can high time preference be harmful or low time preference beneficial? What are the consequences of choosing high time preference?
 
 #### Notes
 

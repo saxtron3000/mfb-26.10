@@ -8,7 +8,7 @@
 - This brief is the primary authority for later JSON-reference creation. Consult the asset index only to resolve a documented incompleteness or conflict.
 
 ```markdown
-| `BD-V-031` | Diagram | AI | Essential | 739 | 1518 | Gives beginners a durable model of who does what in Bitcoin. | Participant role map; full width. | Show users signing or accepting transactions; nodes validating and relaying; miners assembling candidate blocks and performing proof of work; developers proposing software; services serving customers. Then show the checks among roles. Do not label all wallet users as nodes or developers as rule-makers. | — |
+| `BD-V-031` | Diagram | AI | Essential | 739 | 1518 | Gives beginners a durable model of who does what in Bitcoin. | Participant role map; full width. | Show users signing or accepting transactions; nodes validating and relaying; miners assembling candidate blocks and performing proof of work; developers proposing software. Then show the checks among roles. Do not label all wallet users as nodes or developers as rule-makers. | — |
 ```
 
 ## Asset definition
@@ -23,19 +23,19 @@
 
 ## Placement anchor
 
-- Student Guide: exact heading `### Users, [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node), and [miners](https://programs.myfirstbitcoin.org/lexicon/en/#miner)`; source anchor:
+- Student Guide: exact heading `### Users, [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node), [miners](https://programs.myfirstbitcoin.org/lexicon/en/#miner), and developers`; source anchor:
 
 ```markdown
 <!-- VISUAL: BD-V-031
-ALT: Roles of users, nodes, miners, developers, and services with arrows showing how they limit one another.
+ALT: Roles of users, nodes, miners, and developers with arrows showing how they limit one another.
 ASSET: assets/briefs/bd-v-031-brief.md
 -->
 ```
-- Educator Guide: exact heading `### Users, nodes, miners, developers, and services`; source anchor:
+- Educator Guide: exact heading `### Users, nodes, miners, and developers`; source anchor:
 
 ```markdown
 <!-- VISUAL: BD-V-031
-ALT: Users authorize or accept transactions, nodes verify, miners propose blocks, developers propose software, and services support customers; no single role controls the network.
+ALT: Users authorize or accept transactions, nodes verify, miners propose blocks, and developers propose software; no single role controls the network.
 ASSET: assets/briefs/bd-v-031-brief.md
 USE: Shared Student Guide master.
 -->
@@ -53,7 +53,7 @@ Teach the relationship in the controlling direction: User: signs or accepts. The
 
 Pattern: Comparison pair variant: four roles. Layout skeleton: teaching-page. Reference topology: quadrants. Landscape 16:9 reference canvas, 960 × 540; Participant role map; full width.
 
-Four equal quadrants, read top-left to bottom-right. Show person, server, mining hardware and computer user. Service context stays adjacent; do not make developers rule-makers.
+Four equal quadrants, read top-left to bottom-right. Show person, server, mining hardware and computer user. Explain optional services in the adjacent guide text, not as a fifth role in this diagram; do not make developers rule-makers.
 
 Controlling construction: Use a four-part square with an image and title for each role: user, node, miner, and developer. Show a regular person, a server, mining hardware, and a person working at a computer respectively.
 
@@ -71,7 +71,7 @@ Reading order: User: signs or accepts → Node: validates and relays → Miner: 
 
 ### Accessibility and production handoff
 
-- Alt text: User: signs or accepts; Node: validates and relays; Miner: candidate blocks and proof of work; Developer: proposes software. Four equal quadrants, read top-left to bottom-right. Show person, server, mining hardware and computer user. Service context stays adjacent; do not make developers rule-makers.
+- Alt text: User: signs or accepts; Node: validates and relays; Miner: candidate blocks and proof of work; Developer: proposes software. Four equal quadrants, read top-left to bottom-right. Show person, server, mining hardware and computer user. Explain optional services in the adjacent guide text, not as a fifth role in this diagram; do not make developers rule-makers.
 - Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.
 - Reference image output: Codex must provide `assets/reference/bd-v-031-ref.svg` and a matching `assets/reference/bd-v-031-ref.png` when the production gate is clear; never JPG.
 - Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.

@@ -1,7 +1,5 @@
 # Transaction Anatomy Guide
 
-# Transaction Anatomy Guide
-
 Understanding what happens inside a Bitcoin transaction.
 
 
@@ -170,7 +168,7 @@ During low congestion: low fee acceptable
 
 ## **Common Questions**
 
-### **Q: What if I set fee too low?**
+### **Q: What if I set the fee too low?**
 
 A: Transaction stays in mempool. Miners skip it for higher-fee transactions. Eventually, it might be confirmed (when network is empty) or expire after \~2 weeks (then rebroadcast).
 
@@ -180,7 +178,7 @@ A: No. Once broadcast, you cannot cancel. You can only send a new transaction wi
 
 ### **Q: Why do I need a change address?**
 
-A: Bitcoin doesn't do "partial spending." You spend entire UTXO. Change address receives the leftover.
+A: Bitcoin doesn't do "partial spending." You spend the entire UTXO. Change address receives the leftover.
 
 ### **Q: Is my transaction private?**
 
@@ -188,7 +186,7 @@ A: No. All transactions are public on [blockchain](https://programs.myfirstbitco
 
 ### **Q: Can a transaction be reversed?**
 
-A: Only by miner coordination (unlikely after 6 confirmations). Bitcoin transactions are irreversible; unlike credit cards.
+A: Only by miner coordination (unlikely after 6 confirmations). Bitcoin transactions are irreversible, unlike credit card payments.
 
 
 ---

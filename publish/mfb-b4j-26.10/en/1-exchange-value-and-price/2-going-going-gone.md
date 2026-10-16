@@ -39,7 +39,7 @@ In this activity, students take part in a classroom auction using “shells” (
 ### Materials
 
 * 10 small classroom objects (fun or useful: stickers, pencils, snacks, erasers, funny hats, toys, etc.)
-* Shells (or paper tokens/coins if no shells available) — at least 3–5 per student
+* Shells (or paper tokens/coins if no shells are available) — at least 3–5 per student
 * Whiteboard or chart paper and marker for a bid record visible to the whole class
 * **Nice-to-have**: Auction bell or clap/signal
 
@@ -100,11 +100,11 @@ In this activity, students take part in a classroom auction using “shells” (
 
 ### Classroom management
 
-* Some students may find this concept unfair. They may have been outbid on items they wanted. Be aware that this could be a negative learning experience. Offer the possibility of further trade and [barter](https://programs.myfirstbitcoin.org/lexicon/en/#barter-bartering) (see _Differentiation_ below)
+* Some students may find this concept unfair. They may have been outbid on items they wanted. Be aware that this could be a negative learning experience. Offer the possibility of further trade and [barter](https://programs.myfirstbitcoin.org/lexicon/en/#barter-bartering) (see _Differentiation_ below).
 
 ### Differentiation
 
-* Modulating the distribution of tokens can change the outcome of the activity. The simplest, and fairest method is to distribute the tokens equally. However, this is not the most realistic situation. Unequal distribution may be suitable with more advanced students to discuss financial mobility and inequality.
+* Modulating the distribution of tokens can change the outcome of the activity. The simplest and fairest method is to distribute the tokens equally. However, this is not the most realistic situation. Unequal distribution may be suitable with more advanced students to discuss financial mobility and inequality.
 * Younger students: If bidding is not easy for students, it is possible to ask around the group in turn.
 * ELL/Accessibility: Children can indicate their bid by placing shells at the centre of the table, poker-style.
 

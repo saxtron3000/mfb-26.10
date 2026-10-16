@@ -9,7 +9,7 @@ Juniors • Interactive group activity - Personal reflection
 ## Participation
 
 * In-person
-* Whole class for collaborative activities, then individual or pairs for reflection
+* Whole class for collaborative activities, then individual work or pair work for reflection
 
 ## Duration
 
@@ -28,7 +28,7 @@ By the end of this activity, learners will:
 
 **Objective In Student's Words**
 
-* "Explore out what I do for work, rest, and play, and see if I have a good balance."
+* "Explore what I do for work, rest, and play, and see if I have a good balance."
 
 ## Description
 

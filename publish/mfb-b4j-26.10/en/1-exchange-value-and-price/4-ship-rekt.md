@@ -46,7 +46,7 @@ In this whole-class simulation, students roleplay as shipwrecked survivors who m
 * Timer/phone stopwatch
 * Whiteboard or screen
 * Marker pen
-* **Nice-to-have:** Visual aids (_See Appendix A & B_), treasure map, reward stickers
+* **Nice-to-have:** Visual aids (_See Appendices A & B_), treasure map, reward stickers
 * **Nice-to-have**: Projector, bell/signal for time, music for the treasure hunt, labelled containers for the used-card pile and shells
 
 #### Setup
@@ -244,7 +244,7 @@ Randomly distribute the wish-list items (for example, an airdrop scattered them)
 * What items were **expensive**? Why? Where did **supply** feel low? What strategies worked?
 * “Money made trading easier because ______.”
 * Barter was hard → shells helped (commodity money) → money solves coincidence of wants.
-* Bridge to Bitcoin – discuss that Bitcoin is a money that helps people exchange goods and services, then one difference between Bitcoin and shells.
+* Bridge to Bitcoin – discuss that Bitcoin is a money that helps people exchange goods and services, then discuss one difference between Bitcoin and shells.
 * Gather materials and verify that all playing cards have been returned for equal distribution in a future activity.
 
 #### Key points
@@ -263,7 +263,7 @@ Randomly distribute the wish-list items (for example, an airdrop scattered them)
 
 ### Classroom management
 
-* Set “Marketplace” boundaries; use a call-back (eg. “Bit, block… BOOM!”).
+* Set “Marketplace” boundaries; use a call-back (e.g., “Bit, block… BOOM!”).
 * Trading rules posted: 1) Be kind, 2) Offer/Counteroffer, 3) No grabbing, 4) Finalize by handshake/high-five, 5) Return to places on call-back.
 * If required, assign roles (Banker/Pirate helpers, Market Monitors) to channel energy and support younger learners.
 
@@ -271,7 +271,7 @@ Randomly distribute the wish-list items (for example, an airdrop scattered them)
 
 * **Draw your island store** and price three items in shells.
 * **Mental math**: If you have 12 shells and win an auction for 9 shells, what’s left?
-* Make a **venn diagram** to show what kids [value](https://programs.myfirstbitcoin.org/lexicon/en/#value) at home and on the island - are there objects which fall into both?
+* Make a **Venn diagram** to show what kids [value](https://programs.myfirstbitcoin.org/lexicon/en/#value) at home and on the island - are there objects which fall into both?
 * **Top 10 Wishlist** - ask students to write a list of the top 10 items they would pack if they were going to a desert island.
 
 ### Differentiation

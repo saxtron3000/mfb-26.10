@@ -14,7 +14,7 @@ These are **talk moves**—the strategic questions and responses teachers use to
 * **Connect ideas:** Show how concepts relate across time and experience
 * **Navigate disagreement:** Make respectful debate safe and productive
 
-In Chapter 1, these prompts become essential when exploring **abstract concepts** like [scarcity](https://programs.myfirstbitcoin.org/lexicon/en/#scarcity), trade-offs, and the properties of money. A well-timed question "Why do you think that?" can transform a lecture into genuine inquiry.
+In Chapter 1, these prompts become essential when exploring **abstract concepts** like [scarcity](https://programs.myfirstbitcoin.org/lexicon/en/#scarcity), trade-offs, and the properties of money. A well-timed question such as "Why do you think that?" can transform a lecture into genuine inquiry.
 
 **How to Use:** Select prompts based on what you want to achieve in the moment. Mix and match across chapters. Encourage trainers to practice using these naturally (not as a script).
 
@@ -29,7 +29,7 @@ Use these to encourage students to elaborate, explain reasoning, and go beyond s
 
 * Pushes students to articulate reasoning
 * Reveals assumptions and misconceptions
-* Builds critical thinking habit
+* Builds a critical thinking habit
 * *When:* After any student answer; use multiple times per session
 
 **"Can you explain that more?"**
@@ -242,7 +242,7 @@ Use these at transitions or closures to deepen learning and set up next thinking
 
 * "You just tested that claim with an example—that's how critical thinking works."
 * "Notice how \[student\] connected this to something we learned last week."
-* Make thinking moves visible and praised.
+* Make thinking moves visible and praise them.
 
 **4. Normalize Disagreement**
 

@@ -71,7 +71,7 @@ In this activity, learners simulate Bitcoin mining using playing cards as hashes
 
 ###### Setup
 
-1. Divide students into teams of 3–4 and give each one WALLET envelope. Place word cards face down in the MEMPOOL area and the BLOCK envelope at the front.
+1. Divide students into teams of 3–4 and give each team one WALLET envelope. Place word cards face down in the MEMPOOL area and the BLOCK envelope at the front.
 
 ###### Carry Out
 
@@ -121,7 +121,7 @@ In this activity, learners simulate Bitcoin mining using playing cards as hashes
 
 * Younger students: Using the word cards directly in the mining pool may make things easier.
 * ELL/Accessibility: Add picture support to vocabulary cards. Allow peer reading assistance.
-* Safety: Clear space around the mining pool. No running
+* Safety: Clear space around the mining pool. No running.
 
 ### Suggested assignment
 

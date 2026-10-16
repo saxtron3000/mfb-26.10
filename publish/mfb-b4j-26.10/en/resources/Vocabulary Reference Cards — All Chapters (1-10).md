@@ -79,7 +79,7 @@ Quick lookup for key terms in each chapter. **Print, bookmark, or share with stu
 
 | Term | Definition | Example |
 |------|------------|---------|
-| **Purchasing Power** | How much goods and services your money can buy | If $100 buys 100 loaves in Year 1, but only 80 loaves in Year 2, purchasing power declined |
+| **Purchasing Power** | The quantity of goods and services your money can buy | If $100 buys 100 loaves in Year 1, but only 80 loaves in Year 2, purchasing power declined |
 | **[Monetary Inflation](https://programs.myfirstbitcoin.org/lexicon/en/#monetary-inflation)** | Increase in money supply in the economy | Central bank creating new money through lending |
 | **[Price Inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflation)** | General rise in prices of goods and services | Loaf of bread costs $2 today, $3 tomorrow |
 | **[Debt](https://programs.myfirstbitcoin.org/lexicon/en/#debt) Burden** | Total amount of money owed across economy (government, businesses, individuals) | National debt, mortgages, student loans accumulating |
@@ -219,7 +219,7 @@ Quick lookup for key terms in each chapter. **Print, bookmark, or share with stu
 | **Sound Money** | Money with fixed supply that resists debasement | Bitcoin (fixed 21M supply) vs. fiat (unlimited supply) |
 | **Unsound Money** | Money that can be inflated by authorities at will | Fiat currency; purchasing power continuously erodes |
 | **Hyperinflation** | Extreme, rapid inflation where currency becomes nearly worthless | Venezuela (2+ million % annually), Zimbabwe, Argentina |
-| **Currency Crisis** | Loss of confidence in a currency causing collapse in value | Lebanon lira, Turkish lira, others |
+| **Currency Crisis** | Loss of confidence in a currency causing collapse in value | Lebanese lira, Turkish lira, others |
 | **Banking the [Unbanked](https://programs.myfirstbitcoin.org/lexicon/en/#unbanked)** | Providing financial services to people without bank accounts | Bitcoin accessible to anyone with phone + internet |
 | **Remittance Corridor** | Path of money sent from migrant workers to home country | Philippines, Mexico, El Salvador receive large remittances |
 | **Economic Freedom** | Ability to control, move, save your money without state interference | Bitcoin enables this globally |
@@ -229,4 +229,4 @@ Quick lookup for key terms in each chapter. **Print, bookmark, or share with stu
 
 ---
 
-*Each card provides quick reference. For deeper understanding, refer to the corresponding chapter in the Teachers Guide.*
+*Each card provides quick reference. For deeper understanding, refer to the corresponding chapter in the Teacher Guide.*

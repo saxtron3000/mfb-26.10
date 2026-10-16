@@ -76,7 +76,7 @@ Students listen to the story of Satoshi and the Genesis of Bitcoin. Through guid
   * When the bank closes – What is the problem?
   * When Satoshi works late – Why is effort important?
   * When the white paper is presented – What does it mean to share an idea with the world?
-  * When Genesis Block is mentioned – What does beginning mean?
+  * When the Genesis Block is mentioned – What does beginning mean?
   * When the network must stay alive – Who keeps it alive?
 1. Keep pauses short to preserve immersion.
 
@@ -111,7 +111,7 @@ Students listen to the story of Satoshi and the Genesis of Bitcoin. Through guid
   * Satoshi presented ______ to the world.
   * The network stays alive when ______.
 * Collect responses.
-* Set-up the next activity by mentioning that we will explore where Satoshi disappeared to.
+* Set up the next activity by mentioning that we will explore where Satoshi disappeared to.
 
 #### Notes
 

@@ -1,7 +1,5 @@
 # Satoshi White Paper Summary Guide
 
-# Satoshi White Paper Summary Guide
-
 Simplified breakdown of "Bitcoin: A Peer-to-Peer Electronic Cash System" (Oct 31, 2008)
 
 

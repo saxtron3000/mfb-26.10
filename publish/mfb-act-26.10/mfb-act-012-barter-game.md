@@ -27,7 +27,7 @@ Participants trade paper cards showing goods they have and goods they want, atte
 **Materials**
 
 - Paper sheets cut into rectangles
-- Macaroni, similar
+- Macaroni or a similar item
 
 Prepare cards showing each student’s “have” and “want.”
 
@@ -47,7 +47,7 @@ Ask how many participants achieved their goal after one, two, or three trades. D
 
 ##### Step 3
 
-Give each student one macaroni and assume every good costs one macaroni. Repeat the goal and discuss commodity money.
+Give each student one piece of macaroni and assume every good costs one piece of macaroni. Repeat the goal and discuss commodity money.
 
 #### Key points
 
