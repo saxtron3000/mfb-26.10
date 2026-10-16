@@ -1,14 +1,55 @@
 # Bitcoin Diploma illustration index
 
-30 illustrations: 12 for the Student Guide, 12 for the Educator Guide, and 6 generic illustrations featuring all six characters for use in either guide. Each reference is provided as a PNG. No visible text, numerical data, QR codes, or wordmarks appear in the artwork.
+All 34 illustrations have a fixed placement: **17 in the Student Guide and 17 in the Educator Guide**. This includes the six full-cast scenes and four learning scenes featuring women. Each illustration is supplied as a PNG.
 
 ## Placement and print use
 
-Suggested insertions refer to source Markdown line numbers checked on 15 October 2026, not finished print page numbers. Place the illustration beside the named section, after its heading or opening explanation. The guide files themselves have not been changed. Line numbers should be refreshed if the guide text changes.
+Each guide contains an `ILLUSTRATION: BD-ILLUSTRATION-NNN` production marker at the end of its assigned section, immediately before the next heading. The marker gives the PNG asset path and alt text. These comments reserve a full-page visual pause for page layout; they do not display an image in a plain Markdown preview. Retain the existing technical visual markers separately.
 
-PNGs are A5 portrait, **148 × 210 mm**, with white backgrounds. They retain native generated resolution with A5 physical-size metadata; the pixel dimensions are recorded below.
+The table and detailed entries link to the exact placement-marker lines in the current Markdown sources, checked on 15 October 2026. These are source line references, not finished print page numbers. Refresh this index after guide edits change line numbers.
+
+PNGs are A5 portrait, **148 × 210 mm**, with white backgrounds. They retain native generated resolution with A5 physical-size metadata; pixel dimensions are recorded below. No visible text, numerical data, QR codes, or wordmarks appear in the artwork.
 
 Keep surrounding headings and explanations in the guide layout. The illustrations accompany the teaching text; their unlabelled device screens and diagrams are illustrative, not payment instructions or complete technical diagrams.
+
+## Allocation overview
+
+| Illustration | Guide | Section | Placement line |
+| --- | --- | --- | --- |
+| [bd-illustration-025](bd-illustration-025.png) | Student Guide | About Us | [Line 33](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L33) |
+| [bd-illustration-033](bd-illustration-033.png) | Student Guide | Flexible learning | [Line 155](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L155) |
+| [bd-illustration-001](bd-illustration-001.png) | Student Guide | Discussion and privacy expectations | [Line 181](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L181) |
+| [bd-illustration-026](bd-illustration-026.png) | Student Guide | Opening questions about money | [Line 294](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L294) |
+| [bd-illustration-028](bd-illustration-028.png) | Student Guide | Functions and properties of money | [Line 361](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L361) |
+| [bd-illustration-002](bd-illustration-002.png) | Student Guide | Decentralization | [Line 777](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L777) |
+| [bd-illustration-003](bd-illustration-003.png) | Student Guide | Users, nodes, and miners | [Line 835](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L835) |
+| [bd-illustration-004](bd-illustration-004.png) | Student Guide | Proof of work | [Line 866](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L866) |
+| [bd-illustration-005](bd-illustration-005.png) | Student Guide | Wallets | [Line 1128](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1128) |
+| [bd-illustration-006](bd-illustration-006.png) | Student Guide | Hot and cold wallets | [Line 1281](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1281) |
+| [bd-illustration-007](bd-illustration-007.png) | Student Guide | Receiving bitcoin | [Line 1329](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1329) |
+| [bd-illustration-008](bd-illustration-008.png) | Student Guide | Sending bitcoin | [Line 1360](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1360) |
+| [bd-illustration-009](bd-illustration-009.png) | Student Guide | Verification, block explorers, and irreversible transactions | [Line 1384](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1384) |
+| [bd-illustration-010](bd-illustration-010.png) | Student Guide | On-chain and Lightning payments | [Line 1482](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1482) |
+| [bd-illustration-031](bd-illustration-031.png) | Student Guide | Practical workshops and demonstrations | [Line 1610](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1610) |
+| [bd-illustration-011](bd-illustration-011.png) | Student Guide | Local spending and receiving scenarios | [Line 1799](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1799) |
+| [bd-illustration-012](bd-illustration-012.png) | Student Guide | Circular economies | [Line 1901](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1901) |
+| [bd-illustration-013](bd-illustration-013.png) | Educator Guide | The page-by-page teaching rhythm | [Line 319](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L319) |
+| [bd-illustration-027](bd-illustration-027.png) | Educator Guide | Open the course with clear expectations | [Line 526](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L526) |
+| [bd-illustration-014](bd-illustration-014.png) | Educator Guide | Welcome disagreement and correct error | [Line 559](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L559) |
+| [bd-illustration-015](bd-illustration-015.png) | Educator Guide | Think–pair–share | [Line 784](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L784) |
+| [bd-illustration-016](bd-illustration-016.png) | Educator Guide | Demonstration with prediction | [Line 829](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L829) |
+| [bd-illustration-030](bd-illustration-030.png) | Educator Guide | Debrief every activity | [Line 865](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L865) |
+| [bd-illustration-017](bd-illustration-017.png) | Educator Guide | Low-tech teaching: focus on interaction | [Line 882](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L882) |
+| [bd-illustration-018](bd-illustration-018.png) | Educator Guide | Universal stop conditions | [Line 983](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L983) |
+| [bd-illustration-019](bd-illustration-019.png) | Educator Guide | Barter and the double coincidence of wants | [Line 1168](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L1168) |
+| [bd-illustration-020](bd-illustration-020.png) | Educator Guide | Decentralization and peer-to-peer transfer | [Line 1579](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L1579) |
+| [bd-illustration-021](bd-illustration-021.png) | Educator Guide | Proof of work | [Line 1644](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L1644) |
+| [bd-illustration-032](bd-illustration-032.png) | Educator Guide | Strong Module 2 activities | [Line 1808](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L1808) |
+| [bd-illustration-022](bd-illustration-022.png) | Educator Guide | Activity: recovery-readiness simulation | [Line 2143](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L2143) |
+| [bd-illustration-023](bd-illustration-023.png) | Educator Guide | Module option D: merchant payment and refund flow | [Line 2859](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L2859) |
+| [bd-illustration-034](bd-illustration-034.png) | Educator Guide | Activity purpose comes first | [Line 3240](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L3240) |
+| [bd-illustration-029](bd-illustration-029.png) | Educator Guide | 14. Use visuals as teaching tools | [Line 3387](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L3387) |
+| [bd-illustration-024](bd-illustration-024.png) | Educator Guide | Capstone discussion | [Line 3409](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L3409) |
 
 ## Recurring cast
 
@@ -21,13 +62,39 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 | C05 | Technical learner: short dark curls, rectangular glasses, purple hoodie and cargo trousers. |
 | C06 | Young learner: orange beanie, long dark hair, white T-shirt and purple cargo trousers; offline classroom participation only. |
 
-## Student Guide: 001–012
+Scenes 025–030 include all six characters. Scenes 031–034 feature both adult women, C01 and C04; C06 joins the network lesson and offline card activity.
+
+## Student Guide — 17 illustrations
+
+### bd-illustration-025 — Welcome to the learning group
+
+[PNG](bd-illustration-025.png) · PNG: 1054 × 1492 px
+
+**Placement:** Student Guide, “[About Us](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L33)”, **line 33** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:33`).
+
+**Cast:** C01, C02, C03, C04, C05, C06.
+
+**Scene / alt text:** The educator welcomes the beginner, older learner, business owner, technical learner, and young learner into a shared learning group.
+
+**Educational purpose:** Show a welcoming, inclusive learning community with all six recurring characters.
+
+### bd-illustration-033 — Studying the guide as a pair
+
+[PNG](bd-illustration-033.png) · PNG: 1054 × 1493 px
+
+**Placement:** Student Guide, “[Flexible learning](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L155)”, **line 155** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:155`).
+
+**Cast:** C01, C04.
+
+**Scene / alt text:** The business owner points to a simple diagram in an open guide while the educator discusses it with her at a classroom table.
+
+**Educational purpose:** Show women comparing an explanation and developing understanding through shared reading.
 
 ### bd-illustration-001 — Questions are welcome
 
 [PNG](bd-illustration-001.png) · PNG: 1054 × 1492 px
 
-**Placement:** Student Guide, “[Discussion and privacy expectations](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L150)”, **line 150** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:150`).
+**Placement:** Student Guide, “[Discussion and privacy expectations](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L181)”, **line 181** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:181`).
 
 **Cast:** C01, C02, C03.
 
@@ -35,11 +102,35 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 
 **Educational purpose:** Show that asking questions and discussing ideas are part of learning.
 
+### bd-illustration-026 — Reading and learning together
+
+[PNG](bd-illustration-026.png) · PNG: 1054 × 1493 px
+
+**Placement:** Student Guide, “[Opening questions about money](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L294)”, **line 294** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:294`).
+
+**Cast:** C01, C02, C03, C04, C05, C06.
+
+**Scene / alt text:** All six characters gather around classroom tables as the educator leads a shared reading from an open course guide.
+
+**Educational purpose:** Show that shared reading and discussion can support learners of different ages and experience.
+
+### bd-illustration-028 — Working through an activity
+
+[PNG](bd-illustration-028.png) · PNG: 1054 × 1493 px
+
+**Placement:** Student Guide, “[Functions and properties of money](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L361)”, **line 361** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:361`).
+
+**Cast:** C01, C02, C03, C04, C05, C06.
+
+**Scene / alt text:** All six characters collaborate on an offline teaching-card activity while the educator guides the discussion.
+
+**Educational purpose:** Show cooperative learning through a simple shared activity with everyday classroom materials.
+
 ### bd-illustration-002 — Exploring the network
 
 [PNG](bd-illustration-002.png) · PNG: 1054 × 1492 px
 
-**Placement:** Student Guide, “[Decentralization](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L725)”, **line 725** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:725`).
+**Placement:** Student Guide, “[Decentralization](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L777)”, **line 777** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:777`).
 
 **Cast:** C01, C02, C05.
 
@@ -51,7 +142,7 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 
 [PNG](bd-illustration-003.png) · PNG: 1054 × 1492 px
 
-**Placement:** Student Guide, “[Users, nodes, and miners](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L777)”, **line 777** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:777`).
+**Placement:** Student Guide, “[Users, nodes, and miners](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L835)”, **line 835** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:835`).
 
 **Cast:** C01, C05.
 
@@ -63,7 +154,7 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 
 [PNG](bd-illustration-004.png) · PNG: 1054 × 1493 px
 
-**Placement:** Student Guide, “[Proof of work](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L805)”, **line 805** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:805`).
+**Placement:** Student Guide, “[Proof of work](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L866)”, **line 866** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:866`).
 
 **Cast:** C01, C02, C05.
 
@@ -75,7 +166,7 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 
 [PNG](bd-illustration-005.png) · PNG: 1054 × 1492 px
 
-**Placement:** Student Guide, “[Wallets](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1063)”, **line 1063** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1063`).
+**Placement:** Student Guide, “[Wallets](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1128)”, **line 1128** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1128`).
 
 **Cast:** C01, C02, C03.
 
@@ -87,7 +178,7 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 
 [PNG](bd-illustration-006.png) · PNG: 1054 × 1492 px
 
-**Placement:** Student Guide, “[Hot and cold wallets](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1206)”, **line 1206** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1206`).
+**Placement:** Student Guide, “[Hot and cold wallets](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1281)”, **line 1281** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1281`).
 
 **Cast:** C01, C03, C05.
 
@@ -99,7 +190,7 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 
 [PNG](bd-illustration-007.png) · PNG: 1054 × 1492 px
 
-**Placement:** Student Guide, “[Receiving bitcoin](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1260)”, **line 1260** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1260`).
+**Placement:** Student Guide, “[Receiving bitcoin](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1329)”, **line 1329** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1329`).
 
 **Cast:** C01, C02, C03.
 
@@ -111,7 +202,7 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 
 [PNG](bd-illustration-008.png) · PNG: 1055 × 1491 px
 
-**Placement:** Student Guide, “[Sending bitcoin](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1279)”, **line 1279** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1279`).
+**Placement:** Student Guide, “[Sending bitcoin](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1360)”, **line 1360** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1360`).
 
 **Cast:** C01, C02, C04.
 
@@ -123,7 +214,7 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 
 [PNG](bd-illustration-009.png) · PNG: 1054 × 1492 px
 
-**Placement:** Student Guide, “[Verification, block explorers, and irreversible transactions](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1305)”, **line 1305** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1305`).
+**Placement:** Student Guide, “[Verification, block explorers, and irreversible transactions](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1384)”, **line 1384** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1384`).
 
 **Cast:** C01, C03, C05.
 
@@ -135,7 +226,7 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 
 [PNG](bd-illustration-010.png) · PNG: 1055 × 1491 px
 
-**Placement:** Student Guide, “[On-chain and Lightning payments](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1384)”, **line 1384** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1384`).
+**Placement:** Student Guide, “[On-chain and Lightning payments](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1482)”, **line 1482** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1482`).
 
 **Cast:** C01, C02, C05.
 
@@ -143,11 +234,23 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 
 **Educational purpose:** Prompt comparison of payment paths without implying a universal best choice.
 
+### bd-illustration-031 — Practising a phone wallet together
+
+[PNG](bd-illustration-031.png) · PNG: 1054 × 1493 px
+
+**Placement:** Student Guide, “[Practical workshops and demonstrations](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1610)”, **line 1610** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1610`).
+
+**Cast:** C01, C04.
+
+**Scene / alt text:** The educator and business owner practise with a training phone together, both looking at the screen facing them.
+
+**Educational purpose:** Show two adult women taking an active role in guided wallet-interface practice.
+
 ### bd-illustration-011 — A small everyday purchase
 
 [PNG](bd-illustration-011.png) · PNG: 1055 × 1491 px
 
-**Placement:** Student Guide, “[Local spending and receiving scenarios](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1663)”, **line 1663** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1663`).
+**Placement:** Student Guide, “[Local spending and receiving scenarios](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1799)”, **line 1799** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1799`).
 
 **Cast:** C01, C02, C04.
 
@@ -159,7 +262,7 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 
 [PNG](bd-illustration-012.png) · PNG: 1055 × 1491 px
 
-**Placement:** Student Guide, “[Circular economies](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1794)”, **line 1794** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1794`).
+**Placement:** Student Guide, “[Circular economies](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1901)”, **line 1901** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1901`).
 
 **Cast:** C01, C02, C03, C04.
 
@@ -167,13 +270,13 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 
 **Educational purpose:** Show community members discussing exchange and local usefulness.
 
-## Educator Guide: 013–024
+## Educator Guide — 17 illustrations
 
 ### bd-illustration-013 — Teaching from the Diploma
 
 [PNG](bd-illustration-013.png) · PNG: 1054 × 1492 px
 
-**Placement:** Educator Guide, “[The page-by-page teaching rhythm](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L304)”, **line 304** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:304`).
+**Placement:** Educator Guide, “[The page-by-page teaching rhythm](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L319)”, **line 319** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:319`).
 
 **Cast:** C01, C02, C03.
 
@@ -181,11 +284,23 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 
 **Educational purpose:** Model using the Student Guide as the foundation of a teaching conversation.
 
+### bd-illustration-027 — Making space for questions
+
+[PNG](bd-illustration-027.png) · PNG: 1054 × 1493 px
+
+**Placement:** Educator Guide, “[Open the course with clear expectations](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L526)”, **line 526** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:526`).
+
+**Cast:** C01, C02, C03, C04, C05, C06.
+
+**Scene / alt text:** The young learner asks a question while the educator listens and the other four learners follow the discussion.
+
+**Educational purpose:** Model inclusive participation and respectful attention to a learner's question.
+
 ### bd-illustration-014 — Listening to a learner's question
 
 [PNG](bd-illustration-014.png) · PNG: 1053 × 1494 px
 
-**Placement:** Educator Guide, “[Welcome disagreement and correct error](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L536)”, **line 536** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:536`).
+**Placement:** Educator Guide, “[Welcome disagreement and correct error](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L559)”, **line 559** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:559`).
 
 **Cast:** C01, C02, C03.
 
@@ -197,7 +312,7 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 
 [PNG](bd-illustration-015.png) · PNG: 1054 × 1492 px
 
-**Placement:** Educator Guide, “[Think–pair–share](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L760)”, **line 760** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:760`).
+**Placement:** Educator Guide, “[Think–pair–share](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L784)”, **line 784** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:784`).
 
 **Cast:** C01, C02, C03, C04.
 
@@ -209,7 +324,7 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 
 [PNG](bd-illustration-016.png) · PNG: 1054 × 1492 px
 
-**Placement:** Educator Guide, “[Demonstration with prediction](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L805)”, **line 805** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:805`).
+**Placement:** Educator Guide, “[Demonstration with prediction](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L829)”, **line 829** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:829`).
 
 **Cast:** C01, C02, C05.
 
@@ -217,11 +332,23 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 
 **Educational purpose:** Model inviting predictions before performing a demonstration step.
 
+### bd-illustration-030 — Sharing what we have learned
+
+[PNG](bd-illustration-030.png) · PNG: 1054 × 1493 px
+
+**Placement:** Educator Guide, “[Debrief every activity](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L865)”, **line 865** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:865`).
+
+**Cast:** C01, C02, C03, C04, C05, C06.
+
+**Scene / alt text:** The older learner shares a reflection as the educator and the other four learners listen around a classroom table.
+
+**Educational purpose:** Show learners contributing their own explanations and reflecting together as a community.
+
 ### bd-illustration-017 — Leading an offline card activity
 
 [PNG](bd-illustration-017.png) · PNG: 1054 × 1492 px
 
-**Placement:** Educator Guide, “[Low-tech teaching: focus on interaction](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L844)”, **line 844** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:844`).
+**Placement:** Educator Guide, “[Low-tech teaching: focus on interaction](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L882)”, **line 882** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:882`).
 
 **Cast:** C01, C03, C06.
 
@@ -233,7 +360,7 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 
 [PNG](bd-illustration-018.png) · PNG: 1055 × 1491 px
 
-**Placement:** Educator Guide, “[Universal stop conditions](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L923)”, **line 923** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:923`).
+**Placement:** Educator Guide, “[Universal stop conditions](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L983)”, **line 983** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:983`).
 
 **Cast:** C01, C02, C05.
 
@@ -245,7 +372,7 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 
 [PNG](bd-illustration-019.png) · PNG: 1054 × 1492 px
 
-**Placement:** Educator Guide, “[Barter and the double coincidence of wants](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L1099)”, **line 1099** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:1099`).
+**Placement:** Educator Guide, “[Barter and the double coincidence of wants](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L1168)”, **line 1168** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:1168`).
 
 **Cast:** C01, C02, C04.
 
@@ -257,7 +384,7 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 
 [PNG](bd-illustration-020.png) · PNG: 1054 × 1492 px
 
-**Placement:** Educator Guide, “[Decentralization and peer-to-peer transfer](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L1515)”, **line 1515** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:1515`).
+**Placement:** Educator Guide, “[Decentralization and peer-to-peer transfer](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L1579)”, **line 1579** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:1579`).
 
 **Cast:** C01, C02, C05.
 
@@ -269,7 +396,7 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 
 [PNG](bd-illustration-021.png) · PNG: 1054 × 1492 px
 
-**Placement:** Educator Guide, “[Proof of work](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L1566)”, **line 1566** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:1566`).
+**Placement:** Educator Guide, “[Proof of work](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L1644)”, **line 1644** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:1644`).
 
 **Cast:** C01, C03, C05.
 
@@ -277,11 +404,23 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 
 **Educational purpose:** Support a discussion that distinguishes mining hardware from node verification.
 
+### bd-illustration-032 — Explaining peer connections
+
+[PNG](bd-illustration-032.png) · PNG: 1054 × 1493 px
+
+**Placement:** Educator Guide, “[Strong Module 2 activities](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L1808)”, **line 1808** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:1808`).
+
+**Cast:** C01, C04, C06.
+
+**Scene / alt text:** The business owner explains a network of peers while the educator listens and the young learner follows with a notebook.
+
+**Educational purpose:** Show an adult woman explaining her understanding to an educator and a younger learner.
+
 ### bd-illustration-022 — Teaching recovery readiness privately
 
 [PNG](bd-illustration-022.png) · PNG: 1054 × 1492 px
 
-**Placement:** Educator Guide, “[Seed phrases and recovery](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L2028)”, **line 2028** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:2028`).
+**Placement:** Educator Guide, “[Activity: recovery-readiness simulation](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L2143)”, **line 2143** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:2143`).
 
 **Cast:** C01, C03, C05.
 
@@ -293,7 +432,7 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 
 [PNG](bd-illustration-023.png) · PNG: 1054 × 1493 px
 
-**Placement:** Educator Guide, “[Module option D: merchant payment and refund flow](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L2766)”, **line 2766** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:2766`).
+**Placement:** Educator Guide, “[Module option D: merchant payment and refund flow](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L2859)”, **line 2859** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:2859`).
 
 **Cast:** C01, C02, C04.
 
@@ -301,85 +440,23 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 
 **Educational purpose:** Model educator-guided payment checks and merchant records.
 
-### bd-illustration-024 — Leading the final reflection
+### bd-illustration-034 — Comparing ideas with teaching cards
 
-[PNG](bd-illustration-024.png) · PNG: 1054 × 1493 px
+[PNG](bd-illustration-034.png) · PNG: 1054 × 1493 px
 
-**Placement:** Educator Guide, “[Capstone discussion](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L3314)”, **line 3314** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:3314`).
+**Placement:** Educator Guide, “[Activity purpose comes first](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L3240)”, **line 3240** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:3240`).
 
-**Cast:** C01, C02, C03, C04.
+**Cast:** C01, C04, C06.
 
-**Scene / alt text:** The educator invites a final explanation from the older learner while the beginner and business owner listen with their guides.
+**Scene / alt text:** The educator guides the business owner and young learner as they compare blank teaching cards at a table.
 
-**Educational purpose:** Model a final discussion that draws out understanding and remaining questions.
-
-## Generic full-cast illustrations: 025–030
-
-Each illustration includes C01–C06 together. These are optional full-cast alternatives for shared introductions, activities, and reflection pages. Suggested placements in both guides are given below; use the scene where it best supports the page layout rather than inserting every alternative.
-
-### bd-illustration-025 — Welcome to the learning group
-
-[PNG](bd-illustration-025.png) · PNG: 1054 × 1492 px
-
-**Suggested Student Guide placement:** “[Welcome To The Bitcoin Diploma](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L23)”, **line 23** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:23`).
-
-**Suggested Educator Guide placement:** “[Open the course with clear expectations](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L502)”, **line 502** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:502`).
-
-**Cast:** C01, C02, C03, C04, C05, C06.
-
-**Scene / alt text:** The educator welcomes the beginner, older learner, business owner, technical learner, and young learner into a shared learning group.
-
-**Educational purpose:** Show a welcoming, inclusive learning community with all six recurring characters.
-
-### bd-illustration-026 — Reading and learning together
-
-[PNG](bd-illustration-026.png) · PNG: 1054 × 1493 px
-
-**Suggested Student Guide placement:** “[Flexible learning](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L129)”, **line 129** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:129`).
-
-**Suggested Educator Guide placement:** “[Low-tech teaching: focus on interaction](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L844)”, **line 844** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:844`).
-
-**Cast:** C01, C02, C03, C04, C05, C06.
-
-**Scene / alt text:** All six characters gather around classroom tables as the educator leads a shared reading from an open course guide.
-
-**Educational purpose:** Show that shared reading and discussion can support learners of different ages and experience.
-
-### bd-illustration-027 — Making space for questions
-
-[PNG](bd-illustration-027.png) · PNG: 1054 × 1493 px
-
-**Suggested Student Guide placement:** “[Discussion and privacy expectations](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L150)”, **line 150** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:150`).
-
-**Suggested Educator Guide placement:** “[Welcome disagreement and correct error](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L536)”, **line 536** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:536`).
-
-**Cast:** C01, C02, C03, C04, C05, C06.
-
-**Scene / alt text:** The young learner asks a question while the educator listens and the other four learners follow the discussion.
-
-**Educational purpose:** Model inclusive participation and respectful attention to a learner's question.
-
-### bd-illustration-028 — Working through an activity
-
-[PNG](bd-illustration-028.png) · PNG: 1054 × 1493 px
-
-**Suggested Student Guide placement:** “[Practical workshops and demonstrations](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1508)”, **line 1508** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1508`).
-
-**Suggested Educator Guide placement:** “[Think–pair–share](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L760)”, **line 760** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:760`).
-
-**Cast:** C01, C02, C03, C04, C05, C06.
-
-**Scene / alt text:** All six characters collaborate on an offline teaching-card activity while the educator guides the discussion.
-
-**Educational purpose:** Show cooperative learning through a simple shared activity with everyday classroom materials.
+**Educational purpose:** Show women and a younger learner reasoning together through an accessible offline activity.
 
 ### bd-illustration-029 — Understanding a network together
 
 [PNG](bd-illustration-029.png) · PNG: 1054 × 1492 px
 
-**Suggested Student Guide placement:** “[Decentralization](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L725)”, **line 725** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:725`).
-
-**Suggested Educator Guide placement:** “[Decentralization and peer-to-peer transfer](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L1515)”, **line 1515** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:1515`).
+**Placement:** Educator Guide, “[14. Use visuals as teaching tools](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L3387)”, **line 3387** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:3387`).
 
 **Cast:** C01, C02, C03, C04, C05, C06.
 
@@ -387,22 +464,20 @@ Each illustration includes C01–C06 together. These are optional full-cast alte
 
 **Educational purpose:** Introduce network relationships through an educator-led visual discussion.
 
-### bd-illustration-030 — Sharing what we have learned
+### bd-illustration-024 — Leading the final reflection
 
-[PNG](bd-illustration-030.png) · PNG: 1054 × 1493 px
+[PNG](bd-illustration-024.png) · PNG: 1054 × 1493 px
 
-**Suggested Student Guide placement:** “[Review: connect this to your community](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1864)”, **line 1864** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1864`).
+**Placement:** Educator Guide, “[Capstone discussion](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L3409)”, **line 3409** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:3409`).
 
-**Suggested Educator Guide placement:** “[Capstone discussion](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L3314)”, **line 3314** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:3314`).
+**Cast:** C01, C02, C03, C04.
 
-**Cast:** C01, C02, C03, C04, C05, C06.
+**Scene / alt text:** The educator invites a final explanation from the older learner while the beginner and business owner listen with their guides.
 
-**Scene / alt text:** The older learner shares a reflection as the educator and the other four learners listen around a classroom table.
-
-**Educational purpose:** Show learners contributing their own explanations and reflecting together as a community.
+**Educational purpose:** Model a final discussion that draws out understanding and remaining questions.
 
 ## Style references
 
 Read and visually reviewed: [STYLE.md](../style/STYLE.md), [CHARACTERS.md](../style/CHARACTERS.md), [layout instructions](../style/layouts/README.md), all three `bible/mfb-assets-character-bible.v1–v3.png` sheets, both `layouts/mfb-assets-full-page.v1–v2.png` scenes, both `layouts/mfb-assets-line-up.v1–v2.png` sheets, and `layouts/mfb-assets-one-page.v3.png`. The v3 character bible and v2 lineup were the primary identity references for the series.
 
-The illustrations are supplied as PNG files. Scene descriptions, alt text, and suggested guide placements are recorded above.
+The illustrations are supplied as PNG files. Scene descriptions, alt text, and fixed guide placements are recorded above.

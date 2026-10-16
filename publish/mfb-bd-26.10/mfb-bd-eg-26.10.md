@@ -316,6 +316,11 @@ When you open a module guide, follow the same order every time:
 
 The headings are deliberately repetitive. That repetition is a navigation aid for a new teacher, not content that must be memorized.
 
+<!-- ILLUSTRATION: BD-ILLUSTRATION-013
+ALT: The educator points to a diagram in an open course guide as the beginner and older learner follow along in their own guides.
+ASSET: assets/illustrations/bd-illustration-013.png
+-->
+
 ### Words you can use when you are unsure
 
 It is safe to say:
@@ -518,6 +523,11 @@ Establish these participation agreements:
 - never reveal a [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase), [private key](https://programs.myfirstbitcoin.org/lexicon/en/#private-key), password, or security arrangement; and
 - stop practical work when something differs from the demonstrated process.
 
+<!-- ILLUSTRATION: BD-ILLUSTRATION-027
+ALT: The young learner asks a question while the educator listens and the other four learners follow the discussion.
+ASSET: assets/illustrations/bd-illustration-027.png
+-->
+
 ### Teach how to think, not what to think
 
 Use one recurring reasoning sequence throughout the Bitcoin Diploma:
@@ -545,6 +555,11 @@ When a learner disagrees:
 6. Invite the learner to revise, qualify, or retain their conclusion.
 
 Correct factual errors clearly and respectfully. Do not avoid correction in the name of neutrality. Neutral facilitation means applying fair standards of evidence, not treating every statement as equally accurate.
+
+<!-- ILLUSTRATION: BD-ILLUSTRATION-014
+ALT: The educator listens to the beginner learner's question while the older learner follows the conversation with an open guide.
+ASSET: assets/illustrations/bd-illustration-014.png
+-->
 
 ### Protect participation without forcing disclosure
 
@@ -766,6 +781,11 @@ Use this when a few confident learners may otherwise dominate.
 3. Invite selected pairs to report the reasoning, not only the conclusion.
 4. Summarize the patterns and correct misconceptions.
 
+<!-- ILLUSTRATION: BD-ILLUSTRATION-015
+ALT: The educator invites a discussion while the beginner and older learners compare guides and the business owner contributes.
+ASSET: assets/illustrations/bd-illustration-015.png
+-->
+
 ### Claim, evidence, reasoning, and trade-off
 
 Write a claim where everyone can see it. Ask teams to complete:
@@ -806,6 +826,11 @@ Present three statements: one accurate, one partly accurate, and one inaccurate.
 
 Before each step of a demonstration, ask learners what should happen and what should be checked. After the step, compare prediction and result. Learners remain mentally active even when only one device is available.
 
+<!-- ILLUSTRATION: BD-ILLUSTRATION-016
+ALT: The educator pauses a phone demonstration to invite predictions from the beginner and technical learners.
+ASSET: assets/illustrations/bd-illustration-016.png
+-->
+
 ### Exit explanation
 
 At the end of a section, ask learners to complete one of these:
@@ -837,6 +862,11 @@ An activity does not teach itself. Debrief with four questions:
 
 Correct misleading effects created by the activity. A token [bank-run](https://programs.myfirstbitcoin.org/lexicon/en/#bank-run) game, for example, does not reproduce a real bank balance sheet or local regulation. A miner-and-node role-play does not simulate the network's full technical operation.
 
+<!-- ILLUSTRATION: BD-ILLUSTRATION-030
+ALT: The older learner shares a reflection as the educator and the other four learners listen around a classroom table.
+ASSET: assets/illustrations/bd-illustration-030.png
+-->
+
 ### Handle rabbit holes
 
 Maintain a visible “Later / Advanced” list. Add the question, confirm why it matters, and state when learners can return to it. Do not answer a complex question with false simplicity. Do not let it displace the required beginner foundation.
@@ -848,6 +878,11 @@ Successful Bitcoin education does not depend on complex technology. Start with y
 Simple materials can reduce setup time and distractions, leaving more room for conversation and practice. A drawing, paper cards, or a familiar local example can help learners explain ideas to one another and ask questions. Low-tech teaching can be your first choice, not just a backup when the internet fails.
 
 More tools can bring more complexity. Add a tool when it helps learners understand or practise something, and keep a simple alternative ready. Focus first on the quality of engagement: are learners participating, asking questions, explaining their thinking, and showing what they understand? Choose the approach that supports that learning.
+
+<!-- ILLUSTRATION: BD-ILLUSTRATION-017
+ALT: The educator and older learner arrange teaching cards while the young learner participates with a notebook.
+ASSET: assets/illustrations/bd-illustration-017.png
+-->
 
 ### Media and tool fallbacks
 
@@ -943,6 +978,11 @@ Stop the activity immediately if:
 ALT: An unsafe or unexplained condition stops the activity. The educator protects people and secrets, verifies the issue, and uses a safe prepared route or postpones. A learner safety-critical assessment error is recorded as Not yet under the protocol.
 ASSET: assets/briefs/bd-v-090-brief.md
 USE: Educator-only diagram; see the asset index brief.
+-->
+
+<!-- ILLUSTRATION: BD-ILLUSTRATION-018
+ALT: The educator raises an open palm to pause an activity while the beginner lowers a phone and the technical learner partly closes a laptop.
+ASSET: assets/illustrations/bd-illustration-018.png
 -->
 
 ### No real secrets in class
@@ -1124,6 +1164,11 @@ Ask:
 Clarify that [barter](https://programs.myfirstbitcoin.org/lexicon/en/#barter-bartering) can work in particular settings. The point is that it becomes difficult to coordinate at scale.
 
 If using a game, debrief its simplifications. Real exchange includes relationships, credit, gifts, obligations, bargaining, law, and repeated interaction.
+
+<!-- ILLUSTRATION: BD-ILLUSTRATION-019
+ALT: The educator facilitates a direct-exchange activity between the beginner holding a notebook and the business owner holding groceries.
+ASSET: assets/illustrations/bd-illustration-019.png
+-->
 
 ### Scarcity, value, and exchange
 
@@ -1531,6 +1576,11 @@ ASSET: assets/briefs/bd-v-026-brief.md
 USE: Shared Student Guide master.
 -->
 
+<!-- ILLUSTRATION: BD-ILLUSTRATION-020
+ALT: The educator uses a pointer to explain a network on a presentation board to the beginner and technical learners.
+ASSET: assets/illustrations/bd-illustration-020.png
+-->
+
 ### Users, nodes, miners, developers, and services
 
 Use these exact beginner boundaries:
@@ -1590,6 +1640,11 @@ Use claim, evidence, and trade-off:
 - Which facts are current and need dated evidence?
 
 Detailed energy statistics and [mining](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work) economics are not required Bitcoin Diploma content. Use them only when the educator has verified current sources and the discussion supports a competency.
+
+<!-- ILLUSTRATION: BD-ILLUSTRATION-021
+ALT: The educator and technical learner indicate separate mining and node devices while the older learner participates with a guide.
+ASSET: assets/illustrations/bd-illustration-021.png
+-->
 
 ### Finite supply and halving
 
@@ -1749,6 +1804,11 @@ Choose two or three from these examples, not all. Browse the [Activity Library](
 - generic Bitcoin/stablecoin/other-asset comparison.
 
 Use [consensus](https://programs.myfirstbitcoin.org/lexicon/en/#consensus) games, hashing activities, videos, and role-plays only when their purpose, timing, learner context, and debrief are strong. An activity supplies educator-led theoretical evidence only when it is a competency-aligned touchpoint with individual evidence, a rubric, and a recording process. Otherwise, use it formatively.
+
+<!-- ILLUSTRATION: BD-ILLUSTRATION-032
+ALT: The business owner explains a network of peers while the educator listens and the young learner follows with a notebook.
+ASSET: assets/illustrations/bd-illustration-032.png
+-->
 
 ### Module 2 educator-led theoretical touchpoint
 
@@ -2079,6 +2139,11 @@ USE: Educator-only diagram; see the asset index brief.
 > If a real seed may have been exposed, stop using it as a safe backup, create a new trusted wallet with new recovery information, and move funds after carefully verifying the destination. The learner should seek help without revealing either phrase.
 
 Inheritance, [multisignature](https://programs.myfirstbitcoin.org/lexicon/en/#multisignature-multisig) design, advanced passphrases, and high-value recovery planning may require advanced security and professional legal advice. They are outside required Bitcoin Diploma performance.
+
+<!-- ILLUSTRATION: BD-ILLUSTRATION-022
+ALT: The educator guides a recovery-readiness discussion as the older learner places a blank training card in an envelope and the technical learner watches.
+ASSET: assets/illustrations/bd-illustration-022.png
+-->
 
 ### Custodial and self-custodial use
 
@@ -2791,6 +2856,11 @@ USE: Shared Student Guide master.
 
 **Debrief:** Why is sending a refund automatically to an assumed original address unsafe? Who becomes responsible when several staff share one wallet?
 
+<!-- ILLUSTRATION: BD-ILLUSTRATION-023
+ALT: The educator points to a blank record card while the beginner and business owner check training phones at a merchant counter.
+ASSET: assets/illustrations/bd-illustration-023.png
+-->
+
 ### Module option E: community donation
 
 **Purpose:** Design a safe donation route for a nonprofit, classroom project, or simulated community group.
@@ -3167,6 +3237,11 @@ Every activity should state whether it is:
 
 Activities in the [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) may support learning, practice, and assessment. Their use does not make every activity an assessment. When you use an activity as evidence, make sure it gives each learner a fair opportunity to show the competency, keeps the safety boundary clear, and allows you to record **Yes** or **Not yet**. You do not need to create lengthy evidence records or a separate test.
 
+<!-- ILLUSTRATION: BD-ILLUSTRATION-034
+ALT: The educator guides the business owner and young learner as they compare blank teaching cards at a table.
+ASSET: assets/illustrations/bd-illustration-034.png
+-->
+
 ### Assessment activity crosswalk
 
 Use the linked activities below as possible learning or individual-evidence contexts for the stated competency. An activity remains formative unless it gives the educator a fair opportunity to notice the relevant learner response or action. Adapt the activity when needed and record the result in the Assessment Grid.
@@ -3309,6 +3384,11 @@ Do not turn a qualified text claim into an absolute visual. A supply chart must 
 
 ---
 
+<!-- ILLUSTRATION: BD-ILLUSTRATION-029
+ALT: The educator explains six interconnected peers on a whiteboard to all five learners, including the young learner in an orange beanie.
+ASSET: assets/illustrations/bd-illustration-029.png
+-->
+
 ## 15. Close the Bitcoin Diploma well
 
 ### Capstone discussion
@@ -3325,6 +3405,11 @@ Use think–pair–share before whole-group discussion:
 - What requires further learning?
 
 Ask learners to support answers with a course concept and an example, not a slogan.
+
+<!-- ILLUSTRATION: BD-ILLUSTRATION-024
+ALT: The educator invites a final explanation from the older learner while the beginner and business owner listen with their guides.
+ASSET: assets/illustrations/bd-illustration-024.png
+-->
 
 ### Final personal learning reflection (`F2`)
 
