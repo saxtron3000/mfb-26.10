@@ -1,6 +1,6 @@
 # Bitcoin Diploma illustration index
 
-24 illustrations: 12 for the Student Guide and 12 for the Educator Guide. Each reference is provided as a PNG. No visible text, numerical data, QR codes, or wordmarks appear in the artwork.
+30 illustrations: 12 for the Student Guide, 12 for the Educator Guide, and 6 generic illustrations featuring all six characters for use in either guide. Each reference is provided as a PNG. No visible text, numerical data, QR codes, or wordmarks appear in the artwork.
 
 ## Placement and print use
 
@@ -312,6 +312,94 @@ Keep surrounding headings and explanations in the guide layout. The illustration
 **Scene / alt text:** The educator invites a final explanation from the older learner while the beginner and business owner listen with their guides.
 
 **Educational purpose:** Model a final discussion that draws out understanding and remaining questions.
+
+## Generic full-cast illustrations: 025–030
+
+Each illustration includes C01–C06 together. These are optional full-cast alternatives for shared introductions, activities, and reflection pages. Suggested placements in both guides are given below; use the scene where it best supports the page layout rather than inserting every alternative.
+
+### bd-illustration-025 — Welcome to the learning group
+
+[PNG](bd-illustration-025.png) · PNG: 1054 × 1492 px
+
+**Suggested Student Guide placement:** “[Welcome To The Bitcoin Diploma](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L23)”, **line 23** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:23`).
+
+**Suggested Educator Guide placement:** “[Open the course with clear expectations](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L502)”, **line 502** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:502`).
+
+**Cast:** C01, C02, C03, C04, C05, C06.
+
+**Scene / alt text:** The educator welcomes the beginner, older learner, business owner, technical learner, and young learner into a shared learning group.
+
+**Educational purpose:** Show a welcoming, inclusive learning community with all six recurring characters.
+
+### bd-illustration-026 — Reading and learning together
+
+[PNG](bd-illustration-026.png) · PNG: 1054 × 1493 px
+
+**Suggested Student Guide placement:** “[Flexible learning](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L129)”, **line 129** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:129`).
+
+**Suggested Educator Guide placement:** “[Low-tech teaching: focus on interaction](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L844)”, **line 844** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:844`).
+
+**Cast:** C01, C02, C03, C04, C05, C06.
+
+**Scene / alt text:** All six characters gather around classroom tables as the educator leads a shared reading from an open course guide.
+
+**Educational purpose:** Show that shared reading and discussion can support learners of different ages and experience.
+
+### bd-illustration-027 — Making space for questions
+
+[PNG](bd-illustration-027.png) · PNG: 1054 × 1493 px
+
+**Suggested Student Guide placement:** “[Discussion and privacy expectations](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L150)”, **line 150** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:150`).
+
+**Suggested Educator Guide placement:** “[Welcome disagreement and correct error](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L536)”, **line 536** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:536`).
+
+**Cast:** C01, C02, C03, C04, C05, C06.
+
+**Scene / alt text:** The young learner asks a question while the educator listens and the other four learners follow the discussion.
+
+**Educational purpose:** Model inclusive participation and respectful attention to a learner's question.
+
+### bd-illustration-028 — Working through an activity
+
+[PNG](bd-illustration-028.png) · PNG: 1054 × 1493 px
+
+**Suggested Student Guide placement:** “[Practical workshops and demonstrations](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1508)”, **line 1508** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1508`).
+
+**Suggested Educator Guide placement:** “[Think–pair–share](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L760)”, **line 760** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:760`).
+
+**Cast:** C01, C02, C03, C04, C05, C06.
+
+**Scene / alt text:** All six characters collaborate on an offline teaching-card activity while the educator guides the discussion.
+
+**Educational purpose:** Show cooperative learning through a simple shared activity with everyday classroom materials.
+
+### bd-illustration-029 — Understanding a network together
+
+[PNG](bd-illustration-029.png) · PNG: 1054 × 1492 px
+
+**Suggested Student Guide placement:** “[Decentralization](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L725)”, **line 725** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:725`).
+
+**Suggested Educator Guide placement:** “[Decentralization and peer-to-peer transfer](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L1515)”, **line 1515** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:1515`).
+
+**Cast:** C01, C02, C03, C04, C05, C06.
+
+**Scene / alt text:** The educator explains six interconnected peers on a whiteboard to all five learners, including the young learner in an orange beanie.
+
+**Educational purpose:** Introduce network relationships through an educator-led visual discussion.
+
+### bd-illustration-030 — Sharing what we have learned
+
+[PNG](bd-illustration-030.png) · PNG: 1054 × 1493 px
+
+**Suggested Student Guide placement:** “[Review: connect this to your community](../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1864)”, **line 1864** (`publish/mfb-bd-26.10/mfb-bd-sg-26.10.md:1864`).
+
+**Suggested Educator Guide placement:** “[Capstone discussion](../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L3314)”, **line 3314** (`publish/mfb-bd-26.10/mfb-bd-eg-26.10.md:3314`).
+
+**Cast:** C01, C02, C03, C04, C05, C06.
+
+**Scene / alt text:** The older learner shares a reflection as the educator and the other four learners listen around a classroom table.
+
+**Educational purpose:** Show learners contributing their own explanations and reflecting together as a community.
 
 ## Style references
 
