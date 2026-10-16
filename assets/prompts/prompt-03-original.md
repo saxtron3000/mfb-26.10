@@ -1,6 +1,6 @@
 Build a My First Bitcoin Diploma micrographic.
 
-This prompt does not apply to an `External Image`. An External Image is copied from its approved external source and manually inserted into the Diploma; do not create a micrographic, editable source, or package for it.
+This prompt does not apply to an asset of type `EXTERNAL`. An EXTERNAL asset has its approved .jpg added directly through Sanity; do not create a micrographic, editable source, or package for it.
 
 ## Postponed assets
 

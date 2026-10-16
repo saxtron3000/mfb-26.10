@@ -91,6 +91,8 @@ When changing a definition or destination, check its uses in the curriculum and 
 
 Visuals support specific guide content. Preserve each `BD-V-NNN` identifier across its notes, brief, reference files, and production records.
 
+Use the asset type `EXTERNAL` for approved, externally supplied JPGs added directly through Sanity, including `BD-V-001` and `BD-V-076`. Generated production work is not applicable: no brief, AI reference, JSON record, or Claude package is required. `EXTERNAL` is a type, not a postponed or cancelled status.
+
 | Location | Use |
 |---|---|
 | [assets/assets-list.md](assets/assets-list.md) | Check recorded production status, missing inputs, and postponed assets |

@@ -24,10 +24,7 @@
 <line x1="440" y1="265" x2="440" y2="306" stroke="#D8D8E7" stroke-width="3" fill="none"/>
 <line x1="440" y1="306" x2="432.9289321881345" y2="298.9289321881345" stroke="#D8D8E7" stroke-width="3" fill="none"/>
 <line x1="440" y1="306" x2="447.0710678118655" y2="298.9289321881345" stroke="#D8D8E7" stroke-width="3" fill="none"/>
-<rect x="361" y="318" width="166" height="74" fill="#F6F6F8" stroke="#422C70" stroke-width="2"/>
-<line x1="540" y1="355" x2="648" y2="355" stroke="#422C70" stroke-width="3" fill="none"/>
-<line x1="648" y1="355" x2="640.9289321881345" y2="362.0710678118655" stroke="#422C70" stroke-width="3" fill="none"/>
-<line x1="648" y1="355" x2="640.9289321881345" y2="347.9289321881345" stroke="#422C70" stroke-width="3" fill="none"/>
+<g id="assessment-grid" transform="translate(-318 8)">
 <rect x="662" y="310" width="193" height="130" fill="#FFFFFF" stroke="none" stroke-width="2"/>
 <rect x="662" y="310" width="193" height="50" fill="#422C70" stroke="none" stroke-width="2"/>
 <line x1="662" y1="360.0" x2="855" y2="360.0" stroke="#D8D8E7" stroke-width="1.5" fill="none"/>
@@ -35,6 +32,5 @@
 <line x1="662" y1="413.3333333333333" x2="855" y2="413.3333333333333" stroke="#D8D8E7" stroke-width="1.5" fill="none"/>
 <line x1="662" y1="440.0" x2="855" y2="440.0" stroke="#D8D8E7" stroke-width="1.5" fill="none"/>
 <line x1="758.5" y1="322" x2="758.5" y2="440" stroke="#D8D8E7" stroke-width="1.5" fill="none"/>
-<rect x="84" y="343" width="173" height="75" fill="#F6F6F8" stroke="#D8D8E7" stroke-width="2"/>
-<line x1="283" y1="302" x2="283" y2="447" stroke="#D8D8E7" stroke-width="2" fill="none" stroke-dasharray="6 5"/>
+</g>
 </svg>

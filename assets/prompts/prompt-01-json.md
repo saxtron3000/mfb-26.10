@@ -1,6 +1,6 @@
 # Asset JSON-reference contract
 
-This contract applies only to pipeline-eligible assets. Do not create a JSON reference for an `External Image`; it is copied from its approved external source and manually inserted into the Diploma.
+This contract applies only to pipeline-eligible assets. Do not create a JSON reference for an asset of type `EXTERNAL`; its approved .jpg is added directly through Sanity.
 
 ## Postponed assets
 
