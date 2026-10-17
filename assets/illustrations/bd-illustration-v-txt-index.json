@@ -305,7 +305,10 @@
       "width": 1536,
       "height": 1024,
       "sha256": "ef00d2a94bfbbfc7889bb5b38454fa90dcbb6469b29cc72054f7592cddf264f8",
-      "visual_review": "reviewed"
+      "visual_review": "reviewed",
+      "source_asset_type": "CANCELED",
+      "status": "CANCELED",
+      "placement_note": "Canceled 2026-10-16: not needed because BD-V-015 covers the fiat-system participants. No placement in either guide; retain this illustration for history only."
     },
     {
       "id": "015",

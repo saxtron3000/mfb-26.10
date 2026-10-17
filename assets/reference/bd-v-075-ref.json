@@ -31,24 +31,24 @@
         "id": "element-01",
         "role": "Actual educator or issuing organization",
         "required": true,
-        "relationship": "No production composition is authorized in 2026.10. All future layout choices remain deferred until governance and destination tests are approved.",
-        "position": "Reading-order region 1 in deferred; precise spatial relation: No production composition is authorized in 2026.10. All future layout choices remain deferred until governance and destination tests are approved.",
+        "relationship": "No production composition is authorized in 2026.10. Layout choices remain unresolved until governance and destination tests are approved.",
+        "position": "Reading-order region 1 in unresolved layout; precise spatial relation: No production composition is authorized in 2026.10. Layout choices remain unresolved until governance and destination tests are approved.",
         "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
       },
       {
         "id": "element-02",
         "role": "Minimum-data issuer-specific verification",
         "required": true,
-        "relationship": "No production composition is authorized in 2026.10. All future layout choices remain deferred until governance and destination tests are approved.",
-        "position": "Reading-order region 2 in deferred; precise spatial relation: No production composition is authorized in 2026.10. All future layout choices remain deferred until governance and destination tests are approved.",
+        "relationship": "No production composition is authorized in 2026.10. Layout choices remain unresolved until governance and destination tests are approved.",
+        "position": "Reading-order region 2 in unresolved layout; precise spatial relation: No production composition is authorized in 2026.10. Layout choices remain unresolved until governance and destination tests are approved.",
         "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
       },
       {
         "id": "element-03",
         "role": "Privacy, correction and withdrawal controls",
         "required": true,
-        "relationship": "No production composition is authorized in 2026.10. All future layout choices remain deferred until governance and destination tests are approved.",
-        "position": "Reading-order region 3 in deferred; precise spatial relation: No production composition is authorized in 2026.10. All future layout choices remain deferred until governance and destination tests are approved.",
+        "relationship": "No production composition is authorized in 2026.10. Layout choices remain unresolved until governance and destination tests are approved.",
+        "position": "Reading-order region 3 in unresolved layout; precise spatial relation: No production composition is authorized in 2026.10. Layout choices remain unresolved until governance and destination tests are approved.",
         "treatment": "Flat purple-led geometry; content remains upright; reserve live copy without drawing text. Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames."
       }
     ]
@@ -75,12 +75,12 @@
       "editable": true
     },
     {
-      "content": "Actual educator or issuing organization; Minimum-data issuer-specific verification; Privacy, correction and withdrawal controls. No production composition is authorized in 2026.10. All future layout choices remain deferred until governance and destination tests are approved.",
+      "content": "Actual educator or issuing organization; Minimum-data issuer-specific verification; Privacy, correction and withdrawal controls. No production composition is authorized in 2026.10. Layout choices remain unresolved until governance and destination tests are approved.",
       "source": "Accessibility and production handoff / Alt text",
       "editable": true
     },
     {
-      "content": "- Alt text: Actual educator or issuing organization; Minimum-data issuer-specific verification; Privacy, correction and withdrawal controls. No production composition is authorized in 2026.10. All future layout choices remain deferred until governance and destination tests are approved.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-075-ref.svg` and a matching `assets/reference/bd-v-075-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.",
+      "content": "- Alt text: Actual educator or issuing organization; Minimum-data issuer-specific verification; Privacy, correction and withdrawal controls. No production composition is authorized in 2026.10. Layout choices remain unresolved until governance and destination tests are approved.\n- Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.\n- Reference image output: Codex must provide `assets/reference/bd-v-075-ref.svg` and a matching `assets/reference/bd-v-075-ref.png` when the production gate is clear; never JPG.\n- Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.",
       "source": "Accessibility and production handoff",
       "editable": true
     }
@@ -98,7 +98,7 @@
     ],
     "typography": "Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlled emphasis. Learner-facing print copy at least 12pt. Short literal labels, left aligned and translation-ready; do not bake copy into reference artwork.",
     "shapeAndLineRules": "Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames.",
-    "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: deferred",
+    "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: unresolved",
     "emphasis": "One controlled orange instructional focal point; no orange full-field background or ranking",
     "characters": [],
     "propsAndIcons": []

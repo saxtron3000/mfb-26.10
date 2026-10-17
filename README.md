@@ -91,11 +91,11 @@ When changing a definition or destination, check its uses in the curriculum and 
 
 Visuals support specific guide content. Preserve each `BD-V-NNN` identifier across its notes, brief, reference files, and production records.
 
-Use the asset type `EXTERNAL` for approved, externally supplied JPGs added directly through Sanity, including `BD-V-001` and `BD-V-076`. Generated production work is not applicable: no brief, AI reference, JSON record, or Claude package is required. `EXTERNAL` is a type, not a postponed or cancelled status.
+Use the asset type `EXTERNAL` for approved, externally supplied JPGs added directly through Sanity, including `BD-V-001` and `BD-V-076`. Generated production work is not applicable: no brief, AI reference, JSON record, or Claude package is required.
 
 | Location | Use |
 |---|---|
-| [assets/assets-list.md](assets/assets-list.md) | Check recorded production status, missing inputs, and postponed assets |
+| [assets/assets-list.md](assets/assets-list.md) | Check recorded production status, missing inputs, and unresolved production decisions |
 | [assets/asset-description.md](assets/asset-description.md) | Read asset-specific purpose and visual direction |
 | [assets/briefs/](assets/briefs/) | Maintain design briefs named `bd-v-NNN-brief.md` |
 | [assets/reference/](assets/reference/) | Maintain matching `bd-v-NNN-ref.json`, SVG, and PNG reference files where available |
@@ -104,7 +104,7 @@ Use the asset type `EXTERNAL` for approved, externally supplied JPGs added direc
 | [assets/style/CHARACTERS.md](assets/style/CHARACTERS.md) | Check character requirements alongside the images in `assets/style/bible/` |
 | [assets/style/layouts/README.md](assets/style/layouts/README.md) | Choose and apply layout references |
 
-Read the adjacent guide text before changing a visual. Keep heading references, placement, captions, and alt text aligned with that text. A created reference image is not a finished publication asset. Respect postponed status and verify the production log before claiming an asset is ready.
+Read the adjacent guide text before changing a visual. Keep heading references, placement, captions, and alt text aligned with that text. A created reference image is not a finished publication asset. Resolve documented production conditions and verify the production log before claiming an asset is ready.
 
 ## Links and public communication
 

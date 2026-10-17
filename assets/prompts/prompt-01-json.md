@@ -1,10 +1,10 @@
 # Asset JSON-reference contract
 
+## Canceled assets
+
+Skip every asset whose Type or Status is `CANCELED` or `CANCELLED`. Do not create, regenerate, upload, or place any deliverable for it, and do not restore its guide anchors. Existing files are historical records only.
+
 This contract applies only to pipeline-eligible assets. Do not create a JSON reference for an asset of type `EXTERNAL`; its approved .jpg is added directly through Sanity.
-
-## Postponed assets
-
-Skip every asset whose Type or Status is `POSTPONED`. Do not create, update, regenerate, or mark created its JSON reference, and do not alter its existing brief, guide anchor, or production-log record. Postponed assets are deferred production records, not blocked JSON work.
 
 ## Purpose
 
