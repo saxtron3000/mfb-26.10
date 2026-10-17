@@ -1,10 +1,10 @@
 # SVG and PNG reference-image prompt
 
+## Canceled assets
+
+Skip every asset whose Type or Status is `CANCELED` or `CANCELLED`. Do not create, regenerate, upload, or place any deliverable for it, and do not restore its guide anchors. Existing files are historical records only.
+
 This prompt applies only to pipeline-eligible assets. Do not create SVG or PNG references for an asset of type `EXTERNAL`; its approved .jpg is added directly through Sanity.
-
-## Postponed assets
-
-Skip every asset whose Type or Status is `POSTPONED`. Do not create, update, regenerate, or mark created its SVG or PNG reference, and do not alter its existing brief, guide anchor, or production-log record. Postponed assets are deferred production records, not blocked reference-image work.
 
 ## Purpose
 

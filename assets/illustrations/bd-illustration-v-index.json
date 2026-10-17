@@ -27,7 +27,7 @@
       "alt": "the beginner learner and the older learner thoughtfully compare two plain pictorial evidence cards with different object examples on a small desk.",
       "file": "bd-illustration-v-002.png",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
-      "source_asset_type": "POSTPONED",
+      "source_asset_type": "Diagram",
       "visual_review": "reviewed"
     },
     {
@@ -42,7 +42,7 @@
       "alt": "the educator and the beginner learner consult an open course guide at a table while the business owner brings a simple practice phone and small produce basket to the same table, connecting classroom learning with local use.",
       "file": "bd-illustration-v-003.png",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
-      "source_asset_type": "POSTPONED",
+      "source_asset_type": "Diagram",
       "visual_review": "reviewed"
     },
     {
@@ -56,7 +56,7 @@
       "alt": "Three small equal story scenes featuring the SAME the beginner learner: reading an open guide; carefully practising with a phone facing him; explaining a simple goods exchange using rice and shoes on a table.",
       "file": "bd-illustration-v-004.png",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
-      "source_asset_type": "POSTPONED",
+      "source_asset_type": "Diagram",
       "visual_review": "reviewed"
     },
     {
@@ -72,7 +72,7 @@
       "alt": "One purposeful tabletop gathering: the older learner considers everyday money represented by blank banknotes; the technical learner studies a small network drawing; the business owner handles a training phone; the educator connects their examples using an open guide.",
       "file": "bd-illustration-v-005.png",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
-      "source_asset_type": "POSTPONED",
+      "source_asset_type": "Table (Replacement)",
       "visual_review": "reviewed"
     },
     {
@@ -86,7 +86,7 @@
       "alt": "An educator demonstrates arranging everyday goods cards, guides a learner through practice, then listens to his explanation.",
       "file": "bd-illustration-v-006.png",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
-      "source_asset_type": "POSTPONED",
+      "source_asset_type": "Diagram",
       "visual_review": "reviewed"
     },
     {
@@ -100,7 +100,7 @@
       "alt": "the beginner learner and the technical learner examine a few plain tokens, a divided rectangular tile, a small carrying pouch and a durable metal-like gray object on a desk.",
       "file": "bd-illustration-v-007.png",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
-      "source_asset_type": "POSTPONED",
+      "source_asset_type": "Table (Replacement)",
       "visual_review": "reviewed"
     },
     {
@@ -114,7 +114,7 @@
       "alt": "the business owner hands a small grocery bag to the older learner across a simple counter as he offers a few plain cool-gray unmarked banknotes; her open notebook and a small closed saving envelope sit nearby.",
       "file": "bd-illustration-v-008.png",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
-      "source_asset_type": "POSTPONED",
+      "source_asset_type": "Diagram",
       "visual_review": "reviewed"
     },
     {
@@ -185,8 +185,10 @@
       "alt": "the educator explains a tabletop set of distinct simple architectural models: one central-bank-like institutional building, one commercial-bank branch, one civic building and a small shop model.",
       "file": "bd-illustration-v-014.png",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
-      "source_asset_type": "POSTPONED",
-      "visual_review": "reviewed"
+      "source_asset_type": "CANCELED",
+      "visual_review": "reviewed",
+      "status": "CANCELED",
+      "placement_note": "Canceled 2026-10-16: not needed because BD-V-015 covers the fiat-system participants. No placement in either guide; retain this illustration for history only."
     },
     {
       "id": "015",
@@ -199,7 +201,7 @@
       "alt": "the older learner and the business owner make an ordinary cash-deposit inquiry at a generic bank counter with blank deposit slip and closed notebook.",
       "file": "bd-illustration-v-015.png",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
-      "source_asset_type": "POSTPONED",
+      "source_asset_type": "Diagram",
       "visual_review": "reviewed"
     },
     {
@@ -268,7 +270,7 @@
       "alt": "the older learner thoughtfully considers three equally sized unlettered cards on desk showing house, plain metal ingot and company share certificate with no text.",
       "file": "bd-illustration-v-020.png",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
-      "source_asset_type": "POSTPONED",
+      "source_asset_type": "Table (Replacement)",
       "visual_review": "reviewed"
     },
     {
@@ -386,7 +388,7 @@
       "alt": "the older learner actively rearranges a flat purple rectangular tile divided into many matching equal squares, showing one whole and smaller pieces beside it.",
       "file": "bd-illustration-v-029.png",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
-      "source_asset_type": "POSTPONED",
+      "source_asset_type": "Table (Replacement)",
       "visual_review": "reviewed"
     },
     {
@@ -526,7 +528,7 @@
       "alt": "the educator and the business owner compare two equally weighted tabletop teaching arrangements: phone with a key next to its user side; similar phone connected by a thin straight path to a remote rectangular server containing a key symbol.",
       "file": "bd-illustration-v-040.png",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
-      "source_asset_type": "POSTPONED",
+      "source_asset_type": "Table (Replacement)",
       "visual_review": "reviewed"
     },
     {
@@ -540,7 +542,7 @@
       "alt": "the older learner and the technical learner examine a phone, a small hardware signing device, a key and a remote-server model arranged as distinct props.",
       "file": "bd-illustration-v-041.png",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
-      "source_asset_type": "POSTPONED",
+      "source_asset_type": "Table (Replacement)",
       "visual_review": "reviewed"
     },
     {
@@ -638,7 +640,7 @@
       "alt": "the older learner and the business owner compare two simple route cards on desk; each card shows generic cash-to-phone handover with small separate pictorial cues for a clock, key and identity card.",
       "file": "bd-illustration-v-049.png",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
-      "source_asset_type": "POSTPONED",
+      "source_asset_type": "Table (Replacement)",
       "visual_review": "reviewed"
     },
     {
@@ -666,7 +668,7 @@
       "alt": "the business owner and the technical learner compare two unlettered pictorial payment-path cards beside their own phones, one card bearing a flat ledger page, other a Lightning bolt; a small clock and a key sit separately on table to prompt timing/custody questions.",
       "file": "bd-illustration-v-051.png",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
-      "source_asset_type": "POSTPONED",
+      "source_asset_type": "Table (Replacement)",
       "visual_review": "reviewed"
     },
     {
@@ -750,7 +752,7 @@
       "alt": "the business owner and the technical learner carefully compare two unbranded device examples, an open pictorial instruction guide, a key-control prop and a plain support contact card.",
       "file": "bd-illustration-v-057.png",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
-      "source_asset_type": "POSTPONED",
+      "source_asset_type": "Table (Replacement)",
       "visual_review": "reviewed"
     },
     {
@@ -763,7 +765,7 @@
       "alt": "the older learner writes with a pen in a simple pictorial review notebook beside his generic phone, a small blank calendar card and an alternative hardware device.",
       "file": "bd-illustration-v-058.png",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
-      "source_asset_type": "POSTPONED",
+      "source_asset_type": "Table (Replacement)",
       "visual_review": "reviewed"
     },
     {

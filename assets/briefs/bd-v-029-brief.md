@@ -3,25 +3,24 @@
 ## Source snapshot
 
 - Source capture: complete asset-index record preserved below from `workspace/mfb-bd-workspace/08_assets.md`.
-- Brief status: deferred.
-- Asset status: POSTPONED — do not produce, place, or include in the 2026.10 Diploma release.
+- Brief status: production-ready.
 - Source captured: 2026-10-16; brief revision 2026-10-16.
-- This brief is the primary authority for later JSON-reference creation after the postponement is lifted and the documented decisions are resolved. Consult the asset index only to resolve a documented incompleteness or conflict.
+- This brief is the primary authority for later JSON-reference creation after any documented source decisions are resolved. Consult the asset index only to resolve a documented incompleteness or conflict.
 
 ```markdown
-| `BD-V-029` | POSTPONED | Pablo | Essential | 821 | 1605 | Makes divisibility intuitive and counters the belief that a learner needs one whole bitcoin. | Illustrated denomination reference table; half to full width. | Start with `1 BTC = 100,000,000 sats`, then zoom into 0.1 BTC, 0.01 BTC, 0.001 BTC, and 1 sat. Show that differently displayed amounts can represent the same value, using `100,000 sats = 0.001 BTC`. Do not show a current fiat price. | Deferred for 2026.10; retain this production record. |
+| `BD-V-029` | Table (Replacement) | Pablo | Essential | 821 | 1605 | Makes divisibility intuitive and counters the belief that a learner needs one whole bitcoin. | Illustrated denomination reference table; half to full width. | Start with `1 BTC = 100,000,000 sats`, then zoom into 0.1 BTC, 0.01 BTC, 0.001 BTC, and 1 sat. Show that differently displayed amounts can represent the same value, using `100,000 sats = 0.001 BTC`. Do not show a current fiat price. | — |
 ```
 
 ## Asset definition
 
-- Type: POSTPONED in the register. Table (Replacement), intended future form; the register Type remains POSTPONED.
+- Type: Table (Replacement)
 - Priority: Essential
 - Suggested by: Pablo
 - Educational purpose: Makes divisibility intuitive and counters the belief that a learner needs one whole bitcoin.
 - Required format: Illustrated denomination reference table; half to full width. Future reference canvas: landscape 16:9, 960 × 540; no image is created in this task.
 - Required construction, elements, relationships, reading order, and qualifications: Start with `1 BTC = 100,000,000 sats`, then zoom into 0.1 BTC, 0.01 BTC, 0.001 BTC, and 1 sat. Show that differently displayed amounts can represent the same value, using `100,000 sats = 0.001 BTC`. Do not show a current fiat price.
-- Register note: Deferred for 2026.10; retain this production record.
-- Production restriction: this is a deferred specification, not release approval. Retain all current guide content and anchors; no downstream production or placement is authorized.
+- Register note: —
+- Production workflow: resolve any source conflicts below, then follow the standard JSON, reference, and production workflow. Keep guide content and anchors until an approved replacement is ready.
 
 ## Placement anchor
 
@@ -29,10 +28,9 @@
 
 ```markdown
 <!-- VISUAL: BD-V-029
-TYPE: POSTPONED
+TYPE: Table (Replacement)
 ALT: Bitcoin and satoshi denominations showing equivalent amounts at different unit scales.
 ASSET: assets/briefs/bd-v-029-brief.md
-STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
 -->
 ```
 
@@ -40,15 +38,14 @@ STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.
 
 ```markdown
 <!-- VISUAL: BD-V-029
-TYPE: POSTPONED
+TYPE: Table (Replacement)
 ALT: One bitcoin equals 100 million sats; the displayed fractional bitcoin and sat quantities describe equivalent amounts without changing the total supply.
 ASSET: assets/briefs/bd-v-029-brief.md
-STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
 USE: Shared Student Guide master.
 -->
 ```
 
-The heading and nearby text above are the placement authority; register line numbers are finders only. These are retained deferred anchors, not instructions to replace them now.
+The heading and nearby text above are the placement authority; register line numbers are finders only. Replace a marker only when its approved production asset is ready.
 
 ## Detailed visual specification
 
@@ -60,7 +57,7 @@ Makes divisibility intuitive and counters the belief that a learner needs one wh
 
 Pattern: Comparison table with a denomination callout. Layout skeleton: `teaching-page`, within the guide figure region at the width stated above. Future reference orientation: landscape 16:9, 960 × 540. Preserve reading order and learner-readable type when adapting to the final print region; do not shrink a dense table to fit an arbitrary height.
 
-Use a half- to full-width denomination reference. Put the live relationship 1 BTC = 100,000,000 sats above the existing two-column, five-row unit table. Read from the whole-bitcoin relation downward through 0.1 BTC, 0.01 BTC, 0.001 BTC, and 1 sat. Add a clear callout tying 100,000 sats to 0.001 BTC. Any magnification brackets indicate unit scale, not a literal amount-sized area: do not draw equal-size pieces and imply they represent equal quantities. Use simple divided geometric quantities, without currency coins. Retain the source table while postponed.
+Use a half- to full-width denomination reference. Put the live relationship 1 BTC = 100,000,000 sats above the existing two-column, five-row unit table. Read from the whole-bitcoin relation downward through 0.1 BTC, 0.01 BTC, 0.001 BTC, and 1 sat. Add a clear callout tying 100,000 sats to 0.001 BTC. Any magnification brackets indicate unit scale, not a literal amount-sized area: do not draw equal-size pieces and imply they represent equal quantities. Use simple divided geometric quantities, without currency coins. Retain the source table until its approved replacement is ready.
 
 ### Content and live text
 
@@ -86,7 +83,7 @@ In a later SVG/PNG reference, keep a solid white background and leave copy areas
 
 - Alt text: One bitcoin equals 100 million sats. The denomination table shows fractional BTC amounts and their satoshi equivalents, including 100,000 sats equaling 0.001 BTC; smaller units do not increase the supply.
 - Editable source: retain separate geometry and live text groups. For a future table, preserve semantic headers, row associations, and editable cells; an image alone cannot replace the accessible text equivalent. Translation must preserve reading order and all qualifications.
-- Reference image output: only after a later release decision and resolution of the documented issues, provide `assets/reference/bd-v-029-ref.svg` and a matching `assets/reference/bd-v-029-ref.png`; never a JPG reference. Do not create either file, a JSON record, or a package while the asset remains POSTPONED.
+- Reference image output: after resolution of any documented source issues, provide `assets/reference/bd-v-029-ref.svg` and a matching `assets/reference/bd-v-029-ref.png`; never a JPG reference.
 - Use in colour, grayscale, print, and on a phone: verify the specific relationships and row/stage order above without color; use positional and line/shape distinctions. Keep learner-facing print text at least 12pt. At phone width, preserve each label with its related content and allow wrapping or a clearly ordered stacked equivalent rather than illegible shrink-to-fit. Check contrast, connector continuity, numeric alignment where applicable, and a complete text alternative before any future release.
 
 ## Required visual treatment
@@ -104,7 +101,7 @@ No people are required. Do not add cast members, portraits, or character props. 
 ## Safety, exclusions, and qualifications
 
 - Do not include current fiat prices, exchange rates, price forecasts, unit-price comparisons with other tokens, or advice to buy bitcoin.
-- Preserve the original purpose, format, priority, description, and guide anchors. Existing tables remain in the guides. A complete deferred brief does not authorize a generated visual or 2026.10 inclusion.
+- Preserve the original purpose, format, priority, description, and guide anchors. Existing tables remain in the guides until their approved replacements are ready. Follow the standard production and placement checks before publication.
 - No financial, legal, tax, accounting, compliance, or investment advice; no provider recommendations, guaranteed safety, returns, adoption, or universal local conclusions. Any later local facts require approved, dated source material.
 - No real secrets, private keys, seed words, learner identities, personal/payment data, live balances, invoices, or payable destinations. These assets require no functional payment screen or QR. Any later approved fictional payment screen or QR must be nonfunctional and carry live `SAMPLE — DO NOT PAY` wording.
 - Keep protocol, wallet, service, user, educator, node, and miner roles distinct when mentioned. Never show bitcoin stored in a wallet, miners making rules, or a single controller of Bitcoin.
@@ -113,7 +110,7 @@ No people are required. Do not add cast members, portraits, or character props. 
 
 ## Source conflicts or unresolved decisions
 
-- The user explicitly requested briefs for POSTPONED assets on 2026-10-16, overriding the brief-skip instruction in assets/prompts/prompt-00-brief.md for this task. This authorizes these brief files only. The asset remains POSTPONED; JSON, image generation, upload, guide replacement, and 2026.10 inclusion remain deferred.
+- None.
 
 ## Completion criteria
 
@@ -123,4 +120,4 @@ No people are required. Do not add cast members, portraits, or character props. 
 - Use the specified pattern, teaching-page region, purple-led palette, flat 13° geometry where relevant, live text, and instructional alt text.
 - Future accessibility review must verify grayscale, print at 12pt or larger, phone reading order, contrast, and complete source-supported content; saving this brief does not claim those visual checks have occurred.
 - Carry every source gap or conflict into later review; do not silently complete truncated descriptions, invent a local fact, or remove a safety qualification.
-- Keep status deferred and the asset POSTPONED. No JSON, SVG/PNG, VM upload, MG package, Sanity insertion, or guide replacement is created by this brief task.
+- Follow the standard asset workflow after resolving any source conflicts; record each deliverable only after its file exists.

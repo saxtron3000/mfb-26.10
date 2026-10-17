@@ -482,18 +482,16 @@ USE: Educator-only diagram; see the asset index brief.
 ### Four-module Bitcoin Diploma and Advanced Learning boundaries
 
 **The Bitcoin Diploma** follows the four-stage learning arc **Problem → Solution → Action → Connect**. **Modules 1–2** develop the Problem and Solution through explanation, comparison, and reasoning. **Module 3** develops safe Action. **Module 4** is the educator-curated Connect stage, where learners link the shared learning to a local need or opportunity, realistic alternative, safe performance, and responsible next step.
+<!-- VISUAL: BD-V-003
+TYPE: Diagram
+ALT: All four Bitcoin Diploma modules form the required learning arc; locally selected Connect learning remains required and Advanced learning lies beyond the Bitcoin Diploma.
+ASSET: assets/briefs/bd-v-003-brief.md
+USE: Shared Student Guide master.
+-->
 
 **Module 4** is required Bitcoin Diploma learning, curated by educators as the local subject-matter experts. The scenario or tool may change, but every learner seeking certification must meet `C7` through a local activity that covers the purpose of `C7.1` and `C7.2`.
 
 [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) is optional follow-on learning beyond the Bitcoin Diploma. Detailed [mining](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work), transaction mechanics, Lightning operations, [multisignature](https://programs.myfirstbitcoin.org/lexicon/en/#multisignature-multisig) design, institutional [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody), organizational treasury, regulation, accounting, tax, compliance, investment analysis, policy, and deep technical topics do not belong in the required beginner experience.
-
-<!-- VISUAL: BD-V-003
-TYPE: POSTPONED
-ALT: All four Bitcoin Diploma modules form the required learning arc; locally selected Connect learning remains required and Advanced learning lies beyond the Bitcoin Diploma.
-ASSET: assets/briefs/bd-v-003-brief.md
-STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
-USE: Shared Student Guide master.
--->
 
 When an interesting question would pull the group into advanced material, acknowledge it and protect the course sequence. A useful response is:
 
@@ -1106,10 +1104,9 @@ Teach the difference explicitly:
 - A **property** describes a quality that can make it useful: [durability](https://programs.myfirstbitcoin.org/lexicon/en/#durability), [portability](https://programs.myfirstbitcoin.org/lexicon/en/#portability), [divisibility](https://programs.myfirstbitcoin.org/lexicon/en/#divisibility), [fungibility](https://programs.myfirstbitcoin.org/lexicon/en/#fungibility), [scarcity](https://programs.myfirstbitcoin.org/lexicon/en/#scarcity), [acceptability](https://programs.myfirstbitcoin.org/lexicon/en/#acceptability), or [verifiability](https://programs.myfirstbitcoin.org/lexicon/en/#verifiability).
 
 <!-- VISUAL: BD-V-008
-TYPE: POSTPONED
+TYPE: Diagram
 ALT: Three money functions describe what money does; seven properties describe qualities that support those functions, with trade-offs depending on purpose.
 ASSET: assets/briefs/bd-v-008-brief.md
-STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
 USE: Shared Student Guide master.
 -->
 
@@ -1232,10 +1229,9 @@ Ask learners to identify:
 6. what would make the payment harder if acceptance or trust broke down.
 
 <!-- VISUAL: BD-V-015
-TYPE: POSTPONED
+TYPE: Diagram
 ALT: A fiat-payment map distinguishes central-bank, commercial-bank, government, citizen, business, and payment-service roles, claims, instructions, and dependencies.
 ASSET: assets/briefs/bd-v-015-brief.md
-STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
 USE: Shared Student Guide master.
 -->
 
@@ -1686,10 +1682,9 @@ Use a few conversions:
 - 1 [sat](https://programs.myfirstbitcoin.org/lexicon/en/#satoshi-sat) = 0.00000001 bitcoin.
 
 <!-- VISUAL: BD-V-029
-TYPE: POSTPONED
+TYPE: Table (Replacement)
 ALT: One bitcoin equals 100 million sats; the displayed fractional bitcoin and sat quantities describe equivalent amounts without changing the total supply.
 ASSET: assets/briefs/bd-v-029-brief.md
-STATUS: POSTPONED — retain this anchor; do not include this asset in the 2026.10 Diploma release.
 USE: Shared Student Guide master.
 -->
 

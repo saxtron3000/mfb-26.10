@@ -4,19 +4,18 @@
 **Type:** EXTERNAL
 **Status:** DIRECT SANITY UPLOAD
 **Purpose:** Provide the Creative Commons Attribution-ShareAlike 4.0 licence mark beside the written licence statement.
-**Description:** Add the approved .jpg directly through Sanity. Generated production work is not applicable; no brief, AI reference, or Claude package is required. This asset is not postponed.
+**Description:** Add the approved .jpg directly through Sanity. Generated production work is not applicable; no brief, AI reference, or Claude package is required.
 
 **## BD-V-002**
-**Type:** POSTPONED
-**Status:** POSTPONED
-**Purpose:** This asset has been postponed
-**Description:** This asset has been postponed
+**Type:** Diagram
+**Purpose:** Makes “teach how to think, not what to think” into a repeatable learner action.
+**Description:** Show a six-step loop: identify the claim; separate fact from preference; inspect evidence and source; compare alternatives; name a trade-off or uncertainty; form a provisional conclusion or question. The loop must allow revision rather than ending in certainty.
 
 **## BD-V-076**
 **Type:** EXTERNAL
 **Status:** DIRECT SANITY UPLOAD
 **Purpose:** Use the supplied JPG directly through Sanity; confirm its content and placement during publication.
-**Description:** Add the approved .jpg directly through Sanity. Generated production work is not applicable; no brief, AI reference, or Claude package is required. This asset is not postponed.
+**Description:** Add the approved .jpg directly through Sanity. Generated production work is not applicable; no brief, AI reference, or Claude package is required.
 
 **## BD-V-077**
 **Type:** Diagram
@@ -24,40 +23,35 @@
 **Description:** The diagram moves from left to right, showing a series of programs and arrows connecting them. On the left is the introduction to Bitcoin course. After this, the Bitcoin diploma. After this, the educator training program. After this, Edcuator. After this, community leader. Information should come from this website https://journey.myfirstbitcoin.org/
 
 **## BD-V-006**
-**Type:** POSTPONED
-**Status:** POSTPONED
-**Purpose:** This asset has been postponed
-**Description:** This asset has been postponed
+**Type:** Diagram
+**Purpose:** Shows how a learner moves through a typical concept rather than only reading it.
+**Description:** Use the five stages in the current list: `Learn a key idea → Show what you can explain or apply → Apply the idea → Explain in your own words → Review the connection to the next module`. Keep discussion, safe practice, and offline participation available throughout. Do not turn this learning rhythm into an assessment score or imply that self-report proves competency.
 
 **## BD-V-003**
-**Type:** POSTPONED
-**Status:** POSTPONED
-**Purpose:** This asset has been postponed
-**Description:** This asset has been postponed
+**Type:** Diagram
+**Purpose:** Clarifies that all four modules are the Bitcoin Diploma, while educators adapt Module 3 practice and curate the required Connect Module 4.
+**Description:** Show all four modules inside a `Bitcoin Diploma: all learners` container, labeled Problem → Solution → Action → Connect. Mark Modules 1–2 as shared core learning, Module 3 as educator-adapted practical learning, and Module 4 as `Connect: educator-curated local learning; required`. Show that Connect applies the earlier learning to a local need and realistic alternative. Show Advanced as a separate onward path. Use arrows to show…
+**Placement:** Student Guide line 232, under `### The four-module Diploma`, immediately after the opening four-stage learning-arc paragraph. Educator Guide line 485, under `### Four-module Bitcoin Diploma and Advanced Learning boundaries`, immediately after the opening four-stage learning-arc paragraph.
 
 **## BD-V-004**
-**Type:** POSTPONED
-**Status:** POSTPONED
-**Purpose:** This asset has been postponed
-**Description:** This asset has been postponed
+**Type:** Diagram
+**Purpose:** Gives learners a mental map of the Bitcoin Diploma before they enter Module 1.
+**Description:** Show one connected sequence: `1 Problem: Understanding Money → 2 Solution: How Bitcoin Works → 3 Action: Using Bitcoin Safely → 4 Connect: Bitcoin in Your Community`. Mark Modules 1–3 as shared learning and Module 4 as educator-curated, locally relevant, and required. Show that Connect links the first three stages to a local need, realistic alternative, safe task, and next step. Include each module's guiding question in…
 
 **## BD-V-005**
-**Type:** POSTPONED
-**Status:** POSTPONED
-**Purpose:** This asset has been postponed
-**Description:** This asset has been postponed
+**Type:** Table (Replacement)
+**Purpose:** Lets learners compare each Bitcoin Diploma module's role, guiding question, and promise at a glance.
+**Description:** Preserve the columns `Module`, `Role`, `Guiding question`, and `Learner promise`. Use four clearly separated, editable rows for Problem: Understanding Money, Solution: How Bitcoin Works, Action: Using Bitcoin Safely, and Connect: Bitcoin in Your Community. Mark Modules 1–3 as shared learning and Module 4 as educator-curated, locally relevant, and required for Bitcoin Diploma completion.
 
 **## BD-V-007**
-**Type:** POSTPONED
-**Status:** POSTPONED
-**Purpose:** This asset has been postponed
-**Description:** This asset has been postponed
+**Type:** Table (Replacement)
+**Purpose:** Gives learners a reusable set of questions for assessing whether a form of money is useful.
+**Description:** Preserve durability, portability, divisibility, fungibility, scarcity, acceptability, and verifiability, each paired with its existing question. Add restrained, distinct icons only as supporting cues. Do not score currencies or name a universal winner.
 
 **## BD-V-008**
-**Type:** POSTPONED
-**Status:** POSTPONED
-**Purpose:** This asset has been postponed
-**Description:** This asset has been postponed
+**Type:** Diagram
+**Purpose:** Separates what money does from the qualities that make it useful.
+**Description:** Use two linked layers. Layer 1 shows the three functions with small, simple icons: exchange arrows for medium of exchange; a price tag or measuring symbol for unit of account; and a clock with protected value for store of value. Layer 2 shows the seven properties: durability, portability, divisibility, fungibility, scarcity, acceptability, verifiability. Use cash, gold, and a generic digital monetary asset only as…
 
 **## BD-V-009**
 **Type:** Illustration
@@ -85,16 +79,15 @@
 **Description:** This timeline moves from left to right and includes the following elements: barter and direct exchange, commodity money, standard coins, representative paper, bank and government money, and finally digital money. Each one is represented by an icon and has no text.The timeline starts on the left and finishes on the right, and all of the icons are arranged in the correct order to show the evolution of money.
 
 **## BD-V-014**
-**Type:** POSTPONED
-**Status:** POSTPONED
-**Purpose:** This asset has been postponed
-**Description:** This asset has been postponed
+**Type:** CANCELED
+**Status:** CANCELED
+**Purpose:** No longer required because BD-V-015 covers the fiat-system participants.
+**Description:** Canceled on 2026-10-16. Removed from the Student Guide and confirmed absent from the Educator Guide. Retain the ID and existing files for history only; do not produce, upload, or place.
 
 **## BD-V-015**
-**Type:** POSTPONED
-**Status:** POSTPONED
-**Purpose:** This asset has been postponed
-**Description:** This asset has been postponed
+**Type:** Diagram
+**Purpose:** Shows where trust, claims, and control sit in a fiat payment system.
+**Description:** Map central bank, commercial bank, government, citizens and businesses, and payment services. Use distinct arrows for money or claims, policy or rules, taxes and spending, and payment instructions. Show that a bank deposit is the bank's liability to the customer. Avoid suggesting that every country has identical institutions or rules.
 
 **## BD-V-016**
 **Type:** Diagram
@@ -112,10 +105,9 @@
 **Description:** This illustration has two different baskets. The first basket has goods in it and it costs 100 units of the currency and it has various items in the second side of this illustration has the same basket, but it costs 110 units of the currency. Behind this we see that the purchasing power of the currency has reduced.
 
 **## BD-V-020**
-**Type:** POSTPONED
-**Status:** POSTPONED
-**Purpose:** This asset has been postponed
-**Description:** This asset has been postponed
+**Type:** Table (Replacement)
+**Purpose:** Helps learners compare why an asset may be chosen alongside its important trade-offs.
+**Description:** Preserve precious metals, real estate, and stocks with columns for `Why people may choose it` and `Important trade-offs`. Add simple, non-promotional icons. Do not add investment advice, price predictions, or a best-choice ranking.
 
 **## BD-V-021**
 **Type:** Diagram
@@ -173,10 +165,9 @@
 **Description:** This diagram is a graphic that represents Bitcoin being issued over the years from its creation in 2009 all the way up until the coins have been distributed. It's using the Bitcoin halving, which shows the first epoch between 2009 and 2012, block height 21, sorry, 2010 210,000 issuing 50 blocks, then 25, then 12.5, then 6.25, then 3.125, until eventually this curve tails to a flat 21 million.
 
 **## BD-V-029**
-**Type:** POSTPONED
-**Status:** POSTPONED
-**Purpose:** This asset has been postponed
-**Description:** This asset has been postponed
+**Type:** Table (Replacement)
+**Purpose:** Makes divisibility intuitive and counters the belief that a learner needs one whole bitcoin.
+**Description:** Start with `1 BTC = 100,000,000 sats`, then zoom into 0.1 BTC, 0.01 BTC, 0.001 BTC, and 1 sat. Show that differently displayed amounts can represent the same value, using `100,000 sats = 0.001 BTC`. Do not show a current fiat price.
 
 **## BD-V-033**
 **Type:** Diagram
@@ -237,10 +228,9 @@
 **Description:** Show two mobile devices. One device has a key on it and is being held in the user's hands. The other device is being held in another user's hand but doesn't have a key on it. The key is on a server placed above the user in the cloud.
 
 **## BD-V-040**
-**Type:** POSTPONED
-**Status:** POSTPONED
-**Purpose:** This asset has been postponed
-**Description:** This asset has been postponed
+**Type:** Table (Replacement)
+**Purpose:** Makes key control, recovery, and failure points comparable without moralising either model.
+**Description:** Preserve the current rows `Who holds the keys?`, `Who handles recovery?`, and `Main trade-off`, with the custodial and self-custodial explanations. Use neutral icons and editable text. Do not add a recommendation badge or treat either model as risk free.
 
 **## BD-V-042**
 **Type:** Diagram
@@ -248,10 +238,9 @@
 **Description:** A hot wallet is a cell phone which is connected via signals to the internet. And the second device is a cold wallet which does not have connection to the internet. So shows a Wi-Fi with a cross through it. The first one has a Wi-Fi with a check next to it. So show a cell phone with the Wi-Fi icon with a check next to it and then show another device which almost looks like a calculator with a Wi-Fi cancelled on it.
 
 **## BD-V-041**
-**Type:** POSTPONED
-**Status:** POSTPONED
-**Purpose:** This asset has been postponed
-**Description:** This asset has been postponed
+**Type:** Table (Replacement)
+**Purpose:** Prevents learners from treating custody and connectivity as one scale.
+**Description:** Preserve the current columns and the rows for hot wallet, hardware or cold wallet, and custodial account. Distinguish key control from signing environment; use the qualifications in `BD-V-042` to prevent treating custody and connectivity as one scale. Preserve one common strength and one responsibility for each arrangement.
 
 **## BD-V-043**
 **Type:** Diagram
@@ -290,10 +279,9 @@
 **Description:** The diagram shows a person receiving Bitcoin via earning it, via a peer-to-peer exchange, and via using an exchange or broker. So, have one person who's earning it through working and receiving it as a merchant? Then, show the same person, exchanging cash with another user to buy Bitcoin, and then show the same person logging onto a computer and going to an exchange. The computer screen shows prices and a Bitcoin logo.
 
 **## BD-V-049**
-**Type:** POSTPONED
-**Status:** POSTPONED
-**Purpose:** This asset has been postponed
-**Description:** This asset has been postponed
+**Type:** Table (Replacement)
+**Purpose:** Helps learners assess a complete acquisition or exchange route instead of focusing only on price.
+**Description:** Preserve the six existing risk-area rows and their questions: costs; custody; identity and privacy; withdrawal and settlement; counterparty and safety; local context. Keep each question editable, neutral, and locally verifiable. Include no provider names, rankings, or legal conclusions.
 
 **## BD-V-050**
 **Type:** Diagram
@@ -301,10 +289,9 @@
 **Description:** This diagram shows on the left-hand side a Bitcoin logo and on the right hand side a lightning bolt.
 
 **## BD-V-051**
-**Type:** POSTPONED
-**Status:** POSTPONED
-**Purpose:** This asset has been postponed
-**Description:** This asset has been postponed
+**Type:** Table (Replacement)
+**Purpose:** Lets learners compare payment requests, settlement, timing, fees, typical use, and introductory risks across the two paths.
+**Description:** Preserve the four current rows: receiving information, payment result, common use, and beginner checks. Keep invoice, offer, and supported Lightning-address wording, plus expiry and payment-result checks. Retain custody and fee qualifications from the adjacent prose. Do not imply that Lightning is a separate coin or that either path is universally better.
 
 **## BD-V-052**
 **Type:** Diagram
@@ -332,16 +319,14 @@
 **Description:** Three words linked together using arrows: presentation, practice, and production, flowing left to right.
 
 **## BD-V-057**
-**Type:** POSTPONED
-**Status:** POSTPONED
-**Purpose:** This asset has been postponed
-**Description:**
+**Type:** Table (Replacement)
+**Purpose:** Helps learners see that an interface belongs to a custody, network, and support context.
+**Description:** Preserve purpose, custody, source, code, recovery, privacy, cost, compatibility, support, and law as editable rows with a `What to verify` column. Record the date checked. Do not show an approved-products badge or a globally recommended wallet.
 
 **## BD-V-058**
-**Type:** POSTPONED
-**Status:** POSTPONED
-**Purpose:** This asset has been postponed
-**Description:**
+**Type:** Table (Replacement)
+**Purpose:** Helps learners record what was checked about a tool without treating it as a global recommendation.
+**Description:** Preserve the rows for tool and version, date checked, custody model, main use, benefit, risk, recovery method, and alternative. Keep all fields editable and date-stamped. Do not use an endorsement badge or provider ranking.
 
 **## BD-V-080**
 **Type:** Diagram

@@ -1,12 +1,12 @@
 # Claude Design and Sanity asset prompt
 
+## Canceled assets
+
+Skip every asset whose Type or Status is `CANCELED` or `CANCELLED`. Do not create, regenerate, upload, or place any deliverable for it, and do not restore its guide anchors. Existing files are historical records only.
+
 ## Purpose
 
-Attach this file to every Claude Design request that turns a pipeline-eligible Bitcoin Diploma contract into a production asset. Each eligible asset receives an approved Codex-generated SVG reference, its matching PNG rendering, and its conformance report. Claude must create the editable, accessible source and upload-ready deliverables; it must not publish a reference image. An asset of type `EXTERNAL`, including `BD-V-001` and `BD-V-076`, is outside this pipeline: add its approved .jpg directly through Sanity, without a brief, AI reference, or Claude package. These two assets are not postponed; generated production work is not applicable. The current reference batch defers `BD-V-070` and `BD-V-075`; these prompts do not release deferred items.
-
-## Postponed assets
-
-Skip every asset whose Type or Status is `POSTPONED`. Do not create, update, regenerate, upload, or mark created its production bundle or any upstream/downstream asset record. Do not alter its existing brief, guide anchor, or production-log record. Postponed assets are deferred production records and are not eligible for a Claude Design request.
+Attach this file to every Claude Design request that turns a pipeline-eligible Bitcoin Diploma contract into a production asset. Each eligible asset receives an approved Codex-generated SVG reference, its matching PNG rendering, and its conformance report. Claude must create the editable, accessible source and upload-ready deliverables; it must not publish a reference image. An asset of type `EXTERNAL`, including `BD-V-001` and `BD-V-076`, is outside this pipeline: add its approved .jpg directly through Sanity, without a brief, AI reference, or Claude package. Generated production work is not applicable to these two assets. Apply the asset-specific conditions for `BD-V-070` and the unresolved governance and destination requirements for `BD-V-075`.
 
 The complete entry in [08_assets.md](08_assets.md) is the instructional source of truth. The Claude Design System and its local authoring contract are the source of truth for brand and design-system choices. Where they conflict, stop and report the specific conflict for resolution.
 

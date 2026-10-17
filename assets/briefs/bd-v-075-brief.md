@@ -3,12 +3,12 @@
 ## Source snapshot
 
 - Source capture: complete asset-index record preserved below.
-- Brief status: deferred.
+- Brief status: blocked.
 - Source captured: 2026-10-08; brief revision 2026-10-08.
 - This brief is the primary authority for later JSON-reference creation. Consult the asset index only to resolve a documented incompleteness or conflict.
 
 ```markdown
-| `BD-V-075` | Diagram | AI | Conditional | — |  | Retained only as a possible future issuer-specific verification concept; it is not part of the current publication set. | Deferred verification flow; no current asset. | Do not produce for 2026.10. Certification is educator-issued and My First Bitcoin does not operate a central verification service. The [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) may prepare educator-confirmed certificates in batches, but it is not a verification service and requires no QR asset. A future separately governed issuer-specific method may revive this brief only after its real destination, privacy controls, correction and withdrawal rules, and minimum data display are approved and tested. It must identify the actual educator or issuing organization and must not imply central… | — |
+| `BD-V-075` | Diagram | AI | Conditional | — |  | Retained only as a possible future issuer-specific verification concept; it is not part of the current publication set. | Verification flow; governance and destination requirements unresolved. | Do not produce for 2026.10. Certification is educator-issued and My First Bitcoin does not operate a central verification service. The [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) may prepare educator-confirmed certificates in batches, but it is not a verification service and requires no QR asset. A future separately governed issuer-specific method may revive this brief only after its real destination, privacy controls, correction and withdrawal rules, and minimum data display are approved and tested. It must identify the actual educator or issuing organization and must not imply central… | — |
 ```
 
 ## Asset definition
@@ -36,9 +36,9 @@ Retained only as a possible future issuer-specific verification concept; it is n
 
 ### Composition and reading order
 
-Pattern: Process flow. Layout skeleton: teaching-page. Reference topology: deferred. No current production asset.
+Pattern: Process flow. Layout skeleton: teaching-page. Reference topology: unresolved. No current production asset.
 
-No production composition is authorized in 2026.10. All future layout choices remain deferred until governance and destination tests are approved.
+No production composition is authorized in 2026.10. Layout choices remain unresolved until governance and destination tests are approved.
 
 Controlling construction: Do not produce for 2026.10. Certification is educator-issued and My First Bitcoin does not operate a central verification service. The [Certificate Tool](https://tools.myfirstbitcoin.org/certificate) may prepare educator-confirmed certificates in batches, but it is not a verification service and requires no QR asset. A future separately governed issuer-specific method may revive this brief only after its real destination, privacy controls, correction and withdrawal rules, and minimum data display are approved and tested. It must identify the actual educator or issuing organization and must not imply central…
 
@@ -55,7 +55,7 @@ Reading order: Actual educator or issuing organization → Minimum-data issuer-s
 
 ### Accessibility and production handoff
 
-- Alt text: Actual educator or issuing organization; Minimum-data issuer-specific verification; Privacy, correction and withdrawal controls. No production composition is authorized in 2026.10. All future layout choices remain deferred until governance and destination tests are approved.
+- Alt text: Actual educator or issuing organization; Minimum-data issuer-specific verification; Privacy, correction and withdrawal controls. No production composition is authorized in 2026.10. Layout choices remain unresolved until governance and destination tests are approved.
 - Editable source: retain separately addressable geometry and live-label regions; later micrographic copy, table cells and data remain editable and translatable. The SVG and PNG are private visual references, not production assets.
 - Reference image output: Codex must provide `assets/reference/bd-v-075-ref.svg` and a matching `assets/reference/bd-v-075-ref.png` when the production gate is clear; never JPG.
 - Use in colour, grayscale, print, and on a phone: inspect the stated reading order at 960 × 540 and at phone width; distinguish relationships by position, shape or line style as well as colour; retain a white background, generous copy space and live 12pt-or-larger learner text in production. Check that arrows and object silhouettes remain distinguishable without colour.

@@ -1,6 +1,6 @@
 # Bitcoin Diploma asset production log
 
-This log records the file-production status required by the asset workflow in [workspace/mfb-bd-workspace/08_assets.md](../workspace/mfb-bd-workspace/08_assets.md). Active brief, JSON and SVG/PNG records were checked on 2026-10-08. On 2026-10-16, all 17 POSTPONED design briefs were created at the user’s request and their existing log paths were verified. These briefs remain deferred; downstream production and 2026.10 release status are unchanged.
+This log records the file-production status required by the asset workflow in [workspace/mfb-bd-workspace/08_assets.md](../workspace/mfb-bd-workspace/08_assets.md). Active brief, JSON and SVG/PNG records were checked on 2026-10-08. On 2026-10-16, 17 additional design briefs were created and their existing log paths were verified. Required assets use their original visual types and follow the applicable workflow. This classification update does not create downstream deliverables.
 
 - Design briefs: 99 created
 - Asset descriptions: 100 created
@@ -15,9 +15,13 @@ The Description column records whether an asset has a corresponding entry in [as
 
 ## 2026.10 release status
 
-The following assets are **POSTPONED** and will not be included in the 2026.10 Bitcoin Diploma release: `BD-V-002`, `BD-V-003`, `BD-V-004`, `BD-V-005`, `BD-V-006`, `BD-V-007`, `BD-V-008`, `BD-V-014`, `BD-V-015`, `BD-V-020`, `BD-V-029`, `BD-V-040`, `BD-V-041`, `BD-V-049`, `BD-V-051`, `BD-V-057`, and `BD-V-058`. Their description and guide-anchor records remain for a later reviewed release. The workflow columns below track file records only; `Created` does not mean the asset is included in 2026.10.
+`BD-V-014` is **CANCELED** as of 2026-10-16 because it is not needed when BD-V-015 exists. It has no placement in either guide. Existing files are historical records only; no further production, upload, or placement is required.
 
-`BD-V-001` and `BD-V-076` are **EXTERNAL — direct JPG upload through Sanity**. They are not postponed. Their generated production work is not applicable; add the approved `.jpg` files directly through Sanity. Upload completion is not recorded here.
+`BD-V-003` remains a Diagram. Its Student Guide marker is at line 232 under `The four-module Diploma`, immediately after the opening four-stage learning-arc paragraph. The Educator Guide marker is at line 485 under `Four-module Bitcoin Diploma and Advanced Learning boundaries`, immediately after the opening four-stage learning-arc paragraph. The asset index and brief record the corrected placement.
+
+Required assets retain their original types. Resolve any source conflicts documented in individual briefs through the standard workflow. The workflow columns below track file records only; `Created` does not mean the asset is approved for publication.
+
+`BD-V-001` and `BD-V-076` are **EXTERNAL — direct JPG upload through Sanity**. Their generated production work is not applicable; add the approved `.jpg` files directly through Sanity. Upload completion is not recorded here.
 
 | Asset ID | Description | Brief | JSON reference | SVG/PNG reference | Uploaded to VM | MG package |
 |---|---|---|---|---|---|
@@ -34,7 +38,7 @@ The following assets are **POSTPONED** and will not be included in the 2026.10 B
 | BD-V-011 | Created | Created — `assets/briefs/bd-v-011-brief.md` | Created — `assets/reference/bd-v-011-ref.json` | Created — `assets/reference/bd-v-011-ref.svg`; `assets/reference/bd-v-011-ref.png` | Not recorded | Not created |
 | BD-V-012 | Created | Created — `assets/briefs/bd-v-012-brief.md` | Created — `assets/reference/bd-v-012-ref.json` | Created — `assets/reference/bd-v-012-ref.svg`; `assets/reference/bd-v-012-ref.png` | Not recorded | Not created |
 | BD-V-013 | Created | Created — `assets/briefs/bd-v-013-brief.md` | Not created | Blocked — STYLE.md requires first-party icons, but no reusable first-party icon files are present. Original vector-cue permission is pending. | Not recorded | Not created |
-| BD-V-014 | Created | Created — `assets/briefs/bd-v-014-brief.md` | Not created | Not created | Not recorded | Not created |
+| BD-V-014 | Created — CANCELED | Created — `assets/briefs/bd-v-014-brief.md` (historical only) | Not applicable — CANCELED | Not applicable — CANCELED | Not applicable — CANCELED | Not applicable — CANCELED |
 | BD-V-015 | Created | Created — `assets/briefs/bd-v-015-brief.md` | Not created | Not created | Not recorded | Not created |
 | BD-V-016 | Created | Created — `assets/briefs/bd-v-016-brief.md` | Created — `assets/reference/bd-v-016-ref.json` | Created — `assets/reference/bd-v-016-ref.svg`; `assets/reference/bd-v-016-ref.png` | Not recorded | Not created |
 | BD-V-017 | Created | Created — `assets/briefs/bd-v-017-brief.md` | Created — `assets/reference/bd-v-017-ref.json` | Created — `assets/reference/bd-v-017-ref.svg`; `assets/reference/bd-v-017-ref.png` | Not recorded | Not created |
