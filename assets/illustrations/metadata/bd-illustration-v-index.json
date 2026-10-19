@@ -19,7 +19,7 @@
     "native_png": 0,
     "svg": 0
   },
-  "review_note": "Scene descriptions, source-asset type labels, and review labels are retained as historical metadata from the prior index; consult source for current production requirements. No new visual review was performed.",
+  "review_note": "Scene descriptions, source-asset type labels, and review labels are retained as historical metadata from the prior index; consult source for current production requirements. No new visual review was performed. Canonical character names have been applied to role-based descriptions; recorded cast IDs and artwork remain unchanged. BD-V-009 now requires Amina (C04), Luis (C02), and Mei (C06); its existing companion scene records C04/C02/C05 and requires a new cast review before production reuse.",
   "assets": [
     {
       "id": "001",
@@ -29,7 +29,7 @@
         "C03"
       ],
       "purpose": "Show open educational materials being shared while keeping written licence terms in the guide.",
-      "alt": "An educator hands a course guide to an older learner, with a second copy and his notes nearby.",
+      "alt": "Sara hands a course guide to Ernesto, with a second copy and his notes nearby.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-001",
       "file": "../png/bd-illustration-v-001-hd.png",
@@ -50,7 +50,7 @@
         "C03"
       ],
       "purpose": "Show learners examining evidence and considering alternatives.",
-      "alt": "the beginner learner and the older learner thoughtfully compare two plain pictorial evidence cards with different object examples on a small desk.",
+      "alt": "Luis and Ernesto thoughtfully compare two plain pictorial evidence cards with different object examples on a small desk.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-002",
       "file": "../png/bd-illustration-v-002-hd.png",
@@ -72,7 +72,7 @@
         "C04"
       ],
       "purpose": "Show shared learning connected to practical and community work.",
-      "alt": "the educator and the beginner learner consult an open course guide at a table while the business owner brings a simple practice phone and small produce basket to the same table, connecting classroom learning with local use.",
+      "alt": "Sara and Luis consult an open course guide at a table while Amina brings a simple practice phone and small produce basket to the same table, connecting classroom learning with local use.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-003",
       "file": "../png/bd-illustration-v-003-hd.png",
@@ -93,7 +93,7 @@
         "C04"
       ],
       "purpose": "Illustrate progression from studying to practical application.",
-      "alt": "Three small equal story scenes featuring the SAME the beginner learner: reading an open guide; carefully practising with a phone facing him; explaining a simple goods exchange using rice and shoes on a table.",
+      "alt": "Three small equal story scenes featuring Luis: reading an open guide; carefully practising with a phone facing him; explaining a simple goods exchange using rice and shoes on a table.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-004",
       "file": "../png/bd-illustration-v-004-hd.png",
@@ -116,7 +116,7 @@
         "C05"
       ],
       "purpose": "Illustrate the four-module course subjects alongside the retained module table.",
-      "alt": "One purposeful tabletop gathering: the older learner considers everyday money represented by blank banknotes; the technical learner studies a small network drawing; the business owner handles a training phone; the educator connects their examples using an open guide.",
+      "alt": "One purposeful tabletop gathering: Ernesto considers everyday money represented by blank banknotes; Lukas studies a small network drawing; Amina handles a training phone; Sara connects their examples using an open guide.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-005",
       "file": "../png/bd-illustration-v-005-hd.png",
@@ -137,7 +137,7 @@
         "C02"
       ],
       "purpose": "Show a learner moving from explanation through practice to explaining independently.",
-      "alt": "An educator demonstrates arranging everyday goods cards, guides a learner through practice, then listens to his explanation.",
+      "alt": "Sara demonstrates arranging everyday goods cards, guides a learner through practice, then listens to his explanation.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-006",
       "file": "../png/bd-illustration-v-006-hd.png",
@@ -158,7 +158,7 @@
         "C05"
       ],
       "purpose": "Illustrate inquiry into qualities that make money useful.",
-      "alt": "the beginner learner and the technical learner examine a few plain tokens, a divided rectangular tile, a small carrying pouch and a durable metal-like gray object on a desk.",
+      "alt": "Luis and Lukas examine a few plain tokens, a divided rectangular tile, a small carrying pouch and a durable metal-like gray object on a desk.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-007",
       "file": "../png/bd-illustration-v-007-hd.png",
@@ -179,7 +179,7 @@
         "C04"
       ],
       "purpose": "Show money serving exchange and keeping a record of value.",
-      "alt": "the business owner hands a small grocery bag to the older learner across a simple counter as he offers a few plain cool-gray unmarked banknotes; her open notebook and a small closed saving envelope sit nearby.",
+      "alt": "Amina hands a small grocery bag to Ernesto across a simple counter as he offers a few plain cool-gray unmarked banknotes; her open notebook and a small closed saving envelope sit nearby.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-008",
       "file": "../png/bd-illustration-v-008-hd.png",
@@ -292,7 +292,7 @@
         "C04"
       ],
       "purpose": "Illustrate people and institutions with distinct roles in a money system.",
-      "alt": "the educator explains a tabletop set of distinct simple architectural models: one central-bank-like institutional building, one commercial-bank branch, one civic building and a small shop model.",
+      "alt": "Sara explains a tabletop set of distinct simple architectural models: one central-bank-like institutional building, one commercial-bank branch, one civic building and a small shop model.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "status": "CANCELED",
       "placement_note": "Canceled 2026-10-16: not needed because BD-V-015 covers the fiat-system participants. No placement in either guide; retain this illustration for history only.",
@@ -315,7 +315,7 @@
         "C04"
       ],
       "purpose": "Show a bank-mediated everyday payment as the subject of the system map.",
-      "alt": "the older learner and the business owner make an ordinary cash-deposit inquiry at a generic bank counter with blank deposit slip and closed notebook.",
+      "alt": "Ernesto and Amina make an ordinary cash-deposit inquiry at a generic bank counter with blank deposit slip and closed notebook.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-015",
       "file": "../png/bd-illustration-v-015-hd.png",
@@ -336,7 +336,7 @@
         "C01"
       ],
       "purpose": "Illustrate a borrower reviewing a bank loan and repayment obligations.",
-      "alt": "A business owner and educator discuss a pictorial loan document beside a bank model and repayment calendar.",
+      "alt": "Amina and Sara discuss a pictorial loan document beside a bank model and repayment calendar.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-016",
       "file": "../png/bd-illustration-v-016-hd.png",
@@ -358,7 +358,7 @@
         "C04"
       ],
       "purpose": "Provide contrasting scenes for liquidity and solvency risk.",
-      "alt": "Balanced side-by-side scenes: left the beginner learner and the older learner wait calmly beside a generic bank branch with a cash-withdrawal slot and small closed shutter; right the business owner studies a house model and an unlettered payment notice with a small orange caution triangle.",
+      "alt": "Balanced side-by-side scenes: left Luis and Ernesto wait calmly beside a generic bank branch with a cash-withdrawal slot and small closed shutter; right Amina studies a house model and an unlettered payment notice with a small orange caution triangle.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-017",
       "file": "../png/bd-illustration-v-017-hd.png",
@@ -378,7 +378,7 @@
         "C04"
       ],
       "purpose": "Show less purchasing power for the same amount of money.",
-      "alt": "Comparison pair repeats the business owner and the EXACT SAME three plain cool-gray unmarked banknotes laid on counter.",
+      "alt": "Comparison pair repeats Amina and the exact same three plain cool-gray unmarked banknotes laid on counter.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-018",
       "file": "../png/bd-illustration-v-018-hd.png",
@@ -399,7 +399,7 @@
         "C05"
       ],
       "purpose": "Illustrate comparison of physical and digital money without collapsing their attributes.",
-      "alt": "the older learner holds a plain unmarked banknote while the technical learner compares two generic phones and a small network demonstration on the desk.",
+      "alt": "Ernesto holds a plain unmarked banknote while Lukas compares two generic phones and a small network demonstration on the desk.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-019",
       "file": "../png/bd-illustration-v-019-hd.png",
@@ -419,7 +419,7 @@
         "C03"
       ],
       "purpose": "Illustrate a person weighing different ways to hold value.",
-      "alt": "the older learner thoughtfully considers three equally sized unlettered cards on desk showing house, plain metal ingot and company share certificate with no text.",
+      "alt": "Ernesto thoughtfully considers three equally sized unlettered cards on desk showing house, plain metal ingot and company share certificate with no text.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-020",
       "file": "../png/bd-illustration-v-020-hd.png",
@@ -475,7 +475,7 @@
         "C05"
       ],
       "purpose": "Show different technical ideas being compared and combined.",
-      "alt": "the educator and the technical learner at desk arrange three pictorial research sheets: key and lock, generic digital-payment device, equal peer-network dots.",
+      "alt": "Sara and Lukas at desk arrange three pictorial research sheets: key and lock, generic digital-payment device, equal peer-network dots.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-023",
       "file": "../png/bd-illustration-v-023-hd.png",
@@ -516,7 +516,7 @@
         "C03"
       ],
       "purpose": "Illustrate historical milestones without replacing dates or source detail.",
-      "alt": "the older learner reads a plain whitepaper-style document beside a modest small pizza box and a simple page showing a linked sequence of flat record rectangles.",
+      "alt": "Ernesto reads a plain whitepaper-style document beside a modest small pizza box and a simple page showing a linked sequence of flat record rectangles.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-025",
       "file": "../png/bd-illustration-v-025-hd.png",
@@ -580,7 +580,7 @@
         "C02"
       ],
       "purpose": "Illustrate learning about a capped issuance schedule without a price forecast.",
-      "alt": "An educator and learner discuss a diminishing subsidy staircase and a cumulative issuance curve approaching a ceiling.",
+      "alt": "Sara and Luis discuss a diminishing subsidy staircase and a cumulative issuance curve approaching a ceiling.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-028",
       "file": "../png/bd-illustration-v-028-hd.png",
@@ -600,7 +600,7 @@
         "C03"
       ],
       "purpose": "Make the idea of dividing one unit into smaller parts concrete.",
-      "alt": "the older learner actively rearranges a flat purple rectangular tile divided into many matching equal squares, showing one whole and smaller pieces beside it.",
+      "alt": "Ernesto actively rearranges a flat purple rectangular tile divided into many matching equal squares, showing one whole and smaller pieces beside it.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-029",
       "file": "../png/bd-illustration-v-029-hd.png",
@@ -640,7 +640,7 @@
         "C05"
       ],
       "purpose": "Illustrate users, nodes, miners and developers as distinct roles.",
-      "alt": "Four equally weighted square vignettes with no titles: the beginner learner uses phone; a small independent server/node computer; a compact mining hardware unit; the technical learner writes software at laptop facing him.",
+      "alt": "Four equally weighted square vignettes with no titles: Luis uses phone; a small independent server/node computer; a compact mining hardware unit; Lukas writes software at laptop facing him.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-031",
       "file": "../png/bd-illustration-v-031-hd.png",
@@ -661,7 +661,7 @@
         "C03"
       ],
       "purpose": "Show mining equipment and independent node verification as separate actions.",
-      "alt": "the technical learner indicates a compact mining-hardware box beside a candidate record sheet; the older learner independently examines that record on a different node computer with a simple check cue.",
+      "alt": "Lukas indicates a compact mining-hardware box beside a candidate record sheet; Ernesto independently examines that record on a different node computer with a simple check cue.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-032",
       "file": "../png/bd-illustration-v-032-hd.png",
@@ -698,7 +698,7 @@
         "C03"
       ],
       "purpose": "Illustrate weighing Bitcoin's usefulness against personal responsibilities.",
-      "alt": "the beginner learner compares an everyday payment situation shown on an object card while the older learner examines a key and a sealed backup envelope on the same table.",
+      "alt": "Luis compares an everyday payment situation shown on an object card while Ernesto examines a key and a sealed backup envelope on the same table.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-034",
       "file": "../png/bd-illustration-v-034-hd.png",
@@ -757,7 +757,7 @@
         "C05"
       ],
       "purpose": "Contrast shareable receiving information with secret key control.",
-      "alt": "the technical learner keeps a physical teaching key in a small closed personal box on his side of desk while holding outward a separate public-contact-style card containing only an abstract receiving arrow.",
+      "alt": "Lukas keeps a physical teaching key in a small closed personal box on his side of desk while holding outward a separate public-contact-style card containing only an abstract receiving arrow.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-037",
       "file": "../png/bd-illustration-v-037-hd.png",
@@ -777,7 +777,7 @@
         "C03"
       ],
       "purpose": "Make offline private backup and compatible recovery concrete.",
-      "alt": "the older learner alone at a quiet desk carefully takes a plain backup card from a closed envelope beside his own phone and hardware device, their screens face him.",
+      "alt": "Ernesto alone at a quiet desk carefully takes a plain backup card from a closed envelope beside his own phone and hardware device, their screens face him.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-038",
       "file": "../png/bd-illustration-v-038-hd.png",
@@ -817,7 +817,7 @@
         "C04"
       ],
       "purpose": "Illustrate asking who controls keys and handles recovery.",
-      "alt": "the educator and the business owner compare two equally weighted tabletop teaching arrangements: phone with a key next to its user side; similar phone connected by a thin straight path to a remote rectangular server containing a key symbol.",
+      "alt": "Sara and Amina compare two equally weighted tabletop teaching arrangements: phone with a key next to its user side; similar phone connected by a thin straight path to a remote rectangular server containing a key symbol.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-040",
       "file": "../png/bd-illustration-v-040-hd.png",
@@ -838,7 +838,7 @@
         "C05"
       ],
       "purpose": "Illustrate comparing connectivity and key control separately.",
-      "alt": "the older learner and the technical learner examine a phone, a small hardware signing device, a key and a remote-server model arranged as distinct props.",
+      "alt": "Ernesto and Lukas examine a phone, a small hardware signing device, a key and a remote-server model arranged as distinct props.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-041",
       "file": "../png/bd-illustration-v-041-hd.png",
@@ -874,7 +874,7 @@
         "C05"
       ],
       "purpose": "Illustrate private recovery rehearsal using prepared training material.",
-      "alt": "the technical learner alone at a desk using an empty training phone and a closed backup envelope, with pictorial instruction guide beside him.",
+      "alt": "Lukas alone at a desk using an empty training phone and a closed backup envelope, with pictorial instruction guide beside him.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-043",
       "file": "../png/bd-illustration-v-043-hd.png",
@@ -894,7 +894,7 @@
         "C04"
       ],
       "purpose": "Make the receiver role concrete without depicting payable details.",
-      "alt": "The business owner smiles calmly at a phone displaying a pictorial incoming arrow and check mark.",
+      "alt": "Amina smiles calmly at a phone displaying a pictorial incoming arrow and check mark.",
       "role": "Text-free companion artwork; retain adjacent instructional text.",
       "source_asset": "BD-V-044",
       "file": "../png/bd-illustration-v-044-hd.png",
@@ -912,7 +912,7 @@
         "C03"
       ],
       "purpose": "Reinforce reviewing checks before approving a payment.",
-      "alt": "The older learner examines a phone showing pictorial checks for recipient, destination and amount before approving anything.",
+      "alt": "Ernesto examines a phone showing pictorial checks for recipient, destination and amount before approving anything.",
       "role": "Text-free companion artwork; retain adjacent instructional text.",
       "source_asset": "BD-V-045",
       "file": "../png/bd-illustration-v-045-hd.png",
@@ -931,7 +931,7 @@
         "C03"
       ],
       "purpose": "Illustrate learning that transaction inclusion gains depth as records follow.",
-      "alt": "the educator and the older learner study a simple classroom display containing a flat transaction-document card beside a horizontal sequence of five connected flat record rectangles; the second rectangle contains a small matching document motif and later rectangles extend beyond it.",
+      "alt": "Sara and Ernesto study a simple classroom display containing a flat transaction-document card beside a horizontal sequence of five connected flat record rectangles; the second rectangle contains a small matching document motif and later rectangles extend beyond it.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-046",
       "file": "../png/bd-illustration-v-046-hd.png",
@@ -951,7 +951,7 @@
         "C04"
       ],
       "purpose": "Make stopping to verify a suspicious message memorable.",
-      "alt": "the business owner holds phone facing herself and raises her free hand in a calm stop gesture; beside phone a small orange triangular flag on a straight pole and an unlettered generic message card with a warning mark.",
+      "alt": "Amina holds phone facing herself and raises her free hand in a calm stop gesture; beside phone a small orange triangular flag on a straight pole and an unlettered generic message card with a warning mark.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-047",
       "file": "../png/bd-illustration-v-047-hd.png",
@@ -992,7 +992,7 @@
         "C04"
       ],
       "purpose": "Show learners checking an exchange route beyond its headline price.",
-      "alt": "the older learner and the business owner compare two simple route cards on desk; each card shows generic cash-to-phone handover with small separate pictorial cues for a clock, key and identity card.",
+      "alt": "Ernesto and Amina compare two simple route cards on desk; each card shows generic cash-to-phone handover with small separate pictorial cues for a clock, key and identity card.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-049",
       "file": "../png/bd-illustration-v-049-hd.png",
@@ -1013,7 +1013,7 @@
         "C02"
       ],
       "purpose": "Illustrate discussing two related payment layers without presenting two coins.",
-      "alt": "the educator explains a simple layer-stack teaching board to the beginner learner: lower broad purple band bears ONE orange ₿ symbol, upper thin path bears a Lightning bolt and connects two simple endpoint dots; the upper path is visibly anchored to the lower band.",
+      "alt": "Sara explains a simple layer-stack teaching board to Luis: lower broad purple band bears ONE orange ₿ symbol, upper thin path bears a Lightning bolt and connects two simple endpoint dots; the upper path is visibly anchored to the lower band.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-050",
       "file": "../png/bd-illustration-v-050-hd.png",
@@ -1034,7 +1034,7 @@
         "C05"
       ],
       "purpose": "Illustrate a neutral comparison of on-chain and Lightning payment paths.",
-      "alt": "the business owner and the technical learner compare two unlettered pictorial payment-path cards beside their own phones, one card bearing a flat ledger page, other a Lightning bolt; a small clock and a key sit separately on table to prompt timing/custody questions.",
+      "alt": "Amina and Lukas compare two unlettered pictorial payment-path cards beside their own phones, one card bearing a flat ledger page, other a Lightning bolt; a small clock and a key sit separately on table to prompt timing/custody questions.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-051",
       "file": "../png/bd-illustration-v-051-hd.png",
@@ -1054,7 +1054,7 @@
         "C03"
       ],
       "purpose": "Show key control accompanied by practical responsibilities.",
-      "alt": "the older learner alone carefully organizes key, closed backup envelope, generic phone, plain instruction guide and small pictorial checklist on desk.",
+      "alt": "Ernesto alone carefully organizes key, closed backup envelope, generic phone, plain instruction guide and small pictorial checklist on desk.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-052",
       "file": "../png/bd-illustration-v-052-hd.png",
@@ -1075,7 +1075,7 @@
         "C04"
       ],
       "purpose": "Illustrate reviewing what must be protected and checked before use.",
-      "alt": "the educator listens as the business owner points with pen to a pictorial checklist beside a phone, closed backup envelope and key on a simple desk.",
+      "alt": "Sara listens as Amina points with pen to a pictorial checklist beside a phone, closed backup envelope and key on a simple desk.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-053",
       "file": "../png/bd-illustration-v-053-hd.png",
@@ -1097,7 +1097,7 @@
         "C05"
       ],
       "purpose": "Illustrate connecting a local need to comparison and safe practice.",
-      "alt": "the business owner explains a practical merchant need using a small goods basket; the technical learner offers two pictorial alternatives on cards; the educator supports discussion beside an empty training phone and open guide.",
+      "alt": "Amina explains a practical merchant need using a small goods basket; Lukas offers two pictorial alternatives on cards; Sara supports discussion beside an empty training phone and open guide.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-054",
       "file": "../png/bd-illustration-v-054-hd.png",
@@ -1139,7 +1139,7 @@
         "C02"
       ],
       "purpose": "Show demonstration, guided practice and independent performance.",
-      "alt": "Three equal story panels: the educator demonstrates arranging blank training cards to the beginner learner; the beginner learner practises arranging cards with the educator pointing only to instruction guide; the beginner learner independently completes arrangement and explains while the educator listens from a respectful distance.",
+      "alt": "Three equal story panels: Sara demonstrates arranging blank training cards to Luis; Luis practises arranging cards with Sara pointing only to instruction guide; Luis independently completes arrangement and explains while Sara listens from a respectful distance.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-056",
       "file": "../png/bd-illustration-v-056-hd.png",
@@ -1160,7 +1160,7 @@
         "C05"
       ],
       "purpose": "Illustrate checking source custody compatibility and support before tool use.",
-      "alt": "the business owner and the technical learner carefully compare two unbranded device examples, an open pictorial instruction guide, a key-control prop and a plain support contact card.",
+      "alt": "Amina and Lukas carefully compare two unbranded device examples, an open pictorial instruction guide, a key-control prop and a plain support contact card.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-057",
       "file": "../png/bd-illustration-v-057-hd.png",
@@ -1180,7 +1180,7 @@
         "C03"
       ],
       "purpose": "Show recording checks and remaining uncertainties about a tool.",
-      "alt": "the older learner writes with a pen in a simple pictorial review notebook beside his generic phone, a small blank calendar card and an alternative hardware device.",
+      "alt": "Ernesto writes with a pen in a simple pictorial review notebook beside his generic phone, a small blank calendar card and an alternative hardware device.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-058",
       "file": "../png/bd-illustration-v-058-hd.png",
@@ -1201,7 +1201,7 @@
         "C04"
       ],
       "purpose": "Illustrate checking a Lightning request before approving it.",
-      "alt": "the business owner holds a phone facing herself while the beginner learner carefully reviews his own phone at a simple counter, pausing before tapping.",
+      "alt": "Amina holds a phone facing herself while Luis carefully reviews his own phone at a simple counter, pausing before tapping.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-059",
       "file": "../png/bd-illustration-v-059-hd.png",
@@ -1222,7 +1222,7 @@
         "C03"
       ],
       "purpose": "Illustrate several voluntary everyday uses of Bitcoin.",
-      "alt": "A calm market-counter scene: the business owner records a purchase in a plain notebook, the older learner receives a goods bag and keeps his own phone; at one corner a closed saving envelope and at the other a modest donated textbook sit as supporting props.",
+      "alt": "A calm market-counter scene: Amina records a purchase in a plain notebook, Ernesto receives a goods bag and keeps his own phone; at one corner a closed saving envelope and at the other a modest donated textbook sit as supporting props.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-060",
       "file": "../png/bd-illustration-v-060-hd.png",
@@ -1261,7 +1261,7 @@
         "C05"
       ],
       "purpose": "Illustrate an ATM as one possible exchange route.",
-      "alt": "A technical learner holds a phone beside a generic Bitcoin ATM dispensing plain unmarked banknotes.",
+      "alt": "Lukas holds a phone beside a generic Bitcoin ATM dispensing plain unmarked banknotes.",
       "role": "Text-free companion artwork; retain adjacent instructional text.",
       "source_asset": "BD-V-062",
       "file": "../png/bd-illustration-v-062-hd.png",
@@ -1280,7 +1280,7 @@
         "C03"
       ],
       "purpose": "Illustrate comparing complete routes and an existing alternative.",
-      "alt": "the business owner and the older learner examine three equally weighted pictorial cards on desk: cash handover, peer phone exchange, generic computer route.",
+      "alt": "Amina and Ernesto examine three equally weighted pictorial cards on desk: cash handover, peer phone exchange, generic computer route.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-063",
       "file": "../png/bd-illustration-v-063-hd.png",
@@ -1300,7 +1300,7 @@
         "C04"
       ],
       "purpose": "Show identity verification as one part of a route with privacy responsibilities.",
-      "alt": "the business owner seated at a laptop holding a generic identity card toward an external camera area, with ID face shown only as simple silhouette and blank rectangles, no readable identity.",
+      "alt": "Amina seated at a laptop holding a generic identity card toward an external camera area, with ID face shown only as simple silhouette and blank rectangles, no readable identity.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-064",
       "file": "../png/bd-illustration-v-064-hd.png",
@@ -1362,7 +1362,7 @@
         "C05"
       ],
       "purpose": "Illustrate discovering and verifying support without treating listings as proof.",
-      "alt": "the older learner asks the educator and the technical learner for education and technical support at a simple community table with an open guide, a plain contact-card organizer and blank pictorial calendar.",
+      "alt": "Ernesto asks Sara and Lukas for education and technical support at a simple community table with an open guide, a plain contact-card organizer and blank pictorial calendar.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-067",
       "file": "../png/bd-illustration-v-067-hd.png",
@@ -1383,7 +1383,7 @@
         "C01"
       ],
       "purpose": "Show recording useful support and when it was checked.",
-      "alt": "the business owner writes with pen in a pictorial resource notebook while the educator helps verify a plain contact card.",
+      "alt": "Amina writes with pen in a pictorial resource notebook while Sara helps verify a plain contact card.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-068",
       "file": "../png/bd-illustration-v-068-hd.png",
@@ -1404,7 +1404,7 @@
         "C04"
       ],
       "purpose": "Illustrate beginning with a need and considering realistic alternatives.",
-      "alt": "the business owner explains a practical need with a small produce basket; the beginner learner compares two pictorial choices (plain cash and phone) on a tabletop, then points to a small, manageable practice card instead of rushing to pay.",
+      "alt": "Amina explains a practical need with a small produce basket; Luis compares two pictorial choices (plain cash and phone) on a tabletop, then points to a small, manageable practice card instead of rushing to pay.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-069",
       "file": "../png/bd-illustration-v-069-hd.png",
@@ -1426,7 +1426,7 @@
         "C04"
       ],
       "purpose": "Illustrate a voluntary structured review of usefulness and trade-offs.",
-      "alt": "the older learner explains his own comparison using an open pictorial notebook while the business owner contributes a merchant example with a small goods bag and the educator listens.",
+      "alt": "Ernesto explains his own comparison using an open pictorial notebook while Amina contributes a merchant example with a small goods bag and Sara listens.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-070",
       "file": "../png/bd-illustration-v-070-hd.png",
@@ -1449,7 +1449,7 @@
         "C05"
       ],
       "purpose": "Show informal connection with an education network.",
-      "alt": "An older learner holds tea during a video call with three fellow educators and learners.",
+      "alt": "Ernesto holds tea during a video call with three fellow educators and learners.",
       "role": "Text-free companion artwork; retain adjacent instructional text.",
       "source_asset": "BD-V-071",
       "file": "../png/bd-illustration-v-071-hd.png",
@@ -1486,7 +1486,7 @@
         "C05"
       ],
       "purpose": "Illustrate accessing maintained learning resources and contributing improvements.",
-      "alt": "the beginner learner consults an open printed guide while the technical learner checks a laptop facing him, holding a plain correction-note card beside the guide.",
+      "alt": "Luis consults an open printed guide while Lukas checks a laptop facing him, holding a plain correction-note card beside the guide.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-073",
       "file": "../png/bd-illustration-v-073-hd.png",
@@ -1507,7 +1507,7 @@
         "C01"
       ],
       "purpose": "Illustrate voluntary support for education without payment instructions.",
-      "alt": "the business owner voluntarily hands a small stack of plain educational notebooks to the educator at a community teaching table; the educator receives them gratefully and calmly.",
+      "alt": "Amina voluntarily hands a small stack of plain educational notebooks to Sara at a community teaching table; Sara receives them gratefully and calmly.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-074",
       "file": "../png/bd-illustration-v-074-hd.png",
@@ -1528,7 +1528,7 @@
         "C03"
       ],
       "purpose": "Illustrate an educator explaining a completion record without central verification.",
-      "alt": "the educator reviews a blank symbolic certificate with the older learner at a desk, pointing to a plain evidence folder beside it.",
+      "alt": "Sara reviews a blank symbolic certificate with Ernesto at a desk, pointing to a plain evidence folder beside it.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-075",
       "file": "../png/bd-illustration-v-075-hd.png",
@@ -1548,7 +1548,7 @@
         "C03"
       ],
       "purpose": "Provide general learning-media companion art for an externally supplied image slot.",
-      "alt": "the older learner actively studies a generic tablet beside an open printed course guide.",
+      "alt": "Ernesto actively studies a generic tablet beside an open printed course guide.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-076",
       "file": "../png/bd-illustration-v-076-hd.png",
@@ -1570,7 +1570,7 @@
         "C04"
       ],
       "purpose": "Illustrate progressing from learning to helping others in a community.",
-      "alt": "A gentle connected pair of scenes repeats the beginner learner: on left the beginner learner learns from the educator with open guide; on right the beginner learner explains the same guide to the business owner at a community table while the educator listens.",
+      "alt": "A gentle connected pair of scenes repeats Luis: on left Luis learns from Sara with open guide; on right Luis explains the same guide to Amina at a community table while Sara listens.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-077",
       "file": "../png/bd-illustration-v-077-hd.png",
@@ -1591,7 +1591,7 @@
         "C03"
       ],
       "purpose": "Illustrate reviewing a Lightning request while retaining details in guide text.",
-      "alt": "the business owner shows a generic tablet to the older learner, both look at its screen; viewer sees rear casing only.",
+      "alt": "Amina shows a generic tablet to Ernesto, both look at its screen; viewer sees rear casing only.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-078",
       "file": "../png/bd-illustration-v-078-hd.png",
@@ -1611,7 +1611,7 @@
         "C02"
       ],
       "purpose": "Illustrate private careful copying without exposing usable recovery material.",
-      "alt": "the beginner learner ALONE at a desk privately copies from his own phone to paper with a pen.",
+      "alt": "Luis ALONE at a desk privately copies from his own phone to paper with a pen.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-079",
       "file": "../png/bd-illustration-v-079-hd.png",
@@ -1652,7 +1652,7 @@
         "C05"
       ],
       "purpose": "Illustrate explanation and independent practice as distinct evidence activities.",
-      "alt": "Two equal vignettes: left the older learner explains a pictorial money-choice card to the educator who listens; right the technical learner independently performs a safe arrangement with a blank training phone and pictorial checklist while the educator observes from a distance.",
+      "alt": "Two equal vignettes: left Ernesto explains a pictorial money-choice card to Sara who listens; right Lukas independently performs a safe arrangement with a blank training phone and pictorial checklist while Sara observes from a distance.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-081",
       "file": "../png/bd-illustration-v-081-hd.png",
@@ -1672,7 +1672,7 @@
         "C01"
       ],
       "purpose": "Illustrate matching teaching time and assessor capacity to the cohort.",
-      "alt": "the educator plans at a desk with an unnumbered wall-clock face, a plain calendar of empty squares, three small seat-layout cards and an open planning notebook.",
+      "alt": "Sara plans at a desk with an unnumbered wall-clock face, a plain calendar of empty squares, three small seat-layout cards and an open planning notebook.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-082",
       "file": "../png/bd-illustration-v-082-hd.png",
@@ -1693,7 +1693,7 @@
         "C05"
       ],
       "purpose": "Illustrate linking observed actions with criteria and an assessment record.",
-      "alt": "the technical learner independently arranges a simple task set on table while the educator observes and matches a pictorial criterion card to a plain checklist folder held close to her.",
+      "alt": "Lukas independently arranges a simple task set on table while Sara observes and matches a pictorial criterion card to a plain checklist folder held close to her.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-083",
       "file": "../png/bd-illustration-v-083-hd.png",
@@ -1714,7 +1714,7 @@
         "C03"
       ],
       "purpose": "Show access support while preserving independent learner action.",
-      "alt": "the older learner independently works with a large-print-style pictorial instruction card and empty training phone; the educator places a simple reading stand nearby then steps back, hands away from learner's action.",
+      "alt": "Ernesto independently works with a large-print-style pictorial instruction card and empty training phone; Sara places a simple reading stand nearby then steps back, hands away from learner's action.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-084",
       "file": "../png/bd-illustration-v-084-hd.png",
@@ -1736,7 +1736,7 @@
         "C05"
       ],
       "purpose": "Illustrate returning to practice and reviewing evidence consistently.",
-      "alt": "Two equally sized scenes: the older learner practises again independently with a pictorial task card on left; on right the educator and the technical learner as adult reviewers compare two unlettered evidence sheets against the SAME simple criterion card.",
+      "alt": "Two equally sized scenes: Ernesto practises again independently with a pictorial task card on left; on right Sara and Lukas as adult reviewers compare two unlettered evidence sheets against the SAME simple criterion card.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-085",
       "file": "../png/bd-illustration-v-085-hd.png",
@@ -1756,7 +1756,7 @@
         "C01"
       ],
       "purpose": "Illustrate distinct resources for teaching planning and recorded evidence.",
-      "alt": "the educator organizes an open learner guide, a closed educator guide, a laptop facing her with resources and a separate plain evidence folder.",
+      "alt": "Sara organizes an open learner guide, a closed Sara guide, a laptop facing her with resources and a separate plain evidence folder.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-086",
       "file": "../png/bd-illustration-v-086-hd.png",
@@ -1777,7 +1777,7 @@
         "C04"
       ],
       "purpose": "Show varied teaching materials used with a shared standard.",
-      "alt": "the educator and the business owner compare a printed pictorial simulation and an empty training phone beside one shared plain criterion card in a firm upright stand.",
+      "alt": "Sara and Amina compare a printed pictorial simulation and an empty training phone beside one shared plain criterion card in a firm upright stand.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-087",
       "file": "../png/bd-illustration-v-087-hd.png",
@@ -1799,7 +1799,7 @@
         "C03"
       ],
       "purpose": "Illustrate explaining checking applying and reflecting in a teaching session.",
-      "alt": "the educator facilitates a small purposeful lesson at a table.",
+      "alt": "Sara facilitates a small purposeful lesson at a table.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-088",
       "file": "../png/bd-illustration-v-088-hd.png",
@@ -1821,7 +1821,7 @@
         "C05"
       ],
       "purpose": "Illustrate different practice media preserving learner action.",
-      "alt": "An older learner uses printed pictorial cards while a technical learner uses a phone, with the educator observing both routes.",
+      "alt": "Ernesto uses printed pictorial cards while Lukas uses a phone, with Sara observing both routes.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-089",
       "file": "../png/bd-illustration-v-089-hd.png",
@@ -1842,7 +1842,7 @@
         "C02"
       ],
       "purpose": "Show stopping protecting and verifying when a safety concern appears.",
-      "alt": "the educator calmly raises open palm while the beginner learner pauses with finger held away from his phone and places device safely face down.",
+      "alt": "Sara calmly raises open palm while Luis pauses with finger held away from his phone and places device safely face down.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-090",
       "file": "../png/bd-illustration-v-090-hd.png",
@@ -1863,7 +1863,7 @@
         "C03"
       ],
       "purpose": "Show educator observation without access to secrets.",
-      "alt": "the older learner works privately behind a small simple upright desk privacy screen with his own device and closed backup envelope; their contents face him only.",
+      "alt": "Ernesto works privately behind a small simple upright desk privacy screen with his own device and closed backup envelope; their contents face him only.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-091",
       "file": "../png/bd-illustration-v-091-hd.png",
@@ -1884,7 +1884,7 @@
         "C03"
       ],
       "purpose": "Illustrate comparing reused and fresh receiving information with fictional pictorial records.",
-      "alt": "the technical learner and the older learner study two small groups of unlettered teaching records on a table.",
+      "alt": "Lukas and Ernesto study two small groups of unlettered teaching records on a table.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-092",
       "file": "../png/bd-illustration-v-092-hd.png",
@@ -1906,7 +1906,7 @@
         "C05"
       ],
       "purpose": "Illustrate teacher support peer practice and independent observation separately.",
-      "alt": "Three compact classroom stations visible: the educator points to a pictorial guide at first; the older learner compares two printed training cards at second; the technical learner independently uses an empty training phone at third.",
+      "alt": "Three compact classroom stations visible: Sara points to a pictorial guide at first; Ernesto compares two printed training cards at second; Lukas independently uses an empty training phone at third.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-093",
       "file": "../png/bd-illustration-v-093-hd.png",
@@ -1927,7 +1927,7 @@
         "C04"
       ],
       "purpose": "Show planning people materials local checks access safety and evidence before teaching.",
-      "alt": "the educator and the business owner prepare a teaching table with plain course guides, printed simulation cards, an empty training phone, a small calendar and a reading stand.",
+      "alt": "Sara and Amina prepare a teaching table with plain course guides, printed simulation cards, an empty training phone, a small calendar and a reading stand.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-094",
       "file": "../png/bd-illustration-v-094-hd.png",
@@ -1948,7 +1948,7 @@
         "C05"
       ],
       "purpose": "Show checking readiness and choosing a safer route when a condition is missing.",
-      "alt": "the educator and the technical learner review a pictorial readiness card beside a training phone that remains face down.",
+      "alt": "Sara and Lukas review a pictorial readiness card beside a training phone that remains face down.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-095",
       "file": "../png/bd-illustration-v-095-hd.png",
@@ -1992,7 +1992,7 @@
         "C03"
       ],
       "purpose": "Illustrate translation as collaborative review followed by learner testing.",
-      "alt": "the educator and the business owner compare two plain pictorial guide sheets and mark a correction using a pen; the older learner independently tries the pictured task using printed simulation cards and gives thoughtful feedback.",
+      "alt": "Sara and Amina compare two plain pictorial guide sheets and mark a correction using a pen; Ernesto independently tries the pictured task using printed simulation cards and gives thoughtful feedback.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-097",
       "file": "../png/bd-illustration-v-097-hd.png",
@@ -2013,7 +2013,7 @@
         "C02"
       ],
       "purpose": "Illustrate the difference between supported practice and independent evidence.",
-      "alt": "Two equal scenes repeating the educator/the beginner learner.",
+      "alt": "Two equal scenes repeating Sara/Luis.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-098",
       "file": "../png/bd-illustration-v-098-hd.png",
@@ -2034,7 +2034,7 @@
         "C04"
       ],
       "purpose": "Illustrate checking dated local information before teaching it.",
-      "alt": "the business owner brings a plain local-information card; the educator cross-checks it with an open source guide and laptop facing her, then pencils a small calendar box on a review note.",
+      "alt": "Amina brings a plain local-information card; Sara cross-checks it with an open source guide and laptop facing her, then pencils a small calendar box on a review note.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-099",
       "file": "../png/bd-illustration-v-099-hd.png",
@@ -2055,7 +2055,7 @@
         "C05"
       ],
       "purpose": "Illustrate comparing similar interfaces with different dependencies.",
-      "alt": "the educator and the technical learner compare three identical generic phone teaching models on a desk: one paired with equal peer computers; one paired with a generic issuer building and document folder; one paired with a separate developer/service laptop.",
+      "alt": "Sara and Lukas compare three identical generic phone teaching models on a desk: one paired with equal peer computers; one paired with a generic issuer building and document folder; one paired with a separate developer/service laptop.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-100",
       "file": "../png/bd-illustration-v-100-hd.png",
@@ -2076,7 +2076,7 @@
         "C04"
       ],
       "purpose": "Show revisiting a decision when one relevant condition changes.",
-      "alt": "An educator changes a connectivity card from connected to disconnected while a business owner reconsiders her plan.",
+      "alt": "Sara changes a connectivity card from connected to disconnected while Amina reconsiders her plan.",
       "role": "Text-free subject illustration accompanying the existing instructional text.",
       "source_asset": "BD-V-101",
       "file": "../png/bd-illustration-v-101-hd.png",
@@ -2089,5 +2089,31 @@
       "historical_visual_review": "reviewed",
       "historical_source_asset_type": "Diagram"
     }
-  ]
+  ],
+  "character_registry": {
+    "C01": {
+      "name": "Sara",
+      "role": "educator"
+    },
+    "C02": {
+      "name": "Luis",
+      "role": "beginner learner"
+    },
+    "C03": {
+      "name": "Ernesto",
+      "role": "older learner"
+    },
+    "C04": {
+      "name": "Amina",
+      "role": "business owner"
+    },
+    "C05": {
+      "name": "Lukas",
+      "role": "technical learner"
+    },
+    "C06": {
+      "name": "Mei",
+      "role": "young learner"
+    }
+  }
 }

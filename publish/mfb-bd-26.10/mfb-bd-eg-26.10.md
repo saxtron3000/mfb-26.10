@@ -316,7 +316,7 @@ When you open a module guide, follow the same order every time:
 The headings are deliberately repetitive. That repetition is a navigation aid for a new teacher, not content that must be memorized.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-013
-ALT: The educator points to a diagram in an open course guide as the beginner and older learner follow along in their own guides.
+ALT: Sara points to a diagram in an open course guide as Luis and Ernesto follow along in their own guides.
 ASSET: assets/illustrations/png/no-text/bd-illustration-013.png
 -->
 
@@ -521,7 +521,7 @@ Establish these participation agreements:
 - stop practical work when something differs from the demonstrated process.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-027
-ALT: The young learner asks a question while the educator listens and the other four learners follow the discussion.
+ALT: Mei asks a question while Sara listens and the other four learners follow the discussion.
 ASSET: assets/illustrations/png/no-text/bd-illustration-027.png
 -->
 
@@ -554,7 +554,7 @@ When a learner disagrees:
 Correct factual errors clearly and respectfully. Do not avoid correction in the name of neutrality. Neutral facilitation means applying fair standards of evidence, not treating every statement as equally accurate.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-014
-ALT: The educator listens to the beginner learner's question while the older learner follows the conversation with an open guide.
+ALT: Sara listens to Luis's question while Ernesto follows the conversation with an open guide.
 ASSET: assets/illustrations/png/no-text/bd-illustration-014.png
 -->
 
@@ -779,7 +779,7 @@ Use this when a few confident learners may otherwise dominate.
 4. Summarize the patterns and correct misconceptions.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-015
-ALT: The educator invites a discussion while the beginner and older learners compare guides and the business owner contributes.
+ALT: Sara invites a discussion while Luis and Ernesto compare guides and Amina contributes.
 ASSET: assets/illustrations/png/no-text/bd-illustration-015.png
 -->
 
@@ -824,7 +824,7 @@ Present three statements: one accurate, one partly accurate, and one inaccurate.
 Before each step of a demonstration, ask learners what should happen and what should be checked. After the step, compare prediction and result. Learners remain mentally active even when only one device is available.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-016
-ALT: The educator pauses a phone demonstration to invite predictions from the beginner and technical learners.
+ALT: Sara pauses a phone demonstration to invite predictions from Luis and Lukas.
 ASSET: assets/illustrations/png/no-text/bd-illustration-016.png
 -->
 
@@ -860,7 +860,7 @@ An activity does not teach itself. Debrief with four questions:
 Correct misleading effects created by the activity. A token [bank-run](https://programs.myfirstbitcoin.org/lexicon/en/#bank-run) game, for example, does not reproduce a real bank balance sheet or local regulation. A miner-and-node role-play does not simulate the network's full technical operation.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-030
-ALT: The older learner shares a reflection as the educator and the other four learners listen around a classroom table.
+ALT: Ernesto shares a reflection as Sara and the other four learners listen around a classroom table.
 ASSET: assets/illustrations/png/no-text/bd-illustration-030.png
 -->
 
@@ -877,7 +877,7 @@ Simple materials can reduce setup time and distractions, leaving more room for c
 More tools can bring more complexity. Add a tool when it helps learners understand or practise something, and keep a simple alternative ready. Focus first on the quality of engagement: are learners participating, asking questions, explaining their thinking, and showing what they understand? Choose the approach that supports that learning.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-017
-ALT: The educator and older learner arrange teaching cards while the young learner participates with a notebook.
+ALT: Sara and Ernesto arrange teaching cards while Mei participates with a notebook.
 ASSET: assets/illustrations/png/no-text/bd-illustration-017.png
 -->
 
@@ -978,7 +978,7 @@ USE: Educator-only diagram; see the asset index brief.
 -->
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-018
-ALT: The educator raises an open palm to pause an activity while the beginner lowers a phone and the technical learner partly closes a laptop.
+ALT: Sara raises an open palm to pause an activity while Luis lowers a phone and Lukas partly closes a laptop.
 ASSET: assets/illustrations/png/no-text/bd-illustration-018.png
 -->
 
@@ -1162,7 +1162,7 @@ Clarify that [barter](https://programs.myfirstbitcoin.org/lexicon/en/#barter-bar
 If using a game, debrief its simplifications. Real exchange includes relationships, credit, gifts, obligations, bargaining, law, and repeated interaction.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-019
-ALT: The educator facilitates a direct-exchange activity between the beginner holding a notebook and the business owner holding groceries.
+ALT: Sara facilitates a direct-exchange activity between Luis holding a notebook and Amina holding groceries.
 ASSET: assets/illustrations/png/no-text/bd-illustration-019.png
 -->
 
@@ -1572,7 +1572,7 @@ USE: Shared Student Guide master.
 -->
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-020
-ALT: The educator uses a pointer to explain a network on a presentation board to the beginner and technical learners.
+ALT: Sara uses a pointer to explain a network on a presentation board to Luis and Lukas.
 ASSET: assets/illustrations/png/no-text/bd-illustration-020.png
 -->
 
@@ -1638,7 +1638,7 @@ Use claim, evidence, and trade-off:
 Detailed energy statistics and [mining](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work) economics are not required Bitcoin Diploma content. Use them only when the educator has verified current sources and the discussion supports a competency.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-021
-ALT: The educator and technical learner indicate separate mining and node devices while the older learner participates with a guide.
+ALT: Sara and Lukas indicate separate mining and node devices while Ernesto participates with a guide.
 ASSET: assets/illustrations/png/no-text/bd-illustration-021.png
 -->
 
@@ -1801,7 +1801,7 @@ Choose two or three from these examples, not all. Browse the [Activity Library](
 Use [consensus](https://programs.myfirstbitcoin.org/lexicon/en/#consensus) games, hashing activities, videos, and role-plays only when their purpose, timing, learner context, and debrief are strong. An activity supplies educator-led theoretical evidence only when it is a competency-aligned touchpoint with individual evidence, a rubric, and a recording process. Otherwise, use it formatively.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-032
-ALT: The business owner explains a network of peers while the educator listens and the young learner follows with a notebook.
+ALT: Amina explains a network of peers while Sara listens and Mei follows with a notebook.
 ASSET: assets/illustrations/png/no-text/bd-illustration-032.png
 -->
 
@@ -2136,7 +2136,7 @@ USE: Educator-only diagram; see the asset index brief.
 Inheritance, [multisignature](https://programs.myfirstbitcoin.org/lexicon/en/#multisignature-multisig) design, advanced passphrases, and high-value recovery planning may require advanced security and professional legal advice. They are outside required Bitcoin Diploma performance.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-022
-ALT: The educator guides a recovery-readiness discussion as the older learner places a blank training card in an envelope and the technical learner watches.
+ALT: Sara guides a recovery-readiness discussion as Ernesto places a blank training card in an envelope and Lukas watches.
 ASSET: assets/illustrations/png/no-text/bd-illustration-022.png
 -->
 
@@ -2852,7 +2852,7 @@ USE: Shared Student Guide master.
 **Debrief:** Why is sending a refund automatically to an assumed original address unsafe? Who becomes responsible when several staff share one wallet?
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-023
-ALT: The educator points to a blank record card while the beginner and business owner check training phones at a merchant counter.
+ALT: Sara points to a blank record card while Luis and Amina check training phones at a merchant counter.
 ASSET: assets/illustrations/png/no-text/bd-illustration-023.png
 -->
 
@@ -3233,7 +3233,7 @@ Every activity should state whether it is:
 Activities in the [Activity Library](https://programs.myfirstbitcoin.org/activities/en/) may support learning, practice, and assessment. Their use does not make every activity an assessment. When you use an activity as evidence, make sure it gives each learner a fair opportunity to show the competency, keeps the safety boundary clear, and allows you to record **Yes** or **Not yet**. You do not need to create lengthy evidence records or a separate test.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-034
-ALT: The educator guides the business owner and young learner as they compare blank teaching cards at a table.
+ALT: Sara guides Amina and Mei as they compare blank teaching cards at a table.
 ASSET: assets/illustrations/png/no-text/bd-illustration-034.png
 -->
 
@@ -3380,7 +3380,7 @@ Do not turn a qualified text claim into an absolute visual. A supply chart must 
 ---
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-029
-ALT: The educator explains six interconnected peers on a whiteboard to all five learners, including the young learner in an orange beanie.
+ALT: Sara explains six interconnected peers on a whiteboard to all five learners, including Mei in an orange beanie.
 ASSET: assets/illustrations/png/no-text/bd-illustration-029.png
 -->
 
@@ -3402,7 +3402,7 @@ Use think–pair–share before whole-group discussion:
 Ask learners to support answers with a course concept and an example, not a slogan.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-024
-ALT: The educator invites a final explanation from the older learner while the beginner and business owner listen with their guides.
+ALT: Sara invites a final explanation from Ernesto while Luis and Amina listen with their guides.
 ASSET: assets/illustrations/png/no-text/bd-illustration-024.png
 -->
 

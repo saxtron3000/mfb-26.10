@@ -1,7 +1,7 @@
 {
   "assetId": "BD-V-009",
   "schemaVersion": 1,
-  "status": "blocked",
+  "status": "ready",
   "assetType": "Illustration",
   "recordDate": "2026-10-08",
   "sourceFiles": {
@@ -101,11 +101,17 @@
     "geometry": "13° structural slant only where instructional; upright people, icons and live labels. Reference topology: triangle",
     "emphasis": "One controlled orange instructional focal point; no orange full-field background or ranking",
     "characters": [
-      "C01",
+      "C04",
       "C02",
-      "C04"
+      "C06"
     ],
-    "propsAndIcons": []
+    "propsAndIcons": [],
+    "characterNames": {
+      "C04": "Amina",
+      "C02": "Luis",
+      "C06": "Mei"
+    },
+    "castNote": "The user-confirmed named cast is Amina (C04), Luis (C02), and Mei (C06). Mei participates only in this offline, age-appropriate teaching example. Existing artwork with a different cast does not fulfill this brief."
   },
   "prohibitions": [
     "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",
@@ -113,18 +119,16 @@
     "Keep user, educator, wallet, service, node, miner and protocol roles distinct; Bitcoin is not stored inside a wallet, miners do not make the rules, and no single controller approves Bitcoin.",
     "No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.",
     "No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.",
-    "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation.",
-    "Production restriction: Story roles Amina/Luis/Mei have no approved cast mapping. Proposed C01/C02/C04 mapping awaits the user’s yes/no clarification."
+    "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation."
   ],
   "review": {
     "briefCompliant": true,
-    "assetRegisterCompliant": false,
-    "styleCompliant": false,
-    "openDecisionsPreventCreation": true,
-    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Creation blocked: Story roles Amina/Luis/Mei have no approved cast mapping. Proposed C01/C02/C04 mapping awaits the user’s yes/no clarification."
+    "assetRegisterCompliant": true,
+    "styleCompliant": true,
+    "openDecisionsPreventCreation": false,
+    "notes": "Named cast mapping confirmed by the user: Amina (C04), Luis (C02), and Mei (C06). Reference specification now uses that mapping; existing artwork has not been regenerated or newly approved."
   },
   "unresolved": [
-    "The index’s Dictated production directions control conflicting purpose, construction, format and type. The complete original row above is archival source evidence, not permission to reintroduce superseded scenes. The controlling direction is preserved below.",
-    "Story roles Amina/Luis/Mei have no approved cast mapping. Proposed C01/C02/C04 mapping awaits the user’s yes/no clarification."
+    "The index’s Dictated production directions control conflicting purpose, construction, format and type. The complete original row above is archival source evidence, not permission to reintroduce superseded scenes. The controlling direction is preserved below."
   ]
 }

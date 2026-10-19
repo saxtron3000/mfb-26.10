@@ -55,7 +55,7 @@ If a required source is absent or an essential design decision is unresolved, do
 - Do not recommend a wallet, exchange, provider, service, or local solution unless the approved source explicitly requires naming it.
 - Do not include real private keys, seed phrases, payable addresses, learner identities, balances, personal data, unverified QR data, or unverified factual claims.
 - For text that must be editable or translated later, describe its purpose and source in `contentRequirements`; do not manufacture final wording.
-- Use the approved recurring cast only when people are required. Identify each selected character by the name specified in the brief; consult `assets/style/CHARACTERS.md` only if that identity needs clarification.
+- Use the approved recurring cast only when people are required. Identify each selected character by the canonical name and stable ID specified in the brief; consult `assets/style/CHARACTERS.md` only if that identity needs clarification. Keep IDs in `characters` and record their names in `characterNames`, e.g. `"characterNames": {"C03": "Ernesto"}`.
 - Keep the record specific enough to construct one clear asset, but do not prescribe production technology or add unapproved decoration.
 
 ## Required JSON schema
@@ -117,6 +117,7 @@ For a `completed` record, every string must be non-empty except `placement.educa
     "geometry": "",
     "emphasis": "",
     "characters": [],
+    "characterNames": {},
     "propsAndIcons": []
   },
   "prohibitions": [],

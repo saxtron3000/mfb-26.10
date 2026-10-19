@@ -118,7 +118,11 @@
       "C01",
       "C02"
     ],
-    "propsAndIcons": []
+    "propsAndIcons": [],
+    "characterNames": {
+      "C01": "Sara",
+      "C02": "Luis"
+    }
   },
   "prohibitions": [
     "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",

@@ -95,7 +95,7 @@ Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlle
 
 Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames. Tables: white/paper ground, purple heading region, cool-gray hairlines, short cells, prose left aligned and comparable numbers right aligned; no decorative-icon overload.
 
-Named approved cast: C02 Beginner learner: backward purple cap, orange-tan skin, white hoodie and purple trousers; attentive adult. Match assets/style/bible/mfb-assets-character-bible.v3.png; use only the purposeful actions and props listed above. These reference poses require review against the fixed cast before production reuse.
+Named approved cast: C02 Luis (beginner learner): backward purple cap, orange-tan skin, white hoodie and purple trousers; attentive adult. Match assets/style/bible/mfb-assets-character-bible.v3.png; use only the purposeful actions and props listed above. These reference poses require review against the fixed cast before production reuse.
 
 ## Safety, exclusions, and qualifications
 

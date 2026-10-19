@@ -120,7 +120,10 @@
     "propsAndIcons": [
       "Generic backup screen with twelve positions",
       "Paper with matching twelve positions"
-    ]
+    ],
+    "characterNames": {
+      "C05": "Lukas"
+    }
   },
   "prohibitions": [
     "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",

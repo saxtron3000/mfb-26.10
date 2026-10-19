@@ -120,7 +120,13 @@
       "C03",
       "C04"
     ],
-    "propsAndIcons": []
+    "propsAndIcons": [],
+    "characterNames": {
+      "C01": "Sara",
+      "C02": "Luis",
+      "C03": "Ernesto",
+      "C04": "Amina"
+    }
   },
   "prohibitions": [
     "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",

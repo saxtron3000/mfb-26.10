@@ -106,7 +106,11 @@
     ],
     "propsAndIcons": [
       "Generic nonfunctional payment device"
-    ]
+    ],
+    "characterNames": {
+      "C02": "Luis",
+      "C04": "Amina"
+    }
   },
   "prohibitions": [
     "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",

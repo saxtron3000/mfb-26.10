@@ -107,7 +107,12 @@
     ],
     "propsAndIcons": [
       "Phones as discussion props"
-    ]
+    ],
+    "characterNames": {
+      "C01": "Sara",
+      "C02": "Luis",
+      "C04": "Amina"
+    }
   },
   "prohibitions": [
     "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",

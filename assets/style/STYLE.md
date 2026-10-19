@@ -162,13 +162,13 @@ Avoid: blur, glow, noise, watercolour, glass, airbrush shading, photoreal lighti
 
 ## 6. People and props
 
-Use the approved recurring cast in `CHARACTERS.md` whenever people appear.
+Use the approved recurring cast in `CHARACTERS.md` whenever people appear: Sara (C01, educator), Luis (C02, beginner learner), Ernesto (C03, older learner), Amina (C04, business owner), Lukas (C05, technical learner), and Mei (C06, young learner).
 
 - They are fixed people, not interchangeable demographic symbols.
 - Use realistic, slightly simplified proportions and minimal calm faces.
 - Preserve the same face construction, hands, outline weight, clothing-detail level and flat colour treatment in every asset.
 - Clothing is built from simple angular planes, not detailed fashion illustration.
-- The older learner is active and capable, never a stereotype.
+- Ernesto, the older learner, is active and capable, never a stereotype.
 - Only show people needed to teach the point; avoid decorative background crowds.
 
 Preferred props: notebooks, printed guides, pencils, whiteboards, desks, payment devices, wallets, hardware wallets, keys, seed-phrase cards, simple network marks and classroom materials.

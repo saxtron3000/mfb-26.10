@@ -108,7 +108,12 @@
     "propsAndIcons": [
       "Other adults on screen",
       "Cup of tea"
-    ]
+    ],
+    "characterNames": {
+      "C03": "Ernesto",
+      "C01": "Sara",
+      "C04": "Amina"
+    }
   },
   "prohibitions": [
     "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",

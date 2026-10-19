@@ -2,6 +2,8 @@
 
 **Purpose:** choose a stable content skeleton before placing illustrations, graphics or copy. The PNGs in this directory are visual references; this file records the reusable layout system they represent.
 
+The recurring cast is Sara (C01, educator), Luis (C02, beginner learner), Ernesto (C03, older learner), Amina (C04, business owner), Lukas (C05, technical learner), and Mei (C06, young learner). Use the canonical names in [`../CHARACTERS.md`](../CHARACTERS.md). The older payment example in `mfb-assets-one-page.v3.png` labels Luis and Amina with superseded names; update editable copy to Luis and Amina when reusing that layout.
+
 ## Layout rule
 
 Layouts decide placement, rhythm and shared chrome; they do not invent a graphic, icon or visual treatment. Use the Tier 3 graphic pattern that fits the learning need, then place it in the relevant skeleton.

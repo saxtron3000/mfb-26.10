@@ -111,7 +111,7 @@ Apply the style guide concretely, rather than inserting a generic “follow styl
 - Require flat, print-safe, editable artwork; clear negative space; live, short, translatable labels; color-independent distinctions; and at least 12pt learner-facing type for print.
 - For diagrams, use direct labels, straight or right-angle connectors, open-chevron arrows, filled node dots, and hatch in addition to colour where multiple series must survive grayscale.
 - For tables, require a paper ground, purple heading/section label, cool-gray hairlines, short cells, left-aligned prose, right-aligned comparable numbers, and no decorative-icon overload.
-- When people appear, select only necessary named characters and valid actions from `CHARACTERS.md`; preserve the fixed cast and keep the older learner capable and active.
+- When people appear, select only necessary characters by canonical name and ID from `CHARACTERS.md`, e.g. `C03 Ernesto (older learner)`, with valid actions and props; preserve the fixed cast and keep Ernesto capable and active.
 - Prohibit crypto hype, generic blockchain imagery, gold coins, corporate-cartoon proportions, gradients, glossy/3D effects, shadows, decorative clutter, unapproved icons, and redrawn MFB marks.
 
 ## Accuracy and safety rules

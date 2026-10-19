@@ -101,7 +101,7 @@ Use the asset type `EXTERNAL` for approved, externally supplied JPGs added direc
 | [assets/reference/](assets/reference/) | Maintain matching `bd-v-NNN-ref.json`, SVG, and PNG reference files where available |
 | [assets/prompts/](assets/prompts/) | Follow the brief, JSON, SVG/PNG, and editable production handoff instructions |
 | [assets/style/STYLE.md](assets/style/STYLE.md) | Check shared visual rules |
-| [assets/style/CHARACTERS.md](assets/style/CHARACTERS.md) | Check character requirements alongside the images in `assets/style/bible/` |
+| [assets/style/CHARACTERS.md](assets/style/CHARACTERS.md) | Check the recurring cast—Sara, Luis, Ernesto, Amina, Lukas, and Mei—alongside the images in `assets/style/bible/` |
 | [assets/style/layouts/README.md](assets/style/layouts/README.md) | Choose and apply layout references |
 
 Read the adjacent guide text before changing a visual. Keep heading references, placement, captions, and alt text aligned with that text. A created reference image is not a finished publication asset. Resolve documented production conditions and verify the production log before claiming an asset is ready.

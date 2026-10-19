@@ -30,7 +30,7 @@ The project began with small in-person classes in El Salvador in 2021, after the
 Our work is independent, community-driven, and Bitcoin-focused. We focus on financial literacy, careful thinking, and practical safety - not trading, speculation, or promoting other tokens. We do not ask you to accept a belief. Instead, we provide concepts, questions, and practical knowledge so you can form your own conclusions.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-025
-ALT: The educator welcomes the beginner, older learner, business owner, technical learner, and young learner into a shared learning group.
+ALT: Sara welcomes Luis, Ernesto, Amina, Lukas, and Mei into a shared learning group.
 ASSET: assets/illustrations/png/no-text/bd-illustration-025.png
 -->
 
@@ -150,7 +150,7 @@ ASSET: assets/briefs/bd-v-006-brief.md
 You will learn more by participating than by reading silently. Some questions do not have one correct answer. What matters is whether you can explain your reasoning, examine evidence, and revise your view when you learn something new.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-033
-ALT: The business owner points to a simple diagram in an open guide while the educator discusses it with her at a classroom table.
+ALT: Amina points to a simple diagram in an open guide while Sara discusses it with her at a classroom table.
 ASSET: assets/illustrations/png/no-text/bd-illustration-033.png
 -->
 
@@ -176,7 +176,7 @@ Your educator will explain any required assessment activities. Theory is mainly 
 Your educator uses an assessment grid to record one result for each of the seven competencies above. `C1`–`C5` are assessed through your own explanations and decisions; `C6`–`C7` require direct observation. Both the wallet/receipt task and the recovery-readiness task are required parts of `C6`.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-001
-ALT: The educator responds to the beginner learner's raised hand while the older learner follows along with an open course guide.
+ALT: Sara responds to Luis's raised hand while Ernesto follows along with an open course guide.
 ASSET: assets/illustrations/png/no-text/bd-illustration-001.png
 -->
 
@@ -286,7 +286,7 @@ Money shapes everyday choices about food, transport, work, saving, and helping p
 As you discuss these questions, notice the difference between a fact and an opinion. “This note is accepted for taxes” is a fact that can be checked. “This is the best form of money” is an opinion or conclusion that needs criteria and evidence.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-026
-ALT: All six characters gather around classroom tables as the educator leads a shared reading from an open course guide.
+ALT: All six characters gather around classroom tables as Sara leads a shared reading from an open course guide.
 ASSET: assets/illustrations/png/no-text/bd-illustration-026.png
 -->
 
@@ -351,7 +351,7 @@ ASSET: assets/briefs/bd-v-008-brief.md
 **Think critically:** Name a time when you chose one type of money or [asset](https://programs.myfirstbitcoin.org/lexicon/en/#asset) over another. What was the purpose? Compare the properties of the options you could have used. Which properties mattered most to you, and why?
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-028
-ALT: All six characters collaborate on an offline teaching-card activity while the educator guides the discussion.
+ALT: All six characters collaborate on an offline teaching-card activity while Sara guides the discussion.
 ASSET: assets/illustrations/png/no-text/bd-illustration-028.png
 -->
 
@@ -758,7 +758,7 @@ ASSET: assets/briefs/bd-v-026-brief.md
 [Decentralization](https://programs.myfirstbitcoin.org/lexicon/en/#decentralization) also creates costs. Coordination can be slower. Users must verify information and take more responsibility. There is no central support desk for the [Bitcoin network](https://programs.myfirstbitcoin.org/lexicon/en/#bitcoin-network). These [trade-offs](https://programs.myfirstbitcoin.org/lexicon/en/#trade-off) are part of the design, not accidental defects that can be removed without changing the system.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-002
-ALT: The educator points to a network on a classroom screen while the beginner and technical learners discuss it at a desk.
+ALT: Sara points to a network on a classroom screen while Luis and Lukas discuss it at a desk.
 ASSET: assets/illustrations/png/no-text/bd-illustration-002.png
 -->
 
@@ -816,7 +816,7 @@ Some people perform several roles. A [miner](https://programs.myfirstbitcoin.org
 **Spot question:** Why does a [node](https://programs.myfirstbitcoin.org/lexicon/en/#node) verify [transactions](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx)? Name at least one rule that a [node](https://programs.myfirstbitcoin.org/lexicon/en/#node) checks.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-003
-ALT: The educator guides the technical learner at a node computer, with the monitor facing them and its rear casing visible to the viewer.
+ALT: Sara guides Lukas at a node computer, with the monitor facing them and its rear casing visible to the viewer.
 ASSET: assets/illustrations/png/no-text/bd-illustration-003.png
 -->
 
@@ -847,7 +847,7 @@ ASSET: assets/briefs/bd-v-032-brief.md
 [Proof of work](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work) involves a real energy cost. Supporters argue that this cost is what anchors Bitcoin's security and can create demand for flexible or otherwise unused energy. Critics question the amount and source of energy used. A responsible evaluation asks what energy is used, where it comes from, what security it provides, and what alternatives are being compared.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-004
-ALT: The educator, beginner learner, and technical learner discuss a tabletop mining unit with a fan and separate power supply.
+ALT: Sara, Luis, and Lukas discuss a tabletop mining unit with a fan and separate power supply.
 ASSET: assets/illustrations/png/no-text/bd-illustration-004.png
 -->
 
@@ -1108,7 +1108,7 @@ Compare [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody), reco
 > During the Diploma, you may create a wallet or write down [recovery words](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase) as part of practice. A classroom is a learning environment: information can be seen, copied, shared, or compromised by mistake. For this reason, a training wallet should normally be empty or simulated and should not be used to secure meaningful funds. Where practical, it is closed, reset, or returned at the end of the Diploma. Your educator may choose a low-stakes live activity, but should explain its purpose and the added privacy, security, and loss risks before anyone takes part. A wallet intended to secure meaningful funds needs a new, private setup and new recovery information. Your educator can explain the difference, but you are never required to set up a personal wallet to complete the Diploma.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-005
-ALT: The educator demonstrates a training phone while the beginner and older learners examine their own devices.
+ALT: Sara demonstrates a training phone while Luis and Ernesto examine their own devices.
 ASSET: assets/illustrations/png/no-text/bd-illustration-005.png
 -->
 
@@ -1259,7 +1259,7 @@ ASSET: assets/briefs/bd-v-041-brief.md
 **Try it:** For a small, fictional payment and a less-frequent fictional payment, explain which [trade-off](https://programs.myfirstbitcoin.org/lexicon/en/#trade-off) matters more. Do not choose a tool or amount for your own funds.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-006
-ALT: The educator helps the older and technical learners compare a phone, a hardware wallet, and a laptop.
+ALT: Sara helps Ernesto and Lukas compare a phone, a hardware wallet, and a laptop.
 ASSET: assets/illustrations/png/no-text/bd-illustration-006.png
 -->
 
@@ -1307,7 +1307,7 @@ ASSET: assets/briefs/bd-v-044-brief.md
 A message or screenshot that says “sent” is not proof. What evidence can you see yourself? Check the receiving wallet or approved [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) view. For [on-chain payments](https://programs.myfirstbitcoin.org/lexicon/en/#on-chain-payment), a wallet may first show the [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx) as pending. [Confirmation](https://programs.myfirstbitcoin.org/lexicon/en/#confirmation) status adds settlement confidence; it does not repair a wrong address or scam. A wallet may offer a fresh address for a new receipt; older addresses may still work, but reusing one address can make separate payments easier to link. A fresh address reduces that easy link; it does not make a payment anonymous.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-007
-ALT: The older learner presents a training phone while the beginner checks another phone and the educator guides the comparison.
+ALT: Ernesto presents a training phone while Luis checks another phone and Sara guides the comparison.
 ASSET: assets/illustrations/png/no-text/bd-illustration-007.png
 -->
 
@@ -1338,7 +1338,7 @@ For an [on-chain payment](https://programs.myfirstbitcoin.org/lexicon/en/#on-cha
 If the destination changes unexpectedly, the request becomes urgent, or anyone asks for recovery information, what should you do? Stop. Verify the request independently, or ask for help without sharing secrets.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-008
-ALT: The educator guides the beginner learner as they compare a phone with the business owner's receiving device before approving a payment.
+ALT: Sara guides Luis as they compare a phone with Amina's receiving device before approving a payment.
 ASSET: assets/illustrations/png/no-text/bd-illustration-008.png
 -->
 
@@ -1362,7 +1362,7 @@ ASSET: assets/briefs/bd-v-046-brief.md
 -->
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-009
-ALT: The educator and older learner discuss a prepared example on a monitor facing the group while the technical learner operates the mouse; the viewer sees the rear casing.
+ALT: Sara and Ernesto discuss a prepared example on a monitor facing the group while Lukas operates the mouse; the viewer sees the rear casing.
 ASSET: assets/illustrations/png/no-text/bd-illustration-009.png
 -->
 
@@ -1458,7 +1458,7 @@ Which path does the recipient expect? Confirm whether they have provided an on-c
 Imagine that a prepared scenario offers both payment paths. Which request can the intended wallet use, and what would you check before approving it? The answer depends on the receiving request, the wallet, and the situation — not on a universal “best” path.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-010
-ALT: The educator points to two different geometric payment paths on a board while the beginner and technical learners consider them.
+ALT: Sara points to two different geometric payment paths on a board while Luis and Lukas consider them.
 ASSET: assets/illustrations/png/no-text/bd-illustration-010.png
 -->
 
@@ -1586,7 +1586,7 @@ Before any live demonstration, make sure you know:
 The result of your workshop should be an explanation or skill, not only a completed [transaction](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx).
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-031
-ALT: The educator and business owner practise with a training phone together, both looking at the screen facing them.
+ALT: Sara and Amina practise with a training phone together, both looking at the screen facing them.
 ASSET: assets/illustrations/png/no-text/bd-illustration-031.png
 -->
 
@@ -1773,7 +1773,7 @@ A local organization wants to receive support in bitcoin.
 For a live practice, use a low-value item or a simulation. The learner should be able to explain the complete flow before approving payment.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-011
-ALT: The beginner and business owner check separate phones beside groceries on a counter as the educator guides the practice.
+ALT: Luis and Amina check separate phones beside groceries on a counter as Sara guides the practice.
 ASSET: assets/illustrations/png/no-text/bd-illustration-011.png
 -->
 
@@ -1875,7 +1875,7 @@ A healthy circular economy depends on voluntary participation. Merchants and wor
 The strongest local loop solves a real problem for more than one participant. It should not depend permanently on giveaways or on one organizer processing every payment.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-012
-ALT: The educator facilitates a discussion with the beginner, older learner, and business owner around guides, a phone, and everyday goods.
+ALT: Sara facilitates a discussion with Luis, Ernesto, and Amina around guides, a phone, and everyday goods.
 ASSET: assets/illustrations/png/no-text/bd-illustration-012.png
 -->
 

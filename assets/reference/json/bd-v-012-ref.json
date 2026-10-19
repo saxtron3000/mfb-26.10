@@ -106,7 +106,10 @@
     "propsAndIcons": [
       "Pensive learner",
       "Several distinct shelf items"
-    ]
+    ],
+    "characterNames": {
+      "C02": "Luis"
+    }
   },
   "prohibitions": [
     "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",

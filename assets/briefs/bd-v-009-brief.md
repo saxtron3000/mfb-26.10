@@ -3,7 +3,7 @@
 ## Source snapshot
 
 - Source capture: complete asset-index record preserved below.
-- Brief status: blocked.
+- Brief status: ready for reference creation; named cast confirmed.
 - Source captured: 2026-10-08; brief revision 2026-10-08.
 - This brief is the primary authority for later JSON-reference creation. Consult the asset index only to resolve a documented incompleteness or conflict.
 
@@ -85,7 +85,7 @@ Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlle
 
 Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames.
 
-Named approved cast: C01 Educator: dark hair in a high bun, lilac skin, purple blazer and trousers over a white top; calm, capable adult; C02 Beginner learner: backward purple cap, orange-tan skin, white hoodie and purple trousers; attentive adult; C04 Business owner: long dark hair, deep purple-brown skin, orange jacket over white top and dark trousers; practical adult. Match assets/style/bible/mfb-assets-character-bible.v3.png; use only the purposeful actions and props listed above. These reference poses require review against the fixed cast before production reuse.
+Named approved cast: C04 Amina (business owner): long dark hair, deep purple-brown skin, orange jacket over white top and dark trousers; practical adult; C02 Luis (beginner learner): backward purple cap, orange-tan skin, white hoodie and purple trousers; attentive adult; C06 Mei (young learner): orange beanie, long dark hair, white T-shirt and purple cargo trousers; participates only in this offline, age-appropriate teaching example. Match assets/style/bible/mfb-assets-character-bible.v3.png; use only the purposeful actions and props listed above. These reference poses require review against the fixed cast before production reuse.
 
 ## Safety, exclusions, and qualifications
 
@@ -95,12 +95,12 @@ Named approved cast: C01 Educator: dark hair in a high bun, lilac skin, purple b
 - No restricted-pilot app links, QR assets, calls to download or assessment/certification evidence.
 - No crypto hype, gold Bitcoin coins, generic blockchain imagery, corporate-cartoon proportions, gradients, glossy or 3D effects, shadows, decorative clutter, unapproved icons or redrawn official MFB marks.
 - Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation.
-- Production restriction: Story roles Amina/Luis/Mei have no approved cast mapping. Proposed C01/C02/C04 mapping awaits the user’s yes/no clarification.
+- Cast identity: The user-confirmed named cast is Amina (C04), Luis (C02), and Mei (C06). Mei participates only in this offline, age-appropriate teaching example. Existing artwork with a different cast does not fulfill this brief.
 
 ## Source conflicts or unresolved decisions
 
 - The index’s Dictated production directions control conflicting purpose, construction, format and type. The complete original row above is archival source evidence, not permission to reintroduce superseded scenes. The controlling direction is preserved below.
-- Story roles Amina/Luis/Mei have no approved cast mapping. Proposed C01/C02/C04 mapping awaits the user’s yes/no clarification.
+- The user-confirmed named cast is Amina (C04), Luis (C02), and Mei (C06). Mei participates only in this offline, age-appropriate teaching example. Existing artwork with a different cast does not fulfill this brief.
 
 ## Completion criteria
 
@@ -110,4 +110,4 @@ Named approved cast: C01 Educator: dark hair in a high bun, lilac skin, purple b
 - Keep each label, qualifier and warning live and translation-ready for later production; include the instructional alt text.
 - Check the specific composition in grayscale, print and at phone width; preserve purple-led flat geometry, white reference background and clear negative space.
 - Verify that no real secrets, personal/payment data, hype, invented local conclusions or prohibited visible copy enter the references.
-- Keep downstream creation blocked until the decision above is resolved; a complete brief does not authorize the visual.
+- Use the confirmed C04 Amina / C02 Luis / C06 Mei mapping for reference creation; apply the existing character-bible review requirements before production reuse.

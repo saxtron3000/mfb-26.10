@@ -91,7 +91,12 @@
       "C02",
       "C04"
     ],
-    "propsAndIcons": []
+    "propsAndIcons": [],
+    "characterNames": {
+      "C01": "Sara",
+      "C02": "Luis",
+      "C04": "Amina"
+    }
   },
   "prohibitions": [
     "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",
@@ -102,17 +107,17 @@
     "Reference only: white background; render no visible text, letters, numerals, punctuation, placeholder text or encoded payment data. Preserve all live copy and warnings in this brief and JSON for later editable implementation.",
     "Keep names, goods, and the generic medium editable for localization.",
     "Do not use a specific currency, price, brand, wallet, QR code, or claim that money removes every exchange problem.",
-    "Production restriction: Amina and the two trading partners have no approved cast mapping. Proposed C01/C02/C04 mapping awaits the user’s yes/no clarification."
+    "Production restriction: Amina is the business owner (C04). The two unnamed trading partners still need explicit role assignments within the selected C01 Sara / C02 Luis cast before artwork creation."
   ],
   "review": {
     "briefCompliant": true,
     "assetRegisterCompliant": false,
     "styleCompliant": false,
     "openDecisionsPreventCreation": true,
-    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Creation blocked: Amina and the two trading partners have no approved cast mapping. Proposed C01/C02/C04 mapping awaits the user’s yes/no clarification."
+    "notes": "Reviewed against the complete brief only; no additional style or register consultation. Creation blocked: Amina is the business owner (C04). The two unnamed trading partners still need explicit role assignments within the selected C01 Sara / C02 Luis cast before artwork creation."
   },
   "unresolved": [
     "The index’s Dictated production directions control conflicting purpose, construction, format and type. The complete original row above is archival source evidence, not permission to reintroduce superseded scenes. The controlling direction is preserved below.",
-    "Amina and the two trading partners have no approved cast mapping. Proposed C01/C02/C04 mapping awaits the user’s yes/no clarification."
+    "Amina is the business owner (C04). The two unnamed trading partners still need explicit role assignments within the selected C01 Sara / C02 Luis cast before artwork creation."
   ]
 }

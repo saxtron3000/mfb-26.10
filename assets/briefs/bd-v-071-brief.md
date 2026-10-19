@@ -77,7 +77,7 @@ Live IBM Plex Sans, 400 body and 500 labels; use 600 only for a single controlle
 
 Flat shapes, restrained monoline outlines, butt caps and miter joins; straight or right-angle connectors, open chevron heads and filled node dots. Use exactly 13° only for meaningful structural cuts or hatch, never tilt people or labels. No decorative frames.
 
-Named approved cast: C03 Older learner: short white hair and beard, rectangular glasses, purple sweater over a white collar, light gray trousers; active and capable; C01 Educator: dark hair in a high bun, lilac skin, purple blazer and trousers over a white top; calm, capable adult; C04 Business owner: long dark hair, deep purple-brown skin, orange jacket over white top and dark trousers; practical adult. Match assets/style/bible/mfb-assets-character-bible.v3.png; use only the purposeful actions and props listed above. These reference poses require review against the fixed cast before production reuse.
+Named approved cast: C03 Ernesto (older learner): short white hair and beard, rectangular glasses, purple sweater over a white collar, light gray trousers; active and capable; C01 Sara (educator): dark hair in a high bun, lilac skin, purple blazer and trousers over a white top; calm, capable adult; C04 Amina (business owner): long dark hair, deep purple-brown skin, orange jacket over white top and dark trousers; practical adult. Match assets/style/bible/mfb-assets-character-bible.v3.png; use only the purposeful actions and props listed above. These reference poses require review against the fixed cast before production reuse.
 
 ## Safety, exclusions, and qualifications
 

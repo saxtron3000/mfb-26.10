@@ -72,14 +72,14 @@ Placement lines below point to the start of each illustration comment in the cur
 
 | ID | Identity retained from the character bible |
 | --- | --- |
-| C01 | Educator: dark hair in a high bun, purple suit, white blouse and sneakers. |
-| C02 | Beginner learner: backward purple cap, white hoodie, purple trousers and white sneakers. |
-| C03 | Older learner: white curls and beard, rectangular glasses, purple pullover, white collar and light trousers. |
-| C04 | Business owner: long dark wavy hair, orange blazer, white blouse, purple trousers and pumps. |
-| C05 | Technical learner: short dark curls, rectangular glasses, purple hoodie and cargo trousers. |
-| C06 | Young learner: orange beanie, long dark hair, white T-shirt and purple cargo trousers; offline classroom participation only. |
+| C01 | Sara (educator): dark hair in a high bun, purple suit, white blouse and sneakers. |
+| C02 | Luis (beginner learner): backward purple cap, white hoodie, purple trousers and white sneakers. |
+| C03 | Ernesto (older learner): white curls and beard, rectangular glasses, purple pullover, white collar and light trousers. |
+| C04 | Amina (business owner): long dark wavy hair, orange blazer, white blouse, purple trousers and pumps. |
+| C05 | Lukas (technical learner): short dark curls, rectangular glasses, purple hoodie and cargo trousers. |
+| C06 | Mei (young learner): orange beanie, long dark hair, white T-shirt and purple cargo trousers; offline classroom participation only. |
 
-Scenes 025–030 include all six characters. Scenes 031–034 feature both adult women, C01 and C04; C06 joins the network lesson and offline card activity.
+Scenes 025–030 include Sara, Luis, Ernesto, Amina, Lukas, and Mei. Scenes 031–034 feature both adult women, C01 Sara and C04 Amina; C06 Mei joins the network lesson and offline card activity.
 
 ## Student Guide — 17 illustrations
 
@@ -89,9 +89,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Student Guide, “[About Us](../../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L32)”, **marker line 32**.
 
-**Cast:** C01, C02, C03, C04, C05, C06.
+**Cast:** C01 Sara, C02 Luis, C03 Ernesto, C04 Amina, C05 Lukas, C06 Mei.
 
-**Scene / alt text:** The educator welcomes the beginner, older learner, business owner, technical learner, and young learner into a shared learning group.
+**Scene / alt text:** Sara welcomes Luis, Ernesto, Amina, Lukas, and Mei into a shared learning group.
 
 **Educational purpose:** Show a welcoming, inclusive learning community with all six recurring characters.
 
@@ -101,9 +101,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Student Guide, “[Flexible learning](../../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L152)”, **marker line 152**.
 
-**Cast:** C01, C04.
+**Cast:** C01 Sara, C04 Amina.
 
-**Scene / alt text:** The business owner points to a simple diagram in an open guide while the educator discusses it with her at a classroom table.
+**Scene / alt text:** Amina points to a simple diagram in an open guide while Sara discusses it with her at a classroom table.
 
 **Educational purpose:** Show women comparing an explanation and developing understanding through shared reading.
 
@@ -113,9 +113,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Student Guide, “[Discussion and [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy) expectations](../../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L178)”, **marker line 178**.
 
-**Cast:** C01, C02, C03.
+**Cast:** C01 Sara, C02 Luis, C03 Ernesto.
 
-**Scene / alt text:** The educator responds to the beginner learner's raised hand while the older learner follows along with an open course guide.
+**Scene / alt text:** Sara responds to Luis's raised hand while Ernesto follows along with an open course guide.
 
 **Educational purpose:** Show that asking questions and discussing ideas are part of learning.
 
@@ -125,9 +125,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Student Guide, “[Opening questions about money](../../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L288)”, **marker line 288**.
 
-**Cast:** C01, C02, C03, C04, C05, C06.
+**Cast:** C01 Sara, C02 Luis, C03 Ernesto, C04 Amina, C05 Lukas, C06 Mei.
 
-**Scene / alt text:** All six characters gather around classroom tables as the educator leads a shared reading from an open course guide.
+**Scene / alt text:** All six characters gather around classroom tables as Sara leads a shared reading from an open course guide.
 
 **Educational purpose:** Show that shared reading and discussion can support learners of different ages and experience.
 
@@ -137,9 +137,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Student Guide, “[Functions and properties of money](../../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L353)”, **marker line 353**.
 
-**Cast:** C01, C02, C03, C04, C05, C06.
+**Cast:** C01 Sara, C02 Luis, C03 Ernesto, C04 Amina, C05 Lukas, C06 Mei.
 
-**Scene / alt text:** All six characters collaborate on an offline teaching-card activity while the educator guides the discussion.
+**Scene / alt text:** All six characters collaborate on an offline teaching-card activity while Sara guides the discussion.
 
 **Educational purpose:** Show cooperative learning through a simple shared activity with everyday classroom materials.
 
@@ -149,9 +149,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Student Guide, “[[Decentralization](https://programs.myfirstbitcoin.org/lexicon/en/#decentralization)](../../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L760)”, **marker line 760**.
 
-**Cast:** C01, C02, C05.
+**Cast:** C01 Sara, C02 Luis, C05 Lukas.
 
-**Scene / alt text:** The educator points to a network on a classroom screen while the beginner and technical learners discuss it at a desk.
+**Scene / alt text:** Sara points to a network on a classroom screen while Luis and Lukas discuss it at a desk.
 
 **Educational purpose:** Introduce learning about a network of independent participants.
 
@@ -161,9 +161,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Student Guide, “[Users, [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node), [miners](https://programs.myfirstbitcoin.org/lexicon/en/#miner), and developers](../../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L818)”, **marker line 818**.
 
-**Cast:** C01, C05.
+**Cast:** C01 Sara, C05 Lukas.
 
-**Scene / alt text:** The educator guides the technical learner at a node computer, with the monitor facing them and its rear casing visible to the viewer.
+**Scene / alt text:** Sara guides Lukas at a node computer, with the monitor facing them and its rear casing visible to the viewer.
 
 **Educational purpose:** Connect the role of a node with real computer equipment.
 
@@ -173,9 +173,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Student Guide, “[[Proof of work](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work)](../../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L849)”, **marker line 849**.
 
-**Cast:** C01, C02, C05.
+**Cast:** C01 Sara, C02 Luis, C05 Lukas.
 
-**Scene / alt text:** The educator, beginner learner, and technical learner discuss a tabletop mining unit with a fan and separate power supply.
+**Scene / alt text:** Sara, Luis, and Lukas discuss a tabletop mining unit with a fan and separate power supply.
 
 **Educational purpose:** Show mining as physical computing equipment and energy use.
 
@@ -185,9 +185,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Student Guide, “[Wallets](../../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1110)”, **marker line 1110**.
 
-**Cast:** C01, C02, C03.
+**Cast:** C01 Sara, C02 Luis, C03 Ernesto.
 
-**Scene / alt text:** The educator demonstrates a training phone while the beginner and older learners examine their own devices.
+**Scene / alt text:** Sara demonstrates a training phone while Luis and Ernesto examine their own devices.
 
 **Educational purpose:** Introduce guided practice with a wallet interface.
 
@@ -197,9 +197,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Student Guide, “[Hot and [cold wallets](https://programs.myfirstbitcoin.org/lexicon/en/#cold-wallet-cold-storage)](../../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1261)”, **marker line 1261**.
 
-**Cast:** C01, C03, C05.
+**Cast:** C01 Sara, C03 Ernesto, C05 Lukas.
 
-**Scene / alt text:** The educator helps the older and technical learners compare a phone, a hardware wallet, and a laptop.
+**Scene / alt text:** Sara helps Ernesto and Lukas compare a phone, a hardware wallet, and a laptop.
 
 **Educational purpose:** Prompt discussion of different wallet devices and custody choices.
 
@@ -209,9 +209,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Student Guide, “[Receiving bitcoin](../../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1309)”, **marker line 1309**.
 
-**Cast:** C01, C02, C03.
+**Cast:** C01 Sara, C02 Luis, C03 Ernesto.
 
-**Scene / alt text:** The older learner presents a training phone while the beginner checks another phone and the educator guides the comparison.
+**Scene / alt text:** Ernesto presents a training phone while Luis checks another phone and Sara guides the comparison.
 
 **Educational purpose:** Show the recipient preparing and checking a payment request.
 
@@ -221,9 +221,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Student Guide, “[Sending bitcoin](../../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1340)”, **marker line 1340**.
 
-**Cast:** C01, C02, C04.
+**Cast:** C01 Sara, C02 Luis, C04 Amina.
 
-**Scene / alt text:** The educator guides the beginner learner as they compare a phone with the business owner's receiving device before approving a payment.
+**Scene / alt text:** Sara guides Luis as they compare a phone with Amina's receiving device before approving a payment.
 
 **Educational purpose:** Emphasize checking both sides before approving a payment.
 
@@ -233,9 +233,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Student Guide, “[[Verification](https://programs.myfirstbitcoin.org/lexicon/en/#verification), [block explorers](https://programs.myfirstbitcoin.org/lexicon/en/#block-explorer), and irreversible [transactions](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx)](../../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1364)”, **marker line 1364**.
 
-**Cast:** C01, C03, C05.
+**Cast:** C01 Sara, C03 Ernesto, C05 Lukas.
 
-**Scene / alt text:** The educator and older learner discuss a prepared example on a monitor facing the group while the technical learner operates the mouse; the viewer sees the rear casing.
+**Scene / alt text:** Sara and Ernesto discuss a prepared example on a monitor facing the group while Lukas operates the mouse; the viewer sees the rear casing.
 
 **Educational purpose:** Show learners checking a prepared public transaction example together.
 
@@ -245,9 +245,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Student Guide, “[On-chain and Lightning payments](../../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1460)”, **marker line 1460**.
 
-**Cast:** C01, C02, C05.
+**Cast:** C01 Sara, C02 Luis, C05 Lukas.
 
-**Scene / alt text:** The educator points to two different geometric payment paths on a board while the beginner and technical learners consider them.
+**Scene / alt text:** Sara points to two different geometric payment paths on a board while Luis and Lukas consider them.
 
 **Educational purpose:** Prompt comparison of payment paths without implying a universal best choice.
 
@@ -257,9 +257,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Student Guide, “[Practical workshops and demonstrations](../../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1588)”, **marker line 1588**.
 
-**Cast:** C01, C04.
+**Cast:** C01 Sara, C04 Amina.
 
-**Scene / alt text:** The educator and business owner practise with a training phone together, both looking at the screen facing them.
+**Scene / alt text:** Sara and Amina practise with a training phone together, both looking at the screen facing them.
 
 **Educational purpose:** Show two adult women taking an active role in guided wallet-interface practice.
 
@@ -269,9 +269,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Student Guide, “[Local spending and receiving scenarios](../../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1775)”, **marker line 1775**.
 
-**Cast:** C01, C02, C04.
+**Cast:** C01 Sara, C02 Luis, C04 Amina.
 
-**Scene / alt text:** The beginner and business owner check separate phones beside groceries on a counter as the educator guides the practice.
+**Scene / alt text:** Luis and Amina check separate phones beside groceries on a counter as Sara guides the practice.
 
 **Educational purpose:** Connect classroom payment practice to an everyday merchant scenario.
 
@@ -281,9 +281,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Student Guide, “[Circular economies](../../../publish/mfb-bd-26.10/mfb-bd-sg-26.10.md#L1877)”, **marker line 1877**.
 
-**Cast:** C01, C02, C03, C04.
+**Cast:** C01 Sara, C02 Luis, C03 Ernesto, C04 Amina.
 
-**Scene / alt text:** The educator facilitates a discussion with the beginner, older learner, and business owner around guides, a phone, and everyday goods.
+**Scene / alt text:** Sara facilitates a discussion with Luis, Ernesto, and Amina around guides, a phone, and everyday goods.
 
 **Educational purpose:** Show community members discussing exchange and local usefulness.
 
@@ -295,9 +295,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Educator Guide, “[The page-by-page teaching rhythm](../../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L318)”, **marker line 318**.
 
-**Cast:** C01, C02, C03.
+**Cast:** C01 Sara, C02 Luis, C03 Ernesto.
 
-**Scene / alt text:** The educator points to a diagram in an open course guide as the beginner and older learner follow along in their own guides.
+**Scene / alt text:** Sara points to a diagram in an open course guide as Luis and Ernesto follow along in their own guides.
 
 **Educational purpose:** Model using the Student Guide as the foundation of a teaching conversation.
 
@@ -307,9 +307,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Educator Guide, “[Open the course with clear expectations](../../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L523)”, **marker line 523**.
 
-**Cast:** C01, C02, C03, C04, C05, C06.
+**Cast:** C01 Sara, C02 Luis, C03 Ernesto, C04 Amina, C05 Lukas, C06 Mei.
 
-**Scene / alt text:** The young learner asks a question while the educator listens and the other four learners follow the discussion.
+**Scene / alt text:** Mei asks a question while Sara listens and the other four learners follow the discussion.
 
 **Educational purpose:** Model inclusive participation and respectful attention to a learner's question.
 
@@ -319,9 +319,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Educator Guide, “[Welcome disagreement and correct error](../../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L556)”, **marker line 556**.
 
-**Cast:** C01, C02, C03.
+**Cast:** C01 Sara, C02 Luis, C03 Ernesto.
 
-**Scene / alt text:** The educator listens to the beginner learner's question while the older learner follows the conversation with an open guide.
+**Scene / alt text:** Sara listens to Luis's question while Ernesto follows the conversation with an open guide.
 
 **Educational purpose:** Model listening and welcoming questions without shaming learners.
 
@@ -331,9 +331,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Educator Guide, “[Think–pair–share](../../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L781)”, **marker line 781**.
 
-**Cast:** C01, C02, C03, C04.
+**Cast:** C01 Sara, C02 Luis, C03 Ernesto, C04 Amina.
 
-**Scene / alt text:** The educator invites a discussion while the beginner and older learners compare guides and the business owner contributes.
+**Scene / alt text:** Sara invites a discussion while Luis and Ernesto compare guides and Amina contributes.
 
 **Educational purpose:** Show an educator inviting learners to compare and explain their reasoning.
 
@@ -343,9 +343,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Educator Guide, “[Demonstration with prediction](../../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L826)”, **marker line 826**.
 
-**Cast:** C01, C02, C05.
+**Cast:** C01 Sara, C02 Luis, C05 Lukas.
 
-**Scene / alt text:** The educator pauses a phone demonstration to invite predictions from the beginner and technical learners.
+**Scene / alt text:** Sara pauses a phone demonstration to invite predictions from Luis and Lukas.
 
 **Educational purpose:** Model inviting predictions before performing a demonstration step.
 
@@ -355,9 +355,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Educator Guide, “[Debrief every activity](../../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L862)”, **marker line 862**.
 
-**Cast:** C01, C02, C03, C04, C05, C06.
+**Cast:** C01 Sara, C02 Luis, C03 Ernesto, C04 Amina, C05 Lukas, C06 Mei.
 
-**Scene / alt text:** The older learner shares a reflection as the educator and the other four learners listen around a classroom table.
+**Scene / alt text:** Ernesto shares a reflection as Sara and the other four learners listen around a classroom table.
 
 **Educational purpose:** Show learners contributing their own explanations and reflecting together as a community.
 
@@ -367,9 +367,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Educator Guide, “[Low-tech teaching: focus on interaction](../../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L879)”, **marker line 879**.
 
-**Cast:** C01, C03, C06.
+**Cast:** C01 Sara, C03 Ernesto, C06 Mei.
 
-**Scene / alt text:** The educator and older learner arrange teaching cards while the young learner participates with a notebook.
+**Scene / alt text:** Sara and Ernesto arrange teaching cards while Mei participates with a notebook.
 
 **Educational purpose:** Show useful participation with simple offline classroom materials.
 
@@ -379,9 +379,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Educator Guide, “[Universal stop conditions](../../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L980)”, **marker line 980**.
 
-**Cast:** C01, C02, C05.
+**Cast:** C01 Sara, C02 Luis, C05 Lukas.
 
-**Scene / alt text:** The educator raises an open palm to pause an activity while the beginner lowers a phone and the technical learner partly closes a laptop.
+**Scene / alt text:** Sara raises an open palm to pause an activity while Luis lowers a phone and Lukas partly closes a laptop.
 
 **Educational purpose:** Model stopping and asking for help when a practice check fails.
 
@@ -391,9 +391,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Educator Guide, “[Barter and the double coincidence of wants](../../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L1164)”, **marker line 1164**.
 
-**Cast:** C01, C02, C04.
+**Cast:** C01 Sara, C02 Luis, C04 Amina.
 
-**Scene / alt text:** The educator facilitates a direct-exchange activity between the beginner holding a notebook and the business owner holding groceries.
+**Scene / alt text:** Sara facilitates a direct-exchange activity between Luis holding a notebook and Amina holding groceries.
 
 **Educational purpose:** Support discussion of what makes direct exchange easy or difficult.
 
@@ -403,9 +403,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Educator Guide, “[Decentralization and peer-to-peer transfer](../../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L1574)”, **marker line 1574**.
 
-**Cast:** C01, C02, C05.
+**Cast:** C01 Sara, C02 Luis, C05 Lukas.
 
-**Scene / alt text:** The educator uses a pointer to explain a network on a presentation board to the beginner and technical learners.
+**Scene / alt text:** Sara uses a pointer to explain a network on a presentation board to Luis and Lukas.
 
 **Educational purpose:** Show the educator using a visual to explain peer relationships.
 
@@ -415,9 +415,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Educator Guide, “[Proof of work](../../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L1640)”, **marker line 1640**.
 
-**Cast:** C01, C03, C05.
+**Cast:** C01 Sara, C03 Ernesto, C05 Lukas.
 
-**Scene / alt text:** The educator and technical learner indicate separate mining and node devices while the older learner participates with a guide.
+**Scene / alt text:** Sara and Lukas indicate separate mining and node devices while Ernesto participates with a guide.
 
 **Educational purpose:** Support a discussion that distinguishes mining hardware from node verification.
 
@@ -427,9 +427,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Educator Guide, “[Strong Module 2 activities](../../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L1803)”, **marker line 1803**.
 
-**Cast:** C01, C04, C06.
+**Cast:** C01 Sara, C04 Amina, C06 Mei.
 
-**Scene / alt text:** The business owner explains a network of peers while the educator listens and the young learner follows with a notebook.
+**Scene / alt text:** Amina explains a network of peers while Sara listens and Mei follows with a notebook.
 
 **Educational purpose:** Show an adult woman explaining her understanding to an educator and a younger learner.
 
@@ -439,9 +439,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Educator Guide, “[Activity: recovery-readiness simulation](../../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L2138)”, **marker line 2138**.
 
-**Cast:** C01, C03, C05.
+**Cast:** C01 Sara, C03 Ernesto, C05 Lukas.
 
-**Scene / alt text:** The educator guides a recovery-readiness discussion as the older learner places a blank training card in an envelope and the technical learner watches.
+**Scene / alt text:** Sara guides a recovery-readiness discussion as Ernesto places a blank training card in an envelope and Lukas watches.
 
 **Educational purpose:** Show privacy-aware recovery practice without exposing any secret.
 
@@ -451,9 +451,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Educator Guide, “[Module option D: merchant payment and refund flow](../../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L2854)”, **marker line 2854**.
 
-**Cast:** C01, C02, C04.
+**Cast:** C01 Sara, C02 Luis, C04 Amina.
 
-**Scene / alt text:** The educator points to a blank record card while the beginner and business owner check training phones at a merchant counter.
+**Scene / alt text:** Sara points to a blank record card while Luis and Amina check training phones at a merchant counter.
 
 **Educational purpose:** Model educator-guided payment checks and merchant records.
 
@@ -463,9 +463,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Educator Guide, “[Activity purpose comes first](../../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L3235)”, **marker line 3235**.
 
-**Cast:** C01, C04, C06.
+**Cast:** C01 Sara, C04 Amina, C06 Mei.
 
-**Scene / alt text:** The educator guides the business owner and young learner as they compare blank teaching cards at a table.
+**Scene / alt text:** Sara guides Amina and Mei as they compare blank teaching cards at a table.
 
 **Educational purpose:** Show women and a younger learner reasoning together through an accessible offline activity.
 
@@ -475,9 +475,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Educator Guide, “[14. Use visuals as teaching tools](../../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L3382)”, **marker line 3382**.
 
-**Cast:** C01, C02, C03, C04, C05, C06.
+**Cast:** C01 Sara, C02 Luis, C03 Ernesto, C04 Amina, C05 Lukas, C06 Mei.
 
-**Scene / alt text:** The educator explains six interconnected peers on a whiteboard to all five learners, including the young learner in an orange beanie.
+**Scene / alt text:** Sara explains six interconnected peers on a whiteboard to all five learners, including Mei in an orange beanie.
 
 **Educational purpose:** Introduce network relationships through an educator-led visual discussion.
 
@@ -487,9 +487,9 @@ Scenes 025–030 include all six characters. Scenes 031–034 feature both adult
 
 **Placement:** Educator Guide, “[Capstone discussion](../../../publish/mfb-bd-26.10/mfb-bd-eg-26.10.md#L3404)”, **marker line 3404**.
 
-**Cast:** C01, C02, C03, C04.
+**Cast:** C01 Sara, C02 Luis, C03 Ernesto, C04 Amina.
 
-**Scene / alt text:** The educator invites a final explanation from the older learner while the beginner and business owner listen with their guides.
+**Scene / alt text:** Sara invites a final explanation from Ernesto while Luis and Amina listen with their guides.
 
 **Educational purpose:** Model a final discussion that draws out understanding and remaining questions.
 

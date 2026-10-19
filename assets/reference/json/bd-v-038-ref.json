@@ -106,7 +106,10 @@
     "propsAndIcons": [
       "Private learner writing on paper",
       "Pencil and private offline backup"
-    ]
+    ],
+    "characterNames": {
+      "C05": "Lukas"
+    }
   },
   "prohibitions": [
     "No financial, legal, tax, accounting, compliance or investment advice; no provider recommendation, guaranteed safety/returns/adoption or universal local/legal conclusion.",

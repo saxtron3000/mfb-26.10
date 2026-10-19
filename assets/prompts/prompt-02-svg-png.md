@@ -34,7 +34,7 @@ Show only the required visual elements and relationships. Preserve required role
 
 Render no text, letters, numbers, punctuation, or placeholder text. All copy, data, labels, and warnings will be added as editable, translatable content during micrographic production.
 
-Use the approved MFB visual direction: flat, print-safe vector-style artwork; hard geometric structure; restrained monoline outlines; clear negative space; purple-led palette; cool-gray neutrals; and small, controlled orange emphasis. Use the 13-degree parallelogram language only where it supports the composition. No gradients, shadows, texture, glow, 3D, photorealism, generic crypto imagery, trading hype, or corporate-Memphis styling. When people are required, use the named approved characters and their established identity.
+Use the approved MFB visual direction: flat, print-safe vector-style artwork; hard geometric structure; restrained monoline outlines; clear negative space; purple-led palette; cool-gray neutrals; and small, controlled orange emphasis. Use the 13-degree parallelogram language only where it supports the composition. No gradients, shadows, texture, glow, 3D, photorealism, generic crypto imagery, trading hype, or corporate-Memphis styling. When people are required, use the canonical names and stable character IDs in the brief and `CHARACTERS.md`, preserving each character’s established identity. Older names embedded in reference PNGs do not override the canonical registry.
 
 Never show a real or plausible seed phrase, private key, payable address, learner identity, learner balance, personal data, payment QR code, or unverified factual data. Do not imply investment returns, risk-free self-custody, inevitable adoption, or a universal legal or local conclusion.
 ```
