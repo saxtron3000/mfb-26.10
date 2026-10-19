@@ -1,0 +1,922 @@
+{
+  "schema_version": 2,
+  "verified_on": "2026-10-19",
+  "count": 0,
+  "status": "No v-txt artwork is present in the current library.",
+  "filename_pattern": null,
+  "source_index": "bd-illustration-v-index.json",
+  "scope": "Historical heading copy only. The current png/ and svg/ directories contain no text variants, and neither guide references v-txt artwork.",
+  "assets": [],
+  "historical_heading_count": 101,
+  "historical_heading_copy": [
+    {
+      "id": "001",
+      "source_asset": "BD-V-001",
+      "title": "Sharing Open Educational Materials",
+      "language": "en",
+      "text_content": [
+        "Sharing Open Educational Materials"
+      ]
+    },
+    {
+      "id": "002",
+      "source_asset": "BD-V-002",
+      "title": "Thinking through a Claim",
+      "language": "en",
+      "text_content": [
+        "Thinking through a Claim"
+      ]
+    },
+    {
+      "id": "003",
+      "source_asset": "BD-V-003",
+      "title": "Connected Course Learning",
+      "language": "en",
+      "text_content": [
+        "Connected Course Learning"
+      ]
+    },
+    {
+      "id": "004",
+      "source_asset": "BD-V-004",
+      "title": "Learning Pathway",
+      "language": "en",
+      "text_content": [
+        "Learning Pathway"
+      ]
+    },
+    {
+      "id": "005",
+      "source_asset": "BD-V-005",
+      "title": "Four Learning Contexts",
+      "language": "en",
+      "text_content": [
+        "Four Learning Contexts"
+      ]
+    },
+    {
+      "id": "006",
+      "source_asset": "BD-V-006",
+      "title": "Learn Practise Explain",
+      "language": "en",
+      "text_content": [
+        "Learn Practise Explain"
+      ]
+    },
+    {
+      "id": "007",
+      "source_asset": "BD-V-007",
+      "title": "Examining the Properties of Money",
+      "language": "en",
+      "text_content": [
+        "Examining the Properties of Money"
+      ]
+    },
+    {
+      "id": "008",
+      "source_asset": "BD-V-008",
+      "title": "Money in Everyday Use",
+      "language": "en",
+      "text_content": [
+        "Money in Everyday Use"
+      ]
+    },
+    {
+      "id": "009",
+      "source_asset": "BD-V-009",
+      "title": "Barter Mismatch",
+      "language": "en",
+      "text_content": [
+        "Barter Mismatch"
+      ]
+    },
+    {
+      "id": "010",
+      "source_asset": "BD-V-010",
+      "title": "Money-mediated Exchange",
+      "language": "en",
+      "text_content": [
+        "Money-mediated Exchange"
+      ]
+    },
+    {
+      "id": "011",
+      "source_asset": "BD-V-011",
+      "title": "Water and Context",
+      "language": "en",
+      "text_content": [
+        "Water and Context"
+      ]
+    },
+    {
+      "id": "012",
+      "source_asset": "BD-V-012",
+      "title": "Choosing Among Goods",
+      "language": "en",
+      "text_content": [
+        "Choosing Among Goods"
+      ]
+    },
+    {
+      "id": "013",
+      "source_asset": "BD-V-013",
+      "title": "Forms of Money through History",
+      "language": "en",
+      "text_content": [
+        "Forms of Money through History"
+      ]
+    },
+    {
+      "id": "014",
+      "source_asset": "BD-V-014",
+      "title": "Participants in a Fiat System",
+      "language": "en",
+      "text_content": [
+        "Participants in a Fiat System"
+      ]
+    },
+    {
+      "id": "015",
+      "source_asset": "BD-V-015",
+      "title": "Fiat Payment Relationships",
+      "language": "en",
+      "text_content": [
+        "Fiat Payment Relationships"
+      ]
+    },
+    {
+      "id": "016",
+      "source_asset": "BD-V-016",
+      "title": "Borrowing and Repayment",
+      "language": "en",
+      "text_content": [
+        "Borrowing and Repayment"
+      ]
+    },
+    {
+      "id": "017",
+      "source_asset": "BD-V-017",
+      "title": "Liquidity and Solvency Situations",
+      "language": "en",
+      "text_content": [
+        "Liquidity and Solvency Situations"
+      ]
+    },
+    {
+      "id": "018",
+      "source_asset": "BD-V-018",
+      "title": "Changing Purchasing Power",
+      "language": "en",
+      "text_content": [
+        "Changing Purchasing Power"
+      ]
+    },
+    {
+      "id": "019",
+      "source_asset": "BD-V-019",
+      "title": "Comparing Forms of Money",
+      "language": "en",
+      "text_content": [
+        "Comparing Forms of Money"
+      ]
+    },
+    {
+      "id": "020",
+      "source_asset": "BD-V-020",
+      "title": "Considering Asset Trade-offs",
+      "language": "en",
+      "text_content": [
+        "Considering Asset Trade-offs"
+      ]
+    },
+    {
+      "id": "021",
+      "source_asset": "BD-V-021",
+      "title": "Three Alternative Assets",
+      "language": "en",
+      "text_content": [
+        "Three Alternative Assets"
+      ]
+    },
+    {
+      "id": "022",
+      "source_asset": "BD-V-022",
+      "title": "Transaction through Shared Ledger",
+      "language": "en",
+      "text_content": [
+        "Transaction through Shared Ledger"
+      ]
+    },
+    {
+      "id": "023",
+      "source_asset": "BD-V-023",
+      "title": "Ideas Combining Over Time",
+      "language": "en",
+      "text_content": [
+        "Ideas Combining Over Time"
+      ]
+    },
+    {
+      "id": "024",
+      "source_asset": "BD-V-024",
+      "title": "Checking a Conflicting Spend",
+      "language": "en",
+      "text_content": [
+        "Checking a Conflicting Spend"
+      ]
+    },
+    {
+      "id": "025",
+      "source_asset": "BD-V-025",
+      "title": "Studying Bitcoin's Early History",
+      "language": "en",
+      "text_content": [
+        "Studying Bitcoin's Early History"
+      ]
+    },
+    {
+      "id": "026",
+      "source_asset": "BD-V-026",
+      "title": "Distributed Participant Roles",
+      "language": "en",
+      "text_content": [
+        "Distributed Participant Roles"
+      ]
+    },
+    {
+      "id": "027",
+      "source_asset": "BD-V-027",
+      "title": "Checking a Supply Claim",
+      "language": "en",
+      "text_content": [
+        "Checking a Supply Claim"
+      ]
+    },
+    {
+      "id": "028",
+      "source_asset": "BD-V-028",
+      "title": "Learning About Issuance",
+      "language": "en",
+      "text_content": [
+        "Learning About Issuance"
+      ]
+    },
+    {
+      "id": "029",
+      "source_asset": "BD-V-029",
+      "title": "Understanding Divisibility",
+      "language": "en",
+      "text_content": [
+        "Understanding Divisibility"
+      ]
+    },
+    {
+      "id": "030",
+      "source_asset": "BD-V-030",
+      "title": "Peer-to-peer Communication",
+      "language": "en",
+      "text_content": [
+        "Peer-to-peer Communication"
+      ]
+    },
+    {
+      "id": "031",
+      "source_asset": "BD-V-031",
+      "title": "Four Bitcoin Roles",
+      "language": "en",
+      "text_content": [
+        "Four Bitcoin Roles"
+      ]
+    },
+    {
+      "id": "032",
+      "source_asset": "BD-V-032",
+      "title": "Mining and Independent Checks",
+      "language": "en",
+      "text_content": [
+        "Mining and Independent Checks"
+      ]
+    },
+    {
+      "id": "033",
+      "source_asset": "BD-V-033",
+      "title": "Seven Monetary Properties",
+      "language": "en",
+      "text_content": [
+        "Seven Monetary Properties"
+      ]
+    },
+    {
+      "id": "034",
+      "source_asset": "BD-V-034",
+      "title": "Benefits and Responsibilities",
+      "language": "en",
+      "text_content": [
+        "Benefits and Responsibilities"
+      ]
+    },
+    {
+      "id": "035",
+      "source_asset": "BD-V-035",
+      "title": "Wallet Controls Keys",
+      "language": "en",
+      "text_content": [
+        "Wallet Controls Keys"
+      ]
+    },
+    {
+      "id": "036",
+      "source_asset": "BD-V-036",
+      "title": "Checking Public Receiving Information",
+      "language": "en",
+      "text_content": [
+        "Checking Public Receiving Information"
+      ]
+    },
+    {
+      "id": "037",
+      "source_asset": "BD-V-037",
+      "title": "Keeping Private Keys Private",
+      "language": "en",
+      "text_content": [
+        "Keeping Private Keys Private"
+      ]
+    },
+    {
+      "id": "038",
+      "source_asset": "BD-V-038",
+      "title": "Private Wallet Recovery",
+      "language": "en",
+      "text_content": [
+        "Private Wallet Recovery"
+      ]
+    },
+    {
+      "id": "039",
+      "source_asset": "BD-V-039",
+      "title": "Who Controls the Keys",
+      "language": "en",
+      "text_content": [
+        "Who Controls the Keys"
+      ]
+    },
+    {
+      "id": "040",
+      "source_asset": "BD-V-040",
+      "title": "Comparing Custody Responsibilities",
+      "language": "en",
+      "text_content": [
+        "Comparing Custody Responsibilities"
+      ]
+    },
+    {
+      "id": "041",
+      "source_asset": "BD-V-041",
+      "title": "Different Wallet Arrangements",
+      "language": "en",
+      "text_content": [
+        "Different Wallet Arrangements"
+      ]
+    },
+    {
+      "id": "042",
+      "source_asset": "BD-V-042",
+      "title": "Connected and Offline Signing Devices",
+      "language": "en",
+      "text_content": [
+        "Connected and Offline Signing Devices"
+      ]
+    },
+    {
+      "id": "043",
+      "source_asset": "BD-V-043",
+      "title": "Safe Recovery Rehearsal",
+      "language": "en",
+      "text_content": [
+        "Safe Recovery Rehearsal"
+      ]
+    },
+    {
+      "id": "044",
+      "source_asset": "BD-V-044",
+      "title": "Receiving Notification",
+      "language": "en",
+      "text_content": [
+        "Receiving Notification"
+      ]
+    },
+    {
+      "id": "045",
+      "source_asset": "BD-V-045",
+      "title": "Check Before Sending",
+      "language": "en",
+      "text_content": [
+        "Check Before Sending"
+      ]
+    },
+    {
+      "id": "046",
+      "source_asset": "BD-V-046",
+      "title": "Understanding Confirmations",
+      "language": "en",
+      "text_content": [
+        "Understanding Confirmations"
+      ]
+    },
+    {
+      "id": "047",
+      "source_asset": "BD-V-047",
+      "title": "Pausing at a Scam Signal",
+      "language": "en",
+      "text_content": [
+        "Pausing at a Scam Signal"
+      ]
+    },
+    {
+      "id": "048",
+      "source_asset": "BD-V-048",
+      "title": "Three Acquisition Routes",
+      "language": "en",
+      "text_content": [
+        "Three Acquisition Routes"
+      ]
+    },
+    {
+      "id": "049",
+      "source_asset": "BD-V-049",
+      "title": "Examining an Exchange Route",
+      "language": "en",
+      "text_content": [
+        "Examining an Exchange Route"
+      ]
+    },
+    {
+      "id": "050",
+      "source_asset": "BD-V-050",
+      "title": "Bitcoin and Lightning Relationship",
+      "language": "en",
+      "text_content": [
+        "Bitcoin and Lightning Relationship"
+      ]
+    },
+    {
+      "id": "051",
+      "source_asset": "BD-V-051",
+      "title": "Comparing Payment Paths",
+      "language": "en",
+      "text_content": [
+        "Comparing Payment Paths"
+      ]
+    },
+    {
+      "id": "052",
+      "source_asset": "BD-V-052",
+      "title": "Responsibilities Around Keys",
+      "language": "en",
+      "text_content": [
+        "Responsibilities Around Keys"
+      ]
+    },
+    {
+      "id": "053",
+      "source_asset": "BD-V-053",
+      "title": "Reviewing Practical Responsibilities",
+      "language": "en",
+      "text_content": [
+        "Reviewing Practical Responsibilities"
+      ]
+    },
+    {
+      "id": "054",
+      "source_asset": "BD-V-054",
+      "title": "Local Learning with Purpose",
+      "language": "en",
+      "text_content": [
+        "Local Learning with Purpose"
+      ]
+    },
+    {
+      "id": "055",
+      "source_asset": "BD-V-055",
+      "title": "Community Conversation",
+      "language": "en",
+      "text_content": [
+        "Community Conversation"
+      ]
+    },
+    {
+      "id": "056",
+      "source_asset": "BD-V-056",
+      "title": "Presentation Practice Production",
+      "language": "en",
+      "text_content": [
+        "Presentation Practice Production"
+      ]
+    },
+    {
+      "id": "057",
+      "source_asset": "BD-V-057",
+      "title": "Evaluating a Local Tool",
+      "language": "en",
+      "text_content": [
+        "Evaluating a Local Tool"
+      ]
+    },
+    {
+      "id": "058",
+      "source_asset": "BD-V-058",
+      "title": "Recording a Tool Review",
+      "language": "en",
+      "text_content": [
+        "Recording a Tool Review"
+      ]
+    },
+    {
+      "id": "059",
+      "source_asset": "BD-V-059",
+      "title": "Reviewing a Lightning Request",
+      "language": "en",
+      "text_content": [
+        "Reviewing a Lightning Request"
+      ]
+    },
+    {
+      "id": "060",
+      "source_asset": "BD-V-060",
+      "title": "Everyday Uses",
+      "language": "en",
+      "text_content": [
+        "Everyday Uses"
+      ]
+    },
+    {
+      "id": "061",
+      "source_asset": "BD-V-061",
+      "title": "Coffee Purchase",
+      "language": "en",
+      "text_content": [
+        "Coffee Purchase"
+      ]
+    },
+    {
+      "id": "062",
+      "source_asset": "BD-V-062",
+      "title": "Generic Bitcoin ATM",
+      "language": "en",
+      "text_content": [
+        "Generic Bitcoin ATM"
+      ]
+    },
+    {
+      "id": "063",
+      "source_asset": "BD-V-063",
+      "title": "Comparing Local Payment Options",
+      "language": "en",
+      "text_content": [
+        "Comparing Local Payment Options"
+      ]
+    },
+    {
+      "id": "064",
+      "source_asset": "BD-V-064",
+      "title": "Identity-check Trade-offs",
+      "language": "en",
+      "text_content": [
+        "Identity-check Trade-offs"
+      ]
+    },
+    {
+      "id": "065",
+      "source_asset": "BD-V-065",
+      "title": "Circular Local Exchange",
+      "language": "en",
+      "text_content": [
+        "Circular Local Exchange"
+      ]
+    },
+    {
+      "id": "066",
+      "source_asset": "BD-V-066",
+      "title": "Merchant Accepting Bitcoin",
+      "language": "en",
+      "text_content": [
+        "Merchant Accepting Bitcoin"
+      ]
+    },
+    {
+      "id": "067",
+      "source_asset": "BD-V-067",
+      "title": "Finding and Checking Local Support",
+      "language": "en",
+      "text_content": [
+        "Finding and Checking Local Support"
+      ]
+    },
+    {
+      "id": "068",
+      "source_asset": "BD-V-068",
+      "title": "Keeping a Local Resource Record",
+      "language": "en",
+      "text_content": [
+        "Keeping a Local Resource Record"
+      ]
+    },
+    {
+      "id": "069",
+      "source_asset": "BD-V-069",
+      "title": "Choosing a Responsible Next Step",
+      "language": "en",
+      "text_content": [
+        "Choosing a Responsible Next Step"
+      ]
+    },
+    {
+      "id": "070",
+      "source_asset": "BD-V-070",
+      "title": "Community Review Discussion",
+      "language": "en",
+      "text_content": [
+        "Community Review Discussion"
+      ]
+    },
+    {
+      "id": "071",
+      "source_asset": "BD-V-071",
+      "title": "Learning Network Video Call",
+      "language": "en",
+      "text_content": [
+        "Learning Network Video Call"
+      ]
+    },
+    {
+      "id": "072",
+      "source_asset": "BD-V-072",
+      "title": "Course Completion and Safety Review",
+      "language": "en",
+      "text_content": [
+        "Course Completion and Safety Review"
+      ]
+    },
+    {
+      "id": "073",
+      "source_asset": "BD-V-073",
+      "title": "Finding Curriculum Updates",
+      "language": "en",
+      "text_content": [
+        "Finding Curriculum Updates"
+      ]
+    },
+    {
+      "id": "074",
+      "source_asset": "BD-V-074",
+      "title": "Voluntary Support for Education",
+      "language": "en",
+      "text_content": [
+        "Voluntary Support for Education"
+      ]
+    },
+    {
+      "id": "075",
+      "source_asset": "BD-V-075",
+      "title": "Educator-issued Completion Record",
+      "language": "en",
+      "text_content": [
+        "Educator-issued Completion Record"
+      ]
+    },
+    {
+      "id": "076",
+      "source_asset": "BD-V-076",
+      "title": "Learning with a Tablet",
+      "language": "en",
+      "text_content": [
+        "Learning with a Tablet"
+      ]
+    },
+    {
+      "id": "077",
+      "source_asset": "BD-V-077",
+      "title": "From Learner to Community Educator",
+      "language": "en",
+      "text_content": [
+        "From Learner to Community Educator"
+      ]
+    },
+    {
+      "id": "078",
+      "source_asset": "BD-V-078",
+      "title": "Considering a Lightning Payment Request",
+      "language": "en",
+      "text_content": [
+        "Considering a Lightning Payment Request"
+      ]
+    },
+    {
+      "id": "079",
+      "source_asset": "BD-V-079",
+      "title": "Writing a Private Offline Backup",
+      "language": "en",
+      "text_content": [
+        "Writing a Private Offline Backup"
+      ]
+    },
+    {
+      "id": "080",
+      "source_asset": "BD-V-080",
+      "title": "Lightning Sender and Receiver",
+      "language": "en",
+      "text_content": [
+        "Lightning Sender and Receiver"
+      ]
+    },
+    {
+      "id": "081",
+      "source_asset": "BD-V-081",
+      "title": "Theory and Practical Evidence",
+      "language": "en",
+      "text_content": [
+        "Theory and Practical Evidence"
+      ]
+    },
+    {
+      "id": "082",
+      "source_asset": "BD-V-082",
+      "title": "Planning Observation Time",
+      "language": "en",
+      "text_content": [
+        "Planning Observation Time"
+      ]
+    },
+    {
+      "id": "083",
+      "source_asset": "BD-V-083",
+      "title": "Connecting Tasks and Evidence Records",
+      "language": "en",
+      "text_content": [
+        "Connecting Tasks and Evidence Records"
+      ]
+    },
+    {
+      "id": "084",
+      "source_asset": "BD-V-084",
+      "title": "Support without Supplying Answers",
+      "language": "en",
+      "text_content": [
+        "Support without Supplying Answers"
+      ]
+    },
+    {
+      "id": "085",
+      "source_asset": "BD-V-085",
+      "title": "Reassessment and Calibration",
+      "language": "en",
+      "text_content": [
+        "Reassessment and Calibration"
+      ]
+    },
+    {
+      "id": "086",
+      "source_asset": "BD-V-086",
+      "title": "Teaching Resources and Evidence",
+      "language": "en",
+      "text_content": [
+        "Teaching Resources and Evidence"
+      ]
+    },
+    {
+      "id": "087",
+      "source_asset": "BD-V-087",
+      "title": "Adapting Teaching While Keeping Standards",
+      "language": "en",
+      "text_content": [
+        "Adapting Teaching While Keeping Standards"
+      ]
+    },
+    {
+      "id": "088",
+      "source_asset": "BD-V-088",
+      "title": "Educator Teaching Cycle",
+      "language": "en",
+      "text_content": [
+        "Educator Teaching Cycle"
+      ]
+    },
+    {
+      "id": "089",
+      "source_asset": "BD-V-089",
+      "title": "Equivalent Accessible Practice Routes",
+      "language": "en",
+      "text_content": [
+        "Equivalent Accessible Practice Routes"
+      ]
+    },
+    {
+      "id": "090",
+      "source_asset": "BD-V-090",
+      "title": "Stopping Unsafe Practice",
+      "language": "en",
+      "text_content": [
+        "Stopping Unsafe Practice"
+      ]
+    },
+    {
+      "id": "091",
+      "source_asset": "BD-V-091",
+      "title": "Private Learner Recovery Work",
+      "language": "en",
+      "text_content": [
+        "Private Learner Recovery Work"
+      ]
+    },
+    {
+      "id": "092",
+      "source_asset": "BD-V-092",
+      "title": "Understanding Address Linkage",
+      "language": "en",
+      "text_content": [
+        "Understanding Address Linkage"
+      ]
+    },
+    {
+      "id": "093",
+      "source_asset": "BD-V-093",
+      "title": "Practice Stations and Observation",
+      "language": "en",
+      "text_content": [
+        "Practice Stations and Observation"
+      ]
+    },
+    {
+      "id": "094",
+      "source_asset": "BD-V-094",
+      "title": "Preparing a Course",
+      "language": "en",
+      "text_content": [
+        "Preparing a Course"
+      ]
+    },
+    {
+      "id": "095",
+      "source_asset": "BD-V-095",
+      "title": "Readiness Before Live Practice",
+      "language": "en",
+      "text_content": [
+        "Readiness Before Live Practice"
+      ]
+    },
+    {
+      "id": "096",
+      "source_asset": "BD-V-096",
+      "title": "Separate Shared-fund Responsibilities",
+      "language": "en",
+      "text_content": [
+        "Separate Shared-fund Responsibilities"
+      ]
+    },
+    {
+      "id": "097",
+      "source_asset": "BD-V-097",
+      "title": "Translation Review and Learner Testing",
+      "language": "en",
+      "text_content": [
+        "Translation Review and Learner Testing"
+      ]
+    },
+    {
+      "id": "098",
+      "source_asset": "BD-V-098",
+      "title": "Practice and Formal Assessment",
+      "language": "en",
+      "text_content": [
+        "Practice and Formal Assessment"
+      ]
+    },
+    {
+      "id": "099",
+      "source_asset": "BD-V-099",
+      "title": "Verifying Changing Local Claims",
+      "language": "en",
+      "text_content": [
+        "Verifying Changing Local Claims"
+      ]
+    },
+    {
+      "id": "100",
+      "source_asset": "BD-V-100",
+      "title": "Different Control Relationships",
+      "language": "en",
+      "text_content": [
+        "Different Control Relationships"
+      ]
+    },
+    {
+      "id": "101",
+      "source_asset": "BD-V-101",
+      "title": "Reconsidering Changed Conditions",
+      "language": "en",
+      "text_content": [
+        "Reconsidering Changed Conditions"
+      ]
+    }
+  ]
+}

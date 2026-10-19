@@ -1,0 +1,588 @@
+{
+  "schema_version": 1,
+  "verified_on": "2026-10-19",
+  "count": 34,
+  "path_base": "file and svg_file are relative to this metadata directory; guide_file and recorded_asset_path are repository-relative.",
+  "filename_pattern": "../png/bd-illustration-###-hd.png",
+  "scope": "Guide scenes; 17 Student Guide and 17 Educator Guide illustration markers. Recorded guide paths are reported as found.",
+  "assets": [
+    {
+      "id": "bd-illustration-001",
+      "file": "../png/bd-illustration-001-hd.png",
+      "svg_file": "../svg/bd-illustration-001.svg",
+      "width": 3505,
+      "height": 4962,
+      "sha256": "3331367066b53f1427ac40f65522058e7fc1b18a1f12a1b323ff2ad3a64c94b5",
+      "placement": {
+        "guide": "Student Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-sg-26.10.md",
+        "section": "Discussion and [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy) expectations",
+        "marker_line": 178,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-001.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator responds to the beginner learner's raised hand while the older learner follows along with an open course guide."
+      }
+    },
+    {
+      "id": "bd-illustration-002",
+      "file": "../png/bd-illustration-002-hd.png",
+      "svg_file": "../svg/bd-illustration-002.svg",
+      "width": 3505,
+      "height": 4962,
+      "sha256": "954f152084b04e78920483d2df0181037ce3b0657fac1371bbe7f4a95ff16121",
+      "placement": {
+        "guide": "Student Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-sg-26.10.md",
+        "section": "[Decentralization](https://programs.myfirstbitcoin.org/lexicon/en/#decentralization)",
+        "marker_line": 760,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-002.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator points to a network on a classroom screen while the beginner and technical learners discuss it at a desk."
+      }
+    },
+    {
+      "id": "bd-illustration-003",
+      "file": "../png/bd-illustration-003-hd.png",
+      "svg_file": "../svg/bd-illustration-003.svg",
+      "width": 3505,
+      "height": 4962,
+      "sha256": "bc51f57fe91d10b3e2c71bad8185826aeb539fe1bfdcf1c35015266dd955b553",
+      "placement": {
+        "guide": "Student Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-sg-26.10.md",
+        "section": "Users, [nodes](https://programs.myfirstbitcoin.org/lexicon/en/#node), [miners](https://programs.myfirstbitcoin.org/lexicon/en/#miner), and developers",
+        "marker_line": 818,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-003.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator guides the technical learner at a node computer, with the monitor facing them and its rear casing visible to the viewer."
+      }
+    },
+    {
+      "id": "bd-illustration-004",
+      "file": "../png/bd-illustration-004-hd.png",
+      "svg_file": "../svg/bd-illustration-004.svg",
+      "width": 3503,
+      "height": 4962,
+      "sha256": "5d99125d0eac9d5020707df842782b2a5d2014b9e3dbd53d11f97d737c0d04d8",
+      "placement": {
+        "guide": "Student Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-sg-26.10.md",
+        "section": "[Proof of work](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work)",
+        "marker_line": 849,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-004.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator, beginner learner, and technical learner discuss a tabletop mining unit with a fan and separate power supply."
+      }
+    },
+    {
+      "id": "bd-illustration-005",
+      "file": "../png/bd-illustration-005-hd.png",
+      "svg_file": "../svg/bd-illustration-005.svg",
+      "width": 3505,
+      "height": 4962,
+      "sha256": "ca277823e63016c557ceda331f0064f886d9a2e0a5ac0ab2edcf6686edbeb34f",
+      "placement": {
+        "guide": "Student Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-sg-26.10.md",
+        "section": "Wallets",
+        "marker_line": 1110,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-005.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator demonstrates a training phone while the beginner and older learners examine their own devices."
+      }
+    },
+    {
+      "id": "bd-illustration-006",
+      "file": "../png/bd-illustration-006-hd.png",
+      "svg_file": "../svg/bd-illustration-006.svg",
+      "width": 3505,
+      "height": 4962,
+      "sha256": "84d4894e596c1c2fb56a309d18fc0dffcbc30954a474319316a5c6e0e3aa3d23",
+      "placement": {
+        "guide": "Student Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-sg-26.10.md",
+        "section": "Hot and [cold wallets](https://programs.myfirstbitcoin.org/lexicon/en/#cold-wallet-cold-storage)",
+        "marker_line": 1261,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-006.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator helps the older and technical learners compare a phone, a hardware wallet, and a laptop."
+      }
+    },
+    {
+      "id": "bd-illustration-007",
+      "file": "../png/bd-illustration-007-hd.png",
+      "svg_file": "../svg/bd-illustration-007.svg",
+      "width": 3505,
+      "height": 4962,
+      "sha256": "61751fa29b7632255e80a27fda4a8a33264de46c3fdf420ca878dc97895bc81f",
+      "placement": {
+        "guide": "Student Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-sg-26.10.md",
+        "section": "Receiving bitcoin",
+        "marker_line": 1309,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-007.png",
+        "recorded_asset_exists": false,
+        "alt": "The older learner presents a training phone while the beginner checks another phone and the educator guides the comparison."
+      }
+    },
+    {
+      "id": "bd-illustration-008",
+      "file": "../png/bd-illustration-008-hd.png",
+      "svg_file": "../svg/bd-illustration-008.svg",
+      "width": 3511,
+      "height": 4962,
+      "sha256": "71c60ca6f71010353cef682eade54d5046afb9f58d431e5c3c41655b61bdac87",
+      "placement": {
+        "guide": "Student Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-sg-26.10.md",
+        "section": "Sending bitcoin",
+        "marker_line": 1340,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-008.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator guides the beginner learner as they compare a phone with the business owner's receiving device before approving a payment."
+      }
+    },
+    {
+      "id": "bd-illustration-009",
+      "file": "../png/bd-illustration-009-hd.png",
+      "svg_file": "../svg/bd-illustration-009.svg",
+      "width": 3505,
+      "height": 4962,
+      "sha256": "44c53bb2378e8cfb9ddcd8e73eca1d321d50b0db97254273742620f08b4f3819",
+      "placement": {
+        "guide": "Student Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-sg-26.10.md",
+        "section": "[Verification](https://programs.myfirstbitcoin.org/lexicon/en/#verification), [block explorers](https://programs.myfirstbitcoin.org/lexicon/en/#block-explorer), and irreversible [transactions](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx)",
+        "marker_line": 1364,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-009.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator and older learner discuss a prepared example on a monitor facing the group while the technical learner operates the mouse; the viewer sees the rear casing."
+      }
+    },
+    {
+      "id": "bd-illustration-010",
+      "file": "../png/bd-illustration-010-hd.png",
+      "svg_file": "../svg/bd-illustration-010.svg",
+      "width": 3511,
+      "height": 4962,
+      "sha256": "2fdbf6b48173b195daf60a640a073ab7840c1ed21e060ae1bb771e3366af1df9",
+      "placement": {
+        "guide": "Student Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-sg-26.10.md",
+        "section": "On-chain and Lightning payments",
+        "marker_line": 1460,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-010.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator points to two different geometric payment paths on a board while the beginner and technical learners consider them."
+      }
+    },
+    {
+      "id": "bd-illustration-011",
+      "file": "../png/bd-illustration-011-hd.png",
+      "svg_file": "../svg/bd-illustration-011.svg",
+      "width": 3511,
+      "height": 4962,
+      "sha256": "0a38ae8a2f6ca075d72032a6eaa6ea769c4f2da0641391d3982ed0c83ec15a50",
+      "placement": {
+        "guide": "Student Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-sg-26.10.md",
+        "section": "Local spending and receiving scenarios",
+        "marker_line": 1775,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-011.png",
+        "recorded_asset_exists": false,
+        "alt": "The beginner and business owner check separate phones beside groceries on a counter as the educator guides the practice."
+      }
+    },
+    {
+      "id": "bd-illustration-012",
+      "file": "../png/bd-illustration-012-hd.png",
+      "svg_file": "../svg/bd-illustration-012.svg",
+      "width": 3511,
+      "height": 4962,
+      "sha256": "d00f41cb6958d0ad63f061e1009d2767ddf3874063137bd7510a212529992abd",
+      "placement": {
+        "guide": "Student Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-sg-26.10.md",
+        "section": "Circular economies",
+        "marker_line": 1877,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-012.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator facilitates a discussion with the beginner, older learner, and business owner around guides, a phone, and everyday goods."
+      }
+    },
+    {
+      "id": "bd-illustration-013",
+      "file": "../png/bd-illustration-013-hd.png",
+      "svg_file": "../svg/bd-illustration-013.svg",
+      "width": 3505,
+      "height": 4962,
+      "sha256": "2ef8bf4e2ebf2fb26b71b3b66aad8ea898c1889fe413ab547b0a1017233e288a",
+      "placement": {
+        "guide": "Educator Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-eg-26.10.md",
+        "section": "The page-by-page teaching rhythm",
+        "marker_line": 318,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-013.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator points to a diagram in an open course guide as the beginner and older learner follow along in their own guides."
+      }
+    },
+    {
+      "id": "bd-illustration-014",
+      "file": "../png/bd-illustration-014-hd.png",
+      "svg_file": "../svg/bd-illustration-014.svg",
+      "width": 3497,
+      "height": 4962,
+      "sha256": "75f850ca8215ac2af8076aa216043f1c11357e5ea6ceb8f0c4f16aff9a2ab8f6",
+      "placement": {
+        "guide": "Educator Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-eg-26.10.md",
+        "section": "Welcome disagreement and correct error",
+        "marker_line": 556,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-014.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator listens to the beginner learner's question while the older learner follows the conversation with an open guide."
+      }
+    },
+    {
+      "id": "bd-illustration-015",
+      "file": "../png/bd-illustration-015-hd.png",
+      "svg_file": "../svg/bd-illustration-015.svg",
+      "width": 3505,
+      "height": 4962,
+      "sha256": "59e96019fb4f218735d0cd84e13f2e322e526c9220aa3a4e8530cf32dab7640b",
+      "placement": {
+        "guide": "Educator Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-eg-26.10.md",
+        "section": "Think–pair–share",
+        "marker_line": 781,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-015.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator invites a discussion while the beginner and older learners compare guides and the business owner contributes."
+      }
+    },
+    {
+      "id": "bd-illustration-016",
+      "file": "../png/bd-illustration-016-hd.png",
+      "svg_file": "../svg/bd-illustration-016.svg",
+      "width": 3505,
+      "height": 4962,
+      "sha256": "b5a16d9a210ac612c3709d83513791016613795cd7cad368525da1c43b33d25b",
+      "placement": {
+        "guide": "Educator Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-eg-26.10.md",
+        "section": "Demonstration with prediction",
+        "marker_line": 826,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-016.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator pauses a phone demonstration to invite predictions from the beginner and technical learners."
+      }
+    },
+    {
+      "id": "bd-illustration-017",
+      "file": "../png/bd-illustration-017-hd.png",
+      "svg_file": "../svg/bd-illustration-017.svg",
+      "width": 3505,
+      "height": 4962,
+      "sha256": "9fbd7e8f92a88f74c3807c94d494ee35c8f122a5e67e9e67713a02dc77b7ca3d",
+      "placement": {
+        "guide": "Educator Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-eg-26.10.md",
+        "section": "Low-tech teaching: focus on interaction",
+        "marker_line": 879,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-017.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator and older learner arrange teaching cards while the young learner participates with a notebook."
+      }
+    },
+    {
+      "id": "bd-illustration-018",
+      "file": "../png/bd-illustration-018-hd.png",
+      "svg_file": "../svg/bd-illustration-018.svg",
+      "width": 3511,
+      "height": 4962,
+      "sha256": "211298a05ed76ab193a70a354a95cd16fc5ee2533de0c54e22a428aa5b4868e7",
+      "placement": {
+        "guide": "Educator Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-eg-26.10.md",
+        "section": "Universal stop conditions",
+        "marker_line": 980,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-018.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator raises an open palm to pause an activity while the beginner lowers a phone and the technical learner partly closes a laptop."
+      }
+    },
+    {
+      "id": "bd-illustration-019",
+      "file": "../png/bd-illustration-019-hd.png",
+      "svg_file": "../svg/bd-illustration-019.svg",
+      "width": 3505,
+      "height": 4962,
+      "sha256": "c662fbceae41dbc9ec7dd753ebd2b1019595e5f20b6ca606e4cf75d848aaed55",
+      "placement": {
+        "guide": "Educator Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-eg-26.10.md",
+        "section": "Barter and the double coincidence of wants",
+        "marker_line": 1164,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-019.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator facilitates a direct-exchange activity between the beginner holding a notebook and the business owner holding groceries."
+      }
+    },
+    {
+      "id": "bd-illustration-020",
+      "file": "../png/bd-illustration-020-hd.png",
+      "svg_file": "../svg/bd-illustration-020.svg",
+      "width": 3505,
+      "height": 4962,
+      "sha256": "f97376df4e78a774e4a9e7004d7cac7e465ddeadcca0657645345239e718980d",
+      "placement": {
+        "guide": "Educator Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-eg-26.10.md",
+        "section": "Decentralization and peer-to-peer transfer",
+        "marker_line": 1574,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-020.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator uses a pointer to explain a network on a presentation board to the beginner and technical learners."
+      }
+    },
+    {
+      "id": "bd-illustration-021",
+      "file": "../png/bd-illustration-021-hd.png",
+      "svg_file": "../svg/bd-illustration-021.svg",
+      "width": 3505,
+      "height": 4962,
+      "sha256": "0b3fc5aa79e3b5b805b647dcb070ad7e0234003d530ce922b8ef989f9f8eaa85",
+      "placement": {
+        "guide": "Educator Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-eg-26.10.md",
+        "section": "Proof of work",
+        "marker_line": 1640,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-021.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator and technical learner indicate separate mining and node devices while the older learner participates with a guide."
+      }
+    },
+    {
+      "id": "bd-illustration-022",
+      "file": "../png/bd-illustration-022-hd.png",
+      "svg_file": "../svg/bd-illustration-022.svg",
+      "width": 3505,
+      "height": 4962,
+      "sha256": "b83f41071724f7946e14505016eddbc0cc9a5a773c8f097ffc3b9373fa6233be",
+      "placement": {
+        "guide": "Educator Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-eg-26.10.md",
+        "section": "Activity: recovery-readiness simulation",
+        "marker_line": 2138,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-022.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator guides a recovery-readiness discussion as the older learner places a blank training card in an envelope and the technical learner watches."
+      }
+    },
+    {
+      "id": "bd-illustration-023",
+      "file": "../png/bd-illustration-023-hd.png",
+      "svg_file": "../svg/bd-illustration-023.svg",
+      "width": 3503,
+      "height": 4962,
+      "sha256": "07c37d32c5c1a05230c5b95017f63cae86379ebbdb0f31d33cdd8fec97178bb9",
+      "placement": {
+        "guide": "Educator Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-eg-26.10.md",
+        "section": "Module option D: merchant payment and refund flow",
+        "marker_line": 2854,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-023.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator points to a blank record card while the beginner and business owner check training phones at a merchant counter."
+      }
+    },
+    {
+      "id": "bd-illustration-024",
+      "file": "../png/bd-illustration-024-hd.png",
+      "svg_file": "../svg/bd-illustration-024.svg",
+      "width": 3503,
+      "height": 4962,
+      "sha256": "1d3db63c6d24fc8ae323d774932dae7b5284c859f379ac8f8b9c68648ed3ec87",
+      "placement": {
+        "guide": "Educator Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-eg-26.10.md",
+        "section": "Capstone discussion",
+        "marker_line": 3404,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-024.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator invites a final explanation from the older learner while the beginner and business owner listen with their guides."
+      }
+    },
+    {
+      "id": "bd-illustration-025",
+      "file": "../png/bd-illustration-025-hd.png",
+      "svg_file": "../svg/bd-illustration-025.svg",
+      "width": 3505,
+      "height": 4962,
+      "sha256": "0981c1d6d5e3fc5c8c94ffbd4cf4c59e73cb79797101ccf5dbe7aebada8ff4e9",
+      "placement": {
+        "guide": "Student Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-sg-26.10.md",
+        "section": "About Us",
+        "marker_line": 32,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-025.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator welcomes the beginner, older learner, business owner, technical learner, and young learner into a shared learning group."
+      }
+    },
+    {
+      "id": "bd-illustration-026",
+      "file": "../png/bd-illustration-026-hd.png",
+      "svg_file": "../svg/bd-illustration-026.svg",
+      "width": 3503,
+      "height": 4962,
+      "sha256": "017b58d2d938910943d50d689915f90b333a60ec3c2e5fcba8b4a6667b88cb01",
+      "placement": {
+        "guide": "Student Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-sg-26.10.md",
+        "section": "Opening questions about money",
+        "marker_line": 288,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-026.png",
+        "recorded_asset_exists": false,
+        "alt": "All six characters gather around classroom tables as the educator leads a shared reading from an open course guide."
+      }
+    },
+    {
+      "id": "bd-illustration-027",
+      "file": "../png/bd-illustration-027-hd.png",
+      "svg_file": "../svg/bd-illustration-027.svg",
+      "width": 3503,
+      "height": 4962,
+      "sha256": "b97ebe6e66615b1c711a29c303a8585d6994c13a7f19a773ae96a71b5a299a32",
+      "placement": {
+        "guide": "Educator Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-eg-26.10.md",
+        "section": "Open the course with clear expectations",
+        "marker_line": 523,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-027.png",
+        "recorded_asset_exists": false,
+        "alt": "The young learner asks a question while the educator listens and the other four learners follow the discussion."
+      }
+    },
+    {
+      "id": "bd-illustration-028",
+      "file": "../png/bd-illustration-028-hd.png",
+      "svg_file": "../svg/bd-illustration-028.svg",
+      "width": 3503,
+      "height": 4962,
+      "sha256": "839f67409625924b4b38a7e6a584d01011ad0649ebdb4de968d927c0046a1f55",
+      "placement": {
+        "guide": "Student Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-sg-26.10.md",
+        "section": "Functions and properties of money",
+        "marker_line": 353,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-028.png",
+        "recorded_asset_exists": false,
+        "alt": "All six characters collaborate on an offline teaching-card activity while the educator guides the discussion."
+      }
+    },
+    {
+      "id": "bd-illustration-029",
+      "file": "../png/bd-illustration-029-hd.png",
+      "svg_file": "../svg/bd-illustration-029.svg",
+      "width": 3505,
+      "height": 4962,
+      "sha256": "d8c599e5cb1878e7086fb91d43d72fc9e6d315d297dd3fd5c18679e57c2b0494",
+      "placement": {
+        "guide": "Educator Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-eg-26.10.md",
+        "section": "14. Use visuals as teaching tools",
+        "marker_line": 3382,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-029.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator explains six interconnected peers on a whiteboard to all five learners, including the young learner in an orange beanie."
+      }
+    },
+    {
+      "id": "bd-illustration-030",
+      "file": "../png/bd-illustration-030-hd.png",
+      "svg_file": "../svg/bd-illustration-030.svg",
+      "width": 3503,
+      "height": 4962,
+      "sha256": "864539d2361294ed930eeaf2e6796efbadbfa049bbc8a7fb68bb171d672eafd0",
+      "placement": {
+        "guide": "Educator Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-eg-26.10.md",
+        "section": "Debrief every activity",
+        "marker_line": 862,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-030.png",
+        "recorded_asset_exists": false,
+        "alt": "The older learner shares a reflection as the educator and the other four learners listen around a classroom table."
+      }
+    },
+    {
+      "id": "bd-illustration-031",
+      "file": "../png/bd-illustration-031-hd.png",
+      "svg_file": "../svg/bd-illustration-031.svg",
+      "width": 3503,
+      "height": 4962,
+      "sha256": "90d8e9f8668480d3f6995c9ac24d669af9ca054ad8513227a3a46c7fb327f2df",
+      "placement": {
+        "guide": "Student Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-sg-26.10.md",
+        "section": "Practical workshops and demonstrations",
+        "marker_line": 1588,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-031.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator and business owner practise with a training phone together, both looking at the screen facing them."
+      }
+    },
+    {
+      "id": "bd-illustration-032",
+      "file": "../png/bd-illustration-032-hd.png",
+      "svg_file": "../svg/bd-illustration-032.svg",
+      "width": 3503,
+      "height": 4962,
+      "sha256": "aedfec58fe60c3330d0ad886fe0ed13bcc1ede4fc8591e35329aebd3219c935b",
+      "placement": {
+        "guide": "Educator Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-eg-26.10.md",
+        "section": "Strong Module 2 activities",
+        "marker_line": 1803,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-032.png",
+        "recorded_asset_exists": false,
+        "alt": "The business owner explains a network of peers while the educator listens and the young learner follows with a notebook."
+      }
+    },
+    {
+      "id": "bd-illustration-033",
+      "file": "../png/bd-illustration-033-hd.png",
+      "svg_file": "../svg/bd-illustration-033.svg",
+      "width": 3503,
+      "height": 4962,
+      "sha256": "a4bf3269b31b0544506bad7d84ac5bb806155ce08346ff2870b0d4349d681bf7",
+      "placement": {
+        "guide": "Student Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-sg-26.10.md",
+        "section": "Flexible learning",
+        "marker_line": 152,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-033.png",
+        "recorded_asset_exists": false,
+        "alt": "The business owner points to a simple diagram in an open guide while the educator discusses it with her at a classroom table."
+      }
+    },
+    {
+      "id": "bd-illustration-034",
+      "file": "../png/bd-illustration-034-hd.png",
+      "svg_file": "../svg/bd-illustration-034.svg",
+      "width": 3503,
+      "height": 4962,
+      "sha256": "6530b1bfdabdde895d65df9ff4f44922b62661482fbb4eb781086419ec874b13",
+      "placement": {
+        "guide": "Educator Guide",
+        "guide_file": "publish/mfb-bd-26.10/mfb-bd-eg-26.10.md",
+        "section": "Activity purpose comes first",
+        "marker_line": 3235,
+        "recorded_asset_path": "assets/illustrations/png/no-text/bd-illustration-034.png",
+        "recorded_asset_exists": false,
+        "alt": "The educator guides the business owner and young learner as they compare blank teaching cards at a table."
+      }
+    }
+  ]
+}

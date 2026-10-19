@@ -317,7 +317,7 @@ The headings are deliberately repetitive. That repetition is a navigation aid fo
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-013
 ALT: The educator points to a diagram in an open course guide as the beginner and older learner follow along in their own guides.
-ASSET: assets/illustrations/bd-illustration-013.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-013.png
 -->
 
 ### Words you can use when you are unsure
@@ -522,7 +522,7 @@ Establish these participation agreements:
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-027
 ALT: The young learner asks a question while the educator listens and the other four learners follow the discussion.
-ASSET: assets/illustrations/bd-illustration-027.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-027.png
 -->
 
 ### Teach how to think, not what to think
@@ -555,7 +555,7 @@ Correct factual errors clearly and respectfully. Do not avoid correction in the 
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-014
 ALT: The educator listens to the beginner learner's question while the older learner follows the conversation with an open guide.
-ASSET: assets/illustrations/bd-illustration-014.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-014.png
 -->
 
 ### Protect participation without forcing disclosure
@@ -780,7 +780,7 @@ Use this when a few confident learners may otherwise dominate.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-015
 ALT: The educator invites a discussion while the beginner and older learners compare guides and the business owner contributes.
-ASSET: assets/illustrations/bd-illustration-015.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-015.png
 -->
 
 ### Claim, evidence, reasoning, and trade-off
@@ -825,7 +825,7 @@ Before each step of a demonstration, ask learners what should happen and what sh
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-016
 ALT: The educator pauses a phone demonstration to invite predictions from the beginner and technical learners.
-ASSET: assets/illustrations/bd-illustration-016.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-016.png
 -->
 
 ### Exit explanation
@@ -861,7 +861,7 @@ Correct misleading effects created by the activity. A token [bank-run](https://p
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-030
 ALT: The older learner shares a reflection as the educator and the other four learners listen around a classroom table.
-ASSET: assets/illustrations/bd-illustration-030.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-030.png
 -->
 
 ### Handle rabbit holes
@@ -878,7 +878,7 @@ More tools can bring more complexity. Add a tool when it helps learners understa
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-017
 ALT: The educator and older learner arrange teaching cards while the young learner participates with a notebook.
-ASSET: assets/illustrations/bd-illustration-017.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-017.png
 -->
 
 ### Media and tool fallbacks
@@ -979,7 +979,7 @@ USE: Educator-only diagram; see the asset index brief.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-018
 ALT: The educator raises an open palm to pause an activity while the beginner lowers a phone and the technical learner partly closes a laptop.
-ASSET: assets/illustrations/bd-illustration-018.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-018.png
 -->
 
 ### No real secrets in class
@@ -1163,7 +1163,7 @@ If using a game, debrief its simplifications. Real exchange includes relationshi
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-019
 ALT: The educator facilitates a direct-exchange activity between the beginner holding a notebook and the business owner holding groceries.
-ASSET: assets/illustrations/bd-illustration-019.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-019.png
 -->
 
 ### Scarcity, value, and exchange
@@ -1573,7 +1573,7 @@ USE: Shared Student Guide master.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-020
 ALT: The educator uses a pointer to explain a network on a presentation board to the beginner and technical learners.
-ASSET: assets/illustrations/bd-illustration-020.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-020.png
 -->
 
 ### Users, nodes, miners, and developers
@@ -1639,7 +1639,7 @@ Detailed energy statistics and [mining](https://programs.myfirstbitcoin.org/lexi
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-021
 ALT: The educator and technical learner indicate separate mining and node devices while the older learner participates with a guide.
-ASSET: assets/illustrations/bd-illustration-021.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-021.png
 -->
 
 ### Finite supply and halving
@@ -1802,7 +1802,7 @@ Use [consensus](https://programs.myfirstbitcoin.org/lexicon/en/#consensus) games
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-032
 ALT: The business owner explains a network of peers while the educator listens and the young learner follows with a notebook.
-ASSET: assets/illustrations/bd-illustration-032.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-032.png
 -->
 
 ### Module 2 educator-led theoretical touchpoint
@@ -2137,7 +2137,7 @@ Inheritance, [multisignature](https://programs.myfirstbitcoin.org/lexicon/en/#mu
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-022
 ALT: The educator guides a recovery-readiness discussion as the older learner places a blank training card in an envelope and the technical learner watches.
-ASSET: assets/illustrations/bd-illustration-022.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-022.png
 -->
 
 ### Custodial and self-custodial use
@@ -2853,7 +2853,7 @@ USE: Shared Student Guide master.
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-023
 ALT: The educator points to a blank record card while the beginner and business owner check training phones at a merchant counter.
-ASSET: assets/illustrations/bd-illustration-023.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-023.png
 -->
 
 ### Module option E: community donation
@@ -3234,7 +3234,7 @@ Activities in the [Activity Library](https://programs.myfirstbitcoin.org/activit
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-034
 ALT: The educator guides the business owner and young learner as they compare blank teaching cards at a table.
-ASSET: assets/illustrations/bd-illustration-034.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-034.png
 -->
 
 ### Assessment activity crosswalk
@@ -3381,7 +3381,7 @@ Do not turn a qualified text claim into an absolute visual. A supply chart must 
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-029
 ALT: The educator explains six interconnected peers on a whiteboard to all five learners, including the young learner in an orange beanie.
-ASSET: assets/illustrations/bd-illustration-029.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-029.png
 -->
 
 ## 15. Close the Bitcoin Diploma well
@@ -3403,7 +3403,7 @@ Ask learners to support answers with a course concept and an example, not a slog
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-024
 ALT: The educator invites a final explanation from the older learner while the beginner and business owner listen with their guides.
-ASSET: assets/illustrations/bd-illustration-024.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-024.png
 -->
 
 ### Final personal learning reflection (`F2`)

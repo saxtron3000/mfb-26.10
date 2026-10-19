@@ -1,0 +1,1734 @@
+{
+  "schema_version": 2,
+  "verified_on": "2026-10-19",
+  "base": "assets/illustrations",
+  "scope": "Current artwork and known historical paths with matching SHA-256 hashes. Previous paths are historical aliases, not available files. Artwork absent from the current library has no current-path record.",
+  "current_image_file_count": 169,
+  "files": [
+    {
+      "current_path": "png/bd-illustration-001-hd.png",
+      "sha256": "3331367066b53f1427ac40f65522058e7fc1b18a1f12a1b323ff2ad3a64c94b5",
+      "bytes": 2473645,
+      "previous_paths": [
+        "HD/bd-illustration-001-hd.png",
+        "png-hd/no-text/bd-illustration-001-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-002-hd.png",
+      "sha256": "954f152084b04e78920483d2df0181037ce3b0657fac1371bbe7f4a95ff16121",
+      "bytes": 2463451,
+      "previous_paths": [
+        "HD/bd-illustration-002-hd.png",
+        "png-hd/no-text/bd-illustration-002-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-003-hd.png",
+      "sha256": "bc51f57fe91d10b3e2c71bad8185826aeb539fe1bfdcf1c35015266dd955b553",
+      "bytes": 2550537,
+      "previous_paths": [
+        "HD/bd-illustration-003-hd.png",
+        "png-hd/no-text/bd-illustration-003-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-004-hd.png",
+      "sha256": "5d99125d0eac9d5020707df842782b2a5d2014b9e3dbd53d11f97d737c0d04d8",
+      "bytes": 3229269,
+      "previous_paths": [
+        "HD/bd-illustration-004-hd.png",
+        "png-hd/no-text/bd-illustration-004-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-005-hd.png",
+      "sha256": "ca277823e63016c557ceda331f0064f886d9a2e0a5ac0ab2edcf6686edbeb34f",
+      "bytes": 2925867,
+      "previous_paths": [
+        "HD/bd-illustration-005-hd.png",
+        "png-hd/no-text/bd-illustration-005-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-006-hd.png",
+      "sha256": "84d4894e596c1c2fb56a309d18fc0dffcbc30954a474319316a5c6e0e3aa3d23",
+      "bytes": 2859555,
+      "previous_paths": [
+        "HD/bd-illustration-006-hd.png",
+        "png-hd/no-text/bd-illustration-006-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-007-hd.png",
+      "sha256": "61751fa29b7632255e80a27fda4a8a33264de46c3fdf420ca878dc97895bc81f",
+      "bytes": 2787153,
+      "previous_paths": [
+        "HD/bd-illustration-007-hd.png",
+        "png-hd/no-text/bd-illustration-007-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-008-hd.png",
+      "sha256": "71c60ca6f71010353cef682eade54d5046afb9f58d431e5c3c41655b61bdac87",
+      "bytes": 2343376,
+      "previous_paths": [
+        "HD/bd-illustration-008-hd.png",
+        "png-hd/no-text/bd-illustration-008-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-009-hd.png",
+      "sha256": "44c53bb2378e8cfb9ddcd8e73eca1d321d50b0db97254273742620f08b4f3819",
+      "bytes": 2635373,
+      "previous_paths": [
+        "HD/bd-illustration-009-hd.png",
+        "png-hd/no-text/bd-illustration-009-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-010-hd.png",
+      "sha256": "2fdbf6b48173b195daf60a640a073ab7840c1ed21e060ae1bb771e3366af1df9",
+      "bytes": 2412644,
+      "previous_paths": [
+        "HD/bd-illustration-010-hd.png",
+        "png-hd/no-text/bd-illustration-010-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-011-hd.png",
+      "sha256": "0a38ae8a2f6ca075d72032a6eaa6ea769c4f2da0641391d3982ed0c83ec15a50",
+      "bytes": 2196782,
+      "previous_paths": [
+        "HD/bd-illustration-011-hd.png",
+        "png-hd/no-text/bd-illustration-011-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-012-hd.png",
+      "sha256": "d00f41cb6958d0ad63f061e1009d2767ddf3874063137bd7510a212529992abd",
+      "bytes": 2611732,
+      "previous_paths": [
+        "HD/bd-illustration-012-hd.png",
+        "png-hd/no-text/bd-illustration-012-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-013-hd.png",
+      "sha256": "2ef8bf4e2ebf2fb26b71b3b66aad8ea898c1889fe413ab547b0a1017233e288a",
+      "bytes": 2634127,
+      "previous_paths": [
+        "HD/bd-illustration-013-hd.png",
+        "png-hd/no-text/bd-illustration-013-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-014-hd.png",
+      "sha256": "75f850ca8215ac2af8076aa216043f1c11357e5ea6ceb8f0c4f16aff9a2ab8f6",
+      "bytes": 2680242,
+      "previous_paths": [
+        "HD/bd-illustration-014-hd.png",
+        "png-hd/no-text/bd-illustration-014-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-015-hd.png",
+      "sha256": "59e96019fb4f218735d0cd84e13f2e322e526c9220aa3a4e8530cf32dab7640b",
+      "bytes": 2647237,
+      "previous_paths": [
+        "HD/bd-illustration-015-hd.png",
+        "png-hd/no-text/bd-illustration-015-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-016-hd.png",
+      "sha256": "b5a16d9a210ac612c3709d83513791016613795cd7cad368525da1c43b33d25b",
+      "bytes": 2700122,
+      "previous_paths": [
+        "HD/bd-illustration-016-hd.png",
+        "png-hd/no-text/bd-illustration-016-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-017-hd.png",
+      "sha256": "9fbd7e8f92a88f74c3807c94d494ee35c8f122a5e67e9e67713a02dc77b7ca3d",
+      "bytes": 2549059,
+      "previous_paths": [
+        "HD/bd-illustration-017-hd.png",
+        "png-hd/no-text/bd-illustration-017-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-018-hd.png",
+      "sha256": "211298a05ed76ab193a70a354a95cd16fc5ee2533de0c54e22a428aa5b4868e7",
+      "bytes": 2619903,
+      "previous_paths": [
+        "HD/bd-illustration-018-hd.png",
+        "png-hd/no-text/bd-illustration-018-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-019-hd.png",
+      "sha256": "c662fbceae41dbc9ec7dd753ebd2b1019595e5f20b6ca606e4cf75d848aaed55",
+      "bytes": 2535140,
+      "previous_paths": [
+        "HD/bd-illustration-019-hd.png",
+        "png-hd/no-text/bd-illustration-019-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-020-hd.png",
+      "sha256": "f97376df4e78a774e4a9e7004d7cac7e465ddeadcca0657645345239e718980d",
+      "bytes": 2561468,
+      "previous_paths": [
+        "HD/bd-illustration-020-hd.png",
+        "png-hd/no-text/bd-illustration-020-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-021-hd.png",
+      "sha256": "0b3fc5aa79e3b5b805b647dcb070ad7e0234003d530ce922b8ef989f9f8eaa85",
+      "bytes": 2721212,
+      "previous_paths": [
+        "HD/bd-illustration-021-hd.png",
+        "png-hd/no-text/bd-illustration-021-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-022-hd.png",
+      "sha256": "b83f41071724f7946e14505016eddbc0cc9a5a773c8f097ffc3b9373fa6233be",
+      "bytes": 2697462,
+      "previous_paths": [
+        "HD/bd-illustration-022-hd.png",
+        "png-hd/no-text/bd-illustration-022-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-023-hd.png",
+      "sha256": "07c37d32c5c1a05230c5b95017f63cae86379ebbdb0f31d33cdd8fec97178bb9",
+      "bytes": 2377575,
+      "previous_paths": [
+        "HD/bd-illustration-023-hd.png",
+        "png-hd/no-text/bd-illustration-023-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-024-hd.png",
+      "sha256": "1d3db63c6d24fc8ae323d774932dae7b5284c859f379ac8f8b9c68648ed3ec87",
+      "bytes": 2442032,
+      "previous_paths": [
+        "HD/bd-illustration-024-hd.png",
+        "png-hd/no-text/bd-illustration-024-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-025-hd.png",
+      "sha256": "0981c1d6d5e3fc5c8c94ffbd4cf4c59e73cb79797101ccf5dbe7aebada8ff4e9",
+      "bytes": 2719746,
+      "previous_paths": [
+        "HD/bd-illustration-025-hd.png",
+        "png-hd/no-text/bd-illustration-025-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-026-hd.png",
+      "sha256": "017b58d2d938910943d50d689915f90b333a60ec3c2e5fcba8b4a6667b88cb01",
+      "bytes": 2899871,
+      "previous_paths": [
+        "HD/bd-illustration-026-hd.png",
+        "png-hd/no-text/bd-illustration-026-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-027-hd.png",
+      "sha256": "b97ebe6e66615b1c711a29c303a8585d6994c13a7f19a773ae96a71b5a299a32",
+      "bytes": 2893942,
+      "previous_paths": [
+        "HD/bd-illustration-027-hd.png",
+        "png-hd/no-text/bd-illustration-027-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-028-hd.png",
+      "sha256": "839f67409625924b4b38a7e6a584d01011ad0649ebdb4de968d927c0046a1f55",
+      "bytes": 2992003,
+      "previous_paths": [
+        "HD/bd-illustration-028-hd.png",
+        "png-hd/no-text/bd-illustration-028-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-029-hd.png",
+      "sha256": "d8c599e5cb1878e7086fb91d43d72fc9e6d315d297dd3fd5c18679e57c2b0494",
+      "bytes": 2862893,
+      "previous_paths": [
+        "HD/bd-illustration-029-hd.png",
+        "png-hd/no-text/bd-illustration-029-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-030-hd.png",
+      "sha256": "864539d2361294ed930eeaf2e6796efbadbfa049bbc8a7fb68bb171d672eafd0",
+      "bytes": 2896027,
+      "previous_paths": [
+        "HD/bd-illustration-030-hd.png",
+        "png-hd/no-text/bd-illustration-030-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-031-hd.png",
+      "sha256": "90d8e9f8668480d3f6995c9ac24d669af9ca054ad8513227a3a46c7fb327f2df",
+      "bytes": 1963740,
+      "previous_paths": [
+        "HD/bd-illustration-031-hd.png",
+        "png-hd/no-text/bd-illustration-031-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-032-hd.png",
+      "sha256": "aedfec58fe60c3330d0ad886fe0ed13bcc1ede4fc8591e35329aebd3219c935b",
+      "bytes": 2365133,
+      "previous_paths": [
+        "HD/bd-illustration-032-hd.png",
+        "png-hd/no-text/bd-illustration-032-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-033-hd.png",
+      "sha256": "a4bf3269b31b0544506bad7d84ac5bb806155ce08346ff2870b0d4349d681bf7",
+      "bytes": 2573820,
+      "previous_paths": [
+        "HD/bd-illustration-033-hd.png",
+        "png-hd/no-text/bd-illustration-033-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-034-hd.png",
+      "sha256": "6530b1bfdabdde895d65df9ff4f44922b62661482fbb4eb781086419ec874b13",
+      "bytes": 2565049,
+      "previous_paths": [
+        "HD/bd-illustration-034-hd copy.png",
+        "HD/bd-illustration-034-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-034-hd copy.png",
+        "png-hd/no-text/bd-illustration-034-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-001-hd.png",
+      "sha256": "116832283ae491df02bcea29ad7d649afe92874ee4721e27ba96531de3641939",
+      "bytes": 2240708,
+      "previous_paths": [
+        "HD/bd-illustration-v-001-hd.png",
+        "HD/hd-png-2/bd-illustration-v-001-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-001-hd.png",
+        "png-hd/no-text/bd-illustration-v-001-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-002-hd.png",
+      "sha256": "d84761862f8ca67133991b51de99ec685abb4b0eb096ac144a556666e021e803",
+      "bytes": 2380038,
+      "previous_paths": [
+        "HD/bd-illustration-v-002-hd.png",
+        "HD/hd-png-2/bd-illustration-v-002-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-002-hd.png",
+        "png-hd/no-text/bd-illustration-v-002-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-003-hd.png",
+      "sha256": "0e901c480664aefd301bc1c82fb42071f044e5cb2b5e63c825790c635a709b0b",
+      "bytes": 2787872,
+      "previous_paths": [
+        "HD/bd-illustration-v-003-hd.png",
+        "HD/hd-png-2/bd-illustration-v-003-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-003-hd.png",
+        "png-hd/no-text/bd-illustration-v-003-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-004-hd.png",
+      "sha256": "984b5d701e9e45147d0737da699d52086f99a9c8b6bc8f4a40a445c2d75e0080",
+      "bytes": 2960116,
+      "previous_paths": [
+        "HD/bd-illustration-v-004-hd.png",
+        "HD/hd-png-2/bd-illustration-v-004-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-004-hd.png",
+        "png-hd/no-text/bd-illustration-v-004-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-005-hd.png",
+      "sha256": "a5301448a164b2833e92f186d289b266cbd2bdd63cb39fbfedfe8116e7c16513",
+      "bytes": 3049953,
+      "previous_paths": [
+        "HD/bd-illustration-v-005-hd.png",
+        "HD/hd-png-2/bd-illustration-v-005-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-005-hd.png",
+        "png-hd/no-text/bd-illustration-v-005-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-006-hd.png",
+      "sha256": "43688428d41b56c25f02aa472de8d48b84533eda7b0853b5b6d64902be041374",
+      "bytes": 3213010,
+      "previous_paths": [
+        "HD/bd-illustration-v-006-hd.png",
+        "HD/hd-png-2/bd-illustration-v-006-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-006-hd.png",
+        "png-hd/no-text/bd-illustration-v-006-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-007-hd.png",
+      "sha256": "524447ca77d417f664ad8d2c9edd639c75c1eaf360dbb3b96d0ad5eae8a9b0e7",
+      "bytes": 2863289,
+      "previous_paths": [
+        "HD/bd-illustration-v-007-hd.png",
+        "HD/hd-png-2/bd-illustration-v-007-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-007-hd.png",
+        "png-hd/no-text/bd-illustration-v-007-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-008-hd.png",
+      "sha256": "823409b634f5a75b73938329699ea7547a474dd1de4164dc45c8786dfbe9a108",
+      "bytes": 2165047,
+      "previous_paths": [
+        "HD/bd-illustration-v-008-hd.png",
+        "HD/hd-png-2/bd-illustration-v-008-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-008-hd.png",
+        "png-hd/no-text/bd-illustration-v-008-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-009-hd.png",
+      "sha256": "932a4bd0008a7c12d5ad7bc05f61770305c8c162dc1f85e17191a30c7150da8b",
+      "bytes": 2138483,
+      "previous_paths": [
+        "HD/bd-illustration-v-009-hd.png",
+        "HD/hd-png-2/bd-illustration-v-009-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-009-hd.png",
+        "png-hd/no-text/bd-illustration-v-009-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-010-hd.png",
+      "sha256": "e2b2c54ce06f718930d826fa55b2f965210f44f5062b6229c8e6080563d4734a",
+      "bytes": 3205498,
+      "previous_paths": [
+        "HD/bd-illustration-v-010-hd.png",
+        "HD/hd-png-2/bd-illustration-v-010-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-010-hd.png",
+        "png-hd/no-text/bd-illustration-v-010-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-011-hd.png",
+      "sha256": "26a2bc076a484fba1dc93c9f73679a8ac9ca0e7f7ac7bf1ba486aa788bc59c6a",
+      "bytes": 2048238,
+      "previous_paths": [
+        "HD/bd-illustration-v-011-hd.png",
+        "HD/hd-png-2/bd-illustration-v-011-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-011-hd.png",
+        "png-hd/no-text/bd-illustration-v-011-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-012-hd.png",
+      "sha256": "9c5adbe0a2943f3aed54456d52c92bc986d790b391ea6c33ba9c84893053b73e",
+      "bytes": 1865456,
+      "previous_paths": [
+        "HD/bd-illustration-v-012-hd.png",
+        "HD/hd-png-2/bd-illustration-v-012-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-012-hd.png",
+        "png-hd/no-text/bd-illustration-v-012-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-013-hd.png",
+      "sha256": "2131714239c4ce56b7e7f065310070f09c55159af1033a6ce78ad3e73f05d3b7",
+      "bytes": 2048902,
+      "previous_paths": [
+        "HD/bd-illustration-v-013-hd.png",
+        "HD/hd-png-2/bd-illustration-v-013-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-013-hd.png",
+        "png-hd/no-text/bd-illustration-v-013-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-014-hd.png",
+      "sha256": "e0710cbee4de1e98579541c02373cd9c792f0fc625287edd60433bfefc40c99a",
+      "bytes": 2102545,
+      "previous_paths": [
+        "HD/bd-illustration-v-014-hd.png",
+        "HD/hd-png-2/bd-illustration-v-014-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-014-hd.png",
+        "png-hd/no-text/bd-illustration-v-014-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-015-hd.png",
+      "sha256": "3f0471ed432a708c25783d667b491bb73a926ce289e3d24215f4559c39c3a9c7",
+      "bytes": 1778853,
+      "previous_paths": [
+        "HD/bd-illustration-v-015-hd.png",
+        "HD/hd-png-2/bd-illustration-v-015-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-015-hd.png",
+        "png-hd/no-text/bd-illustration-v-015-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-016-hd.png",
+      "sha256": "fa93db122fb1a654f3b4ea2a4578481e7ae135374e71e7c5eb21732c3e704c38",
+      "bytes": 2409112,
+      "previous_paths": [
+        "HD/bd-illustration-v-016-hd.png",
+        "HD/hd-png-2/bd-illustration-v-016-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-016-hd.png",
+        "png-hd/no-text/bd-illustration-v-016-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-017-hd.png",
+      "sha256": "296eb372b63d35710fdcaca45e235346050141bf23c06f49b5d77231e321057c",
+      "bytes": 2159327,
+      "previous_paths": [
+        "HD/bd-illustration-v-017-hd.png",
+        "HD/hd-png-2/bd-illustration-v-017-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-017-hd.png",
+        "png-hd/no-text/bd-illustration-v-017-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-018-hd.png",
+      "sha256": "35a3e41d605c98c5c40ebef17597d9b799cf7a89d66dc07bf4e9f39da9111cbd",
+      "bytes": 2371967,
+      "previous_paths": [
+        "HD/bd-illustration-v-018-hd.png",
+        "HD/hd-png-2/bd-illustration-v-018-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-018-hd.png",
+        "png-hd/no-text/bd-illustration-v-018-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-019-hd.png",
+      "sha256": "67961242e0280bcca7e34abb64fdac98dac39635a58f6544bd7a2d6461664b82",
+      "bytes": 1959058,
+      "previous_paths": [
+        "HD/bd-illustration-v-019-hd.png",
+        "HD/hd-png-2/bd-illustration-v-019-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-019-hd.png",
+        "png-hd/no-text/bd-illustration-v-019-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-020-hd.png",
+      "sha256": "3bd875de77e3c56aa7c9ddfc86b20df7f9bb2c5379a4c70e4f6bfaf24a83b3a7",
+      "bytes": 1594742,
+      "previous_paths": [
+        "HD/bd-illustration-v-020-hd.png",
+        "HD/hd-png-2/bd-illustration-v-020-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-020-hd.png",
+        "png-hd/no-text/bd-illustration-v-020-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-021-hd.png",
+      "sha256": "457cab4b2cf806b4b8c0acb09257351b302640e7c5fdacfb1c30280415f0d302",
+      "bytes": 1658376,
+      "previous_paths": [
+        "HD/bd-illustration-v-021-hd.png",
+        "HD/hd-png-2/bd-illustration-v-021-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-021-hd.png",
+        "png-hd/no-text/bd-illustration-v-021-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-022-hd.png",
+      "sha256": "3fb3e1fb706032ec931e5b725b5c9242cdc3f805c549f056cbe727853c5b75b2",
+      "bytes": 2002134,
+      "previous_paths": [
+        "HD/bd-illustration-v-022-hd.png",
+        "HD/hd-png-2/bd-illustration-v-022-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-022-hd.png",
+        "png-hd/no-text/bd-illustration-v-022-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-023-hd.png",
+      "sha256": "da053e7c0d2c63f05a6f829d17b98515faf3361ffa489fe99c72ce46757e2de7",
+      "bytes": 2170904,
+      "previous_paths": [
+        "HD/bd-illustration-v-023-hd.png",
+        "HD/hd-png-2/bd-illustration-v-023-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-023-hd.png",
+        "png-hd/no-text/bd-illustration-v-023-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-024-hd.png",
+      "sha256": "df141fb0b2324ab4d1e8709dbce4482bd931f54b7e40cad38b258265c0726665",
+      "bytes": 2337727,
+      "previous_paths": [
+        "HD/bd-illustration-v-024-hd.png",
+        "HD/hd-png-2/bd-illustration-v-024-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-024-hd.png",
+        "png-hd/no-text/bd-illustration-v-024-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-025-hd.png",
+      "sha256": "8b2dfcd2d4cd17a49c4661bda8232ae291c5cfacac7caac3b16d0fe940c0f256",
+      "bytes": 1880880,
+      "previous_paths": [
+        "HD/bd-illustration-v-025-hd.png",
+        "HD/hd-png-2/bd-illustration-v-025-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-025-hd.png",
+        "png-hd/no-text/bd-illustration-v-025-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-026-hd.png",
+      "sha256": "3778e3f2712d9156a080cf19a536dbadc39e5ddbd045f705546689d722c884f4",
+      "bytes": 3014453,
+      "previous_paths": [
+        "HD/bd-illustration-v-026-hd.png",
+        "HD/hd-png-2/bd-illustration-v-026-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-026-hd.png",
+        "png-hd/no-text/bd-illustration-v-026-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-027-hd.png",
+      "sha256": "22e68995aa0d703379839f39503af1e607562cedba42fde5720625b45604599f",
+      "bytes": 2077242,
+      "previous_paths": [
+        "HD/bd-illustration-v-027-hd.png",
+        "HD/hd-png-2/bd-illustration-v-027-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-027-hd.png",
+        "png-hd/no-text/bd-illustration-v-027-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-028-hd.png",
+      "sha256": "eaa184b18a03156fe0a34d1873c2fb6a6e4536e2ca2c6117db28001ef343abae",
+      "bytes": 1918812,
+      "previous_paths": [
+        "HD/bd-illustration-v-028-hd.png",
+        "HD/hd-png-2/bd-illustration-v-028-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-028-hd.png",
+        "png-hd/no-text/bd-illustration-v-028-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-029-hd.png",
+      "sha256": "19e50ababca589cc750b4e17be77b1772f67a00369f41a590ed9c66c480b26b6",
+      "bytes": 1712170,
+      "previous_paths": [
+        "HD/bd-illustration-v-029-hd.png",
+        "HD/hd-png-2/bd-illustration-v-029-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-029-hd.png",
+        "png-hd/no-text/bd-illustration-v-029-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-030-hd.png",
+      "sha256": "a21e1d80d74c627d47991827ae879504806ca8833d872ebfe2b32dc04aa63e1d",
+      "bytes": 1748452,
+      "previous_paths": [
+        "HD/bd-illustration-v-030-hd.png",
+        "HD/hd-png-2/bd-illustration-v-030-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-030-hd.png",
+        "png-hd/no-text/bd-illustration-v-030-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-031-hd.png",
+      "sha256": "e9388f9b11c5d12e9db8eceb8aadc881ea804358fe99e62da1fccbe796eed4bd",
+      "bytes": 2512676,
+      "previous_paths": [
+        "HD/bd-illustration-v-031-hd.png",
+        "HD/hd-png-2/bd-illustration-v-031-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-031-hd.png",
+        "png-hd/no-text/bd-illustration-v-031-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-032-hd.png",
+      "sha256": "4cfd8750a2ec39f13312268a7568d94201101a23976fee2c44a85661420e67d3",
+      "bytes": 2248722,
+      "previous_paths": [
+        "HD/bd-illustration-v-032-hd.png",
+        "HD/hd-png-2/bd-illustration-v-032-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-032-hd.png",
+        "png-hd/no-text/bd-illustration-v-032-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-033-hd.png",
+      "sha256": "5182d016b3306b56dc83e5e26a55e751f04815dd301cc3dbfca8695a99aa5f42",
+      "bytes": 1684523,
+      "previous_paths": [
+        "HD/bd-illustration-v-033-hd.png",
+        "HD/hd-png-2/bd-illustration-v-033-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-033-hd.png",
+        "png-hd/no-text/bd-illustration-v-033-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-034-hd.png",
+      "sha256": "de2a2f57f798aceec8e8b0f614643e72f1b2aef42b5c0d07b62b9e014c2a6cda",
+      "bytes": 2775207,
+      "previous_paths": [
+        "HD/bd-illustration-v-034-hd.png",
+        "HD/hd-png-2/bd-illustration-v-034-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-034-hd.png",
+        "png-hd/no-text/bd-illustration-v-034-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-035-hd.png",
+      "sha256": "5608bdf7410cf25f657fce721a0fe1b5ae7424d8f7b3ca43467f4595c3785b1a",
+      "bytes": 1481417,
+      "previous_paths": [
+        "HD/bd-illustration-v-035-hd.png",
+        "HD/hd-png-2/bd-illustration-v-035-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-035-hd.png",
+        "png-hd/no-text/bd-illustration-v-035-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-036-hd.png",
+      "sha256": "4bb4b3959416f1c63604597eb2bd6fc301138c9b0d4967f1b1e75de27e646041",
+      "bytes": 2200846,
+      "previous_paths": [
+        "HD/bd-illustration-v-036-hd.png",
+        "HD/hd-png-2/bd-illustration-v-036-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-036-hd.png",
+        "png-hd/no-text/bd-illustration-v-036-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-037-hd.png",
+      "sha256": "d71e7aa73359d7bfc764a66bccd84cc9322d6e8c8b23ca121f750a93a1f2f7bc",
+      "bytes": 1770946,
+      "previous_paths": [
+        "HD/bd-illustration-v-037-hd.png",
+        "HD/hd-png-2/bd-illustration-v-037-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-037-hd.png",
+        "png-hd/no-text/bd-illustration-v-037-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-038-hd.png",
+      "sha256": "9328707a71cc4c0f3fef7523b3cee7a104d5f35c3352654d9d2dcf0f23aa383e",
+      "bytes": 1405162,
+      "previous_paths": [
+        "HD/bd-illustration-v-038-hd.png",
+        "HD/hd-png-2/bd-illustration-v-038-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-038-hd.png",
+        "png-hd/no-text/bd-illustration-v-038-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-039-hd.png",
+      "sha256": "63376be2c4634d21d5ffe2f0bd746a1940db83068e58f8de5eafa70f607111cc",
+      "bytes": 2191896,
+      "previous_paths": [
+        "HD/bd-illustration-v-039-hd.png",
+        "HD/hd-png-2/bd-illustration-v-039-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-039-hd.png",
+        "png-hd/no-text/bd-illustration-v-039-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-040-hd.png",
+      "sha256": "ce9940106501748c34cde9cd74b4c6d384d3294e52c622eff06d4ed4a724eadf",
+      "bytes": 2077659,
+      "previous_paths": [
+        "HD/bd-illustration-v-040-hd.png",
+        "HD/hd-png-2/bd-illustration-v-040-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-040-hd.png",
+        "png-hd/no-text/bd-illustration-v-040-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-041-hd.png",
+      "sha256": "6043903af9684ec814738fe8085db700b10de09f17507191dad6fe9af62c33ee",
+      "bytes": 2151378,
+      "previous_paths": [
+        "HD/bd-illustration-v-041-hd.png",
+        "HD/hd-png-2/bd-illustration-v-041-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-041-hd.png",
+        "png-hd/no-text/bd-illustration-v-041-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-042-hd.png",
+      "sha256": "18ce7a6320ca05689c0e232133643a792aad5b5260e7e1ac39cd3df1708e86b5",
+      "bytes": 726912,
+      "previous_paths": [
+        "HD/bd-illustration-v-042-hd.png",
+        "HD/hd-png-2/bd-illustration-v-042-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-042-hd.png",
+        "png-hd/no-text/bd-illustration-v-042-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-043-hd.png",
+      "sha256": "7c3263b1d7a2a33ce8ae47538905716e037b80f7a905ace8bf732e4a6b0cfb76",
+      "bytes": 1693313,
+      "previous_paths": [
+        "HD/bd-illustration-v-043-hd.png",
+        "HD/hd-png-2/bd-illustration-v-043-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-043-hd.png",
+        "png-hd/no-text/bd-illustration-v-043-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-044-hd.png",
+      "sha256": "4ecb0a3c75a99b4bbc7ee6dce50d1cffb0641d42100e9a91e8f1da07325a8279",
+      "bytes": 1804448,
+      "previous_paths": [
+        "HD/bd-illustration-v-044-hd.png",
+        "HD/hd-png-2/bd-illustration-v-044-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-044-hd.png",
+        "png-hd/no-text/bd-illustration-v-044-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-045-hd.png",
+      "sha256": "726556b4d7a0bac4b05695ee6d17beb26ea9e810fe1a6ea2181ab9963effb1f7",
+      "bytes": 2135648,
+      "previous_paths": [
+        "HD/bd-illustration-v-045-hd.png",
+        "HD/hd-png-2/bd-illustration-v-045-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-045-hd.png",
+        "png-hd/no-text/bd-illustration-v-045-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-046-hd.png",
+      "sha256": "e0c5cc3777c0cf0eced54d5997164985727f72bdbd443bcaf629c1cff2dfaafc",
+      "bytes": 1615342,
+      "previous_paths": [
+        "HD/bd-illustration-v-046-hd.png",
+        "HD/hd-png-2/bd-illustration-v-046-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-046-hd.png",
+        "png-hd/no-text/bd-illustration-v-046-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-047-hd.png",
+      "sha256": "452021741a649b3fe55299eb5dc69521e19869905cc1dbeb6314100279ff578b",
+      "bytes": 1819127,
+      "previous_paths": [
+        "HD/bd-illustration-v-047-hd.png",
+        "HD/hd-png-2/bd-illustration-v-047-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-047-hd.png",
+        "png-hd/no-text/bd-illustration-v-047-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-048-hd.png",
+      "sha256": "62f5ae3d70839854c7697016308ec671e745b91247b8d32e4a8ea62a2af62bee",
+      "bytes": 2962221,
+      "previous_paths": [
+        "HD/bd-illustration-v-048-hd.png",
+        "HD/hd-png-2/bd-illustration-v-048-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-048-hd.png",
+        "png-hd/no-text/bd-illustration-v-048-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-049-hd.png",
+      "sha256": "44ffa2ed85c9d6d0dd3a01d2383e040d524b4a298c479dc2cbc60bd58ee4a2f4",
+      "bytes": 2272526,
+      "previous_paths": [
+        "HD/bd-illustration-v-049-hd.png",
+        "HD/hd-png-2/bd-illustration-v-049-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-049-hd.png",
+        "png-hd/no-text/bd-illustration-v-049-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-050-hd.png",
+      "sha256": "9f5e81eb736f1e8f96866a44cc1e3e8ba2e5737e026c74ea20b46a306881f4d3",
+      "bytes": 2020154,
+      "previous_paths": [
+        "HD/bd-illustration-v-050-hd.png",
+        "HD/hd-png-2/bd-illustration-v-050-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-050-hd.png",
+        "png-hd/no-text/bd-illustration-v-050-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-051-hd.png",
+      "sha256": "caeb3411d982f32998658d72b0ddf906a5ac6daf50a476896d5e439874a6d54c",
+      "bytes": 2360336,
+      "previous_paths": [
+        "HD/bd-illustration-v-051-hd.png",
+        "HD/hd-png-2/bd-illustration-v-051-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-051-hd.png",
+        "png-hd/no-text/bd-illustration-v-051-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-052-hd.png",
+      "sha256": "3a859d13278ef8f6aa0d7677dde63b10a16079f7e18ad5946fa1a32c7ddc0f27",
+      "bytes": 1750465,
+      "previous_paths": [
+        "HD/bd-illustration-v-052-hd.png",
+        "HD/hd-png-2/bd-illustration-v-052-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-052-hd.png",
+        "png-hd/no-text/bd-illustration-v-052-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-053-hd.png",
+      "sha256": "c1dc40d25e607139928bd9bffe86bcfff05bfd60d8c545f57139deb13c398373",
+      "bytes": 2435031,
+      "previous_paths": [
+        "HD/bd-illustration-v-053-hd.png",
+        "HD/hd-png-2/bd-illustration-v-053-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-053-hd.png",
+        "png-hd/no-text/bd-illustration-v-053-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-054-hd.png",
+      "sha256": "9cd506c7c46ff4ed1ecb9f8148370fc49fe406f6784d7436189923761b11b6c6",
+      "bytes": 2881756,
+      "previous_paths": [
+        "HD/bd-illustration-v-054-hd.png",
+        "HD/hd-png-2/bd-illustration-v-054-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-054-hd.png",
+        "png-hd/no-text/bd-illustration-v-054-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-055-hd.png",
+      "sha256": "5b5d5f12edcbb90a5db732fc8e672fcb5fea7d98fe05a4ce2faa52d4dd45150a",
+      "bytes": 3116300,
+      "previous_paths": [
+        "HD/bd-illustration-v-055-hd.png",
+        "HD/hd-png-2/bd-illustration-v-055-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-055-hd.png",
+        "png-hd/no-text/bd-illustration-v-055-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-056-hd.png",
+      "sha256": "8e0174143e8b57b35aea4bec8a5eaea139e55848466e557e90a36cfbe8352c58",
+      "bytes": 3954316,
+      "previous_paths": [
+        "HD/bd-illustration-v-056-hd.png",
+        "HD/hd-png-2/bd-illustration-v-056-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-056-hd.png",
+        "png-hd/no-text/bd-illustration-v-056-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-057-hd.png",
+      "sha256": "46c59b8f8d01153a3f6dc6660592ffb5baea0a8a7e1b6a84bca7e763245d3130",
+      "bytes": 2336709,
+      "previous_paths": [
+        "HD/bd-illustration-v-057-hd.png",
+        "HD/hd-png-2/bd-illustration-v-057-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-057-hd.png",
+        "png-hd/no-text/bd-illustration-v-057-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-058-hd.png",
+      "sha256": "dff752e8b6dbea9449de122bc83f64ce9d798e15330a3c3b9c2b3497054aa033",
+      "bytes": 2079485,
+      "previous_paths": [
+        "HD/bd-illustration-v-058-hd.png",
+        "HD/hd-png-2/bd-illustration-v-058-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-058-hd.png",
+        "png-hd/no-text/bd-illustration-v-058-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-059-hd.png",
+      "sha256": "4f3e363563e0e8267cddfe5362855362206849b663b68b77ab16e85ae2822042",
+      "bytes": 2125005,
+      "previous_paths": [
+        "HD/bd-illustration-v-059-hd.png",
+        "HD/hd-png-2/bd-illustration-v-059-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-059-hd.png",
+        "png-hd/no-text/bd-illustration-v-059-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-060-hd.png",
+      "sha256": "a1fe5f0588322942eab9dd0154ca675173c13617c7d37b74137a42ef4b251e88",
+      "bytes": 2000192,
+      "previous_paths": [
+        "HD/bd-illustration-v-060-hd.png",
+        "HD/hd-png-2/bd-illustration-v-060-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-060-hd.png",
+        "png-hd/no-text/bd-illustration-v-060-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-061-hd.png",
+      "sha256": "65e876d886202ccdb6f8e12bfb5054a4c4e64aaadfe08a220e8848d4a8d8d93f",
+      "bytes": 1988445,
+      "previous_paths": [
+        "HD/bd-illustration-v-061-hd.png",
+        "HD/hd-png-2/bd-illustration-v-061-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-061-hd.png",
+        "png-hd/no-text/bd-illustration-v-061-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-062-hd.png",
+      "sha256": "d0f1b3f0faad8639fd8ded91695a73257a9f8ddb4299fd1ec6686b390dc7c253",
+      "bytes": 1443697,
+      "previous_paths": [
+        "HD/bd-illustration-v-062-hd.png",
+        "HD/hd-png-2/bd-illustration-v-062-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-062-hd.png",
+        "png-hd/no-text/bd-illustration-v-062-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-063-hd.png",
+      "sha256": "0c4f51fa259b2acb7cdf02bc23b7cb4ec15ad8640fa2761f061c99d6f15c062f",
+      "bytes": 2430473,
+      "previous_paths": [
+        "HD/bd-illustration-v-063-hd.png",
+        "HD/hd-png-2/bd-illustration-v-063-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-063-hd.png",
+        "png-hd/no-text/bd-illustration-v-063-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-064-hd.png",
+      "sha256": "fa032e7b1f65b320bbddd576ccc36dcbda63f6d65ab64c1f68519f6aad235ebb",
+      "bytes": 1754378,
+      "previous_paths": [
+        "HD/bd-illustration-v-064-hd.png",
+        "HD/hd-png-2/bd-illustration-v-064-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-064-hd.png",
+        "png-hd/no-text/bd-illustration-v-064-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-065-hd.png",
+      "sha256": "c243c98a15b40169ab4c6a5ba5d0cf74114f96d34480d016e46911fdf9eebd8b",
+      "bytes": 2657195,
+      "previous_paths": [
+        "HD/bd-illustration-v-065-hd.png",
+        "HD/hd-png-2/bd-illustration-v-065-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-065-hd.png",
+        "png-hd/no-text/bd-illustration-v-065-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-066-hd.png",
+      "sha256": "de2f02b4f77d385899dc066ef6ff785570c28bb692cc0a1427b0e0dc514ec3b4",
+      "bytes": 2132019,
+      "previous_paths": [
+        "HD/bd-illustration-v-066-hd.png",
+        "HD/hd-png-2/bd-illustration-v-066-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-066-hd.png",
+        "png-hd/no-text/bd-illustration-v-066-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-067-hd.png",
+      "sha256": "82d5e04102d2f81a2acbe94254d1bd9e39d528d1d156c90c1672bb816213af1d",
+      "bytes": 2921497,
+      "previous_paths": [
+        "HD/bd-illustration-v-067-hd.png",
+        "HD/hd-png-2/bd-illustration-v-067-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-067-hd.png",
+        "png-hd/no-text/bd-illustration-v-067-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-068-hd.png",
+      "sha256": "af582e333325dd7dd47bf350db8e4bcdc76413c3cb6dc10e9c157027d59691af",
+      "bytes": 2660756,
+      "previous_paths": [
+        "HD/bd-illustration-v-068-hd.png",
+        "HD/hd-png-2/bd-illustration-v-068-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-068-hd.png",
+        "png-hd/no-text/bd-illustration-v-068-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-069-hd.png",
+      "sha256": "f385f957cc608739de357be4f4d2c494dcd446e8a5a89c3e41ce85e478ec5436",
+      "bytes": 2655437,
+      "previous_paths": [
+        "HD/bd-illustration-v-069-hd.png",
+        "HD/hd-png-2/bd-illustration-v-069-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-069-hd.png",
+        "png-hd/no-text/bd-illustration-v-069-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-070-hd.png",
+      "sha256": "85410027b1161c75c2e295139335dcc1085e389cc9468f7b01417662982ca71a",
+      "bytes": 2870175,
+      "previous_paths": [
+        "HD/bd-illustration-v-070-hd.png",
+        "HD/hd-png-2/bd-illustration-v-070-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-070-hd.png",
+        "png-hd/no-text/bd-illustration-v-070-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-071-hd.png",
+      "sha256": "6312235cb4233fbf048fa5652fe709e3953e29053d248fe52b2df6a7229eade1",
+      "bytes": 2153241,
+      "previous_paths": [
+        "HD/bd-illustration-v-071-hd.png",
+        "HD/hd-png-2/bd-illustration-v-071-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-071-hd.png",
+        "png-hd/no-text/bd-illustration-v-071-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-072-hd.png",
+      "sha256": "6087915252bab287afbe73f3bf93883c7d1899122926cb4337717230da0f4bbd",
+      "bytes": 2030250,
+      "previous_paths": [
+        "HD/bd-illustration-v-072-hd.png",
+        "HD/hd-png-2/bd-illustration-v-072-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-072-hd.png",
+        "png-hd/no-text/bd-illustration-v-072-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-073-hd.png",
+      "sha256": "aadfca88096c5b36018f4a04431c97fcd182617e9c8280680e0f0d21c3007651",
+      "bytes": 2649060,
+      "previous_paths": [
+        "HD/bd-illustration-v-073-hd.png",
+        "HD/hd-png-2/bd-illustration-v-073-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-073-hd.png",
+        "png-hd/no-text/bd-illustration-v-073-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-074-hd.png",
+      "sha256": "3687d776d6002adbd3e1bad6a16278d8ba05f74f7e4ca7aefb88b5de8d05fb2b",
+      "bytes": 2073067,
+      "previous_paths": [
+        "HD/bd-illustration-v-074-hd.png",
+        "HD/hd-png-2/bd-illustration-v-074-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-074-hd.png",
+        "png-hd/no-text/bd-illustration-v-074-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-075-hd.png",
+      "sha256": "4b3ec859c7d5377f9933a9105de5419c3acdd1aa15ca0b8db5572bfb7779499b",
+      "bytes": 2503702,
+      "previous_paths": [
+        "HD/bd-illustration-v-075-hd.png",
+        "HD/hd-png-2/bd-illustration-v-075-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-075-hd.png",
+        "png-hd/no-text/bd-illustration-v-075-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-076-hd.png",
+      "sha256": "d9bf399158c15215bb37a46424031523540a75642f4491e6cc27f6a8dd98beda",
+      "bytes": 1908344,
+      "previous_paths": [
+        "HD/bd-illustration-v-076-hd.png",
+        "HD/hd-png-2/bd-illustration-v-076-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-076-hd.png",
+        "png-hd/no-text/bd-illustration-v-076-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-077-hd.png",
+      "sha256": "b459383c66af2f4163d3b5c8aa6c9e4be4f3af428f585448993ce98ec90e6d7f",
+      "bytes": 3026127,
+      "previous_paths": [
+        "HD/bd-illustration-v-077-hd.png",
+        "HD/hd-png-2/bd-illustration-v-077-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-077-hd.png",
+        "png-hd/no-text/bd-illustration-v-077-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-078-hd.png",
+      "sha256": "ed3053961ce33c55a5d07fb0c66543238e724087d831dbb87e00b5c40c132ecf",
+      "bytes": 2258659,
+      "previous_paths": [
+        "HD/bd-illustration-v-078-hd.png",
+        "HD/hd-png-2/bd-illustration-v-078-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-078-hd.png",
+        "png-hd/no-text/bd-illustration-v-078-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-079-hd.png",
+      "sha256": "0cfe3ffbfc92d391867b9bd7ecdd3b066094407cd9b03ead1f10b1b754e73d17",
+      "bytes": 2096095,
+      "previous_paths": [
+        "HD/bd-illustration-v-079-hd.png",
+        "HD/hd-png-2/bd-illustration-v-079-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-079-hd.png",
+        "png-hd/no-text/bd-illustration-v-079-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-080-hd.png",
+      "sha256": "7695e87e596aa8e76486aa7d8e1e3e81f384a9d17e2acf3394d4dbadc0a4b23a",
+      "bytes": 2352706,
+      "previous_paths": [
+        "HD/bd-illustration-v-080-hd.png",
+        "HD/hd-png-2/bd-illustration-v-080-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-080-hd.png",
+        "png-hd/no-text/bd-illustration-v-080-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-081-hd.png",
+      "sha256": "6a9d74842715bafa1a58a96c042431ad2c1913e9422c48b0a9cf6e15ab0d62f8",
+      "bytes": 2942135,
+      "previous_paths": [
+        "HD/bd-illustration-v-081-hd.png",
+        "HD/hd-png-2/bd-illustration-v-081-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-081-hd.png",
+        "png-hd/no-text/bd-illustration-v-081-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-082-hd.png",
+      "sha256": "d209e17577418146606c0023a0ce358487f47cd2c35f95bfadf78c26ff511fc0",
+      "bytes": 2046484,
+      "previous_paths": [
+        "HD/bd-illustration-v-082-hd.png",
+        "HD/hd-png-2/bd-illustration-v-082-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-082-hd.png",
+        "png-hd/no-text/bd-illustration-v-082-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-083-hd.png",
+      "sha256": "512184727d5421d1c223fa26527da965af6eb9bf60ffb8f95285254dc418d912",
+      "bytes": 2170000,
+      "previous_paths": [
+        "HD/bd-illustration-v-083-hd.png",
+        "HD/hd-png-2/bd-illustration-v-083-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-083-hd.png",
+        "png-hd/no-text/bd-illustration-v-083-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-084-hd.png",
+      "sha256": "af464b9c76993ba30f958075ecefac1cb3c1752d002619dd6fd87c055f5dfef4",
+      "bytes": 1882755,
+      "previous_paths": [
+        "HD/bd-illustration-v-084-hd.png",
+        "HD/hd-png-2/bd-illustration-v-084-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-084-hd.png",
+        "png-hd/no-text/bd-illustration-v-084-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-085-hd.png",
+      "sha256": "e68dd5559bbc83f9f39c272db5d8ae08df1f7445e0fad50b67945f320ca08d54",
+      "bytes": 2064169,
+      "previous_paths": [
+        "HD/bd-illustration-v-085-hd.png",
+        "HD/hd-png-2/bd-illustration-v-085-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-085-hd.png",
+        "png-hd/no-text/bd-illustration-v-085-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-086-hd.png",
+      "sha256": "f74eb662b6ab19b22576d66ce6e31029c107abcd13c04847c4389a8e1dca36e1",
+      "bytes": 1935569,
+      "previous_paths": [
+        "HD/bd-illustration-v-086-hd.png",
+        "HD/hd-png-2/bd-illustration-v-086-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-086-hd.png",
+        "png-hd/no-text/bd-illustration-v-086-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-087-hd.png",
+      "sha256": "d08f0a50eb9150960e0cd54c7dd9978dbdcf510dc4df18a1f4b990fd3230e6fc",
+      "bytes": 2481567,
+      "previous_paths": [
+        "HD/bd-illustration-v-087-hd.png",
+        "HD/hd-png-2/bd-illustration-v-087-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-087-hd.png",
+        "png-hd/no-text/bd-illustration-v-087-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-088-hd.png",
+      "sha256": "d666f0bbd266870354c6f9e325cf9fad75cc03194afbfa2845c2f5fc5baf1bec",
+      "bytes": 2535985,
+      "previous_paths": [
+        "HD/bd-illustration-v-088-hd.png",
+        "HD/hd-png-2/bd-illustration-v-088-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-088-hd.png",
+        "png-hd/no-text/bd-illustration-v-088-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-089-hd.png",
+      "sha256": "6da5dadbffec4bb14e3938add5f7690f16c679b6122476743c94140fca0a7e95",
+      "bytes": 2711492,
+      "previous_paths": [
+        "HD/bd-illustration-v-089-hd.png",
+        "HD/hd-png-2/bd-illustration-v-089-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-089-hd.png",
+        "png-hd/no-text/bd-illustration-v-089-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-090-hd.png",
+      "sha256": "56e347893ee385eb410bd3f9a81cc1bcde6e58b45d5f79960379249e03958b2f",
+      "bytes": 2233636,
+      "previous_paths": [
+        "HD/bd-illustration-v-090-hd.png",
+        "HD/hd-png-2/bd-illustration-v-090-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-090-hd.png",
+        "png-hd/no-text/bd-illustration-v-090-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-091-hd.png",
+      "sha256": "a9bf87b5f232feb7bab99a01c8c36fe8a45bf15efe5fc3841a791621e8d85679",
+      "bytes": 1654569,
+      "previous_paths": [
+        "HD/bd-illustration-v-091-hd.png",
+        "HD/hd-png-2/bd-illustration-v-091-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-091-hd.png",
+        "png-hd/no-text/bd-illustration-v-091-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-092-hd.png",
+      "sha256": "803d5595131a53fded17ad79ac02b9db6455c234a0aa1d6d3f2ebaf57b0838bc",
+      "bytes": 2071173,
+      "previous_paths": [
+        "HD/bd-illustration-v-092-hd.png",
+        "HD/hd-png-2/bd-illustration-v-092-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-092-hd.png",
+        "png-hd/no-text/bd-illustration-v-092-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-093-hd.png",
+      "sha256": "3398fb346d62010a7dff2436985a1164e2e8d6428654f079fba0677f43b47dc4",
+      "bytes": 2419527,
+      "previous_paths": [
+        "HD/bd-illustration-v-093-hd.png",
+        "HD/hd-png-2/bd-illustration-v-093-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-093-hd.png",
+        "png-hd/no-text/bd-illustration-v-093-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-094-hd.png",
+      "sha256": "b3840baf9091c9e74f20f94bf48ddc25b3bd4bdd025380a5b05394988fbbc00d",
+      "bytes": 2512075,
+      "previous_paths": [
+        "HD/bd-illustration-v-094-hd.png",
+        "HD/hd-png-2/bd-illustration-v-094-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-094-hd.png",
+        "png-hd/no-text/bd-illustration-v-094-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-095-hd.png",
+      "sha256": "4ca99ab6b3d55d21a1265d39790ee81c2382bcc3b729fe5a6b74d85d00b8029b",
+      "bytes": 2577183,
+      "previous_paths": [
+        "HD/bd-illustration-v-095-hd.png",
+        "HD/hd-png-2/bd-illustration-v-095-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-095-hd.png",
+        "png-hd/no-text/bd-illustration-v-095-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-096-hd.png",
+      "sha256": "be3e746da3de581d999edba209a9fcbeda385fddd06ba346b9d5814d03c3264f",
+      "bytes": 2610443,
+      "previous_paths": [
+        "HD/bd-illustration-v-096-hd.png",
+        "HD/hd-png-2/bd-illustration-v-096-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-096-hd.png",
+        "png-hd/no-text/bd-illustration-v-096-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-097-hd.png",
+      "sha256": "d7b8c09812039646bad33768781c64616dd88277c83960e2a71f748106268586",
+      "bytes": 2898119,
+      "previous_paths": [
+        "HD/bd-illustration-v-097-hd.png",
+        "HD/hd-png-2/bd-illustration-v-097-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-097-hd.png",
+        "png-hd/no-text/bd-illustration-v-097-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-098-hd.png",
+      "sha256": "8787fe43caaf31d6e784a636c2084b5528cd53131146bb18c9bf29d3579b6d1e",
+      "bytes": 2852375,
+      "previous_paths": [
+        "HD/bd-illustration-v-098-hd.png",
+        "HD/hd-png-2/bd-illustration-v-098-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-098-hd.png",
+        "png-hd/no-text/bd-illustration-v-098-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-099-hd.png",
+      "sha256": "ccef17ca54b1d3f70ddef5e372fd499ae1b3292708d92e56ecf778bd00734e0f",
+      "bytes": 2704820,
+      "previous_paths": [
+        "HD/bd-illustration-v-099-hd.png",
+        "HD/hd-png-2/bd-illustration-v-099-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-099-hd.png",
+        "png-hd/no-text/bd-illustration-v-099-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-100-hd.png",
+      "sha256": "d9cab93700f657c947bec2d1366f17169927aa76b0047c070691a68b5acc2059",
+      "bytes": 1834926,
+      "previous_paths": [
+        "HD/bd-illustration-v-100-hd.png",
+        "HD/hd-png-2/bd-illustration-v-100-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-100-hd.png",
+        "png-hd/no-text/bd-illustration-v-100-hd.png"
+      ]
+    },
+    {
+      "current_path": "png/bd-illustration-v-101-hd.png",
+      "sha256": "b61d216d174dc6ae89f6c56615eb188063883173e91fae9dbedd22de8cb3cdb8",
+      "bytes": 2538211,
+      "previous_paths": [
+        "HD/bd-illustration-v-101-hd.png",
+        "HD/hd-png-2/bd-illustration-v-101-hd.png",
+        "duplicates/png-hd/no-text/bd-illustration-v-101-hd.png",
+        "png-hd/no-text/bd-illustration-v-101-hd.png"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-001.svg",
+      "sha256": "3ad39ddfcaf41f1f0e4abb9f7da305dffa9067edda15cb0897cfa40cd5825727",
+      "bytes": 4483861,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-001.svg",
+        "SVG/svg-not-text/bd-illustration-001.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-002.svg",
+      "sha256": "f5dba663b1cc1c163e0b894a9d9581fa03b2772ee9471ef35c839411bee6d363",
+      "bytes": 4523057,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-002.svg",
+        "SVG/svg-not-text/bd-illustration-002.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-003.svg",
+      "sha256": "354fab35b5e7024f9f62769043a47d63aed128545434e063a8c0e915b75b4826",
+      "bytes": 4827181,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-003.svg",
+        "SVG/svg-not-text/bd-illustration-003.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-004.svg",
+      "sha256": "616edb059c0eda4d76c09666bbbe35d39e8bd4dfcbec52b64ab35c6ca21f77c4",
+      "bytes": 6541218,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-004.svg",
+        "SVG/svg-not-text/bd-illustration-004.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-005.svg",
+      "sha256": "d3c2dc6beb9f47643646a80cbcc92e2964619d02acf7e7ca244919180cb5a8f5",
+      "bytes": 5693962,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-005.svg",
+        "SVG/svg-not-text/bd-illustration-005.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-006.svg",
+      "sha256": "cbf97a904a4ac70c2e7aafc821e9fa0d0afd62d2e2e0122f6d5150958519dfb3",
+      "bytes": 5511946,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-006.svg",
+        "SVG/svg-not-text/bd-illustration-006.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-007.svg",
+      "sha256": "a066cc537f8d5edad787e0e0a198fd51c7f14e7e3819ae7d097f1fb6b4821cbd",
+      "bytes": 5327999,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-007.svg",
+        "SVG/svg-not-text/bd-illustration-007.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-008.svg",
+      "sha256": "86b9fcee889c629dd49c4c24d574b6751be6881ebfb3d8f53571c71ff5ea0984",
+      "bytes": 4323704,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-008.svg",
+        "SVG/svg-not-text/bd-illustration-008.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-009.svg",
+      "sha256": "fe918022f9c9c7685d87c6a8b3e75105d547f99f0192e86be51beb25ffa359be",
+      "bytes": 5116964,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-009.svg",
+        "SVG/svg-not-text/bd-illustration-009.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-010.svg",
+      "sha256": "924ee144b645d3a448c2b3cb2ea8b98e81868e7c1ba75b94eca602efeea262ee",
+      "bytes": 4460789,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-010.svg",
+        "SVG/svg-not-text/bd-illustration-010.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-011.svg",
+      "sha256": "d099a1a5dd38e22f19edaddc3adaecf9244bf5bc32748c0d3bd12ef1ca7d0bca",
+      "bytes": 3882799,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-011.svg",
+        "SVG/svg-not-text/bd-illustration-011.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-012.svg",
+      "sha256": "3f3ca443d0b5cb49ef9cf68c85d61974b924b5b734cb9f2f0abd9cf14acdd7cc",
+      "bytes": 4819954,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-012.svg",
+        "SVG/svg-not-text/bd-illustration-012.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-013.svg",
+      "sha256": "b29173946f1ea25362b26ca9fdc9a7295b80ed64529cc80608b22a1894b7790a",
+      "bytes": 4963694,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-013.svg",
+        "SVG/svg-not-text/bd-illustration-013.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-014.svg",
+      "sha256": "7d264a74541f8d1da2a757650fc70912a290b174ebcd62e4b04c406944308628",
+      "bytes": 5031429,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-014.svg",
+        "SVG/svg-not-text/bd-illustration-014.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-015.svg",
+      "sha256": "275cdcbab0e20e2a4cf04848f95883e2282514b12638ad8e1a710acc8800704f",
+      "bytes": 4996334,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-015.svg",
+        "SVG/svg-not-text/bd-illustration-015.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-016.svg",
+      "sha256": "f7c88c18f131d3d194fc1719c1827f75c3cd39e83cdaa9239334c873d7c91763",
+      "bytes": 5073893,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-016.svg",
+        "SVG/svg-not-text/bd-illustration-016.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-017.svg",
+      "sha256": "a8c66668f6093d5e7821e34590cc87bf9492b6b256c707f450ceb3762e2ebe3b",
+      "bytes": 4691416,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-017.svg",
+        "SVG/svg-not-text/bd-illustration-017.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-018.svg",
+      "sha256": "b8c9cd81a4a066870dd6004764c1325b1cdb02ac44da453f2b20fae955f395b1",
+      "bytes": 4839117,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-018.svg",
+        "SVG/svg-not-text/bd-illustration-018.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-019.svg",
+      "sha256": "555bda0dae74e2f41418c56e0e06b25ea830c80252279189a65739cb98adfcf6",
+      "bytes": 4732900,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-019.svg",
+        "SVG/svg-not-text/bd-illustration-019.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-020.svg",
+      "sha256": "cf3714bd731322d896ba886cf149e50be9cb4ec9cc045f11885c8f60ddd13e1b",
+      "bytes": 4429903,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-020.svg",
+        "SVG/svg-not-text/bd-illustration-020.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-021.svg",
+      "sha256": "44fc226adec72645970132ff96240be9c06d885ed5982e3ceb13f9f7672fd120",
+      "bytes": 5148751,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-021.svg",
+        "SVG/svg-not-text/bd-illustration-021.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-022.svg",
+      "sha256": "3e0d5c5bf6b34082fad867781ad5b6e0e0ed6ed00beea22d5815ea259c7f1600",
+      "bytes": 5230920,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-022.svg",
+        "SVG/svg-not-text/bd-illustration-022.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-023.svg",
+      "sha256": "0d348315d3a8d12e82c0be9e846c36415ec39413a9fcd93886e74f4cd735b060",
+      "bytes": 4452276,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-023.svg",
+        "SVG/svg-not-text/bd-illustration-023.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-024.svg",
+      "sha256": "3b51d6a2f5093ed882cb2159ccbad4455e53bbb9816f32111762fad3bb65441a",
+      "bytes": 4490566,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-024.svg",
+        "SVG/svg-not-text/bd-illustration-024.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-025.svg",
+      "sha256": "4d06b4d314169b157c4dab9b9b6502ad026df9b8ec0372ba42187d04c0e0a8e0",
+      "bytes": 5168438,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-025.svg",
+        "SVG/svg-not-text/bd-illustration-025.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-026.svg",
+      "sha256": "935a225e69d3c68da49f64fd00f13a3512a8d995cda146b70d0ef5e7dbc909c0",
+      "bytes": 5660377,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-026.svg",
+        "SVG/svg-not-text/bd-illustration-026.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-027.svg",
+      "sha256": "0f9de3af62283495f8ac9104fcf19d58ec93e026d8a492e130a00e6749997321",
+      "bytes": 5680418,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-027.svg",
+        "SVG/svg-not-text/bd-illustration-027.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-028.svg",
+      "sha256": "f2735ce37af98524e339a5d0efc16e3220ae5966467f659cc429756733d9c652",
+      "bytes": 5986239,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-028.svg",
+        "SVG/svg-not-text/bd-illustration-028.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-029.svg",
+      "sha256": "9b51d50a9d0e0a08a35c597576a062adf805d87412e90bca23451e5cd3c4e292",
+      "bytes": 5574410,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-029.svg",
+        "SVG/svg-not-text/bd-illustration-029.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-030.svg",
+      "sha256": "ef7f7d36812cc18e65f8807ff4e5f72c808b184aba49554dd400acc6f08509f5",
+      "bytes": 5781123,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-030.svg",
+        "SVG/svg-not-text/bd-illustration-030.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-031.svg",
+      "sha256": "bb1b8147fde727cb13f2b051b248270f545ef7803f2795288d94b1a0d91aee6f",
+      "bytes": 3371263,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-031.svg",
+        "SVG/svg-not-text/bd-illustration-031.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-032.svg",
+      "sha256": "353f365b6d44dff172fadb7b958569aff6ffb4fa7d898f63fd15990578ecaac4",
+      "bytes": 4407614,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-032.svg",
+        "SVG/svg-not-text/bd-illustration-032.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-033.svg",
+      "sha256": "730e175397b3eb20005eb16c7885f8277e191e7fdbf7b80e5a474ed60b1dfc8e",
+      "bytes": 4734095,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-033.svg",
+        "SVG/svg-not-text/bd-illustration-033.svg"
+      ]
+    },
+    {
+      "current_path": "svg/bd-illustration-034.svg",
+      "sha256": "fb3aa1a652d2e5bc63ffab06579180415e62b6141057e72b3b2855add3004e32",
+      "bytes": 4880460,
+      "previous_paths": [
+        "SVG/no-text/bd-illustration-034.svg",
+        "SVG/svg-not-text/bd-illustration-034.svg"
+      ]
+    }
+  ]
+}

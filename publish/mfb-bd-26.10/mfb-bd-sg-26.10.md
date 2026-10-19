@@ -31,7 +31,7 @@ Our work is independent, community-driven, and Bitcoin-focused. We focus on fina
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-025
 ALT: The educator welcomes the beginner, older learner, business owner, technical learner, and young learner into a shared learning group.
-ASSET: assets/illustrations/bd-illustration-025.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-025.png
 -->
 
 ### Our mission: independent, open-source Bitcoin education
@@ -151,7 +151,7 @@ You will learn more by participating than by reading silently. Some questions do
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-033
 ALT: The business owner points to a simple diagram in an open guide while the educator discusses it with her at a classroom table.
-ASSET: assets/illustrations/bd-illustration-033.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-033.png
 -->
 
 ### Discussion and [privacy](https://programs.myfirstbitcoin.org/lexicon/en/#privacy) expectations
@@ -177,7 +177,7 @@ Your educator uses an assessment grid to record one result for each of the seven
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-001
 ALT: The educator responds to the beginner learner's raised hand while the older learner follows along with an open course guide.
-ASSET: assets/illustrations/bd-illustration-001.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-001.png
 -->
 
 ### Required prior knowledge: none
@@ -287,7 +287,7 @@ As you discuss these questions, notice the difference between a fact and an opin
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-026
 ALT: All six characters gather around classroom tables as the educator leads a shared reading from an open course guide.
-ASSET: assets/illustrations/bd-illustration-026.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-026.png
 -->
 
 ### Why money exists
@@ -352,7 +352,7 @@ ASSET: assets/briefs/bd-v-008-brief.md
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-028
 ALT: All six characters collaborate on an offline teaching-card activity while the educator guides the discussion.
-ASSET: assets/illustrations/bd-illustration-028.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-028.png
 -->
 
 ### [Barter](https://programs.myfirstbitcoin.org/lexicon/en/#barter-bartering) and the [double coincidence of wants](https://programs.myfirstbitcoin.org/lexicon/en/#double-coincidence-of-wants)
@@ -759,7 +759,7 @@ ASSET: assets/briefs/bd-v-026-brief.md
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-002
 ALT: The educator points to a network on a classroom screen while the beginner and technical learners discuss it at a desk.
-ASSET: assets/illustrations/bd-illustration-002.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-002.png
 -->
 
 ### [Digital signatures](https://programs.myfirstbitcoin.org/lexicon/en/#digital-signature)
@@ -817,7 +817,7 @@ Some people perform several roles. A [miner](https://programs.myfirstbitcoin.org
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-003
 ALT: The educator guides the technical learner at a node computer, with the monitor facing them and its rear casing visible to the viewer.
-ASSET: assets/illustrations/bd-illustration-003.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-003.png
 -->
 
 ### [Proof of work](https://programs.myfirstbitcoin.org/lexicon/en/#proof-of-work)
@@ -848,7 +848,7 @@ ASSET: assets/briefs/bd-v-032-brief.md
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-004
 ALT: The educator, beginner learner, and technical learner discuss a tabletop mining unit with a fan and separate power supply.
-ASSET: assets/illustrations/bd-illustration-004.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-004.png
 -->
 
 ### Finite supply
@@ -1109,7 +1109,7 @@ Compare [custody](https://programs.myfirstbitcoin.org/lexicon/en/#custody), reco
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-005
 ALT: The educator demonstrates a training phone while the beginner and older learners examine their own devices.
-ASSET: assets/illustrations/bd-illustration-005.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-005.png
 -->
 
 ### Addresses
@@ -1260,7 +1260,7 @@ ASSET: assets/briefs/bd-v-041-brief.md
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-006
 ALT: The educator helps the older and technical learners compare a phone, a hardware wallet, and a laptop.
-ASSET: assets/illustrations/bd-illustration-006.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-006.png
 -->
 
 ### Wallet recovery and [seed phrase](https://programs.myfirstbitcoin.org/lexicon/en/#seed-phrase-recovery-phrase) testing
@@ -1308,7 +1308,7 @@ A message or screenshot that says “sent” is not proof. What evidence can you
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-007
 ALT: The older learner presents a training phone while the beginner checks another phone and the educator guides the comparison.
-ASSET: assets/illustrations/bd-illustration-007.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-007.png
 -->
 
 ### Sending bitcoin
@@ -1339,7 +1339,7 @@ If the destination changes unexpectedly, the request becomes urgent, or anyone a
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-008
 ALT: The educator guides the beginner learner as they compare a phone with the business owner's receiving device before approving a payment.
-ASSET: assets/illustrations/bd-illustration-008.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-008.png
 -->
 
 ### [Verification](https://programs.myfirstbitcoin.org/lexicon/en/#verification), [block explorers](https://programs.myfirstbitcoin.org/lexicon/en/#block-explorer), and irreversible [transactions](https://programs.myfirstbitcoin.org/lexicon/en/#transaction-tx)
@@ -1363,7 +1363,7 @@ ASSET: assets/briefs/bd-v-046-brief.md
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-009
 ALT: The educator and older learner discuss a prepared example on a monitor facing the group while the technical learner operates the mouse; the viewer sees the rear casing.
-ASSET: assets/illustrations/bd-illustration-009.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-009.png
 -->
 
 ### Safety checklist
@@ -1459,7 +1459,7 @@ Imagine that a prepared scenario offers both payment paths. Which request can th
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-010
 ALT: The educator points to two different geometric payment paths on a board while the beginner and technical learners consider them.
-ASSET: assets/illustrations/bd-illustration-010.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-010.png
 -->
 
 ### Practical competency check observed by an educator
@@ -1587,7 +1587,7 @@ The result of your workshop should be an explanation or skill, not only a comple
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-031
 ALT: The educator and business owner practise with a training phone together, both looking at the screen facing them.
-ASSET: assets/illustrations/bd-illustration-031.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-031.png
 -->
 
 ### Local Bitcoin tools and resources
@@ -1774,7 +1774,7 @@ For a live practice, use a low-value item or a simulation. The learner should be
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-011
 ALT: The beginner and business owner check separate phones beside groceries on a counter as the educator guides the practice.
-ASSET: assets/illustrations/bd-illustration-011.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-011.png
 -->
 
 ### Local [on-ramp](https://programs.myfirstbitcoin.org/lexicon/en/#on-ramp) and [off-ramp](https://programs.myfirstbitcoin.org/lexicon/en/#off-ramp) pathways
@@ -1876,7 +1876,7 @@ The strongest local loop solves a real problem for more than one participant. It
 
 <!-- ILLUSTRATION: BD-ILLUSTRATION-012
 ALT: The educator facilitates a discussion with the beginner, older learner, and business owner around guides, a phone, and everyday goods.
-ASSET: assets/illustrations/bd-illustration-012.png
+ASSET: assets/illustrations/png/no-text/bd-illustration-012.png
 -->
 
 ### Merchant or community use cases
