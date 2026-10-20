@@ -22,5 +22,6 @@
 /.codex-git-tmp/
 /.codex-tmp/
 /.tmp/
+/tmp/
 /.tmp-codex-git/
 /.asset-tools/

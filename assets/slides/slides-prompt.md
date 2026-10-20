@@ -15,14 +15,14 @@ This prompt contains the authoring rules, formatting examples, and publishing re
 - Deliver Markdown suitable for the MFB slide import pipeline. HTML, a standalone PDF, or a PPTX does not satisfy this requirement: the Markdown source is needed for translation and synchronization.
 - Use short, clear bullet points, key terms, and visual cues for student-facing summaries. Reserve full sentences for essential definitions, warnings, cautions, or source questions and activity instructions whose clarity requires them. Put all educator-only guidance in hidden speaker notes.
 - If the Student Guide cannot be accessed, request its content before generating the deck. The example below demonstrates formatting; it is not the complete curriculum.
-- Export only `slides/export/mfb-bd-26.10_(TIMESTAMP).md`, ready to hand over to Benoit. Replace the entire `(TIMESTAMP)` placeholder with the generation-time timestamp in `YYYYMMDD-HHmmss-SSS` format (24-hour time, including milliseconds), for example `slides/export/mfb-bd-26.10_20261019-143025-123.md`. Create the `slides/export/` directory if needed. Generate a fresh timestamp for every run; never overwrite a previous run's output. If the filename already exists, generate a new timestamp before exporting. Do not produce a series of prompt files, a separate handoff report, a coverage report, an asset manifest, or a review report.
+- Export only `assets/slides/export/mfb-bd-slides-26.10_(TIMESTAMP).md`, ready to hand over to Benoit. Replace the entire `(TIMESTAMP)` placeholder with the generation-time timestamp in `YYYYMMDD-HHmmss-SSS` format (24-hour time, including milliseconds), for example `assets/slides/export/mfb-bd-slides-26.10_20261019-143025-123.md`. Create the `assets/slides/export/` directory if needed. Generate a fresh timestamp for every run; never overwrite a previous run's output. If the filename already exists, generate a new timestamp before exporting. Do not produce a series of prompt files, a separate handoff report, a coverage report, an asset manifest, or a review report.
 - Begin the file with the deck's YAML front matter, without explanatory prose or outer code fences. Import commands and publishing instructions below are reference information for Benoit and must not be copied into the deck.
 - Clearly flagged placeholders for unavailable visuals are allowed in this export. Record the remaining visual work in hidden production comments on the affected slides. Benoit handles the remaining visual production, including hosting and micrographic placement where needed; do not make that work a prerequisite for handing over the Markdown file.
 - No separate review process, approval stage, rendered-slide review, or dry-import gate is required as part of this authoring task.
 
 ## Four Module Sections and Required Output File
 
-Create `slides/export/mfb-bd-26.10_(TIMESTAMP).md` containing these four sections in order, using the module titles from the Student Guide:
+Create `assets/slides/export/mfb-bd-slides-26.10_(TIMESTAMP).md` containing these four sections in order, using the module titles from the Student Guide:
 
 1. **Module 1: Understanding Money**.
 2. **Module 2: How Bitcoin Works**.
@@ -293,7 +293,7 @@ For a full-bleed SVG slide, add `<!-- layout: full-bleed -->`, a `![bg](...)` li
 
 ## Output Requirements
 
-The sole deliverable is **one compact Markdown file, `slides/export/mfb-bd-26.10_(TIMESTAMP).md`**, containing all four Student Guide modules in order, with the correct module titles, clear dividers, recognizable important headings, and concise coverage of the main points, source reviews and reflections, and cautions. Preserve necessary safety qualifications and important distinctions while avoiding unnecessary slides, repetition, or invented content. There is no fixed duration or slide-count target. Support educator adaptation for different audiences while keeping all visible content student-facing. Any necessary educator-only guidance belongs exclusively in hidden notes.
+The sole deliverable is **one compact Markdown file, `assets/slides/export/mfb-bd-slides-26.10_(TIMESTAMP).md`**, containing all four Student Guide modules in order, with the correct module titles, clear dividers, recognizable important headings, and concise coverage of the main points, source reviews and reflections, and cautions. Preserve necessary safety qualifications and important distinctions while avoiding unnecessary slides, repetition, or invented content. There is no fixed duration or slide-count target. Support educator adaptation for different audiences while keeping all visible content student-facing. Any necessary educator-only guidance belongs exclusively in hidden notes.
 
 Keep the slides light enough to support educator-led explanation rather than screen reading. Use short summary bullets and visual cues, with full sentences reserved for essential wording as specified above. The exported deck must remain a presentation aid that depends on an educator to deliver the lesson, not a standalone replacement for teaching.
 
@@ -308,7 +308,7 @@ These instructions are reference information for Benoit, who handles remaining v
 An optional technical dry import lists slide layouts without writing:
 
 ```sh
-pnpm mfb import-slides -f "slides/export/mfb-bd-26.10_(TIMESTAMP).md" -p bitcoin-diploma -l en --edition 26.10 --dry
+pnpm mfb import-slides -f "assets/slides/export/mfb-bd-slides-26.10_(TIMESTAMP).md" -p bitcoin-diploma -l en --edition 26.10 --dry
 ```
 
 This is an optional publishing aid, not a required review stage or a condition of Markdown delivery.
@@ -316,7 +316,7 @@ This is an optional publishing aid, not a required review stage or a condition o
 To create the deck in Sanity:
 
 ```sh
-pnpm mfb import-slides -f "slides/export/mfb-bd-26.10_(TIMESTAMP).md" -p bitcoin-diploma -l en --edition 26.10
+pnpm mfb import-slides -f "assets/slides/export/mfb-bd-slides-26.10_(TIMESTAMP).md" -p bitcoin-diploma -l en --edition 26.10
 ```
 
 Importing an edited file again requires `--replace`. This replaces **all** of the deck's slides with the slides in the file. Any slide edits made in the Studio since the previous import are lost.
