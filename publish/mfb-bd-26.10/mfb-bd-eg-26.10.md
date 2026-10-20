@@ -929,6 +929,13 @@ ASSET: assets/briefs/bd-v-056-brief.md
 USE: Shared Student Guide master.
 -->
 
+<!-- IMAGE PLACEMENT NOTE: Optional character reference
+ASSET: assets/reference/svg-character/bd-v-056-character.svg
+PLACE: Beside the Presentation, Practice, and Production descriptions above.
+USE: The three panels show Sara modelling a card sequence, guiding Luis through practice, and listening as he explains independently. Use this scene if it makes the change in educator support clearer; choose it or the process diagram rather than repeating the same teaching point with both. Keep the three stage labels in editable text beside the panels.
+ALT: Sara demonstrates a picture-card sequence, supports Luis as he practises, and then listens to his explanation.
+-->
+
 End with reflection:
 
 - What did you verify?
@@ -1302,6 +1309,13 @@ Teach [price inflation](https://programs.myfirstbitcoin.org/lexicon/en/#inflatio
 ALT: The same fixed currency amount buys a full basket at one illustrative date and less when the basket price rises; price level and purchasing power are distinct.
 ASSET: assets/briefs/bd-v-018-brief.md
 USE: Shared Student Guide master.
+-->
+
+<!-- IMAGE PLACEMENT NOTE: Optional character reference
+ASSET: assets/reference/svg-character/bd-v-018-character.svg
+PLACE: Beside the opening purchasing-power explanation, before the questions about causes of price changes.
+USE: Amina's fuller and smaller grocery baskets make the fixed-budget comparison visible. Ask what the same amount can buy in each scene. Add editable labels identifying the same budget and two illustrative dates; keep the distinction between this example and evidence of general inflation in the adjacent text.
+ALT: Amina compares a full grocery basket with a smaller basket of goods, with the same amount of cash beside each.
 -->
 
 Ask learners to identify possible causes of a [price](https://programs.myfirstbitcoin.org/lexicon/en/#price) change:
@@ -2129,6 +2143,13 @@ ASSET: assets/briefs/bd-v-091-brief.md
 USE: Educator-only diagram; see the asset index brief.
 -->
 
+<!-- IMAGE PLACEMENT NOTE: Optional character reference
+ASSET: assets/reference/svg-character/bd-v-091-character.svg
+PLACE: Beside the recovery-readiness simulation's private-work setup.
+USE: The privacy screen between Sara and Ernesto's work area illustrates how an educator can observe safe handling without seeing recovery information. Use it to discuss the room arrangement and camera boundary, while retaining the written recovery sequence. Choose this scene instead of the nearby general recovery-discussion illustration if the private setup needs emphasis.
+ALT: Ernesto works at a laptop behind a privacy screen while Sara stands outside the screened area with a picture card and guide.
+-->
+
 > **Callout – Treat an exposed seed phrase as compromised**
 >
 > If a real seed may have been exposed, stop using it as a safe backup, create a new trusted wallet with new recovery information, and move funds after carefully verifying the destination. The learner should seek help without revealing either phrase.
@@ -2323,6 +2344,13 @@ USE: Shared Student Guide master.
 -->
 
 #### Activity: scam stations
+
+<!-- IMAGE PLACEMENT NOTE: Optional character reference
+ASSET: assets/reference/svg-character/bd-v-047-character.svg
+PLACE: Beside the scam-stations instructions as a prompt for the immediate safe response.
+USE: Amina's raised palm and phone warning illustrate pausing when a suspicious request arrives. Pair the scene with one invented message and ask learners to explain the warning sign and independent verification route. The warning symbol is a discussion cue, not a feature that real scam messages reliably display.
+ALT: Amina raises an open palm while looking at a phone, with a warning symbol above it and a sealed envelope on the table.
+-->
 
 Place short invented scenarios around the room. At each station, learners record:
 
@@ -2925,6 +2953,13 @@ ASSET: assets/briefs/bd-v-065-brief.md
 USE: Shared Student Guide master.
 -->
 
+<!-- IMAGE PLACEMENT NOTE: Optional character reference
+ASSET: assets/reference/svg-character/bd-v-065-character.svg
+PLACE: Beside the opening local-loop mapping task.
+USE: The four-person payment loop can start the discussion of who earns and spends bitcoin. Ask learners to identify the exchange represented by each arrow, then add missing suppliers, conversion points, support, and failure points to their own map. Use this simplified scene only as a starting example; it does not show a complete or verified local economy.
+ALT: Sara, Luis, Ernesto, and Amina form a loop connected by bitcoin payment arrows, with guides, shoes, writing materials, and groceries indicating different activities.
+-->
+
 For resource discovery, verify:
 
 - when a listing was last checked
@@ -3330,6 +3365,13 @@ If equivalence is uncertain, use the adaptation for practice and select an asses
 ALT: Practice activities allow contextual and access adaptations. Assessment activities should preserve the competency, learner action, independence, safety, and minimum standard. Uncertain equivalence can return the activity to practice while the educator chooses a clearer route.
 ASSET: assets/briefs/bd-v-098-brief.md
 USE: Educator-only diagram; see the asset index brief.
+-->
+
+<!-- IMAGE PLACEMENT NOTE: Optional character reference
+ASSET: assets/reference/svg-character/bd-v-098-character.svg
+PLACE: Beside the requirement to preserve independence when adapting a practical activity for assessment.
+USE: The paired scenes contrast Sara guiding a card exercise with Luis making his own selection while Sara observes. Use them to ask what support must change when practice becomes assessment. Keep the competency and verification requirements in the text; selecting a picture card alone does not establish practical Bitcoin competency.
+ALT: Sara guides Luis through a picture-card exercise in one scene; in the next, Luis selects a card independently while Sara observes and takes notes.
 -->
 
 ---
